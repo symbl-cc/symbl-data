@@ -1,0 +1,156 @@
+control-character : Steuerzeichen
+basic-latin     : Basis-Lateinisch
+latin-1-supplement : Lateinisch-1, Ergänzung
+latin-extended-A : Lateinisch, erweitert-A
+latin-extended-B : Lateinisch, erweitert-B
+ipa-extensions  : IPA-Erweiterungen
+spacing-modifier-letters : Spacing Modifier Letters
+combining-diacritical-marks : Kombinierende diakritische Zeichen
+greek-coptic    : Griechisch und Koptisch
+cyrillic        : Kyrillisch
+cyrillic-supplement : Kyrillisch, Ergänzung
+armenian        : Armenisch
+hebrew          : Hebräisch
+arabic          : Arabisch
+syrian          : Syrisch
+arabic-supplement : Arabisch, Ergänzung
+thaana          : Thaana
+nko             : NKo
+samaritan       : Samaritanisch
+mandaic         : Mandäisch
+arabic-extended-a : Arabisch, erweitert-A
+devanagari      : Devanagari
+bengali         : Bengalisch
+gurmukhi        : Gurmukhi
+gujarati        : Gujarati
+oriya           : Oriya
+tamil           : Tamilisch
+telugu          : Telugu
+kannada         : Kannada
+malayalam       : Malayalam
+sinhala         : Singhalesisch
+thai            : Thailändisch
+lao             : Laotisch
+tibetan         : Tibetisch
+myanmar         : Birmanisch
+georgian        : Georgisch
+hangul-jamo     : Hangeul-Jamo
+ethiopic        : Äthiopisch
+ethiopic-supplement : Äthiopisch, Zusatz
+cherokee        : Cherokee
+unified-canadian-aboriginal-syllabics : Vereinh. Silbenzeichen kanad. Ureinwohner
+ogham           : Ogam
+runic           : Runen
+tagalog         : Tagalog
+hanunoo         : Hanunóo
+buhid           : Buid
+tagbanwa        : Tagbanuwa
+khmer           : Khmer
+mongolian       : Mongolisch
+unified-canadian-aboriginal-syllabics-extended : Vereinh. Silbenz. kanad. Ureinw., erw.
+limbu           : Limbu
+tai-le          : Tai Le
+new-tai-lue     : Neu-Tai-Lue
+khmer-symbols   : Khmer-Symbole
+buginese        : Buginesisch
+tai-tham        : Lanna
+balinese        : Balinesisch
+sundanese       : Sundanesisch
+batak           : Batak
+lepcha          : Lepcha
+ol-chiki        : Ol Chiki
+sundanese-supplement : Sundanesisch, Ergänzung
+vedic-extensions : Vedische Erweiterungen
+phonetic-extentions : Phonetische Erweiterungen
+phonetic-extentions-supplement : Phonetische Erweiterungen, Ergänzung
+combining-diacritical-marks-supplement : Komb. diakr. Zeichen, Ergänzung
+latin-extended-additional : Lateinisch, weiterer Zusatz
+greek-extended  : Griechisch, Zusatz
+general-punctuation : Allgemeine Interpunktion
+superscripts-and-subscripts : Hoch- und tiefgestellte Zeichen
+currency-symbols : Währungszeichen
+combining-diacritical-marks-for-symbols : Komb. diakr. Zeichen für Symbole
+letterlike-symbols : Buchstabenähnliche Symbole
+number-forms    : Zahlzeichen
+arrows          : Pfeile
+mathematical-operators : Mathematische Operatoren
+miscellaneous-technical : Verschiedene technische Zeichen
+control-pictures : Symbole für Steuerzeichen
+optical-character-recognition : Optische Zeichenerkennung
+enclosed-alphanumerics : Umschlossene alphanumerische Zeichen
+box-drawing     : Rahmenzeichnung
+block-elements  : Blockelemente
+geometric-shapes : Geometrische Formen
+miscellaneous-symbols : Verschiedene Symbole
+dingbats        : Dingbats
+miscellaneous-mathematical-symbols-a : Verschiedene mathematische Symbole-A
+suplemental-arrows-a : Zusätzliche Pfeile-A
+braille-patterns : Braille-Zeichen
+suplemental-arrows-b : Zusätzliche Pfeile-B
+miscellaneous-mathematical-symbols-b : Verschiedene mathematische Symbole-B
+supplemental-mathematical-operators : Zusätzliche Mathematische Operatoren
+miscellaneous-symbols-and-arrows : Verschiedene Symbole und Pfeile
+glagolitic      : Glagolitisch
+latin-extended-c : Lateinisch, erweitert-C
+coptic          : Koptisch
+georgian-supplement : Georgisch, Ergänzung
+tifinagh        : Tifinagh
+ethiopic-extended : Äthiopisch, erweitert
+cyrillic-extended : Kyrillisch, erweitert-A
+supplemental-punctuation : Zusätzliche Interpunktion
+cjk-radicals-supplement : CJK-Radikale, Ergänzung
+kangxi-radicals : Kangxi-Radikale
+ideographic-description-characters : Ideographische Beschreibungszeichen
+cjk-symbols-and-punctuation : CJK-Symbole und -Interpunktion
+hiragana        : Hiragana
+katakana        : Katakana
+bopomofo        : Bopomofo
+hangul-compatibility-jamo : Hangeul-Jamo, Kompatibilität
+kanbun          : Kanbun
+bopomofo-extended : Bopomofo, erweitert
+cjk-strokes     : CJK-Striche
+katakana-phonetic-extentions : Katakana, Phonetische Erweiterungen
+enclosed-cjk-letters-and-months : Umschlossene CJK-Zeichen und -Monate
+cjk-compatibility : CJK-Kompatibilität
+cjk-unified-ideographs-extension-a : Vereinheitlichte CJK-Ideogramme, Erweiterung A
+yijing-hexagram-symbols : I-Ging-Hexagramme
+cjk-unified-ideographs : Vereinheitlichte CJK-Ideogramme
+yi-syllables    : Yi-Silbenzeichen
+yi-radicals     : Yi-Radikale
+old-lisu-alphabet : Lisu
+vai-syllabary   : Vai
+ciryllic-extended-B : Kyrillisch, erweitert-B
+bamum           : Bamum
+modifier-tone-letters : Modifizierende Tonzeichen
+latin-extended-d : Lateinisch, erweitert-D
+syloty-nagri    : Syloti Nagri
+indian-numeric-character : Allgemeine indische Ziffern
+phags-pa        : Phagspa
+saurashtra      : Saurashtra
+devanagari-extended-characters : Devanagari, erweitert
+kayah-li        : Kayah Li
+rejang          : Rejang
+hangul          : Hangeul-Jamo, erweitert-A
+javanese-alphabet : Javanisch
+cham-alphabet   : Cham
+burmese-alphabet-extention-a : Birmanisch, erweitert-A
+tai-viet-alphabet : Tai Viet
+meitei-language-extentions : Meitei-Mayek, Erweiterungen
+ethiopic-extended-a : Äthiopisch, erweitert-A
+meitei-language : Meitei-Mayek
+hangul-syllables : Hangeul-Silbenzeichen
+high-surrogates : High Surrogates
+high-private-use-surrogates : High Surrogates (privater Bereich)
+low-surrogates  : Low Surrogates
+private-use-area : Private Use Zone
+cjk-compatibility-ideographs : CJK-Ideogramme, Kompatibilität
+alphabetic-presentation-forms : Alphabetische Präsentationsformen
+arabic-presentation-forms-a : Arabische Präsentationsformen-A
+variation-selectors : Variantenselektoren
+vertical-forms  : Vertikale Formen
+combining-half-marks : Kombinierende halbe diakritische Zeichen
+cjk-compatibility-forms : CJK-Kompatibilitätsformen
+small-form-variants : Kleine Formvarianten
+arabic-presentation-forms-b : Arabische Präsentationsformen-B
+halfwidth-and-fullwidth-forms : Halbbreite und vollbreite Formen
+specials        : Spezielles

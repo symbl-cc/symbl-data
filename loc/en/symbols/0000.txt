@@ -1,0 +1,256 @@
+0000 : Null
+0001 : Start of heading
+0002 : Start of text
+0003 : End of text
+0004 : End of transmission
+0005 : Enquiry
+0006 : Acknowledge
+0007 : Bell
+0008 : Backspace
+0009 : Character tabulation
+000A : Line feed (lf)
+000B : Line tabulation
+000C : Form feed (ff)
+000D : Carriage return (cr)
+000E : Shift out
+000F : Shift in
+0010 : Data link escape
+0011 : Device control one
+0012 : Device control two
+0013 : Device control three
+0014 : Device control four
+0015 : Negative acknowledge
+0016 : Synchronous idle
+0017 : End of transmission block
+0018 : Cancel
+0019 : End of medium
+001A : Substitute
+001B : Escape
+001C : Information separator four
+001D : Information separator three
+001E : Information separator two
+001F : Information separator one
+0020 : Space
+0021 : Exclamation mark
+0022 : Quotation mark
+0023 : Number sign
+0024 : Dollar sign
+0025 : Percent sign
+0026 : Ampersand
+0027 : Apostrophe
+0028 : Left parenthesis
+0029 : Right parenthesis
+002A : Asterisk
+002B : Plus sign
+002C : Comma
+002D : Hyphen-minus
+002E : Full stop
+002F : Solidus
+0030 : Digit zero
+0031 : Digit one
+0032 : Digit two
+0033 : Digit three
+0034 : Digit four
+0035 : Digit five
+0036 : Digit six
+0037 : Digit seven
+0038 : Digit eight
+0039 : Digit nine
+003A : Colon
+003B : Semicolon
+003C : Less-than sign
+003D : Equals sign
+003E : Greater-than sign
+003F : Question mark
+0040 : Commercial at
+0041 : Latin capital letter a
+0042 : Latin capital letter b
+0043 : Latin capital letter c
+0044 : Latin capital letter d
+0045 : Latin capital letter e
+0046 : Latin capital letter f
+0047 : Latin capital letter g
+0048 : Latin capital letter h
+0049 : Latin capital letter i
+004A : Latin capital letter j
+004B : Latin capital letter k
+004C : Latin capital letter l
+004D : Latin capital letter m
+004E : Latin capital letter n
+004F : Latin capital letter o
+0050 : Latin capital letter p
+0051 : Latin capital letter q
+0052 : Latin capital letter r
+0053 : Latin capital letter s
+0054 : Latin capital letter t
+0055 : Latin capital letter u
+0056 : Latin capital letter v
+0057 : Latin capital letter w
+0058 : Latin capital letter x
+0059 : Latin capital letter y
+005A : Latin capital letter z
+005B : Left square bracket
+005C : Reverse solidus
+005D : Right square bracket
+005E : Circumflex accent
+005F : Low line
+0060 : Grave accent
+0061 : Latin small letter a
+0062 : Latin small letter b
+0063 : Latin small letter c
+0064 : Latin small letter d
+0065 : Latin small letter e
+0066 : Latin small letter f
+0067 : Latin small letter g
+0068 : Latin small letter h
+0069 : Latin small letter i
+006A : Latin small letter j
+006B : Latin small letter k
+006C : Latin small letter l
+006D : Latin small letter m
+006E : Latin small letter n
+006F : Latin small letter o
+0070 : Latin small letter p
+0071 : Latin small letter q
+0072 : Latin small letter r
+0073 : Latin small letter s
+0074 : Latin small letter t
+0075 : Latin small letter u
+0076 : Latin small letter v
+0077 : Latin small letter w
+0078 : Latin small letter x
+0079 : Latin small letter y
+007A : Latin small letter z
+007B : Left curly bracket
+007C : Vertical line
+007D : Right curly bracket
+007E : Tilde
+007F : Delete
+0080 : &lt;control&gt;
+0081 : &lt;control&gt;
+0082 : Break permitted here
+0083 : No break here
+0084 : &lt;control&gt;
+0085 : Next line (nel)
+0086 : Start of selected area
+0087 : End of selected area
+0088 : Character tabulation set
+0089 : Character tabulation with justification
+008A : Line tabulation set
+008B : Partial line forward
+008C : Partial line backward
+008D : Reverse line feed
+008E : Single shift two
+008F : Single shift three
+0090 : Device control string
+0091 : Private use one
+0092 : Private use two
+0093 : Set transmit state
+0094 : Cancel character
+0095 : Message waiting
+0096 : Start of guarded area
+0097 : End of guarded area
+0098 : Start of string
+0099 : <control>
+009A : Single character introducer
+009B : Control sequence introducer
+009C : String terminator
+009D : Operating system command
+009E : Privacy message
+009F : Application program command
+00A0 : No-break space
+00A1 : Inverted exclamation mark
+00A2 : Cent sign
+00A3 : Pound sign
+00A4 : Currency sign
+00A5 : Yen sign
+00A6 : Broken bar
+00A7 : Section sign
+00A8 : Diaeresis
+00A9 : Copyright sign
+00AA : Feminine ordinal indicator
+00AB : Left-pointing double angle quotation mark
+00AC : Not sign
+00AD : Soft hyphen
+00AE : Registered sign
+00AF : Macron
+00B0 : Degree sign
+00B1 : Plus-minus sign
+00B2 : Superscript two
+00B3 : Superscript three
+00B4 : Acute accent
+00B5 : Micro sign
+00B6 : Pilcrow sign
+00B7 : Middle dot
+00B8 : Cedilla
+00B9 : Superscript one
+00BA : Masculine ordinal indicator
+00BB : Right-pointing double angle quotation mark
+00BC : Vulgar fraction one quarter
+00BD : Vulgar fraction one half
+00BE : Vulgar fraction three quarters
+00BF : Inverted question mark
+00C0 : Latin capital letter a with grave
+00C1 : Latin capital letter a with acute
+00C2 : Latin capital letter a with circumflex
+00C3 : Latin capital letter a with tilde
+00C4 : Latin capital letter a with diaeresis
+00C5 : Latin capital letter a with ring above
+00C6 : Latin capital letter ae
+00C7 : Latin capital letter c with cedilla
+00C8 : Latin capital letter e with grave
+00C9 : Latin capital letter e with acute
+00CA : Latin capital letter e with circumflex
+00CB : Latin capital letter e with diaeresis
+00CC : Latin capital letter i with grave
+00CD : Latin capital letter i with acute
+00CE : Latin capital letter i with circumflex
+00CF : Latin capital letter i with diaeresis
+00D0 : Latin capital letter eth
+00D1 : Latin capital letter n with tilde
+00D2 : Latin capital letter o with grave
+00D3 : Latin capital letter o with acute
+00D4 : Latin capital letter o with circumflex
+00D5 : Latin capital letter o with tilde
+00D6 : Latin capital letter o with diaeresis
+00D7 : Multiplication sign
+00D8 : Latin capital letter o with stroke
+00D9 : Latin capital letter u with grave
+00DA : Latin capital letter u with acute
+00DB : Latin capital letter u with circumflex
+00DC : Latin capital letter u with diaeresis
+00DD : Latin capital letter y with acute
+00DE : Latin capital letter thorn
+00DF : Latin small letter sharp s
+00E0 : Latin small letter a with grave
+00E1 : Latin small letter a with acute
+00E2 : Latin small letter a with circumflex
+00E3 : Latin small letter a with tilde
+00E4 : Latin small letter a with diaeresis
+00E5 : Latin small letter a with ring above
+00E6 : Latin small letter ae
+00E7 : Latin small letter c with cedilla
+00E8 : Latin small letter e with grave
+00E9 : Latin small letter e with acute
+00EA : Latin small letter e with circumflex
+00EB : Latin small letter e with diaeresis
+00EC : Latin small letter i with grave
+00ED : Latin small letter i with acute
+00EE : Latin small letter i with circumflex
+00EF : Latin small letter i with diaeresis
+00F0 : Latin small letter eth
+00F1 : Latin small letter n with tilde
+00F2 : Latin small letter o with grave
+00F3 : Latin small letter o with acute
+00F4 : Latin small letter o with circumflex
+00F5 : Latin small letter o with tilde
+00F6 : Latin small letter o with diaeresis
+00F7 : Division sign
+00F8 : Latin small letter o with stroke
+00F9 : Latin small letter u with grave
+00FA : Latin small letter u with acute
+00FB : Latin small letter u with circumflex
+00FC : Latin small letter u with diaeresis
+00FD : Latin small letter y with acute
+00FE : Latin small letter thorn
+00FF : Latin small letter y with diaeresis
