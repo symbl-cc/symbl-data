@@ -32,10 +32,59 @@ languages_list  : List of Languages
 languages_sections : Sections of language
 types_list      : List of Types
 countries_list  : List of Countries
-more            : more
+more            : More
 sets            : Character sets
 ny_symbols      : Christmas and NY symbols
 prev            : Prev
 next            : Next
 entity          : Entity
 search_overflow : Sorry, symbol U+%s is under construction :)
+feedback        : Feedback
+
+# __________________________________________________________
+#
+# FOOTER / МЕНЮ ПОДВАЛА
+# __________________________________________________________
+
+feedback        : Feedback
+github          : GitHub
+twitter         : Twitter
+join_us         : I want to join
+donate          : How to donate
+unicode         : Unicode
+about_unicode   : About Unicode
+unicode_history : Unicode history
+unicode_versions: Unicode versions
+broken_chars    : Some characters not displaying
+cyrillic        : Cyrillic
+fonts           : Fonts
+
+
+
+# __________________________________________________________
+#
+# TOOLS / ИНСТРУМЕНТЫ   http://unicode-table.com/tools/
+# __________________________________________________________
+
+tools           : Tools
+encoder         : Encoder
+encoder-desc    : Encodes characters into html-code and back
+encoder-plain   : Plain text
+encoder-full    : Full
+encoder-text    : Text
+encoder-entities: Encodes characters with entities
+encoder-br      : Encodes line breaks
+
+decoder         : Decoder
+decoder-desc    : Encodes characters into Unicode or decodes back
+decoder-example : This is an example
+decoder-code    : Unicode
+decoder-text    : Text
+
+flip            : Flip
+flip-desc       : Flip the Cyrillic and Latin characters upside down or backwards
+flip-plain      : Plain text
+flip-flipped    : Flipped text
+flip-backed     : Back to front text
+
+
