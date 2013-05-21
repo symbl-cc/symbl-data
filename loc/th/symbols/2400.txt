@@ -1,0 +1,256 @@
+2400 : Symbol for null
+2401 : Symbol for start of heading
+2402 : Symbol for start of text
+2403 : Symbol for end of text
+2404 : Symbol for end of transmission
+2405 : Symbol for enquiry
+2406 : Symbol for acknowledge
+2407 : Symbol for bell
+2408 : Symbol for backspace
+2409 : Symbol for horizontal tabulation
+240A : Symbol for line feed
+240B : Symbol for vertical tabulation
+240C : Symbol for form feed
+240D : Symbol for carriage return
+240E : Symbol for shift out
+240F : Symbol for shift in
+2410 : Symbol for data link escape
+2411 : Symbol for device control one
+2412 : Symbol for device control two
+2413 : Symbol for device control three
+2414 : Symbol for device control four
+2415 : Symbol for negative acknowledge
+2416 : Symbol for synchronous idle
+2417 : Symbol for end of transmission block
+2418 : Symbol for cancel
+2419 : Symbol for end of medium
+241A : Symbol for substitute
+241B : Symbol for escape
+241C : Symbol for file separator
+241D : Symbol for group separator
+241E : Symbol for record separator
+241F : Symbol for unit separator
+2420 : Symbol for space
+2421 : Symbol for delete
+2422 : Blank symbol
+2423 : Open box
+2424 : Symbol for newline
+2425 : Symbol for delete form two
+2426 : Symbol for substitute form two
+2427 : 
+2428 : 
+2429 : 
+242A : 
+242B : 
+242C : 
+242D : 
+242E : 
+242F : 
+2430 : 
+2431 : 
+2432 : 
+2433 : 
+2434 : 
+2435 : 
+2436 : 
+2437 : 
+2438 : 
+2439 : 
+243A : 
+243B : 
+243C : 
+243D : 
+243E : 
+243F : 
+2440 : Ocr hook
+2441 : Ocr chair
+2442 : Ocr fork
+2443 : Ocr inverted fork
+2444 : Ocr belt buckle
+2445 : Ocr bow tie
+2446 : Ocr branch bank identification
+2447 : Ocr amount of check
+2448 : Ocr dash
+2449 : Ocr customer account number
+244A : Ocr double backslash
+244B : 
+244C : 
+244D : 
+244E : 
+244F : 
+2450 : 
+2451 : 
+2452 : 
+2453 : 
+2454 : 
+2455 : 
+2456 : 
+2457 : 
+2458 : 
+2459 : 
+245A : 
+245B : 
+245C : 
+245D : 
+245E : 
+245F : 
+2460 : Circled digit one
+2461 : Circled digit two
+2462 : Circled digit three
+2463 : Circled digit four
+2464 : Circled digit five
+2465 : Circled digit six
+2466 : Circled digit seven
+2467 : Circled digit eight
+2468 : Circled digit nine
+2469 : Circled number ten
+246A : Circled number eleven
+246B : Circled number twelve
+246C : Circled number thirteen
+246D : Circled number fourteen
+246E : Circled number fifteen
+246F : Circled number sixteen
+2470 : Circled number seventeen
+2471 : Circled number eighteen
+2472 : Circled number nineteen
+2473 : Circled number twenty
+2474 : Parenthesized digit one
+2475 : Parenthesized digit two
+2476 : Parenthesized digit three
+2477 : Parenthesized digit four
+2478 : Parenthesized digit five
+2479 : Parenthesized digit six
+247A : Parenthesized digit seven
+247B : Parenthesized digit eight
+247C : Parenthesized digit nine
+247D : Parenthesized number ten
+247E : Parenthesized number eleven
+247F : Parenthesized number twelve
+2480 : Parenthesized number thirteen
+2481 : Parenthesized number fourteen
+2482 : Parenthesized number fifteen
+2483 : Parenthesized number sixteen
+2484 : Parenthesized number seventeen
+2485 : Parenthesized number eighteen
+2486 : Parenthesized number nineteen
+2487 : Parenthesized number twenty
+2488 : Digit one full stop
+2489 : Digit two full stop
+248A : Digit three full stop
+248B : Digit four full stop
+248C : Digit five full stop
+248D : Digit six full stop
+248E : Digit seven full stop
+248F : Digit eight full stop
+2490 : Digit nine full stop
+2491 : Number ten full stop
+2492 : Number eleven full stop
+2493 : Number twelve full stop
+2494 : Number thirteen full stop
+2495 : Number fourteen full stop
+2496 : Number fifteen full stop
+2497 : Number sixteen full stop
+2498 : Number seventeen full stop
+2499 : Number eighteen full stop
+249A : Number nineteen full stop
+249B : Number twenty full stop
+249C : Parenthesized latin small letter a
+249D : Parenthesized latin small letter b
+249E : Parenthesized latin small letter c
+249F : Parenthesized latin small letter d
+24A0 : Parenthesized latin small letter e
+24A1 : Parenthesized latin small letter f
+24A2 : Parenthesized latin small letter g
+24A3 : Parenthesized latin small letter h
+24A4 : Parenthesized latin small letter i
+24A5 : Parenthesized latin small letter j
+24A6 : Parenthesized latin small letter k
+24A7 : Parenthesized latin small letter l
+24A8 : Parenthesized latin small letter m
+24A9 : Parenthesized latin small letter n
+24AA : Parenthesized latin small letter o
+24AB : Parenthesized latin small letter p
+24AC : Parenthesized latin small letter q
+24AD : Parenthesized latin small letter r
+24AE : Parenthesized latin small letter s
+24AF : Parenthesized latin small letter t
+24B0 : Parenthesized latin small letter u
+24B1 : Parenthesized latin small letter v
+24B2 : Parenthesized latin small letter w
+24B3 : Parenthesized latin small letter x
+24B4 : Parenthesized latin small letter y
+24B5 : Parenthesized latin small letter z
+24B6 : Circled latin capital letter a
+24B7 : Circled latin capital letter b
+24B8 : Circled latin capital letter c
+24B9 : Circled latin capital letter d
+24BA : Circled latin capital letter e
+24BB : Circled latin capital letter f
+24BC : Circled latin capital letter g
+24BD : Circled latin capital letter h
+24BE : Circled latin capital letter i
+24BF : Circled latin capital letter j
+24C0 : Circled latin capital letter k
+24C1 : Circled latin capital letter l
+24C2 : Circled latin capital letter m
+24C3 : Circled latin capital letter n
+24C4 : Circled latin capital letter o
+24C5 : Circled latin capital letter p
+24C6 : Circled latin capital letter q
+24C7 : Circled latin capital letter r
+24C8 : Circled latin capital letter s
+24C9 : Circled latin capital letter t
+24CA : Circled latin capital letter u
+24CB : Circled latin capital letter v
+24CC : Circled latin capital letter w
+24CD : Circled latin capital letter x
+24CE : Circled latin capital letter y
+24CF : Circled latin capital letter z
+24D0 : Circled latin small letter a
+24D1 : Circled latin small letter b
+24D2 : Circled latin small letter c
+24D3 : Circled latin small letter d
+24D4 : Circled latin small letter e
+24D5 : Circled latin small letter f
+24D6 : Circled latin small letter g
+24D7 : Circled latin small letter h
+24D8 : Circled latin small letter i
+24D9 : Circled latin small letter j
+24DA : Circled latin small letter k
+24DB : Circled latin small letter l
+24DC : Circled latin small letter m
+24DD : Circled latin small letter n
+24DE : Circled latin small letter o
+24DF : Circled latin small letter p
+24E0 : Circled latin small letter q
+24E1 : Circled latin small letter r
+24E2 : Circled latin small letter s
+24E3 : Circled latin small letter t
+24E4 : Circled latin small letter u
+24E5 : Circled latin small letter v
+24E6 : Circled latin small letter w
+24E7 : Circled latin small letter x
+24E8 : Circled latin small letter y
+24E9 : Circled latin small letter z
+24EA : Circled digit zero
+24EB : Negative circled number eleven
+24EC : Negative circled number twelve
+24ED : Negative circled number thirteen
+24EE : Negative circled number fourteen
+24EF : Negative circled number fifteen
+24F0 : Negative circled number sixteen
+24F1 : Negative circled number seventeen
+24F2 : Negative circled number eighteen
+24F3 : Negative circled number nineteen
+24F4 : Negative circled number twenty
+24F5 : Double circled digit one
+24F6 : Double circled digit two
+24F7 : Double circled digit three
+24F8 : Double circled digit four
+24F9 : Double circled digit five
+24FA : Double circled digit six
+24FB : Double circled digit seven
+24FC : Double circled digit eight
+24FD : Double circled digit nine
+24FE : Double circled number ten
+24FF : Negative circled digit zero

@@ -1,0 +1,256 @@
+0000 : ไม่มี
+0001 : จุดเริ่มต้นของหัวเรื่อง
+0002 : จุดเริ่มต้นของข้อความ
+0003 : จุดสิ้นสุดของข้อความ
+0004 : จุดสิ้นสุดของการรับส่ง
+0005 : สอบถาม
+0006 : ยอมรับ
+0007 : ระฆัง
+0008 : ปุ่มย้อนถอยหลัง
+0009 : ตารางอักขระ
+000A : อักขระเลื่อน (lf)
+000B : เส้นตาราง
+000C : ป้อนแบบฟอร์ม (ff)
+000D : อักขระขึ้นบรรทัดใหม่ (cr)
+000E : เลื่อนออก
+000F : เลื่อนเข้า
+0010 : หลีกลิงก์ข้อมูล
+0011 : ควบคุมอุปกรณ์ 1
+0012 : ควบคุมอุปกรณ์ 2
+0013 : ควบคุมอุปกรณ์ 3
+0014 : ควบคุมอุปกรณ์ 4
+0015 : การยอมรับเชิงลบ
+0016 : ซิงโครนัสว่าง
+0017 : จุดสิ้นสุดของการรับส่งบล็อก
+0018 : ยกเลิก
+0019 : จุดสิ้นสุดของสื่อ
+001A : ทดแทน
+001B : หลบหนี
+001C : ข้อมูลตัวคั่น 4
+001D : ข้อมูลตัวคั่น 3
+001E : ข้อมูลตัวคั่น 2
+001F : ข้อมูลตัวคั่น 1
+0020 : ช่องว่าง
+0021 : อัศเจรีย์
+0022 : อัญประกาศ
+0023 : เครื่องหมายตัวเลข
+0024 : เครื่องหมายดอลลาร์
+0025 : เครื่องหมายเปอร์เซ็นต์
+0026 : เครื่องหมายและ
+0027 : อัญประกาศเดี่ยว
+0028 : วงเล็บเปิด
+0029 : วงเล็บปิด
+002A : เครื่องหมายดอกจัน
+002B : เครื่องหมายบวก
+002C : จุลภาค
+002D : ยัติภังค์, เครื่องหมายลบ
+002E : มหัพภาค
+002F : เครื่องหมายทับ
+0030 : ศูนย์
+0031 : หนึ่ง
+0032 : สอง
+0033 : สาม
+0034 : สี่
+0035 : ห้า
+0036 : หก
+0037 : เจ็ด
+0038 : แปด
+0039 : เก้า
+003A : ทวิภาค
+003B : อัฒภาค
+003C : เครื่องหมายน้อยกว่า
+003D : เครื่องหมายเท่ากับ
+003E : เครื่องหมายมากกว่า
+003F : ปรัศนี, เครื่องหมายคำถาม
+0040 : เครื่องหมาย @
+0041 : ตัวพิมพ์ใหญ่ A
+0042 : ตัวพิมพ์ใหญ่ B
+0043 : ตัวพิมพ์ใหญ่ C
+0044 : ตัวพิมพ์ใหญ่ D
+0045 : ตัวพิมพ์ใหญ่ E
+0046 : ตัวพิมพ์ใหญ่ F
+0047 : ตัวพิมพ์ใหญ่ G
+0048 : ตัวพิมพ์ใหญ่ H
+0049 : ตัวพิมพ์ใหญ่ I
+004A : ตัวพิมพ์ใหญ่ J
+004B : ตัวพิมพ์ใหญ่ K
+004C : ตัวพิมพ์ใหญ่ L
+004D : ตัวพิมพ์ใหญ่ M
+004E : ตัวพิมพ์ใหญ่ N
+004F : ตัวพิมพ์ใหญ่ O
+0050 : ตัวพิมพ์ใหญ่ P
+0051 : ตัวพิมพ์ใหญ่ Q
+0052 : ตัวพิมพ์ใหญ่ R
+0053 : ตัวพิมพ์ใหญ่ S
+0054 : ตัวพิมพ์ใหญ่ T
+0055 : ตัวพิมพ์ใหญ่ U
+0056 : ตัวพิมพ์ใหญ่ V
+0057 : ตัวพิมพ์ใหญ่ W
+0058 : ตัวพิมพ์ใหญ่ X
+0059 : ตัวพิมพ์ใหญ่ Y
+005A : ตัวพิมพ์ใหญ่ Z
+005B : วงเล็บสี่เหลี่ยมซ้าย
+005C : เครื่องหมายทับขวา
+005D : วงเล็บสี่เหลี่ยมขวา
+005E : แคเรต
+005F : สัญประกาศ
+0060 : เกรฟแอกเซนต์
+0061 : ตัวพิมพ์เล็ก a
+0062 : ตัวพิมพ์เล็ก b
+0063 : ตัวพิมพ์เล็ก c
+0064 : ตัวพิมพ์เล็ก d
+0065 : ตัวพิมพ์เล็ก e
+0066 : ตัวพิมพ์เล็ก f
+0067 : ตัวพิมพ์เล็ก g
+0068 : ตัวพิมพ์เล็ก h
+0069 : ตัวพิมพ์เล็ก i
+006A : ตัวพิมพ์เล็ก j
+006B : ตัวพิมพ์เล็ก k
+006C : ตัวพิมพ์เล็ก l
+006D : ตัวพิมพ์เล็ก m
+006E : ตัวพิมพ์เล็ก n
+006F : ตัวพิมพ์เล็ก o
+0070 : ตัวพิมพ์เล็ก p
+0071 : ตัวพิมพ์เล็ก q
+0072 : ตัวพิมพ์เล็ก r
+0073 : ตัวพิมพ์เล็ก s
+0074 : ตัวพิมพ์เล็ก t
+0075 : ตัวพิมพ์เล็ก u
+0076 : ตัวพิมพ์เล็ก v
+0077 : ตัวพิมพ์เล็ก w
+0078 : ตัวพิมพ์เล็ก x
+0079 : ตัวพิมพ์เล็ก y
+007A : ตัวพิมพ์เล็ก z
+007B : วงเล็บปีกกาซ้าย
+007C : เส้นแนวตั้ง
+007D : วงเล็บปีกกาขวา
+007E : ทิลเดอ, เครื่องหมายตัวหนอน
+007F : ลบ
+0080 : &lt;control&gt;
+0081 : &lt;control&gt;
+0082 : ตัวหยุด
+0083 : ตัวแบ่ง
+0084 : &lt;control&gt;
+0085 : บรรทัดถัดไป (nel)
+0086 : จุดเริ่มต้นของพื้นที่ที่เลือก
+0087 : จุดสิ้นสุดของพื้นที่ที่เลือก
+0088 : Character tabulation set
+0089 : Character tabulation with justification
+008A : Line tabulation set
+008B : Partial line forward
+008C : Partial line backward
+008D : Reverse line feed
+008E : Single shift two
+008F : Single shift three
+0090 : Device control string
+0091 : Private use one
+0092 : Private use two
+0093 : Set transmit state
+0094 : Cancel character
+0095 : Message waiting
+0096 : Start of guarded area
+0097 : End of guarded area
+0098 : Start of string
+0099 : <control>
+009A : Single character introducer
+009B : Control sequence introducer
+009C : String terminator
+009D : Operating system command
+009E : Privacy message
+009F : Application program command
+00A0 : พื้นที่ห้ามหยุด
+00A1 : อัศเจรีย์กลับหัว
+00A2 : เครื่องหมายเซ็น
+00A3 : เครื่องหมายปอนด์
+00A4 : เครื่องหมายสกุลเงิน
+00A5 : เครื่องหมายเยน
+00A6 : เส้นตั้งที่มีแยกตรงกลาง
+00A7 : เครื่องหมายเซกชัน
+00A8 : เครื่องหมายไดเอเรซิส
+00A9 : เครื่องหมายลิขสิทธิ์ (c)
+00AA : เครื่องหมายสัญลักษณ์ผู้หญิง
+00AB : เครื่องหมายกิลเลอเมตซ้าย
+00AC : เครื่องหมายไม่ใช่
+00AD : ยัติภังค์เผื่อเลือก
+00AE : เครื่องหมายจดทะเบียนการค้า
+00AF : Macron
+00B0 : Degree sign
+00B1 : Plus-minus sign
+00B2 : Superscript two
+00B3 : Superscript three
+00B4 : Acute accent
+00B5 : Micro sign
+00B6 : Pilcrow sign
+00B7 : Middle dot
+00B8 : Cedilla
+00B9 : Superscript one
+00BA : Masculine ordinal indicator
+00BB : Right-pointing double angle quotation mark
+00BC : Vulgar fraction one quarter
+00BD : Vulgar fraction one half
+00BE : Vulgar fraction three quarters
+00BF : Inverted question mark
+00C0 : Latin capital letter a with grave
+00C1 : Latin capital letter a with acute
+00C2 : Latin capital letter a with circumflex
+00C3 : Latin capital letter a with tilde
+00C4 : Latin capital letter a with diaeresis
+00C5 : Latin capital letter a with ring above
+00C6 : Latin capital letter ae
+00C7 : Latin capital letter c with cedilla
+00C8 : Latin capital letter e with grave
+00C9 : Latin capital letter e with acute
+00CA : Latin capital letter e with circumflex
+00CB : Latin capital letter e with diaeresis
+00CC : Latin capital letter i with grave
+00CD : Latin capital letter i with acute
+00CE : Latin capital letter i with circumflex
+00CF : Latin capital letter i with diaeresis
+00D0 : Latin capital letter eth
+00D1 : Latin capital letter n with tilde
+00D2 : Latin capital letter o with grave
+00D3 : Latin capital letter o with acute
+00D4 : Latin capital letter o with circumflex
+00D5 : Latin capital letter o with tilde
+00D6 : Latin capital letter o with diaeresis
+00D7 : Multiplication sign
+00D8 : Latin capital letter o with stroke
+00D9 : Latin capital letter u with grave
+00DA : Latin capital letter u with acute
+00DB : Latin capital letter u with circumflex
+00DC : Latin capital letter u with diaeresis
+00DD : Latin capital letter y with acute
+00DE : Latin capital letter thorn
+00DF : Latin small letter sharp s
+00E0 : Latin small letter a with grave
+00E1 : Latin small letter a with acute
+00E2 : Latin small letter a with circumflex
+00E3 : Latin small letter a with tilde
+00E4 : Latin small letter a with diaeresis
+00E5 : Latin small letter a with ring above
+00E6 : Latin small letter ae
+00E7 : Latin small letter c with cedilla
+00E8 : Latin small letter e with grave
+00E9 : Latin small letter e with acute
+00EA : Latin small letter e with circumflex
+00EB : Latin small letter e with diaeresis
+00EC : Latin small letter i with grave
+00ED : Latin small letter i with acute
+00EE : Latin small letter i with circumflex
+00EF : Latin small letter i with diaeresis
+00F0 : Latin small letter eth
+00F1 : Latin small letter n with tilde
+00F2 : Latin small letter o with grave
+00F3 : Latin small letter o with acute
+00F4 : Latin small letter o with circumflex
+00F5 : Latin small letter o with tilde
+00F6 : Latin small letter o with diaeresis
+00F7 : Division sign
+00F8 : Latin small letter o with stroke
+00F9 : Latin small letter u with grave
+00FA : Latin small letter u with acute
+00FB : Latin small letter u with circumflex
+00FC : Latin small letter u with diaeresis
+00FD : Latin small letter y with acute
+00FE : Latin small letter thorn
+00FF : Latin small letter y with diaeresis
