@@ -19,6 +19,7 @@ count           : Number of characters
 languages       : Languages
 sort_order      : By order
 sort_sect       : By sections
+copy_clipboard  : Copy to clipboard
 search_h1       : Search
 search_result   : Result
 search_empty    : Search phrase is empty

@@ -19,6 +19,7 @@ count           : Anzahl der Zeichen
 languages       : Sprachen
 sort_order      : Der Reihe nach
 sort_sect       : Abschnittsweise
+copy_clipboard  : In die Zwischenablage kopieren
 search_h1       : Zeichensuche
 search_result   : Ergebnis
 search_empty    : Suchephrase ist leer

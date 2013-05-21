@@ -19,6 +19,7 @@ count           : Количество символов
 languages       : Языки
 sort_order      : По порядку
 sort_sect       : По разделам
+copy_clipboard  : Скопировать в буфер
 search_h1       : Поиск символа
 search_result   : Результаты поиска по фразе
 search_empty    : Поисковая фраза не введена
