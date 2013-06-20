@@ -3,13 +3,13 @@
 2702 : Black scissors
 2703 : Lower blade scissors
 2704 : White scissors
-2705 : 
+2705 : White heavy check mark
 2706 : Telephone location sign
 2707 : Tape drive
 2708 : Airplane
 2709 : Envelope
-270A : 
-270B : 
+270A : Raised fist
+270B : Raised hand
 270C : Victory hand
 270D : Writing hand
 270E : Lower right pencil
@@ -36,9 +36,9 @@
 2723 : Four balloon-spoked asterisk
 2724 : Heavy four balloon-spoked asterisk
 2725 : Four club-spoked asterisk
-2726 : Black four pointed star
-2727 : White four pointed star
-2728 : 
+2726 : Black four-pointed star
+2727 : White four-pointed star
+2728 : Sparkles
 2729 : Stress outlined white star
 272A : Circled white star
 272B : Open centre black star
@@ -74,16 +74,16 @@
 2749 : Balloon-spoked asterisk
 274A : Eight teardrop-spoked propeller asterisk
 274B : Heavy eight teardrop-spoked propeller asterisk
-274C : 
+274C : Cross mark
 274D : Shadowed white circle
-274E : 
+274E : Negative squared cross mark
 274F : Lower right drop-shadowed white square
 2750 : Upper right drop-shadowed white square
 2751 : Lower right shadowed white square
 2752 : Upper right shadowed white square
-2753 : 
-2754 : 
-2755 : 
+2753 : Black question mark ornament
+2754 : White question mark ornament
+2755 : White exclamation mark ornament
 2756 : Black diamond minus white x
 2757 : Heavy exclamation mark symbol
 2758 : Light vertical bar
@@ -93,8 +93,8 @@
 275C : Heavy single comma quotation mark ornament
 275D : Heavy double turned comma quotation mark ornament
 275E : Heavy double comma quotation mark ornament
-275F : 
-2760 : 
+275F : Heavy low single comma quotation mark ornament
+2760 : Heavy low double comma quotation mark ornament
 2761 : Curved stem paragraph sign ornament
 2762 : Heavy exclamation mark ornament
 2763 : Heavy heart exclamation mark ornament
@@ -147,9 +147,9 @@
 2792 : Dingbat negative circled sans-serif digit nine
 2793 : Dingbat negative circled sans-serif number ten
 2794 : Heavy wide-headed rightwards arrow
-2795 : 
-2796 : 
-2797 : 
+2795 : Heavy plus sign
+2796 : Heavy minus sign
+2797 : Heavy division sign
 2798 : Heavy south east arrow
 2799 : Heavy rightwards arrow
 279A : Heavy north east arrow
@@ -201,11 +201,11 @@
 27C8 : Reverse solidus preceding subset
 27C9 : Superset preceding solidus
 27CA : Vertical bar with horizontal stroke
-27CB : 
+27CB : Mathematical rising diagonal
 27CC : Long division
-27CD : 
-27CE : 
-27CF : 
+27CD : Mathematical falling diagonal
+27CE : Squared logical and
+27CF : Squared logical or
 27D0 : White diamond with centred dot
 27D1 : And with dot
 27D2 : Element of opening upwards
