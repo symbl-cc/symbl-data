@@ -1,0 +1,155 @@
+control-character : 控制字符
+basic-latin     : 基本拉丁字母
+latin-1-supplement : 拉丁-1 补充
+latin-extended-A : 拉丁字母扩展 A
+latin-extended-B : 拉丁字母扩展 B
+ipa-extensions  : 国际音标字母扩展
+spacing-modifier-letters : 占位修改符号
+combining-diacritical-marks : 组合修改标记
+greek-coptic    : 希腊语和科普特语
+cyrillic        : 西里尔语
+cyrillic-supplement : 西里尔语补充
+armenian        : Armenian 
+hebrew          : Hebrew 
+arabic          : Arabic
+syrian          : Syriac
+arabic-supplement : Arabic Supplement 
+thaana          : Thaana
+nko             : NKo
+samaritan       : Samaritan
+mandaic         : Mandaic
+arabic-extended-a : Arabic Extended-A
+devanagari      : Devanagari 
+bengali         : Bengali
+gurmukhi        : Gurmukhi
+gujarati        : Gujarati 
+oriya           : Oriya 
+tamil           : Tamil 
+telugu          : Telugu 
+kannada         : Kannada
+malayalam       : Malayalam 
+sinhala         : Sinhala
+thai            : Thai
+lao             : Lao
+tibetan         : Tibetan
+myanmar         : Myanmar
+georgian        : Georgian 
+hangul-jamo     : Hangul Jamo
+ethiopic        : Ethiopic 
+ethiopic-supplement : Ethiopic Supplement
+cherokee        : Cherokee 
+unified-canadian-aboriginal-syllabics : Unified Canadian Aboriginal Syllabics 
+ogham           : Ogham
+runic           : Runic
+tagalog         : Tagalog 
+hanunoo         : Hanunoo  
+buhid           : Buhid
+tagbanwa        : Tagbanwa
+khmer           : Khmer 
+mongolian       : Mongolian
+unified-canadian-aboriginal-syllabics-extended : Unified Canadian Aboriginal Syllabics Extended 
+limbu           : Limbu
+tai-le          : Tai Le
+new-tai-lue     : Tai Lue
+khmer-symbols   : Khmer Symbols
+buginese        : Buginese
+tai-tham        : Tai Tham
+balinese        : Balinese 
+sundanese       : Sundanese
+batak           : Batak 
+lepcha          : Lepcha 
+ol-chiki        : Ol Chiki 
+sundanese-supplement : Sundanese Supplement
+vedic-extensions : Vedic Extensions
+phonetic-extentions : 语音学扩展 
+phonetic-extentions-supplement : 语音学扩展补充
+combining-diacritical-marks-supplement : 组合修改标记补充 
+latin-extended-additional : 拉丁字母扩展增补
+greek-extended  : Greek Extended 
+general-punctuation : 一般标点符号
+superscripts-and-subscripts : 上下标
+currency-symbols : 货币符号
+combining-diacritical-marks-for-symbols : 符号的组合修改标记
+letterlike-symbols : 像字母的符号
+number-forms    : 数字的各种形式
+arrows          : 箭头
+mathematical-operators : 数学运算符
+miscellaneous-technical : 各种技术性符号
+control-pictures : 控制字符表现符号
+optical-character-recognition : 光学字符识别
+enclosed-alphanumerics : 带圈字母数字
+box-drawing     : 制表符
+block-elements  : 方块元素
+geometric-shapes : 几何形状
+miscellaneous-symbols : 各种符号
+dingbats        : 装饰符号
+miscellaneous-mathematical-symbols-a : 各种数学符号 A 
+suplemental-arrows-a : 箭头补充 A 
+braille-patterns : 盲文
+suplemental-arrows-b : 箭头补充 B
+miscellaneous-mathematical-symbols-b : 各种数学符号 B
+supplemental-mathematical-operators : 数学运算符补充 
+miscellaneous-symbols-and-arrows : 各种符号与箭头
+glagolitic      : Glagolitic
+latin-extended-c : 拉丁字母扩展 C
+coptic          : Coptic 
+georgian-supplement : Georgian Supplement 
+tifinagh        : Tifinagh 
+ethiopic-extended : Ethiopic Extended 
+cyrillic-extended : Cyrillic Extended-A
+supplemental-punctuation : Supplemental Punctuation
+cjk-radicals-supplement : 中日韩偏旁补充
+kangxi-radicals : 康熙字典偏旁部首
+ideographic-description-characters : 表意文字描述符号
+cjk-symbols-and-punctuation : 中日韩标点与符号 
+hiragana        : 平假名 
+katakana        : 片假名
+bopomofo        : 汉语注音符号
+hangul-compatibility-jamo : 韩语兼容字根 
+kanbun          : 中日韩文字上标 
+bopomofo-extended : 汉语注音符号扩展 
+cjk-strokes     : 中日韩笔画
+katakana-phonetic-extentions : 片假名语音扩展
+enclosed-cjk-letters-and-months : 带全中日韩文字及月份 
+cjk-compatibility : 中日韩兼容性字符
+cjk-unified-ideographs-extension-a : 中日韩统一表意文字扩展 A
+yijing-hexagram-symbols : 易经六十四卦符号
+cjk-unified-ideographs : 中日韩统一表意文字
+yi-syllables    : 彝语音节
+yi-radicals     : 彝语偏旁
+old-lisu-alphabet : 旧傈僳语字母表  
+ciryllic-extended-B : Cyrillic Extended-B
+bamum           : Bamum
+modifier-tone-letters : 音调修改符号 
+latin-extended-d : 拉丁字母扩展 D
+syloty-nagri    : Syloti Nagri 
+indian-numeric-character : Common Indic Number Forms 
+phags-pa        : Phags-pa 
+saurashtra      : Saurashtra
+devanagari-extended-characters : Devanagari Extended
+kayah-li        : Kayah Li 
+rejang          : Rejang 
+hangul          : 韩语字根扩展 A
+javanese-alphabet : Javanese  
+cham-alphabet   : Cham
+burmese-alphabet-extention-a : Myanmar Extended-A 
+tai-viet-alphabet : Tai Viet 
+meitei-language-extentions : Meetei Mayek Extensions 
+ethiopic-extended-a : Ethiopic Extended-A
+meitei-language : Meetei Mayek 
+hangul-syllables : 韩语音节
+high-surrogates : 代理对高位字
+high-private-use-surrogates : 代理对私用区高位字
+low-surrogates  : 代理对低位字
+private-use-area : 私用区
+cjk-compatibility-ideographs : 中日韩兼容性表意文字
+alphabetic-presentation-forms : 字母变体展现形式
+arabic-presentation-forms-a : Arabic Presentation Forms-A
+variation-selectors : 变体选择器字符
+vertical-forms  : 竖写形式字符
+combining-half-marks : 组合半形字符
+cjk-compatibility-forms : 中日韩兼容形式字符
+small-form-variants : 小尺寸形式符号
+arabic-presentation-forms-b : Arabic Presentation Forms-B 
+halfwidth-and-fullwidth-forms : 全形字母与半形中日韩字符
+specials        : 特殊
