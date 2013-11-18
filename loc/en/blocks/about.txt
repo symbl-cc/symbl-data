@@ -6,16 +6,16 @@
                 <div class="photo"><img src="/i/people/sa.png" alt="Sergei Asanov" /></div>
                 <h2>Sergei Asanov</h2>
                 St. Petersburg, Russia<br />                
-                <a href="http://sadesign.ru">http://sadesign.ru</a><br />
+                <a href="http://sadesign.ru">http://sadesign.ru<i class="fa fa-external-link"></i></a><br />
                 Idea, design, layout<br />
-                Contact: <a href="mailto:sa@unicode-table.com">sa@unicode-table.com</a></article>
+                Contact: <a href="mailto:sa@unicode-table.com"><i class="fa fa-envelope"></i>sa@unicode-table.com</a></article>
             <article>
                 <div class="photo"><img src="/i/people/go.png" alt="Oleg Grigoriev" /></div>
                 <h2>Oleg Grigoriev</h2>
                 St. Petersburg, Russia<br />                                
-                <a href="http://blgo.ru">http://blgo.ru</a><br />
+                <a href="http://blgo.ru">http://blgo.ru<i class="fa fa-external-link"></i></a><br />
                 Programming<br />
-                Contact: <a href="mailto:go@unicode-table.com">go@unicode-table.com</a> </article>
+                Contact: <a href="mailto:go@unicode-table.com"><i class="fa fa-envelope"></i>go@unicode-table.com</a> </article>
             <article>
                 <div class="photo"><img src="/i/people/sp.png" alt="Alexandra Palashina" /></div>
                 <h2>Alexandra Palashina</h2>
