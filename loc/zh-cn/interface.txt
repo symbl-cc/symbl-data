@@ -1,0 +1,91 @@
+title           : Unicode字符百科
+meta_description : 各种Unicode字符的名字与描述：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_keywords   : unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, uft-8, facebook characters, encoding, heart symbol, script, languages, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
+search          : 搜索字符
+find            : 寻找
+example         : 例子
+example_text    : hammer and sickle
+about           : 关于
+not_language    : 我的语言呢？
+popular         : 最热门字符
+loading         : 正在载入，请稍等
+unicode_number  : Unicode编号
+html_code       : <span class="caps">HTML</span>代码
+up              : 回顶部
+range           : 范围
+type            : 类型
+countries       : 国家地区
+count           : 字符总数
+languages       : 语言
+sort_order      : 按顺序
+sort_sect       : 按字符范围分段
+copy_clipboard  : 复制到剪贴板
+search_h1       : 搜索
+search_result   : 搜索结果
+search_empty    : 搜索关键词是空的
+search_total    : 总共结果：%s
+search_limit    : （只显示了 %s）
+search_none     : 无
+search_any      : 用任何关键词搜索
+help_range      : 点击显示字符范围
+sections_list   : Unicode 字符段列表
+languages_list  : 语言列表
+languages_sections : 该语言使用的字符范围
+types_list      : 字符类型列表
+countries_list  : 国家地区列表
+more            : 更多
+sets            : 符号分类集汇
+ny_symbols      : 圣诞与新年符号
+prev            : 向前
+next            : 向后
+entity          : 实体
+search_overflow : 对不起，U+%s 数据库还在制作中
+feedback        : 反馈信息
+
+# __________________________________________________________
+#
+# FOOTER / МЕНЮ ПОДВАЛА
+# __________________________________________________________
+
+feedback        : 反馈信息
+github          : GitHub
+twitter         : Twitter
+join_us         : 我想参与
+donate          : 如何捐助
+unicode         : Unicode（万国码）
+about_unicode   : 关于 Unicode
+unicode_history : Unicode 历史
+unicode_versions: Unicode 版本
+broken_chars    : 有些字符显示不正确？
+cyrillic        : 西里尔文
+fonts           : 字体
+
+
+
+# __________________________________________________________
+#
+# TOOLS / ИНСТРУМЕНТЫ   http://unicode-table.com/tools/
+# __________________________________________________________
+
+tools           : 工具
+encoder         : 编码器
+encoder-desc    : 将字符与HTML代码相互转换
+encoder-plain   : 字符
+encoder-full    : 全部转换
+encoder-text    : 文本
+encoder-entities: 按HTML实体编码
+encoder-br      : 编码换行
+
+decoder         : 解码器
+decoder-desc    : 将字符编码为Unicode转义文本或者反之
+decoder-example : 这是栗子
+decoder-code    : Unicode转义文本
+decoder-text    : 文本
+
+flip            : 翻转
+flip-desc       : 将英语字母或者西里尔语“倒”过来
+flip-plain      : 文本
+flip-flipped    : 倒过来！
+flip-backed     : 只调换顺序
+
+
