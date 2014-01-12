@@ -1,256 +1,256 @@
-C600 : Hangul syllable yeoss
-C601 : Hangul syllable yeong
-C602 : Hangul syllable yeoj
-C603 : Hangul syllable yeoc
-C604 : Hangul syllable yeok
-C605 : Hangul syllable yeot
-C606 : Hangul syllable yeop
-C607 : Hangul syllable yeoh
-C608 : Hangul syllable ye
-C609 : Hangul syllable yeg
-C60A : Hangul syllable yegg
-C60B : Hangul syllable yegs
-C60C : Hangul syllable yen
-C60D : Hangul syllable yenj
-C60E : Hangul syllable yenh
-C60F : Hangul syllable yed
-C610 : Hangul syllable yel
-C611 : Hangul syllable yelg
-C612 : Hangul syllable yelm
-C613 : Hangul syllable yelb
-C614 : Hangul syllable yels
-C615 : Hangul syllable yelt
-C616 : Hangul syllable yelp
-C617 : Hangul syllable yelh
-C618 : Hangul syllable yem
-C619 : Hangul syllable yeb
-C61A : Hangul syllable yebs
-C61B : Hangul syllable yes
-C61C : Hangul syllable yess
-C61D : Hangul syllable yeng
-C61E : Hangul syllable yej
-C61F : Hangul syllable yec
-C620 : Hangul syllable yek
-C621 : Hangul syllable yet
-C622 : Hangul syllable yep
-C623 : Hangul syllable yeh
-C624 : Hangul syllable o
-C625 : Hangul syllable og
-C626 : Hangul syllable ogg
-C627 : Hangul syllable ogs
-C628 : Hangul syllable on
-C629 : Hangul syllable onj
-C62A : Hangul syllable onh
-C62B : Hangul syllable od
-C62C : Hangul syllable ol
-C62D : Hangul syllable olg
-C62E : Hangul syllable olm
-C62F : Hangul syllable olb
-C630 : Hangul syllable ols
-C631 : Hangul syllable olt
-C632 : Hangul syllable olp
-C633 : Hangul syllable olh
-C634 : Hangul syllable om
-C635 : Hangul syllable ob
-C636 : Hangul syllable obs
-C637 : Hangul syllable os
-C638 : Hangul syllable oss
-C639 : Hangul syllable ong
-C63A : Hangul syllable oj
-C63B : Hangul syllable oc
-C63C : Hangul syllable ok
-C63D : Hangul syllable ot
-C63E : Hangul syllable op
-C63F : Hangul syllable oh
-C640 : Hangul syllable wa
-C641 : Hangul syllable wag
-C642 : Hangul syllable wagg
-C643 : Hangul syllable wags
-C644 : Hangul syllable wan
-C645 : Hangul syllable wanj
-C646 : Hangul syllable wanh
-C647 : Hangul syllable wad
-C648 : Hangul syllable wal
-C649 : Hangul syllable walg
-C64A : Hangul syllable walm
-C64B : Hangul syllable walb
-C64C : Hangul syllable wals
-C64D : Hangul syllable walt
-C64E : Hangul syllable walp
-C64F : Hangul syllable walh
-C650 : Hangul syllable wam
-C651 : Hangul syllable wab
-C652 : Hangul syllable wabs
-C653 : Hangul syllable was
-C654 : Hangul syllable wass
-C655 : Hangul syllable wang
-C656 : Hangul syllable waj
-C657 : Hangul syllable wac
-C658 : Hangul syllable wak
-C659 : Hangul syllable wat
-C65A : Hangul syllable wap
-C65B : Hangul syllable wah
-C65C : Hangul syllable wae
-C65D : Hangul syllable waeg
-C65E : Hangul syllable waegg
-C65F : Hangul syllable waegs
-C660 : Hangul syllable waen
-C661 : Hangul syllable waenj
-C662 : Hangul syllable waenh
-C663 : Hangul syllable waed
-C664 : Hangul syllable wael
-C665 : Hangul syllable waelg
-C666 : Hangul syllable waelm
-C667 : Hangul syllable waelb
-C668 : Hangul syllable waels
-C669 : Hangul syllable waelt
-C66A : Hangul syllable waelp
-C66B : Hangul syllable waelh
-C66C : Hangul syllable waem
-C66D : Hangul syllable waeb
-C66E : Hangul syllable waebs
-C66F : Hangul syllable waes
-C670 : Hangul syllable waess
-C671 : Hangul syllable waeng
-C672 : Hangul syllable waej
-C673 : Hangul syllable waec
-C674 : Hangul syllable waek
-C675 : Hangul syllable waet
-C676 : Hangul syllable waep
-C677 : Hangul syllable waeh
-C678 : Hangul syllable oe
-C679 : Hangul syllable oeg
-C67A : Hangul syllable oegg
-C67B : Hangul syllable oegs
-C67C : Hangul syllable oen
-C67D : Hangul syllable oenj
-C67E : Hangul syllable oenh
-C67F : Hangul syllable oed
-C680 : Hangul syllable oel
-C681 : Hangul syllable oelg
-C682 : Hangul syllable oelm
-C683 : Hangul syllable oelb
-C684 : Hangul syllable oels
-C685 : Hangul syllable oelt
-C686 : Hangul syllable oelp
-C687 : Hangul syllable oelh
-C688 : Hangul syllable oem
-C689 : Hangul syllable oeb
-C68A : Hangul syllable oebs
-C68B : Hangul syllable oes
-C68C : Hangul syllable oess
-C68D : Hangul syllable oeng
-C68E : Hangul syllable oej
-C68F : Hangul syllable oec
-C690 : Hangul syllable oek
-C691 : Hangul syllable oet
-C692 : Hangul syllable oep
-C693 : Hangul syllable oeh
-C694 : Hangul syllable yo
-C695 : Hangul syllable yog
-C696 : Hangul syllable yogg
-C697 : Hangul syllable yogs
-C698 : Hangul syllable yon
-C699 : Hangul syllable yonj
-C69A : Hangul syllable yonh
-C69B : Hangul syllable yod
-C69C : Hangul syllable yol
-C69D : Hangul syllable yolg
-C69E : Hangul syllable yolm
-C69F : Hangul syllable yolb
-C6A0 : Hangul syllable yols
-C6A1 : Hangul syllable yolt
-C6A2 : Hangul syllable yolp
-C6A3 : Hangul syllable yolh
-C6A4 : Hangul syllable yom
-C6A5 : Hangul syllable yob
-C6A6 : Hangul syllable yobs
-C6A7 : Hangul syllable yos
-C6A8 : Hangul syllable yoss
-C6A9 : Hangul syllable yong
-C6AA : Hangul syllable yoj
-C6AB : Hangul syllable yoc
-C6AC : Hangul syllable yok
-C6AD : Hangul syllable yot
-C6AE : Hangul syllable yop
-C6AF : Hangul syllable yoh
-C6B0 : Hangul syllable u
-C6B1 : Hangul syllable ug
-C6B2 : Hangul syllable ugg
-C6B3 : Hangul syllable ugs
-C6B4 : Hangul syllable un
-C6B5 : Hangul syllable unj
-C6B6 : Hangul syllable unh
-C6B7 : Hangul syllable ud
-C6B8 : Hangul syllable ul
-C6B9 : Hangul syllable ulg
-C6BA : Hangul syllable ulm
-C6BB : Hangul syllable ulb
-C6BC : Hangul syllable uls
-C6BD : Hangul syllable ult
-C6BE : Hangul syllable ulp
-C6BF : Hangul syllable ulh
-C6C0 : Hangul syllable um
-C6C1 : Hangul syllable ub
-C6C2 : Hangul syllable ubs
-C6C3 : Hangul syllable us
-C6C4 : Hangul syllable uss
-C6C5 : Hangul syllable ung
-C6C6 : Hangul syllable uj
-C6C7 : Hangul syllable uc
-C6C8 : Hangul syllable uk
-C6C9 : Hangul syllable ut
-C6CA : Hangul syllable up
-C6CB : Hangul syllable uh
-C6CC : Hangul syllable weo
-C6CD : Hangul syllable weog
-C6CE : Hangul syllable weogg
-C6CF : Hangul syllable weogs
-C6D0 : Hangul syllable weon
-C6D1 : Hangul syllable weonj
-C6D2 : Hangul syllable weonh
-C6D3 : Hangul syllable weod
-C6D4 : Hangul syllable weol
-C6D5 : Hangul syllable weolg
-C6D6 : Hangul syllable weolm
-C6D7 : Hangul syllable weolb
-C6D8 : Hangul syllable weols
-C6D9 : Hangul syllable weolt
-C6DA : Hangul syllable weolp
-C6DB : Hangul syllable weolh
-C6DC : Hangul syllable weom
-C6DD : Hangul syllable weob
-C6DE : Hangul syllable weobs
-C6DF : Hangul syllable weos
-C6E0 : Hangul syllable weoss
-C6E1 : Hangul syllable weong
-C6E2 : Hangul syllable weoj
-C6E3 : Hangul syllable weoc
-C6E4 : Hangul syllable weok
-C6E5 : Hangul syllable weot
-C6E6 : Hangul syllable weop
-C6E7 : Hangul syllable weoh
-C6E8 : Hangul syllable we
-C6E9 : Hangul syllable weg
-C6EA : Hangul syllable wegg
-C6EB : Hangul syllable wegs
-C6EC : Hangul syllable wen
-C6ED : Hangul syllable wenj
-C6EE : Hangul syllable wenh
-C6EF : Hangul syllable wed
-C6F0 : Hangul syllable wel
-C6F1 : Hangul syllable welg
-C6F2 : Hangul syllable welm
-C6F3 : Hangul syllable welb
-C6F4 : Hangul syllable wels
-C6F5 : Hangul syllable welt
-C6F6 : Hangul syllable welp
-C6F7 : Hangul syllable welh
-C6F8 : Hangul syllable wem
-C6F9 : Hangul syllable web
-C6FA : Hangul syllable webs
-C6FB : Hangul syllable wes
-C6FC : Hangul syllable wess
-C6FD : Hangul syllable weng
-C6FE : Hangul syllable wej
-C6FF : Hangul syllable wec
+C600 : 朝鲜文音节 Yeoss
+C601 : 朝鲜文音节 Yeong
+C602 : 朝鲜文音节 Yeoj
+C603 : 朝鲜文音节 Yeoc
+C604 : 朝鲜文音节 Yeok
+C605 : 朝鲜文音节 Yeot
+C606 : 朝鲜文音节 Yeop
+C607 : 朝鲜文音节 Yeoh
+C608 : 朝鲜文音节 Ye
+C609 : 朝鲜文音节 Yeg
+C60A : 朝鲜文音节 Yegg
+C60B : 朝鲜文音节 Yegs
+C60C : 朝鲜文音节 Yen
+C60D : 朝鲜文音节 Yenj
+C60E : 朝鲜文音节 Yenh
+C60F : 朝鲜文音节 Yed
+C610 : 朝鲜文音节 Yel
+C611 : 朝鲜文音节 Yelg
+C612 : 朝鲜文音节 Yelm
+C613 : 朝鲜文音节 Yelb
+C614 : 朝鲜文音节 Yels
+C615 : 朝鲜文音节 Yelt
+C616 : 朝鲜文音节 Yelp
+C617 : 朝鲜文音节 Yelh
+C618 : 朝鲜文音节 Yem
+C619 : 朝鲜文音节 Yeb
+C61A : 朝鲜文音节 Yebs
+C61B : 朝鲜文音节 Yes
+C61C : 朝鲜文音节 Yess
+C61D : 朝鲜文音节 Yeng
+C61E : 朝鲜文音节 Yej
+C61F : 朝鲜文音节 Yec
+C620 : 朝鲜文音节 Yek
+C621 : 朝鲜文音节 Yet
+C622 : 朝鲜文音节 Yep
+C623 : 朝鲜文音节 Yeh
+C624 : 朝鲜文音节 O
+C625 : 朝鲜文音节 Og
+C626 : 朝鲜文音节 Ogg
+C627 : 朝鲜文音节 Ogs
+C628 : 朝鲜文音节 On
+C629 : 朝鲜文音节 Onj
+C62A : 朝鲜文音节 Onh
+C62B : 朝鲜文音节 Od
+C62C : 朝鲜文音节 Ol
+C62D : 朝鲜文音节 Olg
+C62E : 朝鲜文音节 Olm
+C62F : 朝鲜文音节 Olb
+C630 : 朝鲜文音节 Ols
+C631 : 朝鲜文音节 Olt
+C632 : 朝鲜文音节 Olp
+C633 : 朝鲜文音节 Olh
+C634 : 朝鲜文音节 Om
+C635 : 朝鲜文音节 Ob
+C636 : 朝鲜文音节 Obs
+C637 : 朝鲜文音节 Os
+C638 : 朝鲜文音节 Oss
+C639 : 朝鲜文音节 Ong
+C63A : 朝鲜文音节 Oj
+C63B : 朝鲜文音节 Oc
+C63C : 朝鲜文音节 Ok
+C63D : 朝鲜文音节 Ot
+C63E : 朝鲜文音节 Op
+C63F : 朝鲜文音节 Oh
+C640 : 朝鲜文音节 Wa
+C641 : 朝鲜文音节 Wag
+C642 : 朝鲜文音节 Wagg
+C643 : 朝鲜文音节 Wags
+C644 : 朝鲜文音节 Wan
+C645 : 朝鲜文音节 Wanj
+C646 : 朝鲜文音节 Wanh
+C647 : 朝鲜文音节 Wad
+C648 : 朝鲜文音节 Wal
+C649 : 朝鲜文音节 Walg
+C64A : 朝鲜文音节 Walm
+C64B : 朝鲜文音节 Walb
+C64C : 朝鲜文音节 Wals
+C64D : 朝鲜文音节 Walt
+C64E : 朝鲜文音节 Walp
+C64F : 朝鲜文音节 Walh
+C650 : 朝鲜文音节 Wam
+C651 : 朝鲜文音节 Wab
+C652 : 朝鲜文音节 Wabs
+C653 : 朝鲜文音节 Was
+C654 : 朝鲜文音节 Wass
+C655 : 朝鲜文音节 Wang
+C656 : 朝鲜文音节 Waj
+C657 : 朝鲜文音节 Wac
+C658 : 朝鲜文音节 Wak
+C659 : 朝鲜文音节 Wat
+C65A : 朝鲜文音节 Wap
+C65B : 朝鲜文音节 Wah
+C65C : 朝鲜文音节 Wae
+C65D : 朝鲜文音节 Waeg
+C65E : 朝鲜文音节 Waegg
+C65F : 朝鲜文音节 Waegs
+C660 : 朝鲜文音节 Waen
+C661 : 朝鲜文音节 Waenj
+C662 : 朝鲜文音节 Waenh
+C663 : 朝鲜文音节 Waed
+C664 : 朝鲜文音节 Wael
+C665 : 朝鲜文音节 Waelg
+C666 : 朝鲜文音节 Waelm
+C667 : 朝鲜文音节 Waelb
+C668 : 朝鲜文音节 Waels
+C669 : 朝鲜文音节 Waelt
+C66A : 朝鲜文音节 Waelp
+C66B : 朝鲜文音节 Waelh
+C66C : 朝鲜文音节 Waem
+C66D : 朝鲜文音节 Waeb
+C66E : 朝鲜文音节 Waebs
+C66F : 朝鲜文音节 Waes
+C670 : 朝鲜文音节 Waess
+C671 : 朝鲜文音节 Waeng
+C672 : 朝鲜文音节 Waej
+C673 : 朝鲜文音节 Waec
+C674 : 朝鲜文音节 Waek
+C675 : 朝鲜文音节 Waet
+C676 : 朝鲜文音节 Waep
+C677 : 朝鲜文音节 Waeh
+C678 : 朝鲜文音节 Oe
+C679 : 朝鲜文音节 Oeg
+C67A : 朝鲜文音节 Oegg
+C67B : 朝鲜文音节 Oegs
+C67C : 朝鲜文音节 Oen
+C67D : 朝鲜文音节 Oenj
+C67E : 朝鲜文音节 Oenh
+C67F : 朝鲜文音节 Oed
+C680 : 朝鲜文音节 Oel
+C681 : 朝鲜文音节 Oelg
+C682 : 朝鲜文音节 Oelm
+C683 : 朝鲜文音节 Oelb
+C684 : 朝鲜文音节 Oels
+C685 : 朝鲜文音节 Oelt
+C686 : 朝鲜文音节 Oelp
+C687 : 朝鲜文音节 Oelh
+C688 : 朝鲜文音节 Oem
+C689 : 朝鲜文音节 Oeb
+C68A : 朝鲜文音节 Oebs
+C68B : 朝鲜文音节 Oes
+C68C : 朝鲜文音节 Oess
+C68D : 朝鲜文音节 Oeng
+C68E : 朝鲜文音节 Oej
+C68F : 朝鲜文音节 Oec
+C690 : 朝鲜文音节 Oek
+C691 : 朝鲜文音节 Oet
+C692 : 朝鲜文音节 Oep
+C693 : 朝鲜文音节 Oeh
+C694 : 朝鲜文音节 Yo
+C695 : 朝鲜文音节 Yog
+C696 : 朝鲜文音节 Yogg
+C697 : 朝鲜文音节 Yogs
+C698 : 朝鲜文音节 Yon
+C699 : 朝鲜文音节 Yonj
+C69A : 朝鲜文音节 Yonh
+C69B : 朝鲜文音节 Yod
+C69C : 朝鲜文音节 Yol
+C69D : 朝鲜文音节 Yolg
+C69E : 朝鲜文音节 Yolm
+C69F : 朝鲜文音节 Yolb
+C6A0 : 朝鲜文音节 Yols
+C6A1 : 朝鲜文音节 Yolt
+C6A2 : 朝鲜文音节 Yolp
+C6A3 : 朝鲜文音节 Yolh
+C6A4 : 朝鲜文音节 Yom
+C6A5 : 朝鲜文音节 Yob
+C6A6 : 朝鲜文音节 Yobs
+C6A7 : 朝鲜文音节 Yos
+C6A8 : 朝鲜文音节 Yoss
+C6A9 : 朝鲜文音节 Yong
+C6AA : 朝鲜文音节 Yoj
+C6AB : 朝鲜文音节 Yoc
+C6AC : 朝鲜文音节 Yok
+C6AD : 朝鲜文音节 Yot
+C6AE : 朝鲜文音节 Yop
+C6AF : 朝鲜文音节 Yoh
+C6B0 : 朝鲜文音节 U
+C6B1 : 朝鲜文音节 Ug
+C6B2 : 朝鲜文音节 Ugg
+C6B3 : 朝鲜文音节 Ugs
+C6B4 : 朝鲜文音节 Un
+C6B5 : 朝鲜文音节 Unj
+C6B6 : 朝鲜文音节 Unh
+C6B7 : 朝鲜文音节 Ud
+C6B8 : 朝鲜文音节 Ul
+C6B9 : 朝鲜文音节 Ulg
+C6BA : 朝鲜文音节 Ulm
+C6BB : 朝鲜文音节 Ulb
+C6BC : 朝鲜文音节 Uls
+C6BD : 朝鲜文音节 Ult
+C6BE : 朝鲜文音节 Ulp
+C6BF : 朝鲜文音节 Ulh
+C6C0 : 朝鲜文音节 Um
+C6C1 : 朝鲜文音节 Ub
+C6C2 : 朝鲜文音节 Ubs
+C6C3 : 朝鲜文音节 Us
+C6C4 : 朝鲜文音节 Uss
+C6C5 : 朝鲜文音节 Ung
+C6C6 : 朝鲜文音节 Uj
+C6C7 : 朝鲜文音节 Uc
+C6C8 : 朝鲜文音节 Uk
+C6C9 : 朝鲜文音节 Ut
+C6CA : 朝鲜文音节 Up
+C6CB : 朝鲜文音节 Uh
+C6CC : 朝鲜文音节 Weo
+C6CD : 朝鲜文音节 Weog
+C6CE : 朝鲜文音节 Weogg
+C6CF : 朝鲜文音节 Weogs
+C6D0 : 朝鲜文音节 Weon
+C6D1 : 朝鲜文音节 Weonj
+C6D2 : 朝鲜文音节 Weonh
+C6D3 : 朝鲜文音节 Weod
+C6D4 : 朝鲜文音节 Weol
+C6D5 : 朝鲜文音节 Weolg
+C6D6 : 朝鲜文音节 Weolm
+C6D7 : 朝鲜文音节 Weolb
+C6D8 : 朝鲜文音节 Weols
+C6D9 : 朝鲜文音节 Weolt
+C6DA : 朝鲜文音节 Weolp
+C6DB : 朝鲜文音节 Weolh
+C6DC : 朝鲜文音节 Weom
+C6DD : 朝鲜文音节 Weob
+C6DE : 朝鲜文音节 Weobs
+C6DF : 朝鲜文音节 Weos
+C6E0 : 朝鲜文音节 Weoss
+C6E1 : 朝鲜文音节 Weong
+C6E2 : 朝鲜文音节 Weoj
+C6E3 : 朝鲜文音节 Weoc
+C6E4 : 朝鲜文音节 Weok
+C6E5 : 朝鲜文音节 Weot
+C6E6 : 朝鲜文音节 Weop
+C6E7 : 朝鲜文音节 Weoh
+C6E8 : 朝鲜文音节 We
+C6E9 : 朝鲜文音节 Weg
+C6EA : 朝鲜文音节 Wegg
+C6EB : 朝鲜文音节 Wegs
+C6EC : 朝鲜文音节 Wen
+C6ED : 朝鲜文音节 Wenj
+C6EE : 朝鲜文音节 Wenh
+C6EF : 朝鲜文音节 Wed
+C6F0 : 朝鲜文音节 Wel
+C6F1 : 朝鲜文音节 Welg
+C6F2 : 朝鲜文音节 Welm
+C6F3 : 朝鲜文音节 Welb
+C6F4 : 朝鲜文音节 Wels
+C6F5 : 朝鲜文音节 Welt
+C6F6 : 朝鲜文音节 Welp
+C6F7 : 朝鲜文音节 Welh
+C6F8 : 朝鲜文音节 Wem
+C6F9 : 朝鲜文音节 Web
+C6FA : 朝鲜文音节 Webs
+C6FB : 朝鲜文音节 Wes
+C6FC : 朝鲜文音节 Wess
+C6FD : 朝鲜文音节 Weng
+C6FE : 朝鲜文音节 Wej
+C6FF : 朝鲜文音节 Wec

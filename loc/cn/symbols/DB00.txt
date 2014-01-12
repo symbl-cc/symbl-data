@@ -125,8 +125,8 @@ DB7B :
 DB7C : 
 DB7D : 
 DB7E : 
-DB7F : 
-DB80 : 
+DB7F : 非专用区高位代理字
+DB80 : 专用区高位代理字
 DB81 : 
 DB82 : 
 DB83 : 
@@ -253,4 +253,4 @@ DBFB :
 DBFC : 
 DBFD : 
 DBFE : 
-DBFF : 
+DBFF : 专用区高位代理字

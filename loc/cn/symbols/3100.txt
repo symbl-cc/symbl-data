@@ -3,185 +3,185 @@
 3102 : 
 3103 : 
 3104 : 
-3105 : Bopomofo letter b
-3106 : Bopomofo letter p
-3107 : Bopomofo letter m
-3108 : Bopomofo letter f
-3109 : Bopomofo letter d
-310A : Bopomofo letter t
-310B : Bopomofo letter n
-310C : Bopomofo letter l
-310D : Bopomofo letter g
-310E : Bopomofo letter k
-310F : Bopomofo letter h
-3110 : Bopomofo letter j
-3111 : Bopomofo letter q
-3112 : Bopomofo letter x
-3113 : Bopomofo letter zh
-3114 : Bopomofo letter ch
-3115 : Bopomofo letter sh
-3116 : Bopomofo letter r
-3117 : Bopomofo letter z
-3118 : Bopomofo letter c
-3119 : Bopomofo letter s
-311A : Bopomofo letter a
-311B : Bopomofo letter o
-311C : Bopomofo letter e
-311D : Bopomofo letter eh
-311E : Bopomofo letter ai
-311F : Bopomofo letter ei
-3120 : Bopomofo letter au
-3121 : Bopomofo letter ou
-3122 : Bopomofo letter an
-3123 : Bopomofo letter en
-3124 : Bopomofo letter ang
-3125 : Bopomofo letter eng
-3126 : Bopomofo letter er
-3127 : Bopomofo letter i
-3128 : Bopomofo letter u
-3129 : Bopomofo letter iu
-312A : Bopomofo letter v
-312B : Bopomofo letter ng
-312C : Bopomofo letter gn
-312D : Bopomofo letter ih
+3105 : 注音字母 B
+3106 : 注音字母 P
+3107 : 注音字母 M
+3108 : 注音字母 F
+3109 : 注音字母 D
+310A : 注音字母 T
+310B : 注音字母 N
+310C : 注音字母 L
+310D : 注音字母 G
+310E : 注音字母 K
+310F : 注音字母 H
+3110 : 注音字母 J
+3111 : 注音字母 Q
+3112 : 注音字母 X
+3113 : 注音字母 Zh
+3114 : 注音字母 Ch
+3115 : 注音字母 Sh
+3116 : 注音字母 R
+3117 : 注音字母 Z
+3118 : 注音字母 C
+3119 : 注音字母 S
+311A : 注音字母 A
+311B : 注音字母 O
+311C : 注音字母 E
+311D : 注音字母 Eh
+311E : 注音字母 Ai
+311F : 注音字母 Ei
+3120 : 注音字母 Au
+3121 : 注音字母 Ou
+3122 : 注音字母 An
+3123 : 注音字母 En
+3124 : 注音字母 Ang
+3125 : 注音字母 Eng
+3126 : 注音字母 Er
+3127 : 注音字母 I
+3128 : 注音字母 U
+3129 : 注音字母 Iu
+312A : 注音字母 V
+312B : 注音字母 Ng
+312C : 注音字母 Gn
+312D : 注音字母 Ih
 312E : 
 312F : 
 3130 : 
-3131 : Hangul letter kiyeok
-3132 : Hangul letter ssangkiyeok
-3133 : Hangul letter kiyeok-sios
-3134 : Hangul letter nieun
-3135 : Hangul letter nieun-cieuc
-3136 : Hangul letter nieun-hieuh
-3137 : Hangul letter tikeut
-3138 : Hangul letter ssangtikeut
-3139 : Hangul letter rieul
-313A : Hangul letter rieul-kiyeok
-313B : Hangul letter rieul-mieum
-313C : Hangul letter rieul-pieup
-313D : Hangul letter rieul-sios
-313E : Hangul letter rieul-thieuth
-313F : Hangul letter rieul-phieuph
-3140 : Hangul letter rieul-hieuh
-3141 : Hangul letter mieum
-3142 : Hangul letter pieup
-3143 : Hangul letter ssangpieup
-3144 : Hangul letter pieup-sios
-3145 : Hangul letter sios
-3146 : Hangul letter ssangsios
-3147 : Hangul letter ieung
-3148 : Hangul letter cieuc
-3149 : Hangul letter ssangcieuc
-314A : Hangul letter chieuch
-314B : Hangul letter khieukh
-314C : Hangul letter thieuth
-314D : Hangul letter phieuph
-314E : Hangul letter hieuh
-314F : Hangul letter a
-3150 : Hangul letter ae
-3151 : Hangul letter ya
-3152 : Hangul letter yae
-3153 : Hangul letter eo
-3154 : Hangul letter e
-3155 : Hangul letter yeo
-3156 : Hangul letter ye
-3157 : Hangul letter o
-3158 : Hangul letter wa
-3159 : Hangul letter wae
-315A : Hangul letter oe
-315B : Hangul letter yo
-315C : Hangul letter u
-315D : Hangul letter weo
-315E : Hangul letter we
-315F : Hangul letter wi
-3160 : Hangul letter yu
-3161 : Hangul letter eu
-3162 : Hangul letter yi
-3163 : Hangul letter i
-3164 : Hangul filler
-3165 : Hangul letter ssangnieun
-3166 : Hangul letter nieun-tikeut
-3167 : Hangul letter nieun-sios
-3168 : Hangul letter nieun-pansios
-3169 : Hangul letter rieul-kiyeok-sios
-316A : Hangul letter rieul-tikeut
-316B : Hangul letter rieul-pieup-sios
-316C : Hangul letter rieul-pansios
-316D : Hangul letter rieul-yeorinhieuh
-316E : Hangul letter mieum-pieup
-316F : Hangul letter mieum-sios
-3170 : Hangul letter mieum-pansios
-3171 : Hangul letter kapyeounmieum
-3172 : Hangul letter pieup-kiyeok
-3173 : Hangul letter pieup-tikeut
-3174 : Hangul letter pieup-sios-kiyeok
-3175 : Hangul letter pieup-sios-tikeut
-3176 : Hangul letter pieup-cieuc
-3177 : Hangul letter pieup-thieuth
-3178 : Hangul letter kapyeounpieup
-3179 : Hangul letter kapyeounssangpieup
-317A : Hangul letter sios-kiyeok
-317B : Hangul letter sios-nieun
-317C : Hangul letter sios-tikeut
-317D : Hangul letter sios-pieup
-317E : Hangul letter sios-cieuc
-317F : Hangul letter pansios
-3180 : Hangul letter ssangieung
-3181 : Hangul letter yesieung
-3182 : Hangul letter yesieung-sios
-3183 : Hangul letter yesieung-pansios
-3184 : Hangul letter kapyeounphieuph
-3185 : Hangul letter ssanghieuh
-3186 : Hangul letter yeorinhieuh
-3187 : Hangul letter yo-ya
-3188 : Hangul letter yo-yae
-3189 : Hangul letter yo-i
-318A : Hangul letter yu-yeo
-318B : Hangul letter yu-ye
-318C : Hangul letter yu-i
-318D : Hangul letter araea
-318E : Hangul letter araeae
+3131 : 朝鲜文字母 Kiyeok
+3132 : 朝鲜文字母 Ssangkiyeok
+3133 : 朝鲜文字母 Kiyeok-Sios
+3134 : 朝鲜文字母 Nieun
+3135 : 朝鲜文字母 Nieun-Cieuc
+3136 : 朝鲜文字母 Nieun-Hieuh
+3137 : 朝鲜文字母 Tikeut
+3138 : 朝鲜文字母 Ssangtikeut
+3139 : 朝鲜文字母 Rieul
+313A : 朝鲜文字母 Rieul-Kiyeok
+313B : 朝鲜文字母 Rieul-Mieum
+313C : 朝鲜文字母 Rieul-Pieup
+313D : 朝鲜文字母 Rieul-Sios
+313E : 朝鲜文字母 Rieul-Thieuth
+313F : 朝鲜文字母 Rieul-Phieuph
+3140 : 朝鲜文字母 Rieul-Hieuh
+3141 : 朝鲜文字母 Mieum
+3142 : 朝鲜文字母 Pieup
+3143 : 朝鲜文字母 Ssangpieup
+3144 : 朝鲜文字母 Pieup-Sios
+3145 : 朝鲜文字母 Sios
+3146 : 朝鲜文字母 Ssangsios
+3147 : 朝鲜文字母 Ieung
+3148 : 朝鲜文字母 Cieuc
+3149 : 朝鲜文字母 Ssangcieuc
+314A : 朝鲜文字母 Chieuch
+314B : 朝鲜文字母 Khieukh
+314C : 朝鲜文字母 Thieuth
+314D : 朝鲜文字母 Phieuph
+314E : 朝鲜文字母 Hieuh
+314F : 朝鲜文字母 A
+3150 : 朝鲜文字母 Ae
+3151 : 朝鲜文字母 Ya
+3152 : 朝鲜文字母 Yae
+3153 : 朝鲜文字母 Eo
+3154 : 朝鲜文字母 E
+3155 : 朝鲜文字母 Yeo
+3156 : 朝鲜文字母 Ye
+3157 : 朝鲜文字母 O
+3158 : 朝鲜文字母 Wa
+3159 : 朝鲜文字母 Wae
+315A : 朝鲜文字母 Oe
+315B : 朝鲜文字母 Yo
+315C : 朝鲜文字母 U
+315D : 朝鲜文字母 Weo
+315E : 朝鲜文字母 We
+315F : 朝鲜文字母 Wi
+3160 : 朝鲜文字母 Yu
+3161 : 朝鲜文字母 Eu
+3162 : 朝鲜文字母 Yi
+3163 : 朝鲜文字母 I
+3164 : 朝鲜文填充符
+3165 : 朝鲜文字母 Ssangnieun
+3166 : 朝鲜文字母 Nieun-Tikeut
+3167 : 朝鲜文字母 Nieun-Sios
+3168 : 朝鲜文字母 Nieun-Pansios
+3169 : 朝鲜文字母 Rieul-Kiyeok-Sios
+316A : 朝鲜文字母 Rieul-Tikeut
+316B : 朝鲜文字母 Rieul-Pieup-Sios
+316C : 朝鲜文字母 Rieul-Pansios
+316D : 朝鲜文字母 Rieul-Yeorinhieuh
+316E : 朝鲜文字母 Mieum-Pieup
+316F : 朝鲜文字母 Mieum-Sios
+3170 : 朝鲜文字母 Mieum-Pansios
+3171 : 朝鲜文字母 Kapyeounmieum
+3172 : 朝鲜文字母 Pieup-Kiyeok
+3173 : 朝鲜文字母 Pieup-Tikeut
+3174 : 朝鲜文字母 Pieup-Sios-Kiyeok
+3175 : 朝鲜文字母 Pieup-Sios-Tikeut
+3176 : 朝鲜文字母 Pieup-Cieuc
+3177 : 朝鲜文字母 Pieup-Thieuth
+3178 : 朝鲜文字母 Kapyeounpieup
+3179 : 朝鲜文字母 Kapyeounssangpieup
+317A : 朝鲜文字母 Sios-Kiyeok
+317B : 朝鲜文字母 Sios-Nieun
+317C : 朝鲜文字母 Sios-Tikeut
+317D : 朝鲜文字母 Sios-Pieup
+317E : 朝鲜文字母 Sios-Cieuc
+317F : 朝鲜文字母 Pansios
+3180 : 朝鲜文字母 Ssangieung
+3181 : 朝鲜文字母 Yesieung
+3182 : 朝鲜文字母 Yesieung-Sios
+3183 : 朝鲜文字母 Yesieung-Pansios
+3184 : 朝鲜文字母 Kapyeounphieuph
+3185 : 朝鲜文字母 Ssanghieuh
+3186 : 朝鲜文字母 Yeorinhieuh
+3187 : 朝鲜文字母 Yo-Ya
+3188 : 朝鲜文字母 Yo-Yae
+3189 : 朝鲜文字母 Yo-I
+318A : 朝鲜文字母 Yu-Yeo
+318B : 朝鲜文字母 Yu-Ye
+318C : 朝鲜文字母 Yu-I
+318D : 朝鲜文字母 Araea
+318E : 朝鲜文字母 Araeae
 318F : 
-3190 : Ideographic annotation linking mark
-3191 : Ideographic annotation reverse mark
-3192 : Ideographic annotation one mark
-3193 : Ideographic annotation two mark
-3194 : Ideographic annotation three mark
-3195 : Ideographic annotation four mark
-3196 : Ideographic annotation top mark
-3197 : Ideographic annotation middle mark
-3198 : Ideographic annotation bottom mark
-3199 : Ideographic annotation first mark
-319A : Ideographic annotation second mark
-319B : Ideographic annotation third mark
-319C : Ideographic annotation fourth mark
-319D : Ideographic annotation heaven mark
-319E : Ideographic annotation earth mark
-319F : Ideographic annotation man mark
-31A0 : Bopomofo letter bu
-31A1 : Bopomofo letter zi
-31A2 : Bopomofo letter ji
-31A3 : Bopomofo letter gu
-31A4 : Bopomofo letter ee
-31A5 : Bopomofo letter enn
-31A6 : Bopomofo letter oo
-31A7 : Bopomofo letter onn
-31A8 : Bopomofo letter ir
-31A9 : Bopomofo letter ann
-31AA : Bopomofo letter inn
-31AB : Bopomofo letter unn
-31AC : Bopomofo letter im
-31AD : Bopomofo letter ngg
-31AE : Bopomofo letter ainn
-31AF : Bopomofo letter aunn
-31B0 : Bopomofo letter am
-31B1 : Bopomofo letter om
-31B2 : Bopomofo letter ong
-31B3 : Bopomofo letter innn
-31B4 : Bopomofo final letter p
-31B5 : Bopomofo final letter t
-31B6 : Bopomofo final letter k
-31B7 : Bopomofo final letter h
+3190 : 象形字注释链接标志
+3191 : 象形字注释反标志
+3192 : 象形字注释一标志
+3193 : 象形字注释二标志
+3194 : 象形字注释三标志
+3195 : 象形字注释四标志
+3196 : 象形字注释上标志
+3197 : 象形字注释中标志
+3198 : 象形字注释下标志
+3199 : 象形字注释第一标志
+319A : 象形字注释第二标志
+319B : 象形字注释第三标志
+319C : 象形字注释第四标志
+319D : 象形字注释天标志
+319E : 象形字注释地标志
+319F : 象形字注释人标志
+31A0 : 注音字母 Bu
+31A1 : 注音字母 Zi
+31A2 : 注音字母 Ji
+31A3 : 注音字母 Gu
+31A4 : 注音字母 Ee
+31A5 : 注音字母 Enn
+31A6 : 注音字母 Oo
+31A7 : 注音字母 Onn
+31A8 : 注音字母 Ir
+31A9 : 注音字母 Ann
+31AA : 注音字母 Inn
+31AB : 注音字母 Unn
+31AC : 注音字母 Im
+31AD : 注音字母 Ngg
+31AE : 注音字母 Ainn
+31AF : 注音字母 Aunn
+31B0 : 注音字母 Am
+31B1 : 注音字母 Om
+31B2 : 注音字母 Ong
+31B3 : 注音字母 Innn
+31B4 : 注音字母尾音 P
+31B5 : 注音字母尾音 T
+31B6 : 注音字母尾音 K
+31B7 : 注音字母尾音 H
 31B8 : 
 31B9 : 
 31BA : 
@@ -190,42 +190,42 @@
 31BD : 
 31BE : 
 31BF : 
-31C0 : Cjk stroke t
-31C1 : Cjk stroke wg
-31C2 : Cjk stroke xg
-31C3 : Cjk stroke bxg
-31C4 : Cjk stroke sw
-31C5 : Cjk stroke hzz
-31C6 : Cjk stroke hzg
-31C7 : Cjk stroke hp
-31C8 : Cjk stroke hzwg
-31C9 : Cjk stroke szwg
-31CA : Cjk stroke hzt
-31CB : Cjk stroke hzzp
-31CC : Cjk stroke hpwg
-31CD : Cjk stroke hzw
-31CE : Cjk stroke hzzz
-31CF : Cjk stroke n
-31D0 : Cjk stroke h
-31D1 : Cjk stroke s
-31D2 : Cjk stroke p
-31D3 : Cjk stroke sp
-31D4 : Cjk stroke d
-31D5 : Cjk stroke hz
-31D6 : Cjk stroke hg
-31D7 : Cjk stroke sz
-31D8 : Cjk stroke swz
-31D9 : Cjk stroke st
-31DA : Cjk stroke sg
-31DB : Cjk stroke pd
-31DC : Cjk stroke pz
-31DD : Cjk stroke tn
-31DE : Cjk stroke szz
-31DF : Cjk stroke swg
-31E0 : Cjk stroke hxwg
-31E1 : Cjk stroke hzzzg
-31E2 : Cjk stroke pg
-31E3 : Cjk stroke q
+31C0 : 中日韩笔划 T
+31C1 : 中日韩笔划 Wg
+31C2 : 中日韩笔划 Xg
+31C3 : 中日韩笔划 Bxg
+31C4 : 中日韩笔划 Sw
+31C5 : 中日韩笔划 Hzz
+31C6 : 中日韩笔划 Hzg
+31C7 : 中日韩笔划 Hp
+31C8 : 中日韩笔划 Hzwg
+31C9 : 中日韩笔划 Szwg
+31CA : 中日韩笔划 Hzt
+31CB : 中日韩笔划 Hzzp
+31CC : 中日韩笔划 Hpwg
+31CD : 中日韩笔划 Hzw
+31CE : 中日韩笔划 Hzzz
+31CF : 中日韩笔划 N
+31D0 : 中日韩笔划 H
+31D1 : 中日韩笔划 S
+31D2 : 中日韩笔划 P
+31D3 : 中日韩笔划 Sp
+31D4 : 中日韩笔划 D
+31D5 : 中日韩笔划 Hz
+31D6 : 中日韩笔划 Hg
+31D7 : 中日韩笔划 Sz
+31D8 : 中日韩笔划 Swz
+31D9 : 中日韩笔划 St
+31DA : 中日韩笔划 Sg
+31DB : 中日韩笔划 Pd
+31DC : 中日韩笔划 Pz
+31DD : 中日韩笔划 Tn
+31DE : 中日韩笔划 Szz
+31DF : 中日韩笔划 Swg
+31E0 : 中日韩笔划 Hxwg
+31E1 : 中日韩笔划 Hzzzg
+31E2 : 中日韩笔划 Pg
+31E3 : 中日韩笔划 Q
 31E4 : 
 31E5 : 
 31E6 : 
@@ -238,19 +238,19 @@
 31ED : 
 31EE : 
 31EF : 
-31F0 : Katakana letter small ku
-31F1 : Katakana letter small si
-31F2 : Katakana letter small su
-31F3 : Katakana letter small to
-31F4 : Katakana letter small nu
-31F5 : Katakana letter small ha
-31F6 : Katakana letter small hi
-31F7 : Katakana letter small hu
-31F8 : Katakana letter small he
-31F9 : Katakana letter small ho
-31FA : Katakana letter small mu
-31FB : Katakana letter small ra
-31FC : Katakana letter small ri
-31FD : Katakana letter small ru
-31FE : Katakana letter small re
-31FF : Katakana letter small ro
+31F0 : 片假名字母小型 Ku
+31F1 : 片假名字母小型 Si
+31F2 : 片假名字母小型 Su
+31F3 : 片假名字母小型 To
+31F4 : 片假名字母小型 Nu
+31F5 : 片假名字母小型 Ha
+31F6 : 片假名字母小型 Hi
+31F7 : 片假名字母小型 Hu
+31F8 : 片假名字母小型 He
+31F9 : 片假名字母小型 Ho
+31FA : 片假名字母小型 Mu
+31FB : 片假名字母小型 Ra
+31FC : 片假名字母小型 Ri
+31FD : 片假名字母小型 Ru
+31FE : 片假名字母小型 Re
+31FF : 片假名字母小型 Ro

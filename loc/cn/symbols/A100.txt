@@ -1,256 +1,256 @@
-A100 : Yi syllable dit
-A101 : Yi syllable dix
-A102 : Yi syllable di
-A103 : Yi syllable dip
-A104 : Yi syllable diex
-A105 : Yi syllable die
-A106 : Yi syllable diep
-A107 : Yi syllable dat
-A108 : Yi syllable dax
-A109 : Yi syllable da
-A10A : Yi syllable dap
-A10B : Yi syllable duox
-A10C : Yi syllable duo
-A10D : Yi syllable dot
-A10E : Yi syllable dox
-A10F : Yi syllable do
-A110 : Yi syllable dop
-A111 : Yi syllable dex
-A112 : Yi syllable de
-A113 : Yi syllable dep
-A114 : Yi syllable dut
-A115 : Yi syllable dux
-A116 : Yi syllable du
-A117 : Yi syllable dup
-A118 : Yi syllable durx
-A119 : Yi syllable dur
-A11A : Yi syllable tit
-A11B : Yi syllable tix
-A11C : Yi syllable ti
-A11D : Yi syllable tip
-A11E : Yi syllable tiex
-A11F : Yi syllable tie
-A120 : Yi syllable tiep
-A121 : Yi syllable tat
-A122 : Yi syllable tax
-A123 : Yi syllable ta
-A124 : Yi syllable tap
-A125 : Yi syllable tuot
-A126 : Yi syllable tuox
-A127 : Yi syllable tuo
-A128 : Yi syllable tuop
-A129 : Yi syllable tot
-A12A : Yi syllable tox
-A12B : Yi syllable to
-A12C : Yi syllable top
-A12D : Yi syllable tex
-A12E : Yi syllable te
-A12F : Yi syllable tep
-A130 : Yi syllable tut
-A131 : Yi syllable tux
-A132 : Yi syllable tu
-A133 : Yi syllable tup
-A134 : Yi syllable turx
-A135 : Yi syllable tur
-A136 : Yi syllable ddit
-A137 : Yi syllable ddix
-A138 : Yi syllable ddi
-A139 : Yi syllable ddip
-A13A : Yi syllable ddiex
-A13B : Yi syllable ddie
-A13C : Yi syllable ddiep
-A13D : Yi syllable ddat
-A13E : Yi syllable ddax
-A13F : Yi syllable dda
-A140 : Yi syllable ddap
-A141 : Yi syllable dduox
-A142 : Yi syllable dduo
-A143 : Yi syllable dduop
-A144 : Yi syllable ddot
-A145 : Yi syllable ddox
-A146 : Yi syllable ddo
-A147 : Yi syllable ddop
-A148 : Yi syllable ddex
-A149 : Yi syllable dde
-A14A : Yi syllable ddep
-A14B : Yi syllable ddut
-A14C : Yi syllable ddux
-A14D : Yi syllable ddu
-A14E : Yi syllable ddup
-A14F : Yi syllable ddurx
-A150 : Yi syllable ddur
-A151 : Yi syllable ndit
-A152 : Yi syllable ndix
-A153 : Yi syllable ndi
-A154 : Yi syllable ndip
-A155 : Yi syllable ndiex
-A156 : Yi syllable ndie
-A157 : Yi syllable ndat
-A158 : Yi syllable ndax
-A159 : Yi syllable nda
-A15A : Yi syllable ndap
-A15B : Yi syllable ndot
-A15C : Yi syllable ndox
-A15D : Yi syllable ndo
-A15E : Yi syllable ndop
-A15F : Yi syllable ndex
-A160 : Yi syllable nde
-A161 : Yi syllable ndep
-A162 : Yi syllable ndut
-A163 : Yi syllable ndux
-A164 : Yi syllable ndu
-A165 : Yi syllable ndup
-A166 : Yi syllable ndurx
-A167 : Yi syllable ndur
-A168 : Yi syllable hnit
-A169 : Yi syllable hnix
-A16A : Yi syllable hni
-A16B : Yi syllable hnip
-A16C : Yi syllable hniet
-A16D : Yi syllable hniex
-A16E : Yi syllable hnie
-A16F : Yi syllable hniep
-A170 : Yi syllable hnat
-A171 : Yi syllable hnax
-A172 : Yi syllable hna
-A173 : Yi syllable hnap
-A174 : Yi syllable hnuox
-A175 : Yi syllable hnuo
-A176 : Yi syllable hnot
-A177 : Yi syllable hnox
-A178 : Yi syllable hnop
-A179 : Yi syllable hnex
-A17A : Yi syllable hne
-A17B : Yi syllable hnep
-A17C : Yi syllable hnut
-A17D : Yi syllable nit
-A17E : Yi syllable nix
-A17F : Yi syllable ni
-A180 : Yi syllable nip
-A181 : Yi syllable niex
-A182 : Yi syllable nie
-A183 : Yi syllable niep
-A184 : Yi syllable nax
-A185 : Yi syllable na
-A186 : Yi syllable nap
-A187 : Yi syllable nuox
-A188 : Yi syllable nuo
-A189 : Yi syllable nuop
-A18A : Yi syllable not
-A18B : Yi syllable nox
-A18C : Yi syllable no
-A18D : Yi syllable nop
-A18E : Yi syllable nex
-A18F : Yi syllable ne
-A190 : Yi syllable nep
-A191 : Yi syllable nut
-A192 : Yi syllable nux
-A193 : Yi syllable nu
-A194 : Yi syllable nup
-A195 : Yi syllable nurx
-A196 : Yi syllable nur
-A197 : Yi syllable hlit
-A198 : Yi syllable hlix
-A199 : Yi syllable hli
-A19A : Yi syllable hlip
-A19B : Yi syllable hliex
-A19C : Yi syllable hlie
-A19D : Yi syllable hliep
-A19E : Yi syllable hlat
-A19F : Yi syllable hlax
-A1A0 : Yi syllable hla
-A1A1 : Yi syllable hlap
-A1A2 : Yi syllable hluox
-A1A3 : Yi syllable hluo
-A1A4 : Yi syllable hluop
-A1A5 : Yi syllable hlox
-A1A6 : Yi syllable hlo
-A1A7 : Yi syllable hlop
-A1A8 : Yi syllable hlex
-A1A9 : Yi syllable hle
-A1AA : Yi syllable hlep
-A1AB : Yi syllable hlut
-A1AC : Yi syllable hlux
-A1AD : Yi syllable hlu
-A1AE : Yi syllable hlup
-A1AF : Yi syllable hlurx
-A1B0 : Yi syllable hlur
-A1B1 : Yi syllable hlyt
-A1B2 : Yi syllable hlyx
-A1B3 : Yi syllable hly
-A1B4 : Yi syllable hlyp
-A1B5 : Yi syllable hlyrx
-A1B6 : Yi syllable hlyr
-A1B7 : Yi syllable lit
-A1B8 : Yi syllable lix
-A1B9 : Yi syllable li
-A1BA : Yi syllable lip
-A1BB : Yi syllable liet
-A1BC : Yi syllable liex
-A1BD : Yi syllable lie
-A1BE : Yi syllable liep
-A1BF : Yi syllable lat
-A1C0 : Yi syllable lax
-A1C1 : Yi syllable la
-A1C2 : Yi syllable lap
-A1C3 : Yi syllable luot
-A1C4 : Yi syllable luox
-A1C5 : Yi syllable luo
-A1C6 : Yi syllable luop
-A1C7 : Yi syllable lot
-A1C8 : Yi syllable lox
-A1C9 : Yi syllable lo
-A1CA : Yi syllable lop
-A1CB : Yi syllable lex
-A1CC : Yi syllable le
-A1CD : Yi syllable lep
-A1CE : Yi syllable lut
-A1CF : Yi syllable lux
-A1D0 : Yi syllable lu
-A1D1 : Yi syllable lup
-A1D2 : Yi syllable lurx
-A1D3 : Yi syllable lur
-A1D4 : Yi syllable lyt
-A1D5 : Yi syllable lyx
-A1D6 : Yi syllable ly
-A1D7 : Yi syllable lyp
-A1D8 : Yi syllable lyrx
-A1D9 : Yi syllable lyr
-A1DA : Yi syllable git
-A1DB : Yi syllable gix
-A1DC : Yi syllable gi
-A1DD : Yi syllable gip
-A1DE : Yi syllable giet
-A1DF : Yi syllable giex
-A1E0 : Yi syllable gie
-A1E1 : Yi syllable giep
-A1E2 : Yi syllable gat
-A1E3 : Yi syllable gax
-A1E4 : Yi syllable ga
-A1E5 : Yi syllable gap
-A1E6 : Yi syllable guot
-A1E7 : Yi syllable guox
-A1E8 : Yi syllable guo
-A1E9 : Yi syllable guop
-A1EA : Yi syllable got
-A1EB : Yi syllable gox
-A1EC : Yi syllable go
-A1ED : Yi syllable gop
-A1EE : Yi syllable get
-A1EF : Yi syllable gex
-A1F0 : Yi syllable ge
-A1F1 : Yi syllable gep
-A1F2 : Yi syllable gut
-A1F3 : Yi syllable gux
-A1F4 : Yi syllable gu
-A1F5 : Yi syllable gup
-A1F6 : Yi syllable gurx
-A1F7 : Yi syllable gur
-A1F8 : Yi syllable kit
-A1F9 : Yi syllable kix
-A1FA : Yi syllable ki
-A1FB : Yi syllable kip
-A1FC : Yi syllable kiex
-A1FD : Yi syllable kie
-A1FE : Yi syllable kiep
-A1FF : Yi syllable kat
+A100 : 彝语音节 Dit
+A101 : 彝语音节 Dix
+A102 : 彝语音节 Di
+A103 : 彝语音节 Dip
+A104 : 彝语音节 Diex
+A105 : 彝语音节 Die
+A106 : 彝语音节 Diep
+A107 : 彝语音节 Dat
+A108 : 彝语音节 Dax
+A109 : 彝语音节 Da
+A10A : 彝语音节 Dap
+A10B : 彝语音节 Duox
+A10C : 彝语音节 Duo
+A10D : 彝语音节 Dot
+A10E : 彝语音节 Dox
+A10F : 彝语音节 Do
+A110 : 彝语音节 Dop
+A111 : 彝语音节 Dex
+A112 : 彝语音节 De
+A113 : 彝语音节 Dep
+A114 : 彝语音节 Dut
+A115 : 彝语音节 Dux
+A116 : 彝语音节 Du
+A117 : 彝语音节 Dup
+A118 : 彝语音节 Durx
+A119 : 彝语音节 Dur
+A11A : 彝语音节 Tit
+A11B : 彝语音节 Tix
+A11C : 彝语音节 Ti
+A11D : 彝语音节 Tip
+A11E : 彝语音节 Tiex
+A11F : 彝语音节 Tie
+A120 : 彝语音节 Tiep
+A121 : 彝语音节 Tat
+A122 : 彝语音节 Tax
+A123 : 彝语音节 Ta
+A124 : 彝语音节 Tap
+A125 : 彝语音节 Tuot
+A126 : 彝语音节 Tuox
+A127 : 彝语音节 Tuo
+A128 : 彝语音节 Tuop
+A129 : 彝语音节 Tot
+A12A : 彝语音节 Tox
+A12B : 彝语音节 To
+A12C : 彝语音节 Top
+A12D : 彝语音节 Tex
+A12E : 彝语音节 Te
+A12F : 彝语音节 Tep
+A130 : 彝语音节 Tut
+A131 : 彝语音节 Tux
+A132 : 彝语音节 Tu
+A133 : 彝语音节 Tup
+A134 : 彝语音节 Turx
+A135 : 彝语音节 Tur
+A136 : 彝语音节 Ddit
+A137 : 彝语音节 Ddix
+A138 : 彝语音节 Ddi
+A139 : 彝语音节 Ddip
+A13A : 彝语音节 Ddiex
+A13B : 彝语音节 Ddie
+A13C : 彝语音节 Ddiep
+A13D : 彝语音节 Ddat
+A13E : 彝语音节 Ddax
+A13F : 彝语音节 Dda
+A140 : 彝语音节 Ddap
+A141 : 彝语音节 Dduox
+A142 : 彝语音节 Dduo
+A143 : 彝语音节 Dduop
+A144 : 彝语音节 Ddot
+A145 : 彝语音节 Ddox
+A146 : 彝语音节 Ddo
+A147 : 彝语音节 Ddop
+A148 : 彝语音节 Ddex
+A149 : 彝语音节 Dde
+A14A : 彝语音节 Ddep
+A14B : 彝语音节 Ddut
+A14C : 彝语音节 Ddux
+A14D : 彝语音节 Ddu
+A14E : 彝语音节 Ddup
+A14F : 彝语音节 Ddurx
+A150 : 彝语音节 Ddur
+A151 : 彝语音节 Ndit
+A152 : 彝语音节 Ndix
+A153 : 彝语音节 Ndi
+A154 : 彝语音节 Ndip
+A155 : 彝语音节 Ndiex
+A156 : 彝语音节 Ndie
+A157 : 彝语音节 Ndat
+A158 : 彝语音节 Ndax
+A159 : 彝语音节 Nda
+A15A : 彝语音节 Ndap
+A15B : 彝语音节 Ndot
+A15C : 彝语音节 Ndox
+A15D : 彝语音节 Ndo
+A15E : 彝语音节 Ndop
+A15F : 彝语音节 Ndex
+A160 : 彝语音节 Nde
+A161 : 彝语音节 Ndep
+A162 : 彝语音节 Ndut
+A163 : 彝语音节 Ndux
+A164 : 彝语音节 Ndu
+A165 : 彝语音节 Ndup
+A166 : 彝语音节 Ndurx
+A167 : 彝语音节 Ndur
+A168 : 彝语音节 Hnit
+A169 : 彝语音节 Hnix
+A16A : 彝语音节 Hni
+A16B : 彝语音节 Hnip
+A16C : 彝语音节 Hniet
+A16D : 彝语音节 Hniex
+A16E : 彝语音节 Hnie
+A16F : 彝语音节 Hniep
+A170 : 彝语音节 Hnat
+A171 : 彝语音节 Hnax
+A172 : 彝语音节 Hna
+A173 : 彝语音节 Hnap
+A174 : 彝语音节 Hnuox
+A175 : 彝语音节 Hnuo
+A176 : 彝语音节 Hnot
+A177 : 彝语音节 Hnox
+A178 : 彝语音节 Hnop
+A179 : 彝语音节 Hnex
+A17A : 彝语音节 Hne
+A17B : 彝语音节 Hnep
+A17C : 彝语音节 Hnut
+A17D : 彝语音节 Nit
+A17E : 彝语音节 Nix
+A17F : 彝语音节 Ni
+A180 : 彝语音节 Nip
+A181 : 彝语音节 Niex
+A182 : 彝语音节 Nie
+A183 : 彝语音节 Niep
+A184 : 彝语音节 Nax
+A185 : 彝语音节 Na
+A186 : 彝语音节 Nap
+A187 : 彝语音节 Nuox
+A188 : 彝语音节 Nuo
+A189 : 彝语音节 Nuop
+A18A : 彝语音节 Not
+A18B : 彝语音节 Nox
+A18C : 彝语音节 No
+A18D : 彝语音节 Nop
+A18E : 彝语音节 Nex
+A18F : 彝语音节 Ne
+A190 : 彝语音节 Nep
+A191 : 彝语音节 Nut
+A192 : 彝语音节 Nux
+A193 : 彝语音节 Nu
+A194 : 彝语音节 Nup
+A195 : 彝语音节 Nurx
+A196 : 彝语音节 Nur
+A197 : 彝语音节 Hlit
+A198 : 彝语音节 Hlix
+A199 : 彝语音节 Hli
+A19A : 彝语音节 Hlip
+A19B : 彝语音节 Hliex
+A19C : 彝语音节 Hlie
+A19D : 彝语音节 Hliep
+A19E : 彝语音节 Hlat
+A19F : 彝语音节 Hlax
+A1A0 : 彝语音节 Hla
+A1A1 : 彝语音节 Hlap
+A1A2 : 彝语音节 Hluox
+A1A3 : 彝语音节 Hluo
+A1A4 : 彝语音节 Hluop
+A1A5 : 彝语音节 Hlox
+A1A6 : 彝语音节 Hlo
+A1A7 : 彝语音节 Hlop
+A1A8 : 彝语音节 Hlex
+A1A9 : 彝语音节 Hle
+A1AA : 彝语音节 Hlep
+A1AB : 彝语音节 Hlut
+A1AC : 彝语音节 Hlux
+A1AD : 彝语音节 Hlu
+A1AE : 彝语音节 Hlup
+A1AF : 彝语音节 Hlurx
+A1B0 : 彝语音节 Hlur
+A1B1 : 彝语音节 Hlyt
+A1B2 : 彝语音节 Hlyx
+A1B3 : 彝语音节 Hly
+A1B4 : 彝语音节 Hlyp
+A1B5 : 彝语音节 Hlyrx
+A1B6 : 彝语音节 Hlyr
+A1B7 : 彝语音节 Lit
+A1B8 : 彝语音节 Lix
+A1B9 : 彝语音节 Li
+A1BA : 彝语音节 Lip
+A1BB : 彝语音节 Liet
+A1BC : 彝语音节 Liex
+A1BD : 彝语音节 Lie
+A1BE : 彝语音节 Liep
+A1BF : 彝语音节 Lat
+A1C0 : 彝语音节 Lax
+A1C1 : 彝语音节 La
+A1C2 : 彝语音节 Lap
+A1C3 : 彝语音节 Luot
+A1C4 : 彝语音节 Luox
+A1C5 : 彝语音节 Luo
+A1C6 : 彝语音节 Luop
+A1C7 : 彝语音节 Lot
+A1C8 : 彝语音节 Lox
+A1C9 : 彝语音节 Lo
+A1CA : 彝语音节 Lop
+A1CB : 彝语音节 Lex
+A1CC : 彝语音节 Le
+A1CD : 彝语音节 Lep
+A1CE : 彝语音节 Lut
+A1CF : 彝语音节 Lux
+A1D0 : 彝语音节 Lu
+A1D1 : 彝语音节 Lup
+A1D2 : 彝语音节 Lurx
+A1D3 : 彝语音节 Lur
+A1D4 : 彝语音节 Lyt
+A1D5 : 彝语音节 Lyx
+A1D6 : 彝语音节 Ly
+A1D7 : 彝语音节 Lyp
+A1D8 : 彝语音节 Lyrx
+A1D9 : 彝语音节 Lyr
+A1DA : 彝语音节 Git
+A1DB : 彝语音节 Gix
+A1DC : 彝语音节 Gi
+A1DD : 彝语音节 Gip
+A1DE : 彝语音节 Giet
+A1DF : 彝语音节 Giex
+A1E0 : 彝语音节 Gie
+A1E1 : 彝语音节 Giep
+A1E2 : 彝语音节 Gat
+A1E3 : 彝语音节 Gax
+A1E4 : 彝语音节 Ga
+A1E5 : 彝语音节 Gap
+A1E6 : 彝语音节 Guot
+A1E7 : 彝语音节 Guox
+A1E8 : 彝语音节 Guo
+A1E9 : 彝语音节 Guop
+A1EA : 彝语音节 Got
+A1EB : 彝语音节 Gox
+A1EC : 彝语音节 Go
+A1ED : 彝语音节 Gop
+A1EE : 彝语音节 Get
+A1EF : 彝语音节 Gex
+A1F0 : 彝语音节 Ge
+A1F1 : 彝语音节 Gep
+A1F2 : 彝语音节 Gut
+A1F3 : 彝语音节 Gux
+A1F4 : 彝语音节 Gu
+A1F5 : 彝语音节 Gup
+A1F6 : 彝语音节 Gurx
+A1F7 : 彝语音节 Gur
+A1F8 : 彝语音节 Kit
+A1F9 : 彝语音节 Kix
+A1FA : 彝语音节 Ki
+A1FB : 彝语音节 Kip
+A1FC : 彝语音节 Kiex
+A1FD : 彝语音节 Kie
+A1FE : 彝语音节 Kiep
+A1FF : 彝语音节 Kat

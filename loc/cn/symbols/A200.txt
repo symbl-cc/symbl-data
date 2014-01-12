@@ -1,256 +1,256 @@
-A200 : Yi syllable kax
-A201 : Yi syllable ka
-A202 : Yi syllable kap
-A203 : Yi syllable kuox
-A204 : Yi syllable kuo
-A205 : Yi syllable kuop
-A206 : Yi syllable kot
-A207 : Yi syllable kox
-A208 : Yi syllable ko
-A209 : Yi syllable kop
-A20A : Yi syllable ket
-A20B : Yi syllable kex
-A20C : Yi syllable ke
-A20D : Yi syllable kep
-A20E : Yi syllable kut
-A20F : Yi syllable kux
-A210 : Yi syllable ku
-A211 : Yi syllable kup
-A212 : Yi syllable kurx
-A213 : Yi syllable kur
-A214 : Yi syllable ggit
-A215 : Yi syllable ggix
-A216 : Yi syllable ggi
-A217 : Yi syllable ggiex
-A218 : Yi syllable ggie
-A219 : Yi syllable ggiep
-A21A : Yi syllable ggat
-A21B : Yi syllable ggax
-A21C : Yi syllable gga
-A21D : Yi syllable ggap
-A21E : Yi syllable gguot
-A21F : Yi syllable gguox
-A220 : Yi syllable gguo
-A221 : Yi syllable gguop
-A222 : Yi syllable ggot
-A223 : Yi syllable ggox
-A224 : Yi syllable ggo
-A225 : Yi syllable ggop
-A226 : Yi syllable gget
-A227 : Yi syllable ggex
-A228 : Yi syllable gge
-A229 : Yi syllable ggep
-A22A : Yi syllable ggut
-A22B : Yi syllable ggux
-A22C : Yi syllable ggu
-A22D : Yi syllable ggup
-A22E : Yi syllable ggurx
-A22F : Yi syllable ggur
-A230 : Yi syllable mgiex
-A231 : Yi syllable mgie
-A232 : Yi syllable mgat
-A233 : Yi syllable mgax
-A234 : Yi syllable mga
-A235 : Yi syllable mgap
-A236 : Yi syllable mguox
-A237 : Yi syllable mguo
-A238 : Yi syllable mguop
-A239 : Yi syllable mgot
-A23A : Yi syllable mgox
-A23B : Yi syllable mgo
-A23C : Yi syllable mgop
-A23D : Yi syllable mgex
-A23E : Yi syllable mge
-A23F : Yi syllable mgep
-A240 : Yi syllable mgut
-A241 : Yi syllable mgux
-A242 : Yi syllable mgu
-A243 : Yi syllable mgup
-A244 : Yi syllable mgurx
-A245 : Yi syllable mgur
-A246 : Yi syllable hxit
-A247 : Yi syllable hxix
-A248 : Yi syllable hxi
-A249 : Yi syllable hxip
-A24A : Yi syllable hxiet
-A24B : Yi syllable hxiex
-A24C : Yi syllable hxie
-A24D : Yi syllable hxiep
-A24E : Yi syllable hxat
-A24F : Yi syllable hxax
-A250 : Yi syllable hxa
-A251 : Yi syllable hxap
-A252 : Yi syllable hxuot
-A253 : Yi syllable hxuox
-A254 : Yi syllable hxuo
-A255 : Yi syllable hxuop
-A256 : Yi syllable hxot
-A257 : Yi syllable hxox
-A258 : Yi syllable hxo
-A259 : Yi syllable hxop
-A25A : Yi syllable hxex
-A25B : Yi syllable hxe
-A25C : Yi syllable hxep
-A25D : Yi syllable ngiex
-A25E : Yi syllable ngie
-A25F : Yi syllable ngiep
-A260 : Yi syllable ngat
-A261 : Yi syllable ngax
-A262 : Yi syllable nga
-A263 : Yi syllable ngap
-A264 : Yi syllable nguot
-A265 : Yi syllable nguox
-A266 : Yi syllable nguo
-A267 : Yi syllable ngot
-A268 : Yi syllable ngox
-A269 : Yi syllable ngo
-A26A : Yi syllable ngop
-A26B : Yi syllable ngex
-A26C : Yi syllable nge
-A26D : Yi syllable ngep
-A26E : Yi syllable hit
-A26F : Yi syllable hiex
-A270 : Yi syllable hie
-A271 : Yi syllable hat
-A272 : Yi syllable hax
-A273 : Yi syllable ha
-A274 : Yi syllable hap
-A275 : Yi syllable huot
-A276 : Yi syllable huox
-A277 : Yi syllable huo
-A278 : Yi syllable huop
-A279 : Yi syllable hot
-A27A : Yi syllable hox
-A27B : Yi syllable ho
-A27C : Yi syllable hop
-A27D : Yi syllable hex
-A27E : Yi syllable he
-A27F : Yi syllable hep
-A280 : Yi syllable wat
-A281 : Yi syllable wax
-A282 : Yi syllable wa
-A283 : Yi syllable wap
-A284 : Yi syllable wuox
-A285 : Yi syllable wuo
-A286 : Yi syllable wuop
-A287 : Yi syllable wox
-A288 : Yi syllable wo
-A289 : Yi syllable wop
-A28A : Yi syllable wex
-A28B : Yi syllable we
-A28C : Yi syllable wep
-A28D : Yi syllable zit
-A28E : Yi syllable zix
-A28F : Yi syllable zi
-A290 : Yi syllable zip
-A291 : Yi syllable ziex
-A292 : Yi syllable zie
-A293 : Yi syllable ziep
-A294 : Yi syllable zat
-A295 : Yi syllable zax
-A296 : Yi syllable za
-A297 : Yi syllable zap
-A298 : Yi syllable zuox
-A299 : Yi syllable zuo
-A29A : Yi syllable zuop
-A29B : Yi syllable zot
-A29C : Yi syllable zox
-A29D : Yi syllable zo
-A29E : Yi syllable zop
-A29F : Yi syllable zex
-A2A0 : Yi syllable ze
-A2A1 : Yi syllable zep
-A2A2 : Yi syllable zut
-A2A3 : Yi syllable zux
-A2A4 : Yi syllable zu
-A2A5 : Yi syllable zup
-A2A6 : Yi syllable zurx
-A2A7 : Yi syllable zur
-A2A8 : Yi syllable zyt
-A2A9 : Yi syllable zyx
-A2AA : Yi syllable zy
-A2AB : Yi syllable zyp
-A2AC : Yi syllable zyrx
-A2AD : Yi syllable zyr
-A2AE : Yi syllable cit
-A2AF : Yi syllable cix
-A2B0 : Yi syllable ci
-A2B1 : Yi syllable cip
-A2B2 : Yi syllable ciet
-A2B3 : Yi syllable ciex
-A2B4 : Yi syllable cie
-A2B5 : Yi syllable ciep
-A2B6 : Yi syllable cat
-A2B7 : Yi syllable cax
-A2B8 : Yi syllable ca
-A2B9 : Yi syllable cap
-A2BA : Yi syllable cuox
-A2BB : Yi syllable cuo
-A2BC : Yi syllable cuop
-A2BD : Yi syllable cot
-A2BE : Yi syllable cox
-A2BF : Yi syllable co
-A2C0 : Yi syllable cop
-A2C1 : Yi syllable cex
-A2C2 : Yi syllable ce
-A2C3 : Yi syllable cep
-A2C4 : Yi syllable cut
-A2C5 : Yi syllable cux
-A2C6 : Yi syllable cu
-A2C7 : Yi syllable cup
-A2C8 : Yi syllable curx
-A2C9 : Yi syllable cur
-A2CA : Yi syllable cyt
-A2CB : Yi syllable cyx
-A2CC : Yi syllable cy
-A2CD : Yi syllable cyp
-A2CE : Yi syllable cyrx
-A2CF : Yi syllable cyr
-A2D0 : Yi syllable zzit
-A2D1 : Yi syllable zzix
-A2D2 : Yi syllable zzi
-A2D3 : Yi syllable zzip
-A2D4 : Yi syllable zziet
-A2D5 : Yi syllable zziex
-A2D6 : Yi syllable zzie
-A2D7 : Yi syllable zziep
-A2D8 : Yi syllable zzat
-A2D9 : Yi syllable zzax
-A2DA : Yi syllable zza
-A2DB : Yi syllable zzap
-A2DC : Yi syllable zzox
-A2DD : Yi syllable zzo
-A2DE : Yi syllable zzop
-A2DF : Yi syllable zzex
-A2E0 : Yi syllable zze
-A2E1 : Yi syllable zzep
-A2E2 : Yi syllable zzux
-A2E3 : Yi syllable zzu
-A2E4 : Yi syllable zzup
-A2E5 : Yi syllable zzurx
-A2E6 : Yi syllable zzur
-A2E7 : Yi syllable zzyt
-A2E8 : Yi syllable zzyx
-A2E9 : Yi syllable zzy
-A2EA : Yi syllable zzyp
-A2EB : Yi syllable zzyrx
-A2EC : Yi syllable zzyr
-A2ED : Yi syllable nzit
-A2EE : Yi syllable nzix
-A2EF : Yi syllable nzi
-A2F0 : Yi syllable nzip
-A2F1 : Yi syllable nziex
-A2F2 : Yi syllable nzie
-A2F3 : Yi syllable nziep
-A2F4 : Yi syllable nzat
-A2F5 : Yi syllable nzax
-A2F6 : Yi syllable nza
-A2F7 : Yi syllable nzap
-A2F8 : Yi syllable nzuox
-A2F9 : Yi syllable nzuo
-A2FA : Yi syllable nzox
-A2FB : Yi syllable nzop
-A2FC : Yi syllable nzex
-A2FD : Yi syllable nze
-A2FE : Yi syllable nzux
-A2FF : Yi syllable nzu
+A200 : 彝语音节 Kax
+A201 : 彝语音节 Ka
+A202 : 彝语音节 Kap
+A203 : 彝语音节 Kuox
+A204 : 彝语音节 Kuo
+A205 : 彝语音节 Kuop
+A206 : 彝语音节 Kot
+A207 : 彝语音节 Kox
+A208 : 彝语音节 Ko
+A209 : 彝语音节 Kop
+A20A : 彝语音节 Ket
+A20B : 彝语音节 Kex
+A20C : 彝语音节 Ke
+A20D : 彝语音节 Kep
+A20E : 彝语音节 Kut
+A20F : 彝语音节 Kux
+A210 : 彝语音节 Ku
+A211 : 彝语音节 Kup
+A212 : 彝语音节 Kurx
+A213 : 彝语音节 Kur
+A214 : 彝语音节 Ggit
+A215 : 彝语音节 Ggix
+A216 : 彝语音节 Ggi
+A217 : 彝语音节 Ggiex
+A218 : 彝语音节 Ggie
+A219 : 彝语音节 Ggiep
+A21A : 彝语音节 Ggat
+A21B : 彝语音节 Ggax
+A21C : 彝语音节 Gga
+A21D : 彝语音节 Ggap
+A21E : 彝语音节 Gguot
+A21F : 彝语音节 Gguox
+A220 : 彝语音节 Gguo
+A221 : 彝语音节 Gguop
+A222 : 彝语音节 Ggot
+A223 : 彝语音节 Ggox
+A224 : 彝语音节 Ggo
+A225 : 彝语音节 Ggop
+A226 : 彝语音节 Gget
+A227 : 彝语音节 Ggex
+A228 : 彝语音节 Gge
+A229 : 彝语音节 Ggep
+A22A : 彝语音节 Ggut
+A22B : 彝语音节 Ggux
+A22C : 彝语音节 Ggu
+A22D : 彝语音节 Ggup
+A22E : 彝语音节 Ggurx
+A22F : 彝语音节 Ggur
+A230 : 彝语音节 Mgiex
+A231 : 彝语音节 Mgie
+A232 : 彝语音节 Mgat
+A233 : 彝语音节 Mgax
+A234 : 彝语音节 Mga
+A235 : 彝语音节 Mgap
+A236 : 彝语音节 Mguox
+A237 : 彝语音节 Mguo
+A238 : 彝语音节 Mguop
+A239 : 彝语音节 Mgot
+A23A : 彝语音节 Mgox
+A23B : 彝语音节 Mgo
+A23C : 彝语音节 Mgop
+A23D : 彝语音节 Mgex
+A23E : 彝语音节 Mge
+A23F : 彝语音节 Mgep
+A240 : 彝语音节 Mgut
+A241 : 彝语音节 Mgux
+A242 : 彝语音节 Mgu
+A243 : 彝语音节 Mgup
+A244 : 彝语音节 Mgurx
+A245 : 彝语音节 Mgur
+A246 : 彝语音节 Hxit
+A247 : 彝语音节 Hxix
+A248 : 彝语音节 Hxi
+A249 : 彝语音节 Hxip
+A24A : 彝语音节 Hxiet
+A24B : 彝语音节 Hxiex
+A24C : 彝语音节 Hxie
+A24D : 彝语音节 Hxiep
+A24E : 彝语音节 Hxat
+A24F : 彝语音节 Hxax
+A250 : 彝语音节 Hxa
+A251 : 彝语音节 Hxap
+A252 : 彝语音节 Hxuot
+A253 : 彝语音节 Hxuox
+A254 : 彝语音节 Hxuo
+A255 : 彝语音节 Hxuop
+A256 : 彝语音节 Hxot
+A257 : 彝语音节 Hxox
+A258 : 彝语音节 Hxo
+A259 : 彝语音节 Hxop
+A25A : 彝语音节 Hxex
+A25B : 彝语音节 Hxe
+A25C : 彝语音节 Hxep
+A25D : 彝语音节 Ngiex
+A25E : 彝语音节 Ngie
+A25F : 彝语音节 Ngiep
+A260 : 彝语音节 Ngat
+A261 : 彝语音节 Ngax
+A262 : 彝语音节 Nga
+A263 : 彝语音节 Ngap
+A264 : 彝语音节 Nguot
+A265 : 彝语音节 Nguox
+A266 : 彝语音节 Nguo
+A267 : 彝语音节 Ngot
+A268 : 彝语音节 Ngox
+A269 : 彝语音节 Ngo
+A26A : 彝语音节 Ngop
+A26B : 彝语音节 Ngex
+A26C : 彝语音节 Nge
+A26D : 彝语音节 Ngep
+A26E : 彝语音节 Hit
+A26F : 彝语音节 Hiex
+A270 : 彝语音节 Hie
+A271 : 彝语音节 Hat
+A272 : 彝语音节 Hax
+A273 : 彝语音节 Ha
+A274 : 彝语音节 Hap
+A275 : 彝语音节 Huot
+A276 : 彝语音节 Huox
+A277 : 彝语音节 Huo
+A278 : 彝语音节 Huop
+A279 : 彝语音节 Hot
+A27A : 彝语音节 Hox
+A27B : 彝语音节 Ho
+A27C : 彝语音节 Hop
+A27D : 彝语音节 Hex
+A27E : 彝语音节 He
+A27F : 彝语音节 Hep
+A280 : 彝语音节 Wat
+A281 : 彝语音节 Wax
+A282 : 彝语音节 Wa
+A283 : 彝语音节 Wap
+A284 : 彝语音节 Wuox
+A285 : 彝语音节 Wuo
+A286 : 彝语音节 Wuop
+A287 : 彝语音节 Wox
+A288 : 彝语音节 Wo
+A289 : 彝语音节 Wop
+A28A : 彝语音节 Wex
+A28B : 彝语音节 We
+A28C : 彝语音节 Wep
+A28D : 彝语音节 Zit
+A28E : 彝语音节 Zix
+A28F : 彝语音节 Zi
+A290 : 彝语音节 Zip
+A291 : 彝语音节 Ziex
+A292 : 彝语音节 Zie
+A293 : 彝语音节 Ziep
+A294 : 彝语音节 Zat
+A295 : 彝语音节 Zax
+A296 : 彝语音节 Za
+A297 : 彝语音节 Zap
+A298 : 彝语音节 Zuox
+A299 : 彝语音节 Zuo
+A29A : 彝语音节 Zuop
+A29B : 彝语音节 Zot
+A29C : 彝语音节 Zox
+A29D : 彝语音节 Zo
+A29E : 彝语音节 Zop
+A29F : 彝语音节 Zex
+A2A0 : 彝语音节 Ze
+A2A1 : 彝语音节 Zep
+A2A2 : 彝语音节 Zut
+A2A3 : 彝语音节 Zux
+A2A4 : 彝语音节 Zu
+A2A5 : 彝语音节 Zup
+A2A6 : 彝语音节 Zurx
+A2A7 : 彝语音节 Zur
+A2A8 : 彝语音节 Zyt
+A2A9 : 彝语音节 Zyx
+A2AA : 彝语音节 Zy
+A2AB : 彝语音节 Zyp
+A2AC : 彝语音节 Zyrx
+A2AD : 彝语音节 Zyr
+A2AE : 彝语音节 Cit
+A2AF : 彝语音节 Cix
+A2B0 : 彝语音节 Ci
+A2B1 : 彝语音节 Cip
+A2B2 : 彝语音节 Ciet
+A2B3 : 彝语音节 Ciex
+A2B4 : 彝语音节 Cie
+A2B5 : 彝语音节 Ciep
+A2B6 : 彝语音节 Cat
+A2B7 : 彝语音节 Cax
+A2B8 : 彝语音节 Ca
+A2B9 : 彝语音节 Cap
+A2BA : 彝语音节 Cuox
+A2BB : 彝语音节 Cuo
+A2BC : 彝语音节 Cuop
+A2BD : 彝语音节 Cot
+A2BE : 彝语音节 Cox
+A2BF : 彝语音节 Co
+A2C0 : 彝语音节 Cop
+A2C1 : 彝语音节 Cex
+A2C2 : 彝语音节 Ce
+A2C3 : 彝语音节 Cep
+A2C4 : 彝语音节 Cut
+A2C5 : 彝语音节 Cux
+A2C6 : 彝语音节 Cu
+A2C7 : 彝语音节 Cup
+A2C8 : 彝语音节 Curx
+A2C9 : 彝语音节 Cur
+A2CA : 彝语音节 Cyt
+A2CB : 彝语音节 Cyx
+A2CC : 彝语音节 Cy
+A2CD : 彝语音节 Cyp
+A2CE : 彝语音节 Cyrx
+A2CF : 彝语音节 Cyr
+A2D0 : 彝语音节 Zzit
+A2D1 : 彝语音节 Zzix
+A2D2 : 彝语音节 Zzi
+A2D3 : 彝语音节 Zzip
+A2D4 : 彝语音节 Zziet
+A2D5 : 彝语音节 Zziex
+A2D6 : 彝语音节 Zzie
+A2D7 : 彝语音节 Zziep
+A2D8 : 彝语音节 Zzat
+A2D9 : 彝语音节 Zzax
+A2DA : 彝语音节 Zza
+A2DB : 彝语音节 Zzap
+A2DC : 彝语音节 Zzox
+A2DD : 彝语音节 Zzo
+A2DE : 彝语音节 Zzop
+A2DF : 彝语音节 Zzex
+A2E0 : 彝语音节 Zze
+A2E1 : 彝语音节 Zzep
+A2E2 : 彝语音节 Zzux
+A2E3 : 彝语音节 Zzu
+A2E4 : 彝语音节 Zzup
+A2E5 : 彝语音节 Zzurx
+A2E6 : 彝语音节 Zzur
+A2E7 : 彝语音节 Zzyt
+A2E8 : 彝语音节 Zzyx
+A2E9 : 彝语音节 Zzy
+A2EA : 彝语音节 Zzyp
+A2EB : 彝语音节 Zzyrx
+A2EC : 彝语音节 Zzyr
+A2ED : 彝语音节 Nzit
+A2EE : 彝语音节 Nzix
+A2EF : 彝语音节 Nzi
+A2F0 : 彝语音节 Nzip
+A2F1 : 彝语音节 Nziex
+A2F2 : 彝语音节 Nzie
+A2F3 : 彝语音节 Nziep
+A2F4 : 彝语音节 Nzat
+A2F5 : 彝语音节 Nzax
+A2F6 : 彝语音节 Nza
+A2F7 : 彝语音节 Nzap
+A2F8 : 彝语音节 Nzuox
+A2F9 : 彝语音节 Nzuo
+A2FA : 彝语音节 Nzox
+A2FB : 彝语音节 Nzop
+A2FC : 彝语音节 Nzex
+A2FD : 彝语音节 Nze
+A2FE : 彝语音节 Nzux
+A2FF : 彝语音节 Nzu

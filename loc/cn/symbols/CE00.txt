@@ -1,256 +1,256 @@
-CE00 : Hangul syllable cwik
-CE01 : Hangul syllable cwit
-CE02 : Hangul syllable cwip
-CE03 : Hangul syllable cwih
-CE04 : Hangul syllable cyu
-CE05 : Hangul syllable cyug
-CE06 : Hangul syllable cyugg
-CE07 : Hangul syllable cyugs
-CE08 : Hangul syllable cyun
-CE09 : Hangul syllable cyunj
-CE0A : Hangul syllable cyunh
-CE0B : Hangul syllable cyud
-CE0C : Hangul syllable cyul
-CE0D : Hangul syllable cyulg
-CE0E : Hangul syllable cyulm
-CE0F : Hangul syllable cyulb
-CE10 : Hangul syllable cyuls
-CE11 : Hangul syllable cyult
-CE12 : Hangul syllable cyulp
-CE13 : Hangul syllable cyulh
-CE14 : Hangul syllable cyum
-CE15 : Hangul syllable cyub
-CE16 : Hangul syllable cyubs
-CE17 : Hangul syllable cyus
-CE18 : Hangul syllable cyuss
-CE19 : Hangul syllable cyung
-CE1A : Hangul syllable cyuj
-CE1B : Hangul syllable cyuc
-CE1C : Hangul syllable cyuk
-CE1D : Hangul syllable cyut
-CE1E : Hangul syllable cyup
-CE1F : Hangul syllable cyuh
-CE20 : Hangul syllable ceu
-CE21 : Hangul syllable ceug
-CE22 : Hangul syllable ceugg
-CE23 : Hangul syllable ceugs
-CE24 : Hangul syllable ceun
-CE25 : Hangul syllable ceunj
-CE26 : Hangul syllable ceunh
-CE27 : Hangul syllable ceud
-CE28 : Hangul syllable ceul
-CE29 : Hangul syllable ceulg
-CE2A : Hangul syllable ceulm
-CE2B : Hangul syllable ceulb
-CE2C : Hangul syllable ceuls
-CE2D : Hangul syllable ceult
-CE2E : Hangul syllable ceulp
-CE2F : Hangul syllable ceulh
-CE30 : Hangul syllable ceum
-CE31 : Hangul syllable ceub
-CE32 : Hangul syllable ceubs
-CE33 : Hangul syllable ceus
-CE34 : Hangul syllable ceuss
-CE35 : Hangul syllable ceung
-CE36 : Hangul syllable ceuj
-CE37 : Hangul syllable ceuc
-CE38 : Hangul syllable ceuk
-CE39 : Hangul syllable ceut
-CE3A : Hangul syllable ceup
-CE3B : Hangul syllable ceuh
-CE3C : Hangul syllable cyi
-CE3D : Hangul syllable cyig
-CE3E : Hangul syllable cyigg
-CE3F : Hangul syllable cyigs
-CE40 : Hangul syllable cyin
-CE41 : Hangul syllable cyinj
-CE42 : Hangul syllable cyinh
-CE43 : Hangul syllable cyid
-CE44 : Hangul syllable cyil
-CE45 : Hangul syllable cyilg
-CE46 : Hangul syllable cyilm
-CE47 : Hangul syllable cyilb
-CE48 : Hangul syllable cyils
-CE49 : Hangul syllable cyilt
-CE4A : Hangul syllable cyilp
-CE4B : Hangul syllable cyilh
-CE4C : Hangul syllable cyim
-CE4D : Hangul syllable cyib
-CE4E : Hangul syllable cyibs
-CE4F : Hangul syllable cyis
-CE50 : Hangul syllable cyiss
-CE51 : Hangul syllable cying
-CE52 : Hangul syllable cyij
-CE53 : Hangul syllable cyic
-CE54 : Hangul syllable cyik
-CE55 : Hangul syllable cyit
-CE56 : Hangul syllable cyip
-CE57 : Hangul syllable cyih
-CE58 : Hangul syllable ci
-CE59 : Hangul syllable cig
-CE5A : Hangul syllable cigg
-CE5B : Hangul syllable cigs
-CE5C : Hangul syllable cin
-CE5D : Hangul syllable cinj
-CE5E : Hangul syllable cinh
-CE5F : Hangul syllable cid
-CE60 : Hangul syllable cil
-CE61 : Hangul syllable cilg
-CE62 : Hangul syllable cilm
-CE63 : Hangul syllable cilb
-CE64 : Hangul syllable cils
-CE65 : Hangul syllable cilt
-CE66 : Hangul syllable cilp
-CE67 : Hangul syllable cilh
-CE68 : Hangul syllable cim
-CE69 : Hangul syllable cib
-CE6A : Hangul syllable cibs
-CE6B : Hangul syllable cis
-CE6C : Hangul syllable ciss
-CE6D : Hangul syllable cing
-CE6E : Hangul syllable cij
-CE6F : Hangul syllable cic
-CE70 : Hangul syllable cik
-CE71 : Hangul syllable cit
-CE72 : Hangul syllable cip
-CE73 : Hangul syllable cih
-CE74 : Hangul syllable ka
-CE75 : Hangul syllable kag
-CE76 : Hangul syllable kagg
-CE77 : Hangul syllable kags
-CE78 : Hangul syllable kan
-CE79 : Hangul syllable kanj
-CE7A : Hangul syllable kanh
-CE7B : Hangul syllable kad
-CE7C : Hangul syllable kal
-CE7D : Hangul syllable kalg
-CE7E : Hangul syllable kalm
-CE7F : Hangul syllable kalb
-CE80 : Hangul syllable kals
-CE81 : Hangul syllable kalt
-CE82 : Hangul syllable kalp
-CE83 : Hangul syllable kalh
-CE84 : Hangul syllable kam
-CE85 : Hangul syllable kab
-CE86 : Hangul syllable kabs
-CE87 : Hangul syllable kas
-CE88 : Hangul syllable kass
-CE89 : Hangul syllable kang
-CE8A : Hangul syllable kaj
-CE8B : Hangul syllable kac
-CE8C : Hangul syllable kak
-CE8D : Hangul syllable kat
-CE8E : Hangul syllable kap
-CE8F : Hangul syllable kah
-CE90 : Hangul syllable kae
-CE91 : Hangul syllable kaeg
-CE92 : Hangul syllable kaegg
-CE93 : Hangul syllable kaegs
-CE94 : Hangul syllable kaen
-CE95 : Hangul syllable kaenj
-CE96 : Hangul syllable kaenh
-CE97 : Hangul syllable kaed
-CE98 : Hangul syllable kael
-CE99 : Hangul syllable kaelg
-CE9A : Hangul syllable kaelm
-CE9B : Hangul syllable kaelb
-CE9C : Hangul syllable kaels
-CE9D : Hangul syllable kaelt
-CE9E : Hangul syllable kaelp
-CE9F : Hangul syllable kaelh
-CEA0 : Hangul syllable kaem
-CEA1 : Hangul syllable kaeb
-CEA2 : Hangul syllable kaebs
-CEA3 : Hangul syllable kaes
-CEA4 : Hangul syllable kaess
-CEA5 : Hangul syllable kaeng
-CEA6 : Hangul syllable kaej
-CEA7 : Hangul syllable kaec
-CEA8 : Hangul syllable kaek
-CEA9 : Hangul syllable kaet
-CEAA : Hangul syllable kaep
-CEAB : Hangul syllable kaeh
-CEAC : Hangul syllable kya
-CEAD : Hangul syllable kyag
-CEAE : Hangul syllable kyagg
-CEAF : Hangul syllable kyags
-CEB0 : Hangul syllable kyan
-CEB1 : Hangul syllable kyanj
-CEB2 : Hangul syllable kyanh
-CEB3 : Hangul syllable kyad
-CEB4 : Hangul syllable kyal
-CEB5 : Hangul syllable kyalg
-CEB6 : Hangul syllable kyalm
-CEB7 : Hangul syllable kyalb
-CEB8 : Hangul syllable kyals
-CEB9 : Hangul syllable kyalt
-CEBA : Hangul syllable kyalp
-CEBB : Hangul syllable kyalh
-CEBC : Hangul syllable kyam
-CEBD : Hangul syllable kyab
-CEBE : Hangul syllable kyabs
-CEBF : Hangul syllable kyas
-CEC0 : Hangul syllable kyass
-CEC1 : Hangul syllable kyang
-CEC2 : Hangul syllable kyaj
-CEC3 : Hangul syllable kyac
-CEC4 : Hangul syllable kyak
-CEC5 : Hangul syllable kyat
-CEC6 : Hangul syllable kyap
-CEC7 : Hangul syllable kyah
-CEC8 : Hangul syllable kyae
-CEC9 : Hangul syllable kyaeg
-CECA : Hangul syllable kyaegg
-CECB : Hangul syllable kyaegs
-CECC : Hangul syllable kyaen
-CECD : Hangul syllable kyaenj
-CECE : Hangul syllable kyaenh
-CECF : Hangul syllable kyaed
-CED0 : Hangul syllable kyael
-CED1 : Hangul syllable kyaelg
-CED2 : Hangul syllable kyaelm
-CED3 : Hangul syllable kyaelb
-CED4 : Hangul syllable kyaels
-CED5 : Hangul syllable kyaelt
-CED6 : Hangul syllable kyaelp
-CED7 : Hangul syllable kyaelh
-CED8 : Hangul syllable kyaem
-CED9 : Hangul syllable kyaeb
-CEDA : Hangul syllable kyaebs
-CEDB : Hangul syllable kyaes
-CEDC : Hangul syllable kyaess
-CEDD : Hangul syllable kyaeng
-CEDE : Hangul syllable kyaej
-CEDF : Hangul syllable kyaec
-CEE0 : Hangul syllable kyaek
-CEE1 : Hangul syllable kyaet
-CEE2 : Hangul syllable kyaep
-CEE3 : Hangul syllable kyaeh
-CEE4 : Hangul syllable keo
-CEE5 : Hangul syllable keog
-CEE6 : Hangul syllable keogg
-CEE7 : Hangul syllable keogs
-CEE8 : Hangul syllable keon
-CEE9 : Hangul syllable keonj
-CEEA : Hangul syllable keonh
-CEEB : Hangul syllable keod
-CEEC : Hangul syllable keol
-CEED : Hangul syllable keolg
-CEEE : Hangul syllable keolm
-CEEF : Hangul syllable keolb
-CEF0 : Hangul syllable keols
-CEF1 : Hangul syllable keolt
-CEF2 : Hangul syllable keolp
-CEF3 : Hangul syllable keolh
-CEF4 : Hangul syllable keom
-CEF5 : Hangul syllable keob
-CEF6 : Hangul syllable keobs
-CEF7 : Hangul syllable keos
-CEF8 : Hangul syllable keoss
-CEF9 : Hangul syllable keong
-CEFA : Hangul syllable keoj
-CEFB : Hangul syllable keoc
-CEFC : Hangul syllable keok
-CEFD : Hangul syllable keot
-CEFE : Hangul syllable keop
-CEFF : Hangul syllable keoh
+CE00 : 朝鲜文音节 Cwik
+CE01 : 朝鲜文音节 Cwit
+CE02 : 朝鲜文音节 Cwip
+CE03 : 朝鲜文音节 Cwih
+CE04 : 朝鲜文音节 Cyu
+CE05 : 朝鲜文音节 Cyug
+CE06 : 朝鲜文音节 Cyugg
+CE07 : 朝鲜文音节 Cyugs
+CE08 : 朝鲜文音节 Cyun
+CE09 : 朝鲜文音节 Cyunj
+CE0A : 朝鲜文音节 Cyunh
+CE0B : 朝鲜文音节 Cyud
+CE0C : 朝鲜文音节 Cyul
+CE0D : 朝鲜文音节 Cyulg
+CE0E : 朝鲜文音节 Cyulm
+CE0F : 朝鲜文音节 Cyulb
+CE10 : 朝鲜文音节 Cyuls
+CE11 : 朝鲜文音节 Cyult
+CE12 : 朝鲜文音节 Cyulp
+CE13 : 朝鲜文音节 Cyulh
+CE14 : 朝鲜文音节 Cyum
+CE15 : 朝鲜文音节 Cyub
+CE16 : 朝鲜文音节 Cyubs
+CE17 : 朝鲜文音节 Cyus
+CE18 : 朝鲜文音节 Cyuss
+CE19 : 朝鲜文音节 Cyung
+CE1A : 朝鲜文音节 Cyuj
+CE1B : 朝鲜文音节 Cyuc
+CE1C : 朝鲜文音节 Cyuk
+CE1D : 朝鲜文音节 Cyut
+CE1E : 朝鲜文音节 Cyup
+CE1F : 朝鲜文音节 Cyuh
+CE20 : 朝鲜文音节 Ceu
+CE21 : 朝鲜文音节 Ceug
+CE22 : 朝鲜文音节 Ceugg
+CE23 : 朝鲜文音节 Ceugs
+CE24 : 朝鲜文音节 Ceun
+CE25 : 朝鲜文音节 Ceunj
+CE26 : 朝鲜文音节 Ceunh
+CE27 : 朝鲜文音节 Ceud
+CE28 : 朝鲜文音节 Ceul
+CE29 : 朝鲜文音节 Ceulg
+CE2A : 朝鲜文音节 Ceulm
+CE2B : 朝鲜文音节 Ceulb
+CE2C : 朝鲜文音节 Ceuls
+CE2D : 朝鲜文音节 Ceult
+CE2E : 朝鲜文音节 Ceulp
+CE2F : 朝鲜文音节 Ceulh
+CE30 : 朝鲜文音节 Ceum
+CE31 : 朝鲜文音节 Ceub
+CE32 : 朝鲜文音节 Ceubs
+CE33 : 朝鲜文音节 Ceus
+CE34 : 朝鲜文音节 Ceuss
+CE35 : 朝鲜文音节 Ceung
+CE36 : 朝鲜文音节 Ceuj
+CE37 : 朝鲜文音节 Ceuc
+CE38 : 朝鲜文音节 Ceuk
+CE39 : 朝鲜文音节 Ceut
+CE3A : 朝鲜文音节 Ceup
+CE3B : 朝鲜文音节 Ceuh
+CE3C : 朝鲜文音节 Cyi
+CE3D : 朝鲜文音节 Cyig
+CE3E : 朝鲜文音节 Cyigg
+CE3F : 朝鲜文音节 Cyigs
+CE40 : 朝鲜文音节 Cyin
+CE41 : 朝鲜文音节 Cyinj
+CE42 : 朝鲜文音节 Cyinh
+CE43 : 朝鲜文音节 Cyid
+CE44 : 朝鲜文音节 Cyil
+CE45 : 朝鲜文音节 Cyilg
+CE46 : 朝鲜文音节 Cyilm
+CE47 : 朝鲜文音节 Cyilb
+CE48 : 朝鲜文音节 Cyils
+CE49 : 朝鲜文音节 Cyilt
+CE4A : 朝鲜文音节 Cyilp
+CE4B : 朝鲜文音节 Cyilh
+CE4C : 朝鲜文音节 Cyim
+CE4D : 朝鲜文音节 Cyib
+CE4E : 朝鲜文音节 Cyibs
+CE4F : 朝鲜文音节 Cyis
+CE50 : 朝鲜文音节 Cyiss
+CE51 : 朝鲜文音节 Cying
+CE52 : 朝鲜文音节 Cyij
+CE53 : 朝鲜文音节 Cyic
+CE54 : 朝鲜文音节 Cyik
+CE55 : 朝鲜文音节 Cyit
+CE56 : 朝鲜文音节 Cyip
+CE57 : 朝鲜文音节 Cyih
+CE58 : 朝鲜文音节 Ci
+CE59 : 朝鲜文音节 Cig
+CE5A : 朝鲜文音节 Cigg
+CE5B : 朝鲜文音节 Cigs
+CE5C : 朝鲜文音节 Cin
+CE5D : 朝鲜文音节 Cinj
+CE5E : 朝鲜文音节 Cinh
+CE5F : 朝鲜文音节 Cid
+CE60 : 朝鲜文音节 Cil
+CE61 : 朝鲜文音节 Cilg
+CE62 : 朝鲜文音节 Cilm
+CE63 : 朝鲜文音节 Cilb
+CE64 : 朝鲜文音节 Cils
+CE65 : 朝鲜文音节 Cilt
+CE66 : 朝鲜文音节 Cilp
+CE67 : 朝鲜文音节 Cilh
+CE68 : 朝鲜文音节 Cim
+CE69 : 朝鲜文音节 Cib
+CE6A : 朝鲜文音节 Cibs
+CE6B : 朝鲜文音节 Cis
+CE6C : 朝鲜文音节 Ciss
+CE6D : 朝鲜文音节 Cing
+CE6E : 朝鲜文音节 Cij
+CE6F : 朝鲜文音节 Cic
+CE70 : 朝鲜文音节 Cik
+CE71 : 朝鲜文音节 Cit
+CE72 : 朝鲜文音节 Cip
+CE73 : 朝鲜文音节 Cih
+CE74 : 朝鲜文音节 Ka
+CE75 : 朝鲜文音节 Kag
+CE76 : 朝鲜文音节 Kagg
+CE77 : 朝鲜文音节 Kags
+CE78 : 朝鲜文音节 Kan
+CE79 : 朝鲜文音节 Kanj
+CE7A : 朝鲜文音节 Kanh
+CE7B : 朝鲜文音节 Kad
+CE7C : 朝鲜文音节 Kal
+CE7D : 朝鲜文音节 Kalg
+CE7E : 朝鲜文音节 Kalm
+CE7F : 朝鲜文音节 Kalb
+CE80 : 朝鲜文音节 Kals
+CE81 : 朝鲜文音节 Kalt
+CE82 : 朝鲜文音节 Kalp
+CE83 : 朝鲜文音节 Kalh
+CE84 : 朝鲜文音节 Kam
+CE85 : 朝鲜文音节 Kab
+CE86 : 朝鲜文音节 Kabs
+CE87 : 朝鲜文音节 Kas
+CE88 : 朝鲜文音节 Kass
+CE89 : 朝鲜文音节 Kang
+CE8A : 朝鲜文音节 Kaj
+CE8B : 朝鲜文音节 Kac
+CE8C : 朝鲜文音节 Kak
+CE8D : 朝鲜文音节 Kat
+CE8E : 朝鲜文音节 Kap
+CE8F : 朝鲜文音节 Kah
+CE90 : 朝鲜文音节 Kae
+CE91 : 朝鲜文音节 Kaeg
+CE92 : 朝鲜文音节 Kaegg
+CE93 : 朝鲜文音节 Kaegs
+CE94 : 朝鲜文音节 Kaen
+CE95 : 朝鲜文音节 Kaenj
+CE96 : 朝鲜文音节 Kaenh
+CE97 : 朝鲜文音节 Kaed
+CE98 : 朝鲜文音节 Kael
+CE99 : 朝鲜文音节 Kaelg
+CE9A : 朝鲜文音节 Kaelm
+CE9B : 朝鲜文音节 Kaelb
+CE9C : 朝鲜文音节 Kaels
+CE9D : 朝鲜文音节 Kaelt
+CE9E : 朝鲜文音节 Kaelp
+CE9F : 朝鲜文音节 Kaelh
+CEA0 : 朝鲜文音节 Kaem
+CEA1 : 朝鲜文音节 Kaeb
+CEA2 : 朝鲜文音节 Kaebs
+CEA3 : 朝鲜文音节 Kaes
+CEA4 : 朝鲜文音节 Kaess
+CEA5 : 朝鲜文音节 Kaeng
+CEA6 : 朝鲜文音节 Kaej
+CEA7 : 朝鲜文音节 Kaec
+CEA8 : 朝鲜文音节 Kaek
+CEA9 : 朝鲜文音节 Kaet
+CEAA : 朝鲜文音节 Kaep
+CEAB : 朝鲜文音节 Kaeh
+CEAC : 朝鲜文音节 Kya
+CEAD : 朝鲜文音节 Kyag
+CEAE : 朝鲜文音节 Kyagg
+CEAF : 朝鲜文音节 Kyags
+CEB0 : 朝鲜文音节 Kyan
+CEB1 : 朝鲜文音节 Kyanj
+CEB2 : 朝鲜文音节 Kyanh
+CEB3 : 朝鲜文音节 Kyad
+CEB4 : 朝鲜文音节 Kyal
+CEB5 : 朝鲜文音节 Kyalg
+CEB6 : 朝鲜文音节 Kyalm
+CEB7 : 朝鲜文音节 Kyalb
+CEB8 : 朝鲜文音节 Kyals
+CEB9 : 朝鲜文音节 Kyalt
+CEBA : 朝鲜文音节 Kyalp
+CEBB : 朝鲜文音节 Kyalh
+CEBC : 朝鲜文音节 Kyam
+CEBD : 朝鲜文音节 Kyab
+CEBE : 朝鲜文音节 Kyabs
+CEBF : 朝鲜文音节 Kyas
+CEC0 : 朝鲜文音节 Kyass
+CEC1 : 朝鲜文音节 Kyang
+CEC2 : 朝鲜文音节 Kyaj
+CEC3 : 朝鲜文音节 Kyac
+CEC4 : 朝鲜文音节 Kyak
+CEC5 : 朝鲜文音节 Kyat
+CEC6 : 朝鲜文音节 Kyap
+CEC7 : 朝鲜文音节 Kyah
+CEC8 : 朝鲜文音节 Kyae
+CEC9 : 朝鲜文音节 Kyaeg
+CECA : 朝鲜文音节 Kyaegg
+CECB : 朝鲜文音节 Kyaegs
+CECC : 朝鲜文音节 Kyaen
+CECD : 朝鲜文音节 Kyaenj
+CECE : 朝鲜文音节 Kyaenh
+CECF : 朝鲜文音节 Kyaed
+CED0 : 朝鲜文音节 Kyael
+CED1 : 朝鲜文音节 Kyaelg
+CED2 : 朝鲜文音节 Kyaelm
+CED3 : 朝鲜文音节 Kyaelb
+CED4 : 朝鲜文音节 Kyaels
+CED5 : 朝鲜文音节 Kyaelt
+CED6 : 朝鲜文音节 Kyaelp
+CED7 : 朝鲜文音节 Kyaelh
+CED8 : 朝鲜文音节 Kyaem
+CED9 : 朝鲜文音节 Kyaeb
+CEDA : 朝鲜文音节 Kyaebs
+CEDB : 朝鲜文音节 Kyaes
+CEDC : 朝鲜文音节 Kyaess
+CEDD : 朝鲜文音节 Kyaeng
+CEDE : 朝鲜文音节 Kyaej
+CEDF : 朝鲜文音节 Kyaec
+CEE0 : 朝鲜文音节 Kyaek
+CEE1 : 朝鲜文音节 Kyaet
+CEE2 : 朝鲜文音节 Kyaep
+CEE3 : 朝鲜文音节 Kyaeh
+CEE4 : 朝鲜文音节 Keo
+CEE5 : 朝鲜文音节 Keog
+CEE6 : 朝鲜文音节 Keogg
+CEE7 : 朝鲜文音节 Keogs
+CEE8 : 朝鲜文音节 Keon
+CEE9 : 朝鲜文音节 Keonj
+CEEA : 朝鲜文音节 Keonh
+CEEB : 朝鲜文音节 Keod
+CEEC : 朝鲜文音节 Keol
+CEED : 朝鲜文音节 Keolg
+CEEE : 朝鲜文音节 Keolm
+CEEF : 朝鲜文音节 Keolb
+CEF0 : 朝鲜文音节 Keols
+CEF1 : 朝鲜文音节 Keolt
+CEF2 : 朝鲜文音节 Keolp
+CEF3 : 朝鲜文音节 Keolh
+CEF4 : 朝鲜文音节 Keom
+CEF5 : 朝鲜文音节 Keob
+CEF6 : 朝鲜文音节 Keobs
+CEF7 : 朝鲜文音节 Keos
+CEF8 : 朝鲜文音节 Keoss
+CEF9 : 朝鲜文音节 Keong
+CEFA : 朝鲜文音节 Keoj
+CEFB : 朝鲜文音节 Keoc
+CEFC : 朝鲜文音节 Keok
+CEFD : 朝鲜文音节 Keot
+CEFE : 朝鲜文音节 Keop
+CEFF : 朝鲜文音节 Keoh

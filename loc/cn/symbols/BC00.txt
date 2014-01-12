@@ -1,256 +1,256 @@
-BC00 : Hangul syllable mil
-BC01 : Hangul syllable milg
-BC02 : Hangul syllable milm
-BC03 : Hangul syllable milb
-BC04 : Hangul syllable mils
-BC05 : Hangul syllable milt
-BC06 : Hangul syllable milp
-BC07 : Hangul syllable milh
-BC08 : Hangul syllable mim
-BC09 : Hangul syllable mib
-BC0A : Hangul syllable mibs
-BC0B : Hangul syllable mis
-BC0C : Hangul syllable miss
-BC0D : Hangul syllable ming
-BC0E : Hangul syllable mij
-BC0F : Hangul syllable mic
-BC10 : Hangul syllable mik
-BC11 : Hangul syllable mit
-BC12 : Hangul syllable mip
-BC13 : Hangul syllable mih
-BC14 : Hangul syllable ba
-BC15 : Hangul syllable bag
-BC16 : Hangul syllable bagg
-BC17 : Hangul syllable bags
-BC18 : Hangul syllable ban
-BC19 : Hangul syllable banj
-BC1A : Hangul syllable banh
-BC1B : Hangul syllable bad
-BC1C : Hangul syllable bal
-BC1D : Hangul syllable balg
-BC1E : Hangul syllable balm
-BC1F : Hangul syllable balb
-BC20 : Hangul syllable bals
-BC21 : Hangul syllable balt
-BC22 : Hangul syllable balp
-BC23 : Hangul syllable balh
-BC24 : Hangul syllable bam
-BC25 : Hangul syllable bab
-BC26 : Hangul syllable babs
-BC27 : Hangul syllable bas
-BC28 : Hangul syllable bass
-BC29 : Hangul syllable bang
-BC2A : Hangul syllable baj
-BC2B : Hangul syllable bac
-BC2C : Hangul syllable bak
-BC2D : Hangul syllable bat
-BC2E : Hangul syllable bap
-BC2F : Hangul syllable bah
-BC30 : Hangul syllable bae
-BC31 : Hangul syllable baeg
-BC32 : Hangul syllable baegg
-BC33 : Hangul syllable baegs
-BC34 : Hangul syllable baen
-BC35 : Hangul syllable baenj
-BC36 : Hangul syllable baenh
-BC37 : Hangul syllable baed
-BC38 : Hangul syllable bael
-BC39 : Hangul syllable baelg
-BC3A : Hangul syllable baelm
-BC3B : Hangul syllable baelb
-BC3C : Hangul syllable baels
-BC3D : Hangul syllable baelt
-BC3E : Hangul syllable baelp
-BC3F : Hangul syllable baelh
-BC40 : Hangul syllable baem
-BC41 : Hangul syllable baeb
-BC42 : Hangul syllable baebs
-BC43 : Hangul syllable baes
-BC44 : Hangul syllable baess
-BC45 : Hangul syllable baeng
-BC46 : Hangul syllable baej
-BC47 : Hangul syllable baec
-BC48 : Hangul syllable baek
-BC49 : Hangul syllable baet
-BC4A : Hangul syllable baep
-BC4B : Hangul syllable baeh
-BC4C : Hangul syllable bya
-BC4D : Hangul syllable byag
-BC4E : Hangul syllable byagg
-BC4F : Hangul syllable byags
-BC50 : Hangul syllable byan
-BC51 : Hangul syllable byanj
-BC52 : Hangul syllable byanh
-BC53 : Hangul syllable byad
-BC54 : Hangul syllable byal
-BC55 : Hangul syllable byalg
-BC56 : Hangul syllable byalm
-BC57 : Hangul syllable byalb
-BC58 : Hangul syllable byals
-BC59 : Hangul syllable byalt
-BC5A : Hangul syllable byalp
-BC5B : Hangul syllable byalh
-BC5C : Hangul syllable byam
-BC5D : Hangul syllable byab
-BC5E : Hangul syllable byabs
-BC5F : Hangul syllable byas
-BC60 : Hangul syllable byass
-BC61 : Hangul syllable byang
-BC62 : Hangul syllable byaj
-BC63 : Hangul syllable byac
-BC64 : Hangul syllable byak
-BC65 : Hangul syllable byat
-BC66 : Hangul syllable byap
-BC67 : Hangul syllable byah
-BC68 : Hangul syllable byae
-BC69 : Hangul syllable byaeg
-BC6A : Hangul syllable byaegg
-BC6B : Hangul syllable byaegs
-BC6C : Hangul syllable byaen
-BC6D : Hangul syllable byaenj
-BC6E : Hangul syllable byaenh
-BC6F : Hangul syllable byaed
-BC70 : Hangul syllable byael
-BC71 : Hangul syllable byaelg
-BC72 : Hangul syllable byaelm
-BC73 : Hangul syllable byaelb
-BC74 : Hangul syllable byaels
-BC75 : Hangul syllable byaelt
-BC76 : Hangul syllable byaelp
-BC77 : Hangul syllable byaelh
-BC78 : Hangul syllable byaem
-BC79 : Hangul syllable byaeb
-BC7A : Hangul syllable byaebs
-BC7B : Hangul syllable byaes
-BC7C : Hangul syllable byaess
-BC7D : Hangul syllable byaeng
-BC7E : Hangul syllable byaej
-BC7F : Hangul syllable byaec
-BC80 : Hangul syllable byaek
-BC81 : Hangul syllable byaet
-BC82 : Hangul syllable byaep
-BC83 : Hangul syllable byaeh
-BC84 : Hangul syllable beo
-BC85 : Hangul syllable beog
-BC86 : Hangul syllable beogg
-BC87 : Hangul syllable beogs
-BC88 : Hangul syllable beon
-BC89 : Hangul syllable beonj
-BC8A : Hangul syllable beonh
-BC8B : Hangul syllable beod
-BC8C : Hangul syllable beol
-BC8D : Hangul syllable beolg
-BC8E : Hangul syllable beolm
-BC8F : Hangul syllable beolb
-BC90 : Hangul syllable beols
-BC91 : Hangul syllable beolt
-BC92 : Hangul syllable beolp
-BC93 : Hangul syllable beolh
-BC94 : Hangul syllable beom
-BC95 : Hangul syllable beob
-BC96 : Hangul syllable beobs
-BC97 : Hangul syllable beos
-BC98 : Hangul syllable beoss
-BC99 : Hangul syllable beong
-BC9A : Hangul syllable beoj
-BC9B : Hangul syllable beoc
-BC9C : Hangul syllable beok
-BC9D : Hangul syllable beot
-BC9E : Hangul syllable beop
-BC9F : Hangul syllable beoh
-BCA0 : Hangul syllable be
-BCA1 : Hangul syllable beg
-BCA2 : Hangul syllable begg
-BCA3 : Hangul syllable begs
-BCA4 : Hangul syllable ben
-BCA5 : Hangul syllable benj
-BCA6 : Hangul syllable benh
-BCA7 : Hangul syllable bed
-BCA8 : Hangul syllable bel
-BCA9 : Hangul syllable belg
-BCAA : Hangul syllable belm
-BCAB : Hangul syllable belb
-BCAC : Hangul syllable bels
-BCAD : Hangul syllable belt
-BCAE : Hangul syllable belp
-BCAF : Hangul syllable belh
-BCB0 : Hangul syllable bem
-BCB1 : Hangul syllable beb
-BCB2 : Hangul syllable bebs
-BCB3 : Hangul syllable bes
-BCB4 : Hangul syllable bess
-BCB5 : Hangul syllable beng
-BCB6 : Hangul syllable bej
-BCB7 : Hangul syllable bec
-BCB8 : Hangul syllable bek
-BCB9 : Hangul syllable bet
-BCBA : Hangul syllable bep
-BCBB : Hangul syllable beh
-BCBC : Hangul syllable byeo
-BCBD : Hangul syllable byeog
-BCBE : Hangul syllable byeogg
-BCBF : Hangul syllable byeogs
-BCC0 : Hangul syllable byeon
-BCC1 : Hangul syllable byeonj
-BCC2 : Hangul syllable byeonh
-BCC3 : Hangul syllable byeod
-BCC4 : Hangul syllable byeol
-BCC5 : Hangul syllable byeolg
-BCC6 : Hangul syllable byeolm
-BCC7 : Hangul syllable byeolb
-BCC8 : Hangul syllable byeols
-BCC9 : Hangul syllable byeolt
-BCCA : Hangul syllable byeolp
-BCCB : Hangul syllable byeolh
-BCCC : Hangul syllable byeom
-BCCD : Hangul syllable byeob
-BCCE : Hangul syllable byeobs
-BCCF : Hangul syllable byeos
-BCD0 : Hangul syllable byeoss
-BCD1 : Hangul syllable byeong
-BCD2 : Hangul syllable byeoj
-BCD3 : Hangul syllable byeoc
-BCD4 : Hangul syllable byeok
-BCD5 : Hangul syllable byeot
-BCD6 : Hangul syllable byeop
-BCD7 : Hangul syllable byeoh
-BCD8 : Hangul syllable bye
-BCD9 : Hangul syllable byeg
-BCDA : Hangul syllable byegg
-BCDB : Hangul syllable byegs
-BCDC : Hangul syllable byen
-BCDD : Hangul syllable byenj
-BCDE : Hangul syllable byenh
-BCDF : Hangul syllable byed
-BCE0 : Hangul syllable byel
-BCE1 : Hangul syllable byelg
-BCE2 : Hangul syllable byelm
-BCE3 : Hangul syllable byelb
-BCE4 : Hangul syllable byels
-BCE5 : Hangul syllable byelt
-BCE6 : Hangul syllable byelp
-BCE7 : Hangul syllable byelh
-BCE8 : Hangul syllable byem
-BCE9 : Hangul syllable byeb
-BCEA : Hangul syllable byebs
-BCEB : Hangul syllable byes
-BCEC : Hangul syllable byess
-BCED : Hangul syllable byeng
-BCEE : Hangul syllable byej
-BCEF : Hangul syllable byec
-BCF0 : Hangul syllable byek
-BCF1 : Hangul syllable byet
-BCF2 : Hangul syllable byep
-BCF3 : Hangul syllable byeh
-BCF4 : Hangul syllable bo
-BCF5 : Hangul syllable bog
-BCF6 : Hangul syllable bogg
-BCF7 : Hangul syllable bogs
-BCF8 : Hangul syllable bon
-BCF9 : Hangul syllable bonj
-BCFA : Hangul syllable bonh
-BCFB : Hangul syllable bod
-BCFC : Hangul syllable bol
-BCFD : Hangul syllable bolg
-BCFE : Hangul syllable bolm
-BCFF : Hangul syllable bolb
+BC00 : 朝鲜文音节 Mil
+BC01 : 朝鲜文音节 Milg
+BC02 : 朝鲜文音节 Milm
+BC03 : 朝鲜文音节 Milb
+BC04 : 朝鲜文音节 Mils
+BC05 : 朝鲜文音节 Milt
+BC06 : 朝鲜文音节 Milp
+BC07 : 朝鲜文音节 Milh
+BC08 : 朝鲜文音节 Mim
+BC09 : 朝鲜文音节 Mib
+BC0A : 朝鲜文音节 Mibs
+BC0B : 朝鲜文音节 Mis
+BC0C : 朝鲜文音节 Miss
+BC0D : 朝鲜文音节 Ming
+BC0E : 朝鲜文音节 Mij
+BC0F : 朝鲜文音节 Mic
+BC10 : 朝鲜文音节 Mik
+BC11 : 朝鲜文音节 Mit
+BC12 : 朝鲜文音节 Mip
+BC13 : 朝鲜文音节 Mih
+BC14 : 朝鲜文音节 Ba
+BC15 : 朝鲜文音节 Bag
+BC16 : 朝鲜文音节 Bagg
+BC17 : 朝鲜文音节 Bags
+BC18 : 朝鲜文音节 Ban
+BC19 : 朝鲜文音节 Banj
+BC1A : 朝鲜文音节 Banh
+BC1B : 朝鲜文音节 Bad
+BC1C : 朝鲜文音节 Bal
+BC1D : 朝鲜文音节 Balg
+BC1E : 朝鲜文音节 Balm
+BC1F : 朝鲜文音节 Balb
+BC20 : 朝鲜文音节 Bals
+BC21 : 朝鲜文音节 Balt
+BC22 : 朝鲜文音节 Balp
+BC23 : 朝鲜文音节 Balh
+BC24 : 朝鲜文音节 Bam
+BC25 : 朝鲜文音节 Bab
+BC26 : 朝鲜文音节 Babs
+BC27 : 朝鲜文音节 Bas
+BC28 : 朝鲜文音节 Bass
+BC29 : 朝鲜文音节 Bang
+BC2A : 朝鲜文音节 Baj
+BC2B : 朝鲜文音节 Bac
+BC2C : 朝鲜文音节 Bak
+BC2D : 朝鲜文音节 Bat
+BC2E : 朝鲜文音节 Bap
+BC2F : 朝鲜文音节 Bah
+BC30 : 朝鲜文音节 Bae
+BC31 : 朝鲜文音节 Baeg
+BC32 : 朝鲜文音节 Baegg
+BC33 : 朝鲜文音节 Baegs
+BC34 : 朝鲜文音节 Baen
+BC35 : 朝鲜文音节 Baenj
+BC36 : 朝鲜文音节 Baenh
+BC37 : 朝鲜文音节 Baed
+BC38 : 朝鲜文音节 Bael
+BC39 : 朝鲜文音节 Baelg
+BC3A : 朝鲜文音节 Baelm
+BC3B : 朝鲜文音节 Baelb
+BC3C : 朝鲜文音节 Baels
+BC3D : 朝鲜文音节 Baelt
+BC3E : 朝鲜文音节 Baelp
+BC3F : 朝鲜文音节 Baelh
+BC40 : 朝鲜文音节 Baem
+BC41 : 朝鲜文音节 Baeb
+BC42 : 朝鲜文音节 Baebs
+BC43 : 朝鲜文音节 Baes
+BC44 : 朝鲜文音节 Baess
+BC45 : 朝鲜文音节 Baeng
+BC46 : 朝鲜文音节 Baej
+BC47 : 朝鲜文音节 Baec
+BC48 : 朝鲜文音节 Baek
+BC49 : 朝鲜文音节 Baet
+BC4A : 朝鲜文音节 Baep
+BC4B : 朝鲜文音节 Baeh
+BC4C : 朝鲜文音节 Bya
+BC4D : 朝鲜文音节 Byag
+BC4E : 朝鲜文音节 Byagg
+BC4F : 朝鲜文音节 Byags
+BC50 : 朝鲜文音节 Byan
+BC51 : 朝鲜文音节 Byanj
+BC52 : 朝鲜文音节 Byanh
+BC53 : 朝鲜文音节 Byad
+BC54 : 朝鲜文音节 Byal
+BC55 : 朝鲜文音节 Byalg
+BC56 : 朝鲜文音节 Byalm
+BC57 : 朝鲜文音节 Byalb
+BC58 : 朝鲜文音节 Byals
+BC59 : 朝鲜文音节 Byalt
+BC5A : 朝鲜文音节 Byalp
+BC5B : 朝鲜文音节 Byalh
+BC5C : 朝鲜文音节 Byam
+BC5D : 朝鲜文音节 Byab
+BC5E : 朝鲜文音节 Byabs
+BC5F : 朝鲜文音节 Byas
+BC60 : 朝鲜文音节 Byass
+BC61 : 朝鲜文音节 Byang
+BC62 : 朝鲜文音节 Byaj
+BC63 : 朝鲜文音节 Byac
+BC64 : 朝鲜文音节 Byak
+BC65 : 朝鲜文音节 Byat
+BC66 : 朝鲜文音节 Byap
+BC67 : 朝鲜文音节 Byah
+BC68 : 朝鲜文音节 Byae
+BC69 : 朝鲜文音节 Byaeg
+BC6A : 朝鲜文音节 Byaegg
+BC6B : 朝鲜文音节 Byaegs
+BC6C : 朝鲜文音节 Byaen
+BC6D : 朝鲜文音节 Byaenj
+BC6E : 朝鲜文音节 Byaenh
+BC6F : 朝鲜文音节 Byaed
+BC70 : 朝鲜文音节 Byael
+BC71 : 朝鲜文音节 Byaelg
+BC72 : 朝鲜文音节 Byaelm
+BC73 : 朝鲜文音节 Byaelb
+BC74 : 朝鲜文音节 Byaels
+BC75 : 朝鲜文音节 Byaelt
+BC76 : 朝鲜文音节 Byaelp
+BC77 : 朝鲜文音节 Byaelh
+BC78 : 朝鲜文音节 Byaem
+BC79 : 朝鲜文音节 Byaeb
+BC7A : 朝鲜文音节 Byaebs
+BC7B : 朝鲜文音节 Byaes
+BC7C : 朝鲜文音节 Byaess
+BC7D : 朝鲜文音节 Byaeng
+BC7E : 朝鲜文音节 Byaej
+BC7F : 朝鲜文音节 Byaec
+BC80 : 朝鲜文音节 Byaek
+BC81 : 朝鲜文音节 Byaet
+BC82 : 朝鲜文音节 Byaep
+BC83 : 朝鲜文音节 Byaeh
+BC84 : 朝鲜文音节 Beo
+BC85 : 朝鲜文音节 Beog
+BC86 : 朝鲜文音节 Beogg
+BC87 : 朝鲜文音节 Beogs
+BC88 : 朝鲜文音节 Beon
+BC89 : 朝鲜文音节 Beonj
+BC8A : 朝鲜文音节 Beonh
+BC8B : 朝鲜文音节 Beod
+BC8C : 朝鲜文音节 Beol
+BC8D : 朝鲜文音节 Beolg
+BC8E : 朝鲜文音节 Beolm
+BC8F : 朝鲜文音节 Beolb
+BC90 : 朝鲜文音节 Beols
+BC91 : 朝鲜文音节 Beolt
+BC92 : 朝鲜文音节 Beolp
+BC93 : 朝鲜文音节 Beolh
+BC94 : 朝鲜文音节 Beom
+BC95 : 朝鲜文音节 Beob
+BC96 : 朝鲜文音节 Beobs
+BC97 : 朝鲜文音节 Beos
+BC98 : 朝鲜文音节 Beoss
+BC99 : 朝鲜文音节 Beong
+BC9A : 朝鲜文音节 Beoj
+BC9B : 朝鲜文音节 Beoc
+BC9C : 朝鲜文音节 Beok
+BC9D : 朝鲜文音节 Beot
+BC9E : 朝鲜文音节 Beop
+BC9F : 朝鲜文音节 Beoh
+BCA0 : 朝鲜文音节 Be
+BCA1 : 朝鲜文音节 Beg
+BCA2 : 朝鲜文音节 Begg
+BCA3 : 朝鲜文音节 Begs
+BCA4 : 朝鲜文音节 Ben
+BCA5 : 朝鲜文音节 Benj
+BCA6 : 朝鲜文音节 Benh
+BCA7 : 朝鲜文音节 Bed
+BCA8 : 朝鲜文音节 Bel
+BCA9 : 朝鲜文音节 Belg
+BCAA : 朝鲜文音节 Belm
+BCAB : 朝鲜文音节 Belb
+BCAC : 朝鲜文音节 Bels
+BCAD : 朝鲜文音节 Belt
+BCAE : 朝鲜文音节 Belp
+BCAF : 朝鲜文音节 Belh
+BCB0 : 朝鲜文音节 Bem
+BCB1 : 朝鲜文音节 Beb
+BCB2 : 朝鲜文音节 Bebs
+BCB3 : 朝鲜文音节 Bes
+BCB4 : 朝鲜文音节 Bess
+BCB5 : 朝鲜文音节 Beng
+BCB6 : 朝鲜文音节 Bej
+BCB7 : 朝鲜文音节 Bec
+BCB8 : 朝鲜文音节 Bek
+BCB9 : 朝鲜文音节 Bet
+BCBA : 朝鲜文音节 Bep
+BCBB : 朝鲜文音节 Beh
+BCBC : 朝鲜文音节 Byeo
+BCBD : 朝鲜文音节 Byeog
+BCBE : 朝鲜文音节 Byeogg
+BCBF : 朝鲜文音节 Byeogs
+BCC0 : 朝鲜文音节 Byeon
+BCC1 : 朝鲜文音节 Byeonj
+BCC2 : 朝鲜文音节 Byeonh
+BCC3 : 朝鲜文音节 Byeod
+BCC4 : 朝鲜文音节 Byeol
+BCC5 : 朝鲜文音节 Byeolg
+BCC6 : 朝鲜文音节 Byeolm
+BCC7 : 朝鲜文音节 Byeolb
+BCC8 : 朝鲜文音节 Byeols
+BCC9 : 朝鲜文音节 Byeolt
+BCCA : 朝鲜文音节 Byeolp
+BCCB : 朝鲜文音节 Byeolh
+BCCC : 朝鲜文音节 Byeom
+BCCD : 朝鲜文音节 Byeob
+BCCE : 朝鲜文音节 Byeobs
+BCCF : 朝鲜文音节 Byeos
+BCD0 : 朝鲜文音节 Byeoss
+BCD1 : 朝鲜文音节 Byeong
+BCD2 : 朝鲜文音节 Byeoj
+BCD3 : 朝鲜文音节 Byeoc
+BCD4 : 朝鲜文音节 Byeok
+BCD5 : 朝鲜文音节 Byeot
+BCD6 : 朝鲜文音节 Byeop
+BCD7 : 朝鲜文音节 Byeoh
+BCD8 : 朝鲜文音节 Bye
+BCD9 : 朝鲜文音节 Byeg
+BCDA : 朝鲜文音节 Byegg
+BCDB : 朝鲜文音节 Byegs
+BCDC : 朝鲜文音节 Byen
+BCDD : 朝鲜文音节 Byenj
+BCDE : 朝鲜文音节 Byenh
+BCDF : 朝鲜文音节 Byed
+BCE0 : 朝鲜文音节 Byel
+BCE1 : 朝鲜文音节 Byelg
+BCE2 : 朝鲜文音节 Byelm
+BCE3 : 朝鲜文音节 Byelb
+BCE4 : 朝鲜文音节 Byels
+BCE5 : 朝鲜文音节 Byelt
+BCE6 : 朝鲜文音节 Byelp
+BCE7 : 朝鲜文音节 Byelh
+BCE8 : 朝鲜文音节 Byem
+BCE9 : 朝鲜文音节 Byeb
+BCEA : 朝鲜文音节 Byebs
+BCEB : 朝鲜文音节 Byes
+BCEC : 朝鲜文音节 Byess
+BCED : 朝鲜文音节 Byeng
+BCEE : 朝鲜文音节 Byej
+BCEF : 朝鲜文音节 Byec
+BCF0 : 朝鲜文音节 Byek
+BCF1 : 朝鲜文音节 Byet
+BCF2 : 朝鲜文音节 Byep
+BCF3 : 朝鲜文音节 Byeh
+BCF4 : 朝鲜文音节 Bo
+BCF5 : 朝鲜文音节 Bog
+BCF6 : 朝鲜文音节 Bogg
+BCF7 : 朝鲜文音节 Bogs
+BCF8 : 朝鲜文音节 Bon
+BCF9 : 朝鲜文音节 Bonj
+BCFA : 朝鲜文音节 Bonh
+BCFB : 朝鲜文音节 Bod
+BCFC : 朝鲜文音节 Bol
+BCFD : 朝鲜文音节 Bolg
+BCFE : 朝鲜文音节 Bolm
+BCFF : 朝鲜文音节 Bolb

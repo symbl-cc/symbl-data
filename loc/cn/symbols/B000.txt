@@ -1,256 +1,256 @@
-B000 : Hangul syllable ggwem
-B001 : Hangul syllable ggweb
-B002 : Hangul syllable ggwebs
-B003 : Hangul syllable ggwes
-B004 : Hangul syllable ggwess
-B005 : Hangul syllable ggweng
-B006 : Hangul syllable ggwej
-B007 : Hangul syllable ggwec
-B008 : Hangul syllable ggwek
-B009 : Hangul syllable ggwet
-B00A : Hangul syllable ggwep
-B00B : Hangul syllable ggweh
-B00C : Hangul syllable ggwi
-B00D : Hangul syllable ggwig
-B00E : Hangul syllable ggwigg
-B00F : Hangul syllable ggwigs
-B010 : Hangul syllable ggwin
-B011 : Hangul syllable ggwinj
-B012 : Hangul syllable ggwinh
-B013 : Hangul syllable ggwid
-B014 : Hangul syllable ggwil
-B015 : Hangul syllable ggwilg
-B016 : Hangul syllable ggwilm
-B017 : Hangul syllable ggwilb
-B018 : Hangul syllable ggwils
-B019 : Hangul syllable ggwilt
-B01A : Hangul syllable ggwilp
-B01B : Hangul syllable ggwilh
-B01C : Hangul syllable ggwim
-B01D : Hangul syllable ggwib
-B01E : Hangul syllable ggwibs
-B01F : Hangul syllable ggwis
-B020 : Hangul syllable ggwiss
-B021 : Hangul syllable ggwing
-B022 : Hangul syllable ggwij
-B023 : Hangul syllable ggwic
-B024 : Hangul syllable ggwik
-B025 : Hangul syllable ggwit
-B026 : Hangul syllable ggwip
-B027 : Hangul syllable ggwih
-B028 : Hangul syllable ggyu
-B029 : Hangul syllable ggyug
-B02A : Hangul syllable ggyugg
-B02B : Hangul syllable ggyugs
-B02C : Hangul syllable ggyun
-B02D : Hangul syllable ggyunj
-B02E : Hangul syllable ggyunh
-B02F : Hangul syllable ggyud
-B030 : Hangul syllable ggyul
-B031 : Hangul syllable ggyulg
-B032 : Hangul syllable ggyulm
-B033 : Hangul syllable ggyulb
-B034 : Hangul syllable ggyuls
-B035 : Hangul syllable ggyult
-B036 : Hangul syllable ggyulp
-B037 : Hangul syllable ggyulh
-B038 : Hangul syllable ggyum
-B039 : Hangul syllable ggyub
-B03A : Hangul syllable ggyubs
-B03B : Hangul syllable ggyus
-B03C : Hangul syllable ggyuss
-B03D : Hangul syllable ggyung
-B03E : Hangul syllable ggyuj
-B03F : Hangul syllable ggyuc
-B040 : Hangul syllable ggyuk
-B041 : Hangul syllable ggyut
-B042 : Hangul syllable ggyup
-B043 : Hangul syllable ggyuh
-B044 : Hangul syllable ggeu
-B045 : Hangul syllable ggeug
-B046 : Hangul syllable ggeugg
-B047 : Hangul syllable ggeugs
-B048 : Hangul syllable ggeun
-B049 : Hangul syllable ggeunj
-B04A : Hangul syllable ggeunh
-B04B : Hangul syllable ggeud
-B04C : Hangul syllable ggeul
-B04D : Hangul syllable ggeulg
-B04E : Hangul syllable ggeulm
-B04F : Hangul syllable ggeulb
-B050 : Hangul syllable ggeuls
-B051 : Hangul syllable ggeult
-B052 : Hangul syllable ggeulp
-B053 : Hangul syllable ggeulh
-B054 : Hangul syllable ggeum
-B055 : Hangul syllable ggeub
-B056 : Hangul syllable ggeubs
-B057 : Hangul syllable ggeus
-B058 : Hangul syllable ggeuss
-B059 : Hangul syllable ggeung
-B05A : Hangul syllable ggeuj
-B05B : Hangul syllable ggeuc
-B05C : Hangul syllable ggeuk
-B05D : Hangul syllable ggeut
-B05E : Hangul syllable ggeup
-B05F : Hangul syllable ggeuh
-B060 : Hangul syllable ggyi
-B061 : Hangul syllable ggyig
-B062 : Hangul syllable ggyigg
-B063 : Hangul syllable ggyigs
-B064 : Hangul syllable ggyin
-B065 : Hangul syllable ggyinj
-B066 : Hangul syllable ggyinh
-B067 : Hangul syllable ggyid
-B068 : Hangul syllable ggyil
-B069 : Hangul syllable ggyilg
-B06A : Hangul syllable ggyilm
-B06B : Hangul syllable ggyilb
-B06C : Hangul syllable ggyils
-B06D : Hangul syllable ggyilt
-B06E : Hangul syllable ggyilp
-B06F : Hangul syllable ggyilh
-B070 : Hangul syllable ggyim
-B071 : Hangul syllable ggyib
-B072 : Hangul syllable ggyibs
-B073 : Hangul syllable ggyis
-B074 : Hangul syllable ggyiss
-B075 : Hangul syllable ggying
-B076 : Hangul syllable ggyij
-B077 : Hangul syllable ggyic
-B078 : Hangul syllable ggyik
-B079 : Hangul syllable ggyit
-B07A : Hangul syllable ggyip
-B07B : Hangul syllable ggyih
-B07C : Hangul syllable ggi
-B07D : Hangul syllable ggig
-B07E : Hangul syllable ggigg
-B07F : Hangul syllable ggigs
-B080 : Hangul syllable ggin
-B081 : Hangul syllable gginj
-B082 : Hangul syllable gginh
-B083 : Hangul syllable ggid
-B084 : Hangul syllable ggil
-B085 : Hangul syllable ggilg
-B086 : Hangul syllable ggilm
-B087 : Hangul syllable ggilb
-B088 : Hangul syllable ggils
-B089 : Hangul syllable ggilt
-B08A : Hangul syllable ggilp
-B08B : Hangul syllable ggilh
-B08C : Hangul syllable ggim
-B08D : Hangul syllable ggib
-B08E : Hangul syllable ggibs
-B08F : Hangul syllable ggis
-B090 : Hangul syllable ggiss
-B091 : Hangul syllable gging
-B092 : Hangul syllable ggij
-B093 : Hangul syllable ggic
-B094 : Hangul syllable ggik
-B095 : Hangul syllable ggit
-B096 : Hangul syllable ggip
-B097 : Hangul syllable ggih
-B098 : Hangul syllable na
-B099 : Hangul syllable nag
-B09A : Hangul syllable nagg
-B09B : Hangul syllable nags
-B09C : Hangul syllable nan
-B09D : Hangul syllable nanj
-B09E : Hangul syllable nanh
-B09F : Hangul syllable nad
-B0A0 : Hangul syllable nal
-B0A1 : Hangul syllable nalg
-B0A2 : Hangul syllable nalm
-B0A3 : Hangul syllable nalb
-B0A4 : Hangul syllable nals
-B0A5 : Hangul syllable nalt
-B0A6 : Hangul syllable nalp
-B0A7 : Hangul syllable nalh
-B0A8 : Hangul syllable nam
-B0A9 : Hangul syllable nab
-B0AA : Hangul syllable nabs
-B0AB : Hangul syllable nas
-B0AC : Hangul syllable nass
-B0AD : Hangul syllable nang
-B0AE : Hangul syllable naj
-B0AF : Hangul syllable nac
-B0B0 : Hangul syllable nak
-B0B1 : Hangul syllable nat
-B0B2 : Hangul syllable nap
-B0B3 : Hangul syllable nah
-B0B4 : Hangul syllable nae
-B0B5 : Hangul syllable naeg
-B0B6 : Hangul syllable naegg
-B0B7 : Hangul syllable naegs
-B0B8 : Hangul syllable naen
-B0B9 : Hangul syllable naenj
-B0BA : Hangul syllable naenh
-B0BB : Hangul syllable naed
-B0BC : Hangul syllable nael
-B0BD : Hangul syllable naelg
-B0BE : Hangul syllable naelm
-B0BF : Hangul syllable naelb
-B0C0 : Hangul syllable naels
-B0C1 : Hangul syllable naelt
-B0C2 : Hangul syllable naelp
-B0C3 : Hangul syllable naelh
-B0C4 : Hangul syllable naem
-B0C5 : Hangul syllable naeb
-B0C6 : Hangul syllable naebs
-B0C7 : Hangul syllable naes
-B0C8 : Hangul syllable naess
-B0C9 : Hangul syllable naeng
-B0CA : Hangul syllable naej
-B0CB : Hangul syllable naec
-B0CC : Hangul syllable naek
-B0CD : Hangul syllable naet
-B0CE : Hangul syllable naep
-B0CF : Hangul syllable naeh
-B0D0 : Hangul syllable nya
-B0D1 : Hangul syllable nyag
-B0D2 : Hangul syllable nyagg
-B0D3 : Hangul syllable nyags
-B0D4 : Hangul syllable nyan
-B0D5 : Hangul syllable nyanj
-B0D6 : Hangul syllable nyanh
-B0D7 : Hangul syllable nyad
-B0D8 : Hangul syllable nyal
-B0D9 : Hangul syllable nyalg
-B0DA : Hangul syllable nyalm
-B0DB : Hangul syllable nyalb
-B0DC : Hangul syllable nyals
-B0DD : Hangul syllable nyalt
-B0DE : Hangul syllable nyalp
-B0DF : Hangul syllable nyalh
-B0E0 : Hangul syllable nyam
-B0E1 : Hangul syllable nyab
-B0E2 : Hangul syllable nyabs
-B0E3 : Hangul syllable nyas
-B0E4 : Hangul syllable nyass
-B0E5 : Hangul syllable nyang
-B0E6 : Hangul syllable nyaj
-B0E7 : Hangul syllable nyac
-B0E8 : Hangul syllable nyak
-B0E9 : Hangul syllable nyat
-B0EA : Hangul syllable nyap
-B0EB : Hangul syllable nyah
-B0EC : Hangul syllable nyae
-B0ED : Hangul syllable nyaeg
-B0EE : Hangul syllable nyaegg
-B0EF : Hangul syllable nyaegs
-B0F0 : Hangul syllable nyaen
-B0F1 : Hangul syllable nyaenj
-B0F2 : Hangul syllable nyaenh
-B0F3 : Hangul syllable nyaed
-B0F4 : Hangul syllable nyael
-B0F5 : Hangul syllable nyaelg
-B0F6 : Hangul syllable nyaelm
-B0F7 : Hangul syllable nyaelb
-B0F8 : Hangul syllable nyaels
-B0F9 : Hangul syllable nyaelt
-B0FA : Hangul syllable nyaelp
-B0FB : Hangul syllable nyaelh
-B0FC : Hangul syllable nyaem
-B0FD : Hangul syllable nyaeb
-B0FE : Hangul syllable nyaebs
-B0FF : Hangul syllable nyaes
+B000 : 朝鲜文音节 Ggwem
+B001 : 朝鲜文音节 Ggweb
+B002 : 朝鲜文音节 Ggwebs
+B003 : 朝鲜文音节 Ggwes
+B004 : 朝鲜文音节 Ggwess
+B005 : 朝鲜文音节 Ggweng
+B006 : 朝鲜文音节 Ggwej
+B007 : 朝鲜文音节 Ggwec
+B008 : 朝鲜文音节 Ggwek
+B009 : 朝鲜文音节 Ggwet
+B00A : 朝鲜文音节 Ggwep
+B00B : 朝鲜文音节 Ggweh
+B00C : 朝鲜文音节 Ggwi
+B00D : 朝鲜文音节 Ggwig
+B00E : 朝鲜文音节 Ggwigg
+B00F : 朝鲜文音节 Ggwigs
+B010 : 朝鲜文音节 Ggwin
+B011 : 朝鲜文音节 Ggwinj
+B012 : 朝鲜文音节 Ggwinh
+B013 : 朝鲜文音节 Ggwid
+B014 : 朝鲜文音节 Ggwil
+B015 : 朝鲜文音节 Ggwilg
+B016 : 朝鲜文音节 Ggwilm
+B017 : 朝鲜文音节 Ggwilb
+B018 : 朝鲜文音节 Ggwils
+B019 : 朝鲜文音节 Ggwilt
+B01A : 朝鲜文音节 Ggwilp
+B01B : 朝鲜文音节 Ggwilh
+B01C : 朝鲜文音节 Ggwim
+B01D : 朝鲜文音节 Ggwib
+B01E : 朝鲜文音节 Ggwibs
+B01F : 朝鲜文音节 Ggwis
+B020 : 朝鲜文音节 Ggwiss
+B021 : 朝鲜文音节 Ggwing
+B022 : 朝鲜文音节 Ggwij
+B023 : 朝鲜文音节 Ggwic
+B024 : 朝鲜文音节 Ggwik
+B025 : 朝鲜文音节 Ggwit
+B026 : 朝鲜文音节 Ggwip
+B027 : 朝鲜文音节 Ggwih
+B028 : 朝鲜文音节 Ggyu
+B029 : 朝鲜文音节 Ggyug
+B02A : 朝鲜文音节 Ggyugg
+B02B : 朝鲜文音节 Ggyugs
+B02C : 朝鲜文音节 Ggyun
+B02D : 朝鲜文音节 Ggyunj
+B02E : 朝鲜文音节 Ggyunh
+B02F : 朝鲜文音节 Ggyud
+B030 : 朝鲜文音节 Ggyul
+B031 : 朝鲜文音节 Ggyulg
+B032 : 朝鲜文音节 Ggyulm
+B033 : 朝鲜文音节 Ggyulb
+B034 : 朝鲜文音节 Ggyuls
+B035 : 朝鲜文音节 Ggyult
+B036 : 朝鲜文音节 Ggyulp
+B037 : 朝鲜文音节 Ggyulh
+B038 : 朝鲜文音节 Ggyum
+B039 : 朝鲜文音节 Ggyub
+B03A : 朝鲜文音节 Ggyubs
+B03B : 朝鲜文音节 Ggyus
+B03C : 朝鲜文音节 Ggyuss
+B03D : 朝鲜文音节 Ggyung
+B03E : 朝鲜文音节 Ggyuj
+B03F : 朝鲜文音节 Ggyuc
+B040 : 朝鲜文音节 Ggyuk
+B041 : 朝鲜文音节 Ggyut
+B042 : 朝鲜文音节 Ggyup
+B043 : 朝鲜文音节 Ggyuh
+B044 : 朝鲜文音节 Ggeu
+B045 : 朝鲜文音节 Ggeug
+B046 : 朝鲜文音节 Ggeugg
+B047 : 朝鲜文音节 Ggeugs
+B048 : 朝鲜文音节 Ggeun
+B049 : 朝鲜文音节 Ggeunj
+B04A : 朝鲜文音节 Ggeunh
+B04B : 朝鲜文音节 Ggeud
+B04C : 朝鲜文音节 Ggeul
+B04D : 朝鲜文音节 Ggeulg
+B04E : 朝鲜文音节 Ggeulm
+B04F : 朝鲜文音节 Ggeulb
+B050 : 朝鲜文音节 Ggeuls
+B051 : 朝鲜文音节 Ggeult
+B052 : 朝鲜文音节 Ggeulp
+B053 : 朝鲜文音节 Ggeulh
+B054 : 朝鲜文音节 Ggeum
+B055 : 朝鲜文音节 Ggeub
+B056 : 朝鲜文音节 Ggeubs
+B057 : 朝鲜文音节 Ggeus
+B058 : 朝鲜文音节 Ggeuss
+B059 : 朝鲜文音节 Ggeung
+B05A : 朝鲜文音节 Ggeuj
+B05B : 朝鲜文音节 Ggeuc
+B05C : 朝鲜文音节 Ggeuk
+B05D : 朝鲜文音节 Ggeut
+B05E : 朝鲜文音节 Ggeup
+B05F : 朝鲜文音节 Ggeuh
+B060 : 朝鲜文音节 Ggyi
+B061 : 朝鲜文音节 Ggyig
+B062 : 朝鲜文音节 Ggyigg
+B063 : 朝鲜文音节 Ggyigs
+B064 : 朝鲜文音节 Ggyin
+B065 : 朝鲜文音节 Ggyinj
+B066 : 朝鲜文音节 Ggyinh
+B067 : 朝鲜文音节 Ggyid
+B068 : 朝鲜文音节 Ggyil
+B069 : 朝鲜文音节 Ggyilg
+B06A : 朝鲜文音节 Ggyilm
+B06B : 朝鲜文音节 Ggyilb
+B06C : 朝鲜文音节 Ggyils
+B06D : 朝鲜文音节 Ggyilt
+B06E : 朝鲜文音节 Ggyilp
+B06F : 朝鲜文音节 Ggyilh
+B070 : 朝鲜文音节 Ggyim
+B071 : 朝鲜文音节 Ggyib
+B072 : 朝鲜文音节 Ggyibs
+B073 : 朝鲜文音节 Ggyis
+B074 : 朝鲜文音节 Ggyiss
+B075 : 朝鲜文音节 Ggying
+B076 : 朝鲜文音节 Ggyij
+B077 : 朝鲜文音节 Ggyic
+B078 : 朝鲜文音节 Ggyik
+B079 : 朝鲜文音节 Ggyit
+B07A : 朝鲜文音节 Ggyip
+B07B : 朝鲜文音节 Ggyih
+B07C : 朝鲜文音节 Ggi
+B07D : 朝鲜文音节 Ggig
+B07E : 朝鲜文音节 Ggigg
+B07F : 朝鲜文音节 Ggigs
+B080 : 朝鲜文音节 Ggin
+B081 : 朝鲜文音节 Gginj
+B082 : 朝鲜文音节 Gginh
+B083 : 朝鲜文音节 Ggid
+B084 : 朝鲜文音节 Ggil
+B085 : 朝鲜文音节 Ggilg
+B086 : 朝鲜文音节 Ggilm
+B087 : 朝鲜文音节 Ggilb
+B088 : 朝鲜文音节 Ggils
+B089 : 朝鲜文音节 Ggilt
+B08A : 朝鲜文音节 Ggilp
+B08B : 朝鲜文音节 Ggilh
+B08C : 朝鲜文音节 Ggim
+B08D : 朝鲜文音节 Ggib
+B08E : 朝鲜文音节 Ggibs
+B08F : 朝鲜文音节 Ggis
+B090 : 朝鲜文音节 Ggiss
+B091 : 朝鲜文音节 Gging
+B092 : 朝鲜文音节 Ggij
+B093 : 朝鲜文音节 Ggic
+B094 : 朝鲜文音节 Ggik
+B095 : 朝鲜文音节 Ggit
+B096 : 朝鲜文音节 Ggip
+B097 : 朝鲜文音节 Ggih
+B098 : 朝鲜文音节 Na
+B099 : 朝鲜文音节 Nag
+B09A : 朝鲜文音节 Nagg
+B09B : 朝鲜文音节 Nags
+B09C : 朝鲜文音节 Nan
+B09D : 朝鲜文音节 Nanj
+B09E : 朝鲜文音节 Nanh
+B09F : 朝鲜文音节 Nad
+B0A0 : 朝鲜文音节 Nal
+B0A1 : 朝鲜文音节 Nalg
+B0A2 : 朝鲜文音节 Nalm
+B0A3 : 朝鲜文音节 Nalb
+B0A4 : 朝鲜文音节 Nals
+B0A5 : 朝鲜文音节 Nalt
+B0A6 : 朝鲜文音节 Nalp
+B0A7 : 朝鲜文音节 Nalh
+B0A8 : 朝鲜文音节 Nam
+B0A9 : 朝鲜文音节 Nab
+B0AA : 朝鲜文音节 Nabs
+B0AB : 朝鲜文音节 Nas
+B0AC : 朝鲜文音节 Nass
+B0AD : 朝鲜文音节 Nang
+B0AE : 朝鲜文音节 Naj
+B0AF : 朝鲜文音节 Nac
+B0B0 : 朝鲜文音节 Nak
+B0B1 : 朝鲜文音节 Nat
+B0B2 : 朝鲜文音节 Nap
+B0B3 : 朝鲜文音节 Nah
+B0B4 : 朝鲜文音节 Nae
+B0B5 : 朝鲜文音节 Naeg
+B0B6 : 朝鲜文音节 Naegg
+B0B7 : 朝鲜文音节 Naegs
+B0B8 : 朝鲜文音节 Naen
+B0B9 : 朝鲜文音节 Naenj
+B0BA : 朝鲜文音节 Naenh
+B0BB : 朝鲜文音节 Naed
+B0BC : 朝鲜文音节 Nael
+B0BD : 朝鲜文音节 Naelg
+B0BE : 朝鲜文音节 Naelm
+B0BF : 朝鲜文音节 Naelb
+B0C0 : 朝鲜文音节 Naels
+B0C1 : 朝鲜文音节 Naelt
+B0C2 : 朝鲜文音节 Naelp
+B0C3 : 朝鲜文音节 Naelh
+B0C4 : 朝鲜文音节 Naem
+B0C5 : 朝鲜文音节 Naeb
+B0C6 : 朝鲜文音节 Naebs
+B0C7 : 朝鲜文音节 Naes
+B0C8 : 朝鲜文音节 Naess
+B0C9 : 朝鲜文音节 Naeng
+B0CA : 朝鲜文音节 Naej
+B0CB : 朝鲜文音节 Naec
+B0CC : 朝鲜文音节 Naek
+B0CD : 朝鲜文音节 Naet
+B0CE : 朝鲜文音节 Naep
+B0CF : 朝鲜文音节 Naeh
+B0D0 : 朝鲜文音节 Nya
+B0D1 : 朝鲜文音节 Nyag
+B0D2 : 朝鲜文音节 Nyagg
+B0D3 : 朝鲜文音节 Nyags
+B0D4 : 朝鲜文音节 Nyan
+B0D5 : 朝鲜文音节 Nyanj
+B0D6 : 朝鲜文音节 Nyanh
+B0D7 : 朝鲜文音节 Nyad
+B0D8 : 朝鲜文音节 Nyal
+B0D9 : 朝鲜文音节 Nyalg
+B0DA : 朝鲜文音节 Nyalm
+B0DB : 朝鲜文音节 Nyalb
+B0DC : 朝鲜文音节 Nyals
+B0DD : 朝鲜文音节 Nyalt
+B0DE : 朝鲜文音节 Nyalp
+B0DF : 朝鲜文音节 Nyalh
+B0E0 : 朝鲜文音节 Nyam
+B0E1 : 朝鲜文音节 Nyab
+B0E2 : 朝鲜文音节 Nyabs
+B0E3 : 朝鲜文音节 Nyas
+B0E4 : 朝鲜文音节 Nyass
+B0E5 : 朝鲜文音节 Nyang
+B0E6 : 朝鲜文音节 Nyaj
+B0E7 : 朝鲜文音节 Nyac
+B0E8 : 朝鲜文音节 Nyak
+B0E9 : 朝鲜文音节 Nyat
+B0EA : 朝鲜文音节 Nyap
+B0EB : 朝鲜文音节 Nyah
+B0EC : 朝鲜文音节 Nyae
+B0ED : 朝鲜文音节 Nyaeg
+B0EE : 朝鲜文音节 Nyaegg
+B0EF : 朝鲜文音节 Nyaegs
+B0F0 : 朝鲜文音节 Nyaen
+B0F1 : 朝鲜文音节 Nyaenj
+B0F2 : 朝鲜文音节 Nyaenh
+B0F3 : 朝鲜文音节 Nyaed
+B0F4 : 朝鲜文音节 Nyael
+B0F5 : 朝鲜文音节 Nyaelg
+B0F6 : 朝鲜文音节 Nyaelm
+B0F7 : 朝鲜文音节 Nyaelb
+B0F8 : 朝鲜文音节 Nyaels
+B0F9 : 朝鲜文音节 Nyaelt
+B0FA : 朝鲜文音节 Nyaelp
+B0FB : 朝鲜文音节 Nyaelh
+B0FC : 朝鲜文音节 Nyaem
+B0FD : 朝鲜文音节 Nyaeb
+B0FE : 朝鲜文音节 Nyaebs
+B0FF : 朝鲜文音节 Nyaes
