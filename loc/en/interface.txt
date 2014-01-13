@@ -42,6 +42,9 @@ entity          : Entity
 search_overflow : Sorry, symbol U+%s is under construction :)
 feedback        : Feedback
 separate_page   : Open in separate page
+edit            : Edit
+save            : Save
+undo            : Undo
 
 # __________________________________________________________
 #
