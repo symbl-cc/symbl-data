@@ -1,256 +1,256 @@
-C800 : Hangul syllable jeo
-C801 : Hangul syllable jeog
-C802 : Hangul syllable jeogg
-C803 : Hangul syllable jeogs
-C804 : Hangul syllable jeon
-C805 : Hangul syllable jeonj
-C806 : Hangul syllable jeonh
-C807 : Hangul syllable jeod
-C808 : Hangul syllable jeol
-C809 : Hangul syllable jeolg
-C80A : Hangul syllable jeolm
-C80B : Hangul syllable jeolb
-C80C : Hangul syllable jeols
-C80D : Hangul syllable jeolt
-C80E : Hangul syllable jeolp
-C80F : Hangul syllable jeolh
-C810 : Hangul syllable jeom
-C811 : Hangul syllable jeob
-C812 : Hangul syllable jeobs
-C813 : Hangul syllable jeos
-C814 : Hangul syllable jeoss
-C815 : Hangul syllable jeong
-C816 : Hangul syllable jeoj
-C817 : Hangul syllable jeoc
-C818 : Hangul syllable jeok
-C819 : Hangul syllable jeot
-C81A : Hangul syllable jeop
-C81B : Hangul syllable jeoh
-C81C : Hangul syllable je
-C81D : Hangul syllable jeg
-C81E : Hangul syllable jegg
-C81F : Hangul syllable jegs
-C820 : Hangul syllable jen
-C821 : Hangul syllable jenj
-C822 : Hangul syllable jenh
-C823 : Hangul syllable jed
-C824 : Hangul syllable jel
-C825 : Hangul syllable jelg
-C826 : Hangul syllable jelm
-C827 : Hangul syllable jelb
-C828 : Hangul syllable jels
-C829 : Hangul syllable jelt
-C82A : Hangul syllable jelp
-C82B : Hangul syllable jelh
-C82C : Hangul syllable jem
-C82D : Hangul syllable jeb
-C82E : Hangul syllable jebs
-C82F : Hangul syllable jes
-C830 : Hangul syllable jess
-C831 : Hangul syllable jeng
-C832 : Hangul syllable jej
-C833 : Hangul syllable jec
-C834 : Hangul syllable jek
-C835 : Hangul syllable jet
-C836 : Hangul syllable jep
-C837 : Hangul syllable jeh
-C838 : Hangul syllable jyeo
-C839 : Hangul syllable jyeog
-C83A : Hangul syllable jyeogg
-C83B : Hangul syllable jyeogs
-C83C : Hangul syllable jyeon
-C83D : Hangul syllable jyeonj
-C83E : Hangul syllable jyeonh
-C83F : Hangul syllable jyeod
-C840 : Hangul syllable jyeol
-C841 : Hangul syllable jyeolg
-C842 : Hangul syllable jyeolm
-C843 : Hangul syllable jyeolb
-C844 : Hangul syllable jyeols
-C845 : Hangul syllable jyeolt
-C846 : Hangul syllable jyeolp
-C847 : Hangul syllable jyeolh
-C848 : Hangul syllable jyeom
-C849 : Hangul syllable jyeob
-C84A : Hangul syllable jyeobs
-C84B : Hangul syllable jyeos
-C84C : Hangul syllable jyeoss
-C84D : Hangul syllable jyeong
-C84E : Hangul syllable jyeoj
-C84F : Hangul syllable jyeoc
-C850 : Hangul syllable jyeok
-C851 : Hangul syllable jyeot
-C852 : Hangul syllable jyeop
-C853 : Hangul syllable jyeoh
-C854 : Hangul syllable jye
-C855 : Hangul syllable jyeg
-C856 : Hangul syllable jyegg
-C857 : Hangul syllable jyegs
-C858 : Hangul syllable jyen
-C859 : Hangul syllable jyenj
-C85A : Hangul syllable jyenh
-C85B : Hangul syllable jyed
-C85C : Hangul syllable jyel
-C85D : Hangul syllable jyelg
-C85E : Hangul syllable jyelm
-C85F : Hangul syllable jyelb
-C860 : Hangul syllable jyels
-C861 : Hangul syllable jyelt
-C862 : Hangul syllable jyelp
-C863 : Hangul syllable jyelh
-C864 : Hangul syllable jyem
-C865 : Hangul syllable jyeb
-C866 : Hangul syllable jyebs
-C867 : Hangul syllable jyes
-C868 : Hangul syllable jyess
-C869 : Hangul syllable jyeng
-C86A : Hangul syllable jyej
-C86B : Hangul syllable jyec
-C86C : Hangul syllable jyek
-C86D : Hangul syllable jyet
-C86E : Hangul syllable jyep
-C86F : Hangul syllable jyeh
-C870 : Hangul syllable jo
-C871 : Hangul syllable jog
-C872 : Hangul syllable jogg
-C873 : Hangul syllable jogs
-C874 : Hangul syllable jon
-C875 : Hangul syllable jonj
-C876 : Hangul syllable jonh
-C877 : Hangul syllable jod
-C878 : Hangul syllable jol
-C879 : Hangul syllable jolg
-C87A : Hangul syllable jolm
-C87B : Hangul syllable jolb
-C87C : Hangul syllable jols
-C87D : Hangul syllable jolt
-C87E : Hangul syllable jolp
-C87F : Hangul syllable jolh
-C880 : Hangul syllable jom
-C881 : Hangul syllable job
-C882 : Hangul syllable jobs
-C883 : Hangul syllable jos
-C884 : Hangul syllable joss
-C885 : Hangul syllable jong
-C886 : Hangul syllable joj
-C887 : Hangul syllable joc
-C888 : Hangul syllable jok
-C889 : Hangul syllable jot
-C88A : Hangul syllable jop
-C88B : Hangul syllable joh
-C88C : Hangul syllable jwa
-C88D : Hangul syllable jwag
-C88E : Hangul syllable jwagg
-C88F : Hangul syllable jwags
-C890 : Hangul syllable jwan
-C891 : Hangul syllable jwanj
-C892 : Hangul syllable jwanh
-C893 : Hangul syllable jwad
-C894 : Hangul syllable jwal
-C895 : Hangul syllable jwalg
-C896 : Hangul syllable jwalm
-C897 : Hangul syllable jwalb
-C898 : Hangul syllable jwals
-C899 : Hangul syllable jwalt
-C89A : Hangul syllable jwalp
-C89B : Hangul syllable jwalh
-C89C : Hangul syllable jwam
-C89D : Hangul syllable jwab
-C89E : Hangul syllable jwabs
-C89F : Hangul syllable jwas
-C8A0 : Hangul syllable jwass
-C8A1 : Hangul syllable jwang
-C8A2 : Hangul syllable jwaj
-C8A3 : Hangul syllable jwac
-C8A4 : Hangul syllable jwak
-C8A5 : Hangul syllable jwat
-C8A6 : Hangul syllable jwap
-C8A7 : Hangul syllable jwah
-C8A8 : Hangul syllable jwae
-C8A9 : Hangul syllable jwaeg
-C8AA : Hangul syllable jwaegg
-C8AB : Hangul syllable jwaegs
-C8AC : Hangul syllable jwaen
-C8AD : Hangul syllable jwaenj
-C8AE : Hangul syllable jwaenh
-C8AF : Hangul syllable jwaed
-C8B0 : Hangul syllable jwael
-C8B1 : Hangul syllable jwaelg
-C8B2 : Hangul syllable jwaelm
-C8B3 : Hangul syllable jwaelb
-C8B4 : Hangul syllable jwaels
-C8B5 : Hangul syllable jwaelt
-C8B6 : Hangul syllable jwaelp
-C8B7 : Hangul syllable jwaelh
-C8B8 : Hangul syllable jwaem
-C8B9 : Hangul syllable jwaeb
-C8BA : Hangul syllable jwaebs
-C8BB : Hangul syllable jwaes
-C8BC : Hangul syllable jwaess
-C8BD : Hangul syllable jwaeng
-C8BE : Hangul syllable jwaej
-C8BF : Hangul syllable jwaec
-C8C0 : Hangul syllable jwaek
-C8C1 : Hangul syllable jwaet
-C8C2 : Hangul syllable jwaep
-C8C3 : Hangul syllable jwaeh
-C8C4 : Hangul syllable joe
-C8C5 : Hangul syllable joeg
-C8C6 : Hangul syllable joegg
-C8C7 : Hangul syllable joegs
-C8C8 : Hangul syllable joen
-C8C9 : Hangul syllable joenj
-C8CA : Hangul syllable joenh
-C8CB : Hangul syllable joed
-C8CC : Hangul syllable joel
-C8CD : Hangul syllable joelg
-C8CE : Hangul syllable joelm
-C8CF : Hangul syllable joelb
-C8D0 : Hangul syllable joels
-C8D1 : Hangul syllable joelt
-C8D2 : Hangul syllable joelp
-C8D3 : Hangul syllable joelh
-C8D4 : Hangul syllable joem
-C8D5 : Hangul syllable joeb
-C8D6 : Hangul syllable joebs
-C8D7 : Hangul syllable joes
-C8D8 : Hangul syllable joess
-C8D9 : Hangul syllable joeng
-C8DA : Hangul syllable joej
-C8DB : Hangul syllable joec
-C8DC : Hangul syllable joek
-C8DD : Hangul syllable joet
-C8DE : Hangul syllable joep
-C8DF : Hangul syllable joeh
-C8E0 : Hangul syllable jyo
-C8E1 : Hangul syllable jyog
-C8E2 : Hangul syllable jyogg
-C8E3 : Hangul syllable jyogs
-C8E4 : Hangul syllable jyon
-C8E5 : Hangul syllable jyonj
-C8E6 : Hangul syllable jyonh
-C8E7 : Hangul syllable jyod
-C8E8 : Hangul syllable jyol
-C8E9 : Hangul syllable jyolg
-C8EA : Hangul syllable jyolm
-C8EB : Hangul syllable jyolb
-C8EC : Hangul syllable jyols
-C8ED : Hangul syllable jyolt
-C8EE : Hangul syllable jyolp
-C8EF : Hangul syllable jyolh
-C8F0 : Hangul syllable jyom
-C8F1 : Hangul syllable jyob
-C8F2 : Hangul syllable jyobs
-C8F3 : Hangul syllable jyos
-C8F4 : Hangul syllable jyoss
-C8F5 : Hangul syllable jyong
-C8F6 : Hangul syllable jyoj
-C8F7 : Hangul syllable jyoc
-C8F8 : Hangul syllable jyok
-C8F9 : Hangul syllable jyot
-C8FA : Hangul syllable jyop
-C8FB : Hangul syllable jyoh
-C8FC : Hangul syllable ju
-C8FD : Hangul syllable jug
-C8FE : Hangul syllable jugg
-C8FF : Hangul syllable jugs
+C800 : 朝鲜文音节 Jeo
+C801 : 朝鲜文音节 Jeog
+C802 : 朝鲜文音节 Jeogg
+C803 : 朝鲜文音节 Jeogs
+C804 : 朝鲜文音节 Jeon
+C805 : 朝鲜文音节 Jeonj
+C806 : 朝鲜文音节 Jeonh
+C807 : 朝鲜文音节 Jeod
+C808 : 朝鲜文音节 Jeol
+C809 : 朝鲜文音节 Jeolg
+C80A : 朝鲜文音节 Jeolm
+C80B : 朝鲜文音节 Jeolb
+C80C : 朝鲜文音节 Jeols
+C80D : 朝鲜文音节 Jeolt
+C80E : 朝鲜文音节 Jeolp
+C80F : 朝鲜文音节 Jeolh
+C810 : 朝鲜文音节 Jeom
+C811 : 朝鲜文音节 Jeob
+C812 : 朝鲜文音节 Jeobs
+C813 : 朝鲜文音节 Jeos
+C814 : 朝鲜文音节 Jeoss
+C815 : 朝鲜文音节 Jeong
+C816 : 朝鲜文音节 Jeoj
+C817 : 朝鲜文音节 Jeoc
+C818 : 朝鲜文音节 Jeok
+C819 : 朝鲜文音节 Jeot
+C81A : 朝鲜文音节 Jeop
+C81B : 朝鲜文音节 Jeoh
+C81C : 朝鲜文音节 Je
+C81D : 朝鲜文音节 Jeg
+C81E : 朝鲜文音节 Jegg
+C81F : 朝鲜文音节 Jegs
+C820 : 朝鲜文音节 Jen
+C821 : 朝鲜文音节 Jenj
+C822 : 朝鲜文音节 Jenh
+C823 : 朝鲜文音节 Jed
+C824 : 朝鲜文音节 Jel
+C825 : 朝鲜文音节 Jelg
+C826 : 朝鲜文音节 Jelm
+C827 : 朝鲜文音节 Jelb
+C828 : 朝鲜文音节 Jels
+C829 : 朝鲜文音节 Jelt
+C82A : 朝鲜文音节 Jelp
+C82B : 朝鲜文音节 Jelh
+C82C : 朝鲜文音节 Jem
+C82D : 朝鲜文音节 Jeb
+C82E : 朝鲜文音节 Jebs
+C82F : 朝鲜文音节 Jes
+C830 : 朝鲜文音节 Jess
+C831 : 朝鲜文音节 Jeng
+C832 : 朝鲜文音节 Jej
+C833 : 朝鲜文音节 Jec
+C834 : 朝鲜文音节 Jek
+C835 : 朝鲜文音节 Jet
+C836 : 朝鲜文音节 Jep
+C837 : 朝鲜文音节 Jeh
+C838 : 朝鲜文音节 Jyeo
+C839 : 朝鲜文音节 Jyeog
+C83A : 朝鲜文音节 Jyeogg
+C83B : 朝鲜文音节 Jyeogs
+C83C : 朝鲜文音节 Jyeon
+C83D : 朝鲜文音节 Jyeonj
+C83E : 朝鲜文音节 Jyeonh
+C83F : 朝鲜文音节 Jyeod
+C840 : 朝鲜文音节 Jyeol
+C841 : 朝鲜文音节 Jyeolg
+C842 : 朝鲜文音节 Jyeolm
+C843 : 朝鲜文音节 Jyeolb
+C844 : 朝鲜文音节 Jyeols
+C845 : 朝鲜文音节 Jyeolt
+C846 : 朝鲜文音节 Jyeolp
+C847 : 朝鲜文音节 Jyeolh
+C848 : 朝鲜文音节 Jyeom
+C849 : 朝鲜文音节 Jyeob
+C84A : 朝鲜文音节 Jyeobs
+C84B : 朝鲜文音节 Jyeos
+C84C : 朝鲜文音节 Jyeoss
+C84D : 朝鲜文音节 Jyeong
+C84E : 朝鲜文音节 Jyeoj
+C84F : 朝鲜文音节 Jyeoc
+C850 : 朝鲜文音节 Jyeok
+C851 : 朝鲜文音节 Jyeot
+C852 : 朝鲜文音节 Jyeop
+C853 : 朝鲜文音节 Jyeoh
+C854 : 朝鲜文音节 Jye
+C855 : 朝鲜文音节 Jyeg
+C856 : 朝鲜文音节 Jyegg
+C857 : 朝鲜文音节 Jyegs
+C858 : 朝鲜文音节 Jyen
+C859 : 朝鲜文音节 Jyenj
+C85A : 朝鲜文音节 Jyenh
+C85B : 朝鲜文音节 Jyed
+C85C : 朝鲜文音节 Jyel
+C85D : 朝鲜文音节 Jyelg
+C85E : 朝鲜文音节 Jyelm
+C85F : 朝鲜文音节 Jyelb
+C860 : 朝鲜文音节 Jyels
+C861 : 朝鲜文音节 Jyelt
+C862 : 朝鲜文音节 Jyelp
+C863 : 朝鲜文音节 Jyelh
+C864 : 朝鲜文音节 Jyem
+C865 : 朝鲜文音节 Jyeb
+C866 : 朝鲜文音节 Jyebs
+C867 : 朝鲜文音节 Jyes
+C868 : 朝鲜文音节 Jyess
+C869 : 朝鲜文音节 Jyeng
+C86A : 朝鲜文音节 Jyej
+C86B : 朝鲜文音节 Jyec
+C86C : 朝鲜文音节 Jyek
+C86D : 朝鲜文音节 Jyet
+C86E : 朝鲜文音节 Jyep
+C86F : 朝鲜文音节 Jyeh
+C870 : 朝鲜文音节 Jo
+C871 : 朝鲜文音节 Jog
+C872 : 朝鲜文音节 Jogg
+C873 : 朝鲜文音节 Jogs
+C874 : 朝鲜文音节 Jon
+C875 : 朝鲜文音节 Jonj
+C876 : 朝鲜文音节 Jonh
+C877 : 朝鲜文音节 Jod
+C878 : 朝鲜文音节 Jol
+C879 : 朝鲜文音节 Jolg
+C87A : 朝鲜文音节 Jolm
+C87B : 朝鲜文音节 Jolb
+C87C : 朝鲜文音节 Jols
+C87D : 朝鲜文音节 Jolt
+C87E : 朝鲜文音节 Jolp
+C87F : 朝鲜文音节 Jolh
+C880 : 朝鲜文音节 Jom
+C881 : 朝鲜文音节 Job
+C882 : 朝鲜文音节 Jobs
+C883 : 朝鲜文音节 Jos
+C884 : 朝鲜文音节 Joss
+C885 : 朝鲜文音节 Jong
+C886 : 朝鲜文音节 Joj
+C887 : 朝鲜文音节 Joc
+C888 : 朝鲜文音节 Jok
+C889 : 朝鲜文音节 Jot
+C88A : 朝鲜文音节 Jop
+C88B : 朝鲜文音节 Joh
+C88C : 朝鲜文音节 Jwa
+C88D : 朝鲜文音节 Jwag
+C88E : 朝鲜文音节 Jwagg
+C88F : 朝鲜文音节 Jwags
+C890 : 朝鲜文音节 Jwan
+C891 : 朝鲜文音节 Jwanj
+C892 : 朝鲜文音节 Jwanh
+C893 : 朝鲜文音节 Jwad
+C894 : 朝鲜文音节 Jwal
+C895 : 朝鲜文音节 Jwalg
+C896 : 朝鲜文音节 Jwalm
+C897 : 朝鲜文音节 Jwalb
+C898 : 朝鲜文音节 Jwals
+C899 : 朝鲜文音节 Jwalt
+C89A : 朝鲜文音节 Jwalp
+C89B : 朝鲜文音节 Jwalh
+C89C : 朝鲜文音节 Jwam
+C89D : 朝鲜文音节 Jwab
+C89E : 朝鲜文音节 Jwabs
+C89F : 朝鲜文音节 Jwas
+C8A0 : 朝鲜文音节 Jwass
+C8A1 : 朝鲜文音节 Jwang
+C8A2 : 朝鲜文音节 Jwaj
+C8A3 : 朝鲜文音节 Jwac
+C8A4 : 朝鲜文音节 Jwak
+C8A5 : 朝鲜文音节 Jwat
+C8A6 : 朝鲜文音节 Jwap
+C8A7 : 朝鲜文音节 Jwah
+C8A8 : 朝鲜文音节 Jwae
+C8A9 : 朝鲜文音节 Jwaeg
+C8AA : 朝鲜文音节 Jwaegg
+C8AB : 朝鲜文音节 Jwaegs
+C8AC : 朝鲜文音节 Jwaen
+C8AD : 朝鲜文音节 Jwaenj
+C8AE : 朝鲜文音节 Jwaenh
+C8AF : 朝鲜文音节 Jwaed
+C8B0 : 朝鲜文音节 Jwael
+C8B1 : 朝鲜文音节 Jwaelg
+C8B2 : 朝鲜文音节 Jwaelm
+C8B3 : 朝鲜文音节 Jwaelb
+C8B4 : 朝鲜文音节 Jwaels
+C8B5 : 朝鲜文音节 Jwaelt
+C8B6 : 朝鲜文音节 Jwaelp
+C8B7 : 朝鲜文音节 Jwaelh
+C8B8 : 朝鲜文音节 Jwaem
+C8B9 : 朝鲜文音节 Jwaeb
+C8BA : 朝鲜文音节 Jwaebs
+C8BB : 朝鲜文音节 Jwaes
+C8BC : 朝鲜文音节 Jwaess
+C8BD : 朝鲜文音节 Jwaeng
+C8BE : 朝鲜文音节 Jwaej
+C8BF : 朝鲜文音节 Jwaec
+C8C0 : 朝鲜文音节 Jwaek
+C8C1 : 朝鲜文音节 Jwaet
+C8C2 : 朝鲜文音节 Jwaep
+C8C3 : 朝鲜文音节 Jwaeh
+C8C4 : 朝鲜文音节 Joe
+C8C5 : 朝鲜文音节 Joeg
+C8C6 : 朝鲜文音节 Joegg
+C8C7 : 朝鲜文音节 Joegs
+C8C8 : 朝鲜文音节 Joen
+C8C9 : 朝鲜文音节 Joenj
+C8CA : 朝鲜文音节 Joenh
+C8CB : 朝鲜文音节 Joed
+C8CC : 朝鲜文音节 Joel
+C8CD : 朝鲜文音节 Joelg
+C8CE : 朝鲜文音节 Joelm
+C8CF : 朝鲜文音节 Joelb
+C8D0 : 朝鲜文音节 Joels
+C8D1 : 朝鲜文音节 Joelt
+C8D2 : 朝鲜文音节 Joelp
+C8D3 : 朝鲜文音节 Joelh
+C8D4 : 朝鲜文音节 Joem
+C8D5 : 朝鲜文音节 Joeb
+C8D6 : 朝鲜文音节 Joebs
+C8D7 : 朝鲜文音节 Joes
+C8D8 : 朝鲜文音节 Joess
+C8D9 : 朝鲜文音节 Joeng
+C8DA : 朝鲜文音节 Joej
+C8DB : 朝鲜文音节 Joec
+C8DC : 朝鲜文音节 Joek
+C8DD : 朝鲜文音节 Joet
+C8DE : 朝鲜文音节 Joep
+C8DF : 朝鲜文音节 Joeh
+C8E0 : 朝鲜文音节 Jyo
+C8E1 : 朝鲜文音节 Jyog
+C8E2 : 朝鲜文音节 Jyogg
+C8E3 : 朝鲜文音节 Jyogs
+C8E4 : 朝鲜文音节 Jyon
+C8E5 : 朝鲜文音节 Jyonj
+C8E6 : 朝鲜文音节 Jyonh
+C8E7 : 朝鲜文音节 Jyod
+C8E8 : 朝鲜文音节 Jyol
+C8E9 : 朝鲜文音节 Jyolg
+C8EA : 朝鲜文音节 Jyolm
+C8EB : 朝鲜文音节 Jyolb
+C8EC : 朝鲜文音节 Jyols
+C8ED : 朝鲜文音节 Jyolt
+C8EE : 朝鲜文音节 Jyolp
+C8EF : 朝鲜文音节 Jyolh
+C8F0 : 朝鲜文音节 Jyom
+C8F1 : 朝鲜文音节 Jyob
+C8F2 : 朝鲜文音节 Jyobs
+C8F3 : 朝鲜文音节 Jyos
+C8F4 : 朝鲜文音节 Jyoss
+C8F5 : 朝鲜文音节 Jyong
+C8F6 : 朝鲜文音节 Jyoj
+C8F7 : 朝鲜文音节 Jyoc
+C8F8 : 朝鲜文音节 Jyok
+C8F9 : 朝鲜文音节 Jyot
+C8FA : 朝鲜文音节 Jyop
+C8FB : 朝鲜文音节 Jyoh
+C8FC : 朝鲜文音节 Ju
+C8FD : 朝鲜文音节 Jug
+C8FE : 朝鲜文音节 Jugg
+C8FF : 朝鲜文音节 Jugs

@@ -1,256 +1,256 @@
-B300 : Hangul syllable dae
-B301 : Hangul syllable daeg
-B302 : Hangul syllable daegg
-B303 : Hangul syllable daegs
-B304 : Hangul syllable daen
-B305 : Hangul syllable daenj
-B306 : Hangul syllable daenh
-B307 : Hangul syllable daed
-B308 : Hangul syllable dael
-B309 : Hangul syllable daelg
-B30A : Hangul syllable daelm
-B30B : Hangul syllable daelb
-B30C : Hangul syllable daels
-B30D : Hangul syllable daelt
-B30E : Hangul syllable daelp
-B30F : Hangul syllable daelh
-B310 : Hangul syllable daem
-B311 : Hangul syllable daeb
-B312 : Hangul syllable daebs
-B313 : Hangul syllable daes
-B314 : Hangul syllable daess
-B315 : Hangul syllable daeng
-B316 : Hangul syllable daej
-B317 : Hangul syllable daec
-B318 : Hangul syllable daek
-B319 : Hangul syllable daet
-B31A : Hangul syllable daep
-B31B : Hangul syllable daeh
-B31C : Hangul syllable dya
-B31D : Hangul syllable dyag
-B31E : Hangul syllable dyagg
-B31F : Hangul syllable dyags
-B320 : Hangul syllable dyan
-B321 : Hangul syllable dyanj
-B322 : Hangul syllable dyanh
-B323 : Hangul syllable dyad
-B324 : Hangul syllable dyal
-B325 : Hangul syllable dyalg
-B326 : Hangul syllable dyalm
-B327 : Hangul syllable dyalb
-B328 : Hangul syllable dyals
-B329 : Hangul syllable dyalt
-B32A : Hangul syllable dyalp
-B32B : Hangul syllable dyalh
-B32C : Hangul syllable dyam
-B32D : Hangul syllable dyab
-B32E : Hangul syllable dyabs
-B32F : Hangul syllable dyas
-B330 : Hangul syllable dyass
-B331 : Hangul syllable dyang
-B332 : Hangul syllable dyaj
-B333 : Hangul syllable dyac
-B334 : Hangul syllable dyak
-B335 : Hangul syllable dyat
-B336 : Hangul syllable dyap
-B337 : Hangul syllable dyah
-B338 : Hangul syllable dyae
-B339 : Hangul syllable dyaeg
-B33A : Hangul syllable dyaegg
-B33B : Hangul syllable dyaegs
-B33C : Hangul syllable dyaen
-B33D : Hangul syllable dyaenj
-B33E : Hangul syllable dyaenh
-B33F : Hangul syllable dyaed
-B340 : Hangul syllable dyael
-B341 : Hangul syllable dyaelg
-B342 : Hangul syllable dyaelm
-B343 : Hangul syllable dyaelb
-B344 : Hangul syllable dyaels
-B345 : Hangul syllable dyaelt
-B346 : Hangul syllable dyaelp
-B347 : Hangul syllable dyaelh
-B348 : Hangul syllable dyaem
-B349 : Hangul syllable dyaeb
-B34A : Hangul syllable dyaebs
-B34B : Hangul syllable dyaes
-B34C : Hangul syllable dyaess
-B34D : Hangul syllable dyaeng
-B34E : Hangul syllable dyaej
-B34F : Hangul syllable dyaec
-B350 : Hangul syllable dyaek
-B351 : Hangul syllable dyaet
-B352 : Hangul syllable dyaep
-B353 : Hangul syllable dyaeh
-B354 : Hangul syllable deo
-B355 : Hangul syllable deog
-B356 : Hangul syllable deogg
-B357 : Hangul syllable deogs
-B358 : Hangul syllable deon
-B359 : Hangul syllable deonj
-B35A : Hangul syllable deonh
-B35B : Hangul syllable deod
-B35C : Hangul syllable deol
-B35D : Hangul syllable deolg
-B35E : Hangul syllable deolm
-B35F : Hangul syllable deolb
-B360 : Hangul syllable deols
-B361 : Hangul syllable deolt
-B362 : Hangul syllable deolp
-B363 : Hangul syllable deolh
-B364 : Hangul syllable deom
-B365 : Hangul syllable deob
-B366 : Hangul syllable deobs
-B367 : Hangul syllable deos
-B368 : Hangul syllable deoss
-B369 : Hangul syllable deong
-B36A : Hangul syllable deoj
-B36B : Hangul syllable deoc
-B36C : Hangul syllable deok
-B36D : Hangul syllable deot
-B36E : Hangul syllable deop
-B36F : Hangul syllable deoh
-B370 : Hangul syllable de
-B371 : Hangul syllable deg
-B372 : Hangul syllable degg
-B373 : Hangul syllable degs
-B374 : Hangul syllable den
-B375 : Hangul syllable denj
-B376 : Hangul syllable denh
-B377 : Hangul syllable ded
-B378 : Hangul syllable del
-B379 : Hangul syllable delg
-B37A : Hangul syllable delm
-B37B : Hangul syllable delb
-B37C : Hangul syllable dels
-B37D : Hangul syllable delt
-B37E : Hangul syllable delp
-B37F : Hangul syllable delh
-B380 : Hangul syllable dem
-B381 : Hangul syllable deb
-B382 : Hangul syllable debs
-B383 : Hangul syllable des
-B384 : Hangul syllable dess
-B385 : Hangul syllable deng
-B386 : Hangul syllable dej
-B387 : Hangul syllable dec
-B388 : Hangul syllable dek
-B389 : Hangul syllable det
-B38A : Hangul syllable dep
-B38B : Hangul syllable deh
-B38C : Hangul syllable dyeo
-B38D : Hangul syllable dyeog
-B38E : Hangul syllable dyeogg
-B38F : Hangul syllable dyeogs
-B390 : Hangul syllable dyeon
-B391 : Hangul syllable dyeonj
-B392 : Hangul syllable dyeonh
-B393 : Hangul syllable dyeod
-B394 : Hangul syllable dyeol
-B395 : Hangul syllable dyeolg
-B396 : Hangul syllable dyeolm
-B397 : Hangul syllable dyeolb
-B398 : Hangul syllable dyeols
-B399 : Hangul syllable dyeolt
-B39A : Hangul syllable dyeolp
-B39B : Hangul syllable dyeolh
-B39C : Hangul syllable dyeom
-B39D : Hangul syllable dyeob
-B39E : Hangul syllable dyeobs
-B39F : Hangul syllable dyeos
-B3A0 : Hangul syllable dyeoss
-B3A1 : Hangul syllable dyeong
-B3A2 : Hangul syllable dyeoj
-B3A3 : Hangul syllable dyeoc
-B3A4 : Hangul syllable dyeok
-B3A5 : Hangul syllable dyeot
-B3A6 : Hangul syllable dyeop
-B3A7 : Hangul syllable dyeoh
-B3A8 : Hangul syllable dye
-B3A9 : Hangul syllable dyeg
-B3AA : Hangul syllable dyegg
-B3AB : Hangul syllable dyegs
-B3AC : Hangul syllable dyen
-B3AD : Hangul syllable dyenj
-B3AE : Hangul syllable dyenh
-B3AF : Hangul syllable dyed
-B3B0 : Hangul syllable dyel
-B3B1 : Hangul syllable dyelg
-B3B2 : Hangul syllable dyelm
-B3B3 : Hangul syllable dyelb
-B3B4 : Hangul syllable dyels
-B3B5 : Hangul syllable dyelt
-B3B6 : Hangul syllable dyelp
-B3B7 : Hangul syllable dyelh
-B3B8 : Hangul syllable dyem
-B3B9 : Hangul syllable dyeb
-B3BA : Hangul syllable dyebs
-B3BB : Hangul syllable dyes
-B3BC : Hangul syllable dyess
-B3BD : Hangul syllable dyeng
-B3BE : Hangul syllable dyej
-B3BF : Hangul syllable dyec
-B3C0 : Hangul syllable dyek
-B3C1 : Hangul syllable dyet
-B3C2 : Hangul syllable dyep
-B3C3 : Hangul syllable dyeh
-B3C4 : Hangul syllable do
-B3C5 : Hangul syllable dog
-B3C6 : Hangul syllable dogg
-B3C7 : Hangul syllable dogs
-B3C8 : Hangul syllable don
-B3C9 : Hangul syllable donj
-B3CA : Hangul syllable donh
-B3CB : Hangul syllable dod
-B3CC : Hangul syllable dol
-B3CD : Hangul syllable dolg
-B3CE : Hangul syllable dolm
-B3CF : Hangul syllable dolb
-B3D0 : Hangul syllable dols
-B3D1 : Hangul syllable dolt
-B3D2 : Hangul syllable dolp
-B3D3 : Hangul syllable dolh
-B3D4 : Hangul syllable dom
-B3D5 : Hangul syllable dob
-B3D6 : Hangul syllable dobs
-B3D7 : Hangul syllable dos
-B3D8 : Hangul syllable doss
-B3D9 : Hangul syllable dong
-B3DA : Hangul syllable doj
-B3DB : Hangul syllable doc
-B3DC : Hangul syllable dok
-B3DD : Hangul syllable dot
-B3DE : Hangul syllable dop
-B3DF : Hangul syllable doh
-B3E0 : Hangul syllable dwa
-B3E1 : Hangul syllable dwag
-B3E2 : Hangul syllable dwagg
-B3E3 : Hangul syllable dwags
-B3E4 : Hangul syllable dwan
-B3E5 : Hangul syllable dwanj
-B3E6 : Hangul syllable dwanh
-B3E7 : Hangul syllable dwad
-B3E8 : Hangul syllable dwal
-B3E9 : Hangul syllable dwalg
-B3EA : Hangul syllable dwalm
-B3EB : Hangul syllable dwalb
-B3EC : Hangul syllable dwals
-B3ED : Hangul syllable dwalt
-B3EE : Hangul syllable dwalp
-B3EF : Hangul syllable dwalh
-B3F0 : Hangul syllable dwam
-B3F1 : Hangul syllable dwab
-B3F2 : Hangul syllable dwabs
-B3F3 : Hangul syllable dwas
-B3F4 : Hangul syllable dwass
-B3F5 : Hangul syllable dwang
-B3F6 : Hangul syllable dwaj
-B3F7 : Hangul syllable dwac
-B3F8 : Hangul syllable dwak
-B3F9 : Hangul syllable dwat
-B3FA : Hangul syllable dwap
-B3FB : Hangul syllable dwah
-B3FC : Hangul syllable dwae
-B3FD : Hangul syllable dwaeg
-B3FE : Hangul syllable dwaegg
-B3FF : Hangul syllable dwaegs
+B300 : 朝鲜文音节 Dae
+B301 : 朝鲜文音节 Daeg
+B302 : 朝鲜文音节 Daegg
+B303 : 朝鲜文音节 Daegs
+B304 : 朝鲜文音节 Daen
+B305 : 朝鲜文音节 Daenj
+B306 : 朝鲜文音节 Daenh
+B307 : 朝鲜文音节 Daed
+B308 : 朝鲜文音节 Dael
+B309 : 朝鲜文音节 Daelg
+B30A : 朝鲜文音节 Daelm
+B30B : 朝鲜文音节 Daelb
+B30C : 朝鲜文音节 Daels
+B30D : 朝鲜文音节 Daelt
+B30E : 朝鲜文音节 Daelp
+B30F : 朝鲜文音节 Daelh
+B310 : 朝鲜文音节 Daem
+B311 : 朝鲜文音节 Daeb
+B312 : 朝鲜文音节 Daebs
+B313 : 朝鲜文音节 Daes
+B314 : 朝鲜文音节 Daess
+B315 : 朝鲜文音节 Daeng
+B316 : 朝鲜文音节 Daej
+B317 : 朝鲜文音节 Daec
+B318 : 朝鲜文音节 Daek
+B319 : 朝鲜文音节 Daet
+B31A : 朝鲜文音节 Daep
+B31B : 朝鲜文音节 Daeh
+B31C : 朝鲜文音节 Dya
+B31D : 朝鲜文音节 Dyag
+B31E : 朝鲜文音节 Dyagg
+B31F : 朝鲜文音节 Dyags
+B320 : 朝鲜文音节 Dyan
+B321 : 朝鲜文音节 Dyanj
+B322 : 朝鲜文音节 Dyanh
+B323 : 朝鲜文音节 Dyad
+B324 : 朝鲜文音节 Dyal
+B325 : 朝鲜文音节 Dyalg
+B326 : 朝鲜文音节 Dyalm
+B327 : 朝鲜文音节 Dyalb
+B328 : 朝鲜文音节 Dyals
+B329 : 朝鲜文音节 Dyalt
+B32A : 朝鲜文音节 Dyalp
+B32B : 朝鲜文音节 Dyalh
+B32C : 朝鲜文音节 Dyam
+B32D : 朝鲜文音节 Dyab
+B32E : 朝鲜文音节 Dyabs
+B32F : 朝鲜文音节 Dyas
+B330 : 朝鲜文音节 Dyass
+B331 : 朝鲜文音节 Dyang
+B332 : 朝鲜文音节 Dyaj
+B333 : 朝鲜文音节 Dyac
+B334 : 朝鲜文音节 Dyak
+B335 : 朝鲜文音节 Dyat
+B336 : 朝鲜文音节 Dyap
+B337 : 朝鲜文音节 Dyah
+B338 : 朝鲜文音节 Dyae
+B339 : 朝鲜文音节 Dyaeg
+B33A : 朝鲜文音节 Dyaegg
+B33B : 朝鲜文音节 Dyaegs
+B33C : 朝鲜文音节 Dyaen
+B33D : 朝鲜文音节 Dyaenj
+B33E : 朝鲜文音节 Dyaenh
+B33F : 朝鲜文音节 Dyaed
+B340 : 朝鲜文音节 Dyael
+B341 : 朝鲜文音节 Dyaelg
+B342 : 朝鲜文音节 Dyaelm
+B343 : 朝鲜文音节 Dyaelb
+B344 : 朝鲜文音节 Dyaels
+B345 : 朝鲜文音节 Dyaelt
+B346 : 朝鲜文音节 Dyaelp
+B347 : 朝鲜文音节 Dyaelh
+B348 : 朝鲜文音节 Dyaem
+B349 : 朝鲜文音节 Dyaeb
+B34A : 朝鲜文音节 Dyaebs
+B34B : 朝鲜文音节 Dyaes
+B34C : 朝鲜文音节 Dyaess
+B34D : 朝鲜文音节 Dyaeng
+B34E : 朝鲜文音节 Dyaej
+B34F : 朝鲜文音节 Dyaec
+B350 : 朝鲜文音节 Dyaek
+B351 : 朝鲜文音节 Dyaet
+B352 : 朝鲜文音节 Dyaep
+B353 : 朝鲜文音节 Dyaeh
+B354 : 朝鲜文音节 Deo
+B355 : 朝鲜文音节 Deog
+B356 : 朝鲜文音节 Deogg
+B357 : 朝鲜文音节 Deogs
+B358 : 朝鲜文音节 Deon
+B359 : 朝鲜文音节 Deonj
+B35A : 朝鲜文音节 Deonh
+B35B : 朝鲜文音节 Deod
+B35C : 朝鲜文音节 Deol
+B35D : 朝鲜文音节 Deolg
+B35E : 朝鲜文音节 Deolm
+B35F : 朝鲜文音节 Deolb
+B360 : 朝鲜文音节 Deols
+B361 : 朝鲜文音节 Deolt
+B362 : 朝鲜文音节 Deolp
+B363 : 朝鲜文音节 Deolh
+B364 : 朝鲜文音节 Deom
+B365 : 朝鲜文音节 Deob
+B366 : 朝鲜文音节 Deobs
+B367 : 朝鲜文音节 Deos
+B368 : 朝鲜文音节 Deoss
+B369 : 朝鲜文音节 Deong
+B36A : 朝鲜文音节 Deoj
+B36B : 朝鲜文音节 Deoc
+B36C : 朝鲜文音节 Deok
+B36D : 朝鲜文音节 Deot
+B36E : 朝鲜文音节 Deop
+B36F : 朝鲜文音节 Deoh
+B370 : 朝鲜文音节 De
+B371 : 朝鲜文音节 Deg
+B372 : 朝鲜文音节 Degg
+B373 : 朝鲜文音节 Degs
+B374 : 朝鲜文音节 Den
+B375 : 朝鲜文音节 Denj
+B376 : 朝鲜文音节 Denh
+B377 : 朝鲜文音节 Ded
+B378 : 朝鲜文音节 Del
+B379 : 朝鲜文音节 Delg
+B37A : 朝鲜文音节 Delm
+B37B : 朝鲜文音节 Delb
+B37C : 朝鲜文音节 Dels
+B37D : 朝鲜文音节 Delt
+B37E : 朝鲜文音节 Delp
+B37F : 朝鲜文音节 Delh
+B380 : 朝鲜文音节 Dem
+B381 : 朝鲜文音节 Deb
+B382 : 朝鲜文音节 Debs
+B383 : 朝鲜文音节 Des
+B384 : 朝鲜文音节 Dess
+B385 : 朝鲜文音节 Deng
+B386 : 朝鲜文音节 Dej
+B387 : 朝鲜文音节 Dec
+B388 : 朝鲜文音节 Dek
+B389 : 朝鲜文音节 Det
+B38A : 朝鲜文音节 Dep
+B38B : 朝鲜文音节 Deh
+B38C : 朝鲜文音节 Dyeo
+B38D : 朝鲜文音节 Dyeog
+B38E : 朝鲜文音节 Dyeogg
+B38F : 朝鲜文音节 Dyeogs
+B390 : 朝鲜文音节 Dyeon
+B391 : 朝鲜文音节 Dyeonj
+B392 : 朝鲜文音节 Dyeonh
+B393 : 朝鲜文音节 Dyeod
+B394 : 朝鲜文音节 Dyeol
+B395 : 朝鲜文音节 Dyeolg
+B396 : 朝鲜文音节 Dyeolm
+B397 : 朝鲜文音节 Dyeolb
+B398 : 朝鲜文音节 Dyeols
+B399 : 朝鲜文音节 Dyeolt
+B39A : 朝鲜文音节 Dyeolp
+B39B : 朝鲜文音节 Dyeolh
+B39C : 朝鲜文音节 Dyeom
+B39D : 朝鲜文音节 Dyeob
+B39E : 朝鲜文音节 Dyeobs
+B39F : 朝鲜文音节 Dyeos
+B3A0 : 朝鲜文音节 Dyeoss
+B3A1 : 朝鲜文音节 Dyeong
+B3A2 : 朝鲜文音节 Dyeoj
+B3A3 : 朝鲜文音节 Dyeoc
+B3A4 : 朝鲜文音节 Dyeok
+B3A5 : 朝鲜文音节 Dyeot
+B3A6 : 朝鲜文音节 Dyeop
+B3A7 : 朝鲜文音节 Dyeoh
+B3A8 : 朝鲜文音节 Dye
+B3A9 : 朝鲜文音节 Dyeg
+B3AA : 朝鲜文音节 Dyegg
+B3AB : 朝鲜文音节 Dyegs
+B3AC : 朝鲜文音节 Dyen
+B3AD : 朝鲜文音节 Dyenj
+B3AE : 朝鲜文音节 Dyenh
+B3AF : 朝鲜文音节 Dyed
+B3B0 : 朝鲜文音节 Dyel
+B3B1 : 朝鲜文音节 Dyelg
+B3B2 : 朝鲜文音节 Dyelm
+B3B3 : 朝鲜文音节 Dyelb
+B3B4 : 朝鲜文音节 Dyels
+B3B5 : 朝鲜文音节 Dyelt
+B3B6 : 朝鲜文音节 Dyelp
+B3B7 : 朝鲜文音节 Dyelh
+B3B8 : 朝鲜文音节 Dyem
+B3B9 : 朝鲜文音节 Dyeb
+B3BA : 朝鲜文音节 Dyebs
+B3BB : 朝鲜文音节 Dyes
+B3BC : 朝鲜文音节 Dyess
+B3BD : 朝鲜文音节 Dyeng
+B3BE : 朝鲜文音节 Dyej
+B3BF : 朝鲜文音节 Dyec
+B3C0 : 朝鲜文音节 Dyek
+B3C1 : 朝鲜文音节 Dyet
+B3C2 : 朝鲜文音节 Dyep
+B3C3 : 朝鲜文音节 Dyeh
+B3C4 : 朝鲜文音节 Do
+B3C5 : 朝鲜文音节 Dog
+B3C6 : 朝鲜文音节 Dogg
+B3C7 : 朝鲜文音节 Dogs
+B3C8 : 朝鲜文音节 Don
+B3C9 : 朝鲜文音节 Donj
+B3CA : 朝鲜文音节 Donh
+B3CB : 朝鲜文音节 Dod
+B3CC : 朝鲜文音节 Dol
+B3CD : 朝鲜文音节 Dolg
+B3CE : 朝鲜文音节 Dolm
+B3CF : 朝鲜文音节 Dolb
+B3D0 : 朝鲜文音节 Dols
+B3D1 : 朝鲜文音节 Dolt
+B3D2 : 朝鲜文音节 Dolp
+B3D3 : 朝鲜文音节 Dolh
+B3D4 : 朝鲜文音节 Dom
+B3D5 : 朝鲜文音节 Dob
+B3D6 : 朝鲜文音节 Dobs
+B3D7 : 朝鲜文音节 Dos
+B3D8 : 朝鲜文音节 Doss
+B3D9 : 朝鲜文音节 Dong
+B3DA : 朝鲜文音节 Doj
+B3DB : 朝鲜文音节 Doc
+B3DC : 朝鲜文音节 Dok
+B3DD : 朝鲜文音节 Dot
+B3DE : 朝鲜文音节 Dop
+B3DF : 朝鲜文音节 Doh
+B3E0 : 朝鲜文音节 Dwa
+B3E1 : 朝鲜文音节 Dwag
+B3E2 : 朝鲜文音节 Dwagg
+B3E3 : 朝鲜文音节 Dwags
+B3E4 : 朝鲜文音节 Dwan
+B3E5 : 朝鲜文音节 Dwanj
+B3E6 : 朝鲜文音节 Dwanh
+B3E7 : 朝鲜文音节 Dwad
+B3E8 : 朝鲜文音节 Dwal
+B3E9 : 朝鲜文音节 Dwalg
+B3EA : 朝鲜文音节 Dwalm
+B3EB : 朝鲜文音节 Dwalb
+B3EC : 朝鲜文音节 Dwals
+B3ED : 朝鲜文音节 Dwalt
+B3EE : 朝鲜文音节 Dwalp
+B3EF : 朝鲜文音节 Dwalh
+B3F0 : 朝鲜文音节 Dwam
+B3F1 : 朝鲜文音节 Dwab
+B3F2 : 朝鲜文音节 Dwabs
+B3F3 : 朝鲜文音节 Dwas
+B3F4 : 朝鲜文音节 Dwass
+B3F5 : 朝鲜文音节 Dwang
+B3F6 : 朝鲜文音节 Dwaj
+B3F7 : 朝鲜文音节 Dwac
+B3F8 : 朝鲜文音节 Dwak
+B3F9 : 朝鲜文音节 Dwat
+B3FA : 朝鲜文音节 Dwap
+B3FB : 朝鲜文音节 Dwah
+B3FC : 朝鲜文音节 Dwae
+B3FD : 朝鲜文音节 Dwaeg
+B3FE : 朝鲜文音节 Dwaegg
+B3FF : 朝鲜文音节 Dwaegs

@@ -1,256 +1,256 @@
-C700 : Hangul syllable wek
-C701 : Hangul syllable wet
-C702 : Hangul syllable wep
-C703 : Hangul syllable weh
-C704 : Hangul syllable wi
-C705 : Hangul syllable wig
-C706 : Hangul syllable wigg
-C707 : Hangul syllable wigs
-C708 : Hangul syllable win
-C709 : Hangul syllable winj
-C70A : Hangul syllable winh
-C70B : Hangul syllable wid
-C70C : Hangul syllable wil
-C70D : Hangul syllable wilg
-C70E : Hangul syllable wilm
-C70F : Hangul syllable wilb
-C710 : Hangul syllable wils
-C711 : Hangul syllable wilt
-C712 : Hangul syllable wilp
-C713 : Hangul syllable wilh
-C714 : Hangul syllable wim
-C715 : Hangul syllable wib
-C716 : Hangul syllable wibs
-C717 : Hangul syllable wis
-C718 : Hangul syllable wiss
-C719 : Hangul syllable wing
-C71A : Hangul syllable wij
-C71B : Hangul syllable wic
-C71C : Hangul syllable wik
-C71D : Hangul syllable wit
-C71E : Hangul syllable wip
-C71F : Hangul syllable wih
-C720 : Hangul syllable yu
-C721 : Hangul syllable yug
-C722 : Hangul syllable yugg
-C723 : Hangul syllable yugs
-C724 : Hangul syllable yun
-C725 : Hangul syllable yunj
-C726 : Hangul syllable yunh
-C727 : Hangul syllable yud
-C728 : Hangul syllable yul
-C729 : Hangul syllable yulg
-C72A : Hangul syllable yulm
-C72B : Hangul syllable yulb
-C72C : Hangul syllable yuls
-C72D : Hangul syllable yult
-C72E : Hangul syllable yulp
-C72F : Hangul syllable yulh
-C730 : Hangul syllable yum
-C731 : Hangul syllable yub
-C732 : Hangul syllable yubs
-C733 : Hangul syllable yus
-C734 : Hangul syllable yuss
-C735 : Hangul syllable yung
-C736 : Hangul syllable yuj
-C737 : Hangul syllable yuc
-C738 : Hangul syllable yuk
-C739 : Hangul syllable yut
-C73A : Hangul syllable yup
-C73B : Hangul syllable yuh
-C73C : Hangul syllable eu
-C73D : Hangul syllable eug
-C73E : Hangul syllable eugg
-C73F : Hangul syllable eugs
-C740 : Hangul syllable eun
-C741 : Hangul syllable eunj
-C742 : Hangul syllable eunh
-C743 : Hangul syllable eud
-C744 : Hangul syllable eul
-C745 : Hangul syllable eulg
-C746 : Hangul syllable eulm
-C747 : Hangul syllable eulb
-C748 : Hangul syllable euls
-C749 : Hangul syllable eult
-C74A : Hangul syllable eulp
-C74B : Hangul syllable eulh
-C74C : Hangul syllable eum
-C74D : Hangul syllable eub
-C74E : Hangul syllable eubs
-C74F : Hangul syllable eus
-C750 : Hangul syllable euss
-C751 : Hangul syllable eung
-C752 : Hangul syllable euj
-C753 : Hangul syllable euc
-C754 : Hangul syllable euk
-C755 : Hangul syllable eut
-C756 : Hangul syllable eup
-C757 : Hangul syllable euh
-C758 : Hangul syllable yi
-C759 : Hangul syllable yig
-C75A : Hangul syllable yigg
-C75B : Hangul syllable yigs
-C75C : Hangul syllable yin
-C75D : Hangul syllable yinj
-C75E : Hangul syllable yinh
-C75F : Hangul syllable yid
-C760 : Hangul syllable yil
-C761 : Hangul syllable yilg
-C762 : Hangul syllable yilm
-C763 : Hangul syllable yilb
-C764 : Hangul syllable yils
-C765 : Hangul syllable yilt
-C766 : Hangul syllable yilp
-C767 : Hangul syllable yilh
-C768 : Hangul syllable yim
-C769 : Hangul syllable yib
-C76A : Hangul syllable yibs
-C76B : Hangul syllable yis
-C76C : Hangul syllable yiss
-C76D : Hangul syllable ying
-C76E : Hangul syllable yij
-C76F : Hangul syllable yic
-C770 : Hangul syllable yik
-C771 : Hangul syllable yit
-C772 : Hangul syllable yip
-C773 : Hangul syllable yih
-C774 : Hangul syllable i
-C775 : Hangul syllable ig
-C776 : Hangul syllable igg
-C777 : Hangul syllable igs
-C778 : Hangul syllable in
-C779 : Hangul syllable inj
-C77A : Hangul syllable inh
-C77B : Hangul syllable id
-C77C : Hangul syllable il
-C77D : Hangul syllable ilg
-C77E : Hangul syllable ilm
-C77F : Hangul syllable ilb
-C780 : Hangul syllable ils
-C781 : Hangul syllable ilt
-C782 : Hangul syllable ilp
-C783 : Hangul syllable ilh
-C784 : Hangul syllable im
-C785 : Hangul syllable ib
-C786 : Hangul syllable ibs
-C787 : Hangul syllable is
-C788 : Hangul syllable iss
-C789 : Hangul syllable ing
-C78A : Hangul syllable ij
-C78B : Hangul syllable ic
-C78C : Hangul syllable ik
-C78D : Hangul syllable it
-C78E : Hangul syllable ip
-C78F : Hangul syllable ih
-C790 : Hangul syllable ja
-C791 : Hangul syllable jag
-C792 : Hangul syllable jagg
-C793 : Hangul syllable jags
-C794 : Hangul syllable jan
-C795 : Hangul syllable janj
-C796 : Hangul syllable janh
-C797 : Hangul syllable jad
-C798 : Hangul syllable jal
-C799 : Hangul syllable jalg
-C79A : Hangul syllable jalm
-C79B : Hangul syllable jalb
-C79C : Hangul syllable jals
-C79D : Hangul syllable jalt
-C79E : Hangul syllable jalp
-C79F : Hangul syllable jalh
-C7A0 : Hangul syllable jam
-C7A1 : Hangul syllable jab
-C7A2 : Hangul syllable jabs
-C7A3 : Hangul syllable jas
-C7A4 : Hangul syllable jass
-C7A5 : Hangul syllable jang
-C7A6 : Hangul syllable jaj
-C7A7 : Hangul syllable jac
-C7A8 : Hangul syllable jak
-C7A9 : Hangul syllable jat
-C7AA : Hangul syllable jap
-C7AB : Hangul syllable jah
-C7AC : Hangul syllable jae
-C7AD : Hangul syllable jaeg
-C7AE : Hangul syllable jaegg
-C7AF : Hangul syllable jaegs
-C7B0 : Hangul syllable jaen
-C7B1 : Hangul syllable jaenj
-C7B2 : Hangul syllable jaenh
-C7B3 : Hangul syllable jaed
-C7B4 : Hangul syllable jael
-C7B5 : Hangul syllable jaelg
-C7B6 : Hangul syllable jaelm
-C7B7 : Hangul syllable jaelb
-C7B8 : Hangul syllable jaels
-C7B9 : Hangul syllable jaelt
-C7BA : Hangul syllable jaelp
-C7BB : Hangul syllable jaelh
-C7BC : Hangul syllable jaem
-C7BD : Hangul syllable jaeb
-C7BE : Hangul syllable jaebs
-C7BF : Hangul syllable jaes
-C7C0 : Hangul syllable jaess
-C7C1 : Hangul syllable jaeng
-C7C2 : Hangul syllable jaej
-C7C3 : Hangul syllable jaec
-C7C4 : Hangul syllable jaek
-C7C5 : Hangul syllable jaet
-C7C6 : Hangul syllable jaep
-C7C7 : Hangul syllable jaeh
-C7C8 : Hangul syllable jya
-C7C9 : Hangul syllable jyag
-C7CA : Hangul syllable jyagg
-C7CB : Hangul syllable jyags
-C7CC : Hangul syllable jyan
-C7CD : Hangul syllable jyanj
-C7CE : Hangul syllable jyanh
-C7CF : Hangul syllable jyad
-C7D0 : Hangul syllable jyal
-C7D1 : Hangul syllable jyalg
-C7D2 : Hangul syllable jyalm
-C7D3 : Hangul syllable jyalb
-C7D4 : Hangul syllable jyals
-C7D5 : Hangul syllable jyalt
-C7D6 : Hangul syllable jyalp
-C7D7 : Hangul syllable jyalh
-C7D8 : Hangul syllable jyam
-C7D9 : Hangul syllable jyab
-C7DA : Hangul syllable jyabs
-C7DB : Hangul syllable jyas
-C7DC : Hangul syllable jyass
-C7DD : Hangul syllable jyang
-C7DE : Hangul syllable jyaj
-C7DF : Hangul syllable jyac
-C7E0 : Hangul syllable jyak
-C7E1 : Hangul syllable jyat
-C7E2 : Hangul syllable jyap
-C7E3 : Hangul syllable jyah
-C7E4 : Hangul syllable jyae
-C7E5 : Hangul syllable jyaeg
-C7E6 : Hangul syllable jyaegg
-C7E7 : Hangul syllable jyaegs
-C7E8 : Hangul syllable jyaen
-C7E9 : Hangul syllable jyaenj
-C7EA : Hangul syllable jyaenh
-C7EB : Hangul syllable jyaed
-C7EC : Hangul syllable jyael
-C7ED : Hangul syllable jyaelg
-C7EE : Hangul syllable jyaelm
-C7EF : Hangul syllable jyaelb
-C7F0 : Hangul syllable jyaels
-C7F1 : Hangul syllable jyaelt
-C7F2 : Hangul syllable jyaelp
-C7F3 : Hangul syllable jyaelh
-C7F4 : Hangul syllable jyaem
-C7F5 : Hangul syllable jyaeb
-C7F6 : Hangul syllable jyaebs
-C7F7 : Hangul syllable jyaes
-C7F8 : Hangul syllable jyaess
-C7F9 : Hangul syllable jyaeng
-C7FA : Hangul syllable jyaej
-C7FB : Hangul syllable jyaec
-C7FC : Hangul syllable jyaek
-C7FD : Hangul syllable jyaet
-C7FE : Hangul syllable jyaep
-C7FF : Hangul syllable jyaeh
+C700 : 朝鲜文音节 Wek
+C701 : 朝鲜文音节 Wet
+C702 : 朝鲜文音节 Wep
+C703 : 朝鲜文音节 Weh
+C704 : 朝鲜文音节 Wi
+C705 : 朝鲜文音节 Wig
+C706 : 朝鲜文音节 Wigg
+C707 : 朝鲜文音节 Wigs
+C708 : 朝鲜文音节 Win
+C709 : 朝鲜文音节 Winj
+C70A : 朝鲜文音节 Winh
+C70B : 朝鲜文音节 Wid
+C70C : 朝鲜文音节 Wil
+C70D : 朝鲜文音节 Wilg
+C70E : 朝鲜文音节 Wilm
+C70F : 朝鲜文音节 Wilb
+C710 : 朝鲜文音节 Wils
+C711 : 朝鲜文音节 Wilt
+C712 : 朝鲜文音节 Wilp
+C713 : 朝鲜文音节 Wilh
+C714 : 朝鲜文音节 Wim
+C715 : 朝鲜文音节 Wib
+C716 : 朝鲜文音节 Wibs
+C717 : 朝鲜文音节 Wis
+C718 : 朝鲜文音节 Wiss
+C719 : 朝鲜文音节 Wing
+C71A : 朝鲜文音节 Wij
+C71B : 朝鲜文音节 Wic
+C71C : 朝鲜文音节 Wik
+C71D : 朝鲜文音节 Wit
+C71E : 朝鲜文音节 Wip
+C71F : 朝鲜文音节 Wih
+C720 : 朝鲜文音节 Yu
+C721 : 朝鲜文音节 Yug
+C722 : 朝鲜文音节 Yugg
+C723 : 朝鲜文音节 Yugs
+C724 : 朝鲜文音节 Yun
+C725 : 朝鲜文音节 Yunj
+C726 : 朝鲜文音节 Yunh
+C727 : 朝鲜文音节 Yud
+C728 : 朝鲜文音节 Yul
+C729 : 朝鲜文音节 Yulg
+C72A : 朝鲜文音节 Yulm
+C72B : 朝鲜文音节 Yulb
+C72C : 朝鲜文音节 Yuls
+C72D : 朝鲜文音节 Yult
+C72E : 朝鲜文音节 Yulp
+C72F : 朝鲜文音节 Yulh
+C730 : 朝鲜文音节 Yum
+C731 : 朝鲜文音节 Yub
+C732 : 朝鲜文音节 Yubs
+C733 : 朝鲜文音节 Yus
+C734 : 朝鲜文音节 Yuss
+C735 : 朝鲜文音节 Yung
+C736 : 朝鲜文音节 Yuj
+C737 : 朝鲜文音节 Yuc
+C738 : 朝鲜文音节 Yuk
+C739 : 朝鲜文音节 Yut
+C73A : 朝鲜文音节 Yup
+C73B : 朝鲜文音节 Yuh
+C73C : 朝鲜文音节 Eu
+C73D : 朝鲜文音节 Eug
+C73E : 朝鲜文音节 Eugg
+C73F : 朝鲜文音节 Eugs
+C740 : 朝鲜文音节 Eun
+C741 : 朝鲜文音节 Eunj
+C742 : 朝鲜文音节 Eunh
+C743 : 朝鲜文音节 Eud
+C744 : 朝鲜文音节 Eul
+C745 : 朝鲜文音节 Eulg
+C746 : 朝鲜文音节 Eulm
+C747 : 朝鲜文音节 Eulb
+C748 : 朝鲜文音节 Euls
+C749 : 朝鲜文音节 Eult
+C74A : 朝鲜文音节 Eulp
+C74B : 朝鲜文音节 Eulh
+C74C : 朝鲜文音节 Eum
+C74D : 朝鲜文音节 Eub
+C74E : 朝鲜文音节 Eubs
+C74F : 朝鲜文音节 Eus
+C750 : 朝鲜文音节 Euss
+C751 : 朝鲜文音节 Eung
+C752 : 朝鲜文音节 Euj
+C753 : 朝鲜文音节 Euc
+C754 : 朝鲜文音节 Euk
+C755 : 朝鲜文音节 Eut
+C756 : 朝鲜文音节 Eup
+C757 : 朝鲜文音节 Euh
+C758 : 朝鲜文音节 Yi
+C759 : 朝鲜文音节 Yig
+C75A : 朝鲜文音节 Yigg
+C75B : 朝鲜文音节 Yigs
+C75C : 朝鲜文音节 Yin
+C75D : 朝鲜文音节 Yinj
+C75E : 朝鲜文音节 Yinh
+C75F : 朝鲜文音节 Yid
+C760 : 朝鲜文音节 Yil
+C761 : 朝鲜文音节 Yilg
+C762 : 朝鲜文音节 Yilm
+C763 : 朝鲜文音节 Yilb
+C764 : 朝鲜文音节 Yils
+C765 : 朝鲜文音节 Yilt
+C766 : 朝鲜文音节 Yilp
+C767 : 朝鲜文音节 Yilh
+C768 : 朝鲜文音节 Yim
+C769 : 朝鲜文音节 Yib
+C76A : 朝鲜文音节 Yibs
+C76B : 朝鲜文音节 Yis
+C76C : 朝鲜文音节 Yiss
+C76D : 朝鲜文音节 Ying
+C76E : 朝鲜文音节 Yij
+C76F : 朝鲜文音节 Yic
+C770 : 朝鲜文音节 Yik
+C771 : 朝鲜文音节 Yit
+C772 : 朝鲜文音节 Yip
+C773 : 朝鲜文音节 Yih
+C774 : 朝鲜文音节 I
+C775 : 朝鲜文音节 Ig
+C776 : 朝鲜文音节 Igg
+C777 : 朝鲜文音节 Igs
+C778 : 朝鲜文音节 In
+C779 : 朝鲜文音节 Inj
+C77A : 朝鲜文音节 Inh
+C77B : 朝鲜文音节 Id
+C77C : 朝鲜文音节 Il
+C77D : 朝鲜文音节 Ilg
+C77E : 朝鲜文音节 Ilm
+C77F : 朝鲜文音节 Ilb
+C780 : 朝鲜文音节 Ils
+C781 : 朝鲜文音节 Ilt
+C782 : 朝鲜文音节 Ilp
+C783 : 朝鲜文音节 Ilh
+C784 : 朝鲜文音节 Im
+C785 : 朝鲜文音节 Ib
+C786 : 朝鲜文音节 Ibs
+C787 : 朝鲜文音节 Is
+C788 : 朝鲜文音节 Iss
+C789 : 朝鲜文音节 Ing
+C78A : 朝鲜文音节 Ij
+C78B : 朝鲜文音节 Ic
+C78C : 朝鲜文音节 Ik
+C78D : 朝鲜文音节 It
+C78E : 朝鲜文音节 Ip
+C78F : 朝鲜文音节 Ih
+C790 : 朝鲜文音节 Ja
+C791 : 朝鲜文音节 Jag
+C792 : 朝鲜文音节 Jagg
+C793 : 朝鲜文音节 Jags
+C794 : 朝鲜文音节 Jan
+C795 : 朝鲜文音节 Janj
+C796 : 朝鲜文音节 Janh
+C797 : 朝鲜文音节 Jad
+C798 : 朝鲜文音节 Jal
+C799 : 朝鲜文音节 Jalg
+C79A : 朝鲜文音节 Jalm
+C79B : 朝鲜文音节 Jalb
+C79C : 朝鲜文音节 Jals
+C79D : 朝鲜文音节 Jalt
+C79E : 朝鲜文音节 Jalp
+C79F : 朝鲜文音节 Jalh
+C7A0 : 朝鲜文音节 Jam
+C7A1 : 朝鲜文音节 Jab
+C7A2 : 朝鲜文音节 Jabs
+C7A3 : 朝鲜文音节 Jas
+C7A4 : 朝鲜文音节 Jass
+C7A5 : 朝鲜文音节 Jang
+C7A6 : 朝鲜文音节 Jaj
+C7A7 : 朝鲜文音节 Jac
+C7A8 : 朝鲜文音节 Jak
+C7A9 : 朝鲜文音节 Jat
+C7AA : 朝鲜文音节 Jap
+C7AB : 朝鲜文音节 Jah
+C7AC : 朝鲜文音节 Jae
+C7AD : 朝鲜文音节 Jaeg
+C7AE : 朝鲜文音节 Jaegg
+C7AF : 朝鲜文音节 Jaegs
+C7B0 : 朝鲜文音节 Jaen
+C7B1 : 朝鲜文音节 Jaenj
+C7B2 : 朝鲜文音节 Jaenh
+C7B3 : 朝鲜文音节 Jaed
+C7B4 : 朝鲜文音节 Jael
+C7B5 : 朝鲜文音节 Jaelg
+C7B6 : 朝鲜文音节 Jaelm
+C7B7 : 朝鲜文音节 Jaelb
+C7B8 : 朝鲜文音节 Jaels
+C7B9 : 朝鲜文音节 Jaelt
+C7BA : 朝鲜文音节 Jaelp
+C7BB : 朝鲜文音节 Jaelh
+C7BC : 朝鲜文音节 Jaem
+C7BD : 朝鲜文音节 Jaeb
+C7BE : 朝鲜文音节 Jaebs
+C7BF : 朝鲜文音节 Jaes
+C7C0 : 朝鲜文音节 Jaess
+C7C1 : 朝鲜文音节 Jaeng
+C7C2 : 朝鲜文音节 Jaej
+C7C3 : 朝鲜文音节 Jaec
+C7C4 : 朝鲜文音节 Jaek
+C7C5 : 朝鲜文音节 Jaet
+C7C6 : 朝鲜文音节 Jaep
+C7C7 : 朝鲜文音节 Jaeh
+C7C8 : 朝鲜文音节 Jya
+C7C9 : 朝鲜文音节 Jyag
+C7CA : 朝鲜文音节 Jyagg
+C7CB : 朝鲜文音节 Jyags
+C7CC : 朝鲜文音节 Jyan
+C7CD : 朝鲜文音节 Jyanj
+C7CE : 朝鲜文音节 Jyanh
+C7CF : 朝鲜文音节 Jyad
+C7D0 : 朝鲜文音节 Jyal
+C7D1 : 朝鲜文音节 Jyalg
+C7D2 : 朝鲜文音节 Jyalm
+C7D3 : 朝鲜文音节 Jyalb
+C7D4 : 朝鲜文音节 Jyals
+C7D5 : 朝鲜文音节 Jyalt
+C7D6 : 朝鲜文音节 Jyalp
+C7D7 : 朝鲜文音节 Jyalh
+C7D8 : 朝鲜文音节 Jyam
+C7D9 : 朝鲜文音节 Jyab
+C7DA : 朝鲜文音节 Jyabs
+C7DB : 朝鲜文音节 Jyas
+C7DC : 朝鲜文音节 Jyass
+C7DD : 朝鲜文音节 Jyang
+C7DE : 朝鲜文音节 Jyaj
+C7DF : 朝鲜文音节 Jyac
+C7E0 : 朝鲜文音节 Jyak
+C7E1 : 朝鲜文音节 Jyat
+C7E2 : 朝鲜文音节 Jyap
+C7E3 : 朝鲜文音节 Jyah
+C7E4 : 朝鲜文音节 Jyae
+C7E5 : 朝鲜文音节 Jyaeg
+C7E6 : 朝鲜文音节 Jyaegg
+C7E7 : 朝鲜文音节 Jyaegs
+C7E8 : 朝鲜文音节 Jyaen
+C7E9 : 朝鲜文音节 Jyaenj
+C7EA : 朝鲜文音节 Jyaenh
+C7EB : 朝鲜文音节 Jyaed
+C7EC : 朝鲜文音节 Jyael
+C7ED : 朝鲜文音节 Jyaelg
+C7EE : 朝鲜文音节 Jyaelm
+C7EF : 朝鲜文音节 Jyaelb
+C7F0 : 朝鲜文音节 Jyaels
+C7F1 : 朝鲜文音节 Jyaelt
+C7F2 : 朝鲜文音节 Jyaelp
+C7F3 : 朝鲜文音节 Jyaelh
+C7F4 : 朝鲜文音节 Jyaem
+C7F5 : 朝鲜文音节 Jyaeb
+C7F6 : 朝鲜文音节 Jyaebs
+C7F7 : 朝鲜文音节 Jyaes
+C7F8 : 朝鲜文音节 Jyaess
+C7F9 : 朝鲜文音节 Jyaeng
+C7FA : 朝鲜文音节 Jyaej
+C7FB : 朝鲜文音节 Jyaec
+C7FC : 朝鲜文音节 Jyaek
+C7FD : 朝鲜文音节 Jyaet
+C7FE : 朝鲜文音节 Jyaep
+C7FF : 朝鲜文音节 Jyaeh

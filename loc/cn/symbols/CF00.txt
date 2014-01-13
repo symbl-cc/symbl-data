@@ -1,256 +1,256 @@
-CF00 : Hangul syllable ke
-CF01 : Hangul syllable keg
-CF02 : Hangul syllable kegg
-CF03 : Hangul syllable kegs
-CF04 : Hangul syllable ken
-CF05 : Hangul syllable kenj
-CF06 : Hangul syllable kenh
-CF07 : Hangul syllable ked
-CF08 : Hangul syllable kel
-CF09 : Hangul syllable kelg
-CF0A : Hangul syllable kelm
-CF0B : Hangul syllable kelb
-CF0C : Hangul syllable kels
-CF0D : Hangul syllable kelt
-CF0E : Hangul syllable kelp
-CF0F : Hangul syllable kelh
-CF10 : Hangul syllable kem
-CF11 : Hangul syllable keb
-CF12 : Hangul syllable kebs
-CF13 : Hangul syllable kes
-CF14 : Hangul syllable kess
-CF15 : Hangul syllable keng
-CF16 : Hangul syllable kej
-CF17 : Hangul syllable kec
-CF18 : Hangul syllable kek
-CF19 : Hangul syllable ket
-CF1A : Hangul syllable kep
-CF1B : Hangul syllable keh
-CF1C : Hangul syllable kyeo
-CF1D : Hangul syllable kyeog
-CF1E : Hangul syllable kyeogg
-CF1F : Hangul syllable kyeogs
-CF20 : Hangul syllable kyeon
-CF21 : Hangul syllable kyeonj
-CF22 : Hangul syllable kyeonh
-CF23 : Hangul syllable kyeod
-CF24 : Hangul syllable kyeol
-CF25 : Hangul syllable kyeolg
-CF26 : Hangul syllable kyeolm
-CF27 : Hangul syllable kyeolb
-CF28 : Hangul syllable kyeols
-CF29 : Hangul syllable kyeolt
-CF2A : Hangul syllable kyeolp
-CF2B : Hangul syllable kyeolh
-CF2C : Hangul syllable kyeom
-CF2D : Hangul syllable kyeob
-CF2E : Hangul syllable kyeobs
-CF2F : Hangul syllable kyeos
-CF30 : Hangul syllable kyeoss
-CF31 : Hangul syllable kyeong
-CF32 : Hangul syllable kyeoj
-CF33 : Hangul syllable kyeoc
-CF34 : Hangul syllable kyeok
-CF35 : Hangul syllable kyeot
-CF36 : Hangul syllable kyeop
-CF37 : Hangul syllable kyeoh
-CF38 : Hangul syllable kye
-CF39 : Hangul syllable kyeg
-CF3A : Hangul syllable kyegg
-CF3B : Hangul syllable kyegs
-CF3C : Hangul syllable kyen
-CF3D : Hangul syllable kyenj
-CF3E : Hangul syllable kyenh
-CF3F : Hangul syllable kyed
-CF40 : Hangul syllable kyel
-CF41 : Hangul syllable kyelg
-CF42 : Hangul syllable kyelm
-CF43 : Hangul syllable kyelb
-CF44 : Hangul syllable kyels
-CF45 : Hangul syllable kyelt
-CF46 : Hangul syllable kyelp
-CF47 : Hangul syllable kyelh
-CF48 : Hangul syllable kyem
-CF49 : Hangul syllable kyeb
-CF4A : Hangul syllable kyebs
-CF4B : Hangul syllable kyes
-CF4C : Hangul syllable kyess
-CF4D : Hangul syllable kyeng
-CF4E : Hangul syllable kyej
-CF4F : Hangul syllable kyec
-CF50 : Hangul syllable kyek
-CF51 : Hangul syllable kyet
-CF52 : Hangul syllable kyep
-CF53 : Hangul syllable kyeh
-CF54 : Hangul syllable ko
-CF55 : Hangul syllable kog
-CF56 : Hangul syllable kogg
-CF57 : Hangul syllable kogs
-CF58 : Hangul syllable kon
-CF59 : Hangul syllable konj
-CF5A : Hangul syllable konh
-CF5B : Hangul syllable kod
-CF5C : Hangul syllable kol
-CF5D : Hangul syllable kolg
-CF5E : Hangul syllable kolm
-CF5F : Hangul syllable kolb
-CF60 : Hangul syllable kols
-CF61 : Hangul syllable kolt
-CF62 : Hangul syllable kolp
-CF63 : Hangul syllable kolh
-CF64 : Hangul syllable kom
-CF65 : Hangul syllable kob
-CF66 : Hangul syllable kobs
-CF67 : Hangul syllable kos
-CF68 : Hangul syllable koss
-CF69 : Hangul syllable kong
-CF6A : Hangul syllable koj
-CF6B : Hangul syllable koc
-CF6C : Hangul syllable kok
-CF6D : Hangul syllable kot
-CF6E : Hangul syllable kop
-CF6F : Hangul syllable koh
-CF70 : Hangul syllable kwa
-CF71 : Hangul syllable kwag
-CF72 : Hangul syllable kwagg
-CF73 : Hangul syllable kwags
-CF74 : Hangul syllable kwan
-CF75 : Hangul syllable kwanj
-CF76 : Hangul syllable kwanh
-CF77 : Hangul syllable kwad
-CF78 : Hangul syllable kwal
-CF79 : Hangul syllable kwalg
-CF7A : Hangul syllable kwalm
-CF7B : Hangul syllable kwalb
-CF7C : Hangul syllable kwals
-CF7D : Hangul syllable kwalt
-CF7E : Hangul syllable kwalp
-CF7F : Hangul syllable kwalh
-CF80 : Hangul syllable kwam
-CF81 : Hangul syllable kwab
-CF82 : Hangul syllable kwabs
-CF83 : Hangul syllable kwas
-CF84 : Hangul syllable kwass
-CF85 : Hangul syllable kwang
-CF86 : Hangul syllable kwaj
-CF87 : Hangul syllable kwac
-CF88 : Hangul syllable kwak
-CF89 : Hangul syllable kwat
-CF8A : Hangul syllable kwap
-CF8B : Hangul syllable kwah
-CF8C : Hangul syllable kwae
-CF8D : Hangul syllable kwaeg
-CF8E : Hangul syllable kwaegg
-CF8F : Hangul syllable kwaegs
-CF90 : Hangul syllable kwaen
-CF91 : Hangul syllable kwaenj
-CF92 : Hangul syllable kwaenh
-CF93 : Hangul syllable kwaed
-CF94 : Hangul syllable kwael
-CF95 : Hangul syllable kwaelg
-CF96 : Hangul syllable kwaelm
-CF97 : Hangul syllable kwaelb
-CF98 : Hangul syllable kwaels
-CF99 : Hangul syllable kwaelt
-CF9A : Hangul syllable kwaelp
-CF9B : Hangul syllable kwaelh
-CF9C : Hangul syllable kwaem
-CF9D : Hangul syllable kwaeb
-CF9E : Hangul syllable kwaebs
-CF9F : Hangul syllable kwaes
-CFA0 : Hangul syllable kwaess
-CFA1 : Hangul syllable kwaeng
-CFA2 : Hangul syllable kwaej
-CFA3 : Hangul syllable kwaec
-CFA4 : Hangul syllable kwaek
-CFA5 : Hangul syllable kwaet
-CFA6 : Hangul syllable kwaep
-CFA7 : Hangul syllable kwaeh
-CFA8 : Hangul syllable koe
-CFA9 : Hangul syllable koeg
-CFAA : Hangul syllable koegg
-CFAB : Hangul syllable koegs
-CFAC : Hangul syllable koen
-CFAD : Hangul syllable koenj
-CFAE : Hangul syllable koenh
-CFAF : Hangul syllable koed
-CFB0 : Hangul syllable koel
-CFB1 : Hangul syllable koelg
-CFB2 : Hangul syllable koelm
-CFB3 : Hangul syllable koelb
-CFB4 : Hangul syllable koels
-CFB5 : Hangul syllable koelt
-CFB6 : Hangul syllable koelp
-CFB7 : Hangul syllable koelh
-CFB8 : Hangul syllable koem
-CFB9 : Hangul syllable koeb
-CFBA : Hangul syllable koebs
-CFBB : Hangul syllable koes
-CFBC : Hangul syllable koess
-CFBD : Hangul syllable koeng
-CFBE : Hangul syllable koej
-CFBF : Hangul syllable koec
-CFC0 : Hangul syllable koek
-CFC1 : Hangul syllable koet
-CFC2 : Hangul syllable koep
-CFC3 : Hangul syllable koeh
-CFC4 : Hangul syllable kyo
-CFC5 : Hangul syllable kyog
-CFC6 : Hangul syllable kyogg
-CFC7 : Hangul syllable kyogs
-CFC8 : Hangul syllable kyon
-CFC9 : Hangul syllable kyonj
-CFCA : Hangul syllable kyonh
-CFCB : Hangul syllable kyod
-CFCC : Hangul syllable kyol
-CFCD : Hangul syllable kyolg
-CFCE : Hangul syllable kyolm
-CFCF : Hangul syllable kyolb
-CFD0 : Hangul syllable kyols
-CFD1 : Hangul syllable kyolt
-CFD2 : Hangul syllable kyolp
-CFD3 : Hangul syllable kyolh
-CFD4 : Hangul syllable kyom
-CFD5 : Hangul syllable kyob
-CFD6 : Hangul syllable kyobs
-CFD7 : Hangul syllable kyos
-CFD8 : Hangul syllable kyoss
-CFD9 : Hangul syllable kyong
-CFDA : Hangul syllable kyoj
-CFDB : Hangul syllable kyoc
-CFDC : Hangul syllable kyok
-CFDD : Hangul syllable kyot
-CFDE : Hangul syllable kyop
-CFDF : Hangul syllable kyoh
-CFE0 : Hangul syllable ku
-CFE1 : Hangul syllable kug
-CFE2 : Hangul syllable kugg
-CFE3 : Hangul syllable kugs
-CFE4 : Hangul syllable kun
-CFE5 : Hangul syllable kunj
-CFE6 : Hangul syllable kunh
-CFE7 : Hangul syllable kud
-CFE8 : Hangul syllable kul
-CFE9 : Hangul syllable kulg
-CFEA : Hangul syllable kulm
-CFEB : Hangul syllable kulb
-CFEC : Hangul syllable kuls
-CFED : Hangul syllable kult
-CFEE : Hangul syllable kulp
-CFEF : Hangul syllable kulh
-CFF0 : Hangul syllable kum
-CFF1 : Hangul syllable kub
-CFF2 : Hangul syllable kubs
-CFF3 : Hangul syllable kus
-CFF4 : Hangul syllable kuss
-CFF5 : Hangul syllable kung
-CFF6 : Hangul syllable kuj
-CFF7 : Hangul syllable kuc
-CFF8 : Hangul syllable kuk
-CFF9 : Hangul syllable kut
-CFFA : Hangul syllable kup
-CFFB : Hangul syllable kuh
-CFFC : Hangul syllable kweo
-CFFD : Hangul syllable kweog
-CFFE : Hangul syllable kweogg
-CFFF : Hangul syllable kweogs
+CF00 : 朝鲜文音节 Ke
+CF01 : 朝鲜文音节 Keg
+CF02 : 朝鲜文音节 Kegg
+CF03 : 朝鲜文音节 Kegs
+CF04 : 朝鲜文音节 Ken
+CF05 : 朝鲜文音节 Kenj
+CF06 : 朝鲜文音节 Kenh
+CF07 : 朝鲜文音节 Ked
+CF08 : 朝鲜文音节 Kel
+CF09 : 朝鲜文音节 Kelg
+CF0A : 朝鲜文音节 Kelm
+CF0B : 朝鲜文音节 Kelb
+CF0C : 朝鲜文音节 Kels
+CF0D : 朝鲜文音节 Kelt
+CF0E : 朝鲜文音节 Kelp
+CF0F : 朝鲜文音节 Kelh
+CF10 : 朝鲜文音节 Kem
+CF11 : 朝鲜文音节 Keb
+CF12 : 朝鲜文音节 Kebs
+CF13 : 朝鲜文音节 Kes
+CF14 : 朝鲜文音节 Kess
+CF15 : 朝鲜文音节 Keng
+CF16 : 朝鲜文音节 Kej
+CF17 : 朝鲜文音节 Kec
+CF18 : 朝鲜文音节 Kek
+CF19 : 朝鲜文音节 Ket
+CF1A : 朝鲜文音节 Kep
+CF1B : 朝鲜文音节 Keh
+CF1C : 朝鲜文音节 Kyeo
+CF1D : 朝鲜文音节 Kyeog
+CF1E : 朝鲜文音节 Kyeogg
+CF1F : 朝鲜文音节 Kyeogs
+CF20 : 朝鲜文音节 Kyeon
+CF21 : 朝鲜文音节 Kyeonj
+CF22 : 朝鲜文音节 Kyeonh
+CF23 : 朝鲜文音节 Kyeod
+CF24 : 朝鲜文音节 Kyeol
+CF25 : 朝鲜文音节 Kyeolg
+CF26 : 朝鲜文音节 Kyeolm
+CF27 : 朝鲜文音节 Kyeolb
+CF28 : 朝鲜文音节 Kyeols
+CF29 : 朝鲜文音节 Kyeolt
+CF2A : 朝鲜文音节 Kyeolp
+CF2B : 朝鲜文音节 Kyeolh
+CF2C : 朝鲜文音节 Kyeom
+CF2D : 朝鲜文音节 Kyeob
+CF2E : 朝鲜文音节 Kyeobs
+CF2F : 朝鲜文音节 Kyeos
+CF30 : 朝鲜文音节 Kyeoss
+CF31 : 朝鲜文音节 Kyeong
+CF32 : 朝鲜文音节 Kyeoj
+CF33 : 朝鲜文音节 Kyeoc
+CF34 : 朝鲜文音节 Kyeok
+CF35 : 朝鲜文音节 Kyeot
+CF36 : 朝鲜文音节 Kyeop
+CF37 : 朝鲜文音节 Kyeoh
+CF38 : 朝鲜文音节 Kye
+CF39 : 朝鲜文音节 Kyeg
+CF3A : 朝鲜文音节 Kyegg
+CF3B : 朝鲜文音节 Kyegs
+CF3C : 朝鲜文音节 Kyen
+CF3D : 朝鲜文音节 Kyenj
+CF3E : 朝鲜文音节 Kyenh
+CF3F : 朝鲜文音节 Kyed
+CF40 : 朝鲜文音节 Kyel
+CF41 : 朝鲜文音节 Kyelg
+CF42 : 朝鲜文音节 Kyelm
+CF43 : 朝鲜文音节 Kyelb
+CF44 : 朝鲜文音节 Kyels
+CF45 : 朝鲜文音节 Kyelt
+CF46 : 朝鲜文音节 Kyelp
+CF47 : 朝鲜文音节 Kyelh
+CF48 : 朝鲜文音节 Kyem
+CF49 : 朝鲜文音节 Kyeb
+CF4A : 朝鲜文音节 Kyebs
+CF4B : 朝鲜文音节 Kyes
+CF4C : 朝鲜文音节 Kyess
+CF4D : 朝鲜文音节 Kyeng
+CF4E : 朝鲜文音节 Kyej
+CF4F : 朝鲜文音节 Kyec
+CF50 : 朝鲜文音节 Kyek
+CF51 : 朝鲜文音节 Kyet
+CF52 : 朝鲜文音节 Kyep
+CF53 : 朝鲜文音节 Kyeh
+CF54 : 朝鲜文音节 Ko
+CF55 : 朝鲜文音节 Kog
+CF56 : 朝鲜文音节 Kogg
+CF57 : 朝鲜文音节 Kogs
+CF58 : 朝鲜文音节 Kon
+CF59 : 朝鲜文音节 Konj
+CF5A : 朝鲜文音节 Konh
+CF5B : 朝鲜文音节 Kod
+CF5C : 朝鲜文音节 Kol
+CF5D : 朝鲜文音节 Kolg
+CF5E : 朝鲜文音节 Kolm
+CF5F : 朝鲜文音节 Kolb
+CF60 : 朝鲜文音节 Kols
+CF61 : 朝鲜文音节 Kolt
+CF62 : 朝鲜文音节 Kolp
+CF63 : 朝鲜文音节 Kolh
+CF64 : 朝鲜文音节 Kom
+CF65 : 朝鲜文音节 Kob
+CF66 : 朝鲜文音节 Kobs
+CF67 : 朝鲜文音节 Kos
+CF68 : 朝鲜文音节 Koss
+CF69 : 朝鲜文音节 Kong
+CF6A : 朝鲜文音节 Koj
+CF6B : 朝鲜文音节 Koc
+CF6C : 朝鲜文音节 Kok
+CF6D : 朝鲜文音节 Kot
+CF6E : 朝鲜文音节 Kop
+CF6F : 朝鲜文音节 Koh
+CF70 : 朝鲜文音节 Kwa
+CF71 : 朝鲜文音节 Kwag
+CF72 : 朝鲜文音节 Kwagg
+CF73 : 朝鲜文音节 Kwags
+CF74 : 朝鲜文音节 Kwan
+CF75 : 朝鲜文音节 Kwanj
+CF76 : 朝鲜文音节 Kwanh
+CF77 : 朝鲜文音节 Kwad
+CF78 : 朝鲜文音节 Kwal
+CF79 : 朝鲜文音节 Kwalg
+CF7A : 朝鲜文音节 Kwalm
+CF7B : 朝鲜文音节 Kwalb
+CF7C : 朝鲜文音节 Kwals
+CF7D : 朝鲜文音节 Kwalt
+CF7E : 朝鲜文音节 Kwalp
+CF7F : 朝鲜文音节 Kwalh
+CF80 : 朝鲜文音节 Kwam
+CF81 : 朝鲜文音节 Kwab
+CF82 : 朝鲜文音节 Kwabs
+CF83 : 朝鲜文音节 Kwas
+CF84 : 朝鲜文音节 Kwass
+CF85 : 朝鲜文音节 Kwang
+CF86 : 朝鲜文音节 Kwaj
+CF87 : 朝鲜文音节 Kwac
+CF88 : 朝鲜文音节 Kwak
+CF89 : 朝鲜文音节 Kwat
+CF8A : 朝鲜文音节 Kwap
+CF8B : 朝鲜文音节 Kwah
+CF8C : 朝鲜文音节 Kwae
+CF8D : 朝鲜文音节 Kwaeg
+CF8E : 朝鲜文音节 Kwaegg
+CF8F : 朝鲜文音节 Kwaegs
+CF90 : 朝鲜文音节 Kwaen
+CF91 : 朝鲜文音节 Kwaenj
+CF92 : 朝鲜文音节 Kwaenh
+CF93 : 朝鲜文音节 Kwaed
+CF94 : 朝鲜文音节 Kwael
+CF95 : 朝鲜文音节 Kwaelg
+CF96 : 朝鲜文音节 Kwaelm
+CF97 : 朝鲜文音节 Kwaelb
+CF98 : 朝鲜文音节 Kwaels
+CF99 : 朝鲜文音节 Kwaelt
+CF9A : 朝鲜文音节 Kwaelp
+CF9B : 朝鲜文音节 Kwaelh
+CF9C : 朝鲜文音节 Kwaem
+CF9D : 朝鲜文音节 Kwaeb
+CF9E : 朝鲜文音节 Kwaebs
+CF9F : 朝鲜文音节 Kwaes
+CFA0 : 朝鲜文音节 Kwaess
+CFA1 : 朝鲜文音节 Kwaeng
+CFA2 : 朝鲜文音节 Kwaej
+CFA3 : 朝鲜文音节 Kwaec
+CFA4 : 朝鲜文音节 Kwaek
+CFA5 : 朝鲜文音节 Kwaet
+CFA6 : 朝鲜文音节 Kwaep
+CFA7 : 朝鲜文音节 Kwaeh
+CFA8 : 朝鲜文音节 Koe
+CFA9 : 朝鲜文音节 Koeg
+CFAA : 朝鲜文音节 Koegg
+CFAB : 朝鲜文音节 Koegs
+CFAC : 朝鲜文音节 Koen
+CFAD : 朝鲜文音节 Koenj
+CFAE : 朝鲜文音节 Koenh
+CFAF : 朝鲜文音节 Koed
+CFB0 : 朝鲜文音节 Koel
+CFB1 : 朝鲜文音节 Koelg
+CFB2 : 朝鲜文音节 Koelm
+CFB3 : 朝鲜文音节 Koelb
+CFB4 : 朝鲜文音节 Koels
+CFB5 : 朝鲜文音节 Koelt
+CFB6 : 朝鲜文音节 Koelp
+CFB7 : 朝鲜文音节 Koelh
+CFB8 : 朝鲜文音节 Koem
+CFB9 : 朝鲜文音节 Koeb
+CFBA : 朝鲜文音节 Koebs
+CFBB : 朝鲜文音节 Koes
+CFBC : 朝鲜文音节 Koess
+CFBD : 朝鲜文音节 Koeng
+CFBE : 朝鲜文音节 Koej
+CFBF : 朝鲜文音节 Koec
+CFC0 : 朝鲜文音节 Koek
+CFC1 : 朝鲜文音节 Koet
+CFC2 : 朝鲜文音节 Koep
+CFC3 : 朝鲜文音节 Koeh
+CFC4 : 朝鲜文音节 Kyo
+CFC5 : 朝鲜文音节 Kyog
+CFC6 : 朝鲜文音节 Kyogg
+CFC7 : 朝鲜文音节 Kyogs
+CFC8 : 朝鲜文音节 Kyon
+CFC9 : 朝鲜文音节 Kyonj
+CFCA : 朝鲜文音节 Kyonh
+CFCB : 朝鲜文音节 Kyod
+CFCC : 朝鲜文音节 Kyol
+CFCD : 朝鲜文音节 Kyolg
+CFCE : 朝鲜文音节 Kyolm
+CFCF : 朝鲜文音节 Kyolb
+CFD0 : 朝鲜文音节 Kyols
+CFD1 : 朝鲜文音节 Kyolt
+CFD2 : 朝鲜文音节 Kyolp
+CFD3 : 朝鲜文音节 Kyolh
+CFD4 : 朝鲜文音节 Kyom
+CFD5 : 朝鲜文音节 Kyob
+CFD6 : 朝鲜文音节 Kyobs
+CFD7 : 朝鲜文音节 Kyos
+CFD8 : 朝鲜文音节 Kyoss
+CFD9 : 朝鲜文音节 Kyong
+CFDA : 朝鲜文音节 Kyoj
+CFDB : 朝鲜文音节 Kyoc
+CFDC : 朝鲜文音节 Kyok
+CFDD : 朝鲜文音节 Kyot
+CFDE : 朝鲜文音节 Kyop
+CFDF : 朝鲜文音节 Kyoh
+CFE0 : 朝鲜文音节 Ku
+CFE1 : 朝鲜文音节 Kug
+CFE2 : 朝鲜文音节 Kugg
+CFE3 : 朝鲜文音节 Kugs
+CFE4 : 朝鲜文音节 Kun
+CFE5 : 朝鲜文音节 Kunj
+CFE6 : 朝鲜文音节 Kunh
+CFE7 : 朝鲜文音节 Kud
+CFE8 : 朝鲜文音节 Kul
+CFE9 : 朝鲜文音节 Kulg
+CFEA : 朝鲜文音节 Kulm
+CFEB : 朝鲜文音节 Kulb
+CFEC : 朝鲜文音节 Kuls
+CFED : 朝鲜文音节 Kult
+CFEE : 朝鲜文音节 Kulp
+CFEF : 朝鲜文音节 Kulh
+CFF0 : 朝鲜文音节 Kum
+CFF1 : 朝鲜文音节 Kub
+CFF2 : 朝鲜文音节 Kubs
+CFF3 : 朝鲜文音节 Kus
+CFF4 : 朝鲜文音节 Kuss
+CFF5 : 朝鲜文音节 Kung
+CFF6 : 朝鲜文音节 Kuj
+CFF7 : 朝鲜文音节 Kuc
+CFF8 : 朝鲜文音节 Kuk
+CFF9 : 朝鲜文音节 Kut
+CFFA : 朝鲜文音节 Kup
+CFFB : 朝鲜文音节 Kuh
+CFFC : 朝鲜文音节 Kweo
+CFFD : 朝鲜文音节 Kweog
+CFFE : 朝鲜文音节 Kweogg
+CFFF : 朝鲜文音节 Kweogs

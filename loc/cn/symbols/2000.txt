@@ -1,152 +1,152 @@
-2000 : En quad
-2001 : Em quad
-2002 : En space
-2003 : Em space
-2004 : Three-per-em space
-2005 : Four-per-em space
-2006 : Six-per-em space
-2007 : Figure space
-2008 : Punctuation space
-2009 : Thin space
-200A : Hair space
-200B : Zero width space
-200C : Zero width non-joiner
-200D : Zero width joiner
-200E : Left-to-right mark
-200F : Right-to-left mark
-2010 : Hyphen
-2011 : Non-breaking hyphen
-2012 : Figure dash
-2013 : En dash
-2014 : Em dash
-2015 : Horizontal bar
-2016 : Double vertical line
-2017 : Double low line
-2018 : Left single quotation mark
-2019 : Right single quotation mark
-201A : Single low-9 quotation mark
-201B : Single high-reversed-9 quotation mark
-201C : Left double quotation mark
-201D : Right double quotation mark
-201E : Double low-9 quotation mark
-201F : Double high-reversed-9 quotation mark
-2020 : Dagger
-2021 : Double dagger
-2022 : Bullet
-2023 : Triangular bullet
-2024 : One dot leader
-2025 : Two dot leader
-2026 : Horizontal ellipsis
-2027 : Hyphenation point
-2028 : Line separator
-2029 : Paragraph separator
-202A : Left-to-right embedding
-202B : Right-to-left embedding
-202C : Pop directional formatting
-202D : Left-to-right override
-202E : Right-to-left override
-202F : Narrow no-break space
-2030 : Per mille sign
-2031 : Per ten thousand sign
-2032 : Prime
-2033 : Double prime
-2034 : Triple prime
-2035 : Reversed prime
-2036 : Reversed double prime
-2037 : Reversed triple prime
-2038 : Caret
-2039 : Single left-pointing angle quotation mark
-203A : Single right-pointing angle quotation mark
-203B : Reference mark
-203C : Double exclamation mark
-203D : Interrobang
-203E : Overline
-203F : Undertie
-2040 : Character tie
-2041 : Caret insertion point
-2042 : Asterism
-2043 : Hyphen bullet
-2044 : Fraction slash
-2045 : Left square bracket with quill
-2046 : Right square bracket with quill
-2047 : Double question mark
-2048 : Question exclamation mark
-2049 : Exclamation question mark
-204A : Tironian sign et
-204B : Reversed pilcrow sign
-204C : Black leftwards bullet
-204D : Black rightwards bullet
-204E : Low asterisk
-204F : Reversed semicolon
-2050 : Close up
-2051 : Two asterisks aligned vertically
-2052 : Commercial minus sign
-2053 : Swung dash
-2054 : Inverted undertie
-2055 : Flower punctuation mark
-2056 : Three dot punctuation
-2057 : Quadruple prime
-2058 : Four dot punctuation
-2059 : Five dot punctuation
-205A : Two dot punctuation
-205B : Four dot mark
-205C : Dotted cross
-205D : Tricolon
-205E : Vertical four dots
-205F : Medium mathematical space
-2060 : Word joiner
-2061 : Function application
-2062 : Invisible times
-2063 : Invisible separator
-2064 : Invisible plus
+2000 : En 间隙
+2001 : Em 间隙
+2002 : En 间隔
+2003 : Em 间隔
+2004 : 三分之一的 Em 间隔
+2005 : 四分之一的 Em 间隔
+2006 : 六分之一的 Em 间隔
+2007 : 数字间隔
+2008 : 标点间隔
+2009 : 窄间隔
+200A : 微间隔
+200B : 零宽间隔
+200C : 零宽无连接符
+200D : 零宽连接符
+200E : 从左至右标志
+200F : 从右至左标志
+2010 : 连字符
+2011 : 无间断连字符
+2012 : 数字长划
+2013 : En 长划
+2014 : Em 长划
+2015 : 水平条
+2016 : 双竖线
+2017 : 双下横线
+2018 : 左单引号
+2019 : 右单引号
+201A : 单下 9 形引号
+201B : 单高横翻 9 形引号
+201C : 左双引号
+201D : 右双引号
+201E : 双下 9 形引号
+201F : 双高横翻 9 形引号
+2020 : 剑号
+2021 : 双剑号
+2022 : 加重号
+2023 : 三角加重号
+2024 : 一点前导符
+2025 : 二点前导符
+2026 : 水平省略号
+2027 : 连字点
+2028 : 行分隔符
+2029 : 段分隔符
+202A : 从左至右嵌入
+202B : 从右至左嵌入
+202C : 退出方向性格式化
+202D : 从左至右强制
+202E : 从右至左强制
+202F : 窄的无中断空格
+2030 : 千分号
+2031 : 万分号
+2032 : 上标符
+2033 : 双上标符
+2034 : 三上标符
+2035 : 横翻上标符
+2036 : 横翻双上标符
+2037 : 横翻三上标符
+2038 : 脱字号
+2039 : 单左指尖引号
+203A : 单右指尖引号
+203B : 参考标志
+203C : 双叹号
+203D : 问叹号
+203E : 上横线
+203F : 下连接
+2040 : 字符连接
+2041 : 脱字插入点
+2042 : 三星符
+2043 : 连字符加重号
+2044 : 分数斜线号
+2045 : 左 E 型方括号
+2046 : 右 E 型方括号
+2047 : 双问号
+2048 : 疑问感叹号
+2049 : 感叹疑问号
+204A : 蒂龙人标记 Et
+204B : 横翻段落标记
+204C : 黑色左侧加重号
+204D : 黑色右侧加重号
+204E : 下星号
+204F : 横翻分号
+2050 : 闭合
+2051 : 两个垂直对齐的星号
+2052 : 商业用负号
+2053 : 代字号
+2054 : 竖翻下连接
+2055 : 花饰标点符号
+2056 : 三点标点
+2057 : 四上标符
+2058 : 四点标点
+2059 : 五点标点
+205A : 两点标点
+205B : 四点标志
+205C : 带点的十字
+205D : 三联句
+205E : 垂直的四点
+205F : 中型数学空间
+2060 : 文字连接符
+2061 : 函数应用程序
+2062 : 不可见乘号
+2063 : 不可见分隔符
+2064 : 不可见正号
 2065 : 
 2066 : 
 2067 : 
 2068 : 
 2069 : 
-206A : Inhibit symmetric swapping
-206B : Activate symmetric swapping
-206C : Inhibit arabic form shaping
-206D : Activate arabic form shaping
-206E : National digit shapes
-206F : Nominal digit shapes
-2070 : Superscript zero
-2071 : Superscript latin small letter i
+206A : 抑制对称对换
+206B : 激活对称对换
+206C : 抑制阿拉伯文形式变形
+206D : 激活阿拉伯文形式变形
+206E : 民族数字形状
+206F : 名义数字形状
+2070 : 上标○
+2071 : 上标拉丁文小写字母 I
 2072 : 
 2073 : 
-2074 : Superscript four
-2075 : Superscript five
-2076 : Superscript six
-2077 : Superscript seven
-2078 : Superscript eight
-2079 : Superscript nine
-207A : Superscript plus sign
-207B : Superscript minus
-207C : Superscript equals sign
-207D : Superscript left parenthesis
-207E : Superscript right parenthesis
-207F : Superscript latin small letter n
-2080 : Subscript zero
-2081 : Subscript one
-2082 : Subscript two
-2083 : Subscript three
-2084 : Subscript four
-2085 : Subscript five
-2086 : Subscript six
-2087 : Subscript seven
-2088 : Subscript eight
-2089 : Subscript nine
-208A : Subscript plus sign
-208B : Subscript minus
-208C : Subscript equals sign
-208D : Subscript left parenthesis
-208E : Subscript right parenthesis
+2074 : 上标四
+2075 : 上标五
+2076 : 上标六
+2077 : 上标七
+2078 : 上标八
+2079 : 上标九
+207A : 上标正号
+207B : 上标负号
+207C : 上标等号
+207D : 上标左圆括号
+207E : 上标右圆括号
+207F : 上标拉丁文小写字母 N
+2080 : 下标○
+2081 : 下标一
+2082 : 下标二
+2083 : 下标三
+2084 : 下标四
+2085 : 下标五
+2086 : 下标六
+2087 : 下标七
+2088 : 下标八
+2089 : 下标九
+208A : 下标正号
+208B : 下标负号
+208C : 下标等号
+208D : 下标左圆括号
+208E : 下标右圆括号
 208F : 
-2090 : Latin subscript small letter a
-2091 : Latin subscript small letter e
-2092 : Latin subscript small letter o
-2093 : Latin subscript small letter x
-2094 : Latin subscript small letter schwa
+2090 : 拉丁文上标小写字母 A
+2091 : 拉丁文上标小写字母 E
+2092 : 拉丁文上标小写字母 O
+2093 : 拉丁文上标小写字母 X
+2094 : 拉丁文上标小写字母 Schwa
 2095 : 
 2096 : 
 2097 : 
@@ -158,31 +158,31 @@
 209D : 
 209E : 
 209F : 
-20A0 : Euro-currency sign
-20A1 : Colon sign
-20A2 : Cruzeiro sign
-20A3 : French franc sign
-20A4 : Lira sign
-20A5 : Mill sign
-20A6 : Naira sign
-20A7 : Peseta sign
-20A8 : Rupee sign
-20A9 : Won sign
-20AA : New sheqel sign
-20AB : Dong sign
-20AC : Euro sign
-20AD : Kip sign
-20AE : Tugrik sign
-20AF : Drachma sign
-20B0 : German penny sign
-20B1 : Peso sign
-20B2 : Guarani sign
-20B3 : Austral sign
-20B4 : Hryvnia sign
-20B5 : Cedi sign
-20B6 : Livre tournois sign
-20B7 : Spesmilo sign
-20B8 : Tenge sign
+20A0 : 欧洲货币符号
+20A1 : 科朗符号
+20A2 : 克鲁赛罗符号
+20A3 : 法国法郎符号
+20A4 : 里拉符号
+20A5 : 密尔符号
+20A6 : 奈拉符号
+20A7 : 比塞塔符号
+20A8 : 卢比符号
+20A9 : 韩元符号
+20AA : 新谢克尔符号
+20AB : 盾符号
+20AC : 欧元符号
+20AD : 基普标记
+20AE : 图格里克标记
+20AF : 德拉克马标记
+20B0 : 德国便士符号
+20B1 : 比索符号
+20B2 : 瓜拉尼货币符号
+20B3 : 澳大利亚货币符号
+20B4 : 戈里夫纳符号
+20B5 : 塞地符号
+20B6 : Livre Tournois Sign
+20B7 : Spesmilo Sign
+20B8 : Tenge Sign
 20B9 : 
 20BA : 
 20BB : 
@@ -206,39 +206,39 @@
 20CD : 
 20CE : 
 20CF : 
-20D0 : Combining left harpoon above
-20D1 : Combining right harpoon above
-20D2 : Combining long vertical line overlay
-20D3 : Combining short vertical line overlay
-20D4 : Combining anticlockwise arrow above
-20D5 : Combining clockwise arrow above
-20D6 : Combining left arrow above
-20D7 : Combining right arrow above
-20D8 : Combining ring overlay
-20D9 : Combining clockwise ring overlay
-20DA : Combining anticlockwise ring overlay
-20DB : Combining three dots above
-20DC : Combining four dots above
-20DD : Combining enclosing circle
-20DE : Combining enclosing square
-20DF : Combining enclosing diamond
-20E0 : Combining enclosing circle backslash
-20E1 : Combining left right arrow above
-20E2 : Combining enclosing screen
-20E3 : Combining enclosing keycap
-20E4 : Combining enclosing upward pointing triangle
-20E5 : Combining reverse solidus overlay
-20E6 : Combining double vertical stroke overlay
-20E7 : Combining annuity symbol
-20E8 : Combining triple underdot
-20E9 : Combining wide bridge above
-20EA : Combining leftwards arrow overlay
-20EB : Combining long double solidus overlay
-20EC : Combining rightwards harpoon with barb downwards
-20ED : Combining leftwards harpoon with barb downwards
-20EE : Combining left arrow below
-20EF : Combining right arrow below
-20F0 : Combining asterisk above
+20D0 : 组合用上左鱼叉
+20D1 : 组合用上右鱼叉
+20D2 : 组合用覆盖长竖线
+20D3 : 组合用覆盖短竖线
+20D4 : 组合用上逆时针箭头
+20D5 : 组合用上顺时针箭头
+20D6 : 组合用上左箭头
+20D7 : 组合用上右箭头
+20D8 : 组合用覆盖圆圈
+20D9 : 组合用覆盖顺时针圆圈
+20DA : 组合用覆盖逆时针圆圈
+20DB : 组合用上三点
+20DC : 组合用上四点
+20DD : 组合用外框圆圈
+20DE : 组合用外框方块
+20DF : 组合用外框菱形
+20E0 : 组合用外框圆圈反斜线号
+20E1 : 组合用上左右箭头
+20E2 : 组合用封闭屏
+20E3 : 组合用封闭屏键帽
+20E4 : 组合用外框上指三角
+20E5 : 组合用反斜线号覆盖
+20E6 : 组合用双竖划覆盖
+20E7 : 组合用年金符号
+20E8 : 组合用三下划线
+20E9 : 组合用上宽桥
+20EA : 组合用向左箭头覆盖
+20EB : 组合用长双斜线号覆盖
+20EC : 组合用倒钩朝下的向右鱼叉
+20ED : 组合用倒钩朝下的向左鱼叉
+20EE : 组合用下左箭头
+20EF : 组合用下右箭头
+20F0 : Combining Asterisk Above
 20F1 : 
 20F2 : 
 20F3 : 

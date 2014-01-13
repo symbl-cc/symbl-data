@@ -1,256 +1,256 @@
-2200 : For all
-2201 : Complement
-2202 : Partial differential
-2203 : There exists
-2204 : There does not exist
-2205 : Empty set
-2206 : Increment
-2207 : Nabla
-2208 : Element of
-2209 : Not an element of
-220A : Small element of
-220B : Contains as member
-220C : Does not contain as member
-220D : Small contains as member
-220E : End of proof
-220F : N-ary product
-2210 : N-ary coproduct
-2211 : N-ary summation
-2212 : Minus sign
-2213 : Minus-or-plus sign
-2214 : Dot plus
-2215 : Division slash
-2216 : Set minus
-2217 : Asterisk operator
-2218 : Ring operator
-2219 : Bullet operator
-221A : Square root
-221B : Cube root
-221C : Fourth root
-221D : Proportional to
-221E : Infinity
-221F : Right angle
-2220 : Angle
-2221 : Measured angle
-2222 : Spherical angle
-2223 : Divides
-2224 : Does not divide
-2225 : Parallel to
-2226 : Not parallel to
-2227 : Logical and
-2228 : Logical or
-2229 : Intersection
-222A : Union
-222B : Integral
-222C : Double integral
-222D : Triple integral
-222E : Contour integral
-222F : Surface integral
-2230 : Volume integral
-2231 : Clockwise integral
-2232 : Clockwise contour integral
-2233 : Anticlockwise contour integral
-2234 : Therefore
-2235 : Because
-2236 : Ratio
-2237 : Proportion
-2238 : Dot minus
-2239 : Excess
-223A : Geometric proportion
-223B : Homothetic
-223C : Tilde operator
-223D : Reversed tilde
-223E : Inverted lazy s
-223F : Sine wave
-2240 : Wreath product
-2241 : Not tilde
-2242 : Minus tilde
-2243 : Asymptotically equal to
-2244 : Not asymptotically equal to
-2245 : Approximately equal to
-2246 : Approximately but not actually equal to
-2247 : Neither approximately nor actually equal to
-2248 : Almost equal to
-2249 : Not almost equal to
-224A : Almost equal or equal to
-224B : Triple tilde
-224C : All equal to
-224D : Equivalent to
-224E : Geometrically equivalent to
-224F : Difference between
-2250 : Approaches the limit
-2251 : Geometrically equal to
-2252 : Approximately equal to or the image of
-2253 : Image of or approximately equal to
-2254 : Colon equals
-2255 : Equals colon
-2256 : Ring in equal to
-2257 : Ring equal to
-2258 : Corresponds to
-2259 : Estimates
-225A : Equiangular to
-225B : Star equals
-225C : Delta equal to
-225D : Equal to by definition
-225E : Measured by
-225F : Questioned equal to
-2260 : Not equal to
-2261 : Identical to
-2262 : Not identical to
-2263 : Strictly equivalent to
-2264 : Less-than or equal to
-2265 : Greater-than or equal to
-2266 : Less-than over equal to
-2267 : Greater-than over equal to
-2268 : Less-than but not equal to
-2269 : Greater-than but not equal to
-226A : Much less-than
-226B : Much greater-than
-226C : Between
-226D : Not equivalent to
-226E : Not less-than
-226F : Not greater-than
-2270 : Neither less-than nor equal to
-2271 : Neither greater-than nor equal to
-2272 : Less-than or equivalent to
-2273 : Greater-than or equivalent to
-2274 : Neither less-than nor equivalent to
-2275 : Neither greater-than nor equivalent to
-2276 : Less-than or greater-than
-2277 : Greater-than or less-than
-2278 : Neither less-than nor greater-than
-2279 : Neither greater-than nor less-than
-227A : Precedes
-227B : Succeeds
-227C : Precedes or equal to
-227D : Succeeds or equal to
-227E : Precedes or equivalent to
-227F : Succeeds or equivalent to
-2280 : Does not precede
-2281 : Does not succeed
-2282 : Subset of
-2283 : Superset of
-2284 : Not a subset of
-2285 : Not a superset of
-2286 : Subset of or equal to
-2287 : Superset of or equal to
-2288 : Neither a subset of nor equal to
-2289 : Neither a superset of nor equal to
-228A : Subset of with not equal to
-228B : Superset of with not equal to
-228C : Multiset
-228D : Multiset multiplication
-228E : Multiset union
-228F : Square image of
-2290 : Square original of
-2291 : Square image of or equal to
-2292 : Square original of or equal to
-2293 : Square cap
-2294 : Square cup
-2295 : Circled plus
-2296 : Circled minus
-2297 : Circled times
-2298 : Circled division slash
-2299 : Circled dot operator
-229A : Circled ring operator
-229B : Circled asterisk operator
-229C : Circled equals
-229D : Circled dash
-229E : Squared plus
-229F : Squared minus
-22A0 : Squared times
-22A1 : Squared dot operator
-22A2 : Right tack
-22A3 : Left tack
-22A4 : Down tack
-22A5 : Up tack
-22A6 : Assertion
-22A7 : Models
-22A8 : True
-22A9 : Forces
-22AA : Triple vertical bar right turnstile
-22AB : Double vertical bar double right turnstile
-22AC : Does not prove
-22AD : Not true
-22AE : Does not force
-22AF : Negated double vertical bar double right turnstile
-22B0 : Precedes under relation
-22B1 : Succeeds under relation
-22B2 : Normal subgroup of
-22B3 : Contains as normal subgroup
-22B4 : Normal subgroup of or equal to
-22B5 : Contains as normal subgroup or equal to
-22B6 : Original of
-22B7 : Image of
-22B8 : Multimap
-22B9 : Hermitian conjugate matrix
-22BA : Intercalate
-22BB : Xor
-22BC : Nand
-22BD : Nor
-22BE : Right angle with arc
-22BF : Right triangle
-22C0 : N-ary logical and
-22C1 : N-ary logical or
-22C2 : N-ary intersection
-22C3 : N-ary union
-22C4 : Diamond operator
-22C5 : Dot operator
-22C6 : Star operator
-22C7 : Division times
-22C8 : Bowtie
-22C9 : Left normal factor semidirect product
-22CA : Right normal factor semidirect product
-22CB : Left semidirect product
-22CC : Right semidirect product
-22CD : Reversed tilde equals
-22CE : Curly logical or
-22CF : Curly logical and
-22D0 : Double subset
-22D1 : Double superset
-22D2 : Double intersection
-22D3 : Double union
-22D4 : Pitchfork
-22D5 : Equal and parallel to
-22D6 : Less-than with dot
-22D7 : Greater-than with dot
-22D8 : Very much less-than
-22D9 : Very much greater-than
-22DA : Less-than equal to or greater-than
-22DB : Greater-than equal to or less-than
-22DC : Equal to or less-than
-22DD : Equal to or greater-than
-22DE : Equal to or precedes
-22DF : Equal to or succeeds
-22E0 : Does not precede or equal
-22E1 : Does not succeed or equal
-22E2 : Not square image of or equal to
-22E3 : Not square original of or equal to
-22E4 : Square image of or not equal to
-22E5 : Square original of or not equal to
-22E6 : Less-than but not equivalent to
-22E7 : Greater-than but not equivalent to
-22E8 : Precedes but not equivalent to
-22E9 : Succeeds but not equivalent to
-22EA : Not normal subgroup of
-22EB : Does not contain as normal subgroup
-22EC : Not normal subgroup of or equal to
-22ED : Does not contain as normal subgroup or equal
-22EE : Vertical ellipsis
-22EF : Midline horizontal ellipsis
-22F0 : Up right diagonal ellipsis
-22F1 : Down right diagonal ellipsis
-22F2 : Element of with long horizontal stroke
-22F3 : Element of with vertical bar at end of horizontal stroke
-22F4 : Small element of with vertical bar at end of horizontal stroke
-22F5 : Element of with dot above
-22F6 : Element of with overbar
-22F7 : Small element of with overbar
-22F8 : Element of with underbar
-22F9 : Element of with two horizontal strokes
-22FA : Contains with long horizontal stroke
-22FB : Contains with vertical bar at end of horizontal stroke
-22FC : Small contains with vertical bar at end of horizontal stroke
-22FD : Contains with overbar
-22FE : Small contains with overbar
-22FF : Z notation bag membership
+2200 : 对于全部
+2201 : 补集
+2202 : 偏微分
+2203 : 存在
+2204 : 不存在
+2205 : 空集
+2206 : 增量
+2207 : 劈形算符
+2208 : 元素
+2209 : 不是元素
+220A : 小型元素
+220B : 包含
+220C : 不包含
+220D : 小型包含
+220E : 证毕
+220F : N 元乘积
+2210 : N 元余积
+2211 : N 元求和
+2212 : 负号
+2213 : 负正号
+2214 : 点正号
+2215 : 除法斜线号
+2216 : 集差
+2217 : 星号运算符
+2218 : 圆圈运算符
+2219 : 加重号运算符
+221A : 平方根
+221B : 立方根
+221C : 四次根
+221D : 比例
+221E : 无穷大
+221F : 右角
+2220 : 角
+2221 : 测量角
+2222 : 球面角
+2223 : 除
+2224 : 不除
+2225 : 平行于
+2226 : 不平行于
+2227 : 逻辑与
+2228 : 逻辑或
+2229 : 交集
+222A : 并集
+222B : 积分
+222C : 二重积分
+222D : 三重积分
+222E : 围道积分
+222F : 曲面积分
+2230 : 体积积分
+2231 : 顺时针积分
+2232 : 顺时针围道积分
+2233 : 逆时针围道积分
+2234 : 所以
+2235 : 因为
+2236 : 比
+2237 : 比例
+2238 : 点负号
+2239 : 超出
+223A : 几何比例
+223B : 同位
+223C : 颚化符运算符
+223D : 横翻颚化符
+223E : 竖翻躺倒 S
+223F : 正弦波形
+2240 : 环积
+2241 : 不颚化符
+2242 : 负号颚化符
+2243 : 渐近等于
+2244 : 不渐近等于
+2245 : 近似等于
+2246 : 近似但不真实等于
+2247 : 不近似也不真实等于
+2248 : 约等于
+2249 : 不约等于
+224A : 约等于或等于
+224B : 三重颚化符
+224C : 全等于
+224D : 等于
+224E : 几何等于
+224F : 相差
+2250 : 接近极限
+2251 : 几何等于
+2252 : 近似于或像
+2253 : 像或近似于
+2254 : 冒号等号
+2255 : 等号冒号
+2256 : 圆圈在等于中
+2257 : 圆圈等于
+2258 : 对应
+2259 : 估计
+225A : 等角于
+225B : 星等号
+225C : Delta 等于
+225D : 按定义等于
+225E : 按 ... 测量
+225F : 问号等于
+2260 : 不等于
+2261 : 恒等于
+2262 : 不恒等于
+2263 : 完全等于
+2264 : 小于或等于
+2265 : 大于或等于
+2266 : 小于等于
+2267 : 大于等于
+2268 : 小于但不等于
+2269 : 大于但不等于
+226A : 远小于
+226B : 远大于
+226C : 介于
+226D : 不等价于
+226E : 不小于
+226F : 不大于
+2270 : 不小于也不等于
+2271 : 不大于也不等于
+2272 : 小于或等价于
+2273 : 大于或等价于
+2274 : 不小于也不等价于
+2275 : 不大于也不等价于
+2276 : 小于或大于
+2277 : 大于或小于
+2278 : 不小于也不大于
+2279 : 不大于也不小于
+227A : 先于
+227B : 后于
+227C : 先于或等于
+227D : 后于或等于
+227E : 先于或等价于
+227F : 后于或等价于
+2280 : 不先于
+2281 : 不后于
+2282 : 子集
+2283 : 超集
+2284 : 非子集
+2285 : 非超集
+2286 : 子集或等于
+2287 : 超集或等于
+2288 : 非子集也不等于
+2289 : 非超集也不等于
+228A : 子集且不等于
+228B : 超集且不等于
+228C : 多重集
+228D : 多重集乘积
+228E : 多重集并集
+228F : 方形像
+2290 : 方形原
+2291 : 方形像或等于
+2292 : 方形原或等于
+2293 : 方形帽
+2294 : 方形杯
+2295 : 带圆圈正号
+2296 : 带圆圈负号
+2297 : 带圆圈乘号
+2298 : 带圆圈除号斜线号
+2299 : 带圆圈点运算符
+229A : 带圆圈圆圈运算符
+229B : 带圆圈星号运算符
+229C : 带圆圈等号
+229D : 带圆圈长划
+229E : 带方框正号
+229F : 带方框负号
+22A0 : 带方框乘号
+22A1 : 带方框点运算符
+22A2 : 右丁字
+22A3 : 左丁字
+22A4 : 下丁字
+22A5 : 上丁字
+22A6 : 断定
+22A7 : 模型
+22A8 : 真
+22A9 : 强制
+22AA : 三竖条右转门
+22AB : 双竖条双右转门
+22AC : 不证明
+22AD : 不真
+22AE : 不强制
+22AF : 非双竖条双右转门
+22B0 : 先于下关系
+22B1 : 后于下关系
+22B2 : 正规子群
+22B3 : 属于正规子群
+22B4 : 正规子群或等于
+22B5 : 属于正规子群或等于
+22B6 : 原
+22B7 : 像
+22B8 : 多重映射
+22B9 : 厄密共轭矩阵
+22BA : 插入
+22BB : 异或
+22BC : 与非
+22BD : 或非
+22BE : 带有弧的右角
+22BF : 右三角
+22C0 : N 元逻辑和
+22C1 : N 元逻辑或
+22C2 : N 元交集
+22C3 : N 元并集
+22C4 : 菱形运算符
+22C5 : 点运算符
+22C6 : 星运算符
+22C7 : 乘除号
+22C8 : 蝴蝶结
+22C9 : 左正规因子半直积
+22CA : 右正规因子半直积
+22CB : 左半直积
+22CC : 右半直积
+22CD : 横翻颚化符等号
+22CE : 波形逻辑或
+22CF : 波形逻辑和
+22D0 : 双子集
+22D1 : 双超集
+22D2 : 双交集
+22D3 : 双并集
+22D4 : 草耙
+22D5 : 等于和平行于
+22D6 : 带点的小于
+22D7 : 带点的大于
+22D8 : 极小于
+22D9 : 极大于
+22DA : 小于等于或大于
+22DB : 大于等于或小于
+22DC : 等于或小于
+22DD : 等于或大于
+22DE : 等于或先于
+22DF : 等于或后于
+22E0 : 不先于或等于
+22E1 : 不后于或等于
+22E2 : 不方形像或等于
+22E3 : 不方形原或等于
+22E4 : 方形像或不等于
+22E5 : 方形原或不等于
+22E6 : 小于但不等价于
+22E7 : 大于但不等价于
+22E8 : 先于但不等价于
+22E9 : 后于但不等价于
+22EA : 不正规子群
+22EB : 不属于正规子群
+22EC : 不正规子群或等于
+22ED : 不属于正规子群或等于
+22EE : 竖省略号
+22EF : 中线水平省略号
+22F0 : 右上对角线省略号
+22F1 : 右下对角线省略号
+22F2 : 有长水平划的元素
+22F3 : 在水平划末尾有竖条的元素
+22F4 : 在水平划末尾有竖条的小型元素
+22F5 : 上面带点的元素
+22F6 : 有顶线的元素
+22F7 : 有顶线的小型元素
+22F8 : 有底线的元素
+22F9 : 有两个水平划的元素
+22FA : 包含有长水平划
+22FB : 在水平划末尾包含有竖条
+22FC : 在水平划末尾小型包含有竖条
+22FD : 包含有顶线
+22FE : 小型包含有顶线
+22FF : Z 符号包成员

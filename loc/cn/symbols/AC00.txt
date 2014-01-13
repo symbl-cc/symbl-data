@@ -1,256 +1,256 @@
-AC00 : Hangul syllable ga
-AC01 : Hangul syllable gag
-AC02 : Hangul syllable gagg
-AC03 : Hangul syllable gags
-AC04 : Hangul syllable gan
-AC05 : Hangul syllable ganj
-AC06 : Hangul syllable ganh
-AC07 : Hangul syllable gad
-AC08 : Hangul syllable gal
-AC09 : Hangul syllable galg
-AC0A : Hangul syllable galm
-AC0B : Hangul syllable galb
-AC0C : Hangul syllable gals
-AC0D : Hangul syllable galt
-AC0E : Hangul syllable galp
-AC0F : Hangul syllable galh
-AC10 : Hangul syllable gam
-AC11 : Hangul syllable gab
-AC12 : Hangul syllable gabs
-AC13 : Hangul syllable gas
-AC14 : Hangul syllable gass
-AC15 : Hangul syllable gang
-AC16 : Hangul syllable gaj
-AC17 : Hangul syllable gac
-AC18 : Hangul syllable gak
-AC19 : Hangul syllable gat
-AC1A : Hangul syllable gap
-AC1B : Hangul syllable gah
-AC1C : Hangul syllable gae
-AC1D : Hangul syllable gaeg
-AC1E : Hangul syllable gaegg
-AC1F : Hangul syllable gaegs
-AC20 : Hangul syllable gaen
-AC21 : Hangul syllable gaenj
-AC22 : Hangul syllable gaenh
-AC23 : Hangul syllable gaed
-AC24 : Hangul syllable gael
-AC25 : Hangul syllable gaelg
-AC26 : Hangul syllable gaelm
-AC27 : Hangul syllable gaelb
-AC28 : Hangul syllable gaels
-AC29 : Hangul syllable gaelt
-AC2A : Hangul syllable gaelp
-AC2B : Hangul syllable gaelh
-AC2C : Hangul syllable gaem
-AC2D : Hangul syllable gaeb
-AC2E : Hangul syllable gaebs
-AC2F : Hangul syllable gaes
-AC30 : Hangul syllable gaess
-AC31 : Hangul syllable gaeng
-AC32 : Hangul syllable gaej
-AC33 : Hangul syllable gaec
-AC34 : Hangul syllable gaek
-AC35 : Hangul syllable gaet
-AC36 : Hangul syllable gaep
-AC37 : Hangul syllable gaeh
-AC38 : Hangul syllable gya
-AC39 : Hangul syllable gyag
-AC3A : Hangul syllable gyagg
-AC3B : Hangul syllable gyags
-AC3C : Hangul syllable gyan
-AC3D : Hangul syllable gyanj
-AC3E : Hangul syllable gyanh
-AC3F : Hangul syllable gyad
-AC40 : Hangul syllable gyal
-AC41 : Hangul syllable gyalg
-AC42 : Hangul syllable gyalm
-AC43 : Hangul syllable gyalb
-AC44 : Hangul syllable gyals
-AC45 : Hangul syllable gyalt
-AC46 : Hangul syllable gyalp
-AC47 : Hangul syllable gyalh
-AC48 : Hangul syllable gyam
-AC49 : Hangul syllable gyab
-AC4A : Hangul syllable gyabs
-AC4B : Hangul syllable gyas
-AC4C : Hangul syllable gyass
-AC4D : Hangul syllable gyang
-AC4E : Hangul syllable gyaj
-AC4F : Hangul syllable gyac
-AC50 : Hangul syllable gyak
-AC51 : Hangul syllable gyat
-AC52 : Hangul syllable gyap
-AC53 : Hangul syllable gyah
-AC54 : Hangul syllable gyae
-AC55 : Hangul syllable gyaeg
-AC56 : Hangul syllable gyaegg
-AC57 : Hangul syllable gyaegs
-AC58 : Hangul syllable gyaen
-AC59 : Hangul syllable gyaenj
-AC5A : Hangul syllable gyaenh
-AC5B : Hangul syllable gyaed
-AC5C : Hangul syllable gyael
-AC5D : Hangul syllable gyaelg
-AC5E : Hangul syllable gyaelm
-AC5F : Hangul syllable gyaelb
-AC60 : Hangul syllable gyaels
-AC61 : Hangul syllable gyaelt
-AC62 : Hangul syllable gyaelp
-AC63 : Hangul syllable gyaelh
-AC64 : Hangul syllable gyaem
-AC65 : Hangul syllable gyaeb
-AC66 : Hangul syllable gyaebs
-AC67 : Hangul syllable gyaes
-AC68 : Hangul syllable gyaess
-AC69 : Hangul syllable gyaeng
-AC6A : Hangul syllable gyaej
-AC6B : Hangul syllable gyaec
-AC6C : Hangul syllable gyaek
-AC6D : Hangul syllable gyaet
-AC6E : Hangul syllable gyaep
-AC6F : Hangul syllable gyaeh
-AC70 : Hangul syllable geo
-AC71 : Hangul syllable geog
-AC72 : Hangul syllable geogg
-AC73 : Hangul syllable geogs
-AC74 : Hangul syllable geon
-AC75 : Hangul syllable geonj
-AC76 : Hangul syllable geonh
-AC77 : Hangul syllable geod
-AC78 : Hangul syllable geol
-AC79 : Hangul syllable geolg
-AC7A : Hangul syllable geolm
-AC7B : Hangul syllable geolb
-AC7C : Hangul syllable geols
-AC7D : Hangul syllable geolt
-AC7E : Hangul syllable geolp
-AC7F : Hangul syllable geolh
-AC80 : Hangul syllable geom
-AC81 : Hangul syllable geob
-AC82 : Hangul syllable geobs
-AC83 : Hangul syllable geos
-AC84 : Hangul syllable geoss
-AC85 : Hangul syllable geong
-AC86 : Hangul syllable geoj
-AC87 : Hangul syllable geoc
-AC88 : Hangul syllable geok
-AC89 : Hangul syllable geot
-AC8A : Hangul syllable geop
-AC8B : Hangul syllable geoh
-AC8C : Hangul syllable ge
-AC8D : Hangul syllable geg
-AC8E : Hangul syllable gegg
-AC8F : Hangul syllable gegs
-AC90 : Hangul syllable gen
-AC91 : Hangul syllable genj
-AC92 : Hangul syllable genh
-AC93 : Hangul syllable ged
-AC94 : Hangul syllable gel
-AC95 : Hangul syllable gelg
-AC96 : Hangul syllable gelm
-AC97 : Hangul syllable gelb
-AC98 : Hangul syllable gels
-AC99 : Hangul syllable gelt
-AC9A : Hangul syllable gelp
-AC9B : Hangul syllable gelh
-AC9C : Hangul syllable gem
-AC9D : Hangul syllable geb
-AC9E : Hangul syllable gebs
-AC9F : Hangul syllable ges
-ACA0 : Hangul syllable gess
-ACA1 : Hangul syllable geng
-ACA2 : Hangul syllable gej
-ACA3 : Hangul syllable gec
-ACA4 : Hangul syllable gek
-ACA5 : Hangul syllable get
-ACA6 : Hangul syllable gep
-ACA7 : Hangul syllable geh
-ACA8 : Hangul syllable gyeo
-ACA9 : Hangul syllable gyeog
-ACAA : Hangul syllable gyeogg
-ACAB : Hangul syllable gyeogs
-ACAC : Hangul syllable gyeon
-ACAD : Hangul syllable gyeonj
-ACAE : Hangul syllable gyeonh
-ACAF : Hangul syllable gyeod
-ACB0 : Hangul syllable gyeol
-ACB1 : Hangul syllable gyeolg
-ACB2 : Hangul syllable gyeolm
-ACB3 : Hangul syllable gyeolb
-ACB4 : Hangul syllable gyeols
-ACB5 : Hangul syllable gyeolt
-ACB6 : Hangul syllable gyeolp
-ACB7 : Hangul syllable gyeolh
-ACB8 : Hangul syllable gyeom
-ACB9 : Hangul syllable gyeob
-ACBA : Hangul syllable gyeobs
-ACBB : Hangul syllable gyeos
-ACBC : Hangul syllable gyeoss
-ACBD : Hangul syllable gyeong
-ACBE : Hangul syllable gyeoj
-ACBF : Hangul syllable gyeoc
-ACC0 : Hangul syllable gyeok
-ACC1 : Hangul syllable gyeot
-ACC2 : Hangul syllable gyeop
-ACC3 : Hangul syllable gyeoh
-ACC4 : Hangul syllable gye
-ACC5 : Hangul syllable gyeg
-ACC6 : Hangul syllable gyegg
-ACC7 : Hangul syllable gyegs
-ACC8 : Hangul syllable gyen
-ACC9 : Hangul syllable gyenj
-ACCA : Hangul syllable gyenh
-ACCB : Hangul syllable gyed
-ACCC : Hangul syllable gyel
-ACCD : Hangul syllable gyelg
-ACCE : Hangul syllable gyelm
-ACCF : Hangul syllable gyelb
-ACD0 : Hangul syllable gyels
-ACD1 : Hangul syllable gyelt
-ACD2 : Hangul syllable gyelp
-ACD3 : Hangul syllable gyelh
-ACD4 : Hangul syllable gyem
-ACD5 : Hangul syllable gyeb
-ACD6 : Hangul syllable gyebs
-ACD7 : Hangul syllable gyes
-ACD8 : Hangul syllable gyess
-ACD9 : Hangul syllable gyeng
-ACDA : Hangul syllable gyej
-ACDB : Hangul syllable gyec
-ACDC : Hangul syllable gyek
-ACDD : Hangul syllable gyet
-ACDE : Hangul syllable gyep
-ACDF : Hangul syllable gyeh
-ACE0 : Hangul syllable go
-ACE1 : Hangul syllable gog
-ACE2 : Hangul syllable gogg
-ACE3 : Hangul syllable gogs
-ACE4 : Hangul syllable gon
-ACE5 : Hangul syllable gonj
-ACE6 : Hangul syllable gonh
-ACE7 : Hangul syllable god
-ACE8 : Hangul syllable gol
-ACE9 : Hangul syllable golg
-ACEA : Hangul syllable golm
-ACEB : Hangul syllable golb
-ACEC : Hangul syllable gols
-ACED : Hangul syllable golt
-ACEE : Hangul syllable golp
-ACEF : Hangul syllable golh
-ACF0 : Hangul syllable gom
-ACF1 : Hangul syllable gob
-ACF2 : Hangul syllable gobs
-ACF3 : Hangul syllable gos
-ACF4 : Hangul syllable goss
-ACF5 : Hangul syllable gong
-ACF6 : Hangul syllable goj
-ACF7 : Hangul syllable goc
-ACF8 : Hangul syllable gok
-ACF9 : Hangul syllable got
-ACFA : Hangul syllable gop
-ACFB : Hangul syllable goh
-ACFC : Hangul syllable gwa
-ACFD : Hangul syllable gwag
-ACFE : Hangul syllable gwagg
-ACFF : Hangul syllable gwags
+AC00 : 朝鲜文音节 Ga
+AC01 : 朝鲜文音节 Gag
+AC02 : 朝鲜文音节 Gagg
+AC03 : 朝鲜文音节 Gags
+AC04 : 朝鲜文音节 Gan
+AC05 : 朝鲜文音节 Ganj
+AC06 : 朝鲜文音节 Ganh
+AC07 : 朝鲜文音节 Gad
+AC08 : 朝鲜文音节 Gal
+AC09 : 朝鲜文音节 Galg
+AC0A : 朝鲜文音节 Galm
+AC0B : 朝鲜文音节 Galb
+AC0C : 朝鲜文音节 Gals
+AC0D : 朝鲜文音节 Galt
+AC0E : 朝鲜文音节 Galp
+AC0F : 朝鲜文音节 Galh
+AC10 : 朝鲜文音节 Gam
+AC11 : 朝鲜文音节 Gab
+AC12 : 朝鲜文音节 Gabs
+AC13 : 朝鲜文音节 Gas
+AC14 : 朝鲜文音节 Gass
+AC15 : 朝鲜文音节 Gang
+AC16 : 朝鲜文音节 Gaj
+AC17 : 朝鲜文音节 Gac
+AC18 : 朝鲜文音节 Gak
+AC19 : 朝鲜文音节 Gat
+AC1A : 朝鲜文音节 Gap
+AC1B : 朝鲜文音节 Gah
+AC1C : 朝鲜文音节 Gae
+AC1D : 朝鲜文音节 Gaeg
+AC1E : 朝鲜文音节 Gaegg
+AC1F : 朝鲜文音节 Gaegs
+AC20 : 朝鲜文音节 Gaen
+AC21 : 朝鲜文音节 Gaenj
+AC22 : 朝鲜文音节 Gaenh
+AC23 : 朝鲜文音节 Gaed
+AC24 : 朝鲜文音节 Gael
+AC25 : 朝鲜文音节 Gaelg
+AC26 : 朝鲜文音节 Gaelm
+AC27 : 朝鲜文音节 Gaelb
+AC28 : 朝鲜文音节 Gaels
+AC29 : 朝鲜文音节 Gaelt
+AC2A : 朝鲜文音节 Gaelp
+AC2B : 朝鲜文音节 Gaelh
+AC2C : 朝鲜文音节 Gaem
+AC2D : 朝鲜文音节 Gaeb
+AC2E : 朝鲜文音节 Gaebs
+AC2F : 朝鲜文音节 Gaes
+AC30 : 朝鲜文音节 Gaess
+AC31 : 朝鲜文音节 Gaeng
+AC32 : 朝鲜文音节 Gaej
+AC33 : 朝鲜文音节 Gaec
+AC34 : 朝鲜文音节 Gaek
+AC35 : 朝鲜文音节 Gaet
+AC36 : 朝鲜文音节 Gaep
+AC37 : 朝鲜文音节 Gaeh
+AC38 : 朝鲜文音节 Gya
+AC39 : 朝鲜文音节 Gyag
+AC3A : 朝鲜文音节 Gyagg
+AC3B : 朝鲜文音节 Gyags
+AC3C : 朝鲜文音节 Gyan
+AC3D : 朝鲜文音节 Gyanj
+AC3E : 朝鲜文音节 Gyanh
+AC3F : 朝鲜文音节 Gyad
+AC40 : 朝鲜文音节 Gyal
+AC41 : 朝鲜文音节 Gyalg
+AC42 : 朝鲜文音节 Gyalm
+AC43 : 朝鲜文音节 Gyalb
+AC44 : 朝鲜文音节 Gyals
+AC45 : 朝鲜文音节 Gyalt
+AC46 : 朝鲜文音节 Gyalp
+AC47 : 朝鲜文音节 Gyalh
+AC48 : 朝鲜文音节 Gyam
+AC49 : 朝鲜文音节 Gyab
+AC4A : 朝鲜文音节 Gyabs
+AC4B : 朝鲜文音节 Gyas
+AC4C : 朝鲜文音节 Gyass
+AC4D : 朝鲜文音节 Gyang
+AC4E : 朝鲜文音节 Gyaj
+AC4F : 朝鲜文音节 Gyac
+AC50 : 朝鲜文音节 Gyak
+AC51 : 朝鲜文音节 Gyat
+AC52 : 朝鲜文音节 Gyap
+AC53 : 朝鲜文音节 Gyah
+AC54 : 朝鲜文音节 Gyae
+AC55 : 朝鲜文音节 Gyaeg
+AC56 : 朝鲜文音节 Gyaegg
+AC57 : 朝鲜文音节 Gyaegs
+AC58 : 朝鲜文音节 Gyaen
+AC59 : 朝鲜文音节 Gyaenj
+AC5A : 朝鲜文音节 Gyaenh
+AC5B : 朝鲜文音节 Gyaed
+AC5C : 朝鲜文音节 Gyael
+AC5D : 朝鲜文音节 Gyaelg
+AC5E : 朝鲜文音节 Gyaelm
+AC5F : 朝鲜文音节 Gyaelb
+AC60 : 朝鲜文音节 Gyaels
+AC61 : 朝鲜文音节 Gyaelt
+AC62 : 朝鲜文音节 Gyaelp
+AC63 : 朝鲜文音节 Gyaelh
+AC64 : 朝鲜文音节 Gyaem
+AC65 : 朝鲜文音节 Gyaeb
+AC66 : 朝鲜文音节 Gyaebs
+AC67 : 朝鲜文音节 Gyaes
+AC68 : 朝鲜文音节 Gyaess
+AC69 : 朝鲜文音节 Gyaeng
+AC6A : 朝鲜文音节 Gyaej
+AC6B : 朝鲜文音节 Gyaec
+AC6C : 朝鲜文音节 Gyaek
+AC6D : 朝鲜文音节 Gyaet
+AC6E : 朝鲜文音节 Gyaep
+AC6F : 朝鲜文音节 Gyaeh
+AC70 : 朝鲜文音节 Geo
+AC71 : 朝鲜文音节 Geog
+AC72 : 朝鲜文音节 Geogg
+AC73 : 朝鲜文音节 Geogs
+AC74 : 朝鲜文音节 Geon
+AC75 : 朝鲜文音节 Geonj
+AC76 : 朝鲜文音节 Geonh
+AC77 : 朝鲜文音节 Geod
+AC78 : 朝鲜文音节 Geol
+AC79 : 朝鲜文音节 Geolg
+AC7A : 朝鲜文音节 Geolm
+AC7B : 朝鲜文音节 Geolb
+AC7C : 朝鲜文音节 Geols
+AC7D : 朝鲜文音节 Geolt
+AC7E : 朝鲜文音节 Geolp
+AC7F : 朝鲜文音节 Geolh
+AC80 : 朝鲜文音节 Geom
+AC81 : 朝鲜文音节 Geob
+AC82 : 朝鲜文音节 Geobs
+AC83 : 朝鲜文音节 Geos
+AC84 : 朝鲜文音节 Geoss
+AC85 : 朝鲜文音节 Geong
+AC86 : 朝鲜文音节 Geoj
+AC87 : 朝鲜文音节 Geoc
+AC88 : 朝鲜文音节 Geok
+AC89 : 朝鲜文音节 Geot
+AC8A : 朝鲜文音节 Geop
+AC8B : 朝鲜文音节 Geoh
+AC8C : 朝鲜文音节 Ge
+AC8D : 朝鲜文音节 Geg
+AC8E : 朝鲜文音节 Gegg
+AC8F : 朝鲜文音节 Gegs
+AC90 : 朝鲜文音节 Gen
+AC91 : 朝鲜文音节 Genj
+AC92 : 朝鲜文音节 Genh
+AC93 : 朝鲜文音节 Ged
+AC94 : 朝鲜文音节 Gel
+AC95 : 朝鲜文音节 Gelg
+AC96 : 朝鲜文音节 Gelm
+AC97 : 朝鲜文音节 Gelb
+AC98 : 朝鲜文音节 Gels
+AC99 : 朝鲜文音节 Gelt
+AC9A : 朝鲜文音节 Gelp
+AC9B : 朝鲜文音节 Gelh
+AC9C : 朝鲜文音节 Gem
+AC9D : 朝鲜文音节 Geb
+AC9E : 朝鲜文音节 Gebs
+AC9F : 朝鲜文音节 Ges
+ACA0 : 朝鲜文音节 Gess
+ACA1 : 朝鲜文音节 Geng
+ACA2 : 朝鲜文音节 Gej
+ACA3 : 朝鲜文音节 Gec
+ACA4 : 朝鲜文音节 Gek
+ACA5 : 朝鲜文音节 Get
+ACA6 : 朝鲜文音节 Gep
+ACA7 : 朝鲜文音节 Geh
+ACA8 : 朝鲜文音节 Gyeo
+ACA9 : 朝鲜文音节 Gyeog
+ACAA : 朝鲜文音节 Gyeogg
+ACAB : 朝鲜文音节 Gyeogs
+ACAC : 朝鲜文音节 Gyeon
+ACAD : 朝鲜文音节 Gyeonj
+ACAE : 朝鲜文音节 Gyeonh
+ACAF : 朝鲜文音节 Gyeod
+ACB0 : 朝鲜文音节 Gyeol
+ACB1 : 朝鲜文音节 Gyeolg
+ACB2 : 朝鲜文音节 Gyeolm
+ACB3 : 朝鲜文音节 Gyeolb
+ACB4 : 朝鲜文音节 Gyeols
+ACB5 : 朝鲜文音节 Gyeolt
+ACB6 : 朝鲜文音节 Gyeolp
+ACB7 : 朝鲜文音节 Gyeolh
+ACB8 : 朝鲜文音节 Gyeom
+ACB9 : 朝鲜文音节 Gyeob
+ACBA : 朝鲜文音节 Gyeobs
+ACBB : 朝鲜文音节 Gyeos
+ACBC : 朝鲜文音节 Gyeoss
+ACBD : 朝鲜文音节 Gyeong
+ACBE : 朝鲜文音节 Gyeoj
+ACBF : 朝鲜文音节 Gyeoc
+ACC0 : 朝鲜文音节 Gyeok
+ACC1 : 朝鲜文音节 Gyeot
+ACC2 : 朝鲜文音节 Gyeop
+ACC3 : 朝鲜文音节 Gyeoh
+ACC4 : 朝鲜文音节 Gye
+ACC5 : 朝鲜文音节 Gyeg
+ACC6 : 朝鲜文音节 Gyegg
+ACC7 : 朝鲜文音节 Gyegs
+ACC8 : 朝鲜文音节 Gyen
+ACC9 : 朝鲜文音节 Gyenj
+ACCA : 朝鲜文音节 Gyenh
+ACCB : 朝鲜文音节 Gyed
+ACCC : 朝鲜文音节 Gyel
+ACCD : 朝鲜文音节 Gyelg
+ACCE : 朝鲜文音节 Gyelm
+ACCF : 朝鲜文音节 Gyelb
+ACD0 : 朝鲜文音节 Gyels
+ACD1 : 朝鲜文音节 Gyelt
+ACD2 : 朝鲜文音节 Gyelp
+ACD3 : 朝鲜文音节 Gyelh
+ACD4 : 朝鲜文音节 Gyem
+ACD5 : 朝鲜文音节 Gyeb
+ACD6 : 朝鲜文音节 Gyebs
+ACD7 : 朝鲜文音节 Gyes
+ACD8 : 朝鲜文音节 Gyess
+ACD9 : 朝鲜文音节 Gyeng
+ACDA : 朝鲜文音节 Gyej
+ACDB : 朝鲜文音节 Gyec
+ACDC : 朝鲜文音节 Gyek
+ACDD : 朝鲜文音节 Gyet
+ACDE : 朝鲜文音节 Gyep
+ACDF : 朝鲜文音节 Gyeh
+ACE0 : 朝鲜文音节 Go
+ACE1 : 朝鲜文音节 Gog
+ACE2 : 朝鲜文音节 Gogg
+ACE3 : 朝鲜文音节 Gogs
+ACE4 : 朝鲜文音节 Gon
+ACE5 : 朝鲜文音节 Gonj
+ACE6 : 朝鲜文音节 Gonh
+ACE7 : 朝鲜文音节 God
+ACE8 : 朝鲜文音节 Gol
+ACE9 : 朝鲜文音节 Golg
+ACEA : 朝鲜文音节 Golm
+ACEB : 朝鲜文音节 Golb
+ACEC : 朝鲜文音节 Gols
+ACED : 朝鲜文音节 Golt
+ACEE : 朝鲜文音节 Golp
+ACEF : 朝鲜文音节 Golh
+ACF0 : 朝鲜文音节 Gom
+ACF1 : 朝鲜文音节 Gob
+ACF2 : 朝鲜文音节 Gobs
+ACF3 : 朝鲜文音节 Gos
+ACF4 : 朝鲜文音节 Goss
+ACF5 : 朝鲜文音节 Gong
+ACF6 : 朝鲜文音节 Goj
+ACF7 : 朝鲜文音节 Goc
+ACF8 : 朝鲜文音节 Gok
+ACF9 : 朝鲜文音节 Got
+ACFA : 朝鲜文音节 Gop
+ACFB : 朝鲜文音节 Goh
+ACFC : 朝鲜文音节 Gwa
+ACFD : 朝鲜文音节 Gwag
+ACFE : 朝鲜文音节 Gwagg
+ACFF : 朝鲜文音节 Gwags

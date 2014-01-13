@@ -1,53 +1,53 @@
-2E00 : Right angle substitution marker
-2E01 : Right angle dotted substitution marker
-2E02 : Left substitution bracket
-2E03 : Right substitution bracket
-2E04 : Left dotted substitution bracket
-2E05 : Right dotted substitution bracket
-2E06 : Raised interpolation marker
-2E07 : Raised dotted interpolation marker
-2E08 : Dotted transposition marker
-2E09 : Left transposition bracket
-2E0A : Right transposition bracket
-2E0B : Raised square
-2E0C : Left raised omission bracket
-2E0D : Right raised omission bracket
-2E0E : Editorial coronis
+2E00 : 直角替换标记
+2E01 : 直角点式替换标记
+2E02 : 左替换括号
+2E03 : 右替换括号
+2E04 : 左点式替换括号
+2E05 : 右点式替换括号
+2E06 : 凸起插入标记
+2E07 : 凸起点式插入标记
+2E08 : 点式调换标记
+2E09 : 左调换括号
+2E0A : 右调换括号
+2E0B : 凸起正方形
+2E0C : 左凸省略括号
+2E0D : 右凸省略括号
+2E0E : 编辑的 Coronis
 2E0F : Paragraphos
-2E10 : Forked paragraphos
-2E11 : Reversed forked paragraphos
+2E10 : 分叉 Paragraphos
+2E11 : 反向分叉 Paragraphos
 2E12 : Hypodiastole
-2E13 : Dotted obelos
-2E14 : Downwards ancora
-2E15 : Upwards ancora
-2E16 : Dotted right-pointing angle
-2E17 : Double oblique hyphen
-2E18 : Inverted interrobang
-2E19 : Palm branch
-2E1A : Hyphen with diaeresis
-2E1B : Tilde with ring above
-2E1C : Left low paraphrase bracket
-2E1D : Right low paraphrase bracket
-2E1E : Tilde with dot above
-2E1F : Tilde with dot below
-2E20 : Left vertical bar with quill
-2E21 : Right vertical bar with quill
-2E22 : Top left half bracket
-2E23 : Top right half bracket
-2E24 : Bottom left half bracket
-2E25 : Bottom right half bracket
-2E26 : Left sideways u bracket
-2E27 : Right sideways u bracket
-2E28 : Left double parenthesis
-2E29 : Right double parenthesis
-2E2A : Two dots over one dot punctuation
-2E2B : One dot over two dots punctuation
-2E2C : Squared four dot punctuation
-2E2D : Five dot mark
-2E2E : Reversed question mark : Irony sign, Sarcasm sign
-2E2F : Vertical tilde
-2E30 : Ring point
-2E31 : Word separator middle dot
+2E13 : 点式 Obelos
+2E14 : 向下 Ancora
+2E15 : 向上 Ancora
+2E16 : 点式右指尖符号
+2E17 : 双斜线连字符
+2E18 : Inverted Interrobang
+2E19 : Palm Branch
+2E1A : Hyphen With Diaeresis
+2E1B : Tilde With Ring Above
+2E1C : 左低解释括号
+2E1D : 右低解释括号
+2E1E : Tilde With Dot Above
+2E1F : Tilde With Dot Below
+2E20 : Left Vertical Bar With Quill
+2E21 : Right Vertical Bar With Quill
+2E22 : Top Left Half Bracket
+2E23 : Top Right Half Bracket
+2E24 : Bottom Left Half Bracket
+2E25 : Bottom Right Half Bracket
+2E26 : Left Sideways U Bracket
+2E27 : Right Sideways U Bracket
+2E28 : Left Double Parenthesis
+2E29 : Right Double Parenthesis
+2E2A : Two Dots Over One Dot Punctuation
+2E2B : One Dot Over Two Dots Punctuation
+2E2C : Squared Four Dot Punctuation
+2E2D : Five Dot Mark
+2E2E : Reversed Question Mark : Irony Sign, Sarcasm Sign
+2E2F : Vertical Tilde
+2E30 : Ring Point
+2E31 : Word Separator Middle Dot
 2E32 : 
 2E33 : 
 2E34 : 
@@ -126,122 +126,122 @@
 2E7D : 
 2E7E : 
 2E7F : 
-2E80 : Cjk radical repeat
-2E81 : Cjk radical cliff
-2E82 : Cjk radical second one
-2E83 : Cjk radical second two
-2E84 : Cjk radical second three
-2E85 : Cjk radical person
-2E86 : Cjk radical box
-2E87 : Cjk radical table
-2E88 : Cjk radical knife one
-2E89 : Cjk radical knife two
-2E8A : Cjk radical divination
-2E8B : Cjk radical seal
-2E8C : Cjk radical small one
-2E8D : Cjk radical small two
-2E8E : Cjk radical lame one
-2E8F : Cjk radical lame two
-2E90 : Cjk radical lame three
-2E91 : Cjk radical lame four
-2E92 : Cjk radical snake
-2E93 : Cjk radical thread
-2E94 : Cjk radical snout one
-2E95 : Cjk radical snout two
-2E96 : Cjk radical heart one
-2E97 : Cjk radical heart two
-2E98 : Cjk radical hand
-2E99 : Cjk radical rap
+2E80 : 中日韩字根重复
+2E81 : 中日韩字根崖
+2E82 : 中日韩字根二一
+2E83 : 中日韩字根二二
+2E84 : 中日韩字根二三
+2E85 : 中日韩字根人
+2E86 : 中日韩字根框
+2E87 : 中日韩字根桌
+2E88 : 中日韩字根刀一
+2E89 : 中日韩字根刀二
+2E8A : 中日韩字根占
+2E8B : 中日韩字根封
+2E8C : 中日韩字根小一
+2E8D : 中日韩字根小二
+2E8E : 中日韩字根横折一
+2E8F : 中日韩字根横折二
+2E90 : 中日韩字根横折三
+2E91 : 中日韩字根横折四
+2E92 : 中日韩字根弓
+2E93 : 中日韩字根横
+2E94 : 中日韩字根口一
+2E95 : 中日韩字根口二
+2E96 : 中日韩字根心一
+2E97 : 中日韩字根心二
+2E98 : 中日韩字根手
+2E99 : 中日韩字根击
 2E9A : 
-2E9B : Cjk radical choke
-2E9C : Cjk radical sun
-2E9D : Cjk radical moon
-2E9E : Cjk radical death
-2E9F : Cjk radical mother
-2EA0 : Cjk radical civilian
-2EA1 : Cjk radical water one
-2EA2 : Cjk radical water two
-2EA3 : Cjk radical fire
-2EA4 : Cjk radical paw one
-2EA5 : Cjk radical paw two
-2EA6 : Cjk radical simplified half tree trunk
-2EA7 : Cjk radical cow
-2EA8 : Cjk radical dog
-2EA9 : Cjk radical jade
-2EAA : Cjk radical bolt of cloth
-2EAB : Cjk radical eye
-2EAC : Cjk radical spirit one
-2EAD : Cjk radical spirit two
-2EAE : Cjk radical bamboo
-2EAF : Cjk radical silk
-2EB0 : Cjk radical c-simplified silk
-2EB1 : Cjk radical net one
-2EB2 : Cjk radical net two
-2EB3 : Cjk radical net three
-2EB4 : Cjk radical net four
-2EB5 : Cjk radical mesh
-2EB6 : Cjk radical sheep
-2EB7 : Cjk radical ram
-2EB8 : Cjk radical ewe
-2EB9 : Cjk radical old
-2EBA : Cjk radical brush one
-2EBB : Cjk radical brush two
-2EBC : Cjk radical meat
-2EBD : Cjk radical mortar
-2EBE : Cjk radical grass one
-2EBF : Cjk radical grass two
-2EC0 : Cjk radical grass three
-2EC1 : Cjk radical tiger
-2EC2 : Cjk radical clothes
-2EC3 : Cjk radical west one
-2EC4 : Cjk radical west two
-2EC5 : Cjk radical c-simplified see
-2EC6 : Cjk radical simplified horn
-2EC7 : Cjk radical horn
-2EC8 : Cjk radical c-simplified speech
-2EC9 : Cjk radical c-simplified shell
-2ECA : Cjk radical foot
-2ECB : Cjk radical c-simplified cart
-2ECC : Cjk radical simplified walk
-2ECD : Cjk radical walk one
-2ECE : Cjk radical walk two
-2ECF : Cjk radical city
-2ED0 : Cjk radical c-simplified gold
-2ED1 : Cjk radical long one
-2ED2 : Cjk radical long two
-2ED3 : Cjk radical c-simplified long
-2ED4 : Cjk radical c-simplified gate
-2ED5 : Cjk radical mound one
-2ED6 : Cjk radical mound two
-2ED7 : Cjk radical rain
-2ED8 : Cjk radical blue
-2ED9 : Cjk radical c-simplified tanned leather
-2EDA : Cjk radical c-simplified leaf
-2EDB : Cjk radical c-simplified wind
-2EDC : Cjk radical c-simplified fly
-2EDD : Cjk radical eat one
-2EDE : Cjk radical eat two
-2EDF : Cjk radical eat three
-2EE0 : Cjk radical c-simplified eat
-2EE1 : Cjk radical head
-2EE2 : Cjk radical c-simplified horse
-2EE3 : Cjk radical bone
-2EE4 : Cjk radical ghost
-2EE5 : Cjk radical c-simplified fish
-2EE6 : Cjk radical c-simplified bird
-2EE7 : Cjk radical c-simplified salt
-2EE8 : Cjk radical simplified wheat
-2EE9 : Cjk radical simplified yellow
-2EEA : Cjk radical c-simplified frog
-2EEB : Cjk radical j-simplified even
-2EEC : Cjk radical c-simplified even
-2EED : Cjk radical j-simplified tooth
-2EEE : Cjk radical c-simplified tooth
-2EEF : Cjk radical j-simplified dragon
-2EF0 : Cjk radical c-simplified dragon
-2EF1 : Cjk radical turtle
-2EF2 : Cjk radical j-simplified turtle
-2EF3 : Cjk radical c-simplified turtle
+2E9B : 中日韩字根扼
+2E9C : 中日韩字根日
+2E9D : 中日韩字根月形文
+2E9E : 中日韩字根亡
+2E9F : 中日韩字根母
+2EA0 : 中日韩字根民
+2EA1 : 中日韩字根水一
+2EA2 : 中日韩字根水二
+2EA3 : 中日韩字根火
+2EA4 : 中日韩字根爪一
+2EA5 : 中日韩字根爪二
+2EA6 : 中日韩字根简体半树干
+2EA7 : 中日韩字根牛
+2EA8 : 中日韩字根犬
+2EA9 : 中日韩字根玉
+2EAA : 中日韩字根损衣
+2EAB : 中日韩字根目
+2EAC : 中日韩字根灵一
+2EAD : 中日韩字根灵二
+2EAE : 中日韩字根竹
+2EAF : 中日韩字根绞丝
+2EB0 : 中日韩字根简体中文绞丝
+2EB1 : 中日韩字根网一
+2EB2 : 中日韩字根网二
+2EB3 : 中日韩字根网三
+2EB4 : 中日韩字根网四
+2EB5 : 中日韩字根网
+2EB6 : 中日韩字根羊
+2EB7 : 中日韩字根公羊
+2EB8 : 中日韩字根母羊
+2EB9 : 中日韩字根老
+2EBA : 中日韩字根刷一
+2EBB : 中日韩字根刷二
+2EBC : 中日韩字根肉
+2EBD : 中日韩字根臼
+2EBE : 中日韩字根草一
+2EBF : 中日韩字根草二
+2EC0 : 中日韩字根草三
+2EC1 : 中日韩字根虎
+2EC2 : 中日韩字根衣
+2EC3 : 中日韩字根西一
+2EC4 : 中日韩字根西二
+2EC5 : 中日韩字根简体中文目
+2EC6 : 中日韩字根简体角
+2EC7 : 中日韩字根角
+2EC8 : 中日韩字根简体中文言
+2EC9 : 中日韩字根简体中文贝
+2ECA : 中日韩字根脚
+2ECB : 中日韩字根简体中文车
+2ECC : 中日韩字根简体走之
+2ECD : 中日韩字根走之一
+2ECE : 中日韩字根走之二
+2ECF : 中日韩字根城
+2ED0 : 中日韩字根简体中文金
+2ED1 : 中日韩字根长一
+2ED2 : 中日韩字根长二
+2ED3 : 中日韩字根简体中文长
+2ED4 : 中日韩字根简体中文门
+2ED5 : 中日韩字根丘一
+2ED6 : 中日韩字根丘二
+2ED7 : 中日韩字根雨
+2ED8 : 中日韩字根蓝
+2ED9 : 中日韩字根简体中文鞣革
+2EDA : 中日韩字根简体中文叶
+2EDB : 中日韩字根简体中文风
+2EDC : 中日韩字根简体中文飞
+2EDD : 中日韩字根吃一
+2EDE : 中日韩字根吃二
+2EDF : 中日韩字根吃三
+2EE0 : 中日韩字根简体中文吃
+2EE1 : 中日韩字根头
+2EE2 : 中日韩字根简体中文马
+2EE3 : 中日韩字根骨
+2EE4 : 中日韩字根鬼
+2EE5 : 中日韩字根简体中文鱼
+2EE6 : 中日韩字根简体中文鸟
+2EE7 : 中日韩字根简体中文盐
+2EE8 : 中日韩字根简体麦
+2EE9 : 中日韩字根简体黄
+2EEA : 中日韩字根简体中文蛙
+2EEB : 中日韩字根简体韩文平
+2EEC : 中日韩字根简体中文平
+2EED : 中日韩字根简体韩文齿
+2EEE : 中日韩字根简体中文齿
+2EEF : 中日韩字根简体韩文龙
+2EF0 : 中日韩字根简体中文龙
+2EF1 : 中日韩字根龟
+2EF2 : 中日韩字根简体韩文龟
+2EF3 : 中日韩字根简体中文龟
 2EF4 : 
 2EF5 : 
 2EF6 : 
