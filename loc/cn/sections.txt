@@ -38,7 +38,7 @@ hangul-jamo     : 谚文字母
 ethiopic        : 埃塞俄比亚语
 ethiopic-supplement : 埃塞俄比亚语补充
 cherokee        : 切罗基字母
-unified-canadian-aboriginal-syllabics : 统一加拿大土著语音节
+unified-canadian-aboriginal-syllabics : 统一加拿大原住民音节文字
 ogham           : 欧甘字母
 runic           : 卢恩字母
 tagalog         : 他加禄字母
@@ -54,11 +54,11 @@ new-tai-lue     : 新傣仂文
 khmer-symbols   : 高棉文符号
 buginese        : 布吉文
 tai-tham        : 老傣文
-balinese        : 待定
-sundanese       : 巴厘字母
-batak           : 巽他字母
-lepcha          : 巴塔克文
-ol-chiki        : 雷布查字母
+balinese        : 巴厘字母
+sundanese       : 巽他字母
+batak           : 巴塔克文
+lepcha          : 雷布查字母
+ol-chiki        : Ol-Chiki
 sundanese-supplement : 巽他字母补充
 vedic-extensions : 吠陀梵文
 phonetic-extentions : 语音学扩展
@@ -77,7 +77,7 @@ mathematical-operators : 数学运算符
 miscellaneous-technical : 杂项工业符号
 control-pictures : 控制图片
 optical-character-recognition : 光学识别符
-enclosed-alphanumerics : 封闭式字母数字
+enclosed-alphanumerics : 带圈或括号的字母数字
 box-drawing     : 制表符
 block-elements  : 方块元素
 geometric-shapes : 几何图形
@@ -111,7 +111,7 @@ bopomofo-extended : 注音字母扩展
 cjk-strokes     : 中日韩笔画
 katakana-phonetic-extentions : 日文片假名语音扩展
 enclosed-cjk-letters-and-months : 带圈中日韩字母和月份
-cjk-compatibility : 中日韩兼容
+cjk-compatibility : 中日韩字符集兼容
 cjk-unified-ideographs-extension-a : 中日韩统一表意文字扩展A
 yijing-hexagram-symbols : 易经六十四卦符号
 cjk-unified-ideographs : 中日韩统一表意文字
@@ -124,7 +124,7 @@ modifier-tone-letters : 声调修饰字母
 latin-extended-d : 拉丁文扩展D
 syloty-nagri    : 锡尔赫特文
 indian-numeric-character : 印第安数字
-phags-pa        : 八思巴字
+phags-pa        : 八思巴文
 saurashtra      : 索拉什特拉
 devanagari-extended-characters : 天城文扩展
 kayah-li        : 克耶字母
@@ -151,5 +151,5 @@ combining-half-marks : 组合用半符号
 cjk-compatibility-forms : 中日韩兼容形式
 small-form-variants : 小写变体形式
 arabic-presentation-forms-b : 阿拉伯文表达形式B
-halfwidth-and-fullwidth-forms : 半角及全角
+halfwidth-and-fullwidth-forms : 半角及全角形式
 specials        : 特殊
