@@ -2,7 +2,7 @@ FF00 :
 FF01 : 
 FF02 : 
 FF03 : 
-FF04 : 
+FF04 : Fullwidth dollar sign
 FF05 : 
 FF06 : 
 FF07 : 
@@ -222,13 +222,13 @@ FFDC :
 FFDD : 
 FFDE : 
 FFDF : 
-FFE0 : 
-FFE1 : 
+FFE0 : Fullwidth cent sign
+FFE1 : Fullwidth pound sign
 FFE2 : 
 FFE3 : 
 FFE4 : 
-FFE5 : 
-FFE6 : 
+FFE5 : Fullwidth yen sign
+FFE6 : Fullwidth won sign
 FFE7 : 
 FFE8 : 
 FFE9 : 
