@@ -2,8 +2,8 @@
 0601 : Arabic sign sanah
 0602 : Arabic footnote marker
 0603 : Arabic sign safha
-0604 : 
-0605 : 
+0604 : Arabic sign samvat
+0605 : Arabic number mark above
 0606 : Arabic-indic cube root
 0607 : Arabic-indic fourth root
 0608 : Arabic ray
@@ -26,11 +26,11 @@
 0619 : Arabic small damma
 061A : Arabic small kasra
 061B : Arabic semicolon
-061C : 
+061C : Arabic letter mark
 061D : 
 061E : Arabic triple dot punctuation mark
 061F : Arabic question mark
-0620 : 
+0620 : Arabic letter kashmiri yeh
 0621 : Arabic letter hamza
 0622 : Arabic letter alef with madda above
 0623 : Arabic letter alef with hamza above
@@ -93,7 +93,7 @@
 065C : Arabic vowel sign dot below
 065D : Arabic reversed damma
 065E : Arabic fatha with two dots
-065F : 
+065F : Arabic wavy hamza below
 0660 : Arabic-indic digit zero
 0661 : Arabic-indic digit one
 0662 : Arabic-indic digit two
