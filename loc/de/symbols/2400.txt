@@ -6,7 +6,7 @@
 2405 : Symbol for enquiry
 2406 : Symbol for acknowledge
 2407 : Symbol for bell
-2408 : Symbol for backspace
+2408 : Rücktastensymbol
 2409 : Symbol for horizontal tabulation
 240A : Symbol for line feed
 240B : Symbol for vertical tabulation
@@ -31,7 +31,7 @@
 241E : Symbol for record separator
 241F : Symbol for unit separator
 2420 : Symbol for space
-2421 : Symbol for delete
+2421 : Löschen Symbol
 2422 : Blank symbol
 2423 : Open box
 2424 : Symbol for newline

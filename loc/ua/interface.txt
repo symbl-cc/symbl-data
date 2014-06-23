@@ -34,8 +34,8 @@ languages_sections : Мова в наявності у наступних роз
 more            : Детальніше
 sets            : Набори символів
 ny_symbols      : Новорічні символи
-prev            : Наст.
-next            : Попер.
+prev            : Попер.
+next            : Наст.
 entity          : Мнемоніка
 search_overflow : Вибачте, символ U+%s в розробці :)
 separate_page   : Відкрити на окремій сторінці
