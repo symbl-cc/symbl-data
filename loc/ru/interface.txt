@@ -4,13 +4,15 @@ meta_keywords   : юникод, символы, таблица символов,
 search          : Поиск символа
 find            : Найти
 example         : Например
-example_text    : серп и молот
+example_text    : серп и молот;треугольник;стрелка;сердце;звезда;пробел;телефон;круг;галочка;тире
 about           : О проекте
 not_language    : Нет моего языка
 popular         : Чаще всего ищут
 loading         : Подождите, идёт загрузка...
 unicode_number  : Номер в юникоде
 html_code       : <span class="caps">HTML</span>-код
+section         : Раздел
+set             : Набор
 up              : Наверх
 range           : Диапазон
 type            : Тип

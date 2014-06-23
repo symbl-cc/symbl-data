@@ -4,13 +4,15 @@ meta_keywords   : unicode, signs, symbols, characters, unicode table, character 
 search          : Character search
 find            : Find
 example         : Example
-example_text    : hammer and sickle
+example_text    : hammer and sickle;arrow;heart;star;triangle;check;circle;cross;square;bullet
 about           : About
 not_language    : Where is my language?
 popular         : Most popular characters
 loading         : Loading, please wait...
 unicode_number  : Unicode number
 html_code       : <span class="caps">HTML</span>-code
+section         : Section
+set             : Set
 up              : Up
 range           : Range
 type            : Type
@@ -92,4 +94,9 @@ flip-plain      : Plain text
 flip-flipped    : Flipped text
 flip-backed     : Back to front text
 
-
+toolstable : Table
+toolstable-range: Range
+toolstable-format: Format
+toolstable-info: allow {symbol}, {dec}, {hex}, {html}
+toolstable-text: text for copy
+toolstable-file: file download
