@@ -1,0 +1,256 @@
+010B00 : Avestan letter a
+010B01 : Avestan letter aa
+010B02 : Avestan letter ao
+010B03 : Avestan letter aao
+010B04 : Avestan letter an
+010B05 : Avestan letter aan
+010B06 : Avestan letter ae
+010B07 : Avestan letter aee
+010B08 : Avestan letter e
+010B09 : Avestan letter ee
+010B0A : Avestan letter o
+010B0B : Avestan letter oo
+010B0C : Avestan letter i
+010B0D : Avestan letter ii
+010B0E : Avestan letter u
+010B0F : Avestan letter uu
+010B10 : Avestan letter ke
+010B11 : Avestan letter xe
+010B12 : Avestan letter xye
+010B13 : Avestan letter xve
+010B14 : Avestan letter ge
+010B15 : Avestan letter gge
+010B16 : Avestan letter ghe
+010B17 : Avestan letter ce
+010B18 : Avestan letter je
+010B19 : Avestan letter te
+010B1A : Avestan letter the
+010B1B : Avestan letter de
+010B1C : Avestan letter dhe
+010B1D : Avestan letter tte
+010B1E : Avestan letter pe
+010B1F : Avestan letter fe
+010B20 : Avestan letter be
+010B21 : Avestan letter bhe
+010B22 : Avestan letter nge
+010B23 : Avestan letter ngye
+010B24 : Avestan letter ngve
+010B25 : Avestan letter ne
+010B26 : Avestan letter nye
+010B27 : Avestan letter nne
+010B28 : Avestan letter me
+010B29 : Avestan letter hme
+010B2A : Avestan letter yye
+010B2B : Avestan letter ye
+010B2C : Avestan letter ve
+010B2D : Avestan letter re
+010B2E : Avestan letter le
+010B2F : Avestan letter se
+010B30 : Avestan letter ze
+010B31 : Avestan letter she
+010B32 : Avestan letter zhe
+010B33 : Avestan letter shye
+010B34 : Avestan letter sshe
+010B35 : Avestan letter he
+010B36 : 
+010B37 : 
+010B38 : 
+010B39 : Avestan abbreviation mark
+010B3A : Tiny two dots over one dot punctuation
+010B3B : Small two dots over one dot punctuation
+010B3C : Large two dots over one dot punctuation
+010B3D : Large one dot over two dots punctuation
+010B3E : Large two rings over one ring punctuation
+010B3F : Large one ring over two rings punctuation
+010B40 : Inscriptional parthian letter aleph
+010B41 : Inscriptional parthian letter beth
+010B42 : Inscriptional parthian letter gimel
+010B43 : Inscriptional parthian letter daleth
+010B44 : Inscriptional parthian letter he
+010B45 : Inscriptional parthian letter waw
+010B46 : Inscriptional parthian letter zayin
+010B47 : Inscriptional parthian letter heth
+010B48 : Inscriptional parthian letter teth
+010B49 : Inscriptional parthian letter yodh
+010B4A : Inscriptional parthian letter kaph
+010B4B : Inscriptional parthian letter lamedh
+010B4C : Inscriptional parthian letter mem
+010B4D : Inscriptional parthian letter nun
+010B4E : Inscriptional parthian letter samekh
+010B4F : Inscriptional parthian letter ayin
+010B50 : Inscriptional parthian letter pe
+010B51 : Inscriptional parthian letter sadhe
+010B52 : Inscriptional parthian letter qoph
+010B53 : Inscriptional parthian letter resh
+010B54 : Inscriptional parthian letter shin
+010B55 : Inscriptional parthian letter taw
+010B56 : 
+010B57 : 
+010B58 : Inscriptional parthian number one
+010B59 : Inscriptional parthian number two
+010B5A : Inscriptional parthian number three
+010B5B : Inscriptional parthian number four
+010B5C : Inscriptional parthian number ten
+010B5D : Inscriptional parthian number twenty
+010B5E : Inscriptional parthian number one hundred
+010B5F : Inscriptional parthian number one thousand
+010B60 : Inscriptional pahlavi letter aleph
+010B61 : Inscriptional pahlavi letter beth
+010B62 : Inscriptional pahlavi letter gimel
+010B63 : Inscriptional pahlavi letter daleth
+010B64 : Inscriptional pahlavi letter he
+010B65 : Inscriptional pahlavi letter waw-ayin-resh
+010B66 : Inscriptional pahlavi letter zayin
+010B67 : Inscriptional pahlavi letter heth
+010B68 : Inscriptional pahlavi letter teth
+010B69 : Inscriptional pahlavi letter yodh
+010B6A : Inscriptional pahlavi letter kaph
+010B6B : Inscriptional pahlavi letter lamedh
+010B6C : Inscriptional pahlavi letter mem-qoph
+010B6D : Inscriptional pahlavi letter nun
+010B6E : Inscriptional pahlavi letter samekh
+010B6F : Inscriptional pahlavi letter pe
+010B70 : Inscriptional pahlavi letter sadhe
+010B71 : Inscriptional pahlavi letter shin
+010B72 : Inscriptional pahlavi letter taw
+010B73 : 
+010B74 : 
+010B75 : 
+010B76 : 
+010B77 : 
+010B78 : Inscriptional pahlavi number one
+010B79 : Inscriptional pahlavi number two
+010B7A : Inscriptional pahlavi number three
+010B7B : Inscriptional pahlavi number four
+010B7C : Inscriptional pahlavi number ten
+010B7D : Inscriptional pahlavi number twenty
+010B7E : Inscriptional pahlavi number one hundred
+010B7F : Inscriptional pahlavi number one thousand
+010B80 : Psalter pahlavi letter aleph
+010B81 : Psalter pahlavi letter beth
+010B82 : Psalter pahlavi letter gimel
+010B83 : Psalter pahlavi letter daleth
+010B84 : Psalter pahlavi letter he
+010B85 : Psalter pahlavi letter waw-ayin-resh
+010B86 : Psalter pahlavi letter zayin
+010B87 : Psalter pahlavi letter heth
+010B88 : Psalter pahlavi letter yodh
+010B89 : Psalter pahlavi letter kaph
+010B8A : Psalter pahlavi letter lamedh
+010B8B : Psalter pahlavi letter mem-qoph
+010B8C : Psalter pahlavi letter nun
+010B8D : Psalter pahlavi letter samekh
+010B8E : Psalter pahlavi letter pe
+010B8F : Psalter pahlavi letter sadhe
+010B90 : Psalter pahlavi letter shin
+010B91 : Psalter pahlavi letter taw
+010B92 : 
+010B93 : 
+010B94 : 
+010B95 : 
+010B96 : 
+010B97 : 
+010B98 : 
+010B99 : Psalter pahlavi section mark
+010B9A : Psalter pahlavi turned section mark
+010B9B : Psalter pahlavi four dots with cross
+010B9C : Psalter pahlavi four dots with dot
+010B9D : 
+010B9E : 
+010B9F : 
+010BA0 : 
+010BA1 : 
+010BA2 : 
+010BA3 : 
+010BA4 : 
+010BA5 : 
+010BA6 : 
+010BA7 : 
+010BA8 : 
+010BA9 : Psalter pahlavi number one
+010BAA : Psalter pahlavi number two
+010BAB : Psalter pahlavi number three
+010BAC : Psalter pahlavi number four
+010BAD : Psalter pahlavi number ten
+010BAE : Psalter pahlavi number twenty
+010BAF : Psalter pahlavi number one hundred
+010BB0 : 
+010BB1 : 
+010BB2 : 
+010BB3 : 
+010BB4 : 
+010BB5 : 
+010BB6 : 
+010BB7 : 
+010BB8 : 
+010BB9 : 
+010BBA : 
+010BBB : 
+010BBC : 
+010BBD : 
+010BBE : 
+010BBF : 
+010BC0 : 
+010BC1 : 
+010BC2 : 
+010BC3 : 
+010BC4 : 
+010BC5 : 
+010BC6 : 
+010BC7 : 
+010BC8 : 
+010BC9 : 
+010BCA : 
+010BCB : 
+010BCC : 
+010BCD : 
+010BCE : 
+010BCF : 
+010BD0 : 
+010BD1 : 
+010BD2 : 
+010BD3 : 
+010BD4 : 
+010BD5 : 
+010BD6 : 
+010BD7 : 
+010BD8 : 
+010BD9 : 
+010BDA : 
+010BDB : 
+010BDC : 
+010BDD : 
+010BDE : 
+010BDF : 
+010BE0 : 
+010BE1 : 
+010BE2 : 
+010BE3 : 
+010BE4 : 
+010BE5 : 
+010BE6 : 
+010BE7 : 
+010BE8 : 
+010BE9 : 
+010BEA : 
+010BEB : 
+010BEC : 
+010BED : 
+010BEE : 
+010BEF : 
+010BF0 : 
+010BF1 : 
+010BF2 : 
+010BF3 : 
+010BF4 : 
+010BF5 : 
+010BF6 : 
+010BF7 : 
+010BF8 : 
+010BF9 : 
+010BFA : 
+010BFB : 
+010BFC : 
+010BFD : 
+010BFE : 
+010BFF : 

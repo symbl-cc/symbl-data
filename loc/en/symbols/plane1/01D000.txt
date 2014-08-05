@@ -1,0 +1,256 @@
+01D000 : Byzantine musical symbol psili
+01D001 : Byzantine musical symbol daseia
+01D002 : Byzantine musical symbol perispomeni
+01D003 : Byzantine musical symbol oxeia ekfonitikon
+01D004 : Byzantine musical symbol oxeia dipli
+01D005 : Byzantine musical symbol vareia ekfonitikon
+01D006 : Byzantine musical symbol vareia dipli
+01D007 : Byzantine musical symbol kathisti
+01D008 : Byzantine musical symbol syrmatiki
+01D009 : Byzantine musical symbol paraklitiki
+01D00A : Byzantine musical symbol ypokrisis
+01D00B : Byzantine musical symbol ypokrisis dipli
+01D00C : Byzantine musical symbol kremasti
+01D00D : Byzantine musical symbol apeso ekfonitikon
+01D00E : Byzantine musical symbol exo ekfonitikon
+01D00F : Byzantine musical symbol teleia
+01D010 : Byzantine musical symbol kentimata
+01D011 : Byzantine musical symbol apostrofos
+01D012 : Byzantine musical symbol apostrofos dipli
+01D013 : Byzantine musical symbol synevma
+01D014 : Byzantine musical symbol thita
+01D015 : Byzantine musical symbol oligon archaion
+01D016 : Byzantine musical symbol gorgon archaion
+01D017 : Byzantine musical symbol psilon
+01D018 : Byzantine musical symbol chamilon
+01D019 : Byzantine musical symbol vathy
+01D01A : Byzantine musical symbol ison archaion
+01D01B : Byzantine musical symbol kentima archaion
+01D01C : Byzantine musical symbol kentimata archaion
+01D01D : Byzantine musical symbol saximata
+01D01E : Byzantine musical symbol parichon
+01D01F : Byzantine musical symbol stavros apodexia
+01D020 : Byzantine musical symbol oxeiai archaion
+01D021 : Byzantine musical symbol vareiai archaion
+01D022 : Byzantine musical symbol apoderma archaion
+01D023 : Byzantine musical symbol apothema
+01D024 : Byzantine musical symbol klasma
+01D025 : Byzantine musical symbol revma
+01D026 : Byzantine musical symbol piasma archaion
+01D027 : Byzantine musical symbol tinagma
+01D028 : Byzantine musical symbol anatrichisma
+01D029 : Byzantine musical symbol seisma
+01D02A : Byzantine musical symbol synagma archaion
+01D02B : Byzantine musical symbol synagma meta stavrou
+01D02C : Byzantine musical symbol oyranisma archaion
+01D02D : Byzantine musical symbol thema
+01D02E : Byzantine musical symbol lemoi
+01D02F : Byzantine musical symbol dyo
+01D030 : Byzantine musical symbol tria
+01D031 : Byzantine musical symbol tessera
+01D032 : Byzantine musical symbol kratimata
+01D033 : Byzantine musical symbol apeso exo neo
+01D034 : Byzantine musical symbol fthora archaion
+01D035 : Byzantine musical symbol imifthora
+01D036 : Byzantine musical symbol tromikon archaion
+01D037 : Byzantine musical symbol katava tromikon
+01D038 : Byzantine musical symbol pelaston
+01D039 : Byzantine musical symbol psifiston
+01D03A : Byzantine musical symbol kontevma
+01D03B : Byzantine musical symbol chorevma archaion
+01D03C : Byzantine musical symbol rapisma
+01D03D : Byzantine musical symbol parakalesma archaion
+01D03E : Byzantine musical symbol paraklitiki archaion
+01D03F : Byzantine musical symbol ichadin
+01D040 : Byzantine musical symbol nana
+01D041 : Byzantine musical symbol petasma
+01D042 : Byzantine musical symbol kontevma allo
+01D043 : Byzantine musical symbol tromikon allo
+01D044 : Byzantine musical symbol straggismata
+01D045 : Byzantine musical symbol gronthismata
+01D046 : Byzantine musical symbol ison neo
+01D047 : Byzantine musical symbol oligon neo
+01D048 : Byzantine musical symbol oxeia neo
+01D049 : Byzantine musical symbol petasti
+01D04A : Byzantine musical symbol koufisma
+01D04B : Byzantine musical symbol petastokoufisma
+01D04C : Byzantine musical symbol kratimokoufisma
+01D04D : Byzantine musical symbol pelaston neo
+01D04E : Byzantine musical symbol kentimata neo ano
+01D04F : Byzantine musical symbol kentima neo ano
+01D050 : Byzantine musical symbol ypsili
+01D051 : Byzantine musical symbol apostrofos neo
+01D052 : Byzantine musical symbol apostrofoi syndesmos neo
+01D053 : Byzantine musical symbol yporroi
+01D054 : Byzantine musical symbol kratimoyporroon
+01D055 : Byzantine musical symbol elafron
+01D056 : Byzantine musical symbol chamili
+01D057 : Byzantine musical symbol mikron ison
+01D058 : Byzantine musical symbol vareia neo
+01D059 : Byzantine musical symbol piasma neo
+01D05A : Byzantine musical symbol psifiston neo
+01D05B : Byzantine musical symbol omalon
+01D05C : Byzantine musical symbol antikenoma
+01D05D : Byzantine musical symbol lygisma
+01D05E : Byzantine musical symbol paraklitiki neo
+01D05F : Byzantine musical symbol parakalesma neo
+01D060 : Byzantine musical symbol eteron parakalesma
+01D061 : Byzantine musical symbol kylisma
+01D062 : Byzantine musical symbol antikenokylisma
+01D063 : Byzantine musical symbol tromikon neo
+01D064 : Byzantine musical symbol ekstrepton
+01D065 : Byzantine musical symbol synagma neo
+01D066 : Byzantine musical symbol syrma
+01D067 : Byzantine musical symbol chorevma neo
+01D068 : Byzantine musical symbol epegerma
+01D069 : Byzantine musical symbol seisma neo
+01D06A : Byzantine musical symbol xiron klasma
+01D06B : Byzantine musical symbol tromikopsifiston
+01D06C : Byzantine musical symbol psifistolygisma
+01D06D : Byzantine musical symbol tromikolygisma
+01D06E : Byzantine musical symbol tromikoparakalesma
+01D06F : Byzantine musical symbol psifistoparakalesma
+01D070 : Byzantine musical symbol tromikosynagma
+01D071 : Byzantine musical symbol psifistosynagma
+01D072 : Byzantine musical symbol gorgosyntheton
+01D073 : Byzantine musical symbol argosyntheton
+01D074 : Byzantine musical symbol eteron argosyntheton
+01D075 : Byzantine musical symbol oyranisma neo
+01D076 : Byzantine musical symbol thematismos eso
+01D077 : Byzantine musical symbol thematismos exo
+01D078 : Byzantine musical symbol thema aploun
+01D079 : Byzantine musical symbol thes kai apothes
+01D07A : Byzantine musical symbol katavasma
+01D07B : Byzantine musical symbol endofonon
+01D07C : Byzantine musical symbol yfen kato
+01D07D : Byzantine musical symbol yfen ano
+01D07E : Byzantine musical symbol stavros
+01D07F : Byzantine musical symbol klasma ano
+01D080 : Byzantine musical symbol dipli archaion
+01D081 : Byzantine musical symbol kratima archaion
+01D082 : Byzantine musical symbol kratima allo
+01D083 : Byzantine musical symbol kratima neo
+01D084 : Byzantine musical symbol apoderma neo
+01D085 : Byzantine musical symbol apli
+01D086 : Byzantine musical symbol dipli
+01D087 : Byzantine musical symbol tripli
+01D088 : Byzantine musical symbol tetrapli
+01D089 : Byzantine musical symbol koronis
+01D08A : Byzantine musical symbol leimma enos chronou
+01D08B : Byzantine musical symbol leimma dyo chronon
+01D08C : Byzantine musical symbol leimma trion chronon
+01D08D : Byzantine musical symbol leimma tessaron chronon
+01D08E : Byzantine musical symbol leimma imiseos chronou
+01D08F : Byzantine musical symbol gorgon neo ano
+01D090 : Byzantine musical symbol gorgon parestigmenon aristera
+01D091 : Byzantine musical symbol gorgon parestigmenon dexia
+01D092 : Byzantine musical symbol digorgon
+01D093 : Byzantine musical symbol digorgon parestigmenon aristera kato
+01D094 : Byzantine musical symbol digorgon parestigmenon aristera ano
+01D095 : Byzantine musical symbol digorgon parestigmenon dexia
+01D096 : Byzantine musical symbol trigorgon
+01D097 : Byzantine musical symbol argon
+01D098 : Byzantine musical symbol imidiargon
+01D099 : Byzantine musical symbol diargon
+01D09A : Byzantine musical symbol agogi poli argi
+01D09B : Byzantine musical symbol agogi argoteri
+01D09C : Byzantine musical symbol agogi argi
+01D09D : Byzantine musical symbol agogi metria
+01D09E : Byzantine musical symbol agogi mesi
+01D09F : Byzantine musical symbol agogi gorgi
+01D0A0 : Byzantine musical symbol agogi gorgoteri
+01D0A1 : Byzantine musical symbol agogi poli gorgi
+01D0A2 : Byzantine musical symbol martyria protos ichos
+01D0A3 : Byzantine musical symbol martyria alli protos ichos
+01D0A4 : Byzantine musical symbol martyria deyteros ichos
+01D0A5 : Byzantine musical symbol martyria alli deyteros ichos
+01D0A6 : Byzantine musical symbol martyria tritos ichos
+01D0A7 : Byzantine musical symbol martyria trifonias
+01D0A8 : Byzantine musical symbol martyria tetartos ichos
+01D0A9 : Byzantine musical symbol martyria tetartos legetos ichos
+01D0AA : Byzantine musical symbol martyria legetos ichos
+01D0AB : Byzantine musical symbol martyria plagios ichos
+01D0AC : Byzantine musical symbol isakia telous ichimatos
+01D0AD : Byzantine musical symbol apostrofoi telous ichimatos
+01D0AE : Byzantine musical symbol fanerosis tetrafonias
+01D0AF : Byzantine musical symbol fanerosis monofonias
+01D0B0 : Byzantine musical symbol fanerosis difonias
+01D0B1 : Byzantine musical symbol martyria varys ichos
+01D0B2 : Byzantine musical symbol martyria protovarys ichos
+01D0B3 : Byzantine musical symbol martyria plagios tetartos ichos
+01D0B4 : Byzantine musical symbol gorthmikon n aploun
+01D0B5 : Byzantine musical symbol gorthmikon n diploun
+01D0B6 : Byzantine musical symbol enarxis kai fthora vou
+01D0B7 : Byzantine musical symbol imifonon
+01D0B8 : Byzantine musical symbol imifthoron
+01D0B9 : Byzantine musical symbol fthora archaion deyterou ichou
+01D0BA : Byzantine musical symbol fthora diatoniki pa
+01D0BB : Byzantine musical symbol fthora diatoniki nana
+01D0BC : Byzantine musical symbol fthora naos ichos
+01D0BD : Byzantine musical symbol fthora diatoniki di
+01D0BE : Byzantine musical symbol fthora skliron diatonon di
+01D0BF : Byzantine musical symbol fthora diatoniki ke
+01D0C0 : Byzantine musical symbol fthora diatoniki zo
+01D0C1 : Byzantine musical symbol fthora diatoniki ni kato
+01D0C2 : Byzantine musical symbol fthora diatoniki ni ano
+01D0C3 : Byzantine musical symbol fthora malakon chroma difonias
+01D0C4 : Byzantine musical symbol fthora malakon chroma monofonias
+01D0C5 : Byzantine musical symbol fhtora skliron chroma vasis
+01D0C6 : Byzantine musical symbol fthora skliron chroma synafi
+01D0C7 : Byzantine musical symbol fthora nenano
+01D0C8 : Byzantine musical symbol chroa zygos
+01D0C9 : Byzantine musical symbol chroa kliton
+01D0CA : Byzantine musical symbol chroa spathi
+01D0CB : Byzantine musical symbol fthora i yfesis tetartimorion
+01D0CC : Byzantine musical symbol fthora enarmonios antifonia
+01D0CD : Byzantine musical symbol yfesis tritimorion
+01D0CE : Byzantine musical symbol diesis tritimorion
+01D0CF : Byzantine musical symbol diesis tetartimorion
+01D0D0 : Byzantine musical symbol diesis apli dyo dodekata
+01D0D1 : Byzantine musical symbol diesis monogrammos tessera dodekata
+01D0D2 : Byzantine musical symbol diesis digrammos ex dodekata
+01D0D3 : Byzantine musical symbol diesis trigrammos okto dodekata
+01D0D4 : Byzantine musical symbol yfesis apli dyo dodekata
+01D0D5 : Byzantine musical symbol yfesis monogrammos tessera dodekata
+01D0D6 : Byzantine musical symbol yfesis digrammos ex dodekata
+01D0D7 : Byzantine musical symbol yfesis trigrammos okto dodekata
+01D0D8 : Byzantine musical symbol geniki diesis
+01D0D9 : Byzantine musical symbol geniki yfesis
+01D0DA : Byzantine musical symbol diastoli apli mikri
+01D0DB : Byzantine musical symbol diastoli apli megali
+01D0DC : Byzantine musical symbol diastoli dipli
+01D0DD : Byzantine musical symbol diastoli theseos
+01D0DE : Byzantine musical symbol simansis theseos
+01D0DF : Byzantine musical symbol simansis theseos disimou
+01D0E0 : Byzantine musical symbol simansis theseos trisimou
+01D0E1 : Byzantine musical symbol simansis theseos tetrasimou
+01D0E2 : Byzantine musical symbol simansis arseos
+01D0E3 : Byzantine musical symbol simansis arseos disimou
+01D0E4 : Byzantine musical symbol simansis arseos trisimou
+01D0E5 : Byzantine musical symbol simansis arseos tetrasimou
+01D0E6 : Byzantine musical symbol digramma gg
+01D0E7 : Byzantine musical symbol diftoggos ou
+01D0E8 : Byzantine musical symbol stigma
+01D0E9 : Byzantine musical symbol arktiko pa
+01D0EA : Byzantine musical symbol arktiko vou
+01D0EB : Byzantine musical symbol arktiko ga
+01D0EC : Byzantine musical symbol arktiko di
+01D0ED : Byzantine musical symbol arktiko ke
+01D0EE : Byzantine musical symbol arktiko zo
+01D0EF : Byzantine musical symbol arktiko ni
+01D0F0 : Byzantine musical symbol kentimata neo meso
+01D0F1 : Byzantine musical symbol kentima neo meso
+01D0F2 : Byzantine musical symbol kentimata neo kato
+01D0F3 : Byzantine musical symbol kentima neo kato
+01D0F4 : Byzantine musical symbol klasma kato
+01D0F5 : Byzantine musical symbol gorgon neo kato
+01D0F6 : 
+01D0F7 : 
+01D0F8 : 
+01D0F9 : 
+01D0FA : 
+01D0FB : 
+01D0FC : 
+01D0FD : 
+01D0FE : 
+01D0FF : 

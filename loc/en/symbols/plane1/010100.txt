@@ -1,0 +1,256 @@
+010100 : Aegean word separator line
+010101 : Aegean word separator dot
+010102 : Aegean check mark
+010103 : 
+010104 : 
+010105 : 
+010106 : 
+010107 : Aegean number one
+010108 : Aegean number two
+010109 : Aegean number three
+01010A : Aegean number four
+01010B : Aegean number five
+01010C : Aegean number six
+01010D : Aegean number seven
+01010E : Aegean number eight
+01010F : Aegean number nine
+010110 : Aegean number ten
+010111 : Aegean number twenty
+010112 : Aegean number thirty
+010113 : Aegean number forty
+010114 : Aegean number fifty
+010115 : Aegean number sixty
+010116 : Aegean number seventy
+010117 : Aegean number eighty
+010118 : Aegean number ninety
+010119 : Aegean number one hundred
+01011A : Aegean number two hundred
+01011B : Aegean number three hundred
+01011C : Aegean number four hundred
+01011D : Aegean number five hundred
+01011E : Aegean number six hundred
+01011F : Aegean number seven hundred
+010120 : Aegean number eight hundred
+010121 : Aegean number nine hundred
+010122 : Aegean number one thousand
+010123 : Aegean number two thousand
+010124 : Aegean number three thousand
+010125 : Aegean number four thousand
+010126 : Aegean number five thousand
+010127 : Aegean number six thousand
+010128 : Aegean number seven thousand
+010129 : Aegean number eight thousand
+01012A : Aegean number nine thousand
+01012B : Aegean number ten thousand
+01012C : Aegean number twenty thousand
+01012D : Aegean number thirty thousand
+01012E : Aegean number forty thousand
+01012F : Aegean number fifty thousand
+010130 : Aegean number sixty thousand
+010131 : Aegean number seventy thousand
+010132 : Aegean number eighty thousand
+010133 : Aegean number ninety thousand
+010134 : 
+010135 : 
+010136 : 
+010137 : Aegean weight base unit
+010138 : Aegean weight first subunit
+010139 : Aegean weight second subunit
+01013A : Aegean weight third subunit
+01013B : Aegean weight fourth subunit
+01013C : Aegean dry measure first subunit
+01013D : Aegean liquid measure first subunit
+01013E : Aegean measure second subunit
+01013F : Aegean measure third subunit
+010140 : Greek acrophonic attic one quarter
+010141 : Greek acrophonic attic one half
+010142 : Greek acrophonic attic one drachma
+010143 : Greek acrophonic attic five
+010144 : Greek acrophonic attic fifty
+010145 : Greek acrophonic attic five hundred
+010146 : Greek acrophonic attic five thousand
+010147 : Greek acrophonic attic fifty thousand
+010148 : Greek acrophonic attic five talents
+010149 : Greek acrophonic attic ten talents
+01014A : Greek acrophonic attic fifty talents
+01014B : Greek acrophonic attic one hundred talents
+01014C : Greek acrophonic attic five hundred talents
+01014D : Greek acrophonic attic one thousand talents
+01014E : Greek acrophonic attic five thousand talents
+01014F : Greek acrophonic attic five staters
+010150 : Greek acrophonic attic ten staters
+010151 : Greek acrophonic attic fifty staters
+010152 : Greek acrophonic attic one hundred staters
+010153 : Greek acrophonic attic five hundred staters
+010154 : Greek acrophonic attic one thousand staters
+010155 : Greek acrophonic attic ten thousand staters
+010156 : Greek acrophonic attic fifty thousand staters
+010157 : Greek acrophonic attic ten mnas
+010158 : Greek acrophonic heraeum one plethron
+010159 : Greek acrophonic thespian one
+01015A : Greek acrophonic hermionian one
+01015B : Greek acrophonic epidaurean two
+01015C : Greek acrophonic thespian two
+01015D : Greek acrophonic cyrenaic two drachmas
+01015E : Greek acrophonic epidaurean two drachmas
+01015F : Greek acrophonic troezenian five
+010160 : Greek acrophonic troezenian ten
+010161 : Greek acrophonic troezenian ten alternate form
+010162 : Greek acrophonic hermionian ten
+010163 : Greek acrophonic messenian ten
+010164 : Greek acrophonic thespian ten
+010165 : Greek acrophonic thespian thirty
+010166 : Greek acrophonic troezenian fifty
+010167 : Greek acrophonic troezenian fifty alternate form
+010168 : Greek acrophonic hermionian fifty
+010169 : Greek acrophonic thespian fifty
+01016A : Greek acrophonic thespian one hundred
+01016B : Greek acrophonic thespian three hundred
+01016C : Greek acrophonic epidaurean five hundred
+01016D : Greek acrophonic troezenian five hundred
+01016E : Greek acrophonic thespian five hundred
+01016F : Greek acrophonic carystian five hundred
+010170 : Greek acrophonic naxian five hundred
+010171 : Greek acrophonic thespian one thousand
+010172 : Greek acrophonic thespian five thousand
+010173 : Greek acrophonic delphic five mnas
+010174 : Greek acrophonic stratian fifty mnas
+010175 : Greek one half sign
+010176 : Greek one half sign alternate form
+010177 : Greek two thirds sign
+010178 : Greek three quarters sign
+010179 : Greek year sign
+01017A : Greek talent sign
+01017B : Greek drachma sign
+01017C : Greek obol sign
+01017D : Greek two obols sign
+01017E : Greek three obols sign
+01017F : Greek four obols sign
+010180 : Greek five obols sign
+010181 : Greek metretes sign
+010182 : Greek kyathos base sign
+010183 : Greek litra sign
+010184 : Greek ounkia sign
+010185 : Greek xestes sign
+010186 : Greek artabe sign
+010187 : Greek aroura sign
+010188 : Greek gramma sign
+010189 : Greek tryblion base sign
+01018A : Greek zero sign
+01018B : Greek one quarter sign
+01018C : Greek sinusoid sign
+01018D : 
+01018E : 
+01018F : 
+010190 : Roman sextans sign
+010191 : Roman uncia sign
+010192 : Roman semuncia sign
+010193 : Roman sextula sign
+010194 : Roman dimidia sextula sign
+010195 : Roman siliqua sign
+010196 : Roman denarius sign
+010197 : Roman quinarius sign
+010198 : Roman sestertius sign
+010199 : Roman dupondius sign
+01019A : Roman as sign
+01019B : Roman centurial sign
+01019C : 
+01019D : 
+01019E : 
+01019F : 
+0101A0 : Greek symbol tau rho
+0101A1 : 
+0101A2 : 
+0101A3 : 
+0101A4 : 
+0101A5 : 
+0101A6 : 
+0101A7 : 
+0101A8 : 
+0101A9 : 
+0101AA : 
+0101AB : 
+0101AC : 
+0101AD : 
+0101AE : 
+0101AF : 
+0101B0 : 
+0101B1 : 
+0101B2 : 
+0101B3 : 
+0101B4 : 
+0101B5 : 
+0101B6 : 
+0101B7 : 
+0101B8 : 
+0101B9 : 
+0101BA : 
+0101BB : 
+0101BC : 
+0101BD : 
+0101BE : 
+0101BF : 
+0101C0 : 
+0101C1 : 
+0101C2 : 
+0101C3 : 
+0101C4 : 
+0101C5 : 
+0101C6 : 
+0101C7 : 
+0101C8 : 
+0101C9 : 
+0101CA : 
+0101CB : 
+0101CC : 
+0101CD : 
+0101CE : 
+0101CF : 
+0101D0 : Phaistos disc sign pedestrian
+0101D1 : Phaistos disc sign plumed head
+0101D2 : Phaistos disc sign tattooed head
+0101D3 : Phaistos disc sign captive
+0101D4 : Phaistos disc sign child
+0101D5 : Phaistos disc sign woman
+0101D6 : Phaistos disc sign helmet
+0101D7 : Phaistos disc sign gauntlet
+0101D8 : Phaistos disc sign tiara
+0101D9 : Phaistos disc sign arrow
+0101DA : Phaistos disc sign bow
+0101DB : Phaistos disc sign shield
+0101DC : Phaistos disc sign club
+0101DD : Phaistos disc sign manacles
+0101DE : Phaistos disc sign mattock
+0101DF : Phaistos disc sign saw
+0101E0 : Phaistos disc sign lid
+0101E1 : Phaistos disc sign boomerang
+0101E2 : Phaistos disc sign carpentry plane
+0101E3 : Phaistos disc sign dolium
+0101E4 : Phaistos disc sign comb
+0101E5 : Phaistos disc sign sling
+0101E6 : Phaistos disc sign column
+0101E7 : Phaistos disc sign beehive
+0101E8 : Phaistos disc sign ship
+0101E9 : Phaistos disc sign horn
+0101EA : Phaistos disc sign hide
+0101EB : Phaistos disc sign bulls leg
+0101EC : Phaistos disc sign cat
+0101ED : Phaistos disc sign ram
+0101EE : Phaistos disc sign eagle
+0101EF : Phaistos disc sign dove
+0101F0 : Phaistos disc sign tunny
+0101F1 : Phaistos disc sign bee
+0101F2 : Phaistos disc sign plane tree
+0101F3 : Phaistos disc sign vine
+0101F4 : Phaistos disc sign papyrus
+0101F5 : Phaistos disc sign rosette
+0101F6 : Phaistos disc sign lily
+0101F7 : Phaistos disc sign ox back
+0101F8 : Phaistos disc sign flute
+0101F9 : Phaistos disc sign grater
+0101FA : Phaistos disc sign strainer
+0101FB : Phaistos disc sign small axe
+0101FC : Phaistos disc sign wavy band
+0101FD : Phaistos disc sign combining oblique stroke
+0101FE : 
+0101FF : 

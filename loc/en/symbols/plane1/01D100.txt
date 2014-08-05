@@ -1,0 +1,256 @@
+01D100 : Musical symbol single barline
+01D101 : Musical symbol double barline
+01D102 : Musical symbol final barline
+01D103 : Musical symbol reverse final barline
+01D104 : Musical symbol dashed barline
+01D105 : Musical symbol short barline
+01D106 : Musical symbol left repeat sign
+01D107 : Musical symbol right repeat sign
+01D108 : Musical symbol repeat dots
+01D109 : Musical symbol dal segno
+01D10A : Musical symbol da capo
+01D10B : Musical symbol segno
+01D10C : Musical symbol coda
+01D10D : Musical symbol repeated figure-1
+01D10E : Musical symbol repeated figure-2
+01D10F : Musical symbol repeated figure-3
+01D110 : Musical symbol fermata
+01D111 : Musical symbol fermata below
+01D112 : Musical symbol breath mark
+01D113 : Musical symbol caesura
+01D114 : Musical symbol brace
+01D115 : Musical symbol bracket
+01D116 : Musical symbol one-line staff
+01D117 : Musical symbol two-line staff
+01D118 : Musical symbol three-line staff
+01D119 : Musical symbol four-line staff
+01D11A : Musical symbol five-line staff
+01D11B : Musical symbol six-line staff
+01D11C : Musical symbol six-string fretboard
+01D11D : Musical symbol four-string fretboard
+01D11E : Musical symbol g clef
+01D11F : Musical symbol g clef ottava alta
+01D120 : Musical symbol g clef ottava bassa
+01D121 : Musical symbol c clef
+01D122 : Musical symbol f clef
+01D123 : Musical symbol f clef ottava alta
+01D124 : Musical symbol f clef ottava bassa
+01D125 : Musical symbol drum clef-1
+01D126 : Musical symbol drum clef-2
+01D127 : 
+01D128 : 
+01D129 : Musical symbol multiple measure rest
+01D12A : Musical symbol double sharp
+01D12B : Musical symbol double flat
+01D12C : Musical symbol flat up
+01D12D : Musical symbol flat down
+01D12E : Musical symbol natural up
+01D12F : Musical symbol natural down
+01D130 : Musical symbol sharp up
+01D131 : Musical symbol sharp down
+01D132 : Musical symbol quarter tone sharp
+01D133 : Musical symbol quarter tone flat
+01D134 : Musical symbol common time
+01D135 : Musical symbol cut time
+01D136 : Musical symbol ottava alta
+01D137 : Musical symbol ottava bassa
+01D138 : Musical symbol quindicesima alta
+01D139 : Musical symbol quindicesima bassa
+01D13A : Musical symbol multi rest
+01D13B : Musical symbol whole rest
+01D13C : Musical symbol half rest
+01D13D : Musical symbol quarter rest
+01D13E : Musical symbol eighth rest
+01D13F : Musical symbol sixteenth rest
+01D140 : Musical symbol thirty-second rest
+01D141 : Musical symbol sixty-fourth rest
+01D142 : Musical symbol one hundred twenty-eighth rest
+01D143 : Musical symbol x notehead
+01D144 : Musical symbol plus notehead
+01D145 : Musical symbol circle x notehead
+01D146 : Musical symbol square notehead white
+01D147 : Musical symbol square notehead black
+01D148 : Musical symbol triangle notehead up white
+01D149 : Musical symbol triangle notehead up black
+01D14A : Musical symbol triangle notehead left white
+01D14B : Musical symbol triangle notehead left black
+01D14C : Musical symbol triangle notehead right white
+01D14D : Musical symbol triangle notehead right black
+01D14E : Musical symbol triangle notehead down white
+01D14F : Musical symbol triangle notehead down black
+01D150 : Musical symbol triangle notehead up right white
+01D151 : Musical symbol triangle notehead up right black
+01D152 : Musical symbol moon notehead white
+01D153 : Musical symbol moon notehead black
+01D154 : Musical symbol triangle-round notehead down white
+01D155 : Musical symbol triangle-round notehead down black
+01D156 : Musical symbol parenthesis notehead
+01D157 : Musical symbol void notehead
+01D158 : Musical symbol notehead black
+01D159 : Musical symbol null notehead
+01D15A : Musical symbol cluster notehead white
+01D15B : Musical symbol cluster notehead black
+01D15C : Musical symbol breve
+01D15D : Musical symbol whole note
+01D15E : Musical symbol half note
+01D15F : Musical symbol quarter note
+01D160 : Musical symbol eighth note
+01D161 : Musical symbol sixteenth note
+01D162 : Musical symbol thirty-second note
+01D163 : Musical symbol sixty-fourth note
+01D164 : Musical symbol one hundred twenty-eighth note
+01D165 : Musical symbol combining stem
+01D166 : Musical symbol combining sprechgesang stem
+01D167 : Musical symbol combining tremolo-1
+01D168 : Musical symbol combining tremolo-2
+01D169 : Musical symbol combining tremolo-3
+01D16A : Musical symbol fingered tremolo-1
+01D16B : Musical symbol fingered tremolo-2
+01D16C : Musical symbol fingered tremolo-3
+01D16D : Musical symbol combining augmentation dot
+01D16E : Musical symbol combining flag-1
+01D16F : Musical symbol combining flag-2
+01D170 : Musical symbol combining flag-3
+01D171 : Musical symbol combining flag-4
+01D172 : Musical symbol combining flag-5
+01D173 : Musical symbol begin beam
+01D174 : Musical symbol end beam
+01D175 : Musical symbol begin tie
+01D176 : Musical symbol end tie
+01D177 : Musical symbol begin slur
+01D178 : Musical symbol end slur
+01D179 : Musical symbol begin phrase
+01D17A : Musical symbol end phrase
+01D17B : Musical symbol combining accent
+01D17C : Musical symbol combining staccato
+01D17D : Musical symbol combining tenuto
+01D17E : Musical symbol combining staccatissimo
+01D17F : Musical symbol combining marcato
+01D180 : Musical symbol combining marcato-staccato
+01D181 : Musical symbol combining accent-staccato
+01D182 : Musical symbol combining loure
+01D183 : Musical symbol arpeggiato up
+01D184 : Musical symbol arpeggiato down
+01D185 : Musical symbol combining doit
+01D186 : Musical symbol combining rip
+01D187 : Musical symbol combining flip
+01D188 : Musical symbol combining smear
+01D189 : Musical symbol combining bend
+01D18A : Musical symbol combining double tongue
+01D18B : Musical symbol combining triple tongue
+01D18C : Musical symbol rinforzando
+01D18D : Musical symbol subito
+01D18E : Musical symbol z
+01D18F : Musical symbol piano
+01D190 : Musical symbol mezzo
+01D191 : Musical symbol forte
+01D192 : Musical symbol crescendo
+01D193 : Musical symbol decrescendo
+01D194 : Musical symbol grace note slash
+01D195 : Musical symbol grace note no slash
+01D196 : Musical symbol tr
+01D197 : Musical symbol turn
+01D198 : Musical symbol inverted turn
+01D199 : Musical symbol turn slash
+01D19A : Musical symbol turn up
+01D19B : Musical symbol ornament stroke-1
+01D19C : Musical symbol ornament stroke-2
+01D19D : Musical symbol ornament stroke-3
+01D19E : Musical symbol ornament stroke-4
+01D19F : Musical symbol ornament stroke-5
+01D1A0 : Musical symbol ornament stroke-6
+01D1A1 : Musical symbol ornament stroke-7
+01D1A2 : Musical symbol ornament stroke-8
+01D1A3 : Musical symbol ornament stroke-9
+01D1A4 : Musical symbol ornament stroke-10
+01D1A5 : Musical symbol ornament stroke-11
+01D1A6 : Musical symbol hauptstimme
+01D1A7 : Musical symbol nebenstimme
+01D1A8 : Musical symbol end of stimme
+01D1A9 : Musical symbol degree slash
+01D1AA : Musical symbol combining down bow
+01D1AB : Musical symbol combining up bow
+01D1AC : Musical symbol combining harmonic
+01D1AD : Musical symbol combining snap pizzicato
+01D1AE : Musical symbol pedal mark
+01D1AF : Musical symbol pedal up mark
+01D1B0 : Musical symbol half pedal mark
+01D1B1 : Musical symbol glissando up
+01D1B2 : Musical symbol glissando down
+01D1B3 : Musical symbol with fingernails
+01D1B4 : Musical symbol damp
+01D1B5 : Musical symbol damp all
+01D1B6 : Musical symbol maxima
+01D1B7 : Musical symbol longa
+01D1B8 : Musical symbol brevis
+01D1B9 : Musical symbol semibrevis white
+01D1BA : Musical symbol semibrevis black
+01D1BB : Musical symbol minima
+01D1BC : Musical symbol minima black
+01D1BD : Musical symbol semiminima white
+01D1BE : Musical symbol semiminima black
+01D1BF : Musical symbol fusa white
+01D1C0 : Musical symbol fusa black
+01D1C1 : Musical symbol longa perfecta rest
+01D1C2 : Musical symbol longa imperfecta rest
+01D1C3 : Musical symbol brevis rest
+01D1C4 : Musical symbol semibrevis rest
+01D1C5 : Musical symbol minima rest
+01D1C6 : Musical symbol semiminima rest
+01D1C7 : Musical symbol tempus perfectum cum prolatione perfecta
+01D1C8 : Musical symbol tempus perfectum cum prolatione imperfecta
+01D1C9 : Musical symbol tempus perfectum cum prolatione perfecta diminution-1
+01D1CA : Musical symbol tempus imperfectum cum prolatione perfecta
+01D1CB : Musical symbol tempus imperfectum cum prolatione imperfecta
+01D1CC : Musical symbol tempus imperfectum cum prolatione imperfecta diminution-1
+01D1CD : Musical symbol tempus imperfectum cum prolatione imperfecta diminution-2
+01D1CE : Musical symbol tempus imperfectum cum prolatione imperfecta diminution-3
+01D1CF : Musical symbol croix
+01D1D0 : Musical symbol gregorian c clef
+01D1D1 : Musical symbol gregorian f clef
+01D1D2 : Musical symbol square b
+01D1D3 : Musical symbol virga
+01D1D4 : Musical symbol podatus
+01D1D5 : Musical symbol clivis
+01D1D6 : Musical symbol scandicus
+01D1D7 : Musical symbol climacus
+01D1D8 : Musical symbol torculus
+01D1D9 : Musical symbol porrectus
+01D1DA : Musical symbol porrectus flexus
+01D1DB : Musical symbol scandicus flexus
+01D1DC : Musical symbol torculus resupinus
+01D1DD : Musical symbol pes subpunctis
+01D1DE : 
+01D1DF : 
+01D1E0 : 
+01D1E1 : 
+01D1E2 : 
+01D1E3 : 
+01D1E4 : 
+01D1E5 : 
+01D1E6 : 
+01D1E7 : 
+01D1E8 : 
+01D1E9 : 
+01D1EA : 
+01D1EB : 
+01D1EC : 
+01D1ED : 
+01D1EE : 
+01D1EF : 
+01D1F0 : 
+01D1F1 : 
+01D1F2 : 
+01D1F3 : 
+01D1F4 : 
+01D1F5 : 
+01D1F6 : 
+01D1F7 : 
+01D1F8 : 
+01D1F9 : 
+01D1FA : 
+01D1FB : 
+01D1FC : 
+01D1FD : 
+01D1FE : 
+01D1FF : 

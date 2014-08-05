@@ -1,0 +1,256 @@
+010E00 : 
+010E01 : 
+010E02 : 
+010E03 : 
+010E04 : 
+010E05 : 
+010E06 : 
+010E07 : 
+010E08 : 
+010E09 : 
+010E0A : 
+010E0B : 
+010E0C : 
+010E0D : 
+010E0E : 
+010E0F : 
+010E10 : 
+010E11 : 
+010E12 : 
+010E13 : 
+010E14 : 
+010E15 : 
+010E16 : 
+010E17 : 
+010E18 : 
+010E19 : 
+010E1A : 
+010E1B : 
+010E1C : 
+010E1D : 
+010E1E : 
+010E1F : 
+010E20 : 
+010E21 : 
+010E22 : 
+010E23 : 
+010E24 : 
+010E25 : 
+010E26 : 
+010E27 : 
+010E28 : 
+010E29 : 
+010E2A : 
+010E2B : 
+010E2C : 
+010E2D : 
+010E2E : 
+010E2F : 
+010E30 : 
+010E31 : 
+010E32 : 
+010E33 : 
+010E34 : 
+010E35 : 
+010E36 : 
+010E37 : 
+010E38 : 
+010E39 : 
+010E3A : 
+010E3B : 
+010E3C : 
+010E3D : 
+010E3E : 
+010E3F : 
+010E40 : 
+010E41 : 
+010E42 : 
+010E43 : 
+010E44 : 
+010E45 : 
+010E46 : 
+010E47 : 
+010E48 : 
+010E49 : 
+010E4A : 
+010E4B : 
+010E4C : 
+010E4D : 
+010E4E : 
+010E4F : 
+010E50 : 
+010E51 : 
+010E52 : 
+010E53 : 
+010E54 : 
+010E55 : 
+010E56 : 
+010E57 : 
+010E58 : 
+010E59 : 
+010E5A : 
+010E5B : 
+010E5C : 
+010E5D : 
+010E5E : 
+010E5F : 
+010E60 : Rumi digit one
+010E61 : Rumi digit two
+010E62 : Rumi digit three
+010E63 : Rumi digit four
+010E64 : Rumi digit five
+010E65 : Rumi digit six
+010E66 : Rumi digit seven
+010E67 : Rumi digit eight
+010E68 : Rumi digit nine
+010E69 : Rumi number ten
+010E6A : Rumi number twenty
+010E6B : Rumi number thirty
+010E6C : Rumi number forty
+010E6D : Rumi number fifty
+010E6E : Rumi number sixty
+010E6F : Rumi number seventy
+010E70 : Rumi number eighty
+010E71 : Rumi number ninety
+010E72 : Rumi number one hundred
+010E73 : Rumi number two hundred
+010E74 : Rumi number three hundred
+010E75 : Rumi number four hundred
+010E76 : Rumi number five hundred
+010E77 : Rumi number six hundred
+010E78 : Rumi number seven hundred
+010E79 : Rumi number eight hundred
+010E7A : Rumi number nine hundred
+010E7B : Rumi fraction one half
+010E7C : Rumi fraction one quarter
+010E7D : Rumi fraction one third
+010E7E : Rumi fraction two thirds
+010E7F : 
+010E80 : 
+010E81 : 
+010E82 : 
+010E83 : 
+010E84 : 
+010E85 : 
+010E86 : 
+010E87 : 
+010E88 : 
+010E89 : 
+010E8A : 
+010E8B : 
+010E8C : 
+010E8D : 
+010E8E : 
+010E8F : 
+010E90 : 
+010E91 : 
+010E92 : 
+010E93 : 
+010E94 : 
+010E95 : 
+010E96 : 
+010E97 : 
+010E98 : 
+010E99 : 
+010E9A : 
+010E9B : 
+010E9C : 
+010E9D : 
+010E9E : 
+010E9F : 
+010EA0 : 
+010EA1 : 
+010EA2 : 
+010EA3 : 
+010EA4 : 
+010EA5 : 
+010EA6 : 
+010EA7 : 
+010EA8 : 
+010EA9 : 
+010EAA : 
+010EAB : 
+010EAC : 
+010EAD : 
+010EAE : 
+010EAF : 
+010EB0 : 
+010EB1 : 
+010EB2 : 
+010EB3 : 
+010EB4 : 
+010EB5 : 
+010EB6 : 
+010EB7 : 
+010EB8 : 
+010EB9 : 
+010EBA : 
+010EBB : 
+010EBC : 
+010EBD : 
+010EBE : 
+010EBF : 
+010EC0 : 
+010EC1 : 
+010EC2 : 
+010EC3 : 
+010EC4 : 
+010EC5 : 
+010EC6 : 
+010EC7 : 
+010EC8 : 
+010EC9 : 
+010ECA : 
+010ECB : 
+010ECC : 
+010ECD : 
+010ECE : 
+010ECF : 
+010ED0 : 
+010ED1 : 
+010ED2 : 
+010ED3 : 
+010ED4 : 
+010ED5 : 
+010ED6 : 
+010ED7 : 
+010ED8 : 
+010ED9 : 
+010EDA : 
+010EDB : 
+010EDC : 
+010EDD : 
+010EDE : 
+010EDF : 
+010EE0 : 
+010EE1 : 
+010EE2 : 
+010EE3 : 
+010EE4 : 
+010EE5 : 
+010EE6 : 
+010EE7 : 
+010EE8 : 
+010EE9 : 
+010EEA : 
+010EEB : 
+010EEC : 
+010EED : 
+010EEE : 
+010EEF : 
+010EF0 : 
+010EF1 : 
+010EF2 : 
+010EF3 : 
+010EF4 : 
+010EF5 : 
+010EF6 : 
+010EF7 : 
+010EF8 : 
+010EF9 : 
+010EFA : 
+010EFB : 
+010EFC : 
+010EFD : 
+010EFE : 
+010EFF : 

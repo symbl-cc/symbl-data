@@ -1,0 +1,256 @@
+010A00 : Kharoshthi letter a
+010A01 : Kharoshthi vowel sign i
+010A02 : Kharoshthi vowel sign u
+010A03 : Kharoshthi vowel sign vocalic r
+010A04 : 
+010A05 : Kharoshthi vowel sign e
+010A06 : Kharoshthi vowel sign o
+010A07 : 
+010A08 : 
+010A09 : 
+010A0A : 
+010A0B : 
+010A0C : Kharoshthi vowel length mark
+010A0D : Kharoshthi sign double ring below
+010A0E : Kharoshthi sign anusvara
+010A0F : Kharoshthi sign visarga
+010A10 : Kharoshthi letter ka
+010A11 : Kharoshthi letter kha
+010A12 : Kharoshthi letter ga
+010A13 : Kharoshthi letter gha
+010A14 : 
+010A15 : Kharoshthi letter ca
+010A16 : Kharoshthi letter cha
+010A17 : Kharoshthi letter ja
+010A18 : 
+010A19 : Kharoshthi letter nya
+010A1A : Kharoshthi letter tta
+010A1B : Kharoshthi letter ttha
+010A1C : Kharoshthi letter dda
+010A1D : Kharoshthi letter ddha
+010A1E : Kharoshthi letter nna
+010A1F : Kharoshthi letter ta
+010A20 : Kharoshthi letter tha
+010A21 : Kharoshthi letter da
+010A22 : Kharoshthi letter dha
+010A23 : Kharoshthi letter na
+010A24 : Kharoshthi letter pa
+010A25 : Kharoshthi letter pha
+010A26 : Kharoshthi letter ba
+010A27 : Kharoshthi letter bha
+010A28 : Kharoshthi letter ma
+010A29 : Kharoshthi letter ya
+010A2A : Kharoshthi letter ra
+010A2B : Kharoshthi letter la
+010A2C : Kharoshthi letter va
+010A2D : Kharoshthi letter sha
+010A2E : Kharoshthi letter ssa
+010A2F : Kharoshthi letter sa
+010A30 : Kharoshthi letter za
+010A31 : Kharoshthi letter ha
+010A32 : Kharoshthi letter kka
+010A33 : Kharoshthi letter tttha
+010A34 : 
+010A35 : 
+010A36 : 
+010A37 : 
+010A38 : Kharoshthi sign bar above
+010A39 : Kharoshthi sign cauda
+010A3A : Kharoshthi sign dot below
+010A3B : 
+010A3C : 
+010A3D : 
+010A3E : 
+010A3F : Kharoshthi virama
+010A40 : Kharoshthi digit one
+010A41 : Kharoshthi digit two
+010A42 : Kharoshthi digit three
+010A43 : Kharoshthi digit four
+010A44 : Kharoshthi number ten
+010A45 : Kharoshthi number twenty
+010A46 : Kharoshthi number one hundred
+010A47 : Kharoshthi number one thousand
+010A48 : 
+010A49 : 
+010A4A : 
+010A4B : 
+010A4C : 
+010A4D : 
+010A4E : 
+010A4F : 
+010A50 : Kharoshthi punctuation dot
+010A51 : Kharoshthi punctuation small circle
+010A52 : Kharoshthi punctuation circle
+010A53 : Kharoshthi punctuation crescent bar
+010A54 : Kharoshthi punctuation mangalam
+010A55 : Kharoshthi punctuation lotus
+010A56 : Kharoshthi punctuation danda
+010A57 : Kharoshthi punctuation double danda
+010A58 : Kharoshthi punctuation lines
+010A59 : 
+010A5A : 
+010A5B : 
+010A5C : 
+010A5D : 
+010A5E : 
+010A5F : 
+010A60 : Old south arabian letter he
+010A61 : Old south arabian letter lamedh
+010A62 : Old south arabian letter heth
+010A63 : Old south arabian letter mem
+010A64 : Old south arabian letter qoph
+010A65 : Old south arabian letter waw
+010A66 : Old south arabian letter shin
+010A67 : Old south arabian letter resh
+010A68 : Old south arabian letter beth
+010A69 : Old south arabian letter taw
+010A6A : Old south arabian letter sat
+010A6B : Old south arabian letter kaph
+010A6C : Old south arabian letter nun
+010A6D : Old south arabian letter kheth
+010A6E : Old south arabian letter sadhe
+010A6F : Old south arabian letter samekh
+010A70 : Old south arabian letter fe
+010A71 : Old south arabian letter alef
+010A72 : Old south arabian letter ayn
+010A73 : Old south arabian letter dhadhe
+010A74 : Old south arabian letter gimel
+010A75 : Old south arabian letter daleth
+010A76 : Old south arabian letter ghayn
+010A77 : Old south arabian letter teth
+010A78 : Old south arabian letter zayn
+010A79 : Old south arabian letter dhaleth
+010A7A : Old south arabian letter yodh
+010A7B : Old south arabian letter thaw
+010A7C : Old south arabian letter theth
+010A7D : Old south arabian number one
+010A7E : Old south arabian number fifty
+010A7F : Old south arabian numeric indicator
+010A80 : Old north arabian letter heh
+010A81 : Old north arabian letter lam
+010A82 : Old north arabian letter hah
+010A83 : Old north arabian letter meem
+010A84 : Old north arabian letter qaf
+010A85 : Old north arabian letter waw
+010A86 : Old north arabian letter es-2
+010A87 : Old north arabian letter reh
+010A88 : Old north arabian letter beh
+010A89 : Old north arabian letter teh
+010A8A : Old north arabian letter es-1
+010A8B : Old north arabian letter kaf
+010A8C : Old north arabian letter noon
+010A8D : Old north arabian letter khah
+010A8E : Old north arabian letter sad
+010A8F : Old north arabian letter es-3
+010A90 : Old north arabian letter feh
+010A91 : Old north arabian letter alef
+010A92 : Old north arabian letter ain
+010A93 : Old north arabian letter dad
+010A94 : Old north arabian letter geem
+010A95 : Old north arabian letter dal
+010A96 : Old north arabian letter ghain
+010A97 : Old north arabian letter tah
+010A98 : Old north arabian letter zain
+010A99 : Old north arabian letter thal
+010A9A : Old north arabian letter yeh
+010A9B : Old north arabian letter theh
+010A9C : Old north arabian letter zah
+010A9D : Old north arabian number one
+010A9E : Old north arabian number ten
+010A9F : Old north arabian number twenty
+010AA0 : 
+010AA1 : 
+010AA2 : 
+010AA3 : 
+010AA4 : 
+010AA5 : 
+010AA6 : 
+010AA7 : 
+010AA8 : 
+010AA9 : 
+010AAA : 
+010AAB : 
+010AAC : 
+010AAD : 
+010AAE : 
+010AAF : 
+010AB0 : 
+010AB1 : 
+010AB2 : 
+010AB3 : 
+010AB4 : 
+010AB5 : 
+010AB6 : 
+010AB7 : 
+010AB8 : 
+010AB9 : 
+010ABA : 
+010ABB : 
+010ABC : 
+010ABD : 
+010ABE : 
+010ABF : 
+010AC0 : Manichaean letter aleph
+010AC1 : Manichaean letter beth
+010AC2 : Manichaean letter bheth
+010AC3 : Manichaean letter gimel
+010AC4 : Manichaean letter ghimel
+010AC5 : Manichaean letter daleth
+010AC6 : Manichaean letter he
+010AC7 : Manichaean letter waw
+010AC8 : Manichaean sign ud
+010AC9 : Manichaean letter zayin
+010ACA : Manichaean letter zhayin
+010ACB : Manichaean letter jayin
+010ACC : Manichaean letter jhayin
+010ACD : Manichaean letter heth
+010ACE : Manichaean letter teth
+010ACF : Manichaean letter yodh
+010AD0 : Manichaean letter kaph
+010AD1 : Manichaean letter xaph
+010AD2 : Manichaean letter khaph
+010AD3 : Manichaean letter lamedh
+010AD4 : Manichaean letter dhamedh
+010AD5 : Manichaean letter thamedh
+010AD6 : Manichaean letter mem
+010AD7 : Manichaean letter nun
+010AD8 : Manichaean letter samekh
+010AD9 : Manichaean letter ayin
+010ADA : Manichaean letter aayin
+010ADB : Manichaean letter pe
+010ADC : Manichaean letter fe
+010ADD : Manichaean letter sadhe
+010ADE : Manichaean letter qoph
+010ADF : Manichaean letter xoph
+010AE0 : Manichaean letter qhoph
+010AE1 : Manichaean letter resh
+010AE2 : Manichaean letter shin
+010AE3 : Manichaean letter sshin
+010AE4 : Manichaean letter taw
+010AE5 : Manichaean abbreviation mark above
+010AE6 : Manichaean abbreviation mark below
+010AE7 : 
+010AE8 : 
+010AE9 : 
+010AEA : 
+010AEB : Manichaean number one
+010AEC : Manichaean number five
+010AED : Manichaean number ten
+010AEE : Manichaean number twenty
+010AEF : Manichaean number one hundred
+010AF0 : Manichaean punctuation star
+010AF1 : Manichaean punctuation fleuron
+010AF2 : Manichaean punctuation double dot within dot
+010AF3 : Manichaean punctuation dot within dot
+010AF4 : Manichaean punctuation dot
+010AF5 : Manichaean punctuation two dots
+010AF6 : Manichaean punctuation line filler
+010AF7 : 
+010AF8 : 
+010AF9 : 
+010AFA : 
+010AFB : 
+010AFC : 
+010AFD : 
+010AFE : 
+010AFF : 
