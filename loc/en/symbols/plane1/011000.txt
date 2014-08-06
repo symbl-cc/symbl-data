@@ -1,256 +1,256 @@
-011000 : Brahmi sign candrabindu
-011001 : Brahmi sign anusvara
-011002 : Brahmi sign visarga
-011003 : Brahmi sign jihvamuliya
-011004 : Brahmi sign upadhmaniya
-011005 : Brahmi letter a
-011006 : Brahmi letter aa
-011007 : Brahmi letter i
-011008 : Brahmi letter ii
-011009 : Brahmi letter u
-01100A : Brahmi letter uu
-01100B : Brahmi letter vocalic r
-01100C : Brahmi letter vocalic rr
-01100D : Brahmi letter vocalic l
-01100E : Brahmi letter vocalic ll
-01100F : Brahmi letter e
-011010 : Brahmi letter ai
-011011 : Brahmi letter o
-011012 : Brahmi letter au
-011013 : Brahmi letter ka
-011014 : Brahmi letter kha
-011015 : Brahmi letter ga
-011016 : Brahmi letter gha
-011017 : Brahmi letter nga
-011018 : Brahmi letter ca
-011019 : Brahmi letter cha
-01101A : Brahmi letter ja
-01101B : Brahmi letter jha
-01101C : Brahmi letter nya
-01101D : Brahmi letter tta
-01101E : Brahmi letter ttha
-01101F : Brahmi letter dda
-011020 : Brahmi letter ddha
-011021 : Brahmi letter nna
-011022 : Brahmi letter ta
-011023 : Brahmi letter tha
-011024 : Brahmi letter da
-011025 : Brahmi letter dha
-011026 : Brahmi letter na
-011027 : Brahmi letter pa
-011028 : Brahmi letter pha
-011029 : Brahmi letter ba
-01102A : Brahmi letter bha
-01102B : Brahmi letter ma
-01102C : Brahmi letter ya
-01102D : Brahmi letter ra
-01102E : Brahmi letter la
-01102F : Brahmi letter va
-011030 : Brahmi letter sha
-011031 : Brahmi letter ssa
-011032 : Brahmi letter sa
-011033 : Brahmi letter ha
-011034 : Brahmi letter lla
-011035 : Brahmi letter old tamil llla
-011036 : Brahmi letter old tamil rra
-011037 : Brahmi letter old tamil nnna
-011038 : Brahmi vowel sign aa
-011039 : Brahmi vowel sign bhattiprolu aa
-01103A : Brahmi vowel sign i
-01103B : Brahmi vowel sign ii
-01103C : Brahmi vowel sign u
-01103D : Brahmi vowel sign uu
-01103E : Brahmi vowel sign vocalic r
-01103F : Brahmi vowel sign vocalic rr
-011040 : Brahmi vowel sign vocalic l
-011041 : Brahmi vowel sign vocalic ll
-011042 : Brahmi vowel sign e
-011043 : Brahmi vowel sign ai
-011044 : Brahmi vowel sign o
-011045 : Brahmi vowel sign au
-011046 : Brahmi virama
-011047 : Brahmi danda
-011048 : Brahmi double danda
-011049 : Brahmi punctuation dot
-01104A : Brahmi punctuation double dot
-01104B : Brahmi punctuation line
-01104C : Brahmi punctuation crescent bar
-01104D : Brahmi punctuation lotus
-01104E : 
-01104F : 
-011050 : 
-011051 : 
-011052 : Brahmi number one
-011053 : Brahmi number two
-011054 : Brahmi number three
-011055 : Brahmi number four
-011056 : Brahmi number five
-011057 : Brahmi number six
-011058 : Brahmi number seven
-011059 : Brahmi number eight
-01105A : Brahmi number nine
-01105B : Brahmi number ten
-01105C : Brahmi number twenty
-01105D : Brahmi number thirty
-01105E : Brahmi number forty
-01105F : Brahmi number fifty
-011060 : Brahmi number sixty
-011061 : Brahmi number seventy
-011062 : Brahmi number eighty
-011063 : Brahmi number ninety
-011064 : Brahmi number one hundred
-011065 : Brahmi number one thousand
-011066 : Brahmi digit zero
-011067 : Brahmi digit one
-011068 : Brahmi digit two
-011069 : Brahmi digit three
-01106A : Brahmi digit four
-01106B : Brahmi digit five
-01106C : Brahmi digit six
-01106D : Brahmi digit seven
-01106E : Brahmi digit eight
-01106F : Brahmi digit nine
-011070 : 
-011071 : 
-011072 : 
-011073 : 
-011074 : 
-011075 : 
-011076 : 
-011077 : 
-011078 : 
-011079 : 
-01107A : 
-01107B : 
-01107C : 
-01107D : 
-01107E : 
-01107F : Brahmi number joiner
-011080 : Kaithi sign candrabindu
-011081 : Kaithi sign anusvara
-011082 : Kaithi sign visarga
-011083 : Kaithi letter a
-011084 : Kaithi letter aa
-011085 : Kaithi letter i
-011086 : Kaithi letter ii
-011087 : Kaithi letter u
-011088 : Kaithi letter uu
-011089 : Kaithi letter e
-01108A : Kaithi letter ai
-01108B : Kaithi letter o
-01108C : Kaithi letter au
-01108D : Kaithi letter ka
-01108E : Kaithi letter kha
-01108F : Kaithi letter ga
-011090 : Kaithi letter gha
-011091 : Kaithi letter nga
-011092 : Kaithi letter ca
-011093 : Kaithi letter cha
-011094 : Kaithi letter ja
-011095 : Kaithi letter jha
-011096 : Kaithi letter nya
-011097 : Kaithi letter tta
-011098 : Kaithi letter ttha
-011099 : Kaithi letter dda
-01109A : Kaithi letter dddha
-01109B : Kaithi letter ddha
-01109C : Kaithi letter rha
-01109D : Kaithi letter nna
-01109E : Kaithi letter ta
-01109F : Kaithi letter tha
-0110A0 : Kaithi letter da
-0110A1 : Kaithi letter dha
-0110A2 : Kaithi letter na
-0110A3 : Kaithi letter pa
-0110A4 : Kaithi letter pha
-0110A5 : Kaithi letter ba
-0110A6 : Kaithi letter bha
-0110A7 : Kaithi letter ma
-0110A8 : Kaithi letter ya
-0110A9 : Kaithi letter ra
-0110AA : Kaithi letter la
-0110AB : Kaithi letter va
-0110AC : Kaithi letter sha
-0110AD : Kaithi letter ssa
-0110AE : Kaithi letter sa
-0110AF : Kaithi letter ha
-0110B0 : Kaithi vowel sign aa
-0110B1 : Kaithi vowel sign i
-0110B2 : Kaithi vowel sign ii
-0110B3 : Kaithi vowel sign u
-0110B4 : Kaithi vowel sign uu
-0110B5 : Kaithi vowel sign e
-0110B6 : Kaithi vowel sign ai
-0110B7 : Kaithi vowel sign o
-0110B8 : Kaithi vowel sign au
-0110B9 : Kaithi sign virama
-0110BA : Kaithi sign nukta
-0110BB : Kaithi abbreviation sign
-0110BC : Kaithi enumeration sign
-0110BD : Kaithi number sign
-0110BE : Kaithi section mark
-0110BF : Kaithi double section mark
-0110C0 : Kaithi danda
-0110C1 : Kaithi double danda
-0110C2 : 
-0110C3 : 
-0110C4 : 
-0110C5 : 
-0110C6 : 
-0110C7 : 
-0110C8 : 
-0110C9 : 
-0110CA : 
-0110CB : 
-0110CC : 
-0110CD : 
-0110CE : 
-0110CF : 
-0110D0 : Sora sompeng letter sah
-0110D1 : Sora sompeng letter tah
-0110D2 : Sora sompeng letter bah
-0110D3 : Sora sompeng letter cah
-0110D4 : Sora sompeng letter dah
-0110D5 : Sora sompeng letter gah
-0110D6 : Sora sompeng letter mah
-0110D7 : Sora sompeng letter ngah
-0110D8 : Sora sompeng letter lah
-0110D9 : Sora sompeng letter nah
-0110DA : Sora sompeng letter vah
-0110DB : Sora sompeng letter pah
-0110DC : Sora sompeng letter yah
-0110DD : Sora sompeng letter rah
-0110DE : Sora sompeng letter hah
-0110DF : Sora sompeng letter kah
-0110E0 : Sora sompeng letter jah
-0110E1 : Sora sompeng letter nyah
-0110E2 : Sora sompeng letter ah
-0110E3 : Sora sompeng letter eeh
-0110E4 : Sora sompeng letter ih
-0110E5 : Sora sompeng letter uh
-0110E6 : Sora sompeng letter oh
-0110E7 : Sora sompeng letter eh
-0110E8 : Sora sompeng letter mae
-0110E9 : 
-0110EA : 
-0110EB : 
-0110EC : 
-0110ED : 
-0110EE : 
-0110EF : 
-0110F0 : Sora sompeng digit zero
-0110F1 : Sora sompeng digit one
-0110F2 : Sora sompeng digit two
-0110F3 : Sora sompeng digit three
-0110F4 : Sora sompeng digit four
-0110F5 : Sora sompeng digit five
-0110F6 : Sora sompeng digit six
-0110F7 : Sora sompeng digit seven
-0110F8 : Sora sompeng digit eight
-0110F9 : Sora sompeng digit nine
-0110FA : 
-0110FB : 
-0110FC : 
-0110FD : 
-0110FE : 
-0110FF : 
+11000 : Brahmi sign candrabindu
+11001 : Brahmi sign anusvara
+11002 : Brahmi sign visarga
+11003 : Brahmi sign jihvamuliya
+11004 : Brahmi sign upadhmaniya
+11005 : Brahmi letter a
+11006 : Brahmi letter aa
+11007 : Brahmi letter i
+11008 : Brahmi letter ii
+11009 : Brahmi letter u
+1100A : Brahmi letter uu
+1100B : Brahmi letter vocalic r
+1100C : Brahmi letter vocalic rr
+1100D : Brahmi letter vocalic l
+1100E : Brahmi letter vocalic ll
+1100F : Brahmi letter e
+11010 : Brahmi letter ai
+11011 : Brahmi letter o
+11012 : Brahmi letter au
+11013 : Brahmi letter ka
+11014 : Brahmi letter kha
+11015 : Brahmi letter ga
+11016 : Brahmi letter gha
+11017 : Brahmi letter nga
+11018 : Brahmi letter ca
+11019 : Brahmi letter cha
+1101A : Brahmi letter ja
+1101B : Brahmi letter jha
+1101C : Brahmi letter nya
+1101D : Brahmi letter tta
+1101E : Brahmi letter ttha
+1101F : Brahmi letter dda
+11020 : Brahmi letter ddha
+11021 : Brahmi letter nna
+11022 : Brahmi letter ta
+11023 : Brahmi letter tha
+11024 : Brahmi letter da
+11025 : Brahmi letter dha
+11026 : Brahmi letter na
+11027 : Brahmi letter pa
+11028 : Brahmi letter pha
+11029 : Brahmi letter ba
+1102A : Brahmi letter bha
+1102B : Brahmi letter ma
+1102C : Brahmi letter ya
+1102D : Brahmi letter ra
+1102E : Brahmi letter la
+1102F : Brahmi letter va
+11030 : Brahmi letter sha
+11031 : Brahmi letter ssa
+11032 : Brahmi letter sa
+11033 : Brahmi letter ha
+11034 : Brahmi letter lla
+11035 : Brahmi letter old tamil llla
+11036 : Brahmi letter old tamil rra
+11037 : Brahmi letter old tamil nnna
+11038 : Brahmi vowel sign aa
+11039 : Brahmi vowel sign bhattiprolu aa
+1103A : Brahmi vowel sign i
+1103B : Brahmi vowel sign ii
+1103C : Brahmi vowel sign u
+1103D : Brahmi vowel sign uu
+1103E : Brahmi vowel sign vocalic r
+1103F : Brahmi vowel sign vocalic rr
+11040 : Brahmi vowel sign vocalic l
+11041 : Brahmi vowel sign vocalic ll
+11042 : Brahmi vowel sign e
+11043 : Brahmi vowel sign ai
+11044 : Brahmi vowel sign o
+11045 : Brahmi vowel sign au
+11046 : Brahmi virama
+11047 : Brahmi danda
+11048 : Brahmi double danda
+11049 : Brahmi punctuation dot
+1104A : Brahmi punctuation double dot
+1104B : Brahmi punctuation line
+1104C : Brahmi punctuation crescent bar
+1104D : Brahmi punctuation lotus
+1104E : 
+1104F : 
+11050 : 
+11051 : 
+11052 : Brahmi number one
+11053 : Brahmi number two
+11054 : Brahmi number three
+11055 : Brahmi number four
+11056 : Brahmi number five
+11057 : Brahmi number six
+11058 : Brahmi number seven
+11059 : Brahmi number eight
+1105A : Brahmi number nine
+1105B : Brahmi number ten
+1105C : Brahmi number twenty
+1105D : Brahmi number thirty
+1105E : Brahmi number forty
+1105F : Brahmi number fifty
+11060 : Brahmi number sixty
+11061 : Brahmi number seventy
+11062 : Brahmi number eighty
+11063 : Brahmi number ninety
+11064 : Brahmi number one hundred
+11065 : Brahmi number one thousand
+11066 : Brahmi digit zero
+11067 : Brahmi digit one
+11068 : Brahmi digit two
+11069 : Brahmi digit three
+1106A : Brahmi digit four
+1106B : Brahmi digit five
+1106C : Brahmi digit six
+1106D : Brahmi digit seven
+1106E : Brahmi digit eight
+1106F : Brahmi digit nine
+11070 : 
+11071 : 
+11072 : 
+11073 : 
+11074 : 
+11075 : 
+11076 : 
+11077 : 
+11078 : 
+11079 : 
+1107A : 
+1107B : 
+1107C : 
+1107D : 
+1107E : 
+1107F : Brahmi number joiner
+11080 : Kaithi sign candrabindu
+11081 : Kaithi sign anusvara
+11082 : Kaithi sign visarga
+11083 : Kaithi letter a
+11084 : Kaithi letter aa
+11085 : Kaithi letter i
+11086 : Kaithi letter ii
+11087 : Kaithi letter u
+11088 : Kaithi letter uu
+11089 : Kaithi letter e
+1108A : Kaithi letter ai
+1108B : Kaithi letter o
+1108C : Kaithi letter au
+1108D : Kaithi letter ka
+1108E : Kaithi letter kha
+1108F : Kaithi letter ga
+11090 : Kaithi letter gha
+11091 : Kaithi letter nga
+11092 : Kaithi letter ca
+11093 : Kaithi letter cha
+11094 : Kaithi letter ja
+11095 : Kaithi letter jha
+11096 : Kaithi letter nya
+11097 : Kaithi letter tta
+11098 : Kaithi letter ttha
+11099 : Kaithi letter dda
+1109A : Kaithi letter dddha
+1109B : Kaithi letter ddha
+1109C : Kaithi letter rha
+1109D : Kaithi letter nna
+1109E : Kaithi letter ta
+1109F : Kaithi letter tha
+110A0 : Kaithi letter da
+110A1 : Kaithi letter dha
+110A2 : Kaithi letter na
+110A3 : Kaithi letter pa
+110A4 : Kaithi letter pha
+110A5 : Kaithi letter ba
+110A6 : Kaithi letter bha
+110A7 : Kaithi letter ma
+110A8 : Kaithi letter ya
+110A9 : Kaithi letter ra
+110AA : Kaithi letter la
+110AB : Kaithi letter va
+110AC : Kaithi letter sha
+110AD : Kaithi letter ssa
+110AE : Kaithi letter sa
+110AF : Kaithi letter ha
+110B0 : Kaithi vowel sign aa
+110B1 : Kaithi vowel sign i
+110B2 : Kaithi vowel sign ii
+110B3 : Kaithi vowel sign u
+110B4 : Kaithi vowel sign uu
+110B5 : Kaithi vowel sign e
+110B6 : Kaithi vowel sign ai
+110B7 : Kaithi vowel sign o
+110B8 : Kaithi vowel sign au
+110B9 : Kaithi sign virama
+110BA : Kaithi sign nukta
+110BB : Kaithi abbreviation sign
+110BC : Kaithi enumeration sign
+110BD : Kaithi number sign
+110BE : Kaithi section mark
+110BF : Kaithi double section mark
+110C0 : Kaithi danda
+110C1 : Kaithi double danda
+110C2 : 
+110C3 : 
+110C4 : 
+110C5 : 
+110C6 : 
+110C7 : 
+110C8 : 
+110C9 : 
+110CA : 
+110CB : 
+110CC : 
+110CD : 
+110CE : 
+110CF : 
+110D0 : Sora sompeng letter sah
+110D1 : Sora sompeng letter tah
+110D2 : Sora sompeng letter bah
+110D3 : Sora sompeng letter cah
+110D4 : Sora sompeng letter dah
+110D5 : Sora sompeng letter gah
+110D6 : Sora sompeng letter mah
+110D7 : Sora sompeng letter ngah
+110D8 : Sora sompeng letter lah
+110D9 : Sora sompeng letter nah
+110DA : Sora sompeng letter vah
+110DB : Sora sompeng letter pah
+110DC : Sora sompeng letter yah
+110DD : Sora sompeng letter rah
+110DE : Sora sompeng letter hah
+110DF : Sora sompeng letter kah
+110E0 : Sora sompeng letter jah
+110E1 : Sora sompeng letter nyah
+110E2 : Sora sompeng letter ah
+110E3 : Sora sompeng letter eeh
+110E4 : Sora sompeng letter ih
+110E5 : Sora sompeng letter uh
+110E6 : Sora sompeng letter oh
+110E7 : Sora sompeng letter eh
+110E8 : Sora sompeng letter mae
+110E9 : 
+110EA : 
+110EB : 
+110EC : 
+110ED : 
+110EE : 
+110EF : 
+110F0 : Sora sompeng digit zero
+110F1 : Sora sompeng digit one
+110F2 : Sora sompeng digit two
+110F3 : Sora sompeng digit three
+110F4 : Sora sompeng digit four
+110F5 : Sora sompeng digit five
+110F6 : Sora sompeng digit six
+110F7 : Sora sompeng digit seven
+110F8 : Sora sompeng digit eight
+110F9 : Sora sompeng digit nine
+110FA : 
+110FB : 
+110FC : 
+110FD : 
+110FE : 
+110FF : 

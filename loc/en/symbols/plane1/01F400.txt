@@ -1,256 +1,256 @@
-01F400 : Rat
-01F401 : Mouse
-01F402 : Ox
-01F403 : Water buffalo
-01F404 : Cow
-01F405 : Tiger
-01F406 : Leopard
-01F407 : Rabbit
-01F408 : Cat
-01F409 : Dragon
-01F40A : Crocodile
-01F40B : Whale
-01F40C : Snail
-01F40D : Snake
-01F40E : Horse
-01F40F : Ram
-01F410 : Goat
-01F411 : Sheep
-01F412 : Monkey
-01F413 : Rooster
-01F414 : Chicken
-01F415 : Dog
-01F416 : Pig
-01F417 : Boar
-01F418 : Elephant
-01F419 : Octopus
-01F41A : Spiral shell
-01F41B : Bug
-01F41C : Ant
-01F41D : Honeybee
-01F41E : Lady beetle
-01F41F : Fish
-01F420 : Tropical fish
-01F421 : Blowfish
-01F422 : Turtle
-01F423 : Hatching chick
-01F424 : Baby chick
-01F425 : Front-facing baby chick
-01F426 : Bird
-01F427 : Penguin
-01F428 : Koala
-01F429 : Poodle
-01F42A : Dromedary camel
-01F42B : Bactrian camel
-01F42C : Dolphin
-01F42D : Mouse face
-01F42E : Cow face
-01F42F : Tiger face
-01F430 : Rabbit face
-01F431 : Cat face
-01F432 : Dragon face
-01F433 : Spouting whale
-01F434 : Horse face
-01F435 : Monkey face
-01F436 : Dog face
-01F437 : Pig face
-01F438 : Frog face
-01F439 : Hamster face
-01F43A : Wolf face
-01F43B : Bear face
-01F43C : Panda face
-01F43D : Pig nose
-01F43E : Paw prints
-01F43F : Chipmunk
-01F440 : Eyes
-01F441 : Eye
-01F442 : Ear
-01F443 : Nose
-01F444 : Mouth
-01F445 : Tongue
-01F446 : White up pointing backhand index
-01F447 : White down pointing backhand index
-01F448 : White left pointing backhand index
-01F449 : White right pointing backhand index
-01F44A : Fisted hand sign
-01F44B : Waving hand sign
-01F44C : Ok hand sign
-01F44D : Thumbs up sign
-01F44E : Thumbs down sign
-01F44F : Clapping hands sign
-01F450 : Open hands sign
-01F451 : Crown
-01F452 : Womans hat
-01F453 : Eyeglasses
-01F454 : Necktie
-01F455 : T-shirt
-01F456 : Jeans
-01F457 : Dress
-01F458 : Kimono
-01F459 : Bikini
-01F45A : Womans clothes
-01F45B : Purse
-01F45C : Handbag
-01F45D : Pouch
-01F45E : Mans shoe
-01F45F : Athletic shoe
-01F460 : High-heeled shoe
-01F461 : Womans sandal
-01F462 : Womans boots
-01F463 : Footprints
-01F464 : Bust in silhouette
-01F465 : Busts in silhouette
-01F466 : Boy
-01F467 : Girl
-01F468 : Man
-01F469 : Woman
-01F46A : Family
-01F46B : Man and woman holding hands
-01F46C : Two men holding hands
-01F46D : Two women holding hands
-01F46E : Police officer
-01F46F : Woman with bunny ears
-01F470 : Bride with veil
-01F471 : Person with blond hair
-01F472 : Man with gua pi mao
-01F473 : Man with turban
-01F474 : Older man
-01F475 : Older woman
-01F476 : Baby
-01F477 : Construction worker
-01F478 : Princess
-01F479 : Japanese ogre
-01F47A : Japanese goblin
-01F47B : Ghost
-01F47C : Baby angel
-01F47D : Extraterrestrial alien
-01F47E : Alien monster
-01F47F : Imp
-01F480 : Skull
-01F481 : Information desk person
-01F482 : Guardsman
-01F483 : Dancer
-01F484 : Lipstick
-01F485 : Nail polish
-01F486 : Face massage
-01F487 : Haircut
-01F488 : Barber pole
-01F489 : Syringe
-01F48A : Pill
-01F48B : Kiss mark
-01F48C : Love letter
-01F48D : Ring
-01F48E : Gem stone
-01F48F : Kiss
-01F490 : Bouquet
-01F491 : Couple with heart
-01F492 : Wedding
-01F493 : Beating heart
-01F494 : Broken heart
-01F495 : Two hearts
-01F496 : Sparkling heart
-01F497 : Growing heart
-01F498 : Heart with arrow
-01F499 : Blue heart
-01F49A : Green heart
-01F49B : Yellow heart
-01F49C : Purple heart
-01F49D : Heart with ribbon
-01F49E : Revolving hearts
-01F49F : Heart decoration
-01F4A0 : Diamond shape with a dot inside
-01F4A1 : Electric light bulb
-01F4A2 : Anger symbol
-01F4A3 : Bomb
-01F4A4 : Sleeping symbol
-01F4A5 : Collision symbol
-01F4A6 : Splashing sweat symbol
-01F4A7 : Droplet
-01F4A8 : Dash symbol
-01F4A9 : Pile of poo
-01F4AA : Flexed biceps
-01F4AB : Dizzy symbol
-01F4AC : Speech balloon
-01F4AD : Thought balloon
-01F4AE : White flower
-01F4AF : Hundred points symbol
-01F4B0 : Money bag
-01F4B1 : Currency exchange
-01F4B2 : Heavy dollar sign
-01F4B3 : Credit card
-01F4B4 : Banknote with yen sign
-01F4B5 : Banknote with dollar sign
-01F4B6 : Banknote with euro sign
-01F4B7 : Banknote with pound sign
-01F4B8 : Money with wings
-01F4B9 : Chart with upwards trend and yen sign
-01F4BA : Seat
-01F4BB : Personal computer
-01F4BC : Briefcase
-01F4BD : Minidisc
-01F4BE : Floppy disk
-01F4BF : Optical disc
-01F4C0 : Dvd
-01F4C1 : File folder
-01F4C2 : Open file folder
-01F4C3 : Page with curl
-01F4C4 : Page facing up
-01F4C5 : Calendar
-01F4C6 : Tear-off calendar
-01F4C7 : Card index
-01F4C8 : Chart with upwards trend
-01F4C9 : Chart with downwards trend
-01F4CA : Bar chart
-01F4CB : Clipboard
-01F4CC : Pushpin
-01F4CD : Round pushpin
-01F4CE : Paperclip
-01F4CF : Straight ruler
-01F4D0 : Triangular ruler
-01F4D1 : Bookmark tabs
-01F4D2 : Ledger
-01F4D3 : Notebook
-01F4D4 : Notebook with decorative cover
-01F4D5 : Closed book
-01F4D6 : Open book
-01F4D7 : Green book
-01F4D8 : Blue book
-01F4D9 : Orange book
-01F4DA : Books
-01F4DB : Name badge
-01F4DC : Scroll
-01F4DD : Memo
-01F4DE : Telephone receiver
-01F4DF : Pager
-01F4E0 : Fax machine
-01F4E1 : Satellite antenna
-01F4E2 : Public address loudspeaker
-01F4E3 : Cheering megaphone
-01F4E4 : Outbox tray
-01F4E5 : Inbox tray
-01F4E6 : Package
-01F4E7 : E-mail symbol
-01F4E8 : Incoming envelope
-01F4E9 : Envelope with downwards arrow above
-01F4EA : Closed mailbox with lowered flag
-01F4EB : Closed mailbox with raised flag
-01F4EC : Open mailbox with raised flag
-01F4ED : Open mailbox with lowered flag
-01F4EE : Postbox
-01F4EF : Postal horn
-01F4F0 : Newspaper
-01F4F1 : Mobile phone
-01F4F2 : Mobile phone with rightwards arrow at left
-01F4F3 : Vibration mode
-01F4F4 : Mobile phone off
-01F4F5 : No mobile phones
-01F4F6 : Antenna with bars
-01F4F7 : Camera
-01F4F8 : Camera with flash
-01F4F9 : Video camera
-01F4FA : Television
-01F4FB : Radio
-01F4FC : Videocassette
-01F4FD : Film projector
-01F4FE : Portable stereo
-01F4FF : 
+1F400 : Rat
+1F401 : Mouse
+1F402 : Ox
+1F403 : Water buffalo
+1F404 : Cow
+1F405 : Tiger
+1F406 : Leopard
+1F407 : Rabbit
+1F408 : Cat
+1F409 : Dragon
+1F40A : Crocodile
+1F40B : Whale
+1F40C : Snail
+1F40D : Snake
+1F40E : Horse
+1F40F : Ram
+1F410 : Goat
+1F411 : Sheep
+1F412 : Monkey
+1F413 : Rooster
+1F414 : Chicken
+1F415 : Dog
+1F416 : Pig
+1F417 : Boar
+1F418 : Elephant
+1F419 : Octopus
+1F41A : Spiral shell
+1F41B : Bug
+1F41C : Ant
+1F41D : Honeybee
+1F41E : Lady beetle
+1F41F : Fish
+1F420 : Tropical fish
+1F421 : Blowfish
+1F422 : Turtle
+1F423 : Hatching chick
+1F424 : Baby chick
+1F425 : Front-facing baby chick
+1F426 : Bird
+1F427 : Penguin
+1F428 : Koala
+1F429 : Poodle
+1F42A : Dromedary camel
+1F42B : Bactrian camel
+1F42C : Dolphin
+1F42D : Mouse face
+1F42E : Cow face
+1F42F : Tiger face
+1F430 : Rabbit face
+1F431 : Cat face
+1F432 : Dragon face
+1F433 : Spouting whale
+1F434 : Horse face
+1F435 : Monkey face
+1F436 : Dog face
+1F437 : Pig face
+1F438 : Frog face
+1F439 : Hamster face
+1F43A : Wolf face
+1F43B : Bear face
+1F43C : Panda face
+1F43D : Pig nose
+1F43E : Paw prints
+1F43F : Chipmunk
+1F440 : Eyes
+1F441 : Eye
+1F442 : Ear
+1F443 : Nose
+1F444 : Mouth
+1F445 : Tongue
+1F446 : White up pointing backhand index
+1F447 : White down pointing backhand index
+1F448 : White left pointing backhand index
+1F449 : White right pointing backhand index
+1F44A : Fisted hand sign
+1F44B : Waving hand sign
+1F44C : Ok hand sign
+1F44D : Thumbs up sign
+1F44E : Thumbs down sign
+1F44F : Clapping hands sign
+1F450 : Open hands sign
+1F451 : Crown
+1F452 : Womans hat
+1F453 : Eyeglasses
+1F454 : Necktie
+1F455 : T-shirt
+1F456 : Jeans
+1F457 : Dress
+1F458 : Kimono
+1F459 : Bikini
+1F45A : Womans clothes
+1F45B : Purse
+1F45C : Handbag
+1F45D : Pouch
+1F45E : Mans shoe
+1F45F : Athletic shoe
+1F460 : High-heeled shoe
+1F461 : Womans sandal
+1F462 : Womans boots
+1F463 : Footprints
+1F464 : Bust in silhouette
+1F465 : Busts in silhouette
+1F466 : Boy
+1F467 : Girl
+1F468 : Man
+1F469 : Woman
+1F46A : Family
+1F46B : Man and woman holding hands
+1F46C : Two men holding hands
+1F46D : Two women holding hands
+1F46E : Police officer
+1F46F : Woman with bunny ears
+1F470 : Bride with veil
+1F471 : Person with blond hair
+1F472 : Man with gua pi mao
+1F473 : Man with turban
+1F474 : Older man
+1F475 : Older woman
+1F476 : Baby
+1F477 : Construction worker
+1F478 : Princess
+1F479 : Japanese ogre
+1F47A : Japanese goblin
+1F47B : Ghost
+1F47C : Baby angel
+1F47D : Extraterrestrial alien
+1F47E : Alien monster
+1F47F : Imp
+1F480 : Skull
+1F481 : Information desk person
+1F482 : Guardsman
+1F483 : Dancer
+1F484 : Lipstick
+1F485 : Nail polish
+1F486 : Face massage
+1F487 : Haircut
+1F488 : Barber pole
+1F489 : Syringe
+1F48A : Pill
+1F48B : Kiss mark
+1F48C : Love letter
+1F48D : Ring
+1F48E : Gem stone
+1F48F : Kiss
+1F490 : Bouquet
+1F491 : Couple with heart
+1F492 : Wedding
+1F493 : Beating heart
+1F494 : Broken heart
+1F495 : Two hearts
+1F496 : Sparkling heart
+1F497 : Growing heart
+1F498 : Heart with arrow
+1F499 : Blue heart
+1F49A : Green heart
+1F49B : Yellow heart
+1F49C : Purple heart
+1F49D : Heart with ribbon
+1F49E : Revolving hearts
+1F49F : Heart decoration
+1F4A0 : Diamond shape with a dot inside
+1F4A1 : Electric light bulb
+1F4A2 : Anger symbol
+1F4A3 : Bomb
+1F4A4 : Sleeping symbol
+1F4A5 : Collision symbol
+1F4A6 : Splashing sweat symbol
+1F4A7 : Droplet
+1F4A8 : Dash symbol
+1F4A9 : Pile of poo
+1F4AA : Flexed biceps
+1F4AB : Dizzy symbol
+1F4AC : Speech balloon
+1F4AD : Thought balloon
+1F4AE : White flower
+1F4AF : Hundred points symbol
+1F4B0 : Money bag
+1F4B1 : Currency exchange
+1F4B2 : Heavy dollar sign
+1F4B3 : Credit card
+1F4B4 : Banknote with yen sign
+1F4B5 : Banknote with dollar sign
+1F4B6 : Banknote with euro sign
+1F4B7 : Banknote with pound sign
+1F4B8 : Money with wings
+1F4B9 : Chart with upwards trend and yen sign
+1F4BA : Seat
+1F4BB : Personal computer
+1F4BC : Briefcase
+1F4BD : Minidisc
+1F4BE : Floppy disk
+1F4BF : Optical disc
+1F4C0 : Dvd
+1F4C1 : File folder
+1F4C2 : Open file folder
+1F4C3 : Page with curl
+1F4C4 : Page facing up
+1F4C5 : Calendar
+1F4C6 : Tear-off calendar
+1F4C7 : Card index
+1F4C8 : Chart with upwards trend
+1F4C9 : Chart with downwards trend
+1F4CA : Bar chart
+1F4CB : Clipboard
+1F4CC : Pushpin
+1F4CD : Round pushpin
+1F4CE : Paperclip
+1F4CF : Straight ruler
+1F4D0 : Triangular ruler
+1F4D1 : Bookmark tabs
+1F4D2 : Ledger
+1F4D3 : Notebook
+1F4D4 : Notebook with decorative cover
+1F4D5 : Closed book
+1F4D6 : Open book
+1F4D7 : Green book
+1F4D8 : Blue book
+1F4D9 : Orange book
+1F4DA : Books
+1F4DB : Name badge
+1F4DC : Scroll
+1F4DD : Memo
+1F4DE : Telephone receiver
+1F4DF : Pager
+1F4E0 : Fax machine
+1F4E1 : Satellite antenna
+1F4E2 : Public address loudspeaker
+1F4E3 : Cheering megaphone
+1F4E4 : Outbox tray
+1F4E5 : Inbox tray
+1F4E6 : Package
+1F4E7 : E-mail symbol
+1F4E8 : Incoming envelope
+1F4E9 : Envelope with downwards arrow above
+1F4EA : Closed mailbox with lowered flag
+1F4EB : Closed mailbox with raised flag
+1F4EC : Open mailbox with raised flag
+1F4ED : Open mailbox with lowered flag
+1F4EE : Postbox
+1F4EF : Postal horn
+1F4F0 : Newspaper
+1F4F1 : Mobile phone
+1F4F2 : Mobile phone with rightwards arrow at left
+1F4F3 : Vibration mode
+1F4F4 : Mobile phone off
+1F4F5 : No mobile phones
+1F4F6 : Antenna with bars
+1F4F7 : Camera
+1F4F8 : Camera with flash
+1F4F9 : Video camera
+1F4FA : Television
+1F4FB : Radio
+1F4FC : Videocassette
+1F4FD : Film projector
+1F4FE : Portable stereo
+1F4FF : 

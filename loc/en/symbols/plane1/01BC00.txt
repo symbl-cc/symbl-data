@@ -1,256 +1,256 @@
-01BC00 : Duployan letter h
-01BC01 : Duployan letter x
-01BC02 : Duployan letter p
-01BC03 : Duployan letter t
-01BC04 : Duployan letter f
-01BC05 : Duployan letter k
-01BC06 : Duployan letter l
-01BC07 : Duployan letter b
-01BC08 : Duployan letter d
-01BC09 : Duployan letter v
-01BC0A : Duployan letter g
-01BC0B : Duployan letter r
-01BC0C : Duployan letter p n
-01BC0D : Duployan letter d s
-01BC0E : Duployan letter f n
-01BC0F : Duployan letter k m
-01BC10 : Duployan letter r s
-01BC11 : Duployan letter th
-01BC12 : Duployan letter sloan dh
-01BC13 : Duployan letter dh
-01BC14 : Duployan letter kk
-01BC15 : Duployan letter sloan j
-01BC16 : Duployan letter hl
-01BC17 : Duployan letter lh
-01BC18 : Duployan letter rh
-01BC19 : Duployan letter m
-01BC1A : Duployan letter n
-01BC1B : Duployan letter j
-01BC1C : Duployan letter s
-01BC1D : Duployan letter m n
-01BC1E : Duployan letter n m
-01BC1F : Duployan letter j m
-01BC20 : Duployan letter s j
-01BC21 : Duployan letter m with dot
-01BC22 : Duployan letter n with dot
-01BC23 : Duployan letter j with dot
-01BC24 : Duployan letter j with dots inside and above
-01BC25 : Duployan letter s with dot
-01BC26 : Duployan letter s with dot below
-01BC27 : Duployan letter m s
-01BC28 : Duployan letter n s
-01BC29 : Duployan letter j s
-01BC2A : Duployan letter s s
-01BC2B : Duployan letter m n s
-01BC2C : Duployan letter n m s
-01BC2D : Duployan letter j m s
-01BC2E : Duployan letter s j s
-01BC2F : Duployan letter j s with dot
-01BC30 : Duployan letter j n
-01BC31 : Duployan letter j n s
-01BC32 : Duployan letter s t
-01BC33 : Duployan letter s t r
-01BC34 : Duployan letter s p
-01BC35 : Duployan letter s p r
-01BC36 : Duployan letter t s
-01BC37 : Duployan letter t r s
-01BC38 : Duployan letter w
-01BC39 : Duployan letter wh
-01BC3A : Duployan letter w r
-01BC3B : Duployan letter s n
-01BC3C : Duployan letter s m
-01BC3D : Duployan letter k r s
-01BC3E : Duployan letter g r s
-01BC3F : Duployan letter s k
-01BC40 : Duployan letter s k r
-01BC41 : Duployan letter a
-01BC42 : Duployan letter sloan ow
-01BC43 : Duployan letter oa
-01BC44 : Duployan letter o
-01BC45 : Duployan letter aou
-01BC46 : Duployan letter i
-01BC47 : Duployan letter e
-01BC48 : Duployan letter ie
-01BC49 : Duployan letter short i
-01BC4A : Duployan letter ui
-01BC4B : Duployan letter ee
-01BC4C : Duployan letter sloan eh
-01BC4D : Duployan letter romanian i
-01BC4E : Duployan letter sloan ee
-01BC4F : Duployan letter long i
-01BC50 : Duployan letter ye
-01BC51 : Duployan letter u
-01BC52 : Duployan letter eu
-01BC53 : Duployan letter xw
-01BC54 : Duployan letter u n
-01BC55 : Duployan letter long u
-01BC56 : Duployan letter romanian u
-01BC57 : Duployan letter uh
-01BC58 : Duployan letter sloan u
-01BC59 : Duployan letter ooh
-01BC5A : Duployan letter ow
-01BC5B : Duployan letter ou
-01BC5C : Duployan letter wa
-01BC5D : Duployan letter wo
-01BC5E : Duployan letter wi
-01BC5F : Duployan letter wei
-01BC60 : Duployan letter wow
-01BC61 : Duployan letter nasal u
-01BC62 : Duployan letter nasal o
-01BC63 : Duployan letter nasal i
-01BC64 : Duployan letter nasal a
-01BC65 : Duployan letter pernin an
-01BC66 : Duployan letter pernin am
-01BC67 : Duployan letter sloan en
-01BC68 : Duployan letter sloan an
-01BC69 : Duployan letter sloan on
-01BC6A : Duployan letter vocalic m
-01BC6B : 
-01BC6C : 
-01BC6D : 
-01BC6E : 
-01BC6F : 
-01BC70 : Duployan affix left horizontal secant
-01BC71 : Duployan affix mid horizontal secant
-01BC72 : Duployan affix right horizontal secant
-01BC73 : Duployan affix low vertical secant
-01BC74 : Duployan affix mid vertical secant
-01BC75 : Duployan affix high vertical secant
-01BC76 : Duployan affix attached secant
-01BC77 : Duployan affix attached left-to-right secant
-01BC78 : Duployan affix attached tangent
-01BC79 : Duployan affix attached tail
-01BC7A : Duployan affix attached e hook
-01BC7B : Duployan affix attached i hook
-01BC7C : Duployan affix attached tangent hook
-01BC7D : 
-01BC7E : 
-01BC7F : 
-01BC80 : Duployan affix high acute
-01BC81 : Duployan affix high tight acute
-01BC82 : Duployan affix high grave
-01BC83 : Duployan affix high long grave
-01BC84 : Duployan affix high dot
-01BC85 : Duployan affix high circle
-01BC86 : Duployan affix high line
-01BC87 : Duployan affix high wave
-01BC88 : Duployan affix high vertical
-01BC89 : 
-01BC8A : 
-01BC8B : 
-01BC8C : 
-01BC8D : 
-01BC8E : 
-01BC8F : 
-01BC90 : Duployan affix low acute
-01BC91 : Duployan affix low tight acute
-01BC92 : Duployan affix low grave
-01BC93 : Duployan affix low long grave
-01BC94 : Duployan affix low dot
-01BC95 : Duployan affix low circle
-01BC96 : Duployan affix low line
-01BC97 : Duployan affix low wave
-01BC98 : Duployan affix low vertical
-01BC99 : Duployan affix low arrow
-01BC9A : 
-01BC9B : 
-01BC9C : Duployan sign o with cross
-01BC9D : Duployan thick letter selector
-01BC9E : Duployan double mark
-01BC9F : Duployan punctuation chinook full stop
-01BCA0 : Shorthand format letter overlap
-01BCA1 : Shorthand format continuing overlap
-01BCA2 : Shorthand format down step
-01BCA3 : Shorthand format up step
-01BCA4 : 
-01BCA5 : 
-01BCA6 : 
-01BCA7 : 
-01BCA8 : 
-01BCA9 : 
-01BCAA : 
-01BCAB : 
-01BCAC : 
-01BCAD : 
-01BCAE : 
-01BCAF : 
-01BCB0 : 
-01BCB1 : 
-01BCB2 : 
-01BCB3 : 
-01BCB4 : 
-01BCB5 : 
-01BCB6 : 
-01BCB7 : 
-01BCB8 : 
-01BCB9 : 
-01BCBA : 
-01BCBB : 
-01BCBC : 
-01BCBD : 
-01BCBE : 
-01BCBF : 
-01BCC0 : 
-01BCC1 : 
-01BCC2 : 
-01BCC3 : 
-01BCC4 : 
-01BCC5 : 
-01BCC6 : 
-01BCC7 : 
-01BCC8 : 
-01BCC9 : 
-01BCCA : 
-01BCCB : 
-01BCCC : 
-01BCCD : 
-01BCCE : 
-01BCCF : 
-01BCD0 : 
-01BCD1 : 
-01BCD2 : 
-01BCD3 : 
-01BCD4 : 
-01BCD5 : 
-01BCD6 : 
-01BCD7 : 
-01BCD8 : 
-01BCD9 : 
-01BCDA : 
-01BCDB : 
-01BCDC : 
-01BCDD : 
-01BCDE : 
-01BCDF : 
-01BCE0 : 
-01BCE1 : 
-01BCE2 : 
-01BCE3 : 
-01BCE4 : 
-01BCE5 : 
-01BCE6 : 
-01BCE7 : 
-01BCE8 : 
-01BCE9 : 
-01BCEA : 
-01BCEB : 
-01BCEC : 
-01BCED : 
-01BCEE : 
-01BCEF : 
-01BCF0 : 
-01BCF1 : 
-01BCF2 : 
-01BCF3 : 
-01BCF4 : 
-01BCF5 : 
-01BCF6 : 
-01BCF7 : 
-01BCF8 : 
-01BCF9 : 
-01BCFA : 
-01BCFB : 
-01BCFC : 
-01BCFD : 
-01BCFE : 
-01BCFF : 
+1BC00 : Duployan letter h
+1BC01 : Duployan letter x
+1BC02 : Duployan letter p
+1BC03 : Duployan letter t
+1BC04 : Duployan letter f
+1BC05 : Duployan letter k
+1BC06 : Duployan letter l
+1BC07 : Duployan letter b
+1BC08 : Duployan letter d
+1BC09 : Duployan letter v
+1BC0A : Duployan letter g
+1BC0B : Duployan letter r
+1BC0C : Duployan letter p n
+1BC0D : Duployan letter d s
+1BC0E : Duployan letter f n
+1BC0F : Duployan letter k m
+1BC10 : Duployan letter r s
+1BC11 : Duployan letter th
+1BC12 : Duployan letter sloan dh
+1BC13 : Duployan letter dh
+1BC14 : Duployan letter kk
+1BC15 : Duployan letter sloan j
+1BC16 : Duployan letter hl
+1BC17 : Duployan letter lh
+1BC18 : Duployan letter rh
+1BC19 : Duployan letter m
+1BC1A : Duployan letter n
+1BC1B : Duployan letter j
+1BC1C : Duployan letter s
+1BC1D : Duployan letter m n
+1BC1E : Duployan letter n m
+1BC1F : Duployan letter j m
+1BC20 : Duployan letter s j
+1BC21 : Duployan letter m with dot
+1BC22 : Duployan letter n with dot
+1BC23 : Duployan letter j with dot
+1BC24 : Duployan letter j with dots inside and above
+1BC25 : Duployan letter s with dot
+1BC26 : Duployan letter s with dot below
+1BC27 : Duployan letter m s
+1BC28 : Duployan letter n s
+1BC29 : Duployan letter j s
+1BC2A : Duployan letter s s
+1BC2B : Duployan letter m n s
+1BC2C : Duployan letter n m s
+1BC2D : Duployan letter j m s
+1BC2E : Duployan letter s j s
+1BC2F : Duployan letter j s with dot
+1BC30 : Duployan letter j n
+1BC31 : Duployan letter j n s
+1BC32 : Duployan letter s t
+1BC33 : Duployan letter s t r
+1BC34 : Duployan letter s p
+1BC35 : Duployan letter s p r
+1BC36 : Duployan letter t s
+1BC37 : Duployan letter t r s
+1BC38 : Duployan letter w
+1BC39 : Duployan letter wh
+1BC3A : Duployan letter w r
+1BC3B : Duployan letter s n
+1BC3C : Duployan letter s m
+1BC3D : Duployan letter k r s
+1BC3E : Duployan letter g r s
+1BC3F : Duployan letter s k
+1BC40 : Duployan letter s k r
+1BC41 : Duployan letter a
+1BC42 : Duployan letter sloan ow
+1BC43 : Duployan letter oa
+1BC44 : Duployan letter o
+1BC45 : Duployan letter aou
+1BC46 : Duployan letter i
+1BC47 : Duployan letter e
+1BC48 : Duployan letter ie
+1BC49 : Duployan letter short i
+1BC4A : Duployan letter ui
+1BC4B : Duployan letter ee
+1BC4C : Duployan letter sloan eh
+1BC4D : Duployan letter romanian i
+1BC4E : Duployan letter sloan ee
+1BC4F : Duployan letter long i
+1BC50 : Duployan letter ye
+1BC51 : Duployan letter u
+1BC52 : Duployan letter eu
+1BC53 : Duployan letter xw
+1BC54 : Duployan letter u n
+1BC55 : Duployan letter long u
+1BC56 : Duployan letter romanian u
+1BC57 : Duployan letter uh
+1BC58 : Duployan letter sloan u
+1BC59 : Duployan letter ooh
+1BC5A : Duployan letter ow
+1BC5B : Duployan letter ou
+1BC5C : Duployan letter wa
+1BC5D : Duployan letter wo
+1BC5E : Duployan letter wi
+1BC5F : Duployan letter wei
+1BC60 : Duployan letter wow
+1BC61 : Duployan letter nasal u
+1BC62 : Duployan letter nasal o
+1BC63 : Duployan letter nasal i
+1BC64 : Duployan letter nasal a
+1BC65 : Duployan letter pernin an
+1BC66 : Duployan letter pernin am
+1BC67 : Duployan letter sloan en
+1BC68 : Duployan letter sloan an
+1BC69 : Duployan letter sloan on
+1BC6A : Duployan letter vocalic m
+1BC6B : 
+1BC6C : 
+1BC6D : 
+1BC6E : 
+1BC6F : 
+1BC70 : Duployan affix left horizontal secant
+1BC71 : Duployan affix mid horizontal secant
+1BC72 : Duployan affix right horizontal secant
+1BC73 : Duployan affix low vertical secant
+1BC74 : Duployan affix mid vertical secant
+1BC75 : Duployan affix high vertical secant
+1BC76 : Duployan affix attached secant
+1BC77 : Duployan affix attached left-to-right secant
+1BC78 : Duployan affix attached tangent
+1BC79 : Duployan affix attached tail
+1BC7A : Duployan affix attached e hook
+1BC7B : Duployan affix attached i hook
+1BC7C : Duployan affix attached tangent hook
+1BC7D : 
+1BC7E : 
+1BC7F : 
+1BC80 : Duployan affix high acute
+1BC81 : Duployan affix high tight acute
+1BC82 : Duployan affix high grave
+1BC83 : Duployan affix high long grave
+1BC84 : Duployan affix high dot
+1BC85 : Duployan affix high circle
+1BC86 : Duployan affix high line
+1BC87 : Duployan affix high wave
+1BC88 : Duployan affix high vertical
+1BC89 : 
+1BC8A : 
+1BC8B : 
+1BC8C : 
+1BC8D : 
+1BC8E : 
+1BC8F : 
+1BC90 : Duployan affix low acute
+1BC91 : Duployan affix low tight acute
+1BC92 : Duployan affix low grave
+1BC93 : Duployan affix low long grave
+1BC94 : Duployan affix low dot
+1BC95 : Duployan affix low circle
+1BC96 : Duployan affix low line
+1BC97 : Duployan affix low wave
+1BC98 : Duployan affix low vertical
+1BC99 : Duployan affix low arrow
+1BC9A : 
+1BC9B : 
+1BC9C : Duployan sign o with cross
+1BC9D : Duployan thick letter selector
+1BC9E : Duployan double mark
+1BC9F : Duployan punctuation chinook full stop
+1BCA0 : Shorthand format letter overlap
+1BCA1 : Shorthand format continuing overlap
+1BCA2 : Shorthand format down step
+1BCA3 : Shorthand format up step
+1BCA4 : 
+1BCA5 : 
+1BCA6 : 
+1BCA7 : 
+1BCA8 : 
+1BCA9 : 
+1BCAA : 
+1BCAB : 
+1BCAC : 
+1BCAD : 
+1BCAE : 
+1BCAF : 
+1BCB0 : 
+1BCB1 : 
+1BCB2 : 
+1BCB3 : 
+1BCB4 : 
+1BCB5 : 
+1BCB6 : 
+1BCB7 : 
+1BCB8 : 
+1BCB9 : 
+1BCBA : 
+1BCBB : 
+1BCBC : 
+1BCBD : 
+1BCBE : 
+1BCBF : 
+1BCC0 : 
+1BCC1 : 
+1BCC2 : 
+1BCC3 : 
+1BCC4 : 
+1BCC5 : 
+1BCC6 : 
+1BCC7 : 
+1BCC8 : 
+1BCC9 : 
+1BCCA : 
+1BCCB : 
+1BCCC : 
+1BCCD : 
+1BCCE : 
+1BCCF : 
+1BCD0 : 
+1BCD1 : 
+1BCD2 : 
+1BCD3 : 
+1BCD4 : 
+1BCD5 : 
+1BCD6 : 
+1BCD7 : 
+1BCD8 : 
+1BCD9 : 
+1BCDA : 
+1BCDB : 
+1BCDC : 
+1BCDD : 
+1BCDE : 
+1BCDF : 
+1BCE0 : 
+1BCE1 : 
+1BCE2 : 
+1BCE3 : 
+1BCE4 : 
+1BCE5 : 
+1BCE6 : 
+1BCE7 : 
+1BCE8 : 
+1BCE9 : 
+1BCEA : 
+1BCEB : 
+1BCEC : 
+1BCED : 
+1BCEE : 
+1BCEF : 
+1BCF0 : 
+1BCF1 : 
+1BCF2 : 
+1BCF3 : 
+1BCF4 : 
+1BCF5 : 
+1BCF6 : 
+1BCF7 : 
+1BCF8 : 
+1BCF9 : 
+1BCFA : 
+1BCFB : 
+1BCFC : 
+1BCFD : 
+1BCFE : 
+1BCFF : 

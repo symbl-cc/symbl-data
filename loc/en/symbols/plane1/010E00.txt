@@ -1,256 +1,256 @@
-010E00 : 
-010E01 : 
-010E02 : 
-010E03 : 
-010E04 : 
-010E05 : 
-010E06 : 
-010E07 : 
-010E08 : 
-010E09 : 
-010E0A : 
-010E0B : 
-010E0C : 
-010E0D : 
-010E0E : 
-010E0F : 
-010E10 : 
-010E11 : 
-010E12 : 
-010E13 : 
-010E14 : 
-010E15 : 
-010E16 : 
-010E17 : 
-010E18 : 
-010E19 : 
-010E1A : 
-010E1B : 
-010E1C : 
-010E1D : 
-010E1E : 
-010E1F : 
-010E20 : 
-010E21 : 
-010E22 : 
-010E23 : 
-010E24 : 
-010E25 : 
-010E26 : 
-010E27 : 
-010E28 : 
-010E29 : 
-010E2A : 
-010E2B : 
-010E2C : 
-010E2D : 
-010E2E : 
-010E2F : 
-010E30 : 
-010E31 : 
-010E32 : 
-010E33 : 
-010E34 : 
-010E35 : 
-010E36 : 
-010E37 : 
-010E38 : 
-010E39 : 
-010E3A : 
-010E3B : 
-010E3C : 
-010E3D : 
-010E3E : 
-010E3F : 
-010E40 : 
-010E41 : 
-010E42 : 
-010E43 : 
-010E44 : 
-010E45 : 
-010E46 : 
-010E47 : 
-010E48 : 
-010E49 : 
-010E4A : 
-010E4B : 
-010E4C : 
-010E4D : 
-010E4E : 
-010E4F : 
-010E50 : 
-010E51 : 
-010E52 : 
-010E53 : 
-010E54 : 
-010E55 : 
-010E56 : 
-010E57 : 
-010E58 : 
-010E59 : 
-010E5A : 
-010E5B : 
-010E5C : 
-010E5D : 
-010E5E : 
-010E5F : 
-010E60 : Rumi digit one
-010E61 : Rumi digit two
-010E62 : Rumi digit three
-010E63 : Rumi digit four
-010E64 : Rumi digit five
-010E65 : Rumi digit six
-010E66 : Rumi digit seven
-010E67 : Rumi digit eight
-010E68 : Rumi digit nine
-010E69 : Rumi number ten
-010E6A : Rumi number twenty
-010E6B : Rumi number thirty
-010E6C : Rumi number forty
-010E6D : Rumi number fifty
-010E6E : Rumi number sixty
-010E6F : Rumi number seventy
-010E70 : Rumi number eighty
-010E71 : Rumi number ninety
-010E72 : Rumi number one hundred
-010E73 : Rumi number two hundred
-010E74 : Rumi number three hundred
-010E75 : Rumi number four hundred
-010E76 : Rumi number five hundred
-010E77 : Rumi number six hundred
-010E78 : Rumi number seven hundred
-010E79 : Rumi number eight hundred
-010E7A : Rumi number nine hundred
-010E7B : Rumi fraction one half
-010E7C : Rumi fraction one quarter
-010E7D : Rumi fraction one third
-010E7E : Rumi fraction two thirds
-010E7F : 
-010E80 : 
-010E81 : 
-010E82 : 
-010E83 : 
-010E84 : 
-010E85 : 
-010E86 : 
-010E87 : 
-010E88 : 
-010E89 : 
-010E8A : 
-010E8B : 
-010E8C : 
-010E8D : 
-010E8E : 
-010E8F : 
-010E90 : 
-010E91 : 
-010E92 : 
-010E93 : 
-010E94 : 
-010E95 : 
-010E96 : 
-010E97 : 
-010E98 : 
-010E99 : 
-010E9A : 
-010E9B : 
-010E9C : 
-010E9D : 
-010E9E : 
-010E9F : 
-010EA0 : 
-010EA1 : 
-010EA2 : 
-010EA3 : 
-010EA4 : 
-010EA5 : 
-010EA6 : 
-010EA7 : 
-010EA8 : 
-010EA9 : 
-010EAA : 
-010EAB : 
-010EAC : 
-010EAD : 
-010EAE : 
-010EAF : 
-010EB0 : 
-010EB1 : 
-010EB2 : 
-010EB3 : 
-010EB4 : 
-010EB5 : 
-010EB6 : 
-010EB7 : 
-010EB8 : 
-010EB9 : 
-010EBA : 
-010EBB : 
-010EBC : 
-010EBD : 
-010EBE : 
-010EBF : 
-010EC0 : 
-010EC1 : 
-010EC2 : 
-010EC3 : 
-010EC4 : 
-010EC5 : 
-010EC6 : 
-010EC7 : 
-010EC8 : 
-010EC9 : 
-010ECA : 
-010ECB : 
-010ECC : 
-010ECD : 
-010ECE : 
-010ECF : 
-010ED0 : 
-010ED1 : 
-010ED2 : 
-010ED3 : 
-010ED4 : 
-010ED5 : 
-010ED6 : 
-010ED7 : 
-010ED8 : 
-010ED9 : 
-010EDA : 
-010EDB : 
-010EDC : 
-010EDD : 
-010EDE : 
-010EDF : 
-010EE0 : 
-010EE1 : 
-010EE2 : 
-010EE3 : 
-010EE4 : 
-010EE5 : 
-010EE6 : 
-010EE7 : 
-010EE8 : 
-010EE9 : 
-010EEA : 
-010EEB : 
-010EEC : 
-010EED : 
-010EEE : 
-010EEF : 
-010EF0 : 
-010EF1 : 
-010EF2 : 
-010EF3 : 
-010EF4 : 
-010EF5 : 
-010EF6 : 
-010EF7 : 
-010EF8 : 
-010EF9 : 
-010EFA : 
-010EFB : 
-010EFC : 
-010EFD : 
-010EFE : 
-010EFF : 
+10E00 : 
+10E01 : 
+10E02 : 
+10E03 : 
+10E04 : 
+10E05 : 
+10E06 : 
+10E07 : 
+10E08 : 
+10E09 : 
+10E0A : 
+10E0B : 
+10E0C : 
+10E0D : 
+10E0E : 
+10E0F : 
+10E10 : 
+10E11 : 
+10E12 : 
+10E13 : 
+10E14 : 
+10E15 : 
+10E16 : 
+10E17 : 
+10E18 : 
+10E19 : 
+10E1A : 
+10E1B : 
+10E1C : 
+10E1D : 
+10E1E : 
+10E1F : 
+10E20 : 
+10E21 : 
+10E22 : 
+10E23 : 
+10E24 : 
+10E25 : 
+10E26 : 
+10E27 : 
+10E28 : 
+10E29 : 
+10E2A : 
+10E2B : 
+10E2C : 
+10E2D : 
+10E2E : 
+10E2F : 
+10E30 : 
+10E31 : 
+10E32 : 
+10E33 : 
+10E34 : 
+10E35 : 
+10E36 : 
+10E37 : 
+10E38 : 
+10E39 : 
+10E3A : 
+10E3B : 
+10E3C : 
+10E3D : 
+10E3E : 
+10E3F : 
+10E40 : 
+10E41 : 
+10E42 : 
+10E43 : 
+10E44 : 
+10E45 : 
+10E46 : 
+10E47 : 
+10E48 : 
+10E49 : 
+10E4A : 
+10E4B : 
+10E4C : 
+10E4D : 
+10E4E : 
+10E4F : 
+10E50 : 
+10E51 : 
+10E52 : 
+10E53 : 
+10E54 : 
+10E55 : 
+10E56 : 
+10E57 : 
+10E58 : 
+10E59 : 
+10E5A : 
+10E5B : 
+10E5C : 
+10E5D : 
+10E5E : 
+10E5F : 
+10E60 : Rumi digit one
+10E61 : Rumi digit two
+10E62 : Rumi digit three
+10E63 : Rumi digit four
+10E64 : Rumi digit five
+10E65 : Rumi digit six
+10E66 : Rumi digit seven
+10E67 : Rumi digit eight
+10E68 : Rumi digit nine
+10E69 : Rumi number ten
+10E6A : Rumi number twenty
+10E6B : Rumi number thirty
+10E6C : Rumi number forty
+10E6D : Rumi number fifty
+10E6E : Rumi number sixty
+10E6F : Rumi number seventy
+10E70 : Rumi number eighty
+10E71 : Rumi number ninety
+10E72 : Rumi number one hundred
+10E73 : Rumi number two hundred
+10E74 : Rumi number three hundred
+10E75 : Rumi number four hundred
+10E76 : Rumi number five hundred
+10E77 : Rumi number six hundred
+10E78 : Rumi number seven hundred
+10E79 : Rumi number eight hundred
+10E7A : Rumi number nine hundred
+10E7B : Rumi fraction one half
+10E7C : Rumi fraction one quarter
+10E7D : Rumi fraction one third
+10E7E : Rumi fraction two thirds
+10E7F : 
+10E80 : 
+10E81 : 
+10E82 : 
+10E83 : 
+10E84 : 
+10E85 : 
+10E86 : 
+10E87 : 
+10E88 : 
+10E89 : 
+10E8A : 
+10E8B : 
+10E8C : 
+10E8D : 
+10E8E : 
+10E8F : 
+10E90 : 
+10E91 : 
+10E92 : 
+10E93 : 
+10E94 : 
+10E95 : 
+10E96 : 
+10E97 : 
+10E98 : 
+10E99 : 
+10E9A : 
+10E9B : 
+10E9C : 
+10E9D : 
+10E9E : 
+10E9F : 
+10EA0 : 
+10EA1 : 
+10EA2 : 
+10EA3 : 
+10EA4 : 
+10EA5 : 
+10EA6 : 
+10EA7 : 
+10EA8 : 
+10EA9 : 
+10EAA : 
+10EAB : 
+10EAC : 
+10EAD : 
+10EAE : 
+10EAF : 
+10EB0 : 
+10EB1 : 
+10EB2 : 
+10EB3 : 
+10EB4 : 
+10EB5 : 
+10EB6 : 
+10EB7 : 
+10EB8 : 
+10EB9 : 
+10EBA : 
+10EBB : 
+10EBC : 
+10EBD : 
+10EBE : 
+10EBF : 
+10EC0 : 
+10EC1 : 
+10EC2 : 
+10EC3 : 
+10EC4 : 
+10EC5 : 
+10EC6 : 
+10EC7 : 
+10EC8 : 
+10EC9 : 
+10ECA : 
+10ECB : 
+10ECC : 
+10ECD : 
+10ECE : 
+10ECF : 
+10ED0 : 
+10ED1 : 
+10ED2 : 
+10ED3 : 
+10ED4 : 
+10ED5 : 
+10ED6 : 
+10ED7 : 
+10ED8 : 
+10ED9 : 
+10EDA : 
+10EDB : 
+10EDC : 
+10EDD : 
+10EDE : 
+10EDF : 
+10EE0 : 
+10EE1 : 
+10EE2 : 
+10EE3 : 
+10EE4 : 
+10EE5 : 
+10EE6 : 
+10EE7 : 
+10EE8 : 
+10EE9 : 
+10EEA : 
+10EEB : 
+10EEC : 
+10EED : 
+10EEE : 
+10EEF : 
+10EF0 : 
+10EF1 : 
+10EF2 : 
+10EF3 : 
+10EF4 : 
+10EF5 : 
+10EF6 : 
+10EF7 : 
+10EF8 : 
+10EF9 : 
+10EFA : 
+10EFB : 
+10EFC : 
+10EFD : 
+10EFE : 
+10EFF : 

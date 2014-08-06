@@ -1,256 +1,256 @@
-01E800 : Mende kikakui syllable m001 ki
-01E801 : Mende kikakui syllable m002 ka
-01E802 : Mende kikakui syllable m003 ku
-01E803 : Mende kikakui syllable m065 kee
-01E804 : Mende kikakui syllable m095 ke
-01E805 : Mende kikakui syllable m076 koo
-01E806 : Mende kikakui syllable m048 ko
-01E807 : Mende kikakui syllable m179 kua
-01E808 : Mende kikakui syllable m004 wi
-01E809 : Mende kikakui syllable m005 wa
-01E80A : Mende kikakui syllable m006 wu
-01E80B : Mende kikakui syllable m126 wee
-01E80C : Mende kikakui syllable m118 we
-01E80D : Mende kikakui syllable m114 woo
-01E80E : Mende kikakui syllable m045 wo
-01E80F : Mende kikakui syllable m194 wui
-01E810 : Mende kikakui syllable m143 wei
-01E811 : Mende kikakui syllable m061 wvi
-01E812 : Mende kikakui syllable m049 wva
-01E813 : Mende kikakui syllable m139 wve
-01E814 : Mende kikakui syllable m007 min
-01E815 : Mende kikakui syllable m008 man
-01E816 : Mende kikakui syllable m009 mun
-01E817 : Mende kikakui syllable m059 men
-01E818 : Mende kikakui syllable m094 mon
-01E819 : Mende kikakui syllable m154 muan
-01E81A : Mende kikakui syllable m189 muen
-01E81B : Mende kikakui syllable m010 bi
-01E81C : Mende kikakui syllable m011 ba
-01E81D : Mende kikakui syllable m012 bu
-01E81E : Mende kikakui syllable m150 bee
-01E81F : Mende kikakui syllable m097 be
-01E820 : Mende kikakui syllable m103 boo
-01E821 : Mende kikakui syllable m138 bo
-01E822 : Mende kikakui syllable m013 i
-01E823 : Mende kikakui syllable m014 a
-01E824 : Mende kikakui syllable m015 u
-01E825 : Mende kikakui syllable m163 ee
-01E826 : Mende kikakui syllable m100 e
-01E827 : Mende kikakui syllable m165 oo
-01E828 : Mende kikakui syllable m147 o
-01E829 : Mende kikakui syllable m137 ei
-01E82A : Mende kikakui syllable m131 in
-01E82B : Mende kikakui syllable m135 in
-01E82C : Mende kikakui syllable m195 an
-01E82D : Mende kikakui syllable m178 en
-01E82E : Mende kikakui syllable m019 si
-01E82F : Mende kikakui syllable m020 sa
-01E830 : Mende kikakui syllable m021 su
-01E831 : Mende kikakui syllable m162 see
-01E832 : Mende kikakui syllable m116 se
-01E833 : Mende kikakui syllable m136 soo
-01E834 : Mende kikakui syllable m079 so
-01E835 : Mende kikakui syllable m196 sia
-01E836 : Mende kikakui syllable m025 li
-01E837 : Mende kikakui syllable m026 la
-01E838 : Mende kikakui syllable m027 lu
-01E839 : Mende kikakui syllable m084 lee
-01E83A : Mende kikakui syllable m073 le
-01E83B : Mende kikakui syllable m054 loo
-01E83C : Mende kikakui syllable m153 lo
-01E83D : Mende kikakui syllable m110 long le
-01E83E : Mende kikakui syllable m016 di
-01E83F : Mende kikakui syllable m017 da
-01E840 : Mende kikakui syllable m018 du
-01E841 : Mende kikakui syllable m089 dee
-01E842 : Mende kikakui syllable m180 doo
-01E843 : Mende kikakui syllable m181 do
-01E844 : Mende kikakui syllable m022 ti
-01E845 : Mende kikakui syllable m023 ta
-01E846 : Mende kikakui syllable m024 tu
-01E847 : Mende kikakui syllable m091 tee
-01E848 : Mende kikakui syllable m055 te
-01E849 : Mende kikakui syllable m104 too
-01E84A : Mende kikakui syllable m069 to
-01E84B : Mende kikakui syllable m028 ji
-01E84C : Mende kikakui syllable m029 ja
-01E84D : Mende kikakui syllable m030 ju
-01E84E : Mende kikakui syllable m157 jee
-01E84F : Mende kikakui syllable m113 je
-01E850 : Mende kikakui syllable m160 joo
-01E851 : Mende kikakui syllable m063 jo
-01E852 : Mende kikakui syllable m175 long jo
-01E853 : Mende kikakui syllable m031 yi
-01E854 : Mende kikakui syllable m032 ya
-01E855 : Mende kikakui syllable m033 yu
-01E856 : Mende kikakui syllable m109 yee
-01E857 : Mende kikakui syllable m080 ye
-01E858 : Mende kikakui syllable m141 yoo
-01E859 : Mende kikakui syllable m121 yo
-01E85A : Mende kikakui syllable m034 fi
-01E85B : Mende kikakui syllable m035 fa
-01E85C : Mende kikakui syllable m036 fu
-01E85D : Mende kikakui syllable m078 fee
-01E85E : Mende kikakui syllable m075 fe
-01E85F : Mende kikakui syllable m133 foo
-01E860 : Mende kikakui syllable m088 fo
-01E861 : Mende kikakui syllable m197 fua
-01E862 : Mende kikakui syllable m101 fan
-01E863 : Mende kikakui syllable m037 nin
-01E864 : Mende kikakui syllable m038 nan
-01E865 : Mende kikakui syllable m039 nun
-01E866 : Mende kikakui syllable m117 nen
-01E867 : Mende kikakui syllable m169 non
-01E868 : Mende kikakui syllable m176 hi
-01E869 : Mende kikakui syllable m041 ha
-01E86A : Mende kikakui syllable m186 hu
-01E86B : Mende kikakui syllable m040 hee
-01E86C : Mende kikakui syllable m096 he
-01E86D : Mende kikakui syllable m042 hoo
-01E86E : Mende kikakui syllable m140 ho
-01E86F : Mende kikakui syllable m083 heei
-01E870 : Mende kikakui syllable m128 hoou
-01E871 : Mende kikakui syllable m053 hin
-01E872 : Mende kikakui syllable m130 han
-01E873 : Mende kikakui syllable m087 hun
-01E874 : Mende kikakui syllable m052 hen
-01E875 : Mende kikakui syllable m193 hon
-01E876 : Mende kikakui syllable m046 huan
-01E877 : Mende kikakui syllable m090 nggi
-01E878 : Mende kikakui syllable m043 ngga
-01E879 : Mende kikakui syllable m082 nggu
-01E87A : Mende kikakui syllable m115 nggee
-01E87B : Mende kikakui syllable m146 ngge
-01E87C : Mende kikakui syllable m156 nggoo
-01E87D : Mende kikakui syllable m120 nggo
-01E87E : Mende kikakui syllable m159 nggaa
-01E87F : Mende kikakui syllable m127 nggua
-01E880 : Mende kikakui syllable m086 long ngge
-01E881 : Mende kikakui syllable m106 long nggoo
-01E882 : Mende kikakui syllable m183 long nggo
-01E883 : Mende kikakui syllable m155 gi
-01E884 : Mende kikakui syllable m111 ga
-01E885 : Mende kikakui syllable m168 gu
-01E886 : Mende kikakui syllable m190 gee
-01E887 : Mende kikakui syllable m166 guei
-01E888 : Mende kikakui syllable m167 guan
-01E889 : Mende kikakui syllable m184 ngen
-01E88A : Mende kikakui syllable m057 ngon
-01E88B : Mende kikakui syllable m177 nguan
-01E88C : Mende kikakui syllable m068 pi
-01E88D : Mende kikakui syllable m099 pa
-01E88E : Mende kikakui syllable m050 pu
-01E88F : Mende kikakui syllable m081 pee
-01E890 : Mende kikakui syllable m051 pe
-01E891 : Mende kikakui syllable m102 poo
-01E892 : Mende kikakui syllable m066 po
-01E893 : Mende kikakui syllable m145 mbi
-01E894 : Mende kikakui syllable m062 mba
-01E895 : Mende kikakui syllable m122 mbu
-01E896 : Mende kikakui syllable m047 mbee
-01E897 : Mende kikakui syllable m188 mbee
-01E898 : Mende kikakui syllable m072 mbe
-01E899 : Mende kikakui syllable m172 mboo
-01E89A : Mende kikakui syllable m174 mbo
-01E89B : Mende kikakui syllable m187 mbuu
-01E89C : Mende kikakui syllable m161 long mbe
-01E89D : Mende kikakui syllable m105 long mboo
-01E89E : Mende kikakui syllable m142 long mbo
-01E89F : Mende kikakui syllable m132 kpi
-01E8A0 : Mende kikakui syllable m092 kpa
-01E8A1 : Mende kikakui syllable m074 kpu
-01E8A2 : Mende kikakui syllable m044 kpee
-01E8A3 : Mende kikakui syllable m108 kpe
-01E8A4 : Mende kikakui syllable m112 kpoo
-01E8A5 : Mende kikakui syllable m158 kpo
-01E8A6 : Mende kikakui syllable m124 gbi
-01E8A7 : Mende kikakui syllable m056 gba
-01E8A8 : Mende kikakui syllable m148 gbu
-01E8A9 : Mende kikakui syllable m093 gbee
-01E8AA : Mende kikakui syllable m107 gbe
-01E8AB : Mende kikakui syllable m071 gboo
-01E8AC : Mende kikakui syllable m070 gbo
-01E8AD : Mende kikakui syllable m171 ra
-01E8AE : Mende kikakui syllable m123 ndi
-01E8AF : Mende kikakui syllable m129 nda
-01E8B0 : Mende kikakui syllable m125 ndu
-01E8B1 : Mende kikakui syllable m191 ndee
-01E8B2 : Mende kikakui syllable m119 nde
-01E8B3 : Mende kikakui syllable m067 ndoo
-01E8B4 : Mende kikakui syllable m064 ndo
-01E8B5 : Mende kikakui syllable m152 nja
-01E8B6 : Mende kikakui syllable m192 nju
-01E8B7 : Mende kikakui syllable m149 njee
-01E8B8 : Mende kikakui syllable m134 njoo
-01E8B9 : Mende kikakui syllable m182 vi
-01E8BA : Mende kikakui syllable m185 va
-01E8BB : Mende kikakui syllable m151 vu
-01E8BC : Mende kikakui syllable m173 vee
-01E8BD : Mende kikakui syllable m085 ve
-01E8BE : Mende kikakui syllable m144 voo
-01E8BF : Mende kikakui syllable m077 vo
-01E8C0 : Mende kikakui syllable m164 nyin
-01E8C1 : Mende kikakui syllable m058 nyan
-01E8C2 : Mende kikakui syllable m170 nyun
-01E8C3 : Mende kikakui syllable m098 nyen
-01E8C4 : Mende kikakui syllable m060 nyon
-01E8C5 : 
-01E8C6 : 
-01E8C7 : Mende kikakui digit one
-01E8C8 : Mende kikakui digit two
-01E8C9 : Mende kikakui digit three
-01E8CA : Mende kikakui digit four
-01E8CB : Mende kikakui digit five
-01E8CC : Mende kikakui digit six
-01E8CD : Mende kikakui digit seven
-01E8CE : Mende kikakui digit eight
-01E8CF : Mende kikakui digit nine
-01E8D0 : Mende kikakui combining number teens
-01E8D1 : Mende kikakui combining number tens
-01E8D2 : Mende kikakui combining number hundreds
-01E8D3 : Mende kikakui combining number thousands
-01E8D4 : Mende kikakui combining number ten thousands
-01E8D5 : Mende kikakui combining number hundred thousands
-01E8D6 : Mende kikakui combining number millions
-01E8D7 : 
-01E8D8 : 
-01E8D9 : 
-01E8DA : 
-01E8DB : 
-01E8DC : 
-01E8DD : 
-01E8DE : 
-01E8DF : 
-01E8E0 : 
-01E8E1 : 
-01E8E2 : 
-01E8E3 : 
-01E8E4 : 
-01E8E5 : 
-01E8E6 : 
-01E8E7 : 
-01E8E8 : 
-01E8E9 : 
-01E8EA : 
-01E8EB : 
-01E8EC : 
-01E8ED : 
-01E8EE : 
-01E8EF : 
-01E8F0 : 
-01E8F1 : 
-01E8F2 : 
-01E8F3 : 
-01E8F4 : 
-01E8F5 : 
-01E8F6 : 
-01E8F7 : 
-01E8F8 : 
-01E8F9 : 
-01E8FA : 
-01E8FB : 
-01E8FC : 
-01E8FD : 
-01E8FE : 
-01E8FF : 
+1E800 : Mende kikakui syllable m001 ki
+1E801 : Mende kikakui syllable m002 ka
+1E802 : Mende kikakui syllable m003 ku
+1E803 : Mende kikakui syllable m065 kee
+1E804 : Mende kikakui syllable m095 ke
+1E805 : Mende kikakui syllable m076 koo
+1E806 : Mende kikakui syllable m048 ko
+1E807 : Mende kikakui syllable m179 kua
+1E808 : Mende kikakui syllable m004 wi
+1E809 : Mende kikakui syllable m005 wa
+1E80A : Mende kikakui syllable m006 wu
+1E80B : Mende kikakui syllable m126 wee
+1E80C : Mende kikakui syllable m118 we
+1E80D : Mende kikakui syllable m114 woo
+1E80E : Mende kikakui syllable m045 wo
+1E80F : Mende kikakui syllable m194 wui
+1E810 : Mende kikakui syllable m143 wei
+1E811 : Mende kikakui syllable m061 wvi
+1E812 : Mende kikakui syllable m049 wva
+1E813 : Mende kikakui syllable m139 wve
+1E814 : Mende kikakui syllable m007 min
+1E815 : Mende kikakui syllable m008 man
+1E816 : Mende kikakui syllable m009 mun
+1E817 : Mende kikakui syllable m059 men
+1E818 : Mende kikakui syllable m094 mon
+1E819 : Mende kikakui syllable m154 muan
+1E81A : Mende kikakui syllable m189 muen
+1E81B : Mende kikakui syllable m010 bi
+1E81C : Mende kikakui syllable m011 ba
+1E81D : Mende kikakui syllable m012 bu
+1E81E : Mende kikakui syllable m150 bee
+1E81F : Mende kikakui syllable m097 be
+1E820 : Mende kikakui syllable m103 boo
+1E821 : Mende kikakui syllable m138 bo
+1E822 : Mende kikakui syllable m013 i
+1E823 : Mende kikakui syllable m014 a
+1E824 : Mende kikakui syllable m015 u
+1E825 : Mende kikakui syllable m163 ee
+1E826 : Mende kikakui syllable m100 e
+1E827 : Mende kikakui syllable m165 oo
+1E828 : Mende kikakui syllable m147 o
+1E829 : Mende kikakui syllable m137 ei
+1E82A : Mende kikakui syllable m131 in
+1E82B : Mende kikakui syllable m135 in
+1E82C : Mende kikakui syllable m195 an
+1E82D : Mende kikakui syllable m178 en
+1E82E : Mende kikakui syllable m019 si
+1E82F : Mende kikakui syllable m020 sa
+1E830 : Mende kikakui syllable m021 su
+1E831 : Mende kikakui syllable m162 see
+1E832 : Mende kikakui syllable m116 se
+1E833 : Mende kikakui syllable m136 soo
+1E834 : Mende kikakui syllable m079 so
+1E835 : Mende kikakui syllable m196 sia
+1E836 : Mende kikakui syllable m025 li
+1E837 : Mende kikakui syllable m026 la
+1E838 : Mende kikakui syllable m027 lu
+1E839 : Mende kikakui syllable m084 lee
+1E83A : Mende kikakui syllable m073 le
+1E83B : Mende kikakui syllable m054 loo
+1E83C : Mende kikakui syllable m153 lo
+1E83D : Mende kikakui syllable m110 long le
+1E83E : Mende kikakui syllable m016 di
+1E83F : Mende kikakui syllable m017 da
+1E840 : Mende kikakui syllable m018 du
+1E841 : Mende kikakui syllable m089 dee
+1E842 : Mende kikakui syllable m180 doo
+1E843 : Mende kikakui syllable m181 do
+1E844 : Mende kikakui syllable m022 ti
+1E845 : Mende kikakui syllable m023 ta
+1E846 : Mende kikakui syllable m024 tu
+1E847 : Mende kikakui syllable m091 tee
+1E848 : Mende kikakui syllable m055 te
+1E849 : Mende kikakui syllable m104 too
+1E84A : Mende kikakui syllable m069 to
+1E84B : Mende kikakui syllable m028 ji
+1E84C : Mende kikakui syllable m029 ja
+1E84D : Mende kikakui syllable m030 ju
+1E84E : Mende kikakui syllable m157 jee
+1E84F : Mende kikakui syllable m113 je
+1E850 : Mende kikakui syllable m160 joo
+1E851 : Mende kikakui syllable m063 jo
+1E852 : Mende kikakui syllable m175 long jo
+1E853 : Mende kikakui syllable m031 yi
+1E854 : Mende kikakui syllable m032 ya
+1E855 : Mende kikakui syllable m033 yu
+1E856 : Mende kikakui syllable m109 yee
+1E857 : Mende kikakui syllable m080 ye
+1E858 : Mende kikakui syllable m141 yoo
+1E859 : Mende kikakui syllable m121 yo
+1E85A : Mende kikakui syllable m034 fi
+1E85B : Mende kikakui syllable m035 fa
+1E85C : Mende kikakui syllable m036 fu
+1E85D : Mende kikakui syllable m078 fee
+1E85E : Mende kikakui syllable m075 fe
+1E85F : Mende kikakui syllable m133 foo
+1E860 : Mende kikakui syllable m088 fo
+1E861 : Mende kikakui syllable m197 fua
+1E862 : Mende kikakui syllable m101 fan
+1E863 : Mende kikakui syllable m037 nin
+1E864 : Mende kikakui syllable m038 nan
+1E865 : Mende kikakui syllable m039 nun
+1E866 : Mende kikakui syllable m117 nen
+1E867 : Mende kikakui syllable m169 non
+1E868 : Mende kikakui syllable m176 hi
+1E869 : Mende kikakui syllable m041 ha
+1E86A : Mende kikakui syllable m186 hu
+1E86B : Mende kikakui syllable m040 hee
+1E86C : Mende kikakui syllable m096 he
+1E86D : Mende kikakui syllable m042 hoo
+1E86E : Mende kikakui syllable m140 ho
+1E86F : Mende kikakui syllable m083 heei
+1E870 : Mende kikakui syllable m128 hoou
+1E871 : Mende kikakui syllable m053 hin
+1E872 : Mende kikakui syllable m130 han
+1E873 : Mende kikakui syllable m087 hun
+1E874 : Mende kikakui syllable m052 hen
+1E875 : Mende kikakui syllable m193 hon
+1E876 : Mende kikakui syllable m046 huan
+1E877 : Mende kikakui syllable m090 nggi
+1E878 : Mende kikakui syllable m043 ngga
+1E879 : Mende kikakui syllable m082 nggu
+1E87A : Mende kikakui syllable m115 nggee
+1E87B : Mende kikakui syllable m146 ngge
+1E87C : Mende kikakui syllable m156 nggoo
+1E87D : Mende kikakui syllable m120 nggo
+1E87E : Mende kikakui syllable m159 nggaa
+1E87F : Mende kikakui syllable m127 nggua
+1E880 : Mende kikakui syllable m086 long ngge
+1E881 : Mende kikakui syllable m106 long nggoo
+1E882 : Mende kikakui syllable m183 long nggo
+1E883 : Mende kikakui syllable m155 gi
+1E884 : Mende kikakui syllable m111 ga
+1E885 : Mende kikakui syllable m168 gu
+1E886 : Mende kikakui syllable m190 gee
+1E887 : Mende kikakui syllable m166 guei
+1E888 : Mende kikakui syllable m167 guan
+1E889 : Mende kikakui syllable m184 ngen
+1E88A : Mende kikakui syllable m057 ngon
+1E88B : Mende kikakui syllable m177 nguan
+1E88C : Mende kikakui syllable m068 pi
+1E88D : Mende kikakui syllable m099 pa
+1E88E : Mende kikakui syllable m050 pu
+1E88F : Mende kikakui syllable m081 pee
+1E890 : Mende kikakui syllable m051 pe
+1E891 : Mende kikakui syllable m102 poo
+1E892 : Mende kikakui syllable m066 po
+1E893 : Mende kikakui syllable m145 mbi
+1E894 : Mende kikakui syllable m062 mba
+1E895 : Mende kikakui syllable m122 mbu
+1E896 : Mende kikakui syllable m047 mbee
+1E897 : Mende kikakui syllable m188 mbee
+1E898 : Mende kikakui syllable m072 mbe
+1E899 : Mende kikakui syllable m172 mboo
+1E89A : Mende kikakui syllable m174 mbo
+1E89B : Mende kikakui syllable m187 mbuu
+1E89C : Mende kikakui syllable m161 long mbe
+1E89D : Mende kikakui syllable m105 long mboo
+1E89E : Mende kikakui syllable m142 long mbo
+1E89F : Mende kikakui syllable m132 kpi
+1E8A0 : Mende kikakui syllable m092 kpa
+1E8A1 : Mende kikakui syllable m074 kpu
+1E8A2 : Mende kikakui syllable m044 kpee
+1E8A3 : Mende kikakui syllable m108 kpe
+1E8A4 : Mende kikakui syllable m112 kpoo
+1E8A5 : Mende kikakui syllable m158 kpo
+1E8A6 : Mende kikakui syllable m124 gbi
+1E8A7 : Mende kikakui syllable m056 gba
+1E8A8 : Mende kikakui syllable m148 gbu
+1E8A9 : Mende kikakui syllable m093 gbee
+1E8AA : Mende kikakui syllable m107 gbe
+1E8AB : Mende kikakui syllable m071 gboo
+1E8AC : Mende kikakui syllable m070 gbo
+1E8AD : Mende kikakui syllable m171 ra
+1E8AE : Mende kikakui syllable m123 ndi
+1E8AF : Mende kikakui syllable m129 nda
+1E8B0 : Mende kikakui syllable m125 ndu
+1E8B1 : Mende kikakui syllable m191 ndee
+1E8B2 : Mende kikakui syllable m119 nde
+1E8B3 : Mende kikakui syllable m067 ndoo
+1E8B4 : Mende kikakui syllable m064 ndo
+1E8B5 : Mende kikakui syllable m152 nja
+1E8B6 : Mende kikakui syllable m192 nju
+1E8B7 : Mende kikakui syllable m149 njee
+1E8B8 : Mende kikakui syllable m134 njoo
+1E8B9 : Mende kikakui syllable m182 vi
+1E8BA : Mende kikakui syllable m185 va
+1E8BB : Mende kikakui syllable m151 vu
+1E8BC : Mende kikakui syllable m173 vee
+1E8BD : Mende kikakui syllable m085 ve
+1E8BE : Mende kikakui syllable m144 voo
+1E8BF : Mende kikakui syllable m077 vo
+1E8C0 : Mende kikakui syllable m164 nyin
+1E8C1 : Mende kikakui syllable m058 nyan
+1E8C2 : Mende kikakui syllable m170 nyun
+1E8C3 : Mende kikakui syllable m098 nyen
+1E8C4 : Mende kikakui syllable m060 nyon
+1E8C5 : 
+1E8C6 : 
+1E8C7 : Mende kikakui digit one
+1E8C8 : Mende kikakui digit two
+1E8C9 : Mende kikakui digit three
+1E8CA : Mende kikakui digit four
+1E8CB : Mende kikakui digit five
+1E8CC : Mende kikakui digit six
+1E8CD : Mende kikakui digit seven
+1E8CE : Mende kikakui digit eight
+1E8CF : Mende kikakui digit nine
+1E8D0 : Mende kikakui combining number teens
+1E8D1 : Mende kikakui combining number tens
+1E8D2 : Mende kikakui combining number hundreds
+1E8D3 : Mende kikakui combining number thousands
+1E8D4 : Mende kikakui combining number ten thousands
+1E8D5 : Mende kikakui combining number hundred thousands
+1E8D6 : Mende kikakui combining number millions
+1E8D7 : 
+1E8D8 : 
+1E8D9 : 
+1E8DA : 
+1E8DB : 
+1E8DC : 
+1E8DD : 
+1E8DE : 
+1E8DF : 
+1E8E0 : 
+1E8E1 : 
+1E8E2 : 
+1E8E3 : 
+1E8E4 : 
+1E8E5 : 
+1E8E6 : 
+1E8E7 : 
+1E8E8 : 
+1E8E9 : 
+1E8EA : 
+1E8EB : 
+1E8EC : 
+1E8ED : 
+1E8EE : 
+1E8EF : 
+1E8F0 : 
+1E8F1 : 
+1E8F2 : 
+1E8F3 : 
+1E8F4 : 
+1E8F5 : 
+1E8F6 : 
+1E8F7 : 
+1E8F8 : 
+1E8F9 : 
+1E8FA : 
+1E8FB : 
+1E8FC : 
+1E8FD : 
+1E8FE : 
+1E8FF : 

@@ -1,256 +1,256 @@
-011A00 : 
-011A01 : 
-011A02 : 
-011A03 : 
-011A04 : 
-011A05 : 
-011A06 : 
-011A07 : 
-011A08 : 
-011A09 : 
-011A0A : 
-011A0B : 
-011A0C : 
-011A0D : 
-011A0E : 
-011A0F : 
-011A10 : 
-011A11 : 
-011A12 : 
-011A13 : 
-011A14 : 
-011A15 : 
-011A16 : 
-011A17 : 
-011A18 : 
-011A19 : 
-011A1A : 
-011A1B : 
-011A1C : 
-011A1D : 
-011A1E : 
-011A1F : 
-011A20 : 
-011A21 : 
-011A22 : 
-011A23 : 
-011A24 : 
-011A25 : 
-011A26 : 
-011A27 : 
-011A28 : 
-011A29 : 
-011A2A : 
-011A2B : 
-011A2C : 
-011A2D : 
-011A2E : 
-011A2F : 
-011A30 : 
-011A31 : 
-011A32 : 
-011A33 : 
-011A34 : 
-011A35 : 
-011A36 : 
-011A37 : 
-011A38 : 
-011A39 : 
-011A3A : 
-011A3B : 
-011A3C : 
-011A3D : 
-011A3E : 
-011A3F : 
-011A40 : 
-011A41 : 
-011A42 : 
-011A43 : 
-011A44 : 
-011A45 : 
-011A46 : 
-011A47 : 
-011A48 : 
-011A49 : 
-011A4A : 
-011A4B : 
-011A4C : 
-011A4D : 
-011A4E : 
-011A4F : 
-011A50 : 
-011A51 : 
-011A52 : 
-011A53 : 
-011A54 : 
-011A55 : 
-011A56 : 
-011A57 : 
-011A58 : 
-011A59 : 
-011A5A : 
-011A5B : 
-011A5C : 
-011A5D : 
-011A5E : 
-011A5F : 
-011A60 : 
-011A61 : 
-011A62 : 
-011A63 : 
-011A64 : 
-011A65 : 
-011A66 : 
-011A67 : 
-011A68 : 
-011A69 : 
-011A6A : 
-011A6B : 
-011A6C : 
-011A6D : 
-011A6E : 
-011A6F : 
-011A70 : 
-011A71 : 
-011A72 : 
-011A73 : 
-011A74 : 
-011A75 : 
-011A76 : 
-011A77 : 
-011A78 : 
-011A79 : 
-011A7A : 
-011A7B : 
-011A7C : 
-011A7D : 
-011A7E : 
-011A7F : 
-011A80 : 
-011A81 : 
-011A82 : 
-011A83 : 
-011A84 : 
-011A85 : 
-011A86 : 
-011A87 : 
-011A88 : 
-011A89 : 
-011A8A : 
-011A8B : 
-011A8C : 
-011A8D : 
-011A8E : 
-011A8F : 
-011A90 : 
-011A91 : 
-011A92 : 
-011A93 : 
-011A94 : 
-011A95 : 
-011A96 : 
-011A97 : 
-011A98 : 
-011A99 : 
-011A9A : 
-011A9B : 
-011A9C : 
-011A9D : 
-011A9E : 
-011A9F : 
-011AA0 : 
-011AA1 : 
-011AA2 : 
-011AA3 : 
-011AA4 : 
-011AA5 : 
-011AA6 : 
-011AA7 : 
-011AA8 : 
-011AA9 : 
-011AAA : 
-011AAB : 
-011AAC : 
-011AAD : 
-011AAE : 
-011AAF : 
-011AB0 : 
-011AB1 : 
-011AB2 : 
-011AB3 : 
-011AB4 : 
-011AB5 : 
-011AB6 : 
-011AB7 : 
-011AB8 : 
-011AB9 : 
-011ABA : 
-011ABB : 
-011ABC : 
-011ABD : 
-011ABE : 
-011ABF : 
-011AC0 : Pau cin hau letter pa
-011AC1 : Pau cin hau letter ka
-011AC2 : Pau cin hau letter la
-011AC3 : Pau cin hau letter ma
-011AC4 : Pau cin hau letter da
-011AC5 : Pau cin hau letter za
-011AC6 : Pau cin hau letter va
-011AC7 : Pau cin hau letter nga
-011AC8 : Pau cin hau letter ha
-011AC9 : Pau cin hau letter ga
-011ACA : Pau cin hau letter kha
-011ACB : Pau cin hau letter sa
-011ACC : Pau cin hau letter ba
-011ACD : Pau cin hau letter ca
-011ACE : Pau cin hau letter ta
-011ACF : Pau cin hau letter tha
-011AD0 : Pau cin hau letter na
-011AD1 : Pau cin hau letter pha
-011AD2 : Pau cin hau letter ra
-011AD3 : Pau cin hau letter fa
-011AD4 : Pau cin hau letter cha
-011AD5 : Pau cin hau letter a
-011AD6 : Pau cin hau letter e
-011AD7 : Pau cin hau letter i
-011AD8 : Pau cin hau letter o
-011AD9 : Pau cin hau letter u
-011ADA : Pau cin hau letter ua
-011ADB : Pau cin hau letter ia
-011ADC : Pau cin hau letter final p
-011ADD : Pau cin hau letter final k
-011ADE : Pau cin hau letter final t
-011ADF : Pau cin hau letter final m
-011AE0 : Pau cin hau letter final n
-011AE1 : Pau cin hau letter final l
-011AE2 : Pau cin hau letter final w
-011AE3 : Pau cin hau letter final ng
-011AE4 : Pau cin hau letter final y
-011AE5 : Pau cin hau rising tone long
-011AE6 : Pau cin hau rising tone
-011AE7 : Pau cin hau sandhi glottal stop
-011AE8 : Pau cin hau rising tone long final
-011AE9 : Pau cin hau rising tone final
-011AEA : Pau cin hau sandhi glottal stop final
-011AEB : Pau cin hau sandhi tone long
-011AEC : Pau cin hau sandhi tone
-011AED : Pau cin hau sandhi tone long final
-011AEE : Pau cin hau sandhi tone final
-011AEF : Pau cin hau mid-level tone
-011AF0 : Pau cin hau glottal stop variant
-011AF1 : Pau cin hau mid-level tone long final
-011AF2 : Pau cin hau mid-level tone final
-011AF3 : Pau cin hau low-falling tone long
-011AF4 : Pau cin hau low-falling tone
-011AF5 : Pau cin hau glottal stop
-011AF6 : Pau cin hau low-falling tone long final
-011AF7 : Pau cin hau low-falling tone final
-011AF8 : Pau cin hau glottal stop final
-011AF9 : 
-011AFA : 
-011AFB : 
-011AFC : 
-011AFD : 
-011AFE : 
-011AFF : 
+11A00 : 
+11A01 : 
+11A02 : 
+11A03 : 
+11A04 : 
+11A05 : 
+11A06 : 
+11A07 : 
+11A08 : 
+11A09 : 
+11A0A : 
+11A0B : 
+11A0C : 
+11A0D : 
+11A0E : 
+11A0F : 
+11A10 : 
+11A11 : 
+11A12 : 
+11A13 : 
+11A14 : 
+11A15 : 
+11A16 : 
+11A17 : 
+11A18 : 
+11A19 : 
+11A1A : 
+11A1B : 
+11A1C : 
+11A1D : 
+11A1E : 
+11A1F : 
+11A20 : 
+11A21 : 
+11A22 : 
+11A23 : 
+11A24 : 
+11A25 : 
+11A26 : 
+11A27 : 
+11A28 : 
+11A29 : 
+11A2A : 
+11A2B : 
+11A2C : 
+11A2D : 
+11A2E : 
+11A2F : 
+11A30 : 
+11A31 : 
+11A32 : 
+11A33 : 
+11A34 : 
+11A35 : 
+11A36 : 
+11A37 : 
+11A38 : 
+11A39 : 
+11A3A : 
+11A3B : 
+11A3C : 
+11A3D : 
+11A3E : 
+11A3F : 
+11A40 : 
+11A41 : 
+11A42 : 
+11A43 : 
+11A44 : 
+11A45 : 
+11A46 : 
+11A47 : 
+11A48 : 
+11A49 : 
+11A4A : 
+11A4B : 
+11A4C : 
+11A4D : 
+11A4E : 
+11A4F : 
+11A50 : 
+11A51 : 
+11A52 : 
+11A53 : 
+11A54 : 
+11A55 : 
+11A56 : 
+11A57 : 
+11A58 : 
+11A59 : 
+11A5A : 
+11A5B : 
+11A5C : 
+11A5D : 
+11A5E : 
+11A5F : 
+11A60 : 
+11A61 : 
+11A62 : 
+11A63 : 
+11A64 : 
+11A65 : 
+11A66 : 
+11A67 : 
+11A68 : 
+11A69 : 
+11A6A : 
+11A6B : 
+11A6C : 
+11A6D : 
+11A6E : 
+11A6F : 
+11A70 : 
+11A71 : 
+11A72 : 
+11A73 : 
+11A74 : 
+11A75 : 
+11A76 : 
+11A77 : 
+11A78 : 
+11A79 : 
+11A7A : 
+11A7B : 
+11A7C : 
+11A7D : 
+11A7E : 
+11A7F : 
+11A80 : 
+11A81 : 
+11A82 : 
+11A83 : 
+11A84 : 
+11A85 : 
+11A86 : 
+11A87 : 
+11A88 : 
+11A89 : 
+11A8A : 
+11A8B : 
+11A8C : 
+11A8D : 
+11A8E : 
+11A8F : 
+11A90 : 
+11A91 : 
+11A92 : 
+11A93 : 
+11A94 : 
+11A95 : 
+11A96 : 
+11A97 : 
+11A98 : 
+11A99 : 
+11A9A : 
+11A9B : 
+11A9C : 
+11A9D : 
+11A9E : 
+11A9F : 
+11AA0 : 
+11AA1 : 
+11AA2 : 
+11AA3 : 
+11AA4 : 
+11AA5 : 
+11AA6 : 
+11AA7 : 
+11AA8 : 
+11AA9 : 
+11AAA : 
+11AAB : 
+11AAC : 
+11AAD : 
+11AAE : 
+11AAF : 
+11AB0 : 
+11AB1 : 
+11AB2 : 
+11AB3 : 
+11AB4 : 
+11AB5 : 
+11AB6 : 
+11AB7 : 
+11AB8 : 
+11AB9 : 
+11ABA : 
+11ABB : 
+11ABC : 
+11ABD : 
+11ABE : 
+11ABF : 
+11AC0 : Pau cin hau letter pa
+11AC1 : Pau cin hau letter ka
+11AC2 : Pau cin hau letter la
+11AC3 : Pau cin hau letter ma
+11AC4 : Pau cin hau letter da
+11AC5 : Pau cin hau letter za
+11AC6 : Pau cin hau letter va
+11AC7 : Pau cin hau letter nga
+11AC8 : Pau cin hau letter ha
+11AC9 : Pau cin hau letter ga
+11ACA : Pau cin hau letter kha
+11ACB : Pau cin hau letter sa
+11ACC : Pau cin hau letter ba
+11ACD : Pau cin hau letter ca
+11ACE : Pau cin hau letter ta
+11ACF : Pau cin hau letter tha
+11AD0 : Pau cin hau letter na
+11AD1 : Pau cin hau letter pha
+11AD2 : Pau cin hau letter ra
+11AD3 : Pau cin hau letter fa
+11AD4 : Pau cin hau letter cha
+11AD5 : Pau cin hau letter a
+11AD6 : Pau cin hau letter e
+11AD7 : Pau cin hau letter i
+11AD8 : Pau cin hau letter o
+11AD9 : Pau cin hau letter u
+11ADA : Pau cin hau letter ua
+11ADB : Pau cin hau letter ia
+11ADC : Pau cin hau letter final p
+11ADD : Pau cin hau letter final k
+11ADE : Pau cin hau letter final t
+11ADF : Pau cin hau letter final m
+11AE0 : Pau cin hau letter final n
+11AE1 : Pau cin hau letter final l
+11AE2 : Pau cin hau letter final w
+11AE3 : Pau cin hau letter final ng
+11AE4 : Pau cin hau letter final y
+11AE5 : Pau cin hau rising tone long
+11AE6 : Pau cin hau rising tone
+11AE7 : Pau cin hau sandhi glottal stop
+11AE8 : Pau cin hau rising tone long final
+11AE9 : Pau cin hau rising tone final
+11AEA : Pau cin hau sandhi glottal stop final
+11AEB : Pau cin hau sandhi tone long
+11AEC : Pau cin hau sandhi tone
+11AED : Pau cin hau sandhi tone long final
+11AEE : Pau cin hau sandhi tone final
+11AEF : Pau cin hau mid-level tone
+11AF0 : Pau cin hau glottal stop variant
+11AF1 : Pau cin hau mid-level tone long final
+11AF2 : Pau cin hau mid-level tone final
+11AF3 : Pau cin hau low-falling tone long
+11AF4 : Pau cin hau low-falling tone
+11AF5 : Pau cin hau glottal stop
+11AF6 : Pau cin hau low-falling tone long final
+11AF7 : Pau cin hau low-falling tone final
+11AF8 : Pau cin hau glottal stop final
+11AF9 : 
+11AFA : 
+11AFB : 
+11AFC : 
+11AFD : 
+11AFE : 
+11AFF : 
