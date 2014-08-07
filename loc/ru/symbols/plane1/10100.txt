@@ -1,0 +1,256 @@
+10100 : Линия разделения слов в эгейском языке
+10101 : Точка для разделения слов в эгейском языке
+10102 : Галочка эгейского языка
+10103 :
+10104 :
+10105 :
+10106 :
+10107 : Эгейская цифра один
+10108 : Эгейская цифра два
+10109 : Эгейская цифра три
+1010A : Эгейская цифра четыре
+1010B : Эгейская цифра пять
+1010C : Эгейская цифра шесть
+1010D : Эгейская цифра семь
+1010E : Эгейская цифра восемь
+1010F : Эгейская цифра девять
+10110 : Эгейская цифра десять
+10111 : Эгейская цифра двадцать
+10112 : Эгейская цифра тридцать
+10113 : Эгейская цифра сорок
+10114 : Эгейская цифра пятьдесят
+10115 : Эгейская цифра шестьдесят
+10116 : Эгейская цифра семьдесят
+10117 : Эгейская цифра восемьдесят
+10118 : Эгейская цифра девяность
+10119 : Эгейская цифра сто
+1011A : Эгейская цифра двести
+1011B : Эгейская цифра триста
+1011C : Эгейская цифра четыреста
+1011D : Эгейская цифра пятьсот
+1011E : Эгейская цифра шестьсот
+1011F : Эгейская цифра семьсот
+10120 : Эгейская цифра восемьсот
+10121 : Эгейская цифра девятьсот
+10122 : Эгейская цифра тысяча
+10123 : Эгейская цифра две тысячи
+10124 : Эгейская цифра три тысячи
+10125 : Эгейская цифра четыре тысячи
+10126 : Эгейская цифра пять тысяч
+10127 : Эгейская цифра шесть тысяч
+10128 : Эгейская цифра семь тысяч
+10129 : Эгейская цифра восемь тысяч
+1012A : Эгейская цифра девять тысяч
+1012B : Эгейская цифра десять тысяч
+1012C : Эгейская цифра двадцать тысяч
+1012D : Эгейская цифра тридцать тысяч
+1012E : Эгейская цифра сорок тысяч
+1012F : Эгейская цифра пятьдесят тысяч
+10130 : Эгейская цифра шестьдесят тысяч
+10131 : Эгейская цифра семьдесят тысяч
+10132 : Эгейская цифра восемьдесят тысяч
+10133 : Эгейская цифра девяносто тысяч
+10134 :
+10135 :
+10136 :
+10137 : Эгейская мера веса - базовый блок
+10138 : Эгейская мера веса - первая часть
+10139 : Эгейская мера веса - вторая часть
+1013A : Эгейская мера веса - третья часть
+1013B : Эгейская мера веса - четвёртая часть
+1013C : Эгейская мера сухого веса - первая часть
+1013D : Эгейская мера веса жидкости - первая часть
+1013E : Эгейская мера - второй блок
+1013F : Эгейская мера - третий блок
+10140 : Greek acrophonic attic one quarter
+10141 : Greek acrophonic attic one half
+10142 : Greek acrophonic attic one drachma
+10143 : Greek acrophonic attic five
+10144 : Greek acrophonic attic fifty
+10145 : Greek acrophonic attic five hundred
+10146 : Greek acrophonic attic five thousand
+10147 : Greek acrophonic attic fifty thousand
+10148 : Greek acrophonic attic five talents
+10149 : Greek acrophonic attic ten talents
+1014A : Greek acrophonic attic fifty talents
+1014B : Greek acrophonic attic one hundred talents
+1014C : Greek acrophonic attic five hundred talents
+1014D : Greek acrophonic attic one thousand talents
+1014E : Greek acrophonic attic five thousand talents
+1014F : Greek acrophonic attic five staters
+10150 : Greek acrophonic attic ten staters
+10151 : Greek acrophonic attic fifty staters
+10152 : Greek acrophonic attic one hundred staters
+10153 : Greek acrophonic attic five hundred staters
+10154 : Greek acrophonic attic one thousand staters
+10155 : Greek acrophonic attic ten thousand staters
+10156 : Greek acrophonic attic fifty thousand staters
+10157 : Greek acrophonic attic ten mnas
+10158 : Greek acrophonic heraeum one plethron
+10159 : Greek acrophonic thespian one
+1015A : Greek acrophonic hermionian one
+1015B : Greek acrophonic epidaurean two
+1015C : Greek acrophonic thespian two
+1015D : Greek acrophonic cyrenaic two drachmas
+1015E : Greek acrophonic epidaurean two drachmas
+1015F : Greek acrophonic troezenian five
+10160 : Greek acrophonic troezenian ten
+10161 : Greek acrophonic troezenian ten alternate form
+10162 : Greek acrophonic hermionian ten
+10163 : Greek acrophonic messenian ten
+10164 : Greek acrophonic thespian ten
+10165 : Greek acrophonic thespian thirty
+10166 : Greek acrophonic troezenian fifty
+10167 : Greek acrophonic troezenian fifty alternate form
+10168 : Greek acrophonic hermionian fifty
+10169 : Greek acrophonic thespian fifty
+1016A : Greek acrophonic thespian one hundred
+1016B : Greek acrophonic thespian three hundred
+1016C : Greek acrophonic epidaurean five hundred
+1016D : Greek acrophonic troezenian five hundred
+1016E : Greek acrophonic thespian five hundred
+1016F : Greek acrophonic carystian five hundred
+10170 : Greek acrophonic naxian five hundred
+10171 : Greek acrophonic thespian one thousand
+10172 : Greek acrophonic thespian five thousand
+10173 : Greek acrophonic delphic five mnas
+10174 : Greek acrophonic stratian fifty mnas
+10175 : Greek one half sign
+10176 : Greek one half sign alternate form
+10177 : Greek two thirds sign
+10178 : Greek three quarters sign
+10179 : Greek year sign
+1017A : Greek talent sign
+1017B : Greek drachma sign
+1017C : Greek obol sign
+1017D : Greek two obols sign
+1017E : Greek three obols sign
+1017F : Greek four obols sign
+10180 : Greek five obols sign
+10181 : Greek metretes sign
+10182 : Greek kyathos base sign
+10183 : Greek litra sign
+10184 : Greek ounkia sign
+10185 : Greek xestes sign
+10186 : Greek artabe sign
+10187 : Greek aroura sign
+10188 : Greek gramma sign
+10189 : Greek tryblion base sign
+1018A : Greek zero sign
+1018B : Greek one quarter sign
+1018C : Greek sinusoid sign
+1018D :
+1018E :
+1018F :
+10190 : Roman sextans sign
+10191 : Roman uncia sign
+10192 : Roman semuncia sign
+10193 : Roman sextula sign
+10194 : Roman dimidia sextula sign
+10195 : Roman siliqua sign
+10196 : Roman denarius sign
+10197 : Roman quinarius sign
+10198 : Roman sestertius sign
+10199 : Roman dupondius sign
+1019A : Roman as sign
+1019B : Roman centurial sign
+1019C :
+1019D :
+1019E :
+1019F :
+101A0 : Greek symbol tau rho
+101A1 :
+101A2 :
+101A3 :
+101A4 :
+101A5 :
+101A6 :
+101A7 :
+101A8 :
+101A9 :
+101AA :
+101AB :
+101AC :
+101AD :
+101AE :
+101AF :
+101B0 :
+101B1 :
+101B2 :
+101B3 :
+101B4 :
+101B5 :
+101B6 :
+101B7 :
+101B8 :
+101B9 :
+101BA :
+101BB :
+101BC :
+101BD :
+101BE :
+101BF :
+101C0 :
+101C1 :
+101C2 :
+101C3 :
+101C4 :
+101C5 :
+101C6 :
+101C7 :
+101C8 :
+101C9 :
+101CA :
+101CB :
+101CC :
+101CD :
+101CE :
+101CF :
+101D0 : Phaistos disc sign pedestrian
+101D1 : Phaistos disc sign plumed head
+101D2 : Phaistos disc sign tattooed head
+101D3 : Phaistos disc sign captive
+101D4 : Phaistos disc sign child
+101D5 : Phaistos disc sign woman
+101D6 : Phaistos disc sign helmet
+101D7 : Phaistos disc sign gauntlet
+101D8 : Phaistos disc sign tiara
+101D9 : Phaistos disc sign arrow
+101DA : Phaistos disc sign bow
+101DB : Phaistos disc sign shield
+101DC : Phaistos disc sign club
+101DD : Phaistos disc sign manacles
+101DE : Phaistos disc sign mattock
+101DF : Phaistos disc sign saw
+101E0 : Phaistos disc sign lid
+101E1 : Phaistos disc sign boomerang
+101E2 : Phaistos disc sign carpentry plane
+101E3 : Phaistos disc sign dolium
+101E4 : Phaistos disc sign comb
+101E5 : Phaistos disc sign sling
+101E6 : Phaistos disc sign column
+101E7 : Phaistos disc sign beehive
+101E8 : Phaistos disc sign ship
+101E9 : Phaistos disc sign horn
+101EA : Phaistos disc sign hide
+101EB : Phaistos disc sign bulls leg
+101EC : Phaistos disc sign cat
+101ED : Phaistos disc sign ram
+101EE : Phaistos disc sign eagle
+101EF : Phaistos disc sign dove
+101F0 : Phaistos disc sign tunny
+101F1 : Phaistos disc sign bee
+101F2 : Phaistos disc sign plane tree
+101F3 : Phaistos disc sign vine
+101F4 : Phaistos disc sign papyrus
+101F5 : Phaistos disc sign rosette
+101F6 : Phaistos disc sign lily
+101F7 : Phaistos disc sign ox back
+101F8 : Phaistos disc sign flute
+101F9 : Phaistos disc sign grater
+101FA : Phaistos disc sign strainer
+101FB : Phaistos disc sign small axe
+101FC : Phaistos disc sign wavy band
+101FD : Phaistos disc sign combining oblique stroke
+101FE :
+101FF :

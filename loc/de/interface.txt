@@ -5,9 +5,9 @@ search          : Zeichensuche
 find            : Finden
 example         : Zum Beispiel
 example_text    : Hammer und Sichel;arrow;Pfeil;heart;space;check;triangle
-about           : Über Projekt
+about           : Über das Projekt
 not_language    : Es gibt meine Sprache nicht
-popular         : Meistens sucht man
+popular         : Meist gesucht
 loading         : Herunterladung, bitte warten…
 unicode_number  : Unicode Nummer
 html_code       : <span class="caps">HTML</span>-Code
@@ -32,7 +32,7 @@ sections_list   : Liste der Unicode-Absätze
 languages_list  : Liste der Sprachen
 languages_sections : Sektion der Sprachen
 more            : Mehr
-sets            : Symbolen sets
+sets            : Symbolgruppen
 ny_symbols      : Weinachten und Neujahr Symbolen
 prev            : Vorher.
 next            : Folgend.
@@ -40,8 +40,28 @@ entity          : Mnemonik
 search_overflow : Entschuldigung, Symbol U+%s in Ausarbeitung :)
 separate_page   : Öffnen einer separaten Seite
 edit            : Bearbeiten
-save            : Sparen
+save            : Speichern
 undo            : Rückgängig
+
+
+# __________________________________________________________
+#
+# FOOTER / МЕНЮ ПОДВАЛА
+# __________________________________________________________
+
+feedback        : Feedback
+github          : GitHub
+twitter         : Twitter
+join_us         : Ich möchte mitmachen
+donate          : Wie kann ich spenden
+unicode         : Unicode
+about_unicode   : About Unicode
+unicode_history : Unicode history
+unicode_versions: Unicode versions
+broken_chars    : Some characters not displaying
+cyrillic        : Cyrillic
+fonts           : Fonts
+
 
 
 # __________________________________________________________
@@ -57,9 +77,9 @@ encoder-full    : Alles
 encoder-entities: Die Symbolen, die die Mnemonike haben, mit den Mnemoniken kodieren.
 encoder-br      : Den Zeilenumbrüche betrachten
 
-decoder         : Unicode-Chiffreur
+decoder         : Unicode ⇆ Text kodieren
 decoder-desc    : Verschlüsselt Symbolen in Unicode oder dechiffriert  zurück
-decoder-example : Das ist ein Beispiel
+decoder-example : Dies ist ein Beispieltext für Unicode Kodierung
 decoder-code    : Unicode
 decoder-text    : Text
 

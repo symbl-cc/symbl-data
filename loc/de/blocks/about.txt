@@ -1,7 +1,18 @@
 <section class="page about">
     <div class="wrapper">
-        <h1>Über Projekt</h1>
-        <p>Das Ziel dieses Projektes war es, schön und höchstens handlich die Unicode Zeichentabelle zu zeigen. Um in einer Website alles zusammenzufassen, was über jedes Symbol, jeden Bereich bekannt ist. Um zu zeigen, welche Symbols in welchen Schriften der Länder der Welt benutzt werden. Wir arbeiten ständig an Weiterentwicklung der Website und Exaktheit der Übersetzungen in anderen Sprachen. Wir drehen die Ladung der Seiten auf. Wir haben grosse Arbeitspläne. Wenn Sie die Ideen, Vorschläge oder jegliche Kommentare haben, können Sie sie öffentlich hier lassen: <a href="http://unicode-table.idea.informer.com/"><i class="fa fa-bug"></i>unicode-table.com/ru/about/</a> oder e-mail schreiben: <a href="mailto:info@unicode-table.com"><i class="fa fa-envelope"></i>info@unicode-table.com</a>. Möchten Sie, dass dieses Projekt auch auf Ihrer Muttersprache erschienen würde? Und sind Sie fertig sich daran nach Ihren Kräften teilzunehmen? Dann schreiben Sie bitte.</p>
+        <h1>Über das Projekt</h1>
+        <p>Das Ziel dieses Projektes ist es, eine schöne und handliche Unicode Zeichentabelle zu zeigen.
+Auf dieser Webseite fassen wir alles zusammen was über die einzelne Symbole und deren
+Bereiche bekannt ist. In der interaktiven Landkarte ist zu sehen welche Schriften in welchem Land
+Verwendung findet. Wir arbeiten ständig an der Weiterentwicklung dieser Website und den korrekten Übersetzungen.
+Hinterlassen sie uns doch ein öffentliches Feedback <a href="http://unicode-table.idea.informer.com/"><i class="fa fa-bug"></i>unicode-table.com/ru/about/</a>.
+
+<p>
+Haben sie Intresse an diesem gemeinnützigen Projekt mitzuwirken. Möchten sie das dieses Projekt in einer weiteren Sprache umgesetzt wird?
+Wir freuen uns über jede Hilfe die uns nach seinen Möglichkeiten Unterstützt. Insbesondere bei Übersetzungen in weitere Sprachen.</p>
+
+<p>Schreiben sie uns an <a href="mailto:info@unicode-table.com"><i class="fa fa-envelope"></i>info@unicode-table.com</a>. Ihre Nachricht ist herzlich willkommen.</p>
+
         <p>Dieses Projekt ist gemeinnützig. Es bringt uns kein Geld.</p>
         <div class="people">
             <article>
@@ -27,12 +38,12 @@
                 <div class="photo"><img src="/i/people/kaa.png" alt="Ann Krivonosova" /></div>
                 <h2>Ann Krivonosova</h2>
                 Sankt-Petersburg, Russland<br />                
-                Übersetzung Symbolsnamen ins Russisch</article>
+                Übersetzung der Symbolnamen ins Russische</article>
             <article>
                 <div class="photo"><img src="/i/people/thn.png" alt="Thanapon Namjittrong" /></div>
                 <h2>Thanapon Namjittrong</h2>
                 Thailand<br />                
-                Übersetzung ins Thai</article>					
+                 Übersetzung ins Thailändische</article>					
         </div>
     </div>
 </section>

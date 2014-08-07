@@ -927,3 +927,10 @@
 	type            : 
 	languages       : 
 	countries       : 
+
+[plane1]
+    diap            : 10000:1FFFF
+	type            : 
+	languages       : 
+	countries       : 
+

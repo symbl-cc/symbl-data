@@ -1,0 +1,256 @@
+10B00 : Avestan letter a
+10B01 : Avestan letter aa
+10B02 : Avestan letter ao
+10B03 : Avestan letter aao
+10B04 : Avestan letter an
+10B05 : Avestan letter aan
+10B06 : Avestan letter ae
+10B07 : Avestan letter aee
+10B08 : Avestan letter e
+10B09 : Avestan letter ee
+10B0A : Avestan letter o
+10B0B : Avestan letter oo
+10B0C : Avestan letter i
+10B0D : Avestan letter ii
+10B0E : Avestan letter u
+10B0F : Avestan letter uu
+10B10 : Avestan letter ke
+10B11 : Avestan letter xe
+10B12 : Avestan letter xye
+10B13 : Avestan letter xve
+10B14 : Avestan letter ge
+10B15 : Avestan letter gge
+10B16 : Avestan letter ghe
+10B17 : Avestan letter ce
+10B18 : Avestan letter je
+10B19 : Avestan letter te
+10B1A : Avestan letter the
+10B1B : Avestan letter de
+10B1C : Avestan letter dhe
+10B1D : Avestan letter tte
+10B1E : Avestan letter pe
+10B1F : Avestan letter fe
+10B20 : Avestan letter be
+10B21 : Avestan letter bhe
+10B22 : Avestan letter nge
+10B23 : Avestan letter ngye
+10B24 : Avestan letter ngve
+10B25 : Avestan letter ne
+10B26 : Avestan letter nye
+10B27 : Avestan letter nne
+10B28 : Avestan letter me
+10B29 : Avestan letter hme
+10B2A : Avestan letter yye
+10B2B : Avestan letter ye
+10B2C : Avestan letter ve
+10B2D : Avestan letter re
+10B2E : Avestan letter le
+10B2F : Avestan letter se
+10B30 : Avestan letter ze
+10B31 : Avestan letter she
+10B32 : Avestan letter zhe
+10B33 : Avestan letter shye
+10B34 : Avestan letter sshe
+10B35 : Avestan letter he
+10B36 : 
+10B37 : 
+10B38 : 
+10B39 : Avestan abbreviation mark
+10B3A : Tiny two dots over one dot punctuation
+10B3B : Small two dots over one dot punctuation
+10B3C : Large two dots over one dot punctuation
+10B3D : Large one dot over two dots punctuation
+10B3E : Large two rings over one ring punctuation
+10B3F : Large one ring over two rings punctuation
+10B40 : Inscriptional parthian letter aleph
+10B41 : Inscriptional parthian letter beth
+10B42 : Inscriptional parthian letter gimel
+10B43 : Inscriptional parthian letter daleth
+10B44 : Inscriptional parthian letter he
+10B45 : Inscriptional parthian letter waw
+10B46 : Inscriptional parthian letter zayin
+10B47 : Inscriptional parthian letter heth
+10B48 : Inscriptional parthian letter teth
+10B49 : Inscriptional parthian letter yodh
+10B4A : Inscriptional parthian letter kaph
+10B4B : Inscriptional parthian letter lamedh
+10B4C : Inscriptional parthian letter mem
+10B4D : Inscriptional parthian letter nun
+10B4E : Inscriptional parthian letter samekh
+10B4F : Inscriptional parthian letter ayin
+10B50 : Inscriptional parthian letter pe
+10B51 : Inscriptional parthian letter sadhe
+10B52 : Inscriptional parthian letter qoph
+10B53 : Inscriptional parthian letter resh
+10B54 : Inscriptional parthian letter shin
+10B55 : Inscriptional parthian letter taw
+10B56 : 
+10B57 : 
+10B58 : Inscriptional parthian number one
+10B59 : Inscriptional parthian number two
+10B5A : Inscriptional parthian number three
+10B5B : Inscriptional parthian number four
+10B5C : Inscriptional parthian number ten
+10B5D : Inscriptional parthian number twenty
+10B5E : Inscriptional parthian number one hundred
+10B5F : Inscriptional parthian number one thousand
+10B60 : Inscriptional pahlavi letter aleph
+10B61 : Inscriptional pahlavi letter beth
+10B62 : Inscriptional pahlavi letter gimel
+10B63 : Inscriptional pahlavi letter daleth
+10B64 : Inscriptional pahlavi letter he
+10B65 : Inscriptional pahlavi letter waw-ayin-resh
+10B66 : Inscriptional pahlavi letter zayin
+10B67 : Inscriptional pahlavi letter heth
+10B68 : Inscriptional pahlavi letter teth
+10B69 : Inscriptional pahlavi letter yodh
+10B6A : Inscriptional pahlavi letter kaph
+10B6B : Inscriptional pahlavi letter lamedh
+10B6C : Inscriptional pahlavi letter mem-qoph
+10B6D : Inscriptional pahlavi letter nun
+10B6E : Inscriptional pahlavi letter samekh
+10B6F : Inscriptional pahlavi letter pe
+10B70 : Inscriptional pahlavi letter sadhe
+10B71 : Inscriptional pahlavi letter shin
+10B72 : Inscriptional pahlavi letter taw
+10B73 : 
+10B74 : 
+10B75 : 
+10B76 : 
+10B77 : 
+10B78 : Inscriptional pahlavi number one
+10B79 : Inscriptional pahlavi number two
+10B7A : Inscriptional pahlavi number three
+10B7B : Inscriptional pahlavi number four
+10B7C : Inscriptional pahlavi number ten
+10B7D : Inscriptional pahlavi number twenty
+10B7E : Inscriptional pahlavi number one hundred
+10B7F : Inscriptional pahlavi number one thousand
+10B80 : Psalter pahlavi letter aleph
+10B81 : Psalter pahlavi letter beth
+10B82 : Psalter pahlavi letter gimel
+10B83 : Psalter pahlavi letter daleth
+10B84 : Psalter pahlavi letter he
+10B85 : Psalter pahlavi letter waw-ayin-resh
+10B86 : Psalter pahlavi letter zayin
+10B87 : Psalter pahlavi letter heth
+10B88 : Psalter pahlavi letter yodh
+10B89 : Psalter pahlavi letter kaph
+10B8A : Psalter pahlavi letter lamedh
+10B8B : Psalter pahlavi letter mem-qoph
+10B8C : Psalter pahlavi letter nun
+10B8D : Psalter pahlavi letter samekh
+10B8E : Psalter pahlavi letter pe
+10B8F : Psalter pahlavi letter sadhe
+10B90 : Psalter pahlavi letter shin
+10B91 : Psalter pahlavi letter taw
+10B92 : 
+10B93 : 
+10B94 : 
+10B95 : 
+10B96 : 
+10B97 : 
+10B98 : 
+10B99 : Psalter pahlavi section mark
+10B9A : Psalter pahlavi turned section mark
+10B9B : Psalter pahlavi four dots with cross
+10B9C : Psalter pahlavi four dots with dot
+10B9D : 
+10B9E : 
+10B9F : 
+10BA0 : 
+10BA1 : 
+10BA2 : 
+10BA3 : 
+10BA4 : 
+10BA5 : 
+10BA6 : 
+10BA7 : 
+10BA8 : 
+10BA9 : Psalter pahlavi number one
+10BAA : Psalter pahlavi number two
+10BAB : Psalter pahlavi number three
+10BAC : Psalter pahlavi number four
+10BAD : Psalter pahlavi number ten
+10BAE : Psalter pahlavi number twenty
+10BAF : Psalter pahlavi number one hundred
+10BB0 : 
+10BB1 : 
+10BB2 : 
+10BB3 : 
+10BB4 : 
+10BB5 : 
+10BB6 : 
+10BB7 : 
+10BB8 : 
+10BB9 : 
+10BBA : 
+10BBB : 
+10BBC : 
+10BBD : 
+10BBE : 
+10BBF : 
+10BC0 : 
+10BC1 : 
+10BC2 : 
+10BC3 : 
+10BC4 : 
+10BC5 : 
+10BC6 : 
+10BC7 : 
+10BC8 : 
+10BC9 : 
+10BCA : 
+10BCB : 
+10BCC : 
+10BCD : 
+10BCE : 
+10BCF : 
+10BD0 : 
+10BD1 : 
+10BD2 : 
+10BD3 : 
+10BD4 : 
+10BD5 : 
+10BD6 : 
+10BD7 : 
+10BD8 : 
+10BD9 : 
+10BDA : 
+10BDB : 
+10BDC : 
+10BDD : 
+10BDE : 
+10BDF : 
+10BE0 : 
+10BE1 : 
+10BE2 : 
+10BE3 : 
+10BE4 : 
+10BE5 : 
+10BE6 : 
+10BE7 : 
+10BE8 : 
+10BE9 : 
+10BEA : 
+10BEB : 
+10BEC : 
+10BED : 
+10BEE : 
+10BEF : 
+10BF0 : 
+10BF1 : 
+10BF2 : 
+10BF3 : 
+10BF4 : 
+10BF5 : 
+10BF6 : 
+10BF7 : 
+10BF8 : 
+10BF9 : 
+10BFA : 
+10BFB : 
+10BFC : 
+10BFD : 
+10BFE : 
+10BFF : 
