@@ -153,7 +153,6 @@ small-form-variants : Варианты малого размера
 arabic-presentation-forms-b : Формы представления арабских букв-B
 halfwidth-and-fullwidth-forms : Полуширинные и полноширинные формы
 specials        : Специальные символы
-
 linear-b-syllabary : Слоги линейного письма Б
 linear-b-ideograms : Идеограммы линейного письма Б
 aegean-numbers : Эгейские цифры
@@ -197,45 +196,45 @@ kaithi : Кайтхи
 sora-sompeng : Sora Sompeng
 chakma : Chakma
 mahajani : Mahajani
-sharada : Sharada
+sharada : Шарада
 sinhala-archaic-numbers : Sinhala Archaic Numbers
 khojki : Khojki
 khudawadi : Khudawadi
-grantha : Grantha
+grantha : Грантха
 tirhuta : Tirhuta
-siddham : Siddham
-modi : Modi
-takri : Takri
-warang-citi : Warang Citi
+siddham : Сиддхаматрика
+modi : Моди
+takri : Такри
+warang-citi : Варанг-кшити
 pau-cin-hau : Pau Cin Hau
-cuneiform : Cuneiform
-cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
-egyptian-hieroglyphs : Egyptian Hieroglyphs
-bamum-supplement : Bamum Supplement
+cuneiform : Клинопись
+cuneiform-numbers-and-punctuation : Клинописные цифры и знаки пунктуации
+egyptian-hieroglyphs : Египетские иероглифы
+bamum-supplement : Письмо бамум (дополнение)
 mro : Mro
-bassa-vah : Bassa Vah
+bassa-vah : Письмо басса
 pahawh-hmong : Pahawh Hmong
-miao : Miao
+miao : Письмо Полларда (миао)
 kana-supplement : Kana Supplement
 duployan : Duployan
 shorthand-format-controls : Shorthand Format Controls
-byzantine-musical-symbols : Byzantine Musical Symbols
-musical-symbols : Musical Symbols
-ancient-greek-musical-notation : Ancient Greek Musical Notation
+byzantine-musical-symbols : Византийские музыкальные символы
+musical-symbols : Музыкальные символы
+ancient-greek-musical-notation : Древнегреческие музыкальные символы
 tai-xuan-jing-symbols : Tai Xuan Jing Symbols
-counting-rod-numerals : Counting Rod Numerals
-mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
+counting-rod-numerals : Счётные палочки
+mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
 mende-kikakui : Mende Kikakui
-arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
-mahjong-tiles : Mahjong Tiles
-domino-tiles : Domino Tiles
-playing-cards : Playing Cards
-enclosed-alphanumeric-supplement : Enclosed Alphanumeric Supplement
-enclosed-ideographic-supplement : Enclosed Ideographic Supplement
-miscellaneous-symbols-and-pictographs : Miscellaneous Symbols And Pictographs
-emoticons : Emoticons
-ornamental-dingbats : Ornamental Dingbats
-transport-and-map-symbols : Transport And Map Symbols
-alchemical-symbols : Alchemical Symbols
-geometric-shapes-extended : Geometric Shapes Extended
-supplemental-arrows-c : Supplemental Arrows-C
+arabic-mathematical-alphabetic-symbols : Арабские математические буквенно-цифровые символы
+mahjong-tiles : Кости для маджонга
+domino-tiles : Кости для домино
+playing-cards : Игральные карты
+enclosed-alphanumeric-supplement : Обрамлённые буквенно-цифровые символы (дополнение)
+enclosed-ideographic-supplement : Обрамлённые идеографические символы (дополнение)
+miscellaneous-symbols-and-pictographs : Различные символы и пиктограммы
+emoticons : Эмоджи (иконки эмоций)
+ornamental-dingbats : Элементы орнамента
+transport-and-map-symbols : Транспортные и картографические символы
+alchemical-symbols : Алхимические символы
+geometric-shapes-extended : Геометрические фигуры (расширение)
+supplemental-arrows-c : Дополнительные стрелки-С
