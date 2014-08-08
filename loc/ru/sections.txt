@@ -110,14 +110,14 @@ kanbun          : Канбун(китайский)
 bopomofo-extended : Расширенный набор символов бопомофо, чжуинь
 cjk-strokes     : Черты ККЯ
 katakana-phonetic-extentions : Фонетические расширения катаканы
-enclosed-cjk-letters-and-months : Вложенные буквы и месяцы ККЯ 
-cjk-compatibility : Знаки совместимости ККЯ 
+enclosed-cjk-letters-and-months : Вложенные буквы и месяцы ККЯ
+cjk-compatibility : Знаки совместимости ККЯ
 cjk-unified-ideographs-extension-a : Унифицированные иероглифы ККЯ
 yijing-hexagram-symbols : Гексаграммы И-Цзин
 cjk-unified-ideographs : Унифицированные иероглифы ККЯ
 yi-syllables    : Слоги. Письмо И
 yi-radicals     : Радикалы. Письмо И
-old-lisu-alphabet : Слоговая письменность ваи 
+old-lisu-alphabet : Слоговая письменность ваи
 ciryllic-extended-B : Расширенная кириллица-B
 bamum           : Письмо бамум
 modifier-tone-letters : Символы изменения тона
@@ -126,18 +126,18 @@ syloty-nagri    : Силоти нагри
 indian-numeric-character : Индийские числовые символы
 phags-pa        : Квадратное письмо Пагба-ламы
 saurashtra      : Саураштра
-devanagari-extended-characters : Расширенный набор символов деванагари 
+devanagari-extended-characters : Расширенный набор символов деванагари
 kayah-li        : Кайях Ли
 rejang          : Реджанг
 hangul          : Хангыль
-javanese-alphabet : Яванская письменность 
+javanese-alphabet : Яванская письменность
 cham-alphabet   : Тямское письмо
-burmese-alphabet-extention-a : Мьянманская письменность. Расширение A 
-tai-viet-alphabet : Письменность Тай Вьет 
+burmese-alphabet-extention-a : Мьянманская письменность. Расширение A
+tai-viet-alphabet : Письменность Тай Вьет
 meitei-language-extentions : Мейтей расширенная
 ethiopic-extended-a : Набор расширенных символов эфиопского письма-А
 meitei-language : Мейтей (Манипури)
-hangul-syllables : Слоги Хангыля 
+hangul-syllables : Слоги Хангыля
 high-surrogates : Верхняя часть суррогатных пар
 high-private-use-surrogates : Верхняя часть суррогатных пар для частного использования
 low-surrogates  : Нижняя часть суррогатных пар
@@ -153,3 +153,89 @@ small-form-variants : Варианты малого размера
 arabic-presentation-forms-b : Формы представления арабских букв-B
 halfwidth-and-fullwidth-forms : Полуширинные и полноширинные формы
 specials        : Специальные символы
+
+linear-b-syllabary : Слоги линейного письма Б
+linear-b-ideograms : Идеограммы линейного письма Б
+aegean-numbers : Эгейские цифры
+ancient-greek-numbers : Древнегреческие цифры
+ancient-symbols : Древние символы
+phaistos-disc : Символы фестского диска
+lycian : Ликийский алфавит
+carian : Алфавит карийского языка
+coptic-epact-numbers : Коптские epact-числа
+old-italic : Этрусский (староитальянский) алфавит
+gothic : Готский алфавит
+old-permic : Древнепермское письмо
+ugaritic : Угаритский алфавит
+old-persian : Древнеперсидский клинописный алфавит
+deseret : Дезеретский алфавит
+shavian : Алфавит Бренарда Шоу
+osmanya : Османия (сомалийский алфавит)
+elbasan : Эльбасанское письмо
+caucasian-albanian : Агванское письмо (Кавказская Албания)
+linear-a : Линейное письмо А
+cypriot-syllabary : Слоговая письменность острова Крит
+imperial-aramaic : Арамейское письмо
+palmyrene : Диалект Пальмиры
+nabataean : Набатейское письмо
+phoenician : Финикийское письмо
+lydian : Лидийский алфавит
+meroitic-hieroglyphs : Иероглифическое мероитское письмо
+meroitic-cursive : Курсивное мероитское письмо
+kharoshthi : Кхароштхи
+old-south-arabian : Старый южноаравийский алфавит
+old-north-arabian : Старый североаравийский алфавит
+manichaean : Манихейское письмо
+avestan : Авестийский алфавит
+inscriptional-parthian : Пехлевийское письмо для парфянского языка
+inscriptional-pahlavi : Эпиграфическое пехлевийское письмо
+psalter-pahlavi : Псалтырь пехлеви
+old-turkic : Древнетюркское руническое письмо
+rumi-numeral-symbols : Цифры системы руми
+brahmi : Брахмическая письменность
+kaithi : Кайтхи
+sora-sompeng : Sora Sompeng
+chakma : Chakma
+mahajani : Mahajani
+sharada : Sharada
+sinhala-archaic-numbers : Sinhala Archaic Numbers
+khojki : Khojki
+khudawadi : Khudawadi
+grantha : Grantha
+tirhuta : Tirhuta
+siddham : Siddham
+modi : Modi
+takri : Takri
+warang-citi : Warang Citi
+pau-cin-hau : Pau Cin Hau
+cuneiform : Cuneiform
+cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
+egyptian-hieroglyphs : Egyptian Hieroglyphs
+bamum-supplement : Bamum Supplement
+mro : Mro
+bassa-vah : Bassa Vah
+pahawh-hmong : Pahawh Hmong
+miao : Miao
+kana-supplement : Kana Supplement
+duployan : Duployan
+shorthand-format-controls : Shorthand Format Controls
+byzantine-musical-symbols : Byzantine Musical Symbols
+musical-symbols : Musical Symbols
+ancient-greek-musical-notation : Ancient Greek Musical Notation
+tai-xuan-jing-symbols : Tai Xuan Jing Symbols
+counting-rod-numerals : Counting Rod Numerals
+mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
+mende-kikakui : Mende Kikakui
+arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
+mahjong-tiles : Mahjong Tiles
+domino-tiles : Domino Tiles
+playing-cards : Playing Cards
+enclosed-alphanumeric-supplement : Enclosed Alphanumeric Supplement
+enclosed-ideographic-supplement : Enclosed Ideographic Supplement
+miscellaneous-symbols-and-pictographs : Miscellaneous Symbols And Pictographs
+emoticons : Emoticons
+ornamental-dingbats : Ornamental Dingbats
+transport-and-map-symbols : Transport And Map Symbols
+alchemical-symbols : Alchemical Symbols
+geometric-shapes-extended : Geometric Shapes Extended
+supplemental-arrows-c : Supplemental Arrows-C
