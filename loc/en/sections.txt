@@ -9,70 +9,70 @@ combining-diacritical-marks : Combining Diacritical Marks
 greek-coptic    : Greek and Coptic
 cyrillic        : Cyrillic
 cyrillic-supplement : Cyrillic Supplement
-armenian        : Armenian 
-hebrew          : Hebrew 
+armenian        : Armenian
+hebrew          : Hebrew
 arabic          : Arabic
 syrian          : Syriac
-arabic-supplement : Arabic Supplement 
+arabic-supplement : Arabic Supplement
 thaana          : Thaana
 nko             : NKo
 samaritan       : Samaritan
 mandaic         : Mandaic
 arabic-extended-a : Arabic Extended-A
-devanagari      : Devanagari 
+devanagari      : Devanagari
 bengali         : Bengali
 gurmukhi        : Gurmukhi
-gujarati        : Gujarati 
-oriya           : Oriya 
-tamil           : Tamil 
-telugu          : Telugu 
+gujarati        : Gujarati
+oriya           : Oriya
+tamil           : Tamil
+telugu          : Telugu
 kannada         : Kannada
-malayalam       : Malayalam 
+malayalam       : Malayalam
 sinhala         : Sinhala
 thai            : Thai
 lao             : Lao
 tibetan         : Tibetan
 myanmar         : Myanmar
-georgian        : Georgian 
+georgian        : Georgian
 hangul-jamo     : Hangul Jamo
-ethiopic        : Ethiopic 
+ethiopic        : Ethiopic
 ethiopic-supplement : Ethiopic Supplement
-cherokee        : Cherokee 
-unified-canadian-aboriginal-syllabics : Unified Canadian Aboriginal Syllabics 
+cherokee        : Cherokee
+unified-canadian-aboriginal-syllabics : Unified Canadian Aboriginal Syllabics
 ogham           : Ogham
 runic           : Runic
-tagalog         : Tagalog 
-hanunoo         : Hanunoo  
+tagalog         : Tagalog
+hanunoo         : Hanunoo
 buhid           : Buhid
 tagbanwa        : Tagbanwa
-khmer           : Khmer 
+khmer           : Khmer
 mongolian       : Mongolian
-unified-canadian-aboriginal-syllabics-extended : Unified Canadian Aboriginal Syllabics Extended 
+unified-canadian-aboriginal-syllabics-extended : Unified Canadian Aboriginal Syllabics Extended
 limbu           : Limbu
 tai-le          : Tai Le
 new-tai-lue     : Tai Lue
 khmer-symbols   : Khmer Symbols
 buginese        : Buginese
 tai-tham        : Tai Tham
-balinese        : Balinese 
+balinese        : Balinese
 sundanese       : Sundanese
-batak           : Batak 
-lepcha          : Lepcha 
-ol-chiki        : Ol Chiki 
+batak           : Batak
+lepcha          : Lepcha
+ol-chiki        : Ol Chiki
 sundanese-supplement : Sundanese Supplement
 vedic-extensions : Vedic Extensions
-phonetic-extentions : Phonetic Extensions 
-phonetic-extentions-supplement : Phonetic Extensions Supplement 
-combining-diacritical-marks-supplement : Combining Diacritical Marks Supplement 
-latin-extended-additional : Latin extended additional 
-greek-extended  : Greek Extended 
+phonetic-extentions : Phonetic Extensions
+phonetic-extentions-supplement : Phonetic Extensions Supplement
+combining-diacritical-marks-supplement : Combining Diacritical Marks Supplement
+latin-extended-additional : Latin extended additional
+greek-extended  : Greek Extended
 general-punctuation : General Punctuation
 superscripts-and-subscripts : Superscripts and Subscripts
-currency-symbols : Currency Symbols 
+currency-symbols : Currency Symbols
 combining-diacritical-marks-for-symbols : Combining Diacritical Marks for Symbols
-letterlike-symbols : Letterlike Symbols 
-number-forms    : Number Forms 
-arrows          : Arrows 
+letterlike-symbols : Letterlike Symbols
+number-forms    : Number Forms
+arrows          : Arrows
 mathematical-operators : Mathematical Operators
 miscellaneous-technical : Miscellaneous Technical
 control-pictures : Control Pictures
@@ -83,62 +83,62 @@ block-elements  : Block Elements
 geometric-shapes : Geometric Shapes
 miscellaneous-symbols : Miscellaneous Symbols
 dingbats        : Dingbats
-miscellaneous-mathematical-symbols-a : Miscellaneous Mathematical Symbols-A 
-suplemental-arrows-a : Supplemental Arrows-A 
+miscellaneous-mathematical-symbols-a : Miscellaneous Mathematical Symbols-A
+suplemental-arrows-a : Supplemental Arrows-A
 braille-patterns : Braille Patterns
 suplemental-arrows-b : Supplemental Arrows-B
 miscellaneous-mathematical-symbols-b : Miscellaneous Mathematical Symbols-B
-supplemental-mathematical-operators : Supplemental Mathematical Operators 
+supplemental-mathematical-operators : Supplemental Mathematical Operators
 miscellaneous-symbols-and-arrows : Miscellaneous Symbols and Arrows
 glagolitic      : Glagolitic
 latin-extended-c : Latin Extended-C
-coptic          : Coptic 
-georgian-supplement : Georgian Supplement 
-tifinagh        : Tifinagh 
-ethiopic-extended : Ethiopic Extended 
+coptic          : Coptic
+georgian-supplement : Georgian Supplement
+tifinagh        : Tifinagh
+ethiopic-extended : Ethiopic Extended
 cyrillic-extended : Cyrillic Extended-A
 supplemental-punctuation : Supplemental Punctuation
 cjk-radicals-supplement : CJK Radicals Supplement
-kangxi-radicals : Kangxi Radicals 
+kangxi-radicals : Kangxi Radicals
 ideographic-description-characters : Ideographic Description Characters
-cjk-symbols-and-punctuation : CJK Symbols and Punctuation 
-hiragana        : Hiragana 
+cjk-symbols-and-punctuation : CJK Symbols and Punctuation
+hiragana        : Hiragana
 katakana        : Katakana
 bopomofo        : Bopomofo
-hangul-compatibility-jamo : Hangul Compatibility Jamo 
-kanbun          : Kanbun 
-bopomofo-extended : Bopomofo Extended 
+hangul-compatibility-jamo : Hangul Compatibility Jamo
+kanbun          : Kanbun
+bopomofo-extended : Bopomofo Extended
 cjk-strokes     : CJK Strokes
 katakana-phonetic-extentions : Katakana Phonetic Extensions
-enclosed-cjk-letters-and-months : Enclosed CJK Letters and Months 
-cjk-compatibility : CJK Compatibility 
+enclosed-cjk-letters-and-months : Enclosed CJK Letters and Months
+cjk-compatibility : CJK Compatibility
 cjk-unified-ideographs-extension-a : CJK Unified Ideographs Extension A
 yijing-hexagram-symbols : Yijing Hexagram Symbols
 cjk-unified-ideographs : CJK Unified Ideographs
 yi-syllables    : Yi Syllables
 yi-radicals     : Yi Radicals
-old-lisu-alphabet : Vai  
+old-lisu-alphabet : Vai
 ciryllic-extended-B : Cyrillic Extended-B
 bamum           : Bamum
-modifier-tone-letters : Modifier Tone Letters 
+modifier-tone-letters : Modifier Tone Letters
 latin-extended-d : Latin Extended-D
-syloty-nagri    : Syloti Nagri 
-indian-numeric-character : Common Indic Number Forms 
-phags-pa        : Phags-pa 
+syloty-nagri    : Syloti Nagri
+indian-numeric-character : Common Indic Number Forms
+phags-pa        : Phags-pa
 saurashtra      : Saurashtra
 devanagari-extended-characters : Devanagari Extended
-kayah-li        : Kayah Li 
-rejang          : Rejang 
+kayah-li        : Kayah Li
+rejang          : Rejang
 hangul          : Hangul Jamo Extended-A
-javanese-alphabet : Javanese  
+javanese-alphabet : Javanese
 cham-alphabet   : Cham
-burmese-alphabet-extention-a : Myanmar Extended-A 
-tai-viet-alphabet : Tai Viet 
-meitei-language-extentions : Meetei Mayek Extensions 
+burmese-alphabet-extention-a : Myanmar Extended-A
+tai-viet-alphabet : Tai Viet
+meitei-language-extentions : Meetei Mayek Extensions
 ethiopic-extended-a : Ethiopic Extended-A
-meitei-language : Meetei Mayek 
-hangul-syllables : Hangul Syllables 
-high-surrogates : High Surrogates 
+meitei-language : Meetei Mayek
+hangul-syllables : Hangul Syllables
+high-surrogates : High Surrogates
 high-private-use-surrogates : High Private Use Surrogates
 low-surrogates  : Low Surrogates
 private-use-area : Private Use Area
@@ -149,8 +149,92 @@ variation-selectors : Variation Selectors
 vertical-forms  : Vertical Forms
 combining-half-marks : Combining Half Marks
 cjk-compatibility-forms : CJK Compatibility Forms
-small-form-variants : Small Form Variants 
-arabic-presentation-forms-b : Arabic Presentation Forms-B 
+small-form-variants : Small Form Variants
+arabic-presentation-forms-b : Arabic Presentation Forms-B
 halfwidth-and-fullwidth-forms : Halfwidth and Fullwidth Forms
 specials        : Specials
-plane1 : Plane 1
+linear-b-syllabary : Linear B Syllabary
+linear-b-ideograms : Linear B Ideograms
+aegean-numbers : Aegean Numbers
+ancient-greek-numbers : Ancient Greek Numbers
+ancient-symbols : Ancient Symbols
+phaistos-disc : Phaistos Disc
+lycian : Lycian
+carian : Carian
+coptic-epact-numbers : Coptic Epact Numbers
+old-italic : Old Italic
+gothic : Gothic
+old-permic : Old Permic
+ugaritic : Ugaritic
+old-persian : Old Persian
+deseret : Deseret
+shavian : Shavian
+osmanya : Osmanya
+elbasan : Elbasan
+caucasian-albanian : Caucasian Albanian
+linear-a : Linear A
+cypriot-syllabary : Cypriot Syllabary
+imperial-aramaic : Imperial Aramaic
+palmyrene : Palmyrene
+nabataean : Nabataean
+phoenician : Phoenician
+lydian : Lydian
+meroitic-hieroglyphs : Meroitic Hieroglyphs
+meroitic-cursive : Meroitic Cursive
+kharoshthi : Kharoshthi
+old-south-arabian : Old South Arabian
+old-north-arabian : Old North Arabian
+manichaean : Manichaean
+avestan : Avestan
+inscriptional-parthian : Inscriptional Parthian
+inscriptional-pahlavi : Inscriptional Pahlavi
+psalter-pahlavi : Psalter Pahlavi
+old-turkic : Old Turkic
+rumi-numeral-symbols : Rumi Numeral Symbols
+brahmi : Brahmi
+kaithi : Kaithi
+sora-sompeng : Sora Sompeng
+chakma : Chakma
+mahajani : Mahajani
+sharada : Sharada
+sinhala-archaic-numbers : Sinhala Archaic Numbers
+khojki : Khojki
+khudawadi : Khudawadi
+grantha : Grantha
+tirhuta : Tirhuta
+siddham : Siddham
+modi : Modi
+takri : Takri
+warang-citi : Warang Citi
+pau-cin-hau : Pau Cin Hau
+cuneiform : Cuneiform
+cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
+egyptian-hieroglyphs : Egyptian Hieroglyphs
+bamum-supplement : Bamum Supplement
+mro : Mro
+bassa-vah : Bassa Vah
+pahawh-hmong : Pahawh Hmong
+miao : Miao
+kana-supplement : Kana Supplement
+duployan : Duployan
+shorthand-format-controls : Shorthand Format Controls
+byzantine-musical-symbols : Byzantine Musical Symbols
+musical-symbols : Musical Symbols
+ancient-greek-musical-notation : Ancient Greek Musical Notation
+tai-xuan-jing-symbols : Tai Xuan Jing Symbols
+counting-rod-numerals : Counting Rod Numerals
+mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
+mende-kikakui : Mende Kikakui
+arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
+mahjong-tiles : Mahjong Tiles
+domino-tiles : Domino Tiles
+playing-cards : Playing Cards
+enclosed-alphanumeric-supplement : Enclosed Alphanumeric Supplement
+enclosed-ideographic-supplement : Enclosed Ideographic Supplement
+miscellaneous-symbols-and-pictographs : Miscellaneous Symbols And Pictographs
+emoticons : Emoticons
+ornamental-dingbats : Ornamental Dingbats
+transport-and-map-symbols : Transport And Map Symbols
+alchemical-symbols : Alchemical Symbols
+geometric-shapes-extended : Geometric Shapes Extended
+supplemental-arrows-c : Supplemental Arrows-C
