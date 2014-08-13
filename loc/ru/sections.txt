@@ -161,7 +161,7 @@ ancient-symbols : Древние символы
 phaistos-disc : Символы фестского диска
 lycian : Ликийский алфавит
 carian : Алфавит карийского языка
-coptic-epact-numbers : Коптские epact-числа
+coptic-epact-numbers : Коптские числа епакты
 old-italic : Этрусский (староитальянский) алфавит
 gothic : Готский алфавит
 old-permic : Древнепермское письмо
@@ -194,14 +194,14 @@ rumi-numeral-symbols : Цифры системы руми
 brahmi : Брахмическая письменность
 kaithi : Кайтхи
 sora-sompeng : Sora Sompeng
-chakma : Chakma
+chakma : Чакма
 mahajani : Mahajani
 sharada : Шарада
-sinhala-archaic-numbers : Sinhala Archaic Numbers
-khojki : Khojki
-khudawadi : Khudawadi
+sinhala-archaic-numbers : Сингальские архаические цифры
+khojki : Кходжики
+khudawadi : Кхудабади
 grantha : Грантха
-tirhuta : Tirhuta
+tirhuta : Тирхута
 siddham : Сиддхаматрика
 modi : Моди
 takri : Такри
@@ -215,7 +215,7 @@ mro : Mro
 bassa-vah : Письмо басса
 pahawh-hmong : Pahawh Hmong
 miao : Письмо Полларда (миао)
-kana-supplement : Kana Supplement
+kana-supplement : Кана (дополнение)
 duployan : Duployan
 shorthand-format-controls : Shorthand Format Controls
 byzantine-musical-symbols : Византийские музыкальные символы
@@ -224,13 +224,13 @@ ancient-greek-musical-notation : Древнегреческие музыкаль
 tai-xuan-jing-symbols : Tai Xuan Jing Symbols
 counting-rod-numerals : Счётные палочки
 mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
-mende-kikakui : Mende Kikakui
+mende-kikakui : Письмо кикауи для языка менде
 arabic-mathematical-alphabetic-symbols : Арабские математические буквенно-цифровые символы
 mahjong-tiles : Кости для маджонга
 domino-tiles : Кости для домино
 playing-cards : Игральные карты
-enclosed-alphanumeric-supplement : Обрамлённые буквенно-цифровые символы (дополнение)
-enclosed-ideographic-supplement : Обрамлённые идеографические символы (дополнение)
+enclosed-alphanumeric-supplement : Вложенные буквенно-цифровые символы (дополнение)
+enclosed-ideographic-supplement : Вложенные идеографические символы (дополнение)
 miscellaneous-symbols-and-pictographs : Различные символы и пиктограммы
 emoticons : Эмоджи (иконки эмоций)
 ornamental-dingbats : Элементы орнамента

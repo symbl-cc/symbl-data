@@ -20,7 +20,7 @@
 1F613 : Эмоджи - Лицо в холодном поту
 1F614 : Эмоджи - Задумчивое лицо
 1F615 : Эмоджи - Смущённое лицо
-1F616 : Эмоджи - Confounded face
+1F616 : Эмоджи - Выражение стыда
 1F617 : Эмоджи - Целующееся лицо
 1F618 : Эмоджи - Лицо, посылающее поцелуй
 1F619 : Эмоджи - Целующееся лицо со смеющимися глазами
@@ -42,7 +42,7 @@
 1F629 : Эмоджи - Утомлённое лицо
 1F62A : Эмоджи - Сонное лицо
 1F62B : Эмоджи - Усталое лицо
-1F62C : Эмоджи - Гримасса на лице
+1F62C : Эмоджи - Гримаса на лице
 1F62D : Эмоджи - Лицо громко плачет
 1F62E : Эмоджи - Лицо с открытым ртом
 1F62F : Эмоджи - Лицо, просящее тишины
@@ -67,65 +67,65 @@
 1F642 : Эмоджи - Слегка улыбающееся лицо
 1F643 : Эмоджи -
 1F644 : Эмоджи -
-1F645 : Эмоджи - Face with no good gesture
-1F646 : Эмоджи - Face with ok gesture
-1F647 : Эмоджи - Person bowing deeply
-1F648 : Эмоджи - See-no-evil monkey
-1F649 : Эмоджи - Hear-no-evil monkey
-1F64A : Эмоджи - Speak-no-evil monkey
-1F64B : Эмоджи - Happy person raising one hand
-1F64C : Эмоджи - Person raising both hands in celebration
-1F64D : Эмоджи - Person frowning
-1F64E : Эмоджи - Person with pouting face
-1F64F : Эмоджи - Person with folded hands
-1F650 : North west pointing leaf
-1F651 : South west pointing leaf
-1F652 : North east pointing leaf
-1F653 : South east pointing leaf
-1F654 : Turned north west pointing leaf
-1F655 : Turned south west pointing leaf
-1F656 : Turned north east pointing leaf
-1F657 : Turned south east pointing leaf
-1F658 : North west pointing vine leaf
-1F659 : South west pointing vine leaf
-1F65A : North east pointing vine leaf
-1F65B : South east pointing vine leaf
-1F65C : Heavy north west pointing vine leaf
-1F65D : Heavy south west pointing vine leaf
-1F65E : Heavy north east pointing vine leaf
-1F65F : Heavy south east pointing vine leaf
-1F660 : North west pointing bud
-1F661 : South west pointing bud
-1F662 : North east pointing bud
-1F663 : South east pointing bud
-1F664 : Heavy north west pointing bud
-1F665 : Heavy south west pointing bud
-1F666 : Heavy north east pointing bud
-1F667 : Heavy south east pointing bud
-1F668 : Hollow quilt square ornament
-1F669 : Hollow quilt square ornament in black square
-1F66A : Solid quilt square ornament
-1F66B : Solid quilt square ornament in black square
-1F66C : Leftwards rocket
-1F66D : Upwards rocket
-1F66E : Rightwards rocket
-1F66F : Downwards rocket
-1F670 : Script ligature et ornament
-1F671 : Heavy script ligature et ornament
-1F672 : Ligature open et ornament
-1F673 : Heavy ligature open et ornament
-1F674 : Heavy ampersand ornament
-1F675 : Swash ampersand ornament
-1F676 : Sans-serif heavy double turned comma quotation mark ornament
-1F677 : Sans-serif heavy double comma quotation mark ornament
-1F678 : Sans-serif heavy low double comma quotation mark ornament
-1F679 : Heavy interrobang ornament
-1F67A : Sans-serif interrobang ornament
-1F67B : Heavy sans-serif interrobang ornament
-1F67C : Very heavy solidus
-1F67D : Very heavy reverse solidus
-1F67E : Checker board
-1F67F : Reverse checker board
+1F645 : Эмоджи - Человек жестикулирующий о том, что ему не нравится
+1F646 : Эмоджи - Человек жестикулирующий, что всё хорошо
+1F647 : Эмоджи - Глубокий поклон
+1F648 : Эмоджи - Обезьяна не видящая зла
+1F649 : Эмоджи - Обезьяна не слышащая зла
+1F64A : Эмоджи - Обезьяна не говорящая о зле
+1F64B : Эмоджи - Счастливый человек с поднятой рукой
+1F64C : Эмоджи - Человек поднявший обе руки в торжестве : банзай
+1F64D : Эмоджи - Нахмурившийся человек
+1F64E : Эмоджи - Человек с надутыми губами
+1F64F : Эмоджи - Человек сложивший руки
+1F650 : Листок, указывающий на северо-запад
+1F651 : Листок, указывающий на юго-запад
+1F652 : Листок, указывающий на северо-восток
+1F653 : Листок, указывающий на юго-восток
+1F654 : Перевёрнутый листок, указывающий на северо-запад
+1F655 : Перевёрнутый листок, указывающий на юго-запад
+1F656 : Перевёрнутый листок, указывающий на северо-восток
+1F657 : Перевёрнутый листок, указывающий на юго-восток
+1F658 : Виноградная лоза, указывающая на северо-запад
+1F659 : Виноградная лоза, указывающая на юго-запад
+1F65A : Виноградная лоза, указывающая на северо-восток
+1F65B : Виноградная лоза, указывающая на юго-восток
+1F65C : Толстая виноградная лоза, указывающая на северо-запад
+1F65D : Толстая виноградная лоза, указывающая на юго-запад
+1F65E : Толстая виноградная лоза, указывающая на северо-восток
+1F65F : Толстая виноградная лоза, указывающая на юго-восток
+1F660 : Бутон, указывающий на северо-запад
+1F661 : Бутон, указывающий на юго-запад
+1F662 : Бутон, указывающий на северо-восток
+1F663 : Бутон, указывающий на юго-восток
+1F664 : Толстый бутон, указывающий на северо-запад
+1F665 : Толстый бутон, указывающий на юго-запад
+1F666 : Толстый бутон, указывающий на северо-восток
+1F667 : Толстый бутон, указывающий на юго-восток
+1F668 : Квадратный орнамент для одеяла с полыми линиями
+1F669 : Квадратный орнамент для одеяла с полыми линиями, заключённый в чёрный квадрат
+1F66A : Квадратный орнамент для одеяла со сплошными линиями
+1F66B : Квадратный орнамент для одеяла со сплошными, заключённый в чёрный квадрат
+1F66C : Направленная влево ракета
+1F66D : Направленная вверх ракета
+1F66E : Направленная вправо ракета
+1F66F : Направленная вниз ракета
+1F670 : Орнамент в виде лигатуры et
+1F671 : Орнамент в виде лигатуры et в жирном начертании
+1F672 : Орнамент в виде лигатуры Et
+1F673 : Орнамент в виде лигатуры Et в жирном начертании
+1F674 : Орнамент в виде амперсанда (&) в жирном начертании
+1F675 : Орнамент в виде курсивного амперсанда (&)
+1F676 : Перевёрнутые двойные кавычки в жирном начертании без засечек (онрамент)
+1F677 : Двойные кавычки в жирном начертании без засечек (онрамент)
+1F678 : Нижние двойные кавычки в жирном начертании без засечек (онрамент)
+1F679 : Жирный интерробанг (орнамент)
+1F67A : Интерробанг без засечек (орнамент)
+1F67B : Жирный интерробанг без засечек (орнамент)
+1F67C : Очень жирная черта дроби (солидус)
+1F67D : Очень жирная обращённый черта дроби (солидус)
+1F67E : Шахматная доска
+1F67F : Шахматная доска (перевёрнутая)
 1F680 : Ракета
 1F681 : Вертолёт
 1F682 : Паровоз
@@ -151,61 +151,61 @@
 1F696 : Приближающееся такси
 1F697 : Автомобиль
 1F698 : Приближающийся автомобиль
-1F699 : Recreational vehicle
-1F69A : Delivery truck
-1F69B : Articulated lorry
-1F69C : Tractor
-1F69D : Monorail
-1F69E : Mountain railway
-1F69F : Suspension railway
-1F6A0 : Mountain cableway
-1F6A1 : Aerial tramway
-1F6A2 : Ship
-1F6A3 : Rowboat
-1F6A4 : Speedboat
-1F6A5 : Horizontal traffic light
-1F6A6 : Vertical traffic light
-1F6A7 : Construction sign
-1F6A8 : Police cars revolving light
-1F6A9 : Triangular flag on post
-1F6AA : Door
-1F6AB : No entry sign
-1F6AC : Smoking symbol
-1F6AD : No smoking symbol
-1F6AE : Put litter in its place symbol
-1F6AF : Do not litter symbol
-1F6B0 : Potable water symbol
-1F6B1 : Non-potable water symbol
-1F6B2 : Bicycle
-1F6B3 : No bicycles
-1F6B4 : Bicyclist
-1F6B5 : Mountain bicyclist
-1F6B6 : Pedestrian
-1F6B7 : No pedestrians
-1F6B8 : Children crossing
-1F6B9 : Mens symbol
-1F6BA : Womens symbol
-1F6BB : Restroom
-1F6BC : Baby symbol
-1F6BD : Toilet
-1F6BE : Water closet
-1F6BF : Shower
-1F6C0 : Bath
-1F6C1 : Bathtub
-1F6C2 : Passport control
-1F6C3 : Customs
-1F6C4 : Baggage claim
-1F6C5 : Left luggage
-1F6C6 : Triangle with rounded corners
-1F6C7 : Prohibited sign
-1F6C8 : Circled information source
-1F6C9 : Boys symbol
-1F6CA : Girls symbol
-1F6CB : Couch and lamp
-1F6CC : Sleeping accommodation
-1F6CD : Shopping bags
-1F6CE : Bellhop bell
-1F6CF : Bed
+1F699 : Развлекательный автомобиль
+1F69A : Грузовик доставки
+1F69B : Автопоезд
+1F69C : Трактор
+1F69D : Монорельс
+1F69E : Горная железная дорога
+1F69F : Подвесная железная дорога
+1F6A0 : Горная канатная дорога
+1F6A1 : Канатная дорога
+1F6A2 : Корабль
+1F6A3 : Вёсельная лодка
+1F6A4 : Катер
+1F6A5 : Горизонтальный светофор
+1F6A6 : Вертикальный светофор
+1F6A7 : Предупреждающие огни
+1F6A8 : Полицейская мигалка
+1F6A9 : Треугольный флаг на стойке
+1F6AA : Дверь
+1F6AB : Не входить
+1F6AC : Знак курения
+1F6AD : Не курить
+1F6AE : Бросать мусор сюда
+1F6AF : Не бросать мусор
+1F6B0 : Питьевая вода
+1F6B1 : Вода не предназначена для питья
+1F6B2 : Велосипед
+1F6B3 : Проезд велосипедов запрещён
+1F6B4 : Велосипедист
+1F6B5 : Горный велосипедист
+1F6B6 : Пешеход
+1F6B7 : Переход запрещён
+1F6B8 : Осторожно дети
+1F6B9 : Мужская уборная
+1F6BA : Женская уборная
+1F6BB : Уборная
+1F6BC : Знак с ребёнком
+1F6BD : Туалет
+1F6BE : Туалет (WC)
+1F6BF : Душ
+1F6C0 : Баня
+1F6C1 : Ванна
+1F6C2 : Паспортный контроль
+1F6C3 : Таможня
+1F6C4 : Выдача багажа
+1F6C5 : Комната для багажа
+1F6C6 : Треугольник с закруглёнными углами
+1F6C7 : Запрещено
+1F6C8 : Информация (знак в круге)
+1F6C9 : Мальчики
+1F6CA : Девочки
+1F6CB : Диван и лампа
+1F6CC : Спальные места
+1F6CD : Мешки для покупок
+1F6CE : Колокольчик для вызова коридорного
+1F6CF : Кровать
 1F6D0 :
 1F6D1 :
 1F6D2 :
