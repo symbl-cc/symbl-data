@@ -1,73 +1,73 @@
-1F400 : Rat
-1F401 : Mouse
-1F402 : Ox
-1F403 : Water buffalo
-1F404 : Cow
-1F405 : Tiger
-1F406 : Leopard
-1F407 : Rabbit
-1F408 : Cat
-1F409 : Dragon
-1F40A : Crocodile
-1F40B : Whale
-1F40C : Snail
-1F40D : Snake
-1F40E : Horse
-1F40F : Ram
-1F410 : Goat
-1F411 : Sheep
-1F412 : Monkey
-1F413 : Rooster
-1F414 : Chicken
+1F400 : Крыса
+1F401 : Мышь
+1F402 : Вол : Буйвол
+1F403 : Буйвол
+1F404 : Корова
+1F405 : Тигр
+1F406 : Леопард
+1F407 : Кролик
+1F408 : Кот
+1F409 : Дракон
+1F40A : Крокодил
+1F40B : Кит
+1F40C : Улитка
+1F40D : Змея
+1F40E : Лошадь
+1F40F : Овен
+1F410 : Коза
+1F411 : Овцы
+1F412 : Обезьяна
+1F413 : Петух
+1F414 : Курица
 1F415 : Dog
-1F416 : Pig
-1F417 : Boar
-1F418 : Elephant
-1F419 : Octopus
-1F41A : Spiral shell
-1F41B : Bug
-1F41C : Ant
-1F41D : Honeybee
-1F41E : Lady beetle
-1F41F : Fish
-1F420 : Tropical fish
-1F421 : Blowfish
-1F422 : Turtle
-1F423 : Hatching chick
-1F424 : Baby chick
-1F425 : Front-facing baby chick
-1F426 : Bird
-1F427 : Penguin
-1F428 : Koala
-1F429 : Poodle
-1F42A : Dromedary camel
-1F42B : Bactrian camel
-1F42C : Dolphin
-1F42D : Mouse face
-1F42E : Cow face
-1F42F : Tiger face
-1F430 : Rabbit face
-1F431 : Cat face
-1F432 : Dragon face
-1F433 : Spouting whale
-1F434 : Horse face
-1F435 : Monkey face
-1F436 : Dog face
-1F437 : Pig face
-1F438 : Frog face
-1F439 : Hamster face
-1F43A : Wolf face
-1F43B : Bear face
-1F43C : Panda face
-1F43D : Pig nose
-1F43E : Paw prints
-1F43F : Chipmunk
-1F440 : Eyes
-1F441 : Eye
-1F442 : Ear
-1F443 : Nose
-1F444 : Mouth
-1F445 : Tongue
+1F416 : Свинья
+1F417 : Кабан
+1F418 : Слон
+1F419 : Осминог
+1F41A : Закрученная раковина
+1F41B : Жук
+1F41C : Муравей
+1F41D : Медоносная пчела
+1F41E : Божья коровка
+1F41F : Рыба
+1F420 : Тропическая рыба
+1F421 : Иглобрюхая рыба
+1F422 : Черепаха
+1F423 : Вылупившийся цыплёнок
+1F424 : Цыплёнок
+1F425 : Цыплёнок в анфас
+1F426 : Птица
+1F427 : Пингвин
+1F428 : Коала
+1F429 : Пудель
+1F42A : Одногорбый верблюд (дромадер)
+1F42B : Двугорбый верблют
+1F42C : Дельфин
+1F42D : Мордочка мыши
+1F42E : Морда коровы
+1F42F : Морда тигра
+1F430 : Морда кролика
+1F431 : Морда кота
+1F432 : Морда дракона
+1F433 : Кит выпускающий струю
+1F434 : Морда лошади
+1F435 : Морда обезьяны
+1F436 : Морда собаки
+1F437 : Морда свиньи
+1F438 : Морда лягушки
+1F439 : Морда хомяка
+1F43A : Морда волка
+1F43B : Морда медведя
+1F43C : Морда панды
+1F43D : Нос свиньи (пятачок)
+1F43E : Следы лап
+1F43F : Бурундук
+1F440 : Глаза
+1F441 : Глаз
+1F442 : Ухо
+1F443 : Нос
+1F444 : Рот
+1F445 : Язык
 1F446 : White up pointing backhand index
 1F447 : White down pointing backhand index
 1F448 : White left pointing backhand index
@@ -79,7 +79,7 @@
 1F44E : Thumbs down sign
 1F44F : Clapping hands sign
 1F450 : Open hands sign
-1F451 : Crown
+1F451 : Корона
 1F452 : Womans hat
 1F453 : Eyeglasses
 1F454 : Necktie
@@ -229,7 +229,7 @@
 1F4E4 : Outbox tray
 1F4E5 : Inbox tray
 1F4E6 : Package
-1F4E7 : E-mail symbol
+1F4E7 : Символ E-mail : почта
 1F4E8 : Incoming envelope
 1F4E9 : Envelope with downwards arrow above
 1F4EA : Closed mailbox with lowered flag
@@ -253,4 +253,4 @@
 1F4FC : Videocassette
 1F4FD : Film projector
 1F4FE : Portable stereo
-1F4FF : 
+1F4FF :

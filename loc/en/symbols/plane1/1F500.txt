@@ -11,8 +11,8 @@
 1F50A : Speaker with three sound waves
 1F50B : Battery
 1F50C : Electric plug
-1F50D : Left-pointing magnifying glass
-1F50E : Right-pointing magnifying glass
+1F50D : Left-pointing magnifying glass : search : loupe
+1F50E : Right-pointing magnifying glass : search : loupe
 1F50F : Lock with ink pen
 1F510 : Closed lock with key
 1F511 : Key
@@ -73,11 +73,11 @@
 1F548 : Celtic cross
 1F549 : Om symbol
 1F54A : Dove of peace
-1F54B : 
-1F54C : 
-1F54D : 
-1F54E : 
-1F54F : 
+1F54B :
+1F54C :
+1F54D :
+1F54E :
+1F54F :
 1F550 : Clock face one oclock
 1F551 : Clock face two oclock
 1F552 : Clock face three oclock
@@ -120,7 +120,7 @@
 1F577 : Spider
 1F578 : Spider web
 1F579 : Joystick
-1F57A : 
+1F57A :
 1F57B : Left hand telephone receiver
 1F57C : Telephone receiver with page
 1F57D : Right hand telephone receiver
@@ -162,7 +162,7 @@
 1F5A1 : Sideways black down pointing index
 1F5A2 : Black up pointing backhand index
 1F5A3 : Black down pointing backhand index
-1F5A4 : 
+1F5A4 :
 1F5A5 : Desktop computer
 1F5A6 : Keyboard and mouse
 1F5A7 : Three networked computers
