@@ -158,7 +158,7 @@
 269D : Outlined white star
 269E : Three lines converging right
 269F : Three lines converging left
-26A0 : Warning sign
+26A0 : Warning sign : danger
 26A1 : High voltage sign
 26A2 : Doubled female sign
 26A3 : Doubled male sign
@@ -204,7 +204,7 @@
 26CB : White diamond in square
 26CC : Crossing lanes
 26CD : Disabled car
-26CE : 
+26CE :
 26CF : Pick
 26D0 : Car sliding
 26D1 : Helmet with white cross
@@ -224,12 +224,12 @@
 26DF : Black truck
 26E0 : Restricted left entry-1
 26E1 : Restricted left entry-2
-26E2 : 
+26E2 :
 26E3 : Heavy circle with stroke and two dots above
-26E4 : 
-26E5 : 
-26E6 : 
-26E7 : 
+26E4 :
+26E5 :
+26E6 :
+26E7 :
 26E8 : Black cross on shield
 26E9 : Shinto shrine
 26EA : Church
