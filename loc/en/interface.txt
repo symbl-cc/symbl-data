@@ -30,11 +30,11 @@ search_limit    : (show only %s)
 search_none     : None
 search_any      : Search by any words
 help_range      : Click to highlight range
-sections_list   : List of Unicode Sections
-languages_list  : List of Languages
+sections_list   : Unicode blocks
+languages_list  : Languages
 languages_sections : Sections of language
-types_list      : List of Types
-countries_list  : List of Countries
+types_list      : Types
+countries_list  : Countries
 more            : More
 sets            : Character sets
 ny_symbols      : Christmas and NY symbols
@@ -46,7 +46,9 @@ feedback        : Feedback
 separate_page   : Open in separate page
 edit            : Edit
 save            : Save
+submit          : Submit
 undo            : Undo
+send_changes    : Your changes will be send to the website developers. Are you sure?
 
 # __________________________________________________________
 #
