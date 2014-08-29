@@ -3,76 +3,76 @@
 1F502 : Clockwise rightwards and leftwards open circle arrows with circled one overlay
 1F503 : Clockwise downwards and upwards open circle arrows
 1F504 : Anticlockwise downwards and upwards open circle arrows
-1F505 : Low brightness symbol
-1F506 : High brightness symbol
-1F507 : Speaker with cancellation stroke
-1F508 : Speaker
-1F509 : Speaker with one sound wave
-1F50A : Speaker with three sound waves
-1F50B : Battery
-1F50C : Electric plug
+1F505 : Низкий уровень яркости : солнце
+1F506 : Высокая уровень яркости : солнце
+1F507 : Звук отключён
+1F508 : Уровень звука : динамик, спикер
+1F509 : Низкий уровень звука
+1F50A : Высокий уровень звука
+1F50B : Батарейка
+1F50C : Электрический провод
 1F50D : Лупа (наклонённая влево) : поиск
 1F50E : Лупа (наклонённая вправо) : поиск
-1F50F : Lock with ink pen
-1F510 : Closed lock with key
-1F511 : Key
-1F512 : Lock
-1F513 : Open lock
-1F514 : Bell
-1F515 : Bell with cancellation stroke
-1F516 : Bookmark
-1F517 : Link symbol
-1F518 : Radio button
-1F519 : Back with leftwards arrow above
-1F51A : End with leftwards arrow above
-1F51B : On with exclamation mark with left right arrow above
-1F51C : Soon with rightwards arrow above
-1F51D : Top with upwards arrow above
-1F51E : No one under eighteen symbol
-1F51F : Keycap ten
-1F520 : Input symbol for latin capital letters
-1F521 : Input symbol for latin small letters
-1F522 : Input symbol for numbers
-1F523 : Input symbol for symbols
-1F524 : Input symbol for latin letters
-1F525 : Fire
-1F526 : Electric torch
-1F527 : Wrench
-1F528 : Hammer
-1F529 : Nut and bolt
-1F52A : Hocho
-1F52B : Pistol
-1F52C : Microscope
-1F52D : Telescope
-1F52E : Crystal ball
-1F52F : Six pointed star with middle dot
-1F530 : Japanese symbol for beginner
-1F531 : Trident emblem
-1F532 : Black square button
-1F533 : White square button
-1F534 : Large red circle
-1F535 : Large blue circle
-1F536 : Large orange diamond
-1F537 : Large blue diamond
-1F538 : Small orange diamond
-1F539 : Small blue diamond
-1F53A : Up-pointing red triangle
-1F53B : Down-pointing red triangle
-1F53C : Up-pointing small red triangle
-1F53D : Down-pointing small red triangle
-1F53E : Lower right shadowed white circle
-1F53F : Upper right shadowed white circle
-1F540 : Circled cross pommee
-1F541 : Cross pommee with half-circle below
-1F542 : Cross pommee
-1F543 : Notched left semicircle with three dots
-1F544 : Notched right semicircle with three dots
-1F545 : Symbol for marks chapter
-1F546 : White latin cross
-1F547 : Heavy latin cross
-1F548 : Celtic cross
-1F549 : Om symbol
-1F54A : Dove of peace
+1F50F : Закрытый замок и чернильное перо
+1F510 : Закрытый замок и ключ
+1F511 : Ключ
+1F512 : Замок
+1F513 : Открытый замок
+1F514 : Колокольчик
+1F515 : Перечёркнутый колокольчик
+1F516 : Закладка
+1F517 : Символ ссылки
+1F518 : Выбранный вариант
+1F519 : Стрелка влево над словом BACK (назад)
+1F51A : Стрелка влево над словом END (конец)
+1F51B : Двунаправленная стрелка над словом ON! (включить)
+1F51C : Стрелка вправо над словом SOON
+1F51D : Стрелка вверх над словом TOP (верх)
+1F51E : Заперещено до 18
+1F51F : Клавиша 10
+1F520 : Символы ввода: заглавные латинские буквы
+1F521 : Символы ввода: строчные латинские буквы
+1F522 : Символы ввода: цифры
+1F523 : Символы ввода: различные символы
+1F524 : Символы ввода: латинские буквы
+1F525 : Огонь
+1F526 : Электрический фонарь
+1F527 : Гаечный ключ
+1F528 : Молоток
+1F529 : Болт с гайкой
+1F52A : Японский кухонный нож
+1F52B : Пистолет
+1F52C : Микроскоп
+1F52D : Телескоп
+1F52E : Хрустальный шар
+1F52F : Шестиконечная звезда с точкой в центре
+1F530 : Японский символ новичков
+1F531 : Эмблема в виде трезубца
+1F532 : Чёрная квадратная кнопка
+1F533 : Белая квадратная кнопка
+1F534 : Большой красный круг
+1F535 : Большой синий круг
+1F536 : Большой оранжевый ромб
+1F537 : Большой синий ромб
+1F538 : Маленький оранжевый ромб
+1F539 : Маленький синий ромб
+1F53A : Красный треугольник с верхушкой, направленной вверх
+1F53B : Красный треугольник с верхушкой, направленной вниз
+1F53C : Маленький красный треугольник с верхушкой, направленной вверх
+1F53D : Маленький красный треугольник с верхушкой, направленной вниз
+1F53E : Белый круг с тенью внизу справа
+1F53F : Белый круг с тенью вверху справа
+1F540 : Шаровидный крест в круге
+1F541 : Шаровидный крест в полукруге
+1F542 : Шаровидный крест
+1F543 : Левый зубчатый полукруг с двумя точками
+1F544 : Правый зубчатый полукруг с двумя точками
+1F545 : Символ для отметки глав
+1F546 : Белый латинский крест
+1F547 : Жирный латинский крест
+1F548 : Кельтский крест
+1F549 : Символ ОМ
+1F54A : Голубь мира
 1F54B :
 1F54C :
 1F54D :
@@ -102,50 +102,50 @@
 1F565 : Время полодиннадцатого
 1F566 : Время полдвенадцатого
 1F567 : Время полпервого
-1F568 : Right speaker
-1F569 : Right speaker with one sound wave
-1F56A : Right speaker with three sound waves
-1F56B : Bullhorn
-1F56C : Bullhorn with sound waves
-1F56D : Ringing bell
-1F56E : Book
-1F56F : Candle
-1F570 : Mantelpiece clock
-1F571 : Black skull and crossbones
-1F572 : No piracy
-1F573 : Hole
-1F574 : Man in business suit levitating
-1F575 : Sleuth or spy
-1F576 : Dark sunglasses
-1F577 : Spider
-1F578 : Spider web
-1F579 : Joystick
+1F568 : Уровень звука (правый спикер)
+1F569 : Низкий уровень звука (правый спикер)
+1F56A : Высокий уровень звука (правый спикер)
+1F56B : Мегафон
+1F56C : Мегафон и звуковые волны
+1F56D : Звонящий колокольчик
+1F56E : Книга
+1F56F : Свеча
+1F570 : Каминные часы
+1F571 : Чёрный череп со скрещёнными костями
+1F572 : Запрет пиратства
+1F573 : Дыра
+1F574 : Парящий мужчина в деловом костюме
+1F575 : Сыщик или шпион
+1F576 : Солнцезащитные очки
+1F577 : Паук
+1F578 : Паутина
+1F579 : Джойстик
 1F57A :
-1F57B : Left hand telephone receiver
-1F57C : Telephone receiver with page
-1F57D : Right hand telephone receiver
-1F57E : White touchtone telephone
-1F57F : Black touchtone telephone
-1F580 : Telephone on top of modem
-1F581 : Clamshell mobile phone
-1F582 : Back of envelope
-1F583 : Stamped envelope
-1F584 : Envelope with lightning
-1F585 : Flying envelope
-1F586 : Pen over stamped envelope
-1F587 : Linked paperclips
-1F588 : Black pushpin
-1F589 : Lower left pencil
-1F58A : Lower left ballpoint pen
-1F58B : Lower left fountain pen
-1F58C : Lower left paintbrush
-1F58D : Lower left crayon
-1F58E : Left writing hand
-1F58F : Turned ok hand sign
-1F590 : Raised hand with fingers splayed
-1F591 : Reversed raised hand with fingers splayed
-1F592 : Reversed thumbs up sign
-1F593 : Reversed thumbs down sign
+1F57B : Телефонная трубка (под левую руку)
+1F57C : Телефонная трубка с бумажной страницей
+1F57D : Телефонная трубка (под правую руку)
+1F57E : Белый кнопочный телефон
+1F57F : Чёрный кнопочный телефон
+1F580 : Телефон на модеме
+1F581 : Мобильный телефон-раскладушка
+1F582 : Обратная сторона конверта : почта
+1F583 : Конверт со штампом : почта
+1F584 : Конверт с молнией : почта
+1F585 : Летящее письмо : почта
+1F586 : Ручка и письмо со штампом
+1F587 : Соединённые скребки
+1F588 : Чёрная булавка
+1F589 : Карандаш, направленный вниз-влево
+1F58A : Шариковая ручка, направленная вниз-влево
+1F58B : Авторучка, направленная вниз-влево
+1F58C : Кисть, направленная вниз-влево
+1F58D : Фломастер, направленный вниз-влево
+1F58E : Пишущая левая рука
+1F58F : Повёрнутая рука с жестом "о'кей"
+1F590 : Ладонь с поднятыми пальцами
+1F591 : Ладонь с поднятыми пальцами (тыльная сторона)
+1F592 : Развёрнутый жест с большим пальцем вверх
+1F593 : Развёрнутый жест с большим пальцем вниз
 1F594 : Reversed victory hand
 1F595 : Reversed hand with middle finger extended
 1F596 : Raised hand with part between middle and ring fingers

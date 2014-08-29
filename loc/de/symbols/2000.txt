@@ -14,8 +14,8 @@
 200D : Zero width joiner
 200E : Left-to-right mark
 200F : Right-to-left mark
-2010 : Hyphen
-2011 : Non-breaking hyphen
+2010 : Bindestrich : Divis, Hyphen
+2011 : Geschützter Bindestrich : Nicht-umbrechender Bindestrich, Non-breaking Hyphen
 2012 : Figure dash
 2013 : En dash
 2014 : Em dash
