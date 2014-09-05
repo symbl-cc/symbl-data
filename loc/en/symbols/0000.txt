@@ -1,35 +1,35 @@
-0000 : Null
-0001 : Start of heading
-0002 : Start of text
-0003 : End of text
-0004 : End of transmission
-0005 : Enquiry
-0006 : Acknowledge
-0007 : Bell
-0008 : Backspace
-0009 : Character tabulation
-000A : Line feed (lf)
-000B : Line tabulation
-000C : Form feed (ff)
-000D : Carriage return (cr)
-000E : Shift out
-000F : Shift in
-0010 : Data link escape
-0011 : Device control one
-0012 : Device control two
-0013 : Device control three
-0014 : Device control four
-0015 : Negative acknowledge
-0016 : Synchronous idle
-0017 : End of transmission block
-0018 : Cancel
-0019 : End of medium
-001A : Substitute or (Ctrl+Z)
-001B : Escape
-001C : Information separator four
-001D : Information separator three
-001E : Information separator two
-001F : Information separator one
+0000 : Null : NUL
+0001 : Start of heading : SOH
+0002 : Start of text : STX
+0003 : End of text : ETX
+0004 : End of transmission : EOT
+0005 : Enquiry : ENQ
+0006 : Acknowledge : ASK
+0007 : Bell : BEL
+0008 : Backspace : BS
+0009 : Character tabulation : TAB
+000A : Line feed (lf) : LF
+000B : Line tabulation : TAB
+000C : Form feed (ff) : FF
+000D : Carriage return (cr) : CR
+000E : Shift out : SO
+000F : Shift in : SI
+0010 : Data link escape : DLE
+0011 : Device control one : DC1
+0012 : Device control two : DC2
+0013 : Device control three : DC3
+0014 : Device control four : DC4
+0015 : Negative acknowledge : NAK
+0016 : Synchronous idle : SYN
+0017 : End of transmission block : ETB
+0018 : Cancel : CAN
+0019 : End of medium : EM
+001A : Substitute or (Ctrl+Z) : SUB
+001B : Escape : ESC
+001C : Information separator four : FS
+001D : Information separator three : GS
+001E : Information separator two : RS
+001F : Information separator one : US
 0020 : Space
 0021 : Exclamation mark
 0022 : Quotation mark
@@ -125,7 +125,7 @@
 007C : Vertical line
 007D : Right curly bracket
 007E : Tilde
-007F : Delete
+007F : Delete : DEL
 0080 : &lt;control&gt;
 0081 : &lt;control&gt;
 0082 : Break permitted here

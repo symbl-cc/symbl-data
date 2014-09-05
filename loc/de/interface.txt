@@ -1,6 +1,6 @@
 title           : Unicode Zeichentabelle
 meta_description : Alle Unicode-Zeichen auf einer Seite mit den Namen und Beschreibungen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
+meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
 search          : Zeichensuche
 find            : Finden
 example         : Zum Beispiel
@@ -27,7 +27,7 @@ search_total    : Insgesamt gefunden: %s
 search_limit    : (Gezeigt nur %s)
 search_none     : Ist nichts gefunden
 search_any      : Keine Ergebnisse für diesen Satz. Benutzen die Suche durch allen Wörter.
-help_range      : Drücken, um anzuleuchten 
+help_range      : Drücken, um anzuleuchten
 sections_list   : Liste der Unicode-Absätze
 languages_list  : Liste der Sprachen
 languages_sections : Sektion der Sprachen
@@ -45,7 +45,7 @@ submit          : Einreichen
 undo            : Rückgängig
 send_changes    : Bitte Bestätigen Sie die vorgenommenen Änderungen. Sie werden der Redaktion zur Durchsicht übermittelt.
 edit_thanks     : Danke!
-	
+
 
 
 # __________________________________________________________
