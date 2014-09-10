@@ -30,8 +30,8 @@
 201D : Right double quotation mark
 201E : Double low-9 quotation mark
 201F : Double high-reversed-9 quotation mark
-2020 : Dagger
-2021 : Double dagger
+2020 : Dagger : Kreuz
+2021 : Double dagger : Kreuz
 2022 : Bullet
 2023 : Triangular bullet
 2024 : One dot leader
@@ -90,7 +90,7 @@
 2059 : Five dot punctuation
 205A : Two dot punctuation
 205B : Four dot mark
-205C : Dotted cross
+205C : Dotted cross : kreuz
 205D : Tricolon
 205E : Vertical four dots
 205F : Medium mathematical space
@@ -99,11 +99,11 @@
 2062 : Invisible times
 2063 : Invisible separator
 2064 : Invisible plus
-2065 : 
-2066 : 
-2067 : 
-2068 : 
-2069 : 
+2065 :
+2066 :
+2067 :
+2068 :
+2069 :
 206A : Inhibit symmetric swapping
 206B : Activate symmetric swapping
 206C : Inhibit arabic form shaping
@@ -112,8 +112,8 @@
 206F : Nominal digit shapes
 2070 : Superscript zero
 2071 : Superscript latin small letter i
-2072 : 
-2073 : 
+2072 :
+2073 :
 2074 : Superscript four
 2075 : Superscript five
 2076 : Superscript six
@@ -141,23 +141,23 @@
 208C : Subscript equals sign
 208D : Subscript left parenthesis
 208E : Subscript right parenthesis
-208F : 
+208F :
 2090 : Latin subscript small letter a
 2091 : Latin subscript small letter e
 2092 : Latin subscript small letter o
 2093 : Latin subscript small letter x
 2094 : Latin subscript small letter schwa
-2095 : 
-2096 : 
-2097 : 
-2098 : 
-2099 : 
-209A : 
-209B : 
-209C : 
-209D : 
-209E : 
-209F : 
+2095 :
+2096 :
+2097 :
+2098 :
+2099 :
+209A :
+209B :
+209C :
+209D :
+209E :
+209F :
 20A0 : Euro-currency sign
 20A1 : Colon sign
 20A2 : Cruzeiro sign
@@ -184,28 +184,28 @@
 20B7 : Spesmilo sign
 20B8 : Tenge sign
 20B9 : Indian Rupee Sign
-20BA : 
-20BB : 
-20BC : 
+20BA :
+20BB :
+20BC :
 20BD : Russischen Rubel
-20BE : 
-20BF : 
-20C0 : 
-20C1 : 
-20C2 : 
-20C3 : 
-20C4 : 
-20C5 : 
-20C6 : 
-20C7 : 
-20C8 : 
-20C9 : 
-20CA : 
-20CB : 
-20CC : 
-20CD : 
-20CE : 
-20CF : 
+20BE :
+20BF :
+20C0 :
+20C1 :
+20C2 :
+20C3 :
+20C4 :
+20C5 :
+20C6 :
+20C7 :
+20C8 :
+20C9 :
+20CA :
+20CB :
+20CC :
+20CD :
+20CE :
+20CF :
 20D0 : Combining left harpoon above
 20D1 : Combining right harpoon above
 20D2 : Combining long vertical line overlay
@@ -239,18 +239,18 @@
 20EE : Combining left arrow below
 20EF : Combining right arrow below
 20F0 : Combining asterisk above
-20F1 : 
-20F2 : 
-20F3 : 
-20F4 : 
-20F5 : 
-20F6 : 
-20F7 : 
-20F8 : 
-20F9 : 
-20FA : 
-20FB : 
-20FC : 
-20FD : 
-20FE : 
-20FF : 
+20F1 :
+20F2 :
+20F3 :
+20F4 :
+20F5 :
+20F6 :
+20F7 :
+20F8 :
+20F9 :
+20FA :
+20FB :
+20FC :
+20FD :
+20FE :
+20FF :

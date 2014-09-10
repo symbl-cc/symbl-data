@@ -1,6 +1,6 @@
 0000 : Nullzeichen
-0001 : Überschriftanfang 
-0002 : Textanfang 
+0001 : Überschriftanfang
+0002 : Textanfang
 0003 : Textende
 0004 : Übertragungsende
 0005 : Abfrage
@@ -36,7 +36,7 @@
 0023 : Doppelkreuz
 0024 : Dollarzeichen
 0025 : Prozentzeichen
-0026 : Et-Zeichen 
+0026 : Et-Zeichen
 0027 : Apostroph
 0028 : Runde Klammer links
 0029 : Runde Klammer rechts
@@ -213,7 +213,7 @@
 00D4 : Lateinischer Großbuchstabe O mit Zirkumflex
 00D5 : Lateinischer Großbuchstabe O mit Tilde
 00D6 : Lateinischer Großbuchstabe O mit Trema
-00D7 : Multiplikationskreuz
+00D7 : Multiplikationskreuz : kreuz
 00D8 : Lateinischer Großbuchstabe durchgestrichenes O
 00D9 : Lateinischer Großbuchstabe U mit Gravis
 00DA : Lateinischer Großbuchstabe U mit Akut

@@ -17,7 +17,7 @@
 2610 : Ballot box
 2611 : Ballot box with check
 2612 : Ballot box with x
-2613 : Saltire
+2613 : Saltire : kreuz
 2614 : Umbrella with rain drops
 2615 : Hot beverage
 2616 : White shogi piece
@@ -36,10 +36,10 @@
 2623 : Biohazard sign
 2624 : Caduceus
 2625 : Ankh
-2626 : Orthodox cross
+2626 : Orthodox cross : kreuz
 2627 : Chi rho
-2628 : Cross of lorraine
-2629 : Cross of jerusalem
+2628 : Cross of lorraine : kreuz
+2629 : Cross of jerusalem : kreuz
 262A : Star and crescent
 262B : Farsi symbol
 262C : Adi shakti
@@ -110,8 +110,8 @@
 266D : Music flat sign
 266E : Music natural sign
 266F : Music sharp sign
-2670 : West syriac cross
-2671 : East syriac cross
+2670 : West syriac cross : kreuz
+2671 : East syriac cross : kreuz
 2672 : Universal recycling symbol
 2673 : Recycling symbol for type-1 plastics
 2674 : Recycling symbol for type-2 plastics
@@ -204,7 +204,7 @@
 26CB : White diamond in square
 26CC : Crossing lanes
 26CD : Disabled car
-26CE : 
+26CE :
 26CF : Pick
 26D0 : Car sliding
 26D1 : Helmet with white cross
@@ -224,12 +224,12 @@
 26DF : Black truck
 26E0 : Restricted left entry-1
 26E1 : Restricted left entry-2
-26E2 : 
+26E2 :
 26E3 : Heavy circle with stroke and two dots above
-26E4 : 
-26E5 : 
-26E6 : 
-26E7 : 
+26E4 :
+26E5 :
+26E6 :
+26E7 :
 26E8 : Black cross on shield
 26E9 : Shinto shrine
 26EA : Church
