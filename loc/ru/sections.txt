@@ -1,6 +1,6 @@
 control-character : Управляющие символы
 basic-latin     : Основная латиница
-latin-1-supplement : Расширенная латиница-1
+latin-1-supplement : Дополнительная латиница-1
 latin-extended-A : Расширенная латиница-A
 latin-extended-B : Расширенная латиница-B
 ipa-extensions  : Международный фонетический алфавит
@@ -156,7 +156,7 @@ specials        : Специальные символы
 linear-b-syllabary : Слоги линейного письма Б
 linear-b-ideograms : Идеограммы линейного письма Б
 aegean-numbers : Эгейские цифры
-ancient-greek-numbers : Древнегреческие цифры
+ancient-greek-numbers : Древнегреческие единицы измерения
 ancient-symbols : Древние символы
 phaistos-disc : Символы фестского диска
 lycian : Ликийский алфавит
@@ -224,7 +224,7 @@ ancient-greek-musical-notation : Древнегреческие музыкаль
 tai-xuan-jing-symbols : Tai Xuan Jing Symbols
 counting-rod-numerals : Счётные палочки
 mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
-mende-kikakui : Письмо кикауи для языка менде
+mende-kikakui : Письмо кикакуи для языка менде
 arabic-mathematical-alphabetic-symbols : Арабские математические буквенно-цифровые символы
 mahjong-tiles : Кости для маджонга
 domino-tiles : Кости для домино

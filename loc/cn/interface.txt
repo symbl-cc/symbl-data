@@ -95,4 +95,10 @@ flip-plain      : 文本
 flip-flipped    : 倒过来！
 flip-backed     : 只调换顺序
 
+# CONTENT
+
+content-sorry: 很抱歉，該文本將很快被寫入
+content-sorry-lang: 對不起，文字尚未被翻譯成你的語言
+content-other: 文本還可以在以下語言版本
+content-sorry-other: 但你可以看到在其他語言版本
 

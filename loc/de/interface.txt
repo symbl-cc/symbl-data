@@ -92,3 +92,12 @@ flip-desc       : Stürzt kyrillische und lateinische Symbolen Hals über Kopf o
 flip-plain      : Einfacher Text
 flip-flipped    : Hals über Kopf
 flip-backed     : Rückwärts
+
+# CONTENT
+
+content-sorry: Es tut uns leid, wird der Text bald geschrieben werden
+content-sorry-lang: Es tut uns leid, der Text ist noch nicht in Ihre Sprache übersetzt
+content-other: Dieser Text ist auch in den folgenden Sprachen verfügbar:
+content-sorry-other: Aber Sie können Versionen in anderen Sprachen zu sehen:
+
+

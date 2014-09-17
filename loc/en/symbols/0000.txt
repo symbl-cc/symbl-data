@@ -126,11 +126,11 @@
 007D : Right curly bracket
 007E : Tilde
 007F : Delete : DEL
-0080 : &lt;control&gt;
-0081 : &lt;control&gt;
+0080 : control-0080
+0081 : control-0081
 0082 : Break permitted here
 0083 : No break here
-0084 : &lt;control&gt;
+0084 : control-0084
 0085 : Next line (nel)
 0086 : Start of selected area
 0087 : End of selected area
@@ -151,7 +151,7 @@
 0096 : Start of guarded area
 0097 : End of guarded area
 0098 : Start of string
-0099 : <control>
+0099 : Control-0099
 009A : Single character introducer
 009B : Control sequence introducer
 009C : String terminator

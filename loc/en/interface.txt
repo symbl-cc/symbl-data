@@ -103,3 +103,10 @@ toolstable-format: Format
 toolstable-info: allow {symbol}, {dec}, {hex}, {html}
 toolstable-text: text for copy
 toolstable-file: file download
+
+# CONTENT
+
+content-sorry: Sorry, the text will soon be written
+content-sorry-lang: Sorry, the text has not yet been translated into your language
+content-other: Text is also available in the following languages:
+content-sorry-other: But you can see versions in other languages:

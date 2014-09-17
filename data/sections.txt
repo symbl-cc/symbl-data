@@ -557,13 +557,13 @@
 	countries       : russia, ukraine, poland, bulgaria, bosnia, herzegovina, croatia, montenegro, macedonia
 
 [latin-extended-c]
-	diap            : 2С60:2С7F
+	diap            : 2C60:2C7F
 	type            : alphabet
 	languages       :
 	countries       : china, kazakhstan
 
 [coptic]
-	diap            : 2С80:2СFF
+	diap            : 2C80:2CFF
 	type            : alphabet
 	languages       : coptic
 	countries       : egypt, canada, australia, usa
