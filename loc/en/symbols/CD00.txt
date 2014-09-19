@@ -1,256 +1,256 @@
-CD00:
-CD01:
-CD02:
-CD03:
-CD04:
-CD05:
-CD06:
-CD07:
-CD08:
-CD09:
-CD0A:
-CD0B:
-CD0C:
-CD0D:
-CD0E:
-CD0F:
-CD10:
-CD11:
-CD12:
-CD13:
-CD14:
-CD15:
-CD16:
-CD17:
-CD18:
-CD19:
-CD1A:
-CD1B:
-CD1C:
-CD1D:
-CD1E:
-CD1F:
-CD20:
-CD21:
-CD22:
-CD23:
-CD24:
-CD25:
-CD26:
-CD27:
-CD28:
-CD29:
-CD2A:
-CD2B:
-CD2C:
-CD2D:
-CD2E:
-CD2F:
-CD30:
-CD31:
-CD32:
-CD33:
-CD34:
-CD35:
-CD36:
-CD37:
-CD38:
-CD39:
-CD3A:
-CD3B:
-CD3C:
-CD3D:
-CD3E:
-CD3F:
-CD40:
-CD41:
-CD42:
-CD43:
-CD44:
-CD45:
-CD46:
-CD47:
-CD48:
-CD49:
-CD4A:
-CD4B:
-CD4C:
-CD4D:
-CD4E:
-CD4F:
-CD50:
-CD51:
-CD52:
-CD53:
-CD54:
-CD55:
-CD56:
-CD57:
-CD58:
-CD59:
-CD5A:
-CD5B:
-CD5C:
-CD5D:
-CD5E:
-CD5F:
-CD60:
-CD61:
-CD62:
-CD63:
-CD64:
-CD65:
-CD66:
-CD67:
-CD68:
-CD69:
-CD6A:
-CD6B:
-CD6C:
-CD6D:
-CD6E:
-CD6F:
-CD70:
-CD71:
-CD72:
-CD73:
-CD74:
-CD75:
-CD76:
-CD77:
-CD78:
-CD79:
-CD7A:
-CD7B:
-CD7C:
-CD7D:
-CD7E:
-CD7F:
-CD80:
-CD81:
-CD82:
-CD83:
-CD84:
-CD85:
-CD86:
-CD87:
-CD88:
-CD89:
-CD8A:
-CD8B:
-CD8C:
-CD8D:
-CD8E:
-CD8F:
-CD90:
-CD91:
-CD92:
-CD93:
-CD94:
-CD95:
-CD96:
-CD97:
-CD98:
-CD99:
-CD9A:
-CD9B:
-CD9C:
-CD9D:
-CD9E:
-CD9F:
-CDA0:
-CDA1:
-CDA2:
-CDA3:
-CDA4:
-CDA5:
-CDA6:
-CDA7:
-CDA8:
-CDA9:
-CDAA:
-CDAB:
-CDAC:
-CDAD:
-CDAE:
-CDAF:
-CDB0:
-CDB1:
-CDB2:
-CDB3:
-CDB4:
-CDB5:
-CDB6:
-CDB7:
-CDB8:
-CDB9:
-CDBA:
-CDBB:
-CDBC:
-CDBD:
-CDBE:
-CDBF:
-CDC0:
-CDC1:
-CDC2:
-CDC3:
-CDC4:
-CDC5:
-CDC6:
-CDC7:
-CDC8:
-CDC9:
-CDCA:
-CDCB:
-CDCC:
-CDCD:
-CDCE:
-CDCF:
-CDD0:
-CDD1:
-CDD2:
-CDD3:
-CDD4:
-CDD5:
-CDD6:
-CDD7:
-CDD8:
-CDD9:
-CDDA:
-CDDB:
-CDDC:
-CDDD:
-CDDE:
-CDDF:
-CDE0:
-CDE1:
-CDE2:
-CDE3:
-CDE4:
-CDE5:
-CDE6:
-CDE7:
-CDE8:
-CDE9:
-CDEA:
-CDEB:
-CDEC:
-CDED:
-CDEE:
-CDEF:
-CDF0:
-CDF1:
-CDF2:
-CDF3:
-CDF4:
-CDF5:
-CDF6:
-CDF7:
-CDF8:
-CDF9:
-CDFA:
-CDFB:
-CDFC:
-CDFD:
-CDFE:
-CDFF:
+CD00: Hangul Syllable cyess
+CD01: Hangul Syllable cyeng
+CD02: Hangul Syllable cyej
+CD03: Hangul Syllable cyec
+CD04: Hangul Syllable cyek
+CD05: Hangul Syllable cyet
+CD06: Hangul Syllable cyep
+CD07: Hangul Syllable cyeh
+CD08: Hangul Syllable co
+CD09: Hangul Syllable cog
+CD0A: Hangul Syllable cogg
+CD0B: Hangul Syllable cogs
+CD0C: Hangul Syllable con
+CD0D: Hangul Syllable conj
+CD0E: Hangul Syllable conh
+CD0F: Hangul Syllable cod
+CD10: Hangul Syllable col
+CD11: Hangul Syllable colg
+CD12: Hangul Syllable colm
+CD13: Hangul Syllable colb
+CD14: Hangul Syllable cols
+CD15: Hangul Syllable colt
+CD16: Hangul Syllable colp
+CD17: Hangul Syllable colh
+CD18: Hangul Syllable com
+CD19: Hangul Syllable cob
+CD1A: Hangul Syllable cobs
+CD1B: Hangul Syllable cos
+CD1C: Hangul Syllable coss
+CD1D: Hangul Syllable cong
+CD1E: Hangul Syllable coj
+CD1F: Hangul Syllable coc
+CD20: Hangul Syllable cok
+CD21: Hangul Syllable cot
+CD22: Hangul Syllable cop
+CD23: Hangul Syllable coh
+CD24: Hangul Syllable cwa
+CD25: Hangul Syllable cwag
+CD26: Hangul Syllable cwagg
+CD27: Hangul Syllable cwags
+CD28: Hangul Syllable cwan
+CD29: Hangul Syllable cwanj
+CD2A: Hangul Syllable cwanh
+CD2B: Hangul Syllable cwad
+CD2C: Hangul Syllable cwal
+CD2D: Hangul Syllable cwalg
+CD2E: Hangul Syllable cwalm
+CD2F: Hangul Syllable cwalb
+CD30: Hangul Syllable cwals
+CD31: Hangul Syllable cwalt
+CD32: Hangul Syllable cwalp
+CD33: Hangul Syllable cwalh
+CD34: Hangul Syllable cwam
+CD35: Hangul Syllable cwab
+CD36: Hangul Syllable cwabs
+CD37: Hangul Syllable cwas
+CD38: Hangul Syllable cwass
+CD39: Hangul Syllable cwang
+CD3A: Hangul Syllable cwaj
+CD3B: Hangul Syllable cwac
+CD3C: Hangul Syllable cwak
+CD3D: Hangul Syllable cwat
+CD3E: Hangul Syllable cwap
+CD3F: Hangul Syllable cwah
+CD40: Hangul Syllable cwae
+CD41: Hangul Syllable cwaeg
+CD42: Hangul Syllable cwaegg
+CD43: Hangul Syllable cwaegs
+CD44: Hangul Syllable cwaen
+CD45: Hangul Syllable cwaenj
+CD46: Hangul Syllable cwaenh
+CD47: Hangul Syllable cwaed
+CD48: Hangul Syllable cwael
+CD49: Hangul Syllable cwaelg
+CD4A: Hangul Syllable cwaelm
+CD4B: Hangul Syllable cwaelb
+CD4C: Hangul Syllable cwaels
+CD4D: Hangul Syllable cwaelt
+CD4E: Hangul Syllable cwaelp
+CD4F: Hangul Syllable cwaelh
+CD50: Hangul Syllable cwaem
+CD51: Hangul Syllable cwaeb
+CD52: Hangul Syllable cwaebs
+CD53: Hangul Syllable cwaes
+CD54: Hangul Syllable cwaess
+CD55: Hangul Syllable cwaeng
+CD56: Hangul Syllable cwaej
+CD57: Hangul Syllable cwaec
+CD58: Hangul Syllable cwaek
+CD59: Hangul Syllable cwaet
+CD5A: Hangul Syllable cwaep
+CD5B: Hangul Syllable cwaeh
+CD5C: Hangul Syllable coe
+CD5D: Hangul Syllable coeg
+CD5E: Hangul Syllable coegg
+CD5F: Hangul Syllable coegs
+CD60: Hangul Syllable coen
+CD61: Hangul Syllable coenj
+CD62: Hangul Syllable coenh
+CD63: Hangul Syllable coed
+CD64: Hangul Syllable coel
+CD65: Hangul Syllable coelg
+CD66: Hangul Syllable coelm
+CD67: Hangul Syllable coelb
+CD68: Hangul Syllable coels
+CD69: Hangul Syllable coelt
+CD6A: Hangul Syllable coelp
+CD6B: Hangul Syllable coelh
+CD6C: Hangul Syllable coem
+CD6D: Hangul Syllable coeb
+CD6E: Hangul Syllable coebs
+CD6F: Hangul Syllable coes
+CD70: Hangul Syllable coess
+CD71: Hangul Syllable coeng
+CD72: Hangul Syllable coej
+CD73: Hangul Syllable coec
+CD74: Hangul Syllable coek
+CD75: Hangul Syllable coet
+CD76: Hangul Syllable coep
+CD77: Hangul Syllable coeh
+CD78: Hangul Syllable cyo
+CD79: Hangul Syllable cyog
+CD7A: Hangul Syllable cyogg
+CD7B: Hangul Syllable cyogs
+CD7C: Hangul Syllable cyon
+CD7D: Hangul Syllable cyonj
+CD7E: Hangul Syllable cyonh
+CD7F: Hangul Syllable cyod
+CD80: Hangul Syllable cyol
+CD81: Hangul Syllable cyolg
+CD82: Hangul Syllable cyolm
+CD83: Hangul Syllable cyolb
+CD84: Hangul Syllable cyols
+CD85: Hangul Syllable cyolt
+CD86: Hangul Syllable cyolp
+CD87: Hangul Syllable cyolh
+CD88: Hangul Syllable cyom
+CD89: Hangul Syllable cyob
+CD8A: Hangul Syllable cyobs
+CD8B: Hangul Syllable cyos
+CD8C: Hangul Syllable cyoss
+CD8D: Hangul Syllable cyong
+CD8E: Hangul Syllable cyoj
+CD8F: Hangul Syllable cyoc
+CD90: Hangul Syllable cyok
+CD91: Hangul Syllable cyot
+CD92: Hangul Syllable cyop
+CD93: Hangul Syllable cyoh
+CD94: Hangul Syllable cu
+CD95: Hangul Syllable cug
+CD96: Hangul Syllable cugg
+CD97: Hangul Syllable cugs
+CD98: Hangul Syllable cun
+CD99: Hangul Syllable cunj
+CD9A: Hangul Syllable cunh
+CD9B: Hangul Syllable cud
+CD9C: Hangul Syllable cul
+CD9D: Hangul Syllable culg
+CD9E: Hangul Syllable culm
+CD9F: Hangul Syllable culb
+CDA0: Hangul Syllable culs
+CDA1: Hangul Syllable cult
+CDA2: Hangul Syllable culp
+CDA3: Hangul Syllable culh
+CDA4: Hangul Syllable cum
+CDA5: Hangul Syllable cub
+CDA6: Hangul Syllable cubs
+CDA7: Hangul Syllable cus
+CDA8: Hangul Syllable cuss
+CDA9: Hangul Syllable cung
+CDAA: Hangul Syllable cuj
+CDAB: Hangul Syllable cuc
+CDAC: Hangul Syllable cuk
+CDAD: Hangul Syllable cut
+CDAE: Hangul Syllable cup
+CDAF: Hangul Syllable cuh
+CDB0: Hangul Syllable cweo
+CDB1: Hangul Syllable cweog
+CDB2: Hangul Syllable cweogg
+CDB3: Hangul Syllable cweogs
+CDB4: Hangul Syllable cweon
+CDB5: Hangul Syllable cweonj
+CDB6: Hangul Syllable cweonh
+CDB7: Hangul Syllable cweod
+CDB8: Hangul Syllable cweol
+CDB9: Hangul Syllable cweolg
+CDBA: Hangul Syllable cweolm
+CDBB: Hangul Syllable cweolb
+CDBC: Hangul Syllable cweols
+CDBD: Hangul Syllable cweolt
+CDBE: Hangul Syllable cweolp
+CDBF: Hangul Syllable cweolh
+CDC0: Hangul Syllable cweom
+CDC1: Hangul Syllable cweob
+CDC2: Hangul Syllable cweobs
+CDC3: Hangul Syllable cweos
+CDC4: Hangul Syllable cweoss
+CDC5: Hangul Syllable cweong
+CDC6: Hangul Syllable cweoj
+CDC7: Hangul Syllable cweoc
+CDC8: Hangul Syllable cweok
+CDC9: Hangul Syllable cweot
+CDCA: Hangul Syllable cweop
+CDCB: Hangul Syllable cweoh
+CDCC: Hangul Syllable cwe
+CDCD: Hangul Syllable cweg
+CDCE: Hangul Syllable cwegg
+CDCF: Hangul Syllable cwegs
+CDD0: Hangul Syllable cwen
+CDD1: Hangul Syllable cwenj
+CDD2: Hangul Syllable cwenh
+CDD3: Hangul Syllable cwed
+CDD4: Hangul Syllable cwel
+CDD5: Hangul Syllable cwelg
+CDD6: Hangul Syllable cwelm
+CDD7: Hangul Syllable cwelb
+CDD8: Hangul Syllable cwels
+CDD9: Hangul Syllable cwelt
+CDDA: Hangul Syllable cwelp
+CDDB: Hangul Syllable cwelh
+CDDC: Hangul Syllable cwem
+CDDD: Hangul Syllable cweb
+CDDE: Hangul Syllable cwebs
+CDDF: Hangul Syllable cwes
+CDE0: Hangul Syllable cwess
+CDE1: Hangul Syllable cweng
+CDE2: Hangul Syllable cwej
+CDE3: Hangul Syllable cwec
+CDE4: Hangul Syllable cwek
+CDE5: Hangul Syllable cwet
+CDE6: Hangul Syllable cwep
+CDE7: Hangul Syllable cweh
+CDE8: Hangul Syllable cwi
+CDE9: Hangul Syllable cwig
+CDEA: Hangul Syllable cwigg
+CDEB: Hangul Syllable cwigs
+CDEC: Hangul Syllable cwin
+CDED: Hangul Syllable cwinj
+CDEE: Hangul Syllable cwinh
+CDEF: Hangul Syllable cwid
+CDF0: Hangul Syllable cwil
+CDF1: Hangul Syllable cwilg
+CDF2: Hangul Syllable cwilm
+CDF3: Hangul Syllable cwilb
+CDF4: Hangul Syllable cwils
+CDF5: Hangul Syllable cwilt
+CDF6: Hangul Syllable cwilp
+CDF7: Hangul Syllable cwilh
+CDF8: Hangul Syllable cwim
+CDF9: Hangul Syllable cwib
+CDFA: Hangul Syllable cwibs
+CDFB: Hangul Syllable cwis
+CDFC: Hangul Syllable cwiss
+CDFD: Hangul Syllable cwing
+CDFE: Hangul Syllable cwij
+CDFF: Hangul Syllable cwic

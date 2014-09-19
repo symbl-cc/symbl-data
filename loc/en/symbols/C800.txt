@@ -1,256 +1,256 @@
-C800:
-C801:
-C802:
-C803:
-C804:
-C805:
-C806:
-C807:
-C808:
-C809:
-C80A:
-C80B:
-C80C:
-C80D:
-C80E:
-C80F:
-C810:
-C811:
-C812:
-C813:
-C814:
-C815:
-C816:
-C817:
-C818:
-C819:
-C81A:
-C81B:
-C81C:
-C81D:
-C81E:
-C81F:
-C820:
-C821:
-C822:
-C823:
-C824:
-C825:
-C826:
-C827:
-C828:
-C829:
-C82A:
-C82B:
-C82C:
-C82D:
-C82E:
-C82F:
-C830:
-C831:
-C832:
-C833:
-C834:
-C835:
-C836:
-C837:
-C838:
-C839:
-C83A:
-C83B:
-C83C:
-C83D:
-C83E:
-C83F:
-C840:
-C841:
-C842:
-C843:
-C844:
-C845:
-C846:
-C847:
-C848:
-C849:
-C84A:
-C84B:
-C84C:
-C84D:
-C84E:
-C84F:
-C850:
-C851:
-C852:
-C853:
-C854:
-C855:
-C856:
-C857:
-C858:
-C859:
-C85A:
-C85B:
-C85C:
-C85D:
-C85E:
-C85F:
-C860:
-C861:
-C862:
-C863:
-C864:
-C865:
-C866:
-C867:
-C868:
-C869:
-C86A:
-C86B:
-C86C:
-C86D:
-C86E:
-C86F:
-C870:
-C871:
-C872:
-C873:
-C874:
-C875:
-C876:
-C877:
-C878:
-C879:
-C87A:
-C87B:
-C87C:
-C87D:
-C87E:
-C87F:
-C880:
-C881:
-C882:
-C883:
-C884:
-C885:
-C886:
-C887:
-C888:
-C889:
-C88A:
-C88B:
-C88C:
-C88D:
-C88E:
-C88F:
-C890:
-C891:
-C892:
-C893:
-C894:
-C895:
-C896:
-C897:
-C898:
-C899:
-C89A:
-C89B:
-C89C:
-C89D:
-C89E:
-C89F:
-C8A0:
-C8A1:
-C8A2:
-C8A3:
-C8A4:
-C8A5:
-C8A6:
-C8A7:
-C8A8:
-C8A9:
-C8AA:
-C8AB:
-C8AC:
-C8AD:
-C8AE:
-C8AF:
-C8B0:
-C8B1:
-C8B2:
-C8B3:
-C8B4:
-C8B5:
-C8B6:
-C8B7:
-C8B8:
-C8B9:
-C8BA:
-C8BB:
-C8BC:
-C8BD:
-C8BE:
-C8BF:
-C8C0:
-C8C1:
-C8C2:
-C8C3:
-C8C4:
-C8C5:
-C8C6:
-C8C7:
-C8C8:
-C8C9:
-C8CA:
-C8CB:
-C8CC:
-C8CD:
-C8CE:
-C8CF:
-C8D0:
-C8D1:
-C8D2:
-C8D3:
-C8D4:
-C8D5:
-C8D6:
-C8D7:
-C8D8:
-C8D9:
-C8DA:
-C8DB:
-C8DC:
-C8DD:
-C8DE:
-C8DF:
-C8E0:
-C8E1:
-C8E2:
-C8E3:
-C8E4:
-C8E5:
-C8E6:
-C8E7:
-C8E8:
-C8E9:
-C8EA:
-C8EB:
-C8EC:
-C8ED:
-C8EE:
-C8EF:
-C8F0:
-C8F1:
-C8F2:
-C8F3:
-C8F4:
-C8F5:
-C8F6:
-C8F7:
-C8F8:
-C8F9:
-C8FA:
-C8FB:
-C8FC:
-C8FD:
-C8FE:
-C8FF:
+C800: Hangul Syllable jeo
+C801: Hangul Syllable jeog
+C802: Hangul Syllable jeogg
+C803: Hangul Syllable jeogs
+C804: Hangul Syllable jeon
+C805: Hangul Syllable jeonj
+C806: Hangul Syllable jeonh
+C807: Hangul Syllable jeod
+C808: Hangul Syllable jeol
+C809: Hangul Syllable jeolg
+C80A: Hangul Syllable jeolm
+C80B: Hangul Syllable jeolb
+C80C: Hangul Syllable jeols
+C80D: Hangul Syllable jeolt
+C80E: Hangul Syllable jeolp
+C80F: Hangul Syllable jeolh
+C810: Hangul Syllable jeom
+C811: Hangul Syllable jeob
+C812: Hangul Syllable jeobs
+C813: Hangul Syllable jeos
+C814: Hangul Syllable jeoss
+C815: Hangul Syllable jeong
+C816: Hangul Syllable jeoj
+C817: Hangul Syllable jeoc
+C818: Hangul Syllable jeok
+C819: Hangul Syllable jeot
+C81A: Hangul Syllable jeop
+C81B: Hangul Syllable jeoh
+C81C: Hangul Syllable je
+C81D: Hangul Syllable jeg
+C81E: Hangul Syllable jegg
+C81F: Hangul Syllable jegs
+C820: Hangul Syllable jen
+C821: Hangul Syllable jenj
+C822: Hangul Syllable jenh
+C823: Hangul Syllable jed
+C824: Hangul Syllable jel
+C825: Hangul Syllable jelg
+C826: Hangul Syllable jelm
+C827: Hangul Syllable jelb
+C828: Hangul Syllable jels
+C829: Hangul Syllable jelt
+C82A: Hangul Syllable jelp
+C82B: Hangul Syllable jelh
+C82C: Hangul Syllable jem
+C82D: Hangul Syllable jeb
+C82E: Hangul Syllable jebs
+C82F: Hangul Syllable jes
+C830: Hangul Syllable jess
+C831: Hangul Syllable jeng
+C832: Hangul Syllable jej
+C833: Hangul Syllable jec
+C834: Hangul Syllable jek
+C835: Hangul Syllable jet
+C836: Hangul Syllable jep
+C837: Hangul Syllable jeh
+C838: Hangul Syllable jyeo
+C839: Hangul Syllable jyeog
+C83A: Hangul Syllable jyeogg
+C83B: Hangul Syllable jyeogs
+C83C: Hangul Syllable jyeon
+C83D: Hangul Syllable jyeonj
+C83E: Hangul Syllable jyeonh
+C83F: Hangul Syllable jyeod
+C840: Hangul Syllable jyeol
+C841: Hangul Syllable jyeolg
+C842: Hangul Syllable jyeolm
+C843: Hangul Syllable jyeolb
+C844: Hangul Syllable jyeols
+C845: Hangul Syllable jyeolt
+C846: Hangul Syllable jyeolp
+C847: Hangul Syllable jyeolh
+C848: Hangul Syllable jyeom
+C849: Hangul Syllable jyeob
+C84A: Hangul Syllable jyeobs
+C84B: Hangul Syllable jyeos
+C84C: Hangul Syllable jyeoss
+C84D: Hangul Syllable jyeong
+C84E: Hangul Syllable jyeoj
+C84F: Hangul Syllable jyeoc
+C850: Hangul Syllable jyeok
+C851: Hangul Syllable jyeot
+C852: Hangul Syllable jyeop
+C853: Hangul Syllable jyeoh
+C854: Hangul Syllable jye
+C855: Hangul Syllable jyeg
+C856: Hangul Syllable jyegg
+C857: Hangul Syllable jyegs
+C858: Hangul Syllable jyen
+C859: Hangul Syllable jyenj
+C85A: Hangul Syllable jyenh
+C85B: Hangul Syllable jyed
+C85C: Hangul Syllable jyel
+C85D: Hangul Syllable jyelg
+C85E: Hangul Syllable jyelm
+C85F: Hangul Syllable jyelb
+C860: Hangul Syllable jyels
+C861: Hangul Syllable jyelt
+C862: Hangul Syllable jyelp
+C863: Hangul Syllable jyelh
+C864: Hangul Syllable jyem
+C865: Hangul Syllable jyeb
+C866: Hangul Syllable jyebs
+C867: Hangul Syllable jyes
+C868: Hangul Syllable jyess
+C869: Hangul Syllable jyeng
+C86A: Hangul Syllable jyej
+C86B: Hangul Syllable jyec
+C86C: Hangul Syllable jyek
+C86D: Hangul Syllable jyet
+C86E: Hangul Syllable jyep
+C86F: Hangul Syllable jyeh
+C870: Hangul Syllable jo
+C871: Hangul Syllable jog
+C872: Hangul Syllable jogg
+C873: Hangul Syllable jogs
+C874: Hangul Syllable jon
+C875: Hangul Syllable jonj
+C876: Hangul Syllable jonh
+C877: Hangul Syllable jod
+C878: Hangul Syllable jol
+C879: Hangul Syllable jolg
+C87A: Hangul Syllable jolm
+C87B: Hangul Syllable jolb
+C87C: Hangul Syllable jols
+C87D: Hangul Syllable jolt
+C87E: Hangul Syllable jolp
+C87F: Hangul Syllable jolh
+C880: Hangul Syllable jom
+C881: Hangul Syllable job
+C882: Hangul Syllable jobs
+C883: Hangul Syllable jos
+C884: Hangul Syllable joss
+C885: Hangul Syllable jong
+C886: Hangul Syllable joj
+C887: Hangul Syllable joc
+C888: Hangul Syllable jok
+C889: Hangul Syllable jot
+C88A: Hangul Syllable jop
+C88B: Hangul Syllable joh
+C88C: Hangul Syllable jwa
+C88D: Hangul Syllable jwag
+C88E: Hangul Syllable jwagg
+C88F: Hangul Syllable jwags
+C890: Hangul Syllable jwan
+C891: Hangul Syllable jwanj
+C892: Hangul Syllable jwanh
+C893: Hangul Syllable jwad
+C894: Hangul Syllable jwal
+C895: Hangul Syllable jwalg
+C896: Hangul Syllable jwalm
+C897: Hangul Syllable jwalb
+C898: Hangul Syllable jwals
+C899: Hangul Syllable jwalt
+C89A: Hangul Syllable jwalp
+C89B: Hangul Syllable jwalh
+C89C: Hangul Syllable jwam
+C89D: Hangul Syllable jwab
+C89E: Hangul Syllable jwabs
+C89F: Hangul Syllable jwas
+C8A0: Hangul Syllable jwass
+C8A1: Hangul Syllable jwang
+C8A2: Hangul Syllable jwaj
+C8A3: Hangul Syllable jwac
+C8A4: Hangul Syllable jwak
+C8A5: Hangul Syllable jwat
+C8A6: Hangul Syllable jwap
+C8A7: Hangul Syllable jwah
+C8A8: Hangul Syllable jwae
+C8A9: Hangul Syllable jwaeg
+C8AA: Hangul Syllable jwaegg
+C8AB: Hangul Syllable jwaegs
+C8AC: Hangul Syllable jwaen
+C8AD: Hangul Syllable jwaenj
+C8AE: Hangul Syllable jwaenh
+C8AF: Hangul Syllable jwaed
+C8B0: Hangul Syllable jwael
+C8B1: Hangul Syllable jwaelg
+C8B2: Hangul Syllable jwaelm
+C8B3: Hangul Syllable jwaelb
+C8B4: Hangul Syllable jwaels
+C8B5: Hangul Syllable jwaelt
+C8B6: Hangul Syllable jwaelp
+C8B7: Hangul Syllable jwaelh
+C8B8: Hangul Syllable jwaem
+C8B9: Hangul Syllable jwaeb
+C8BA: Hangul Syllable jwaebs
+C8BB: Hangul Syllable jwaes
+C8BC: Hangul Syllable jwaess
+C8BD: Hangul Syllable jwaeng
+C8BE: Hangul Syllable jwaej
+C8BF: Hangul Syllable jwaec
+C8C0: Hangul Syllable jwaek
+C8C1: Hangul Syllable jwaet
+C8C2: Hangul Syllable jwaep
+C8C3: Hangul Syllable jwaeh
+C8C4: Hangul Syllable joe
+C8C5: Hangul Syllable joeg
+C8C6: Hangul Syllable joegg
+C8C7: Hangul Syllable joegs
+C8C8: Hangul Syllable joen
+C8C9: Hangul Syllable joenj
+C8CA: Hangul Syllable joenh
+C8CB: Hangul Syllable joed
+C8CC: Hangul Syllable joel
+C8CD: Hangul Syllable joelg
+C8CE: Hangul Syllable joelm
+C8CF: Hangul Syllable joelb
+C8D0: Hangul Syllable joels
+C8D1: Hangul Syllable joelt
+C8D2: Hangul Syllable joelp
+C8D3: Hangul Syllable joelh
+C8D4: Hangul Syllable joem
+C8D5: Hangul Syllable joeb
+C8D6: Hangul Syllable joebs
+C8D7: Hangul Syllable joes
+C8D8: Hangul Syllable joess
+C8D9: Hangul Syllable joeng
+C8DA: Hangul Syllable joej
+C8DB: Hangul Syllable joec
+C8DC: Hangul Syllable joek
+C8DD: Hangul Syllable joet
+C8DE: Hangul Syllable joep
+C8DF: Hangul Syllable joeh
+C8E0: Hangul Syllable jyo
+C8E1: Hangul Syllable jyog
+C8E2: Hangul Syllable jyogg
+C8E3: Hangul Syllable jyogs
+C8E4: Hangul Syllable jyon
+C8E5: Hangul Syllable jyonj
+C8E6: Hangul Syllable jyonh
+C8E7: Hangul Syllable jyod
+C8E8: Hangul Syllable jyol
+C8E9: Hangul Syllable jyolg
+C8EA: Hangul Syllable jyolm
+C8EB: Hangul Syllable jyolb
+C8EC: Hangul Syllable jyols
+C8ED: Hangul Syllable jyolt
+C8EE: Hangul Syllable jyolp
+C8EF: Hangul Syllable jyolh
+C8F0: Hangul Syllable jyom
+C8F1: Hangul Syllable jyob
+C8F2: Hangul Syllable jyobs
+C8F3: Hangul Syllable jyos
+C8F4: Hangul Syllable jyoss
+C8F5: Hangul Syllable jyong
+C8F6: Hangul Syllable jyoj
+C8F7: Hangul Syllable jyoc
+C8F8: Hangul Syllable jyok
+C8F9: Hangul Syllable jyot
+C8FA: Hangul Syllable jyop
+C8FB: Hangul Syllable jyoh
+C8FC: Hangul Syllable ju
+C8FD: Hangul Syllable jug
+C8FE: Hangul Syllable jugg
+C8FF: Hangul Syllable jugs

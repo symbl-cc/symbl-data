@@ -1,256 +1,256 @@
-BC00:
-BC01:
-BC02:
-BC03:
-BC04:
-BC05:
-BC06:
-BC07:
-BC08:
-BC09:
-BC0A:
-BC0B:
-BC0C:
-BC0D:
-BC0E:
-BC0F:
-BC10:
-BC11:
-BC12:
-BC13:
-BC14:
-BC15:
-BC16:
-BC17:
-BC18:
-BC19:
-BC1A:
-BC1B:
-BC1C:
-BC1D:
-BC1E:
-BC1F:
-BC20:
-BC21:
-BC22:
-BC23:
-BC24:
-BC25:
-BC26:
-BC27:
-BC28:
-BC29:
-BC2A:
-BC2B:
-BC2C:
-BC2D:
-BC2E:
-BC2F:
-BC30:
-BC31:
-BC32:
-BC33:
-BC34:
-BC35:
-BC36:
-BC37:
-BC38:
-BC39:
-BC3A:
-BC3B:
-BC3C:
-BC3D:
-BC3E:
-BC3F:
-BC40:
-BC41:
-BC42:
-BC43:
-BC44:
-BC45:
-BC46:
-BC47:
-BC48:
-BC49:
-BC4A:
-BC4B:
-BC4C:
-BC4D:
-BC4E:
-BC4F:
-BC50:
-BC51:
-BC52:
-BC53:
-BC54:
-BC55:
-BC56:
-BC57:
-BC58:
-BC59:
-BC5A:
-BC5B:
-BC5C:
-BC5D:
-BC5E:
-BC5F:
-BC60:
-BC61:
-BC62:
-BC63:
-BC64:
-BC65:
-BC66:
-BC67:
-BC68:
-BC69:
-BC6A:
-BC6B:
-BC6C:
-BC6D:
-BC6E:
-BC6F:
-BC70:
-BC71:
-BC72:
-BC73:
-BC74:
-BC75:
-BC76:
-BC77:
-BC78:
-BC79:
-BC7A:
-BC7B:
-BC7C:
-BC7D:
-BC7E:
-BC7F:
-BC80:
-BC81:
-BC82:
-BC83:
-BC84:
-BC85:
-BC86:
-BC87:
-BC88:
-BC89:
-BC8A:
-BC8B:
-BC8C:
-BC8D:
-BC8E:
-BC8F:
-BC90:
-BC91:
-BC92:
-BC93:
-BC94:
-BC95:
-BC96:
-BC97:
-BC98:
-BC99:
-BC9A:
-BC9B:
-BC9C:
-BC9D:
-BC9E:
-BC9F:
-BCA0:
-BCA1:
-BCA2:
-BCA3:
-BCA4:
-BCA5:
-BCA6:
-BCA7:
-BCA8:
-BCA9:
-BCAA:
-BCAB:
-BCAC:
-BCAD:
-BCAE:
-BCAF:
-BCB0:
-BCB1:
-BCB2:
-BCB3:
-BCB4:
-BCB5:
-BCB6:
-BCB7:
-BCB8:
-BCB9:
-BCBA:
-BCBB:
-BCBC:
-BCBD:
-BCBE:
-BCBF:
-BCC0:
-BCC1:
-BCC2:
-BCC3:
-BCC4:
-BCC5:
-BCC6:
-BCC7:
-BCC8:
-BCC9:
-BCCA:
-BCCB:
-BCCC:
-BCCD:
-BCCE:
-BCCF:
-BCD0:
-BCD1:
-BCD2:
-BCD3:
-BCD4:
-BCD5:
-BCD6:
-BCD7:
-BCD8:
-BCD9:
-BCDA:
-BCDB:
-BCDC:
-BCDD:
-BCDE:
-BCDF:
-BCE0:
-BCE1:
-BCE2:
-BCE3:
-BCE4:
-BCE5:
-BCE6:
-BCE7:
-BCE8:
-BCE9:
-BCEA:
-BCEB:
-BCEC:
-BCED:
-BCEE:
-BCEF:
-BCF0:
-BCF1:
-BCF2:
-BCF3:
-BCF4:
-BCF5:
-BCF6:
-BCF7:
-BCF8:
-BCF9:
-BCFA:
-BCFB:
-BCFC:
-BCFD:
-BCFE:
-BCFF:
+BC00: Hangul Syllable mil
+BC01: Hangul Syllable milg
+BC02: Hangul Syllable milm
+BC03: Hangul Syllable milb
+BC04: Hangul Syllable mils
+BC05: Hangul Syllable milt
+BC06: Hangul Syllable milp
+BC07: Hangul Syllable milh
+BC08: Hangul Syllable mim
+BC09: Hangul Syllable mib
+BC0A: Hangul Syllable mibs
+BC0B: Hangul Syllable mis
+BC0C: Hangul Syllable miss
+BC0D: Hangul Syllable ming
+BC0E: Hangul Syllable mij
+BC0F: Hangul Syllable mic
+BC10: Hangul Syllable mik
+BC11: Hangul Syllable mit
+BC12: Hangul Syllable mip
+BC13: Hangul Syllable mih
+BC14: Hangul Syllable ba
+BC15: Hangul Syllable bag
+BC16: Hangul Syllable bagg
+BC17: Hangul Syllable bags
+BC18: Hangul Syllable ban
+BC19: Hangul Syllable banj
+BC1A: Hangul Syllable banh
+BC1B: Hangul Syllable bad
+BC1C: Hangul Syllable bal
+BC1D: Hangul Syllable balg
+BC1E: Hangul Syllable balm
+BC1F: Hangul Syllable balb
+BC20: Hangul Syllable bals
+BC21: Hangul Syllable balt
+BC22: Hangul Syllable balp
+BC23: Hangul Syllable balh
+BC24: Hangul Syllable bam
+BC25: Hangul Syllable bab
+BC26: Hangul Syllable babs
+BC27: Hangul Syllable bas
+BC28: Hangul Syllable bass
+BC29: Hangul Syllable bang
+BC2A: Hangul Syllable baj
+BC2B: Hangul Syllable bac
+BC2C: Hangul Syllable bak
+BC2D: Hangul Syllable bat
+BC2E: Hangul Syllable bap
+BC2F: Hangul Syllable bah
+BC30: Hangul Syllable bae
+BC31: Hangul Syllable baeg
+BC32: Hangul Syllable baegg
+BC33: Hangul Syllable baegs
+BC34: Hangul Syllable baen
+BC35: Hangul Syllable baenj
+BC36: Hangul Syllable baenh
+BC37: Hangul Syllable baed
+BC38: Hangul Syllable bael
+BC39: Hangul Syllable baelg
+BC3A: Hangul Syllable baelm
+BC3B: Hangul Syllable baelb
+BC3C: Hangul Syllable baels
+BC3D: Hangul Syllable baelt
+BC3E: Hangul Syllable baelp
+BC3F: Hangul Syllable baelh
+BC40: Hangul Syllable baem
+BC41: Hangul Syllable baeb
+BC42: Hangul Syllable baebs
+BC43: Hangul Syllable baes
+BC44: Hangul Syllable baess
+BC45: Hangul Syllable baeng
+BC46: Hangul Syllable baej
+BC47: Hangul Syllable baec
+BC48: Hangul Syllable baek
+BC49: Hangul Syllable baet
+BC4A: Hangul Syllable baep
+BC4B: Hangul Syllable baeh
+BC4C: Hangul Syllable bya
+BC4D: Hangul Syllable byag
+BC4E: Hangul Syllable byagg
+BC4F: Hangul Syllable byags
+BC50: Hangul Syllable byan
+BC51: Hangul Syllable byanj
+BC52: Hangul Syllable byanh
+BC53: Hangul Syllable byad
+BC54: Hangul Syllable byal
+BC55: Hangul Syllable byalg
+BC56: Hangul Syllable byalm
+BC57: Hangul Syllable byalb
+BC58: Hangul Syllable byals
+BC59: Hangul Syllable byalt
+BC5A: Hangul Syllable byalp
+BC5B: Hangul Syllable byalh
+BC5C: Hangul Syllable byam
+BC5D: Hangul Syllable byab
+BC5E: Hangul Syllable byabs
+BC5F: Hangul Syllable byas
+BC60: Hangul Syllable byass
+BC61: Hangul Syllable byang
+BC62: Hangul Syllable byaj
+BC63: Hangul Syllable byac
+BC64: Hangul Syllable byak
+BC65: Hangul Syllable byat
+BC66: Hangul Syllable byap
+BC67: Hangul Syllable byah
+BC68: Hangul Syllable byae
+BC69: Hangul Syllable byaeg
+BC6A: Hangul Syllable byaegg
+BC6B: Hangul Syllable byaegs
+BC6C: Hangul Syllable byaen
+BC6D: Hangul Syllable byaenj
+BC6E: Hangul Syllable byaenh
+BC6F: Hangul Syllable byaed
+BC70: Hangul Syllable byael
+BC71: Hangul Syllable byaelg
+BC72: Hangul Syllable byaelm
+BC73: Hangul Syllable byaelb
+BC74: Hangul Syllable byaels
+BC75: Hangul Syllable byaelt
+BC76: Hangul Syllable byaelp
+BC77: Hangul Syllable byaelh
+BC78: Hangul Syllable byaem
+BC79: Hangul Syllable byaeb
+BC7A: Hangul Syllable byaebs
+BC7B: Hangul Syllable byaes
+BC7C: Hangul Syllable byaess
+BC7D: Hangul Syllable byaeng
+BC7E: Hangul Syllable byaej
+BC7F: Hangul Syllable byaec
+BC80: Hangul Syllable byaek
+BC81: Hangul Syllable byaet
+BC82: Hangul Syllable byaep
+BC83: Hangul Syllable byaeh
+BC84: Hangul Syllable beo
+BC85: Hangul Syllable beog
+BC86: Hangul Syllable beogg
+BC87: Hangul Syllable beogs
+BC88: Hangul Syllable beon
+BC89: Hangul Syllable beonj
+BC8A: Hangul Syllable beonh
+BC8B: Hangul Syllable beod
+BC8C: Hangul Syllable beol
+BC8D: Hangul Syllable beolg
+BC8E: Hangul Syllable beolm
+BC8F: Hangul Syllable beolb
+BC90: Hangul Syllable beols
+BC91: Hangul Syllable beolt
+BC92: Hangul Syllable beolp
+BC93: Hangul Syllable beolh
+BC94: Hangul Syllable beom
+BC95: Hangul Syllable beob
+BC96: Hangul Syllable beobs
+BC97: Hangul Syllable beos
+BC98: Hangul Syllable beoss
+BC99: Hangul Syllable beong
+BC9A: Hangul Syllable beoj
+BC9B: Hangul Syllable beoc
+BC9C: Hangul Syllable beok
+BC9D: Hangul Syllable beot
+BC9E: Hangul Syllable beop
+BC9F: Hangul Syllable beoh
+BCA0: Hangul Syllable be
+BCA1: Hangul Syllable beg
+BCA2: Hangul Syllable begg
+BCA3: Hangul Syllable begs
+BCA4: Hangul Syllable ben
+BCA5: Hangul Syllable benj
+BCA6: Hangul Syllable benh
+BCA7: Hangul Syllable bed
+BCA8: Hangul Syllable bel
+BCA9: Hangul Syllable belg
+BCAA: Hangul Syllable belm
+BCAB: Hangul Syllable belb
+BCAC: Hangul Syllable bels
+BCAD: Hangul Syllable belt
+BCAE: Hangul Syllable belp
+BCAF: Hangul Syllable belh
+BCB0: Hangul Syllable bem
+BCB1: Hangul Syllable beb
+BCB2: Hangul Syllable bebs
+BCB3: Hangul Syllable bes
+BCB4: Hangul Syllable bess
+BCB5: Hangul Syllable beng
+BCB6: Hangul Syllable bej
+BCB7: Hangul Syllable bec
+BCB8: Hangul Syllable bek
+BCB9: Hangul Syllable bet
+BCBA: Hangul Syllable bep
+BCBB: Hangul Syllable beh
+BCBC: Hangul Syllable byeo
+BCBD: Hangul Syllable byeog
+BCBE: Hangul Syllable byeogg
+BCBF: Hangul Syllable byeogs
+BCC0: Hangul Syllable byeon
+BCC1: Hangul Syllable byeonj
+BCC2: Hangul Syllable byeonh
+BCC3: Hangul Syllable byeod
+BCC4: Hangul Syllable byeol
+BCC5: Hangul Syllable byeolg
+BCC6: Hangul Syllable byeolm
+BCC7: Hangul Syllable byeolb
+BCC8: Hangul Syllable byeols
+BCC9: Hangul Syllable byeolt
+BCCA: Hangul Syllable byeolp
+BCCB: Hangul Syllable byeolh
+BCCC: Hangul Syllable byeom
+BCCD: Hangul Syllable byeob
+BCCE: Hangul Syllable byeobs
+BCCF: Hangul Syllable byeos
+BCD0: Hangul Syllable byeoss
+BCD1: Hangul Syllable byeong
+BCD2: Hangul Syllable byeoj
+BCD3: Hangul Syllable byeoc
+BCD4: Hangul Syllable byeok
+BCD5: Hangul Syllable byeot
+BCD6: Hangul Syllable byeop
+BCD7: Hangul Syllable byeoh
+BCD8: Hangul Syllable bye
+BCD9: Hangul Syllable byeg
+BCDA: Hangul Syllable byegg
+BCDB: Hangul Syllable byegs
+BCDC: Hangul Syllable byen
+BCDD: Hangul Syllable byenj
+BCDE: Hangul Syllable byenh
+BCDF: Hangul Syllable byed
+BCE0: Hangul Syllable byel
+BCE1: Hangul Syllable byelg
+BCE2: Hangul Syllable byelm
+BCE3: Hangul Syllable byelb
+BCE4: Hangul Syllable byels
+BCE5: Hangul Syllable byelt
+BCE6: Hangul Syllable byelp
+BCE7: Hangul Syllable byelh
+BCE8: Hangul Syllable byem
+BCE9: Hangul Syllable byeb
+BCEA: Hangul Syllable byebs
+BCEB: Hangul Syllable byes
+BCEC: Hangul Syllable byess
+BCED: Hangul Syllable byeng
+BCEE: Hangul Syllable byej
+BCEF: Hangul Syllable byec
+BCF0: Hangul Syllable byek
+BCF1: Hangul Syllable byet
+BCF2: Hangul Syllable byep
+BCF3: Hangul Syllable byeh
+BCF4: Hangul Syllable bo
+BCF5: Hangul Syllable bog
+BCF6: Hangul Syllable bogg
+BCF7: Hangul Syllable bogs
+BCF8: Hangul Syllable bon
+BCF9: Hangul Syllable bonj
+BCFA: Hangul Syllable bonh
+BCFB: Hangul Syllable bod
+BCFC: Hangul Syllable bol
+BCFD: Hangul Syllable bolg
+BCFE: Hangul Syllable bolm
+BCFF: Hangul Syllable bolb

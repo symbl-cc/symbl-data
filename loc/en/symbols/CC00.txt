@@ -1,256 +1,256 @@
-CC00:
-CC01:
-CC02:
-CC03:
-CC04:
-CC05:
-CC06:
-CC07:
-CC08:
-CC09:
-CC0A:
-CC0B:
-CC0C:
-CC0D:
-CC0E:
-CC0F:
-CC10:
-CC11:
-CC12:
-CC13:
-CC14:
-CC15:
-CC16:
-CC17:
-CC18:
-CC19:
-CC1A:
-CC1B:
-CC1C:
-CC1D:
-CC1E:
-CC1F:
-CC20:
-CC21:
-CC22:
-CC23:
-CC24:
-CC25:
-CC26:
-CC27:
-CC28:
-CC29:
-CC2A:
-CC2B:
-CC2C:
-CC2D:
-CC2E:
-CC2F:
-CC30:
-CC31:
-CC32:
-CC33:
-CC34:
-CC35:
-CC36:
-CC37:
-CC38:
-CC39:
-CC3A:
-CC3B:
-CC3C:
-CC3D:
-CC3E:
-CC3F:
-CC40:
-CC41:
-CC42:
-CC43:
-CC44:
-CC45:
-CC46:
-CC47:
-CC48:
-CC49:
-CC4A:
-CC4B:
-CC4C:
-CC4D:
-CC4E:
-CC4F:
-CC50:
-CC51:
-CC52:
-CC53:
-CC54:
-CC55:
-CC56:
-CC57:
-CC58:
-CC59:
-CC5A:
-CC5B:
-CC5C:
-CC5D:
-CC5E:
-CC5F:
-CC60:
-CC61:
-CC62:
-CC63:
-CC64:
-CC65:
-CC66:
-CC67:
-CC68:
-CC69:
-CC6A:
-CC6B:
-CC6C:
-CC6D:
-CC6E:
-CC6F:
-CC70:
-CC71:
-CC72:
-CC73:
-CC74:
-CC75:
-CC76:
-CC77:
-CC78:
-CC79:
-CC7A:
-CC7B:
-CC7C:
-CC7D:
-CC7E:
-CC7F:
-CC80:
-CC81:
-CC82:
-CC83:
-CC84:
-CC85:
-CC86:
-CC87:
-CC88:
-CC89:
-CC8A:
-CC8B:
-CC8C:
-CC8D:
-CC8E:
-CC8F:
-CC90:
-CC91:
-CC92:
-CC93:
-CC94:
-CC95:
-CC96:
-CC97:
-CC98:
-CC99:
-CC9A:
-CC9B:
-CC9C:
-CC9D:
-CC9E:
-CC9F:
-CCA0:
-CCA1:
-CCA2:
-CCA3:
-CCA4:
-CCA5:
-CCA6:
-CCA7:
-CCA8:
-CCA9:
-CCAA:
-CCAB:
-CCAC:
-CCAD:
-CCAE:
-CCAF:
-CCB0:
-CCB1:
-CCB2:
-CCB3:
-CCB4:
-CCB5:
-CCB6:
-CCB7:
-CCB8:
-CCB9:
-CCBA:
-CCBB:
-CCBC:
-CCBD:
-CCBE:
-CCBF:
-CCC0:
-CCC1:
-CCC2:
-CCC3:
-CCC4:
-CCC5:
-CCC6:
-CCC7:
-CCC8:
-CCC9:
-CCCA:
-CCCB:
-CCCC:
-CCCD:
-CCCE:
-CCCF:
-CCD0:
-CCD1:
-CCD2:
-CCD3:
-CCD4:
-CCD5:
-CCD6:
-CCD7:
-CCD8:
-CCD9:
-CCDA:
-CCDB:
-CCDC:
-CCDD:
-CCDE:
-CCDF:
-CCE0:
-CCE1:
-CCE2:
-CCE3:
-CCE4:
-CCE5:
-CCE6:
-CCE7:
-CCE8:
-CCE9:
-CCEA:
-CCEB:
-CCEC:
-CCED:
-CCEE:
-CCEF:
-CCF0:
-CCF1:
-CCF2:
-CCF3:
-CCF4:
-CCF5:
-CCF6:
-CCF7:
-CCF8:
-CCF9:
-CCFA:
-CCFB:
-CCFC:
-CCFD:
-CCFE:
-CCFF:
+CC00: Hangul Syllable jjyim
+CC01: Hangul Syllable jjyib
+CC02: Hangul Syllable jjyibs
+CC03: Hangul Syllable jjyis
+CC04: Hangul Syllable jjyiss
+CC05: Hangul Syllable jjying
+CC06: Hangul Syllable jjyij
+CC07: Hangul Syllable jjyic
+CC08: Hangul Syllable jjyik
+CC09: Hangul Syllable jjyit
+CC0A: Hangul Syllable jjyip
+CC0B: Hangul Syllable jjyih
+CC0C: Hangul Syllable jji
+CC0D: Hangul Syllable jjig
+CC0E: Hangul Syllable jjigg
+CC0F: Hangul Syllable jjigs
+CC10: Hangul Syllable jjin
+CC11: Hangul Syllable jjinj
+CC12: Hangul Syllable jjinh
+CC13: Hangul Syllable jjid
+CC14: Hangul Syllable jjil
+CC15: Hangul Syllable jjilg
+CC16: Hangul Syllable jjilm
+CC17: Hangul Syllable jjilb
+CC18: Hangul Syllable jjils
+CC19: Hangul Syllable jjilt
+CC1A: Hangul Syllable jjilp
+CC1B: Hangul Syllable jjilh
+CC1C: Hangul Syllable jjim
+CC1D: Hangul Syllable jjib
+CC1E: Hangul Syllable jjibs
+CC1F: Hangul Syllable jjis
+CC20: Hangul Syllable jjiss
+CC21: Hangul Syllable jjing
+CC22: Hangul Syllable jjij
+CC23: Hangul Syllable jjic
+CC24: Hangul Syllable jjik
+CC25: Hangul Syllable jjit
+CC26: Hangul Syllable jjip
+CC27: Hangul Syllable jjih
+CC28: Hangul Syllable ca
+CC29: Hangul Syllable cag
+CC2A: Hangul Syllable cagg
+CC2B: Hangul Syllable cags
+CC2C: Hangul Syllable can
+CC2D: Hangul Syllable canj
+CC2E: Hangul Syllable canh
+CC2F: Hangul Syllable cad
+CC30: Hangul Syllable cal
+CC31: Hangul Syllable calg
+CC32: Hangul Syllable calm
+CC33: Hangul Syllable calb
+CC34: Hangul Syllable cals
+CC35: Hangul Syllable calt
+CC36: Hangul Syllable calp
+CC37: Hangul Syllable calh
+CC38: Hangul Syllable cam
+CC39: Hangul Syllable cab
+CC3A: Hangul Syllable cabs
+CC3B: Hangul Syllable cas
+CC3C: Hangul Syllable cass
+CC3D: Hangul Syllable cang
+CC3E: Hangul Syllable caj
+CC3F: Hangul Syllable cac
+CC40: Hangul Syllable cak
+CC41: Hangul Syllable cat
+CC42: Hangul Syllable cap
+CC43: Hangul Syllable cah
+CC44: Hangul Syllable cae
+CC45: Hangul Syllable caeg
+CC46: Hangul Syllable caegg
+CC47: Hangul Syllable caegs
+CC48: Hangul Syllable caen
+CC49: Hangul Syllable caenj
+CC4A: Hangul Syllable caenh
+CC4B: Hangul Syllable caed
+CC4C: Hangul Syllable cael
+CC4D: Hangul Syllable caelg
+CC4E: Hangul Syllable caelm
+CC4F: Hangul Syllable caelb
+CC50: Hangul Syllable caels
+CC51: Hangul Syllable caelt
+CC52: Hangul Syllable caelp
+CC53: Hangul Syllable caelh
+CC54: Hangul Syllable caem
+CC55: Hangul Syllable caeb
+CC56: Hangul Syllable caebs
+CC57: Hangul Syllable caes
+CC58: Hangul Syllable caess
+CC59: Hangul Syllable caeng
+CC5A: Hangul Syllable caej
+CC5B: Hangul Syllable caec
+CC5C: Hangul Syllable caek
+CC5D: Hangul Syllable caet
+CC5E: Hangul Syllable caep
+CC5F: Hangul Syllable caeh
+CC60: Hangul Syllable cya
+CC61: Hangul Syllable cyag
+CC62: Hangul Syllable cyagg
+CC63: Hangul Syllable cyags
+CC64: Hangul Syllable cyan
+CC65: Hangul Syllable cyanj
+CC66: Hangul Syllable cyanh
+CC67: Hangul Syllable cyad
+CC68: Hangul Syllable cyal
+CC69: Hangul Syllable cyalg
+CC6A: Hangul Syllable cyalm
+CC6B: Hangul Syllable cyalb
+CC6C: Hangul Syllable cyals
+CC6D: Hangul Syllable cyalt
+CC6E: Hangul Syllable cyalp
+CC6F: Hangul Syllable cyalh
+CC70: Hangul Syllable cyam
+CC71: Hangul Syllable cyab
+CC72: Hangul Syllable cyabs
+CC73: Hangul Syllable cyas
+CC74: Hangul Syllable cyass
+CC75: Hangul Syllable cyang
+CC76: Hangul Syllable cyaj
+CC77: Hangul Syllable cyac
+CC78: Hangul Syllable cyak
+CC79: Hangul Syllable cyat
+CC7A: Hangul Syllable cyap
+CC7B: Hangul Syllable cyah
+CC7C: Hangul Syllable cyae
+CC7D: Hangul Syllable cyaeg
+CC7E: Hangul Syllable cyaegg
+CC7F: Hangul Syllable cyaegs
+CC80: Hangul Syllable cyaen
+CC81: Hangul Syllable cyaenj
+CC82: Hangul Syllable cyaenh
+CC83: Hangul Syllable cyaed
+CC84: Hangul Syllable cyael
+CC85: Hangul Syllable cyaelg
+CC86: Hangul Syllable cyaelm
+CC87: Hangul Syllable cyaelb
+CC88: Hangul Syllable cyaels
+CC89: Hangul Syllable cyaelt
+CC8A: Hangul Syllable cyaelp
+CC8B: Hangul Syllable cyaelh
+CC8C: Hangul Syllable cyaem
+CC8D: Hangul Syllable cyaeb
+CC8E: Hangul Syllable cyaebs
+CC8F: Hangul Syllable cyaes
+CC90: Hangul Syllable cyaess
+CC91: Hangul Syllable cyaeng
+CC92: Hangul Syllable cyaej
+CC93: Hangul Syllable cyaec
+CC94: Hangul Syllable cyaek
+CC95: Hangul Syllable cyaet
+CC96: Hangul Syllable cyaep
+CC97: Hangul Syllable cyaeh
+CC98: Hangul Syllable ceo
+CC99: Hangul Syllable ceog
+CC9A: Hangul Syllable ceogg
+CC9B: Hangul Syllable ceogs
+CC9C: Hangul Syllable ceon
+CC9D: Hangul Syllable ceonj
+CC9E: Hangul Syllable ceonh
+CC9F: Hangul Syllable ceod
+CCA0: Hangul Syllable ceol
+CCA1: Hangul Syllable ceolg
+CCA2: Hangul Syllable ceolm
+CCA3: Hangul Syllable ceolb
+CCA4: Hangul Syllable ceols
+CCA5: Hangul Syllable ceolt
+CCA6: Hangul Syllable ceolp
+CCA7: Hangul Syllable ceolh
+CCA8: Hangul Syllable ceom
+CCA9: Hangul Syllable ceob
+CCAA: Hangul Syllable ceobs
+CCAB: Hangul Syllable ceos
+CCAC: Hangul Syllable ceoss
+CCAD: Hangul Syllable ceong
+CCAE: Hangul Syllable ceoj
+CCAF: Hangul Syllable ceoc
+CCB0: Hangul Syllable ceok
+CCB1: Hangul Syllable ceot
+CCB2: Hangul Syllable ceop
+CCB3: Hangul Syllable ceoh
+CCB4: Hangul Syllable ce
+CCB5: Hangul Syllable ceg
+CCB6: Hangul Syllable cegg
+CCB7: Hangul Syllable cegs
+CCB8: Hangul Syllable cen
+CCB9: Hangul Syllable cenj
+CCBA: Hangul Syllable cenh
+CCBB: Hangul Syllable ced
+CCBC: Hangul Syllable cel
+CCBD: Hangul Syllable celg
+CCBE: Hangul Syllable celm
+CCBF: Hangul Syllable celb
+CCC0: Hangul Syllable cels
+CCC1: Hangul Syllable celt
+CCC2: Hangul Syllable celp
+CCC3: Hangul Syllable celh
+CCC4: Hangul Syllable cem
+CCC5: Hangul Syllable ceb
+CCC6: Hangul Syllable cebs
+CCC7: Hangul Syllable ces
+CCC8: Hangul Syllable cess
+CCC9: Hangul Syllable ceng
+CCCA: Hangul Syllable cej
+CCCB: Hangul Syllable cec
+CCCC: Hangul Syllable cek
+CCCD: Hangul Syllable cet
+CCCE: Hangul Syllable cep
+CCCF: Hangul Syllable ceh
+CCD0: Hangul Syllable cyeo
+CCD1: Hangul Syllable cyeog
+CCD2: Hangul Syllable cyeogg
+CCD3: Hangul Syllable cyeogs
+CCD4: Hangul Syllable cyeon
+CCD5: Hangul Syllable cyeonj
+CCD6: Hangul Syllable cyeonh
+CCD7: Hangul Syllable cyeod
+CCD8: Hangul Syllable cyeol
+CCD9: Hangul Syllable cyeolg
+CCDA: Hangul Syllable cyeolm
+CCDB: Hangul Syllable cyeolb
+CCDC: Hangul Syllable cyeols
+CCDD: Hangul Syllable cyeolt
+CCDE: Hangul Syllable cyeolp
+CCDF: Hangul Syllable cyeolh
+CCE0: Hangul Syllable cyeom
+CCE1: Hangul Syllable cyeob
+CCE2: Hangul Syllable cyeobs
+CCE3: Hangul Syllable cyeos
+CCE4: Hangul Syllable cyeoss
+CCE5: Hangul Syllable cyeong
+CCE6: Hangul Syllable cyeoj
+CCE7: Hangul Syllable cyeoc
+CCE8: Hangul Syllable cyeok
+CCE9: Hangul Syllable cyeot
+CCEA: Hangul Syllable cyeop
+CCEB: Hangul Syllable cyeoh
+CCEC: Hangul Syllable cye
+CCED: Hangul Syllable cyeg
+CCEE: Hangul Syllable cyegg
+CCEF: Hangul Syllable cyegs
+CCF0: Hangul Syllable cyen
+CCF1: Hangul Syllable cyenj
+CCF2: Hangul Syllable cyenh
+CCF3: Hangul Syllable cyed
+CCF4: Hangul Syllable cyel
+CCF5: Hangul Syllable cyelg
+CCF6: Hangul Syllable cyelm
+CCF7: Hangul Syllable cyelb
+CCF8: Hangul Syllable cyels
+CCF9: Hangul Syllable cyelt
+CCFA: Hangul Syllable cyelp
+CCFB: Hangul Syllable cyelh
+CCFC: Hangul Syllable cyem
+CCFD: Hangul Syllable cyeb
+CCFE: Hangul Syllable cyebs
+CCFF: Hangul Syllable cyes

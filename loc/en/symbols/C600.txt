@@ -1,256 +1,256 @@
-C600:
-C601:
-C602:
-C603:
-C604:
-C605:
-C606:
-C607:
-C608:
-C609:
-C60A:
-C60B:
-C60C:
-C60D:
-C60E:
-C60F:
-C610:
-C611:
-C612:
-C613:
-C614:
-C615:
-C616:
-C617:
-C618:
-C619:
-C61A:
-C61B:
-C61C:
-C61D:
-C61E:
-C61F:
-C620:
-C621:
-C622:
-C623:
-C624:
-C625:
-C626:
-C627:
-C628:
-C629:
-C62A:
-C62B:
-C62C:
-C62D:
-C62E:
-C62F:
-C630:
-C631:
-C632:
-C633:
-C634:
-C635:
-C636:
-C637:
-C638:
-C639:
-C63A:
-C63B:
-C63C:
-C63D:
-C63E:
-C63F:
-C640:
-C641:
-C642:
-C643:
-C644:
-C645:
-C646:
-C647:
-C648:
-C649:
-C64A:
-C64B:
-C64C:
-C64D:
-C64E:
-C64F:
-C650:
-C651:
-C652:
-C653:
-C654:
-C655:
-C656:
-C657:
-C658:
-C659:
-C65A:
-C65B:
-C65C:
-C65D:
-C65E:
-C65F:
-C660:
-C661:
-C662:
-C663:
-C664:
-C665:
-C666:
-C667:
-C668:
-C669:
-C66A:
-C66B:
-C66C:
-C66D:
-C66E:
-C66F:
-C670:
-C671:
-C672:
-C673:
-C674:
-C675:
-C676:
-C677:
-C678:
-C679:
-C67A:
-C67B:
-C67C:
-C67D:
-C67E:
-C67F:
-C680:
-C681:
-C682:
-C683:
-C684:
-C685:
-C686:
-C687:
-C688:
-C689:
-C68A:
-C68B:
-C68C:
-C68D:
-C68E:
-C68F:
-C690:
-C691:
-C692:
-C693:
-C694:
-C695:
-C696:
-C697:
-C698:
-C699:
-C69A:
-C69B:
-C69C:
-C69D:
-C69E:
-C69F:
-C6A0:
-C6A1:
-C6A2:
-C6A3:
-C6A4:
-C6A5:
-C6A6:
-C6A7:
-C6A8:
-C6A9:
-C6AA:
-C6AB:
-C6AC:
-C6AD:
-C6AE:
-C6AF:
-C6B0:
-C6B1:
-C6B2:
-C6B3:
-C6B4:
-C6B5:
-C6B6:
-C6B7:
-C6B8:
-C6B9:
-C6BA:
-C6BB:
-C6BC:
-C6BD:
-C6BE:
-C6BF:
-C6C0:
-C6C1:
-C6C2:
-C6C3:
-C6C4:
-C6C5:
-C6C6:
-C6C7:
-C6C8:
-C6C9:
-C6CA:
-C6CB:
-C6CC:
-C6CD:
-C6CE:
-C6CF:
-C6D0:
-C6D1:
-C6D2:
-C6D3:
-C6D4:
-C6D5:
-C6D6:
-C6D7:
-C6D8:
-C6D9:
-C6DA:
-C6DB:
-C6DC:
-C6DD:
-C6DE:
-C6DF:
-C6E0:
-C6E1:
-C6E2:
-C6E3:
-C6E4:
-C6E5:
-C6E6:
-C6E7:
-C6E8:
-C6E9:
-C6EA:
-C6EB:
-C6EC:
-C6ED:
-C6EE:
-C6EF:
-C6F0:
-C6F1:
-C6F2:
-C6F3:
-C6F4:
-C6F5:
-C6F6:
-C6F7:
-C6F8:
-C6F9:
-C6FA:
-C6FB:
-C6FC:
-C6FD:
-C6FE:
-C6FF:
+C600: Hangul Syllable yeoss
+C601: Hangul Syllable yeong
+C602: Hangul Syllable yeoj
+C603: Hangul Syllable yeoc
+C604: Hangul Syllable yeok
+C605: Hangul Syllable yeot
+C606: Hangul Syllable yeop
+C607: Hangul Syllable yeoh
+C608: Hangul Syllable ye
+C609: Hangul Syllable yeg
+C60A: Hangul Syllable yegg
+C60B: Hangul Syllable yegs
+C60C: Hangul Syllable yen
+C60D: Hangul Syllable yenj
+C60E: Hangul Syllable yenh
+C60F: Hangul Syllable yed
+C610: Hangul Syllable yel
+C611: Hangul Syllable yelg
+C612: Hangul Syllable yelm
+C613: Hangul Syllable yelb
+C614: Hangul Syllable yels
+C615: Hangul Syllable yelt
+C616: Hangul Syllable yelp
+C617: Hangul Syllable yelh
+C618: Hangul Syllable yem
+C619: Hangul Syllable yeb
+C61A: Hangul Syllable yebs
+C61B: Hangul Syllable yes
+C61C: Hangul Syllable yess
+C61D: Hangul Syllable yeng
+C61E: Hangul Syllable yej
+C61F: Hangul Syllable yec
+C620: Hangul Syllable yek
+C621: Hangul Syllable yet
+C622: Hangul Syllable yep
+C623: Hangul Syllable yeh
+C624: Hangul Syllable o
+C625: Hangul Syllable og
+C626: Hangul Syllable ogg
+C627: Hangul Syllable ogs
+C628: Hangul Syllable on
+C629: Hangul Syllable onj
+C62A: Hangul Syllable onh
+C62B: Hangul Syllable od
+C62C: Hangul Syllable ol
+C62D: Hangul Syllable olg
+C62E: Hangul Syllable olm
+C62F: Hangul Syllable olb
+C630: Hangul Syllable ols
+C631: Hangul Syllable olt
+C632: Hangul Syllable olp
+C633: Hangul Syllable olh
+C634: Hangul Syllable om
+C635: Hangul Syllable ob
+C636: Hangul Syllable obs
+C637: Hangul Syllable os
+C638: Hangul Syllable oss
+C639: Hangul Syllable ong
+C63A: Hangul Syllable oj
+C63B: Hangul Syllable oc
+C63C: Hangul Syllable ok
+C63D: Hangul Syllable ot
+C63E: Hangul Syllable op
+C63F: Hangul Syllable oh
+C640: Hangul Syllable wa
+C641: Hangul Syllable wag
+C642: Hangul Syllable wagg
+C643: Hangul Syllable wags
+C644: Hangul Syllable wan
+C645: Hangul Syllable wanj
+C646: Hangul Syllable wanh
+C647: Hangul Syllable wad
+C648: Hangul Syllable wal
+C649: Hangul Syllable walg
+C64A: Hangul Syllable walm
+C64B: Hangul Syllable walb
+C64C: Hangul Syllable wals
+C64D: Hangul Syllable walt
+C64E: Hangul Syllable walp
+C64F: Hangul Syllable walh
+C650: Hangul Syllable wam
+C651: Hangul Syllable wab
+C652: Hangul Syllable wabs
+C653: Hangul Syllable was
+C654: Hangul Syllable wass
+C655: Hangul Syllable wang
+C656: Hangul Syllable waj
+C657: Hangul Syllable wac
+C658: Hangul Syllable wak
+C659: Hangul Syllable wat
+C65A: Hangul Syllable wap
+C65B: Hangul Syllable wah
+C65C: Hangul Syllable wae
+C65D: Hangul Syllable waeg
+C65E: Hangul Syllable waegg
+C65F: Hangul Syllable waegs
+C660: Hangul Syllable waen
+C661: Hangul Syllable waenj
+C662: Hangul Syllable waenh
+C663: Hangul Syllable waed
+C664: Hangul Syllable wael
+C665: Hangul Syllable waelg
+C666: Hangul Syllable waelm
+C667: Hangul Syllable waelb
+C668: Hangul Syllable waels
+C669: Hangul Syllable waelt
+C66A: Hangul Syllable waelp
+C66B: Hangul Syllable waelh
+C66C: Hangul Syllable waem
+C66D: Hangul Syllable waeb
+C66E: Hangul Syllable waebs
+C66F: Hangul Syllable waes
+C670: Hangul Syllable waess
+C671: Hangul Syllable waeng
+C672: Hangul Syllable waej
+C673: Hangul Syllable waec
+C674: Hangul Syllable waek
+C675: Hangul Syllable waet
+C676: Hangul Syllable waep
+C677: Hangul Syllable waeh
+C678: Hangul Syllable oe
+C679: Hangul Syllable oeg
+C67A: Hangul Syllable oegg
+C67B: Hangul Syllable oegs
+C67C: Hangul Syllable oen
+C67D: Hangul Syllable oenj
+C67E: Hangul Syllable oenh
+C67F: Hangul Syllable oed
+C680: Hangul Syllable oel
+C681: Hangul Syllable oelg
+C682: Hangul Syllable oelm
+C683: Hangul Syllable oelb
+C684: Hangul Syllable oels
+C685: Hangul Syllable oelt
+C686: Hangul Syllable oelp
+C687: Hangul Syllable oelh
+C688: Hangul Syllable oem
+C689: Hangul Syllable oeb
+C68A: Hangul Syllable oebs
+C68B: Hangul Syllable oes
+C68C: Hangul Syllable oess
+C68D: Hangul Syllable oeng
+C68E: Hangul Syllable oej
+C68F: Hangul Syllable oec
+C690: Hangul Syllable oek
+C691: Hangul Syllable oet
+C692: Hangul Syllable oep
+C693: Hangul Syllable oeh
+C694: Hangul Syllable yo
+C695: Hangul Syllable yog
+C696: Hangul Syllable yogg
+C697: Hangul Syllable yogs
+C698: Hangul Syllable yon
+C699: Hangul Syllable yonj
+C69A: Hangul Syllable yonh
+C69B: Hangul Syllable yod
+C69C: Hangul Syllable yol
+C69D: Hangul Syllable yolg
+C69E: Hangul Syllable yolm
+C69F: Hangul Syllable yolb
+C6A0: Hangul Syllable yols
+C6A1: Hangul Syllable yolt
+C6A2: Hangul Syllable yolp
+C6A3: Hangul Syllable yolh
+C6A4: Hangul Syllable yom
+C6A5: Hangul Syllable yob
+C6A6: Hangul Syllable yobs
+C6A7: Hangul Syllable yos
+C6A8: Hangul Syllable yoss
+C6A9: Hangul Syllable yong
+C6AA: Hangul Syllable yoj
+C6AB: Hangul Syllable yoc
+C6AC: Hangul Syllable yok
+C6AD: Hangul Syllable yot
+C6AE: Hangul Syllable yop
+C6AF: Hangul Syllable yoh
+C6B0: Hangul Syllable u
+C6B1: Hangul Syllable ug
+C6B2: Hangul Syllable ugg
+C6B3: Hangul Syllable ugs
+C6B4: Hangul Syllable un
+C6B5: Hangul Syllable unj
+C6B6: Hangul Syllable unh
+C6B7: Hangul Syllable ud
+C6B8: Hangul Syllable ul
+C6B9: Hangul Syllable ulg
+C6BA: Hangul Syllable ulm
+C6BB: Hangul Syllable ulb
+C6BC: Hangul Syllable uls
+C6BD: Hangul Syllable ult
+C6BE: Hangul Syllable ulp
+C6BF: Hangul Syllable ulh
+C6C0: Hangul Syllable um
+C6C1: Hangul Syllable ub
+C6C2: Hangul Syllable ubs
+C6C3: Hangul Syllable us
+C6C4: Hangul Syllable uss
+C6C5: Hangul Syllable ung
+C6C6: Hangul Syllable uj
+C6C7: Hangul Syllable uc
+C6C8: Hangul Syllable uk
+C6C9: Hangul Syllable ut
+C6CA: Hangul Syllable up
+C6CB: Hangul Syllable uh
+C6CC: Hangul Syllable weo
+C6CD: Hangul Syllable weog
+C6CE: Hangul Syllable weogg
+C6CF: Hangul Syllable weogs
+C6D0: Korean Won
+C6D1: Hangul Syllable weonj
+C6D2: Hangul Syllable weonh
+C6D3: Hangul Syllable weod
+C6D4: Hangul Syllable weol
+C6D5: Hangul Syllable weolg
+C6D6: Hangul Syllable weolm
+C6D7: Hangul Syllable weolb
+C6D8: Hangul Syllable weols
+C6D9: Hangul Syllable weolt
+C6DA: Hangul Syllable weolp
+C6DB: Hangul Syllable weolh
+C6DC: Hangul Syllable weom
+C6DD: Hangul Syllable weob
+C6DE: Hangul Syllable weobs
+C6DF: Hangul Syllable weos
+C6E0: Hangul Syllable weoss
+C6E1: Hangul Syllable weong
+C6E2: Hangul Syllable weoj
+C6E3: Hangul Syllable weoc
+C6E4: Hangul Syllable weok
+C6E5: Hangul Syllable weot
+C6E6: Hangul Syllable weop
+C6E7: Hangul Syllable weoh
+C6E8: Hangul Syllable we
+C6E9: Hangul Syllable weg
+C6EA: Hangul Syllable wegg
+C6EB: Hangul Syllable wegs
+C6EC: Hangul Syllable wen
+C6ED: Hangul Syllable wenj
+C6EE: Hangul Syllable wenh
+C6EF: Hangul Syllable wed
+C6F0: Hangul Syllable wel
+C6F1: Hangul Syllable welg
+C6F2: Hangul Syllable welm
+C6F3: Hangul Syllable welb
+C6F4: Hangul Syllable wels
+C6F5: Hangul Syllable welt
+C6F6: Hangul Syllable welp
+C6F7: Hangul Syllable welh
+C6F8: Hangul Syllable wem
+C6F9: Hangul Syllable web
+C6FA: Hangul Syllable webs
+C6FB: Hangul Syllable wes
+C6FC: Hangul Syllable wess
+C6FD: Hangul Syllable weng
+C6FE: Hangul Syllable wej
+C6FF: Hangul Syllable wec

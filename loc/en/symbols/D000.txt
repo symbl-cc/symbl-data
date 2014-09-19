@@ -1,256 +1,256 @@
-D000:
-D001:
-D002:
-D003:
-D004:
-D005:
-D006:
-D007:
-D008:
-D009:
-D00A:
-D00B:
-D00C:
-D00D:
-D00E:
-D00F:
-D010:
-D011:
-D012:
-D013:
-D014:
-D015:
-D016:
-D017:
-D018:
-D019:
-D01A:
-D01B:
-D01C:
-D01D:
-D01E:
-D01F:
-D020:
-D021:
-D022:
-D023:
-D024:
-D025:
-D026:
-D027:
-D028:
-D029:
-D02A:
-D02B:
-D02C:
-D02D:
-D02E:
-D02F:
-D030:
-D031:
-D032:
-D033:
-D034:
-D035:
-D036:
-D037:
-D038:
-D039:
-D03A:
-D03B:
-D03C:
-D03D:
-D03E:
-D03F:
-D040:
-D041:
-D042:
-D043:
-D044:
-D045:
-D046:
-D047:
-D048:
-D049:
-D04A:
-D04B:
-D04C:
-D04D:
-D04E:
-D04F:
-D050:
-D051:
-D052:
-D053:
-D054:
-D055:
-D056:
-D057:
-D058:
-D059:
-D05A:
-D05B:
-D05C:
-D05D:
-D05E:
-D05F:
-D060:
-D061:
-D062:
-D063:
-D064:
-D065:
-D066:
-D067:
-D068:
-D069:
-D06A:
-D06B:
-D06C:
-D06D:
-D06E:
-D06F:
-D070:
-D071:
-D072:
-D073:
-D074:
-D075:
-D076:
-D077:
-D078:
-D079:
-D07A:
-D07B:
-D07C:
-D07D:
-D07E:
-D07F:
-D080:
-D081:
-D082:
-D083:
-D084:
-D085:
-D086:
-D087:
-D088:
-D089:
-D08A:
-D08B:
-D08C:
-D08D:
-D08E:
-D08F:
-D090:
-D091:
-D092:
-D093:
-D094:
-D095:
-D096:
-D097:
-D098:
-D099:
-D09A:
-D09B:
-D09C:
-D09D:
-D09E:
-D09F:
-D0A0:
-D0A1:
-D0A2:
-D0A3:
-D0A4:
-D0A5:
-D0A6:
-D0A7:
-D0A8:
-D0A9:
-D0AA:
-D0AB:
-D0AC:
-D0AD:
-D0AE:
-D0AF:
-D0B0:
-D0B1:
-D0B2:
-D0B3:
-D0B4:
-D0B5:
-D0B6:
-D0B7:
-D0B8:
-D0B9:
-D0BA:
-D0BB:
-D0BC:
-D0BD:
-D0BE:
-D0BF:
-D0C0:
-D0C1:
-D0C2:
-D0C3:
-D0C4:
-D0C5:
-D0C6:
-D0C7:
-D0C8:
-D0C9:
-D0CA:
-D0CB:
-D0CC:
-D0CD:
-D0CE:
-D0CF:
-D0D0:
-D0D1:
-D0D2:
-D0D3:
-D0D4:
-D0D5:
-D0D6:
-D0D7:
-D0D8:
-D0D9:
-D0DA:
-D0DB:
-D0DC:
-D0DD:
-D0DE:
-D0DF:
-D0E0:
-D0E1:
-D0E2:
-D0E3:
-D0E4:
-D0E5:
-D0E6:
-D0E7:
-D0E8:
-D0E9:
-D0EA:
-D0EB:
-D0EC:
-D0ED:
-D0EE:
-D0EF:
-D0F0:
-D0F1:
-D0F2:
-D0F3:
-D0F4:
-D0F5:
-D0F6:
-D0F7:
-D0F8:
-D0F9:
-D0FA:
-D0FB:
-D0FC:
-D0FD:
-D0FE:
-D0FF:
+D000: Hangul Syllable kweon
+D001: Hangul Syllable kweonj
+D002: Hangul Syllable kweonh
+D003: Hangul Syllable kweod
+D004: Hangul Syllable kweol
+D005: Hangul Syllable kweolg
+D006: Hangul Syllable kweolm
+D007: Hangul Syllable kweolb
+D008: Hangul Syllable kweols
+D009: Hangul Syllable kweolt
+D00A: Hangul Syllable kweolp
+D00B: Hangul Syllable kweolh
+D00C: Hangul Syllable kweom
+D00D: Hangul Syllable kweob
+D00E: Hangul Syllable kweobs
+D00F: Hangul Syllable kweos
+D010: Hangul Syllable kweoss
+D011: Hangul Syllable kweong
+D012: Hangul Syllable kweoj
+D013: Hangul Syllable kweoc
+D014: Hangul Syllable kweok
+D015: Hangul Syllable kweot
+D016: Hangul Syllable kweop
+D017: Hangul Syllable kweoh
+D018: Hangul Syllable kwe
+D019: Hangul Syllable kweg
+D01A: Hangul Syllable kwegg
+D01B: Hangul Syllable kwegs
+D01C: Hangul Syllable kwen
+D01D: Hangul Syllable kwenj
+D01E: Hangul Syllable kwenh
+D01F: Hangul Syllable kwed
+D020: Hangul Syllable kwel
+D021: Hangul Syllable kwelg
+D022: Hangul Syllable kwelm
+D023: Hangul Syllable kwelb
+D024: Hangul Syllable kwels
+D025: Hangul Syllable kwelt
+D026: Hangul Syllable kwelp
+D027: Hangul Syllable kwelh
+D028: Hangul Syllable kwem
+D029: Hangul Syllable kweb
+D02A: Hangul Syllable kwebs
+D02B: Hangul Syllable kwes
+D02C: Hangul Syllable kwess
+D02D: Hangul Syllable kweng
+D02E: Hangul Syllable kwej
+D02F: Hangul Syllable kwec
+D030: Hangul Syllable kwek
+D031: Hangul Syllable kwet
+D032: Hangul Syllable kwep
+D033: Hangul Syllable kweh
+D034: Hangul Syllable kwi
+D035: Hangul Syllable kwig
+D036: Hangul Syllable kwigg
+D037: Hangul Syllable kwigs
+D038: Hangul Syllable kwin
+D039: Hangul Syllable kwinj
+D03A: Hangul Syllable kwinh
+D03B: Hangul Syllable kwid
+D03C: Hangul Syllable kwil
+D03D: Hangul Syllable kwilg
+D03E: Hangul Syllable kwilm
+D03F: Hangul Syllable kwilb
+D040: Hangul Syllable kwils
+D041: Hangul Syllable kwilt
+D042: Hangul Syllable kwilp
+D043: Hangul Syllable kwilh
+D044: Hangul Syllable kwim
+D045: Hangul Syllable kwib
+D046: Hangul Syllable kwibs
+D047: Hangul Syllable kwis
+D048: Hangul Syllable kwiss
+D049: Hangul Syllable kwing
+D04A: Hangul Syllable kwij
+D04B: Hangul Syllable kwic
+D04C: Hangul Syllable kwik
+D04D: Hangul Syllable kwit
+D04E: Hangul Syllable kwip
+D04F: Hangul Syllable kwih
+D050: Hangul Syllable kyu
+D051: Hangul Syllable kyug
+D052: Hangul Syllable kyugg
+D053: Hangul Syllable kyugs
+D054: Hangul Syllable kyun
+D055: Hangul Syllable kyunj
+D056: Hangul Syllable kyunh
+D057: Hangul Syllable kyud
+D058: Hangul Syllable kyul
+D059: Hangul Syllable kyulg
+D05A: Hangul Syllable kyulm
+D05B: Hangul Syllable kyulb
+D05C: Hangul Syllable kyuls
+D05D: Hangul Syllable kyult
+D05E: Hangul Syllable kyulp
+D05F: Hangul Syllable kyulh
+D060: Hangul Syllable kyum
+D061: Hangul Syllable kyub
+D062: Hangul Syllable kyubs
+D063: Hangul Syllable kyus
+D064: Hangul Syllable kyuss
+D065: Hangul Syllable kyung
+D066: Hangul Syllable kyuj
+D067: Hangul Syllable kyuc
+D068: Hangul Syllable kyuk
+D069: Hangul Syllable kyut
+D06A: Hangul Syllable kyup
+D06B: Hangul Syllable kyuh
+D06C: Hangul Syllable keu
+D06D: Hangul Syllable keug
+D06E: Hangul Syllable keugg
+D06F: Hangul Syllable keugs
+D070: Hangul Syllable keun
+D071: Hangul Syllable keunj
+D072: Hangul Syllable keunh
+D073: Hangul Syllable keud
+D074: Hangul Syllable keul
+D075: Hangul Syllable keulg
+D076: Hangul Syllable keulm
+D077: Hangul Syllable keulb
+D078: Hangul Syllable keuls
+D079: Hangul Syllable keult
+D07A: Hangul Syllable keulp
+D07B: Hangul Syllable keulh
+D07C: Hangul Syllable keum
+D07D: Hangul Syllable keub
+D07E: Hangul Syllable keubs
+D07F: Hangul Syllable keus
+D080: Hangul Syllable keuss
+D081: Hangul Syllable keung
+D082: Hangul Syllable keuj
+D083: Hangul Syllable keuc
+D084: Hangul Syllable keuk
+D085: Hangul Syllable keut
+D086: Hangul Syllable keup
+D087: Hangul Syllable keuh
+D088: Hangul Syllable kyi
+D089: Hangul Syllable kyig
+D08A: Hangul Syllable kyigg
+D08B: Hangul Syllable kyigs
+D08C: Hangul Syllable kyin
+D08D: Hangul Syllable kyinj
+D08E: Hangul Syllable kyinh
+D08F: Hangul Syllable kyid
+D090: Hangul Syllable kyil
+D091: Hangul Syllable kyilg
+D092: Hangul Syllable kyilm
+D093: Hangul Syllable kyilb
+D094: Hangul Syllable kyils
+D095: Hangul Syllable kyilt
+D096: Hangul Syllable kyilp
+D097: Hangul Syllable kyilh
+D098: Hangul Syllable kyim
+D099: Hangul Syllable kyib
+D09A: Hangul Syllable kyibs
+D09B: Hangul Syllable kyis
+D09C: Hangul Syllable kyiss
+D09D: Hangul Syllable kying
+D09E: Hangul Syllable kyij
+D09F: Hangul Syllable kyic
+D0A0: Hangul Syllable kyik
+D0A1: Hangul Syllable kyit
+D0A2: Hangul Syllable kyip
+D0A3: Hangul Syllable kyih
+D0A4: Hangul Syllable ki
+D0A5: Hangul Syllable kig
+D0A6: Hangul Syllable kigg
+D0A7: Hangul Syllable kigs
+D0A8: Hangul Syllable kin
+D0A9: Hangul Syllable kinj
+D0AA: Hangul Syllable kinh
+D0AB: Hangul Syllable kid
+D0AC: Hangul Syllable kil
+D0AD: Hangul Syllable kilg
+D0AE: Hangul Syllable kilm
+D0AF: Hangul Syllable kilb
+D0B0: Hangul Syllable kils
+D0B1: Hangul Syllable kilt
+D0B2: Hangul Syllable kilp
+D0B3: Hangul Syllable kilh
+D0B4: Hangul Syllable kim
+D0B5: Hangul Syllable kib
+D0B6: Hangul Syllable kibs
+D0B7: Hangul Syllable kis
+D0B8: Hangul Syllable kiss
+D0B9: Hangul Syllable king
+D0BA: Hangul Syllable kij
+D0BB: Hangul Syllable kic
+D0BC: Hangul Syllable kik
+D0BD: Hangul Syllable kit
+D0BE: Hangul Syllable kip
+D0BF: Hangul Syllable kih
+D0C0: Hangul Syllable ta
+D0C1: Hangul Syllable tag
+D0C2: Hangul Syllable tagg
+D0C3: Hangul Syllable tags
+D0C4: Hangul Syllable tan
+D0C5: Hangul Syllable tanj
+D0C6: Hangul Syllable tanh
+D0C7: Hangul Syllable tad
+D0C8: Hangul Syllable tal
+D0C9: Hangul Syllable talg
+D0CA: Hangul Syllable talm
+D0CB: Hangul Syllable talb
+D0CC: Hangul Syllable tals
+D0CD: Hangul Syllable talt
+D0CE: Hangul Syllable talp
+D0CF: Hangul Syllable talh
+D0D0: Hangul Syllable tam
+D0D1: Hangul Syllable tab
+D0D2: Hangul Syllable tabs
+D0D3: Hangul Syllable tas
+D0D4: Hangul Syllable tass
+D0D5: Hangul Syllable tang
+D0D6: Hangul Syllable taj
+D0D7: Hangul Syllable tac
+D0D8: Hangul Syllable tak
+D0D9: Hangul Syllable tat
+D0DA: Hangul Syllable tap
+D0DB: Hangul Syllable tah
+D0DC: Hangul Syllable tae
+D0DD: Hangul Syllable taeg
+D0DE: Hangul Syllable taegg
+D0DF: Hangul Syllable taegs
+D0E0: Hangul Syllable taen
+D0E1: Hangul Syllable taenj
+D0E2: Hangul Syllable taenh
+D0E3: Hangul Syllable taed
+D0E4: Hangul Syllable tael
+D0E5: Hangul Syllable taelg
+D0E6: Hangul Syllable taelm
+D0E7: Hangul Syllable taelb
+D0E8: Hangul Syllable taels
+D0E9: Hangul Syllable taelt
+D0EA: Hangul Syllable taelp
+D0EB: Hangul Syllable taelh
+D0EC: Hangul Syllable taem
+D0ED: Hangul Syllable taeb
+D0EE: Hangul Syllable taebs
+D0EF: Hangul Syllable taes
+D0F0: Hangul Syllable taess
+D0F1: Hangul Syllable taeng
+D0F2: Hangul Syllable taej
+D0F3: Hangul Syllable taec
+D0F4: Hangul Syllable taek
+D0F5: Hangul Syllable taet
+D0F6: Hangul Syllable taep
+D0F7: Hangul Syllable taeh
+D0F8: Hangul Syllable tya
+D0F9: Hangul Syllable tyag
+D0FA: Hangul Syllable tyagg
+D0FB: Hangul Syllable tyags
+D0FC: Hangul Syllable tyan
+D0FD: Hangul Syllable tyanj
+D0FE: Hangul Syllable tyanh
+D0FF: Hangul Syllable tyad

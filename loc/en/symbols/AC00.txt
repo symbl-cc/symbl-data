@@ -1,256 +1,256 @@
-AC00:
-AC01:
-AC02:
-AC03:
-AC04:
-AC05:
-AC06:
-AC07:
-AC08:
-AC09:
-AC0A:
-AC0B:
-AC0C:
-AC0D:
-AC0E:
-AC0F:
-AC10:
-AC11:
-AC12:
-AC13:
-AC14:
-AC15:
-AC16:
-AC17:
-AC18:
-AC19:
-AC1A:
-AC1B:
-AC1C:
-AC1D:
-AC1E:
-AC1F:
-AC20:
-AC21:
-AC22:
-AC23:
-AC24:
-AC25:
-AC26:
-AC27:
-AC28:
-AC29:
-AC2A:
-AC2B:
-AC2C:
-AC2D:
-AC2E:
-AC2F:
-AC30:
-AC31:
-AC32:
-AC33:
-AC34:
-AC35:
-AC36:
-AC37:
-AC38:
-AC39:
-AC3A:
-AC3B:
-AC3C:
-AC3D:
-AC3E:
-AC3F:
-AC40:
-AC41:
-AC42:
-AC43:
-AC44:
-AC45:
-AC46:
-AC47:
-AC48:
-AC49:
-AC4A:
-AC4B:
-AC4C:
-AC4D:
-AC4E:
-AC4F:
-AC50:
-AC51:
-AC52:
-AC53:
-AC54:
-AC55:
-AC56:
-AC57:
-AC58:
-AC59:
-AC5A:
-AC5B:
-AC5C:
-AC5D:
-AC5E:
-AC5F:
-AC60:
-AC61:
-AC62:
-AC63:
-AC64:
-AC65:
-AC66:
-AC67:
-AC68:
-AC69:
-AC6A:
-AC6B:
-AC6C:
-AC6D:
-AC6E:
-AC6F:
-AC70:
-AC71:
-AC72:
-AC73:
-AC74:
-AC75:
-AC76:
-AC77:
-AC78:
-AC79:
-AC7A:
-AC7B:
-AC7C:
-AC7D:
-AC7E:
-AC7F:
-AC80:
-AC81:
-AC82:
-AC83:
-AC84:
-AC85:
-AC86:
-AC87:
-AC88:
-AC89:
-AC8A:
-AC8B:
-AC8C:
-AC8D:
-AC8E:
-AC8F:
-AC90:
-AC91:
-AC92:
-AC93:
-AC94:
-AC95:
-AC96:
-AC97:
-AC98:
-AC99:
-AC9A:
-AC9B:
-AC9C:
-AC9D:
-AC9E:
-AC9F:
-ACA0:
-ACA1:
-ACA2:
-ACA3:
-ACA4:
-ACA5:
-ACA6:
-ACA7:
-ACA8:
-ACA9:
-ACAA:
-ACAB:
-ACAC:
-ACAD:
-ACAE:
-ACAF:
-ACB0:
-ACB1:
-ACB2:
-ACB3:
-ACB4:
-ACB5:
-ACB6:
-ACB7:
-ACB8:
-ACB9:
-ACBA:
-ACBB:
-ACBC:
-ACBD:
-ACBE:
-ACBF:
-ACC0:
-ACC1:
-ACC2:
-ACC3:
-ACC4:
-ACC5:
-ACC6:
-ACC7:
-ACC8:
-ACC9:
-ACCA:
-ACCB:
-ACCC:
-ACCD:
-ACCE:
-ACCF:
-ACD0:
-ACD1:
-ACD2:
-ACD3:
-ACD4:
-ACD5:
-ACD6:
-ACD7:
-ACD8:
-ACD9:
-ACDA:
-ACDB:
-ACDC:
-ACDD:
-ACDE:
-ACDF:
-ACE0:
-ACE1:
-ACE2:
-ACE3:
-ACE4:
-ACE5:
-ACE6:
-ACE7:
-ACE8:
-ACE9:
-ACEA:
-ACEB:
-ACEC:
-ACED:
-ACEE:
-ACEF:
-ACF0:
-ACF1:
-ACF2:
-ACF3:
-ACF4:
-ACF5:
-ACF6:
-ACF7:
-ACF8:
-ACF9:
-ACFA:
-ACFB:
-ACFC:
-ACFD:
-ACFE:
-ACFF:
+AC00: Hangul Syllable ga
+AC01: Hangul Syllable gag
+AC02: Hangul Syllable gagg
+AC03: Hangul Syllable gags
+AC04: Hangul Syllable gan
+AC05: Hangul Syllable ganj
+AC06: Hangul Syllable ganh
+AC07: Hangul Syllable gad
+AC08: Hangul Syllable gal
+AC09: Hangul Syllable galg
+AC0A: Hangul Syllable galm
+AC0B: Hangul Syllable galb
+AC0C: Hangul Syllable gals
+AC0D: Hangul Syllable galt
+AC0E: Hangul Syllable galp
+AC0F: Hangul Syllable galh
+AC10: Hangul Syllable gam
+AC11: Hangul Syllable gab
+AC12: Hangul Syllable gabs
+AC13: Hangul Syllable gas
+AC14: Hangul Syllable gass
+AC15: Hangul Syllable gang
+AC16: Hangul Syllable gaj
+AC17: Hangul Syllable gac
+AC18: Hangul Syllable gak
+AC19: Hangul Syllable gat
+AC1A: Hangul Syllable gap
+AC1B: Hangul Syllable gah
+AC1C: Hangul Syllable gae
+AC1D: Hangul Syllable gaeg
+AC1E: Hangul Syllable gaegg
+AC1F: Hangul Syllable gaegs
+AC20: Hangul Syllable gaen
+AC21: Hangul Syllable gaenj
+AC22: Hangul Syllable gaenh
+AC23: Hangul Syllable gaed
+AC24: Hangul Syllable gael
+AC25: Hangul Syllable gaelg
+AC26: Hangul Syllable gaelm
+AC27: Hangul Syllable gaelb
+AC28: Hangul Syllable gaels
+AC29: Hangul Syllable gaelt
+AC2A: Hangul Syllable gaelp
+AC2B: Hangul Syllable gaelh
+AC2C: Hangul Syllable gaem
+AC2D: Hangul Syllable gaeb
+AC2E: Hangul Syllable gaebs
+AC2F: Hangul Syllable gaes
+AC30: Hangul Syllable gaess
+AC31: Hangul Syllable gaeng
+AC32: Hangul Syllable gaej
+AC33: Hangul Syllable gaec
+AC34: Hangul Syllable gaek
+AC35: Hangul Syllable gaet
+AC36: Hangul Syllable gaep
+AC37: Hangul Syllable gaeh
+AC38: Hangul Syllable gya
+AC39: Hangul Syllable gyag
+AC3A: Hangul Syllable gyagg
+AC3B: Hangul Syllable gyags
+AC3C: Hangul Syllable gyan
+AC3D: Hangul Syllable gyanj
+AC3E: Hangul Syllable gyanh
+AC3F: Hangul Syllable gyad
+AC40: Hangul Syllable gyal
+AC41: Hangul Syllable gyalg
+AC42: Hangul Syllable gyalm
+AC43: Hangul Syllable gyalb
+AC44: Hangul Syllable gyals
+AC45: Hangul Syllable gyalt
+AC46: Hangul Syllable gyalp
+AC47: Hangul Syllable gyalh
+AC48: Hangul Syllable gyam
+AC49: Hangul Syllable gyab
+AC4A: Hangul Syllable gyabs
+AC4B: Hangul Syllable gyas
+AC4C: Hangul Syllable gyass
+AC4D: Hangul Syllable gyang
+AC4E: Hangul Syllable gyaj
+AC4F: Hangul Syllable gyac
+AC50: Hangul Syllable gyak
+AC51: Hangul Syllable gyat
+AC52: Hangul Syllable gyap
+AC53: Hangul Syllable gyah
+AC54: Hangul Syllable gyae
+AC55: Hangul Syllable gyaeg
+AC56: Hangul Syllable gyaegg
+AC57: Hangul Syllable gyaegs
+AC58: Hangul Syllable gyaen
+AC59: Hangul Syllable gyaenj
+AC5A: Hangul Syllable gyaenh
+AC5B: Hangul Syllable gyaed
+AC5C: Hangul Syllable gyael
+AC5D: Hangul Syllable gyaelg
+AC5E: Hangul Syllable gyaelm
+AC5F: Hangul Syllable gyaelb
+AC60: Hangul Syllable gyaels
+AC61: Hangul Syllable gyaelt
+AC62: Hangul Syllable gyaelp
+AC63: Hangul Syllable gyaelh
+AC64: Hangul Syllable gyaem
+AC65: Hangul Syllable gyaeb
+AC66: Hangul Syllable gyaebs
+AC67: Hangul Syllable gyaes
+AC68: Hangul Syllable gyaess
+AC69: Hangul Syllable gyaeng
+AC6A: Hangul Syllable gyaej
+AC6B: Hangul Syllable gyaec
+AC6C: Hangul Syllable gyaek
+AC6D: Hangul Syllable gyaet
+AC6E: Hangul Syllable gyaep
+AC6F: Hangul Syllable gyaeh
+AC70: Hangul Syllable geo
+AC71: Hangul Syllable geog
+AC72: Hangul Syllable geogg
+AC73: Hangul Syllable geogs
+AC74: Hangul Syllable geon
+AC75: Hangul Syllable geonj
+AC76: Hangul Syllable geonh
+AC77: Hangul Syllable geod
+AC78: Hangul Syllable geol
+AC79: Hangul Syllable geolg
+AC7A: Hangul Syllable geolm
+AC7B: Hangul Syllable geolb
+AC7C: Hangul Syllable geols
+AC7D: Hangul Syllable geolt
+AC7E: Hangul Syllable geolp
+AC7F: Hangul Syllable geolh
+AC80: Hangul Syllable geom
+AC81: Hangul Syllable geob
+AC82: Hangul Syllable geobs
+AC83: Hangul Syllable geos
+AC84: Hangul Syllable geoss
+AC85: Hangul Syllable geong
+AC86: Hangul Syllable geoj
+AC87: Hangul Syllable geoc
+AC88: Hangul Syllable geok
+AC89: Hangul Syllable geot
+AC8A: Hangul Syllable geop
+AC8B: Hangul Syllable geoh
+AC8C: Hangul Syllable ge
+AC8D: Hangul Syllable geg
+AC8E: Hangul Syllable gegg
+AC8F: Hangul Syllable gegs
+AC90: Hangul Syllable gen
+AC91: Hangul Syllable genj
+AC92: Hangul Syllable genh
+AC93: Hangul Syllable ged
+AC94: Hangul Syllable gel
+AC95: Hangul Syllable gelg
+AC96: Hangul Syllable gelm
+AC97: Hangul Syllable gelb
+AC98: Hangul Syllable gels
+AC99: Hangul Syllable gelt
+AC9A: Hangul Syllable gelp
+AC9B: Hangul Syllable gelh
+AC9C: Hangul Syllable gem
+AC9D: Hangul Syllable geb
+AC9E: Hangul Syllable gebs
+AC9F: Hangul Syllable ges
+ACA0: Hangul Syllable gess
+ACA1: Hangul Syllable geng
+ACA2: Hangul Syllable gej
+ACA3: Hangul Syllable gec
+ACA4: Hangul Syllable gek
+ACA5: Hangul Syllable get
+ACA6: Hangul Syllable gep
+ACA7: Hangul Syllable geh
+ACA8: Hangul Syllable gyeo
+ACA9: Hangul Syllable gyeog
+ACAA: Hangul Syllable gyeogg
+ACAB: Hangul Syllable gyeogs
+ACAC: Hangul Syllable gyeon
+ACAD: Hangul Syllable gyeonj
+ACAE: Hangul Syllable gyeonh
+ACAF: Hangul Syllable gyeod
+ACB0: Hangul Syllable gyeol
+ACB1: Hangul Syllable gyeolg
+ACB2: Hangul Syllable gyeolm
+ACB3: Hangul Syllable gyeolb
+ACB4: Hangul Syllable gyeols
+ACB5: Hangul Syllable gyeolt
+ACB6: Hangul Syllable gyeolp
+ACB7: Hangul Syllable gyeolh
+ACB8: Hangul Syllable gyeom
+ACB9: Hangul Syllable gyeob
+ACBA: Hangul Syllable gyeobs
+ACBB: Hangul Syllable gyeos
+ACBC: Hangul Syllable gyeoss
+ACBD: Hangul Syllable gyeong
+ACBE: Hangul Syllable gyeoj
+ACBF: Hangul Syllable gyeoc
+ACC0: Hangul Syllable gyeok
+ACC1: Hangul Syllable gyeot
+ACC2: Hangul Syllable gyeop
+ACC3: Hangul Syllable gyeoh
+ACC4: Hangul Syllable gye
+ACC5: Hangul Syllable gyeg
+ACC6: Hangul Syllable gyegg
+ACC7: Hangul Syllable gyegs
+ACC8: Hangul Syllable gyen
+ACC9: Hangul Syllable gyenj
+ACCA: Hangul Syllable gyenh
+ACCB: Hangul Syllable gyed
+ACCC: Hangul Syllable gyel
+ACCD: Hangul Syllable gyelg
+ACCE: Hangul Syllable gyelm
+ACCF: Hangul Syllable gyelb
+ACD0: Hangul Syllable gyels
+ACD1: Hangul Syllable gyelt
+ACD2: Hangul Syllable gyelp
+ACD3: Hangul Syllable gyelh
+ACD4: Hangul Syllable gyem
+ACD5: Hangul Syllable gyeb
+ACD6: Hangul Syllable gyebs
+ACD7: Hangul Syllable gyes
+ACD8: Hangul Syllable gyess
+ACD9: Hangul Syllable gyeng
+ACDA: Hangul Syllable gyej
+ACDB: Hangul Syllable gyec
+ACDC: Hangul Syllable gyek
+ACDD: Hangul Syllable gyet
+ACDE: Hangul Syllable gyep
+ACDF: Hangul Syllable gyeh
+ACE0: Hangul Syllable go
+ACE1: Hangul Syllable gog
+ACE2: Hangul Syllable gogg
+ACE3: Hangul Syllable gogs
+ACE4: Hangul Syllable gon
+ACE5: Hangul Syllable gonj
+ACE6: Hangul Syllable gonh
+ACE7: Hangul Syllable god
+ACE8: Hangul Syllable gol
+ACE9: Hangul Syllable golg
+ACEA: Hangul Syllable golm
+ACEB: Hangul Syllable golb
+ACEC: Hangul Syllable gols
+ACED: Hangul Syllable golt
+ACEE: Hangul Syllable golp
+ACEF: Hangul Syllable golh
+ACF0: Hangul Syllable gom
+ACF1: Hangul Syllable gob
+ACF2: Hangul Syllable gobs
+ACF3: Hangul Syllable gos
+ACF4: Hangul Syllable goss
+ACF5: Hangul Syllable gong
+ACF6: Hangul Syllable goj
+ACF7: Hangul Syllable goc
+ACF8: Hangul Syllable gok
+ACF9: Hangul Syllable got
+ACFA: Hangul Syllable gop
+ACFB: Hangul Syllable goh
+ACFC: Hangul Syllable gwa
+ACFD: Hangul Syllable gwag
+ACFE: Hangul Syllable gwagg
+ACFF: Hangul Syllable gwags
