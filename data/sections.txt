@@ -376,13 +376,13 @@
 	languages       :
 	countries       :
 
-[phonetic-extentions]
+[phonetic-extensions]
 	diap            : 1D00:1D7F
 	type            :
 	languages       :
 	countries       :
 
-[phonetic-extentions-supplement]
+[phonetic-extensions-supplement]
 	diap            : 1D80:1DBF
 	type            :
 	languages       :
@@ -664,7 +664,7 @@
 	languages       : chinese
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
-[katakana-phonetic-extentions]
+[katakana-phonetic-extensions]
 	diap            : 31F0:31FF
 	type            : syllabary
 	languages       : japanese, okinawan, ainu, palauan
@@ -814,7 +814,7 @@
 	languages       :
 	countries       : vietnam, thailand, laos, china
 
-[meitei-language-extentions]
+[meitei-language-extensions]
 	diap            : AAE0:AAFF
 	type            : abugida
 	languages       :

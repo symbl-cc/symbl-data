@@ -3,7 +3,7 @@ basic-latin     : Basic Latin
 latin-1-supplement : Latin-1 Supplement
 latin-extended-A : Latin extended A
 latin-extended-B : Latin extended B
-ipa-extensions  : IPA Extentions
+ipa-extensions  : IPA Extensions
 spacing-modifier-letters : Spacing Modifier Letters
 combining-diacritical-marks : Combining Diacritical Marks
 greek-coptic    : Greek and Coptic
@@ -61,8 +61,8 @@ lepcha          : Lepcha
 ol-chiki        : Ol Chiki
 sundanese-supplement : Sundanese Supplement
 vedic-extensions : Vedic Extensions
-phonetic-extentions : Phonetic Extensions
-phonetic-extentions-supplement : Phonetic Extensions Supplement
+phonetic-extensions : Phonetic Extensions
+phonetic-extensions-supplement : Phonetic Extensions Supplement
 combining-diacritical-marks-supplement : Combining Diacritical Marks Supplement
 latin-extended-additional : Latin extended additional
 greek-extended  : Greek Extended
@@ -109,7 +109,7 @@ hangul-compatibility-jamo : Hangul Compatibility Jamo
 kanbun          : Kanbun
 bopomofo-extended : Bopomofo Extended
 cjk-strokes     : CJK Strokes
-katakana-phonetic-extentions : Katakana Phonetic Extensions
+katakana-phonetic-extensions : Katakana Phonetic Extensions
 enclosed-cjk-letters-and-months : Enclosed CJK Letters and Months
 cjk-compatibility : CJK Compatibility
 cjk-unified-ideographs-extension-a : CJK Unified Ideographs Extension A
@@ -134,7 +134,7 @@ javanese-alphabet : Javanese
 cham-alphabet   : Cham
 burmese-alphabet-extention-a : Myanmar Extended-A
 tai-viet-alphabet : Tai Viet
-meitei-language-extentions : Meetei Mayek Extensions
+meitei-language-extensions : Meetei Mayek Extensions
 ethiopic-extended-a : Ethiopic Extended-A
 meitei-language : Meetei Mayek
 hangul-syllables : Hangul Syllables

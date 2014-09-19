@@ -61,8 +61,8 @@ lepcha          : Письмо лепча
 ol-chiki        : Письменность Ол-чики
 sundanese-supplement : Сунданское расширенное письмо
 vedic-extensions : Ведические символы
-phonetic-extentions : Фонетические расширения
-phonetic-extentions-supplement : Дополнительные фонетические расширения
+phonetic-extensions : Фонетические расширения
+phonetic-extensions-supplement : Дополнительные фонетические расширения
 combining-diacritical-marks-supplement : Дополнительные комбинируемые диакритические знаки
 latin-extended-additional : Дополнительная расширенная латиница
 greek-extended  : Расширенный набор символов греческого алфавита
@@ -109,7 +109,7 @@ hangul-compatibility-jamo : Чамо, комбинируемое с хангыл
 kanbun          : Канбун(китайский)
 bopomofo-extended : Расширенный набор символов бопомофо, чжуинь
 cjk-strokes     : Черты ККЯ
-katakana-phonetic-extentions : Фонетические расширения катаканы
+katakana-phonetic-extensions : Фонетические расширения катаканы
 enclosed-cjk-letters-and-months : Вложенные буквы и месяцы ККЯ
 cjk-compatibility : Знаки совместимости ККЯ
 cjk-unified-ideographs-extension-a : Унифицированные иероглифы ККЯ
@@ -134,7 +134,7 @@ javanese-alphabet : Яванская письменность
 cham-alphabet   : Тямское письмо
 burmese-alphabet-extention-a : Мьянманская письменность. Расширение A
 tai-viet-alphabet : Письменность Тай Вьет
-meitei-language-extentions : Мейтей расширенная
+meitei-language-extensions : Мейтей расширенная
 ethiopic-extended-a : Набор расширенных символов эфиопского письма-А
 meitei-language : Мейтей (Манипури)
 hangul-syllables : Слоги Хангыля

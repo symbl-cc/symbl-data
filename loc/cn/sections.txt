@@ -61,8 +61,8 @@ lepcha          : 雷布查字母
 ol-chiki        : Ol-Chiki
 sundanese-supplement : 巽他字母补充
 vedic-extensions : 吠陀梵文
-phonetic-extentions : 语音学扩展
-phonetic-extentions-supplement : 语音学扩展补充
+phonetic-extensions : 语音学扩展
+phonetic-extensions-supplement : 语音学扩展补充
 combining-diacritical-marks-supplement : 结合附加符号补充
 latin-extended-additional : 拉丁文扩展附加
 greek-extended  : 希腊语扩展
@@ -109,7 +109,7 @@ hangul-compatibility-jamo : 谚文兼容字母
 kanbun          : 象形字注释标志
 bopomofo-extended : 注音字母扩展
 cjk-strokes     : 中日韩笔画
-katakana-phonetic-extentions : 日文片假名语音扩展
+katakana-phonetic-extensions : 日文片假名语音扩展
 enclosed-cjk-letters-and-months : 带圈中日韩字母和月份
 cjk-compatibility : 中日韩字符集兼容
 cjk-unified-ideographs-extension-a : 中日韩统一表意文字扩展A
@@ -134,7 +134,7 @@ javanese-alphabet : 爪哇语
 cham-alphabet   : 鞑靼文
 burmese-alphabet-extention-a : 缅甸语扩展
 tai-viet-alphabet : 越南傣文
-meitei-language-extentions : 曼尼普尔文扩展
+meitei-language-extensions : 曼尼普尔文扩展
 ethiopic-extended-a : 埃塞俄比亚文
 meitei-language : 曼尼普尔文
 hangul-syllables : 谚文音节

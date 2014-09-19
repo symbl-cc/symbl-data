@@ -61,8 +61,8 @@ lepcha          : Lepcha
 ol-chiki        : Ol Chiki
 sundanese-supplement : Sundanesisch, Ergänzung
 vedic-extensions : Vedische Erweiterungen
-phonetic-extentions : Phonetische Erweiterungen
-phonetic-extentions-supplement : Phonetische Erweiterungen, Ergänzung
+phonetic-extensions : Phonetische Erweiterungen
+phonetic-extensions-supplement : Phonetische Erweiterungen, Ergänzung
 combining-diacritical-marks-supplement : Komb. diakr. Zeichen, Ergänzung
 latin-extended-additional : Lateinisch, weiterer Zusatz
 greek-extended  : Griechisch, Zusatz
@@ -109,7 +109,7 @@ hangul-compatibility-jamo : Hangeul-Jamo, Kompatibilität
 kanbun          : Kanbun
 bopomofo-extended : Bopomofo, erweitert
 cjk-strokes     : CJK-Striche
-katakana-phonetic-extentions : Katakana, Phonetische Erweiterungen
+katakana-phonetic-extensions : Katakana, Phonetische Erweiterungen
 enclosed-cjk-letters-and-months : Umschlossene CJK-Zeichen und -Monate
 cjk-compatibility : CJK-Kompatibilität
 cjk-unified-ideographs-extension-a : Vereinheitlichte CJK-Ideogramme, Erweiterung A
@@ -135,7 +135,7 @@ javanese-alphabet : Javanisch
 cham-alphabet   : Cham
 burmese-alphabet-extention-a : Birmanisch, erweitert-A
 tai-viet-alphabet : Tai Viet
-meitei-language-extentions : Meitei-Mayek, Erweiterungen
+meitei-language-extensions : Meitei-Mayek, Erweiterungen
 ethiopic-extended-a : Äthiopisch, erweitert-A
 meitei-language : Meitei-Mayek
 hangul-syllables : Hangeul-Silbenzeichen
