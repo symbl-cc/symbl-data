@@ -1,256 +1,256 @@
-0B00 : 
-0B01 : Oriya sign candrabindu
-0B02 : Oriya sign anusvara
-0B03 : Oriya sign visarga
-0B04 : 
-0B05 : Oriya letter a
-0B06 : Oriya letter aa
-0B07 : Oriya letter i
-0B08 : Oriya letter ii
-0B09 : Oriya letter u
-0B0A : Oriya letter uu
-0B0B : Oriya letter vocalic r
-0B0C : Oriya letter vocalic l
-0B0D : 
-0B0E : 
-0B0F : Oriya letter e
-0B10 : Oriya letter ai
-0B11 : 
-0B12 : 
-0B13 : Oriya letter o
-0B14 : Oriya letter au
-0B15 : Oriya letter ka
-0B16 : Oriya letter kha
-0B17 : Oriya letter ga
-0B18 : Oriya letter gha
-0B19 : Oriya letter nga
-0B1A : Oriya letter ca
-0B1B : Oriya letter cha
-0B1C : Oriya letter ja
-0B1D : Oriya letter jha
-0B1E : Oriya letter nya
-0B1F : Oriya letter tta
-0B20 : Oriya letter ttha
-0B21 : Oriya letter dda
-0B22 : Oriya letter ddha
-0B23 : Oriya letter nna
-0B24 : Oriya letter ta
-0B25 : Oriya letter tha
-0B26 : Oriya letter da
-0B27 : Oriya letter dha
-0B28 : Oriya letter na
-0B29 : 
-0B2A : Oriya letter pa
-0B2B : Oriya letter pha
-0B2C : Oriya letter ba
-0B2D : Oriya letter bha
-0B2E : Oriya letter ma
-0B2F : Oriya letter ya
-0B30 : Oriya letter ra
-0B31 : 
-0B32 : Oriya letter la
-0B33 : Oriya letter lla
-0B34 : 
-0B35 : Oriya letter va
-0B36 : Oriya letter sha
-0B37 : Oriya letter ssa
-0B38 : Oriya letter sa
-0B39 : Oriya letter ha
-0B3A : 
-0B3B : 
-0B3C : Oriya sign nukta
-0B3D : Oriya sign avagraha
-0B3E : Oriya vowel sign aa
-0B3F : Oriya vowel sign i
-0B40 : Oriya vowel sign ii
-0B41 : Oriya vowel sign u
-0B42 : Oriya vowel sign uu
-0B43 : Oriya vowel sign vocalic r
-0B44 : Oriya vowel sign vocalic rr
-0B45 : 
-0B46 : 
-0B47 : Oriya vowel sign e
-0B48 : Oriya vowel sign ai
-0B49 : 
-0B4A : 
-0B4B : Oriya vowel sign o
-0B4C : Oriya vowel sign au
-0B4D : Oriya sign virama
-0B4E : 
-0B4F : 
-0B50 : 
-0B51 : 
-0B52 : 
-0B53 : 
-0B54 : 
-0B55 : 
-0B56 : Oriya ai length mark
-0B57 : Oriya au length mark
-0B58 : 
-0B59 : 
-0B5A : 
-0B5B : 
-0B5C : Oriya letter rra
-0B5D : Oriya letter rha
-0B5E : 
-0B5F : Oriya letter yya
-0B60 : Oriya letter vocalic rr
-0B61 : Oriya letter vocalic ll
-0B62 : Oriya vowel sign vocalic l
-0B63 : Oriya vowel sign vocalic ll
-0B64 : 
-0B65 : 
-0B66 : Oriya digit zero
-0B67 : Oriya digit one
-0B68 : Oriya digit two
-0B69 : Oriya digit three
-0B6A : Oriya digit four
-0B6B : Oriya digit five
-0B6C : Oriya digit six
-0B6D : Oriya digit seven
-0B6E : Oriya digit eight
-0B6F : Oriya digit nine
-0B70 : Oriya isshar
-0B71 : Oriya letter wa
-0B72 : 
-0B73 : 
-0B74 : 
-0B75 : 
-0B76 : 
-0B77 : 
-0B78 : 
-0B79 : 
-0B7A : 
-0B7B : 
-0B7C : 
-0B7D : 
-0B7E : 
-0B7F : 
-0B80 : 
-0B81 : 
-0B82 : Tamil sign anusvara
-0B83 : Tamil sign visarga
-0B84 : 
-0B85 : Tamil letter a
-0B86 : Tamil letter aa
-0B87 : Tamil letter i
-0B88 : Tamil letter ii
-0B89 : Tamil letter u
-0B8A : Tamil letter uu
-0B8B : 
-0B8C : 
-0B8D : 
-0B8E : Tamil letter e
-0B8F : Tamil letter ee
-0B90 : Tamil letter ai
-0B91 : 
-0B92 : Tamil letter o
-0B93 : Tamil letter oo
-0B94 : Tamil letter au
-0B95 : Tamil letter ka
-0B96 : 
-0B97 : 
-0B98 : 
-0B99 : Tamil letter nga
-0B9A : Tamil letter ca
-0B9B : 
-0B9C : Tamil letter ja
-0B9D : 
-0B9E : Tamil letter nya
-0B9F : Tamil letter tta
-0BA0 : 
-0BA1 : 
-0BA2 : 
-0BA3 : Tamil letter nna
-0BA4 : Tamil letter ta
-0BA5 : 
-0BA6 : 
-0BA7 : 
-0BA8 : Tamil letter na
-0BA9 : Tamil letter nnna
-0BAA : Tamil letter pa
-0BAB : 
-0BAC : 
-0BAD : 
-0BAE : Tamil letter ma
-0BAF : Tamil letter ya
-0BB0 : Tamil letter ra
-0BB1 : Tamil letter rra
-0BB2 : Tamil letter la
-0BB3 : Tamil letter lla
-0BB4 : Tamil letter llla
-0BB5 : Tamil letter va
-0BB6 : Tamil letter sha
-0BB7 : Tamil letter ssa
-0BB8 : Tamil letter sa
-0BB9 : Tamil letter ha
-0BBA : 
-0BBB : 
-0BBC : 
-0BBD : 
-0BBE : Tamil vowel sign aa
-0BBF : Tamil vowel sign i
-0BC0 : Tamil vowel sign ii
-0BC1 : Tamil vowel sign u
-0BC2 : Tamil vowel sign uu
-0BC3 : 
-0BC4 : 
-0BC5 : 
-0BC6 : Tamil vowel sign e
-0BC7 : Tamil vowel sign ee
-0BC8 : Tamil vowel sign ai
-0BC9 : 
-0BCA : Tamil vowel sign o
-0BCB : Tamil vowel sign oo
-0BCC : Tamil vowel sign au
-0BCD : Tamil sign virama
-0BCE : 
-0BCF : 
-0BD0 : Tamil om
-0BD1 : 
-0BD2 : 
-0BD3 : 
-0BD4 : 
-0BD5 : 
-0BD6 : 
-0BD7 : Tamil au length mark
-0BD8 : 
-0BD9 : 
-0BDA : 
-0BDB : 
-0BDC : 
-0BDD : 
-0BDE : 
-0BDF : 
-0BE0 : 
-0BE1 : 
-0BE2 : 
-0BE3 : 
-0BE4 : 
-0BE5 : 
-0BE6 : Tamil digit zero
-0BE7 : Tamil digit one
-0BE8 : Tamil digit two
-0BE9 : Tamil digit three
-0BEA : Tamil digit four
-0BEB : Tamil digit five
-0BEC : Tamil digit six
-0BED : Tamil digit seven
-0BEE : Tamil digit eight
-0BEF : Tamil digit nine
-0BF0 : Tamil number ten
-0BF1 : Tamil number one hundred
-0BF2 : Tamil number one thousand
-0BF3 : Tamil day sign
-0BF4 : Tamil month sign
-0BF5 : Tamil year sign
-0BF6 : Tamil debit sign
-0BF7 : Tamil credit sign
-0BF8 : Tamil as above sign
-0BF9 : Tamil rupee sign
-0BFA : Tamil number sign
-0BFB : 
-0BFC : 
-0BFD : 
-0BFE : 
-0BFF : 
+0B00:
+0B01: Oriya Sign Candrabindu
+0B02: Oriya Sign Anusvara
+0B03: Oriya Sign Visarga
+0B04:
+0B05: Oriya Letter A
+0B06: Oriya Letter Aa
+0B07: Oriya Letter I
+0B08: Oriya Letter Ii
+0B09: Oriya Letter U
+0B0A: Oriya Letter Uu
+0B0B: Oriya Letter Vocalic R
+0B0C: Oriya Letter Vocalic L
+0B0D:
+0B0E:
+0B0F: Oriya Letter E
+0B10: Oriya Letter Ai
+0B11:
+0B12:
+0B13: Oriya Letter O
+0B14: Oriya Letter Au
+0B15: Oriya Letter Ka
+0B16: Oriya Letter Kha
+0B17: Oriya Letter Ga
+0B18: Oriya Letter Gha
+0B19: Oriya Letter Nga
+0B1A: Oriya Letter Ca
+0B1B: Oriya Letter Cha
+0B1C: Oriya Letter Ja
+0B1D: Oriya Letter Jha
+0B1E: Oriya Letter Nya
+0B1F: Oriya Letter Tta
+0B20: Oriya Letter Ttha
+0B21: Oriya Letter Dda
+0B22: Oriya Letter Ddha
+0B23: Oriya Letter Nna
+0B24: Oriya Letter Ta
+0B25: Oriya Letter Tha
+0B26: Oriya Letter Da
+0B27: Oriya Letter Dha
+0B28: Oriya Letter Na
+0B29:
+0B2A: Oriya Letter Pa
+0B2B: Oriya Letter Pha
+0B2C: Oriya Letter Ba
+0B2D: Oriya Letter Bha
+0B2E: Oriya Letter Ma
+0B2F: Oriya Letter Ya : ja
+0B30: Oriya Letter Ra
+0B31:
+0B32: Oriya Letter La
+0B33: Oriya Letter Lla
+0B34:
+0B35: Oriya Letter Va
+0B36: Oriya Letter Sha
+0B37: Oriya Letter Ssa
+0B38: Oriya Letter Sa
+0B39: Oriya Letter Ha
+0B3A:
+0B3B:
+0B3C: Oriya Sign Nukta
+0B3D: Oriya Sign Avagraha
+0B3E: Oriya Vowel Sign Aa
+0B3F: Oriya Vowel Sign I
+0B40: Oriya Vowel Sign Ii
+0B41: Oriya Vowel Sign U
+0B42: Oriya Vowel Sign Uu
+0B43: Oriya Vowel Sign Vocalic R
+0B44: Oriya Vowel Sign Vocalic Rr
+0B45:
+0B46:
+0B47: Oriya Vowel Sign E
+0B48: Oriya Vowel Sign Ai
+0B49:
+0B4A:
+0B4B: Oriya Vowel Sign O
+0B4C: Oriya Vowel Sign Au
+0B4D: Oriya Sign Virama
+0B4E:
+0B4F:
+0B50:
+0B51:
+0B52:
+0B53:
+0B54:
+0B55:
+0B56: Oriya Ai Length Mark
+0B57: Oriya Au Length Mark
+0B58:
+0B59:
+0B5A:
+0B5B:
+0B5C: Oriya Letter Rra : dda
+0B5D: Oriya Letter Rha : ddha
+0B5E:
+0B5F: Oriya Letter Yya : ya
+0B60: Oriya Letter Vocalic Rr
+0B61: Oriya Letter Vocalic Ll
+0B62: Oriya Vowel Sign Vocalic L
+0B63: Oriya Vowel Sign Vocalic Ll
+0B64: <Reserved>
+0B65: <Reserved>
+0B66: Oriya Digit Zero
+0B67: Oriya Digit One
+0B68: Oriya Digit Two
+0B69: Oriya Digit Three
+0B6A: Oriya Digit Four
+0B6B: Oriya Digit Five
+0B6C: Oriya Digit Six
+0B6D: Oriya Digit Seven
+0B6E: Oriya Digit Eight
+0B6F: Oriya Digit Nine
+0B70: Oriya Isshar
+0B71: Oriya Letter Wa
+0B72: Oriya Fraction One Quarter
+0B73: Oriya Fraction One Half
+0B74: Oriya Fraction Three Quarters
+0B75: Oriya Fraction One Sixteenth
+0B76: Oriya Fraction One Eighth
+0B77: Oriya Fraction Three Sixteenths
+0B78:
+0B79:
+0B7A:
+0B7B:
+0B7C:
+0B7D:
+0B7E:
+0B7F:
+0B80:
+0B81:
+0B82: Tamil Sign Anusvara
+0B83: Tamil Sign Visarga : aytham
+0B84:
+0B85: Tamil Letter A
+0B86: Tamil Letter Aa
+0B87: Tamil Letter I
+0B88: Tamil Letter Ii
+0B89: Tamil Letter U
+0B8A: Tamil Letter Uu
+0B8B:
+0B8C:
+0B8D:
+0B8E: Tamil Letter E
+0B8F: Tamil Letter Ee
+0B90: Tamil Letter Ai
+0B91:
+0B92: Tamil Letter O
+0B93: Tamil Letter Oo
+0B94: Tamil Letter Au
+0B95: Tamil Letter Ka
+0B96:
+0B97:
+0B98:
+0B99: Tamil Letter Nga
+0B9A: Tamil Letter Ca
+0B9B:
+0B9C: Tamil Letter Ja
+0B9D:
+0B9E: Tamil Letter Nya
+0B9F: Tamil Letter Tta
+0BA0:
+0BA1:
+0BA2:
+0BA3: Tamil Letter Nna
+0BA4: Tamil Letter Ta
+0BA5:
+0BA6:
+0BA7:
+0BA8: Tamil Letter Na
+0BA9: Tamil Letter Nnna
+0BAA: Tamil Letter Pa
+0BAB:
+0BAC:
+0BAD:
+0BAE: Tamil Letter Ma
+0BAF: Tamil Letter Ya
+0BB0: Tamil Letter Ra
+0BB1: Tamil Letter Rra
+0BB2: Tamil Letter La
+0BB3: Tamil Letter Lla
+0BB4: Tamil Letter Llla
+0BB5: Tamil Letter Va
+0BB6: Tamil Letter Sha
+0BB7: Tamil Letter Ssa
+0BB8: Tamil Letter Sa
+0BB9: Tamil Letter Ha
+0BBA:
+0BBB:
+0BBC:
+0BBD:
+0BBE: Tamil Vowel Sign Aa
+0BBF: Tamil Vowel Sign I
+0BC0: Tamil Vowel Sign Ii
+0BC1: Tamil Vowel Sign U
+0BC2: Tamil Vowel Sign Uu
+0BC3:
+0BC4:
+0BC5:
+0BC6: Tamil Vowel Sign E
+0BC7: Tamil Vowel Sign Ee
+0BC8: Tamil Vowel Sign Ai
+0BC9:
+0BCA: Tamil Vowel Sign O
+0BCB: Tamil Vowel Sign Oo
+0BCC: Tamil Vowel Sign Au
+0BCD: Tamil Sign Virama : pulli
+0BCE:
+0BCF:
+0BD0: Tamil Om
+0BD1:
+0BD2:
+0BD3:
+0BD4:
+0BD5:
+0BD6:
+0BD7: Tamil Au Length Mark
+0BD8:
+0BD9:
+0BDA:
+0BDB:
+0BDC:
+0BDD:
+0BDE:
+0BDF:
+0BE0:
+0BE1:
+0BE2:
+0BE3:
+0BE4: <Reserved>
+0BE5: <Reserved>
+0BE6: Tamil Digit Zero
+0BE7: Tamil Digit One
+0BE8: Tamil Digit Two
+0BE9: Tamil Digit Three
+0BEA: Tamil Digit Four
+0BEB: Tamil Digit Five
+0BEC: Tamil Digit Six
+0BED: Tamil Digit Seven
+0BEE: Tamil Digit Eight
+0BEF: Tamil Digit Nine
+0BF0: Tamil Number Ten
+0BF1: Tamil Number One Hundred
+0BF2: Tamil Number One Thousand
+0BF3: Tamil Day Sign : naal
+0BF4: Tamil Month Sign : maatham
+0BF5: Tamil Year Sign : varudam
+0BF6: Tamil Debit Sign : patru
+0BF7: Tamil Credit Sign : varavu
+0BF8: Tamil As Above Sign : merpadi
+0BF9: Tamil Rupee Sign : rupai
+0BFA: Tamil Number Sign : enn
+0BFB:
+0BFC:
+0BFD:
+0BFE:
+0BFF:

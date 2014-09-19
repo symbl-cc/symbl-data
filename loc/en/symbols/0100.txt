@@ -1,256 +1,256 @@
-0100 : Latin capital letter a with macron
-0101 : Latin small letter a with macron
-0102 : Latin capital letter a with breve
-0103 : Latin small letter a with breve
-0104 : Latin capital letter a with ogonek
-0105 : Latin small letter a with ogonek
-0106 : Latin capital letter c with acute
-0107 : Latin small letter c with acute
-0108 : Latin capital letter c with circumflex
-0109 : Latin small letter c with circumflex
-010A : Latin capital letter c with dot above
-010B : Latin small letter c with dot above
-010C : Latin capital letter c with caron
-010D : Latin small letter c with caron
-010E : Latin capital letter d with caron
-010F : Latin small letter d with caron
-0110 : Latin capital letter d with stroke
-0111 : Latin small letter d with stroke
-0112 : Latin capital letter e with macron
-0113 : Latin small letter e with macron
-0114 : Latin capital letter e with breve
-0115 : Latin small letter e with breve
-0116 : Latin capital letter e with dot above
-0117 : Latin small letter e with dot above
-0118 : Latin capital letter e with ogonek
-0119 : Latin small letter e with ogonek
-011A : Latin capital letter e with caron
-011B : Latin small letter e with caron
-011C : Latin capital letter g with circumflex
-011D : Latin small letter g with circumflex
-011E : Latin capital letter g with breve
-011F : Latin small letter g with breve
-0120 : Latin capital letter g with dot above
-0121 : Latin small letter g with dot above
-0122 : Latin capital letter g with cedilla
-0123 : Latin small letter g with cedilla
-0124 : Latin capital letter h with circumflex
-0125 : Latin small letter h with circumflex
-0126 : Latin capital letter h with stroke
-0127 : Latin small letter h with stroke
-0128 : Latin capital letter i with tilde
-0129 : Latin small letter i with tilde
-012A : Latin capital letter i with macron
-012B : Latin small letter i with macron
-012C : Latin capital letter i with breve
-012D : Latin small letter i with breve
-012E : Latin capital letter i with ogonek
-012F : Latin small letter i with ogonek
-0130 : Latin capital letter i with dot above
-0131 : Latin small letter dotless i
-0132 : Latin capital ligature ij
-0133 : Latin small ligature ij
-0134 : Latin capital letter j with circumflex
-0135 : Latin small letter j with circumflex
-0136 : Latin capital letter k with cedilla
-0137 : Latin small letter k with cedilla
-0138 : Latin small letter kra
-0139 : Latin capital letter l with acute
-013A : Latin small letter l with acute
-013B : Latin capital letter l with cedilla
-013C : Latin small letter l with cedilla
-013D : Latin capital letter l with caron
-013E : Latin small letter l with caron
-013F : Latin capital letter l with middle dot
-0140 : Latin small letter l with middle dot
-0141 : Latin capital letter l with stroke, Litecoin symbol
-0142 : Latin small letter l with stroke
-0143 : Latin capital letter n with acute
-0144 : Latin small letter n with acute
-0145 : Latin capital letter n with cedilla
-0146 : Latin small letter n with cedilla
-0147 : Latin capital letter n with caron
-0148 : Latin small letter n with caron
-0149 : Latin small letter n preceded by apostrophe
-014A : Latin capital letter eng
-014B : Latin small letter eng
-014C : Latin capital letter o with macron
-014D : Latin small letter o with macron
-014E : Latin capital letter o with breve
-014F : Latin small letter o with breve
-0150 : Latin capital letter o with double acute
-0151 : Latin small letter o with double acute
-0152 : Latin capital ligature oe
-0153 : Latin small ligature oe
-0154 : Latin capital letter r with acute
-0155 : Latin small letter r with acute
-0156 : Latin capital letter r with cedilla
-0157 : Latin small letter r with cedilla
-0158 : Latin capital letter r with caron
-0159 : Latin small letter r with caron
-015A : Latin capital letter s with acute
-015B : Latin small letter s with acute
-015C : Latin capital letter s with circumflex
-015D : Latin small letter s with circumflex
-015E : Latin capital letter s with cedilla
-015F : Latin small letter s with cedilla
-0160 : Latin capital letter s with caron
-0161 : Latin small letter s with caron
-0162 : Latin capital letter t with cedilla
-0163 : Latin small letter t with cedilla
-0164 : Latin capital letter t with caron
-0165 : Latin small letter t with caron
-0166 : Latin capital letter t with stroke
-0167 : Latin small letter t with stroke
-0168 : Latin capital letter u with tilde
-0169 : Latin small letter u with tilde
-016A : Latin capital letter u with macron
-016B : Latin small letter u with macron
-016C : Latin capital letter u with breve
-016D : Latin small letter u with breve
-016E : Latin capital letter u with ring above
-016F : Latin small letter u with ring above
-0170 : Latin capital letter u with double acute
-0171 : Latin small letter u with double acute
-0172 : Latin capital letter u with ogonek
-0173 : Latin small letter u with ogonek
-0174 : Latin capital letter w with circumflex
-0175 : Latin small letter w with circumflex
-0176 : Latin capital letter y with circumflex
-0177 : Latin small letter y with circumflex
-0178 : Latin capital letter y with diaeresis
-0179 : Latin capital letter z with acute
-017A : Latin small letter z with acute
-017B : Latin capital letter z with dot above
-017C : Latin small letter z with dot above
-017D : Latin capital letter z with caron
-017E : Latin small letter z with caron
-017F : Latin small letter long s
-0180 : Latin small letter b with stroke
-0181 : Latin capital letter b with hook
-0182 : Latin capital letter b with topbar
-0183 : Latin small letter b with topbar
-0184 : Latin capital letter tone six
-0185 : Latin small letter tone six
-0186 : Latin capital letter open o
-0187 : Latin capital letter c with hook
-0188 : Latin small letter c with hook
-0189 : Latin capital letter african d
-018A : Latin capital letter d with hook
-018B : Latin capital letter d with topbar
-018C : Latin small letter d with topbar
-018D : Latin small letter turned delta
-018E : Latin capital letter reversed e
-018F : Latin capital letter schwa
-0190 : Latin capital letter open e
-0191 : Latin capital letter f with hook
-0192 : Latin small letter f with hook
-0193 : Latin capital letter g with hook
-0194 : Latin capital letter gamma
-0195 : Latin small letter hv
-0196 : Latin capital letter iota
-0197 : Latin capital letter i with stroke
-0198 : Latin capital letter k with hook
-0199 : Latin small letter k with hook
-019A : Latin small letter l with bar
-019B : Latin small letter lambda with stroke
-019C : Latin capital letter turned m
-019D : Latin capital letter n with left hook
-019E : Latin small letter n with long right leg
-019F : Latin capital letter o with middle tilde
-01A0 : Latin capital letter o with horn
-01A1 : Latin small letter o with horn
-01A2 : Latin capital letter oi
-01A3 : Latin small letter oi
-01A4 : Latin capital letter p with hook
-01A5 : Latin small letter p with hook
-01A6 : Latin letter yr
-01A7 : Latin capital letter tone two
-01A8 : Latin small letter tone two
-01A9 : Latin capital letter esh
-01AA : Latin letter reversed esh loop
-01AB : Latin small letter t with palatal hook
-01AC : Latin capital letter t with hook
-01AD : Latin small letter t with hook
-01AE : Latin capital letter t with retroflex hook
-01AF : Latin capital letter u with horn
-01B0 : Latin small letter u with horn
-01B1 : Latin capital letter upsilon
-01B2 : Latin capital letter v with hook
-01B3 : Latin capital letter y with hook
-01B4 : Latin small letter y with hook
-01B5 : Latin capital letter z with stroke
-01B6 : Latin small letter z with stroke
-01B7 : Latin capital letter ezh
-01B8 : Latin capital letter ezh reversed
-01B9 : Latin small letter ezh reversed
-01BA : Latin small letter ezh with tail
-01BB : Latin letter two with stroke
-01BC : Latin capital letter tone five
-01BD : Latin small letter tone five
-01BE : Latin letter inverted glottal stop with stroke
-01BF : Latin letter wynn
-01C0 : Latin letter dental click
-01C1 : Latin letter lateral click
-01C2 : Latin letter alveolar click
-01C3 : Latin letter retroflex click
-01C4 : Latin capital letter dz with caron
-01C5 : Latin capital letter d with small letter z with caron
-01C6 : Latin small letter dz with caron
-01C7 : Latin capital letter lj
-01C8 : Latin capital letter l with small letter j
-01C9 : Latin small letter lj
-01CA : Latin capital letter nj
-01CB : Latin capital letter n with small letter j
-01CC : Latin small letter nj
-01CD : Latin capital letter a with caron
-01CE : Latin small letter a with caron
-01CF : Latin capital letter i with caron
-01D0 : Latin small letter i with caron
-01D1 : Latin capital letter o with caron
-01D2 : Latin small letter o with caron
-01D3 : Latin capital letter u with caron
-01D4 : Latin small letter u with caron
-01D5 : Latin capital letter u with diaeresis and macron
-01D6 : Latin small letter u with diaeresis and macron
-01D7 : Latin capital letter u with diaeresis and acute
-01D8 : Latin small letter u with diaeresis and acute
-01D9 : Latin capital letter u with diaeresis and caron
-01DA : Latin small letter u with diaeresis and caron
-01DB : Latin capital letter u with diaeresis and grave
-01DC : Latin small letter u with diaeresis and grave
-01DD : Latin small letter turned e
-01DE : Latin capital letter a with diaeresis and macron
-01DF : Latin small letter a with diaeresis and macron
-01E0 : Latin capital letter a with dot above and macron
-01E1 : Latin small letter a with dot above and macron
-01E2 : Latin capital letter ae with macron
-01E3 : Latin small letter ae with macron
-01E4 : Latin capital letter g with stroke
-01E5 : Latin small letter g with stroke
-01E6 : Latin capital letter g with caron
-01E7 : Latin small letter g with caron
-01E8 : Latin capital letter k with caron
-01E9 : Latin small letter k with caron
-01EA : Latin capital letter o with ogonek
-01EB : Latin small letter o with ogonek
-01EC : Latin capital letter o with ogonek and macron
-01ED : Latin small letter o with ogonek and macron
-01EE : Latin capital letter ezh with caron
-01EF : Latin small letter ezh with caron
-01F0 : Latin small letter j with caron
-01F1 : Latin capital letter dz
-01F2 : Latin capital letter d with small letter z
-01F3 : Latin small letter dz
-01F4 : Latin capital letter g with acute
-01F5 : Latin small letter g with acute
-01F6 : Latin capital letter hwair
-01F7 : Latin capital letter wynn
-01F8 : Latin capital letter n with grave
-01F9 : Latin small letter n with grave
-01FA : Latin capital letter a with ring above and acute
-01FB : Latin small letter a with ring above and acute
-01FC : Latin capital letter ae with acute
-01FD : Latin small letter ae with acute
-01FE : Latin capital letter o with stroke and acute
-01FF : Latin small letter o with stroke and acute
+0100: Latin Capital Letter A with Macron
+0101: Latin Small Letter A with Macron
+0102: Latin Capital Letter A with Breve
+0103: Latin Small Letter A with Breve
+0104: Latin Capital Letter A with Ogonek
+0105: Latin Small Letter A with Ogonek
+0106: Latin Capital Letter C with Acute
+0107: Latin Small Letter C with Acute
+0108: Latin Capital Letter C with Circumflex
+0109: Latin Small Letter C with Circumflex
+010A: Latin Capital Letter C with Dot Above
+010B: Latin Small Letter C with Dot Above
+010C: Latin Capital Letter C with Caron
+010D: Latin Small Letter C with Caron
+010E: Latin Capital Letter D with Caron
+010F: Latin Small Letter D with Caron
+0110: Latin Capital Letter D with Stroke
+0111: Latin Small Letter D with Stroke
+0112: Latin Capital Letter E with Macron
+0113: Latin Small Letter E with Macron
+0114: Latin Capital Letter E with Breve
+0115: Latin Small Letter E with Breve
+0116: Latin Capital Letter E with Dot Above
+0117: Latin Small Letter E with Dot Above
+0118: Latin Capital Letter E with Ogonek
+0119: Latin Small Letter E with Ogonek
+011A: Latin Capital Letter E with Caron
+011B: Latin Small Letter E with Caron
+011C: Latin Capital Letter G with Circumflex
+011D: Latin Small Letter G with Circumflex
+011E: Latin Capital Letter G with Breve
+011F: Latin Small Letter G with Breve
+0120: Latin Capital Letter G with Dot Above
+0121: Latin Small Letter G with Dot Above
+0122: Latin Capital Letter G with Cedilla
+0123: Latin Small Letter G with Cedilla
+0124: Latin Capital Letter H with Circumflex
+0125: Latin Small Letter H with Circumflex
+0126: Latin Capital Letter H with Stroke
+0127: Latin Small Letter H with Stroke
+0128: Latin Capital Letter I with Tilde
+0129: Latin Small Letter I with Tilde
+012A: Latin Capital Letter I with Macron
+012B: Latin Small Letter I with Macron
+012C: Latin Capital Letter I with Breve
+012D: Latin Small Letter I with Breve
+012E: Latin Capital Letter I with Ogonek
+012F: Latin Small Letter I with Ogonek
+0130: Latin Capital Letter I with Dot Above : i dot
+0131: Latin Small Letter Dotless I
+0132: Latin Capital Ligature Ij
+0133: Latin Small Ligature Ij
+0134: Latin Capital Letter J with Circumflex
+0135: Latin Small Letter J with Circumflex
+0136: Latin Capital Letter K with Cedilla
+0137: Latin Small Letter K with Cedilla
+0138: Latin Small Letter Kra
+0139: Latin Capital Letter L with Acute
+013A: Latin Small Letter L with Acute
+013B: Latin Capital Letter L with Cedilla
+013C: Latin Small Letter L with Cedilla
+013D: Latin Capital Letter L with Caron
+013E: Latin Small Letter L with Caron
+013F: Latin Capital Letter L with Middle Dot
+0140: Latin Small Letter L with Middle Dot
+0141: Latin Capital Letter L with Stroke : litecoin
+0142: Latin Small Letter L with Stroke
+0143: Latin Capital Letter N with Acute
+0144: Latin Small Letter N with Acute
+0145: Latin Capital Letter N with Cedilla
+0146: Latin Small Letter N with Cedilla
+0147: Latin Capital Letter N with Caron
+0148: Latin Small Letter N with Caron
+0149: Latin Small Letter N Preceded By Apostrophe : latin small letter apostrophe n 
+014A: Latin Capital Letter Eng
+014B: Latin Small Letter Eng : engma, angma
+014C: Latin Capital Letter O with Macron
+014D: Latin Small Letter O with Macron
+014E: Latin Capital Letter O with Breve
+014F: Latin Small Letter O with Breve
+0150: Latin Capital Letter O with Double Acute
+0151: Latin Small Letter O with Double Acute
+0152: Latin Capital Ligature Oe
+0153: Latin Small Ligature Oe : ethel (from old english eðel)
+0154: Latin Capital Letter R with Acute
+0155: Latin Small Letter R with Acute
+0156: Latin Capital Letter R with Cedilla
+0157: Latin Small Letter R with Cedilla
+0158: Latin Capital Letter R with Caron
+0159: Latin Small Letter R with Caron
+015A: Latin Capital Letter S with Acute
+015B: Latin Small Letter S with Acute
+015C: Latin Capital Letter S with Circumflex
+015D: Latin Small Letter S with Circumflex
+015E: Latin Capital Letter S with Cedilla
+015F: Latin Small Letter S with Cedilla
+0160: Latin Capital Letter S with Caron
+0161: Latin Small Letter S with Caron
+0162: Latin Capital Letter T with Cedilla
+0163: Latin Small Letter T with Cedilla
+0164: Latin Capital Letter T with Caron
+0165: Latin Small Letter T with Caron
+0166: Latin Capital Letter T with Stroke
+0167: Latin Small Letter T with Stroke
+0168: Latin Capital Letter U with Tilde
+0169: Latin Small Letter U with Tilde
+016A: Latin Capital Letter U with Macron
+016B: Latin Small Letter U with Macron
+016C: Latin Capital Letter U with Breve
+016D: Latin Small Letter U with Breve
+016E: Latin Capital Letter U with Ring Above
+016F: Latin Small Letter U with Ring Above
+0170: Latin Capital Letter U with Double Acute
+0171: Latin Small Letter U with Double Acute
+0172: Latin Capital Letter U with Ogonek
+0173: Latin Small Letter U with Ogonek
+0174: Latin Capital Letter W with Circumflex
+0175: Latin Small Letter W with Circumflex
+0176: Latin Capital Letter Y with Circumflex
+0177: Latin Small Letter Y with Circumflex
+0178: Latin Capital Letter Y with Diaeresis
+0179: Latin Capital Letter Z with Acute
+017A: Latin Small Letter Z with Acute
+017B: Latin Capital Letter Z with Dot Above
+017C: Latin Small Letter Z with Dot Above
+017D: Latin Capital Letter Z with Caron
+017E: Latin Small Letter Z with Caron
+017F: Latin Small Letter Long S
+0180: Latin Small Letter B with Stroke
+0181: Latin Capital Letter B with Hook
+0182: Latin Capital Letter B with Topbar
+0183: Latin Small Letter B with Topbar
+0184: Latin Capital Letter Tone Six
+0185: Latin Small Letter Tone Six
+0186: Latin Capital Letter Open O
+0187: Latin Capital Letter C with Hook
+0188: Latin Small Letter C with Hook
+0189: Latin Capital Letter African D
+018A: Latin Capital Letter D with Hook
+018B: Latin Capital Letter D with Topbar
+018C: Latin Small Letter D with Topbar
+018D: Latin Small Letter Turned Delta : reversed polish-hook o
+018E: Latin Capital Letter Reversed E : turned e
+018F: Latin Capital Letter Schwa
+0190: Latin Capital Letter Open E : epsilon
+0191: Latin Capital Letter F with Hook
+0192: Latin Small Letter F with Hook : script f : florin currency symbol (netherlands) : function symbol
+0193: Latin Capital Letter G with Hook
+0194: Latin Capital Letter Gamma
+0195: Latin Small Letter Hv
+0196: Latin Capital Letter Iota
+0197: Latin Capital Letter I with Stroke : barred i, i bar
+0198: Latin Capital Letter K with Hook
+0199: Latin Small Letter K with Hook
+019A: Latin Small Letter L with Bar : barred l
+019B: Latin Small Letter Lambda with Stroke : barred lambda, lambda bar
+019C: Latin Capital Letter Turned M
+019D: Latin Capital Letter N with Left Hook
+019E: Latin Small Letter N with Long Right Leg
+019F: Latin Capital Letter O with Middle Tilde : barred o, o bar
+01A0: Latin Capital Letter O with Horn
+01A1: Latin Small Letter O with Horn
+01A2: Latin Capital Letter Oi
+01A3: Latin Small Letter Oi
+01A4: Latin Capital Letter P with Hook
+01A5: Latin Small Letter P with Hook
+01A6: Latin Letter Yr
+01A7: Latin Capital Letter Tone Two
+01A8: Latin Small Letter Tone Two
+01A9: Latin Capital Letter Esh
+01AA: Latin Letter Reversed Esh Loop
+01AB: Latin Small Letter T with Palatal Hook
+01AC: Latin Capital Letter T with Hook
+01AD: Latin Small Letter T with Hook
+01AE: Latin Capital Letter T with Retroflex Hook
+01AF: Latin Capital Letter U with Horn
+01B0: Latin Small Letter U with Horn
+01B1: Latin Capital Letter Upsilon
+01B2: Latin Capital Letter V with Hook : script v
+01B3: Latin Capital Letter Y with Hook
+01B4: Latin Small Letter Y with Hook
+01B5: Latin Capital Letter Z with Stroke
+01B6: Latin Small Letter Z with Stroke : barred z, z bar
+01B7: Latin Capital Letter Ezh
+01B8: Latin Capital Letter Ezh Reversed
+01B9: Latin Small Letter Ezh Reversed
+01BA: Latin Small Letter Ezh with Tail
+01BB: Latin Letter Two with Stroke
+01BC: Latin Capital Letter Tone Five
+01BD: Latin Small Letter Tone Five
+01BE: Latin Letter Inverted Glottal Stop with Stroke
+01BF: Latin Letter Wynn : wen
+01C0: Latin Letter Dental Click : pipe
+01C1: Latin Letter Lateral Click : double pipe
+01C2: Latin Letter Alveolar Click : double-barred pipe : palatoalveolar click (ipa)
+01C3: Latin Letter Retroflex Click : latin letter exclamation mark : (post)alveolar click (ipa)
+01C4: Latin Capital Letter Dz with Caron
+01C5: Latin Capital Letter D with Small Letter Z with Caron
+01C6: Latin Small Letter Dz with Caron
+01C7: Latin Capital Letter Lj
+01C8: Latin Capital Letter L with Small Letter J
+01C9: Latin Small Letter Lj
+01CA: Latin Capital Letter Nj
+01CB: Latin Capital Letter N with Small Letter J
+01CC: Latin Small Letter Nj
+01CD: Latin Capital Letter A with Caron
+01CE: Latin Small Letter A with Caron
+01CF: Latin Capital Letter I with Caron
+01D0: Latin Small Letter I with Caron
+01D1: Latin Capital Letter O with Caron
+01D2: Latin Small Letter O with Caron
+01D3: Latin Capital Letter U with Caron
+01D4: Latin Small Letter U with Caron
+01D5: Latin Capital Letter U with Diaeresis And Macron
+01D6: Latin Small Letter U with Diaeresis And Macron
+01D7: Latin Capital Letter U with Diaeresis And Acute
+01D8: Latin Small Letter U with Diaeresis And Acute
+01D9: Latin Capital Letter U with Diaeresis And Caron
+01DA: Latin Small Letter U with Diaeresis And Caron
+01DB: Latin Capital Letter U with Diaeresis And Grave
+01DC: Latin Small Letter U with Diaeresis And Grave
+01DD: Latin Small Letter Turned E
+01DE: Latin Capital Letter A with Diaeresis And Macron
+01DF: Latin Small Letter A with Diaeresis And Macron
+01E0: Latin Capital Letter A with Dot Above And Macron
+01E1: Latin Small Letter A with Dot Above And Macron
+01E2: Latin Capital Letter Ae with Macron
+01E3: Latin Small Letter Ae with Macron
+01E4: Latin Capital Letter G with Stroke
+01E5: Latin Small Letter G with Stroke
+01E6: Latin Capital Letter G with Caron
+01E7: Latin Small Letter G with Caron
+01E8: Latin Capital Letter K with Caron
+01E9: Latin Small Letter K with Caron
+01EA: Latin Capital Letter O with Ogonek
+01EB: Latin Small Letter O with Ogonek
+01EC: Latin Capital Letter O with Ogonek And Macron
+01ED: Latin Small Letter O with Ogonek And Macron
+01EE: Latin Capital Letter Ezh with Caron
+01EF: Latin Small Letter Ezh with Caron
+01F0: Latin Small Letter J with Caron
+01F1: Latin Capital Letter Dz
+01F2: Latin Capital Letter D with Small Letter Z
+01F3: Latin Small Letter Dz
+01F4: Latin Capital Letter G with Acute
+01F5: Latin Small Letter G with Acute
+01F6: Latin Capital Letter Hwair
+01F7: Latin Capital Letter Wynn : wen
+01F8: Latin Capital Letter N with Grave
+01F9: Latin Small Letter N with Grave
+01FA: Latin Capital Letter A with Ring Above And Acute
+01FB: Latin Small Letter A with Ring Above And Acute
+01FC: Latin Capital Letter Ae with Acute
+01FD: Latin Small Letter Ae with Acute
+01FE: Latin Capital Letter O with Stroke And Acute
+01FF: Latin Small Letter O with Stroke And Acute

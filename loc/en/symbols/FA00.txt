@@ -1,256 +1,256 @@
-FA00 : 
-FA01 : 
-FA02 : 
-FA03 : 
-FA04 : 
-FA05 : 
-FA06 : 
-FA07 : 
-FA08 : 
-FA09 : 
-FA0A : 
-FA0B : 
-FA0C : 
-FA0D : 
-FA0E : 
-FA0F : 
-FA10 : 
-FA11 : 
-FA12 : 
-FA13 : 
-FA14 : 
-FA15 : 
-FA16 : 
-FA17 : 
-FA18 : 
-FA19 : 
-FA1A : 
-FA1B : 
-FA1C : 
-FA1D : 
-FA1E : 
-FA1F : 
-FA20 : 
-FA21 : 
-FA22 : 
-FA23 : 
-FA24 : 
-FA25 : 
-FA26 : 
-FA27 : 
-FA28 : 
-FA29 : 
-FA2A : 
-FA2B : 
-FA2C : 
-FA2D : 
-FA2E : 
-FA2F : 
-FA30 : 
-FA31 : 
-FA32 : 
-FA33 : 
-FA34 : 
-FA35 : 
-FA36 : 
-FA37 : 
-FA38 : 
-FA39 : 
-FA3A : 
-FA3B : 
-FA3C : 
-FA3D : 
-FA3E : 
-FA3F : 
-FA40 : 
-FA41 : 
-FA42 : 
-FA43 : 
-FA44 : 
-FA45 : 
-FA46 : 
-FA47 : 
-FA48 : 
-FA49 : 
-FA4A : 
-FA4B : 
-FA4C : 
-FA4D : 
-FA4E : 
-FA4F : 
-FA50 : 
-FA51 : 
-FA52 : 
-FA53 : 
-FA54 : 
-FA55 : 
-FA56 : 
-FA57 : 
-FA58 : 
-FA59 : 
-FA5A : 
-FA5B : 
-FA5C : 
-FA5D : 
-FA5E : 
-FA5F : 
-FA60 : 
-FA61 : 
-FA62 : 
-FA63 : 
-FA64 : 
-FA65 : 
-FA66 : 
-FA67 : 
-FA68 : 
-FA69 : 
-FA6A : 
-FA6B : 
-FA6C : 
-FA6D : 
-FA6E : 
-FA6F : 
-FA70 : 
-FA71 : 
-FA72 : 
-FA73 : 
-FA74 : 
-FA75 : 
-FA76 : 
-FA77 : 
-FA78 : 
-FA79 : 
-FA7A : 
-FA7B : 
-FA7C : 
-FA7D : 
-FA7E : 
-FA7F : 
-FA80 : 
-FA81 : 
-FA82 : 
-FA83 : 
-FA84 : 
-FA85 : 
-FA86 : 
-FA87 : 
-FA88 : 
-FA89 : 
-FA8A : 
-FA8B : 
-FA8C : 
-FA8D : 
-FA8E : 
-FA8F : 
-FA90 : 
-FA91 : 
-FA92 : 
-FA93 : 
-FA94 : 
-FA95 : 
-FA96 : 
-FA97 : 
-FA98 : 
-FA99 : 
-FA9A : 
-FA9B : 
-FA9C : 
-FA9D : 
-FA9E : 
-FA9F : 
-FAA0 : 
-FAA1 : 
-FAA2 : 
-FAA3 : 
-FAA4 : 
-FAA5 : 
-FAA6 : 
-FAA7 : 
-FAA8 : 
-FAA9 : 
-FAAA : 
-FAAB : 
-FAAC : 
-FAAD : 
-FAAE : 
-FAAF : 
-FAB0 : 
-FAB1 : 
-FAB2 : 
-FAB3 : 
-FAB4 : 
-FAB5 : 
-FAB6 : 
-FAB7 : 
-FAB8 : 
-FAB9 : 
-FABA : 
-FABB : 
-FABC : 
-FABD : 
-FABE : 
-FABF : 
-FAC0 : 
-FAC1 : 
-FAC2 : 
-FAC3 : 
-FAC4 : 
-FAC5 : 
-FAC6 : 
-FAC7 : 
-FAC8 : 
-FAC9 : 
-FACA : 
-FACB : 
-FACC : 
-FACD : 
-FACE : 
-FACF : 
-FAD0 : 
-FAD1 : 
-FAD2 : 
-FAD3 : 
-FAD4 : 
-FAD5 : 
-FAD6 : 
-FAD7 : 
-FAD8 : 
-FAD9 : 
-FADA : 
-FADB : 
-FADC : 
-FADD : 
-FADE : 
-FADF : 
-FAE0 : 
-FAE1 : 
-FAE2 : 
-FAE3 : 
-FAE4 : 
-FAE5 : 
-FAE6 : 
-FAE7 : 
-FAE8 : 
-FAE9 : 
-FAEA : 
-FAEB : 
-FAEC : 
-FAED : 
-FAEE : 
-FAEF : 
-FAF0 : 
-FAF1 : 
-FAF2 : 
-FAF3 : 
-FAF4 : 
-FAF5 : 
-FAF6 : 
-FAF7 : 
-FAF8 : 
-FAF9 : 
-FAFA : 
-FAFB : 
-FAFC : 
-FAFD : 
-FAFE : 
-FAFF : 
+FA00: Cjk Compatibility Ideograph-Fa00
+FA01: Cjk Compatibility Ideograph-Fa01
+FA02: Cjk Compatibility Ideograph-Fa02
+FA03: Cjk Compatibility Ideograph-Fa03
+FA04: Cjk Compatibility Ideograph-Fa04
+FA05: Cjk Compatibility Ideograph-Fa05
+FA06: Cjk Compatibility Ideograph-Fa06
+FA07: Cjk Compatibility Ideograph-Fa07
+FA08: Cjk Compatibility Ideograph-Fa08
+FA09: Cjk Compatibility Ideograph-Fa09
+FA0A: Cjk Compatibility Ideograph-Fa0A
+FA0B: Cjk Compatibility Ideograph-Fa0B
+FA0C: Cjk Compatibility Ideograph-Fa0C
+FA0D: Cjk Compatibility Ideograph-Fa0D
+FA0E: Cjk Compatibility Ideograph-Fa0E
+FA0F: Cjk Compatibility Ideograph-Fa0F
+FA10: Cjk Compatibility Ideograph-Fa10
+FA11: Cjk Compatibility Ideograph-Fa11
+FA12: Cjk Compatibility Ideograph-Fa12
+FA13: Cjk Compatibility Ideograph-Fa13
+FA14: Cjk Compatibility Ideograph-Fa14
+FA15: Cjk Compatibility Ideograph-Fa15
+FA16: Cjk Compatibility Ideograph-Fa16
+FA17: Cjk Compatibility Ideograph-Fa17
+FA18: Cjk Compatibility Ideograph-Fa18
+FA19: Cjk Compatibility Ideograph-Fa19
+FA1A: Cjk Compatibility Ideograph-Fa1A
+FA1B: Cjk Compatibility Ideograph-Fa1B
+FA1C: Cjk Compatibility Ideograph-Fa1C
+FA1D: Cjk Compatibility Ideograph-Fa1D
+FA1E: Cjk Compatibility Ideograph-Fa1E
+FA1F: Cjk Compatibility Ideograph-Fa1F
+FA20: Cjk Compatibility Ideograph-Fa20
+FA21: Cjk Compatibility Ideograph-Fa21
+FA22: Cjk Compatibility Ideograph-Fa22
+FA23: Cjk Compatibility Ideograph-Fa23
+FA24: Cjk Compatibility Ideograph-Fa24
+FA25: Cjk Compatibility Ideograph-Fa25
+FA26: Cjk Compatibility Ideograph-Fa26
+FA27: Cjk Compatibility Ideograph-Fa27
+FA28: Cjk Compatibility Ideograph-Fa28
+FA29: Cjk Compatibility Ideograph-Fa29
+FA2A: Cjk Compatibility Ideograph-Fa2A
+FA2B: Cjk Compatibility Ideograph-Fa2B
+FA2C: Cjk Compatibility Ideograph-Fa2C
+FA2D: Cjk Compatibility Ideograph-Fa2D
+FA2E: Cjk Compatibility Ideograph-Fa2E
+FA2F: Cjk Compatibility Ideograph-Fa2F
+FA30: Cjk Compatibility Ideograph-Fa30
+FA31: Cjk Compatibility Ideograph-Fa31
+FA32: Cjk Compatibility Ideograph-Fa32
+FA33: Cjk Compatibility Ideograph-Fa33
+FA34: Cjk Compatibility Ideograph-Fa34
+FA35: Cjk Compatibility Ideograph-Fa35
+FA36: Cjk Compatibility Ideograph-Fa36
+FA37: Cjk Compatibility Ideograph-Fa37
+FA38: Cjk Compatibility Ideograph-Fa38
+FA39: Cjk Compatibility Ideograph-Fa39
+FA3A: Cjk Compatibility Ideograph-Fa3A
+FA3B: Cjk Compatibility Ideograph-Fa3B
+FA3C: Cjk Compatibility Ideograph-Fa3C
+FA3D: Cjk Compatibility Ideograph-Fa3D
+FA3E: Cjk Compatibility Ideograph-Fa3E
+FA3F: Cjk Compatibility Ideograph-Fa3F
+FA40: Cjk Compatibility Ideograph-Fa40
+FA41: Cjk Compatibility Ideograph-Fa41
+FA42: Cjk Compatibility Ideograph-Fa42
+FA43: Cjk Compatibility Ideograph-Fa43
+FA44: Cjk Compatibility Ideograph-Fa44
+FA45: Cjk Compatibility Ideograph-Fa45
+FA46: Cjk Compatibility Ideograph-Fa46
+FA47: Cjk Compatibility Ideograph-Fa47
+FA48: Cjk Compatibility Ideograph-Fa48
+FA49: Cjk Compatibility Ideograph-Fa49
+FA4A: Cjk Compatibility Ideograph-Fa4A
+FA4B: Cjk Compatibility Ideograph-Fa4B
+FA4C: Cjk Compatibility Ideograph-Fa4C
+FA4D: Cjk Compatibility Ideograph-Fa4D
+FA4E: Cjk Compatibility Ideograph-Fa4E
+FA4F: Cjk Compatibility Ideograph-Fa4F
+FA50: Cjk Compatibility Ideograph-Fa50
+FA51: Cjk Compatibility Ideograph-Fa51
+FA52: Cjk Compatibility Ideograph-Fa52
+FA53: Cjk Compatibility Ideograph-Fa53
+FA54: Cjk Compatibility Ideograph-Fa54
+FA55: Cjk Compatibility Ideograph-Fa55
+FA56: Cjk Compatibility Ideograph-Fa56
+FA57: Cjk Compatibility Ideograph-Fa57
+FA58: Cjk Compatibility Ideograph-Fa58
+FA59: Cjk Compatibility Ideograph-Fa59
+FA5A: Cjk Compatibility Ideograph-Fa5A
+FA5B: Cjk Compatibility Ideograph-Fa5B
+FA5C: Cjk Compatibility Ideograph-Fa5C
+FA5D: Cjk Compatibility Ideograph-Fa5D
+FA5E: Cjk Compatibility Ideograph-Fa5E
+FA5F: Cjk Compatibility Ideograph-Fa5F
+FA60: Cjk Compatibility Ideograph-Fa60
+FA61: Cjk Compatibility Ideograph-Fa61
+FA62: Cjk Compatibility Ideograph-Fa62
+FA63: Cjk Compatibility Ideograph-Fa63
+FA64: Cjk Compatibility Ideograph-Fa64
+FA65: Cjk Compatibility Ideograph-Fa65
+FA66: Cjk Compatibility Ideograph-Fa66
+FA67: Cjk Compatibility Ideograph-Fa67
+FA68: Cjk Compatibility Ideograph-Fa68
+FA69: Cjk Compatibility Ideograph-Fa69
+FA6A: Cjk Compatibility Ideograph-Fa6A
+FA6B: Cjk Compatibility Ideograph-Fa6B
+FA6C: Cjk Compatibility Ideograph-Fa6C
+FA6D: Cjk Compatibility Ideograph-Fa6D
+FA6E:
+FA6F:
+FA70: Cjk Compatibility Ideograph-Fa70
+FA71: Cjk Compatibility Ideograph-Fa71
+FA72: Cjk Compatibility Ideograph-Fa72
+FA73: Cjk Compatibility Ideograph-Fa73
+FA74: Cjk Compatibility Ideograph-Fa74
+FA75: Cjk Compatibility Ideograph-Fa75
+FA76: Cjk Compatibility Ideograph-Fa76
+FA77: Cjk Compatibility Ideograph-Fa77
+FA78: Cjk Compatibility Ideograph-Fa78
+FA79: Cjk Compatibility Ideograph-Fa79
+FA7A: Cjk Compatibility Ideograph-Fa7A
+FA7B: Cjk Compatibility Ideograph-Fa7B
+FA7C: Cjk Compatibility Ideograph-Fa7C
+FA7D: Cjk Compatibility Ideograph-Fa7D
+FA7E: Cjk Compatibility Ideograph-Fa7E
+FA7F: Cjk Compatibility Ideograph-Fa7F
+FA80: Cjk Compatibility Ideograph-Fa80
+FA81: Cjk Compatibility Ideograph-Fa81
+FA82: Cjk Compatibility Ideograph-Fa82
+FA83: Cjk Compatibility Ideograph-Fa83
+FA84: Cjk Compatibility Ideograph-Fa84
+FA85: Cjk Compatibility Ideograph-Fa85
+FA86: Cjk Compatibility Ideograph-Fa86
+FA87: Cjk Compatibility Ideograph-Fa87
+FA88: Cjk Compatibility Ideograph-Fa88
+FA89: Cjk Compatibility Ideograph-Fa89
+FA8A: Cjk Compatibility Ideograph-Fa8A
+FA8B: Cjk Compatibility Ideograph-Fa8B
+FA8C: Cjk Compatibility Ideograph-Fa8C
+FA8D: Cjk Compatibility Ideograph-Fa8D
+FA8E: Cjk Compatibility Ideograph-Fa8E
+FA8F: Cjk Compatibility Ideograph-Fa8F
+FA90: Cjk Compatibility Ideograph-Fa90
+FA91: Cjk Compatibility Ideograph-Fa91
+FA92: Cjk Compatibility Ideograph-Fa92
+FA93: Cjk Compatibility Ideograph-Fa93
+FA94: Cjk Compatibility Ideograph-Fa94
+FA95: Cjk Compatibility Ideograph-Fa95
+FA96: Cjk Compatibility Ideograph-Fa96
+FA97: Cjk Compatibility Ideograph-Fa97
+FA98: Cjk Compatibility Ideograph-Fa98
+FA99: Cjk Compatibility Ideograph-Fa99
+FA9A: Cjk Compatibility Ideograph-Fa9A
+FA9B: Cjk Compatibility Ideograph-Fa9B
+FA9C: Cjk Compatibility Ideograph-Fa9C
+FA9D: Cjk Compatibility Ideograph-Fa9D
+FA9E: Cjk Compatibility Ideograph-Fa9E
+FA9F: Cjk Compatibility Ideograph-Fa9F
+FAA0: Cjk Compatibility Ideograph-Faa0
+FAA1: Cjk Compatibility Ideograph-Faa1
+FAA2: Cjk Compatibility Ideograph-Faa2
+FAA3: Cjk Compatibility Ideograph-Faa3
+FAA4: Cjk Compatibility Ideograph-Faa4
+FAA5: Cjk Compatibility Ideograph-Faa5
+FAA6: Cjk Compatibility Ideograph-Faa6
+FAA7: Cjk Compatibility Ideograph-Faa7
+FAA8: Cjk Compatibility Ideograph-Faa8
+FAA9: Cjk Compatibility Ideograph-Faa9
+FAAA: Cjk Compatibility Ideograph-Faaa
+FAAB: Cjk Compatibility Ideograph-Faab
+FAAC: Cjk Compatibility Ideograph-Faac
+FAAD: Cjk Compatibility Ideograph-Faad
+FAAE: Cjk Compatibility Ideograph-Faae
+FAAF: Cjk Compatibility Ideograph-Faaf
+FAB0: Cjk Compatibility Ideograph-Fab0
+FAB1: Cjk Compatibility Ideograph-Fab1
+FAB2: Cjk Compatibility Ideograph-Fab2
+FAB3: Cjk Compatibility Ideograph-Fab3
+FAB4: Cjk Compatibility Ideograph-Fab4
+FAB5: Cjk Compatibility Ideograph-Fab5
+FAB6: Cjk Compatibility Ideograph-Fab6
+FAB7: Cjk Compatibility Ideograph-Fab7
+FAB8: Cjk Compatibility Ideograph-Fab8
+FAB9: Cjk Compatibility Ideograph-Fab9
+FABA: Cjk Compatibility Ideograph-Faba
+FABB: Cjk Compatibility Ideograph-Fabb
+FABC: Cjk Compatibility Ideograph-Fabc
+FABD: Cjk Compatibility Ideograph-Fabd
+FABE: Cjk Compatibility Ideograph-Fabe
+FABF: Cjk Compatibility Ideograph-Fabf
+FAC0: Cjk Compatibility Ideograph-Fac0
+FAC1: Cjk Compatibility Ideograph-Fac1
+FAC2: Cjk Compatibility Ideograph-Fac2
+FAC3: Cjk Compatibility Ideograph-Fac3
+FAC4: Cjk Compatibility Ideograph-Fac4
+FAC5: Cjk Compatibility Ideograph-Fac5
+FAC6: Cjk Compatibility Ideograph-Fac6
+FAC7: Cjk Compatibility Ideograph-Fac7
+FAC8: Cjk Compatibility Ideograph-Fac8
+FAC9: Cjk Compatibility Ideograph-Fac9
+FACA: Cjk Compatibility Ideograph-Faca
+FACB: Cjk Compatibility Ideograph-Facb
+FACC: Cjk Compatibility Ideograph-Facc
+FACD: Cjk Compatibility Ideograph-Facd
+FACE: Cjk Compatibility Ideograph-Face
+FACF: Cjk Compatibility Ideograph-Facf
+FAD0: Cjk Compatibility Ideograph-Fad0
+FAD1: Cjk Compatibility Ideograph-Fad1
+FAD2: Cjk Compatibility Ideograph-Fad2
+FAD3: Cjk Compatibility Ideograph-Fad3
+FAD4: Cjk Compatibility Ideograph-Fad4
+FAD5: Cjk Compatibility Ideograph-Fad5
+FAD6: Cjk Compatibility Ideograph-Fad6
+FAD7: Cjk Compatibility Ideograph-Fad7
+FAD8: Cjk Compatibility Ideograph-Fad8
+FAD9: Cjk Compatibility Ideograph-Fad9
+FADA:
+FADB:
+FADC:
+FADD:
+FADE:
+FADF:
+FAE0:
+FAE1:
+FAE2:
+FAE3:
+FAE4:
+FAE5:
+FAE6:
+FAE7:
+FAE8:
+FAE9:
+FAEA:
+FAEB:
+FAEC:
+FAED:
+FAEE:
+FAEF:
+FAF0:
+FAF1:
+FAF2:
+FAF3:
+FAF4:
+FAF5:
+FAF6:
+FAF7:
+FAF8:
+FAF9:
+FAFA:
+FAFB:
+FAFC:
+FAFD:
+FAFE:
+FAFF:

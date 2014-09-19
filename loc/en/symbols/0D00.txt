@@ -1,256 +1,256 @@
-0D00 : 
-0D01 : 
-0D02 : Malayalam sign anusvara
-0D03 : Malayalam sign visarga
-0D04 : 
-0D05 : Malayalam letter a
-0D06 : Malayalam letter aa
-0D07 : Malayalam letter i
-0D08 : Malayalam letter ii
-0D09 : Malayalam letter u
-0D0A : Malayalam letter uu
-0D0B : Malayalam letter vocalic r
-0D0C : Malayalam letter vocalic l
-0D0D : 
-0D0E : Malayalam letter e
-0D0F : Malayalam letter ee
-0D10 : Malayalam letter ai
-0D11 : 
-0D12 : Malayalam letter o
-0D13 : Malayalam letter oo
-0D14 : Malayalam letter au
-0D15 : Malayalam letter ka
-0D16 : Malayalam letter kha
-0D17 : Malayalam letter ga
-0D18 : Malayalam letter gha
-0D19 : Malayalam letter nga
-0D1A : Malayalam letter ca
-0D1B : Malayalam letter cha
-0D1C : Malayalam letter ja
-0D1D : Malayalam letter jha
-0D1E : Malayalam letter nya
-0D1F : Malayalam letter tta
-0D20 : Malayalam letter ttha
-0D21 : Malayalam letter dda
-0D22 : Malayalam letter ddha
-0D23 : Malayalam letter nna
-0D24 : Malayalam letter ta
-0D25 : Malayalam letter tha
-0D26 : Malayalam letter da
-0D27 : Malayalam letter dha
-0D28 : Malayalam letter na
-0D29 : 
-0D2A : Malayalam letter pa
-0D2B : Malayalam letter pha
-0D2C : Malayalam letter ba
-0D2D : Malayalam letter bha
-0D2E : Malayalam letter ma
-0D2F : Malayalam letter ya
-0D30 : Malayalam letter ra
-0D31 : Malayalam letter rra
-0D32 : Malayalam letter la
-0D33 : Malayalam letter lla
-0D34 : Malayalam letter llla
-0D35 : Malayalam letter va
-0D36 : Malayalam letter sha
-0D37 : Malayalam letter ssa
-0D38 : Malayalam letter sa
-0D39 : Malayalam letter ha
-0D3A : 
-0D3B : 
-0D3C : 
-0D3D : Malayalam sign avagraha
-0D3E : Malayalam vowel sign aa
-0D3F : Malayalam vowel sign i
-0D40 : Malayalam vowel sign ii
-0D41 : Malayalam vowel sign u
-0D42 : Malayalam vowel sign uu
-0D43 : Malayalam vowel sign vocalic r
-0D44 : Malayalam vowel sign vocalic rr
-0D45 : 
-0D46 : Malayalam vowel sign e
-0D47 : Malayalam vowel sign ee
-0D48 : Malayalam vowel sign ai
-0D49 : 
-0D4A : Malayalam vowel sign o
-0D4B : Malayalam vowel sign oo
-0D4C : Malayalam vowel sign au
-0D4D : Malayalam sign virama
-0D4E : 
-0D4F : 
-0D50 : 
-0D51 : 
-0D52 : 
-0D53 : 
-0D54 : 
-0D55 : 
-0D56 : 
-0D57 : Malayalam au length mark
-0D58 : 
-0D59 : 
-0D5A : 
-0D5B : 
-0D5C : 
-0D5D : 
-0D5E : 
-0D5F : 
-0D60 : Malayalam letter vocalic rr
-0D61 : Malayalam letter vocalic ll
-0D62 : Malayalam vowel sign vocalic l
-0D63 : Malayalam vowel sign vocalic ll
-0D64 : 
-0D65 : 
-0D66 : Malayalam digit zero
-0D67 : Malayalam digit one
-0D68 : Malayalam digit two
-0D69 : Malayalam digit three
-0D6A : Malayalam digit four
-0D6B : Malayalam digit five
-0D6C : Malayalam digit six
-0D6D : Malayalam digit seven
-0D6E : Malayalam digit eight
-0D6F : Malayalam digit nine
-0D70 : Malayalam number ten
-0D71 : Malayalam number one hundred
-0D72 : Malayalam number one thousand
-0D73 : Malayalam fraction one quarter
-0D74 : Malayalam fraction one half
-0D75 : Malayalam fraction three quarters
-0D76 : 
-0D77 : 
-0D78 : 
-0D79 : Malayalam date mark
-0D7A : Malayalam letter chillu nn
-0D7B : Malayalam letter chillu n
-0D7C : Malayalam letter chillu rr
-0D7D : Malayalam letter chillu l
-0D7E : Malayalam letter chillu ll
-0D7F : Malayalam letter chillu k
-0D80 : 
-0D81 : 
-0D82 : Sinhala sign anusvaraya
-0D83 : Sinhala sign visargaya
-0D84 : 
-0D85 : Sinhala letter ayanna
-0D86 : Sinhala letter aayanna
-0D87 : Sinhala letter aeyanna
-0D88 : Sinhala letter aeeyanna
-0D89 : Sinhala letter iyanna
-0D8A : Sinhala letter iiyanna
-0D8B : Sinhala letter uyanna
-0D8C : Sinhala letter uuyanna
-0D8D : Sinhala letter iruyanna
-0D8E : Sinhala letter iruuyanna
-0D8F : Sinhala letter iluyanna
-0D90 : Sinhala letter iluuyanna
-0D91 : Sinhala letter eyanna
-0D92 : Sinhala letter eeyanna
-0D93 : Sinhala letter aiyanna
-0D94 : Sinhala letter oyanna
-0D95 : Sinhala letter ooyanna
-0D96 : Sinhala letter auyanna
-0D97 : 
-0D98 : 
-0D99 : 
-0D9A : Sinhala letter alpapraana kayanna
-0D9B : Sinhala letter mahaapraana kayanna
-0D9C : Sinhala letter alpapraana gayanna
-0D9D : Sinhala letter mahaapraana gayanna
-0D9E : Sinhala letter kantaja naasikyaya
-0D9F : Sinhala letter sanyaka gayanna
-0DA0 : Sinhala letter alpapraana cayanna
-0DA1 : Sinhala letter mahaapraana cayanna
-0DA2 : Sinhala letter alpapraana jayanna
-0DA3 : Sinhala letter mahaapraana jayanna
-0DA4 : Sinhala letter taaluja naasikyaya
-0DA5 : Sinhala letter taaluja sanyooga naaksikyaya
-0DA6 : Sinhala letter sanyaka jayanna
-0DA7 : Sinhala letter alpapraana ttayanna
-0DA8 : Sinhala letter mahaapraana ttayanna
-0DA9 : Sinhala letter alpapraana ddayanna
-0DAA : Sinhala letter mahaapraana ddayanna
-0DAB : Sinhala letter muurdhaja nayanna
-0DAC : Sinhala letter sanyaka ddayanna
-0DAD : Sinhala letter alpapraana tayanna
-0DAE : Sinhala letter mahaapraana tayanna
-0DAF : Sinhala letter alpapraana dayanna
-0DB0 : Sinhala letter mahaapraana dayanna
-0DB1 : Sinhala letter dantaja nayanna
-0DB2 : 
-0DB3 : Sinhala letter sanyaka dayanna
-0DB4 : Sinhala letter alpapraana payanna
-0DB5 : Sinhala letter mahaapraana payanna
-0DB6 : Sinhala letter alpapraana bayanna
-0DB7 : Sinhala letter mahaapraana bayanna
-0DB8 : Sinhala letter mayanna
-0DB9 : Sinhala letter amba bayanna
-0DBA : Sinhala letter yayanna
-0DBB : Sinhala letter rayanna
-0DBC : 
-0DBD : Sinhala letter dantaja layanna
-0DBE : 
-0DBF : 
-0DC0 : Sinhala letter vayanna
-0DC1 : Sinhala letter taaluja sayanna
-0DC2 : Sinhala letter muurdhaja sayanna
-0DC3 : Sinhala letter dantaja sayanna
-0DC4 : Sinhala letter hayanna
-0DC5 : Sinhala letter muurdhaja layanna
-0DC6 : Sinhala letter fayanna
-0DC7 : 
-0DC8 : 
-0DC9 : 
-0DCA : Sinhala sign al-lakuna
-0DCB : 
-0DCC : 
-0DCD : 
-0DCE : 
-0DCF : Sinhala vowel sign aela-pilla
-0DD0 : Sinhala vowel sign ketti aeda-pilla
-0DD1 : Sinhala vowel sign diga aeda-pilla
-0DD2 : Sinhala vowel sign ketti is-pilla
-0DD3 : Sinhala vowel sign diga is-pilla
-0DD4 : Sinhala vowel sign ketti paa-pilla
-0DD5 : 
-0DD6 : Sinhala vowel sign diga paa-pilla
-0DD7 : 
-0DD8 : Sinhala vowel sign gaetta-pilla
-0DD9 : Sinhala vowel sign kombuva
-0DDA : Sinhala vowel sign diga kombuva
-0DDB : Sinhala vowel sign kombu deka
-0DDC : Sinhala vowel sign kombuva haa aela-pilla
-0DDD : Sinhala vowel sign kombuva haa diga aela-pilla
-0DDE : Sinhala vowel sign kombuva haa gayanukitta
-0DDF : Sinhala vowel sign gayanukitta
-0DE0 : 
-0DE1 : 
-0DE2 : 
-0DE3 : 
-0DE4 : 
-0DE5 : 
-0DE6 : 
-0DE7 : 
-0DE8 : 
-0DE9 : 
-0DEA : 
-0DEB : 
-0DEC : 
-0DED : 
-0DEE : 
-0DEF : 
-0DF0 : 
-0DF1 : 
-0DF2 : Sinhala vowel sign diga gaetta-pilla
-0DF3 : Sinhala vowel sign diga gayanukitta
-0DF4 : Sinhala punctuation kunddaliya
-0DF5 : 
-0DF6 : 
-0DF7 : 
-0DF8 : 
-0DF9 : 
-0DFA : 
-0DFB : 
-0DFC : 
-0DFD : 
-0DFE : 
-0DFF : 
+0D00:
+0D01: Malayalam Sign Candrabindu
+0D02: Malayalam Sign Anusvara
+0D03: Malayalam Sign Visarga
+0D04:
+0D05: Malayalam Letter A
+0D06: Malayalam Letter Aa
+0D07: Malayalam Letter I
+0D08: Malayalam Letter Ii
+0D09: Malayalam Letter U
+0D0A: Malayalam Letter Uu
+0D0B: Malayalam Letter Vocalic R
+0D0C: Malayalam Letter Vocalic L
+0D0D:
+0D0E: Malayalam Letter E
+0D0F: Malayalam Letter Ee
+0D10: Malayalam Letter Ai
+0D11:
+0D12: Malayalam Letter O
+0D13: Malayalam Letter Oo
+0D14: Malayalam Letter Au
+0D15: Malayalam Letter Ka
+0D16: Malayalam Letter Kha
+0D17: Malayalam Letter Ga
+0D18: Malayalam Letter Gha
+0D19: Malayalam Letter Nga
+0D1A: Malayalam Letter Ca : cha
+0D1B: Malayalam Letter Cha : chha
+0D1C: Malayalam Letter Ja
+0D1D: Malayalam Letter Jha
+0D1E: Malayalam Letter Nya : nha
+0D1F: Malayalam Letter Tta : ta
+0D20: Malayalam Letter Ttha : tta
+0D21: Malayalam Letter Dda : hard da
+0D22: Malayalam Letter Ddha : hard dda
+0D23: Malayalam Letter Nna : hard na
+0D24: Malayalam Letter Ta : tha
+0D25: Malayalam Letter Tha : ttha
+0D26: Malayalam Letter Da : soft da
+0D27: Malayalam Letter Dha : soft dda
+0D28: Malayalam Letter Na
+0D29: Malayalam Letter Nnna
+0D2A: Malayalam Letter Pa
+0D2B: Malayalam Letter Pha
+0D2C: Malayalam Letter Ba
+0D2D: Malayalam Letter Bha
+0D2E: Malayalam Letter Ma
+0D2F: Malayalam Letter Ya
+0D30: Malayalam Letter Ra
+0D31: Malayalam Letter Rra
+0D32: Malayalam Letter La
+0D33: Malayalam Letter Lla
+0D34: Malayalam Letter Llla : zha
+0D35: Malayalam Letter Va
+0D36: Malayalam Letter Sha : soft sha
+0D37: Malayalam Letter Ssa : sha
+0D38: Malayalam Letter Sa
+0D39: Malayalam Letter Ha
+0D3A: Malayalam Letter Ttta
+0D3B:
+0D3C:
+0D3D: Malayalam Sign Avagraha : praslesham
+0D3E: Malayalam Vowel Sign Aa
+0D3F: Malayalam Vowel Sign I
+0D40: Malayalam Vowel Sign Ii
+0D41: Malayalam Vowel Sign U
+0D42: Malayalam Vowel Sign Uu
+0D43: Malayalam Vowel Sign Vocalic R
+0D44: Malayalam Vowel Sign Vocalic Rr
+0D45:
+0D46: Malayalam Vowel Sign E
+0D47: Malayalam Vowel Sign Ee
+0D48: Malayalam Vowel Sign Ai
+0D49:
+0D4A: Malayalam Vowel Sign O
+0D4B: Malayalam Vowel Sign Oo
+0D4C: Malayalam Vowel Sign Au
+0D4D: Malayalam Sign Virama : candrakkala (the preferred name) : vowel half-u
+0D4E: Malayalam Letter Dot Reph
+0D4F:
+0D50:
+0D51:
+0D52:
+0D53:
+0D54:
+0D55:
+0D56:
+0D57: Malayalam Au Length Mark
+0D58:
+0D59:
+0D5A:
+0D5B:
+0D5C:
+0D5D:
+0D5E:
+0D5F:
+0D60: Malayalam Letter Vocalic Rr
+0D61: Malayalam Letter Vocalic Ll
+0D62: Malayalam Vowel Sign Vocalic L
+0D63: Malayalam Vowel Sign Vocalic Ll
+0D64: <Reserved>
+0D65: <Reserved>
+0D66: Malayalam Digit Zero
+0D67: Malayalam Digit One
+0D68: Malayalam Digit Two
+0D69: Malayalam Digit Three
+0D6A: Malayalam Digit Four
+0D6B: Malayalam Digit Five
+0D6C: Malayalam Digit Six
+0D6D: Malayalam Digit Seven
+0D6E: Malayalam Digit Eight
+0D6F: Malayalam Digit Nine
+0D70: Malayalam Number Ten
+0D71: Malayalam Number One Hundred
+0D72: Malayalam Number One Thousand
+0D73: Malayalam Fraction One Quarter
+0D74: Malayalam Fraction One Half
+0D75: Malayalam Fraction Three Quarters
+0D76:
+0D77:
+0D78:
+0D79: Malayalam Date Mark
+0D7A: Malayalam Letter Chillu Nn
+0D7B: Malayalam Letter Chillu N
+0D7C: Malayalam Letter Chillu Rr
+0D7D: Malayalam Letter Chillu L
+0D7E: Malayalam Letter Chillu Ll
+0D7F: Malayalam Letter Chillu K
+0D80:
+0D81:
+0D82: Sinhala Sign Anusvaraya : anusvara
+0D83: Sinhala Sign Visargaya : visarga
+0D84:
+0D85: Sinhala Letter Ayanna : sinhala letter a
+0D86: Sinhala Letter Aayanna : sinhala letter aa
+0D87: Sinhala Letter Aeyanna : sinhala letter ae
+0D88: Sinhala Letter Aeeyanna : sinhala letter aae
+0D89: Sinhala Letter Iyanna : sinhala letter i
+0D8A: Sinhala Letter Iiyanna : sinhala letter ii
+0D8B: Sinhala Letter Uyanna : sinhala letter u
+0D8C: Sinhala Letter Uuyanna : sinhala letter uu
+0D8D: Sinhala Letter Iruyanna : sinhala letter vocalic r
+0D8E: Sinhala Letter Iruuyanna : sinhala letter vocalic rr
+0D8F: Sinhala Letter Iluyanna : sinhala letter vocalic l
+0D90: Sinhala Letter Iluuyanna : sinhala letter vocalic ll
+0D91: Sinhala Letter Eyanna : sinhala letter e
+0D92: Sinhala Letter Eeyanna : sinhala letter ee
+0D93: Sinhala Letter Aiyanna : sinhala letter ai
+0D94: Sinhala Letter Oyanna : sinhala letter o
+0D95: Sinhala Letter Ooyanna : sinhala letter oo
+0D96: Sinhala Letter Auyanna : sinhala letter au
+0D97:
+0D98:
+0D99:
+0D9A: Sinhala Letter Alpapraana Kayanna : sinhala letter ka
+0D9B: Sinhala Letter Mahaapraana Kayanna : sinhala letter kha
+0D9C: Sinhala Letter Alpapraana Gayanna : sinhala letter ga
+0D9D: Sinhala Letter Mahaapraana Gayanna : sinhala letter gha
+0D9E: Sinhala Letter Kantaja Naasikyaya : sinhala letter nga
+0D9F: Sinhala Letter Sanyaka Gayanna : sinhala letter nnga
+0DA0: Sinhala Letter Alpapraana Cayanna : sinhala letter ca
+0DA1: Sinhala Letter Mahaapraana Cayanna : sinhala letter cha
+0DA2: Sinhala Letter Alpapraana Jayanna : sinhala letter ja
+0DA3: Sinhala Letter Mahaapraana Jayanna : sinhala letter jha
+0DA4: Sinhala Letter Taaluja Naasikyaya : sinhala letter nya
+0DA5: Sinhala Letter Taaluja Sanyooga Naaksikyaya : sinhala letter jnya
+0DA6: Sinhala Letter Sanyaka Jayanna : sinhala letter nyja
+0DA7: Sinhala Letter Alpapraana Ttayanna : sinhala letter tta
+0DA8: Sinhala Letter Mahaapraana Ttayanna : sinhala letter ttha
+0DA9: Sinhala Letter Alpapraana Ddayanna : sinhala letter dda
+0DAA: Sinhala Letter Mahaapraana Ddayanna : sinhala letter ddha
+0DAB: Sinhala Letter Muurdhaja Nayanna : sinhala letter nna
+0DAC: Sinhala Letter Sanyaka Ddayanna : sinhala letter nndda
+0DAD: Sinhala Letter Alpapraana Tayanna : sinhala letter ta
+0DAE: Sinhala Letter Mahaapraana Tayanna : sinhala letter tha
+0DAF: Sinhala Letter Alpapraana Dayanna : sinhala letter da
+0DB0: Sinhala Letter Mahaapraana Dayanna : sinhala letter dha
+0DB1: Sinhala Letter Dantaja Nayanna : sinhala letter na
+0DB2:
+0DB3: Sinhala Letter Sanyaka Dayanna : sinhala letter nda
+0DB4: Sinhala Letter Alpapraana Payanna : sinhala letter pa
+0DB5: Sinhala Letter Mahaapraana Payanna : sinhala letter pha
+0DB6: Sinhala Letter Alpapraana Bayanna : sinhala letter ba
+0DB7: Sinhala Letter Mahaapraana Bayanna : sinhala letter bha
+0DB8: Sinhala Letter Mayanna : sinhala letter ma
+0DB9: Sinhala Letter Amba Bayanna : sinhala letter mba
+0DBA: Sinhala Letter Yayanna : sinhala letter ya
+0DBB: Sinhala Letter Rayanna : sinhala letter ra
+0DBC:
+0DBD: Sinhala Letter Dantaja Layanna : sinhala letter la
+0DBE:
+0DBF:
+0DC0: Sinhala Letter Vayanna : sinhala letter va
+0DC1: Sinhala Letter Taaluja Sayanna : sinhala letter sha
+0DC2: Sinhala Letter Muurdhaja Sayanna : sinhala letter ssa
+0DC3: Sinhala Letter Dantaja Sayanna : sinhala letter sa
+0DC4: Sinhala Letter Hayanna : sinhala letter ha
+0DC5: Sinhala Letter Muurdhaja Layanna : sinhala letter lla
+0DC6: Sinhala Letter Fayanna : sinhala letter fa
+0DC7:
+0DC8:
+0DC9:
+0DCA: Sinhala Sign Al-Lakuna : virama
+0DCB:
+0DCC:
+0DCD:
+0DCE:
+0DCF: Sinhala Vowel Sign Aela-Pilla : sinhala vowel sign aa
+0DD0: Sinhala Vowel Sign Ketti Aeda-Pilla : sinhala vowel sign ae
+0DD1: Sinhala Vowel Sign Diga Aeda-Pilla : sinhala vowel sign aae
+0DD2: Sinhala Vowel Sign Ketti Is-Pilla : sinhala vowel sign i
+0DD3: Sinhala Vowel Sign Diga Is-Pilla : sinhala vowel sign ii
+0DD4: Sinhala Vowel Sign Ketti Paa-Pilla : sinhala vowel sign u
+0DD5:
+0DD6: Sinhala Vowel Sign Diga Paa-Pilla : sinhala vowel sign uu
+0DD7:
+0DD8: Sinhala Vowel Sign Gaetta-Pilla : sinhala vowel sign vocalic r
+0DD9: Sinhala Vowel Sign Kombuva : sinhala vowel sign e
+0DDA: Sinhala Vowel Sign Diga Kombuva : sinhala vowel sign ee
+0DDB: Sinhala Vowel Sign Kombu Deka : sinhala vowel sign ai
+0DDC: Sinhala Vowel Sign Kombuva Haa Aela-Pilla : sinhala vowel sign o
+0DDD: Sinhala Vowel Sign Kombuva Haa Diga Aela-Pilla : sinhala vowel sign oo
+0DDE: Sinhala Vowel Sign Kombuva Haa Gayanukitta : sinhala vowel sign au
+0DDF: Sinhala Vowel Sign Gayanukitta : sinhala vowel sign vocalic l
+0DE0:
+0DE1:
+0DE2:
+0DE3:
+0DE4:
+0DE5:
+0DE6: Sinhala Lith Digit Zero
+0DE7: Sinhala Lith Digit One
+0DE8: Sinhala Lith Digit Two
+0DE9: Sinhala Lith Digit Three
+0DEA: Sinhala Lith Digit Four
+0DEB: Sinhala Lith Digit Five
+0DEC: Sinhala Lith Digit Six
+0DED: Sinhala Lith Digit Seven
+0DEE: Sinhala Lith Digit Eight
+0DEF: Sinhala Lith Digit Nine
+0DF0:
+0DF1:
+0DF2: Sinhala Vowel Sign Diga Gaetta-Pilla : sinhala vowel sign vocalic rr
+0DF3: Sinhala Vowel Sign Diga Gayanukitta : sinhala vowel sign vocalic ll
+0DF4: Sinhala Punctuation Kunddaliya
+0DF5:
+0DF6:
+0DF7:
+0DF8:
+0DF9:
+0DFA:
+0DFB:
+0DFC:
+0DFD:
+0DFE:
+0DFF:

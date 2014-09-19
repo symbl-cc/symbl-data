@@ -1,256 +1,256 @@
-A100 : Yi syllable dit
-A101 : Yi syllable dix
-A102 : Yi syllable di
-A103 : Yi syllable dip
-A104 : Yi syllable diex
-A105 : Yi syllable die
-A106 : Yi syllable diep
-A107 : Yi syllable dat
-A108 : Yi syllable dax
-A109 : Yi syllable da
-A10A : Yi syllable dap
-A10B : Yi syllable duox
-A10C : Yi syllable duo
-A10D : Yi syllable dot
-A10E : Yi syllable dox
-A10F : Yi syllable do
-A110 : Yi syllable dop
-A111 : Yi syllable dex
-A112 : Yi syllable de
-A113 : Yi syllable dep
-A114 : Yi syllable dut
-A115 : Yi syllable dux
-A116 : Yi syllable du
-A117 : Yi syllable dup
-A118 : Yi syllable durx
-A119 : Yi syllable dur
-A11A : Yi syllable tit
-A11B : Yi syllable tix
-A11C : Yi syllable ti
-A11D : Yi syllable tip
-A11E : Yi syllable tiex
-A11F : Yi syllable tie
-A120 : Yi syllable tiep
-A121 : Yi syllable tat
-A122 : Yi syllable tax
-A123 : Yi syllable ta
-A124 : Yi syllable tap
-A125 : Yi syllable tuot
-A126 : Yi syllable tuox
-A127 : Yi syllable tuo
-A128 : Yi syllable tuop
-A129 : Yi syllable tot
-A12A : Yi syllable tox
-A12B : Yi syllable to
-A12C : Yi syllable top
-A12D : Yi syllable tex
-A12E : Yi syllable te
-A12F : Yi syllable tep
-A130 : Yi syllable tut
-A131 : Yi syllable tux
-A132 : Yi syllable tu
-A133 : Yi syllable tup
-A134 : Yi syllable turx
-A135 : Yi syllable tur
-A136 : Yi syllable ddit
-A137 : Yi syllable ddix
-A138 : Yi syllable ddi
-A139 : Yi syllable ddip
-A13A : Yi syllable ddiex
-A13B : Yi syllable ddie
-A13C : Yi syllable ddiep
-A13D : Yi syllable ddat
-A13E : Yi syllable ddax
-A13F : Yi syllable dda
-A140 : Yi syllable ddap
-A141 : Yi syllable dduox
-A142 : Yi syllable dduo
-A143 : Yi syllable dduop
-A144 : Yi syllable ddot
-A145 : Yi syllable ddox
-A146 : Yi syllable ddo
-A147 : Yi syllable ddop
-A148 : Yi syllable ddex
-A149 : Yi syllable dde
-A14A : Yi syllable ddep
-A14B : Yi syllable ddut
-A14C : Yi syllable ddux
-A14D : Yi syllable ddu
-A14E : Yi syllable ddup
-A14F : Yi syllable ddurx
-A150 : Yi syllable ddur
-A151 : Yi syllable ndit
-A152 : Yi syllable ndix
-A153 : Yi syllable ndi
-A154 : Yi syllable ndip
-A155 : Yi syllable ndiex
-A156 : Yi syllable ndie
-A157 : Yi syllable ndat
-A158 : Yi syllable ndax
-A159 : Yi syllable nda
-A15A : Yi syllable ndap
-A15B : Yi syllable ndot
-A15C : Yi syllable ndox
-A15D : Yi syllable ndo
-A15E : Yi syllable ndop
-A15F : Yi syllable ndex
-A160 : Yi syllable nde
-A161 : Yi syllable ndep
-A162 : Yi syllable ndut
-A163 : Yi syllable ndux
-A164 : Yi syllable ndu
-A165 : Yi syllable ndup
-A166 : Yi syllable ndurx
-A167 : Yi syllable ndur
-A168 : Yi syllable hnit
-A169 : Yi syllable hnix
-A16A : Yi syllable hni
-A16B : Yi syllable hnip
-A16C : Yi syllable hniet
-A16D : Yi syllable hniex
-A16E : Yi syllable hnie
-A16F : Yi syllable hniep
-A170 : Yi syllable hnat
-A171 : Yi syllable hnax
-A172 : Yi syllable hna
-A173 : Yi syllable hnap
-A174 : Yi syllable hnuox
-A175 : Yi syllable hnuo
-A176 : Yi syllable hnot
-A177 : Yi syllable hnox
-A178 : Yi syllable hnop
-A179 : Yi syllable hnex
-A17A : Yi syllable hne
-A17B : Yi syllable hnep
-A17C : Yi syllable hnut
-A17D : Yi syllable nit
-A17E : Yi syllable nix
-A17F : Yi syllable ni
-A180 : Yi syllable nip
-A181 : Yi syllable niex
-A182 : Yi syllable nie
-A183 : Yi syllable niep
-A184 : Yi syllable nax
-A185 : Yi syllable na
-A186 : Yi syllable nap
-A187 : Yi syllable nuox
-A188 : Yi syllable nuo
-A189 : Yi syllable nuop
-A18A : Yi syllable not
-A18B : Yi syllable nox
-A18C : Yi syllable no
-A18D : Yi syllable nop
-A18E : Yi syllable nex
-A18F : Yi syllable ne
-A190 : Yi syllable nep
-A191 : Yi syllable nut
-A192 : Yi syllable nux
-A193 : Yi syllable nu
-A194 : Yi syllable nup
-A195 : Yi syllable nurx
-A196 : Yi syllable nur
-A197 : Yi syllable hlit
-A198 : Yi syllable hlix
-A199 : Yi syllable hli
-A19A : Yi syllable hlip
-A19B : Yi syllable hliex
-A19C : Yi syllable hlie
-A19D : Yi syllable hliep
-A19E : Yi syllable hlat
-A19F : Yi syllable hlax
-A1A0 : Yi syllable hla
-A1A1 : Yi syllable hlap
-A1A2 : Yi syllable hluox
-A1A3 : Yi syllable hluo
-A1A4 : Yi syllable hluop
-A1A5 : Yi syllable hlox
-A1A6 : Yi syllable hlo
-A1A7 : Yi syllable hlop
-A1A8 : Yi syllable hlex
-A1A9 : Yi syllable hle
-A1AA : Yi syllable hlep
-A1AB : Yi syllable hlut
-A1AC : Yi syllable hlux
-A1AD : Yi syllable hlu
-A1AE : Yi syllable hlup
-A1AF : Yi syllable hlurx
-A1B0 : Yi syllable hlur
-A1B1 : Yi syllable hlyt
-A1B2 : Yi syllable hlyx
-A1B3 : Yi syllable hly
-A1B4 : Yi syllable hlyp
-A1B5 : Yi syllable hlyrx
-A1B6 : Yi syllable hlyr
-A1B7 : Yi syllable lit
-A1B8 : Yi syllable lix
-A1B9 : Yi syllable li
-A1BA : Yi syllable lip
-A1BB : Yi syllable liet
-A1BC : Yi syllable liex
-A1BD : Yi syllable lie
-A1BE : Yi syllable liep
-A1BF : Yi syllable lat
-A1C0 : Yi syllable lax
-A1C1 : Yi syllable la
-A1C2 : Yi syllable lap
-A1C3 : Yi syllable luot
-A1C4 : Yi syllable luox
-A1C5 : Yi syllable luo
-A1C6 : Yi syllable luop
-A1C7 : Yi syllable lot
-A1C8 : Yi syllable lox
-A1C9 : Yi syllable lo
-A1CA : Yi syllable lop
-A1CB : Yi syllable lex
-A1CC : Yi syllable le
-A1CD : Yi syllable lep
-A1CE : Yi syllable lut
-A1CF : Yi syllable lux
-A1D0 : Yi syllable lu
-A1D1 : Yi syllable lup
-A1D2 : Yi syllable lurx
-A1D3 : Yi syllable lur
-A1D4 : Yi syllable lyt
-A1D5 : Yi syllable lyx
-A1D6 : Yi syllable ly
-A1D7 : Yi syllable lyp
-A1D8 : Yi syllable lyrx
-A1D9 : Yi syllable lyr
-A1DA : Yi syllable git
-A1DB : Yi syllable gix
-A1DC : Yi syllable gi
-A1DD : Yi syllable gip
-A1DE : Yi syllable giet
-A1DF : Yi syllable giex
-A1E0 : Yi syllable gie
-A1E1 : Yi syllable giep
-A1E2 : Yi syllable gat
-A1E3 : Yi syllable gax
-A1E4 : Yi syllable ga
-A1E5 : Yi syllable gap
-A1E6 : Yi syllable guot
-A1E7 : Yi syllable guox
-A1E8 : Yi syllable guo
-A1E9 : Yi syllable guop
-A1EA : Yi syllable got
-A1EB : Yi syllable gox
-A1EC : Yi syllable go
-A1ED : Yi syllable gop
-A1EE : Yi syllable get
-A1EF : Yi syllable gex
-A1F0 : Yi syllable ge
-A1F1 : Yi syllable gep
-A1F2 : Yi syllable gut
-A1F3 : Yi syllable gux
-A1F4 : Yi syllable gu
-A1F5 : Yi syllable gup
-A1F6 : Yi syllable gurx
-A1F7 : Yi syllable gur
-A1F8 : Yi syllable kit
-A1F9 : Yi syllable kix
-A1FA : Yi syllable ki
-A1FB : Yi syllable kip
-A1FC : Yi syllable kiex
-A1FD : Yi syllable kie
-A1FE : Yi syllable kiep
-A1FF : Yi syllable kat
+A100: Yi Syllable Dit
+A101: Yi Syllable Dix
+A102: Yi Syllable Di
+A103: Yi Syllable Dip
+A104: Yi Syllable Diex
+A105: Yi Syllable Die
+A106: Yi Syllable Diep
+A107: Yi Syllable Dat
+A108: Yi Syllable Dax
+A109: Yi Syllable Da
+A10A: Yi Syllable Dap
+A10B: Yi Syllable Duox
+A10C: Yi Syllable Duo
+A10D: Yi Syllable Dot
+A10E: Yi Syllable Dox
+A10F: Yi Syllable Do
+A110: Yi Syllable Dop
+A111: Yi Syllable Dex
+A112: Yi Syllable De
+A113: Yi Syllable Dep
+A114: Yi Syllable Dut
+A115: Yi Syllable Dux
+A116: Yi Syllable Du
+A117: Yi Syllable Dup
+A118: Yi Syllable Durx
+A119: Yi Syllable Dur
+A11A: Yi Syllable Tit
+A11B: Yi Syllable Tix
+A11C: Yi Syllable Ti
+A11D: Yi Syllable Tip
+A11E: Yi Syllable Tiex
+A11F: Yi Syllable Tie
+A120: Yi Syllable Tiep
+A121: Yi Syllable Tat
+A122: Yi Syllable Tax
+A123: Yi Syllable Ta
+A124: Yi Syllable Tap
+A125: Yi Syllable Tuot
+A126: Yi Syllable Tuox
+A127: Yi Syllable Tuo
+A128: Yi Syllable Tuop
+A129: Yi Syllable Tot
+A12A: Yi Syllable Tox
+A12B: Yi Syllable to
+A12C: Yi Syllable Top
+A12D: Yi Syllable Tex
+A12E: Yi Syllable Te
+A12F: Yi Syllable Tep
+A130: Yi Syllable Tut
+A131: Yi Syllable Tux
+A132: Yi Syllable Tu
+A133: Yi Syllable Tup
+A134: Yi Syllable Turx
+A135: Yi Syllable Tur
+A136: Yi Syllable Ddit
+A137: Yi Syllable Ddix
+A138: Yi Syllable Ddi
+A139: Yi Syllable Ddip
+A13A: Yi Syllable Ddiex
+A13B: Yi Syllable Ddie
+A13C: Yi Syllable Ddiep
+A13D: Yi Syllable Ddat
+A13E: Yi Syllable Ddax
+A13F: Yi Syllable Dda
+A140: Yi Syllable Ddap
+A141: Yi Syllable Dduox
+A142: Yi Syllable Dduo
+A143: Yi Syllable Dduop
+A144: Yi Syllable Ddot
+A145: Yi Syllable Ddox
+A146: Yi Syllable Ddo
+A147: Yi Syllable Ddop
+A148: Yi Syllable Ddex
+A149: Yi Syllable Dde
+A14A: Yi Syllable Ddep
+A14B: Yi Syllable Ddut
+A14C: Yi Syllable Ddux
+A14D: Yi Syllable Ddu
+A14E: Yi Syllable Ddup
+A14F: Yi Syllable Ddurx
+A150: Yi Syllable Ddur
+A151: Yi Syllable Ndit
+A152: Yi Syllable Ndix
+A153: Yi Syllable Ndi
+A154: Yi Syllable Ndip
+A155: Yi Syllable Ndiex
+A156: Yi Syllable Ndie
+A157: Yi Syllable Ndat
+A158: Yi Syllable Ndax
+A159: Yi Syllable Nda
+A15A: Yi Syllable Ndap
+A15B: Yi Syllable Ndot
+A15C: Yi Syllable Ndox
+A15D: Yi Syllable Ndo
+A15E: Yi Syllable Ndop
+A15F: Yi Syllable Ndex
+A160: Yi Syllable Nde
+A161: Yi Syllable Ndep
+A162: Yi Syllable Ndut
+A163: Yi Syllable Ndux
+A164: Yi Syllable Ndu
+A165: Yi Syllable Ndup
+A166: Yi Syllable Ndurx
+A167: Yi Syllable Ndur
+A168: Yi Syllable Hnit
+A169: Yi Syllable Hnix
+A16A: Yi Syllable Hni
+A16B: Yi Syllable Hnip
+A16C: Yi Syllable Hniet
+A16D: Yi Syllable Hniex
+A16E: Yi Syllable Hnie
+A16F: Yi Syllable Hniep
+A170: Yi Syllable Hnat
+A171: Yi Syllable Hnax
+A172: Yi Syllable Hna
+A173: Yi Syllable Hnap
+A174: Yi Syllable Hnuox
+A175: Yi Syllable Hnuo
+A176: Yi Syllable Hnot
+A177: Yi Syllable Hnox
+A178: Yi Syllable Hnop
+A179: Yi Syllable Hnex
+A17A: Yi Syllable Hne
+A17B: Yi Syllable Hnep
+A17C: Yi Syllable Hnut
+A17D: Yi Syllable Nit
+A17E: Yi Syllable Nix
+A17F: Yi Syllable Ni
+A180: Yi Syllable Nip
+A181: Yi Syllable Niex
+A182: Yi Syllable Nie
+A183: Yi Syllable Niep
+A184: Yi Syllable Nax
+A185: Yi Syllable Na
+A186: Yi Syllable Nap
+A187: Yi Syllable Nuox
+A188: Yi Syllable Nuo
+A189: Yi Syllable Nuop
+A18A: Yi Syllable Not
+A18B: Yi Syllable Nox
+A18C: Yi Syllable No
+A18D: Yi Syllable Nop
+A18E: Yi Syllable Nex
+A18F: Yi Syllable Ne
+A190: Yi Syllable Nep
+A191: Yi Syllable Nut
+A192: Yi Syllable Nux
+A193: Yi Syllable Nu
+A194: Yi Syllable Nup
+A195: Yi Syllable Nurx
+A196: Yi Syllable Nur
+A197: Yi Syllable Hlit
+A198: Yi Syllable Hlix
+A199: Yi Syllable Hli
+A19A: Yi Syllable Hlip
+A19B: Yi Syllable Hliex
+A19C: Yi Syllable Hlie
+A19D: Yi Syllable Hliep
+A19E: Yi Syllable Hlat
+A19F: Yi Syllable Hlax
+A1A0: Yi Syllable Hla
+A1A1: Yi Syllable Hlap
+A1A2: Yi Syllable Hluox
+A1A3: Yi Syllable Hluo
+A1A4: Yi Syllable Hluop
+A1A5: Yi Syllable Hlox
+A1A6: Yi Syllable Hlo
+A1A7: Yi Syllable Hlop
+A1A8: Yi Syllable Hlex
+A1A9: Yi Syllable Hle
+A1AA: Yi Syllable Hlep
+A1AB: Yi Syllable Hlut
+A1AC: Yi Syllable Hlux
+A1AD: Yi Syllable Hlu
+A1AE: Yi Syllable Hlup
+A1AF: Yi Syllable Hlurx
+A1B0: Yi Syllable Hlur
+A1B1: Yi Syllable Hlyt
+A1B2: Yi Syllable Hlyx
+A1B3: Yi Syllable Hly
+A1B4: Yi Syllable Hlyp
+A1B5: Yi Syllable Hlyrx
+A1B6: Yi Syllable Hlyr
+A1B7: Yi Syllable Lit
+A1B8: Yi Syllable Lix
+A1B9: Yi Syllable Li
+A1BA: Yi Syllable Lip
+A1BB: Yi Syllable Liet
+A1BC: Yi Syllable Liex
+A1BD: Yi Syllable Lie
+A1BE: Yi Syllable Liep
+A1BF: Yi Syllable Lat
+A1C0: Yi Syllable Lax
+A1C1: Yi Syllable La
+A1C2: Yi Syllable Lap
+A1C3: Yi Syllable Luot
+A1C4: Yi Syllable Luox
+A1C5: Yi Syllable Luo
+A1C6: Yi Syllable Luop
+A1C7: Yi Syllable Lot
+A1C8: Yi Syllable Lox
+A1C9: Yi Syllable Lo
+A1CA: Yi Syllable Lop
+A1CB: Yi Syllable Lex
+A1CC: Yi Syllable Le
+A1CD: Yi Syllable Lep
+A1CE: Yi Syllable Lut
+A1CF: Yi Syllable Lux
+A1D0: Yi Syllable Lu
+A1D1: Yi Syllable Lup
+A1D2: Yi Syllable Lurx
+A1D3: Yi Syllable Lur
+A1D4: Yi Syllable Lyt
+A1D5: Yi Syllable Lyx
+A1D6: Yi Syllable Ly
+A1D7: Yi Syllable Lyp
+A1D8: Yi Syllable Lyrx
+A1D9: Yi Syllable Lyr
+A1DA: Yi Syllable Git
+A1DB: Yi Syllable Gix
+A1DC: Yi Syllable Gi
+A1DD: Yi Syllable Gip
+A1DE: Yi Syllable Giet
+A1DF: Yi Syllable Giex
+A1E0: Yi Syllable Gie
+A1E1: Yi Syllable Giep
+A1E2: Yi Syllable Gat
+A1E3: Yi Syllable Gax
+A1E4: Yi Syllable Ga
+A1E5: Yi Syllable Gap
+A1E6: Yi Syllable Guot
+A1E7: Yi Syllable Guox
+A1E8: Yi Syllable Guo
+A1E9: Yi Syllable Guop
+A1EA: Yi Syllable Got
+A1EB: Yi Syllable Gox
+A1EC: Yi Syllable Go
+A1ED: Yi Syllable Gop
+A1EE: Yi Syllable Get
+A1EF: Yi Syllable Gex
+A1F0: Yi Syllable Ge
+A1F1: Yi Syllable Gep
+A1F2: Yi Syllable Gut
+A1F3: Yi Syllable Gux
+A1F4: Yi Syllable Gu
+A1F5: Yi Syllable Gup
+A1F6: Yi Syllable Gurx
+A1F7: Yi Syllable Gur
+A1F8: Yi Syllable Kit
+A1F9: Yi Syllable Kix
+A1FA: Yi Syllable Ki
+A1FB: Yi Syllable Kip
+A1FC: Yi Syllable Kiex
+A1FD: Yi Syllable Kie
+A1FE: Yi Syllable Kiep
+A1FF: Yi Syllable Kat

@@ -1,256 +1,256 @@
-2000 : En quad
-2001 : Em quad
-2002 : En space
-2003 : Em space
-2004 : Three-per-em space
-2005 : Four-per-em space
-2006 : Six-per-em space
-2007 : Figure space
-2008 : Punctuation space
-2009 : Thin space
-200A : Hair space
-200B : Zero width space
-200C : Zero width non-joiner
-200D : Zero width joiner
-200E : Left-to-right mark
-200F : Right-to-left mark
-2010 : Hyphen
-2011 : Non-breaking hyphen
-2012 : Figure dash
-2013 : En dash
-2014 : Em dash
-2015 : Horizontal bar
-2016 : Double vertical line
-2017 : Double low line
-2018 : Left single quotation mark
-2019 : Right single quotation mark
-201A : Single low-9 quotation mark
-201B : Single high-reversed-9 quotation mark
-201C : Left double quotation mark
-201D : Right double quotation mark
-201E : Double low-9 quotation mark
-201F : Double high-reversed-9 quotation mark
-2020 : Dagger
-2021 : Double dagger
-2022 : Bullet
-2023 : Triangular bullet
-2024 : One dot leader
-2025 : Two dot leader
-2026 : Horizontal ellipsis
-2027 : Hyphenation point
-2028 : Line separator
-2029 : Paragraph separator
-202A : Left-to-right embedding
-202B : Right-to-left embedding
-202C : Pop directional formatting
-202D : Left-to-right override
-202E : Right-to-left override
-202F : Narrow no-break space
-2030 : Per mille sign
-2031 : Per ten thousand sign
-2032 : Prime
-2033 : Double prime
-2034 : Triple prime
-2035 : Reversed prime
-2036 : Reversed double prime
-2037 : Reversed triple prime
-2038 : Caret
-2039 : Single left-pointing angle quotation mark
-203A : Single right-pointing angle quotation mark
-203B : Reference mark
-203C : Double exclamation mark
-203D : Interrobang
-203E : Overline
-203F : Undertie
-2040 : Character tie
-2041 : Caret insertion point
-2042 : Asterism
-2043 : Hyphen bullet
-2044 : Fraction slash
-2045 : Left square bracket with quill
-2046 : Right square bracket with quill
-2047 : Double question mark
-2048 : Question exclamation mark
-2049 : Exclamation question mark
-204A : Tironian sign et
-204B : Reversed pilcrow sign
-204C : Black leftwards bullet
-204D : Black rightwards bullet
-204E : Low asterisk
-204F : Reversed semicolon
-2050 : Close up
-2051 : Two asterisks aligned vertically
-2052 : Commercial minus sign
-2053 : Swung dash
-2054 : Inverted undertie
-2055 : Flower punctuation mark
-2056 : Three dot punctuation
-2057 : Quadruple prime
-2058 : Four dot punctuation
-2059 : Five dot punctuation
-205A : Two dot punctuation
-205B : Four dot mark
-205C : Dotted cross
-205D : Tricolon
-205E : Vertical four dots
-205F : Medium mathematical space
-2060 : Word joiner
-2061 : Function application
-2062 : Invisible times
-2063 : Invisible separator
-2064 : Invisible plus
-2065 : 
-2066 : 
-2067 : 
-2068 : 
-2069 : 
-206A : Inhibit symmetric swapping
-206B : Activate symmetric swapping
-206C : Inhibit arabic form shaping
-206D : Activate arabic form shaping
-206E : National digit shapes
-206F : Nominal digit shapes
-2070 : Superscript zero
-2071 : Superscript latin small letter i
-2072 : 
-2073 : 
-2074 : Superscript four
-2075 : Superscript five
-2076 : Superscript six
-2077 : Superscript seven
-2078 : Superscript eight
-2079 : Superscript nine
-207A : Superscript plus sign
-207B : Superscript minus
-207C : Superscript equals sign
-207D : Superscript left parenthesis
-207E : Superscript right parenthesis
-207F : Superscript latin small letter n
-2080 : Subscript zero
-2081 : Subscript one
-2082 : Subscript two
-2083 : Subscript three
-2084 : Subscript four
-2085 : Subscript five
-2086 : Subscript six
-2087 : Subscript seven
-2088 : Subscript eight
-2089 : Subscript nine
-208A : Subscript plus sign
-208B : Subscript minus
-208C : Subscript equals sign
-208D : Subscript left parenthesis
-208E : Subscript right parenthesis
-208F : 
-2090 : Latin subscript small letter a
-2091 : Latin subscript small letter e
-2092 : Latin subscript small letter o
-2093 : Latin subscript small letter x
-2094 : Latin subscript small letter schwa
-2095 : 
-2096 : 
-2097 : 
-2098 : 
-2099 : 
-209A : 
-209B : 
-209C : 
-209D : 
-209E : 
-209F : 
-20A0 : Euro-currency sign
-20A1 : Colon sign
-20A2 : Cruzeiro sign
-20A3 : French franc sign
-20A4 : Lira sign
-20A5 : Mill sign
-20A6 : Naira sign
-20A7 : Peseta sign
-20A8 : Rupee sign
-20A9 : Won sign
-20AA : New sheqel sign
-20AB : Dong sign
-20AC : Euro sign
-20AD : Kip sign
-20AE : Tugrik sign
-20AF : Drachma sign
-20B0 : German penny sign
-20B1 : Peso sign
-20B2 : Guarani sign
-20B3 : Austral sign
-20B4 : Hryvnia sign
-20B5 : Cedi sign
-20B6 : Livre tournois sign
-20B7 : Spesmilo sign
-20B8 : Tenge sign
-20B9 : Rupee sign
-20BA : Turkish lira sign
-20BB : 
-20BC : 
-20BD : Russian rouble sign : ruble, rur, rub
-20BE : 
-20BF : 
-20C0 : 
-20C1 : 
-20C2 : 
-20C3 : 
-20C4 : 
-20C5 : 
-20C6 : 
-20C7 : 
-20C8 : 
-20C9 : 
-20CA : 
-20CB : 
-20CC : 
-20CD : 
-20CE : 
-20CF : 
-20D0 : Combining left harpoon above
-20D1 : Combining right harpoon above
-20D2 : Combining long vertical line overlay
-20D3 : Combining short vertical line overlay
-20D4 : Combining anticlockwise arrow above
-20D5 : Combining clockwise arrow above
-20D6 : Combining left arrow above
-20D7 : Combining right arrow above
-20D8 : Combining ring overlay
-20D9 : Combining clockwise ring overlay
-20DA : Combining anticlockwise ring overlay
-20DB : Combining three dots above
-20DC : Combining four dots above
-20DD : Combining enclosing circle
-20DE : Combining enclosing square
-20DF : Combining enclosing diamond
-20E0 : Combining enclosing circle backslash : ban, disable
-20E1 : Combining left right arrow above
-20E2 : Combining enclosing screen
-20E3 : Combining enclosing keycap
-20E4 : Combining enclosing upward pointing triangle
-20E5 : Combining reverse solidus overlay
-20E6 : Combining double vertical stroke overlay
-20E7 : Combining annuity symbol
-20E8 : Combining triple underdot
-20E9 : Combining wide bridge above
-20EA : Combining leftwards arrow overlay
-20EB : Combining long double solidus overlay
-20EC : Combining rightwards harpoon with barb downwards
-20ED : Combining leftwards harpoon with barb downwards
-20EE : Combining left arrow below
-20EF : Combining right arrow below
-20F0 : Combining asterisk above
-20F1 : 
-20F2 : 
-20F3 : 
-20F4 : 
-20F5 : 
-20F6 : 
-20F7 : 
-20F8 : 
-20F9 : 
-20FA : 
-20FB : 
-20FC : 
-20FD : 
-20FE : 
-20FF : 
+2000: En Quad
+2001: Em Quad : mutton quad
+2002: En Space : nut
+2003: Em Space : mutton
+2004: Three-Per-Em Space : thick space
+2005: Four-Per-Em Space : mid space
+2006: Six-Per-Em Space
+2007: Figure Space
+2008: Punctuation Space
+2009: Thin Space
+200A: Hair Space
+200B: Zero Width Space
+200C: Zero Width Non-Joiner
+200D: Zero Width Joiner
+200E: Left-to-Right Mark
+200F: Right-to-Left Mark
+2010: Hyphen
+2011: Non-Breaking Hyphen
+2012: Figure Dash
+2013: En Dash
+2014: Em Dash
+2015: Horizontal Bar : quotation dash
+2016: Double Vertical Line
+2017: Double Low Line
+2018: Left Single Quotation Mark : single turned comma quotation mark
+2019: Right Single Quotation Mark : single comma quotation mark
+201A: Single Low-9 Quotation Mark : low single comma quotation mark
+201B: Single High-Reversed-9 Quotation Mark : single reversed comma quotation mark
+201C: Left Double Quotation Mark : double turned comma quotation mark
+201D: Right Double Quotation Mark : double comma quotation mark
+201E: Double Low-9 Quotation Mark : low double comma quotation mark
+201F: Double High-Reversed-9 Quotation Mark : double reversed comma quotation mark
+2020: Dagger : obelisk, long cross, oblong cross
+2021: Double Dagger : diesis, double obelisk
+2022: Bullet : black small circle
+2023: Triangular Bullet
+2024: One Dot Leader
+2025: Two Dot Leader
+2026: Horizontal Ellipsis : three dot leader
+2027: Hyphenation Point
+2028: Line Separator
+2029: Paragraph Separator
+202A: Left-to-Right Embedding
+202B: Right-to-Left Embedding
+202C: Pop Directional Formatting
+202D: Left-to-Right Override
+202E: Right-to-Left Override
+202F: Narrow No-Break Space
+2030: Per Mille Sign : permille, per thousand
+2031: Per Ten Thousand Sign : permyriad
+2032: Prime : minutes, feet
+2033: Double Prime : seconds, inches
+2034: Triple Prime : lines (old measure, 1/12 of an inch)
+2035: Reversed Prime
+2036: Reversed Double Prime
+2037: Reversed Triple Prime
+2038: Caret
+2039: Single Left-Pointing Angle Quotation Mark : left pointing single guillemet
+203A: Single Right-Pointing Angle Quotation Mark : right pointing single guillemet
+203B: Reference Mark : japanese kome : urdu paragraph separator
+203C: Double Exclamation Mark
+203D: Interrobang
+203E: Overline : spacing overscore
+203F: Undertie : greek enotikon
+2040: Character Tie : z notation sequence concatenation
+2041: Caret Insertion Point
+2042: Asterism
+2043: Hyphen Bullet
+2044: Fraction Slash : solidus (in typography)
+2045: Left Square Bracket with Quill
+2046: Right Square Bracket with Quill
+2047: Double Question Mark
+2048: Question Exclamation Mark
+2049: Exclamation Question Mark
+204A: Tironian Sign Et
+204B: Reversed Pilcrow Sign
+204C: Black Leftwards Bullet
+204D: Black Rightwards Bullet
+204E: Low Asterisk
+204F: Reversed Semicolon
+2050: Close Up
+2051: Two Asterisks Aligned Vertically
+2052: Commercial Minus Sign : abzüglich (german), med avdrag av (swedish), piska (swedish, "whip")
+2053: Swung Dash
+2054: Inverted Undertie
+2055: Flower Punctuation Mark : phul, puspika
+2056: Three Dot Punctuation
+2057: Quadruple Prime
+2058: Four Dot Punctuation
+2059: Five Dot Punctuation : greek pentonkion : quincunx
+205A: Two Dot Punctuation
+205B: Four Dot Mark
+205C: Dotted Cross
+205D: Tricolon : epidaurean acrophonic symbol three
+205E: Vertical Four Dots
+205F: Medium Mathematical Space
+2060: Word Joiner
+2061: Function Application
+2062: Invisible Times
+2063: Invisible Separator : invisible comma
+2064: Invisible Plus
+2065:
+2066: Left-to-Right Isolate
+2067: Right-to-Left Isolate
+2068: First Strong Isolate
+2069: Pop Directional Isolate
+206A: Inhibit Symmetric Swapping
+206B: Activate Symmetric Swapping
+206C: Inhibit Arabic Form Shaping
+206D: Activate Arabic Form Shaping
+206E: National Digit Shapes
+206F: Nominal Digit Shapes
+2070: Superscript Zero
+2071: Superscript Latin Small Letter I
+2072: <Reserved>
+2073: <Reserved>
+2074: Superscript Four
+2075: Superscript Five
+2076: Superscript Six
+2077: Superscript Seven
+2078: Superscript Eight
+2079: Superscript Nine
+207A: Superscript Plus Sign
+207B: Superscript Minus
+207C: Superscript Equals Sign
+207D: Superscript Left Parenthesis
+207E: Superscript Right Parenthesis
+207F: Superscript Latin Small Letter N
+2080: Subscript Zero
+2081: Subscript One
+2082: Subscript Two
+2083: Subscript Three
+2084: Subscript Four
+2085: Subscript Five
+2086: Subscript Six
+2087: Subscript Seven
+2088: Subscript Eight
+2089: Subscript Nine
+208A: Subscript Plus Sign
+208B: Subscript Minus
+208C: Subscript Equals Sign
+208D: Subscript Left Parenthesis
+208E: Subscript Right Parenthesis
+208F:
+2090: Latin Subscript Small Letter A
+2091: Latin Subscript Small Letter E
+2092: Latin Subscript Small Letter O
+2093: Latin Subscript Small Letter X
+2094: Latin Subscript Small Letter Schwa
+2095: Latin Subscript Small Letter H
+2096: Latin Subscript Small Letter K
+2097: Latin Subscript Small Letter L
+2098: Latin Subscript Small Letter M
+2099: Latin Subscript Small Letter N
+209A: Latin Subscript Small Letter P
+209B: Latin Subscript Small Letter S
+209C: Latin Subscript Small Letter T
+209D:
+209E:
+209F:
+20A0: Euro-Currency Sign
+20A1: Colon Sign
+20A2: Cruzeiro Sign
+20A3: French Franc Sign
+20A4: Lira Sign
+20A5: Mill Sign
+20A6: Naira Sign
+20A7: Peseta Sign
+20A8: Rupee Sign
+20A9: Won Sign
+20AA: New Sheqel Sign
+20AB: Dong Sign
+20AC: Euro Sign
+20AD: Kip Sign
+20AE: Tugrik Sign
+20AF: Drachma Sign
+20B0: German Penny Sign
+20B1: Peso Sign : filipino peso sign
+20B2: Guarani Sign
+20B3: Austral Sign
+20B4: Hryvnia Sign
+20B5: Cedi Sign
+20B6: Livre Tournois Sign
+20B7: Spesmilo Sign
+20B8: Tenge Sign
+20B9: Indian Rupee Sign
+20BA: Turkish Lira Sign
+20BB: Nordic Mark Sign
+20BC: Manat Sign
+20BD: Russian Ruble Sign : ruble, rur, rub
+20BE:
+20BF:
+20C0:
+20C1:
+20C2:
+20C3:
+20C4:
+20C5:
+20C6:
+20C7:
+20C8:
+20C9:
+20CA:
+20CB:
+20CC:
+20CD:
+20CE:
+20CF:
+20D0: Combining Left Harpoon Above
+20D1: Combining Right Harpoon Above
+20D2: Combining Long Vertical Line Overlay
+20D3: Combining Short Vertical Line Overlay
+20D4: Combining Anticlockwise Arrow Above
+20D5: Combining Clockwise Arrow Above
+20D6: Combining Left Arrow Above
+20D7: Combining Right Arrow Above
+20D8: Combining Ring Overlay
+20D9: Combining Clockwise Ring Overlay
+20DA: Combining Anticlockwise Ring Overlay
+20DB: Combining Three Dots Above : third derivative
+20DC: Combining Four Dots Above : fourth derivative
+20DD: Combining Enclosing Circle : jis composition circle : cyrillic combining ten thousands sign
+20DE: Combining Enclosing Square
+20DF: Combining Enclosing Diamond
+20E0: Combining Enclosing Circle Backslash : ban, disable
+20E1: Combining Left Right Arrow Above
+20E2: Combining Enclosing Screen
+20E3: Combining Enclosing Keycap
+20E4: Combining Enclosing Upward Pointing Triangle
+20E5: Combining Reverse Solidus Overlay
+20E6: Combining Double Vertical Stroke Overlay : z notation finite function diacritic
+20E7: Combining Annuity Symbol : actuarial bend
+20E8: Combining Triple Underdot
+20E9: Combining Wide Bridge Above : contraction operator
+20EA: Combining Leftwards Arrow Overlay
+20EB: Combining Long Double Solidus Overlay : long double slash overlay
+20EC: Combining Rightwards Harpoon with Barb Downwards
+20ED: Combining Leftwards Harpoon with Barb Downwards
+20EE: Combining Left Arrow Below
+20EF: Combining Right Arrow Below
+20F0: Combining Asterisk Above
+20F1:
+20F2:
+20F3:
+20F4:
+20F5:
+20F6:
+20F7:
+20F8:
+20F9:
+20FA:
+20FB:
+20FC:
+20FD:
+20FE:
+20FF:

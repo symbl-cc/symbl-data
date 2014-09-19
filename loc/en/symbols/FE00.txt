@@ -1,256 +1,256 @@
-FE00 : 
-FE01 : 
-FE02 : 
-FE03 : 
-FE04 : 
-FE05 : 
-FE06 : 
-FE07 : 
-FE08 : 
-FE09 : 
-FE0A : 
-FE0B : 
-FE0C : 
-FE0D : 
-FE0E : 
-FE0F : 
-FE10 : 
-FE11 : 
-FE12 : 
-FE13 : 
-FE14 : 
-FE15 : 
-FE16 : 
-FE17 : 
-FE18 : 
-FE19 : 
-FE1A : 
-FE1B : 
-FE1C : 
-FE1D : 
-FE1E : 
-FE1F : 
-FE20 : 
-FE21 : 
-FE22 : 
-FE23 : 
-FE24 : 
-FE25 : 
-FE26 : 
-FE27 : 
-FE28 : 
-FE29 : 
-FE2A : 
-FE2B : 
-FE2C : 
-FE2D : 
-FE2E : 
-FE2F : 
-FE30 : 
-FE31 : 
-FE32 : 
-FE33 : 
-FE34 : 
-FE35 : 
-FE36 : 
-FE37 : 
-FE38 : 
-FE39 : 
-FE3A : 
-FE3B : 
-FE3C : 
-FE3D : 
-FE3E : 
-FE3F : 
-FE40 : 
-FE41 : 
-FE42 : 
-FE43 : 
-FE44 : 
-FE45 : 
-FE46 : 
-FE47 : 
-FE48 : 
-FE49 : 
-FE4A : 
-FE4B : 
-FE4C : 
-FE4D : 
-FE4E : 
-FE4F : 
-FE50 : 
-FE51 : 
-FE52 : 
-FE53 : 
-FE54 : 
-FE55 : 
-FE56 : 
-FE57 : 
-FE58 : 
-FE59 : 
-FE5A : 
-FE5B : 
-FE5C : 
-FE5D : 
-FE5E : 
-FE5F : 
-FE60 : 
-FE61 : 
-FE62 : 
-FE63 : 
-FE64 : 
-FE65 : 
-FE66 : 
-FE67 : 
-FE68 : 
-FE69 : 
-FE6A : 
-FE6B : 
-FE6C : 
-FE6D : 
-FE6E : 
-FE6F : 
-FE70 : 
-FE71 : 
-FE72 : 
-FE73 : 
-FE74 : 
-FE75 : 
-FE76 : 
-FE77 : 
-FE78 : 
-FE79 : 
-FE7A : 
-FE7B : 
-FE7C : 
-FE7D : 
-FE7E : 
-FE7F : 
-FE80 : 
-FE81 : 
-FE82 : 
-FE83 : 
-FE84 : 
-FE85 : 
-FE86 : 
-FE87 : 
-FE88 : 
-FE89 : 
-FE8A : 
-FE8B : 
-FE8C : 
-FE8D : 
-FE8E : 
-FE8F : 
-FE90 : 
-FE91 : 
-FE92 : 
-FE93 : 
-FE94 : 
-FE95 : 
-FE96 : 
-FE97 : 
-FE98 : 
-FE99 : 
-FE9A : 
-FE9B : 
-FE9C : 
-FE9D : 
-FE9E : 
-FE9F : 
-FEA0 : 
-FEA1 : 
-FEA2 : 
-FEA3 : 
-FEA4 : 
-FEA5 : 
-FEA6 : 
-FEA7 : 
-FEA8 : 
-FEA9 : 
-FEAA : 
-FEAB : 
-FEAC : 
-FEAD : 
-FEAE : 
-FEAF : 
-FEB0 : 
-FEB1 : 
-FEB2 : 
-FEB3 : 
-FEB4 : 
-FEB5 : 
-FEB6 : 
-FEB7 : 
-FEB8 : 
-FEB9 : 
-FEBA : 
-FEBB : 
-FEBC : 
-FEBD : 
-FEBE : 
-FEBF : 
-FEC0 : 
-FEC1 : 
-FEC2 : 
-FEC3 : 
-FEC4 : 
-FEC5 : 
-FEC6 : 
-FEC7 : 
-FEC8 : 
-FEC9 : 
-FECA : 
-FECB : 
-FECC : 
-FECD : 
-FECE : 
-FECF : 
-FED0 : 
-FED1 : 
-FED2 : 
-FED3 : 
-FED4 : 
-FED5 : 
-FED6 : 
-FED7 : 
-FED8 : 
-FED9 : 
-FEDA : 
-FEDB : 
-FEDC : 
-FEDD : 
-FEDE : 
-FEDF : 
-FEE0 : 
-FEE1 : 
-FEE2 : 
-FEE3 : 
-FEE4 : 
-FEE5 : 
-FEE6 : 
-FEE7 : 
-FEE8 : 
-FEE9 : 
-FEEA : 
-FEEB : 
-FEEC : 
-FEED : 
-FEEE : 
-FEEF : 
-FEF0 : 
-FEF1 : 
-FEF2 : 
-FEF3 : 
-FEF4 : 
-FEF5 : 
-FEF6 : 
-FEF7 : 
-FEF8 : 
-FEF9 : 
-FEFA : 
-FEFB : 
-FEFC : 
-FEFD : 
-FEFE : 
-FEFF : 
+FE00: Variation Selector-1
+FE01: Variation Selector-2
+FE02: Variation Selector-3
+FE03: Variation Selector-4
+FE04: Variation Selector-5
+FE05: Variation Selector-6
+FE06: Variation Selector-7
+FE07: Variation Selector-8
+FE08: Variation Selector-9
+FE09: Variation Selector-10
+FE0A: Variation Selector-11
+FE0B: Variation Selector-12
+FE0C: Variation Selector-13
+FE0D: Variation Selector-14
+FE0E: Variation Selector-15
+FE0F: Variation Selector-16
+FE10: Presentation Form for Vertical Comma
+FE11: Presentation Form for Vertical Ideographic Comma
+FE12: Presentation Form for Vertical Ideographic Full Stop
+FE13: Presentation Form for Vertical Colon
+FE14: Presentation Form for Vertical Semicolon
+FE15: Presentation Form for Vertical Exclamation Mark
+FE16: Presentation Form for Vertical Question Mark
+FE17: Presentation Form for Vertical Left White Lenticular Bracket
+FE18: Presentation Form for Vertical Right White Lenticular Brakcet
+FE19: Presentation Form for Vertical Horizontal Ellipsis
+FE1A:
+FE1B:
+FE1C:
+FE1D:
+FE1E:
+FE1F:
+FE20: Combining Ligature Left Half
+FE21: Combining Ligature Right Half
+FE22: Combining Double Tilde Left Half
+FE23: Combining Double Tilde Right Half
+FE24: Combining Macron Left Half
+FE25: Combining Macron Right Half
+FE26: Combining Conjoining Macron
+FE27: Combining Ligature Left Half Below
+FE28: Combining Ligature Right Half Below
+FE29: Combining Tilde Left Half Below
+FE2A: Combining Tilde Right Half Below
+FE2B: Combining Macron Left Half Below
+FE2C: Combining Macron Right Half Below
+FE2D: Combining Conjoining Macron Below
+FE2E:
+FE2F:
+FE30: Presentation Form for Vertical Two Dot Leader
+FE31: Presentation Form for Vertical Em Dash
+FE32: Presentation Form for Vertical En Dash
+FE33: Presentation Form for Vertical Low Line
+FE34: Presentation Form for Vertical Wavy Low Line
+FE35: Presentation Form for Vertical Left Parenthesis
+FE36: Presentation Form for Vertical Right Parenthesis
+FE37: Presentation Form for Vertical Left Curly Bracket
+FE38: Presentation Form for Vertical Right Curly Bracket
+FE39: Presentation Form for Vertical Left Tortoise Shell Bracket
+FE3A: Presentation Form for Vertical Right Tortoise Shell Bracket
+FE3B: Presentation Form for Vertical Left Black Lenticular Bracket
+FE3C: Presentation Form for Vertical Right Black Lenticular Bracket
+FE3D: Presentation Form for Vertical Left Double Angle Bracket
+FE3E: Presentation Form for Vertical Right Double Angle Bracket
+FE3F: Presentation Form for Vertical Left Angle Bracket
+FE40: Presentation Form for Vertical Right Angle Bracket
+FE41: Presentation Form for Vertical Left Corner Bracket
+FE42: Presentation Form for Vertical Right Corner Bracket
+FE43: Presentation Form for Vertical Left White Corner Bracket
+FE44: Presentation Form for Vertical Right White Corner Bracket
+FE45: Sesame Dot
+FE46: White Sesame Dot
+FE47: Presentation Form for Vertical Left Square Bracket
+FE48: Presentation Form for Vertical Right Square Bracket
+FE49: Dashed Overline
+FE4A: Centreline Overline
+FE4B: Wavy Overline
+FE4C: Double Wavy Overline
+FE4D: Dashed Low Line
+FE4E: Centreline Low Line
+FE4F: Wavy Low Line
+FE50: Small Comma
+FE51: Small Ideographic Comma
+FE52: Small Full Stop
+FE53:
+FE54: Small Semicolon
+FE55: Small Colon
+FE56: Small Question Mark
+FE57: Small Exclamation Mark
+FE58: Small Em Dash
+FE59: Small Left Parenthesis
+FE5A: Small Right Parenthesis
+FE5B: Small Left Curly Bracket
+FE5C: Small Right Curly Bracket
+FE5D: Small Left Tortoise Shell Bracket
+FE5E: Small Right Tortoise Shell Bracket
+FE5F: Small Number Sign
+FE60: Small Ampersand
+FE61: Small Asterisk
+FE62: Small Plus Sign
+FE63: Small Hyphen-Minus
+FE64: Small Less-Than Sign
+FE65: Small Greater-Than Sign
+FE66: Small Equals Sign
+FE67:
+FE68: Small Reverse Solidus
+FE69: Small Dollar Sign
+FE6A: Small Percent Sign
+FE6B: Small Commercial At
+FE6C:
+FE6D:
+FE6E:
+FE6F:
+FE70: Arabic Fathatan Isolated Form
+FE71: Arabic Tatweel with Fathatan Above
+FE72: Arabic Dammatan Isolated Form
+FE73: Arabic Tail Fragment
+FE74: Arabic Kasratan Isolated Form
+FE75:
+FE76: Arabic Fatha Isolated Form
+FE77: Arabic Fatha Medial Form
+FE78: Arabic Damma Isolated Form
+FE79: Arabic Damma Medial Form
+FE7A: Arabic Kasra Isolated Form
+FE7B: Arabic Kasra Medial Form
+FE7C: Arabic Shadda Isolated Form
+FE7D: Arabic Shadda Medial Form
+FE7E: Arabic Sukun Isolated Form
+FE7F: Arabic Sukun Medial Form
+FE80: Arabic Letter Hamza Isolated Form
+FE81: Arabic Letter Alef with Madda Above Isolated Form
+FE82: Arabic Letter Alef with Madda Above Final Form
+FE83: Arabic Letter Alef with Hamza Above Isolated Form
+FE84: Arabic Letter Alef with Hamza Above Final Form
+FE85: Arabic Letter Waw with Hamza Above Isolated Form
+FE86: Arabic Letter Waw with Hamza Above Final Form
+FE87: Arabic Letter Alef with Hamza Below Isolated Form
+FE88: Arabic Letter Alef with Hamza Below Final Form
+FE89: Arabic Letter Yeh with Hamza Above Isolated Form
+FE8A: Arabic Letter Yeh with Hamza Above Final Form
+FE8B: Arabic Letter Yeh with Hamza Above Initial Form
+FE8C: Arabic Letter Yeh with Hamza Above Medial Form
+FE8D: Arabic Letter Alef Isolated Form
+FE8E: Arabic Letter Alef Final Form
+FE8F: Arabic Letter Beh Isolated Form
+FE90: Arabic Letter Beh Final Form
+FE91: Arabic Letter Beh Initial Form
+FE92: Arabic Letter Beh Medial Form
+FE93: Arabic Letter Teh Marbuta Isolated Form
+FE94: Arabic Letter Teh Marbuta Final Form
+FE95: Arabic Letter Teh Isolated Form
+FE96: Arabic Letter Teh Final Form
+FE97: Arabic Letter Teh Initial Form
+FE98: Arabic Letter Teh Medial Form
+FE99: Arabic Letter Theh Isolated Form
+FE9A: Arabic Letter Theh Final Form
+FE9B: Arabic Letter Theh Initial Form
+FE9C: Arabic Letter Theh Medial Form
+FE9D: Arabic Letter Jeem Isolated Form
+FE9E: Arabic Letter Jeem Final Form
+FE9F: Arabic Letter Jeem Initial Form
+FEA0: Arabic Letter Jeem Medial Form
+FEA1: Arabic Letter Hah Isolated Form
+FEA2: Arabic Letter Hah Final Form
+FEA3: Arabic Letter Hah Initial Form
+FEA4: Arabic Letter Hah Medial Form
+FEA5: Arabic Letter Khah Isolated Form
+FEA6: Arabic Letter Khah Final Form
+FEA7: Arabic Letter Khah Initial Form
+FEA8: Arabic Letter Khah Medial Form
+FEA9: Arabic Letter Dal Isolated Form
+FEAA: Arabic Letter Dal Final Form
+FEAB: Arabic Letter Thal Isolated Form
+FEAC: Arabic Letter Thal Final Form
+FEAD: Arabic Letter Reh Isolated Form
+FEAE: Arabic Letter Reh Final Form
+FEAF: Arabic Letter Zain Isolated Form
+FEB0: Arabic Letter Zain Final Form
+FEB1: Arabic Letter Seen Isolated Form
+FEB2: Arabic Letter Seen Final Form
+FEB3: Arabic Letter Seen Initial Form
+FEB4: Arabic Letter Seen Medial Form
+FEB5: Arabic Letter Sheen Isolated Form
+FEB6: Arabic Letter Sheen Final Form
+FEB7: Arabic Letter Sheen Initial Form
+FEB8: Arabic Letter Sheen Medial Form
+FEB9: Arabic Letter Sad Isolated Form
+FEBA: Arabic Letter Sad Final Form
+FEBB: Arabic Letter Sad Initial Form
+FEBC: Arabic Letter Sad Medial Form
+FEBD: Arabic Letter Dad Isolated Form
+FEBE: Arabic Letter Dad Final Form
+FEBF: Arabic Letter Dad Initial Form
+FEC0: Arabic Letter Dad Medial Form
+FEC1: Arabic Letter Tah Isolated Form
+FEC2: Arabic Letter Tah Final Form
+FEC3: Arabic Letter Tah Initial Form
+FEC4: Arabic Letter Tah Medial Form
+FEC5: Arabic Letter Zah Isolated Form
+FEC6: Arabic Letter Zah Final Form
+FEC7: Arabic Letter Zah Initial Form
+FEC8: Arabic Letter Zah Medial Form
+FEC9: Arabic Letter Ain Isolated Form
+FECA: Arabic Letter Ain Final Form
+FECB: Arabic Letter Ain Initial Form
+FECC: Arabic Letter Ain Medial Form
+FECD: Arabic Letter Ghain Isolated Form
+FECE: Arabic Letter Ghain Final Form
+FECF: Arabic Letter Ghain Initial Form
+FED0: Arabic Letter Ghain Medial Form
+FED1: Arabic Letter Feh Isolated Form
+FED2: Arabic Letter Feh Final Form
+FED3: Arabic Letter Feh Initial Form
+FED4: Arabic Letter Feh Medial Form
+FED5: Arabic Letter Qaf Isolated Form
+FED6: Arabic Letter Qaf Final Form
+FED7: Arabic Letter Qaf Initial Form
+FED8: Arabic Letter Qaf Medial Form
+FED9: Arabic Letter Kaf Isolated Form
+FEDA: Arabic Letter Kaf Final Form
+FEDB: Arabic Letter Kaf Initial Form
+FEDC: Arabic Letter Kaf Medial Form
+FEDD: Arabic Letter Lam Isolated Form
+FEDE: Arabic Letter Lam Final Form
+FEDF: Arabic Letter Lam Initial Form
+FEE0: Arabic Letter Lam Medial Form
+FEE1: Arabic Letter Meem Isolated Form
+FEE2: Arabic Letter Meem Final Form
+FEE3: Arabic Letter Meem Initial Form
+FEE4: Arabic Letter Meem Medial Form
+FEE5: Arabic Letter Noon Isolated Form
+FEE6: Arabic Letter Noon Final Form
+FEE7: Arabic Letter Noon Initial Form
+FEE8: Arabic Letter Noon Medial Form
+FEE9: Arabic Letter Heh Isolated Form
+FEEA: Arabic Letter Heh Final Form
+FEEB: Arabic Letter Heh Initial Form
+FEEC: Arabic Letter Heh Medial Form
+FEED: Arabic Letter Waw Isolated Form
+FEEE: Arabic Letter Waw Final Form
+FEEF: Arabic Letter Alef Maksura Isolated Form
+FEF0: Arabic Letter Alef Maksura Final Form
+FEF1: Arabic Letter Yeh Isolated Form
+FEF2: Arabic Letter Yeh Final Form
+FEF3: Arabic Letter Yeh Initial Form
+FEF4: Arabic Letter Yeh Medial Form
+FEF5: Arabic Ligature Lam with Alef with Madda Above Isolated Form
+FEF6: Arabic Ligature Lam with Alef with Madda Above Final Form
+FEF7: Arabic Ligature Lam with Alef with Hamza Above Isolated Form
+FEF8: Arabic Ligature Lam with Alef with Hamza Above Final Form
+FEF9: Arabic Ligature Lam with Alef with Hamza Below Isolated Form
+FEFA: Arabic Ligature Lam with Alef with Hamza Below Final Form
+FEFB: Arabic Ligature Lam with Alef Isolated Form
+FEFC: Arabic Ligature Lam with Alef Final Form
+FEFD:
+FEFE:
+FEFF: Zero Width No-Break Space : bom, zwnbsp

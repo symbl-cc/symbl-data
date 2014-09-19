@@ -1,256 +1,256 @@
-2E00 : Right angle substitution marker
-2E01 : Right angle dotted substitution marker
-2E02 : Left substitution bracket
-2E03 : Right substitution bracket
-2E04 : Left dotted substitution bracket
-2E05 : Right dotted substitution bracket
-2E06 : Raised interpolation marker
-2E07 : Raised dotted interpolation marker
-2E08 : Dotted transposition marker
-2E09 : Left transposition bracket
-2E0A : Right transposition bracket
-2E0B : Raised square
-2E0C : Left raised omission bracket
-2E0D : Right raised omission bracket
-2E0E : Editorial coronis
-2E0F : Paragraphos
-2E10 : Forked paragraphos
-2E11 : Reversed forked paragraphos
-2E12 : Hypodiastole
-2E13 : Dotted obelos
-2E14 : Downwards ancora
-2E15 : Upwards ancora
-2E16 : Dotted right-pointing angle
-2E17 : Double oblique hyphen
-2E18 : Inverted interrobang
-2E19 : Palm branch
-2E1A : Hyphen with diaeresis
-2E1B : Tilde with ring above
-2E1C : Left low paraphrase bracket
-2E1D : Right low paraphrase bracket
-2E1E : Tilde with dot above
-2E1F : Tilde with dot below
-2E20 : Left vertical bar with quill
-2E21 : Right vertical bar with quill
-2E22 : Top left half bracket
-2E23 : Top right half bracket
-2E24 : Bottom left half bracket
-2E25 : Bottom right half bracket
-2E26 : Left sideways u bracket
-2E27 : Right sideways u bracket
-2E28 : Left double parenthesis
-2E29 : Right double parenthesis
-2E2A : Two dots over one dot punctuation
-2E2B : One dot over two dots punctuation
-2E2C : Squared four dot punctuation
-2E2D : Five dot mark
-2E2E : Reversed question mark : Irony sign, Sarcasm sign
-2E2F : Vertical tilde
-2E30 : Ring point
-2E31 : Word separator middle dot
-2E32 : 
-2E33 : 
-2E34 : 
-2E35 : 
-2E36 : 
-2E37 : 
-2E38 : 
-2E39 : 
-2E3A : 
-2E3B : 
-2E3C : 
-2E3D : 
-2E3E : 
-2E3F : 
-2E40 : 
-2E41 : 
-2E42 : 
-2E43 : 
-2E44 : 
-2E45 : 
-2E46 : 
-2E47 : 
-2E48 : 
-2E49 : 
-2E4A : 
-2E4B : 
-2E4C : 
-2E4D : 
-2E4E : 
-2E4F : 
-2E50 : 
-2E51 : 
-2E52 : 
-2E53 : 
-2E54 : 
-2E55 : 
-2E56 : 
-2E57 : 
-2E58 : 
-2E59 : 
-2E5A : 
-2E5B : 
-2E5C : 
-2E5D : 
-2E5E : 
-2E5F : 
-2E60 : 
-2E61 : 
-2E62 : 
-2E63 : 
-2E64 : 
-2E65 : 
-2E66 : 
-2E67 : 
-2E68 : 
-2E69 : 
-2E6A : 
-2E6B : 
-2E6C : 
-2E6D : 
-2E6E : 
-2E6F : 
-2E70 : 
-2E71 : 
-2E72 : 
-2E73 : 
-2E74 : 
-2E75 : 
-2E76 : 
-2E77 : 
-2E78 : 
-2E79 : 
-2E7A : 
-2E7B : 
-2E7C : 
-2E7D : 
-2E7E : 
-2E7F : 
-2E80 : Cjk radical repeat
-2E81 : Cjk radical cliff
-2E82 : Cjk radical second one
-2E83 : Cjk radical second two
-2E84 : Cjk radical second three
-2E85 : Cjk radical person
-2E86 : Cjk radical box
-2E87 : Cjk radical table
-2E88 : Cjk radical knife one
-2E89 : Cjk radical knife two
-2E8A : Cjk radical divination
-2E8B : Cjk radical seal
-2E8C : Cjk radical small one
-2E8D : Cjk radical small two
-2E8E : Cjk radical lame one
-2E8F : Cjk radical lame two
-2E90 : Cjk radical lame three
-2E91 : Cjk radical lame four
-2E92 : Cjk radical snake
-2E93 : Cjk radical thread
-2E94 : Cjk radical snout one
-2E95 : Cjk radical snout two
-2E96 : Cjk radical heart one
-2E97 : Cjk radical heart two
-2E98 : Cjk radical hand
-2E99 : Cjk radical rap
-2E9A : 
-2E9B : Cjk radical choke
-2E9C : Cjk radical sun
-2E9D : Cjk radical moon
-2E9E : Cjk radical death
-2E9F : Cjk radical mother
-2EA0 : Cjk radical civilian
-2EA1 : Cjk radical water one
-2EA2 : Cjk radical water two
-2EA3 : Cjk radical fire
-2EA4 : Cjk radical paw one
-2EA5 : Cjk radical paw two
-2EA6 : Cjk radical simplified half tree trunk
-2EA7 : Cjk radical cow
-2EA8 : Cjk radical dog
-2EA9 : Cjk radical jade
-2EAA : Cjk radical bolt of cloth
-2EAB : Cjk radical eye
-2EAC : Cjk radical spirit one
-2EAD : Cjk radical spirit two
-2EAE : Cjk radical bamboo
-2EAF : Cjk radical silk
-2EB0 : Cjk radical c-simplified silk
-2EB1 : Cjk radical net one
-2EB2 : Cjk radical net two
-2EB3 : Cjk radical net three
-2EB4 : Cjk radical net four
-2EB5 : Cjk radical mesh
-2EB6 : Cjk radical sheep
-2EB7 : Cjk radical ram
-2EB8 : Cjk radical ewe
-2EB9 : Cjk radical old
-2EBA : Cjk radical brush one
-2EBB : Cjk radical brush two
-2EBC : Cjk radical meat
-2EBD : Cjk radical mortar
-2EBE : Cjk radical grass one
-2EBF : Cjk radical grass two
-2EC0 : Cjk radical grass three
-2EC1 : Cjk radical tiger
-2EC2 : Cjk radical clothes
-2EC3 : Cjk radical west one
-2EC4 : Cjk radical west two
-2EC5 : Cjk radical c-simplified see
-2EC6 : Cjk radical simplified horn
-2EC7 : Cjk radical horn
-2EC8 : Cjk radical c-simplified speech
-2EC9 : Cjk radical c-simplified shell
-2ECA : Cjk radical foot
-2ECB : Cjk radical c-simplified cart
-2ECC : Cjk radical simplified walk
-2ECD : Cjk radical walk one
-2ECE : Cjk radical walk two
-2ECF : Cjk radical city
-2ED0 : Cjk radical c-simplified gold
-2ED1 : Cjk radical long one
-2ED2 : Cjk radical long two
-2ED3 : Cjk radical c-simplified long
-2ED4 : Cjk radical c-simplified gate
-2ED5 : Cjk radical mound one
-2ED6 : Cjk radical mound two
-2ED7 : Cjk radical rain
-2ED8 : Cjk radical blue
-2ED9 : Cjk radical c-simplified tanned leather
-2EDA : Cjk radical c-simplified leaf
-2EDB : Cjk radical c-simplified wind
-2EDC : Cjk radical c-simplified fly
-2EDD : Cjk radical eat one
-2EDE : Cjk radical eat two
-2EDF : Cjk radical eat three
-2EE0 : Cjk radical c-simplified eat
-2EE1 : Cjk radical head
-2EE2 : Cjk radical c-simplified horse
-2EE3 : Cjk radical bone
-2EE4 : Cjk radical ghost
-2EE5 : Cjk radical c-simplified fish
-2EE6 : Cjk radical c-simplified bird
-2EE7 : Cjk radical c-simplified salt
-2EE8 : Cjk radical simplified wheat
-2EE9 : Cjk radical simplified yellow
-2EEA : Cjk radical c-simplified frog
-2EEB : Cjk radical j-simplified even
-2EEC : Cjk radical c-simplified even
-2EED : Cjk radical j-simplified tooth
-2EEE : Cjk radical c-simplified tooth
-2EEF : Cjk radical j-simplified dragon
-2EF0 : Cjk radical c-simplified dragon
-2EF1 : Cjk radical turtle
-2EF2 : Cjk radical j-simplified turtle
-2EF3 : Cjk radical c-simplified turtle
-2EF4 : 
-2EF5 : 
-2EF6 : 
-2EF7 : 
-2EF8 : 
-2EF9 : 
-2EFA : 
-2EFB : 
-2EFC : 
-2EFD : 
-2EFE : 
-2EFF : 
+2E00: Right Angle Substitution Marker
+2E01: Right Angle Dotted Substitution Marker
+2E02: Left Substitution Bracket
+2E03: Right Substitution Bracket
+2E04: Left Dotted Substitution Bracket
+2E05: Right Dotted Substitution Bracket
+2E06: Raised Interpolation Marker
+2E07: Raised Dotted Interpolation Marker
+2E08: Dotted Transposition Marker
+2E09: Left Transposition Bracket
+2E0A: Right Transposition Bracket
+2E0B: Raised Square
+2E0C: Left Raised Omission Bracket
+2E0D: Right Raised Omission Bracket
+2E0E: Editorial Coronis
+2E0F: Paragraphos
+2E10: Forked Paragraphos
+2E11: Reversed Forked Paragraphos
+2E12: Hypodiastole : ypodiastoli
+2E13: Dotted Obelos
+2E14: Downwards Ancora
+2E15: Upwards Ancora
+2E16: Dotted Right-Pointing Angle : diple periestigmene
+2E17: Double Oblique Hyphen
+2E18: Inverted Interrobang : gnaborretni
+2E19: Palm Branch
+2E1A: Hyphen with Diaeresis
+2E1B: Tilde with Ring Above
+2E1C: Left Low Paraphrase Bracket
+2E1D: Right Low Paraphrase Bracket
+2E1E: Tilde with Dot Above
+2E1F: Tilde with Dot Below
+2E20: Left Vertical Bar with Quill
+2E21: Right Vertical Bar with Quill
+2E22: Top Left Half Bracket
+2E23: Top Right Half Bracket
+2E24: Bottom Left Half Bracket
+2E25: Bottom Right Half Bracket
+2E26: Left Sideways U Bracket
+2E27: Right Sideways U Bracket
+2E28: Left Double Parenthesis
+2E29: Right Double Parenthesis
+2E2A: Two Dots Over One Dot Punctuation
+2E2B: One Dot Over Two Dots Punctuation
+2E2C: Squared Four Dot Punctuation
+2E2D: Five Dot Mark
+2E2E: Reversed Question Mark : punctus percontativus : irony, sarcasm
+2E2F: Vertical Tilde
+2E30: Ring Point
+2E31: Word Separator Middle Dot
+2E32: Turned Comma
+2E33: Raised Dot
+2E34: Raised Comma
+2E35: Turned Semicolon
+2E36: Dagger with Left Guard
+2E37: Dagger with Right Guard
+2E38: Turned Dagger
+2E39: Top Half Section Sign
+2E3A: Two-Em Dash : omission dash
+2E3B: Three-Em Dash
+2E3C: Stenographic Full Stop
+2E3D: Vertical Six Dots
+2E3E: Wiggly Vertical Line
+2E3F: Capitulum
+2E40: Double Hyphen
+2E41: Reversed Comma
+2E42: Double Low-Reversed-9 Quotation Mark
+2E43:
+2E44:
+2E45:
+2E46:
+2E47:
+2E48:
+2E49:
+2E4A:
+2E4B:
+2E4C:
+2E4D:
+2E4E:
+2E4F:
+2E50:
+2E51:
+2E52:
+2E53:
+2E54:
+2E55:
+2E56:
+2E57:
+2E58:
+2E59:
+2E5A:
+2E5B:
+2E5C:
+2E5D:
+2E5E:
+2E5F:
+2E60:
+2E61:
+2E62:
+2E63:
+2E64:
+2E65:
+2E66:
+2E67:
+2E68:
+2E69:
+2E6A:
+2E6B:
+2E6C:
+2E6D:
+2E6E:
+2E6F:
+2E70:
+2E71:
+2E72:
+2E73:
+2E74:
+2E75:
+2E76:
+2E77:
+2E78:
+2E79:
+2E7A:
+2E7B:
+2E7C:
+2E7D:
+2E7E:
+2E7F:
+2E80: Cjk Radical Repeat
+2E81: Cjk Radical Cliff
+2E82: Cjk Radical Second One
+2E83: Cjk Radical Second Two
+2E84: Cjk Radical Second Three
+2E85: Cjk Radical Person
+2E86: Cjk Radical Box
+2E87: Cjk Radical Table
+2E88: Cjk Radical Knife One
+2E89: Cjk Radical Knife Two
+2E8A: Cjk Radical Divination
+2E8B: Cjk Radical Seal
+2E8C: Cjk Radical Small One
+2E8D: Cjk Radical Small Two
+2E8E: Cjk Radical Lame One
+2E8F: Cjk Radical Lame Two
+2E90: Cjk Radical Lame Three
+2E91: Cjk Radical Lame Four
+2E92: Cjk Radical Snake
+2E93: Cjk Radical Thread
+2E94: Cjk Radical Snout One
+2E95: Cjk Radical Snout Two
+2E96: Cjk Radical Heart One
+2E97: Cjk Radical Heart Two
+2E98: Cjk Radical Hand
+2E99: Cjk Radical Rap
+2E9A:
+2E9B: Cjk Radical Choke
+2E9C: Cjk Radical Sun
+2E9D: Cjk Radical Moon
+2E9E: Cjk Radical Death
+2E9F: Cjk Radical Mother
+2EA0: Cjk Radical Civilian
+2EA1: Cjk Radical Water One
+2EA2: Cjk Radical Water Two
+2EA3: Cjk Radical Fire
+2EA4: Cjk Radical Paw One
+2EA5: Cjk Radical Paw Two
+2EA6: Cjk Radical Simplified Half Tree Trunk
+2EA7: Cjk Radical Cow
+2EA8: Cjk Radical Dog
+2EA9: Cjk Radical Jade
+2EAA: Cjk Radical Bolt of Cloth
+2EAB: Cjk Radical Eye
+2EAC: Cjk Radical Spirit One
+2EAD: Cjk Radical Spirit Two
+2EAE: Cjk Radical Bamboo
+2EAF: Cjk Radical Silk
+2EB0: Cjk Radical C-Simplified Silk
+2EB1: Cjk Radical Net One
+2EB2: Cjk Radical Net Two
+2EB3: Cjk Radical Net Three
+2EB4: Cjk Radical Net Four
+2EB5: Cjk Radical Mesh
+2EB6: Cjk Radical Sheep
+2EB7: Cjk Radical Ram
+2EB8: Cjk Radical Ewe
+2EB9: Cjk Radical Old
+2EBA: Cjk Radical Brush One
+2EBB: Cjk Radical Brush Two
+2EBC: Cjk Radical Meat
+2EBD: Cjk Radical Mortar
+2EBE: Cjk Radical Grass One
+2EBF: Cjk Radical Grass Two
+2EC0: Cjk Radical Grass Three
+2EC1: Cjk Radical Tiger
+2EC2: Cjk Radical Clothes
+2EC3: Cjk Radical West One
+2EC4: Cjk Radical West Two
+2EC5: Cjk Radical C-Simplified See
+2EC6: Cjk Radical Simplified Horn
+2EC7: Cjk Radical Horn
+2EC8: Cjk Radical C-Simplified Speech
+2EC9: Cjk Radical C-Simplified Shell
+2ECA: Cjk Radical Foot
+2ECB: Cjk Radical C-Simplified Cart
+2ECC: Cjk Radical Simplified Walk
+2ECD: Cjk Radical Walk One
+2ECE: Cjk Radical Walk Two
+2ECF: Cjk Radical City
+2ED0: Cjk Radical C-Simplified Gold
+2ED1: Cjk Radical Long One
+2ED2: Cjk Radical Long Two
+2ED3: Cjk Radical C-Simplified Long
+2ED4: Cjk Radical C-Simplified Gate
+2ED5: Cjk Radical Mound One
+2ED6: Cjk Radical Mound Two
+2ED7: Cjk Radical Rain
+2ED8: Cjk Radical Blue
+2ED9: Cjk Radical C-Simplified Tanned Leather
+2EDA: Cjk Radical C-Simplified Leaf
+2EDB: Cjk Radical C-Simplified Wind
+2EDC: Cjk Radical C-Simplified Fly
+2EDD: Cjk Radical Eat One
+2EDE: Cjk Radical Eat Two
+2EDF: Cjk Radical Eat Three
+2EE0: Cjk Radical C-Simplified Eat
+2EE1: Cjk Radical Head
+2EE2: Cjk Radical C-Simplified Horse
+2EE3: Cjk Radical Bone
+2EE4: Cjk Radical Ghost
+2EE5: Cjk Radical C-Simplified Fish
+2EE6: Cjk Radical C-Simplified Bird
+2EE7: Cjk Radical C-Simplified Salt
+2EE8: Cjk Radical Simplified Wheat
+2EE9: Cjk Radical Simplified Yellow
+2EEA: Cjk Radical C-Simplified Frog
+2EEB: Cjk Radical J-Simplified Even
+2EEC: Cjk Radical C-Simplified Even
+2EED: Cjk Radical J-Simplified Tooth
+2EEE: Cjk Radical C-Simplified Tooth
+2EEF: Cjk Radical J-Simplified Dragon
+2EF0: Cjk Radical C-Simplified Dragon
+2EF1: Cjk Radical Turtle
+2EF2: Cjk Radical J-Simplified Turtle
+2EF3: Cjk Radical C-Simplified Turtle
+2EF4:
+2EF5:
+2EF6:
+2EF7:
+2EF8:
+2EF9:
+2EFA:
+2EFB:
+2EFC:
+2EFD:
+2EFE:
+2EFF:

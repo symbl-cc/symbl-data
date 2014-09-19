@@ -1,256 +1,256 @@
-0C00 : 
-0C01 : Telugu sign candrabindu
-0C02 : Telugu sign anusvara
-0C03 : Telugu sign visarga
-0C04 : 
-0C05 : Telugu letter a
-0C06 : Telugu letter aa
-0C07 : Telugu letter i
-0C08 : Telugu letter ii
-0C09 : Telugu letter u
-0C0A : Telugu letter uu
-0C0B : Telugu letter vocalic r
-0C0C : Telugu letter vocalic l
-0C0D : 
-0C0E : Telugu letter e
-0C0F : Telugu letter ee
-0C10 : Telugu letter ai
-0C11 : 
-0C12 : Telugu letter o
-0C13 : Telugu letter oo
-0C14 : Telugu letter au
-0C15 : Telugu letter ka
-0C16 : Telugu letter kha
-0C17 : Telugu letter ga
-0C18 : Telugu letter gha
-0C19 : Telugu letter nga
-0C1A : Telugu letter ca
-0C1B : Telugu letter cha
-0C1C : Telugu letter ja
-0C1D : Telugu letter jha
-0C1E : Telugu letter nya
-0C1F : Telugu letter tta
-0C20 : Telugu letter ttha
-0C21 : Telugu letter dda
-0C22 : Telugu letter ddha
-0C23 : Telugu letter nna
-0C24 : Telugu letter ta
-0C25 : Telugu letter tha
-0C26 : Telugu letter da
-0C27 : Telugu letter dha
-0C28 : Telugu letter na
-0C29 : 
-0C2A : Telugu letter pa
-0C2B : Telugu letter pha
-0C2C : Telugu letter ba
-0C2D : Telugu letter bha
-0C2E : Telugu letter ma
-0C2F : Telugu letter ya
-0C30 : Telugu letter ra
-0C31 : Telugu letter rra
-0C32 : Telugu letter la
-0C33 : Telugu letter lla
-0C34 : 
-0C35 : Telugu letter va
-0C36 : Telugu letter sha
-0C37 : Telugu letter ssa
-0C38 : Telugu letter sa
-0C39 : Telugu letter ha
-0C3A : 
-0C3B : 
-0C3C : 
-0C3D : Telugu sign avagraha
-0C3E : Telugu vowel sign aa
-0C3F : Telugu vowel sign i
-0C40 : Telugu vowel sign ii
-0C41 : Telugu vowel sign u
-0C42 : Telugu vowel sign uu
-0C43 : Telugu vowel sign vocalic r
-0C44 : Telugu vowel sign vocalic rr
-0C45 : 
-0C46 : Telugu vowel sign e
-0C47 : Telugu vowel sign ee
-0C48 : Telugu vowel sign ai
-0C49 : 
-0C4A : Telugu vowel sign o
-0C4B : Telugu vowel sign oo
-0C4C : Telugu vowel sign au
-0C4D : Telugu sign virama
-0C4E : 
-0C4F : 
-0C50 : 
-0C51 : 
-0C52 : 
-0C53 : 
-0C54 : 
-0C55 : Telugu length mark
-0C56 : Telugu ai length mark
-0C57 : 
-0C58 : Telugu letter tsa
-0C59 : Telugu letter dza
-0C5A : 
-0C5B : 
-0C5C : 
-0C5D : 
-0C5E : 
-0C5F : 
-0C60 : Telugu letter vocalic rr
-0C61 : Telugu letter vocalic ll
-0C62 : Telugu vowel sign vocalic l
-0C63 : Telugu vowel sign vocalic ll
-0C64 : 
-0C65 : 
-0C66 : Telugu digit zero
-0C67 : Telugu digit one
-0C68 : Telugu digit two
-0C69 : Telugu digit three
-0C6A : Telugu digit four
-0C6B : Telugu digit five
-0C6C : Telugu digit six
-0C6D : Telugu digit seven
-0C6E : Telugu digit eight
-0C6F : Telugu digit nine
-0C70 : 
-0C71 : 
-0C72 : 
-0C73 : 
-0C74 : 
-0C75 : 
-0C76 : 
-0C77 : 
-0C78 : Telugu fraction digit zero for odd powers of four
-0C79 : Telugu fraction digit one for odd powers of four
-0C7A : Telugu fraction digit two for odd powers of four
-0C7B : Telugu fraction digit three for odd powers of four
-0C7C : Telugu fraction digit one for even powers of four
-0C7D : Telugu fraction digit two for even powers of four
-0C7E : Telugu fraction digit three for even powers of four
-0C7F : Telugu sign tuumu
-0C80 : 
-0C81 : 
-0C82 : Kannada sign anusvara
-0C83 : Kannada sign visarga
-0C84 : 
-0C85 : Kannada letter a
-0C86 : Kannada letter aa
-0C87 : Kannada letter i
-0C88 : Kannada letter ii
-0C89 : Kannada letter u
-0C8A : Kannada letter uu
-0C8B : Kannada letter vocalic r
-0C8C : Kannada letter vocalic l
-0C8D : 
-0C8E : Kannada letter e
-0C8F : Kannada letter ee
-0C90 : Kannada letter ai
-0C91 : 
-0C92 : Kannada letter o
-0C93 : Kannada letter oo
-0C94 : Kannada letter au
-0C95 : Kannada letter ka
-0C96 : Kannada letter kha
-0C97 : Kannada letter ga
-0C98 : Kannada letter gha
-0C99 : Kannada letter nga
-0C9A : Kannada letter ca
-0C9B : Kannada letter cha
-0C9C : Kannada letter ja
-0C9D : Kannada letter jha
-0C9E : Kannada letter nya
-0C9F : Kannada letter tta
-0CA0 : Kannada letter ttha
-0CA1 : Kannada letter dda
-0CA2 : Kannada letter ddha
-0CA3 : Kannada letter nna
-0CA4 : Kannada letter ta
-0CA5 : Kannada letter tha
-0CA6 : Kannada letter da
-0CA7 : Kannada letter dha
-0CA8 : Kannada letter na
-0CA9 : 
-0CAA : Kannada letter pa
-0CAB : Kannada letter pha
-0CAC : Kannada letter ba
-0CAD : Kannada letter bha
-0CAE : Kannada letter ma
-0CAF : Kannada letter ya
-0CB0 : Kannada letter ra
-0CB1 : Kannada letter rra
-0CB2 : Kannada letter la
-0CB3 : Kannada letter lla
-0CB4 : 
-0CB5 : Kannada letter va
-0CB6 : Kannada letter sha
-0CB7 : Kannada letter ssa
-0CB8 : Kannada letter sa
-0CB9 : Kannada letter ha
-0CBA : 
-0CBB : 
-0CBC : Kannada sign nukta
-0CBD : Kannada sign avagraha
-0CBE : Kannada vowel sign aa
-0CBF : Kannada vowel sign i
-0CC0 : Kannada vowel sign ii
-0CC1 : Kannada vowel sign u
-0CC2 : Kannada vowel sign uu
-0CC3 : Kannada vowel sign vocalic r
-0CC4 : Kannada vowel sign vocalic rr
-0CC5 : 
-0CC6 : Kannada vowel sign e
-0CC7 : Kannada vowel sign ee
-0CC8 : Kannada vowel sign ai
-0CC9 : 
-0CCA : Kannada vowel sign o
-0CCB : Kannada vowel sign oo
-0CCC : Kannada vowel sign au
-0CCD : Kannada sign virama
-0CCE : 
-0CCF : 
-0CD0 : 
-0CD1 : 
-0CD2 : 
-0CD3 : 
-0CD4 : 
-0CD5 : Kannada length mark
-0CD6 : Kannada ai length mark
-0CD7 : 
-0CD8 : 
-0CD9 : 
-0CDA : 
-0CDB : 
-0CDC : 
-0CDD : 
-0CDE : Kannada letter fa
-0CDF : 
-0CE0 : Kannada letter vocalic rr
-0CE1 : Kannada letter vocalic ll
-0CE2 : Kannada vowel sign vocalic l
-0CE3 : Kannada vowel sign vocalic ll
-0CE4 : 
-0CE5 : 
-0CE6 : Kannada digit zero
-0CE7 : Kannada digit one
-0CE8 : Kannada digit two
-0CE9 : Kannada digit three
-0CEA : Kannada digit four
-0CEB : Kannada digit five
-0CEC : Kannada digit six
-0CED : Kannada digit seven
-0CEE : Kannada digit eight
-0CEF : Kannada digit nine
-0CF0 : 
-0CF1 : Kannada sign jihvamuliya
-0CF2 : Kannada sign upadhmaniya
-0CF3 : 
-0CF4 : 
-0CF5 : 
-0CF6 : 
-0CF7 : 
-0CF8 : 
-0CF9 : 
-0CFA : 
-0CFB : 
-0CFC : 
-0CFD : 
-0CFE : 
-0CFF : 
+0C00: Telugu Sign Combining Candrabindu Above
+0C01: Telugu Sign Candrabindu : arasunna
+0C02: Telugu Sign Anusvara : sunna
+0C03: Telugu Sign Visarga
+0C04:
+0C05: Telugu Letter A
+0C06: Telugu Letter Aa
+0C07: Telugu Letter I
+0C08: Telugu Letter Ii
+0C09: Telugu Letter U
+0C0A: Telugu Letter Uu
+0C0B: Telugu Letter Vocalic R
+0C0C: Telugu Letter Vocalic L
+0C0D:
+0C0E: Telugu Letter E
+0C0F: Telugu Letter Ee
+0C10: Telugu Letter Ai
+0C11:
+0C12: Telugu Letter O
+0C13: Telugu Letter Oo
+0C14: Telugu Letter Au
+0C15: Telugu Letter Ka
+0C16: Telugu Letter Kha
+0C17: Telugu Letter Ga
+0C18: Telugu Letter Gha
+0C19: Telugu Letter Nga
+0C1A: Telugu Letter Ca
+0C1B: Telugu Letter Cha
+0C1C: Telugu Letter Ja
+0C1D: Telugu Letter Jha
+0C1E: Telugu Letter Nya
+0C1F: Telugu Letter Tta
+0C20: Telugu Letter Ttha
+0C21: Telugu Letter Dda
+0C22: Telugu Letter Ddha
+0C23: Telugu Letter Nna
+0C24: Telugu Letter Ta
+0C25: Telugu Letter Tha
+0C26: Telugu Letter Da
+0C27: Telugu Letter Dha
+0C28: Telugu Letter Na
+0C29:
+0C2A: Telugu Letter Pa
+0C2B: Telugu Letter Pha
+0C2C: Telugu Letter Ba
+0C2D: Telugu Letter Bha
+0C2E: Telugu Letter Ma
+0C2F: Telugu Letter Ya
+0C30: Telugu Letter Ra
+0C31: Telugu Letter Rra
+0C32: Telugu Letter La
+0C33: Telugu Letter Lla
+0C34: Telugu Letter Llla
+0C35: Telugu Letter Va
+0C36: Telugu Letter Sha
+0C37: Telugu Letter Ssa
+0C38: Telugu Letter Sa
+0C39: Telugu Letter Ha
+0C3A:
+0C3B:
+0C3C:
+0C3D: Telugu Sign Avagraha
+0C3E: Telugu Vowel Sign Aa
+0C3F: Telugu Vowel Sign I
+0C40: Telugu Vowel Sign Ii
+0C41: Telugu Vowel Sign U
+0C42: Telugu Vowel Sign Uu
+0C43: Telugu Vowel Sign Vocalic R
+0C44: Telugu Vowel Sign Vocalic Rr
+0C45:
+0C46: Telugu Vowel Sign E
+0C47: Telugu Vowel Sign Ee
+0C48: Telugu Vowel Sign Ai
+0C49:
+0C4A: Telugu Vowel Sign O
+0C4B: Telugu Vowel Sign Oo
+0C4C: Telugu Vowel Sign Au
+0C4D: Telugu Sign Virama : halant (the preferred name)
+0C4E:
+0C4F:
+0C50:
+0C51:
+0C52:
+0C53:
+0C54:
+0C55: Telugu Length Mark
+0C56: Telugu Ai Length Mark
+0C57:
+0C58: Telugu Letter Tsa
+0C59: Telugu Letter Dza
+0C5A:
+0C5B:
+0C5C:
+0C5D:
+0C5E:
+0C5F:
+0C60: Telugu Letter Vocalic Rr
+0C61: Telugu Letter Vocalic Ll
+0C62: Telugu Vowel Sign Vocalic L
+0C63: Telugu Vowel Sign Vocalic Ll
+0C64: <Reserved>
+0C65: <Reserved>
+0C66: Telugu Digit Zero
+0C67: Telugu Digit One
+0C68: Telugu Digit Two
+0C69: Telugu Digit Three
+0C6A: Telugu Digit Four
+0C6B: Telugu Digit Five
+0C6C: Telugu Digit Six
+0C6D: Telugu Digit Seven
+0C6E: Telugu Digit Eight
+0C6F: Telugu Digit Nine
+0C70:
+0C71:
+0C72:
+0C73:
+0C74:
+0C75:
+0C76:
+0C77:
+0C78: Telugu Fraction Digit Zero for Odd Powers of Four
+0C79: Telugu Fraction Digit One for Odd Powers of Four
+0C7A: Telugu Fraction Digit Two for Odd Powers of Four
+0C7B: Telugu Fraction Digit Three for Odd Powers of Four
+0C7C: Telugu Fraction Digit One for Even Powers of Four
+0C7D: Telugu Fraction Digit Two for Even Powers of Four
+0C7E: Telugu Fraction Digit Three for Even Powers of Four
+0C7F: Telugu Sign Tuumu
+0C80:
+0C81: Kannada Sign Candrabindu
+0C82: Kannada Sign Anusvara
+0C83: Kannada Sign Visarga
+0C84:
+0C85: Kannada Letter A
+0C86: Kannada Letter Aa
+0C87: Kannada Letter I
+0C88: Kannada Letter Ii
+0C89: Kannada Letter U
+0C8A: Kannada Letter Uu
+0C8B: Kannada Letter Vocalic R
+0C8C: Kannada Letter Vocalic L
+0C8D:
+0C8E: Kannada Letter E
+0C8F: Kannada Letter Ee
+0C90: Kannada Letter Ai
+0C91:
+0C92: Kannada Letter O
+0C93: Kannada Letter Oo
+0C94: Kannada Letter Au
+0C95: Kannada Letter Ka
+0C96: Kannada Letter Kha
+0C97: Kannada Letter Ga
+0C98: Kannada Letter Gha
+0C99: Kannada Letter Nga
+0C9A: Kannada Letter Ca
+0C9B: Kannada Letter Cha
+0C9C: Kannada Letter Ja
+0C9D: Kannada Letter Jha
+0C9E: Kannada Letter Nya
+0C9F: Kannada Letter Tta
+0CA0: Kannada Letter Ttha
+0CA1: Kannada Letter Dda
+0CA2: Kannada Letter Ddha
+0CA3: Kannada Letter Nna
+0CA4: Kannada Letter Ta
+0CA5: Kannada Letter Tha
+0CA6: Kannada Letter Da
+0CA7: Kannada Letter Dha
+0CA8: Kannada Letter Na
+0CA9:
+0CAA: Kannada Letter Pa
+0CAB: Kannada Letter Pha
+0CAC: Kannada Letter Ba
+0CAD: Kannada Letter Bha
+0CAE: Kannada Letter Ma
+0CAF: Kannada Letter Ya
+0CB0: Kannada Letter Ra
+0CB1: Kannada Letter Rra
+0CB2: Kannada Letter La
+0CB3: Kannada Letter Lla
+0CB4:
+0CB5: Kannada Letter Va
+0CB6: Kannada Letter Sha
+0CB7: Kannada Letter Ssa
+0CB8: Kannada Letter Sa
+0CB9: Kannada Letter Ha
+0CBA:
+0CBB:
+0CBC: Kannada Sign Nukta
+0CBD: Kannada Sign Avagraha
+0CBE: Kannada Vowel Sign Aa
+0CBF: Kannada Vowel Sign I
+0CC0: Kannada Vowel Sign Ii
+0CC1: Kannada Vowel Sign U
+0CC2: Kannada Vowel Sign Uu
+0CC3: Kannada Vowel Sign Vocalic R
+0CC4: Kannada Vowel Sign Vocalic Rr
+0CC5:
+0CC6: Kannada Vowel Sign E
+0CC7: Kannada Vowel Sign Ee
+0CC8: Kannada Vowel Sign Ai
+0CC9:
+0CCA: Kannada Vowel Sign O
+0CCB: Kannada Vowel Sign Oo
+0CCC: Kannada Vowel Sign Au
+0CCD: Kannada Sign Virama
+0CCE:
+0CCF:
+0CD0:
+0CD1:
+0CD2:
+0CD3:
+0CD4:
+0CD5: Kannada Length Mark
+0CD6: Kannada Ai Length Mark
+0CD7:
+0CD8:
+0CD9:
+0CDA:
+0CDB:
+0CDC:
+0CDD:
+0CDE: Kannada Letter Fa
+0CDF:
+0CE0: Kannada Letter Vocalic Rr
+0CE1: Kannada Letter Vocalic Ll
+0CE2: Kannada Vowel Sign Vocalic L
+0CE3: Kannada Vowel Sign Vocalic Ll
+0CE4: <Reserved>
+0CE5: <Reserved>
+0CE6: Kannada Digit Zero
+0CE7: Kannada Digit One
+0CE8: Kannada Digit Two
+0CE9: Kannada Digit Three
+0CEA: Kannada Digit Four
+0CEB: Kannada Digit Five
+0CEC: Kannada Digit Six
+0CED: Kannada Digit Seven
+0CEE: Kannada Digit Eight
+0CEF: Kannada Digit Nine
+0CF0:
+0CF1: Kannada Sign Jihvamuliya
+0CF2: Kannada Sign Upadhmaniya
+0CF3:
+0CF4:
+0CF5:
+0CF6:
+0CF7:
+0CF8:
+0CF9:
+0CFA:
+0CFB:
+0CFC:
+0CFD:
+0CFE:
+0CFF:

@@ -1,256 +1,256 @@
-2200 : For all
-2201 : Complement
-2202 : Partial differential
-2203 : There exists
-2204 : There does not exist
-2205 : Empty set
-2206 : Increment
-2207 : Nabla
-2208 : Element of
-2209 : Not an element of
-220A : Small element of
-220B : Contains as member
-220C : Does not contain as member
-220D : Small contains as member
-220E : End of proof
-220F : N-ary product
-2210 : N-ary coproduct
-2211 : N-ary summation
-2212 : Minus sign
-2213 : Minus-or-plus sign
-2214 : Dot plus
-2215 : Division slash
-2216 : Set minus
-2217 : Asterisk operator
-2218 : Ring operator
-2219 : Bullet operator
-221A : Square root
-221B : Cube root
-221C : Fourth root
-221D : Proportional to
-221E : Infinity
-221F : Right angle
-2220 : Angle
-2221 : Measured angle
-2222 : Spherical angle
-2223 : Divides
-2224 : Does not divide
-2225 : Parallel to
-2226 : Not parallel to
-2227 : Logical and
-2228 : Logical or
-2229 : Intersection
-222A : Union
-222B : Integral
-222C : Double integral
-222D : Triple integral
-222E : Contour integral
-222F : Surface integral
-2230 : Volume integral
-2231 : Clockwise integral
-2232 : Clockwise contour integral
-2233 : Anticlockwise contour integral
-2234 : Therefore
-2235 : Because
-2236 : Ratio
-2237 : Proportion
-2238 : Dot minus
-2239 : Excess
-223A : Geometric proportion
-223B : Homothetic
-223C : Tilde operator
-223D : Reversed tilde
-223E : Inverted lazy s
-223F : Sine wave
-2240 : Wreath product
-2241 : Not tilde
-2242 : Minus tilde
-2243 : Asymptotically equal to
-2244 : Not asymptotically equal to
-2245 : Approximately equal to
-2246 : Approximately but not actually equal to
-2247 : Neither approximately nor actually equal to
-2248 : Almost equal to
-2249 : Not almost equal to
-224A : Almost equal or equal to
-224B : Triple tilde
-224C : All equal to
-224D : Equivalent to
-224E : Geometrically equivalent to
-224F : Difference between
-2250 : Approaches the limit
-2251 : Geometrically equal to
-2252 : Approximately equal to or the image of
-2253 : Image of or approximately equal to
-2254 : Colon equals
-2255 : Equals colon
-2256 : Ring in equal to
-2257 : Ring equal to
-2258 : Corresponds to
-2259 : Estimates
-225A : Equiangular to
-225B : Star equals
-225C : Delta equal to
-225D : Equal to by definition
-225E : Measured by
-225F : Questioned equal to
-2260 : Not equal to
-2261 : Identical to
-2262 : Not identical to
-2263 : Strictly equivalent to
-2264 : Less-than or equal to
-2265 : Greater-than or equal to
-2266 : Less-than over equal to
-2267 : Greater-than over equal to
-2268 : Less-than but not equal to
-2269 : Greater-than but not equal to
-226A : Much less-than
-226B : Much greater-than
-226C : Between
-226D : Not equivalent to
-226E : Not less-than
-226F : Not greater-than
-2270 : Neither less-than nor equal to
-2271 : Neither greater-than nor equal to
-2272 : Less-than or equivalent to
-2273 : Greater-than or equivalent to
-2274 : Neither less-than nor equivalent to
-2275 : Neither greater-than nor equivalent to
-2276 : Less-than or greater-than
-2277 : Greater-than or less-than
-2278 : Neither less-than nor greater-than
-2279 : Neither greater-than nor less-than
-227A : Precedes
-227B : Succeeds
-227C : Precedes or equal to
-227D : Succeeds or equal to
-227E : Precedes or equivalent to
-227F : Succeeds or equivalent to
-2280 : Does not precede
-2281 : Does not succeed
-2282 : Subset of
-2283 : Superset of
-2284 : Not a subset of
-2285 : Not a superset of
-2286 : Subset of or equal to
-2287 : Superset of or equal to
-2288 : Neither a subset of nor equal to
-2289 : Neither a superset of nor equal to
-228A : Subset of with not equal to
-228B : Superset of with not equal to
-228C : Multiset
-228D : Multiset multiplication
-228E : Multiset union
-228F : Square image of
-2290 : Square original of
-2291 : Square image of or equal to
-2292 : Square original of or equal to
-2293 : Square cap
-2294 : Square cup
-2295 : Circled plus
-2296 : Circled minus
-2297 : Circled times
-2298 : Circled division slash : ban, disable
-2299 : Circled dot operator
-229A : Circled ring operator
-229B : Circled asterisk operator
-229C : Circled equals
-229D : Circled dash
-229E : Squared plus
-229F : Squared minus
-22A0 : Squared times
-22A1 : Squared dot operator
-22A2 : Right tack
-22A3 : Left tack
-22A4 : Down tack
-22A5 : Up tack
-22A6 : Assertion
-22A7 : Models
-22A8 : True
-22A9 : Forces
-22AA : Triple vertical bar right turnstile
-22AB : Double vertical bar double right turnstile
-22AC : Does not prove
-22AD : Not true
-22AE : Does not force
-22AF : Negated double vertical bar double right turnstile
-22B0 : Precedes under relation
-22B1 : Succeeds under relation
-22B2 : Normal subgroup of
-22B3 : Contains as normal subgroup
-22B4 : Normal subgroup of or equal to
-22B5 : Contains as normal subgroup or equal to
-22B6 : Original of
-22B7 : Image of
-22B8 : Multimap
-22B9 : Hermitian conjugate matrix
-22BA : Intercalate
-22BB : Xor
-22BC : Nand
-22BD : Nor
-22BE : Right angle with arc
-22BF : Right triangle
-22C0 : N-ary logical and
-22C1 : N-ary logical or
-22C2 : N-ary intersection
-22C3 : N-ary union
-22C4 : Diamond operator
-22C5 : Dot operator
-22C6 : Star operator
-22C7 : Division times
-22C8 : Bowtie
-22C9 : Left normal factor semidirect product
-22CA : Right normal factor semidirect product
-22CB : Left semidirect product
-22CC : Right semidirect product
-22CD : Reversed tilde equals
-22CE : Curly logical or
-22CF : Curly logical and
-22D0 : Double subset
-22D1 : Double superset
-22D2 : Double intersection
-22D3 : Double union
-22D4 : Pitchfork
-22D5 : Equal and parallel to
-22D6 : Less-than with dot
-22D7 : Greater-than with dot
-22D8 : Very much less-than
-22D9 : Very much greater-than
-22DA : Less-than equal to or greater-than
-22DB : Greater-than equal to or less-than
-22DC : Equal to or less-than
-22DD : Equal to or greater-than
-22DE : Equal to or precedes
-22DF : Equal to or succeeds
-22E0 : Does not precede or equal
-22E1 : Does not succeed or equal
-22E2 : Not square image of or equal to
-22E3 : Not square original of or equal to
-22E4 : Square image of or not equal to
-22E5 : Square original of or not equal to
-22E6 : Less-than but not equivalent to
-22E7 : Greater-than but not equivalent to
-22E8 : Precedes but not equivalent to
-22E9 : Succeeds but not equivalent to
-22EA : Not normal subgroup of
-22EB : Does not contain as normal subgroup
-22EC : Not normal subgroup of or equal to
-22ED : Does not contain as normal subgroup or equal
-22EE : Vertical ellipsis
-22EF : Midline horizontal ellipsis
-22F0 : Up right diagonal ellipsis
-22F1 : Down right diagonal ellipsis
-22F2 : Element of with long horizontal stroke
-22F3 : Element of with vertical bar at end of horizontal stroke
-22F4 : Small element of with vertical bar at end of horizontal stroke
-22F5 : Element of with dot above
-22F6 : Element of with overbar
-22F7 : Small element of with overbar
-22F8 : Element of with underbar
-22F9 : Element of with two horizontal strokes
-22FA : Contains with long horizontal stroke
-22FB : Contains with vertical bar at end of horizontal stroke
-22FC : Small contains with vertical bar at end of horizontal stroke
-22FD : Contains with overbar
-22FE : Small contains with overbar
-22FF : Z notation bag membership
+2200: for All : universal quantifier
+2201: Complement
+2202: Partial Differential
+2203: There Exists : existential quantifier
+2204: There Does Not Exist
+2205: Empty Set : null set
+2206: Increment : laplace operator : forward difference : symmetric difference (in set theory)
+2207: Nabla : backward difference : gradient, del
+2208: Element of
+2209: Not An Element of
+220A: Small Element of
+220B: Contains As Member : such that
+220C: Does Not Contain As Member
+220D: Small Contains As Member
+220E: End of Proof : q.e.d.
+220F: N-Ary Product : product sign
+2210: N-Ary Coproduct : coproduct sign
+2211: N-Ary Summation : summation sign
+2212: Minus Sign
+2213: Minus-Or-Plus Sign
+2214: Dot Plus
+2215: Division Slash
+2216: Set Minus
+2217: Asterisk Operator
+2218: Ring Operator : composite function : apl jot
+2219: Bullet Operator
+221A: Square Root : radical sign
+221B: Cube Root
+221C: Fourth Root
+221D: Proportional to
+221E: Infinity
+221F: Right Angle
+2220: Angle
+2221: Measured Angle
+2222: Spherical Angle : angle arc
+2223: Divides : such that : apl stile
+2224: Does Not Divide
+2225: Parallel to
+2226: Not Parallel to
+2227: Logical And : wedge, conjunction
+2228: Logical Or : vee, disjunction
+2229: Intersection : cap, hat
+222A: Union : cup
+222B: Integral
+222C: Double Integral
+222D: Triple Integral
+222E: Contour Integral
+222F: Surface Integral
+2230: Volume Integral
+2231: Clockwise Integral
+2232: Clockwise Contour Integral
+2233: Anticlockwise Contour Integral
+2234: Therefore
+2235: Because
+2236: Ratio
+2237: Proportion
+2238: Dot Minus : saturating subtraction
+2239: Excess
+223A: Geometric Proportion
+223B: Homothetic
+223C: Tilde Operator : varies with (proportional to) : difference between : similar to : not : cycle : apl tilde
+223D: Reversed Tilde : lazy s
+223E: Inverted Lazy S : most positive
+223F: Sine Wave : alternating current
+2240: Wreath Product
+2241: Not Tilde
+2242: Minus Tilde
+2243: Asymptotically Equal to
+2244: Not Asymptotically Equal to
+2245: Approximately Equal to
+2246: Approximately But Not Actually Equal to
+2247: Neither Approximately Nor Actually Equal to
+2248: Almost Equal to : asymptotic to
+2249: Not Almost Equal to
+224A: Almost Equal Or Equal to
+224B: Triple Tilde
+224C: All Equal to
+224D: Equivalent to
+224E: Geometrically Equivalent to
+224F: Difference Between
+2250: Approaches the Limit
+2251: Geometrically Equal to
+2252: Approximately Equal to Or the Image of : nearly equals
+2253: Image of Or Approximately Equal to
+2254: Colon Equals
+2255: Equals Colon
+2256: Ring In Equal to
+2257: Ring Equal to : approximately equal to
+2258: Corresponds to
+2259: Estimates : corresponds to
+225A: Equiangular to
+225B: Star Equals
+225C: Delta Equal to : equiangular : equal to by definition
+225D: Equal to By Definition
+225E: Measured By
+225F: Questioned Equal to
+2260: Not Equal to
+2261: Identical to
+2262: Not Identical to
+2263: Strictly Equivalent to
+2264: Less-Than Or Equal to
+2265: Greater-Than Or Equal to
+2266: Less-Than Over Equal to
+2267: Greater-Than Over Equal to
+2268: Less-Than But Not Equal to
+2269: Greater-Than But Not Equal to
+226A: Much Less-Than
+226B: Much Greater-Than
+226C: Between : plaintiff, quantic
+226D: Not Equivalent to
+226E: Not Less-Than
+226F: Not Greater-Than
+2270: Neither Less-Than Nor Equal to
+2271: Neither Greater-Than Nor Equal to
+2272: Less-Than Or Equivalent to
+2273: Greater-Than Or Equivalent to
+2274: Neither Less-Than Nor Equivalent to
+2275: Neither Greater-Than Nor Equivalent to
+2276: Less-Than Or Greater-Than
+2277: Greater-Than Or Less-Than
+2278: Neither Less-Than Nor Greater-Than
+2279: Neither Greater-Than Nor Less-Than
+227A: Precedes : lower rank than
+227B: Succeeds : higher rank than
+227C: Precedes Or Equal to
+227D: Succeeds Or Equal to
+227E: Precedes Or Equivalent to
+227F: Succeeds Or Equivalent to
+2280: Does Not Precede
+2281: Does Not Succeed
+2282: Subset of : included in set
+2283: Superset of : includes in set
+2284: Not A Subset of
+2285: Not A Superset of
+2286: Subset of Or Equal to
+2287: Superset of Or Equal to
+2288: Neither A Subset of Nor Equal to
+2289: Neither A Superset of Nor Equal to
+228A: Subset of with Not Equal to
+228B: Superset of with Not Equal to
+228C: Multiset
+228D: Multiset Multiplication
+228E: Multiset Union : z notation bag addition
+228F: Square Image of
+2290: Square Original of
+2291: Square Image of Or Equal to
+2292: Square Original of Or Equal to
+2293: Square Cap
+2294: Square Cup
+2295: Circled Plus : direct sum : vector pointing into page
+2296: Circled Minus : symmetric difference
+2297: Circled Times : tensor product : vector pointing into page
+2298: Circled Division Slash : ban, disable
+2299: Circled Dot Operator : direct product : vector pointing out of page
+229A: Circled Ring Operator
+229B: Circled Asterisk Operator
+229C: Circled Equals
+229D: Circled Dash
+229E: Squared Plus
+229F: Squared Minus
+22A0: Squared Times
+22A1: Squared Dot Operator
+22A2: Right Tack : turnstile : proves, implies, yields : reducible
+22A3: Left Tack : reverse turnstile : non-theorem, does not yield
+22A4: Down Tack : top
+22A5: Up Tack : base, bottom
+22A6: Assertion : reduces to
+22A7: Models
+22A8: True : statement is true, valid : is a tautology : satisfies : results in
+22A9: Forces
+22AA: Triple Vertical Bar Right Turnstile
+22AB: Double Vertical Bar Double Right Turnstile
+22AC: Does Not Prove
+22AD: Not True
+22AE: Does Not Force
+22AF: Negated Double Vertical Bar Double Right Turnstile
+22B0: Precedes Under Relation
+22B1: Succeeds Under Relation
+22B2: Normal Subgroup of
+22B3: Contains As Normal Subgroup
+22B4: Normal Subgroup of Or Equal to
+22B5: Contains As Normal Subgroup Or Equal to
+22B6: Original of
+22B7: Image of
+22B8: Multimap
+22B9: Hermitian Conjugate Matrix
+22BA: Intercalate
+22BB: Xor
+22BC: Nand
+22BD: Nor
+22BE: Right Angle with Arc
+22BF: Right Triangle
+22C0: N-Ary Logical And
+22C1: N-Ary Logical Or
+22C2: N-Ary Intersection : z notation generalised intersection
+22C3: N-Ary Union : z notation generalised union
+22C4: Diamond Operator
+22C5: Dot Operator
+22C6: Star Operator
+22C7: Division Times
+22C8: Bowtie
+22C9: Left Normal Factor Semidirect Product
+22CA: Right Normal Factor Semidirect Product
+22CB: Left Semidirect Product
+22CC: Right Semidirect Product
+22CD: Reversed Tilde Equals
+22CE: Curly Logical Or
+22CF: Curly Logical And
+22D0: Double Subset
+22D1: Double Superset
+22D2: Double Intersection
+22D3: Double Union
+22D4: Pitchfork : proper intersection
+22D5: Equal And Parallel to
+22D6: Less-Than with Dot
+22D7: Greater-Than with Dot
+22D8: Very Much Less-Than
+22D9: Very Much Greater-Than
+22DA: Less-Than Equal to Or Greater-Than
+22DB: Greater-Than Equal to Or Less-Than
+22DC: Equal to Or Less-Than
+22DD: Equal to Or Greater-Than
+22DE: Equal to Or Precedes
+22DF: Equal to Or Succeeds
+22E0: Does Not Precede Or Equal
+22E1: Does Not Succeed Or Equal
+22E2: Not Square Image of Or Equal to
+22E3: Not Square Original of Or Equal to
+22E4: Square Image of Or Not Equal to
+22E5: Square Original of Or Not Equal to
+22E6: Less-Than But Not Equivalent to
+22E7: Greater-Than But Not Equivalent to
+22E8: Precedes But Not Equivalent to
+22E9: Succeeds But Not Equivalent to
+22EA: Not Normal Subgroup of
+22EB: Does Not Contain As Normal Subgroup
+22EC: Not Normal Subgroup of Or Equal to
+22ED: Does Not Contain As Normal Subgroup Or Equal
+22EE: Vertical Ellipsis
+22EF: Midline Horizontal Ellipsis
+22F0: Up Right Diagonal Ellipsis
+22F1: Down Right Diagonal Ellipsis
+22F2: Element of with Long Horizontal Stroke
+22F3: Element of with Vertical Bar At End of Horizontal Stroke
+22F4: Small Element of with Vertical Bar At End of Horizontal Stroke
+22F5: Element of with Dot Above
+22F6: Element of with Overbar
+22F7: Small Element of with Overbar
+22F8: Element of with Underbar
+22F9: Element of with Two Horizontal Strokes
+22FA: Contains with Long Horizontal Stroke
+22FB: Contains with Vertical Bar At End of Horizontal Stroke
+22FC: Small Contains with Vertical Bar At End of Horizontal Stroke
+22FD: Contains with Overbar
+22FE: Small Contains with Overbar
+22FF: Z Notation Bag Membership

@@ -1,256 +1,256 @@
-FC00 : 
-FC01 : 
-FC02 : 
-FC03 : 
-FC04 : 
-FC05 : 
-FC06 : 
-FC07 : 
-FC08 : 
-FC09 : 
-FC0A : 
-FC0B : 
-FC0C : 
-FC0D : 
-FC0E : 
-FC0F : 
-FC10 : 
-FC11 : 
-FC12 : 
-FC13 : 
-FC14 : 
-FC15 : 
-FC16 : 
-FC17 : 
-FC18 : 
-FC19 : 
-FC1A : 
-FC1B : 
-FC1C : 
-FC1D : 
-FC1E : 
-FC1F : 
-FC20 : 
-FC21 : 
-FC22 : 
-FC23 : 
-FC24 : 
-FC25 : 
-FC26 : 
-FC27 : 
-FC28 : 
-FC29 : 
-FC2A : 
-FC2B : 
-FC2C : 
-FC2D : 
-FC2E : 
-FC2F : 
-FC30 : 
-FC31 : 
-FC32 : 
-FC33 : 
-FC34 : 
-FC35 : 
-FC36 : 
-FC37 : 
-FC38 : 
-FC39 : 
-FC3A : 
-FC3B : 
-FC3C : 
-FC3D : 
-FC3E : 
-FC3F : 
-FC40 : 
-FC41 : 
-FC42 : 
-FC43 : 
-FC44 : 
-FC45 : 
-FC46 : 
-FC47 : 
-FC48 : 
-FC49 : 
-FC4A : 
-FC4B : 
-FC4C : 
-FC4D : 
-FC4E : 
-FC4F : 
-FC50 : 
-FC51 : 
-FC52 : 
-FC53 : 
-FC54 : 
-FC55 : 
-FC56 : 
-FC57 : 
-FC58 : 
-FC59 : 
-FC5A : 
-FC5B : 
-FC5C : 
-FC5D : 
-FC5E : 
-FC5F : 
-FC60 : 
-FC61 : 
-FC62 : 
-FC63 : 
-FC64 : 
-FC65 : 
-FC66 : 
-FC67 : 
-FC68 : 
-FC69 : 
-FC6A : 
-FC6B : 
-FC6C : 
-FC6D : 
-FC6E : 
-FC6F : 
-FC70 : 
-FC71 : 
-FC72 : 
-FC73 : 
-FC74 : 
-FC75 : 
-FC76 : 
-FC77 : 
-FC78 : 
-FC79 : 
-FC7A : 
-FC7B : 
-FC7C : 
-FC7D : 
-FC7E : 
-FC7F : 
-FC80 : 
-FC81 : 
-FC82 : 
-FC83 : 
-FC84 : 
-FC85 : 
-FC86 : 
-FC87 : 
-FC88 : 
-FC89 : 
-FC8A : 
-FC8B : 
-FC8C : 
-FC8D : 
-FC8E : 
-FC8F : 
-FC90 : 
-FC91 : 
-FC92 : 
-FC93 : 
-FC94 : 
-FC95 : 
-FC96 : 
-FC97 : 
-FC98 : 
-FC99 : 
-FC9A : 
-FC9B : 
-FC9C : 
-FC9D : 
-FC9E : 
-FC9F : 
-FCA0 : 
-FCA1 : 
-FCA2 : 
-FCA3 : 
-FCA4 : 
-FCA5 : 
-FCA6 : 
-FCA7 : 
-FCA8 : 
-FCA9 : 
-FCAA : 
-FCAB : 
-FCAC : 
-FCAD : 
-FCAE : 
-FCAF : 
-FCB0 : 
-FCB1 : 
-FCB2 : 
-FCB3 : 
-FCB4 : 
-FCB5 : 
-FCB6 : 
-FCB7 : 
-FCB8 : 
-FCB9 : 
-FCBA : 
-FCBB : 
-FCBC : 
-FCBD : 
-FCBE : 
-FCBF : 
-FCC0 : 
-FCC1 : 
-FCC2 : 
-FCC3 : 
-FCC4 : 
-FCC5 : 
-FCC6 : 
-FCC7 : 
-FCC8 : 
-FCC9 : 
-FCCA : 
-FCCB : 
-FCCC : 
-FCCD : 
-FCCE : 
-FCCF : 
-FCD0 : 
-FCD1 : 
-FCD2 : 
-FCD3 : 
-FCD4 : 
-FCD5 : 
-FCD6 : 
-FCD7 : 
-FCD8 : 
-FCD9 : 
-FCDA : 
-FCDB : 
-FCDC : 
-FCDD : 
-FCDE : 
-FCDF : 
-FCE0 : 
-FCE1 : 
-FCE2 : 
-FCE3 : 
-FCE4 : 
-FCE5 : 
-FCE6 : 
-FCE7 : 
-FCE8 : 
-FCE9 : 
-FCEA : 
-FCEB : 
-FCEC : 
-FCED : 
-FCEE : 
-FCEF : 
-FCF0 : 
-FCF1 : 
-FCF2 : 
-FCF3 : 
-FCF4 : 
-FCF5 : 
-FCF6 : 
-FCF7 : 
-FCF8 : 
-FCF9 : 
-FCFA : 
-FCFB : 
-FCFC : 
-FCFD : 
-FCFE : 
-FCFF : 
+FC00: Arabic Ligature Yeh with Hamza Above with Jeem Isolated Form
+FC01: Arabic Ligature Yeh with Hamza Above with Hah Isolated Form
+FC02: Arabic Ligature Yeh with Hamza Above with Meem Isolated Form
+FC03: Arabic Ligature Yeh with Hamza Above with Alef Maksura Isolated Form
+FC04: Arabic Ligature Yeh with Hamza Above with Yeh Isolated Form
+FC05: Arabic Ligature Beh with Jeem Isolated Form
+FC06: Arabic Ligature Beh with Hah Isolated Form
+FC07: Arabic Ligature Beh with Khah Isolated Form
+FC08: Arabic Ligature Beh with Meem Isolated Form
+FC09: Arabic Ligature Beh with Alef Maksura Isolated Form
+FC0A: Arabic Ligature Beh with Yeh Isolated Form
+FC0B: Arabic Ligature Teh with Jeem Isolated Form
+FC0C: Arabic Ligature Teh with Hah Isolated Form
+FC0D: Arabic Ligature Teh with Khah Isolated Form
+FC0E: Arabic Ligature Teh with Meem Isolated Form
+FC0F: Arabic Ligature Teh with Alef Maksura Isolated Form
+FC10: Arabic Ligature Teh with Yeh Isolated Form
+FC11: Arabic Ligature Theh with Jeem Isolated Form
+FC12: Arabic Ligature Theh with Meem Isolated Form
+FC13: Arabic Ligature Theh with Alef Maksura Isolated Form
+FC14: Arabic Ligature Theh with Yeh Isolated Form
+FC15: Arabic Ligature Jeem with Hah Isolated Form
+FC16: Arabic Ligature Jeem with Meem Isolated Form
+FC17: Arabic Ligature Hah with Jeem Isolated Form
+FC18: Arabic Ligature Hah with Meem Isolated Form
+FC19: Arabic Ligature Khah with Jeem Isolated Form
+FC1A: Arabic Ligature Khah with Hah Isolated Form
+FC1B: Arabic Ligature Khah with Meem Isolated Form
+FC1C: Arabic Ligature Seen with Jeem Isolated Form
+FC1D: Arabic Ligature Seen with Hah Isolated Form
+FC1E: Arabic Ligature Seen with Khah Isolated Form
+FC1F: Arabic Ligature Seen with Meem Isolated Form
+FC20: Arabic Ligature Sad with Hah Isolated Form
+FC21: Arabic Ligature Sad with Meem Isolated Form
+FC22: Arabic Ligature Dad with Jeem Isolated Form
+FC23: Arabic Ligature Dad with Hah Isolated Form
+FC24: Arabic Ligature Dad with Khah Isolated Form
+FC25: Arabic Ligature Dad with Meem Isolated Form
+FC26: Arabic Ligature Tah with Hah Isolated Form
+FC27: Arabic Ligature Tah with Meem Isolated Form
+FC28: Arabic Ligature Zah with Meem Isolated Form
+FC29: Arabic Ligature Ain with Jeem Isolated Form
+FC2A: Arabic Ligature Ain with Meem Isolated Form
+FC2B: Arabic Ligature Ghain with Jeem Isolated Form
+FC2C: Arabic Ligature Ghain with Meem Isolated Form
+FC2D: Arabic Ligature Feh with Jeem Isolated Form
+FC2E: Arabic Ligature Feh with Hah Isolated Form
+FC2F: Arabic Ligature Feh with Khah Isolated Form
+FC30: Arabic Ligature Feh with Meem Isolated Form
+FC31: Arabic Ligature Feh with Alef Maksura Isolated Form
+FC32: Arabic Ligature Feh with Yeh Isolated Form
+FC33: Arabic Ligature Qaf with Hah Isolated Form
+FC34: Arabic Ligature Qaf with Meem Isolated Form
+FC35: Arabic Ligature Qaf with Alef Maksura Isolated Form
+FC36: Arabic Ligature Qaf with Yeh Isolated Form
+FC37: Arabic Ligature Kaf with Alef Isolated Form
+FC38: Arabic Ligature Kaf with Jeem Isolated Form
+FC39: Arabic Ligature Kaf with Hah Isolated Form
+FC3A: Arabic Ligature Kaf with Khah Isolated Form
+FC3B: Arabic Ligature Kaf with Lam Isolated Form
+FC3C: Arabic Ligature Kaf with Meem Isolated Form
+FC3D: Arabic Ligature Kaf with Alef Maksura Isolated Form
+FC3E: Arabic Ligature Kaf with Yeh Isolated Form
+FC3F: Arabic Ligature Lam with Jeem Isolated Form
+FC40: Arabic Ligature Lam with Hah Isolated Form
+FC41: Arabic Ligature Lam with Khah Isolated Form
+FC42: Arabic Ligature Lam with Meem Isolated Form
+FC43: Arabic Ligature Lam with Alef Maksura Isolated Form
+FC44: Arabic Ligature Lam with Yeh Isolated Form
+FC45: Arabic Ligature Meem with Jeem Isolated Form
+FC46: Arabic Ligature Meem with Hah Isolated Form
+FC47: Arabic Ligature Meem with Khah Isolated Form
+FC48: Arabic Ligature Meem with Meem Isolated Form
+FC49: Arabic Ligature Meem with Alef Maksura Isolated Form
+FC4A: Arabic Ligature Meem with Yeh Isolated Form
+FC4B: Arabic Ligature Noon with Jeem Isolated Form
+FC4C: Arabic Ligature Noon with Hah Isolated Form
+FC4D: Arabic Ligature Noon with Khah Isolated Form
+FC4E: Arabic Ligature Noon with Meem Isolated Form
+FC4F: Arabic Ligature Noon with Alef Maksura Isolated Form
+FC50: Arabic Ligature Noon with Yeh Isolated Form
+FC51: Arabic Ligature Heh with Jeem Isolated Form
+FC52: Arabic Ligature Heh with Meem Isolated Form
+FC53: Arabic Ligature Heh with Alef Maksura Isolated Form
+FC54: Arabic Ligature Heh with Yeh Isolated Form
+FC55: Arabic Ligature Yeh with Jeem Isolated Form
+FC56: Arabic Ligature Yeh with Hah Isolated Form
+FC57: Arabic Ligature Yeh with Khah Isolated Form
+FC58: Arabic Ligature Yeh with Meem Isolated Form
+FC59: Arabic Ligature Yeh with Alef Maksura Isolated Form
+FC5A: Arabic Ligature Yeh with Yeh Isolated Form
+FC5B: Arabic Ligature Thal with Superscript Alef Isolated Form
+FC5C: Arabic Ligature Reh with Superscript Alef Isolated Form
+FC5D: Arabic Ligature Alef Maksura with Superscript Alef Isolated Form
+FC5E: Arabic Ligature Shadda with Dammatan Isolated Form
+FC5F: Arabic Ligature Shadda with Kasratan Isolated Form
+FC60: Arabic Ligature Shadda with Fatha Isolated Form
+FC61: Arabic Ligature Shadda with Damma Isolated Form
+FC62: Arabic Ligature Shadda with Kasra Isolated Form
+FC63: Arabic Ligature Shadda with Superscript Alef Isolated Form
+FC64: Arabic Ligature Yeh with Hamza Above with Reh Final Form
+FC65: Arabic Ligature Yeh with Hamza Above with Zain Final Form
+FC66: Arabic Ligature Yeh with Hamza Above with Meem Final Form
+FC67: Arabic Ligature Yeh with Hamza Above with Noon Final Form
+FC68: Arabic Ligature Yeh with Hamza Above with Alef Maksura Final Form
+FC69: Arabic Ligature Yeh with Hamza Above with Yeh Final Form
+FC6A: Arabic Ligature Beh with Reh Final Form
+FC6B: Arabic Ligature Beh with Zain Final Form
+FC6C: Arabic Ligature Beh with Meem Final Form
+FC6D: Arabic Ligature Beh with Noon Final Form
+FC6E: Arabic Ligature Beh with Alef Maksura Final Form
+FC6F: Arabic Ligature Beh with Yeh Final Form
+FC70: Arabic Ligature Teh with Reh Final Form
+FC71: Arabic Ligature Teh with Zain Final Form
+FC72: Arabic Ligature Teh with Meem Final Form
+FC73: Arabic Ligature Teh with Noon Final Form
+FC74: Arabic Ligature Teh with Alef Maksura Final Form
+FC75: Arabic Ligature Teh with Yeh Final Form
+FC76: Arabic Ligature Theh with Reh Final Form
+FC77: Arabic Ligature Theh with Zain Final Form
+FC78: Arabic Ligature Theh with Meem Final Form
+FC79: Arabic Ligature Theh with Noon Final Form
+FC7A: Arabic Ligature Theh with Alef Maksura Final Form
+FC7B: Arabic Ligature Theh with Yeh Final Form
+FC7C: Arabic Ligature Feh with Alef Maksura Final Form
+FC7D: Arabic Ligature Feh with Yeh Final Form
+FC7E: Arabic Ligature Qaf with Alef Maksura Final Form
+FC7F: Arabic Ligature Qaf with Yeh Final Form
+FC80: Arabic Ligature Kaf with Alef Final Form
+FC81: Arabic Ligature Kaf with Lam Final Form
+FC82: Arabic Ligature Kaf with Meem Final Form
+FC83: Arabic Ligature Kaf with Alef Maksura Final Form
+FC84: Arabic Ligature Kaf with Yeh Final Form
+FC85: Arabic Ligature Lam with Meem Final Form
+FC86: Arabic Ligature Lam with Alef Maksura Final Form
+FC87: Arabic Ligature Lam with Yeh Final Form
+FC88: Arabic Ligature Meem with Alef Final Form
+FC89: Arabic Ligature Meem with Meem Final Form
+FC8A: Arabic Ligature Noon with Reh Final Form
+FC8B: Arabic Ligature Noon with Zain Final Form
+FC8C: Arabic Ligature Noon with Meem Final Form
+FC8D: Arabic Ligature Noon with Noon Final Form
+FC8E: Arabic Ligature Noon with Alef Maksura Final Form
+FC8F: Arabic Ligature Noon with Yeh Final Form
+FC90: Arabic Ligature Alef Maksura with Superscript Alef Final Form
+FC91: Arabic Ligature Yeh with Reh Final Form
+FC92: Arabic Ligature Yeh with Zain Final Form
+FC93: Arabic Ligature Yeh with Meem Final Form
+FC94: Arabic Ligature Yeh with Noon Final Form
+FC95: Arabic Ligature Yeh with Alef Maksura Final Form
+FC96: Arabic Ligature Yeh with Yeh Final Form
+FC97: Arabic Ligature Yeh with Hamza Above with Jeem Initial Form
+FC98: Arabic Ligature Yeh with Hamza Above with Hah Initial Form
+FC99: Arabic Ligature Yeh with Hamza Above with Khah Initial Form
+FC9A: Arabic Ligature Yeh with Hamza Above with Meem Initial Form
+FC9B: Arabic Ligature Yeh with Hamza Above with Heh Initial Form
+FC9C: Arabic Ligature Beh with Jeem Initial Form
+FC9D: Arabic Ligature Beh with Hah Initial Form
+FC9E: Arabic Ligature Beh with Khah Initial Form
+FC9F: Arabic Ligature Beh with Meem Initial Form
+FCA0: Arabic Ligature Beh with Heh Initial Form
+FCA1: Arabic Ligature Teh with Jeem Initial Form
+FCA2: Arabic Ligature Teh with Hah Initial Form
+FCA3: Arabic Ligature Teh with Khah Initial Form
+FCA4: Arabic Ligature Teh with Meem Initial Form
+FCA5: Arabic Ligature Teh with Heh Initial Form
+FCA6: Arabic Ligature Theh with Meem Initial Form
+FCA7: Arabic Ligature Jeem with Hah Initial Form
+FCA8: Arabic Ligature Jeem with Meem Initial Form
+FCA9: Arabic Ligature Hah with Jeem Initial Form
+FCAA: Arabic Ligature Hah with Meem Initial Form
+FCAB: Arabic Ligature Khah with Jeem Initial Form
+FCAC: Arabic Ligature Khah with Meem Initial Form
+FCAD: Arabic Ligature Seen with Jeem Initial Form
+FCAE: Arabic Ligature Seen with Hah Initial Form
+FCAF: Arabic Ligature Seen with Khah Initial Form
+FCB0: Arabic Ligature Seen with Meem Initial Form
+FCB1: Arabic Ligature Sad with Hah Initial Form
+FCB2: Arabic Ligature Sad with Khah Initial Form
+FCB3: Arabic Ligature Sad with Meem Initial Form
+FCB4: Arabic Ligature Dad with Jeem Initial Form
+FCB5: Arabic Ligature Dad with Hah Initial Form
+FCB6: Arabic Ligature Dad with Khah Initial Form
+FCB7: Arabic Ligature Dad with Meem Initial Form
+FCB8: Arabic Ligature Tah with Hah Initial Form
+FCB9: Arabic Ligature Zah with Meem Initial Form
+FCBA: Arabic Ligature Ain with Jeem Initial Form
+FCBB: Arabic Ligature Ain with Meem Initial Form
+FCBC: Arabic Ligature Ghain with Jeem Initial Form
+FCBD: Arabic Ligature Ghain with Meem Initial Form
+FCBE: Arabic Ligature Feh with Jeem Initial Form
+FCBF: Arabic Ligature Feh with Hah Initial Form
+FCC0: Arabic Ligature Feh with Khah Initial Form
+FCC1: Arabic Ligature Feh with Meem Initial Form
+FCC2: Arabic Ligature Qaf with Hah Initial Form
+FCC3: Arabic Ligature Qaf with Meem Initial Form
+FCC4: Arabic Ligature Kaf with Jeem Initial Form
+FCC5: Arabic Ligature Kaf with Hah Initial Form
+FCC6: Arabic Ligature Kaf with Khah Initial Form
+FCC7: Arabic Ligature Kaf with Lam Initial Form
+FCC8: Arabic Ligature Kaf with Meem Initial Form
+FCC9: Arabic Ligature Lam with Jeem Initial Form
+FCCA: Arabic Ligature Lam with Hah Initial Form
+FCCB: Arabic Ligature Lam with Khah Initial Form
+FCCC: Arabic Ligature Lam with Meem Initial Form
+FCCD: Arabic Ligature Lam with Heh Initial Form
+FCCE: Arabic Ligature Meem with Jeem Initial Form
+FCCF: Arabic Ligature Meem with Hah Initial Form
+FCD0: Arabic Ligature Meem with Khah Initial Form
+FCD1: Arabic Ligature Meem with Meem Initial Form
+FCD2: Arabic Ligature Noon with Jeem Initial Form
+FCD3: Arabic Ligature Noon with Hah Initial Form
+FCD4: Arabic Ligature Noon with Khah Initial Form
+FCD5: Arabic Ligature Noon with Meem Initial Form
+FCD6: Arabic Ligature Noon with Heh Initial Form
+FCD7: Arabic Ligature Heh with Jeem Initial Form
+FCD8: Arabic Ligature Heh with Meem Initial Form
+FCD9: Arabic Ligature Heh with Superscript Alef Initial Form
+FCDA: Arabic Ligature Yeh with Jeem Initial Form
+FCDB: Arabic Ligature Yeh with Hah Initial Form
+FCDC: Arabic Ligature Yeh with Khah Initial Form
+FCDD: Arabic Ligature Yeh with Meem Initial Form
+FCDE: Arabic Ligature Yeh with Heh Initial Form
+FCDF: Arabic Ligature Yeh with Hamza Above with Meem Medial Form
+FCE0: Arabic Ligature Yeh with Hamza Above with Heh Medial Form
+FCE1: Arabic Ligature Beh with Meem Medial Form
+FCE2: Arabic Ligature Beh with Heh Medial Form
+FCE3: Arabic Ligature Teh with Meem Medial Form
+FCE4: Arabic Ligature Teh with Heh Medial Form
+FCE5: Arabic Ligature Theh with Meem Medial Form
+FCE6: Arabic Ligature Theh with Heh Medial Form
+FCE7: Arabic Ligature Seen with Meem Medial Form
+FCE8: Arabic Ligature Seen with Heh Medial Form
+FCE9: Arabic Ligature Sheen with Meem Medial Form
+FCEA: Arabic Ligature Sheen with Heh Medial Form
+FCEB: Arabic Ligature Kaf with Lam Medial Form
+FCEC: Arabic Ligature Kaf with Meem Medial Form
+FCED: Arabic Ligature Lam with Meem Medial Form
+FCEE: Arabic Ligature Noon with Meem Medial Form
+FCEF: Arabic Ligature Noon with Heh Medial Form
+FCF0: Arabic Ligature Yeh with Meem Medial Form
+FCF1: Arabic Ligature Yeh with Heh Medial Form
+FCF2: Arabic Ligature Shadda with Fatha Medial Form
+FCF3: Arabic Ligature Shadda with Damma Medial Form
+FCF4: Arabic Ligature Shadda with Kasra Medial Form
+FCF5: Arabic Ligature Tah with Alef Maksura Isolated Form
+FCF6: Arabic Ligature Tah with Yeh Isolated Form
+FCF7: Arabic Ligature Ain with Alef Maksura Isolated Form
+FCF8: Arabic Ligature Ain with Yeh Isolated Form
+FCF9: Arabic Ligature Ghain with Alef Maksura Isolated Form
+FCFA: Arabic Ligature Ghain with Yeh Isolated Form
+FCFB: Arabic Ligature Seen with Alef Maksura Isolated Form
+FCFC: Arabic Ligature Seen with Yeh Isolated Form
+FCFD: Arabic Ligature Sheen with Alef Maksura Isolated Form
+FCFE: Arabic Ligature Sheen with Yeh Isolated Form
+FCFF: Arabic Ligature Hah with Alef Maksura Isolated Form
