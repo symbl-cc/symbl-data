@@ -1,4 +1,4 @@
-2200: for All : universal quantifier
+2200: For All : universal quantifier
 2201: Complement
 2202: Partial Differential
 2203: There Exists : existential quantifier
@@ -6,9 +6,9 @@
 2205: Empty Set : null set
 2206: Increment : laplace operator : forward difference : symmetric difference (in set theory)
 2207: Nabla : backward difference : gradient, del
-2208: Element of
-2209: Not An Element of
-220A: Small Element of
+2208: Element Of
+2209: Not an Element Of
+220A: Small Element Of
 220B: Contains As Member : such that
 220C: Does Not Contain As Member
 220D: Small Contains As Member
@@ -17,7 +17,7 @@
 2210: N-Ary Coproduct : coproduct sign
 2211: N-Ary Summation : summation sign
 2212: Minus Sign
-2213: Minus-Or-Plus Sign
+2213: Minus-or-Plus Sign
 2214: Dot Plus
 2215: Division Slash
 2216: Set Minus
@@ -27,7 +27,7 @@
 221A: Square Root : radical sign
 221B: Cube Root
 221C: Fourth Root
-221D: Proportional to
+221D: Proportional To
 221E: Infinity
 221F: Right Angle
 2220: Angle
@@ -35,8 +35,8 @@
 2222: Spherical Angle : angle arc
 2223: Divides : such that : apl stile
 2224: Does Not Divide
-2225: Parallel to
-2226: Not Parallel to
+2225: Parallel To
+2226: Not Parallel To
 2227: Logical And : wedge, conjunction
 2228: Logical Or : vee, disjunction
 2229: Intersection : cap, hat
@@ -65,86 +65,86 @@
 2240: Wreath Product
 2241: Not Tilde
 2242: Minus Tilde
-2243: Asymptotically Equal to
-2244: Not Asymptotically Equal to
-2245: Approximately Equal to
-2246: Approximately But Not Actually Equal to
-2247: Neither Approximately Nor Actually Equal to
-2248: Almost Equal to : asymptotic to
-2249: Not Almost Equal to
-224A: Almost Equal Or Equal to
+2243: Asymptotically Equal To
+2244: Not Asymptotically Equal To
+2245: Approximately Equal To
+2246: Approximately But Not Actually Equal To
+2247: Neither Approximately nor Actually Equal To
+2248: Almost Equal To : asymptotic to
+2249: Not Almost Equal To
+224A: Almost Equal or Equal To
 224B: Triple Tilde
-224C: All Equal to
-224D: Equivalent to
-224E: Geometrically Equivalent to
+224C: All Equal To
+224D: Equivalent To
+224E: Geometrically Equivalent To
 224F: Difference Between
 2250: Approaches the Limit
-2251: Geometrically Equal to
-2252: Approximately Equal to Or the Image of : nearly equals
-2253: Image of Or Approximately Equal to
+2251: Geometrically Equal To
+2252: Approximately Equal To or the Image Of : nearly equals
+2253: Image of or Approximately Equal To
 2254: Colon Equals
 2255: Equals Colon
-2256: Ring In Equal to
-2257: Ring Equal to : approximately equal to
-2258: Corresponds to
+2256: Ring In Equal To
+2257: Ring Equal To : approximately equal to
+2258: Corresponds To
 2259: Estimates : corresponds to
-225A: Equiangular to
+225A: Equiangular To
 225B: Star Equals
-225C: Delta Equal to : equiangular : equal to by definition
-225D: Equal to By Definition
+225C: Delta Equal To : equiangular : equal to by definition
+225D: Equal To By Definition
 225E: Measured By
-225F: Questioned Equal to
-2260: Not Equal to
-2261: Identical to
-2262: Not Identical to
-2263: Strictly Equivalent to
-2264: Less-Than Or Equal to
-2265: Greater-Than Or Equal to
-2266: Less-Than Over Equal to
-2267: Greater-Than Over Equal to
-2268: Less-Than But Not Equal to
-2269: Greater-Than But Not Equal to
+225F: Questioned Equal To
+2260: Not Equal To
+2261: Identical To
+2262: Not Identical To
+2263: Strictly Equivalent To
+2264: Less-Than or Equal To
+2265: Greater-Than or Equal To
+2266: Less-Than Over Equal To
+2267: Greater-Than Over Equal To
+2268: Less-Than But Not Equal To
+2269: Greater-Than But Not Equal To
 226A: Much Less-Than
 226B: Much Greater-Than
 226C: Between : plaintiff, quantic
-226D: Not Equivalent to
+226D: Not Equivalent To
 226E: Not Less-Than
 226F: Not Greater-Than
-2270: Neither Less-Than Nor Equal to
-2271: Neither Greater-Than Nor Equal to
-2272: Less-Than Or Equivalent to
-2273: Greater-Than Or Equivalent to
-2274: Neither Less-Than Nor Equivalent to
-2275: Neither Greater-Than Nor Equivalent to
-2276: Less-Than Or Greater-Than
-2277: Greater-Than Or Less-Than
-2278: Neither Less-Than Nor Greater-Than
-2279: Neither Greater-Than Nor Less-Than
+2270: Neither Less-Than nor Equal To
+2271: Neither Greater-Than nor Equal To
+2272: Less-Than or Equivalent To
+2273: Greater-Than or Equivalent To
+2274: Neither Less-Than nor Equivalent To
+2275: Neither Greater-Than nor Equivalent To
+2276: Less-Than or Greater-Than
+2277: Greater-Than or Less-Than
+2278: Neither Less-Than nor Greater-Than
+2279: Neither Greater-Than nor Less-Than
 227A: Precedes : lower rank than
 227B: Succeeds : higher rank than
-227C: Precedes Or Equal to
-227D: Succeeds Or Equal to
-227E: Precedes Or Equivalent to
-227F: Succeeds Or Equivalent to
+227C: Precedes or Equal To
+227D: Succeeds or Equal To
+227E: Precedes or Equivalent To
+227F: Succeeds or Equivalent To
 2280: Does Not Precede
 2281: Does Not Succeed
-2282: Subset of : included in set
-2283: Superset of : includes in set
-2284: Not A Subset of
-2285: Not A Superset of
-2286: Subset of Or Equal to
-2287: Superset of Or Equal to
-2288: Neither A Subset of Nor Equal to
-2289: Neither A Superset of Nor Equal to
-228A: Subset of with Not Equal to
-228B: Superset of with Not Equal to
+2282: Subset Of : included in set
+2283: Superset Of : includes in set
+2284: Not a Subset Of
+2285: Not a Superset Of
+2286: Subset of or Equal To
+2287: Superset of or Equal To
+2288: Neither a Subset of nor Equal To
+2289: Neither a Superset of nor Equal To
+228A: Subset of with Not Equal To
+228B: Superset of with Not Equal To
 228C: Multiset
 228D: Multiset Multiplication
 228E: Multiset Union : z notation bag addition
-228F: Square Image of
-2290: Square Original of
-2291: Square Image of Or Equal to
-2292: Square Original of Or Equal to
+228F: Square Image Of
+2290: Square Original Of
+2291: Square Image of or Equal To
+2292: Square Original of or Equal To
 2293: Square Cap
 2294: Square Cup
 2295: Circled Plus : direct sum : vector pointing into page
@@ -176,12 +176,12 @@
 22AF: Negated Double Vertical Bar Double Right Turnstile
 22B0: Precedes Under Relation
 22B1: Succeeds Under Relation
-22B2: Normal Subgroup of
+22B2: Normal Subgroup Of
 22B3: Contains As Normal Subgroup
-22B4: Normal Subgroup of Or Equal to
-22B5: Contains As Normal Subgroup Or Equal to
-22B6: Original of
-22B7: Image of
+22B4: Normal Subgroup of or Equal To
+22B5: Contains As Normal Subgroup or Equal To
+22B6: Original Of
+22B7: Image Of
 22B8: Multimap
 22B9: Hermitian Conjugate Matrix
 22BA: Intercalate
@@ -211,31 +211,31 @@
 22D2: Double Intersection
 22D3: Double Union
 22D4: Pitchfork : proper intersection
-22D5: Equal And Parallel to
+22D5: Equal and Parallel To
 22D6: Less-Than with Dot
 22D7: Greater-Than with Dot
 22D8: Very Much Less-Than
 22D9: Very Much Greater-Than
-22DA: Less-Than Equal to Or Greater-Than
-22DB: Greater-Than Equal to Or Less-Than
-22DC: Equal to Or Less-Than
-22DD: Equal to Or Greater-Than
-22DE: Equal to Or Precedes
-22DF: Equal to Or Succeeds
-22E0: Does Not Precede Or Equal
-22E1: Does Not Succeed Or Equal
-22E2: Not Square Image of Or Equal to
-22E3: Not Square Original of Or Equal to
-22E4: Square Image of Or Not Equal to
-22E5: Square Original of Or Not Equal to
-22E6: Less-Than But Not Equivalent to
-22E7: Greater-Than But Not Equivalent to
-22E8: Precedes But Not Equivalent to
-22E9: Succeeds But Not Equivalent to
-22EA: Not Normal Subgroup of
+22DA: Less-Than Equal To or Greater-Than
+22DB: Greater-Than Equal To or Less-Than
+22DC: Equal To or Less-Than
+22DD: Equal To or Greater-Than
+22DE: Equal To or Precedes
+22DF: Equal To or Succeeds
+22E0: Does Not Precede or Equal
+22E1: Does Not Succeed or Equal
+22E2: Not Square Image of or Equal To
+22E3: Not Square Original of or Equal To
+22E4: Square Image of or Not Equal To
+22E5: Square Original of or Not Equal To
+22E6: Less-Than But Not Equivalent To
+22E7: Greater-Than But Not Equivalent To
+22E8: Precedes But Not Equivalent To
+22E9: Succeeds But Not Equivalent To
+22EA: Not Normal Subgroup Of
 22EB: Does Not Contain As Normal Subgroup
-22EC: Not Normal Subgroup of Or Equal to
-22ED: Does Not Contain As Normal Subgroup Or Equal
+22EC: Not Normal Subgroup of or Equal To
+22ED: Does Not Contain As Normal Subgroup or Equal
 22EE: Vertical Ellipsis
 22EF: Midline Horizontal Ellipsis
 22F0: Up Right Diagonal Ellipsis

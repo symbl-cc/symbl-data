@@ -1,9 +1,9 @@
-0100: Latin Capital Letter A with Macron
-0101: Latin Small Letter A with Macron
-0102: Latin Capital Letter A with Breve
-0103: Latin Small Letter A with Breve
-0104: Latin Capital Letter A with Ogonek
-0105: Latin Small Letter A with Ogonek
+0100: Latin Capital Letter a with Macron
+0101: Latin Small Letter a with Macron
+0102: Latin Capital Letter a with Breve
+0103: Latin Small Letter a with Breve
+0104: Latin Capital Letter a with Ogonek
+0105: Latin Small Letter a with Ogonek
 0106: Latin Capital Letter C with Acute
 0107: Latin Small Letter C with Acute
 0108: Latin Capital Letter C with Circumflex
@@ -71,7 +71,7 @@
 0146: Latin Small Letter N with Cedilla
 0147: Latin Capital Letter N with Caron
 0148: Latin Small Letter N with Caron
-0149: Latin Small Letter N Preceded By Apostrophe : latin small letter apostrophe n 
+0149: Latin Small Letter N Preceded By Apostrophe : latin small letter apostrophe n
 014A: Latin Capital Letter Eng
 014B: Latin Small Letter Eng : engma, angma
 014C: Latin Capital Letter O with Macron
@@ -203,27 +203,27 @@
 01CA: Latin Capital Letter Nj
 01CB: Latin Capital Letter N with Small Letter J
 01CC: Latin Small Letter Nj
-01CD: Latin Capital Letter A with Caron
-01CE: Latin Small Letter A with Caron
+01CD: Latin Capital Letter a with Caron
+01CE: Latin Small Letter a with Caron
 01CF: Latin Capital Letter I with Caron
 01D0: Latin Small Letter I with Caron
 01D1: Latin Capital Letter O with Caron
 01D2: Latin Small Letter O with Caron
 01D3: Latin Capital Letter U with Caron
 01D4: Latin Small Letter U with Caron
-01D5: Latin Capital Letter U with Diaeresis And Macron
-01D6: Latin Small Letter U with Diaeresis And Macron
-01D7: Latin Capital Letter U with Diaeresis And Acute
-01D8: Latin Small Letter U with Diaeresis And Acute
-01D9: Latin Capital Letter U with Diaeresis And Caron
-01DA: Latin Small Letter U with Diaeresis And Caron
-01DB: Latin Capital Letter U with Diaeresis And Grave
-01DC: Latin Small Letter U with Diaeresis And Grave
+01D5: Latin Capital Letter U with Diaeresis and Macron
+01D6: Latin Small Letter U with Diaeresis and Macron
+01D7: Latin Capital Letter U with Diaeresis and Acute
+01D8: Latin Small Letter U with Diaeresis and Acute
+01D9: Latin Capital Letter U with Diaeresis and Caron
+01DA: Latin Small Letter U with Diaeresis and Caron
+01DB: Latin Capital Letter U with Diaeresis and Grave
+01DC: Latin Small Letter U with Diaeresis and Grave
 01DD: Latin Small Letter Turned E
-01DE: Latin Capital Letter A with Diaeresis And Macron
-01DF: Latin Small Letter A with Diaeresis And Macron
-01E0: Latin Capital Letter A with Dot Above And Macron
-01E1: Latin Small Letter A with Dot Above And Macron
+01DE: Latin Capital Letter a with Diaeresis and Macron
+01DF: Latin Small Letter a with Diaeresis and Macron
+01E0: Latin Capital Letter a with Dot Above and Macron
+01E1: Latin Small Letter a with Dot Above and Macron
 01E2: Latin Capital Letter Ae with Macron
 01E3: Latin Small Letter Ae with Macron
 01E4: Latin Capital Letter G with Stroke
@@ -234,8 +234,8 @@
 01E9: Latin Small Letter K with Caron
 01EA: Latin Capital Letter O with Ogonek
 01EB: Latin Small Letter O with Ogonek
-01EC: Latin Capital Letter O with Ogonek And Macron
-01ED: Latin Small Letter O with Ogonek And Macron
+01EC: Latin Capital Letter O with Ogonek and Macron
+01ED: Latin Small Letter O with Ogonek and Macron
 01EE: Latin Capital Letter Ezh with Caron
 01EF: Latin Small Letter Ezh with Caron
 01F0: Latin Small Letter J with Caron
@@ -248,9 +248,9 @@
 01F7: Latin Capital Letter Wynn : wen
 01F8: Latin Capital Letter N with Grave
 01F9: Latin Small Letter N with Grave
-01FA: Latin Capital Letter A with Ring Above And Acute
-01FB: Latin Small Letter A with Ring Above And Acute
+01FA: Latin Capital Letter a with Ring Above and Acute
+01FB: Latin Small Letter a with Ring Above and Acute
 01FC: Latin Capital Letter Ae with Acute
 01FD: Latin Small Letter Ae with Acute
-01FE: Latin Capital Letter O with Stroke And Acute
-01FF: Latin Small Letter O with Stroke And Acute
+01FE: Latin Capital Letter O with Stroke and Acute
+01FF: Latin Small Letter O with Stroke and Acute

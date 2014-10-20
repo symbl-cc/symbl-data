@@ -74,7 +74,7 @@
 0349: Combining Left Angle Below
 034A: Combining Not Tilde Above
 034B: Combining Homothetic Above
-034C: Combining Almost Equal to Above
+034C: Combining Almost Equal To Above
 034D: Combining Left Right Arrow Below
 034E: Combining Upwards Arrow Below
 034F: Combining Grapheme Joiner
@@ -84,7 +84,7 @@
 0353: Combining X Below
 0354: Combining Left Arrowhead Below
 0355: Combining Right Arrowhead Below
-0356: Combining Right Arrowhead And Up Arrowhead Below
+0356: Combining Right Arrowhead and Up Arrowhead Below
 0357: Combining Right Half Ring Above
 0358: Combining Dot Above Right
 0359: Combining Asterisk Below
@@ -142,7 +142,7 @@
 038D:
 038E: Greek Capital Letter Upsilon with Tonos
 038F: Greek Capital Letter Omega with Tonos
-0390: Greek Small Letter Iota with Dialytika And Tonos
+0390: Greek Small Letter Iota with Dialytika and Tonos
 0391: Greek Capital Letter Alpha
 0392: Greek Capital Letter Beta
 0393: Greek Capital Letter Gamma : gamma function
@@ -174,7 +174,7 @@
 03AD: Greek Small Letter Epsilon with Tonos
 03AE: Greek Small Letter Eta with Tonos
 03AF: Greek Small Letter Iota with Tonos
-03B0: Greek Small Letter Upsilon with Dialytika And Tonos
+03B0: Greek Small Letter Upsilon with Dialytika and Tonos
 03B1: Greek Small Letter Alpha
 03B2: Greek Small Letter Beta
 03B3: Greek Small Letter Gamma
@@ -209,8 +209,8 @@
 03D0: Greek Beta Symbol : curled beta
 03D1: Greek Theta Symbol : script theta
 03D2: Greek Upsilon with Hook Symbol
-03D3: Greek Upsilon with Acute And Hook Symbol
-03D4: Greek Upsilon with Diaeresis And Hook Symbol
+03D3: Greek Upsilon with Acute and Hook Symbol
+03D4: Greek Upsilon with Diaeresis and Hook Symbol
 03D5: Greek Phi Symbol
 03D6: Greek Pi Symbol : omega pi
 03D7: Greek Kai Symbol
@@ -240,7 +240,7 @@
 03EF: Coptic Small Letter Dei
 03F0: Greek Kappa Symbol : script kappa
 03F1: Greek Rho Symbol : tailed rho
-03F2: Greek Lunate Sigma Symbol : greek small letter lunate sigma 
+03F2: Greek Lunate Sigma Symbol : greek small letter lunate sigma
 03F3: Greek Letter Yot
 03F4: Greek Capital Theta Symbol
 03F5: Greek Lunate Epsilon Symbol : straight epsilon

@@ -1,7 +1,7 @@
-0200: Latin Capital Letter A with Double Grave
-0201: Latin Small Letter A with Double Grave
-0202: Latin Capital Letter A with Inverted Breve
-0203: Latin Small Letter A with Inverted Breve
+0200: Latin Capital Letter a with Double Grave
+0201: Latin Small Letter a with Double Grave
+0202: Latin Capital Letter a with Inverted Breve
+0203: Latin Small Letter a with Inverted Breve
 0204: Latin Capital Letter E with Double Grave
 0205: Latin Small Letter E with Double Grave
 0206: Latin Capital Letter E with Inverted Breve
@@ -36,18 +36,18 @@
 0223: Latin Small Letter Ou
 0224: Latin Capital Letter Z with Hook
 0225: Latin Small Letter Z with Hook
-0226: Latin Capital Letter A with Dot Above
-0227: Latin Small Letter A with Dot Above
+0226: Latin Capital Letter a with Dot Above
+0227: Latin Small Letter a with Dot Above
 0228: Latin Capital Letter E with Cedilla
 0229: Latin Small Letter E with Cedilla
-022A: Latin Capital Letter O with Diaeresis And Macron
-022B: Latin Small Letter O with Diaeresis And Macron
-022C: Latin Capital Letter O with Tilde And Macron
-022D: Latin Small Letter O with Tilde And Macron
+022A: Latin Capital Letter O with Diaeresis and Macron
+022B: Latin Small Letter O with Diaeresis and Macron
+022C: Latin Capital Letter O with Tilde and Macron
+022D: Latin Small Letter O with Tilde and Macron
 022E: Latin Capital Letter O with Dot Above
 022F: Latin Small Letter O with Dot Above
-0230: Latin Capital Letter O with Dot Above And Macron
-0231: Latin Small Letter O with Dot Above And Macron
+0230: Latin Capital Letter O with Dot Above and Macron
+0231: Latin Small Letter O with Dot Above and Macron
 0232: Latin Capital Letter Y with Macron
 0233: Latin Small Letter Y with Macron
 0234: Latin Small Letter L with Curl
@@ -56,7 +56,7 @@
 0237: Latin Small Letter Dotless J
 0238: Latin Small Letter Db Digraph
 0239: Latin Small Letter Qp Digraph
-023A: Latin Capital Letter A with Stroke
+023A: Latin Capital Letter a with Stroke
 023B: Latin Capital Letter C with Stroke
 023C: Latin Small Letter C with Stroke
 023D: Latin Capital Letter L with Bar
@@ -79,7 +79,7 @@
 024E: Latin Capital Letter Y with Stroke
 024F: Latin Small Letter Y with Stroke
 0250: Latin Small Letter Turned A
-0251: Latin Small Letter Alpha : latin small letter script a 
+0251: Latin Small Letter Alpha : latin small letter script a
 0252: Latin Small Letter Turned Alpha
 0253: Latin Small Letter B with Hook
 0254: Latin Small Letter Open O
@@ -98,7 +98,7 @@
 0261: Latin Small Letter Script G
 0262: Latin Letter Small Capital G
 0263: Latin Small Letter Gamma
-0264: Latin Small Letter Rams Horn : latin small letter baby gamma 
+0264: Latin Small Letter Rams Horn : latin small letter baby gamma
 0265: Latin Small Letter Turned H
 0266: Latin Small Letter H with Hook
 0267: Latin Small Letter Heng with Hook
@@ -130,14 +130,14 @@
 0281: Latin Letter Small Capital Inverted R
 0282: Latin Small Letter S with Hook
 0283: Latin Small Letter Esh
-0284: Latin Small Letter Dotless J with Stroke And Hook
+0284: Latin Small Letter Dotless J with Stroke and Hook
 0285: Latin Small Letter Squat Reversed Esh
 0286: Latin Small Letter Esh with Curl
 0287: Latin Small Letter Turned T
 0288: Latin Small Letter T with Retroflex Hook
 0289: Latin Small Letter U Bar
 028A: Latin Small Letter Upsilon
-028B: Latin Small Letter V with Hook : latin small letter script v 
+028B: Latin Small Letter V with Hook : latin small letter script v
 028C: Latin Small Letter Turned V : caret, wedge
 028D: Latin Small Letter Turned W
 028E: Latin Small Letter Turned Y
@@ -173,7 +173,7 @@
 02AC: Latin Letter Bilabial Percussive
 02AD: Latin Letter Bidental Percussive
 02AE: Latin Small Letter Turned H with Fishhook
-02AF: Latin Small Letter Turned H with Fishhook And Tail
+02AF: Latin Small Letter Turned H with Fishhook and Tail
 02B0: Modifier Letter Small H
 02B1: Modifier Letter Small H with Hook
 02B2: Modifier Letter Small J

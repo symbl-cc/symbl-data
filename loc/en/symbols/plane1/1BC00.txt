@@ -31,12 +31,12 @@
 1BC1E: Duployan Letter N M
 1BC1F: Duployan Letter J M
 1BC20: Duployan Letter S J
-1BC21: Duployan Letter M With Dot
-1BC22: Duployan Letter N With Dot
-1BC23: Duployan Letter J With Dot
-1BC24: Duployan Letter J With Dots Inside And Above
-1BC25: Duployan Letter S With Dot
-1BC26: Duployan Letter S With Dot Below
+1BC21: Duployan Letter M with Dot
+1BC22: Duployan Letter N with Dot
+1BC23: Duployan Letter J with Dot
+1BC24: Duployan Letter J with Dots Inside and Above
+1BC25: Duployan Letter S with Dot
+1BC26: Duployan Letter S with Dot Below
 1BC27: Duployan Letter M S
 1BC28: Duployan Letter N S
 1BC29: Duployan Letter J S
@@ -45,7 +45,7 @@
 1BC2C: Duployan Letter N M S
 1BC2D: Duployan Letter J M S
 1BC2E: Duployan Letter S J S
-1BC2F: Duployan Letter J S With Dot
+1BC2F: Duployan Letter J S with Dot
 1BC30: Duployan Letter J N
 1BC31: Duployan Letter J N S
 1BC32: Duployan Letter S T
@@ -117,7 +117,7 @@
 1BC74: Duployan Affix Mid Vertical Secant
 1BC75: Duployan Affix High Vertical Secant
 1BC76: Duployan Affix Attached Secant
-1BC77: Duployan Affix Attached Left-to-Right Secant
+1BC77: Duployan Affix Attached Left-To-Right Secant
 1BC78: Duployan Affix Attached Tangent
 1BC79: Duployan Affix Attached Tail
 1BC7A: Duployan Affix Attached E Hook
@@ -154,7 +154,7 @@
 1BC99: Duployan Affix Low Arrow
 1BC9A:
 1BC9B:
-1BC9C: Duployan Sign O With Cross
+1BC9C: Duployan Sign O with Cross
 1BC9D: Duployan Thick Letter Selector
 1BC9E: Duployan Double Mark
 1BC9F: Duployan Punctuation Chinook Full Stop

@@ -16,8 +16,8 @@
 290F: Rightwards Triple Dash Arrow
 2910: Rightwards Two-Headed Triple Dash Arrow
 2911: Rightwards Arrow with Dotted Stem
-2912: Upwards Arrow to Bar
-2913: Downwards Arrow to Bar
+2912: Upwards Arrow To Bar
+2913: Downwards Arrow To Bar
 2914: Rightwards Arrow with Tail with Vertical Stroke : z notation partial injection
 2915: Rightwards Arrow with Tail with Double Vertical Stroke : z notation finite injection
 2916: Rightwards Two-Headed Arrow with Tail : bijective mapping : z notation bijection
@@ -27,20 +27,20 @@
 291A: Rightwards Arrow-Tail
 291B: Leftwards Double Arrow-Tail
 291C: Rightwards Double Arrow-Tail
-291D: Leftwards Arrow to Black Diamond
-291E: Rightwards Arrow to Black Diamond
-291F: Leftwards Arrow from Bar to Black Diamond
-2920: Rightwards Arrow from Bar to Black Diamond
-2921: North West And South East Arrow
-2922: North East And South West Arrow
+291D: Leftwards Arrow To Black Diamond
+291E: Rightwards Arrow To Black Diamond
+291F: Leftwards Arrow from Bar To Black Diamond
+2920: Rightwards Arrow from Bar To Black Diamond
+2921: North West and South East Arrow
+2922: North East and South West Arrow
 2923: North West Arrow with Hook
 2924: North East Arrow with Hook
 2925: South East Arrow with Hook
 2926: South West Arrow with Hook
-2927: North West Arrow And North East Arrow
-2928: North East Arrow And South East Arrow
-2929: South East Arrow And South West Arrow
-292A: South West Arrow And North West Arrow
+2927: North West Arrow and North East Arrow
+2928: North East Arrow and South East Arrow
+2929: South East Arrow and South West Arrow
+292A: South West Arrow and North West Arrow
 292B: Rising Diagonal Crossing Falling Diagonal
 292C: Falling Diagonal Crossing Rising Diagonal
 292D: South East Arrow Crossing North East Arrow
@@ -80,14 +80,14 @@
 294F: Up Barb Right Down Barb Right Harpoon
 2950: Left Barb Down Right Barb Down Harpoon
 2951: Up Barb Left Down Barb Left Harpoon
-2952: Leftwards Harpoon with Barb Up to Bar
-2953: Rightwards Harpoon with Barb Up to Bar
-2954: Upwards Harpoon with Barb Right to Bar
-2955: Downwards Harpoon with Barb Right to Bar
-2956: Leftwards Harpoon with Barb Down to Bar
-2957: Rightwards Harpoon with Barb Down to Bar
-2958: Upwards Harpoon with Barb Left to Bar
-2959: Downwards Harpoon with Barb Left to Bar
+2952: Leftwards Harpoon with Barb Up To Bar
+2953: Rightwards Harpoon with Barb Up To Bar
+2954: Upwards Harpoon with Barb Right To Bar
+2955: Downwards Harpoon with Barb Right To Bar
+2956: Leftwards Harpoon with Barb Down To Bar
+2957: Rightwards Harpoon with Barb Down To Bar
+2958: Upwards Harpoon with Barb Left To Bar
+2959: Downwards Harpoon with Barb Left To Bar
 295A: Leftwards Harpoon with Barb Up from Bar
 295B: Rightwards Harpoon with Barb Up from Bar
 295C: Upwards Harpoon with Barb Right from Bar
@@ -115,7 +115,7 @@
 2972: Tilde Operator Above Rightwards Arrow
 2973: Leftwards Arrow Above Tilde Operator
 2974: Rightwards Arrow Above Tilde Operator
-2975: Rightwards Arrow Above Almost Equal to
+2975: Rightwards Arrow Above Almost Equal To
 2976: Less-Than Above Leftwards Arrow
 2977: Leftwards Arrow Through Less-Than
 2978: Greater-Than Above Rightwards Arrow
@@ -166,14 +166,14 @@
 29A5: Reversed Angle with Underbar
 29A6: Oblique Angle Opening Up
 29A7: Oblique Angle Opening Down
-29A8: Measured Angle with Open Arm Ending In Arrow Pointing Up And Right
-29A9: Measured Angle with Open Arm Ending In Arrow Pointing Up And Left
-29AA: Measured Angle with Open Arm Ending In Arrow Pointing Down And Right
-29AB: Measured Angle with Open Arm Ending In Arrow Pointing Down And Left
-29AC: Measured Angle with Open Arm Ending In Arrow Pointing Right And Up
-29AD: Measured Angle with Open Arm Ending In Arrow Pointing Left And Up
-29AE: Measured Angle with Open Arm Ending In Arrow Pointing Right And Down
-29AF: Measured Angle with Open Arm Ending In Arrow Pointing Left And Down
+29A8: Measured Angle with Open Arm Ending In Arrow Pointing Up and Right
+29A9: Measured Angle with Open Arm Ending In Arrow Pointing Up and Left
+29AA: Measured Angle with Open Arm Ending In Arrow Pointing Down and Right
+29AB: Measured Angle with Open Arm Ending In Arrow Pointing Down and Left
+29AC: Measured Angle with Open Arm Ending In Arrow Pointing Right and Up
+29AD: Measured Angle with Open Arm Ending In Arrow Pointing Left and Up
+29AE: Measured Angle with Open Arm Ending In Arrow Pointing Right and Down
+29AF: Measured Angle with Open Arm Ending In Arrow Pointing Left and Down
 29B0: Reversed Empty Set
 29B1: Empty Set with Overbar
 29B2: Empty Set with Small Circle Above
@@ -184,7 +184,7 @@
 29B7: Circled Parallel
 29B8: Circled Reverse Solidus
 29B9: Circled Perpendicular
-29BA: Circle Divided By Horizontal Bar And Top Half Divided By Vertical Bar
+29BA: Circle Divided By Horizontal Bar and Top Half Divided By Vertical Bar
 29BB: Circle with Superimposed X
 29BC: Circled Anticlockwise-Rotated Division Sign
 29BD: Up Arrow Through Circle
@@ -192,8 +192,8 @@
 29BF: Circled Bullet
 29C0: Circled Less-Than
 29C1: Circled Greater-Than
-29C2: Circle with Small Circle to the Right
-29C3: Circle with Two Horizontal Strokes to the Right
+29C2: Circle with Small Circle To the Right
+29C3: Circle with Two Horizontal Strokes To the Right
 29C4: Squared Rising Diagonal Slash
 29C5: Squared Falling Diagonal Slash
 29C6: Squared Asterisk
@@ -225,9 +225,9 @@
 29E0: Square with Contoured Outline : d'alembertian
 29E1: Increases As
 29E2: Shuffle Product
-29E3: Equals Sign And Slanted Parallel
-29E4: Equals Sign And Slanted Parallel with Tilde Above
-29E5: Identical to And Slanted Parallel
+29E3: Equals Sign and Slanted Parallel
+29E4: Equals Sign and Slanted Parallel with Tilde Above
+29E5: Identical To and Slanted Parallel
 29E6: Gleich Stark : tautological equivalent
 29E7: Thermodynamic
 29E8: Down-Pointing Triangle with Left Half Black

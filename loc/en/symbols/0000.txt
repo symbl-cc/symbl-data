@@ -1,35 +1,35 @@
 0000: Null : NUL
-0001: Start of heading : SOH
-0002: Start of text : STX
-0003: End of text : ETX
-0004: End of transmission : EOT
+0001: Start of Heading : SOH
+0002: Start of Text : STX
+0003: End of Text : ETX
+0004: End of Transmission : EOT
 0005: Enquiry : ENQ
 0006: Acknowledge : ASK
 0007: Bell : BEL
 0008: Backspace : BS
-0009: Horizontal tabulation : ht : character tabulation : TAB
-000A: New line (nl) : line feed (lf) : end of line (eol) : LF
-000B: Vertical tabulation : vt : line tabulation : TAB
-000C: Form feed : FF
-000D: Carriage return : CR
-000E: Shift out : SO
-000F: Shift in : SI
-0010: Data link escape : DLE
-0011: Device control one : DC1
-0012: Device control two : DC2
-0013: Device control three : DC3
-0014: Device control four : DC4
-0015: Negative acknowledge : NAK
-0016: Synchronous idle : SYN
-0017: End of transmission block : ETB
+0009: Horizontal Tabulation : ht : character tabulation : TAB
+000A: New Line (Nl) : line feed (lf) : end of line (eol) : LF
+000B: Vertical Tabulation : vt : line tabulation : TAB
+000C: Form Feed : FF
+000D: Carriage Return : CR
+000E: Shift Out : SO
+000F: Shift In : SI
+0010: Data Link Escape : DLE
+0011: Device Control One : DC1
+0012: Device Control Two : DC2
+0013: Device Control Three : DC3
+0014: Device Control Four : DC4
+0015: Negative Acknowledge : NAK
+0016: Synchronous Idle : SYN
+0017: End of Transmission Block : ETB
 0018: Cancel : CAN
-0019: End of medium : EM
+0019: End of Medium : EM
 001A: Substitute : SUB : Ctrl-Z
 001B: Escape : ESC
-001C: File separator : information separator four : FS
-001D: Group separator : information separator three : GS
-001E: Record separator : information separator two : RS
-001F: Unit separator : information separator one : US
+001C: File Separator : information separator four : FS
+001D: Group Separator : information separator three : GS
+001E: Record Separator : information separator two : RS
+001F: Unit Separator : information separator one : US
 0020: Space
 0021: Exclamation Mark : factorial : bang
 0022: Quotation Mark
@@ -128,36 +128,36 @@
 007F: Delete : DEL
 0080: <Control>
 0081: <Control>
-0082: Break permitted here
-0083: No break here
+0082: Break Permitted Here
+0083: No Break Here
 0084: <Control>
-0085: Next line (nel)
-0086: Start of selected area
-0087: End of selected area
-0088: Character tabulation set
-0089: Character tabulation with justification
-008A: Line tabulation set
-008B: Partial line forward
-008C: Partial line backward
-008D: Reverse line feed
-008E: Single shift two
-008F: Single shift three
-0090: Device control string
-0091: Private use one
-0092: Private use two
-0093: Set transmit state
-0094: Cancel character
-0095: Message waiting
-0096: Start of guarded area
-0097: End of guarded area
-0098: Start of string
+0085: Next Line (Nel)
+0086: Start of Selected Area
+0087: End of Selected Area
+0088: Character Tabulation Set
+0089: Character Tabulation with Justification
+008A: Line Tabulation Set
+008B: Partial Line Forward
+008C: Partial Line Backward
+008D: Reverse Line Feed
+008E: Single Shift Two
+008F: Single Shift Three
+0090: Device Control String
+0091: Private Use One
+0092: Private Use Two
+0093: Set Transmit State
+0094: Cancel Character
+0095: Message Waiting
+0096: Start of Guarded Area
+0097: End of Guarded Area
+0098: Start of String
 0099: <Control>
-009A: Single character introducer
-009B: Control sequence introducer
-009C: String terminator
-009D: Operating system command
-009E: Privacy message
-009F: Application program command
+009A: Single Character Introducer
+009B: Control Sequence Introducer
+009C: String Terminator
+009D: Operating System Command
+009E: Privacy Message
+009F: Application Program Command
 00A0: No-Break Space
 00A1: Inverted Exclamation Mark
 00A2: Cent Sign
@@ -172,7 +172,7 @@
 00AB: Left-Pointing Double Angle Quotation Mark : left guillemet : chevrons
 00AC: Not Sign : angled dash (in typography)
 00AD: Soft Hyphen : discretionary hyphen
-00AE: Registered Sign : registered trade mark sign 
+00AE: Registered Sign : registered trade mark sign
 00AF: Macron : overline, apl overbar
 00B0: Degree Sign
 00B1: Plus-Minus Sign
@@ -190,13 +190,13 @@
 00BD: Vulgar Fraction One Half
 00BE: Vulgar Fraction Three Quarters
 00BF: Inverted Question Mark : turned question mark
-00C0: Latin Capital Letter A with Grave
-00C1: Latin Capital Letter A with Acute
-00C2: Latin Capital Letter A with Circumflex
-00C3: Latin Capital Letter A with Tilde
-00C4: Latin Capital Letter A with Diaeresis
-00C5: Latin Capital Letter A with Ring Above
-00C6: Latin Capital Letter Ae : latin capital ligature ae 
+00C0: Latin Capital Letter a with Grave
+00C1: Latin Capital Letter a with Acute
+00C2: Latin Capital Letter a with Circumflex
+00C3: Latin Capital Letter a with Tilde
+00C4: Latin Capital Letter a with Diaeresis
+00C5: Latin Capital Letter a with Ring Above
+00C6: Latin Capital Letter Ae : latin capital ligature ae
 00C7: Latin Capital Letter C with Cedilla
 00C8: Latin Capital Letter E with Grave
 00C9: Latin Capital Letter E with Acute
@@ -222,12 +222,12 @@
 00DD: Latin Capital Letter Y with Acute
 00DE: Latin Capital Letter Thorn
 00DF: Latin Small Letter Sharp S : eszett
-00E0: Latin Small Letter A with Grave
-00E1: Latin Small Letter A with Acute
-00E2: Latin Small Letter A with Circumflex
-00E3: Latin Small Letter A with Tilde
-00E4: Latin Small Letter A with Diaeresis
-00E5: Latin Small Letter A with Ring Above
+00E0: Latin Small Letter a with Grave
+00E1: Latin Small Letter a with Acute
+00E2: Latin Small Letter a with Circumflex
+00E3: Latin Small Letter a with Tilde
+00E4: Latin Small Letter a with Diaeresis
+00E5: Latin Small Letter a with Ring Above
 00E6: Latin Small Letter Ae : latin small ligature ae : ash (from old english æsc)
 00E7: Latin Small Letter C with Cedilla
 00E8: Latin Small Letter E with Grave

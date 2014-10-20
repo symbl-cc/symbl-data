@@ -64,15 +64,15 @@
 2B3F: Wave Arrow Pointing Directly Left
 2B40: Equals Sign Above Leftwards Arrow
 2B41: Reverse Tilde Operator Above Leftwards Arrow
-2B42: Leftwards Arrow Above Reverse Almost Equal to
+2B42: Leftwards Arrow Above Reverse Almost Equal To
 2B43: Rightwards Arrow Through Greater-Than
 2B44: Rightwards Arrow Through Superset
 2B45: Leftwards Quadruple Arrow
 2B46: Rightwards Quadruple Arrow
 2B47: Reverse Tilde Operator Above Rightwards Arrow
-2B48: Rightwards Arrow Above Reverse Almost Equal to
+2B48: Rightwards Arrow Above Reverse Almost Equal To
 2B49: Tilde Operator Above Leftwards Arrow
-2B4A: Leftwards Arrow Above Almost Equal to
+2B4A: Leftwards Arrow Above Almost Equal To
 2B4B: Leftwards Arrow Above Reverse Tilde Operator
 2B4C: Rightwards Arrow Above Reverse Tilde Operator
 2B4D: Downwards Triangle-Headed Zigzag Arrow
@@ -110,16 +110,16 @@
 2B6D: Downwards Triangle-Headed Dashed Arrow
 2B6E: Clockwise Triangle-Headed Open Circle Arrow
 2B6F: Anticlockwise Triangle-Headed Open Circle Arrow
-2B70: Leftwards Triangle-Headed Arrow to Bar : left tab
-2B71: Upwards Triangle-Headed Arrow to Bar : up tab
-2B72: Rightwards Triangle-Headed Arrow to Bar : right tab
-2B73: Downwards Triangle-Headed Arrow to Bar : down tab
+2B70: Leftwards Triangle-Headed Arrow To Bar : left tab
+2B71: Upwards Triangle-Headed Arrow To Bar : up tab
+2B72: Rightwards Triangle-Headed Arrow To Bar : right tab
+2B73: Downwards Triangle-Headed Arrow To Bar : down tab
 2B74:
 2B75:
-2B76: North West Triangle-Headed Arrow to Bar : home
-2B77: North East Triangle-Headed Arrow to Bar
-2B78: South East Triangle-Headed Arrow to Bar : end
-2B79: South West Triangle-Headed Arrow to Bar
+2B76: North West Triangle-Headed Arrow To Bar : home
+2B77: North East Triangle-Headed Arrow To Bar
+2B78: South East Triangle-Headed Arrow To Bar : end
+2B79: South West Triangle-Headed Arrow To Bar
 2B7A: Leftwards Triangle-Headed Arrow with Double Horizontal Stroke
 2B7B: Upwards Triangle-Headed Arrow with Double Horizontal Stroke : page up
 2B7C: Rightwards Triangle-Headed Arrow with Double Horizontal Stroke
@@ -166,14 +166,14 @@
 2BA5: Rightwards Triangle-Headed Arrow with Long Tip Upwards
 2BA6: Leftwards Triangle-Headed Arrow with Long Tip Downwards
 2BA7: Rightwards Triangle-Headed Arrow with Long Tip Downwards
-2BA8: Black Curved Downwards And Leftwards Arrow
-2BA9: Black Curved Downwards And Rightwards Arrow
-2BAA: Black Curved Upwards And Leftwards Arrow
-2BAB: Black Curved Upwards And Rightwards Arrow
-2BAC: Black Curved Leftwards And Upwards Arrow
-2BAD: Black Curved Rightwards And Upwards Arrow
-2BAE: Black Curved Leftwards And Downwards Arrow
-2BAF: Black Curved Rightwards And Downwards Arrow
+2BA8: Black Curved Downwards and Leftwards Arrow
+2BA9: Black Curved Downwards and Rightwards Arrow
+2BAA: Black Curved Upwards and Leftwards Arrow
+2BAB: Black Curved Upwards and Rightwards Arrow
+2BAC: Black Curved Leftwards and Upwards Arrow
+2BAD: Black Curved Rightwards and Upwards Arrow
+2BAE: Black Curved Leftwards and Downwards Arrow
+2BAF: Black Curved Rightwards and Downwards Arrow
 2BB0: Ribbon Arrow Down Left
 2BB1: Ribbon Arrow Down Right
 2BB2: Ribbon Arrow Up Left
@@ -183,7 +183,7 @@
 2BB6: Ribbon Arrow Left Down
 2BB7: Ribbon Arrow Right Down
 2BB8: Upwards White Arrow from Bar with Horizontal Bar : caps lock
-2BB9: Up Arrowhead In A Rectangle Box : escape
+2BB9: Up Arrowhead In a Rectangle Box : escape
 2BBA:
 2BBB:
 2BBC:

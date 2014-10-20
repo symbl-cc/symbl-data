@@ -130,7 +130,7 @@ FF80: Halfwidth Katakana Letter Ta
 FF81: Halfwidth Katakana Letter Ti
 FF82: Halfwidth Katakana Letter Tu
 FF83: Halfwidth Katakana Letter Te
-FF84: Halfwidth Katakana Letter to
+FF84: Halfwidth Katakana Letter To
 FF85: Halfwidth Katakana Letter Na
 FF86: Halfwidth Katakana Letter Ni
 FF87: Halfwidth Katakana Letter Nu
@@ -252,5 +252,5 @@ FFFA: Interlinear Annotation Separator
 FFFB: Interlinear Annotation Terminator
 FFFC: Object Replacement Character
 FFFD: Replacement Character
-FFFE: <Not A Character>
-FFFF: <Not A Character>
+FFFE: <Not a Character>
+FFFF: <Not a Character>

@@ -12,8 +12,8 @@
 200B: Zero Width Space
 200C: Zero Width Non-Joiner
 200D: Zero Width Joiner
-200E: Left-to-Right Mark
-200F: Right-to-Left Mark
+200E: Left-To-Right Mark
+200F: Right-To-Left Mark
 2010: Hyphen
 2011: Non-Breaking Hyphen
 2012: Figure Dash
@@ -40,11 +40,11 @@
 2027: Hyphenation Point
 2028: Line Separator
 2029: Paragraph Separator
-202A: Left-to-Right Embedding
-202B: Right-to-Left Embedding
+202A: Left-To-Right Embedding
+202B: Right-To-Left Embedding
 202C: Pop Directional Formatting
-202D: Left-to-Right Override
-202E: Right-to-Left Override
+202D: Left-To-Right Override
+202E: Right-To-Left Override
 202F: Narrow No-Break Space
 2030: Per Mille Sign : permille, per thousand
 2031: Per Ten Thousand Sign : permyriad
@@ -100,8 +100,8 @@
 2063: Invisible Separator : invisible comma
 2064: Invisible Plus
 2065:
-2066: Left-to-Right Isolate
-2067: Right-to-Left Isolate
+2066: Left-To-Right Isolate
+2067: Right-To-Left Isolate
 2068: First Strong Isolate
 2069: Pop Directional Isolate
 206A: Inhibit Symmetric Swapping
