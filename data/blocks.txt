@@ -334,8 +334,14 @@
 	languages       :
 	countries       : thailand, burma, laos, cambodia, china, vietnam
 
+[combining-diacritical-marks-extended]
+    diap            : 1AB0:1AFF
+    type            :
+    languages       :
+    countries       :
+
 [balinese]
-	diap            : 1B00:1B87
+	diap            : 1B00:1B7F
 	type            : abugida
 	languages       : balinese, sasak
 	countries       : bali, lombok, indonesia
@@ -683,7 +689,7 @@
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [cjk-unified-ideographs-extension-a]
-	diap            : 3400:4DBF
+	diap            : 3400:4DB5
 	type            : syllabary
 	languages       : chinese, japanese, korean, vietnamese
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
@@ -695,7 +701,7 @@
 	countries       : china
 
 [cjk-unified-ideographs]
-	diap            : 4E00:9FFF
+	diap            : 4E00:9FCC
 	type            : syllabary
 	languages       : chinese, japanese, korean, vietnamese
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
@@ -711,6 +717,12 @@
 	type            : syllabary
 	languages       : yi
 	countries       : china
+
+[lisu]
+    diap            : A4D0:A4FF
+    type            :
+    languages       :
+    countries       :
 
 [old-lisu-alphabet]
 	diap            : A500:A63F
@@ -796,6 +808,12 @@
 	languages       : javanese, sundanese
 	countries       : indonesia
 
+[myanmar-extended-b]
+    diap            : A9E0:A9FF
+    type            :
+    languages       :
+    countries       :
+
 [cham-alphabet]
 	diap            : AA00:AA5F
 	type            : abugida
@@ -825,7 +843,13 @@
 	type            : abugida
 	languages       : ethiopian-semitic
 	countries       : ethiopia, sudan, eritrea, somalia, israel
-
+	
+[latin-extended-e]
+    diap            : AB30:AB6F
+    type            :
+    languages       :
+    countries       :    
+    	
 [meitei-language]
 	diap            : ABC0:ABFF
 	type            :
@@ -833,10 +857,16 @@
 	countries       : india, bangladesh, burma
 
 [hangul-syllables]
-	diap            : AC00:D7AF
+	diap            : AC00:D7A3
 	type            : alphabet
 	languages       : korean, cia-cia
 	countries       : north_korea, south_korea, china, japan, indonesia
+
+[hangul-jamo-extended-b]
+    diap            : D7B0:D7FF
+    type            :
+    languages       :
+    countries       :
 
 [high-surrogates]
 	diap            : D800:DB7F

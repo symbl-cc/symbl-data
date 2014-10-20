@@ -1,8 +1,8 @@
 control-character : Control character
 basic-latin     : Basic Latin
 latin-1-supplement : Latin-1 Supplement
-latin-extended-A : Latin extended A
-latin-extended-B : Latin extended B
+latin-extended-A : Latin Extended-A
+latin-extended-B : Latin Extended-B
 ipa-extensions  : IPA Extensions
 spacing-modifier-letters : Spacing Modifier Letters
 combining-diacritical-marks : Combining Diacritical Marks
@@ -50,7 +50,7 @@ mongolian       : Mongolian
 unified-canadian-aboriginal-syllabics-extended : Unified Canadian Aboriginal Syllabics Extended
 limbu           : Limbu
 tai-le          : Tai Le
-new-tai-lue     : Tai Lue
+new-tai-lue     : New Tai Lue
 khmer-symbols   : Khmer Symbols
 buginese        : Buginese
 tai-tham        : Tai Tham
@@ -64,7 +64,7 @@ vedic-extensions : Vedic Extensions
 phonetic-extensions : Phonetic Extensions
 phonetic-extensions-supplement : Phonetic Extensions Supplement
 combining-diacritical-marks-supplement : Combining Diacritical Marks Supplement
-latin-extended-additional : Latin extended additional
+latin-extended-additional : Latin Extended Additional
 greek-extended  : Greek Extended
 general-punctuation : General Punctuation
 superscripts-and-subscripts : Superscripts and Subscripts
@@ -231,10 +231,15 @@ domino-tiles : Domino Tiles
 playing-cards : Playing Cards
 enclosed-alphanumeric-supplement : Enclosed Alphanumeric Supplement
 enclosed-ideographic-supplement : Enclosed Ideographic Supplement
-miscellaneous-symbols-and-pictographs : Miscellaneous Symbols And Pictographs
+miscellaneous-symbols-and-pictographs : Miscellaneous Symbols and Pictographs
 emoticons : Emoticons (Emoji)
 ornamental-dingbats : Ornamental Dingbats
-transport-and-map-symbols : Transport And Map Symbols
+transport-and-map-symbols : Transport and Map Symbols
 alchemical-symbols : Alchemical Symbols
 geometric-shapes-extended : Geometric Shapes Extended
 supplemental-arrows-c : Supplemental Arrows-C
+combining-diacritical-marks-extended: Combining Diacritical Marks Extended
+lisu: Lisu
+myanmar-extended-b: Myanmar Extended-B
+latin-extended-e: Latin Extended-E
+hangul-jamo-extended-b: Hangul Jamo Extended-B
