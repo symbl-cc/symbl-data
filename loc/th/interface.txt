@@ -23,7 +23,7 @@ countries       : ประเทศ
 count           : จำนวนอักขระ
 languages       : ภาษา
 sort_order      : ตามลำดับ
-sort_sect       : ตามมาตรา
+sort_block      : ตามมาตรา
 copy_clipboard  : คัดลอกไปยังคลิปบอร์ด
 search_h1       : ค้นหา
 search_result   : ผลลัพธ์
@@ -33,9 +33,9 @@ search_limit    : (แสดงเฉพาะ %s)
 search_none     : ไม่มี
 search_any      : ค้นหาคำใดๆ
 help_range      : คลิกเพื่อไฮไลท์ช่วง
-sections_list   : รายชื่อส่วน Unicode
+blocks_list   : รายชื่อส่วน Unicode
 languages_list  : รายชื่อภาษา
-languages_sections : ส่วนภาษา
+languages_blocks : ส่วนภาษา
 types_list      : รายชื่อชนิด
 countries_list  : รายชื่อประเทศ
 more            : เพิ่มเติม

@@ -11,7 +11,7 @@ popular         : Чаще всего ищут
 loading         : Подождите, идёт загрузка...
 unicode_number  : Номер в юникоде
 html_code       : <span class="caps">HTML</span>-код
-section         : Раздел
+block           : Раздел
 set             : Набор
 up              : Наверх
 range           : Диапазон
@@ -20,7 +20,7 @@ countries       : Страны
 count           : Количество символов
 languages       : Языки
 sort_order      : По порядку
-sort_sect       : По разделам
+sort_block      : По разделам
 copy_clipboard  : Скопировать в буфер
 search_h1       : Поиск символа
 search_result   : Результаты поиска по фразе
@@ -30,9 +30,9 @@ search_limit    : (показано только %s)
 search_none     : Ничего не нашлось
 search_any      : По фразе ничего не нашлось. Используем поиск по всем словам.
 help_range      : Нажмите, чтобы подсветить
-sections_list   : Разделы Юникода
+blocks_list     : Разделы Юникода
 languages_list  : Языки
-languages_sections : Язык представлен в следующих разделах
+languages_blocks : Язык представлен в следующих разделах
 more            : Подробнее
 sets            : Наборы символов
 ny_symbols      : Новогодние символы
@@ -95,7 +95,7 @@ flip-backed     : Задом наперёд
 
 # CONTENT
 
-content-sorry: Извините, текст ещё не написан
-content-sorry-lang: Извините, этот текст ещё не переведён на ваш язык
+content-sorry: Извините, пока нет подробной информации.
+content-sorry-lang: Извините, эта страница пока не переведена на русский. Мы работаем над переводом не покладая рук.
 content-other: Этот текст также доступен на следующих языках:
 content-sorry-other: Но вы можете почитать его на следующих языках:

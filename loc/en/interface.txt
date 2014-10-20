@@ -11,7 +11,7 @@ popular         : Most popular characters
 loading         : Loading, please wait...
 unicode_number  : Unicode number
 html_code       : <span class="caps">HTML</span>-code
-section         : Section
+block           : Block
 set             : Set
 up              : Up
 range           : Range
@@ -20,7 +20,7 @@ countries       : Countries
 count           : Number of characters
 languages       : Languages
 sort_order      : By order
-sort_sect       : By sections
+sort_block      : By blocks
 copy_clipboard  : Copy to clipboard
 search_h1       : Search
 search_result   : Result
@@ -30,9 +30,9 @@ search_limit    : (show only %s)
 search_none     : None
 search_any      : Search by any words
 help_range      : Click to highlight range
-sections_list   : Unicode blocks
+blocks_list     : Unicode blocks
 languages_list  : Languages
-languages_sections : Sections of language
+languages_blocks : Blocks of language
 types_list      : Types
 countries_list  : Countries
 more            : More
@@ -106,7 +106,7 @@ toolstable-file: file download
 
 # CONTENT
 
-content-sorry: Sorry, the text will soon be written
-content-sorry-lang: Sorry, the text has not yet been translated into your language
+content-sorry: Sorry, there is no further information at the moment.
+content-sorry-lang: Sorry, further information in English is not available. We are working towards making it available soon.
 content-other: Text is also available in the following languages:
-content-sorry-other: But you can see versions in other languages:
+content-sorry-other: See other language versions:

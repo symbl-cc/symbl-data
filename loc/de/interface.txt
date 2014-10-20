@@ -11,6 +11,8 @@ popular         : Meist gesucht
 loading         : Herunterladung, bitte warten…
 unicode_number  : Unicode Nummer
 html_code       : <span class="caps">HTML</span>-Code
+block           : Block
+set             : Set
 up              : Hinauf
 range           : Bereich
 type            : Typ
@@ -18,7 +20,7 @@ countries       : Die Länder
 count           : Anzahl der Zeichen
 languages       : Sprachen
 sort_order      : Der Reihe nach
-sort_sect       : Abschnittsweise
+sort_block      : Abschnittsweise
 copy_clipboard  : In die Zwischenablage kopieren
 search_h1       : Zeichensuche
 search_result   : Ergebnis
@@ -28,9 +30,9 @@ search_limit    : (Gezeigt nur %s)
 search_none     : Ist nichts gefunden
 search_any      : Keine Ergebnisse für diesen Satz. Benutzen die Suche durch allen Wörter.
 help_range      : Drücken, um anzuleuchten
-sections_list   : Liste der Unicode-Absätze
+blocks_list   : Liste der Unicode-Absätze
 languages_list  : Liste der Sprachen
-languages_sections : Sektion der Sprachen
+languages_blocks : Sektion der Sprachen
 more            : Mehr
 sets            : Symbolgruppen
 ny_symbols      : Weinachten und Neujahr Symbolen

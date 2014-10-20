@@ -18,7 +18,7 @@ countries       : 国家地区
 count           : 字符总数
 languages       : 语言
 sort_order      : 按顺序
-sort_sect       : 按字符范围分段
+sort_block      : 按字符范围分段
 copy_clipboard  : 复制到剪贴板
 search_h1       : 搜索
 search_result   : 搜索结果
@@ -28,9 +28,9 @@ search_limit    : （只显示了 %s）
 search_none     : 无
 search_any      : 用任何关键词搜索
 help_range      : 点击显示字符范围
-sections_list   : Unicode 字符段列表
+blocks_list   : Unicode 字符段列表
 languages_list  : 语言列表
-languages_sections : 该语言使用的字符范围
+languages_blocks : 该语言使用的字符范围
 types_list      : 字符类型列表
 countries_list  : 国家地区列表
 more            : 更多
