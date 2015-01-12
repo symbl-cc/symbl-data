@@ -1,0 +1,36 @@
+<section class="page about">
+    <div class="wrapper">
+        <h1>About</h1>
+        <div class="people">
+            <article>
+                <div class="photo"><img src="/i/people/sa.png" alt="Sergei Asanov" /></div>
+                <h2>Sergei Asanov</h2>
+                St. Petersburg, Russia<br />
+                <a href="http://sergeiasanov.ru">http://sergeiasanov.ru</a><br />
+                Idea, design, layout<br />
+                Contact: <a href="mailto:sa@unicode-table.com">sa@unicode-table.com</a></article>
+            <article>
+                <div class="photo"><img src="/i/people/go.png" alt="Oleg Grigoriev" /></div>
+                <h2>Oleg Grigoriev</h2>
+                St. Petersburg, Russia<br />
+                <a href="http://blgo.ru">http://blgo.ru</a><br />
+                Programming<br />
+                Contact: <a href="mailto:go@unicode-table.com">go@unicode-table.com</a> </article>
+            <article>
+                <div class="photo"><img src="/i/people/sp.png" alt="Alexandra Palashina" /></div>
+                <h2>Alexandra Palashina</h2>
+                St. Petersburg, Russia<br />
+                Content manager. Unicode blocks </article>
+            <article>
+                <div class="photo"><img src="/i/people/kaa.png" alt="Ann Krivonosova" /></div>
+                <h2>Ann Krivonosova</h2>
+                St. Petersburg, Russia<br />
+                Translation symbol names to Russian </article>
+            <article>
+                <div class="photo"><img src="/i/people/thn.png" alt="Thanapon Namjittrong" /></div>
+                <h2>Thanapon Namjittrong</h2>
+                Thailand<br />
+                Translation to Thai</article>
+        </div>
+    </div>
+</section>

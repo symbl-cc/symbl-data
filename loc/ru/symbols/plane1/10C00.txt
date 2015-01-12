@@ -1,76 +1,76 @@
-10C00 : Old turkic letter orkhon a
-10C01 : Old turkic letter yenisei a
-10C02 : Old turkic letter yenisei ae
-10C03 : Old turkic letter orkhon i
-10C04 : Old turkic letter yenisei i
-10C05 : Old turkic letter yenisei e
-10C06 : Old turkic letter orkhon o
-10C07 : Old turkic letter orkhon oe
-10C08 : Old turkic letter yenisei oe
-10C09 : Old turkic letter orkhon ab
-10C0A : Old turkic letter yenisei ab
-10C0B : Old turkic letter orkhon aeb
-10C0C : Old turkic letter yenisei aeb
-10C0D : Old turkic letter orkhon ag
-10C0E : Old turkic letter yenisei ag
-10C0F : Old turkic letter orkhon aeg
-10C10 : Old turkic letter yenisei aeg
-10C11 : Old turkic letter orkhon ad
-10C12 : Old turkic letter yenisei ad
-10C13 : Old turkic letter orkhon aed
-10C14 : Old turkic letter orkhon ez
-10C15 : Old turkic letter yenisei ez
-10C16 : Old turkic letter orkhon ay
-10C17 : Old turkic letter yenisei ay
-10C18 : Old turkic letter orkhon aey
-10C19 : Old turkic letter yenisei aey
-10C1A : Old turkic letter orkhon aek
-10C1B : Old turkic letter yenisei aek
-10C1C : Old turkic letter orkhon oek
-10C1D : Old turkic letter yenisei oek
-10C1E : Old turkic letter orkhon al
-10C1F : Old turkic letter yenisei al
-10C20 : Old turkic letter orkhon ael
-10C21 : Old turkic letter orkhon elt
-10C22 : Old turkic letter orkhon em
-10C23 : Old turkic letter orkhon an
-10C24 : Old turkic letter orkhon aen
-10C25 : Old turkic letter yenisei aen
-10C26 : Old turkic letter orkhon ent
-10C27 : Old turkic letter yenisei ent
-10C28 : Old turkic letter orkhon enc
-10C29 : Old turkic letter yenisei enc
-10C2A : Old turkic letter orkhon eny
-10C2B : Old turkic letter yenisei eny
-10C2C : Old turkic letter yenisei ang
-10C2D : Old turkic letter orkhon eng
-10C2E : Old turkic letter yenisei aeng
-10C2F : Old turkic letter orkhon ep
-10C30 : Old turkic letter orkhon op
-10C31 : Old turkic letter orkhon ic
-10C32 : Old turkic letter orkhon ec
-10C33 : Old turkic letter yenisei ec
-10C34 : Old turkic letter orkhon aq
-10C35 : Old turkic letter yenisei aq
-10C36 : Old turkic letter orkhon iq
-10C37 : Old turkic letter yenisei iq
-10C38 : Old turkic letter orkhon oq
-10C39 : Old turkic letter yenisei oq
-10C3A : Old turkic letter orkhon ar
-10C3B : Old turkic letter yenisei ar
-10C3C : Old turkic letter orkhon aer
-10C3D : Old turkic letter orkhon as
-10C3E : Old turkic letter orkhon aes
-10C3F : Old turkic letter orkhon ash
-10C40 : Old turkic letter yenisei ash
-10C41 : Old turkic letter orkhon esh
-10C42 : Old turkic letter yenisei esh
-10C43 : Old turkic letter orkhon at
-10C44 : Old turkic letter yenisei at
-10C45 : Old turkic letter orkhon aet
-10C46 : Old turkic letter yenisei aet
-10C47 : Old turkic letter orkhon ot
-10C48 : Old turkic letter orkhon bash
+10C00 : Древнетюркская орхонская буква A
+10C01 : Древнетюркская енисейская буква A
+10C02 : Древнетюркская енисейская буква AE
+10C03 : Древнетюркская орхонская буква I
+10C04 : Древнетюркская енисейская буква I
+10C05 : Древнетюркская енисейская буква E
+10C06 : Древнетюркская орхонская буква O
+10C07 : Древнетюркская орхонская буква OE
+10C08 : Древнетюркская енисейская буква OE
+10C09 : Древнетюркская орхонская буква AB
+10C0A : Древнетюркская енисейская буква AB
+10C0B : Древнетюркская орхонская буква AEB
+10C0C : Древнетюркская енисейская буква AEB
+10C0D : Древнетюркская орхонская буква AG
+10C0E : Древнетюркская енисейская буква AG
+10C0F : Древнетюркская орхонская буква AEG
+10C10 : Древнетюркская енисейская буква AEG
+10C11 : Древнетюркская орхонская буква AD
+10C12 : Древнетюркская енисейская буква AD
+10C13 : Древнетюркская орхонская буква AED
+10C14 : Древнетюркская орхонская буква EZ
+10C15 : Древнетюркская енисейская буква EZ
+10C16 : Древнетюркская орхонская буква AY
+10C17 : Древнетюркская енисейская буква AY
+10C18 : Древнетюркская орхонская буква AEY
+10C19 : Древнетюркская енисейская буква AEY
+10C1A : Древнетюркская орхонская буква AEK
+10C1B : Древнетюркская енисейская буква AEK
+10C1C : Древнетюркская орхонская буква OEK
+10C1D : Древнетюркская енисейская буква OEK
+10C1E : Древнетюркская орхонская буква AL
+10C1F : Древнетюркская енисейская буква AL
+10C20 : Древнетюркская орхонская буква AEL
+10C21 : Древнетюркская орхонская буква ELT
+10C22 : Древнетюркская орхонская буква EM
+10C23 : Древнетюркская орхонская буква AN
+10C24 : Древнетюркская орхонская буква AEN
+10C25 : Древнетюркская енисейская буква AEN
+10C26 : Древнетюркская орхонская буква ENT
+10C27 : Древнетюркская енисейская буква ENT
+10C28 : Древнетюркская орхонская буква ENC
+10C29 : Древнетюркская енисейская буква ENC
+10C2A : Древнетюркская орхонская буква ENY
+10C2B : Древнетюркская енисейская буква ENY
+10C2C : Древнетюркская енисейская буква ANG
+10C2D : Древнетюркская орхонская буква ENG
+10C2E : Древнетюркская енисейская буква AENG
+10C2F : Древнетюркская орхонская буква EP
+10C30 : Древнетюркская орхонская буква OP
+10C31 : Древнетюркская орхонская буква IC
+10C32 : Древнетюркская орхонская буква EC
+10C33 : Древнетюркская енисейская буква EC
+10C34 : Древнетюркская орхонская буква AQ
+10C35 : Древнетюркская енисейская буква AQ
+10C36 : Древнетюркская орхонская буква IQ
+10C37 : Древнетюркская енисейская буква IQ
+10C38 : Древнетюркская орхонская буква OQ
+10C39 : Древнетюркская енисейская буква OQ
+10C3A : Древнетюркская орхонская буква AR
+10C3B : Древнетюркская енисейская буква AR
+10C3C : Древнетюркская орхонская буква AER
+10C3D : Древнетюркская орхонская буква AS
+10C3E : Древнетюркская орхонская буква AES
+10C3F : Древнетюркская орхонская буква ASH
+10C40 : Древнетюркская енисейская буква ASH
+10C41 : Древнетюркская орхонская буква ESH
+10C42 : Древнетюркская енисейская буква ESH
+10C43 : Древнетюркская орхонская буква AT
+10C44 : Древнетюркская енисейская буква AT
+10C45 : Древнетюркская орхонская буква AET
+10C46 : Древнетюркская енисейская буква AET
+10C47 : Древнетюркская орхонская буква OT
+10C48 : Древнетюркская орхонская буква BASH
 10C49 : 
 10C4A : 
 10C4B : 

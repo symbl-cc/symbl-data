@@ -1,6 +1,4 @@
 title           : Unicode字符百科
-meta_description : 各种Unicode字符的名字与描述：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, uft-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
 search          : 搜索字符
 find            : 寻找
 example         : 例子
@@ -11,6 +9,8 @@ popular         : 最热门字符
 loading         : 正在载入，请稍等
 unicode_number  : Unicode编号
 html_code       : <span class="caps">HTML</span>代码
+uppercase       : 大写
+lowercase       : 小写
 up              : 回顶部
 range           : 范围
 type            : 类型
@@ -95,10 +95,24 @@ flip-plain      : 文本
 flip-flipped    : 倒过来！
 flip-backed     : 只调换顺序
 
+toolsgenerator : Unicode字符表生成
+toolsgenerator-desc : 产生一组字符的指定范围内
+toolsgenerator-range: 范围
+toolsgenerator-format: 格式
+toolsgenerator-info: 可用： {symbol}, {dec}, {hex}, {html}
+toolsgenerator-text-generate: 生成
+toolsgenerator-result: 结果
+
 # CONTENT
 
-content-sorry: 很抱歉，該文本將很快被寫入
-content-sorry-lang: 對不起，文字尚未被翻譯成你的語言
-content-other: 文本還可以在以下語言版本
-content-sorry-other: 但你可以看到在其他語言版本
+content-sorry: 对不起，目前没有进一步的消息。
+content-sorry-lang: 抱歉，在英国进一步的信息不可用。我们正努力使它很快面市。
+content-other: 文本还可以在以下语言：
+content-sorry-other: 查看其它语言版本：
 
+# SEO
+
+meta_description : 各种Unicode字符的名字与描述：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_keywords   : unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, uft-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
+symbol_description: 符号: {{symbol}}, 名称: {{name}}, Unicode的数量: {{code}}, 座: {{block}}{% if entity %}, 实体: {{ entity }}{% endif %}
+symbol_title: 符号，文字，符号，图标
