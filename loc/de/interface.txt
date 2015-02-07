@@ -1,15 +1,15 @@
-title           : Unicode Zeichentabelle
+title           : Unicode-Zeichentabelle
 meta_description : Alle Unicode-Zeichen auf einer Seite mit den Namen und Beschreibungen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
+meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook-Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
 search          : Zeichensuche
 find            : Finden
 example         : Zum Beispiel
-example_text    : Hammer und Sichel;arrow;Pfeil;heart;space;check;triangle
+example_text    : Hammer und Sichel;Pfeil;Herz;Leerzeichen;check;triangle
 about           : Über das Projekt
 not_language    : Es gibt meine Sprache nicht
-popular         : Meist gesucht
-loading         : Herunterladung, bitte warten…
-unicode_number  : Unicode Nummer
+popular         : Meistgesucht
+loading         : Laden, bitte warten…
+unicode_number  : Unicode-Nummer
 html_code       : <span class="caps">HTML</span>-Code
 block           : Block
 set             : Set
@@ -25,10 +25,10 @@ copy_clipboard  : In die Zwischenablage kopieren
 search_h1       : Zeichensuche
 search_result   : Ergebnis
 search_empty    : Suchephrase ist leer
-search_total    : Insgesamt gefunden: %s
-search_limit    : (Gezeigt nur %s)
-search_none     : Ist nichts gefunden
-search_any      : Keine Ergebnisse für diesen Satz. Benutzen die Suche durch allen Wörter.
+search_total    : Insgesamt %s Ergebnisse
+search_limit    : (nur %s angezeigt)
+search_none     : Es wurden keine Ergebnisse gefunden.
+search_any      : Es wurde keine vollständige Übereinstimmung gefunden. Versuchen Sie, weniger Schlüsselwörter zu verwenden.
 help_range      : Drücken, um anzuleuchten
 blocks_list   : Liste der Unicode-Absätze
 languages_list  : Liste der Sprachen
@@ -45,7 +45,7 @@ edit            : Bearbeiten
 save            : Speichern
 submit          : Einreichen
 undo            : Rückgängig
-send_changes    : Bitte Bestätigen Sie die vorgenommenen Änderungen. Sie werden der Redaktion zur Durchsicht übermittelt.
+send_changes    : Bitte bestätigen Sie die vorgenommenen Änderungen. Sie werden zur Überprüfung an die Redaktion übermittelt.
 edit_thanks     : Danke!
 
 
@@ -59,14 +59,14 @@ feedback        : Feedback
 github          : GitHub
 twitter         : Twitter
 join_us         : Ich möchte mitmachen
-donate          : Wie kann ich spenden
+donate          : Ich möchte spenden
 unicode         : Unicode
-about_unicode   : About Unicode
-unicode_history : Unicode history
-unicode_versions: Unicode versions
-broken_chars    : Some characters not displaying
-cyrillic        : Cyrillic
-fonts           : Fonts
+about_unicode   : Über Unicode
+unicode_history : Geschichte von Unicode
+unicode_versions: Unicode-Versionen
+broken_chars    : Zeichen werden nicht angezeigt
+cyrillic        : Kyrillisch
+fonts           : Schriftarten
 
 
 
@@ -75,31 +75,31 @@ fonts           : Fonts
 # TOOLS / INSTRUMENTS    http://unicode-table.com/tools/
 # __________________________________________________________
 
-tools           : Tools
-encoder         : HTML-Encoder
-encoder-desc    : Kodiert Symbolen in HTML-Code und zurück
+tools           : Werkzeuge
+encoder         : HTML-Kodierungswerkzeug
+encoder-desc    : Symbole in HTML-Code umwandeln, oder umgekehrt
 encoder-plain   : Einfacher Text
 encoder-full    : Alles
-encoder-entities: Die Symbolen, die die Mnemonike haben, mit den Mnemoniken kodieren.
-encoder-br      : Den Zeilenumbrüche betrachten
+encoder-entities: HTML-Entsprechungen verwenden, falls vorhanden
+encoder-br      : Zeilenumbrüche beachten
 
-decoder         : Unicode ⇆ Text kodieren
-decoder-desc    : Verschlüsselt Symbolen in Unicode oder dechiffriert  zurück
-decoder-example : Dies ist ein Beispieltext für Unicode Kodierung
+decoder         : Unicode-Kodierungswerkzeug
+decoder-desc    : Symbole in Unicode-Codepoints umwandeln, oder umgekehrt
+decoder-example : Dies ist ein Beispieltext für Unicode-Kodierung
 decoder-code    : Unicode
 decoder-text    : Text
 
-flip            : Umwälzer der Symbolen
-flip-desc       : Stürzt kyrillische und lateinische Symbolen Hals über Kopf oder rückwärts
+flip            : Text umdrehen
+flip-desc       : Lateinische Symbole unter Verwendung von kyrillischen Symbolen umgekehrt darstellen
 flip-plain      : Einfacher Text
-flip-flipped    : Hals über Kopf
+flip-flipped    : Kopfüber
 flip-backed     : Rückwärts
 
 # CONTENT
 
-content-sorry: Es tut uns leid, wird der Text bald geschrieben werden
-content-sorry-lang: Es tut uns leid, der Text ist noch nicht in Ihre Sprache übersetzt
+content-sorry: Es tut uns leid, dieser Text wird bald geschrieben werden.
+content-sorry-lang: Es tut uns leid, dieser Text wurde noch nicht in Ihre Sprache übersetzt.
 content-other: Dieser Text ist auch in den folgenden Sprachen verfügbar:
-content-sorry-other: Aber Sie können Versionen in anderen Sprachen zu sehen:
+content-sorry-other: Sie können sich diesen Text allerdings in einer anderen Sprache ansehen:
 
 
