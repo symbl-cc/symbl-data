@@ -1,6 +1,4 @@
 title           : Unicode-Zeichentabelle
-meta_description : Alle Unicode-Zeichen auf einer Seite mit den Namen und Beschreibungen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook-Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
 search          : Zeichensuche
 find            : Finden
 example         : Zum Beispiel
@@ -11,6 +9,9 @@ popular         : Meistgesucht
 loading         : Laden, bitte warten…
 unicode_number  : Unicode-Nummer
 html_code       : <span class="caps">HTML</span>-Code
+uppercase       : Groß
+lowercase       : Klein
+encoding        : Codierung
 block           : Block
 set             : Set
 up              : Hinauf
@@ -47,6 +48,7 @@ submit          : Einreichen
 undo            : Rückgängig
 send_changes    : Bitte bestätigen Sie die vorgenommenen Änderungen. Sie werden zur Überprüfung an die Redaktion übermittelt.
 edit_thanks     : Danke!
+gotofullversion : Zur Vollversion
 
 
 
@@ -95,6 +97,14 @@ flip-plain      : Einfacher Text
 flip-flipped    : Kopfüber
 flip-backed     : Rückwärts
 
+toolsgenerator : Unicode-Zeichentabellengenerator
+toolsgenerator-desc : Erzeugt einen Satz von Zeichen in einem bestimmten Bereich
+toolsgenerator-range: Reichweite
+toolsgenerator-format: Format
+toolsgenerator-info: Verfügbar: {symbol}, {dec}, {hex}, {html}
+toolsgenerator-text-generate: Generieren
+toolsgenerator-result: Ergebnis
+
 # CONTENT
 
 content-sorry: Es tut uns leid, dieser Text wird bald geschrieben werden.
@@ -102,4 +112,9 @@ content-sorry-lang: Es tut uns leid, dieser Text wurde noch nicht in Ihre Sprach
 content-other: Dieser Text ist auch in den folgenden Sprachen verfügbar:
 content-sorry-other: Sie können sich diesen Text allerdings in einer anderen Sprache ansehen:
 
+# SEO
 
+meta_description : Alle Unicode-Zeichen auf einer Seite mit den Namen und Beschreibungen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_keywords   : Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UFT-8, Facebook-Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
+symbol_description: Symbol: {{symbol}}, Name: {{name}}, Unicode-Nummer: {{code}}, Block: {{block}}{% if entity %}, Entity: {{ entity }}{% endif %}
+symbol_title: symbol, zeichen
