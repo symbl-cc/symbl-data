@@ -2,20 +2,20 @@ title           : Tabla de caracteres Unicode
 search          : Buscar personaje
 find            : Encontrar
 example         : Ejemplo
-example_text    : Arroba;A mayúscula con tilde;Fracción vulgar de un cuarto
+example_text    : arroba;a mayúscula con tilde;fracción vulgar de un cuarto
 about           : Sobre el proyecto
-not_language    : Where is my language?
-popular         : Personajes más populares
+not_language    : Donde está mi idioma?
+popular         : Caracteres más populares
 loading         : Cargando, espera por favor ...
 unicode_number  : Número Unicode
-html_code       : <span class="caps">HTML</span>-código
-uppercase       : mayúsculas
-lowercase       : minúsculas
+html_code       : Código <span class="caps">HTML</span>
+uppercase       : Mayúsculas
+lowercase       : Minúsculas
 encoding        : Codificación
 block           : Bloque
 set             : Conjunto
-up              : Hasta
-range           : Alcance
+up              : Subir
+range           : Rango
 type            : Tipo
 countries       : Países
 count           : Número de caracteres
@@ -24,31 +24,32 @@ sort_order      : Por orden
 sort_block      : Por secciones
 copy_clipboard  : Copiar al portapapeles
 search_h1       : Buscar
-search_result   : resultar
-search_empty    : Buscar frase está vacía
+search_result   : Resultado
+search_empty    : Frase de búsqueda está vacía
 search_total    : Total: %s
 search_limit    : (mostrar sólo %s)
 search_none     : Ninguno
 search_any      : Buscar por cualquier palabra
-help_range      : Haga clic para resaltar gama
+help_range      : Haga clic para resaltar rango
 blocks_list     : Lista de Secciones Unicode
-languages_list  : Lista de las Lenguas
-languages_blocks : Secciones del lenguaje
+languages_list  : Lista de las Idiomas
+languages_blocks : Bloques de idiomas
 types_list      : Lista de Tipos
 countries_list  : Lista de Países
-more            : más
-sets            : Los conjuntos de caracteres
-ny_symbols      : Navidad y símbolos del Año Nuevo
+more            : Más
+sets            : Conjuntos de caracteres
+ny_symbols      : Símbolos de Navidad y Año Nuevo
 prev            : Ant
 next            : Próx
 entity          : Entidad
-search_overflow : Lo sentimos, símbolo U +% s está en construcción :)
+search_overflow : Lo sentimos, el símbolo U+% s está en construcción :)
 feedback        : Feedback
 separate_page   : Abrir en una página independiente
 edit            : Editar
 save            : Guardar
 undo            : Deshacer
-send_changes    : Los cambios se envían a los desarrolladores de sitios web. Estás seguro?
+send_changes    : Los cambios se enviarán a los desarrolladores del sitio. Estás seguro?
+edit_thanks     : Gracias!
 gotofullversion : Ir a la versión completa
 
 
@@ -60,13 +61,13 @@ gotofullversion : Ir a la versión completa
 feedback        : Feedback
 github          : GitHub
 twitter         : Twitter
-join_us         : Quiero unirme a
+join_us         : Quiero unirme
 donate          : Cómo donar
 unicode         : Unicode
 about_unicode   : Acerca de Unicode
 unicode_history : Historia Unicode
 unicode_versions: Versiones Unicode
-broken_chars    : Algunos caracteres no se muestren
+broken_chars    : Algunos caracteres no se muestran
 cyrillic        : Cirílico
 fonts           : Fuentes
 
@@ -77,9 +78,9 @@ fonts           : Fuentes
 # TOOLS / Instrumentos  http://unicode-table.com/tools/
 # __________________________________________________________
 
-tools           : Instrumentos
-encoder         : Encoder
-encoder-desc    : Codifica los caracteres en el código HTML y la espalda
+tools           : Herramientas
+encoder         : Codificador
+encoder-desc    : Codifica los caracteres en el código HTML y al revés
 encoder-plain   : Texto sin formato
 encoder-full    : Completo
 encoder-text    : Texto
@@ -87,27 +88,20 @@ encoder-entities: Codifica los caracteres con entidades
 encoder-br      : Codifica los saltos de línea
 
 decoder         : Decodificador
-decoder-desc    : Codifica los caracteres Unicode en la espalda o decodifica
+decoder-desc    : Codifica los caracteres en Unicode o al revés
 decoder-example : Este es un ejemplo
 decoder-code    : Unicode
 decoder-text    : Texto
 
 flip            : Voltear
-flip-desc       : Voltear los caracteres cirílicos y América al revés
+flip-desc       : Voltear los caracteres cirílicos y latinos o al revés
 flip-plain      : Texto sin formato
-flip-flipped    : Flipped texto
-flip-backed     : Volver al texto delante
-
-toolsgenerator : Tabla
-toolsgenerator-range: Rango
-toolsgenerator-format: Formato
-toolsgenerator-info: permitir {symbol}, {dec}, {hex}, {html}
-toolsgenerator-text: texto para la copia
-toolsgenerator-file: descargar archivo
+flip-flipped    : Texto volteado
+flip-backed     : Volver al texto anterior
 
 toolsgenerator : Generador de tabla de caracteres Unicode
 toolsgenerator-desc : Genera un conjunto de caracteres en un rango especificado
-toolsgenerator-range: Alcance
+toolsgenerator-range: Rango
 toolsgenerator-format: Formato
 toolsgenerator-info: Disponible: {symbol}, {dec}, {hex}, {html}
 toolsgenerator-text-generate: Generar
@@ -115,14 +109,14 @@ toolsgenerator-result: Resultado
 
 # CONTENT
 
-content-sorry: Lo sentimos, no hay más información en el momento.
-content-sorry-lang: Lo sentimos, más información en Inglés no está disponible. Estamos trabajando para su puesta a disposición en breve.
+content-sorry: Lo sentimos, no hay más información en este momento.
+content-sorry-lang: Lo sentimos, no hay más información en español. Estamos trabajando para hacerla disponible en breve.
 content-other: El texto también está disponible en los siguientes idiomas:
-content-sorry-other: Ver otras versiones lingüísticas:
+content-sorry-other: Ver en otros idiomas:
 
 # SEO
 
-meta_description : Todos los símbolos Unicode con nombres y descripciones en una página: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_description : Todos los símbolos Unicode con nombres y descripciones en una sola página: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
 meta_keywords   : Unicode, signos, símbolos, caracteres unicode, mesa, juego de caracteres, la lista de caracteres Unicode, UFT-8, facebook caracteres, la codificación, símbolo del corazón, escritura, idiomas, jeroglíficos, runas, símbolos de flecha, cirílico, latino, símbolos de moneda
 symbol_description: Símbolo: {{symbol}}, Nombre: {{name}}, Unicode número: {{code}}, Bloque: {{block}}{% if entity %}, Entidad: {{ entity }}{% endif %}
 symbol_title: símbolo, carácter, muestra, icono
