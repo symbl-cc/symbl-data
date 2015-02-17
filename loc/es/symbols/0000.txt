@@ -1,0 +1,256 @@
+0000: Carácter Nulo
+0001: Inicio de Encabezado
+0002: Inicio de Texto
+0003: Fin de Texto
+0004: Fin de Transmisión
+0005: Consulta
+0006: Acuse de recibo
+0007: Timbre
+0008: Retroceso
+0009: Tabulación horizontal
+000A: Salto de línea
+000B: Tabulación Vertical
+000C: De avance
+000D: Retorno de carro
+000E: Mayúsculas fuera
+000F: En mayúsculas
+0010: Enlace de datos
+0011: Dispositivo de control 1
+0012: Dispositivo de control 2
+0013: Dispositivo de control 3
+0014: Dispositivo de control 4
+0015: Confirmación negativa
+0016: Síncrono en espera
+0017: Fin de Transmisión del Bloque
+0018: Cancelar
+0019: Finalización del Medio
+001A: Substituto
+001B: Escape
+001C: Separador de fichero
+001D: Separador de grupo
+001E: Separador de registro
+001F: Separador de unidad
+0020: Espacio
+0021: Signo de exclamación
+0022: Comillas
+0023: Almohadilla
+0024: Dólar
+0025: Porcentaje
+0026: Et
+0027: Apóstrofo
+0028: Paréntesis izquierdo
+0029: Paréntesis derecho
+002A: Asterisco 
+002B: Signo más
+002C: Coma
+002D: Guión-menos
+002E: Punto
+002F: Barra
+0030: Cero
+0031: Uno
+0032: Dos
+0033: Tres
+0034: Cuatro
+0035: Cinco
+0036: Seis
+0037: Siete
+0038: Ocho
+0039: Nueve
+003A: Dos puntos
+003B: Punto y coma
+003C: Signo menor que
+003D: Signo igual
+003E: Signo mayor que
+003F: Signo de interrogación
+0040: Arroba
+0041: Letra latina mayúscula A
+0042: Letra latina mayúscula B
+0043: Letra latina mayúscula C
+0044: Letra latina mayúscula D
+0045: Letra latina mayúscula E
+0046: Letra latina mayúscula F
+0047: Letra latina mayúscula G
+0048: Letra latina mayúscula H
+0049: Letra latina mayúscula I
+004A: Letra latina mayúscula J
+004B: Letra latina mayúscula K
+004C: Letra latina mayúscula L
+004D: Letra latina mayúscula M
+004E: Letra latina mayúscula N
+004F: Letra latina mayúscula O
+0050: Letra latina mayúscula P
+0051: Letra latina mayúscula Q
+0052: Letra latina mayúscula R
+0053: Letra latina mayúscula S
+0054: Letra latina mayúscula T
+0055: Letra latina mayúscula U
+0056: Letra latina mayúscula V
+0057: Letra latina mayúscula W
+0058: Letra latina mayúscula X
+0059: Letra latina mayúscula Y
+005A: Letra latina mayúscula Z
+005B: Corchete izquierdo
+005C: Barra inversa
+005D: Corchete derecho
+005E: Acento circunflejo
+005F: Guión bajo
+0060: Acento grave
+0061: Letra minúscula latina A
+0062: Letra minúscula latina B
+0063: Letra minúscula latina C
+0064: Letra minúscula latina D
+0065: Letra minúscula latina E
+0066: Letra minúscula latina F
+0067: Letra minúscula latina G
+0068: Letra minúscula latina H
+0069: Letra minúscula latina I
+006A: Letra minúscula latina J
+006B: Letra minúscula latina K
+006C: Letra minúscula latina L
+006D: Letra minúscula latina M
+006E: Letra minúscula latina N
+006F: Letra minúscula latina O
+0070: Letra minúscula latina P
+0071: Letra minúscula latina Q
+0072: Letra minúscula latina R
+0073: Letra minúscula latina S
+0074: Letra minúscula latina T
+0075: Letra minúscula latina U
+0076: Letra minúscula latina V
+0077: Letra minúscula latina W
+0078: Letra minúscula latina X
+0079: Letra minúscula latina Y
+007A: Letra minúscula latina Z
+007B: Corchete izquierdo
+007C: Pleca
+007D: Corchete derecho
+007E: Virgulilla
+007F: Eliminar
+0080: Control-0080
+0081: Control-0081
+0082: Rotura permitido aquí
+0083: No hay ruptura aquí
+0084: Control-0084
+0085: Próxima línea (nel)
+0086: Inicio del área seleccionada
+0087: Fin del área seleccionada
+0088: Conjunto de caracteres de tabulación
+0089: Tabulación de caracteres con la justificación
+008A: set Línea tabulación
+008B: Línea parcial hacia adelante
+008C: Línea parcial hacia atrás
+008D: salto de línea inversa
+008E: Individual turno dos
+008F: Simple cambio de tres
+0090: Cadena de control de dispositivo
+0091: Uso privado de un
+0092: Uso privado de dos
+0093: Establecer el estado de transmisión
+0094: Cancelar carácter
+0095: Mensaje en espera
+0096: Inicio del área protegida
+0097: Fin del área protegida
+0098: Comienzo de la cadena
+0099: Control-0099
+009A: Soltero introductor carácter
+009B: Secuencia de control introductor
+009C: Terminador de cadena
+009D: Comando del sistema operativo
+009E: Mensaje de Privacidad
+009F: Comando de programa de aplicación
+00A0: Espacio de no separación
+00A1: Signo de exclamación invertido
+00A2: Signo de centavo
+00A3: Signo de libra esterlina
+00A4: Signo monetario
+00A5: Signo del yen/yuan
+00A6: Barra vertical partida
+00A7: Signo de sección
+00A8: Diéresis
+00A9: Signo de derechos de copia
+00AA: Indicador ordinal femenino
+00AB: Signo de comillas latinas de apertura
+00AC: Signo de negación
+00AD: Guion separador de ­­sílabas
+00AE: Signo de marca registrada
+00AF: Macrón
+00B0: Signo de grado
+00B1: Signo más-menos
+00B2: Superíndice dos
+00B3: Superíndice tres
+00B4: Acento agudo
+00B5: Signo de micro
+00B6: Signo de calderón
+00B7: Punto centrado
+00B8: Cedilla
+00B9: Superíndice 1
+00BA: Indicador ordinal masculino
+00BB: Signo de comillas latinas de cierre
+00BC: Fracción vulgar de un cuarto
+00BD: Fracción vulgar de un medio
+00BE: Fracción vulgar de tres cuartos
+00BF: Signo de interrogación abierta
+00C0: A mayúscula con acento grave
+00C1: A mayúscula con acento agudo
+00C2: A mayúscula con circunflejo
+00C3: A mayúscula con tilde
+00C4: A mayúscula con diéresis
+00C5: A mayúscula con círculo encima
+00C6: Ae mayúscula
+00C7: C mayúscula con cedilla
+00C8: E mayúscula con acento grave
+00C9: E mayúscula con acento agudo
+00CA: E mayúscula con circunflejo
+00CB: E mayúscula con diéresis
+00CC: I mayúscula con acento grave
+00CD: I mayúscula con acento agudo
+00CE: I mayúscula con circunflejo
+00CF: I mayúscula con diéresis
+00D0: Eth mayúscula
+00D1: Eñe mayúscula
+00D2: O mayúscula con acento grave
+00D3: O mayúscula con acento agudo
+00D4: O mayúscula con circunflejo
+00D5: O mayúscula con tilde
+00D6: O mayúscula con diéresis
+00D7: Signo de multiplicación (aspa)
+00D8: O mayúscula con barra inclinada
+00D9: U mayúscula con acento grave
+00DA: U mayúscula con acento agudo
+00DB: U mayúscula con circunflejo
+00DC: U mayúscula con diéresis
+00DD: Y mayúscula con acento agudo
+00DE: Thorn mayúscula
+00DF: S aguda alemana
+00E0: A minúscula con acento grave
+00E1: A minúscula con acento agudo
+00E2: A minúscula con circunflejo
+00E3: A minúscula con tilde
+00E4: A minúscula con diéresis
+00E5: A minúscula con círculo encima
+00E6: Ae minúscula
+00E7: C minúscula con cedilla
+00E8: E minúscula con acento grave
+00E9: E minúscula con acento agudo
+00EA: E minúscula con circunflejo
+00EB: E minúscula con diéresis
+00EC: I minúscula con acento grave
+00ED: I minúscula con acento agudo
+00EE: I minúscula con circunflejo
+00EF: I minúscula con diéresis
+00F0: Eth minúscula
+00F1: Eñe minúscula
+00F2: O minúscula con acento grave
+00F3: O minúscula con acento agudo
+00F4: O minúscula con circunflejo
+00F5: O minúscula con tilde
+00F6: O minúscula con diéresis
+00F7: Signo de división
+00F8: O minúscula con barra inclinada
+00F9: U minúscula con acento grave
+00FA: U minúscula con acento agudo
+00FB: U minúscula con circunflejo
+00FC: U minúscula con diéresis
+00FD: Y minúscula con acento agudo
+00FE: Thorn minúscula
+00FF: Y minúscula con diéresis

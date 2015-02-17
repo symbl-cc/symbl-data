@@ -1,0 +1,240 @@
+control-character         : Carácteres de control
+basic-latin               : Latín básico
+latin-1-supplement        : Latín-1 suplemento
+latin-extended-A          : Latín extendida A
+latin-extended-B          : Latín extendida B
+ipa-extensions            : Extensiones de la AFI
+spacing-modifier-letters  : Separación Modificador Cartas
+combining-diacritical-marks : Diacríticos (combinable)
+greek-coptic              : Griego y copto
+cyrillic                  : Cirílico
+cyrillic-supplement       : Cirílico suplemento
+armenian                  : Armenio
+hebrew                    : Hebreo
+arabic                    : Árabe
+syrian                    : Siria
+arabic-supplement         : Árabe suplemento
+thaana                    : Thaana
+nko                       : NKO
+samaritan                 : Samaritano
+mandaic                   : Mandaic
+arabic-extended-a         : Árabe extendida A
+devanagari                : Devanagari
+bengali                   : Bengali
+gurmukhi                  : Gurmukhi
+gujarati                  : Gujarati
+oriya                     : Oriya
+tamil                     : Tamil
+telugu                    : Telugu
+kannada                   : Kannada
+malayalam                 : Malayalam
+sinhala                   : Sinhala
+thai                      : Thai
+lao                       : Lao
+tibetan                   : Tibetano
+myanmar                   : Myanmar
+georgian                  : Georgiano
+hangul-jamo               : Hangul jamo
+ethiopic                  : Etíope
+ethiopic-supplement       : Etíope suplemento
+cherokee                  : Cherokee
+unified-canadian-aboriginal-syllabics : Unified Sílabas aborígenes canadienses
+ogham                     : Ogham
+runic                     : Rúnico
+tagalog                   : Tagalog
+hanunoo                   : Hanunoo
+buhid                     : Buhid
+tagbanwa                  : Tagbanwa
+khmer                     : Khmer
+mongolian                 : Mongol
+unified-canadian-aboriginal-syllabics-extended : Unified Sílabas aborígenes canadienses extendida
+limbu                     : Limbu
+tai-le                    : Tai Le
+new-tai-lue               : Idioma Tai Nüa
+khmer-symbols             : Khmer
+buginese                  : Buginés
+tai-tham                  : Tai Tham
+balinese                  : Balinés
+sundanese                 : Sundanese
+batak                     : Batak
+lepcha                    : Lepcha
+ol-chiki                  : Ol Chiki
+sundanese-supplement      : Sundanese suplemento
+vedic-extensions          : Védica extensiones
+phonetic-extensions       : Fonéticas extensiones
+phonetic-extensions-supplement : Fonéticas extensiones suplemento
+combining-diacritical-marks-supplement : Diacríticos suplemento (combinable)
+latin-extended-additional : Latin extendida adicional
+greek-extended            : Griego extendida
+general-punctuation       : Puntuacion generales
+superscripts-and-subscripts : Superíndices y subíndices
+currency-symbols          : Símbolos de moneda
+combining-diacritical-marks-for-symbols : Diacríticos de símbolos (combinable)
+letterlike-symbols        : Símbolos a letras
+number-forms              : Formas number
+arrows                    : Flechas
+mathematical-operators    : Operadores matemáticos
+miscellaneous-technical   : miscellaneous technical
+control-pictures          : Diverso técnico
+optical-character-recognition : Optical character recognition
+enclosed-alphanumerics    : Alfanuméricos cerrado
+box-drawing               : Dibujo de la caja
+block-elements            : Caracteres de relleno
+geometric-shapes          : Formas geométricas
+miscellaneous-symbols     : Símbolos misceláneos
+dingbats                  : Dingbats
+miscellaneous-mathematical-symbols-a : Símbolos matemáticos misceláneos A
+suplemental-arrows-a      : Flechas suplemento A
+braille-patterns          : Patrones de braille
+suplemental-arrows-b      : Flechas suplemento B
+miscellaneous-mathematical-symbols-b : Símbolos matemáticos misceláneos B
+supplemental-mathematical-operators : Operadores matemáticos suplementarios
+miscellaneous-symbols-and-arrows : Símbolos y flechas diverso
+glagolitic                : Glagolítico
+latin-extended-c          : Latín extendida B
+coptic                    : Copto
+georgian-supplement       : Suplemento georgiano
+tifinagh                  : Tifinagh
+ethiopic-extended         : Etíope extendida
+cyrillic-extended         : Cirílico extendida
+supplemental-punctuation  : Puntuacion suplementario
+cjk-radicals-supplement   : CJK: Radicales suplemento
+kangxi-radicals           : Radicales de Kangxi
+ideographic-description-characters : Descripción caracteres ideográficos
+cjk-symbols-and-punctuation : CJK: símbolos y puntuacion
+hiragana                  : Hiragana
+katakana                  : Katakana
+bopomofo                  : Bopomofo
+hangul-compatibility-jamo : Hangul jamo (compatibilidad)
+kanbun                    : Kanbun
+bopomofo-extended         : Bopomofo extendida
+cjk-strokes               : CJK: trazo
+katakana-phonetic-extensions : Katakana phonetic extension
+enclosed-cjk-letters-and-months : CJK: letras y meses (cerrado)
+cjk-compatibility         : CJK: compatibilidad
+cjk-unified-ideographs-extension-a : CJK: ideogramas unificados, extensión-A
+yijing-hexagram-symbols   : I Ching símbolos hexagrama
+cjk-unified-ideographs    : CJK: ideogramas unificados
+yi-syllables              : Nuosu sílabas
+yi-radicals               : Nuosu radicales
+old-lisu-alphabet         : Alfabeto Fraser
+ciryllic-extended-B       : Cirílico extendida B
+bamum                     : Escritura Bamum
+modifier-tone-letters     : Cartas de tono modificador
+latin-extended-d          : Latín extendida D
+syloty-nagri              : Syloty Nagri
+indian-numeric-character  : Carácter numérico indio
+phags-pa                  : Alfabeto de 'Phags-pa
+saurashtra                : Saurashtra
+devanagari-extended-characters : Devanagari caracteres extendidos
+kayah-li                  : Kayah Li
+rejang                    : Rejang
+hangul                    : Hangul
+javanese-alphabet         : Alfabeto javanese
+cham-alphabet             : Alfabeto cham
+burmese-alphabet-extention-a : Extensión alfabeto birmano A
+tai-viet-alphabet         : Tai Viet
+meitei-language-extensions : Meithei extensiones
+ethiopic-extended-a       : Etíope extendida A
+meitei-language           : Meithei
+hangul-syllables          : Sílabas hangul
+high-surrogates           : Pares subrogados (alto)
+high-private-use-surrogates : Pares subrogados (alto, uso privado)
+low-surrogates            : Pares subrogados (bajo)
+private-use-area          : Uso privado
+cjk-compatibility-ideographs : CJK: ideogramas de compatibilidad
+alphabetic-presentation-forms : Formas de presentación alfabéticos
+arabic-presentation-forms-a : Formas de presentación árabe
+variation-selectors       : Variación selectores
+vertical-forms            : Formas verticales
+combining-half-marks      : Medios puntos (combinable)
+cjk-compatibility-forms   : CJK: formas de compatibilidad
+small-form-variants       : Formas variantes de acero
+arabic-presentation-forms-b : Formas de presentación árabe
+halfwidth-and-fullwidth-forms : Mitad grosor y formas anchura completa
+specials                  : Especiales
+linear-b-syllabary        : Lineal B (silabario)
+linear-b-ideograms        : Lineal B (ideogramas)
+aegean-numbers            : Números egeo
+ancient-greek-numbers     : Numeración ática
+ancient-symbols           : Símbolos antiguos
+phaistos-disc             : Disco de Festos
+lycian                    : Licio
+carian                    : Cario
+coptic-epact-numbers      : Números epact copto
+old-italic                : Etrusco
+gothic                    : Gótico
+old-permic                : Pérmica antiguo
+ugaritic                  : Ugarítico
+old-persian               : Persa antiguo
+deseret                   : Alfabeto Deseret
+shavian                   : Alfabeto shaviano
+osmanya                   : Escritura osmanya
+elbasan                   : Elbasan
+caucasian-albanian        : Albania caucásica
+linear-a                  : Lineal A
+cypriot-syllabary         : Silabario chipriota
+imperial-aramaic          : Alfabeto arameo
+palmyrene                 : Palmira
+nabataean                 : Alfabeto nabateo
+phoenician                : Alfabeto fenicio
+lydian                    : Lydian alphabet
+meroitic-hieroglyphs      : Meroitic (jeroglíficos) 
+meroitic-cursive          : Meroitic (cursiva)
+kharoshthi                : Karosti
+old-south-arabian         : Abecedario árabe meridional
+old-north-arabian         : Antiguo alfabeto árabe al norte
+manichaean                : 
+avestan                   :
+inscriptional-parthian    :
+inscriptional-pahlavi     : Pahlavi
+psalter-pahlavi           : Pahlavi salterio
+old-turkic                : Viejo turkic
+rumi-numeral-symbols      : Rumi símbolos numéricos
+brahmi                    : Brahmi
+kaithi                    : 
+sora-sompeng              :
+chakma                    :
+mahajani                  :
+sharada                   :
+sinhala-archaic-numbers   :
+khojki                    :
+khudawadi                 :
+grantha                   :
+tirhuta                   :
+siddham                   : Siddham
+modi                      :
+takri                     :
+warang-citi               :
+pau-cin-hau               :
+cuneiform                 : Escritura cuneiforme
+cuneiform-numbers-and-punctuation : Números cuneiformes y Puntuacion
+egyptian-hieroglyphs      : Jeroglíficos egipcios
+bamum-supplement          : Escritura Bamum suplemento
+mro                       : 
+bassa-vah                 : Alfabeto vah
+pahawh-hmong              :
+miao                      :
+kana-supplement           :
+duployan                  :
+shorthand-format-controls :
+byzantine-musical-symbols : Símbolos musicales bizantinos
+musical-symbols           : Símbolos musicales
+ancient-greek-musical-notation : Antigua notación musical griega
+tai-xuan-jing-symbols     : 
+counting-rod-numerals     : Numeración con varillas
+mathematical-alphanumeric-symbols : Símbolos matemáticos alfanuméricos
+mende-kikakui             :
+arabic-mathematical-alphabetic-symbols : Árabe símbolos matemáticos alfabéticos
+mahjong-tiles             : Mahjong
+domino-tiles              : Dominó
+playing-cards             : Baraja
+enclosed-alphanumeric-supplement : Encerrado suplemento alfanumérico
+enclosed-ideographic-supplement : Encerrado suplemento ideográfico
+miscellaneous-symbols-and-pictographs : Símbolos y pictogramas diversos
+emoticons                 : Iconos de la emoción
+ornamental-dingbats       : Pictogramas ornamentales
+transport-and-map-symbols : Símbolos de transporte y mapa
+alchemical-symbols        : Símbolos alquímicos
+geometric-shapes-extended : Formas geométricas extendida
+supplemental-arrows-c     : Flechas suplementarios C
