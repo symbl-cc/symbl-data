@@ -38,20 +38,20 @@ types_list      : Típusok
 countries_list  : Országok
 more            : Több
 sets            : Karakterkészlet
-ny_symbols      : Christmas and NY symbols
-prev            : Prev
-next            : Next
-entity          : Entity
-search_overflow : Sorry, symbol U+%s is under construction :)
-feedback        : Feedback
-separate_page   : Open in separate page
-edit            : Edit
-save            : Save
-submit          : Submit
-undo            : Undo
-send_changes    : Your changes will be send to the website developers. Are you sure?
-edit_thanks     : Thanks!
-gotofullversion : Go to full version
+ny_symbols      : Karácsonyi és NY-szimbólumok
+prev            : Előző
+next            : Következő
+entity          : Egység
+search_overflow : Elnézést, a U+%s-s szimbólum fejlesztés alatt áll :)
+feedback        : Visszajelzés
+separate_page   : Megnyitás egy külön lapon
+edit            : Szerkesztés
+save            : Mentés
+submit          : Elküldés
+undo            : Visszavonás
+send_changes    : A változtatások a fejlesztőknek lesznek elküldve. Biztos vagy benne?
+edit_thanks     : Köszönjük!
+gotofullversion : Ugrás a teljes verzió
 
 # __________________________________________________________
 #
