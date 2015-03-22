@@ -1,38 +1,38 @@
-0000: Null : NUL
-0001: Start of Heading : SOH
-0002: Start of Text : STX
-0003: End of Text : ETX
-0004: End of Transmission : EOT
-0005: Enquiry : ENQ
-0006: Acknowledge : ASK
-0007: Bell : BEL
+﻿0000: Nulla : NUL
+0001: Fejléc Kezdése : SOH
+0002: Szöveg Kezdése : STX
+0003: Szöveg Vége : ETX
+0004: Átvitel Vége : EOT
+0005: Érdeklődés : ENQ
+0006: Elismerés : ASK
+0007: Harang : BEL
 0008: Backspace : BS
-0009: Horizontal Tabulation : ht : character tabulation : TAB
-000A: New Line (Nl) : line feed (lf) : end of line (eol) : LF
-000B: Vertical Tabulation : vt : line tabulation : TAB
-000C: Form Feed : FF
-000D: Carriage Return : CR
-000E: Shift Out : SO
-000F: Shift In : SI
-0010: Data Link Escape : DLE
-0011: Device Control One : DC1
-0012: Device Control Two : DC2
-0013: Device Control Three : DC3
-0014: Device Control Four : DC4
-0015: Negative Acknowledge : NAK
-0016: Synchronous Idle : SYN
-0017: End of Transmission Block : ETB
-0018: Cancel : CAN
+0009: Vízszintes Tabulátor : ht : character tabulation : TAB
+000A: Új sor (Nl) : soremelés (lf) : sor vége (eol) : LF
+000B: Függőleges Tabulátor : vt : line tabulation : TAB
+000C: Lapemelés : FF
+000D: Kocsi Vissza : CR
+000E: Shift Ki : SO
+000F: Shift Be : SI
+0010: Adatkapcsolat Elkerülés : DLE
+0011: Eszközvezérlés Egy : DC1
+0012: Eszközvezérlés Kettő : DC2
+0013: Eszközvezérlés Három : DC3
+0014: Eszközvezérlés Négy : DC4
+0015: Negatív Elismerés : NAK
+0016: Szinkronizált Tétlenség : SYN
+0017: Vége az Átviteli Blokknak : ETB
+0018: Mégse : CAN
 0019: End of Medium : EM
-001A: Substitute : SUB : Ctrl-Z
+001A: Helyettesítés : SUB : Ctrl-Z
 001B: Escape : ESC
-001C: File Separator : information separator four : FS
-001D: Group Separator : information separator three : GS
-001E: Record Separator : information separator two : RS
-001F: Unit Separator : information separator one : US
+001C: Fájlválasztó : információválasztó négy : FS
+001D: Csoportválasztó : információválasztó három : GS
+001E: Felvételválasztó : információválasztó kettő : RS
+001F: Egységválasztó : információválasztó egy : US
 0020: Space
-0021: Exclamation Mark : factorial : bang
-0022: Quotation Mark
+0021: Felkiáltójel : faktoriális : bang
+0022: Kérdőjel
 0023: Number Sign : pound sign : hash : crosshatch : octothorpe
 0024: Dollar Sign : milréis : escudo
 0025: Percent Sign
