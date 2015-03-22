@@ -1,0 +1,256 @@
+1D00: Latin Letter Small Capital A
+1D01: Latin Letter Small Capital Ae
+1D02: Latin Small Letter Turned Ae
+1D03: Latin Letter Small Capital Barred B
+1D04: Latin Letter Small Capital C
+1D05: Latin Letter Small Capital D
+1D06: Latin Letter Small Capital Eth
+1D07: Latin Letter Small Capital E
+1D08: Latin Small Letter Turned Open E
+1D09: Latin Small Letter Turned I
+1D0A: Latin Letter Small Capital J
+1D0B: Latin Letter Small Capital K
+1D0C: Latin Letter Small Capital L with Stroke
+1D0D: Latin Letter Small Capital M
+1D0E: Latin Letter Small Capital Reversed N
+1D0F: Latin Letter Small Capital O
+1D10: Latin Letter Small Capital Open O
+1D11: Latin Small Letter Sideways O
+1D12: Latin Small Letter Sideways Open O
+1D13: Latin Small Letter Sideways O with Stroke
+1D14: Latin Small Letter Turned Oe
+1D15: Latin Letter Small Capital Ou
+1D16: Latin Small Letter Top Half O
+1D17: Latin Small Letter Bottom Half O
+1D18: Latin Letter Small Capital P
+1D19: Latin Letter Small Capital Reversed R
+1D1A: Latin Letter Small Capital Turned R
+1D1B: Latin Letter Small Capital T
+1D1C: Latin Letter Small Capital U
+1D1D: Latin Small Letter Sideways U
+1D1E: Latin Small Letter Sideways Diaeresized U
+1D1F: Latin Small Letter Sideways Turned M
+1D20: Latin Letter Small Capital V
+1D21: Latin Letter Small Capital W
+1D22: Latin Letter Small Capital Z
+1D23: Latin Letter Small Capital Ezh
+1D24: Latin Letter Voiced Laryngeal Spirant
+1D25: Latin Letter Ain
+1D26: Greek Letter Small Capital Gamma
+1D27: Greek Letter Small Capital Lamda
+1D28: Greek Letter Small Capital Pi
+1D29: Greek Letter Small Capital Rho
+1D2A: Greek Letter Small Capital Psi
+1D2B: Cyrillic Letter Small Capital El
+1D2C: Modifier Letter Capital A
+1D2D: Modifier Letter Capital Ae
+1D2E: Modifier Letter Capital B
+1D2F: Modifier Letter Capital Barred B
+1D30: Modifier Letter Capital D
+1D31: Modifier Letter Capital E
+1D32: Modifier Letter Capital Reversed E
+1D33: Modifier Letter Capital G
+1D34: Modifier Letter Capital H
+1D35: Modifier Letter Capital I
+1D36: Modifier Letter Capital J
+1D37: Modifier Letter Capital K
+1D38: Modifier Letter Capital L
+1D39: Modifier Letter Capital M
+1D3A: Modifier Letter Capital N
+1D3B: Modifier Letter Capital Reversed N
+1D3C: Modifier Letter Capital O
+1D3D: Modifier Letter Capital Ou
+1D3E: Modifier Letter Capital P
+1D3F: Modifier Letter Capital R
+1D40: Modifier Letter Capital T
+1D41: Modifier Letter Capital U
+1D42: Modifier Letter Capital W
+1D43: Modifier Letter Small A
+1D44: Modifier Letter Small Turned A
+1D45: Modifier Letter Small Alpha
+1D46: Modifier Letter Small Turned Ae
+1D47: Modifier Letter Small B
+1D48: Modifier Letter Small D
+1D49: Modifier Letter Small E
+1D4A: Modifier Letter Small Schwa
+1D4B: Modifier Letter Small Open E
+1D4C: Modifier Letter Small Turned Open E
+1D4D: Modifier Letter Small G
+1D4E: Modifier Letter Small Turned I
+1D4F: Modifier Letter Small K
+1D50: Modifier Letter Small M
+1D51: Modifier Letter Small Eng
+1D52: Modifier Letter Small O
+1D53: Modifier Letter Small Open O
+1D54: Modifier Letter Small Top Half O
+1D55: Modifier Letter Small Bottom Half O
+1D56: Modifier Letter Small P
+1D57: Modifier Letter Small T
+1D58: Modifier Letter Small U
+1D59: Modifier Letter Small Sideways U
+1D5A: Modifier Letter Small Turned M
+1D5B: Modifier Letter Small V
+1D5C: Modifier Letter Small Ain
+1D5D: Modifier Letter Small Beta
+1D5E: Modifier Letter Small Greek Gamma
+1D5F: Modifier Letter Small Delta
+1D60: Modifier Letter Small Greek Phi
+1D61: Modifier Letter Small Chi
+1D62: Latin Subscript Small Letter I
+1D63: Latin Subscript Small Letter R
+1D64: Latin Subscript Small Letter U
+1D65: Latin Subscript Small Letter V
+1D66: Greek Subscript Small Letter Beta
+1D67: Greek Subscript Small Letter Gamma
+1D68: Greek Subscript Small Letter Rho
+1D69: Greek Subscript Small Letter Phi
+1D6A: Greek Subscript Small Letter Chi
+1D6B: Latin Small Letter Ue
+1D6C: Latin Small Letter B with Middle Tilde
+1D6D: Latin Small Letter D with Middle Tilde
+1D6E: Latin Small Letter F with Middle Tilde
+1D6F: Latin Small Letter M with Middle Tilde
+1D70: Latin Small Letter N with Middle Tilde
+1D71: Latin Small Letter P with Middle Tilde
+1D72: Latin Small Letter R with Middle Tilde
+1D73: Latin Small Letter R with Fishhook and Middle Tilde
+1D74: Latin Small Letter S with Middle Tilde
+1D75: Latin Small Letter T with Middle Tilde
+1D76: Latin Small Letter Z with Middle Tilde
+1D77: Latin Small Letter Turned G
+1D78: Modifier Letter Cyrillic En
+1D79: Latin Small Letter Insular G
+1D7A: Latin Small Letter Th with Strikethrough
+1D7B: Latin Small Capital Letter I with Stroke
+1D7C: Latin Small Letter Iota with Stroke
+1D7D: Latin Small Letter P with Stroke
+1D7E: Latin Small Capital Letter U with Stroke
+1D7F: Latin Small Letter Upsilon with Stroke
+1D80: Latin Small Letter B with Palatal Hook
+1D81: Latin Small Letter D with Palatal Hook
+1D82: Latin Small Letter F with Palatal Hook
+1D83: Latin Small Letter G with Palatal Hook
+1D84: Latin Small Letter K with Palatal Hook
+1D85: Latin Small Letter L with Palatal Hook
+1D86: Latin Small Letter M with Palatal Hook
+1D87: Latin Small Letter N with Palatal Hook
+1D88: Latin Small Letter P with Palatal Hook
+1D89: Latin Small Letter R with Palatal Hook
+1D8A: Latin Small Letter S with Palatal Hook
+1D8B: Latin Small Letter Esh with Palatal Hook
+1D8C: Latin Small Letter V with Palatal Hook
+1D8D: Latin Small Letter X with Palatal Hook
+1D8E: Latin Small Letter Z with Palatal Hook
+1D8F: Latin Small Letter a with Retroflex Hook
+1D90: Latin Small Letter Alpha with Retroflex Hook
+1D91: Latin Small Letter D with Hook and Tail
+1D92: Latin Small Letter E with Retroflex Hook
+1D93: Latin Small Letter Open E with Retroflex Hook
+1D94: Latin Small Letter Reversed Open E with Retroflex Hook
+1D95: Latin Small Letter Schwa with Retroflex Hook
+1D96: Latin Small Letter I with Retroflex Hook
+1D97: Latin Small Letter Open O with Retroflex Hook
+1D98: Latin Small Letter Esh with Retroflex Hook
+1D99: Latin Small Letter U with Retroflex Hook
+1D9A: Latin Small Letter Ezh with Retroflex Hook
+1D9B: Modifier Letter Small Turned Alpha
+1D9C: Modifier Letter Small C
+1D9D: Modifier Letter Small C with Curl
+1D9E: Modifier Letter Small Eth
+1D9F: Modifier Letter Small Reversed Open E
+1DA0: Modifier Letter Small F
+1DA1: Modifier Letter Small Dotless J with Stroke
+1DA2: Modifier Letter Small Script G
+1DA3: Modifier Letter Small Turned H
+1DA4: Modifier Letter Small I with Stroke
+1DA5: Modifier Letter Small Iota
+1DA6: Modifier Letter Small Capital I
+1DA7: Modifier Letter Small Capital I with Stroke
+1DA8: Modifier Letter Small J with Crossed-Tail
+1DA9: Modifier Letter Small L with Retroflex Hook
+1DAA: Modifier Letter Small L with Palatal Hook
+1DAB: Modifier Letter Small Capital L
+1DAC: Modifier Letter Small M with Hook
+1DAD: Modifier Letter Small Turned M with Long Leg
+1DAE: Modifier Letter Small N with Left Hook
+1DAF: Modifier Letter Small N with Retroflex Hook
+1DB0: Modifier Letter Small Capital N
+1DB1: Modifier Letter Small Barred O
+1DB2: Modifier Letter Small Phi
+1DB3: Modifier Letter Small S with Hook
+1DB4: Modifier Letter Small Esh
+1DB5: Modifier Letter Small T with Palatal Hook
+1DB6: Modifier Letter Small U Bar
+1DB7: Modifier Letter Small Upsilon
+1DB8: Modifier Letter Small Capital U
+1DB9: Modifier Letter Small V with Hook
+1DBA: Modifier Letter Small Turned V
+1DBB: Modifier Letter Small Z
+1DBC: Modifier Letter Small Z with Retroflex Hook
+1DBD: Modifier Letter Small Z with Curl
+1DBE: Modifier Letter Small Ezh
+1DBF: Modifier Letter Small Theta
+1DC0: Combining Dotted Grave Accent
+1DC1: Combining Dotted Acute Accent
+1DC2: Combining Snake Below
+1DC3: Combining Suspension Mark
+1DC4: Combining Macron-Acute
+1DC5: Combining Grave-Macron
+1DC6: Combining Macron-Grave
+1DC7: Combining Acute-Macron
+1DC8: Combining Grave-Acute-Grave
+1DC9: Combining Acute-Grave-Acute
+1DCA: Combining Latin Small Letter R Below
+1DCB: Combining Breve-Macron
+1DCC: Combining Macron-Breve
+1DCD: Combining Double Circumflex Above
+1DCE: Combining Ogonek Above
+1DCF: Combining Zigzag Below
+1DD0: Combining Is Below
+1DD1: Combining Ur Above
+1DD2: Combining Us Above
+1DD3: Combining Latin Small Letter Flattened Open a Above
+1DD4: Combining Latin Small Letter Ae
+1DD5: Combining Latin Small Letter Ao
+1DD6: Combining Latin Small Letter Av
+1DD7: Combining Latin Small Letter C Cedilla
+1DD8: Combining Latin Small Letter Insular D
+1DD9: Combining Latin Small Letter Eth
+1DDA: Combining Latin Small Letter G
+1DDB: Combining Latin Letter Small Capital G
+1DDC: Combining Latin Small Letter K
+1DDD: Combining Latin Small Letter L
+1DDE: Combining Latin Letter Small Capital L
+1DDF: Combining Latin Letter Small Capital M
+1DE0: Combining Latin Small Letter N
+1DE1: Combining Latin Letter Small Capital N
+1DE2: Combining Latin Letter Small Capital R
+1DE3: Combining Latin Small Letter R Rotunda
+1DE4: Combining Latin Small Letter S
+1DE5: Combining Latin Small Letter Long S
+1DE6: Combining Latin Small Letter Z
+1DE7: Combining Latin Small Letter Alpha
+1DE8: Combining Latin Small Letter B
+1DE9: Combining Latin Small Letter Beta
+1DEA: Combining Latin Small Letter Schwa
+1DEB: Combining Latin Small Letter F
+1DEC: Combining Latin Small Letter L with Double Middle Tilde
+1DED: Combining Latin Small Letter O with Light Centralization Stroke
+1DEE: Combining Latin Small Letter P
+1DEF: Combining Latin Small Letter Esh
+1DF0: Combining Latin Small Letter U with Light Centralization Stroke
+1DF1: Combining Latin Small Letter W
+1DF2: Combining Latin Small Letter a with Diaeresis
+1DF3: Combining Latin Small Letter O with Diaeresis
+1DF4: Combining Latin Small Letter U with Diaeresis
+1DF5: Combining Up Tack Above
+1DF6:
+1DF7:
+1DF8:
+1DF9:
+1DFA:
+1DFB:
+1DFC: Combining Double Inverted Breve Below
+1DFD: Combining Almost Equal To Below
+1DFE: Combining Left Arrowhead Above
+1DFF: Combining Right Arrowhead and Down Arrowhead Below

@@ -1,0 +1,122 @@
+title           : Unicode character table
+search          : Character search
+find            : Find
+example         : Example
+example_text    : hammer and sickle;arrow;heart;star;triangle;check;circle;cross;square;bullet
+about           : About
+not_language    : Where is my language?
+popular         : Most popular characters
+loading         : Loading, please wait...
+unicode_number  : Unicode number
+html_code       : <span class="caps">HTML</span>-code
+uppercase       : Uppercase
+lowercase       : Lowercase
+encoding        : Encoding
+block           : Block
+set             : Set
+up              : Up
+range           : Range
+type            : Type
+countries       : Countries
+count           : Number of characters
+languages       : Languages
+sort_order      : By order
+sort_block      : By blocks
+copy_clipboard  : Copy to clipboard
+search_h1       : Search
+search_result   : Result
+search_empty    : Search phrase is empty
+search_total    : Total: %s
+search_limit    : (show only %s)
+search_none     : None
+search_any      : Search by any words
+help_range      : Click to highlight range
+blocks_list     : Unicode blocks
+languages_list  : Languages
+languages_blocks : Blocks of language
+types_list      : Types
+countries_list  : Countries
+more            : More
+sets            : Character sets
+ny_symbols      : Christmas and NY symbols
+prev            : Prev
+next            : Next
+entity          : Entity
+search_overflow : Sorry, symbol U+%s is under construction :)
+feedback        : Feedback
+separate_page   : Open in separate page
+edit            : Edit
+save            : Save
+submit          : Submit
+undo            : Undo
+send_changes    : Your changes will be send to the website developers. Are you sure?
+edit_thanks     : Thanks!
+gotofullversion : Go to full version
+
+# __________________________________________________________
+#
+# FOOTER / МЕНЮ ПОДВАЛА
+# __________________________________________________________
+
+feedback        : Feedback
+github          : GitHub
+twitter         : Twitter
+join_us         : I want to join
+donate          : How to donate
+unicode         : Unicode
+about_unicode   : About Unicode
+unicode_history : Unicode history
+unicode_versions: Unicode versions
+broken_chars    : Some characters not displaying
+cyrillic        : Cyrillic
+fonts           : Fonts
+
+
+
+# __________________________________________________________
+#
+# TOOLS / ИНСТРУМЕНТЫ   http://unicode-table.com/tools/
+# __________________________________________________________
+
+tools           : Tools
+encoder         : Encoder
+encoder-desc    : Encodes characters into html-code and back
+encoder-plain   : Plain text
+encoder-full    : Full
+encoder-text    : Text
+encoder-entities: Encodes characters with entities
+encoder-br      : Encodes line breaks
+
+decoder         : Decoder
+decoder-desc    : Encodes characters into Unicode or decodes back
+decoder-example : This is an example
+decoder-code    : Unicode
+decoder-text    : Text
+
+flip            : Flip
+flip-desc       : Flip the Cyrillic and Latin characters upside down or backwards
+flip-plain      : Plain text
+flip-flipped    : Flipped text
+flip-backed     : Back to front text
+
+toolsgenerator : Unicode character table generator
+toolsgenerator-desc : Generates a set of characters in a specified range
+toolsgenerator-range: Range
+toolsgenerator-format: Format
+toolsgenerator-info: Available: {symbol}, {dec}, {hex}, {html}
+toolsgenerator-text-generate: Generate
+toolsgenerator-result: Result
+
+# CONTENT
+
+content-sorry: Sorry, there is no further information at the moment.
+content-sorry-lang: Sorry, further information in English is not available. We are working towards making it available soon.
+content-other: Text is also available in the following languages:
+content-sorry-other: See other language versions:
+
+# SEO
+
+meta_description : All Unicode Symbols with Names and Descriptions on One Page: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_keywords   : unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, uft-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
+symbol_description: Symbol: {{symbol}}, Name: {{name}}, Unicode number: {{code}}, Block: {{block}}{% if entity %}, Entity: {{ entity }}{% endif %}
+symbol_title: symbol, character, sign, icon

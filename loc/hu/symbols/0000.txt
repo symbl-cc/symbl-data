@@ -1,0 +1,256 @@
+0000: Null : NUL
+0001: Start of Heading : SOH
+0002: Start of Text : STX
+0003: End of Text : ETX
+0004: End of Transmission : EOT
+0005: Enquiry : ENQ
+0006: Acknowledge : ASK
+0007: Bell : BEL
+0008: Backspace : BS
+0009: Horizontal Tabulation : ht : character tabulation : TAB
+000A: New Line (Nl) : line feed (lf) : end of line (eol) : LF
+000B: Vertical Tabulation : vt : line tabulation : TAB
+000C: Form Feed : FF
+000D: Carriage Return : CR
+000E: Shift Out : SO
+000F: Shift In : SI
+0010: Data Link Escape : DLE
+0011: Device Control One : DC1
+0012: Device Control Two : DC2
+0013: Device Control Three : DC3
+0014: Device Control Four : DC4
+0015: Negative Acknowledge : NAK
+0016: Synchronous Idle : SYN
+0017: End of Transmission Block : ETB
+0018: Cancel : CAN
+0019: End of Medium : EM
+001A: Substitute : SUB : Ctrl-Z
+001B: Escape : ESC
+001C: File Separator : information separator four : FS
+001D: Group Separator : information separator three : GS
+001E: Record Separator : information separator two : RS
+001F: Unit Separator : information separator one : US
+0020: Space
+0021: Exclamation Mark : factorial : bang
+0022: Quotation Mark
+0023: Number Sign : pound sign : hash : crosshatch : octothorpe
+0024: Dollar Sign : milréis : escudo
+0025: Percent Sign
+0026: Ampersand
+0027: Apostrophe : apostrophe-quote : apl quote
+0028: Left Parenthesis : opening parenthesis
+0029: Right Parenthesis : closing parenthesis
+002A: Asterisk : star
+002B: Plus Sign
+002C: Comma : decimal separator
+002D: Hyphen-Minus : hyphen or minus sign
+002E: Full Stop : period, dot, decimal point
+002F: Solidus : slash, virgule
+0030: Digit Zero
+0031: Digit One
+0032: Digit Two
+0033: Digit Three
+0034: Digit Four
+0035: Digit Five
+0036: Digit Six
+0037: Digit Seven
+0038: Digit Eight
+0039: Digit Nine
+003A: Colon
+003B: Semicolon
+003C: Less-Than Sign
+003D: Equals Sign
+003E: Greater-Than Sign
+003F: Question Mark
+0040: Commercial At : at sign : email
+0041: Latin Capital Letter A
+0042: Latin Capital Letter B
+0043: Latin Capital Letter C
+0044: Latin Capital Letter D
+0045: Latin Capital Letter E
+0046: Latin Capital Letter F
+0047: Latin Capital Letter G
+0048: Latin Capital Letter H
+0049: Latin Capital Letter I
+004A: Latin Capital Letter J
+004B: Latin Capital Letter K
+004C: Latin Capital Letter L
+004D: Latin Capital Letter M
+004E: Latin Capital Letter N
+004F: Latin Capital Letter O
+0050: Latin Capital Letter P
+0051: Latin Capital Letter Q
+0052: Latin Capital Letter R
+0053: Latin Capital Letter S
+0054: Latin Capital Letter T
+0055: Latin Capital Letter U
+0056: Latin Capital Letter V
+0057: Latin Capital Letter W
+0058: Latin Capital Letter X
+0059: Latin Capital Letter Y
+005A: Latin Capital Letter Z
+005B: Left Square Bracket : opening square bracket
+005C: Reverse Solidus : backslash
+005D: Right Square Bracket : closing square bracket
+005E: Circumflex Accent
+005F: Low Line : spacing underscore
+0060: Grave Accent
+0061: Latin Small Letter A
+0062: Latin Small Letter B
+0063: Latin Small Letter C
+0064: Latin Small Letter D
+0065: Latin Small Letter E
+0066: Latin Small Letter F
+0067: Latin Small Letter G
+0068: Latin Small Letter H
+0069: Latin Small Letter I
+006A: Latin Small Letter J
+006B: Latin Small Letter K
+006C: Latin Small Letter L
+006D: Latin Small Letter M
+006E: Latin Small Letter N
+006F: Latin Small Letter O
+0070: Latin Small Letter P
+0071: Latin Small Letter Q
+0072: Latin Small Letter R
+0073: Latin Small Letter S
+0074: Latin Small Letter T
+0075: Latin Small Letter U
+0076: Latin Small Letter V
+0077: Latin Small Letter W
+0078: Latin Small Letter X
+0079: Latin Small Letter Y
+007A: Latin Small Letter Z
+007B: Left Curly Bracket : opening curly bracket : left brace
+007C: Vertical Line : vertical bar
+007D: Right Curly Bracket : closing curly bracket : right brace
+007E: Tilde
+007F: Delete : DEL
+0080: <Control>
+0081: <Control>
+0082: Break Permitted Here
+0083: No Break Here
+0084: <Control>
+0085: Next Line (Nel)
+0086: Start of Selected Area
+0087: End of Selected Area
+0088: Character Tabulation Set
+0089: Character Tabulation with Justification
+008A: Line Tabulation Set
+008B: Partial Line Forward
+008C: Partial Line Backward
+008D: Reverse Line Feed
+008E: Single Shift Two
+008F: Single Shift Three
+0090: Device Control String
+0091: Private Use One
+0092: Private Use Two
+0093: Set Transmit State
+0094: Cancel Character
+0095: Message Waiting
+0096: Start of Guarded Area
+0097: End of Guarded Area
+0098: Start of String
+0099: <Control>
+009A: Single Character Introducer
+009B: Control Sequence Introducer
+009C: String Terminator
+009D: Operating System Command
+009E: Privacy Message
+009F: Application Program Command
+00A0: No-Break Space
+00A1: Inverted Exclamation Mark
+00A2: Cent Sign
+00A3: Pound Sign : pound sterling, irish punt, italian lira, turkish lira
+00A4: Currency Sign
+00A5: Yen Sign : yuan sign
+00A6: Broken Bar : broken vertical bar : parted rule (in typography)
+00A7: Section Sign
+00A8: Diaeresis
+00A9: Copyright Sign : copy : (c)
+00AA: Feminine Ordinal Indicator
+00AB: Left-Pointing Double Angle Quotation Mark : left guillemet : chevrons
+00AC: Not Sign : angled dash (in typography)
+00AD: Soft Hyphen : discretionary hyphen
+00AE: Registered Sign : registered trade mark sign
+00AF: Macron : overline, apl overbar
+00B0: Degree Sign
+00B1: Plus-Minus Sign
+00B2: Superscript Two : squared
+00B3: Superscript Three : cubed
+00B4: Acute Accent
+00B5: Micro Sign
+00B6: Pilcrow Sign : paragraph sign
+00B7: Middle Dot : midpoint : georgian comma : greek middle dot
+00B8: Cedilla
+00B9: Superscript One
+00BA: Masculine Ordinal Indicator
+00BB: Right-Pointing Double Angle Quotation Mark : right guillemet
+00BC: Vulgar Fraction One Quarter
+00BD: Vulgar Fraction One Half
+00BE: Vulgar Fraction Three Quarters
+00BF: Inverted Question Mark : turned question mark
+00C0: Latin Capital Letter a with Grave
+00C1: Latin Capital Letter a with Acute
+00C2: Latin Capital Letter a with Circumflex
+00C3: Latin Capital Letter a with Tilde
+00C4: Latin Capital Letter a with Diaeresis
+00C5: Latin Capital Letter a with Ring Above
+00C6: Latin Capital Letter Ae : latin capital ligature ae
+00C7: Latin Capital Letter C with Cedilla
+00C8: Latin Capital Letter E with Grave
+00C9: Latin Capital Letter E with Acute
+00CA: Latin Capital Letter E with Circumflex
+00CB: Latin Capital Letter E with Diaeresis
+00CC: Latin Capital Letter I with Grave
+00CD: Latin Capital Letter I with Acute
+00CE: Latin Capital Letter I with Circumflex
+00CF: Latin Capital Letter I with Diaeresis
+00D0: Latin Capital Letter Eth
+00D1: Latin Capital Letter N with Tilde
+00D2: Latin Capital Letter O with Grave
+00D3: Latin Capital Letter O with Acute
+00D4: Latin Capital Letter O with Circumflex
+00D5: Latin Capital Letter O with Tilde
+00D6: Latin Capital Letter O with Diaeresis
+00D7: Multiplication Sign : z notation cartesian product
+00D8: Latin Capital Letter O with Stroke : o slash
+00D9: Latin Capital Letter U with Grave
+00DA: Latin Capital Letter U with Acute
+00DB: Latin Capital Letter U with Circumflex
+00DC: Latin Capital Letter U with Diaeresis
+00DD: Latin Capital Letter Y with Acute
+00DE: Latin Capital Letter Thorn
+00DF: Latin Small Letter Sharp S : eszett
+00E0: Latin Small Letter a with Grave
+00E1: Latin Small Letter a with Acute
+00E2: Latin Small Letter a with Circumflex
+00E3: Latin Small Letter a with Tilde
+00E4: Latin Small Letter a with Diaeresis
+00E5: Latin Small Letter a with Ring Above
+00E6: Latin Small Letter Ae : latin small ligature ae : ash (from old english æsc)
+00E7: Latin Small Letter C with Cedilla
+00E8: Latin Small Letter E with Grave
+00E9: Latin Small Letter E with Acute
+00EA: Latin Small Letter E with Circumflex
+00EB: Latin Small Letter E with Diaeresis
+00EC: Latin Small Letter I with Grave
+00ED: Latin Small Letter I with Acute
+00EE: Latin Small Letter I with Circumflex
+00EF: Latin Small Letter I with Diaeresis
+00F0: Latin Small Letter Eth
+00F1: Latin Small Letter N with Tilde
+00F2: Latin Small Letter O with Grave
+00F3: Latin Small Letter O with Acute
+00F4: Latin Small Letter O with Circumflex
+00F5: Latin Small Letter O with Tilde
+00F6: Latin Small Letter O with Diaeresis
+00F7: Division Sign : obelus
+00F8: Latin Small Letter O with Stroke : o slash
+00F9: Latin Small Letter U with Grave
+00FA: Latin Small Letter U with Acute
+00FB: Latin Small Letter U with Circumflex
+00FC: Latin Small Letter U with Diaeresis
+00FD: Latin Small Letter Y with Acute
+00FE: Latin Small Letter Thorn
+00FF: Latin Small Letter Y with Diaeresis

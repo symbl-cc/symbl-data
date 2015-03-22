@@ -1,0 +1,256 @@
+2300: Diameter Sign
+2301: Electric Arrow
+2302: House : Home
+2303: Up Arrowhead
+2304: Down Arrowhead
+2305: Projective
+2306: Perspective
+2307: Wavy Line
+2308: Left Ceiling : apl upstile
+2309: Right Ceiling
+230A: Left Floor : apl downstile
+230B: Right Floor
+230C: Bottom Right Crop
+230D: Bottom Left Crop
+230E: Top Right Crop
+230F: Top Left Crop
+2310: Reversed Not Sign : beginning of line
+2311: Square Lozenge : kissen (pillow)
+2312: Arc : position of any line
+2313: Segment : position of a surface
+2314: Sector
+2315: Telephone Recorder
+2316: Position Indicator : true position
+2317: Viewdata Square
+2318: Place of Interest Sign : command key : operating system key (iso 9995-7)
+2319: Turned Not Sign : line marker
+231A: Watch
+231B: Hourglass : alchemical symbol for hour
+231C: Top Left Corner
+231D: Top Right Corner
+231E: Bottom Left Corner
+231F: Bottom Right Corner
+2320: Top Half Integral
+2321: Bottom Half Integral
+2322: Frown
+2323: Smile
+2324: Up Arrowhead Between Two Horizontal Bars : enter key
+2325: Option Key
+2326: Erase To the Right : delete to the right key
+2327: X In a Rectangle Box : clear key
+2328: Keyboard
+2329: Left-Pointing Angle Bracket
+232A: Right-Pointing Angle Bracket
+232B: Erase To the Left : delete to the left key
+232C: Benzene Ring
+232D: Cylindricity
+232E: All Around-Profile
+232F: Symmetry
+2330: Total Runout
+2331: Dimension Origin
+2332: Conical Taper
+2333: Slope
+2334: Counterbore
+2335: Countersink
+2336: Apl Functional Symbol I-Beam
+2337: Apl Functional Symbol Squish Quad
+2338: Apl Functional Symbol Quad Equal
+2339: Apl Functional Symbol Quad Divide
+233A: Apl Functional Symbol Quad Diamond
+233B: Apl Functional Symbol Quad Jot
+233C: Apl Functional Symbol Quad Circle
+233D: Apl Functional Symbol Circle Stile
+233E: Apl Functional Symbol Circle Jot
+233F: Apl Functional Symbol Slash Bar
+2340: Apl Functional Symbol Backslash Bar
+2341: Apl Functional Symbol Quad Slash
+2342: Apl Functional Symbol Quad Backslash
+2343: Apl Functional Symbol Quad Less-Than
+2344: Apl Functional Symbol Quad Greater-Than
+2345: Apl Functional Symbol Leftwards Vane
+2346: Apl Functional Symbol Rightwards Vane
+2347: Apl Functional Symbol Quad Leftwards Arrow
+2348: Apl Functional Symbol Quad Rightwards Arrow
+2349: Apl Functional Symbol Circle Backslash
+234A: Apl Functional Symbol Down Tack Underbar : up tack underbar
+234B: Apl Functional Symbol Delta Stile
+234C: Apl Functional Symbol Quad Down Caret
+234D: Apl Functional Symbol Quad Delta
+234E: Apl Functional Symbol Down Tack Jot : up tack jot
+234F: Apl Functional Symbol Upwards Vane
+2350: Apl Functional Symbol Quad Upwards Arrow
+2351: Apl Functional Symbol Up Tack Overbar : down tack overbar
+2352: Apl Functional Symbol Del Stile
+2353: Apl Functional Symbol Quad Up Caret
+2354: Apl Functional Symbol Quad Del
+2355: Apl Functional Symbol Up Tack Jot : down tack jot
+2356: Apl Functional Symbol Downwards Vane
+2357: Apl Functional Symbol Quad Downwards Arrow
+2358: Apl Functional Symbol Quote Underbar
+2359: Apl Functional Symbol Delta Underbar
+235A: Apl Functional Symbol Diamond Underbar
+235B: Apl Functional Symbol Jot Underbar
+235C: Apl Functional Symbol Circle Underbar
+235D: Apl Functional Symbol Up Shoe Jot
+235E: Apl Functional Symbol Quote Quad
+235F: Apl Functional Symbol Circle Star
+2360: Apl Functional Symbol Quad Colon
+2361: Apl Functional Symbol Up Tack Diaeresis : down tack diaeresis
+2362: Apl Functional Symbol Del Diaeresis
+2363: Apl Functional Symbol Star Diaeresis
+2364: Apl Functional Symbol Jot Diaeresis : hoot
+2365: Apl Functional Symbol Circle Diaeresis : holler
+2366: Apl Functional Symbol Down Shoe Stile
+2367: Apl Functional Symbol Left Shoe Stile
+2368: Apl Functional Symbol Tilde Diaeresis : smirk
+2369: Apl Functional Symbol Greater-Than Diaeresis
+236A: Apl Functional Symbol Comma Bar
+236B: Apl Functional Symbol Del Tilde
+236C: Apl Functional Symbol Zilde
+236D: Apl Functional Symbol Stile Tilde
+236E: Apl Functional Symbol Semicolon Underbar
+236F: Apl Functional Symbol Quad Not Equal
+2370: Apl Functional Symbol Quad Question
+2371: Apl Functional Symbol Down Caret Tilde
+2372: Apl Functional Symbol Up Caret Tilde
+2373: Apl Functional Symbol Iota
+2374: Apl Functional Symbol Rho
+2375: Apl Functional Symbol Omega
+2376: Apl Functional Symbol Alpha Underbar
+2377: Apl Functional Symbol Epsilon Underbar
+2378: Apl Functional Symbol Iota Underbar
+2379: Apl Functional Symbol Omega Underbar
+237A: Apl Functional Symbol Alpha
+237B: Not Check Mark
+237C: Right Angle with Downwards Zigzag Arrow
+237D: Shouldered Open Box
+237E: Bell Symbol
+237F: Vertical Line with Middle Dot
+2380: Insertion Symbol
+2381: Continuous Underline Symbol
+2382: Discontinuous Underline Symbol
+2383: Emphasis Symbol
+2384: Composition Symbol
+2385: White Square with Centre Vertical Line : center
+2386: Enter Symbol
+2387: Alternative Key Symbol
+2388: Helm Symbol : control
+2389: Circled Horizontal Bar with Notch : pause
+238A: Circled Triangle Down : interrupt, break
+238B: Broken Circle with Northwest Arrow : escape
+238C: Undo Symbol
+238D: Monostable Symbol
+238E: Hysteresis Symbol
+238F: Open-Circuit-Output H-Type Symbol
+2390: Open-Circuit-Output L-Type Symbol
+2391: Passive-Pull-Down-Output Symbol
+2392: Passive-Pull-Up-Output Symbol
+2393: Direct Current Symbol Form Two
+2394: Software-Function Symbol
+2395: Apl Functional Symbol Quad
+2396: Decimal Separator Key Symbol
+2397: Previous Page
+2398: Next Page
+2399: Print Screen Symbol
+239A: Clear Screen Symbol
+239B: Left Parenthesis Upper Hook
+239C: Left Parenthesis Extension
+239D: Left Parenthesis Lower Hook
+239E: Right Parenthesis Upper Hook
+239F: Right Parenthesis Extension
+23A0: Right Parenthesis Lower Hook
+23A1: Left Square Bracket Upper Corner
+23A2: Left Square Bracket Extension
+23A3: Left Square Bracket Lower Corner
+23A4: Right Square Bracket Upper Corner
+23A5: Right Square Bracket Extension
+23A6: Right Square Bracket Lower Corner
+23A7: Left Curly Bracket Upper Hook
+23A8: Left Curly Bracket Middle Piece
+23A9: Left Curly Bracket Lower Hook
+23AA: Curly Bracket Extension
+23AB: Right Curly Bracket Upper Hook
+23AC: Right Curly Bracket Middle Piece
+23AD: Right Curly Bracket Lower Hook
+23AE: Integral Extension
+23AF: Horizontal Line Extension
+23B0: Upper Left or Lower Right Curly Bracket Section : left moustache
+23B1: Upper Right or Lower Left Curly Bracket Section : right moustache
+23B2: Summation Top
+23B3: Summation Bottom
+23B4: Top Square Bracket
+23B5: Bottom Square Bracket
+23B6: Bottom Square Bracket Over Top Square Bracket
+23B7: Radical Symbol Bottom
+23B8: Left Vertical Box Line
+23B9: Right Vertical Box Line
+23BA: Horizontal Scan Line-1
+23BB: Horizontal Scan Line-3
+23BC: Horizontal Scan Line-7
+23BD: Horizontal Scan Line-9
+23BE: Dentistry Symbol Light Vertical and Top Right
+23BF: Dentistry Symbol Light Vertical and Bottom Right
+23C0: Dentistry Symbol Light Vertical with Circle
+23C1: Dentistry Symbol Light Down and Horizontal with Circle
+23C2: Dentistry Symbol Light Up and Horizontal with Circle
+23C3: Dentistry Symbol Light Vertical with Triangle
+23C4: Dentistry Symbol Light Down and Horizontal with Triangle
+23C5: Dentistry Symbol Light Up and Horizontal with Triangle
+23C6: Dentistry Symbol Light Vertical and Wave
+23C7: Dentistry Symbol Light Down and Horizontal with Wave
+23C8: Dentistry Symbol Light Up and Horizontal with Wave
+23C9: Dentistry Symbol Light Down and Horizontal
+23CA: Dentistry Symbol Light Up and Horizontal
+23CB: Dentistry Symbol Light Vertical and Top Left
+23CC: Dentistry Symbol Light Vertical and Bottom Left
+23CD: Square Foot
+23CE: Return Symbol
+23CF: Eject Symbol
+23D0: Vertical Line Extension
+23D1: Metrical Breve
+23D2: Metrical Long Over Short
+23D3: Metrical Short Over Long
+23D4: Metrical Long Over Two Shorts
+23D5: Metrical Two Shorts Over Long
+23D6: Metrical Two Shorts Joined
+23D7: Metrical Triseme
+23D8: Metrical Tetraseme
+23D9: Metrical Pentaseme
+23DA: Earth Ground
+23DB: Fuse
+23DC: Top Parenthesis
+23DD: Bottom Parenthesis
+23DE: Top Curly Bracket
+23DF: Bottom Curly Bracket
+23E0: Top Tortoise Shell Bracket
+23E1: Bottom Tortoise Shell Bracket
+23E2: White Trapezium
+23E3: Benzene Ring with Circle
+23E4: Straightness
+23E5: Flatness
+23E6: Ac Current
+23E7: Electrical Intersection
+23E8: Decimal Exponent Symbol
+23E9: Black Right-Pointing Double Triangle : fast forward
+23EA: Black Left-Pointing Double Triangle : fast rewind
+23EB: Black Up-Pointing Double Triangle
+23EC: Black Down-Pointing Double Triangle
+23ED: Black Right-Pointing Double Triangle with Vertical Bar
+23EE: Black Left-Pointing Double Triangle with Vertical Bar
+23EF: Black Right-Pointing Triangle with Double Vertical Bar
+23F0: Alarm Clock
+23F1: Stopwatch
+23F2: Timer Clock
+23F3: Hourglass with Flowing Sand
+23F4: Black Medium Left-Pointing Triangle : reverse, back
+23F5: Black Medium Right-Pointing Triangle : forward
+23F6: Black Medium Up-Pointing Triangle : increase
+23F7: Black Medium Down-Pointing Triangle : decrease
+23F8: Double Vertical Bar : pause
+23F9: Black Square for Stop : stop
+23FA: Black Circle for Record : record
+23FB:
+23FC:
+23FD:
+23FE:
+23FF:

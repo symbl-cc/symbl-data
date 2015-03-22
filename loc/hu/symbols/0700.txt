@@ -1,0 +1,256 @@
+0700: Syriac End of Paragraph
+0701: Syriac Supralinear Full Stop
+0702: Syriac Sublinear Full Stop
+0703: Syriac Supralinear Colon
+0704: Syriac Sublinear Colon
+0705: Syriac Horizontal Colon
+0706: Syriac Colon Skewed Left
+0707: Syriac Colon Skewed Right
+0708: Syriac Supralinear Colon Skewed Left
+0709: Syriac Sublinear Colon Skewed Right
+070A: Syriac Contraction
+070B: Syriac Harklean Obelus
+070C: Syriac Harklean Metobelus
+070D: Syriac Harklean Asteriscus
+070E:
+070F: Syriac Abbreviation Mark : sam
+0710: Syriac Letter Alaph
+0711: Syriac Letter Superscript Alaph
+0712: Syriac Letter Beth
+0713: Syriac Letter Gamal
+0714: Syriac Letter Gamal Garshuni
+0715: Syriac Letter Dalath
+0716: Syriac Letter Dotless Dalath Rish
+0717: Syriac Letter He
+0718: Syriac Letter Waw
+0719: Syriac Letter Zain
+071A: Syriac Letter Heth
+071B: Syriac Letter Teth
+071C: Syriac Letter Teth Garshuni
+071D: Syriac Letter Yudh
+071E: Syriac Letter Yudh He
+071F: Syriac Letter Kaph
+0720: Syriac Letter Lamadh
+0721: Syriac Letter Mim
+0722: Syriac Letter Nun
+0723: Syriac Letter Semkath
+0724: Syriac Letter Final Semkath
+0725: Syriac Letter E
+0726: Syriac Letter Pe
+0727: Syriac Letter Reversed Pe
+0728: Syriac Letter Sadhe
+0729: Syriac Letter Qaph
+072A: Syriac Letter Rish
+072B: Syriac Letter Shin
+072C: Syriac Letter Taw
+072D: Syriac Letter Persian Bheth
+072E: Syriac Letter Persian Ghamal
+072F: Syriac Letter Persian Dhalath
+0730: Syriac Pthaha Above
+0731: Syriac Pthaha Below
+0732: Syriac Pthaha Dotted
+0733: Syriac Zqapha Above
+0734: Syriac Zqapha Below
+0735: Syriac Zqapha Dotted
+0736: Syriac Rbasa Above
+0737: Syriac Rbasa Below
+0738: Syriac Dotted Zlama Horizontal
+0739: Syriac Dotted Zlama Angular
+073A: Syriac Hbasa Above
+073B: Syriac Hbasa Below
+073C: Syriac Hbasa-Esasa Dotted
+073D: Syriac Esasa Above
+073E: Syriac Esasa Below
+073F: Syriac Rwaha
+0740: Syriac Feminine Dot
+0741: Syriac Qushshaya
+0742: Syriac Rukkakha
+0743: Syriac Two Vertical Dots Above
+0744: Syriac Two Vertical Dots Below
+0745: Syriac Three Dots Above
+0746: Syriac Three Dots Below
+0747: Syriac Oblique Line Above
+0748: Syriac Oblique Line Below
+0749: Syriac Music
+074A: Syriac Barrekh
+074B:
+074C:
+074D: Syriac Letter Sogdian Zhain
+074E: Syriac Letter Sogdian Khaph
+074F: Syriac Letter Sogdian Fe
+0750: Arabic Letter Beh with Three Dots Horizontally Below
+0751: Arabic Letter Beh with Dot Below and Three Dots Above
+0752: Arabic Letter Beh with Three Dots Pointing Upwards Below
+0753: Arabic Letter Beh with Three Dots Pointing Upwards Below and Two Dots Above
+0754: Arabic Letter Beh with Two Dots Below and Dot Above
+0755: Arabic Letter Beh with Inverted Small V Below
+0756: Arabic Letter Beh with Small V
+0757: Arabic Letter Hah with Two Dots Above
+0758: Arabic Letter Hah with Three Dots Pointing Upwards Below
+0759: Arabic Letter Dal with Two Dots Vertically Below and Small Tah
+075A: Arabic Letter Dal with Inverted Small V Below
+075B: Arabic Letter Reh with Stroke
+075C: Arabic Letter Seen with Four Dots Above
+075D: Arabic Letter Ain with Two Dots Above
+075E: Arabic Letter Ain with Three Dots Pointing Downwards Above
+075F: Arabic Letter Ain with Two Dots Vertically Above
+0760: Arabic Letter Feh with Two Dots Below
+0761: Arabic Letter Feh with Three Dots Pointing Upwards Below
+0762: Arabic Letter Keheh with Dot Above
+0763: Arabic Letter Keheh with Three Dots Above
+0764: Arabic Letter Keheh with Three Dots Pointing Upwards Below
+0765: Arabic Letter Meem with Dot Above
+0766: Arabic Letter Meem with Dot Below
+0767: Arabic Letter Noon with Two Dots Below
+0768: Arabic Letter Noon with Small Tah
+0769: Arabic Letter Noon with Small V
+076A: Arabic Letter Lam with Bar
+076B: Arabic Letter Reh with Two Dots Vertically Above
+076C: Arabic Letter Reh with Hamza Above
+076D: Arabic Letter Seen with Two Dots Vertically Above
+076E: Arabic Letter Hah with Small Arabic Letter Tah Below
+076F: Arabic Letter Hah with Small Arabic Letter Tah and Two Dots
+0770: Arabic Letter Seen with Small Arabic Letter Tah and Two Dots
+0771: Arabic Letter Reh with Small Arabic Letter Tah and Two Dots
+0772: Arabic Letter Hah with Small Arabic Letter Tah Above
+0773: Arabic Letter Alef with Extended Arabic-Indic Digit Two Above
+0774: Arabic Letter Alef with Extended Arabic-Indic Digit Three Above
+0775: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Two Above
+0776: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Three Above
+0777: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Four Below
+0778: Arabic Letter Waw with Extended Arabic-Indic Digit Two Above
+0779: Arabic Letter Waw with Extended Arabic-Indic Digit Three Above
+077A: Arabic Letter Yeh Barree with Extended Arabic-Indic Digit Two Above
+077B: Arabic Letter Yeh Barree with Extended Arabic-Indic Digit Three Above
+077C: Arabic Letter Hah with Extended Arabic-Indic Digit Four Below
+077D: Arabic Letter Seen with Extended Arabic-Indic Digit Four Above
+077E: Arabic Letter Seen with Inverted V
+077F: Arabic Letter Kaf with Two Dots Above
+0780: Thaana Letter Haa
+0781: Thaana Letter Shaviyani
+0782: Thaana Letter Noonu
+0783: Thaana Letter Raa
+0784: Thaana Letter Baa
+0785: Thaana Letter Lhaviyani
+0786: Thaana Letter Kaafu
+0787: Thaana Letter Alifu
+0788: Thaana Letter Vaavu
+0789: Thaana Letter Meemu
+078A: Thaana Letter Faafu
+078B: Thaana Letter Dhaalu
+078C: Thaana Letter Thaa
+078D: Thaana Letter Laamu
+078E: Thaana Letter Gaafu
+078F: Thaana Letter Gnaviyani
+0790: Thaana Letter Seenu
+0791: Thaana Letter Daviyani
+0792: Thaana Letter Zaviyani
+0793: Thaana Letter Taviyani
+0794: Thaana Letter Yaa
+0795: Thaana Letter Paviyani
+0796: Thaana Letter Javiyani
+0797: Thaana Letter Chaviyani
+0798: Thaana Letter Ttaa
+0799: Thaana Letter Hhaa
+079A: Thaana Letter Khaa
+079B: Thaana Letter Thaalu
+079C: Thaana Letter Zaa
+079D: Thaana Letter Sheenu
+079E: Thaana Letter Saadhu
+079F: Thaana Letter Daadhu
+07A0: Thaana Letter To
+07A1: Thaana Letter Zo
+07A2: Thaana Letter Ainu
+07A3: Thaana Letter Ghainu
+07A4: Thaana Letter Qaafu
+07A5: Thaana Letter Waavu
+07A6: Thaana Abafili
+07A7: Thaana Aabaafili
+07A8: Thaana Ibifili
+07A9: Thaana Eebeefili
+07AA: Thaana Ubufili
+07AB: Thaana Ooboofili
+07AC: Thaana Ebefili
+07AD: Thaana Eybeyfili
+07AE: Thaana Obofili
+07AF: Thaana Oaboafili
+07B0: Thaana Sukun
+07B1: Thaana Letter Naa
+07B2:
+07B3:
+07B4:
+07B5:
+07B6:
+07B7:
+07B8:
+07B9:
+07BA:
+07BB:
+07BC:
+07BD:
+07BE:
+07BF:
+07C0: Nko Digit Zero
+07C1: Nko Digit One
+07C2: Nko Digit Two
+07C3: Nko Digit Three
+07C4: Nko Digit Four
+07C5: Nko Digit Five
+07C6: Nko Digit Six
+07C7: Nko Digit Seven
+07C8: Nko Digit Eight
+07C9: Nko Digit Nine
+07CA: Nko Letter A
+07CB: Nko Letter Ee
+07CC: Nko Letter I
+07CD: Nko Letter E
+07CE: Nko Letter U
+07CF: Nko Letter Oo
+07D0: Nko Letter O
+07D1: Nko Letter Dagbasinna
+07D2: Nko Letter N
+07D3: Nko Letter Ba
+07D4: Nko Letter Pa
+07D5: Nko Letter Ta
+07D6: Nko Letter Ja
+07D7: Nko Letter Cha
+07D8: Nko Letter Da
+07D9: Nko Letter Ra
+07DA: Nko Letter Rra
+07DB: Nko Letter Sa
+07DC: Nko Letter Gba
+07DD: Nko Letter Fa
+07DE: Nko Letter Ka
+07DF: Nko Letter La
+07E0: Nko Letter Na Woloso
+07E1: Nko Letter Ma
+07E2: Nko Letter Nya
+07E3: Nko Letter Na
+07E4: Nko Letter Ha
+07E5: Nko Letter Wa
+07E6: Nko Letter Ya
+07E7: Nko Letter Nya Woloso
+07E8: Nko Letter Jona Ja
+07E9: Nko Letter Jona Cha
+07EA: Nko Letter Jona Ra
+07EB: Nko Combining Short High Tone
+07EC: Nko Combining Short Low Tone
+07ED: Nko Combining Short Rising Tone
+07EE: Nko Combining Long Descending Tone
+07EF: Nko Combining Long High Tone
+07F0: Nko Combining Long Low Tone
+07F1: Nko Combining Long Rising Tone
+07F2: Nko Combining Nasalization Mark
+07F3: Nko Combining Double Dot Above
+07F4: Nko High Tone Apostrophe
+07F5: Nko Low Tone Apostrophe
+07F6: Nko Symbol Oo Dennen
+07F7: Nko Symbol Gbakurunen
+07F8: Nko Comma
+07F9: Nko Exclamation Mark
+07FA: Nko Lajanyalan
+07FB:
+07FC:
+07FD:
+07FE:
+07FF:

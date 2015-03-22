@@ -1,0 +1,256 @@
+3000: Ideographic Space
+3001: Ideographic Comma
+3002: Ideographic Full Stop
+3003: Ditto Mark
+3004: Japanese Industrial Standard Symbol
+3005: Ideographic Iteration Mark
+3006: Ideographic Closing Mark
+3007: Ideographic Number Zero
+3008: Left Angle Bracket
+3009: Right Angle Bracket
+300A: Left Double Angle Bracket
+300B: Right Double Angle Bracket
+300C: Left Corner Bracket
+300D: Right Corner Bracket
+300E: Left White Corner Bracket
+300F: Right White Corner Bracket
+3010: Left Black Lenticular Bracket
+3011: Right Black Lenticular Bracket
+3012: Postal Mark
+3013: Geta Mark
+3014: Left Tortoise Shell Bracket
+3015: Right Tortoise Shell Bracket
+3016: Left White Lenticular Bracket
+3017: Right White Lenticular Bracket
+3018: Left White Tortoise Shell Bracket
+3019: Right White Tortoise Shell Bracket
+301A: Left White Square Bracket : left abstract syntax bracket
+301B: Right White Square Bracket : right abstract syntax bracket
+301C: Wave Dash
+301D: Reversed Double Prime Quotation Mark
+301E: Double Prime Quotation Mark
+301F: Low Double Prime Quotation Mark
+3020: Postal Mark Face
+3021: Hangzhou Numeral One
+3022: Hangzhou Numeral Two
+3023: Hangzhou Numeral Three
+3024: Hangzhou Numeral Four
+3025: Hangzhou Numeral Five
+3026: Hangzhou Numeral Six
+3027: Hangzhou Numeral Seven
+3028: Hangzhou Numeral Eight
+3029: Hangzhou Numeral Nine
+302A: Ideographic Level Tone Mark
+302B: Ideographic Rising Tone Mark
+302C: Ideographic Departing Tone Mark
+302D: Ideographic Entering Tone Mark
+302E: Hangul Single Dot Tone Mark : single dot bangjeom
+302F: Hangul Double Dot Tone Mark : double dot bangjeom
+3030: Wavy Dash
+3031: Vertical Kana Repeat Mark
+3032: Vertical Kana Repeat with Voiced Sound Mark
+3033: Vertical Kana Repeat Mark Upper Half
+3034: Vertical Kana Repeat with Voiced Sound Mark Upper Half
+3035: Vertical Kana Repeat Mark Lower Half
+3036: Circled Postal Mark
+3037: Ideographic Telegraph Line Feed Separator Symbol
+3038: Hangzhou Numeral Ten
+3039: Hangzhou Numeral Twenty
+303A: Hangzhou Numeral Thirty
+303B: Vertical Ideographic Iteration Mark
+303C: Masu Mark
+303D: Part Alternation Mark
+303E: Ideographic Variation Indicator
+303F: Ideographic Half Fill Space
+3040:
+3041: Hiragana Letter Small A
+3042: Hiragana Letter A
+3043: Hiragana Letter Small I
+3044: Hiragana Letter I
+3045: Hiragana Letter Small U
+3046: Hiragana Letter U
+3047: Hiragana Letter Small E
+3048: Hiragana Letter E
+3049: Hiragana Letter Small O
+304A: Hiragana Letter O
+304B: Hiragana Letter Ka
+304C: Hiragana Letter Ga
+304D: Hiragana Letter Ki
+304E: Hiragana Letter Gi
+304F: Hiragana Letter Ku
+3050: Hiragana Letter Gu
+3051: Hiragana Letter Ke
+3052: Hiragana Letter Ge
+3053: Hiragana Letter Ko
+3054: Hiragana Letter Go
+3055: Hiragana Letter Sa
+3056: Hiragana Letter Za
+3057: Hiragana Letter Si : shi
+3058: Hiragana Letter Zi : ji (not unique)
+3059: Hiragana Letter Su
+305A: Hiragana Letter Zu
+305B: Hiragana Letter Se
+305C: Hiragana Letter Ze
+305D: Hiragana Letter So
+305E: Hiragana Letter Zo
+305F: Hiragana Letter Ta
+3060: Hiragana Letter Da
+3061: Hiragana Letter Ti : chi
+3062: Hiragana Letter Di : ji (not unique)
+3063: Hiragana Letter Small Tu : small tsu
+3064: Hiragana Letter Tu : tsu
+3065: Hiragana Letter Du : zu (not unique)
+3066: Hiragana Letter Te
+3067: Hiragana Letter De
+3068: Hiragana Letter To
+3069: Hiragana Letter Do
+306A: Hiragana Letter Na
+306B: Hiragana Letter Ni
+306C: Hiragana Letter Nu
+306D: Hiragana Letter Ne
+306E: Hiragana Letter No
+306F: Hiragana Letter Ha
+3070: Hiragana Letter Ba
+3071: Hiragana Letter Pa
+3072: Hiragana Letter Hi
+3073: Hiragana Letter Bi
+3074: Hiragana Letter Pi
+3075: Hiragana Letter Hu : fu
+3076: Hiragana Letter Bu
+3077: Hiragana Letter Pu
+3078: Hiragana Letter He
+3079: Hiragana Letter Be
+307A: Hiragana Letter Pe
+307B: Hiragana Letter Ho
+307C: Hiragana Letter Bo
+307D: Hiragana Letter Po
+307E: Hiragana Letter Ma
+307F: Hiragana Letter Mi
+3080: Hiragana Letter Mu
+3081: Hiragana Letter Me
+3082: Hiragana Letter Mo
+3083: Hiragana Letter Small Ya
+3084: Hiragana Letter Ya
+3085: Hiragana Letter Small Yu
+3086: Hiragana Letter Yu
+3087: Hiragana Letter Small Yo
+3088: Hiragana Letter Yo
+3089: Hiragana Letter Ra
+308A: Hiragana Letter Ri
+308B: Hiragana Letter Ru
+308C: Hiragana Letter Re
+308D: Hiragana Letter Ro
+308E: Hiragana Letter Small Wa
+308F: Hiragana Letter Wa
+3090: Hiragana Letter Wi
+3091: Hiragana Letter We
+3092: Hiragana Letter Wo
+3093: Hiragana Letter N
+3094: Hiragana Letter Vu
+3095: Hiragana Letter Small Ka
+3096: Hiragana Letter Small Ke
+3097:
+3098:
+3099: Combining Katakana-Hiragana Voiced Sound Mark
+309A: Combining Katakana-Hiragana Semi-Voiced Sound Mark
+309B: Katakana-Hiragana Voiced Sound Mark
+309C: Katakana-Hiragana Semi-Voiced Sound Mark
+309D: Hiragana Iteration Mark
+309E: Hiragana Voiced Iteration Mark
+309F: Hiragana Digraph Yori
+30A0: Katakana-Hiragana Double Hyphen
+30A1: Katakana Letter Small A
+30A2: Katakana Letter A
+30A3: Katakana Letter Small I
+30A4: Katakana Letter I
+30A5: Katakana Letter Small U
+30A6: Katakana Letter U
+30A7: Katakana Letter Small E
+30A8: Katakana Letter E
+30A9: Katakana Letter Small O
+30AA: Katakana Letter O
+30AB: Katakana Letter Ka
+30AC: Katakana Letter Ga
+30AD: Katakana Letter Ki
+30AE: Katakana Letter Gi
+30AF: Katakana Letter Ku
+30B0: Katakana Letter Gu
+30B1: Katakana Letter Ke
+30B2: Katakana Letter Ge
+30B3: Katakana Letter Ko
+30B4: Katakana Letter Go
+30B5: Katakana Letter Sa
+30B6: Katakana Letter Za
+30B7: Katakana Letter Si : shi
+30B8: Katakana Letter Zi : ji (not unique)
+30B9: Katakana Letter Su
+30BA: Katakana Letter Zu
+30BB: Katakana Letter Se
+30BC: Katakana Letter Ze
+30BD: Katakana Letter So
+30BE: Katakana Letter Zo
+30BF: Katakana Letter Ta
+30C0: Katakana Letter Da
+30C1: Katakana Letter Ti : chi
+30C2: Katakana Letter Di : ji (not unique)
+30C3: Katakana Letter Small Tu : small tsu
+30C4: Katakana Letter Tu : tsu
+30C5: Katakana Letter Du : zu (not unique)
+30C6: Katakana Letter Te
+30C7: Katakana Letter De
+30C8: Katakana Letter To
+30C9: Katakana Letter Do
+30CA: Katakana Letter Na
+30CB: Katakana Letter Ni
+30CC: Katakana Letter Nu
+30CD: Katakana Letter Ne
+30CE: Katakana Letter No
+30CF: Katakana Letter Ha
+30D0: Katakana Letter Ba
+30D1: Katakana Letter Pa
+30D2: Katakana Letter Hi
+30D3: Katakana Letter Bi
+30D4: Katakana Letter Pi
+30D5: Katakana Letter Hu : fu
+30D6: Katakana Letter Bu
+30D7: Katakana Letter Pu
+30D8: Katakana Letter He
+30D9: Katakana Letter Be
+30DA: Katakana Letter Pe
+30DB: Katakana Letter Ho
+30DC: Katakana Letter Bo
+30DD: Katakana Letter Po
+30DE: Katakana Letter Ma
+30DF: Katakana Letter Mi
+30E0: Katakana Letter Mu
+30E1: Katakana Letter Me
+30E2: Katakana Letter Mo
+30E3: Katakana Letter Small Ya
+30E4: Katakana Letter Ya
+30E5: Katakana Letter Small Yu
+30E6: Katakana Letter Yu
+30E7: Katakana Letter Small Yo
+30E8: Katakana Letter Yo
+30E9: Katakana Letter Ra
+30EA: Katakana Letter Ri
+30EB: Katakana Letter Ru
+30EC: Katakana Letter Re
+30ED: Katakana Letter Ro
+30EE: Katakana Letter Small Wa
+30EF: Katakana Letter Wa
+30F0: Katakana Letter Wi
+30F1: Katakana Letter We
+30F2: Katakana Letter Wo
+30F3: Katakana Letter N
+30F4: Katakana Letter Vu
+30F5: Katakana Letter Small Ka
+30F6: Katakana Letter Small Ke
+30F7: Katakana Letter Va
+30F8: Katakana Letter Vi
+30F9: Katakana Letter Ve
+30FA: Katakana Letter Vo
+30FB: Katakana Middle Dot
+30FC: Katakana-Hiragana Prolonged Sound Mark
+30FD: Katakana Iteration Mark
+30FE: Katakana Voiced Iteration Mark
+30FF: Katakana Digraph Koto
