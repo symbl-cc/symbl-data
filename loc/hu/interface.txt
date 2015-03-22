@@ -20,24 +20,24 @@ type            : Típus
 countries       : Országok
 count           : Karakterek száma
 languages       : Nyelvek
-sort_order      : By order
-sort_block      : By blocks
-copy_clipboard  : Copy to clipboard
-search_h1       : Search
-search_result   : Result
-search_empty    : Search phrase is empty
-search_total    : Total: %s
-search_limit    : (show only %s)
-search_none     : None
-search_any      : Search by any words
-help_range      : Click to highlight range
-blocks_list     : Unicode blocks
-languages_list  : Languages
-languages_blocks : Blocks of language
-types_list      : Types
-countries_list  : Countries
-more            : More
-sets            : Character sets
+sort_order      : Rend szerint
+sort_block      : Blokkonként
+copy_clipboard  : Másolás a vágólapra
+search_h1       : Keresés
+search_result   : Eredmény
+search_empty    : A keresőmező üres
+search_total    : Teljes: %s
+search_limit    : (csak %s -et mutat)
+search_none     : Semmi
+search_any      : Keresés bármely szóból
+help_range      : Nyomj ide, hogy a tartomány kiemelődjön
+blocks_list     : Unicode blokkok
+languages_list  : Nyelv
+languages_blocks : Nyelvblokk
+types_list      : Típusok
+countries_list  : Országok
+more            : Több
+sets            : Karakterkészlet
 ny_symbols      : Christmas and NY symbols
 prev            : Prev
 next            : Next
