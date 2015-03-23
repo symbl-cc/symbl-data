@@ -1,0 +1,256 @@
+2B00: North East White Arrow
+2B01: North West White Arrow
+2B02: South East White Arrow
+2B03: South West White Arrow
+2B04: Left Right White Arrow
+2B05: Leftwards Black Arrow
+2B06: Upwards Black Arrow
+2B07: Downwards Black Arrow
+2B08: North East Black Arrow
+2B09: North West Black Arrow
+2B0A: South East Black Arrow
+2B0B: South West Black Arrow
+2B0C: Left Right Black Arrow
+2B0D: Up Down Black Arrow
+2B0E: Rightwards Arrow with Tip Downwards
+2B0F: Rightwards Arrow with Tip Upwards
+2B10: Leftwards Arrow with Tip Downwards
+2B11: Leftwards Arrow with Tip Upwards
+2B12: Square with Top Half Black
+2B13: Square with Bottom Half Black
+2B14: Square with Upper Right Diagonal Half Black
+2B15: Square with Lower Left Diagonal Half Black
+2B16: Diamond with Left Half Black
+2B17: Diamond with Right Half Black
+2B18: Diamond with Top Half Black
+2B19: Diamond with Bottom Half Black
+2B1A: Dotted Square
+2B1B: Black Large Square
+2B1C: White Large Square
+2B1D: Black Very Small Square
+2B1E: White Very Small Square
+2B1F: Black Pentagon
+2B20: White Pentagon
+2B21: White Hexagon
+2B22: Black Hexagon
+2B23: Horizontal Black Hexagon
+2B24: Black Large Circle
+2B25: Black Medium Diamond
+2B26: White Medium Diamond
+2B27: Black Medium Lozenge
+2B28: White Medium Lozenge
+2B29: Black Small Diamond
+2B2A: Black Small Lozenge
+2B2B: White Small Lozenge
+2B2C: Black Horizontal Ellipse
+2B2D: White Horizontal Ellipse
+2B2E: Black Vertical Ellipse
+2B2F: White Vertical Ellipse
+2B30: Left Arrow with Small Circle
+2B31: Three Leftwards Arrows
+2B32: Left Arrow with Circled Plus
+2B33: Long Leftwards Squiggle Arrow
+2B34: Leftwards Two-Headed Arrow with Vertical Stroke
+2B35: Leftwards Two-Headed Arrow with Double Vertical Stroke
+2B36: Leftwards Two-Headed Arrow from Bar
+2B37: Leftwards Two-Headed Triple Dash Arrow
+2B38: Leftwards Arrow with Dotted Stem
+2B39: Leftwards Arrow with Tail with Vertical Stroke
+2B3A: Leftwards Arrow with Tail with Double Vertical Stroke
+2B3B: Leftwards Two-Headed Arrow with Tail
+2B3C: Leftwards Two-Headed Arrow with Tail with Vertical Stroke
+2B3D: Leftwards Two-Headed Arrow with Tail with Double Vertical Stroke
+2B3E: Leftwards Arrow Through X
+2B3F: Wave Arrow Pointing Directly Left
+2B40: Equals Sign Above Leftwards Arrow
+2B41: Reverse Tilde Operator Above Leftwards Arrow
+2B42: Leftwards Arrow Above Reverse Almost Equal To
+2B43: Rightwards Arrow Through Greater-Than
+2B44: Rightwards Arrow Through Superset
+2B45: Leftwards Quadruple Arrow
+2B46: Rightwards Quadruple Arrow
+2B47: Reverse Tilde Operator Above Rightwards Arrow
+2B48: Rightwards Arrow Above Reverse Almost Equal To
+2B49: Tilde Operator Above Leftwards Arrow
+2B4A: Leftwards Arrow Above Almost Equal To
+2B4B: Leftwards Arrow Above Reverse Tilde Operator
+2B4C: Rightwards Arrow Above Reverse Tilde Operator
+2B4D: Downwards Triangle-Headed Zigzag Arrow
+2B4E: Short Slanted North Arrow
+2B4F: Short Backslanted South Arrow
+2B50: White Medium Star
+2B51: Black Small Star
+2B52: White Small Star
+2B53: Black Right-Pointing Pentagon
+2B54: White Right-Pointing Pentagon
+2B55: Heavy Large Circle : basic symbol for speed limit
+2B56: Heavy Oval with Oval Inside : prefectural office
+2B57: Heavy Circle with Circle Inside : municipal office
+2B58: Heavy Circle : town or village office
+2B59: Heavy Circled Saltire : police station
+2B5A: Slanted North Arrow with Hooked Head
+2B5B: Backslanted South Arrow with Hooked Tail
+2B5C: Slanted North Arrow with Horizontal Tail
+2B5D: Backslanted South Arrow with Horizontal Tail
+2B5E: Bent Arrow Pointing Downwards Then North East
+2B5F: Short Bent Arrow Pointing Downwards Then North East
+2B60: Leftwards Triangle-Headed Arrow
+2B61: Upwards Triangle-Headed Arrow
+2B62: Rightwards Triangle-Headed Arrow
+2B63: Downwards Triangle-Headed Arrow
+2B64: Left Right Triangle-Headed Arrow
+2B65: Up Down Triangle-Headed Arrow
+2B66: North West Triangle-Headed Arrow
+2B67: North East Triangle-Headed Arrow
+2B68: South East Triangle-Headed Arrow
+2B69: South West Triangle-Headed Arrow
+2B6A: Leftwards Triangle-Headed Dashed Arrow
+2B6B: Upwards Triangle-Headed Dashed Arrow
+2B6C: Rightwards Triangle-Headed Dashed Arrow
+2B6D: Downwards Triangle-Headed Dashed Arrow
+2B6E: Clockwise Triangle-Headed Open Circle Arrow
+2B6F: Anticlockwise Triangle-Headed Open Circle Arrow
+2B70: Leftwards Triangle-Headed Arrow To Bar : left tab
+2B71: Upwards Triangle-Headed Arrow To Bar : up tab
+2B72: Rightwards Triangle-Headed Arrow To Bar : right tab
+2B73: Downwards Triangle-Headed Arrow To Bar : down tab
+2B74:
+2B75:
+2B76: North West Triangle-Headed Arrow To Bar : home
+2B77: North East Triangle-Headed Arrow To Bar
+2B78: South East Triangle-Headed Arrow To Bar : end
+2B79: South West Triangle-Headed Arrow To Bar
+2B7A: Leftwards Triangle-Headed Arrow with Double Horizontal Stroke
+2B7B: Upwards Triangle-Headed Arrow with Double Horizontal Stroke : page up
+2B7C: Rightwards Triangle-Headed Arrow with Double Horizontal Stroke
+2B7D: Downwards Triangle-Headed Arrow with Double Horizontal Stroke : page down
+2B7E: Horizontal Tab Key
+2B7F: Vertical Tab Key
+2B80: Leftwards Triangle-Headed Arrow Over Rightwards Triangle-Headed Arrow
+2B81: Upwards Triangle-Headed Arrow Leftwards of Downwards Triangle-Headed Arrow
+2B82: Rightwards Triangle-Headed Arrow Over Leftwards Triangle-Headed Arrow
+2B83: Downwards Triangle-Headed Arrow Leftwards of Upwards Triangle-Headed Arrow
+2B84: Leftwards Triangle-Headed Paired Arrows
+2B85: Upwards Triangle-Headed Paired Arrows
+2B86: Rightwards Triangle-Headed Paired Arrows
+2B87: Downwards Triangle-Headed Paired Arrows
+2B88: Leftwards Black Circled White Arrow
+2B89: Upwards Black Circled White Arrow
+2B8A: Rightwards Black Circled White Arrow
+2B8B: Downwards Black Circled White Arrow
+2B8C: Anticlockwise Triangle-Headed Right U-Shaped Arrow
+2B8D: Anticlockwise Triangle-Headed Bottom U-Shaped Arrow
+2B8E: Anticlockwise Triangle-Headed Left U-Shaped Arrow
+2B8F: Anticlockwise Triangle-Headed Top U-Shaped Arrow
+2B90: Return Left
+2B91: Return Right
+2B92: Newline Left
+2B93: Newline Right
+2B94: Four Corner Arrows Circling Anticlockwise : loop
+2B95: Rightwards Black Arrow
+2B96:
+2B97:
+2B98: Three-D Top-Lighted Leftwards Equilateral Arrowhead
+2B99: Three-D Right-Lighted Upwards Equilateral Arrowhead
+2B9A: Three-D Top-Lighted Rightwards Equilateral Arrowhead
+2B9B: Three-D Left-Lighted Downwards Equilateral Arrowhead
+2B9C: Black Leftwards Equilateral Arrowhead
+2B9D: Black Upwards Equilateral Arrowhead
+2B9E: Black Rightwards Equilateral Arrowhead
+2B9F: Black Downwards Equilateral Arrowhead
+2BA0: Downwards Triangle-Headed Arrow with Long Tip Leftwards
+2BA1: Downwards Triangle-Headed Arrow with Long Tip Rightwards
+2BA2: Upwards Triangle-Headed Arrow with Long Tip Leftwards
+2BA3: Upwards Triangle-Headed Arrow with Long Tip Rightwards
+2BA4: Leftwards Triangle-Headed Arrow with Long Tip Upwards
+2BA5: Rightwards Triangle-Headed Arrow with Long Tip Upwards
+2BA6: Leftwards Triangle-Headed Arrow with Long Tip Downwards
+2BA7: Rightwards Triangle-Headed Arrow with Long Tip Downwards
+2BA8: Black Curved Downwards and Leftwards Arrow
+2BA9: Black Curved Downwards and Rightwards Arrow
+2BAA: Black Curved Upwards and Leftwards Arrow
+2BAB: Black Curved Upwards and Rightwards Arrow
+2BAC: Black Curved Leftwards and Upwards Arrow
+2BAD: Black Curved Rightwards and Upwards Arrow
+2BAE: Black Curved Leftwards and Downwards Arrow
+2BAF: Black Curved Rightwards and Downwards Arrow
+2BB0: Ribbon Arrow Down Left
+2BB1: Ribbon Arrow Down Right
+2BB2: Ribbon Arrow Up Left
+2BB3: Ribbon Arrow Up Right
+2BB4: Ribbon Arrow Left Up
+2BB5: Ribbon Arrow Right Up
+2BB6: Ribbon Arrow Left Down
+2BB7: Ribbon Arrow Right Down
+2BB8: Upwards White Arrow from Bar with Horizontal Bar : caps lock
+2BB9: Up Arrowhead In a Rectangle Box : escape
+2BBA:
+2BBB:
+2BBC:
+2BBD: Ballot Box with Light X
+2BBE: Circled X
+2BBF: Circled Bold X
+2BC0: Black Square Centred
+2BC1: Black Diamond Centred
+2BC2: Turned Black Pentagon
+2BC3: Horizontal Black Octagon
+2BC4: Black Octagon
+2BC5: Black Medium Up-Pointing Triangle Centred
+2BC6: Black Medium Down-Pointing Triangle Centred
+2BC7: Black Medium Left-Pointing Triangle Centred
+2BC8: Black Medium Right-Pointing Triangle Centred
+2BC9:
+2BCA: Top Half Black Circle
+2BCB: Bottom Half Black Circle
+2BCC: Light Four Pointed Black Cusp
+2BCD: Rotated Light Four Pointed Black Cusp
+2BCE: White Four Pointed Cusp
+2BCF: Rotated White Four Pointed Cusp
+2BD0: Square Position Indicator
+2BD1: Uncertainty Sign : query
+2BD2:
+2BD3:
+2BD4:
+2BD5:
+2BD6:
+2BD7:
+2BD8:
+2BD9:
+2BDA:
+2BDB:
+2BDC:
+2BDD:
+2BDE:
+2BDF:
+2BE0:
+2BE1:
+2BE2:
+2BE3:
+2BE4:
+2BE5:
+2BE6:
+2BE7:
+2BE8:
+2BE9:
+2BEA:
+2BEB:
+2BEC:
+2BED:
+2BEE:
+2BEF:
+2BF0:
+2BF1:
+2BF2:
+2BF3:
+2BF4:
+2BF5:
+2BF6:
+2BF7:
+2BF8:
+2BF9:
+2BFA:
+2BFB:
+2BFC:
+2BFD:
+2BFE:
+2BFF:

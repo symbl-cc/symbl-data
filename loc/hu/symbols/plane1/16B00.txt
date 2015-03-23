@@ -1,0 +1,256 @@
+16B00: Pahawh Hmong Vowel Keeb : keem
+16B01: Pahawh Hmong Vowel Keev : kee
+16B02: Pahawh Hmong Vowel Kib : kim
+16B03: Pahawh Hmong Vowel Kiv : ki
+16B04: Pahawh Hmong Vowel Kaub : kaum
+16B05: Pahawh Hmong Vowel Kauv : kau
+16B06: Pahawh Hmong Vowel Kub : kum
+16B07: Pahawh Hmong Vowel Kuv : ke
+16B08: Pahawh Hmong Vowel Keb : kem
+16B09: Pahawh Hmong Vowel Kev
+16B0A: Pahawh Hmong Vowel Kaib : kaim
+16B0B: Pahawh Hmong Vowel Kaiv : kai
+16B0C: Pahawh Hmong Vowel Koob
+16B0D: Pahawh Hmong Vowel Koov
+16B0E: Pahawh Hmong Vowel Kawb
+16B0F: Pahawh Hmong Vowel Kawv : kaw
+16B10: Pahawh Hmong Vowel Kuab : kuam
+16B11: Pahawh Hmong Vowel Kuav : kua
+16B12: Pahawh Hmong Vowel Kob : kom
+16B13: Pahawh Hmong Vowel Kov : kog
+16B14: Pahawh Hmong Vowel Kiab
+16B15: Pahawh Hmong Vowel Kiav : kia
+16B16: Pahawh Hmong Vowel Kab : kam
+16B17: Pahawh Hmong Vowel Kav
+16B18: Pahawh Hmong Vowel Kwb : kwm
+16B19: Pahawh Hmong Vowel Kwv
+16B1A: Pahawh Hmong Vowel Kaab : kaam
+16B1B: Pahawh Hmong Vowel Kaav
+16B1C: Pahawh Hmong Consonant Vau
+16B1D: Pahawh Hmong Consonant Ntsau
+16B1E: Pahawh Hmong Consonant Lau
+16B1F: Pahawh Hmong Consonant Hau
+16B20: Pahawh Hmong Consonant Nlau
+16B21: Pahawh Hmong Consonant Rau
+16B22: Pahawh Hmong Consonant Nkau
+16B23: Pahawh Hmong Consonant Qhau
+16B24: Pahawh Hmong Consonant Yau
+16B25: Pahawh Hmong Consonant Hlau
+16B26: Pahawh Hmong Consonant Mau
+16B27: Pahawh Hmong Consonant Chau
+16B28: Pahawh Hmong Consonant Nchau
+16B29: Pahawh Hmong Consonant Hnau
+16B2A: Pahawh Hmong Consonant Plhau
+16B2B: Pahawh Hmong Consonant Nthau
+16B2C: Pahawh Hmong Consonant Nau
+16B2D: Pahawh Hmong Consonant Au
+16B2E: Pahawh Hmong Consonant Xau
+16B2F: Pahawh Hmong Consonant Cau
+16B30: Pahawh Hmong Mark Cim Tub
+16B31: Pahawh Hmong Mark Cim So
+16B32: Pahawh Hmong Mark Cim Kes
+16B33: Pahawh Hmong Mark Cim Khav
+16B34: Pahawh Hmong Mark Cim Suam
+16B35: Pahawh Hmong Mark Cim Hom
+16B36: Pahawh Hmong Mark Cim Taum
+16B37: Pahawh Hmong Sign Vos Thom
+16B38: Pahawh Hmong Sign Vos Tshab Ceeb
+16B39: Pahawh Hmong Sign Cim Cheem
+16B3A: Pahawh Hmong Sign Vos Thiab
+16B3B: Pahawh Hmong Sign Vos Feem
+16B3C: Pahawh Hmong Sign Xyeem Ntxiv
+16B3D: Pahawh Hmong Sign Xyeem Rho
+16B3E: Pahawh Hmong Sign Xyeem Tov
+16B3F: Pahawh Hmong Sign Xyeem Faib
+16B40: Pahawh Hmong Sign Vos Seev
+16B41: Pahawh Hmong Sign Meej Suab
+16B42: Pahawh Hmong Sign Vos Nrua
+16B43: Pahawh Hmong Sign Ib Yam
+16B44: Pahawh Hmong Sign Xaus
+16B45: Pahawh Hmong Sign Cim Tsov Rog
+16B46:
+16B47:
+16B48:
+16B49:
+16B4A:
+16B4B:
+16B4C:
+16B4D:
+16B4E:
+16B4F:
+16B50: Pahawh Hmong Digit Zero
+16B51: Pahawh Hmong Digit One
+16B52: Pahawh Hmong Digit Two
+16B53: Pahawh Hmong Digit Three
+16B54: Pahawh Hmong Digit Four
+16B55: Pahawh Hmong Digit Five
+16B56: Pahawh Hmong Digit Six
+16B57: Pahawh Hmong Digit Seven
+16B58: Pahawh Hmong Digit Eight
+16B59: Pahawh Hmong Digit Nine
+16B5A:
+16B5B: Pahawh Hmong Number Tens : caum
+16B5C: Pahawh Hmong Number Hundreds : pua
+16B5D: Pahawh Hmong Number Ten Thousands : vam
+16B5E: Pahawh Hmong Number Millions : roob
+16B5F: Pahawh Hmong Number Hundred Millions : neev
+16B60: Pahawh Hmong Number Ten Billions : ruav
+16B61: Pahawh Hmong Number Trillions : tas
+16B62:
+16B63: Pahawh Hmong Sign Vos Lub
+16B64: Pahawh Hmong Sign Xyoo : year
+16B65: Pahawh Hmong Sign Hli : month
+16B66: Pahawh Hmong Sign Third-Stage Hli : month
+16B67: Pahawh Hmong Sign Zwj Thaj : date
+16B68: Pahawh Hmong Sign Hnub : day
+16B69: Pahawh Hmong Sign Nqig : waning moon
+16B6A: Pahawh Hmong Sign Xiab : waxing moon
+16B6B: Pahawh Hmong Sign Ntuj : season
+16B6C: Pahawh Hmong Sign Av : earth
+16B6D: Pahawh Hmong Sign Txheej Ceev : urgent
+16B6E: Pahawh Hmong Sign Meej Tseeb : facts
+16B6F: Pahawh Hmong Sign Tau : received
+16B70: Pahawh Hmong Sign Los : come
+16B71: Pahawh Hmong Sign Mus : go
+16B72: Pahawh Hmong Sign Cim Hais Lus Ntog Ntog : smooth
+16B73: Pahawh Hmong Sign Cim Cuam Tshooj : fraction
+16B74: Pahawh Hmong Sign Cim Txwv : do not open
+16B75: Pahawh Hmong Sign Cim Txwv Chwv : do not touch
+16B76: Pahawh Hmong Sign Cim Pub Dawb : give freely
+16B77: Pahawh Hmong Sign Cim Nres Tos : stop
+16B78:
+16B79:
+16B7A:
+16B7B:
+16B7C:
+16B7D: Pahawh Hmong Clan Sign Tsheej : cheng
+16B7E: Pahawh Hmong Clan Sign Yeeg : yeng
+16B7F: Pahawh Hmong Clan Sign Lis : lee
+16B80: Pahawh Hmong Clan Sign Lauj : lor
+16B81: Pahawh Hmong Clan Sign Xyooj : xiong
+16B82: Pahawh Hmong Clan Sign Koo : kong
+16B83: Pahawh Hmong Clan Sign Hawj : her
+16B84: Pahawh Hmong Clan Sign Muas : moua
+16B85: Pahawh Hmong Clan Sign Thoj : thao
+16B86: Pahawh Hmong Clan Sign Tsab : chang
+16B87: Pahawh Hmong Clan Sign Phab : pha
+16B88: Pahawh Hmong Clan Sign Khab : khang
+16B89: Pahawh Hmong Clan Sign Ham : hang
+16B8A: Pahawh Hmong Clan Sign Vaj : vang
+16B8B: Pahawh Hmong Clan Sign Faj : fang
+16B8C: Pahawh Hmong Clan Sign Yaj : yang
+16B8D: Pahawh Hmong Clan Sign Tswb : chue
+16B8E: Pahawh Hmong Clan Sign Kwm : kw
+16B8F: Pahawh Hmong Clan Sign Vwj : vue
+16B90:
+16B91:
+16B92:
+16B93:
+16B94:
+16B95:
+16B96:
+16B97:
+16B98:
+16B99:
+16B9A:
+16B9B:
+16B9C:
+16B9D:
+16B9E:
+16B9F:
+16BA0:
+16BA1:
+16BA2:
+16BA3:
+16BA4:
+16BA5:
+16BA6:
+16BA7:
+16BA8:
+16BA9:
+16BAA:
+16BAB:
+16BAC:
+16BAD:
+16BAE:
+16BAF:
+16BB0:
+16BB1:
+16BB2:
+16BB3:
+16BB4:
+16BB5:
+16BB6:
+16BB7:
+16BB8:
+16BB9:
+16BBA:
+16BBB:
+16BBC:
+16BBD:
+16BBE:
+16BBF:
+16BC0:
+16BC1:
+16BC2:
+16BC3:
+16BC4:
+16BC5:
+16BC6:
+16BC7:
+16BC8:
+16BC9:
+16BCA:
+16BCB:
+16BCC:
+16BCD:
+16BCE:
+16BCF:
+16BD0:
+16BD1:
+16BD2:
+16BD3:
+16BD4:
+16BD5:
+16BD6:
+16BD7:
+16BD8:
+16BD9:
+16BDA:
+16BDB:
+16BDC:
+16BDD:
+16BDE:
+16BDF:
+16BE0:
+16BE1:
+16BE2:
+16BE3:
+16BE4:
+16BE5:
+16BE6:
+16BE7:
+16BE8:
+16BE9:
+16BEA:
+16BEB:
+16BEC:
+16BED:
+16BEE:
+16BEF:
+16BF0:
+16BF1:
+16BF2:
+16BF3:
+16BF4:
+16BF5:
+16BF6:
+16BF7:
+16BF8:
+16BF9:
+16BFA:
+16BFB:
+16BFC:
+16BFD:
+16BFE:
+16BFF:

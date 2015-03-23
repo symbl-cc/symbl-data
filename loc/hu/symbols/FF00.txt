@@ -1,0 +1,256 @@
+FF00:
+FF01: Fullwidth Exclamation Mark
+FF02: Fullwidth Quotation Mark
+FF03: Fullwidth Number Sign
+FF04: Fullwidth Dollar Sign
+FF05: Fullwidth Percent Sign
+FF06: Fullwidth Ampersand
+FF07: Fullwidth Apostrophe
+FF08: Fullwidth Left Parenthesis
+FF09: Fullwidth Right Parenthesis
+FF0A: Fullwidth Asterisk
+FF0B: Fullwidth Plus Sign
+FF0C: Fullwidth Comma
+FF0D: Fullwidth Hyphen-Minus
+FF0E: Fullwidth Full Stop
+FF0F: Fullwidth Solidus
+FF10: Fullwidth Digit Zero
+FF11: Fullwidth Digit One
+FF12: Fullwidth Digit Two
+FF13: Fullwidth Digit Three
+FF14: Fullwidth Digit Four
+FF15: Fullwidth Digit Five
+FF16: Fullwidth Digit Six
+FF17: Fullwidth Digit Seven
+FF18: Fullwidth Digit Eight
+FF19: Fullwidth Digit Nine
+FF1A: Fullwidth Colon
+FF1B: Fullwidth Semicolon
+FF1C: Fullwidth Less-Than Sign
+FF1D: Fullwidth Equals Sign
+FF1E: Fullwidth Greater-Than Sign
+FF1F: Fullwidth Question Mark
+FF20: Fullwidth Commercial At
+FF21: Fullwidth Latin Capital Letter A
+FF22: Fullwidth Latin Capital Letter B
+FF23: Fullwidth Latin Capital Letter C
+FF24: Fullwidth Latin Capital Letter D
+FF25: Fullwidth Latin Capital Letter E
+FF26: Fullwidth Latin Capital Letter F
+FF27: Fullwidth Latin Capital Letter G
+FF28: Fullwidth Latin Capital Letter H
+FF29: Fullwidth Latin Capital Letter I
+FF2A: Fullwidth Latin Capital Letter J
+FF2B: Fullwidth Latin Capital Letter K
+FF2C: Fullwidth Latin Capital Letter L
+FF2D: Fullwidth Latin Capital Letter M
+FF2E: Fullwidth Latin Capital Letter N
+FF2F: Fullwidth Latin Capital Letter O
+FF30: Fullwidth Latin Capital Letter P
+FF31: Fullwidth Latin Capital Letter Q
+FF32: Fullwidth Latin Capital Letter R
+FF33: Fullwidth Latin Capital Letter S
+FF34: Fullwidth Latin Capital Letter T
+FF35: Fullwidth Latin Capital Letter U
+FF36: Fullwidth Latin Capital Letter V
+FF37: Fullwidth Latin Capital Letter W
+FF38: Fullwidth Latin Capital Letter X
+FF39: Fullwidth Latin Capital Letter Y
+FF3A: Fullwidth Latin Capital Letter Z
+FF3B: Fullwidth Left Square Bracket
+FF3C: Fullwidth Reverse Solidus
+FF3D: Fullwidth Right Square Bracket
+FF3E: Fullwidth Circumflex Accent
+FF3F: Fullwidth Low Line
+FF40: Fullwidth Grave Accent
+FF41: Fullwidth Latin Small Letter A
+FF42: Fullwidth Latin Small Letter B
+FF43: Fullwidth Latin Small Letter C
+FF44: Fullwidth Latin Small Letter D
+FF45: Fullwidth Latin Small Letter E
+FF46: Fullwidth Latin Small Letter F
+FF47: Fullwidth Latin Small Letter G
+FF48: Fullwidth Latin Small Letter H
+FF49: Fullwidth Latin Small Letter I
+FF4A: Fullwidth Latin Small Letter J
+FF4B: Fullwidth Latin Small Letter K
+FF4C: Fullwidth Latin Small Letter L
+FF4D: Fullwidth Latin Small Letter M
+FF4E: Fullwidth Latin Small Letter N
+FF4F: Fullwidth Latin Small Letter O
+FF50: Fullwidth Latin Small Letter P
+FF51: Fullwidth Latin Small Letter Q
+FF52: Fullwidth Latin Small Letter R
+FF53: Fullwidth Latin Small Letter S
+FF54: Fullwidth Latin Small Letter T
+FF55: Fullwidth Latin Small Letter U
+FF56: Fullwidth Latin Small Letter V
+FF57: Fullwidth Latin Small Letter W
+FF58: Fullwidth Latin Small Letter X
+FF59: Fullwidth Latin Small Letter Y
+FF5A: Fullwidth Latin Small Letter Z
+FF5B: Fullwidth Left Curly Bracket
+FF5C: Fullwidth Vertical Line
+FF5D: Fullwidth Right Curly Bracket
+FF5E: Fullwidth Tilde
+FF5F: Fullwidth Left White Parenthesis
+FF60: Fullwidth Right White Parenthesis
+FF61: Halfwidth Ideographic Full Stop
+FF62: Halfwidth Left Corner Bracket
+FF63: Halfwidth Right Corner Bracket
+FF64: Halfwidth Ideographic Comma
+FF65: Halfwidth Katakana Middle Dot
+FF66: Halfwidth Katakana Letter Wo
+FF67: Halfwidth Katakana Letter Small A
+FF68: Halfwidth Katakana Letter Small I
+FF69: Halfwidth Katakana Letter Small U
+FF6A: Halfwidth Katakana Letter Small E
+FF6B: Halfwidth Katakana Letter Small O
+FF6C: Halfwidth Katakana Letter Small Ya
+FF6D: Halfwidth Katakana Letter Small Yu
+FF6E: Halfwidth Katakana Letter Small Yo
+FF6F: Halfwidth Katakana Letter Small Tu
+FF70: Halfwidth Katakana-Hiragana Prolonged Sound Mark
+FF71: Halfwidth Katakana Letter A
+FF72: Halfwidth Katakana Letter I
+FF73: Halfwidth Katakana Letter U
+FF74: Halfwidth Katakana Letter E
+FF75: Halfwidth Katakana Letter O
+FF76: Halfwidth Katakana Letter Ka
+FF77: Halfwidth Katakana Letter Ki
+FF78: Halfwidth Katakana Letter Ku
+FF79: Halfwidth Katakana Letter Ke
+FF7A: Halfwidth Katakana Letter Ko
+FF7B: Halfwidth Katakana Letter Sa
+FF7C: Halfwidth Katakana Letter Si
+FF7D: Halfwidth Katakana Letter Su
+FF7E: Halfwidth Katakana Letter Se
+FF7F: Halfwidth Katakana Letter So
+FF80: Halfwidth Katakana Letter Ta
+FF81: Halfwidth Katakana Letter Ti
+FF82: Halfwidth Katakana Letter Tu
+FF83: Halfwidth Katakana Letter Te
+FF84: Halfwidth Katakana Letter To
+FF85: Halfwidth Katakana Letter Na
+FF86: Halfwidth Katakana Letter Ni
+FF87: Halfwidth Katakana Letter Nu
+FF88: Halfwidth Katakana Letter Ne
+FF89: Halfwidth Katakana Letter No
+FF8A: Halfwidth Katakana Letter Ha
+FF8B: Halfwidth Katakana Letter Hi
+FF8C: Halfwidth Katakana Letter Hu
+FF8D: Halfwidth Katakana Letter He
+FF8E: Halfwidth Katakana Letter Ho
+FF8F: Halfwidth Katakana Letter Ma
+FF90: Halfwidth Katakana Letter Mi
+FF91: Halfwidth Katakana Letter Mu
+FF92: Halfwidth Katakana Letter Me
+FF93: Halfwidth Katakana Letter Mo
+FF94: Halfwidth Katakana Letter Ya
+FF95: Halfwidth Katakana Letter Yu
+FF96: Halfwidth Katakana Letter Yo
+FF97: Halfwidth Katakana Letter Ra
+FF98: Halfwidth Katakana Letter Ri
+FF99: Halfwidth Katakana Letter Ru
+FF9A: Halfwidth Katakana Letter Re
+FF9B: Halfwidth Katakana Letter Ro
+FF9C: Halfwidth Katakana Letter Wa
+FF9D: Halfwidth Katakana Letter N
+FF9E: Halfwidth Katakana Voiced Sound Mark
+FF9F: Halfwidth Katakana Semi-Voiced Sound Mark
+FFA0: Halfwidth Hangul Filler
+FFA1: Halfwidth Hangul Letter Kiyeok
+FFA2: Halfwidth Hangul Letter Ssangkiyeok
+FFA3: Halfwidth Hangul Letter Kiyeok-Sios
+FFA4: Halfwidth Hangul Letter Nieun
+FFA5: Halfwidth Hangul Letter Nieun-Cieuc
+FFA6: Halfwidth Hangul Letter Nieun-Hieuh
+FFA7: Halfwidth Hangul Letter Tikeut
+FFA8: Halfwidth Hangul Letter Ssangtikeut
+FFA9: Halfwidth Hangul Letter Rieul
+FFAA: Halfwidth Hangul Letter Rieul-Kiyeok
+FFAB: Halfwidth Hangul Letter Rieul-Mieum
+FFAC: Halfwidth Hangul Letter Rieul-Pieup
+FFAD: Halfwidth Hangul Letter Rieul-Sios
+FFAE: Halfwidth Hangul Letter Rieul-Thieuth
+FFAF: Halfwidth Hangul Letter Rieul-Phieuph
+FFB0: Halfwidth Hangul Letter Rieul-Hieuh
+FFB1: Halfwidth Hangul Letter Mieum
+FFB2: Halfwidth Hangul Letter Pieup
+FFB3: Halfwidth Hangul Letter Ssangpieup
+FFB4: Halfwidth Hangul Letter Pieup-Sios
+FFB5: Halfwidth Hangul Letter Sios
+FFB6: Halfwidth Hangul Letter Ssangsios
+FFB7: Halfwidth Hangul Letter Ieung
+FFB8: Halfwidth Hangul Letter Cieuc
+FFB9: Halfwidth Hangul Letter Ssangcieuc
+FFBA: Halfwidth Hangul Letter Chieuch
+FFBB: Halfwidth Hangul Letter Khieukh
+FFBC: Halfwidth Hangul Letter Thieuth
+FFBD: Halfwidth Hangul Letter Phieuph
+FFBE: Halfwidth Hangul Letter Hieuh
+FFBF:
+FFC0:
+FFC1:
+FFC2: Halfwidth Hangul Letter A
+FFC3: Halfwidth Hangul Letter Ae
+FFC4: Halfwidth Hangul Letter Ya
+FFC5: Halfwidth Hangul Letter Yae
+FFC6: Halfwidth Hangul Letter Eo
+FFC7: Halfwidth Hangul Letter E
+FFC8:
+FFC9:
+FFCA: Halfwidth Hangul Letter Yeo
+FFCB: Halfwidth Hangul Letter Ye
+FFCC: Halfwidth Hangul Letter O
+FFCD: Halfwidth Hangul Letter Wa
+FFCE: Halfwidth Hangul Letter Wae
+FFCF: Halfwidth Hangul Letter Oe
+FFD0:
+FFD1:
+FFD2: Halfwidth Hangul Letter Yo
+FFD3: Halfwidth Hangul Letter U
+FFD4: Halfwidth Hangul Letter Weo
+FFD5: Halfwidth Hangul Letter We
+FFD6: Halfwidth Hangul Letter Wi
+FFD7: Halfwidth Hangul Letter Yu
+FFD8:
+FFD9:
+FFDA: Halfwidth Hangul Letter Eu
+FFDB: Halfwidth Hangul Letter Yi
+FFDC: Halfwidth Hangul Letter I
+FFDD:
+FFDE:
+FFDF:
+FFE0: Fullwidth Cent Sign
+FFE1: Fullwidth Pound Sign
+FFE2: Fullwidth Not Sign
+FFE3: Fullwidth Macron
+FFE4: Fullwidth Broken Bar
+FFE5: Fullwidth Yen Sign
+FFE6: Fullwidth Won Sign
+FFE7:
+FFE8: Halfwidth Forms Light Vertical
+FFE9: Halfwidth Leftwards Arrow
+FFEA: Halfwidth Upwards Arrow
+FFEB: Halfwidth Rightwards Arrow
+FFEC: Halfwidth Downwards Arrow
+FFED: Halfwidth Black Square
+FFEE: Halfwidth White Circle
+FFEF:
+FFF0:
+FFF1:
+FFF2:
+FFF3:
+FFF4:
+FFF5:
+FFF6:
+FFF7:
+FFF8:
+FFF9: Interlinear Annotation Anchor
+FFFA: Interlinear Annotation Separator
+FFFB: Interlinear Annotation Terminator
+FFFC: Object Replacement Character
+FFFD: Replacement Character
+FFFE: <Not a Character>
+FFFF: <Not a Character>

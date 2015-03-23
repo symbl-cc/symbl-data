@@ -1,0 +1,256 @@
+1F000: Mahjong Tile East Wind
+1F001: Mahjong Tile South Wind
+1F002: Mahjong Tile West Wind
+1F003: Mahjong Tile North Wind
+1F004: Mahjong Tile Red Dragon : hongzhong
+1F005: Mahjong Tile Green Dragon : qingfa
+1F006: Mahjong Tile White Dragon : baiban
+1F007: Mahjong Tile One of Characters : wan
+1F008: Mahjong Tile Two of Characters
+1F009: Mahjong Tile Three of Characters
+1F00A: Mahjong Tile Four of Characters
+1F00B: Mahjong Tile Five of Characters
+1F00C: Mahjong Tile Six of Characters
+1F00D: Mahjong Tile Seven of Characters
+1F00E: Mahjong Tile Eight of Characters
+1F00F: Mahjong Tile Nine of Characters
+1F010: Mahjong Tile One of Bamboos : tiao
+1F011: Mahjong Tile Two of Bamboos
+1F012: Mahjong Tile Three of Bamboos
+1F013: Mahjong Tile Four of Bamboos
+1F014: Mahjong Tile Five of Bamboos
+1F015: Mahjong Tile Six of Bamboos
+1F016: Mahjong Tile Seven of Bamboos
+1F017: Mahjong Tile Eight of Bamboos
+1F018: Mahjong Tile Nine of Bamboos
+1F019: Mahjong Tile One of Circles : bing
+1F01A: Mahjong Tile Two of Circles
+1F01B: Mahjong Tile Three of Circles
+1F01C: Mahjong Tile Four of Circles
+1F01D: Mahjong Tile Five of Circles
+1F01E: Mahjong Tile Six of Circles
+1F01F: Mahjong Tile Seven of Circles
+1F020: Mahjong Tile Eight of Circles
+1F021: Mahjong Tile Nine of Circles
+1F022: Mahjong Tile Plum : mei
+1F023: Mahjong Tile Orchid : lan
+1F024: Mahjong Tile Bamboo : zhu
+1F025: Mahjong Tile Chrysanthemum : ju
+1F026: Mahjong Tile Spring
+1F027: Mahjong Tile Summer
+1F028: Mahjong Tile Autumn
+1F029: Mahjong Tile Winter
+1F02A: Mahjong Tile Joker : baida
+1F02B: Mahjong Tile Back
+1F02C:
+1F02D:
+1F02E:
+1F02F:
+1F030: Domino Tile Horizontal Back
+1F031: Domino Tile Horizontal-00-00
+1F032: Domino Tile Horizontal-00-01
+1F033: Domino Tile Horizontal-00-02
+1F034: Domino Tile Horizontal-00-03
+1F035: Domino Tile Horizontal-00-04
+1F036: Domino Tile Horizontal-00-05
+1F037: Domino Tile Horizontal-00-06
+1F038: Domino Tile Horizontal-01-00
+1F039: Domino Tile Horizontal-01-01
+1F03A: Domino Tile Horizontal-01-02
+1F03B: Domino Tile Horizontal-01-03
+1F03C: Domino Tile Horizontal-01-04
+1F03D: Domino Tile Horizontal-01-05
+1F03E: Domino Tile Horizontal-01-06
+1F03F: Domino Tile Horizontal-02-00
+1F040: Domino Tile Horizontal-02-01
+1F041: Domino Tile Horizontal-02-02
+1F042: Domino Tile Horizontal-02-03
+1F043: Domino Tile Horizontal-02-04
+1F044: Domino Tile Horizontal-02-05
+1F045: Domino Tile Horizontal-02-06
+1F046: Domino Tile Horizontal-03-00
+1F047: Domino Tile Horizontal-03-01
+1F048: Domino Tile Horizontal-03-02
+1F049: Domino Tile Horizontal-03-03
+1F04A: Domino Tile Horizontal-03-04
+1F04B: Domino Tile Horizontal-03-05
+1F04C: Domino Tile Horizontal-03-06
+1F04D: Domino Tile Horizontal-04-00
+1F04E: Domino Tile Horizontal-04-01
+1F04F: Domino Tile Horizontal-04-02
+1F050: Domino Tile Horizontal-04-03
+1F051: Domino Tile Horizontal-04-04
+1F052: Domino Tile Horizontal-04-05
+1F053: Domino Tile Horizontal-04-06
+1F054: Domino Tile Horizontal-05-00
+1F055: Domino Tile Horizontal-05-01
+1F056: Domino Tile Horizontal-05-02
+1F057: Domino Tile Horizontal-05-03
+1F058: Domino Tile Horizontal-05-04
+1F059: Domino Tile Horizontal-05-05
+1F05A: Domino Tile Horizontal-05-06
+1F05B: Domino Tile Horizontal-06-00
+1F05C: Domino Tile Horizontal-06-01
+1F05D: Domino Tile Horizontal-06-02
+1F05E: Domino Tile Horizontal-06-03
+1F05F: Domino Tile Horizontal-06-04
+1F060: Domino Tile Horizontal-06-05
+1F061: Domino Tile Horizontal-06-06
+1F062: Domino Tile Vertical Back
+1F063: Domino Tile Vertical-00-00
+1F064: Domino Tile Vertical-00-01
+1F065: Domino Tile Vertical-00-02
+1F066: Domino Tile Vertical-00-03
+1F067: Domino Tile Vertical-00-04
+1F068: Domino Tile Vertical-00-05
+1F069: Domino Tile Vertical-00-06
+1F06A: Domino Tile Vertical-01-00
+1F06B: Domino Tile Vertical-01-01
+1F06C: Domino Tile Vertical-01-02
+1F06D: Domino Tile Vertical-01-03
+1F06E: Domino Tile Vertical-01-04
+1F06F: Domino Tile Vertical-01-05
+1F070: Domino Tile Vertical-01-06
+1F071: Domino Tile Vertical-02-00
+1F072: Domino Tile Vertical-02-01
+1F073: Domino Tile Vertical-02-02
+1F074: Domino Tile Vertical-02-03
+1F075: Domino Tile Vertical-02-04
+1F076: Domino Tile Vertical-02-05
+1F077: Domino Tile Vertical-02-06
+1F078: Domino Tile Vertical-03-00
+1F079: Domino Tile Vertical-03-01
+1F07A: Domino Tile Vertical-03-02
+1F07B: Domino Tile Vertical-03-03
+1F07C: Domino Tile Vertical-03-04
+1F07D: Domino Tile Vertical-03-05
+1F07E: Domino Tile Vertical-03-06
+1F07F: Domino Tile Vertical-04-00
+1F080: Domino Tile Vertical-04-01
+1F081: Domino Tile Vertical-04-02
+1F082: Domino Tile Vertical-04-03
+1F083: Domino Tile Vertical-04-04
+1F084: Domino Tile Vertical-04-05
+1F085: Domino Tile Vertical-04-06
+1F086: Domino Tile Vertical-05-00
+1F087: Domino Tile Vertical-05-01
+1F088: Domino Tile Vertical-05-02
+1F089: Domino Tile Vertical-05-03
+1F08A: Domino Tile Vertical-05-04
+1F08B: Domino Tile Vertical-05-05
+1F08C: Domino Tile Vertical-05-06
+1F08D: Domino Tile Vertical-06-00
+1F08E: Domino Tile Vertical-06-01
+1F08F: Domino Tile Vertical-06-02
+1F090: Domino Tile Vertical-06-03
+1F091: Domino Tile Vertical-06-04
+1F092: Domino Tile Vertical-06-05
+1F093: Domino Tile Vertical-06-06
+1F094:
+1F095:
+1F096:
+1F097:
+1F098:
+1F099:
+1F09A:
+1F09B:
+1F09C:
+1F09D:
+1F09E:
+1F09F:
+1F0A0: Playing Card Back
+1F0A1: Playing Card Ace of Spades
+1F0A2: Playing Card Two of Spades
+1F0A3: Playing Card Three of Spades
+1F0A4: Playing Card Four of Spades
+1F0A5: Playing Card Five of Spades
+1F0A6: Playing Card Six of Spades
+1F0A7: Playing Card Seven of Spades
+1F0A8: Playing Card Eight of Spades
+1F0A9: Playing Card Nine of Spades
+1F0AA: Playing Card Ten of Spades
+1F0AB: Playing Card Jack of Spades : valet, bube, unter, page, fante : page of swords
+1F0AC: Playing Card Knight of Spades : chevalier, ober, ritter, cavall, cavaliere : knight of swords
+1F0AD: Playing Card Queen of Spades : dame, dame, königin, regina : queen of swords
+1F0AE: Playing Card King of Spades : roi, könig, re : king of swords
+1F0AF:
+1F0B0:
+1F0B1: Playing Card Ace of Hearts
+1F0B2: Playing Card Two of Hearts
+1F0B3: Playing Card Three of Hearts
+1F0B4: Playing Card Four of Hearts
+1F0B5: Playing Card Five of Hearts
+1F0B6: Playing Card Six of Hearts
+1F0B7: Playing Card Seven of Hearts
+1F0B8: Playing Card Eight of Hearts
+1F0B9: Playing Card Nine of Hearts
+1F0BA: Playing Card Ten of Hearts
+1F0BB: Playing Card Jack of Hearts
+1F0BC: Playing Card Knight of Hearts
+1F0BD: Playing Card Queen of Hearts
+1F0BE: Playing Card King of Hearts
+1F0BF: Playing Card Red Joker
+1F0C0:
+1F0C1: Playing Card Ace of Diamonds
+1F0C2: Playing Card Two of Diamonds
+1F0C3: Playing Card Three of Diamonds
+1F0C4: Playing Card Four of Diamonds
+1F0C5: Playing Card Five of Diamonds
+1F0C6: Playing Card Six of Diamonds
+1F0C7: Playing Card Seven of Diamonds
+1F0C8: Playing Card Eight of Diamonds
+1F0C9: Playing Card Nine of Diamonds
+1F0CA: Playing Card Ten of Diamonds
+1F0CB: Playing Card Jack of Diamonds
+1F0CC: Playing Card Knight of Diamonds
+1F0CD: Playing Card Queen of Diamonds
+1F0CE: Playing Card King of Diamonds
+1F0CF: Playing Card Black Joker
+1F0D0:
+1F0D1: Playing Card Ace of Clubs
+1F0D2: Playing Card Two of Clubs
+1F0D3: Playing Card Three of Clubs
+1F0D4: Playing Card Four of Clubs
+1F0D5: Playing Card Five of Clubs
+1F0D6: Playing Card Six of Clubs
+1F0D7: Playing Card Seven of Clubs
+1F0D8: Playing Card Eight of Clubs
+1F0D9: Playing Card Nine of Clubs
+1F0DA: Playing Card Ten of Clubs
+1F0DB: Playing Card Jack of Clubs
+1F0DC: Playing Card Knight of Clubs
+1F0DD: Playing Card Queen of Clubs
+1F0DE: Playing Card King of Clubs
+1F0DF: Playing Card White Joker
+1F0E0: Playing Card Fool
+1F0E1: Playing Card Trump-1
+1F0E2: Playing Card Trump-2
+1F0E3: Playing Card Trump-3
+1F0E4: Playing Card Trump-4
+1F0E5: Playing Card Trump-5
+1F0E6: Playing Card Trump-6
+1F0E7: Playing Card Trump-7
+1F0E8: Playing Card Trump-8
+1F0E9: Playing Card Trump-9
+1F0EA: Playing Card Trump-10
+1F0EB: Playing Card Trump-11
+1F0EC: Playing Card Trump-12
+1F0ED: Playing Card Trump-13
+1F0EE: Playing Card Trump-14
+1F0EF: Playing Card Trump-15
+1F0F0: Playing Card Trump-16
+1F0F1: Playing Card Trump-17
+1F0F2: Playing Card Trump-18
+1F0F3: Playing Card Trump-19
+1F0F4: Playing Card Trump-20
+1F0F5: Playing Card Trump-21
+1F0F6:
+1F0F7:
+1F0F8:
+1F0F9:
+1F0FA:
+1F0FB:
+1F0FC:
+1F0FD:
+1F0FE:
+1F0FF:
