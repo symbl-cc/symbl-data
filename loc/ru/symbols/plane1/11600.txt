@@ -1,72 +1,71 @@
-11600: Modi letter a
-11601: Modi letter aa
-11602: Modi letter i
-11603: Modi letter ii
-11604: Modi letter u
-11605: Modi letter uu
-11606: Modi letter vocalic r
-11607: Modi letter vocalic rr
-11608: Modi letter vocalic l
-11609: Modi letter vocalic ll
-1160A: Modi letter e
-1160B: Modi letter ai
-1160C: Modi letter o
-1160D: Modi letter au
-1160E: Modi letter ka
-1160F: Modi letter kha
-11610: Modi letter ga
-11611: Modi letter gha
-11612: Modi letter nga
-11613: Modi letter ca
-11614: Modi letter cha
-11615: Modi letter ja
-11616: Modi letter jha
-11617: Modi letter nya
-11618: Modi letter tta
-11619: Modi letter ttha
-1161A: Modi letter dda
-1161B: Modi letter ddha
-1161C: Modi letter nna
-1161D: Modi letter ta
-1161E: Modi letter tha
-1161F: Modi letter da
-11620: Modi letter dha
-11621: Modi letter na
-11622: Modi letter pa
-11623: Modi letter pha
-11624: Modi letter ba
-11625: Modi letter bha
-11626: Modi letter ma
-11627: Modi letter ya
-11628: Modi letter ra
-11629: Modi letter la
-1162A: Modi letter va
-1162B: Modi letter sha
-1162C: Modi letter ssa
-1162D: Modi letter sa
-1162E: Modi letter ha
-1162F: Modi letter lla
-11630: Modi vowel sign aa
-11631: Modi vowel sign i
-11632: Modi vowel sign ii
-11633: Modi vowel sign u
-11634: Modi vowel sign uu
-11635: Modi vowel sign vocalic r
-11636: Modi vowel sign vocalic rr
-11637: Modi vowel sign vocalic l
-11638: Modi vowel sign vocalic ll
-11639: Modi vowel sign e
-1163A: Modi vowel sign ai
-1163B: Modi vowel sign o
-1163C: Modi vowel sign au
-1163D: Modi sign anusvara
-1163E: Modi sign visarga
-1163F: Modi sign virama
-11640: Modi sign ardhacandra
-11641: Modi danda
-11642: Modi double danda
-11643: Modi abbreviation sign
-11644: Modi sign huva
+11600: Буква моди А
+11601: Буква моди Aa
+11602: Буква моди И
+11603: Буква моди Ии
+11604: Буква моди У
+11605: Буква моди Уу
+11606: Буква моди вокалическая Р
+11607: Буква моди вокалическая Рр
+11608: Буква моди вокалическая Л
+11609: Буква моди вокалическая Лл
+1160A: Буква моди E
+1160B: Буква моди Аи
+1160C: Буква моди O
+1160D: Буква моди Ау
+1160E: Буква моди Ка
+1160F: Буква моди Кха
+11610: Буква моди Га
+11611: Буква моди Гха
+11612: Буква моди Нга
+11613: Буква моди Ца
+11614: Буква моди Ча
+11615: Буква моди Джа
+11616: Буква моди Джха
+11617: Буква моди Нйа
+11618: Буква моди Тта
+11619: Буква моди Тса
+1161A: Буква моди Дда
+1161B: Буква моди Ддха
+1161C: Буква моди Нна
+1161D: Буква моди Та
+1161E: Буква моди Тха
+1161F: Буква моди Да
+11620: Буква моди Дха
+11621: Буква моди На
+11622: Буква моди Па
+11623: Буква моди Фа
+11624: Буква моди Ба
+11625: Буква моди Бха
+11626: Буква моди Ма
+11627: Буква моди Йа
+11628: Буква моди Ра
+11629: Буква моди Ла
+1162A: Буква моди Ва
+1162B: Буква моди Ша
+1162C: Буква моди Сса
+1162D: Буква моди Са
+1162E: Буква моди Ха
+1162F: Буква моди Лла
+11630: Гласный знак моди Aa
+11631: Гласный знак моди И
+11632: Гласный знак моди Ии
+11633: Гласный знак моди У
+11634: Гласный знак моди Уу
+11635: Гласный знак моди вокалический Р
+11636: Гласный знак моди вокалический Рр
+11637: Гласный знак моди вокалический Л
+11638: Гласный знак моди вокалический Лл
+11639: Гласный знак моди E
+1163A: Гласный знак моди Аи
+1163B: Гласный знак моди O
+1163C: Гласный знак моди Ау
+1163D: Знак моди анусвара
+1163E: Знак моди висарга
+11640: Знак моди ардхакандра
+11641: Моди данда
+11642: Моди двойная данда
+11643: Знак аббревиатуры моди
+11644: Знак моди хува
 11645:
 11646:
 11647:
@@ -78,16 +77,16 @@
 1164D:
 1164E:
 1164F:
-11650: Modi digit zero
-11651: Modi digit one
-11652: Modi digit two
-11653: Modi digit three
-11654: Modi digit four
-11655: Modi digit five
-11656: Modi digit six
-11657: Modi digit seven
-11658: Modi digit eight
-11659: Modi digit nine
+11650: Цифра моди ноль
+11651: Цифра моди один
+11652: Цифра моди два
+11653: Цифра моди три
+11654: Цифра моди четыре
+11655: Цифра моди пять
+11656: Цифра моди шесть
+11657: Цифра моди семь
+11658: Цифра моди восемь
+11659: Цифра моди девять
 1165A:
 1165B:
 1165C:
@@ -126,62 +125,62 @@
 1167D:
 1167E:
 1167F:
-11680: Takri letter a
-11681: Takri letter aa
-11682: Takri letter i
-11683: Takri letter ii
-11684: Takri letter u
-11685: Takri letter uu
-11686: Takri letter e
-11687: Takri letter ai
-11688: Takri letter o
-11689: Takri letter au
-1168A: Takri letter ka
-1168B: Takri letter kha
-1168C: Takri letter ga
-1168D: Takri letter gha
-1168E: Takri letter nga
-1168F: Takri letter ca
-11690: Takri letter cha
-11691: Takri letter ja
-11692: Takri letter jha
-11693: Takri letter nya
-11694: Takri letter tta
-11695: Takri letter ttha
-11696: Takri letter dda
-11697: Takri letter ddha
-11698: Takri letter nna
-11699: Takri letter ta
-1169A: Takri letter tha
-1169B: Takri letter da
-1169C: Takri letter dha
-1169D: Takri letter na
-1169E: Takri letter pa
-1169F: Takri letter pha
-116A0: Takri letter ba
-116A1: Takri letter bha
-116A2: Takri letter ma
-116A3: Takri letter ya
-116A4: Takri letter ra
-116A5: Takri letter la
-116A6: Takri letter va
-116A7: Takri letter sha
-116A8: Takri letter sa
-116A9: Takri letter ha
-116AA: Takri letter rra
-116AB: Takri sign anusvara
-116AC: Takri sign visarga
-116AD: Takri vowel sign aa
-116AE: Takri vowel sign i
-116AF: Takri vowel sign ii
-116B0: Takri vowel sign u
-116B1: Takri vowel sign uu
-116B2: Takri vowel sign e
-116B3: Takri vowel sign ai
-116B4: Takri vowel sign o
-116B5: Takri vowel sign au
-116B6: Takri sign virama
-116B7: Takri sign nukta
+11680: Буква такри А
+11681: Буква такри Aa
+11682: Буква такри И
+11683: Буква такри Ии
+11684: Буква такри У
+11685: Буква такри Уу
+11686: Буква такри E
+11687: Буква такри Аи
+11688: Буква такри O
+11689: Буква такри Ау
+1168A: Буква такри Ка
+1168B: Буква такри Кха
+1168C: Буква такри Га
+1168D: Буква такри Гха
+1168E: Буква такри Нга
+1168F: Буква такри Ца
+11690: Буква такри Ча
+11691: Буква такри Джа
+11692: Буква такри Джха
+11693: Буква такри Нйа
+11694: Буква такри Тта
+11695: Буква такри Тса
+11696: Буква такри Дда
+11697: Буква такри Ддха
+11698: Буква такри Нна
+11699: Буква такри Та
+1169A: Буква такри Тха
+1169B: Буква такри Да
+1169C: Буква такри Дха
+1169D: Буква такри На
+1169E: Буква такри Па
+1169F: Буква такри Фа
+116A0: Буква такри Ба
+116A1: Буква такри Бха
+116A2: Буква такри Ма
+116A3: Буква такри Йа
+116A4: Буква такри Ра
+116A5: Буква такри Ла
+116A6: Буква такри Ва
+116A7: Буква такри Ша
+116A8: Буква такри Са
+116A9: Буква такри Ха
+116AA: Буква такри Ррa
+116AB: Знак такри анусвара
+116AC: Знак такри висарга
+116AD: Гласный знак такри Aa
+116AE: Гласный знак такри И
+116AF: Гласный знак такри Ии
+116B0: Гласный знак такри У
+116B1: Гласный знак такри Уу
+116B2: Гласный знак такри E
+116B3: Гласный знак такри Аи
+116B4: Гласный знак такри O
+116B5: Гласный знак такри Ау
+116B6: Знак такри вирама
+116B7: Знак такри нукта
 116B8:
 116B9:
 116BA:
@@ -190,16 +189,16 @@
 116BD:
 116BE:
 116BF:
-116C0: Takri digit zero
-116C1: Takri digit one
-116C2: Takri digit two
-116C3: Takri digit three
-116C4: Takri digit four
-116C5: Takri digit five
-116C6: Takri digit six
-116C7: Takri digit seven
-116C8: Takri digit eight
-116C9: Takri digit nine
+116C0: Цифра такри ноль
+116C1: Цифра такри один
+116C2: Цифра такри два
+116C3: Цифра такри три
+116C4: Цифра такри четыре
+116C5: Цифра такри пять
+116C6: Цифра такри шесть
+116C7: Цифра такри семь
+116C8: Цифра такри восемь
+116C9: Цифра такри девять
 116CA:
 116CB:
 116CC:

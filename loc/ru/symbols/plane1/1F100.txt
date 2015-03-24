@@ -1,16 +1,16 @@
-1F100: Digit zero full stop
-1F101: Digit zero comma
-1F102: Digit one comma
-1F103: Digit two comma
-1F104: Digit three comma
-1F105: Digit four comma
-1F106: Digit five comma
-1F107: Digit six comma
-1F108: Digit seven comma
-1F109: Digit eight comma
-1F10A: Digit nine comma
-1F10B: Dingbat circled sans-serif digit zero
-1F10C: Dingbat negative circled sans-serif digit zero
+1F100: Цифра ноль, полная остановка : точка
+1F101: Цифра ноль с запятой
+1F102: Цифра один с запятой
+1F103: Цифра два с запятой
+1F104: Цифра три с запятой
+1F105: Цифра четыре с запятой
+1F106: Цифра пять с запятой
+1F107: Цифра шесть с запятой
+1F108: Цифра семь с запятой
+1F109: Цифра восемь с запятой
+1F10A: Цифра девять с запятой
+1F10B: Дингбат, закруглённая без засечек цифра ноль
+1F10C: Дингбат, в чёрном круге закруглённая без засечек цифра ноль : инверсированная, негатив
 1F10D:
 1F10E:
 1F10F:
@@ -79,31 +79,31 @@
 1F14E: PPV в квадрате
 1F14F: WC в квадрате
 1F150: Negative circled latin capital letter a
-1F151: Negative circled latin capital letter b
-1F152: Negative circled latin capital letter c
-1F153: Negative circled latin capital letter d
-1F154: Negative circled latin capital letter e
+1F151: В чёрном круге латинская буква B : инверсированная, негатив
+1F152: В чёрном круге латинская буква C : инверсированная, негатив
+1F153: В чёрном круге латинская буква D : инверсированная, негатив
+1F154: В чёрном круге латинская буква E : инверсированная, негатив
 1F155: Negative circled latin capital letter f
-1F156: Negative circled latin capital letter g
+1F156: В чёрном круге латинская буква G : инверсированная, негатив
 1F157: Negative circled latin capital letter h
-1F158: Negative circled latin capital letter i
-1F159: Negative circled latin capital letter j
+1F158: В чёрном круге латинская буква I : инверсированная, негатив
+1F159: В чёрном круге латинская буква J : инверсированная, негатив
 1F15A: Negative circled latin capital letter k
 1F15B: Negative circled latin capital letter l
 1F15C: Negative circled latin capital letter m
-1F15D: Negative circled latin capital letter n
-1F15E: Negative circled latin capital letter o
+1F15D: В чёрном круге латинская буква N : инверсированная, негатив
+1F15E: В чёрном круге латинская буква O : инверсированная, негатив
 1F15F: Negative circled latin capital letter p
-1F160: Negative circled latin capital letter q
+1F160: В чёрном круге латинская буква Q : инверсированная, негатив
 1F161: Negative circled latin capital letter r
 1F162: Negative circled latin capital letter s
 1F163: Negative circled latin capital letter t
 1F164: Negative circled latin capital letter u
-1F165: Negative circled latin capital letter v
-1F166: Negative circled latin capital letter w
-1F167: Negative circled latin capital letter x
-1F168: Negative circled latin capital letter y
-1F169: Negative circled latin capital letter z
+1F165: В чёрном круге латинская буква V : инверсированная, негатив
+1F166: В чёрном круге латинская буква W : инверсированная, негатив
+1F167: В чёрном круге латинская буква X : инверсированная, негатив
+1F168: В чёрном круге латинская буква Y : инверсированная, негатив
+1F169: В чёрном круге латинская буква Z : инверсированная, негатив
 1F16A: Raised mc sign
 1F16B: Raised md sign
 1F16C:
@@ -113,29 +113,29 @@
 1F170: Negative squared latin capital letter a
 1F171: Negative squared latin capital letter b
 1F172: Negative squared latin capital letter c
-1F173: Negative squared latin capital letter d
-1F174: Negative squared latin capital letter e
+1F173: В чёрном квадрате латинская буква D : инверсированная, негатив
+1F174: В чёрном квадрате латинская буква E : инверсированная, негатив
 1F175: Negative squared latin capital letter f
-1F176: Negative squared latin capital letter g
+1F176: В чёрном квадрате латинская буква G : инверсированная, негатив
 1F177: Negative squared latin capital letter h
-1F178: Negative squared latin capital letter i
+1F178: В чёрном квадрате латинская буква I : инверсированная, негатив
 1F179: Negative squared latin capital letter j
-1F17A: Negative squared latin capital letter k
+1F17A: В чёрном квадрате латинская буква K : инверсированная, негатив
 1F17B: Negative squared latin capital letter l
 1F17C: Negative squared latin capital letter m
-1F17D: Negative squared latin capital letter n
+1F17D: В чёрном квадрате латинская буква N : инверсированная, негатив
 1F17E: Negative squared latin capital letter o
 1F17F: Negative squared latin capital letter p
-1F180: Negative squared latin capital letter q
-1F181: Negative squared latin capital letter r
-1F182: Negative squared latin capital letter s
-1F183: Negative squared latin capital letter t
-1F184: Negative squared latin capital letter u
-1F185: Negative squared latin capital letter v
-1F186: Negative squared latin capital letter w
-1F187: Negative squared latin capital letter x
-1F188: Negative squared latin capital letter y
-1F189: Negative squared latin capital letter z
+1F180: В чёрном квадрате латинская буква Q : инверсированная, негатив
+1F181: В чёрном квадрате латинская буква R : инверсированная, негатив
+1F182: В чёрном квадрате латинская буква S : инверсированная, негатив
+1F183: В чёрном квадрате латинская буква T : инверсированная, негатив
+1F184: В чёрном квадрате латинская буква U : инверсированная, негатив
+1F185: В чёрном квадрате латинская буква V : инверсированная, негатив
+1F186: В чёрном квадрате латинская буква W : инверсированная, негатив
+1F187: В чёрном квадрате латинская буква X : инверсированная, негатив
+1F188: В чёрном квадрате латинская буква Y : инверсированная, негатив
+1F189: В чёрном квадрате латинская буква Z : инверсированная, негатив
 1F18A: Crossed negative squared latin capital letter p
 1F18B: Negative squared ic
 1F18C: Negative squared pa
@@ -144,12 +144,12 @@
 1F18F: Negative squared wc
 1F190: Square dj
 1F191: Squared cl
-1F192: Squared cool
+1F192: В чёрном квадрате Cool
 1F193: Squared free
 1F194: Squared id
-1F195: Squared new
+1F195: В чёрном квадрате New
 1F196: Squared ng
-1F197: Squared ok
+1F197: В чёрном квадрате Ok
 1F198: Squared sos
 1F199: Squared up with exclamation mark
 1F19A: Squared vs

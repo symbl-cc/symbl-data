@@ -1,149 +1,149 @@
-10B00: Avestan letter a
-10B01: Avestan letter aa
-10B02: Avestan letter ao
-10B03: Avestan letter aao
-10B04: Avestan letter an
-10B05: Avestan letter aan
-10B06: Avestan letter ae
-10B07: Avestan letter aee
-10B08: Avestan letter e
-10B09: Avestan letter ee
-10B0A: Avestan letter o
-10B0B: Avestan letter oo
-10B0C: Avestan letter i
-10B0D: Avestan letter ii
-10B0E: Avestan letter u
-10B0F: Avestan letter uu
-10B10: Avestan letter ke
-10B11: Avestan letter xe
-10B12: Avestan letter xye
-10B13: Avestan letter xve
-10B14: Avestan letter ge
-10B15: Avestan letter gge
-10B16: Avestan letter ghe
-10B17: Avestan letter ce
-10B18: Avestan letter je
-10B19: Avestan letter te
-10B1A: Avestan letter the
-10B1B: Avestan letter de
-10B1C: Avestan letter dhe
-10B1D: Avestan letter tte
-10B1E: Avestan letter pe
-10B1F: Avestan letter fe
-10B20: Avestan letter be
-10B21: Avestan letter bhe
-10B22: Avestan letter nge
-10B23: Avestan letter ngye
-10B24: Avestan letter ngve
-10B25: Avestan letter ne
-10B26: Avestan letter nye
-10B27: Avestan letter nne
-10B28: Avestan letter me
-10B29: Avestan letter hme
-10B2A: Avestan letter yye
-10B2B: Avestan letter ye
-10B2C: Avestan letter ve
-10B2D: Avestan letter re
-10B2E: Avestan letter le
-10B2F: Avestan letter se
-10B30: Avestan letter ze
-10B31: Avestan letter she
-10B32: Avestan letter zhe
-10B33: Avestan letter shye
-10B34: Avestan letter sshe
-10B35: Avestan letter he
+10B00: Авестийская буква А
+10B01: Авестийская буква Аа
+10B02: Авестийская буква Ао
+10B03: Авестийская буква Аао
+10B04: Авестийская буква Ан
+10B05: Авестийская буква Аан
+10B06: Авестийская буква Ае
+10B07: Авестийская буква Аее
+10B08: Авестийская буква Е
+10B09: Авестийская буква Ее
+10B0A: Авестийская буква О
+10B0B: Авестийская буква Оо
+10B0C: Авестийская буква И
+10B0D: Авестийская буква Ии
+10B0E: Авестийская буква У
+10B0F: Авестийская буква Уу
+10B10: Авестийская буква Ке
+10B11: Авестийская буква Ксе
+10B12: Авестийская буква Ксйе
+10B13: Авестийская буква Ксве
+10B14: Авестийская буква Ге
+10B15: Авестийская буква Гге
+10B16: Авестийская буква Гхе
+10B17: Авестийская буква Це
+10B18: Авестийская буква Дже
+10B19: Авестийская буква Те
+10B1A: Авестийская буква Се
+10B1B: Авестийская буква Де
+10B1C: Авестийская буква Дхе
+10B1D: Авестийская буква Тте
+10B1E: Авестийская буква Пе
+10B1F: Авестийская буква Фе
+10B20: Авестийская буква Бе
+10B21: Авестийская буква Бхе
+10B22: Авестийская буква Нге
+10B23: Авестийская буква Нгйе
+10B24: Авестийская буква Нгве
+10B25: Авестийская буква Не
+10B26: Авестийская буква Нйе
+10B27: Авестийская буква Нне
+10B28: Авестийская буква Ме
+10B29: Авестийская буква Хме
+10B2A: Авестийская буква Йуе
+10B2B: Авестийская буква Йе
+10B2C: Авестийская буква Ве
+10B2D: Авестийская буква Ре
+10B2E: Авестийская буква Ле
+10B2F: Авестийская буква Се
+10B30: Авестийская буква Зе
+10B31: Авестийская буква Ше
+10B32: Авестийская буква Зхе
+10B33: Авестийская буква Шйе
+10B34: Авестийская буква Сше
+10B35: Авестийская буква Хе
 10B36:
 10B37:
 10B38:
-10B39: Avestan abbreviation mark
-10B3A: Tiny two dots over one dot punctuation
-10B3B: Small two dots over one dot punctuation
-10B3C: Large two dots over one dot punctuation
-10B3D: Large one dot over two dots punctuation
-10B3E: Large two rings over one ring punctuation
-10B3F: Large one ring over two rings punctuation
-10B40: Inscriptional parthian letter aleph
-10B41: Inscriptional parthian letter beth
-10B42: Inscriptional parthian letter gimel
-10B43: Inscriptional parthian letter daleth
-10B44: Inscriptional parthian letter he
-10B45: Inscriptional parthian letter waw
-10B46: Inscriptional parthian letter zayin
-10B47: Inscriptional parthian letter heth
-10B48: Inscriptional parthian letter teth
-10B49: Inscriptional parthian letter yodh
-10B4A: Inscriptional parthian letter kaph
-10B4B: Inscriptional parthian letter lamedh
-10B4C: Inscriptional parthian letter mem
-10B4D: Inscriptional parthian letter nun
-10B4E: Inscriptional parthian letter samekh
-10B4F: Inscriptional parthian letter ayin
-10B50: Inscriptional parthian letter pe
-10B51: Inscriptional parthian letter sadhe
-10B52: Inscriptional parthian letter qoph
-10B53: Inscriptional parthian letter resh
-10B54: Inscriptional parthian letter shin
-10B55: Inscriptional parthian letter taw
+10B39: Авестийская метка аббревиатуры
+10B3A: Знак препинания очень маленькие точки, две над одной
+10B3B: Знак препинания маленькие точки, две над одной
+10B3C: Знак препинания большие точки, две над одной
+10B3D: Знак препинания большие точки, одна над двумя
+10B3E: Знак препинания большие круги, два над одним
+10B3F: Знак препинания большие круги, один над двумя
+10B40: Эпиграфическая парфянская буква Алеф
+10B41: Эпиграфическая парфянская буква Бет
+10B42: Эпиграфическая парфянская буква Гамаль
+10B43: Эпиграфическая парфянская буква Далат
+10B44: Эпиграфическая парфянская буква Хе
+10B45: Эпиграфическая парфянская буква Вав
+10B46: Эпиграфическая парфянская буква Зайн
+10B47: Эпиграфическая парфянская буква Хет
+10B48: Эпиграфическая парфянская буква Тет
+10B49: Эпиграфическая парфянская буква Йуд
+10B4A: Эпиграфическая парфянская буква Каф
+10B4B: Эпиграфическая парфянская буква Ламад
+10B4C: Эпиграфическая парфянская буква Мим
+10B4D: Эпиграфическая парфянская буква Нун
+10B4E: Эпиграфическая парфянская буква Семкат
+10B4F: Эпиграфическая парфянская буква Айн
+10B50: Эпиграфическая парфянская буква Пе
+10B51: Эпиграфическая парфянская буква Саде
+10B52: Эпиграфическая парфянская буква Коф
+10B53: Эпиграфическая парфянская буква Реш
+10B54: Эпиграфическая парфянская буква Шин
+10B55: Эпиграфическая парфянская буква Тау
 10B56:
 10B57:
-10B58: Inscriptional parthian number one
-10B59: Inscriptional parthian number two
-10B5A: Inscriptional parthian number three
-10B5B: Inscriptional parthian number four
-10B5C: Inscriptional parthian number ten
-10B5D: Inscriptional parthian number twenty
-10B5E: Inscriptional parthian number one hundred
-10B5F: Inscriptional parthian number one thousand
-10B60: Inscriptional pahlavi letter aleph
-10B61: Inscriptional pahlavi letter beth
-10B62: Inscriptional pahlavi letter gimel
-10B63: Inscriptional pahlavi letter daleth
-10B64: Inscriptional pahlavi letter he
-10B65: Inscriptional pahlavi letter waw-ayin-resh
-10B66: Inscriptional pahlavi letter zayin
-10B67: Inscriptional pahlavi letter heth
-10B68: Inscriptional pahlavi letter teth
-10B69: Inscriptional pahlavi letter yodh
-10B6A: Inscriptional pahlavi letter kaph
-10B6B: Inscriptional pahlavi letter lamedh
-10B6C: Inscriptional pahlavi letter mem-qoph
-10B6D: Inscriptional pahlavi letter nun
-10B6E: Inscriptional pahlavi letter samekh
-10B6F: Inscriptional pahlavi letter pe
-10B70: Inscriptional pahlavi letter sadhe
-10B71: Inscriptional pahlavi letter shin
-10B72: Inscriptional pahlavi letter taw
+10B58: Эпиграфическое парфянское число один
+10B59: Эпиграфическое парфянское число два
+10B5A: Эпиграфическое парфянское число три
+10B5B: Эпиграфическое парфянское число четыре
+10B5C: Эпиграфическое парфянское число десять
+10B5D: Эпиграфическое парфянское число двадцать
+10B5E: Эпиграфическое парфянское число сто
+10B5F: Эпиграфическое парфянское число двести
+10B60: Эпиграфическая пехлевийская буква Алеф
+10B61: Эпиграфическая пехлевийская буква Бет
+10B62: Эпиграфическая пехлевийская буква Гамаль
+10B63: Эпиграфическая пехлевийская буква Далат
+10B64: Эпиграфическая пехлевийская буква Хе
+10B65: Эпиграфическая пехлевийская буква Вав-Айн-Реш
+10B66: Эпиграфическая пехлевийская буква Зайн
+10B67: Эпиграфическая пехлевийская буква Хет
+10B68: Эпиграфическая пехлевийская буква Тет
+10B69: Эпиграфическая пехлевийская буква Йуд
+10B6A: Эпиграфическая пехлевийская буква Каф
+10B6B: Эпиграфическая пехлевийская буква Ламад
+10B6C: Эпиграфическая пехлевийская буква Мим-Коф
+10B6D: Эпиграфическая пехлевийская буква Нун
+10B6E: Эпиграфическая пехлевийская буква Семкат
+10B6F: Эпиграфическая пехлевийская буква Пе
+10B70: Эпиграфическая пехлевийская буква Саде
+10B71: Эпиграфическая пехлевийская буква Шин
+10B72: Эпиграфическая пехлевийская буква Тау
 10B73:
 10B74:
 10B75:
 10B76:
 10B77:
-10B78: Inscriptional pahlavi number one
-10B79: Inscriptional pahlavi number two
-10B7A: Inscriptional pahlavi number three
-10B7B: Inscriptional pahlavi number four
-10B7C: Inscriptional pahlavi number ten
-10B7D: Inscriptional pahlavi number twenty
-10B7E: Inscriptional pahlavi number one hundred
-10B7F: Inscriptional pahlavi number one thousand
-10B80: Psalter pahlavi letter aleph
-10B81: Psalter pahlavi letter beth
-10B82: Psalter pahlavi letter gimel
-10B83: Psalter pahlavi letter daleth
-10B84: Psalter pahlavi letter he
-10B85: Psalter pahlavi letter waw-ayin-resh
-10B86: Psalter pahlavi letter zayin
-10B87: Psalter pahlavi letter heth
-10B88: Psalter pahlavi letter yodh
-10B89: Psalter pahlavi letter kaph
-10B8A: Psalter pahlavi letter lamedh
-10B8B: Psalter pahlavi letter mem-qoph
-10B8C: Psalter pahlavi letter nun
-10B8D: Psalter pahlavi letter samekh
-10B8E: Psalter pahlavi letter pe
-10B8F: Psalter pahlavi letter sadhe
-10B90: Psalter pahlavi letter shin
-10B91: Psalter pahlavi letter taw
+10B78: Эпиграфическое пехлевийское число один
+10B79: Эпиграфическое пехлевийское число два
+10B7A: Эпиграфическое пехлевийское число три
+10B7B: Эпиграфическое пехлевийское число четыре
+10B7C: Эпиграфическое пехлевийское число десять
+10B7D: Эпиграфическое пехлевийское число двадцать
+10B7E: Эпиграфическое пехлевийское число сто
+10B7F: Эпиграфическое пехлевийское число тысяча
+10B80: Буква Алеф (пехлевийские псалтыри)
+10B81: Буква Бет (пехлевийские псалтыри)
+10B82: Буква Гамаль (пехлевийские псалтыри)
+10B83: Буква Далат (пехлевийские псалтыри)
+10B84: Буква Хе (пехлевийские псалтыри)
+10B85: Буква Вав-Айн-реш (пехлевийские псалтыри)
+10B86: Буква Зайн (пехлевийские псалтыри)
+10B87: Буква Хет (пехлевийские псалтыри)
+10B88: Буква Йуд (пехлевийские псалтыри)
+10B89: Буква Каф (пехлевийские псалтыри)
+10B8A: Буква Ламад (пехлевийские псалтыри)
+10B8B: Буква Мим-Коф (пехлевийские псалтыри)
+10B8C: Буква Нун (пехлевийские псалтыри)
+10B8D: Буква Семкат (пехлевийские псалтыри)
+10B8E: Буква Пе (пехлевийские псалтыри)
+10B8F: Буква Саде (пехлевийские псалтыри)
+10B90: Буква Шин (пехлевийские псалтыри)
+10B91: Буква Тау (пехлевийские псалтыри)
 10B92:
 10B93:
 10B94:
@@ -151,10 +151,10 @@
 10B96:
 10B97:
 10B98:
-10B99: Psalter pahlavi section mark
-10B9A: Psalter pahlavi turned section mark
-10B9B: Psalter pahlavi four dots with cross
-10B9C: Psalter pahlavi four dots with dot
+10B99: Метка раздела (пехлевийские псалтыри)
+10B9A: Повёрнутая метка раздела (пехлевийские псалтыри)
+10B9B: Четыре точки с крестом (пехлевийские псалтыри)
+10B9C: Четыре точки с точкой (пехлевийские псалтыри)
 10B9D:
 10B9E:
 10B9F:
@@ -167,13 +167,13 @@
 10BA6:
 10BA7:
 10BA8:
-10BA9: Psalter pahlavi number one
-10BAA: Psalter pahlavi number two
-10BAB: Psalter pahlavi number three
-10BAC: Psalter pahlavi number four
-10BAD: Psalter pahlavi number ten
-10BAE: Psalter pahlavi number twenty
-10BAF: Psalter pahlavi number one hundred
+10BA9: Число один (пехлевийские псалтыри)
+10BAA: Число два (пехлевийские псалтыри)
+10BAB: Число три (пехлевийские псалтыри)
+10BAC: Число четыре (пехлевийские псалтыри)
+10BAD: Число десять (пехлевийские псалтыри)
+10BAE: Число двадцать (пехлевийские псалтыри)
+10BAF: Число сто (пехлевийские псалтыри)
 10BB0:
 10BB1:
 10BB2:
