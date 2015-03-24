@@ -1,256 +1,256 @@
-C400 : Слог Хангыль sswals
-C401 : Слог Хангыль sswalt
-C402 : Слог Хангыль sswalp
-C403 : Слог Хангыль sswalh
-C404 : Слог Хангыль sswam
-C405 : Слог Хангыль sswab
-C406 : Слог Хангыль sswabs
-C407 : Слог Хангыль sswas
-C408 : Слог Хангыль sswass
-C409 : Слог Хангыль sswang
-C40A : Слог Хангыль sswaj
-C40B : Слог Хангыль sswac
-C40C : Слог Хангыль sswak
-C40D : Слог Хангыль sswat
-C40E : Слог Хангыль sswap
-C40F : Слог Хангыль sswah
-C410 : Слог Хангыль sswae
-C411 : Слог Хангыль sswaeg
-C412 : Слог Хангыль sswaegg
-C413 : Слог Хангыль sswaegs
-C414 : Слог Хангыль sswaen
-C415 : Слог Хангыль sswaenj
-C416 : Слог Хангыль sswaenh
-C417 : Слог Хангыль sswaed
-C418 : Слог Хангыль sswael
-C419 : Слог Хангыль sswaelg
-C41A : Слог Хангыль sswaelm
-C41B : Слог Хангыль sswaelb
-C41C : Слог Хангыль sswaels
-C41D : Слог Хангыль sswaelt
-C41E : Слог Хангыль sswaelp
-C41F : Слог Хангыль sswaelh
-C420 : Слог Хангыль sswaem
-C421 : Слог Хангыль sswaeb
-C422 : Слог Хангыль sswaebs
-C423 : Слог Хангыль sswaes
-C424 : Слог Хангыль sswaess
-C425 : Слог Хангыль sswaeng
-C426 : Слог Хангыль sswaej
-C427 : Слог Хангыль sswaec
-C428 : Слог Хангыль sswaek
-C429 : Слог Хангыль sswaet
-C42A : Слог Хангыль sswaep
-C42B : Слог Хангыль sswaeh
-C42C : Слог Хангыль ssoe
-C42D : Слог Хангыль ssoeg
-C42E : Слог Хангыль ssoegg
-C42F : Слог Хангыль ssoegs
-C430 : Слог Хангыль ssoen
-C431 : Слог Хангыль ssoenj
-C432 : Слог Хангыль ssoenh
-C433 : Слог Хангыль ssoed
-C434 : Слог Хангыль ssoel
-C435 : Слог Хангыль ssoelg
-C436 : Слог Хангыль ssoelm
-C437 : Слог Хангыль ssoelb
-C438 : Слог Хангыль ssoels
-C439 : Слог Хангыль ssoelt
-C43A : Слог Хангыль ssoelp
-C43B : Слог Хангыль ssoelh
-C43C : Слог Хангыль ssoem
-C43D : Слог Хангыль ssoeb
-C43E : Слог Хангыль ssoebs
-C43F : Слог Хангыль ssoes
-C440 : Слог Хангыль ssoess
-C441 : Слог Хангыль ssoeng
-C442 : Слог Хангыль ssoej
-C443 : Слог Хангыль ssoec
-C444 : Слог Хангыль ssoek
-C445 : Слог Хангыль ssoet
-C446 : Слог Хангыль ssoep
-C447 : Слог Хангыль ssoeh
-C448 : Слог Хангыль ssyo
-C449 : Слог Хангыль ssyog
-C44A : Слог Хангыль ssyogg
-C44B : Слог Хангыль ssyogs
-C44C : Слог Хангыль ssyon
-C44D : Слог Хангыль ssyonj
-C44E : Слог Хангыль ssyonh
-C44F : Слог Хангыль ssyod
-C450 : Слог Хангыль ssyol
-C451 : Слог Хангыль ssyolg
-C452 : Слог Хангыль ssyolm
-C453 : Слог Хангыль ssyolb
-C454 : Слог Хангыль ssyols
-C455 : Слог Хангыль ssyolt
-C456 : Слог Хангыль ssyolp
-C457 : Слог Хангыль ssyolh
-C458 : Слог Хангыль ssyom
-C459 : Слог Хангыль ssyob
-C45A : Слог Хангыль ssyobs
-C45B : Слог Хангыль ssyos
-C45C : Слог Хангыль ssyoss
-C45D : Слог Хангыль ssyong
-C45E : Слог Хангыль ssyoj
-C45F : Слог Хангыль ssyoc
-C460 : Слог Хангыль ssyok
-C461 : Слог Хангыль ssyot
-C462 : Слог Хангыль ssyop
-C463 : Слог Хангыль ssyoh
-C464 : Слог Хангыль ssu
-C465 : Слог Хангыль ssug
-C466 : Слог Хангыль ssugg
-C467 : Слог Хангыль ssugs
-C468 : Слог Хангыль ssun
-C469 : Слог Хангыль ssunj
-C46A : Слог Хангыль ssunh
-C46B : Слог Хангыль ssud
-C46C : Слог Хангыль ssul
-C46D : Слог Хангыль ssulg
-C46E : Слог Хангыль ssulm
-C46F : Слог Хангыль ssulb
-C470 : Слог Хангыль ssuls
-C471 : Слог Хангыль ssult
-C472 : Слог Хангыль ssulp
-C473 : Слог Хангыль ssulh
-C474 : Слог Хангыль ssum
-C475 : Слог Хангыль ssub
-C476 : Слог Хангыль ssubs
-C477 : Слог Хангыль ssus
-C478 : Слог Хангыль ssuss
-C479 : Слог Хангыль ssung
-C47A : Слог Хангыль ssuj
-C47B : Слог Хангыль ssuc
-C47C : Слог Хангыль ssuk
-C47D : Слог Хангыль ssut
-C47E : Слог Хангыль ssup
-C47F : Слог Хангыль ssuh
-C480 : Слог Хангыль ssweo
-C481 : Слог Хангыль ssweog
-C482 : Слог Хангыль ssweogg
-C483 : Слог Хангыль ssweogs
-C484 : Слог Хангыль ssweon
-C485 : Слог Хангыль ssweonj
-C486 : Слог Хангыль ssweonh
-C487 : Слог Хангыль ssweod
-C488 : Слог Хангыль ssweol
-C489 : Слог Хангыль ssweolg
-C48A : Слог Хангыль ssweolm
-C48B : Слог Хангыль ssweolb
-C48C : Слог Хангыль ssweols
-C48D : Слог Хангыль ssweolt
-C48E : Слог Хангыль ssweolp
-C48F : Слог Хангыль ssweolh
-C490 : Слог Хангыль ssweom
-C491 : Слог Хангыль ssweob
-C492 : Слог Хангыль ssweobs
-C493 : Слог Хангыль ssweos
-C494 : Слог Хангыль ssweoss
-C495 : Слог Хангыль ssweong
-C496 : Слог Хангыль ssweoj
-C497 : Слог Хангыль ssweoc
-C498 : Слог Хангыль ssweok
-C499 : Слог Хангыль ssweot
-C49A : Слог Хангыль ssweop
-C49B : Слог Хангыль ssweoh
-C49C : Слог Хангыль sswe
-C49D : Слог Хангыль ssweg
-C49E : Слог Хангыль sswegg
-C49F : Слог Хангыль sswegs
-C4A0 : Слог Хангыль sswen
-C4A1 : Слог Хангыль sswenj
-C4A2 : Слог Хангыль sswenh
-C4A3 : Слог Хангыль sswed
-C4A4 : Слог Хангыль sswel
-C4A5 : Слог Хангыль sswelg
-C4A6 : Слог Хангыль sswelm
-C4A7 : Слог Хангыль sswelb
-C4A8 : Слог Хангыль sswels
-C4A9 : Слог Хангыль sswelt
-C4AA : Слог Хангыль sswelp
-C4AB : Слог Хангыль sswelh
-C4AC : Слог Хангыль sswem
-C4AD : Слог Хангыль ssweb
-C4AE : Слог Хангыль sswebs
-C4AF : Слог Хангыль sswes
-C4B0 : Слог Хангыль sswess
-C4B1 : Слог Хангыль ssweng
-C4B2 : Слог Хангыль sswej
-C4B3 : Слог Хангыль sswec
-C4B4 : Слог Хангыль sswek
-C4B5 : Слог Хангыль sswet
-C4B6 : Слог Хангыль sswep
-C4B7 : Слог Хангыль ssweh
-C4B8 : Слог Хангыль sswi
-C4B9 : Слог Хангыль sswig
-C4BA : Слог Хангыль sswigg
-C4BB : Слог Хангыль sswigs
-C4BC : Слог Хангыль sswin
-C4BD : Слог Хангыль sswinj
-C4BE : Слог Хангыль sswinh
-C4BF : Слог Хангыль sswid
-C4C0 : Слог Хангыль sswil
-C4C1 : Слог Хангыль sswilg
-C4C2 : Слог Хангыль sswilm
-C4C3 : Слог Хангыль sswilb
-C4C4 : Слог Хангыль sswils
-C4C5 : Слог Хангыль sswilt
-C4C6 : Слог Хангыль sswilp
-C4C7 : Слог Хангыль sswilh
-C4C8 : Слог Хангыль sswim
-C4C9 : Слог Хангыль sswib
-C4CA : Слог Хангыль sswibs
-C4CB : Слог Хангыль sswis
-C4CC : Слог Хангыль sswiss
-C4CD : Слог Хангыль sswing
-C4CE : Слог Хангыль sswij
-C4CF : Слог Хангыль sswic
-C4D0 : Слог Хангыль sswik
-C4D1 : Слог Хангыль sswit
-C4D2 : Слог Хангыль sswip
-C4D3 : Слог Хангыль sswih
-C4D4 : Слог Хангыль ssyu
-C4D5 : Слог Хангыль ssyug
-C4D6 : Слог Хангыль ssyugg
-C4D7 : Слог Хангыль ssyugs
-C4D8 : Слог Хангыль ssyun
-C4D9 : Слог Хангыль ssyunj
-C4DA : Слог Хангыль ssyunh
-C4DB : Слог Хангыль ssyud
-C4DC : Слог Хангыль ssyul
-C4DD : Слог Хангыль ssyulg
-C4DE : Слог Хангыль ssyulm
-C4DF : Слог Хангыль ssyulb
-C4E0 : Слог Хангыль ssyuls
-C4E1 : Слог Хангыль ssyult
-C4E2 : Слог Хангыль ssyulp
-C4E3 : Слог Хангыль ssyulh
-C4E4 : Слог Хангыль ssyum
-C4E5 : Слог Хангыль ssyub
-C4E6 : Слог Хангыль ssyubs
-C4E7 : Слог Хангыль ssyus
-C4E8 : Слог Хангыль ssyuss
-C4E9 : Слог Хангыль ssyung
-C4EA : Слог Хангыль ssyuj
-C4EB : Слог Хангыль ssyuc
-C4EC : Слог Хангыль ssyuk
-C4ED : Слог Хангыль ssyut
-C4EE : Слог Хангыль ssyup
-C4EF : Слог Хангыль ssyuh
-C4F0 : Слог Хангыль sseu
-C4F1 : Слог Хангыль sseug
-C4F2 : Слог Хангыль sseugg
-C4F3 : Слог Хангыль sseugs
-C4F4 : Слог Хангыль sseun
-C4F5 : Слог Хангыль sseunj
-C4F6 : Слог Хангыль sseunh
-C4F7 : Слог Хангыль sseud
-C4F8 : Слог Хангыль sseul
-C4F9 : Слог Хангыль sseulg
-C4FA : Слог Хангыль sseulm
-C4FB : Слог Хангыль sseulb
-C4FC : Слог Хангыль sseuls
-C4FD : Слог Хангыль sseult
-C4FE : Слог Хангыль sseulp
-C4FF : Слог Хангыль sseulh
+C400: Слог Хангыль sswals
+C401: Слог Хангыль sswalt
+C402: Слог Хангыль sswalp
+C403: Слог Хангыль sswalh
+C404: Слог Хангыль sswam
+C405: Слог Хангыль sswab
+C406: Слог Хангыль sswabs
+C407: Слог Хангыль sswas
+C408: Слог Хангыль sswass
+C409: Слог Хангыль sswang
+C40A: Слог Хангыль sswaj
+C40B: Слог Хангыль sswac
+C40C: Слог Хангыль sswak
+C40D: Слог Хангыль sswat
+C40E: Слог Хангыль sswap
+C40F: Слог Хангыль sswah
+C410: Слог Хангыль sswae
+C411: Слог Хангыль sswaeg
+C412: Слог Хангыль sswaegg
+C413: Слог Хангыль sswaegs
+C414: Слог Хангыль sswaen
+C415: Слог Хангыль sswaenj
+C416: Слог Хангыль sswaenh
+C417: Слог Хангыль sswaed
+C418: Слог Хангыль sswael
+C419: Слог Хангыль sswaelg
+C41A: Слог Хангыль sswaelm
+C41B: Слог Хангыль sswaelb
+C41C: Слог Хангыль sswaels
+C41D: Слог Хангыль sswaelt
+C41E: Слог Хангыль sswaelp
+C41F: Слог Хангыль sswaelh
+C420: Слог Хангыль sswaem
+C421: Слог Хангыль sswaeb
+C422: Слог Хангыль sswaebs
+C423: Слог Хангыль sswaes
+C424: Слог Хангыль sswaess
+C425: Слог Хангыль sswaeng
+C426: Слог Хангыль sswaej
+C427: Слог Хангыль sswaec
+C428: Слог Хангыль sswaek
+C429: Слог Хангыль sswaet
+C42A: Слог Хангыль sswaep
+C42B: Слог Хангыль sswaeh
+C42C: Слог Хангыль ssoe
+C42D: Слог Хангыль ssoeg
+C42E: Слог Хангыль ssoegg
+C42F: Слог Хангыль ssoegs
+C430: Слог Хангыль ssoen
+C431: Слог Хангыль ssoenj
+C432: Слог Хангыль ssoenh
+C433: Слог Хангыль ssoed
+C434: Слог Хангыль ssoel
+C435: Слог Хангыль ssoelg
+C436: Слог Хангыль ssoelm
+C437: Слог Хангыль ssoelb
+C438: Слог Хангыль ssoels
+C439: Слог Хангыль ssoelt
+C43A: Слог Хангыль ssoelp
+C43B: Слог Хангыль ssoelh
+C43C: Слог Хангыль ssoem
+C43D: Слог Хангыль ssoeb
+C43E: Слог Хангыль ssoebs
+C43F: Слог Хангыль ssoes
+C440: Слог Хангыль ssoess
+C441: Слог Хангыль ssoeng
+C442: Слог Хангыль ssoej
+C443: Слог Хангыль ssoec
+C444: Слог Хангыль ssoek
+C445: Слог Хангыль ssoet
+C446: Слог Хангыль ssoep
+C447: Слог Хангыль ssoeh
+C448: Слог Хангыль ssyo
+C449: Слог Хангыль ssyog
+C44A: Слог Хангыль ssyogg
+C44B: Слог Хангыль ssyogs
+C44C: Слог Хангыль ssyon
+C44D: Слог Хангыль ssyonj
+C44E: Слог Хангыль ssyonh
+C44F: Слог Хангыль ssyod
+C450: Слог Хангыль ssyol
+C451: Слог Хангыль ssyolg
+C452: Слог Хангыль ssyolm
+C453: Слог Хангыль ssyolb
+C454: Слог Хангыль ssyols
+C455: Слог Хангыль ssyolt
+C456: Слог Хангыль ssyolp
+C457: Слог Хангыль ssyolh
+C458: Слог Хангыль ssyom
+C459: Слог Хангыль ssyob
+C45A: Слог Хангыль ssyobs
+C45B: Слог Хангыль ssyos
+C45C: Слог Хангыль ssyoss
+C45D: Слог Хангыль ssyong
+C45E: Слог Хангыль ssyoj
+C45F: Слог Хангыль ssyoc
+C460: Слог Хангыль ssyok
+C461: Слог Хангыль ssyot
+C462: Слог Хангыль ssyop
+C463: Слог Хангыль ssyoh
+C464: Слог Хангыль ssu
+C465: Слог Хангыль ssug
+C466: Слог Хангыль ssugg
+C467: Слог Хангыль ssugs
+C468: Слог Хангыль ssun
+C469: Слог Хангыль ssunj
+C46A: Слог Хангыль ssunh
+C46B: Слог Хангыль ssud
+C46C: Слог Хангыль ssul
+C46D: Слог Хангыль ssulg
+C46E: Слог Хангыль ssulm
+C46F: Слог Хангыль ssulb
+C470: Слог Хангыль ssuls
+C471: Слог Хангыль ssult
+C472: Слог Хангыль ssulp
+C473: Слог Хангыль ssulh
+C474: Слог Хангыль ssum
+C475: Слог Хангыль ssub
+C476: Слог Хангыль ssubs
+C477: Слог Хангыль ssus
+C478: Слог Хангыль ssuss
+C479: Слог Хангыль ssung
+C47A: Слог Хангыль ssuj
+C47B: Слог Хангыль ssuc
+C47C: Слог Хангыль ssuk
+C47D: Слог Хангыль ssut
+C47E: Слог Хангыль ssup
+C47F: Слог Хангыль ssuh
+C480: Слог Хангыль ssweo
+C481: Слог Хангыль ssweog
+C482: Слог Хангыль ssweogg
+C483: Слог Хангыль ssweogs
+C484: Слог Хангыль ssweon
+C485: Слог Хангыль ssweonj
+C486: Слог Хангыль ssweonh
+C487: Слог Хангыль ssweod
+C488: Слог Хангыль ssweol
+C489: Слог Хангыль ssweolg
+C48A: Слог Хангыль ssweolm
+C48B: Слог Хангыль ssweolb
+C48C: Слог Хангыль ssweols
+C48D: Слог Хангыль ssweolt
+C48E: Слог Хангыль ssweolp
+C48F: Слог Хангыль ssweolh
+C490: Слог Хангыль ssweom
+C491: Слог Хангыль ssweob
+C492: Слог Хангыль ssweobs
+C493: Слог Хангыль ssweos
+C494: Слог Хангыль ssweoss
+C495: Слог Хангыль ssweong
+C496: Слог Хангыль ssweoj
+C497: Слог Хангыль ssweoc
+C498: Слог Хангыль ssweok
+C499: Слог Хангыль ssweot
+C49A: Слог Хангыль ssweop
+C49B: Слог Хангыль ssweoh
+C49C: Слог Хангыль sswe
+C49D: Слог Хангыль ssweg
+C49E: Слог Хангыль sswegg
+C49F: Слог Хангыль sswegs
+C4A0: Слог Хангыль sswen
+C4A1: Слог Хангыль sswenj
+C4A2: Слог Хангыль sswenh
+C4A3: Слог Хангыль sswed
+C4A4: Слог Хангыль sswel
+C4A5: Слог Хангыль sswelg
+C4A6: Слог Хангыль sswelm
+C4A7: Слог Хангыль sswelb
+C4A8: Слог Хангыль sswels
+C4A9: Слог Хангыль sswelt
+C4AA: Слог Хангыль sswelp
+C4AB: Слог Хангыль sswelh
+C4AC: Слог Хангыль sswem
+C4AD: Слог Хангыль ssweb
+C4AE: Слог Хангыль sswebs
+C4AF: Слог Хангыль sswes
+C4B0: Слог Хангыль sswess
+C4B1: Слог Хангыль ssweng
+C4B2: Слог Хангыль sswej
+C4B3: Слог Хангыль sswec
+C4B4: Слог Хангыль sswek
+C4B5: Слог Хангыль sswet
+C4B6: Слог Хангыль sswep
+C4B7: Слог Хангыль ssweh
+C4B8: Слог Хангыль sswi
+C4B9: Слог Хангыль sswig
+C4BA: Слог Хангыль sswigg
+C4BB: Слог Хангыль sswigs
+C4BC: Слог Хангыль sswin
+C4BD: Слог Хангыль sswinj
+C4BE: Слог Хангыль sswinh
+C4BF: Слог Хангыль sswid
+C4C0: Слог Хангыль sswil
+C4C1: Слог Хангыль sswilg
+C4C2: Слог Хангыль sswilm
+C4C3: Слог Хангыль sswilb
+C4C4: Слог Хангыль sswils
+C4C5: Слог Хангыль sswilt
+C4C6: Слог Хангыль sswilp
+C4C7: Слог Хангыль sswilh
+C4C8: Слог Хангыль sswim
+C4C9: Слог Хангыль sswib
+C4CA: Слог Хангыль sswibs
+C4CB: Слог Хангыль sswis
+C4CC: Слог Хангыль sswiss
+C4CD: Слог Хангыль sswing
+C4CE: Слог Хангыль sswij
+C4CF: Слог Хангыль sswic
+C4D0: Слог Хангыль sswik
+C4D1: Слог Хангыль sswit
+C4D2: Слог Хангыль sswip
+C4D3: Слог Хангыль sswih
+C4D4: Слог Хангыль ssyu
+C4D5: Слог Хангыль ssyug
+C4D6: Слог Хангыль ssyugg
+C4D7: Слог Хангыль ssyugs
+C4D8: Слог Хангыль ssyun
+C4D9: Слог Хангыль ssyunj
+C4DA: Слог Хангыль ssyunh
+C4DB: Слог Хангыль ssyud
+C4DC: Слог Хангыль ssyul
+C4DD: Слог Хангыль ssyulg
+C4DE: Слог Хангыль ssyulm
+C4DF: Слог Хангыль ssyulb
+C4E0: Слог Хангыль ssyuls
+C4E1: Слог Хангыль ssyult
+C4E2: Слог Хангыль ssyulp
+C4E3: Слог Хангыль ssyulh
+C4E4: Слог Хангыль ssyum
+C4E5: Слог Хангыль ssyub
+C4E6: Слог Хангыль ssyubs
+C4E7: Слог Хангыль ssyus
+C4E8: Слог Хангыль ssyuss
+C4E9: Слог Хангыль ssyung
+C4EA: Слог Хангыль ssyuj
+C4EB: Слог Хангыль ssyuc
+C4EC: Слог Хангыль ssyuk
+C4ED: Слог Хангыль ssyut
+C4EE: Слог Хангыль ssyup
+C4EF: Слог Хангыль ssyuh
+C4F0: Слог Хангыль sseu
+C4F1: Слог Хангыль sseug
+C4F2: Слог Хангыль sseugg
+C4F3: Слог Хангыль sseugs
+C4F4: Слог Хангыль sseun
+C4F5: Слог Хангыль sseunj
+C4F6: Слог Хангыль sseunh
+C4F7: Слог Хангыль sseud
+C4F8: Слог Хангыль sseul
+C4F9: Слог Хангыль sseulg
+C4FA: Слог Хангыль sseulm
+C4FB: Слог Хангыль sseulb
+C4FC: Слог Хангыль sseuls
+C4FD: Слог Хангыль sseult
+C4FE: Слог Хангыль sseulp
+C4FF: Слог Хангыль sseulh

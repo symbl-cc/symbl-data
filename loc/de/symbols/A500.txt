@@ -1,256 +1,256 @@
-A500 : Vai syllable ee
-A501 : Vai syllable een
-A502 : Vai syllable hee
-A503 : Vai syllable wee
-A504 : Vai syllable ween
-A505 : Vai syllable pee
-A506 : Vai syllable bhee
-A507 : Vai syllable bee
-A508 : Vai syllable mbee
-A509 : Vai syllable kpee
-A50A : Vai syllable mgbee
-A50B : Vai syllable gbee
-A50C : Vai syllable fee
-A50D : Vai syllable vee
-A50E : Vai syllable tee
-A50F : Vai syllable thee
-A510 : Vai syllable dhee
-A511 : Vai syllable dhhee
-A512 : Vai syllable lee
-A513 : Vai syllable ree
-A514 : Vai syllable dee
-A515 : Vai syllable ndee
-A516 : Vai syllable see
-A517 : Vai syllable shee
-A518 : Vai syllable zee
-A519 : Vai syllable zhee
-A51A : Vai syllable cee
-A51B : Vai syllable jee
-A51C : Vai syllable njee
-A51D : Vai syllable yee
-A51E : Vai syllable kee
-A51F : Vai syllable nggee
-A520 : Vai syllable gee
-A521 : Vai syllable mee
-A522 : Vai syllable nee
-A523 : Vai syllable nyee
-A524 : Vai syllable i
-A525 : Vai syllable in
-A526 : Vai syllable hi
-A527 : Vai syllable hin
-A528 : Vai syllable wi
-A529 : Vai syllable win
-A52A : Vai syllable pi
-A52B : Vai syllable bhi
-A52C : Vai syllable bi
-A52D : Vai syllable mbi
-A52E : Vai syllable kpi
-A52F : Vai syllable mgbi
-A530 : Vai syllable gbi
-A531 : Vai syllable fi
-A532 : Vai syllable vi
-A533 : Vai syllable ti
-A534 : Vai syllable thi
-A535 : Vai syllable dhi
-A536 : Vai syllable dhhi
-A537 : Vai syllable li
-A538 : Vai syllable ri
-A539 : Vai syllable di
-A53A : Vai syllable ndi
-A53B : Vai syllable si
-A53C : Vai syllable shi
-A53D : Vai syllable zi
-A53E : Vai syllable zhi
-A53F : Vai syllable ci
-A540 : Vai syllable ji
-A541 : Vai syllable nji
-A542 : Vai syllable yi
-A543 : Vai syllable ki
-A544 : Vai syllable nggi
-A545 : Vai syllable gi
-A546 : Vai syllable mi
-A547 : Vai syllable ni
-A548 : Vai syllable nyi
-A549 : Vai syllable a
-A54A : Vai syllable an
-A54B : Vai syllable ngan
-A54C : Vai syllable ha
-A54D : Vai syllable han
-A54E : Vai syllable wa
-A54F : Vai syllable wan
-A550 : Vai syllable pa
-A551 : Vai syllable bha
-A552 : Vai syllable ba
-A553 : Vai syllable mba
-A554 : Vai syllable kpa
-A555 : Vai syllable kpan
-A556 : Vai syllable mgba
-A557 : Vai syllable gba
-A558 : Vai syllable fa
-A559 : Vai syllable va
-A55A : Vai syllable ta
-A55B : Vai syllable tha
-A55C : Vai syllable dha
-A55D : Vai syllable dhha
-A55E : Vai syllable la
-A55F : Vai syllable ra
-A560 : Vai syllable da
-A561 : Vai syllable nda
-A562 : Vai syllable sa
-A563 : Vai syllable sha
-A564 : Vai syllable za
-A565 : Vai syllable zha
-A566 : Vai syllable ca
-A567 : Vai syllable ja
-A568 : Vai syllable nja
-A569 : Vai syllable ya
-A56A : Vai syllable ka
-A56B : Vai syllable kan
-A56C : Vai syllable ngga
-A56D : Vai syllable ga
-A56E : Vai syllable ma
-A56F : Vai syllable na
-A570 : Vai syllable nya
-A571 : Vai syllable oo
-A572 : Vai syllable oon
-A573 : Vai syllable hoo
-A574 : Vai syllable woo
-A575 : Vai syllable woon
-A576 : Vai syllable poo
-A577 : Vai syllable bhoo
-A578 : Vai syllable boo
-A579 : Vai syllable mboo
-A57A : Vai syllable kpoo
-A57B : Vai syllable mgboo
-A57C : Vai syllable gboo
-A57D : Vai syllable foo
-A57E : Vai syllable voo
-A57F : Vai syllable too
-A580 : Vai syllable thoo
-A581 : Vai syllable dhoo
-A582 : Vai syllable dhhoo
-A583 : Vai syllable loo
-A584 : Vai syllable roo
-A585 : Vai syllable doo
-A586 : Vai syllable ndoo
-A587 : Vai syllable soo
-A588 : Vai syllable shoo
-A589 : Vai syllable zoo
-A58A : Vai syllable zhoo
-A58B : Vai syllable coo
-A58C : Vai syllable joo
-A58D : Vai syllable njoo
-A58E : Vai syllable yoo
-A58F : Vai syllable koo
-A590 : Vai syllable nggoo
-A591 : Vai syllable goo
-A592 : Vai syllable moo
-A593 : Vai syllable noo
-A594 : Vai syllable nyoo
-A595 : Vai syllable u
-A596 : Vai syllable un
-A597 : Vai syllable hu
-A598 : Vai syllable hun
-A599 : Vai syllable wu
-A59A : Vai syllable wun
-A59B : Vai syllable pu
-A59C : Vai syllable bhu
-A59D : Vai syllable bu
-A59E : Vai syllable mbu
-A59F : Vai syllable kpu
-A5A0 : Vai syllable mgbu
-A5A1 : Vai syllable gbu
-A5A2 : Vai syllable fu
-A5A3 : Vai syllable vu
-A5A4 : Vai syllable tu
-A5A5 : Vai syllable thu
-A5A6 : Vai syllable dhu
-A5A7 : Vai syllable dhhu
-A5A8 : Vai syllable lu
-A5A9 : Vai syllable ru
-A5AA : Vai syllable du
-A5AB : Vai syllable ndu
-A5AC : Vai syllable su
-A5AD : Vai syllable shu
-A5AE : Vai syllable zu
-A5AF : Vai syllable zhu
-A5B0 : Vai syllable cu
-A5B1 : Vai syllable ju
-A5B2 : Vai syllable nju
-A5B3 : Vai syllable yu
-A5B4 : Vai syllable ku
-A5B5 : Vai syllable nggu
-A5B6 : Vai syllable gu
-A5B7 : Vai syllable mu
-A5B8 : Vai syllable nu
-A5B9 : Vai syllable nyu
-A5BA : Vai syllable o
-A5BB : Vai syllable on
-A5BC : Vai syllable ngon
-A5BD : Vai syllable ho
-A5BE : Vai syllable hon
-A5BF : Vai syllable wo
-A5C0 : Vai syllable won
-A5C1 : Vai syllable po
-A5C2 : Vai syllable bho
-A5C3 : Vai syllable bo
-A5C4 : Vai syllable mbo
-A5C5 : Vai syllable kpo
-A5C6 : Vai syllable mgbo
-A5C7 : Vai syllable gbo
-A5C8 : Vai syllable gbon
-A5C9 : Vai syllable fo
-A5CA : Vai syllable vo
-A5CB : Vai syllable to
-A5CC : Vai syllable tho
-A5CD : Vai syllable dho
-A5CE : Vai syllable dhho
-A5CF : Vai syllable lo
-A5D0 : Vai syllable ro
-A5D1 : Vai syllable do
-A5D2 : Vai syllable ndo
-A5D3 : Vai syllable so
-A5D4 : Vai syllable sho
-A5D5 : Vai syllable zo
-A5D6 : Vai syllable zho
-A5D7 : Vai syllable co
-A5D8 : Vai syllable jo
-A5D9 : Vai syllable njo
-A5DA : Vai syllable yo
-A5DB : Vai syllable ko
-A5DC : Vai syllable nggo
-A5DD : Vai syllable go
-A5DE : Vai syllable mo
-A5DF : Vai syllable no
-A5E0 : Vai syllable nyo
-A5E1 : Vai syllable e
-A5E2 : Vai syllable en
-A5E3 : Vai syllable ngen
-A5E4 : Vai syllable he
-A5E5 : Vai syllable hen
-A5E6 : Vai syllable we
-A5E7 : Vai syllable wen
-A5E8 : Vai syllable pe
-A5E9 : Vai syllable bhe
-A5EA : Vai syllable be
-A5EB : Vai syllable mbe
-A5EC : Vai syllable kpe
-A5ED : Vai syllable kpen
-A5EE : Vai syllable mgbe
-A5EF : Vai syllable gbe
-A5F0 : Vai syllable gben
-A5F1 : Vai syllable fe
-A5F2 : Vai syllable ve
-A5F3 : Vai syllable te
-A5F4 : Vai syllable the
-A5F5 : Vai syllable dhe
-A5F6 : Vai syllable dhhe
-A5F7 : Vai syllable le
-A5F8 : Vai syllable re
-A5F9 : Vai syllable de
-A5FA : Vai syllable nde
-A5FB : Vai syllable se
-A5FC : Vai syllable she
-A5FD : Vai syllable ze
-A5FE : Vai syllable zhe
-A5FF : Vai syllable ce
+A500: Vai syllable ee
+A501: Vai syllable een
+A502: Vai syllable hee
+A503: Vai syllable wee
+A504: Vai syllable ween
+A505: Vai syllable pee
+A506: Vai syllable bhee
+A507: Vai syllable bee
+A508: Vai syllable mbee
+A509: Vai syllable kpee
+A50A: Vai syllable mgbee
+A50B: Vai syllable gbee
+A50C: Vai syllable fee
+A50D: Vai syllable vee
+A50E: Vai syllable tee
+A50F: Vai syllable thee
+A510: Vai syllable dhee
+A511: Vai syllable dhhee
+A512: Vai syllable lee
+A513: Vai syllable ree
+A514: Vai syllable dee
+A515: Vai syllable ndee
+A516: Vai syllable see
+A517: Vai syllable shee
+A518: Vai syllable zee
+A519: Vai syllable zhee
+A51A: Vai syllable cee
+A51B: Vai syllable jee
+A51C: Vai syllable njee
+A51D: Vai syllable yee
+A51E: Vai syllable kee
+A51F: Vai syllable nggee
+A520: Vai syllable gee
+A521: Vai syllable mee
+A522: Vai syllable nee
+A523: Vai syllable nyee
+A524: Vai syllable i
+A525: Vai syllable in
+A526: Vai syllable hi
+A527: Vai syllable hin
+A528: Vai syllable wi
+A529: Vai syllable win
+A52A: Vai syllable pi
+A52B: Vai syllable bhi
+A52C: Vai syllable bi
+A52D: Vai syllable mbi
+A52E: Vai syllable kpi
+A52F: Vai syllable mgbi
+A530: Vai syllable gbi
+A531: Vai syllable fi
+A532: Vai syllable vi
+A533: Vai syllable ti
+A534: Vai syllable thi
+A535: Vai syllable dhi
+A536: Vai syllable dhhi
+A537: Vai syllable li
+A538: Vai syllable ri
+A539: Vai syllable di
+A53A: Vai syllable ndi
+A53B: Vai syllable si
+A53C: Vai syllable shi
+A53D: Vai syllable zi
+A53E: Vai syllable zhi
+A53F: Vai syllable ci
+A540: Vai syllable ji
+A541: Vai syllable nji
+A542: Vai syllable yi
+A543: Vai syllable ki
+A544: Vai syllable nggi
+A545: Vai syllable gi
+A546: Vai syllable mi
+A547: Vai syllable ni
+A548: Vai syllable nyi
+A549: Vai syllable a
+A54A: Vai syllable an
+A54B: Vai syllable ngan
+A54C: Vai syllable ha
+A54D: Vai syllable han
+A54E: Vai syllable wa
+A54F: Vai syllable wan
+A550: Vai syllable pa
+A551: Vai syllable bha
+A552: Vai syllable ba
+A553: Vai syllable mba
+A554: Vai syllable kpa
+A555: Vai syllable kpan
+A556: Vai syllable mgba
+A557: Vai syllable gba
+A558: Vai syllable fa
+A559: Vai syllable va
+A55A: Vai syllable ta
+A55B: Vai syllable tha
+A55C: Vai syllable dha
+A55D: Vai syllable dhha
+A55E: Vai syllable la
+A55F: Vai syllable ra
+A560: Vai syllable da
+A561: Vai syllable nda
+A562: Vai syllable sa
+A563: Vai syllable sha
+A564: Vai syllable za
+A565: Vai syllable zha
+A566: Vai syllable ca
+A567: Vai syllable ja
+A568: Vai syllable nja
+A569: Vai syllable ya
+A56A: Vai syllable ka
+A56B: Vai syllable kan
+A56C: Vai syllable ngga
+A56D: Vai syllable ga
+A56E: Vai syllable ma
+A56F: Vai syllable na
+A570: Vai syllable nya
+A571: Vai syllable oo
+A572: Vai syllable oon
+A573: Vai syllable hoo
+A574: Vai syllable woo
+A575: Vai syllable woon
+A576: Vai syllable poo
+A577: Vai syllable bhoo
+A578: Vai syllable boo
+A579: Vai syllable mboo
+A57A: Vai syllable kpoo
+A57B: Vai syllable mgboo
+A57C: Vai syllable gboo
+A57D: Vai syllable foo
+A57E: Vai syllable voo
+A57F: Vai syllable too
+A580: Vai syllable thoo
+A581: Vai syllable dhoo
+A582: Vai syllable dhhoo
+A583: Vai syllable loo
+A584: Vai syllable roo
+A585: Vai syllable doo
+A586: Vai syllable ndoo
+A587: Vai syllable soo
+A588: Vai syllable shoo
+A589: Vai syllable zoo
+A58A: Vai syllable zhoo
+A58B: Vai syllable coo
+A58C: Vai syllable joo
+A58D: Vai syllable njoo
+A58E: Vai syllable yoo
+A58F: Vai syllable koo
+A590: Vai syllable nggoo
+A591: Vai syllable goo
+A592: Vai syllable moo
+A593: Vai syllable noo
+A594: Vai syllable nyoo
+A595: Vai syllable u
+A596: Vai syllable un
+A597: Vai syllable hu
+A598: Vai syllable hun
+A599: Vai syllable wu
+A59A: Vai syllable wun
+A59B: Vai syllable pu
+A59C: Vai syllable bhu
+A59D: Vai syllable bu
+A59E: Vai syllable mbu
+A59F: Vai syllable kpu
+A5A0: Vai syllable mgbu
+A5A1: Vai syllable gbu
+A5A2: Vai syllable fu
+A5A3: Vai syllable vu
+A5A4: Vai syllable tu
+A5A5: Vai syllable thu
+A5A6: Vai syllable dhu
+A5A7: Vai syllable dhhu
+A5A8: Vai syllable lu
+A5A9: Vai syllable ru
+A5AA: Vai syllable du
+A5AB: Vai syllable ndu
+A5AC: Vai syllable su
+A5AD: Vai syllable shu
+A5AE: Vai syllable zu
+A5AF: Vai syllable zhu
+A5B0: Vai syllable cu
+A5B1: Vai syllable ju
+A5B2: Vai syllable nju
+A5B3: Vai syllable yu
+A5B4: Vai syllable ku
+A5B5: Vai syllable nggu
+A5B6: Vai syllable gu
+A5B7: Vai syllable mu
+A5B8: Vai syllable nu
+A5B9: Vai syllable nyu
+A5BA: Vai syllable o
+A5BB: Vai syllable on
+A5BC: Vai syllable ngon
+A5BD: Vai syllable ho
+A5BE: Vai syllable hon
+A5BF: Vai syllable wo
+A5C0: Vai syllable won
+A5C1: Vai syllable po
+A5C2: Vai syllable bho
+A5C3: Vai syllable bo
+A5C4: Vai syllable mbo
+A5C5: Vai syllable kpo
+A5C6: Vai syllable mgbo
+A5C7: Vai syllable gbo
+A5C8: Vai syllable gbon
+A5C9: Vai syllable fo
+A5CA: Vai syllable vo
+A5CB: Vai syllable to
+A5CC: Vai syllable tho
+A5CD: Vai syllable dho
+A5CE: Vai syllable dhho
+A5CF: Vai syllable lo
+A5D0: Vai syllable ro
+A5D1: Vai syllable do
+A5D2: Vai syllable ndo
+A5D3: Vai syllable so
+A5D4: Vai syllable sho
+A5D5: Vai syllable zo
+A5D6: Vai syllable zho
+A5D7: Vai syllable co
+A5D8: Vai syllable jo
+A5D9: Vai syllable njo
+A5DA: Vai syllable yo
+A5DB: Vai syllable ko
+A5DC: Vai syllable nggo
+A5DD: Vai syllable go
+A5DE: Vai syllable mo
+A5DF: Vai syllable no
+A5E0: Vai syllable nyo
+A5E1: Vai syllable e
+A5E2: Vai syllable en
+A5E3: Vai syllable ngen
+A5E4: Vai syllable he
+A5E5: Vai syllable hen
+A5E6: Vai syllable we
+A5E7: Vai syllable wen
+A5E8: Vai syllable pe
+A5E9: Vai syllable bhe
+A5EA: Vai syllable be
+A5EB: Vai syllable mbe
+A5EC: Vai syllable kpe
+A5ED: Vai syllable kpen
+A5EE: Vai syllable mgbe
+A5EF: Vai syllable gbe
+A5F0: Vai syllable gben
+A5F1: Vai syllable fe
+A5F2: Vai syllable ve
+A5F3: Vai syllable te
+A5F4: Vai syllable the
+A5F5: Vai syllable dhe
+A5F6: Vai syllable dhhe
+A5F7: Vai syllable le
+A5F8: Vai syllable re
+A5F9: Vai syllable de
+A5FA: Vai syllable nde
+A5FB: Vai syllable se
+A5FC: Vai syllable she
+A5FD: Vai syllable ze
+A5FE: Vai syllable zhe
+A5FF: Vai syllable ce

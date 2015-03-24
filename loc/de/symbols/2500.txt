@@ -1,256 +1,256 @@
-2500 : Box drawings light horizontal
-2501 : Box drawings heavy horizontal
-2502 : Box drawings light vertical
-2503 : Box drawings heavy vertical
-2504 : Box drawings light triple dash horizontal
-2505 : Box drawings heavy triple dash horizontal
-2506 : Box drawings light triple dash vertical
-2507 : Box drawings heavy triple dash vertical
-2508 : Box drawings light quadruple dash horizontal
-2509 : Box drawings heavy quadruple dash horizontal
-250A : Box drawings light quadruple dash vertical
-250B : Box drawings heavy quadruple dash vertical
-250C : Box drawings light down and right
-250D : Box drawings down light and right heavy
-250E : Box drawings down heavy and right light
-250F : Box drawings heavy down and right
-2510 : Box drawings light down and left
-2511 : Box drawings down light and left heavy
-2512 : Box drawings down heavy and left light
-2513 : Box drawings heavy down and left
-2514 : Box drawings light up and right
-2515 : Box drawings up light and right heavy
-2516 : Box drawings up heavy and right light
-2517 : Box drawings heavy up and right
-2518 : Box drawings light up and left
-2519 : Box drawings up light and left heavy
-251A : Box drawings up heavy and left light
-251B : Box drawings heavy up and left
-251C : Box drawings light vertical and right
-251D : Box drawings vertical light and right heavy
-251E : Box drawings up heavy and right down light
-251F : Box drawings down heavy and right up light
-2520 : Box drawings vertical heavy and right light
-2521 : Box drawings down light and right up heavy
-2522 : Box drawings up light and right down heavy
-2523 : Box drawings heavy vertical and right
-2524 : Box drawings light vertical and left
-2525 : Box drawings vertical light and left heavy
-2526 : Box drawings up heavy and left down light
-2527 : Box drawings down heavy and left up light
-2528 : Box drawings vertical heavy and left light
-2529 : Box drawings down light and left up heavy
-252A : Box drawings up light and left down heavy
-252B : Box drawings heavy vertical and left
-252C : Box drawings light down and horizontal
-252D : Box drawings left heavy and right down light
-252E : Box drawings right heavy and left down light
-252F : Box drawings down light and horizontal heavy
-2530 : Box drawings down heavy and horizontal light
-2531 : Box drawings right light and left down heavy
-2532 : Box drawings left light and right down heavy
-2533 : Box drawings heavy down and horizontal
-2534 : Box drawings light up and horizontal
-2535 : Box drawings left heavy and right up light
-2536 : Box drawings right heavy and left up light
-2537 : Box drawings up light and horizontal heavy
-2538 : Box drawings up heavy and horizontal light
-2539 : Box drawings right light and left up heavy
-253A : Box drawings left light and right up heavy
-253B : Box drawings heavy up and horizontal
-253C : Box drawings light vertical and horizontal
-253D : Box drawings left heavy and right vertical light
-253E : Box drawings right heavy and left vertical light
-253F : Box drawings vertical light and horizontal heavy
-2540 : Box drawings up heavy and down horizontal light
-2541 : Box drawings down heavy and up horizontal light
-2542 : Box drawings vertical heavy and horizontal light
-2543 : Box drawings left up heavy and right down light
-2544 : Box drawings right up heavy and left down light
-2545 : Box drawings left down heavy and right up light
-2546 : Box drawings right down heavy and left up light
-2547 : Box drawings down light and up horizontal heavy
-2548 : Box drawings up light and down horizontal heavy
-2549 : Box drawings right light and left vertical heavy
-254A : Box drawings left light and right vertical heavy
-254B : Box drawings heavy vertical and horizontal
-254C : Box drawings light double dash horizontal
-254D : Box drawings heavy double dash horizontal
-254E : Box drawings light double dash vertical
-254F : Box drawings heavy double dash vertical
-2550 : Box drawings double horizontal
-2551 : Box drawings double vertical
-2552 : Box drawings down single and right double
-2553 : Box drawings down double and right single
-2554 : Box drawings double down and right
-2555 : Box drawings down single and left double
-2556 : Box drawings down double and left single
-2557 : Box drawings double down and left
-2558 : Box drawings up single and right double
-2559 : Box drawings up double and right single
-255A : Box drawings double up and right
-255B : Box drawings up single and left double
-255C : Box drawings up double and left single
-255D : Box drawings double up and left
-255E : Box drawings vertical single and right double
-255F : Box drawings vertical double and right single
-2560 : Box drawings double vertical and right
-2561 : Box drawings vertical single and left double
-2562 : Box drawings vertical double and left single
-2563 : Box drawings double vertical and left
-2564 : Box drawings down single and horizontal double
-2565 : Box drawings down double and horizontal single
-2566 : Box drawings double down and horizontal
-2567 : Box drawings up single and horizontal double
-2568 : Box drawings up double and horizontal single
-2569 : Box drawings double up and horizontal
-256A : Box drawings vertical single and horizontal double
-256B : Box drawings vertical double and horizontal single
-256C : Box drawings double vertical and horizontal
-256D : Box drawings light arc down and right
-256E : Box drawings light arc down and left
-256F : Box drawings light arc up and left
-2570 : Box drawings light arc up and right
-2571 : Box drawings light diagonal upper right to lower left
-2572 : Box drawings light diagonal upper left to lower right
-2573 : Box drawings light diagonal cross
-2574 : Box drawings light left
-2575 : Box drawings light up
-2576 : Box drawings light right
-2577 : Box drawings light down
-2578 : Box drawings heavy left
-2579 : Box drawings heavy up
-257A : Box drawings heavy right
-257B : Box drawings heavy down
-257C : Box drawings light left and heavy right
-257D : Box drawings light up and heavy down
-257E : Box drawings heavy left and light right
-257F : Box drawings heavy up and light down
-2580 : Upper half block
-2581 : Lower one eighth block
-2582 : Lower one quarter block
-2583 : Lower three eighths block
-2584 : Lower half block
-2585 : Lower five eighths block
-2586 : Lower three quarters block
-2587 : Lower seven eighths block
-2588 : Full block
-2589 : Left seven eighths block
-258A : Left three quarters block
-258B : Left five eighths block
-258C : Left half block
-258D : Left three eighths block
-258E : Left one quarter block
-258F : Left one eighth block
-2590 : Right half block
-2591 : Light shade
-2592 : Medium shade
-2593 : Dark shade
-2594 : Upper one eighth block
-2595 : Right one eighth block
-2596 : Quadrant lower left
-2597 : Quadrant lower right
-2598 : Quadrant upper left
-2599 : Quadrant upper left and lower left and lower right
-259A : Quadrant upper left and lower right
-259B : Quadrant upper left and upper right and lower left
-259C : Quadrant upper left and upper right and lower right
-259D : Quadrant upper right
-259E : Quadrant upper right and lower left
-259F : Quadrant upper right and lower left and lower right
-25A0 : Black square
-25A1 : White square
-25A2 : White square with rounded corners
-25A3 : White square containing black small square
-25A4 : Square with horizontal fill
-25A5 : Square with vertical fill
-25A6 : Square with orthogonal crosshatch fill
-25A7 : Square with upper left to lower right fill
-25A8 : Square with upper right to lower left fill
-25A9 : Square with diagonal crosshatch fill
-25AA : Black small square
-25AB : White small square
-25AC : Black rectangle
-25AD : White rectangle
-25AE : Black vertical rectangle
-25AF : White vertical rectangle
-25B0 : Black parallelogram
-25B1 : White parallelogram
-25B2 : Black up-pointing triangle
-25B3 : White up-pointing triangle
-25B4 : Black up-pointing small triangle
-25B5 : White up-pointing small triangle
-25B6 : Black right-pointing triangle
-25B7 : White right-pointing triangle
-25B8 : Black right-pointing small triangle
-25B9 : White right-pointing small triangle
-25BA : Black right-pointing pointer
-25BB : White right-pointing pointer
-25BC : Black down-pointing triangle
-25BD : White down-pointing triangle
-25BE : Black down-pointing small triangle
-25BF : White down-pointing small triangle
-25C0 : Black left-pointing triangle
-25C1 : White left-pointing triangle
-25C2 : Black left-pointing small triangle
-25C3 : White left-pointing small triangle
-25C4 : Black left-pointing pointer
-25C5 : White left-pointing pointer
-25C6 : Black diamond
-25C7 : White diamond
-25C8 : White diamond containing black small diamond
-25C9 : Fisheye
-25CA : Lozenge
-25CB : White circle
-25CC : Dotted circle
-25CD : Circle with vertical fill
-25CE : Bullseye
-25CF : Black circle
-25D0 : Circle with left half black
-25D1 : Circle with right half black
-25D2 : Circle with lower half black
-25D3 : Circle with upper half black
-25D4 : Circle with upper right quadrant black
-25D5 : Circle with all but upper left quadrant black
-25D6 : Left half black circle
-25D7 : Right half black circle
-25D8 : Inverse bullet
-25D9 : Inverse white circle
-25DA : Upper half inverse white circle
-25DB : Lower half inverse white circle
-25DC : Upper left quadrant circular arc
-25DD : Upper right quadrant circular arc
-25DE : Lower right quadrant circular arc
-25DF : Lower left quadrant circular arc
-25E0 : Upper half circle
-25E1 : Lower half circle
-25E2 : Black lower right triangle
-25E3 : Black lower left triangle
-25E4 : Black upper left triangle
-25E5 : Black upper right triangle
-25E6 : White bullet
-25E7 : Square with left half black
-25E8 : Square with right half black
-25E9 : Square with upper left diagonal half black
-25EA : Square with lower right diagonal half black
-25EB : White square with vertical bisecting line
-25EC : White up-pointing triangle with dot
-25ED : Up-pointing triangle with left half black
-25EE : Up-pointing triangle with right half black
-25EF : Large circle
-25F0 : White square with upper left quadrant
-25F1 : White square with lower left quadrant
-25F2 : White square with lower right quadrant
-25F3 : White square with upper right quadrant
-25F4 : White circle with upper left quadrant
-25F5 : White circle with lower left quadrant
-25F6 : White circle with lower right quadrant
-25F7 : White circle with upper right quadrant
-25F8 : Upper left triangle
-25F9 : Upper right triangle
-25FA : Lower left triangle
-25FB : White medium square
-25FC : Black medium square
-25FD : White medium small square
-25FE : Black medium small square
-25FF : Lower right triangle
+2500: Box drawings light horizontal
+2501: Box drawings heavy horizontal
+2502: Box drawings light vertical
+2503: Box drawings heavy vertical
+2504: Box drawings light triple dash horizontal
+2505: Box drawings heavy triple dash horizontal
+2506: Box drawings light triple dash vertical
+2507: Box drawings heavy triple dash vertical
+2508: Box drawings light quadruple dash horizontal
+2509: Box drawings heavy quadruple dash horizontal
+250A: Box drawings light quadruple dash vertical
+250B: Box drawings heavy quadruple dash vertical
+250C: Box drawings light down and right
+250D: Box drawings down light and right heavy
+250E: Box drawings down heavy and right light
+250F: Box drawings heavy down and right
+2510: Box drawings light down and left
+2511: Box drawings down light and left heavy
+2512: Box drawings down heavy and left light
+2513: Box drawings heavy down and left
+2514: Box drawings light up and right
+2515: Box drawings up light and right heavy
+2516: Box drawings up heavy and right light
+2517: Box drawings heavy up and right
+2518: Box drawings light up and left
+2519: Box drawings up light and left heavy
+251A: Box drawings up heavy and left light
+251B: Box drawings heavy up and left
+251C: Box drawings light vertical and right
+251D: Box drawings vertical light and right heavy
+251E: Box drawings up heavy and right down light
+251F: Box drawings down heavy and right up light
+2520: Box drawings vertical heavy and right light
+2521: Box drawings down light and right up heavy
+2522: Box drawings up light and right down heavy
+2523: Box drawings heavy vertical and right
+2524: Box drawings light vertical and left
+2525: Box drawings vertical light and left heavy
+2526: Box drawings up heavy and left down light
+2527: Box drawings down heavy and left up light
+2528: Box drawings vertical heavy and left light
+2529: Box drawings down light and left up heavy
+252A: Box drawings up light and left down heavy
+252B: Box drawings heavy vertical and left
+252C: Box drawings light down and horizontal
+252D: Box drawings left heavy and right down light
+252E: Box drawings right heavy and left down light
+252F: Box drawings down light and horizontal heavy
+2530: Box drawings down heavy and horizontal light
+2531: Box drawings right light and left down heavy
+2532: Box drawings left light and right down heavy
+2533: Box drawings heavy down and horizontal
+2534: Box drawings light up and horizontal
+2535: Box drawings left heavy and right up light
+2536: Box drawings right heavy and left up light
+2537: Box drawings up light and horizontal heavy
+2538: Box drawings up heavy and horizontal light
+2539: Box drawings right light and left up heavy
+253A: Box drawings left light and right up heavy
+253B: Box drawings heavy up and horizontal
+253C: Box drawings light vertical and horizontal
+253D: Box drawings left heavy and right vertical light
+253E: Box drawings right heavy and left vertical light
+253F: Box drawings vertical light and horizontal heavy
+2540: Box drawings up heavy and down horizontal light
+2541: Box drawings down heavy and up horizontal light
+2542: Box drawings vertical heavy and horizontal light
+2543: Box drawings left up heavy and right down light
+2544: Box drawings right up heavy and left down light
+2545: Box drawings left down heavy and right up light
+2546: Box drawings right down heavy and left up light
+2547: Box drawings down light and up horizontal heavy
+2548: Box drawings up light and down horizontal heavy
+2549: Box drawings right light and left vertical heavy
+254A: Box drawings left light and right vertical heavy
+254B: Box drawings heavy vertical and horizontal
+254C: Box drawings light double dash horizontal
+254D: Box drawings heavy double dash horizontal
+254E: Box drawings light double dash vertical
+254F: Box drawings heavy double dash vertical
+2550: Box drawings double horizontal
+2551: Box drawings double vertical
+2552: Box drawings down single and right double
+2553: Box drawings down double and right single
+2554: Box drawings double down and right
+2555: Box drawings down single and left double
+2556: Box drawings down double and left single
+2557: Box drawings double down and left
+2558: Box drawings up single and right double
+2559: Box drawings up double and right single
+255A: Box drawings double up and right
+255B: Box drawings up single and left double
+255C: Box drawings up double and left single
+255D: Box drawings double up and left
+255E: Box drawings vertical single and right double
+255F: Box drawings vertical double and right single
+2560: Box drawings double vertical and right
+2561: Box drawings vertical single and left double
+2562: Box drawings vertical double and left single
+2563: Box drawings double vertical and left
+2564: Box drawings down single and horizontal double
+2565: Box drawings down double and horizontal single
+2566: Box drawings double down and horizontal
+2567: Box drawings up single and horizontal double
+2568: Box drawings up double and horizontal single
+2569: Box drawings double up and horizontal
+256A: Box drawings vertical single and horizontal double
+256B: Box drawings vertical double and horizontal single
+256C: Box drawings double vertical and horizontal
+256D: Box drawings light arc down and right
+256E: Box drawings light arc down and left
+256F: Box drawings light arc up and left
+2570: Box drawings light arc up and right
+2571: Box drawings light diagonal upper right to lower left
+2572: Box drawings light diagonal upper left to lower right
+2573: Box drawings light diagonal cross
+2574: Box drawings light left
+2575: Box drawings light up
+2576: Box drawings light right
+2577: Box drawings light down
+2578: Box drawings heavy left
+2579: Box drawings heavy up
+257A: Box drawings heavy right
+257B: Box drawings heavy down
+257C: Box drawings light left and heavy right
+257D: Box drawings light up and heavy down
+257E: Box drawings heavy left and light right
+257F: Box drawings heavy up and light down
+2580: Upper half block
+2581: Lower one eighth block
+2582: Lower one quarter block
+2583: Lower three eighths block
+2584: Lower half block
+2585: Lower five eighths block
+2586: Lower three quarters block
+2587: Lower seven eighths block
+2588: Full block
+2589: Left seven eighths block
+258A: Left three quarters block
+258B: Left five eighths block
+258C: Left half block
+258D: Left three eighths block
+258E: Left one quarter block
+258F: Left one eighth block
+2590: Right half block
+2591: Light shade
+2592: Medium shade
+2593: Dark shade
+2594: Upper one eighth block
+2595: Right one eighth block
+2596: Quadrant lower left
+2597: Quadrant lower right
+2598: Quadrant upper left
+2599: Quadrant upper left and lower left and lower right
+259A: Quadrant upper left and lower right
+259B: Quadrant upper left and upper right and lower left
+259C: Quadrant upper left and upper right and lower right
+259D: Quadrant upper right
+259E: Quadrant upper right and lower left
+259F: Quadrant upper right and lower left and lower right
+25A0: Black square
+25A1: White square
+25A2: White square with rounded corners
+25A3: White square containing black small square
+25A4: Square with horizontal fill
+25A5: Square with vertical fill
+25A6: Square with orthogonal crosshatch fill
+25A7: Square with upper left to lower right fill
+25A8: Square with upper right to lower left fill
+25A9: Square with diagonal crosshatch fill
+25AA: Black small square
+25AB: White small square
+25AC: Black rectangle
+25AD: White rectangle
+25AE: Black vertical rectangle
+25AF: White vertical rectangle
+25B0: Black parallelogram
+25B1: White parallelogram
+25B2: Black up-pointing triangle
+25B3: White up-pointing triangle
+25B4: Black up-pointing small triangle
+25B5: White up-pointing small triangle
+25B6: Black right-pointing triangle
+25B7: White right-pointing triangle
+25B8: Black right-pointing small triangle
+25B9: White right-pointing small triangle
+25BA: Black right-pointing pointer
+25BB: White right-pointing pointer
+25BC: Black down-pointing triangle
+25BD: White down-pointing triangle
+25BE: Black down-pointing small triangle
+25BF: White down-pointing small triangle
+25C0: Black left-pointing triangle
+25C1: White left-pointing triangle
+25C2: Black left-pointing small triangle
+25C3: White left-pointing small triangle
+25C4: Black left-pointing pointer
+25C5: White left-pointing pointer
+25C6: Black diamond
+25C7: White diamond
+25C8: White diamond containing black small diamond
+25C9: Fisheye
+25CA: Lozenge
+25CB: White circle
+25CC: Dotted circle
+25CD: Circle with vertical fill
+25CE: Bullseye
+25CF: Black circle
+25D0: Circle with left half black
+25D1: Circle with right half black
+25D2: Circle with lower half black
+25D3: Circle with upper half black
+25D4: Circle with upper right quadrant black
+25D5: Circle with all but upper left quadrant black
+25D6: Left half black circle
+25D7: Right half black circle
+25D8: Inverse bullet
+25D9: Inverse white circle
+25DA: Upper half inverse white circle
+25DB: Lower half inverse white circle
+25DC: Upper left quadrant circular arc
+25DD: Upper right quadrant circular arc
+25DE: Lower right quadrant circular arc
+25DF: Lower left quadrant circular arc
+25E0: Upper half circle
+25E1: Lower half circle
+25E2: Black lower right triangle
+25E3: Black lower left triangle
+25E4: Black upper left triangle
+25E5: Black upper right triangle
+25E6: White bullet
+25E7: Square with left half black
+25E8: Square with right half black
+25E9: Square with upper left diagonal half black
+25EA: Square with lower right diagonal half black
+25EB: White square with vertical bisecting line
+25EC: White up-pointing triangle with dot
+25ED: Up-pointing triangle with left half black
+25EE: Up-pointing triangle with right half black
+25EF: Large circle
+25F0: White square with upper left quadrant
+25F1: White square with lower left quadrant
+25F2: White square with lower right quadrant
+25F3: White square with upper right quadrant
+25F4: White circle with upper left quadrant
+25F5: White circle with lower left quadrant
+25F6: White circle with lower right quadrant
+25F7: White circle with upper right quadrant
+25F8: Upper left triangle
+25F9: Upper right triangle
+25FA: Lower left triangle
+25FB: White medium square
+25FC: Black medium square
+25FD: White medium small square
+25FE: Black medium small square
+25FF: Lower right triangle

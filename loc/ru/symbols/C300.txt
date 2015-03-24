@@ -1,256 +1,256 @@
-C300 : Слог Хангыль ssal
-C301 : Слог Хангыль ssalg
-C302 : Слог Хангыль ssalm
-C303 : Слог Хангыль ssalb
-C304 : Слог Хангыль ssals
-C305 : Слог Хангыль ssalt
-C306 : Слог Хангыль ssalp
-C307 : Слог Хангыль ssalh
-C308 : Слог Хангыль ssam
-C309 : Слог Хангыль ssab
-C30A : Слог Хангыль ssabs
-C30B : Слог Хангыль ssas
-C30C : Слог Хангыль ssass
-C30D : Слог Хангыль ssang
-C30E : Слог Хангыль ssaj
-C30F : Слог Хангыль ssac
-C310 : Слог Хангыль ssak
-C311 : Слог Хангыль ssat
-C312 : Слог Хангыль ssap
-C313 : Слог Хангыль ssah
-C314 : Слог Хангыль ssae
-C315 : Слог Хангыль ssaeg
-C316 : Слог Хангыль ssaegg
-C317 : Слог Хангыль ssaegs
-C318 : Слог Хангыль ssaen
-C319 : Слог Хангыль ssaenj
-C31A : Слог Хангыль ssaenh
-C31B : Слог Хангыль ssaed
-C31C : Слог Хангыль ssael
-C31D : Слог Хангыль ssaelg
-C31E : Слог Хангыль ssaelm
-C31F : Слог Хангыль ssaelb
-C320 : Слог Хангыль ssaels
-C321 : Слог Хангыль ssaelt
-C322 : Слог Хангыль ssaelp
-C323 : Слог Хангыль ssaelh
-C324 : Слог Хангыль ssaem
-C325 : Слог Хангыль ssaeb
-C326 : Слог Хангыль ssaebs
-C327 : Слог Хангыль ssaes
-C328 : Слог Хангыль ssaess
-C329 : Слог Хангыль ssaeng
-C32A : Слог Хангыль ssaej
-C32B : Слог Хангыль ssaec
-C32C : Слог Хангыль ssaek
-C32D : Слог Хангыль ssaet
-C32E : Слог Хангыль ssaep
-C32F : Слог Хангыль ssaeh
-C330 : Слог Хангыль ssya
-C331 : Слог Хангыль ssyag
-C332 : Слог Хангыль ssyagg
-C333 : Слог Хангыль ssyags
-C334 : Слог Хангыль ssyan
-C335 : Слог Хангыль ssyanj
-C336 : Слог Хангыль ssyanh
-C337 : Слог Хангыль ssyad
-C338 : Слог Хангыль ssyal
-C339 : Слог Хангыль ssyalg
-C33A : Слог Хангыль ssyalm
-C33B : Слог Хангыль ssyalb
-C33C : Слог Хангыль ssyals
-C33D : Слог Хангыль ssyalt
-C33E : Слог Хангыль ssyalp
-C33F : Слог Хангыль ssyalh
-C340 : Слог Хангыль ssyam
-C341 : Слог Хангыль ssyab
-C342 : Слог Хангыль ssyabs
-C343 : Слог Хангыль ssyas
-C344 : Слог Хангыль ssyass
-C345 : Слог Хангыль ssyang
-C346 : Слог Хангыль ssyaj
-C347 : Слог Хангыль ssyac
-C348 : Слог Хангыль ssyak
-C349 : Слог Хангыль ssyat
-C34A : Слог Хангыль ssyap
-C34B : Слог Хангыль ssyah
-C34C : Слог Хангыль ssyae
-C34D : Слог Хангыль ssyaeg
-C34E : Слог Хангыль ssyaegg
-C34F : Слог Хангыль ssyaegs
-C350 : Слог Хангыль ssyaen
-C351 : Слог Хангыль ssyaenj
-C352 : Слог Хангыль ssyaenh
-C353 : Слог Хангыль ssyaed
-C354 : Слог Хангыль ssyael
-C355 : Слог Хангыль ssyaelg
-C356 : Слог Хангыль ssyaelm
-C357 : Слог Хангыль ssyaelb
-C358 : Слог Хангыль ssyaels
-C359 : Слог Хангыль ssyaelt
-C35A : Слог Хангыль ssyaelp
-C35B : Слог Хангыль ssyaelh
-C35C : Слог Хангыль ssyaem
-C35D : Слог Хангыль ssyaeb
-C35E : Слог Хангыль ssyaebs
-C35F : Слог Хангыль ssyaes
-C360 : Слог Хангыль ssyaess
-C361 : Слог Хангыль ssyaeng
-C362 : Слог Хангыль ssyaej
-C363 : Слог Хангыль ssyaec
-C364 : Слог Хангыль ssyaek
-C365 : Слог Хангыль ssyaet
-C366 : Слог Хангыль ssyaep
-C367 : Слог Хангыль ssyaeh
-C368 : Слог Хангыль sseo
-C369 : Слог Хангыль sseog
-C36A : Слог Хангыль sseogg
-C36B : Слог Хангыль sseogs
-C36C : Слог Хангыль sseon
-C36D : Слог Хангыль sseonj
-C36E : Слог Хангыль sseonh
-C36F : Слог Хангыль sseod
-C370 : Слог Хангыль sseol
-C371 : Слог Хангыль sseolg
-C372 : Слог Хангыль sseolm
-C373 : Слог Хангыль sseolb
-C374 : Слог Хангыль sseols
-C375 : Слог Хангыль sseolt
-C376 : Слог Хангыль sseolp
-C377 : Слог Хангыль sseolh
-C378 : Слог Хангыль sseom
-C379 : Слог Хангыль sseob
-C37A : Слог Хангыль sseobs
-C37B : Слог Хангыль sseos
-C37C : Слог Хангыль sseoss
-C37D : Слог Хангыль sseong
-C37E : Слог Хангыль sseoj
-C37F : Слог Хангыль sseoc
-C380 : Слог Хангыль sseok
-C381 : Слог Хангыль sseot
-C382 : Слог Хангыль sseop
-C383 : Слог Хангыль sseoh
-C384 : Слог Хангыль sse
-C385 : Слог Хангыль sseg
-C386 : Слог Хангыль ssegg
-C387 : Слог Хангыль ssegs
-C388 : Слог Хангыль ssen
-C389 : Слог Хангыль ssenj
-C38A : Слог Хангыль ssenh
-C38B : Слог Хангыль ssed
-C38C : Слог Хангыль ssel
-C38D : Слог Хангыль sselg
-C38E : Слог Хангыль sselm
-C38F : Слог Хангыль sselb
-C390 : Слог Хангыль ssels
-C391 : Слог Хангыль sselt
-C392 : Слог Хангыль sselp
-C393 : Слог Хангыль sselh
-C394 : Слог Хангыль ssem
-C395 : Слог Хангыль sseb
-C396 : Слог Хангыль ssebs
-C397 : Слог Хангыль sses
-C398 : Слог Хангыль ssess
-C399 : Слог Хангыль sseng
-C39A : Слог Хангыль ssej
-C39B : Слог Хангыль ssec
-C39C : Слог Хангыль ssek
-C39D : Слог Хангыль sset
-C39E : Слог Хангыль ssep
-C39F : Слог Хангыль sseh
-C3A0 : Слог Хангыль ssyeo
-C3A1 : Слог Хангыль ssyeog
-C3A2 : Слог Хангыль ssyeogg
-C3A3 : Слог Хангыль ssyeogs
-C3A4 : Слог Хангыль ssyeon
-C3A5 : Слог Хангыль ssyeonj
-C3A6 : Слог Хангыль ssyeonh
-C3A7 : Слог Хангыль ssyeod
-C3A8 : Слог Хангыль ssyeol
-C3A9 : Слог Хангыль ssyeolg
-C3AA : Слог Хангыль ssyeolm
-C3AB : Слог Хангыль ssyeolb
-C3AC : Слог Хангыль ssyeols
-C3AD : Слог Хангыль ssyeolt
-C3AE : Слог Хангыль ssyeolp
-C3AF : Слог Хангыль ssyeolh
-C3B0 : Слог Хангыль ssyeom
-C3B1 : Слог Хангыль ssyeob
-C3B2 : Слог Хангыль ssyeobs
-C3B3 : Слог Хангыль ssyeos
-C3B4 : Слог Хангыль ssyeoss
-C3B5 : Слог Хангыль ssyeong
-C3B6 : Слог Хангыль ssyeoj
-C3B7 : Слог Хангыль ssyeoc
-C3B8 : Слог Хангыль ssyeok
-C3B9 : Слог Хангыль ssyeot
-C3BA : Слог Хангыль ssyeop
-C3BB : Слог Хангыль ssyeoh
-C3BC : Слог Хангыль ssye
-C3BD : Слог Хангыль ssyeg
-C3BE : Слог Хангыль ssyegg
-C3BF : Слог Хангыль ssyegs
-C3C0 : Слог Хангыль ssyen
-C3C1 : Слог Хангыль ssyenj
-C3C2 : Слог Хангыль ssyenh
-C3C3 : Слог Хангыль ssyed
-C3C4 : Слог Хангыль ssyel
-C3C5 : Слог Хангыль ssyelg
-C3C6 : Слог Хангыль ssyelm
-C3C7 : Слог Хангыль ssyelb
-C3C8 : Слог Хангыль ssyels
-C3C9 : Слог Хангыль ssyelt
-C3CA : Слог Хангыль ssyelp
-C3CB : Слог Хангыль ssyelh
-C3CC : Слог Хангыль ssyem
-C3CD : Слог Хангыль ssyeb
-C3CE : Слог Хангыль ssyebs
-C3CF : Слог Хангыль ssyes
-C3D0 : Слог Хангыль ssyess
-C3D1 : Слог Хангыль ssyeng
-C3D2 : Слог Хангыль ssyej
-C3D3 : Слог Хангыль ssyec
-C3D4 : Слог Хангыль ssyek
-C3D5 : Слог Хангыль ssyet
-C3D6 : Слог Хангыль ssyep
-C3D7 : Слог Хангыль ssyeh
-C3D8 : Слог Хангыль sso
-C3D9 : Слог Хангыль ssog
-C3DA : Слог Хангыль ssogg
-C3DB : Слог Хангыль ssogs
-C3DC : Слог Хангыль sson
-C3DD : Слог Хангыль ssonj
-C3DE : Слог Хангыль ssonh
-C3DF : Слог Хангыль ssod
-C3E0 : Слог Хангыль ssol
-C3E1 : Слог Хангыль ssolg
-C3E2 : Слог Хангыль ssolm
-C3E3 : Слог Хангыль ssolb
-C3E4 : Слог Хангыль ssols
-C3E5 : Слог Хангыль ssolt
-C3E6 : Слог Хангыль ssolp
-C3E7 : Слог Хангыль ssolh
-C3E8 : Слог Хангыль ssom
-C3E9 : Слог Хангыль ssob
-C3EA : Слог Хангыль ssobs
-C3EB : Слог Хангыль ssos
-C3EC : Слог Хангыль ssoss
-C3ED : Слог Хангыль ssong
-C3EE : Слог Хангыль ssoj
-C3EF : Слог Хангыль ssoc
-C3F0 : Слог Хангыль ssok
-C3F1 : Слог Хангыль ssot
-C3F2 : Слог Хангыль ssop
-C3F3 : Слог Хангыль ssoh
-C3F4 : Слог Хангыль sswa
-C3F5 : Слог Хангыль sswag
-C3F6 : Слог Хангыль sswagg
-C3F7 : Слог Хангыль sswags
-C3F8 : Слог Хангыль sswan
-C3F9 : Слог Хангыль sswanj
-C3FA : Слог Хангыль sswanh
-C3FB : Слог Хангыль sswad
-C3FC : Слог Хангыль sswal
-C3FD : Слог Хангыль sswalg
-C3FE : Слог Хангыль sswalm
-C3FF : Слог Хангыль sswalb
+C300: Слог Хангыль ssal
+C301: Слог Хангыль ssalg
+C302: Слог Хангыль ssalm
+C303: Слог Хангыль ssalb
+C304: Слог Хангыль ssals
+C305: Слог Хангыль ssalt
+C306: Слог Хангыль ssalp
+C307: Слог Хангыль ssalh
+C308: Слог Хангыль ssam
+C309: Слог Хангыль ssab
+C30A: Слог Хангыль ssabs
+C30B: Слог Хангыль ssas
+C30C: Слог Хангыль ssass
+C30D: Слог Хангыль ssang
+C30E: Слог Хангыль ssaj
+C30F: Слог Хангыль ssac
+C310: Слог Хангыль ssak
+C311: Слог Хангыль ssat
+C312: Слог Хангыль ssap
+C313: Слог Хангыль ssah
+C314: Слог Хангыль ssae
+C315: Слог Хангыль ssaeg
+C316: Слог Хангыль ssaegg
+C317: Слог Хангыль ssaegs
+C318: Слог Хангыль ssaen
+C319: Слог Хангыль ssaenj
+C31A: Слог Хангыль ssaenh
+C31B: Слог Хангыль ssaed
+C31C: Слог Хангыль ssael
+C31D: Слог Хангыль ssaelg
+C31E: Слог Хангыль ssaelm
+C31F: Слог Хангыль ssaelb
+C320: Слог Хангыль ssaels
+C321: Слог Хангыль ssaelt
+C322: Слог Хангыль ssaelp
+C323: Слог Хангыль ssaelh
+C324: Слог Хангыль ssaem
+C325: Слог Хангыль ssaeb
+C326: Слог Хангыль ssaebs
+C327: Слог Хангыль ssaes
+C328: Слог Хангыль ssaess
+C329: Слог Хангыль ssaeng
+C32A: Слог Хангыль ssaej
+C32B: Слог Хангыль ssaec
+C32C: Слог Хангыль ssaek
+C32D: Слог Хангыль ssaet
+C32E: Слог Хангыль ssaep
+C32F: Слог Хангыль ssaeh
+C330: Слог Хангыль ssya
+C331: Слог Хангыль ssyag
+C332: Слог Хангыль ssyagg
+C333: Слог Хангыль ssyags
+C334: Слог Хангыль ssyan
+C335: Слог Хангыль ssyanj
+C336: Слог Хангыль ssyanh
+C337: Слог Хангыль ssyad
+C338: Слог Хангыль ssyal
+C339: Слог Хангыль ssyalg
+C33A: Слог Хангыль ssyalm
+C33B: Слог Хангыль ssyalb
+C33C: Слог Хангыль ssyals
+C33D: Слог Хангыль ssyalt
+C33E: Слог Хангыль ssyalp
+C33F: Слог Хангыль ssyalh
+C340: Слог Хангыль ssyam
+C341: Слог Хангыль ssyab
+C342: Слог Хангыль ssyabs
+C343: Слог Хангыль ssyas
+C344: Слог Хангыль ssyass
+C345: Слог Хангыль ssyang
+C346: Слог Хангыль ssyaj
+C347: Слог Хангыль ssyac
+C348: Слог Хангыль ssyak
+C349: Слог Хангыль ssyat
+C34A: Слог Хангыль ssyap
+C34B: Слог Хангыль ssyah
+C34C: Слог Хангыль ssyae
+C34D: Слог Хангыль ssyaeg
+C34E: Слог Хангыль ssyaegg
+C34F: Слог Хангыль ssyaegs
+C350: Слог Хангыль ssyaen
+C351: Слог Хангыль ssyaenj
+C352: Слог Хангыль ssyaenh
+C353: Слог Хангыль ssyaed
+C354: Слог Хангыль ssyael
+C355: Слог Хангыль ssyaelg
+C356: Слог Хангыль ssyaelm
+C357: Слог Хангыль ssyaelb
+C358: Слог Хангыль ssyaels
+C359: Слог Хангыль ssyaelt
+C35A: Слог Хангыль ssyaelp
+C35B: Слог Хангыль ssyaelh
+C35C: Слог Хангыль ssyaem
+C35D: Слог Хангыль ssyaeb
+C35E: Слог Хангыль ssyaebs
+C35F: Слог Хангыль ssyaes
+C360: Слог Хангыль ssyaess
+C361: Слог Хангыль ssyaeng
+C362: Слог Хангыль ssyaej
+C363: Слог Хангыль ssyaec
+C364: Слог Хангыль ssyaek
+C365: Слог Хангыль ssyaet
+C366: Слог Хангыль ssyaep
+C367: Слог Хангыль ssyaeh
+C368: Слог Хангыль sseo
+C369: Слог Хангыль sseog
+C36A: Слог Хангыль sseogg
+C36B: Слог Хангыль sseogs
+C36C: Слог Хангыль sseon
+C36D: Слог Хангыль sseonj
+C36E: Слог Хангыль sseonh
+C36F: Слог Хангыль sseod
+C370: Слог Хангыль sseol
+C371: Слог Хангыль sseolg
+C372: Слог Хангыль sseolm
+C373: Слог Хангыль sseolb
+C374: Слог Хангыль sseols
+C375: Слог Хангыль sseolt
+C376: Слог Хангыль sseolp
+C377: Слог Хангыль sseolh
+C378: Слог Хангыль sseom
+C379: Слог Хангыль sseob
+C37A: Слог Хангыль sseobs
+C37B: Слог Хангыль sseos
+C37C: Слог Хангыль sseoss
+C37D: Слог Хангыль sseong
+C37E: Слог Хангыль sseoj
+C37F: Слог Хангыль sseoc
+C380: Слог Хангыль sseok
+C381: Слог Хангыль sseot
+C382: Слог Хангыль sseop
+C383: Слог Хангыль sseoh
+C384: Слог Хангыль sse
+C385: Слог Хангыль sseg
+C386: Слог Хангыль ssegg
+C387: Слог Хангыль ssegs
+C388: Слог Хангыль ssen
+C389: Слог Хангыль ssenj
+C38A: Слог Хангыль ssenh
+C38B: Слог Хангыль ssed
+C38C: Слог Хангыль ssel
+C38D: Слог Хангыль sselg
+C38E: Слог Хангыль sselm
+C38F: Слог Хангыль sselb
+C390: Слог Хангыль ssels
+C391: Слог Хангыль sselt
+C392: Слог Хангыль sselp
+C393: Слог Хангыль sselh
+C394: Слог Хангыль ssem
+C395: Слог Хангыль sseb
+C396: Слог Хангыль ssebs
+C397: Слог Хангыль sses
+C398: Слог Хангыль ssess
+C399: Слог Хангыль sseng
+C39A: Слог Хангыль ssej
+C39B: Слог Хангыль ssec
+C39C: Слог Хангыль ssek
+C39D: Слог Хангыль sset
+C39E: Слог Хангыль ssep
+C39F: Слог Хангыль sseh
+C3A0: Слог Хангыль ssyeo
+C3A1: Слог Хангыль ssyeog
+C3A2: Слог Хангыль ssyeogg
+C3A3: Слог Хангыль ssyeogs
+C3A4: Слог Хангыль ssyeon
+C3A5: Слог Хангыль ssyeonj
+C3A6: Слог Хангыль ssyeonh
+C3A7: Слог Хангыль ssyeod
+C3A8: Слог Хангыль ssyeol
+C3A9: Слог Хангыль ssyeolg
+C3AA: Слог Хангыль ssyeolm
+C3AB: Слог Хангыль ssyeolb
+C3AC: Слог Хангыль ssyeols
+C3AD: Слог Хангыль ssyeolt
+C3AE: Слог Хангыль ssyeolp
+C3AF: Слог Хангыль ssyeolh
+C3B0: Слог Хангыль ssyeom
+C3B1: Слог Хангыль ssyeob
+C3B2: Слог Хангыль ssyeobs
+C3B3: Слог Хангыль ssyeos
+C3B4: Слог Хангыль ssyeoss
+C3B5: Слог Хангыль ssyeong
+C3B6: Слог Хангыль ssyeoj
+C3B7: Слог Хангыль ssyeoc
+C3B8: Слог Хангыль ssyeok
+C3B9: Слог Хангыль ssyeot
+C3BA: Слог Хангыль ssyeop
+C3BB: Слог Хангыль ssyeoh
+C3BC: Слог Хангыль ssye
+C3BD: Слог Хангыль ssyeg
+C3BE: Слог Хангыль ssyegg
+C3BF: Слог Хангыль ssyegs
+C3C0: Слог Хангыль ssyen
+C3C1: Слог Хангыль ssyenj
+C3C2: Слог Хангыль ssyenh
+C3C3: Слог Хангыль ssyed
+C3C4: Слог Хангыль ssyel
+C3C5: Слог Хангыль ssyelg
+C3C6: Слог Хангыль ssyelm
+C3C7: Слог Хангыль ssyelb
+C3C8: Слог Хангыль ssyels
+C3C9: Слог Хангыль ssyelt
+C3CA: Слог Хангыль ssyelp
+C3CB: Слог Хангыль ssyelh
+C3CC: Слог Хангыль ssyem
+C3CD: Слог Хангыль ssyeb
+C3CE: Слог Хангыль ssyebs
+C3CF: Слог Хангыль ssyes
+C3D0: Слог Хангыль ssyess
+C3D1: Слог Хангыль ssyeng
+C3D2: Слог Хангыль ssyej
+C3D3: Слог Хангыль ssyec
+C3D4: Слог Хангыль ssyek
+C3D5: Слог Хангыль ssyet
+C3D6: Слог Хангыль ssyep
+C3D7: Слог Хангыль ssyeh
+C3D8: Слог Хангыль sso
+C3D9: Слог Хангыль ssog
+C3DA: Слог Хангыль ssogg
+C3DB: Слог Хангыль ssogs
+C3DC: Слог Хангыль sson
+C3DD: Слог Хангыль ssonj
+C3DE: Слог Хангыль ssonh
+C3DF: Слог Хангыль ssod
+C3E0: Слог Хангыль ssol
+C3E1: Слог Хангыль ssolg
+C3E2: Слог Хангыль ssolm
+C3E3: Слог Хангыль ssolb
+C3E4: Слог Хангыль ssols
+C3E5: Слог Хангыль ssolt
+C3E6: Слог Хангыль ssolp
+C3E7: Слог Хангыль ssolh
+C3E8: Слог Хангыль ssom
+C3E9: Слог Хангыль ssob
+C3EA: Слог Хангыль ssobs
+C3EB: Слог Хангыль ssos
+C3EC: Слог Хангыль ssoss
+C3ED: Слог Хангыль ssong
+C3EE: Слог Хангыль ssoj
+C3EF: Слог Хангыль ssoc
+C3F0: Слог Хангыль ssok
+C3F1: Слог Хангыль ssot
+C3F2: Слог Хангыль ssop
+C3F3: Слог Хангыль ssoh
+C3F4: Слог Хангыль sswa
+C3F5: Слог Хангыль sswag
+C3F6: Слог Хангыль sswagg
+C3F7: Слог Хангыль sswags
+C3F8: Слог Хангыль sswan
+C3F9: Слог Хангыль sswanj
+C3FA: Слог Хангыль sswanh
+C3FB: Слог Хангыль sswad
+C3FC: Слог Хангыль sswal
+C3FD: Слог Хангыль sswalg
+C3FE: Слог Хангыль sswalm
+C3FF: Слог Хангыль sswalb

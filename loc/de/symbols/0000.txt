@@ -1,256 +1,256 @@
-0000 : Nullzeichen
-0001 : Überschriftanfang
-0002 : Textanfang
-0003 : Textende
-0004 : Übertragungsende
-0005 : Abfrage
-0006 : Bestätigung
-0007 : Signalton
-0008 : Rücktaste
-0009 : Horizontal Tabulator
-000A : Zeilenvorschub
-000B : Vertikaler Tabulator
-000C : Seitenumbruch
-000D : Zeilenumbruch
-000E : Umschalttaste aus
-000F : Umschalttaste ein
-0010 : Datenübertragungsumschaltung
-0011 : Gerätesteuerung 1
-0012 : Gerätesteuerung 2
-0013 : Gerätesteuerung 3
-0014 : Gerätesteuerung 4
-0015 : Ablehnung
-0016 : Synchronleerlauf
-0017 : Übertragungsblockende
-0018 : Abbruch
-0019 : Medienende
-001A : Ersatz
-001B : Escape
-001C : Dateitrennzeichen
-001D : Gruppentrennzeichen
-001E : Datensatztrennzeichen
-001F : Einheitentrennzeichen
-0020 : Leerzeichen
-0021 : Ausrufezeichen
-0022 : Anführungszeichen
-0023 : Doppelkreuz
-0024 : Dollarzeichen
-0025 : Prozentzeichen
-0026 : Et-Zeichen
-0027 : Apostroph
-0028 : Runde Klammer links
-0029 : Runde Klammer rechts
-002A : Sternchen
-002B : Pluszeichen
-002C : Komma
-002D : Bindestrich-Minuszeichen
-002E : Punkt
-002F : Schrägstrich
-0030 : Ziffer Null
-0031 : Ziffer Eins
-0032 : Ziffer Zwei
-0033 : Ziffer Drei
-0034 : Ziffer Vier
-0035 : Ziffer Fünf
-0036 : Ziffer Sechs
-0037 : Ziffer Sieben
-0038 : Ziffer Acht
-0039 : Ziffer Neun
-003A : Doppelpunkt
-003B : Semikolon
-003C : Kleiner-als-Zeichen
-003D : Gleichheitszeichen
-003E : Größer-als-Zeichen
-003F : Fragezeichen
-0040 : At-Zeichen
-0041 : Lateinischer Großbuchstabe A
-0042 : Lateinischer Großbuchstabe B
-0043 : Lateinischer Großbuchstabe C
-0044 : Lateinischer Großbuchstabe D
-0045 : Lateinischer Großbuchstabe E
-0046 : Lateinischer Großbuchstabe F
-0047 : Lateinischer Großbuchstabe G
-0048 : Lateinischer Großbuchstabe H
-0049 : Lateinischer Großbuchstabe I
-004A : Lateinischer Großbuchstabe J
-004B : Lateinischer Großbuchstabe K
-004C : Lateinischer Großbuchstabe L
-004D : Lateinischer Großbuchstabe M
-004E : Lateinischer Großbuchstabe N
-004F : Lateinischer Großbuchstabe O
-0050 : Lateinischer Großbuchstabe P
-0051 : Lateinischer Großbuchstabe Q
-0052 : Lateinischer Großbuchstabe R
-0053 : Lateinischer Großbuchstabe S
-0054 : Lateinischer Großbuchstabe T
-0055 : Lateinischer Großbuchstabe U
-0056 : Lateinischer Großbuchstabe V
-0057 : Lateinischer Großbuchstabe W
-0058 : Lateinischer Großbuchstabe X
-0059 : Lateinischer Großbuchstabe Y
-005A : Lateinischer Großbuchstabe Z
-005B : Eckige Klammer links
-005C : Umgekehrter Schrägstrich
-005D : Eckige Klammer rechts
-005E : Zirkumflex
-005F : Unterstrich
-0060 : Gravis
-0061 : Lateinischer Kleinbuchstabe a
-0062 : Lateinischer Kleinbuchstabe b
-0063 : Lateinischer Kleinbuchstabe c
-0064 : Lateinischer Kleinbuchstabe d
-0065 : Lateinischer Kleinbuchstabe e
-0066 : Lateinischer Kleinbuchstabe f
-0067 : Lateinischer Kleinbuchstabe g
-0068 : Lateinischer Kleinbuchstabe h
-0069 : Lateinischer Kleinbuchstabe i
-006A : Lateinischer Kleinbuchstabe j
-006B : Lateinischer Kleinbuchstabe k
-006C : Lateinischer Kleinbuchstabe l
-006D : Lateinischer Kleinbuchstabe m
-006E : Lateinischer Kleinbuchstabe n
-006F : Lateinischer Kleinbuchstabe o
-0070 : Lateinischer Kleinbuchstabe p
-0071 : Lateinischer Kleinbuchstabe q
-0072 : Lateinischer Kleinbuchstabe r
-0073 : Lateinischer Kleinbuchstabe s
-0074 : Lateinischer Kleinbuchstabe t
-0075 : Lateinischer Kleinbuchstabe u
-0076 : Lateinischer Kleinbuchstabe v
-0077 : Lateinischer Kleinbuchstabe w
-0078 : Lateinischer Kleinbuchstabe x
-0079 : Lateinischer Kleinbuchstabe y
-007A : Lateinischer Kleinbuchstabe z
-007B : Geschweifte Klammer links
-007C : Senkrechter Strich
-007D : Geschweifte Klammer rechts
-007E : Tilde
-007F : Löschen
-0080 : &lt;control&gt;
-0081 : &lt;control&gt;
-0082 : Zeilenumbruch an dieser Stelle erlaubt
-0083 : Kein Zeilenumbruch an dieser Stelle
-0084 : &lt;control&gt;
-0085 : Nächste Zeile
-0086 : Anfang des ausgewählten Bereichs
-0087 : Ende des ausgewählten Bereichs
-0088 : Zeichentabulierung horizontal setzen
-0089 : Zeichentabulierung mit Ausrichtung
-008A : Zeilentabulierung vertikal setzen
-008B : Teilzeile abwärts
-008C : Teilzeile aufwärts
-008D : Umgekehrter Zeilenvorschub
-008E : Einzelne Umschaltung 2
-008F : Einzelne Umschaltung 3
-0090 : Beginnt eine Zeichenfolge zur Gerätesteuerung
-0091 : Frei verwendbare 1
-0092 : Frei verwendbare 2
-0093 : Set transmit state
-0094 : Cancel character
-0095 : Message waiting
-0096 : Start of guarded area
-0097 : End of guarded area
-0098 : Start of string
-0099 : <control>
-009A : Single character introducer
-009B : Control sequence introducer
-009C : String terminator
-009D : Operating system command
-009E : Privacy message
-009F : Application program command
-00A0 : Geschütztes Leerzeichen
-00A1 : Umgekehrtes Ausrufezeichen
-00A2 : Centzeichen
-00A3 : Pfundzeichen
-00A4 : Allgemeines Währungssymbol
-00A5 : Yenzeichen
-00A6 : Unterbrochener Strich
-00A7 : Paragraphenzeichen
-00A8 : Trema
-00A9 : Copyrightzeichen
-00AA : Ordinal-a, feminines Ordinalzeichen
-00AB : Nach links zeigendes doppeltes spitzes Anführungszeichen
-00AC : Nicht-Zeichen
-00AD : Weiches Trennzeichen
-00AE : Zeichen für ein registriertes Warenzeichen
-00AF : Makron
-00B0 : Gradzeichen
-00B1 : Plusminuszeichen
-00B2 : Hochgestellte Zwei
-00B3 : Hochgestellte Drei
-00B4 : Akut
-00B5 : Mikro-Zeichen
-00B6 : Absatzzeichen
-00B7 : Mittelpunkt
-00B8 : Cedille
-00B9 : Hochgestellte Eins
-00BA : Ordinal-o, maskulines Ordinalzeichen
-00BB : Nach rechts zeigendes doppeltes spitzes Anführungszeichen
-00BC : Gewöhnlicher Bruch ein Viertel
-00BD : Gewöhnlicher Bruch einhalb
-00BE : Gewöhnlicher Bruch drei Viertel
-00BF : Umgekehrtes Fragezeichen
-00C0 : Lateinischer Großbuchstabe A mit Gravis
-00C1 : Lateinischer Großbuchstabe A mit Akut
-00C2 : Lateinischer Großbuchstabe A mit Zirkumflex
-00C3 : Lateinischer Großbuchstabe A mit Tilde
-00C4 : Lateinischer Großbuchstabe A mit Trema
-00C5 : Lateinischer Großbuchstabe A mit Ring
-00C6 : Lateinischer Großbuchstabe AE-Ligatur
-00C7 : Lateinischer Großbuchstabe C mit Cedille
-00C8 : Lateinischer Großbuchstabe E mit Gravis
-00C9 : Lateinischer Großbuchstabe E mit Akut
-00CA : Lateinischer Großbuchstabe E mit Zirkumflex
-00CB : Lateinischer Großbuchstabe E mit Trema
-00CC : Lateinischer Großbuchstabe I mit Gravis
-00CD : Lateinischer Großbuchstabe I mit Akut
-00CE : Lateinischer Großbuchstabe I mit Zirkumflex
-00CF : Lateinischer Großbuchstabe I mit Trema
-00D0 : Lateinischer Großbuchstabe Eth
-00D1 : Lateinischer Großbuchstabe N mit Tilde
-00D2 : Lateinischer Großbuchstabe O mit Gravis
-00D3 : Lateinischer Großbuchstabe O mit Akut
-00D4 : Lateinischer Großbuchstabe O mit Zirkumflex
-00D5 : Lateinischer Großbuchstabe O mit Tilde
-00D6 : Lateinischer Großbuchstabe O mit Trema
-00D7 : Multiplikationskreuz : kreuz
-00D8 : Lateinischer Großbuchstabe durchgestrichenes O
-00D9 : Lateinischer Großbuchstabe U mit Gravis
-00DA : Lateinischer Großbuchstabe U mit Akut
-00DB : Lateinischer Großbuchstabe U mit Zirkumflex
-00DC : Lateinischer Großbuchstabe U mit Trema
-00DD : Lateinischer Großbuchstabe Y mit Akut
-00DE : Lateinischer Großbuchstabe Thorn
-00DF : Lateinischer Kleinbuchstabe Scharfes S
-00E0 : Lateinischer Kleinbuchstabe a mit Gravis
-00E1 : Lateinischer Kleinbuchstabe a mit Akut
-00E2 : Lateinischer Kleinbuchstabe a mit Zirkumflex
-00E3 : Lateinischer Kleinbuchstabe a mit Tilde
-00E4 : Lateinischer Kleinbuchstabe a mit Trema
-00E5 : Lateinischer Kleinbuchstabe a mit Ring
-00E6 : Lateinischer Kleinbuchstabe ae-Ligatur
-00E7 : Lateinischer Kleinbuchstabe c mit Cedille
-00E8 : Lateinischer Kleinbuchstabe e mit Gravis
-00E9 : Lateinischer Kleinbuchstabe e mit Akut
-00EA : Lateinischer Kleinbuchstabe e mit Zirkumflex
-00EB : Lateinischer Kleinbuchstabe e mit Trema
-00EC : Lateinischer Kleinbuchstabe i mit Gravis
-00ED : Lateinischer Kleinbuchstabe i mit Akut
-00EE : Lateinischer Kleinbuchstabe i mit Zirkumflex
-00EF : Lateinischer Kleinbuchstabe i mit Trema
-00F0 : Lateinischer Kleinbuchstabe Eth
-00F1 : Lateinischer Kleinbuchstabe n mit Tilde
-00F2 : Lateinischer Kleinbuchstabe o mit Gravis
-00F3 : Lateinischer Kleinbuchstabe o mit Akut
-00F4 : Lateinischer Kleinbuchstabe o mit Zirkumflex
-00F5 : Lateinischer Kleinbuchstabe o mit Tilde
-00F6 : Lateinischer Kleinbuchstabe o mit Trema
-00F7 : Divisionszeichen
-00F8 : Lateinischer Kleinbuchstabe o mit Strich
-00F9 : Lateinischer Kleinbuchstabe u mit Gravis
-00FA : Lateinischer Kleinbuchstabe u mit Akut
-00FB : Lateinischer Kleinbuchstabe u mit Zirkumflex
-00FC : Lateinischer Kleinbuchstabe u mit Trema
-00FD : Lateinischer Kleinbuchstabe y mit Akut
-00FE : Lateinischer Kleinbuchstabe Thorn
-00FF : Lateinischer Kleinbuchstabe y mit Trema
+0000: Nullzeichen
+0001: Überschriftanfang
+0002: Textanfang
+0003: Textende
+0004: Übertragungsende
+0005: Abfrage
+0006: Bestätigung
+0007: Signalton
+0008: Rücktaste
+0009: Horizontal Tabulator
+000A: Zeilenvorschub
+000B: Vertikaler Tabulator
+000C: Seitenumbruch
+000D: Zeilenumbruch
+000E: Umschalttaste aus
+000F: Umschalttaste ein
+0010: Datenübertragungsumschaltung
+0011: Gerätesteuerung 1
+0012: Gerätesteuerung 2
+0013: Gerätesteuerung 3
+0014: Gerätesteuerung 4
+0015: Ablehnung
+0016: Synchronleerlauf
+0017: Übertragungsblockende
+0018: Abbruch
+0019: Medienende
+001A: Ersatz
+001B: Escape
+001C: Dateitrennzeichen
+001D: Gruppentrennzeichen
+001E: Datensatztrennzeichen
+001F: Einheitentrennzeichen
+0020: Leerzeichen
+0021: Ausrufezeichen
+0022: Anführungszeichen
+0023: Doppelkreuz
+0024: Dollarzeichen
+0025: Prozentzeichen
+0026: Et-Zeichen
+0027: Apostroph
+0028: Runde Klammer links
+0029: Runde Klammer rechts
+002A: Sternchen
+002B: Pluszeichen
+002C: Komma
+002D: Bindestrich-Minuszeichen
+002E: Punkt
+002F: Schrägstrich
+0030: Ziffer Null
+0031: Ziffer Eins
+0032: Ziffer Zwei
+0033: Ziffer Drei
+0034: Ziffer Vier
+0035: Ziffer Fünf
+0036: Ziffer Sechs
+0037: Ziffer Sieben
+0038: Ziffer Acht
+0039: Ziffer Neun
+003A: Doppelpunkt
+003B: Semikolon
+003C: Kleiner-als-Zeichen
+003D: Gleichheitszeichen
+003E: Größer-als-Zeichen
+003F: Fragezeichen
+0040: At-Zeichen
+0041: Lateinischer Großbuchstabe A
+0042: Lateinischer Großbuchstabe B
+0043: Lateinischer Großbuchstabe C
+0044: Lateinischer Großbuchstabe D
+0045: Lateinischer Großbuchstabe E
+0046: Lateinischer Großbuchstabe F
+0047: Lateinischer Großbuchstabe G
+0048: Lateinischer Großbuchstabe H
+0049: Lateinischer Großbuchstabe I
+004A: Lateinischer Großbuchstabe J
+004B: Lateinischer Großbuchstabe K
+004C: Lateinischer Großbuchstabe L
+004D: Lateinischer Großbuchstabe M
+004E: Lateinischer Großbuchstabe N
+004F: Lateinischer Großbuchstabe O
+0050: Lateinischer Großbuchstabe P
+0051: Lateinischer Großbuchstabe Q
+0052: Lateinischer Großbuchstabe R
+0053: Lateinischer Großbuchstabe S
+0054: Lateinischer Großbuchstabe T
+0055: Lateinischer Großbuchstabe U
+0056: Lateinischer Großbuchstabe V
+0057: Lateinischer Großbuchstabe W
+0058: Lateinischer Großbuchstabe X
+0059: Lateinischer Großbuchstabe Y
+005A: Lateinischer Großbuchstabe Z
+005B: Eckige Klammer links
+005C: Umgekehrter Schrägstrich
+005D: Eckige Klammer rechts
+005E: Zirkumflex
+005F: Unterstrich
+0060: Gravis
+0061: Lateinischer Kleinbuchstabe a
+0062: Lateinischer Kleinbuchstabe b
+0063: Lateinischer Kleinbuchstabe c
+0064: Lateinischer Kleinbuchstabe d
+0065: Lateinischer Kleinbuchstabe e
+0066: Lateinischer Kleinbuchstabe f
+0067: Lateinischer Kleinbuchstabe g
+0068: Lateinischer Kleinbuchstabe h
+0069: Lateinischer Kleinbuchstabe i
+006A: Lateinischer Kleinbuchstabe j
+006B: Lateinischer Kleinbuchstabe k
+006C: Lateinischer Kleinbuchstabe l
+006D: Lateinischer Kleinbuchstabe m
+006E: Lateinischer Kleinbuchstabe n
+006F: Lateinischer Kleinbuchstabe o
+0070: Lateinischer Kleinbuchstabe p
+0071: Lateinischer Kleinbuchstabe q
+0072: Lateinischer Kleinbuchstabe r
+0073: Lateinischer Kleinbuchstabe s
+0074: Lateinischer Kleinbuchstabe t
+0075: Lateinischer Kleinbuchstabe u
+0076: Lateinischer Kleinbuchstabe v
+0077: Lateinischer Kleinbuchstabe w
+0078: Lateinischer Kleinbuchstabe x
+0079: Lateinischer Kleinbuchstabe y
+007A: Lateinischer Kleinbuchstabe z
+007B: Geschweifte Klammer links
+007C: Senkrechter Strich
+007D: Geschweifte Klammer rechts
+007E: Tilde
+007F: Löschen
+0080: &lt;control&gt;
+0081: &lt;control&gt;
+0082: Zeilenumbruch an dieser Stelle erlaubt
+0083: Kein Zeilenumbruch an dieser Stelle
+0084: &lt;control&gt;
+0085: Nächste Zeile
+0086: Anfang des ausgewählten Bereichs
+0087: Ende des ausgewählten Bereichs
+0088: Zeichentabulierung horizontal setzen
+0089: Zeichentabulierung mit Ausrichtung
+008A: Zeilentabulierung vertikal setzen
+008B: Teilzeile abwärts
+008C: Teilzeile aufwärts
+008D: Umgekehrter Zeilenvorschub
+008E: Einzelne Umschaltung 2
+008F: Einzelne Umschaltung 3
+0090: Beginnt eine Zeichenfolge zur Gerätesteuerung
+0091: Frei verwendbare 1
+0092: Frei verwendbare 2
+0093: Set transmit state
+0094: Cancel character
+0095: Message waiting
+0096: Start of guarded area
+0097: End of guarded area
+0098: Start of string
+0099: <control>
+009A: Single character introducer
+009B: Control sequence introducer
+009C: String terminator
+009D: Operating system command
+009E: Privacy message
+009F: Application program command
+00A0: Geschütztes Leerzeichen
+00A1: Umgekehrtes Ausrufezeichen
+00A2: Centzeichen
+00A3: Pfundzeichen
+00A4: Allgemeines Währungssymbol
+00A5: Yenzeichen
+00A6: Unterbrochener Strich
+00A7: Paragraphenzeichen
+00A8: Trema
+00A9: Copyrightzeichen
+00AA: Ordinal-a, feminines Ordinalzeichen
+00AB: Nach links zeigendes doppeltes spitzes Anführungszeichen
+00AC: Nicht-Zeichen
+00AD: Weiches Trennzeichen
+00AE: Zeichen für ein registriertes Warenzeichen
+00AF: Makron
+00B0: Gradzeichen
+00B1: Plusminuszeichen
+00B2: Hochgestellte Zwei
+00B3: Hochgestellte Drei
+00B4: Akut
+00B5: Mikro-Zeichen
+00B6: Absatzzeichen
+00B7: Mittelpunkt
+00B8: Cedille
+00B9: Hochgestellte Eins
+00BA: Ordinal-o, maskulines Ordinalzeichen
+00BB: Nach rechts zeigendes doppeltes spitzes Anführungszeichen
+00BC: Gewöhnlicher Bruch ein Viertel
+00BD: Gewöhnlicher Bruch einhalb
+00BE: Gewöhnlicher Bruch drei Viertel
+00BF: Umgekehrtes Fragezeichen
+00C0: Lateinischer Großbuchstabe A mit Gravis
+00C1: Lateinischer Großbuchstabe A mit Akut
+00C2: Lateinischer Großbuchstabe A mit Zirkumflex
+00C3: Lateinischer Großbuchstabe A mit Tilde
+00C4: Lateinischer Großbuchstabe A mit Trema
+00C5: Lateinischer Großbuchstabe A mit Ring
+00C6: Lateinischer Großbuchstabe AE-Ligatur
+00C7: Lateinischer Großbuchstabe C mit Cedille
+00C8: Lateinischer Großbuchstabe E mit Gravis
+00C9: Lateinischer Großbuchstabe E mit Akut
+00CA: Lateinischer Großbuchstabe E mit Zirkumflex
+00CB: Lateinischer Großbuchstabe E mit Trema
+00CC: Lateinischer Großbuchstabe I mit Gravis
+00CD: Lateinischer Großbuchstabe I mit Akut
+00CE: Lateinischer Großbuchstabe I mit Zirkumflex
+00CF: Lateinischer Großbuchstabe I mit Trema
+00D0: Lateinischer Großbuchstabe Eth
+00D1: Lateinischer Großbuchstabe N mit Tilde
+00D2: Lateinischer Großbuchstabe O mit Gravis
+00D3: Lateinischer Großbuchstabe O mit Akut
+00D4: Lateinischer Großbuchstabe O mit Zirkumflex
+00D5: Lateinischer Großbuchstabe O mit Tilde
+00D6: Lateinischer Großbuchstabe O mit Trema
+00D7: Multiplikationskreuz : kreuz
+00D8: Lateinischer Großbuchstabe durchgestrichenes O
+00D9: Lateinischer Großbuchstabe U mit Gravis
+00DA: Lateinischer Großbuchstabe U mit Akut
+00DB: Lateinischer Großbuchstabe U mit Zirkumflex
+00DC: Lateinischer Großbuchstabe U mit Trema
+00DD: Lateinischer Großbuchstabe Y mit Akut
+00DE: Lateinischer Großbuchstabe Thorn
+00DF: Lateinischer Kleinbuchstabe Scharfes S
+00E0: Lateinischer Kleinbuchstabe a mit Gravis
+00E1: Lateinischer Kleinbuchstabe a mit Akut
+00E2: Lateinischer Kleinbuchstabe a mit Zirkumflex
+00E3: Lateinischer Kleinbuchstabe a mit Tilde
+00E4: Lateinischer Kleinbuchstabe a mit Trema
+00E5: Lateinischer Kleinbuchstabe a mit Ring
+00E6: Lateinischer Kleinbuchstabe ae-Ligatur
+00E7: Lateinischer Kleinbuchstabe c mit Cedille
+00E8: Lateinischer Kleinbuchstabe e mit Gravis
+00E9: Lateinischer Kleinbuchstabe e mit Akut
+00EA: Lateinischer Kleinbuchstabe e mit Zirkumflex
+00EB: Lateinischer Kleinbuchstabe e mit Trema
+00EC: Lateinischer Kleinbuchstabe i mit Gravis
+00ED: Lateinischer Kleinbuchstabe i mit Akut
+00EE: Lateinischer Kleinbuchstabe i mit Zirkumflex
+00EF: Lateinischer Kleinbuchstabe i mit Trema
+00F0: Lateinischer Kleinbuchstabe Eth
+00F1: Lateinischer Kleinbuchstabe n mit Tilde
+00F2: Lateinischer Kleinbuchstabe o mit Gravis
+00F3: Lateinischer Kleinbuchstabe o mit Akut
+00F4: Lateinischer Kleinbuchstabe o mit Zirkumflex
+00F5: Lateinischer Kleinbuchstabe o mit Tilde
+00F6: Lateinischer Kleinbuchstabe o mit Trema
+00F7: Divisionszeichen
+00F8: Lateinischer Kleinbuchstabe o mit Strich
+00F9: Lateinischer Kleinbuchstabe u mit Gravis
+00FA: Lateinischer Kleinbuchstabe u mit Akut
+00FB: Lateinischer Kleinbuchstabe u mit Zirkumflex
+00FC: Lateinischer Kleinbuchstabe u mit Trema
+00FD: Lateinischer Kleinbuchstabe y mit Akut
+00FE: Lateinischer Kleinbuchstabe Thorn
+00FF: Lateinischer Kleinbuchstabe y mit Trema

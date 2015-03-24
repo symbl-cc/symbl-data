@@ -1,256 +1,256 @@
-D600 : Hangul syllable hyeo
-D601 : Hangul syllable hyeog
-D602 : Hangul syllable hyeogg
-D603 : Hangul syllable hyeogs
-D604 : Hangul syllable hyeon
-D605 : Hangul syllable hyeonj
-D606 : Hangul syllable hyeonh
-D607 : Hangul syllable hyeod
-D608 : Hangul syllable hyeol
-D609 : Hangul syllable hyeolg
-D60A : Hangul syllable hyeolm
-D60B : Hangul syllable hyeolb
-D60C : Hangul syllable hyeols
-D60D : Hangul syllable hyeolt
-D60E : Hangul syllable hyeolp
-D60F : Hangul syllable hyeolh
-D610 : Hangul syllable hyeom
-D611 : Hangul syllable hyeob
-D612 : Hangul syllable hyeobs
-D613 : Hangul syllable hyeos
-D614 : Hangul syllable hyeoss
-D615 : Hangul syllable hyeong
-D616 : Hangul syllable hyeoj
-D617 : Hangul syllable hyeoc
-D618 : Hangul syllable hyeok
-D619 : Hangul syllable hyeot
-D61A : Hangul syllable hyeop
-D61B : Hangul syllable hyeoh
-D61C : Hangul syllable hye
-D61D : Hangul syllable hyeg
-D61E : Hangul syllable hyegg
-D61F : Hangul syllable hyegs
-D620 : Hangul syllable hyen
-D621 : Hangul syllable hyenj
-D622 : Hangul syllable hyenh
-D623 : Hangul syllable hyed
-D624 : Hangul syllable hyel
-D625 : Hangul syllable hyelg
-D626 : Hangul syllable hyelm
-D627 : Hangul syllable hyelb
-D628 : Hangul syllable hyels
-D629 : Hangul syllable hyelt
-D62A : Hangul syllable hyelp
-D62B : Hangul syllable hyelh
-D62C : Hangul syllable hyem
-D62D : Hangul syllable hyeb
-D62E : Hangul syllable hyebs
-D62F : Hangul syllable hyes
-D630 : Hangul syllable hyess
-D631 : Hangul syllable hyeng
-D632 : Hangul syllable hyej
-D633 : Hangul syllable hyec
-D634 : Hangul syllable hyek
-D635 : Hangul syllable hyet
-D636 : Hangul syllable hyep
-D637 : Hangul syllable hyeh
-D638 : Hangul syllable ho
-D639 : Hangul syllable hog
-D63A : Hangul syllable hogg
-D63B : Hangul syllable hogs
-D63C : Hangul syllable hon
-D63D : Hangul syllable honj
-D63E : Hangul syllable honh
-D63F : Hangul syllable hod
-D640 : Hangul syllable hol
-D641 : Hangul syllable holg
-D642 : Hangul syllable holm
-D643 : Hangul syllable holb
-D644 : Hangul syllable hols
-D645 : Hangul syllable holt
-D646 : Hangul syllable holp
-D647 : Hangul syllable holh
-D648 : Hangul syllable hom
-D649 : Hangul syllable hob
-D64A : Hangul syllable hobs
-D64B : Hangul syllable hos
-D64C : Hangul syllable hoss
-D64D : Hangul syllable hong
-D64E : Hangul syllable hoj
-D64F : Hangul syllable hoc
-D650 : Hangul syllable hok
-D651 : Hangul syllable hot
-D652 : Hangul syllable hop
-D653 : Hangul syllable hoh
-D654 : Hangul syllable hwa
-D655 : Hangul syllable hwag
-D656 : Hangul syllable hwagg
-D657 : Hangul syllable hwags
-D658 : Hangul syllable hwan
-D659 : Hangul syllable hwanj
-D65A : Hangul syllable hwanh
-D65B : Hangul syllable hwad
-D65C : Hangul syllable hwal
-D65D : Hangul syllable hwalg
-D65E : Hangul syllable hwalm
-D65F : Hangul syllable hwalb
-D660 : Hangul syllable hwals
-D661 : Hangul syllable hwalt
-D662 : Hangul syllable hwalp
-D663 : Hangul syllable hwalh
-D664 : Hangul syllable hwam
-D665 : Hangul syllable hwab
-D666 : Hangul syllable hwabs
-D667 : Hangul syllable hwas
-D668 : Hangul syllable hwass
-D669 : Hangul syllable hwang
-D66A : Hangul syllable hwaj
-D66B : Hangul syllable hwac
-D66C : Hangul syllable hwak
-D66D : Hangul syllable hwat
-D66E : Hangul syllable hwap
-D66F : Hangul syllable hwah
-D670 : Hangul syllable hwae
-D671 : Hangul syllable hwaeg
-D672 : Hangul syllable hwaegg
-D673 : Hangul syllable hwaegs
-D674 : Hangul syllable hwaen
-D675 : Hangul syllable hwaenj
-D676 : Hangul syllable hwaenh
-D677 : Hangul syllable hwaed
-D678 : Hangul syllable hwael
-D679 : Hangul syllable hwaelg
-D67A : Hangul syllable hwaelm
-D67B : Hangul syllable hwaelb
-D67C : Hangul syllable hwaels
-D67D : Hangul syllable hwaelt
-D67E : Hangul syllable hwaelp
-D67F : Hangul syllable hwaelh
-D680 : Hangul syllable hwaem
-D681 : Hangul syllable hwaeb
-D682 : Hangul syllable hwaebs
-D683 : Hangul syllable hwaes
-D684 : Hangul syllable hwaess
-D685 : Hangul syllable hwaeng
-D686 : Hangul syllable hwaej
-D687 : Hangul syllable hwaec
-D688 : Hangul syllable hwaek
-D689 : Hangul syllable hwaet
-D68A : Hangul syllable hwaep
-D68B : Hangul syllable hwaeh
-D68C : Hangul syllable hoe
-D68D : Hangul syllable hoeg
-D68E : Hangul syllable hoegg
-D68F : Hangul syllable hoegs
-D690 : Hangul syllable hoen
-D691 : Hangul syllable hoenj
-D692 : Hangul syllable hoenh
-D693 : Hangul syllable hoed
-D694 : Hangul syllable hoel
-D695 : Hangul syllable hoelg
-D696 : Hangul syllable hoelm
-D697 : Hangul syllable hoelb
-D698 : Hangul syllable hoels
-D699 : Hangul syllable hoelt
-D69A : Hangul syllable hoelp
-D69B : Hangul syllable hoelh
-D69C : Hangul syllable hoem
-D69D : Hangul syllable hoeb
-D69E : Hangul syllable hoebs
-D69F : Hangul syllable hoes
-D6A0 : Hangul syllable hoess
-D6A1 : Hangul syllable hoeng
-D6A2 : Hangul syllable hoej
-D6A3 : Hangul syllable hoec
-D6A4 : Hangul syllable hoek
-D6A5 : Hangul syllable hoet
-D6A6 : Hangul syllable hoep
-D6A7 : Hangul syllable hoeh
-D6A8 : Hangul syllable hyo
-D6A9 : Hangul syllable hyog
-D6AA : Hangul syllable hyogg
-D6AB : Hangul syllable hyogs
-D6AC : Hangul syllable hyon
-D6AD : Hangul syllable hyonj
-D6AE : Hangul syllable hyonh
-D6AF : Hangul syllable hyod
-D6B0 : Hangul syllable hyol
-D6B1 : Hangul syllable hyolg
-D6B2 : Hangul syllable hyolm
-D6B3 : Hangul syllable hyolb
-D6B4 : Hangul syllable hyols
-D6B5 : Hangul syllable hyolt
-D6B6 : Hangul syllable hyolp
-D6B7 : Hangul syllable hyolh
-D6B8 : Hangul syllable hyom
-D6B9 : Hangul syllable hyob
-D6BA : Hangul syllable hyobs
-D6BB : Hangul syllable hyos
-D6BC : Hangul syllable hyoss
-D6BD : Hangul syllable hyong
-D6BE : Hangul syllable hyoj
-D6BF : Hangul syllable hyoc
-D6C0 : Hangul syllable hyok
-D6C1 : Hangul syllable hyot
-D6C2 : Hangul syllable hyop
-D6C3 : Hangul syllable hyoh
-D6C4 : Hangul syllable hu
-D6C5 : Hangul syllable hug
-D6C6 : Hangul syllable hugg
-D6C7 : Hangul syllable hugs
-D6C8 : Hangul syllable hun
-D6C9 : Hangul syllable hunj
-D6CA : Hangul syllable hunh
-D6CB : Hangul syllable hud
-D6CC : Hangul syllable hul
-D6CD : Hangul syllable hulg
-D6CE : Hangul syllable hulm
-D6CF : Hangul syllable hulb
-D6D0 : Hangul syllable huls
-D6D1 : Hangul syllable hult
-D6D2 : Hangul syllable hulp
-D6D3 : Hangul syllable hulh
-D6D4 : Hangul syllable hum
-D6D5 : Hangul syllable hub
-D6D6 : Hangul syllable hubs
-D6D7 : Hangul syllable hus
-D6D8 : Hangul syllable huss
-D6D9 : Hangul syllable hung
-D6DA : Hangul syllable huj
-D6DB : Hangul syllable huc
-D6DC : Hangul syllable huk
-D6DD : Hangul syllable hut
-D6DE : Hangul syllable hup
-D6DF : Hangul syllable huh
-D6E0 : Hangul syllable hweo
-D6E1 : Hangul syllable hweog
-D6E2 : Hangul syllable hweogg
-D6E3 : Hangul syllable hweogs
-D6E4 : Hangul syllable hweon
-D6E5 : Hangul syllable hweonj
-D6E6 : Hangul syllable hweonh
-D6E7 : Hangul syllable hweod
-D6E8 : Hangul syllable hweol
-D6E9 : Hangul syllable hweolg
-D6EA : Hangul syllable hweolm
-D6EB : Hangul syllable hweolb
-D6EC : Hangul syllable hweols
-D6ED : Hangul syllable hweolt
-D6EE : Hangul syllable hweolp
-D6EF : Hangul syllable hweolh
-D6F0 : Hangul syllable hweom
-D6F1 : Hangul syllable hweob
-D6F2 : Hangul syllable hweobs
-D6F3 : Hangul syllable hweos
-D6F4 : Hangul syllable hweoss
-D6F5 : Hangul syllable hweong
-D6F6 : Hangul syllable hweoj
-D6F7 : Hangul syllable hweoc
-D6F8 : Hangul syllable hweok
-D6F9 : Hangul syllable hweot
-D6FA : Hangul syllable hweop
-D6FB : Hangul syllable hweoh
-D6FC : Hangul syllable hwe
-D6FD : Hangul syllable hweg
-D6FE : Hangul syllable hwegg
-D6FF : Hangul syllable hwegs
+D600: Hangul syllable hyeo
+D601: Hangul syllable hyeog
+D602: Hangul syllable hyeogg
+D603: Hangul syllable hyeogs
+D604: Hangul syllable hyeon
+D605: Hangul syllable hyeonj
+D606: Hangul syllable hyeonh
+D607: Hangul syllable hyeod
+D608: Hangul syllable hyeol
+D609: Hangul syllable hyeolg
+D60A: Hangul syllable hyeolm
+D60B: Hangul syllable hyeolb
+D60C: Hangul syllable hyeols
+D60D: Hangul syllable hyeolt
+D60E: Hangul syllable hyeolp
+D60F: Hangul syllable hyeolh
+D610: Hangul syllable hyeom
+D611: Hangul syllable hyeob
+D612: Hangul syllable hyeobs
+D613: Hangul syllable hyeos
+D614: Hangul syllable hyeoss
+D615: Hangul syllable hyeong
+D616: Hangul syllable hyeoj
+D617: Hangul syllable hyeoc
+D618: Hangul syllable hyeok
+D619: Hangul syllable hyeot
+D61A: Hangul syllable hyeop
+D61B: Hangul syllable hyeoh
+D61C: Hangul syllable hye
+D61D: Hangul syllable hyeg
+D61E: Hangul syllable hyegg
+D61F: Hangul syllable hyegs
+D620: Hangul syllable hyen
+D621: Hangul syllable hyenj
+D622: Hangul syllable hyenh
+D623: Hangul syllable hyed
+D624: Hangul syllable hyel
+D625: Hangul syllable hyelg
+D626: Hangul syllable hyelm
+D627: Hangul syllable hyelb
+D628: Hangul syllable hyels
+D629: Hangul syllable hyelt
+D62A: Hangul syllable hyelp
+D62B: Hangul syllable hyelh
+D62C: Hangul syllable hyem
+D62D: Hangul syllable hyeb
+D62E: Hangul syllable hyebs
+D62F: Hangul syllable hyes
+D630: Hangul syllable hyess
+D631: Hangul syllable hyeng
+D632: Hangul syllable hyej
+D633: Hangul syllable hyec
+D634: Hangul syllable hyek
+D635: Hangul syllable hyet
+D636: Hangul syllable hyep
+D637: Hangul syllable hyeh
+D638: Hangul syllable ho
+D639: Hangul syllable hog
+D63A: Hangul syllable hogg
+D63B: Hangul syllable hogs
+D63C: Hangul syllable hon
+D63D: Hangul syllable honj
+D63E: Hangul syllable honh
+D63F: Hangul syllable hod
+D640: Hangul syllable hol
+D641: Hangul syllable holg
+D642: Hangul syllable holm
+D643: Hangul syllable holb
+D644: Hangul syllable hols
+D645: Hangul syllable holt
+D646: Hangul syllable holp
+D647: Hangul syllable holh
+D648: Hangul syllable hom
+D649: Hangul syllable hob
+D64A: Hangul syllable hobs
+D64B: Hangul syllable hos
+D64C: Hangul syllable hoss
+D64D: Hangul syllable hong
+D64E: Hangul syllable hoj
+D64F: Hangul syllable hoc
+D650: Hangul syllable hok
+D651: Hangul syllable hot
+D652: Hangul syllable hop
+D653: Hangul syllable hoh
+D654: Hangul syllable hwa
+D655: Hangul syllable hwag
+D656: Hangul syllable hwagg
+D657: Hangul syllable hwags
+D658: Hangul syllable hwan
+D659: Hangul syllable hwanj
+D65A: Hangul syllable hwanh
+D65B: Hangul syllable hwad
+D65C: Hangul syllable hwal
+D65D: Hangul syllable hwalg
+D65E: Hangul syllable hwalm
+D65F: Hangul syllable hwalb
+D660: Hangul syllable hwals
+D661: Hangul syllable hwalt
+D662: Hangul syllable hwalp
+D663: Hangul syllable hwalh
+D664: Hangul syllable hwam
+D665: Hangul syllable hwab
+D666: Hangul syllable hwabs
+D667: Hangul syllable hwas
+D668: Hangul syllable hwass
+D669: Hangul syllable hwang
+D66A: Hangul syllable hwaj
+D66B: Hangul syllable hwac
+D66C: Hangul syllable hwak
+D66D: Hangul syllable hwat
+D66E: Hangul syllable hwap
+D66F: Hangul syllable hwah
+D670: Hangul syllable hwae
+D671: Hangul syllable hwaeg
+D672: Hangul syllable hwaegg
+D673: Hangul syllable hwaegs
+D674: Hangul syllable hwaen
+D675: Hangul syllable hwaenj
+D676: Hangul syllable hwaenh
+D677: Hangul syllable hwaed
+D678: Hangul syllable hwael
+D679: Hangul syllable hwaelg
+D67A: Hangul syllable hwaelm
+D67B: Hangul syllable hwaelb
+D67C: Hangul syllable hwaels
+D67D: Hangul syllable hwaelt
+D67E: Hangul syllable hwaelp
+D67F: Hangul syllable hwaelh
+D680: Hangul syllable hwaem
+D681: Hangul syllable hwaeb
+D682: Hangul syllable hwaebs
+D683: Hangul syllable hwaes
+D684: Hangul syllable hwaess
+D685: Hangul syllable hwaeng
+D686: Hangul syllable hwaej
+D687: Hangul syllable hwaec
+D688: Hangul syllable hwaek
+D689: Hangul syllable hwaet
+D68A: Hangul syllable hwaep
+D68B: Hangul syllable hwaeh
+D68C: Hangul syllable hoe
+D68D: Hangul syllable hoeg
+D68E: Hangul syllable hoegg
+D68F: Hangul syllable hoegs
+D690: Hangul syllable hoen
+D691: Hangul syllable hoenj
+D692: Hangul syllable hoenh
+D693: Hangul syllable hoed
+D694: Hangul syllable hoel
+D695: Hangul syllable hoelg
+D696: Hangul syllable hoelm
+D697: Hangul syllable hoelb
+D698: Hangul syllable hoels
+D699: Hangul syllable hoelt
+D69A: Hangul syllable hoelp
+D69B: Hangul syllable hoelh
+D69C: Hangul syllable hoem
+D69D: Hangul syllable hoeb
+D69E: Hangul syllable hoebs
+D69F: Hangul syllable hoes
+D6A0: Hangul syllable hoess
+D6A1: Hangul syllable hoeng
+D6A2: Hangul syllable hoej
+D6A3: Hangul syllable hoec
+D6A4: Hangul syllable hoek
+D6A5: Hangul syllable hoet
+D6A6: Hangul syllable hoep
+D6A7: Hangul syllable hoeh
+D6A8: Hangul syllable hyo
+D6A9: Hangul syllable hyog
+D6AA: Hangul syllable hyogg
+D6AB: Hangul syllable hyogs
+D6AC: Hangul syllable hyon
+D6AD: Hangul syllable hyonj
+D6AE: Hangul syllable hyonh
+D6AF: Hangul syllable hyod
+D6B0: Hangul syllable hyol
+D6B1: Hangul syllable hyolg
+D6B2: Hangul syllable hyolm
+D6B3: Hangul syllable hyolb
+D6B4: Hangul syllable hyols
+D6B5: Hangul syllable hyolt
+D6B6: Hangul syllable hyolp
+D6B7: Hangul syllable hyolh
+D6B8: Hangul syllable hyom
+D6B9: Hangul syllable hyob
+D6BA: Hangul syllable hyobs
+D6BB: Hangul syllable hyos
+D6BC: Hangul syllable hyoss
+D6BD: Hangul syllable hyong
+D6BE: Hangul syllable hyoj
+D6BF: Hangul syllable hyoc
+D6C0: Hangul syllable hyok
+D6C1: Hangul syllable hyot
+D6C2: Hangul syllable hyop
+D6C3: Hangul syllable hyoh
+D6C4: Hangul syllable hu
+D6C5: Hangul syllable hug
+D6C6: Hangul syllable hugg
+D6C7: Hangul syllable hugs
+D6C8: Hangul syllable hun
+D6C9: Hangul syllable hunj
+D6CA: Hangul syllable hunh
+D6CB: Hangul syllable hud
+D6CC: Hangul syllable hul
+D6CD: Hangul syllable hulg
+D6CE: Hangul syllable hulm
+D6CF: Hangul syllable hulb
+D6D0: Hangul syllable huls
+D6D1: Hangul syllable hult
+D6D2: Hangul syllable hulp
+D6D3: Hangul syllable hulh
+D6D4: Hangul syllable hum
+D6D5: Hangul syllable hub
+D6D6: Hangul syllable hubs
+D6D7: Hangul syllable hus
+D6D8: Hangul syllable huss
+D6D9: Hangul syllable hung
+D6DA: Hangul syllable huj
+D6DB: Hangul syllable huc
+D6DC: Hangul syllable huk
+D6DD: Hangul syllable hut
+D6DE: Hangul syllable hup
+D6DF: Hangul syllable huh
+D6E0: Hangul syllable hweo
+D6E1: Hangul syllable hweog
+D6E2: Hangul syllable hweogg
+D6E3: Hangul syllable hweogs
+D6E4: Hangul syllable hweon
+D6E5: Hangul syllable hweonj
+D6E6: Hangul syllable hweonh
+D6E7: Hangul syllable hweod
+D6E8: Hangul syllable hweol
+D6E9: Hangul syllable hweolg
+D6EA: Hangul syllable hweolm
+D6EB: Hangul syllable hweolb
+D6EC: Hangul syllable hweols
+D6ED: Hangul syllable hweolt
+D6EE: Hangul syllable hweolp
+D6EF: Hangul syllable hweolh
+D6F0: Hangul syllable hweom
+D6F1: Hangul syllable hweob
+D6F2: Hangul syllable hweobs
+D6F3: Hangul syllable hweos
+D6F4: Hangul syllable hweoss
+D6F5: Hangul syllable hweong
+D6F6: Hangul syllable hweoj
+D6F7: Hangul syllable hweoc
+D6F8: Hangul syllable hweok
+D6F9: Hangul syllable hweot
+D6FA: Hangul syllable hweop
+D6FB: Hangul syllable hweoh
+D6FC: Hangul syllable hwe
+D6FD: Hangul syllable hweg
+D6FE: Hangul syllable hwegg
+D6FF: Hangul syllable hwegs

@@ -1,256 +1,256 @@
-C000 : Слог Хангыль bbweok
-C001 : Слог Хангыль bbweot
-C002 : Слог Хангыль bbweop
-C003 : Слог Хангыль bbweoh
-C004 : Слог Хангыль bbwe
-C005 : Слог Хангыль bbweg
-C006 : Слог Хангыль bbwegg
-C007 : Слог Хангыль bbwegs
-C008 : Слог Хангыль bbwen
-C009 : Слог Хангыль bbwenj
-C00A : Слог Хангыль bbwenh
-C00B : Слог Хангыль bbwed
-C00C : Слог Хангыль bbwel
-C00D : Слог Хангыль bbwelg
-C00E : Слог Хангыль bbwelm
-C00F : Слог Хангыль bbwelb
-C010 : Слог Хангыль bbwels
-C011 : Слог Хангыль bbwelt
-C012 : Слог Хангыль bbwelp
-C013 : Слог Хангыль bbwelh
-C014 : Слог Хангыль bbwem
-C015 : Слог Хангыль bbweb
-C016 : Слог Хангыль bbwebs
-C017 : Слог Хангыль bbwes
-C018 : Слог Хангыль bbwess
-C019 : Слог Хангыль bbweng
-C01A : Слог Хангыль bbwej
-C01B : Слог Хангыль bbwec
-C01C : Слог Хангыль bbwek
-C01D : Слог Хангыль bbwet
-C01E : Слог Хангыль bbwep
-C01F : Слог Хангыль bbweh
-C020 : Слог Хангыль bbwi
-C021 : Слог Хангыль bbwig
-C022 : Слог Хангыль bbwigg
-C023 : Слог Хангыль bbwigs
-C024 : Слог Хангыль bbwin
-C025 : Слог Хангыль bbwinj
-C026 : Слог Хангыль bbwinh
-C027 : Слог Хангыль bbwid
-C028 : Слог Хангыль bbwil
-C029 : Слог Хангыль bbwilg
-C02A : Слог Хангыль bbwilm
-C02B : Слог Хангыль bbwilb
-C02C : Слог Хангыль bbwils
-C02D : Слог Хангыль bbwilt
-C02E : Слог Хангыль bbwilp
-C02F : Слог Хангыль bbwilh
-C030 : Слог Хангыль bbwim
-C031 : Слог Хангыль bbwib
-C032 : Слог Хангыль bbwibs
-C033 : Слог Хангыль bbwis
-C034 : Слог Хангыль bbwiss
-C035 : Слог Хангыль bbwing
-C036 : Слог Хангыль bbwij
-C037 : Слог Хангыль bbwic
-C038 : Слог Хангыль bbwik
-C039 : Слог Хангыль bbwit
-C03A : Слог Хангыль bbwip
-C03B : Слог Хангыль bbwih
-C03C : Слог Хангыль bbyu
-C03D : Слог Хангыль bbyug
-C03E : Слог Хангыль bbyugg
-C03F : Слог Хангыль bbyugs
-C040 : Слог Хангыль bbyun
-C041 : Слог Хангыль bbyunj
-C042 : Слог Хангыль bbyunh
-C043 : Слог Хангыль bbyud
-C044 : Слог Хангыль bbyul
-C045 : Слог Хангыль bbyulg
-C046 : Слог Хангыль bbyulm
-C047 : Слог Хангыль bbyulb
-C048 : Слог Хангыль bbyuls
-C049 : Слог Хангыль bbyult
-C04A : Слог Хангыль bbyulp
-C04B : Слог Хангыль bbyulh
-C04C : Слог Хангыль bbyum
-C04D : Слог Хангыль bbyub
-C04E : Слог Хангыль bbyubs
-C04F : Слог Хангыль bbyus
-C050 : Слог Хангыль bbyuss
-C051 : Слог Хангыль bbyung
-C052 : Слог Хангыль bbyuj
-C053 : Слог Хангыль bbyuc
-C054 : Слог Хангыль bbyuk
-C055 : Слог Хангыль bbyut
-C056 : Слог Хангыль bbyup
-C057 : Слог Хангыль bbyuh
-C058 : Слог Хангыль bbeu
-C059 : Слог Хангыль bbeug
-C05A : Слог Хангыль bbeugg
-C05B : Слог Хангыль bbeugs
-C05C : Слог Хангыль bbeun
-C05D : Слог Хангыль bbeunj
-C05E : Слог Хангыль bbeunh
-C05F : Слог Хангыль bbeud
-C060 : Слог Хангыль bbeul
-C061 : Слог Хангыль bbeulg
-C062 : Слог Хангыль bbeulm
-C063 : Слог Хангыль bbeulb
-C064 : Слог Хангыль bbeuls
-C065 : Слог Хангыль bbeult
-C066 : Слог Хангыль bbeulp
-C067 : Слог Хангыль bbeulh
-C068 : Слог Хангыль bbeum
-C069 : Слог Хангыль bbeub
-C06A : Слог Хангыль bbeubs
-C06B : Слог Хангыль bbeus
-C06C : Слог Хангыль bbeuss
-C06D : Слог Хангыль bbeung
-C06E : Слог Хангыль bbeuj
-C06F : Слог Хангыль bbeuc
-C070 : Слог Хангыль bbeuk
-C071 : Слог Хангыль bbeut
-C072 : Слог Хангыль bbeup
-C073 : Слог Хангыль bbeuh
-C074 : Слог Хангыль bbyi
-C075 : Слог Хангыль bbyig
-C076 : Слог Хангыль bbyigg
-C077 : Слог Хангыль bbyigs
-C078 : Слог Хангыль bbyin
-C079 : Слог Хангыль bbyinj
-C07A : Слог Хангыль bbyinh
-C07B : Слог Хангыль bbyid
-C07C : Слог Хангыль bbyil
-C07D : Слог Хангыль bbyilg
-C07E : Слог Хангыль bbyilm
-C07F : Слог Хангыль bbyilb
-C080 : Слог Хангыль bbyils
-C081 : Слог Хангыль bbyilt
-C082 : Слог Хангыль bbyilp
-C083 : Слог Хангыль bbyilh
-C084 : Слог Хангыль bbyim
-C085 : Слог Хангыль bbyib
-C086 : Слог Хангыль bbyibs
-C087 : Слог Хангыль bbyis
-C088 : Слог Хангыль bbyiss
-C089 : Слог Хангыль bbying
-C08A : Слог Хангыль bbyij
-C08B : Слог Хангыль bbyic
-C08C : Слог Хангыль bbyik
-C08D : Слог Хангыль bbyit
-C08E : Слог Хангыль bbyip
-C08F : Слог Хангыль bbyih
-C090 : Слог Хангыль bbi
-C091 : Слог Хангыль bbig
-C092 : Слог Хангыль bbigg
-C093 : Слог Хангыль bbigs
-C094 : Слог Хангыль bbin
-C095 : Слог Хангыль bbinj
-C096 : Слог Хангыль bbinh
-C097 : Слог Хангыль bbid
-C098 : Слог Хангыль bbil
-C099 : Слог Хангыль bbilg
-C09A : Слог Хангыль bbilm
-C09B : Слог Хангыль bbilb
-C09C : Слог Хангыль bbils
-C09D : Слог Хангыль bbilt
-C09E : Слог Хангыль bbilp
-C09F : Слог Хангыль bbilh
-C0A0 : Слог Хангыль bbim
-C0A1 : Слог Хангыль bbib
-C0A2 : Слог Хангыль bbibs
-C0A3 : Слог Хангыль bbis
-C0A4 : Слог Хангыль bbiss
-C0A5 : Слог Хангыль bbing
-C0A6 : Слог Хангыль bbij
-C0A7 : Слог Хангыль bbic
-C0A8 : Слог Хангыль bbik
-C0A9 : Слог Хангыль bbit
-C0AA : Слог Хангыль bbip
-C0AB : Слог Хангыль bbih
-C0AC : Слог Хангыль sa
-C0AD : Слог Хангыль sag
-C0AE : Слог Хангыль sagg
-C0AF : Слог Хангыль sags
-C0B0 : Слог Хангыль san
-C0B1 : Слог Хангыль sanj
-C0B2 : Слог Хангыль sanh
-C0B3 : Слог Хангыль sad
-C0B4 : Слог Хангыль sal
-C0B5 : Слог Хангыль salg
-C0B6 : Слог Хангыль salm
-C0B7 : Слог Хангыль salb
-C0B8 : Слог Хангыль sals
-C0B9 : Слог Хангыль salt
-C0BA : Слог Хангыль salp
-C0BB : Слог Хангыль salh
-C0BC : Слог Хангыль sam
-C0BD : Слог Хангыль sab
-C0BE : Слог Хангыль sabs
-C0BF : Слог Хангыль sas
-C0C0 : Слог Хангыль sass
-C0C1 : Слог Хангыль sang
-C0C2 : Слог Хангыль saj
-C0C3 : Слог Хангыль sac
-C0C4 : Слог Хангыль sak
-C0C5 : Слог Хангыль sat
-C0C6 : Слог Хангыль sap
-C0C7 : Слог Хангыль sah
-C0C8 : Слог Хангыль sae
-C0C9 : Слог Хангыль saeg
-C0CA : Слог Хангыль saegg
-C0CB : Слог Хангыль saegs
-C0CC : Слог Хангыль saen
-C0CD : Слог Хангыль saenj
-C0CE : Слог Хангыль saenh
-C0CF : Слог Хангыль saed
-C0D0 : Слог Хангыль sael
-C0D1 : Слог Хангыль saelg
-C0D2 : Слог Хангыль saelm
-C0D3 : Слог Хангыль saelb
-C0D4 : Слог Хангыль saels
-C0D5 : Слог Хангыль saelt
-C0D6 : Слог Хангыль saelp
-C0D7 : Слог Хангыль saelh
-C0D8 : Слог Хангыль saem
-C0D9 : Слог Хангыль saeb
-C0DA : Слог Хангыль saebs
-C0DB : Слог Хангыль saes
-C0DC : Слог Хангыль saess
-C0DD : Слог Хангыль saeng
-C0DE : Слог Хангыль saej
-C0DF : Слог Хангыль saec
-C0E0 : Слог Хангыль saek
-C0E1 : Слог Хангыль saet
-C0E2 : Слог Хангыль saep
-C0E3 : Слог Хангыль saeh
-C0E4 : Слог Хангыль sya
-C0E5 : Слог Хангыль syag
-C0E6 : Слог Хангыль syagg
-C0E7 : Слог Хангыль syags
-C0E8 : Слог Хангыль syan
-C0E9 : Слог Хангыль syanj
-C0EA : Слог Хангыль syanh
-C0EB : Слог Хангыль syad
-C0EC : Слог Хангыль syal
-C0ED : Слог Хангыль syalg
-C0EE : Слог Хангыль syalm
-C0EF : Слог Хангыль syalb
-C0F0 : Слог Хангыль syals
-C0F1 : Слог Хангыль syalt
-C0F2 : Слог Хангыль syalp
-C0F3 : Слог Хангыль syalh
-C0F4 : Слог Хангыль syam
-C0F5 : Слог Хангыль syab
-C0F6 : Слог Хангыль syabs
-C0F7 : Слог Хангыль syas
-C0F8 : Слог Хангыль syass
-C0F9 : Слог Хангыль syang
-C0FA : Слог Хангыль syaj
-C0FB : Слог Хангыль syac
-C0FC : Слог Хангыль syak
-C0FD : Слог Хангыль syat
-C0FE : Слог Хангыль syap
-C0FF : Слог Хангыль syah
+C000: Слог Хангыль bbweok
+C001: Слог Хангыль bbweot
+C002: Слог Хангыль bbweop
+C003: Слог Хангыль bbweoh
+C004: Слог Хангыль bbwe
+C005: Слог Хангыль bbweg
+C006: Слог Хангыль bbwegg
+C007: Слог Хангыль bbwegs
+C008: Слог Хангыль bbwen
+C009: Слог Хангыль bbwenj
+C00A: Слог Хангыль bbwenh
+C00B: Слог Хангыль bbwed
+C00C: Слог Хангыль bbwel
+C00D: Слог Хангыль bbwelg
+C00E: Слог Хангыль bbwelm
+C00F: Слог Хангыль bbwelb
+C010: Слог Хангыль bbwels
+C011: Слог Хангыль bbwelt
+C012: Слог Хангыль bbwelp
+C013: Слог Хангыль bbwelh
+C014: Слог Хангыль bbwem
+C015: Слог Хангыль bbweb
+C016: Слог Хангыль bbwebs
+C017: Слог Хангыль bbwes
+C018: Слог Хангыль bbwess
+C019: Слог Хангыль bbweng
+C01A: Слог Хангыль bbwej
+C01B: Слог Хангыль bbwec
+C01C: Слог Хангыль bbwek
+C01D: Слог Хангыль bbwet
+C01E: Слог Хангыль bbwep
+C01F: Слог Хангыль bbweh
+C020: Слог Хангыль bbwi
+C021: Слог Хангыль bbwig
+C022: Слог Хангыль bbwigg
+C023: Слог Хангыль bbwigs
+C024: Слог Хангыль bbwin
+C025: Слог Хангыль bbwinj
+C026: Слог Хангыль bbwinh
+C027: Слог Хангыль bbwid
+C028: Слог Хангыль bbwil
+C029: Слог Хангыль bbwilg
+C02A: Слог Хангыль bbwilm
+C02B: Слог Хангыль bbwilb
+C02C: Слог Хангыль bbwils
+C02D: Слог Хангыль bbwilt
+C02E: Слог Хангыль bbwilp
+C02F: Слог Хангыль bbwilh
+C030: Слог Хангыль bbwim
+C031: Слог Хангыль bbwib
+C032: Слог Хангыль bbwibs
+C033: Слог Хангыль bbwis
+C034: Слог Хангыль bbwiss
+C035: Слог Хангыль bbwing
+C036: Слог Хангыль bbwij
+C037: Слог Хангыль bbwic
+C038: Слог Хангыль bbwik
+C039: Слог Хангыль bbwit
+C03A: Слог Хангыль bbwip
+C03B: Слог Хангыль bbwih
+C03C: Слог Хангыль bbyu
+C03D: Слог Хангыль bbyug
+C03E: Слог Хангыль bbyugg
+C03F: Слог Хангыль bbyugs
+C040: Слог Хангыль bbyun
+C041: Слог Хангыль bbyunj
+C042: Слог Хангыль bbyunh
+C043: Слог Хангыль bbyud
+C044: Слог Хангыль bbyul
+C045: Слог Хангыль bbyulg
+C046: Слог Хангыль bbyulm
+C047: Слог Хангыль bbyulb
+C048: Слог Хангыль bbyuls
+C049: Слог Хангыль bbyult
+C04A: Слог Хангыль bbyulp
+C04B: Слог Хангыль bbyulh
+C04C: Слог Хангыль bbyum
+C04D: Слог Хангыль bbyub
+C04E: Слог Хангыль bbyubs
+C04F: Слог Хангыль bbyus
+C050: Слог Хангыль bbyuss
+C051: Слог Хангыль bbyung
+C052: Слог Хангыль bbyuj
+C053: Слог Хангыль bbyuc
+C054: Слог Хангыль bbyuk
+C055: Слог Хангыль bbyut
+C056: Слог Хангыль bbyup
+C057: Слог Хангыль bbyuh
+C058: Слог Хангыль bbeu
+C059: Слог Хангыль bbeug
+C05A: Слог Хангыль bbeugg
+C05B: Слог Хангыль bbeugs
+C05C: Слог Хангыль bbeun
+C05D: Слог Хангыль bbeunj
+C05E: Слог Хангыль bbeunh
+C05F: Слог Хангыль bbeud
+C060: Слог Хангыль bbeul
+C061: Слог Хангыль bbeulg
+C062: Слог Хангыль bbeulm
+C063: Слог Хангыль bbeulb
+C064: Слог Хангыль bbeuls
+C065: Слог Хангыль bbeult
+C066: Слог Хангыль bbeulp
+C067: Слог Хангыль bbeulh
+C068: Слог Хангыль bbeum
+C069: Слог Хангыль bbeub
+C06A: Слог Хангыль bbeubs
+C06B: Слог Хангыль bbeus
+C06C: Слог Хангыль bbeuss
+C06D: Слог Хангыль bbeung
+C06E: Слог Хангыль bbeuj
+C06F: Слог Хангыль bbeuc
+C070: Слог Хангыль bbeuk
+C071: Слог Хангыль bbeut
+C072: Слог Хангыль bbeup
+C073: Слог Хангыль bbeuh
+C074: Слог Хангыль bbyi
+C075: Слог Хангыль bbyig
+C076: Слог Хангыль bbyigg
+C077: Слог Хангыль bbyigs
+C078: Слог Хангыль bbyin
+C079: Слог Хангыль bbyinj
+C07A: Слог Хангыль bbyinh
+C07B: Слог Хангыль bbyid
+C07C: Слог Хангыль bbyil
+C07D: Слог Хангыль bbyilg
+C07E: Слог Хангыль bbyilm
+C07F: Слог Хангыль bbyilb
+C080: Слог Хангыль bbyils
+C081: Слог Хангыль bbyilt
+C082: Слог Хангыль bbyilp
+C083: Слог Хангыль bbyilh
+C084: Слог Хангыль bbyim
+C085: Слог Хангыль bbyib
+C086: Слог Хангыль bbyibs
+C087: Слог Хангыль bbyis
+C088: Слог Хангыль bbyiss
+C089: Слог Хангыль bbying
+C08A: Слог Хангыль bbyij
+C08B: Слог Хангыль bbyic
+C08C: Слог Хангыль bbyik
+C08D: Слог Хангыль bbyit
+C08E: Слог Хангыль bbyip
+C08F: Слог Хангыль bbyih
+C090: Слог Хангыль bbi
+C091: Слог Хангыль bbig
+C092: Слог Хангыль bbigg
+C093: Слог Хангыль bbigs
+C094: Слог Хангыль bbin
+C095: Слог Хангыль bbinj
+C096: Слог Хангыль bbinh
+C097: Слог Хангыль bbid
+C098: Слог Хангыль bbil
+C099: Слог Хангыль bbilg
+C09A: Слог Хангыль bbilm
+C09B: Слог Хангыль bbilb
+C09C: Слог Хангыль bbils
+C09D: Слог Хангыль bbilt
+C09E: Слог Хангыль bbilp
+C09F: Слог Хангыль bbilh
+C0A0: Слог Хангыль bbim
+C0A1: Слог Хангыль bbib
+C0A2: Слог Хангыль bbibs
+C0A3: Слог Хангыль bbis
+C0A4: Слог Хангыль bbiss
+C0A5: Слог Хангыль bbing
+C0A6: Слог Хангыль bbij
+C0A7: Слог Хангыль bbic
+C0A8: Слог Хангыль bbik
+C0A9: Слог Хангыль bbit
+C0AA: Слог Хангыль bbip
+C0AB: Слог Хангыль bbih
+C0AC: Слог Хангыль sa
+C0AD: Слог Хангыль sag
+C0AE: Слог Хангыль sagg
+C0AF: Слог Хангыль sags
+C0B0: Слог Хангыль san
+C0B1: Слог Хангыль sanj
+C0B2: Слог Хангыль sanh
+C0B3: Слог Хангыль sad
+C0B4: Слог Хангыль sal
+C0B5: Слог Хангыль salg
+C0B6: Слог Хангыль salm
+C0B7: Слог Хангыль salb
+C0B8: Слог Хангыль sals
+C0B9: Слог Хангыль salt
+C0BA: Слог Хангыль salp
+C0BB: Слог Хангыль salh
+C0BC: Слог Хангыль sam
+C0BD: Слог Хангыль sab
+C0BE: Слог Хангыль sabs
+C0BF: Слог Хангыль sas
+C0C0: Слог Хангыль sass
+C0C1: Слог Хангыль sang
+C0C2: Слог Хангыль saj
+C0C3: Слог Хангыль sac
+C0C4: Слог Хангыль sak
+C0C5: Слог Хангыль sat
+C0C6: Слог Хангыль sap
+C0C7: Слог Хангыль sah
+C0C8: Слог Хангыль sae
+C0C9: Слог Хангыль saeg
+C0CA: Слог Хангыль saegg
+C0CB: Слог Хангыль saegs
+C0CC: Слог Хангыль saen
+C0CD: Слог Хангыль saenj
+C0CE: Слог Хангыль saenh
+C0CF: Слог Хангыль saed
+C0D0: Слог Хангыль sael
+C0D1: Слог Хангыль saelg
+C0D2: Слог Хангыль saelm
+C0D3: Слог Хангыль saelb
+C0D4: Слог Хангыль saels
+C0D5: Слог Хангыль saelt
+C0D6: Слог Хангыль saelp
+C0D7: Слог Хангыль saelh
+C0D8: Слог Хангыль saem
+C0D9: Слог Хангыль saeb
+C0DA: Слог Хангыль saebs
+C0DB: Слог Хангыль saes
+C0DC: Слог Хангыль saess
+C0DD: Слог Хангыль saeng
+C0DE: Слог Хангыль saej
+C0DF: Слог Хангыль saec
+C0E0: Слог Хангыль saek
+C0E1: Слог Хангыль saet
+C0E2: Слог Хангыль saep
+C0E3: Слог Хангыль saeh
+C0E4: Слог Хангыль sya
+C0E5: Слог Хангыль syag
+C0E6: Слог Хангыль syagg
+C0E7: Слог Хангыль syags
+C0E8: Слог Хангыль syan
+C0E9: Слог Хангыль syanj
+C0EA: Слог Хангыль syanh
+C0EB: Слог Хангыль syad
+C0EC: Слог Хангыль syal
+C0ED: Слог Хангыль syalg
+C0EE: Слог Хангыль syalm
+C0EF: Слог Хангыль syalb
+C0F0: Слог Хангыль syals
+C0F1: Слог Хангыль syalt
+C0F2: Слог Хангыль syalp
+C0F3: Слог Хангыль syalh
+C0F4: Слог Хангыль syam
+C0F5: Слог Хангыль syab
+C0F6: Слог Хангыль syabs
+C0F7: Слог Хангыль syas
+C0F8: Слог Хангыль syass
+C0F9: Слог Хангыль syang
+C0FA: Слог Хангыль syaj
+C0FB: Слог Хангыль syac
+C0FC: Слог Хангыль syak
+C0FD: Слог Хангыль syat
+C0FE: Слог Хангыль syap
+C0FF: Слог Хангыль syah

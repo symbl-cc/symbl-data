@@ -1,256 +1,256 @@
-A200 : И слог kax
-A201 : И слог ka
-A202 : И слог kap
-A203 : И слог kuox
-A204 : И слог kuo
-A205 : И слог kuop
-A206 : И слог kot
-A207 : И слог kox
-A208 : И слог ko
-A209 : И слог kop
-A20A : И слог ket
-A20B : И слог kex
-A20C : И слог ke
-A20D : И слог kep
-A20E : И слог kut
-A20F : И слог kux
-A210 : И слог ku
-A211 : И слог kup
-A212 : И слог kurx
-A213 : И слог kur
-A214 : И слог ggit
-A215 : И слог ggix
-A216 : И слог ggi
-A217 : И слог ggiex
-A218 : И слог ggie
-A219 : И слог ggiep
-A21A : И слог ggat
-A21B : И слог ggax
-A21C : И слог gga
-A21D : И слог ggap
-A21E : И слог gguot
-A21F : И слог gguox
-A220 : И слог gguo
-A221 : И слог gguop
-A222 : И слог ggot
-A223 : И слог ggox
-A224 : И слог ggo
-A225 : И слог ggop
-A226 : И слог gget
-A227 : И слог ggex
-A228 : И слог gge
-A229 : И слог ggep
-A22A : И слог ggut
-A22B : И слог ggux
-A22C : И слог ggu
-A22D : И слог ggup
-A22E : И слог ggurx
-A22F : И слог ggur
-A230 : И слог mgiex
-A231 : И слог mgie
-A232 : И слог mgat
-A233 : И слог mgax
-A234 : И слог mga
-A235 : И слог mgap
-A236 : И слог mguox
-A237 : И слог mguo
-A238 : И слог mguop
-A239 : И слог mgot
-A23A : И слог mgox
-A23B : И слог mgo
-A23C : И слог mgop
-A23D : И слог mgex
-A23E : И слог mge
-A23F : И слог mgep
-A240 : И слог mgut
-A241 : И слог mgux
-A242 : И слог mgu
-A243 : И слог mgup
-A244 : И слог mgurx
-A245 : И слог mgur
-A246 : И слог hxit
-A247 : И слог hxix
-A248 : И слог hxi
-A249 : И слог hxip
-A24A : И слог hxiet
-A24B : И слог hxiex
-A24C : И слог hxie
-A24D : И слог hxiep
-A24E : И слог hxat
-A24F : И слог hxax
-A250 : И слог hxa
-A251 : И слог hxap
-A252 : И слог hxuot
-A253 : И слог hxuox
-A254 : И слог hxuo
-A255 : И слог hxuop
-A256 : И слог hxot
-A257 : И слог hxox
-A258 : И слог hxo
-A259 : И слог hxop
-A25A : И слог hxex
-A25B : И слог hxe
-A25C : И слог hxep
-A25D : И слог ngiex
-A25E : И слог ngie
-A25F : И слог ngiep
-A260 : И слог ngat
-A261 : И слог ngax
-A262 : И слог nga
-A263 : И слог ngap
-A264 : И слог nguot
-A265 : И слог nguox
-A266 : И слог nguo
-A267 : И слог ngot
-A268 : И слог ngox
-A269 : И слог ngo
-A26A : И слог ngop
-A26B : И слог ngex
-A26C : И слог nge
-A26D : И слог ngep
-A26E : И слог hit
-A26F : И слог hiex
-A270 : И слог hie
-A271 : И слог hat
-A272 : И слог hax
-A273 : И слог ha
-A274 : И слог hap
-A275 : И слог huot
-A276 : И слог huox
-A277 : И слог huo
-A278 : И слог huop
-A279 : И слог hot
-A27A : И слог hox
-A27B : И слог ho
-A27C : И слог hop
-A27D : И слог hex
-A27E : И слог he
-A27F : И слог hep
-A280 : И слог wat
-A281 : И слог wax
-A282 : И слог wa
-A283 : И слог wap
-A284 : И слог wuox
-A285 : И слог wuo
-A286 : И слог wuop
-A287 : И слог wox
-A288 : И слог wo
-A289 : И слог wop
-A28A : И слог wex
-A28B : И слог we
-A28C : И слог wep
-A28D : И слог zit
-A28E : И слог zix
-A28F : И слог zi
-A290 : И слог zip
-A291 : И слог ziex
-A292 : И слог zie
-A293 : И слог ziep
-A294 : И слог zat
-A295 : И слог zax
-A296 : И слог za
-A297 : И слог zap
-A298 : И слог zuox
-A299 : И слог zuo
-A29A : И слог zuop
-A29B : И слог zot
-A29C : И слог zox
-A29D : И слог zo
-A29E : И слог zop
-A29F : И слог zex
-A2A0 : И слог ze
-A2A1 : И слог zep
-A2A2 : И слог zut
-A2A3 : И слог zux
-A2A4 : И слог zu
-A2A5 : И слог zup
-A2A6 : И слог zurx
-A2A7 : И слог zur
-A2A8 : И слог zyt
-A2A9 : И слог zyx
-A2AA : И слог zy
-A2AB : И слог zyp
-A2AC : И слог zyrx
-A2AD : И слог zyr
-A2AE : И слог cit
-A2AF : И слог cix
-A2B0 : И слог ci
-A2B1 : И слог cip
-A2B2 : И слог ciet
-A2B3 : И слог ciex
-A2B4 : И слог cie
-A2B5 : И слог ciep
-A2B6 : И слог cat
-A2B7 : И слог cax
-A2B8 : И слог ca
-A2B9 : И слог cap
-A2BA : И слог cuox
-A2BB : И слог cuo
-A2BC : И слог cuop
-A2BD : И слог cot
-A2BE : И слог cox
-A2BF : И слог co
-A2C0 : И слог cop
-A2C1 : И слог cex
-A2C2 : И слог ce
-A2C3 : И слог cep
-A2C4 : И слог cut
-A2C5 : И слог cux
-A2C6 : И слог cu
-A2C7 : И слог cup
-A2C8 : И слог curx
-A2C9 : И слог cur
-A2CA : И слог cyt
-A2CB : И слог cyx
-A2CC : И слог cy
-A2CD : И слог cyp
-A2CE : И слог cyrx
-A2CF : И слог cyr
-A2D0 : И слог zzit
-A2D1 : И слог zzix
-A2D2 : И слог zzi
-A2D3 : И слог zzip
-A2D4 : И слог zziet
-A2D5 : И слог zziex
-A2D6 : И слог zzie
-A2D7 : И слог zziep
-A2D8 : И слог zzat
-A2D9 : И слог zzax
-A2DA : И слог zza
-A2DB : И слог zzap
-A2DC : И слог zzox
-A2DD : И слог zzo
-A2DE : И слог zzop
-A2DF : И слог zzex
-A2E0 : И слог zze
-A2E1 : И слог zzep
-A2E2 : И слог zzux
-A2E3 : И слог zzu
-A2E4 : И слог zzup
-A2E5 : И слог zzurx
-A2E6 : И слог zzur
-A2E7 : И слог zzyt
-A2E8 : И слог zzyx
-A2E9 : И слог zzy
-A2EA : И слог zzyp
-A2EB : И слог zzyrx
-A2EC : И слог zzyr
-A2ED : И слог nzit
-A2EE : И слог nzix
-A2EF : И слог nzi
-A2F0 : И слог nzip
-A2F1 : И слог nziex
-A2F2 : И слог nzie
-A2F3 : И слог nziep
-A2F4 : И слог nzat
-A2F5 : И слог nzax
-A2F6 : И слог nza
-A2F7 : И слог nzap
-A2F8 : И слог nzuox
-A2F9 : И слог nzuo
-A2FA : И слог nzox
-A2FB : И слог nzop
-A2FC : И слог nzex
-A2FD : И слог nze
-A2FE : И слог nzux
-A2FF : И слог nzu
+A200: И слог kax
+A201: И слог ka
+A202: И слог kap
+A203: И слог kuox
+A204: И слог kuo
+A205: И слог kuop
+A206: И слог kot
+A207: И слог kox
+A208: И слог ko
+A209: И слог kop
+A20A: И слог ket
+A20B: И слог kex
+A20C: И слог ke
+A20D: И слог kep
+A20E: И слог kut
+A20F: И слог kux
+A210: И слог ku
+A211: И слог kup
+A212: И слог kurx
+A213: И слог kur
+A214: И слог ggit
+A215: И слог ggix
+A216: И слог ggi
+A217: И слог ggiex
+A218: И слог ggie
+A219: И слог ggiep
+A21A: И слог ggat
+A21B: И слог ggax
+A21C: И слог gga
+A21D: И слог ggap
+A21E: И слог gguot
+A21F: И слог gguox
+A220: И слог gguo
+A221: И слог gguop
+A222: И слог ggot
+A223: И слог ggox
+A224: И слог ggo
+A225: И слог ggop
+A226: И слог gget
+A227: И слог ggex
+A228: И слог gge
+A229: И слог ggep
+A22A: И слог ggut
+A22B: И слог ggux
+A22C: И слог ggu
+A22D: И слог ggup
+A22E: И слог ggurx
+A22F: И слог ggur
+A230: И слог mgiex
+A231: И слог mgie
+A232: И слог mgat
+A233: И слог mgax
+A234: И слог mga
+A235: И слог mgap
+A236: И слог mguox
+A237: И слог mguo
+A238: И слог mguop
+A239: И слог mgot
+A23A: И слог mgox
+A23B: И слог mgo
+A23C: И слог mgop
+A23D: И слог mgex
+A23E: И слог mge
+A23F: И слог mgep
+A240: И слог mgut
+A241: И слог mgux
+A242: И слог mgu
+A243: И слог mgup
+A244: И слог mgurx
+A245: И слог mgur
+A246: И слог hxit
+A247: И слог hxix
+A248: И слог hxi
+A249: И слог hxip
+A24A: И слог hxiet
+A24B: И слог hxiex
+A24C: И слог hxie
+A24D: И слог hxiep
+A24E: И слог hxat
+A24F: И слог hxax
+A250: И слог hxa
+A251: И слог hxap
+A252: И слог hxuot
+A253: И слог hxuox
+A254: И слог hxuo
+A255: И слог hxuop
+A256: И слог hxot
+A257: И слог hxox
+A258: И слог hxo
+A259: И слог hxop
+A25A: И слог hxex
+A25B: И слог hxe
+A25C: И слог hxep
+A25D: И слог ngiex
+A25E: И слог ngie
+A25F: И слог ngiep
+A260: И слог ngat
+A261: И слог ngax
+A262: И слог nga
+A263: И слог ngap
+A264: И слог nguot
+A265: И слог nguox
+A266: И слог nguo
+A267: И слог ngot
+A268: И слог ngox
+A269: И слог ngo
+A26A: И слог ngop
+A26B: И слог ngex
+A26C: И слог nge
+A26D: И слог ngep
+A26E: И слог hit
+A26F: И слог hiex
+A270: И слог hie
+A271: И слог hat
+A272: И слог hax
+A273: И слог ha
+A274: И слог hap
+A275: И слог huot
+A276: И слог huox
+A277: И слог huo
+A278: И слог huop
+A279: И слог hot
+A27A: И слог hox
+A27B: И слог ho
+A27C: И слог hop
+A27D: И слог hex
+A27E: И слог he
+A27F: И слог hep
+A280: И слог wat
+A281: И слог wax
+A282: И слог wa
+A283: И слог wap
+A284: И слог wuox
+A285: И слог wuo
+A286: И слог wuop
+A287: И слог wox
+A288: И слог wo
+A289: И слог wop
+A28A: И слог wex
+A28B: И слог we
+A28C: И слог wep
+A28D: И слог zit
+A28E: И слог zix
+A28F: И слог zi
+A290: И слог zip
+A291: И слог ziex
+A292: И слог zie
+A293: И слог ziep
+A294: И слог zat
+A295: И слог zax
+A296: И слог za
+A297: И слог zap
+A298: И слог zuox
+A299: И слог zuo
+A29A: И слог zuop
+A29B: И слог zot
+A29C: И слог zox
+A29D: И слог zo
+A29E: И слог zop
+A29F: И слог zex
+A2A0: И слог ze
+A2A1: И слог zep
+A2A2: И слог zut
+A2A3: И слог zux
+A2A4: И слог zu
+A2A5: И слог zup
+A2A6: И слог zurx
+A2A7: И слог zur
+A2A8: И слог zyt
+A2A9: И слог zyx
+A2AA: И слог zy
+A2AB: И слог zyp
+A2AC: И слог zyrx
+A2AD: И слог zyr
+A2AE: И слог cit
+A2AF: И слог cix
+A2B0: И слог ci
+A2B1: И слог cip
+A2B2: И слог ciet
+A2B3: И слог ciex
+A2B4: И слог cie
+A2B5: И слог ciep
+A2B6: И слог cat
+A2B7: И слог cax
+A2B8: И слог ca
+A2B9: И слог cap
+A2BA: И слог cuox
+A2BB: И слог cuo
+A2BC: И слог cuop
+A2BD: И слог cot
+A2BE: И слог cox
+A2BF: И слог co
+A2C0: И слог cop
+A2C1: И слог cex
+A2C2: И слог ce
+A2C3: И слог cep
+A2C4: И слог cut
+A2C5: И слог cux
+A2C6: И слог cu
+A2C7: И слог cup
+A2C8: И слог curx
+A2C9: И слог cur
+A2CA: И слог cyt
+A2CB: И слог cyx
+A2CC: И слог cy
+A2CD: И слог cyp
+A2CE: И слог cyrx
+A2CF: И слог cyr
+A2D0: И слог zzit
+A2D1: И слог zzix
+A2D2: И слог zzi
+A2D3: И слог zzip
+A2D4: И слог zziet
+A2D5: И слог zziex
+A2D6: И слог zzie
+A2D7: И слог zziep
+A2D8: И слог zzat
+A2D9: И слог zzax
+A2DA: И слог zza
+A2DB: И слог zzap
+A2DC: И слог zzox
+A2DD: И слог zzo
+A2DE: И слог zzop
+A2DF: И слог zzex
+A2E0: И слог zze
+A2E1: И слог zzep
+A2E2: И слог zzux
+A2E3: И слог zzu
+A2E4: И слог zzup
+A2E5: И слог zzurx
+A2E6: И слог zzur
+A2E7: И слог zzyt
+A2E8: И слог zzyx
+A2E9: И слог zzy
+A2EA: И слог zzyp
+A2EB: И слог zzyrx
+A2EC: И слог zzyr
+A2ED: И слог nzit
+A2EE: И слог nzix
+A2EF: И слог nzi
+A2F0: И слог nzip
+A2F1: И слог nziex
+A2F2: И слог nzie
+A2F3: И слог nziep
+A2F4: И слог nzat
+A2F5: И слог nzax
+A2F6: И слог nza
+A2F7: И слог nzap
+A2F8: И слог nzuox
+A2F9: И слог nzuo
+A2FA: И слог nzox
+A2FB: И слог nzop
+A2FC: И слог nzex
+A2FD: И слог nze
+A2FE: И слог nzux
+A2FF: И слог nzu

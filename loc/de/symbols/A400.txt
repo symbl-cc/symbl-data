@@ -1,256 +1,256 @@
-A400 : Yi syllable qiet
-A401 : Yi syllable qiex
-A402 : Yi syllable qie
-A403 : Yi syllable qiep
-A404 : Yi syllable quot
-A405 : Yi syllable quox
-A406 : Yi syllable quo
-A407 : Yi syllable quop
-A408 : Yi syllable qot
-A409 : Yi syllable qox
-A40A : Yi syllable qo
-A40B : Yi syllable qop
-A40C : Yi syllable qut
-A40D : Yi syllable qux
-A40E : Yi syllable qu
-A40F : Yi syllable qup
-A410 : Yi syllable qurx
-A411 : Yi syllable qur
-A412 : Yi syllable qyt
-A413 : Yi syllable qyx
-A414 : Yi syllable qy
-A415 : Yi syllable qyp
-A416 : Yi syllable qyrx
-A417 : Yi syllable qyr
-A418 : Yi syllable jjit
-A419 : Yi syllable jjix
-A41A : Yi syllable jji
-A41B : Yi syllable jjip
-A41C : Yi syllable jjiet
-A41D : Yi syllable jjiex
-A41E : Yi syllable jjie
-A41F : Yi syllable jjiep
-A420 : Yi syllable jjuox
-A421 : Yi syllable jjuo
-A422 : Yi syllable jjuop
-A423 : Yi syllable jjot
-A424 : Yi syllable jjox
-A425 : Yi syllable jjo
-A426 : Yi syllable jjop
-A427 : Yi syllable jjut
-A428 : Yi syllable jjux
-A429 : Yi syllable jju
-A42A : Yi syllable jjup
-A42B : Yi syllable jjurx
-A42C : Yi syllable jjur
-A42D : Yi syllable jjyt
-A42E : Yi syllable jjyx
-A42F : Yi syllable jjy
-A430 : Yi syllable jjyp
-A431 : Yi syllable njit
-A432 : Yi syllable njix
-A433 : Yi syllable nji
-A434 : Yi syllable njip
-A435 : Yi syllable njiet
-A436 : Yi syllable njiex
-A437 : Yi syllable njie
-A438 : Yi syllable njiep
-A439 : Yi syllable njuox
-A43A : Yi syllable njuo
-A43B : Yi syllable njot
-A43C : Yi syllable njox
-A43D : Yi syllable njo
-A43E : Yi syllable njop
-A43F : Yi syllable njux
-A440 : Yi syllable nju
-A441 : Yi syllable njup
-A442 : Yi syllable njurx
-A443 : Yi syllable njur
-A444 : Yi syllable njyt
-A445 : Yi syllable njyx
-A446 : Yi syllable njy
-A447 : Yi syllable njyp
-A448 : Yi syllable njyrx
-A449 : Yi syllable njyr
-A44A : Yi syllable nyit
-A44B : Yi syllable nyix
-A44C : Yi syllable nyi
-A44D : Yi syllable nyip
-A44E : Yi syllable nyiet
-A44F : Yi syllable nyiex
-A450 : Yi syllable nyie
-A451 : Yi syllable nyiep
-A452 : Yi syllable nyuox
-A453 : Yi syllable nyuo
-A454 : Yi syllable nyuop
-A455 : Yi syllable nyot
-A456 : Yi syllable nyox
-A457 : Yi syllable nyo
-A458 : Yi syllable nyop
-A459 : Yi syllable nyut
-A45A : Yi syllable nyux
-A45B : Yi syllable nyu
-A45C : Yi syllable nyup
-A45D : Yi syllable xit
-A45E : Yi syllable xix
-A45F : Yi syllable xi
-A460 : Yi syllable xip
-A461 : Yi syllable xiet
-A462 : Yi syllable xiex
-A463 : Yi syllable xie
-A464 : Yi syllable xiep
-A465 : Yi syllable xuox
-A466 : Yi syllable xuo
-A467 : Yi syllable xot
-A468 : Yi syllable xox
-A469 : Yi syllable xo
-A46A : Yi syllable xop
-A46B : Yi syllable xyt
-A46C : Yi syllable xyx
-A46D : Yi syllable xy
-A46E : Yi syllable xyp
-A46F : Yi syllable xyrx
-A470 : Yi syllable xyr
-A471 : Yi syllable yit
-A472 : Yi syllable yix
-A473 : Yi syllable yi
-A474 : Yi syllable yip
-A475 : Yi syllable yiet
-A476 : Yi syllable yiex
-A477 : Yi syllable yie
-A478 : Yi syllable yiep
-A479 : Yi syllable yuot
-A47A : Yi syllable yuox
-A47B : Yi syllable yuo
-A47C : Yi syllable yuop
-A47D : Yi syllable yot
-A47E : Yi syllable yox
-A47F : Yi syllable yo
-A480 : Yi syllable yop
-A481 : Yi syllable yut
-A482 : Yi syllable yux
-A483 : Yi syllable yu
-A484 : Yi syllable yup
-A485 : Yi syllable yurx
-A486 : Yi syllable yur
-A487 : Yi syllable yyt
-A488 : Yi syllable yyx
-A489 : Yi syllable yy
-A48A : Yi syllable yyp
-A48B : Yi syllable yyrx
-A48C : Yi syllable yyr
-A48D : 
-A48E : 
-A48F : 
-A490 : Yi radical qot
-A491 : Yi radical li
-A492 : Yi radical kit
-A493 : Yi radical nyip
-A494 : Yi radical cyp
-A495 : Yi radical ssi
-A496 : Yi radical ggop
-A497 : Yi radical gep
-A498 : Yi radical mi
-A499 : Yi radical hxit
-A49A : Yi radical lyr
-A49B : Yi radical bbut
-A49C : Yi radical mop
-A49D : Yi radical yo
-A49E : Yi radical put
-A49F : Yi radical hxuo
-A4A0 : Yi radical tat
-A4A1 : Yi radical ga
-A4A2 : Yi radical zup
-A4A3 : Yi radical cyt
-A4A4 : Yi radical ddur
-A4A5 : Yi radical bur
-A4A6 : Yi radical gguo
-A4A7 : Yi radical nyop
-A4A8 : Yi radical tu
-A4A9 : Yi radical op
-A4AA : Yi radical jjut
-A4AB : Yi radical zot
-A4AC : Yi radical pyt
-A4AD : Yi radical hmo
-A4AE : Yi radical yit
-A4AF : Yi radical vur
-A4B0 : Yi radical shy
-A4B1 : Yi radical vep
-A4B2 : Yi radical za
-A4B3 : Yi radical jo
-A4B4 : Yi radical nzup
-A4B5 : Yi radical jjy
-A4B6 : Yi radical got
-A4B7 : Yi radical jjie
-A4B8 : Yi radical wo
-A4B9 : Yi radical du
-A4BA : Yi radical shur
-A4BB : Yi radical lie
-A4BC : Yi radical cy
-A4BD : Yi radical cuop
-A4BE : Yi radical cip
-A4BF : Yi radical hxop
-A4C0 : Yi radical shat
-A4C1 : Yi radical zur
-A4C2 : Yi radical shop
-A4C3 : Yi radical che
-A4C4 : Yi radical zziet
-A4C5 : Yi radical nbie
-A4C6 : Yi radical ke
-A4C7 : 
-A4C8 : 
-A4C9 : 
-A4CA : 
-A4CB : 
-A4CC : 
-A4CD : 
-A4CE : 
-A4CF : 
-A4D0 : Lisu letter ba
-A4D1 : Lisu letter pa
-A4D2 : Lisu letter pha
-A4D3 : Lisu letter da
-A4D4 : Lisu letter ta
-A4D5 : Lisu letter tha
-A4D6 : Lisu letter ga
-A4D7 : Lisu letter ka
-A4D8 : Lisu letter kha
-A4D9 : Lisu letter ja
-A4DA : Lisu letter ca
-A4DB : Lisu letter cha
-A4DC : Lisu letter dza
-A4DD : Lisu letter tsa
-A4DE : Lisu letter tsha
-A4DF : Lisu letter ma
-A4E0 : Lisu letter na
-A4E1 : Lisu letter la
-A4E2 : Lisu letter sa
-A4E3 : Lisu letter zha
-A4E4 : Lisu letter za
-A4E5 : Lisu letter nga
-A4E6 : Lisu letter ha
-A4E7 : Lisu letter xa
-A4E8 : Lisu letter hha
-A4E9 : Lisu letter fa
-A4EA : Lisu letter wa
-A4EB : Lisu letter sha
-A4EC : Lisu letter ya
-A4ED : Lisu letter gha
-A4EE : Lisu letter a
-A4EF : Lisu letter ae
-A4F0 : Lisu letter e
-A4F1 : Lisu letter eu
-A4F2 : Lisu letter i
-A4F3 : Lisu letter o
-A4F4 : Lisu letter u
-A4F5 : Lisu letter ue
-A4F6 : Lisu letter uh
-A4F7 : Lisu letter oe
-A4F8 : Lisu letter tone mya ti
-A4F9 : Lisu letter tone na po
-A4FA : Lisu letter tone mya cya
-A4FB : Lisu letter tone mya bo
-A4FC : Lisu letter tone mya na
-A4FD : Lisu letter tone mya jeu
-A4FE : Lisu punctuation comma
-A4FF : Lisu punctuation full stop
+A400: Yi syllable qiet
+A401: Yi syllable qiex
+A402: Yi syllable qie
+A403: Yi syllable qiep
+A404: Yi syllable quot
+A405: Yi syllable quox
+A406: Yi syllable quo
+A407: Yi syllable quop
+A408: Yi syllable qot
+A409: Yi syllable qox
+A40A: Yi syllable qo
+A40B: Yi syllable qop
+A40C: Yi syllable qut
+A40D: Yi syllable qux
+A40E: Yi syllable qu
+A40F: Yi syllable qup
+A410: Yi syllable qurx
+A411: Yi syllable qur
+A412: Yi syllable qyt
+A413: Yi syllable qyx
+A414: Yi syllable qy
+A415: Yi syllable qyp
+A416: Yi syllable qyrx
+A417: Yi syllable qyr
+A418: Yi syllable jjit
+A419: Yi syllable jjix
+A41A: Yi syllable jji
+A41B: Yi syllable jjip
+A41C: Yi syllable jjiet
+A41D: Yi syllable jjiex
+A41E: Yi syllable jjie
+A41F: Yi syllable jjiep
+A420: Yi syllable jjuox
+A421: Yi syllable jjuo
+A422: Yi syllable jjuop
+A423: Yi syllable jjot
+A424: Yi syllable jjox
+A425: Yi syllable jjo
+A426: Yi syllable jjop
+A427: Yi syllable jjut
+A428: Yi syllable jjux
+A429: Yi syllable jju
+A42A: Yi syllable jjup
+A42B: Yi syllable jjurx
+A42C: Yi syllable jjur
+A42D: Yi syllable jjyt
+A42E: Yi syllable jjyx
+A42F: Yi syllable jjy
+A430: Yi syllable jjyp
+A431: Yi syllable njit
+A432: Yi syllable njix
+A433: Yi syllable nji
+A434: Yi syllable njip
+A435: Yi syllable njiet
+A436: Yi syllable njiex
+A437: Yi syllable njie
+A438: Yi syllable njiep
+A439: Yi syllable njuox
+A43A: Yi syllable njuo
+A43B: Yi syllable njot
+A43C: Yi syllable njox
+A43D: Yi syllable njo
+A43E: Yi syllable njop
+A43F: Yi syllable njux
+A440: Yi syllable nju
+A441: Yi syllable njup
+A442: Yi syllable njurx
+A443: Yi syllable njur
+A444: Yi syllable njyt
+A445: Yi syllable njyx
+A446: Yi syllable njy
+A447: Yi syllable njyp
+A448: Yi syllable njyrx
+A449: Yi syllable njyr
+A44A: Yi syllable nyit
+A44B: Yi syllable nyix
+A44C: Yi syllable nyi
+A44D: Yi syllable nyip
+A44E: Yi syllable nyiet
+A44F: Yi syllable nyiex
+A450: Yi syllable nyie
+A451: Yi syllable nyiep
+A452: Yi syllable nyuox
+A453: Yi syllable nyuo
+A454: Yi syllable nyuop
+A455: Yi syllable nyot
+A456: Yi syllable nyox
+A457: Yi syllable nyo
+A458: Yi syllable nyop
+A459: Yi syllable nyut
+A45A: Yi syllable nyux
+A45B: Yi syllable nyu
+A45C: Yi syllable nyup
+A45D: Yi syllable xit
+A45E: Yi syllable xix
+A45F: Yi syllable xi
+A460: Yi syllable xip
+A461: Yi syllable xiet
+A462: Yi syllable xiex
+A463: Yi syllable xie
+A464: Yi syllable xiep
+A465: Yi syllable xuox
+A466: Yi syllable xuo
+A467: Yi syllable xot
+A468: Yi syllable xox
+A469: Yi syllable xo
+A46A: Yi syllable xop
+A46B: Yi syllable xyt
+A46C: Yi syllable xyx
+A46D: Yi syllable xy
+A46E: Yi syllable xyp
+A46F: Yi syllable xyrx
+A470: Yi syllable xyr
+A471: Yi syllable yit
+A472: Yi syllable yix
+A473: Yi syllable yi
+A474: Yi syllable yip
+A475: Yi syllable yiet
+A476: Yi syllable yiex
+A477: Yi syllable yie
+A478: Yi syllable yiep
+A479: Yi syllable yuot
+A47A: Yi syllable yuox
+A47B: Yi syllable yuo
+A47C: Yi syllable yuop
+A47D: Yi syllable yot
+A47E: Yi syllable yox
+A47F: Yi syllable yo
+A480: Yi syllable yop
+A481: Yi syllable yut
+A482: Yi syllable yux
+A483: Yi syllable yu
+A484: Yi syllable yup
+A485: Yi syllable yurx
+A486: Yi syllable yur
+A487: Yi syllable yyt
+A488: Yi syllable yyx
+A489: Yi syllable yy
+A48A: Yi syllable yyp
+A48B: Yi syllable yyrx
+A48C: Yi syllable yyr
+A48D:
+A48E:
+A48F:
+A490: Yi radical qot
+A491: Yi radical li
+A492: Yi radical kit
+A493: Yi radical nyip
+A494: Yi radical cyp
+A495: Yi radical ssi
+A496: Yi radical ggop
+A497: Yi radical gep
+A498: Yi radical mi
+A499: Yi radical hxit
+A49A: Yi radical lyr
+A49B: Yi radical bbut
+A49C: Yi radical mop
+A49D: Yi radical yo
+A49E: Yi radical put
+A49F: Yi radical hxuo
+A4A0: Yi radical tat
+A4A1: Yi radical ga
+A4A2: Yi radical zup
+A4A3: Yi radical cyt
+A4A4: Yi radical ddur
+A4A5: Yi radical bur
+A4A6: Yi radical gguo
+A4A7: Yi radical nyop
+A4A8: Yi radical tu
+A4A9: Yi radical op
+A4AA: Yi radical jjut
+A4AB: Yi radical zot
+A4AC: Yi radical pyt
+A4AD: Yi radical hmo
+A4AE: Yi radical yit
+A4AF: Yi radical vur
+A4B0: Yi radical shy
+A4B1: Yi radical vep
+A4B2: Yi radical za
+A4B3: Yi radical jo
+A4B4: Yi radical nzup
+A4B5: Yi radical jjy
+A4B6: Yi radical got
+A4B7: Yi radical jjie
+A4B8: Yi radical wo
+A4B9: Yi radical du
+A4BA: Yi radical shur
+A4BB: Yi radical lie
+A4BC: Yi radical cy
+A4BD: Yi radical cuop
+A4BE: Yi radical cip
+A4BF: Yi radical hxop
+A4C0: Yi radical shat
+A4C1: Yi radical zur
+A4C2: Yi radical shop
+A4C3: Yi radical che
+A4C4: Yi radical zziet
+A4C5: Yi radical nbie
+A4C6: Yi radical ke
+A4C7:
+A4C8:
+A4C9:
+A4CA:
+A4CB:
+A4CC:
+A4CD:
+A4CE:
+A4CF:
+A4D0: Lisu letter ba
+A4D1: Lisu letter pa
+A4D2: Lisu letter pha
+A4D3: Lisu letter da
+A4D4: Lisu letter ta
+A4D5: Lisu letter tha
+A4D6: Lisu letter ga
+A4D7: Lisu letter ka
+A4D8: Lisu letter kha
+A4D9: Lisu letter ja
+A4DA: Lisu letter ca
+A4DB: Lisu letter cha
+A4DC: Lisu letter dza
+A4DD: Lisu letter tsa
+A4DE: Lisu letter tsha
+A4DF: Lisu letter ma
+A4E0: Lisu letter na
+A4E1: Lisu letter la
+A4E2: Lisu letter sa
+A4E3: Lisu letter zha
+A4E4: Lisu letter za
+A4E5: Lisu letter nga
+A4E6: Lisu letter ha
+A4E7: Lisu letter xa
+A4E8: Lisu letter hha
+A4E9: Lisu letter fa
+A4EA: Lisu letter wa
+A4EB: Lisu letter sha
+A4EC: Lisu letter ya
+A4ED: Lisu letter gha
+A4EE: Lisu letter a
+A4EF: Lisu letter ae
+A4F0: Lisu letter e
+A4F1: Lisu letter eu
+A4F2: Lisu letter i
+A4F3: Lisu letter o
+A4F4: Lisu letter u
+A4F5: Lisu letter ue
+A4F6: Lisu letter uh
+A4F7: Lisu letter oe
+A4F8: Lisu letter tone mya ti
+A4F9: Lisu letter tone na po
+A4FA: Lisu letter tone mya cya
+A4FB: Lisu letter tone mya bo
+A4FC: Lisu letter tone mya na
+A4FD: Lisu letter tone mya jeu
+A4FE: Lisu punctuation comma
+A4FF: Lisu punctuation full stop

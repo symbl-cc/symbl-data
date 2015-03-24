@@ -1,256 +1,256 @@
-CC00 : Слог Хангыль jjyim
-CC01 : Слог Хангыль jjyib
-CC02 : Слог Хангыль jjyibs
-CC03 : Слог Хангыль jjyis
-CC04 : Слог Хангыль jjyiss
-CC05 : Слог Хангыль jjying
-CC06 : Слог Хангыль jjyij
-CC07 : Слог Хангыль jjyic
-CC08 : Слог Хангыль jjyik
-CC09 : Слог Хангыль jjyit
-CC0A : Слог Хангыль jjyip
-CC0B : Слог Хангыль jjyih
-CC0C : Слог Хангыль jji
-CC0D : Слог Хангыль jjig
-CC0E : Слог Хангыль jjigg
-CC0F : Слог Хангыль jjigs
-CC10 : Слог Хангыль jjin
-CC11 : Слог Хангыль jjinj
-CC12 : Слог Хангыль jjinh
-CC13 : Слог Хангыль jjid
-CC14 : Слог Хангыль jjil
-CC15 : Слог Хангыль jjilg
-CC16 : Слог Хангыль jjilm
-CC17 : Слог Хангыль jjilb
-CC18 : Слог Хангыль jjils
-CC19 : Слог Хангыль jjilt
-CC1A : Слог Хангыль jjilp
-CC1B : Слог Хангыль jjilh
-CC1C : Слог Хангыль jjim
-CC1D : Слог Хангыль jjib
-CC1E : Слог Хангыль jjibs
-CC1F : Слог Хангыль jjis
-CC20 : Слог Хангыль jjiss
-CC21 : Слог Хангыль jjing
-CC22 : Слог Хангыль jjij
-CC23 : Слог Хангыль jjic
-CC24 : Слог Хангыль jjik
-CC25 : Слог Хангыль jjit
-CC26 : Слог Хангыль jjip
-CC27 : Слог Хангыль jjih
-CC28 : Слог Хангыль ca
-CC29 : Слог Хангыль cag
-CC2A : Слог Хангыль cagg
-CC2B : Слог Хангыль cags
-CC2C : Слог Хангыль can
-CC2D : Слог Хангыль canj
-CC2E : Слог Хангыль canh
-CC2F : Слог Хангыль cad
-CC30 : Слог Хангыль cal
-CC31 : Слог Хангыль calg
-CC32 : Слог Хангыль calm
-CC33 : Слог Хангыль calb
-CC34 : Слог Хангыль cals
-CC35 : Слог Хангыль calt
-CC36 : Слог Хангыль calp
-CC37 : Слог Хангыль calh
-CC38 : Слог Хангыль cam
-CC39 : Слог Хангыль cab
-CC3A : Слог Хангыль cabs
-CC3B : Слог Хангыль cas
-CC3C : Слог Хангыль cass
-CC3D : Слог Хангыль cang
-CC3E : Слог Хангыль caj
-CC3F : Слог Хангыль cac
-CC40 : Слог Хангыль cak
-CC41 : Слог Хангыль cat
-CC42 : Слог Хангыль cap
-CC43 : Слог Хангыль cah
-CC44 : Слог Хангыль cae
-CC45 : Слог Хангыль caeg
-CC46 : Слог Хангыль caegg
-CC47 : Слог Хангыль caegs
-CC48 : Слог Хангыль caen
-CC49 : Слог Хангыль caenj
-CC4A : Слог Хангыль caenh
-CC4B : Слог Хангыль caed
-CC4C : Слог Хангыль cael
-CC4D : Слог Хангыль caelg
-CC4E : Слог Хангыль caelm
-CC4F : Слог Хангыль caelb
-CC50 : Слог Хангыль caels
-CC51 : Слог Хангыль caelt
-CC52 : Слог Хангыль caelp
-CC53 : Слог Хангыль caelh
-CC54 : Слог Хангыль caem
-CC55 : Слог Хангыль caeb
-CC56 : Слог Хангыль caebs
-CC57 : Слог Хангыль caes
-CC58 : Слог Хангыль caess
-CC59 : Слог Хангыль caeng
-CC5A : Слог Хангыль caej
-CC5B : Слог Хангыль caec
-CC5C : Слог Хангыль caek
-CC5D : Слог Хангыль caet
-CC5E : Слог Хангыль caep
-CC5F : Слог Хангыль caeh
-CC60 : Слог Хангыль cya
-CC61 : Слог Хангыль cyag
-CC62 : Слог Хангыль cyagg
-CC63 : Слог Хангыль cyags
-CC64 : Слог Хангыль cyan
-CC65 : Слог Хангыль cyanj
-CC66 : Слог Хангыль cyanh
-CC67 : Слог Хангыль cyad
-CC68 : Слог Хангыль cyal
-CC69 : Слог Хангыль cyalg
-CC6A : Слог Хангыль cyalm
-CC6B : Слог Хангыль cyalb
-CC6C : Слог Хангыль cyals
-CC6D : Слог Хангыль cyalt
-CC6E : Слог Хангыль cyalp
-CC6F : Слог Хангыль cyalh
-CC70 : Слог Хангыль cyam
-CC71 : Слог Хангыль cyab
-CC72 : Слог Хангыль cyabs
-CC73 : Слог Хангыль cyas
-CC74 : Слог Хангыль cyass
-CC75 : Слог Хангыль cyang
-CC76 : Слог Хангыль cyaj
-CC77 : Слог Хангыль cyac
-CC78 : Слог Хангыль cyak
-CC79 : Слог Хангыль cyat
-CC7A : Слог Хангыль cyap
-CC7B : Слог Хангыль cyah
-CC7C : Слог Хангыль cyae
-CC7D : Слог Хангыль cyaeg
-CC7E : Слог Хангыль cyaegg
-CC7F : Слог Хангыль cyaegs
-CC80 : Слог Хангыль cyaen
-CC81 : Слог Хангыль cyaenj
-CC82 : Слог Хангыль cyaenh
-CC83 : Слог Хангыль cyaed
-CC84 : Слог Хангыль cyael
-CC85 : Слог Хангыль cyaelg
-CC86 : Слог Хангыль cyaelm
-CC87 : Слог Хангыль cyaelb
-CC88 : Слог Хангыль cyaels
-CC89 : Слог Хангыль cyaelt
-CC8A : Слог Хангыль cyaelp
-CC8B : Слог Хангыль cyaelh
-CC8C : Слог Хангыль cyaem
-CC8D : Слог Хангыль cyaeb
-CC8E : Слог Хангыль cyaebs
-CC8F : Слог Хангыль cyaes
-CC90 : Слог Хангыль cyaess
-CC91 : Слог Хангыль cyaeng
-CC92 : Слог Хангыль cyaej
-CC93 : Слог Хангыль cyaec
-CC94 : Слог Хангыль cyaek
-CC95 : Слог Хангыль cyaet
-CC96 : Слог Хангыль cyaep
-CC97 : Слог Хангыль cyaeh
-CC98 : Слог Хангыль ceo
-CC99 : Слог Хангыль ceog
-CC9A : Слог Хангыль ceogg
-CC9B : Слог Хангыль ceogs
-CC9C : Слог Хангыль ceon
-CC9D : Слог Хангыль ceonj
-CC9E : Слог Хангыль ceonh
-CC9F : Слог Хангыль ceod
-CCA0 : Слог Хангыль ceol
-CCA1 : Слог Хангыль ceolg
-CCA2 : Слог Хангыль ceolm
-CCA3 : Слог Хангыль ceolb
-CCA4 : Слог Хангыль ceols
-CCA5 : Слог Хангыль ceolt
-CCA6 : Слог Хангыль ceolp
-CCA7 : Слог Хангыль ceolh
-CCA8 : Слог Хангыль ceom
-CCA9 : Слог Хангыль ceob
-CCAA : Слог Хангыль ceobs
-CCAB : Слог Хангыль ceos
-CCAC : Слог Хангыль ceoss
-CCAD : Слог Хангыль ceong
-CCAE : Слог Хангыль ceoj
-CCAF : Слог Хангыль ceoc
-CCB0 : Слог Хангыль ceok
-CCB1 : Слог Хангыль ceot
-CCB2 : Слог Хангыль ceop
-CCB3 : Слог Хангыль ceoh
-CCB4 : Слог Хангыль ce
-CCB5 : Слог Хангыль ceg
-CCB6 : Слог Хангыль cegg
-CCB7 : Слог Хангыль cegs
-CCB8 : Слог Хангыль cen
-CCB9 : Слог Хангыль cenj
-CCBA : Слог Хангыль cenh
-CCBB : Слог Хангыль ced
-CCBC : Слог Хангыль cel
-CCBD : Слог Хангыль celg
-CCBE : Слог Хангыль celm
-CCBF : Слог Хангыль celb
-CCC0 : Слог Хангыль cels
-CCC1 : Слог Хангыль celt
-CCC2 : Слог Хангыль celp
-CCC3 : Слог Хангыль celh
-CCC4 : Слог Хангыль cem
-CCC5 : Слог Хангыль ceb
-CCC6 : Слог Хангыль cebs
-CCC7 : Слог Хангыль ces
-CCC8 : Слог Хангыль cess
-CCC9 : Слог Хангыль ceng
-CCCA : Слог Хангыль cej
-CCCB : Слог Хангыль cec
-CCCC : Слог Хангыль cek
-CCCD : Слог Хангыль cet
-CCCE : Слог Хангыль cep
-CCCF : Слог Хангыль ceh
-CCD0 : Слог Хангыль cyeo
-CCD1 : Слог Хангыль cyeog
-CCD2 : Слог Хангыль cyeogg
-CCD3 : Слог Хангыль cyeogs
-CCD4 : Слог Хангыль cyeon
-CCD5 : Слог Хангыль cyeonj
-CCD6 : Слог Хангыль cyeonh
-CCD7 : Слог Хангыль cyeod
-CCD8 : Слог Хангыль cyeol
-CCD9 : Слог Хангыль cyeolg
-CCDA : Слог Хангыль cyeolm
-CCDB : Слог Хангыль cyeolb
-CCDC : Слог Хангыль cyeols
-CCDD : Слог Хангыль cyeolt
-CCDE : Слог Хангыль cyeolp
-CCDF : Слог Хангыль cyeolh
-CCE0 : Слог Хангыль cyeom
-CCE1 : Слог Хангыль cyeob
-CCE2 : Слог Хангыль cyeobs
-CCE3 : Слог Хангыль cyeos
-CCE4 : Слог Хангыль cyeoss
-CCE5 : Слог Хангыль cyeong
-CCE6 : Слог Хангыль cyeoj
-CCE7 : Слог Хангыль cyeoc
-CCE8 : Слог Хангыль cyeok
-CCE9 : Слог Хангыль cyeot
-CCEA : Слог Хангыль cyeop
-CCEB : Слог Хангыль cyeoh
-CCEC : Слог Хангыль cye
-CCED : Слог Хангыль cyeg
-CCEE : Слог Хангыль cyegg
-CCEF : Слог Хангыль cyegs
-CCF0 : Слог Хангыль cyen
-CCF1 : Слог Хангыль cyenj
-CCF2 : Слог Хангыль cyenh
-CCF3 : Слог Хангыль cyed
-CCF4 : Слог Хангыль cyel
-CCF5 : Слог Хангыль cyelg
-CCF6 : Слог Хангыль cyelm
-CCF7 : Слог Хангыль cyelb
-CCF8 : Слог Хангыль cyels
-CCF9 : Слог Хангыль cyelt
-CCFA : Слог Хангыль cyelp
-CCFB : Слог Хангыль cyelh
-CCFC : Слог Хангыль cyem
-CCFD : Слог Хангыль cyeb
-CCFE : Слог Хангыль cyebs
-CCFF : Слог Хангыль cyes
+CC00: Слог Хангыль jjyim
+CC01: Слог Хангыль jjyib
+CC02: Слог Хангыль jjyibs
+CC03: Слог Хангыль jjyis
+CC04: Слог Хангыль jjyiss
+CC05: Слог Хангыль jjying
+CC06: Слог Хангыль jjyij
+CC07: Слог Хангыль jjyic
+CC08: Слог Хангыль jjyik
+CC09: Слог Хангыль jjyit
+CC0A: Слог Хангыль jjyip
+CC0B: Слог Хангыль jjyih
+CC0C: Слог Хангыль jji
+CC0D: Слог Хангыль jjig
+CC0E: Слог Хангыль jjigg
+CC0F: Слог Хангыль jjigs
+CC10: Слог Хангыль jjin
+CC11: Слог Хангыль jjinj
+CC12: Слог Хангыль jjinh
+CC13: Слог Хангыль jjid
+CC14: Слог Хангыль jjil
+CC15: Слог Хангыль jjilg
+CC16: Слог Хангыль jjilm
+CC17: Слог Хангыль jjilb
+CC18: Слог Хангыль jjils
+CC19: Слог Хангыль jjilt
+CC1A: Слог Хангыль jjilp
+CC1B: Слог Хангыль jjilh
+CC1C: Слог Хангыль jjim
+CC1D: Слог Хангыль jjib
+CC1E: Слог Хангыль jjibs
+CC1F: Слог Хангыль jjis
+CC20: Слог Хангыль jjiss
+CC21: Слог Хангыль jjing
+CC22: Слог Хангыль jjij
+CC23: Слог Хангыль jjic
+CC24: Слог Хангыль jjik
+CC25: Слог Хангыль jjit
+CC26: Слог Хангыль jjip
+CC27: Слог Хангыль jjih
+CC28: Слог Хангыль ca
+CC29: Слог Хангыль cag
+CC2A: Слог Хангыль cagg
+CC2B: Слог Хангыль cags
+CC2C: Слог Хангыль can
+CC2D: Слог Хангыль canj
+CC2E: Слог Хангыль canh
+CC2F: Слог Хангыль cad
+CC30: Слог Хангыль cal
+CC31: Слог Хангыль calg
+CC32: Слог Хангыль calm
+CC33: Слог Хангыль calb
+CC34: Слог Хангыль cals
+CC35: Слог Хангыль calt
+CC36: Слог Хангыль calp
+CC37: Слог Хангыль calh
+CC38: Слог Хангыль cam
+CC39: Слог Хангыль cab
+CC3A: Слог Хангыль cabs
+CC3B: Слог Хангыль cas
+CC3C: Слог Хангыль cass
+CC3D: Слог Хангыль cang
+CC3E: Слог Хангыль caj
+CC3F: Слог Хангыль cac
+CC40: Слог Хангыль cak
+CC41: Слог Хангыль cat
+CC42: Слог Хангыль cap
+CC43: Слог Хангыль cah
+CC44: Слог Хангыль cae
+CC45: Слог Хангыль caeg
+CC46: Слог Хангыль caegg
+CC47: Слог Хангыль caegs
+CC48: Слог Хангыль caen
+CC49: Слог Хангыль caenj
+CC4A: Слог Хангыль caenh
+CC4B: Слог Хангыль caed
+CC4C: Слог Хангыль cael
+CC4D: Слог Хангыль caelg
+CC4E: Слог Хангыль caelm
+CC4F: Слог Хангыль caelb
+CC50: Слог Хангыль caels
+CC51: Слог Хангыль caelt
+CC52: Слог Хангыль caelp
+CC53: Слог Хангыль caelh
+CC54: Слог Хангыль caem
+CC55: Слог Хангыль caeb
+CC56: Слог Хангыль caebs
+CC57: Слог Хангыль caes
+CC58: Слог Хангыль caess
+CC59: Слог Хангыль caeng
+CC5A: Слог Хангыль caej
+CC5B: Слог Хангыль caec
+CC5C: Слог Хангыль caek
+CC5D: Слог Хангыль caet
+CC5E: Слог Хангыль caep
+CC5F: Слог Хангыль caeh
+CC60: Слог Хангыль cya
+CC61: Слог Хангыль cyag
+CC62: Слог Хангыль cyagg
+CC63: Слог Хангыль cyags
+CC64: Слог Хангыль cyan
+CC65: Слог Хангыль cyanj
+CC66: Слог Хангыль cyanh
+CC67: Слог Хангыль cyad
+CC68: Слог Хангыль cyal
+CC69: Слог Хангыль cyalg
+CC6A: Слог Хангыль cyalm
+CC6B: Слог Хангыль cyalb
+CC6C: Слог Хангыль cyals
+CC6D: Слог Хангыль cyalt
+CC6E: Слог Хангыль cyalp
+CC6F: Слог Хангыль cyalh
+CC70: Слог Хангыль cyam
+CC71: Слог Хангыль cyab
+CC72: Слог Хангыль cyabs
+CC73: Слог Хангыль cyas
+CC74: Слог Хангыль cyass
+CC75: Слог Хангыль cyang
+CC76: Слог Хангыль cyaj
+CC77: Слог Хангыль cyac
+CC78: Слог Хангыль cyak
+CC79: Слог Хангыль cyat
+CC7A: Слог Хангыль cyap
+CC7B: Слог Хангыль cyah
+CC7C: Слог Хангыль cyae
+CC7D: Слог Хангыль cyaeg
+CC7E: Слог Хангыль cyaegg
+CC7F: Слог Хангыль cyaegs
+CC80: Слог Хангыль cyaen
+CC81: Слог Хангыль cyaenj
+CC82: Слог Хангыль cyaenh
+CC83: Слог Хангыль cyaed
+CC84: Слог Хангыль cyael
+CC85: Слог Хангыль cyaelg
+CC86: Слог Хангыль cyaelm
+CC87: Слог Хангыль cyaelb
+CC88: Слог Хангыль cyaels
+CC89: Слог Хангыль cyaelt
+CC8A: Слог Хангыль cyaelp
+CC8B: Слог Хангыль cyaelh
+CC8C: Слог Хангыль cyaem
+CC8D: Слог Хангыль cyaeb
+CC8E: Слог Хангыль cyaebs
+CC8F: Слог Хангыль cyaes
+CC90: Слог Хангыль cyaess
+CC91: Слог Хангыль cyaeng
+CC92: Слог Хангыль cyaej
+CC93: Слог Хангыль cyaec
+CC94: Слог Хангыль cyaek
+CC95: Слог Хангыль cyaet
+CC96: Слог Хангыль cyaep
+CC97: Слог Хангыль cyaeh
+CC98: Слог Хангыль ceo
+CC99: Слог Хангыль ceog
+CC9A: Слог Хангыль ceogg
+CC9B: Слог Хангыль ceogs
+CC9C: Слог Хангыль ceon
+CC9D: Слог Хангыль ceonj
+CC9E: Слог Хангыль ceonh
+CC9F: Слог Хангыль ceod
+CCA0: Слог Хангыль ceol
+CCA1: Слог Хангыль ceolg
+CCA2: Слог Хангыль ceolm
+CCA3: Слог Хангыль ceolb
+CCA4: Слог Хангыль ceols
+CCA5: Слог Хангыль ceolt
+CCA6: Слог Хангыль ceolp
+CCA7: Слог Хангыль ceolh
+CCA8: Слог Хангыль ceom
+CCA9: Слог Хангыль ceob
+CCAA: Слог Хангыль ceobs
+CCAB: Слог Хангыль ceos
+CCAC: Слог Хангыль ceoss
+CCAD: Слог Хангыль ceong
+CCAE: Слог Хангыль ceoj
+CCAF: Слог Хангыль ceoc
+CCB0: Слог Хангыль ceok
+CCB1: Слог Хангыль ceot
+CCB2: Слог Хангыль ceop
+CCB3: Слог Хангыль ceoh
+CCB4: Слог Хангыль ce
+CCB5: Слог Хангыль ceg
+CCB6: Слог Хангыль cegg
+CCB7: Слог Хангыль cegs
+CCB8: Слог Хангыль cen
+CCB9: Слог Хангыль cenj
+CCBA: Слог Хангыль cenh
+CCBB: Слог Хангыль ced
+CCBC: Слог Хангыль cel
+CCBD: Слог Хангыль celg
+CCBE: Слог Хангыль celm
+CCBF: Слог Хангыль celb
+CCC0: Слог Хангыль cels
+CCC1: Слог Хангыль celt
+CCC2: Слог Хангыль celp
+CCC3: Слог Хангыль celh
+CCC4: Слог Хангыль cem
+CCC5: Слог Хангыль ceb
+CCC6: Слог Хангыль cebs
+CCC7: Слог Хангыль ces
+CCC8: Слог Хангыль cess
+CCC9: Слог Хангыль ceng
+CCCA: Слог Хангыль cej
+CCCB: Слог Хангыль cec
+CCCC: Слог Хангыль cek
+CCCD: Слог Хангыль cet
+CCCE: Слог Хангыль cep
+CCCF: Слог Хангыль ceh
+CCD0: Слог Хангыль cyeo
+CCD1: Слог Хангыль cyeog
+CCD2: Слог Хангыль cyeogg
+CCD3: Слог Хангыль cyeogs
+CCD4: Слог Хангыль cyeon
+CCD5: Слог Хангыль cyeonj
+CCD6: Слог Хангыль cyeonh
+CCD7: Слог Хангыль cyeod
+CCD8: Слог Хангыль cyeol
+CCD9: Слог Хангыль cyeolg
+CCDA: Слог Хангыль cyeolm
+CCDB: Слог Хангыль cyeolb
+CCDC: Слог Хангыль cyeols
+CCDD: Слог Хангыль cyeolt
+CCDE: Слог Хангыль cyeolp
+CCDF: Слог Хангыль cyeolh
+CCE0: Слог Хангыль cyeom
+CCE1: Слог Хангыль cyeob
+CCE2: Слог Хангыль cyeobs
+CCE3: Слог Хангыль cyeos
+CCE4: Слог Хангыль cyeoss
+CCE5: Слог Хангыль cyeong
+CCE6: Слог Хангыль cyeoj
+CCE7: Слог Хангыль cyeoc
+CCE8: Слог Хангыль cyeok
+CCE9: Слог Хангыль cyeot
+CCEA: Слог Хангыль cyeop
+CCEB: Слог Хангыль cyeoh
+CCEC: Слог Хангыль cye
+CCED: Слог Хангыль cyeg
+CCEE: Слог Хангыль cyegg
+CCEF: Слог Хангыль cyegs
+CCF0: Слог Хангыль cyen
+CCF1: Слог Хангыль cyenj
+CCF2: Слог Хангыль cyenh
+CCF3: Слог Хангыль cyed
+CCF4: Слог Хангыль cyel
+CCF5: Слог Хангыль cyelg
+CCF6: Слог Хангыль cyelm
+CCF7: Слог Хангыль cyelb
+CCF8: Слог Хангыль cyels
+CCF9: Слог Хангыль cyelt
+CCFA: Слог Хангыль cyelp
+CCFB: Слог Хангыль cyelh
+CCFC: Слог Хангыль cyem
+CCFD: Слог Хангыль cyeb
+CCFE: Слог Хангыль cyebs
+CCFF: Слог Хангыль cyes

@@ -1,256 +1,256 @@
-2A00 : N-ary circled dot operator
-2A01 : N-ary circled plus operator
-2A02 : N-ary circled times operator
-2A03 : N-ary union operator with dot
-2A04 : N-ary union operator with plus
-2A05 : N-ary square intersection operator
-2A06 : N-ary square union operator
-2A07 : Two logical and operator
-2A08 : Two logical or operator
-2A09 : N-ary times operator
-2A0A : Modulo two sum
-2A0B : Summation with integral
-2A0C : Quadruple integral operator
-2A0D : Finite part integral
-2A0E : Integral with double stroke
-2A0F : Integral average with slash
-2A10 : Circulation function
-2A11 : Anticlockwise integration
-2A12 : Line integration with rectangular path around pole
-2A13 : Line integration with semicircular path around pole
-2A14 : Line integration not including the pole
-2A15 : Integral around a point operator
-2A16 : Quaternion integral operator
-2A17 : Integral with leftwards arrow with hook
-2A18 : Integral with times sign
-2A19 : Integral with intersection
-2A1A : Integral with union
-2A1B : Integral with overbar
-2A1C : Integral with underbar
-2A1D : Join
-2A1E : Large left triangle operator
-2A1F : Z notation schema composition
-2A20 : Z notation schema piping
-2A21 : Z notation schema projection
-2A22 : Plus sign with small circle above
-2A23 : Plus sign with circumflex accent above
-2A24 : Plus sign with tilde above
-2A25 : Plus sign with dot below
-2A26 : Plus sign with tilde below
-2A27 : Plus sign with subscript two
-2A28 : Plus sign with black triangle
-2A29 : Minus sign with comma above
-2A2A : Minus sign with dot below
-2A2B : Minus sign with falling dots
-2A2C : Minus sign with rising dots
-2A2D : Plus sign in left half circle
-2A2E : Plus sign in right half circle
-2A2F : Vector or cross product
-2A30 : Multiplication sign with dot above
-2A31 : Multiplication sign with underbar
-2A32 : Semidirect product with bottom closed
-2A33 : Smash product
-2A34 : Multiplication sign in left half circle
-2A35 : Multiplication sign in right half circle
-2A36 : Circled multiplication sign with circumflex accent
-2A37 : Multiplication sign in double circle
-2A38 : Circled division sign
-2A39 : Plus sign in triangle
-2A3A : Minus sign in triangle
-2A3B : Multiplication sign in triangle
-2A3C : Interior product
-2A3D : Righthand interior product
-2A3E : Z notation relational composition
-2A3F : Amalgamation or coproduct
-2A40 : Intersection with dot
-2A41 : Union with minus sign
-2A42 : Union with overbar
-2A43 : Intersection with overbar
-2A44 : Intersection with logical and
-2A45 : Union with logical or
-2A46 : Union above intersection
-2A47 : Intersection above union
-2A48 : Union above bar above intersection
-2A49 : Intersection above bar above union
-2A4A : Union beside and joined with union
-2A4B : Intersection beside and joined with intersection
-2A4C : Closed union with serifs
-2A4D : Closed intersection with serifs
-2A4E : Double square intersection
-2A4F : Double square union
-2A50 : Closed union with serifs and smash product
-2A51 : Logical and with dot above
-2A52 : Logical or with dot above
-2A53 : Double logical and
-2A54 : Double logical or
-2A55 : Two intersecting logical and
-2A56 : Two intersecting logical or
-2A57 : Sloping large or
-2A58 : Sloping large and
-2A59 : Logical or overlapping logical and
-2A5A : Logical and with middle stem
-2A5B : Logical or with middle stem
-2A5C : Logical and with horizontal dash
-2A5D : Logical or with horizontal dash
-2A5E : Logical and with double overbar
-2A5F : Logical and with underbar
-2A60 : Logical and with double underbar
-2A61 : Small vee with underbar
-2A62 : Logical or with double overbar
-2A63 : Logical or with double underbar
-2A64 : Z notation domain antirestriction
-2A65 : Z notation range antirestriction
-2A66 : Equals sign with dot below
-2A67 : Identical with dot above
-2A68 : Triple horizontal bar with double vertical stroke
-2A69 : Triple horizontal bar with triple vertical stroke
-2A6A : Tilde operator with dot above
-2A6B : Tilde operator with rising dots
-2A6C : Similar minus similar
-2A6D : Congruent with dot above
-2A6E : Equals with asterisk
-2A6F : Almost equal to with circumflex accent
-2A70 : Approximately equal or equal to
-2A71 : Equals sign above plus sign
-2A72 : Plus sign above equals sign
-2A73 : Equals sign above tilde operator
-2A74 : Double colon equal
-2A75 : Two consecutive equals signs
-2A76 : Three consecutive equals signs
-2A77 : Equals sign with two dots above and two dots below
-2A78 : Equivalent with four dots above
-2A79 : Less-than with circle inside
-2A7A : Greater-than with circle inside
-2A7B : Less-than with question mark above
-2A7C : Greater-than with question mark above
-2A7D : Less-than or slanted equal to
-2A7E : Greater-than or slanted equal to
-2A7F : Less-than or slanted equal to with dot inside
-2A80 : Greater-than or slanted equal to with dot inside
-2A81 : Less-than or slanted equal to with dot above
-2A82 : Greater-than or slanted equal to with dot above
-2A83 : Less-than or slanted equal to with dot above right
-2A84 : Greater-than or slanted equal to with dot above left
-2A85 : Less-than or approximate
-2A86 : Greater-than or approximate
-2A87 : Less-than and single-line not equal to
-2A88 : Greater-than and single-line not equal to
-2A89 : Less-than and not approximate
-2A8A : Greater-than and not approximate
-2A8B : Less-than above double-line equal above greater-than
-2A8C : Greater-than above double-line equal above less-than
-2A8D : Less-than above similar or equal
-2A8E : Greater-than above similar or equal
-2A8F : Less-than above similar above greater-than
-2A90 : Greater-than above similar above less-than
-2A91 : Less-than above greater-than above double-line equal
-2A92 : Greater-than above less-than above double-line equal
-2A93 : Less-than above slanted equal above greater-than above slanted equal
-2A94 : Greater-than above slanted equal above less-than above slanted equal
-2A95 : Slanted equal to or less-than
-2A96 : Slanted equal to or greater-than
-2A97 : Slanted equal to or less-than with dot inside
-2A98 : Slanted equal to or greater-than with dot inside
-2A99 : Double-line equal to or less-than
-2A9A : Double-line equal to or greater-than
-2A9B : Double-line slanted equal to or less-than
-2A9C : Double-line slanted equal to or greater-than
-2A9D : Similar or less-than
-2A9E : Similar or greater-than
-2A9F : Similar above less-than above equals sign
-2AA0 : Similar above greater-than above equals sign
-2AA1 : Double nested less-than
-2AA2 : Double nested greater-than
-2AA3 : Double nested less-than with underbar
-2AA4 : Greater-than overlapping less-than
-2AA5 : Greater-than beside less-than
-2AA6 : Less-than closed by curve
-2AA7 : Greater-than closed by curve
-2AA8 : Less-than closed by curve above slanted equal
-2AA9 : Greater-than closed by curve above slanted equal
-2AAA : Smaller than
-2AAB : Larger than
-2AAC : Smaller than or equal to
-2AAD : Larger than or equal to
-2AAE : Equals sign with bumpy above
-2AAF : Precedes above single-line equals sign
-2AB0 : Succeeds above single-line equals sign
-2AB1 : Precedes above single-line not equal to
-2AB2 : Succeeds above single-line not equal to
-2AB3 : Precedes above equals sign
-2AB4 : Succeeds above equals sign
-2AB5 : Precedes above not equal to
-2AB6 : Succeeds above not equal to
-2AB7 : Precedes above almost equal to
-2AB8 : Succeeds above almost equal to
-2AB9 : Precedes above not almost equal to
-2ABA : Succeeds above not almost equal to
-2ABB : Double precedes
-2ABC : Double succeeds
-2ABD : Subset with dot
-2ABE : Superset with dot
-2ABF : Subset with plus sign below
-2AC0 : Superset with plus sign below
-2AC1 : Subset with multiplication sign below
-2AC2 : Superset with multiplication sign below
-2AC3 : Subset of or equal to with dot above
-2AC4 : Superset of or equal to with dot above
-2AC5 : Subset of above equals sign
-2AC6 : Superset of above equals sign
-2AC7 : Subset of above tilde operator
-2AC8 : Superset of above tilde operator
-2AC9 : Subset of above almost equal to
-2ACA : Superset of above almost equal to
-2ACB : Subset of above not equal to
-2ACC : Superset of above not equal to
-2ACD : Square left open box operator
-2ACE : Square right open box operator
-2ACF : Closed subset
-2AD0 : Closed superset
-2AD1 : Closed subset or equal to
-2AD2 : Closed superset or equal to
-2AD3 : Subset above superset
-2AD4 : Superset above subset
-2AD5 : Subset above subset
-2AD6 : Superset above superset
-2AD7 : Superset beside subset
-2AD8 : Superset beside and joined by dash with subset
-2AD9 : Element of opening downwards
-2ADA : Pitchfork with tee top
-2ADB : Transversal intersection
-2ADC : Forking
-2ADD : Nonforking
-2ADE : Short left tack
-2ADF : Short down tack
-2AE0 : Short up tack
-2AE1 : Perpendicular with s
-2AE2 : Vertical bar triple right turnstile
-2AE3 : Double vertical bar left turnstile
-2AE4 : Vertical bar double left turnstile
-2AE5 : Double vertical bar double left turnstile
-2AE6 : Long dash from left member of double vertical
-2AE7 : Short down tack with overbar
-2AE8 : Short up tack with underbar
-2AE9 : Short up tack above short down tack
-2AEA : Double down tack
-2AEB : Double up tack
-2AEC : Double stroke not sign
-2AED : Reversed double stroke not sign
-2AEE : Does not divide with reversed negation slash
-2AEF : Vertical line with circle above
-2AF0 : Vertical line with circle below
-2AF1 : Down tack with circle below
-2AF2 : Parallel with horizontal stroke
-2AF3 : Parallel with tilde operator
-2AF4 : Triple vertical bar binary relation
-2AF5 : Triple vertical bar with horizontal stroke
-2AF6 : Triple colon operator
-2AF7 : Triple nested less-than
-2AF8 : Triple nested greater-than
-2AF9 : Double-line slanted less-than or equal to
-2AFA : Double-line slanted greater-than or equal to
-2AFB : Triple solidus binary relation
-2AFC : Large triple vertical bar operator
-2AFD : Double solidus operator
-2AFE : White vertical bar
-2AFF : N-ary white vertical bar
+2A00: N-ary circled dot operator
+2A01: N-ary circled plus operator
+2A02: N-ary circled times operator
+2A03: N-ary union operator with dot
+2A04: N-ary union operator with plus
+2A05: N-ary square intersection operator
+2A06: N-ary square union operator
+2A07: Two logical and operator
+2A08: Two logical or operator
+2A09: N-ary times operator
+2A0A: Modulo two sum
+2A0B: Summation with integral
+2A0C: Quadruple integral operator
+2A0D: Finite part integral
+2A0E: Integral with double stroke
+2A0F: Integral average with slash
+2A10: Circulation function
+2A11: Anticlockwise integration
+2A12: Line integration with rectangular path around pole
+2A13: Line integration with semicircular path around pole
+2A14: Line integration not including the pole
+2A15: Integral around a point operator
+2A16: Quaternion integral operator
+2A17: Integral with leftwards arrow with hook
+2A18: Integral with times sign
+2A19: Integral with intersection
+2A1A: Integral with union
+2A1B: Integral with overbar
+2A1C: Integral with underbar
+2A1D: Join
+2A1E: Large left triangle operator
+2A1F: Z notation schema composition
+2A20: Z notation schema piping
+2A21: Z notation schema projection
+2A22: Plus sign with small circle above
+2A23: Plus sign with circumflex accent above
+2A24: Plus sign with tilde above
+2A25: Plus sign with dot below
+2A26: Plus sign with tilde below
+2A27: Plus sign with subscript two
+2A28: Plus sign with black triangle
+2A29: Minus sign with comma above
+2A2A: Minus sign with dot below
+2A2B: Minus sign with falling dots
+2A2C: Minus sign with rising dots
+2A2D: Plus sign in left half circle
+2A2E: Plus sign in right half circle
+2A2F: Vector or cross product
+2A30: Multiplication sign with dot above
+2A31: Multiplication sign with underbar
+2A32: Semidirect product with bottom closed
+2A33: Smash product
+2A34: Multiplication sign in left half circle
+2A35: Multiplication sign in right half circle
+2A36: Circled multiplication sign with circumflex accent
+2A37: Multiplication sign in double circle
+2A38: Circled division sign
+2A39: Plus sign in triangle
+2A3A: Minus sign in triangle
+2A3B: Multiplication sign in triangle
+2A3C: Interior product
+2A3D: Righthand interior product
+2A3E: Z notation relational composition
+2A3F: Amalgamation or coproduct
+2A40: Intersection with dot
+2A41: Union with minus sign
+2A42: Union with overbar
+2A43: Intersection with overbar
+2A44: Intersection with logical and
+2A45: Union with logical or
+2A46: Union above intersection
+2A47: Intersection above union
+2A48: Union above bar above intersection
+2A49: Intersection above bar above union
+2A4A: Union beside and joined with union
+2A4B: Intersection beside and joined with intersection
+2A4C: Closed union with serifs
+2A4D: Closed intersection with serifs
+2A4E: Double square intersection
+2A4F: Double square union
+2A50: Closed union with serifs and smash product
+2A51: Logical and with dot above
+2A52: Logical or with dot above
+2A53: Double logical and
+2A54: Double logical or
+2A55: Two intersecting logical and
+2A56: Two intersecting logical or
+2A57: Sloping large or
+2A58: Sloping large and
+2A59: Logical or overlapping logical and
+2A5A: Logical and with middle stem
+2A5B: Logical or with middle stem
+2A5C: Logical and with horizontal dash
+2A5D: Logical or with horizontal dash
+2A5E: Logical and with double overbar
+2A5F: Logical and with underbar
+2A60: Logical and with double underbar
+2A61: Small vee with underbar
+2A62: Logical or with double overbar
+2A63: Logical or with double underbar
+2A64: Z notation domain antirestriction
+2A65: Z notation range antirestriction
+2A66: Equals sign with dot below
+2A67: Identical with dot above
+2A68: Triple horizontal bar with double vertical stroke
+2A69: Triple horizontal bar with triple vertical stroke
+2A6A: Tilde operator with dot above
+2A6B: Tilde operator with rising dots
+2A6C: Similar minus similar
+2A6D: Congruent with dot above
+2A6E: Equals with asterisk
+2A6F: Almost equal to with circumflex accent
+2A70: Approximately equal or equal to
+2A71: Equals sign above plus sign
+2A72: Plus sign above equals sign
+2A73: Equals sign above tilde operator
+2A74: Double colon equal
+2A75: Two consecutive equals signs
+2A76: Three consecutive equals signs
+2A77: Equals sign with two dots above and two dots below
+2A78: Equivalent with four dots above
+2A79: Less-than with circle inside
+2A7A: Greater-than with circle inside
+2A7B: Less-than with question mark above
+2A7C: Greater-than with question mark above
+2A7D: Less-than or slanted equal to
+2A7E: Greater-than or slanted equal to
+2A7F: Less-than or slanted equal to with dot inside
+2A80: Greater-than or slanted equal to with dot inside
+2A81: Less-than or slanted equal to with dot above
+2A82: Greater-than or slanted equal to with dot above
+2A83: Less-than or slanted equal to with dot above right
+2A84: Greater-than or slanted equal to with dot above left
+2A85: Less-than or approximate
+2A86: Greater-than or approximate
+2A87: Less-than and single-line not equal to
+2A88: Greater-than and single-line not equal to
+2A89: Less-than and not approximate
+2A8A: Greater-than and not approximate
+2A8B: Less-than above double-line equal above greater-than
+2A8C: Greater-than above double-line equal above less-than
+2A8D: Less-than above similar or equal
+2A8E: Greater-than above similar or equal
+2A8F: Less-than above similar above greater-than
+2A90: Greater-than above similar above less-than
+2A91: Less-than above greater-than above double-line equal
+2A92: Greater-than above less-than above double-line equal
+2A93: Less-than above slanted equal above greater-than above slanted equal
+2A94: Greater-than above slanted equal above less-than above slanted equal
+2A95: Slanted equal to or less-than
+2A96: Slanted equal to or greater-than
+2A97: Slanted equal to or less-than with dot inside
+2A98: Slanted equal to or greater-than with dot inside
+2A99: Double-line equal to or less-than
+2A9A: Double-line equal to or greater-than
+2A9B: Double-line slanted equal to or less-than
+2A9C: Double-line slanted equal to or greater-than
+2A9D: Similar or less-than
+2A9E: Similar or greater-than
+2A9F: Similar above less-than above equals sign
+2AA0: Similar above greater-than above equals sign
+2AA1: Double nested less-than
+2AA2: Double nested greater-than
+2AA3: Double nested less-than with underbar
+2AA4: Greater-than overlapping less-than
+2AA5: Greater-than beside less-than
+2AA6: Less-than closed by curve
+2AA7: Greater-than closed by curve
+2AA8: Less-than closed by curve above slanted equal
+2AA9: Greater-than closed by curve above slanted equal
+2AAA: Smaller than
+2AAB: Larger than
+2AAC: Smaller than or equal to
+2AAD: Larger than or equal to
+2AAE: Equals sign with bumpy above
+2AAF: Precedes above single-line equals sign
+2AB0: Succeeds above single-line equals sign
+2AB1: Precedes above single-line not equal to
+2AB2: Succeeds above single-line not equal to
+2AB3: Precedes above equals sign
+2AB4: Succeeds above equals sign
+2AB5: Precedes above not equal to
+2AB6: Succeeds above not equal to
+2AB7: Precedes above almost equal to
+2AB8: Succeeds above almost equal to
+2AB9: Precedes above not almost equal to
+2ABA: Succeeds above not almost equal to
+2ABB: Double precedes
+2ABC: Double succeeds
+2ABD: Subset with dot
+2ABE: Superset with dot
+2ABF: Subset with plus sign below
+2AC0: Superset with plus sign below
+2AC1: Subset with multiplication sign below
+2AC2: Superset with multiplication sign below
+2AC3: Subset of or equal to with dot above
+2AC4: Superset of or equal to with dot above
+2AC5: Subset of above equals sign
+2AC6: Superset of above equals sign
+2AC7: Subset of above tilde operator
+2AC8: Superset of above tilde operator
+2AC9: Subset of above almost equal to
+2ACA: Superset of above almost equal to
+2ACB: Subset of above not equal to
+2ACC: Superset of above not equal to
+2ACD: Square left open box operator
+2ACE: Square right open box operator
+2ACF: Closed subset
+2AD0: Closed superset
+2AD1: Closed subset or equal to
+2AD2: Closed superset or equal to
+2AD3: Subset above superset
+2AD4: Superset above subset
+2AD5: Subset above subset
+2AD6: Superset above superset
+2AD7: Superset beside subset
+2AD8: Superset beside and joined by dash with subset
+2AD9: Element of opening downwards
+2ADA: Pitchfork with tee top
+2ADB: Transversal intersection
+2ADC: Forking
+2ADD: Nonforking
+2ADE: Short left tack
+2ADF: Short down tack
+2AE0: Short up tack
+2AE1: Perpendicular with s
+2AE2: Vertical bar triple right turnstile
+2AE3: Double vertical bar left turnstile
+2AE4: Vertical bar double left turnstile
+2AE5: Double vertical bar double left turnstile
+2AE6: Long dash from left member of double vertical
+2AE7: Short down tack with overbar
+2AE8: Short up tack with underbar
+2AE9: Short up tack above short down tack
+2AEA: Double down tack
+2AEB: Double up tack
+2AEC: Double stroke not sign
+2AED: Reversed double stroke not sign
+2AEE: Does not divide with reversed negation slash
+2AEF: Vertical line with circle above
+2AF0: Vertical line with circle below
+2AF1: Down tack with circle below
+2AF2: Parallel with horizontal stroke
+2AF3: Parallel with tilde operator
+2AF4: Triple vertical bar binary relation
+2AF5: Triple vertical bar with horizontal stroke
+2AF6: Triple colon operator
+2AF7: Triple nested less-than
+2AF8: Triple nested greater-than
+2AF9: Double-line slanted less-than or equal to
+2AFA: Double-line slanted greater-than or equal to
+2AFB: Triple solidus binary relation
+2AFC: Large triple vertical bar operator
+2AFD: Double solidus operator
+2AFE: White vertical bar
+2AFF: N-ary white vertical bar

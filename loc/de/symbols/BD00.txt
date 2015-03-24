@@ -1,256 +1,256 @@
-BD00 : Hangul syllable bols
-BD01 : Hangul syllable bolt
-BD02 : Hangul syllable bolp
-BD03 : Hangul syllable bolh
-BD04 : Hangul syllable bom
-BD05 : Hangul syllable bob
-BD06 : Hangul syllable bobs
-BD07 : Hangul syllable bos
-BD08 : Hangul syllable boss
-BD09 : Hangul syllable bong
-BD0A : Hangul syllable boj
-BD0B : Hangul syllable boc
-BD0C : Hangul syllable bok
-BD0D : Hangul syllable bot
-BD0E : Hangul syllable bop
-BD0F : Hangul syllable boh
-BD10 : Hangul syllable bwa
-BD11 : Hangul syllable bwag
-BD12 : Hangul syllable bwagg
-BD13 : Hangul syllable bwags
-BD14 : Hangul syllable bwan
-BD15 : Hangul syllable bwanj
-BD16 : Hangul syllable bwanh
-BD17 : Hangul syllable bwad
-BD18 : Hangul syllable bwal
-BD19 : Hangul syllable bwalg
-BD1A : Hangul syllable bwalm
-BD1B : Hangul syllable bwalb
-BD1C : Hangul syllable bwals
-BD1D : Hangul syllable bwalt
-BD1E : Hangul syllable bwalp
-BD1F : Hangul syllable bwalh
-BD20 : Hangul syllable bwam
-BD21 : Hangul syllable bwab
-BD22 : Hangul syllable bwabs
-BD23 : Hangul syllable bwas
-BD24 : Hangul syllable bwass
-BD25 : Hangul syllable bwang
-BD26 : Hangul syllable bwaj
-BD27 : Hangul syllable bwac
-BD28 : Hangul syllable bwak
-BD29 : Hangul syllable bwat
-BD2A : Hangul syllable bwap
-BD2B : Hangul syllable bwah
-BD2C : Hangul syllable bwae
-BD2D : Hangul syllable bwaeg
-BD2E : Hangul syllable bwaegg
-BD2F : Hangul syllable bwaegs
-BD30 : Hangul syllable bwaen
-BD31 : Hangul syllable bwaenj
-BD32 : Hangul syllable bwaenh
-BD33 : Hangul syllable bwaed
-BD34 : Hangul syllable bwael
-BD35 : Hangul syllable bwaelg
-BD36 : Hangul syllable bwaelm
-BD37 : Hangul syllable bwaelb
-BD38 : Hangul syllable bwaels
-BD39 : Hangul syllable bwaelt
-BD3A : Hangul syllable bwaelp
-BD3B : Hangul syllable bwaelh
-BD3C : Hangul syllable bwaem
-BD3D : Hangul syllable bwaeb
-BD3E : Hangul syllable bwaebs
-BD3F : Hangul syllable bwaes
-BD40 : Hangul syllable bwaess
-BD41 : Hangul syllable bwaeng
-BD42 : Hangul syllable bwaej
-BD43 : Hangul syllable bwaec
-BD44 : Hangul syllable bwaek
-BD45 : Hangul syllable bwaet
-BD46 : Hangul syllable bwaep
-BD47 : Hangul syllable bwaeh
-BD48 : Hangul syllable boe
-BD49 : Hangul syllable boeg
-BD4A : Hangul syllable boegg
-BD4B : Hangul syllable boegs
-BD4C : Hangul syllable boen
-BD4D : Hangul syllable boenj
-BD4E : Hangul syllable boenh
-BD4F : Hangul syllable boed
-BD50 : Hangul syllable boel
-BD51 : Hangul syllable boelg
-BD52 : Hangul syllable boelm
-BD53 : Hangul syllable boelb
-BD54 : Hangul syllable boels
-BD55 : Hangul syllable boelt
-BD56 : Hangul syllable boelp
-BD57 : Hangul syllable boelh
-BD58 : Hangul syllable boem
-BD59 : Hangul syllable boeb
-BD5A : Hangul syllable boebs
-BD5B : Hangul syllable boes
-BD5C : Hangul syllable boess
-BD5D : Hangul syllable boeng
-BD5E : Hangul syllable boej
-BD5F : Hangul syllable boec
-BD60 : Hangul syllable boek
-BD61 : Hangul syllable boet
-BD62 : Hangul syllable boep
-BD63 : Hangul syllable boeh
-BD64 : Hangul syllable byo
-BD65 : Hangul syllable byog
-BD66 : Hangul syllable byogg
-BD67 : Hangul syllable byogs
-BD68 : Hangul syllable byon
-BD69 : Hangul syllable byonj
-BD6A : Hangul syllable byonh
-BD6B : Hangul syllable byod
-BD6C : Hangul syllable byol
-BD6D : Hangul syllable byolg
-BD6E : Hangul syllable byolm
-BD6F : Hangul syllable byolb
-BD70 : Hangul syllable byols
-BD71 : Hangul syllable byolt
-BD72 : Hangul syllable byolp
-BD73 : Hangul syllable byolh
-BD74 : Hangul syllable byom
-BD75 : Hangul syllable byob
-BD76 : Hangul syllable byobs
-BD77 : Hangul syllable byos
-BD78 : Hangul syllable byoss
-BD79 : Hangul syllable byong
-BD7A : Hangul syllable byoj
-BD7B : Hangul syllable byoc
-BD7C : Hangul syllable byok
-BD7D : Hangul syllable byot
-BD7E : Hangul syllable byop
-BD7F : Hangul syllable byoh
-BD80 : Hangul syllable bu
-BD81 : Hangul syllable bug
-BD82 : Hangul syllable bugg
-BD83 : Hangul syllable bugs
-BD84 : Hangul syllable bun
-BD85 : Hangul syllable bunj
-BD86 : Hangul syllable bunh
-BD87 : Hangul syllable bud
-BD88 : Hangul syllable bul
-BD89 : Hangul syllable bulg
-BD8A : Hangul syllable bulm
-BD8B : Hangul syllable bulb
-BD8C : Hangul syllable buls
-BD8D : Hangul syllable bult
-BD8E : Hangul syllable bulp
-BD8F : Hangul syllable bulh
-BD90 : Hangul syllable bum
-BD91 : Hangul syllable bub
-BD92 : Hangul syllable bubs
-BD93 : Hangul syllable bus
-BD94 : Hangul syllable buss
-BD95 : Hangul syllable bung
-BD96 : Hangul syllable buj
-BD97 : Hangul syllable buc
-BD98 : Hangul syllable buk
-BD99 : Hangul syllable but
-BD9A : Hangul syllable bup
-BD9B : Hangul syllable buh
-BD9C : Hangul syllable bweo
-BD9D : Hangul syllable bweog
-BD9E : Hangul syllable bweogg
-BD9F : Hangul syllable bweogs
-BDA0 : Hangul syllable bweon
-BDA1 : Hangul syllable bweonj
-BDA2 : Hangul syllable bweonh
-BDA3 : Hangul syllable bweod
-BDA4 : Hangul syllable bweol
-BDA5 : Hangul syllable bweolg
-BDA6 : Hangul syllable bweolm
-BDA7 : Hangul syllable bweolb
-BDA8 : Hangul syllable bweols
-BDA9 : Hangul syllable bweolt
-BDAA : Hangul syllable bweolp
-BDAB : Hangul syllable bweolh
-BDAC : Hangul syllable bweom
-BDAD : Hangul syllable bweob
-BDAE : Hangul syllable bweobs
-BDAF : Hangul syllable bweos
-BDB0 : Hangul syllable bweoss
-BDB1 : Hangul syllable bweong
-BDB2 : Hangul syllable bweoj
-BDB3 : Hangul syllable bweoc
-BDB4 : Hangul syllable bweok
-BDB5 : Hangul syllable bweot
-BDB6 : Hangul syllable bweop
-BDB7 : Hangul syllable bweoh
-BDB8 : Hangul syllable bwe
-BDB9 : Hangul syllable bweg
-BDBA : Hangul syllable bwegg
-BDBB : Hangul syllable bwegs
-BDBC : Hangul syllable bwen
-BDBD : Hangul syllable bwenj
-BDBE : Hangul syllable bwenh
-BDBF : Hangul syllable bwed
-BDC0 : Hangul syllable bwel
-BDC1 : Hangul syllable bwelg
-BDC2 : Hangul syllable bwelm
-BDC3 : Hangul syllable bwelb
-BDC4 : Hangul syllable bwels
-BDC5 : Hangul syllable bwelt
-BDC6 : Hangul syllable bwelp
-BDC7 : Hangul syllable bwelh
-BDC8 : Hangul syllable bwem
-BDC9 : Hangul syllable bweb
-BDCA : Hangul syllable bwebs
-BDCB : Hangul syllable bwes
-BDCC : Hangul syllable bwess
-BDCD : Hangul syllable bweng
-BDCE : Hangul syllable bwej
-BDCF : Hangul syllable bwec
-BDD0 : Hangul syllable bwek
-BDD1 : Hangul syllable bwet
-BDD2 : Hangul syllable bwep
-BDD3 : Hangul syllable bweh
-BDD4 : Hangul syllable bwi
-BDD5 : Hangul syllable bwig
-BDD6 : Hangul syllable bwigg
-BDD7 : Hangul syllable bwigs
-BDD8 : Hangul syllable bwin
-BDD9 : Hangul syllable bwinj
-BDDA : Hangul syllable bwinh
-BDDB : Hangul syllable bwid
-BDDC : Hangul syllable bwil
-BDDD : Hangul syllable bwilg
-BDDE : Hangul syllable bwilm
-BDDF : Hangul syllable bwilb
-BDE0 : Hangul syllable bwils
-BDE1 : Hangul syllable bwilt
-BDE2 : Hangul syllable bwilp
-BDE3 : Hangul syllable bwilh
-BDE4 : Hangul syllable bwim
-BDE5 : Hangul syllable bwib
-BDE6 : Hangul syllable bwibs
-BDE7 : Hangul syllable bwis
-BDE8 : Hangul syllable bwiss
-BDE9 : Hangul syllable bwing
-BDEA : Hangul syllable bwij
-BDEB : Hangul syllable bwic
-BDEC : Hangul syllable bwik
-BDED : Hangul syllable bwit
-BDEE : Hangul syllable bwip
-BDEF : Hangul syllable bwih
-BDF0 : Hangul syllable byu
-BDF1 : Hangul syllable byug
-BDF2 : Hangul syllable byugg
-BDF3 : Hangul syllable byugs
-BDF4 : Hangul syllable byun
-BDF5 : Hangul syllable byunj
-BDF6 : Hangul syllable byunh
-BDF7 : Hangul syllable byud
-BDF8 : Hangul syllable byul
-BDF9 : Hangul syllable byulg
-BDFA : Hangul syllable byulm
-BDFB : Hangul syllable byulb
-BDFC : Hangul syllable byuls
-BDFD : Hangul syllable byult
-BDFE : Hangul syllable byulp
-BDFF : Hangul syllable byulh
+BD00: Hangul syllable bols
+BD01: Hangul syllable bolt
+BD02: Hangul syllable bolp
+BD03: Hangul syllable bolh
+BD04: Hangul syllable bom
+BD05: Hangul syllable bob
+BD06: Hangul syllable bobs
+BD07: Hangul syllable bos
+BD08: Hangul syllable boss
+BD09: Hangul syllable bong
+BD0A: Hangul syllable boj
+BD0B: Hangul syllable boc
+BD0C: Hangul syllable bok
+BD0D: Hangul syllable bot
+BD0E: Hangul syllable bop
+BD0F: Hangul syllable boh
+BD10: Hangul syllable bwa
+BD11: Hangul syllable bwag
+BD12: Hangul syllable bwagg
+BD13: Hangul syllable bwags
+BD14: Hangul syllable bwan
+BD15: Hangul syllable bwanj
+BD16: Hangul syllable bwanh
+BD17: Hangul syllable bwad
+BD18: Hangul syllable bwal
+BD19: Hangul syllable bwalg
+BD1A: Hangul syllable bwalm
+BD1B: Hangul syllable bwalb
+BD1C: Hangul syllable bwals
+BD1D: Hangul syllable bwalt
+BD1E: Hangul syllable bwalp
+BD1F: Hangul syllable bwalh
+BD20: Hangul syllable bwam
+BD21: Hangul syllable bwab
+BD22: Hangul syllable bwabs
+BD23: Hangul syllable bwas
+BD24: Hangul syllable bwass
+BD25: Hangul syllable bwang
+BD26: Hangul syllable bwaj
+BD27: Hangul syllable bwac
+BD28: Hangul syllable bwak
+BD29: Hangul syllable bwat
+BD2A: Hangul syllable bwap
+BD2B: Hangul syllable bwah
+BD2C: Hangul syllable bwae
+BD2D: Hangul syllable bwaeg
+BD2E: Hangul syllable bwaegg
+BD2F: Hangul syllable bwaegs
+BD30: Hangul syllable bwaen
+BD31: Hangul syllable bwaenj
+BD32: Hangul syllable bwaenh
+BD33: Hangul syllable bwaed
+BD34: Hangul syllable bwael
+BD35: Hangul syllable bwaelg
+BD36: Hangul syllable bwaelm
+BD37: Hangul syllable bwaelb
+BD38: Hangul syllable bwaels
+BD39: Hangul syllable bwaelt
+BD3A: Hangul syllable bwaelp
+BD3B: Hangul syllable bwaelh
+BD3C: Hangul syllable bwaem
+BD3D: Hangul syllable bwaeb
+BD3E: Hangul syllable bwaebs
+BD3F: Hangul syllable bwaes
+BD40: Hangul syllable bwaess
+BD41: Hangul syllable bwaeng
+BD42: Hangul syllable bwaej
+BD43: Hangul syllable bwaec
+BD44: Hangul syllable bwaek
+BD45: Hangul syllable bwaet
+BD46: Hangul syllable bwaep
+BD47: Hangul syllable bwaeh
+BD48: Hangul syllable boe
+BD49: Hangul syllable boeg
+BD4A: Hangul syllable boegg
+BD4B: Hangul syllable boegs
+BD4C: Hangul syllable boen
+BD4D: Hangul syllable boenj
+BD4E: Hangul syllable boenh
+BD4F: Hangul syllable boed
+BD50: Hangul syllable boel
+BD51: Hangul syllable boelg
+BD52: Hangul syllable boelm
+BD53: Hangul syllable boelb
+BD54: Hangul syllable boels
+BD55: Hangul syllable boelt
+BD56: Hangul syllable boelp
+BD57: Hangul syllable boelh
+BD58: Hangul syllable boem
+BD59: Hangul syllable boeb
+BD5A: Hangul syllable boebs
+BD5B: Hangul syllable boes
+BD5C: Hangul syllable boess
+BD5D: Hangul syllable boeng
+BD5E: Hangul syllable boej
+BD5F: Hangul syllable boec
+BD60: Hangul syllable boek
+BD61: Hangul syllable boet
+BD62: Hangul syllable boep
+BD63: Hangul syllable boeh
+BD64: Hangul syllable byo
+BD65: Hangul syllable byog
+BD66: Hangul syllable byogg
+BD67: Hangul syllable byogs
+BD68: Hangul syllable byon
+BD69: Hangul syllable byonj
+BD6A: Hangul syllable byonh
+BD6B: Hangul syllable byod
+BD6C: Hangul syllable byol
+BD6D: Hangul syllable byolg
+BD6E: Hangul syllable byolm
+BD6F: Hangul syllable byolb
+BD70: Hangul syllable byols
+BD71: Hangul syllable byolt
+BD72: Hangul syllable byolp
+BD73: Hangul syllable byolh
+BD74: Hangul syllable byom
+BD75: Hangul syllable byob
+BD76: Hangul syllable byobs
+BD77: Hangul syllable byos
+BD78: Hangul syllable byoss
+BD79: Hangul syllable byong
+BD7A: Hangul syllable byoj
+BD7B: Hangul syllable byoc
+BD7C: Hangul syllable byok
+BD7D: Hangul syllable byot
+BD7E: Hangul syllable byop
+BD7F: Hangul syllable byoh
+BD80: Hangul syllable bu
+BD81: Hangul syllable bug
+BD82: Hangul syllable bugg
+BD83: Hangul syllable bugs
+BD84: Hangul syllable bun
+BD85: Hangul syllable bunj
+BD86: Hangul syllable bunh
+BD87: Hangul syllable bud
+BD88: Hangul syllable bul
+BD89: Hangul syllable bulg
+BD8A: Hangul syllable bulm
+BD8B: Hangul syllable bulb
+BD8C: Hangul syllable buls
+BD8D: Hangul syllable bult
+BD8E: Hangul syllable bulp
+BD8F: Hangul syllable bulh
+BD90: Hangul syllable bum
+BD91: Hangul syllable bub
+BD92: Hangul syllable bubs
+BD93: Hangul syllable bus
+BD94: Hangul syllable buss
+BD95: Hangul syllable bung
+BD96: Hangul syllable buj
+BD97: Hangul syllable buc
+BD98: Hangul syllable buk
+BD99: Hangul syllable but
+BD9A: Hangul syllable bup
+BD9B: Hangul syllable buh
+BD9C: Hangul syllable bweo
+BD9D: Hangul syllable bweog
+BD9E: Hangul syllable bweogg
+BD9F: Hangul syllable bweogs
+BDA0: Hangul syllable bweon
+BDA1: Hangul syllable bweonj
+BDA2: Hangul syllable bweonh
+BDA3: Hangul syllable bweod
+BDA4: Hangul syllable bweol
+BDA5: Hangul syllable bweolg
+BDA6: Hangul syllable bweolm
+BDA7: Hangul syllable bweolb
+BDA8: Hangul syllable bweols
+BDA9: Hangul syllable bweolt
+BDAA: Hangul syllable bweolp
+BDAB: Hangul syllable bweolh
+BDAC: Hangul syllable bweom
+BDAD: Hangul syllable bweob
+BDAE: Hangul syllable bweobs
+BDAF: Hangul syllable bweos
+BDB0: Hangul syllable bweoss
+BDB1: Hangul syllable bweong
+BDB2: Hangul syllable bweoj
+BDB3: Hangul syllable bweoc
+BDB4: Hangul syllable bweok
+BDB5: Hangul syllable bweot
+BDB6: Hangul syllable bweop
+BDB7: Hangul syllable bweoh
+BDB8: Hangul syllable bwe
+BDB9: Hangul syllable bweg
+BDBA: Hangul syllable bwegg
+BDBB: Hangul syllable bwegs
+BDBC: Hangul syllable bwen
+BDBD: Hangul syllable bwenj
+BDBE: Hangul syllable bwenh
+BDBF: Hangul syllable bwed
+BDC0: Hangul syllable bwel
+BDC1: Hangul syllable bwelg
+BDC2: Hangul syllable bwelm
+BDC3: Hangul syllable bwelb
+BDC4: Hangul syllable bwels
+BDC5: Hangul syllable bwelt
+BDC6: Hangul syllable bwelp
+BDC7: Hangul syllable bwelh
+BDC8: Hangul syllable bwem
+BDC9: Hangul syllable bweb
+BDCA: Hangul syllable bwebs
+BDCB: Hangul syllable bwes
+BDCC: Hangul syllable bwess
+BDCD: Hangul syllable bweng
+BDCE: Hangul syllable bwej
+BDCF: Hangul syllable bwec
+BDD0: Hangul syllable bwek
+BDD1: Hangul syllable bwet
+BDD2: Hangul syllable bwep
+BDD3: Hangul syllable bweh
+BDD4: Hangul syllable bwi
+BDD5: Hangul syllable bwig
+BDD6: Hangul syllable bwigg
+BDD7: Hangul syllable bwigs
+BDD8: Hangul syllable bwin
+BDD9: Hangul syllable bwinj
+BDDA: Hangul syllable bwinh
+BDDB: Hangul syllable bwid
+BDDC: Hangul syllable bwil
+BDDD: Hangul syllable bwilg
+BDDE: Hangul syllable bwilm
+BDDF: Hangul syllable bwilb
+BDE0: Hangul syllable bwils
+BDE1: Hangul syllable bwilt
+BDE2: Hangul syllable bwilp
+BDE3: Hangul syllable bwilh
+BDE4: Hangul syllable bwim
+BDE5: Hangul syllable bwib
+BDE6: Hangul syllable bwibs
+BDE7: Hangul syllable bwis
+BDE8: Hangul syllable bwiss
+BDE9: Hangul syllable bwing
+BDEA: Hangul syllable bwij
+BDEB: Hangul syllable bwic
+BDEC: Hangul syllable bwik
+BDED: Hangul syllable bwit
+BDEE: Hangul syllable bwip
+BDEF: Hangul syllable bwih
+BDF0: Hangul syllable byu
+BDF1: Hangul syllable byug
+BDF2: Hangul syllable byugg
+BDF3: Hangul syllable byugs
+BDF4: Hangul syllable byun
+BDF5: Hangul syllable byunj
+BDF6: Hangul syllable byunh
+BDF7: Hangul syllable byud
+BDF8: Hangul syllable byul
+BDF9: Hangul syllable byulg
+BDFA: Hangul syllable byulm
+BDFB: Hangul syllable byulb
+BDFC: Hangul syllable byuls
+BDFD: Hangul syllable byult
+BDFE: Hangul syllable byulp
+BDFF: Hangul syllable byulh

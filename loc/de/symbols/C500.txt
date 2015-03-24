@@ -1,256 +1,256 @@
-C500 : Hangul syllable sseum
-C501 : Hangul syllable sseub
-C502 : Hangul syllable sseubs
-C503 : Hangul syllable sseus
-C504 : Hangul syllable sseuss
-C505 : Hangul syllable sseung
-C506 : Hangul syllable sseuj
-C507 : Hangul syllable sseuc
-C508 : Hangul syllable sseuk
-C509 : Hangul syllable sseut
-C50A : Hangul syllable sseup
-C50B : Hangul syllable sseuh
-C50C : Hangul syllable ssyi
-C50D : Hangul syllable ssyig
-C50E : Hangul syllable ssyigg
-C50F : Hangul syllable ssyigs
-C510 : Hangul syllable ssyin
-C511 : Hangul syllable ssyinj
-C512 : Hangul syllable ssyinh
-C513 : Hangul syllable ssyid
-C514 : Hangul syllable ssyil
-C515 : Hangul syllable ssyilg
-C516 : Hangul syllable ssyilm
-C517 : Hangul syllable ssyilb
-C518 : Hangul syllable ssyils
-C519 : Hangul syllable ssyilt
-C51A : Hangul syllable ssyilp
-C51B : Hangul syllable ssyilh
-C51C : Hangul syllable ssyim
-C51D : Hangul syllable ssyib
-C51E : Hangul syllable ssyibs
-C51F : Hangul syllable ssyis
-C520 : Hangul syllable ssyiss
-C521 : Hangul syllable ssying
-C522 : Hangul syllable ssyij
-C523 : Hangul syllable ssyic
-C524 : Hangul syllable ssyik
-C525 : Hangul syllable ssyit
-C526 : Hangul syllable ssyip
-C527 : Hangul syllable ssyih
-C528 : Hangul syllable ssi
-C529 : Hangul syllable ssig
-C52A : Hangul syllable ssigg
-C52B : Hangul syllable ssigs
-C52C : Hangul syllable ssin
-C52D : Hangul syllable ssinj
-C52E : Hangul syllable ssinh
-C52F : Hangul syllable ssid
-C530 : Hangul syllable ssil
-C531 : Hangul syllable ssilg
-C532 : Hangul syllable ssilm
-C533 : Hangul syllable ssilb
-C534 : Hangul syllable ssils
-C535 : Hangul syllable ssilt
-C536 : Hangul syllable ssilp
-C537 : Hangul syllable ssilh
-C538 : Hangul syllable ssim
-C539 : Hangul syllable ssib
-C53A : Hangul syllable ssibs
-C53B : Hangul syllable ssis
-C53C : Hangul syllable ssiss
-C53D : Hangul syllable ssing
-C53E : Hangul syllable ssij
-C53F : Hangul syllable ssic
-C540 : Hangul syllable ssik
-C541 : Hangul syllable ssit
-C542 : Hangul syllable ssip
-C543 : Hangul syllable ssih
-C544 : Hangul syllable a
-C545 : Hangul syllable ag
-C546 : Hangul syllable agg
-C547 : Hangul syllable ags
-C548 : Hangul syllable an
-C549 : Hangul syllable anj
-C54A : Hangul syllable anh
-C54B : Hangul syllable ad
-C54C : Hangul syllable al
-C54D : Hangul syllable alg
-C54E : Hangul syllable alm
-C54F : Hangul syllable alb
-C550 : Hangul syllable als
-C551 : Hangul syllable alt
-C552 : Hangul syllable alp
-C553 : Hangul syllable alh
-C554 : Hangul syllable am
-C555 : Hangul syllable ab
-C556 : Hangul syllable abs
-C557 : Hangul syllable as
-C558 : Hangul syllable ass
-C559 : Hangul syllable ang
-C55A : Hangul syllable aj
-C55B : Hangul syllable ac
-C55C : Hangul syllable ak
-C55D : Hangul syllable at
-C55E : Hangul syllable ap
-C55F : Hangul syllable ah
-C560 : Hangul syllable ae
-C561 : Hangul syllable aeg
-C562 : Hangul syllable aegg
-C563 : Hangul syllable aegs
-C564 : Hangul syllable aen
-C565 : Hangul syllable aenj
-C566 : Hangul syllable aenh
-C567 : Hangul syllable aed
-C568 : Hangul syllable ael
-C569 : Hangul syllable aelg
-C56A : Hangul syllable aelm
-C56B : Hangul syllable aelb
-C56C : Hangul syllable aels
-C56D : Hangul syllable aelt
-C56E : Hangul syllable aelp
-C56F : Hangul syllable aelh
-C570 : Hangul syllable aem
-C571 : Hangul syllable aeb
-C572 : Hangul syllable aebs
-C573 : Hangul syllable aes
-C574 : Hangul syllable aess
-C575 : Hangul syllable aeng
-C576 : Hangul syllable aej
-C577 : Hangul syllable aec
-C578 : Hangul syllable aek
-C579 : Hangul syllable aet
-C57A : Hangul syllable aep
-C57B : Hangul syllable aeh
-C57C : Hangul syllable ya
-C57D : Hangul syllable yag
-C57E : Hangul syllable yagg
-C57F : Hangul syllable yags
-C580 : Hangul syllable yan
-C581 : Hangul syllable yanj
-C582 : Hangul syllable yanh
-C583 : Hangul syllable yad
-C584 : Hangul syllable yal
-C585 : Hangul syllable yalg
-C586 : Hangul syllable yalm
-C587 : Hangul syllable yalb
-C588 : Hangul syllable yals
-C589 : Hangul syllable yalt
-C58A : Hangul syllable yalp
-C58B : Hangul syllable yalh
-C58C : Hangul syllable yam
-C58D : Hangul syllable yab
-C58E : Hangul syllable yabs
-C58F : Hangul syllable yas
-C590 : Hangul syllable yass
-C591 : Hangul syllable yang
-C592 : Hangul syllable yaj
-C593 : Hangul syllable yac
-C594 : Hangul syllable yak
-C595 : Hangul syllable yat
-C596 : Hangul syllable yap
-C597 : Hangul syllable yah
-C598 : Hangul syllable yae
-C599 : Hangul syllable yaeg
-C59A : Hangul syllable yaegg
-C59B : Hangul syllable yaegs
-C59C : Hangul syllable yaen
-C59D : Hangul syllable yaenj
-C59E : Hangul syllable yaenh
-C59F : Hangul syllable yaed
-C5A0 : Hangul syllable yael
-C5A1 : Hangul syllable yaelg
-C5A2 : Hangul syllable yaelm
-C5A3 : Hangul syllable yaelb
-C5A4 : Hangul syllable yaels
-C5A5 : Hangul syllable yaelt
-C5A6 : Hangul syllable yaelp
-C5A7 : Hangul syllable yaelh
-C5A8 : Hangul syllable yaem
-C5A9 : Hangul syllable yaeb
-C5AA : Hangul syllable yaebs
-C5AB : Hangul syllable yaes
-C5AC : Hangul syllable yaess
-C5AD : Hangul syllable yaeng
-C5AE : Hangul syllable yaej
-C5AF : Hangul syllable yaec
-C5B0 : Hangul syllable yaek
-C5B1 : Hangul syllable yaet
-C5B2 : Hangul syllable yaep
-C5B3 : Hangul syllable yaeh
-C5B4 : Hangul syllable eo
-C5B5 : Hangul syllable eog
-C5B6 : Hangul syllable eogg
-C5B7 : Hangul syllable eogs
-C5B8 : Hangul syllable eon
-C5B9 : Hangul syllable eonj
-C5BA : Hangul syllable eonh
-C5BB : Hangul syllable eod
-C5BC : Hangul syllable eol
-C5BD : Hangul syllable eolg
-C5BE : Hangul syllable eolm
-C5BF : Hangul syllable eolb
-C5C0 : Hangul syllable eols
-C5C1 : Hangul syllable eolt
-C5C2 : Hangul syllable eolp
-C5C3 : Hangul syllable eolh
-C5C4 : Hangul syllable eom
-C5C5 : Hangul syllable eob
-C5C6 : Hangul syllable eobs
-C5C7 : Hangul syllable eos
-C5C8 : Hangul syllable eoss
-C5C9 : Hangul syllable eong
-C5CA : Hangul syllable eoj
-C5CB : Hangul syllable eoc
-C5CC : Hangul syllable eok
-C5CD : Hangul syllable eot
-C5CE : Hangul syllable eop
-C5CF : Hangul syllable eoh
-C5D0 : Hangul syllable e
-C5D1 : Hangul syllable eg
-C5D2 : Hangul syllable egg
-C5D3 : Hangul syllable egs
-C5D4 : Hangul syllable en
-C5D5 : Hangul syllable enj
-C5D6 : Hangul syllable enh
-C5D7 : Hangul syllable ed
-C5D8 : Hangul syllable el
-C5D9 : Hangul syllable elg
-C5DA : Hangul syllable elm
-C5DB : Hangul syllable elb
-C5DC : Hangul syllable els
-C5DD : Hangul syllable elt
-C5DE : Hangul syllable elp
-C5DF : Hangul syllable elh
-C5E0 : Hangul syllable em
-C5E1 : Hangul syllable eb
-C5E2 : Hangul syllable ebs
-C5E3 : Hangul syllable es
-C5E4 : Hangul syllable ess
-C5E5 : Hangul syllable eng
-C5E6 : Hangul syllable ej
-C5E7 : Hangul syllable ec
-C5E8 : Hangul syllable ek
-C5E9 : Hangul syllable et
-C5EA : Hangul syllable ep
-C5EB : Hangul syllable eh
-C5EC : Hangul syllable yeo
-C5ED : Hangul syllable yeog
-C5EE : Hangul syllable yeogg
-C5EF : Hangul syllable yeogs
-C5F0 : Hangul syllable yeon
-C5F1 : Hangul syllable yeonj
-C5F2 : Hangul syllable yeonh
-C5F3 : Hangul syllable yeod
-C5F4 : Hangul syllable yeol
-C5F5 : Hangul syllable yeolg
-C5F6 : Hangul syllable yeolm
-C5F7 : Hangul syllable yeolb
-C5F8 : Hangul syllable yeols
-C5F9 : Hangul syllable yeolt
-C5FA : Hangul syllable yeolp
-C5FB : Hangul syllable yeolh
-C5FC : Hangul syllable yeom
-C5FD : Hangul syllable yeob
-C5FE : Hangul syllable yeobs
-C5FF : Hangul syllable yeos
+C500: Hangul syllable sseum
+C501: Hangul syllable sseub
+C502: Hangul syllable sseubs
+C503: Hangul syllable sseus
+C504: Hangul syllable sseuss
+C505: Hangul syllable sseung
+C506: Hangul syllable sseuj
+C507: Hangul syllable sseuc
+C508: Hangul syllable sseuk
+C509: Hangul syllable sseut
+C50A: Hangul syllable sseup
+C50B: Hangul syllable sseuh
+C50C: Hangul syllable ssyi
+C50D: Hangul syllable ssyig
+C50E: Hangul syllable ssyigg
+C50F: Hangul syllable ssyigs
+C510: Hangul syllable ssyin
+C511: Hangul syllable ssyinj
+C512: Hangul syllable ssyinh
+C513: Hangul syllable ssyid
+C514: Hangul syllable ssyil
+C515: Hangul syllable ssyilg
+C516: Hangul syllable ssyilm
+C517: Hangul syllable ssyilb
+C518: Hangul syllable ssyils
+C519: Hangul syllable ssyilt
+C51A: Hangul syllable ssyilp
+C51B: Hangul syllable ssyilh
+C51C: Hangul syllable ssyim
+C51D: Hangul syllable ssyib
+C51E: Hangul syllable ssyibs
+C51F: Hangul syllable ssyis
+C520: Hangul syllable ssyiss
+C521: Hangul syllable ssying
+C522: Hangul syllable ssyij
+C523: Hangul syllable ssyic
+C524: Hangul syllable ssyik
+C525: Hangul syllable ssyit
+C526: Hangul syllable ssyip
+C527: Hangul syllable ssyih
+C528: Hangul syllable ssi
+C529: Hangul syllable ssig
+C52A: Hangul syllable ssigg
+C52B: Hangul syllable ssigs
+C52C: Hangul syllable ssin
+C52D: Hangul syllable ssinj
+C52E: Hangul syllable ssinh
+C52F: Hangul syllable ssid
+C530: Hangul syllable ssil
+C531: Hangul syllable ssilg
+C532: Hangul syllable ssilm
+C533: Hangul syllable ssilb
+C534: Hangul syllable ssils
+C535: Hangul syllable ssilt
+C536: Hangul syllable ssilp
+C537: Hangul syllable ssilh
+C538: Hangul syllable ssim
+C539: Hangul syllable ssib
+C53A: Hangul syllable ssibs
+C53B: Hangul syllable ssis
+C53C: Hangul syllable ssiss
+C53D: Hangul syllable ssing
+C53E: Hangul syllable ssij
+C53F: Hangul syllable ssic
+C540: Hangul syllable ssik
+C541: Hangul syllable ssit
+C542: Hangul syllable ssip
+C543: Hangul syllable ssih
+C544: Hangul syllable a
+C545: Hangul syllable ag
+C546: Hangul syllable agg
+C547: Hangul syllable ags
+C548: Hangul syllable an
+C549: Hangul syllable anj
+C54A: Hangul syllable anh
+C54B: Hangul syllable ad
+C54C: Hangul syllable al
+C54D: Hangul syllable alg
+C54E: Hangul syllable alm
+C54F: Hangul syllable alb
+C550: Hangul syllable als
+C551: Hangul syllable alt
+C552: Hangul syllable alp
+C553: Hangul syllable alh
+C554: Hangul syllable am
+C555: Hangul syllable ab
+C556: Hangul syllable abs
+C557: Hangul syllable as
+C558: Hangul syllable ass
+C559: Hangul syllable ang
+C55A: Hangul syllable aj
+C55B: Hangul syllable ac
+C55C: Hangul syllable ak
+C55D: Hangul syllable at
+C55E: Hangul syllable ap
+C55F: Hangul syllable ah
+C560: Hangul syllable ae
+C561: Hangul syllable aeg
+C562: Hangul syllable aegg
+C563: Hangul syllable aegs
+C564: Hangul syllable aen
+C565: Hangul syllable aenj
+C566: Hangul syllable aenh
+C567: Hangul syllable aed
+C568: Hangul syllable ael
+C569: Hangul syllable aelg
+C56A: Hangul syllable aelm
+C56B: Hangul syllable aelb
+C56C: Hangul syllable aels
+C56D: Hangul syllable aelt
+C56E: Hangul syllable aelp
+C56F: Hangul syllable aelh
+C570: Hangul syllable aem
+C571: Hangul syllable aeb
+C572: Hangul syllable aebs
+C573: Hangul syllable aes
+C574: Hangul syllable aess
+C575: Hangul syllable aeng
+C576: Hangul syllable aej
+C577: Hangul syllable aec
+C578: Hangul syllable aek
+C579: Hangul syllable aet
+C57A: Hangul syllable aep
+C57B: Hangul syllable aeh
+C57C: Hangul syllable ya
+C57D: Hangul syllable yag
+C57E: Hangul syllable yagg
+C57F: Hangul syllable yags
+C580: Hangul syllable yan
+C581: Hangul syllable yanj
+C582: Hangul syllable yanh
+C583: Hangul syllable yad
+C584: Hangul syllable yal
+C585: Hangul syllable yalg
+C586: Hangul syllable yalm
+C587: Hangul syllable yalb
+C588: Hangul syllable yals
+C589: Hangul syllable yalt
+C58A: Hangul syllable yalp
+C58B: Hangul syllable yalh
+C58C: Hangul syllable yam
+C58D: Hangul syllable yab
+C58E: Hangul syllable yabs
+C58F: Hangul syllable yas
+C590: Hangul syllable yass
+C591: Hangul syllable yang
+C592: Hangul syllable yaj
+C593: Hangul syllable yac
+C594: Hangul syllable yak
+C595: Hangul syllable yat
+C596: Hangul syllable yap
+C597: Hangul syllable yah
+C598: Hangul syllable yae
+C599: Hangul syllable yaeg
+C59A: Hangul syllable yaegg
+C59B: Hangul syllable yaegs
+C59C: Hangul syllable yaen
+C59D: Hangul syllable yaenj
+C59E: Hangul syllable yaenh
+C59F: Hangul syllable yaed
+C5A0: Hangul syllable yael
+C5A1: Hangul syllable yaelg
+C5A2: Hangul syllable yaelm
+C5A3: Hangul syllable yaelb
+C5A4: Hangul syllable yaels
+C5A5: Hangul syllable yaelt
+C5A6: Hangul syllable yaelp
+C5A7: Hangul syllable yaelh
+C5A8: Hangul syllable yaem
+C5A9: Hangul syllable yaeb
+C5AA: Hangul syllable yaebs
+C5AB: Hangul syllable yaes
+C5AC: Hangul syllable yaess
+C5AD: Hangul syllable yaeng
+C5AE: Hangul syllable yaej
+C5AF: Hangul syllable yaec
+C5B0: Hangul syllable yaek
+C5B1: Hangul syllable yaet
+C5B2: Hangul syllable yaep
+C5B3: Hangul syllable yaeh
+C5B4: Hangul syllable eo
+C5B5: Hangul syllable eog
+C5B6: Hangul syllable eogg
+C5B7: Hangul syllable eogs
+C5B8: Hangul syllable eon
+C5B9: Hangul syllable eonj
+C5BA: Hangul syllable eonh
+C5BB: Hangul syllable eod
+C5BC: Hangul syllable eol
+C5BD: Hangul syllable eolg
+C5BE: Hangul syllable eolm
+C5BF: Hangul syllable eolb
+C5C0: Hangul syllable eols
+C5C1: Hangul syllable eolt
+C5C2: Hangul syllable eolp
+C5C3: Hangul syllable eolh
+C5C4: Hangul syllable eom
+C5C5: Hangul syllable eob
+C5C6: Hangul syllable eobs
+C5C7: Hangul syllable eos
+C5C8: Hangul syllable eoss
+C5C9: Hangul syllable eong
+C5CA: Hangul syllable eoj
+C5CB: Hangul syllable eoc
+C5CC: Hangul syllable eok
+C5CD: Hangul syllable eot
+C5CE: Hangul syllable eop
+C5CF: Hangul syllable eoh
+C5D0: Hangul syllable e
+C5D1: Hangul syllable eg
+C5D2: Hangul syllable egg
+C5D3: Hangul syllable egs
+C5D4: Hangul syllable en
+C5D5: Hangul syllable enj
+C5D6: Hangul syllable enh
+C5D7: Hangul syllable ed
+C5D8: Hangul syllable el
+C5D9: Hangul syllable elg
+C5DA: Hangul syllable elm
+C5DB: Hangul syllable elb
+C5DC: Hangul syllable els
+C5DD: Hangul syllable elt
+C5DE: Hangul syllable elp
+C5DF: Hangul syllable elh
+C5E0: Hangul syllable em
+C5E1: Hangul syllable eb
+C5E2: Hangul syllable ebs
+C5E3: Hangul syllable es
+C5E4: Hangul syllable ess
+C5E5: Hangul syllable eng
+C5E6: Hangul syllable ej
+C5E7: Hangul syllable ec
+C5E8: Hangul syllable ek
+C5E9: Hangul syllable et
+C5EA: Hangul syllable ep
+C5EB: Hangul syllable eh
+C5EC: Hangul syllable yeo
+C5ED: Hangul syllable yeog
+C5EE: Hangul syllable yeogg
+C5EF: Hangul syllable yeogs
+C5F0: Hangul syllable yeon
+C5F1: Hangul syllable yeonj
+C5F2: Hangul syllable yeonh
+C5F3: Hangul syllable yeod
+C5F4: Hangul syllable yeol
+C5F5: Hangul syllable yeolg
+C5F6: Hangul syllable yeolm
+C5F7: Hangul syllable yeolb
+C5F8: Hangul syllable yeols
+C5F9: Hangul syllable yeolt
+C5FA: Hangul syllable yeolp
+C5FB: Hangul syllable yeolh
+C5FC: Hangul syllable yeom
+C5FD: Hangul syllable yeob
+C5FE: Hangul syllable yeobs
+C5FF: Hangul syllable yeos

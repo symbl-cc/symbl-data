@@ -1,256 +1,256 @@
-C400 : Hangul syllable sswals
-C401 : Hangul syllable sswalt
-C402 : Hangul syllable sswalp
-C403 : Hangul syllable sswalh
-C404 : Hangul syllable sswam
-C405 : Hangul syllable sswab
-C406 : Hangul syllable sswabs
-C407 : Hangul syllable sswas
-C408 : Hangul syllable sswass
-C409 : Hangul syllable sswang
-C40A : Hangul syllable sswaj
-C40B : Hangul syllable sswac
-C40C : Hangul syllable sswak
-C40D : Hangul syllable sswat
-C40E : Hangul syllable sswap
-C40F : Hangul syllable sswah
-C410 : Hangul syllable sswae
-C411 : Hangul syllable sswaeg
-C412 : Hangul syllable sswaegg
-C413 : Hangul syllable sswaegs
-C414 : Hangul syllable sswaen
-C415 : Hangul syllable sswaenj
-C416 : Hangul syllable sswaenh
-C417 : Hangul syllable sswaed
-C418 : Hangul syllable sswael
-C419 : Hangul syllable sswaelg
-C41A : Hangul syllable sswaelm
-C41B : Hangul syllable sswaelb
-C41C : Hangul syllable sswaels
-C41D : Hangul syllable sswaelt
-C41E : Hangul syllable sswaelp
-C41F : Hangul syllable sswaelh
-C420 : Hangul syllable sswaem
-C421 : Hangul syllable sswaeb
-C422 : Hangul syllable sswaebs
-C423 : Hangul syllable sswaes
-C424 : Hangul syllable sswaess
-C425 : Hangul syllable sswaeng
-C426 : Hangul syllable sswaej
-C427 : Hangul syllable sswaec
-C428 : Hangul syllable sswaek
-C429 : Hangul syllable sswaet
-C42A : Hangul syllable sswaep
-C42B : Hangul syllable sswaeh
-C42C : Hangul syllable ssoe
-C42D : Hangul syllable ssoeg
-C42E : Hangul syllable ssoegg
-C42F : Hangul syllable ssoegs
-C430 : Hangul syllable ssoen
-C431 : Hangul syllable ssoenj
-C432 : Hangul syllable ssoenh
-C433 : Hangul syllable ssoed
-C434 : Hangul syllable ssoel
-C435 : Hangul syllable ssoelg
-C436 : Hangul syllable ssoelm
-C437 : Hangul syllable ssoelb
-C438 : Hangul syllable ssoels
-C439 : Hangul syllable ssoelt
-C43A : Hangul syllable ssoelp
-C43B : Hangul syllable ssoelh
-C43C : Hangul syllable ssoem
-C43D : Hangul syllable ssoeb
-C43E : Hangul syllable ssoebs
-C43F : Hangul syllable ssoes
-C440 : Hangul syllable ssoess
-C441 : Hangul syllable ssoeng
-C442 : Hangul syllable ssoej
-C443 : Hangul syllable ssoec
-C444 : Hangul syllable ssoek
-C445 : Hangul syllable ssoet
-C446 : Hangul syllable ssoep
-C447 : Hangul syllable ssoeh
-C448 : Hangul syllable ssyo
-C449 : Hangul syllable ssyog
-C44A : Hangul syllable ssyogg
-C44B : Hangul syllable ssyogs
-C44C : Hangul syllable ssyon
-C44D : Hangul syllable ssyonj
-C44E : Hangul syllable ssyonh
-C44F : Hangul syllable ssyod
-C450 : Hangul syllable ssyol
-C451 : Hangul syllable ssyolg
-C452 : Hangul syllable ssyolm
-C453 : Hangul syllable ssyolb
-C454 : Hangul syllable ssyols
-C455 : Hangul syllable ssyolt
-C456 : Hangul syllable ssyolp
-C457 : Hangul syllable ssyolh
-C458 : Hangul syllable ssyom
-C459 : Hangul syllable ssyob
-C45A : Hangul syllable ssyobs
-C45B : Hangul syllable ssyos
-C45C : Hangul syllable ssyoss
-C45D : Hangul syllable ssyong
-C45E : Hangul syllable ssyoj
-C45F : Hangul syllable ssyoc
-C460 : Hangul syllable ssyok
-C461 : Hangul syllable ssyot
-C462 : Hangul syllable ssyop
-C463 : Hangul syllable ssyoh
-C464 : Hangul syllable ssu
-C465 : Hangul syllable ssug
-C466 : Hangul syllable ssugg
-C467 : Hangul syllable ssugs
-C468 : Hangul syllable ssun
-C469 : Hangul syllable ssunj
-C46A : Hangul syllable ssunh
-C46B : Hangul syllable ssud
-C46C : Hangul syllable ssul
-C46D : Hangul syllable ssulg
-C46E : Hangul syllable ssulm
-C46F : Hangul syllable ssulb
-C470 : Hangul syllable ssuls
-C471 : Hangul syllable ssult
-C472 : Hangul syllable ssulp
-C473 : Hangul syllable ssulh
-C474 : Hangul syllable ssum
-C475 : Hangul syllable ssub
-C476 : Hangul syllable ssubs
-C477 : Hangul syllable ssus
-C478 : Hangul syllable ssuss
-C479 : Hangul syllable ssung
-C47A : Hangul syllable ssuj
-C47B : Hangul syllable ssuc
-C47C : Hangul syllable ssuk
-C47D : Hangul syllable ssut
-C47E : Hangul syllable ssup
-C47F : Hangul syllable ssuh
-C480 : Hangul syllable ssweo
-C481 : Hangul syllable ssweog
-C482 : Hangul syllable ssweogg
-C483 : Hangul syllable ssweogs
-C484 : Hangul syllable ssweon
-C485 : Hangul syllable ssweonj
-C486 : Hangul syllable ssweonh
-C487 : Hangul syllable ssweod
-C488 : Hangul syllable ssweol
-C489 : Hangul syllable ssweolg
-C48A : Hangul syllable ssweolm
-C48B : Hangul syllable ssweolb
-C48C : Hangul syllable ssweols
-C48D : Hangul syllable ssweolt
-C48E : Hangul syllable ssweolp
-C48F : Hangul syllable ssweolh
-C490 : Hangul syllable ssweom
-C491 : Hangul syllable ssweob
-C492 : Hangul syllable ssweobs
-C493 : Hangul syllable ssweos
-C494 : Hangul syllable ssweoss
-C495 : Hangul syllable ssweong
-C496 : Hangul syllable ssweoj
-C497 : Hangul syllable ssweoc
-C498 : Hangul syllable ssweok
-C499 : Hangul syllable ssweot
-C49A : Hangul syllable ssweop
-C49B : Hangul syllable ssweoh
-C49C : Hangul syllable sswe
-C49D : Hangul syllable ssweg
-C49E : Hangul syllable sswegg
-C49F : Hangul syllable sswegs
-C4A0 : Hangul syllable sswen
-C4A1 : Hangul syllable sswenj
-C4A2 : Hangul syllable sswenh
-C4A3 : Hangul syllable sswed
-C4A4 : Hangul syllable sswel
-C4A5 : Hangul syllable sswelg
-C4A6 : Hangul syllable sswelm
-C4A7 : Hangul syllable sswelb
-C4A8 : Hangul syllable sswels
-C4A9 : Hangul syllable sswelt
-C4AA : Hangul syllable sswelp
-C4AB : Hangul syllable sswelh
-C4AC : Hangul syllable sswem
-C4AD : Hangul syllable ssweb
-C4AE : Hangul syllable sswebs
-C4AF : Hangul syllable sswes
-C4B0 : Hangul syllable sswess
-C4B1 : Hangul syllable ssweng
-C4B2 : Hangul syllable sswej
-C4B3 : Hangul syllable sswec
-C4B4 : Hangul syllable sswek
-C4B5 : Hangul syllable sswet
-C4B6 : Hangul syllable sswep
-C4B7 : Hangul syllable ssweh
-C4B8 : Hangul syllable sswi
-C4B9 : Hangul syllable sswig
-C4BA : Hangul syllable sswigg
-C4BB : Hangul syllable sswigs
-C4BC : Hangul syllable sswin
-C4BD : Hangul syllable sswinj
-C4BE : Hangul syllable sswinh
-C4BF : Hangul syllable sswid
-C4C0 : Hangul syllable sswil
-C4C1 : Hangul syllable sswilg
-C4C2 : Hangul syllable sswilm
-C4C3 : Hangul syllable sswilb
-C4C4 : Hangul syllable sswils
-C4C5 : Hangul syllable sswilt
-C4C6 : Hangul syllable sswilp
-C4C7 : Hangul syllable sswilh
-C4C8 : Hangul syllable sswim
-C4C9 : Hangul syllable sswib
-C4CA : Hangul syllable sswibs
-C4CB : Hangul syllable sswis
-C4CC : Hangul syllable sswiss
-C4CD : Hangul syllable sswing
-C4CE : Hangul syllable sswij
-C4CF : Hangul syllable sswic
-C4D0 : Hangul syllable sswik
-C4D1 : Hangul syllable sswit
-C4D2 : Hangul syllable sswip
-C4D3 : Hangul syllable sswih
-C4D4 : Hangul syllable ssyu
-C4D5 : Hangul syllable ssyug
-C4D6 : Hangul syllable ssyugg
-C4D7 : Hangul syllable ssyugs
-C4D8 : Hangul syllable ssyun
-C4D9 : Hangul syllable ssyunj
-C4DA : Hangul syllable ssyunh
-C4DB : Hangul syllable ssyud
-C4DC : Hangul syllable ssyul
-C4DD : Hangul syllable ssyulg
-C4DE : Hangul syllable ssyulm
-C4DF : Hangul syllable ssyulb
-C4E0 : Hangul syllable ssyuls
-C4E1 : Hangul syllable ssyult
-C4E2 : Hangul syllable ssyulp
-C4E3 : Hangul syllable ssyulh
-C4E4 : Hangul syllable ssyum
-C4E5 : Hangul syllable ssyub
-C4E6 : Hangul syllable ssyubs
-C4E7 : Hangul syllable ssyus
-C4E8 : Hangul syllable ssyuss
-C4E9 : Hangul syllable ssyung
-C4EA : Hangul syllable ssyuj
-C4EB : Hangul syllable ssyuc
-C4EC : Hangul syllable ssyuk
-C4ED : Hangul syllable ssyut
-C4EE : Hangul syllable ssyup
-C4EF : Hangul syllable ssyuh
-C4F0 : Hangul syllable sseu
-C4F1 : Hangul syllable sseug
-C4F2 : Hangul syllable sseugg
-C4F3 : Hangul syllable sseugs
-C4F4 : Hangul syllable sseun
-C4F5 : Hangul syllable sseunj
-C4F6 : Hangul syllable sseunh
-C4F7 : Hangul syllable sseud
-C4F8 : Hangul syllable sseul
-C4F9 : Hangul syllable sseulg
-C4FA : Hangul syllable sseulm
-C4FB : Hangul syllable sseulb
-C4FC : Hangul syllable sseuls
-C4FD : Hangul syllable sseult
-C4FE : Hangul syllable sseulp
-C4FF : Hangul syllable sseulh
+C400: Hangul syllable sswals
+C401: Hangul syllable sswalt
+C402: Hangul syllable sswalp
+C403: Hangul syllable sswalh
+C404: Hangul syllable sswam
+C405: Hangul syllable sswab
+C406: Hangul syllable sswabs
+C407: Hangul syllable sswas
+C408: Hangul syllable sswass
+C409: Hangul syllable sswang
+C40A: Hangul syllable sswaj
+C40B: Hangul syllable sswac
+C40C: Hangul syllable sswak
+C40D: Hangul syllable sswat
+C40E: Hangul syllable sswap
+C40F: Hangul syllable sswah
+C410: Hangul syllable sswae
+C411: Hangul syllable sswaeg
+C412: Hangul syllable sswaegg
+C413: Hangul syllable sswaegs
+C414: Hangul syllable sswaen
+C415: Hangul syllable sswaenj
+C416: Hangul syllable sswaenh
+C417: Hangul syllable sswaed
+C418: Hangul syllable sswael
+C419: Hangul syllable sswaelg
+C41A: Hangul syllable sswaelm
+C41B: Hangul syllable sswaelb
+C41C: Hangul syllable sswaels
+C41D: Hangul syllable sswaelt
+C41E: Hangul syllable sswaelp
+C41F: Hangul syllable sswaelh
+C420: Hangul syllable sswaem
+C421: Hangul syllable sswaeb
+C422: Hangul syllable sswaebs
+C423: Hangul syllable sswaes
+C424: Hangul syllable sswaess
+C425: Hangul syllable sswaeng
+C426: Hangul syllable sswaej
+C427: Hangul syllable sswaec
+C428: Hangul syllable sswaek
+C429: Hangul syllable sswaet
+C42A: Hangul syllable sswaep
+C42B: Hangul syllable sswaeh
+C42C: Hangul syllable ssoe
+C42D: Hangul syllable ssoeg
+C42E: Hangul syllable ssoegg
+C42F: Hangul syllable ssoegs
+C430: Hangul syllable ssoen
+C431: Hangul syllable ssoenj
+C432: Hangul syllable ssoenh
+C433: Hangul syllable ssoed
+C434: Hangul syllable ssoel
+C435: Hangul syllable ssoelg
+C436: Hangul syllable ssoelm
+C437: Hangul syllable ssoelb
+C438: Hangul syllable ssoels
+C439: Hangul syllable ssoelt
+C43A: Hangul syllable ssoelp
+C43B: Hangul syllable ssoelh
+C43C: Hangul syllable ssoem
+C43D: Hangul syllable ssoeb
+C43E: Hangul syllable ssoebs
+C43F: Hangul syllable ssoes
+C440: Hangul syllable ssoess
+C441: Hangul syllable ssoeng
+C442: Hangul syllable ssoej
+C443: Hangul syllable ssoec
+C444: Hangul syllable ssoek
+C445: Hangul syllable ssoet
+C446: Hangul syllable ssoep
+C447: Hangul syllable ssoeh
+C448: Hangul syllable ssyo
+C449: Hangul syllable ssyog
+C44A: Hangul syllable ssyogg
+C44B: Hangul syllable ssyogs
+C44C: Hangul syllable ssyon
+C44D: Hangul syllable ssyonj
+C44E: Hangul syllable ssyonh
+C44F: Hangul syllable ssyod
+C450: Hangul syllable ssyol
+C451: Hangul syllable ssyolg
+C452: Hangul syllable ssyolm
+C453: Hangul syllable ssyolb
+C454: Hangul syllable ssyols
+C455: Hangul syllable ssyolt
+C456: Hangul syllable ssyolp
+C457: Hangul syllable ssyolh
+C458: Hangul syllable ssyom
+C459: Hangul syllable ssyob
+C45A: Hangul syllable ssyobs
+C45B: Hangul syllable ssyos
+C45C: Hangul syllable ssyoss
+C45D: Hangul syllable ssyong
+C45E: Hangul syllable ssyoj
+C45F: Hangul syllable ssyoc
+C460: Hangul syllable ssyok
+C461: Hangul syllable ssyot
+C462: Hangul syllable ssyop
+C463: Hangul syllable ssyoh
+C464: Hangul syllable ssu
+C465: Hangul syllable ssug
+C466: Hangul syllable ssugg
+C467: Hangul syllable ssugs
+C468: Hangul syllable ssun
+C469: Hangul syllable ssunj
+C46A: Hangul syllable ssunh
+C46B: Hangul syllable ssud
+C46C: Hangul syllable ssul
+C46D: Hangul syllable ssulg
+C46E: Hangul syllable ssulm
+C46F: Hangul syllable ssulb
+C470: Hangul syllable ssuls
+C471: Hangul syllable ssult
+C472: Hangul syllable ssulp
+C473: Hangul syllable ssulh
+C474: Hangul syllable ssum
+C475: Hangul syllable ssub
+C476: Hangul syllable ssubs
+C477: Hangul syllable ssus
+C478: Hangul syllable ssuss
+C479: Hangul syllable ssung
+C47A: Hangul syllable ssuj
+C47B: Hangul syllable ssuc
+C47C: Hangul syllable ssuk
+C47D: Hangul syllable ssut
+C47E: Hangul syllable ssup
+C47F: Hangul syllable ssuh
+C480: Hangul syllable ssweo
+C481: Hangul syllable ssweog
+C482: Hangul syllable ssweogg
+C483: Hangul syllable ssweogs
+C484: Hangul syllable ssweon
+C485: Hangul syllable ssweonj
+C486: Hangul syllable ssweonh
+C487: Hangul syllable ssweod
+C488: Hangul syllable ssweol
+C489: Hangul syllable ssweolg
+C48A: Hangul syllable ssweolm
+C48B: Hangul syllable ssweolb
+C48C: Hangul syllable ssweols
+C48D: Hangul syllable ssweolt
+C48E: Hangul syllable ssweolp
+C48F: Hangul syllable ssweolh
+C490: Hangul syllable ssweom
+C491: Hangul syllable ssweob
+C492: Hangul syllable ssweobs
+C493: Hangul syllable ssweos
+C494: Hangul syllable ssweoss
+C495: Hangul syllable ssweong
+C496: Hangul syllable ssweoj
+C497: Hangul syllable ssweoc
+C498: Hangul syllable ssweok
+C499: Hangul syllable ssweot
+C49A: Hangul syllable ssweop
+C49B: Hangul syllable ssweoh
+C49C: Hangul syllable sswe
+C49D: Hangul syllable ssweg
+C49E: Hangul syllable sswegg
+C49F: Hangul syllable sswegs
+C4A0: Hangul syllable sswen
+C4A1: Hangul syllable sswenj
+C4A2: Hangul syllable sswenh
+C4A3: Hangul syllable sswed
+C4A4: Hangul syllable sswel
+C4A5: Hangul syllable sswelg
+C4A6: Hangul syllable sswelm
+C4A7: Hangul syllable sswelb
+C4A8: Hangul syllable sswels
+C4A9: Hangul syllable sswelt
+C4AA: Hangul syllable sswelp
+C4AB: Hangul syllable sswelh
+C4AC: Hangul syllable sswem
+C4AD: Hangul syllable ssweb
+C4AE: Hangul syllable sswebs
+C4AF: Hangul syllable sswes
+C4B0: Hangul syllable sswess
+C4B1: Hangul syllable ssweng
+C4B2: Hangul syllable sswej
+C4B3: Hangul syllable sswec
+C4B4: Hangul syllable sswek
+C4B5: Hangul syllable sswet
+C4B6: Hangul syllable sswep
+C4B7: Hangul syllable ssweh
+C4B8: Hangul syllable sswi
+C4B9: Hangul syllable sswig
+C4BA: Hangul syllable sswigg
+C4BB: Hangul syllable sswigs
+C4BC: Hangul syllable sswin
+C4BD: Hangul syllable sswinj
+C4BE: Hangul syllable sswinh
+C4BF: Hangul syllable sswid
+C4C0: Hangul syllable sswil
+C4C1: Hangul syllable sswilg
+C4C2: Hangul syllable sswilm
+C4C3: Hangul syllable sswilb
+C4C4: Hangul syllable sswils
+C4C5: Hangul syllable sswilt
+C4C6: Hangul syllable sswilp
+C4C7: Hangul syllable sswilh
+C4C8: Hangul syllable sswim
+C4C9: Hangul syllable sswib
+C4CA: Hangul syllable sswibs
+C4CB: Hangul syllable sswis
+C4CC: Hangul syllable sswiss
+C4CD: Hangul syllable sswing
+C4CE: Hangul syllable sswij
+C4CF: Hangul syllable sswic
+C4D0: Hangul syllable sswik
+C4D1: Hangul syllable sswit
+C4D2: Hangul syllable sswip
+C4D3: Hangul syllable sswih
+C4D4: Hangul syllable ssyu
+C4D5: Hangul syllable ssyug
+C4D6: Hangul syllable ssyugg
+C4D7: Hangul syllable ssyugs
+C4D8: Hangul syllable ssyun
+C4D9: Hangul syllable ssyunj
+C4DA: Hangul syllable ssyunh
+C4DB: Hangul syllable ssyud
+C4DC: Hangul syllable ssyul
+C4DD: Hangul syllable ssyulg
+C4DE: Hangul syllable ssyulm
+C4DF: Hangul syllable ssyulb
+C4E0: Hangul syllable ssyuls
+C4E1: Hangul syllable ssyult
+C4E2: Hangul syllable ssyulp
+C4E3: Hangul syllable ssyulh
+C4E4: Hangul syllable ssyum
+C4E5: Hangul syllable ssyub
+C4E6: Hangul syllable ssyubs
+C4E7: Hangul syllable ssyus
+C4E8: Hangul syllable ssyuss
+C4E9: Hangul syllable ssyung
+C4EA: Hangul syllable ssyuj
+C4EB: Hangul syllable ssyuc
+C4EC: Hangul syllable ssyuk
+C4ED: Hangul syllable ssyut
+C4EE: Hangul syllable ssyup
+C4EF: Hangul syllable ssyuh
+C4F0: Hangul syllable sseu
+C4F1: Hangul syllable sseug
+C4F2: Hangul syllable sseugg
+C4F3: Hangul syllable sseugs
+C4F4: Hangul syllable sseun
+C4F5: Hangul syllable sseunj
+C4F6: Hangul syllable sseunh
+C4F7: Hangul syllable sseud
+C4F8: Hangul syllable sseul
+C4F9: Hangul syllable sseulg
+C4FA: Hangul syllable sseulm
+C4FB: Hangul syllable sseulb
+C4FC: Hangul syllable sseuls
+C4FD: Hangul syllable sseult
+C4FE: Hangul syllable sseulp
+C4FF: Hangul syllable sseulh

@@ -1,256 +1,256 @@
-C100 : Hangul syllable syae
-C101 : Hangul syllable syaeg
-C102 : Hangul syllable syaegg
-C103 : Hangul syllable syaegs
-C104 : Hangul syllable syaen
-C105 : Hangul syllable syaenj
-C106 : Hangul syllable syaenh
-C107 : Hangul syllable syaed
-C108 : Hangul syllable syael
-C109 : Hangul syllable syaelg
-C10A : Hangul syllable syaelm
-C10B : Hangul syllable syaelb
-C10C : Hangul syllable syaels
-C10D : Hangul syllable syaelt
-C10E : Hangul syllable syaelp
-C10F : Hangul syllable syaelh
-C110 : Hangul syllable syaem
-C111 : Hangul syllable syaeb
-C112 : Hangul syllable syaebs
-C113 : Hangul syllable syaes
-C114 : Hangul syllable syaess
-C115 : Hangul syllable syaeng
-C116 : Hangul syllable syaej
-C117 : Hangul syllable syaec
-C118 : Hangul syllable syaek
-C119 : Hangul syllable syaet
-C11A : Hangul syllable syaep
-C11B : Hangul syllable syaeh
-C11C : Hangul syllable seo
-C11D : Hangul syllable seog
-C11E : Hangul syllable seogg
-C11F : Hangul syllable seogs
-C120 : Hangul syllable seon
-C121 : Hangul syllable seonj
-C122 : Hangul syllable seonh
-C123 : Hangul syllable seod
-C124 : Hangul syllable seol
-C125 : Hangul syllable seolg
-C126 : Hangul syllable seolm
-C127 : Hangul syllable seolb
-C128 : Hangul syllable seols
-C129 : Hangul syllable seolt
-C12A : Hangul syllable seolp
-C12B : Hangul syllable seolh
-C12C : Hangul syllable seom
-C12D : Hangul syllable seob
-C12E : Hangul syllable seobs
-C12F : Hangul syllable seos
-C130 : Hangul syllable seoss
-C131 : Hangul syllable seong
-C132 : Hangul syllable seoj
-C133 : Hangul syllable seoc
-C134 : Hangul syllable seok
-C135 : Hangul syllable seot
-C136 : Hangul syllable seop
-C137 : Hangul syllable seoh
-C138 : Hangul syllable se
-C139 : Hangul syllable seg
-C13A : Hangul syllable segg
-C13B : Hangul syllable segs
-C13C : Hangul syllable sen
-C13D : Hangul syllable senj
-C13E : Hangul syllable senh
-C13F : Hangul syllable sed
-C140 : Hangul syllable sel
-C141 : Hangul syllable selg
-C142 : Hangul syllable selm
-C143 : Hangul syllable selb
-C144 : Hangul syllable sels
-C145 : Hangul syllable selt
-C146 : Hangul syllable selp
-C147 : Hangul syllable selh
-C148 : Hangul syllable sem
-C149 : Hangul syllable seb
-C14A : Hangul syllable sebs
-C14B : Hangul syllable ses
-C14C : Hangul syllable sess
-C14D : Hangul syllable seng
-C14E : Hangul syllable sej
-C14F : Hangul syllable sec
-C150 : Hangul syllable sek
-C151 : Hangul syllable set
-C152 : Hangul syllable sep
-C153 : Hangul syllable seh
-C154 : Hangul syllable syeo
-C155 : Hangul syllable syeog
-C156 : Hangul syllable syeogg
-C157 : Hangul syllable syeogs
-C158 : Hangul syllable syeon
-C159 : Hangul syllable syeonj
-C15A : Hangul syllable syeonh
-C15B : Hangul syllable syeod
-C15C : Hangul syllable syeol
-C15D : Hangul syllable syeolg
-C15E : Hangul syllable syeolm
-C15F : Hangul syllable syeolb
-C160 : Hangul syllable syeols
-C161 : Hangul syllable syeolt
-C162 : Hangul syllable syeolp
-C163 : Hangul syllable syeolh
-C164 : Hangul syllable syeom
-C165 : Hangul syllable syeob
-C166 : Hangul syllable syeobs
-C167 : Hangul syllable syeos
-C168 : Hangul syllable syeoss
-C169 : Hangul syllable syeong
-C16A : Hangul syllable syeoj
-C16B : Hangul syllable syeoc
-C16C : Hangul syllable syeok
-C16D : Hangul syllable syeot
-C16E : Hangul syllable syeop
-C16F : Hangul syllable syeoh
-C170 : Hangul syllable sye
-C171 : Hangul syllable syeg
-C172 : Hangul syllable syegg
-C173 : Hangul syllable syegs
-C174 : Hangul syllable syen
-C175 : Hangul syllable syenj
-C176 : Hangul syllable syenh
-C177 : Hangul syllable syed
-C178 : Hangul syllable syel
-C179 : Hangul syllable syelg
-C17A : Hangul syllable syelm
-C17B : Hangul syllable syelb
-C17C : Hangul syllable syels
-C17D : Hangul syllable syelt
-C17E : Hangul syllable syelp
-C17F : Hangul syllable syelh
-C180 : Hangul syllable syem
-C181 : Hangul syllable syeb
-C182 : Hangul syllable syebs
-C183 : Hangul syllable syes
-C184 : Hangul syllable syess
-C185 : Hangul syllable syeng
-C186 : Hangul syllable syej
-C187 : Hangul syllable syec
-C188 : Hangul syllable syek
-C189 : Hangul syllable syet
-C18A : Hangul syllable syep
-C18B : Hangul syllable syeh
-C18C : Hangul syllable so
-C18D : Hangul syllable sog
-C18E : Hangul syllable sogg
-C18F : Hangul syllable sogs
-C190 : Hangul syllable son
-C191 : Hangul syllable sonj
-C192 : Hangul syllable sonh
-C193 : Hangul syllable sod
-C194 : Hangul syllable sol
-C195 : Hangul syllable solg
-C196 : Hangul syllable solm
-C197 : Hangul syllable solb
-C198 : Hangul syllable sols
-C199 : Hangul syllable solt
-C19A : Hangul syllable solp
-C19B : Hangul syllable solh
-C19C : Hangul syllable som
-C19D : Hangul syllable sob
-C19E : Hangul syllable sobs
-C19F : Hangul syllable sos
-C1A0 : Hangul syllable soss
-C1A1 : Hangul syllable song
-C1A2 : Hangul syllable soj
-C1A3 : Hangul syllable soc
-C1A4 : Hangul syllable sok
-C1A5 : Hangul syllable sot
-C1A6 : Hangul syllable sop
-C1A7 : Hangul syllable soh
-C1A8 : Hangul syllable swa
-C1A9 : Hangul syllable swag
-C1AA : Hangul syllable swagg
-C1AB : Hangul syllable swags
-C1AC : Hangul syllable swan
-C1AD : Hangul syllable swanj
-C1AE : Hangul syllable swanh
-C1AF : Hangul syllable swad
-C1B0 : Hangul syllable swal
-C1B1 : Hangul syllable swalg
-C1B2 : Hangul syllable swalm
-C1B3 : Hangul syllable swalb
-C1B4 : Hangul syllable swals
-C1B5 : Hangul syllable swalt
-C1B6 : Hangul syllable swalp
-C1B7 : Hangul syllable swalh
-C1B8 : Hangul syllable swam
-C1B9 : Hangul syllable swab
-C1BA : Hangul syllable swabs
-C1BB : Hangul syllable swas
-C1BC : Hangul syllable swass
-C1BD : Hangul syllable swang
-C1BE : Hangul syllable swaj
-C1BF : Hangul syllable swac
-C1C0 : Hangul syllable swak
-C1C1 : Hangul syllable swat
-C1C2 : Hangul syllable swap
-C1C3 : Hangul syllable swah
-C1C4 : Hangul syllable swae
-C1C5 : Hangul syllable swaeg
-C1C6 : Hangul syllable swaegg
-C1C7 : Hangul syllable swaegs
-C1C8 : Hangul syllable swaen
-C1C9 : Hangul syllable swaenj
-C1CA : Hangul syllable swaenh
-C1CB : Hangul syllable swaed
-C1CC : Hangul syllable swael
-C1CD : Hangul syllable swaelg
-C1CE : Hangul syllable swaelm
-C1CF : Hangul syllable swaelb
-C1D0 : Hangul syllable swaels
-C1D1 : Hangul syllable swaelt
-C1D2 : Hangul syllable swaelp
-C1D3 : Hangul syllable swaelh
-C1D4 : Hangul syllable swaem
-C1D5 : Hangul syllable swaeb
-C1D6 : Hangul syllable swaebs
-C1D7 : Hangul syllable swaes
-C1D8 : Hangul syllable swaess
-C1D9 : Hangul syllable swaeng
-C1DA : Hangul syllable swaej
-C1DB : Hangul syllable swaec
-C1DC : Hangul syllable swaek
-C1DD : Hangul syllable swaet
-C1DE : Hangul syllable swaep
-C1DF : Hangul syllable swaeh
-C1E0 : Hangul syllable soe
-C1E1 : Hangul syllable soeg
-C1E2 : Hangul syllable soegg
-C1E3 : Hangul syllable soegs
-C1E4 : Hangul syllable soen
-C1E5 : Hangul syllable soenj
-C1E6 : Hangul syllable soenh
-C1E7 : Hangul syllable soed
-C1E8 : Hangul syllable soel
-C1E9 : Hangul syllable soelg
-C1EA : Hangul syllable soelm
-C1EB : Hangul syllable soelb
-C1EC : Hangul syllable soels
-C1ED : Hangul syllable soelt
-C1EE : Hangul syllable soelp
-C1EF : Hangul syllable soelh
-C1F0 : Hangul syllable soem
-C1F1 : Hangul syllable soeb
-C1F2 : Hangul syllable soebs
-C1F3 : Hangul syllable soes
-C1F4 : Hangul syllable soess
-C1F5 : Hangul syllable soeng
-C1F6 : Hangul syllable soej
-C1F7 : Hangul syllable soec
-C1F8 : Hangul syllable soek
-C1F9 : Hangul syllable soet
-C1FA : Hangul syllable soep
-C1FB : Hangul syllable soeh
-C1FC : Hangul syllable syo
-C1FD : Hangul syllable syog
-C1FE : Hangul syllable syogg
-C1FF : Hangul syllable syogs
+C100: Hangul syllable syae
+C101: Hangul syllable syaeg
+C102: Hangul syllable syaegg
+C103: Hangul syllable syaegs
+C104: Hangul syllable syaen
+C105: Hangul syllable syaenj
+C106: Hangul syllable syaenh
+C107: Hangul syllable syaed
+C108: Hangul syllable syael
+C109: Hangul syllable syaelg
+C10A: Hangul syllable syaelm
+C10B: Hangul syllable syaelb
+C10C: Hangul syllable syaels
+C10D: Hangul syllable syaelt
+C10E: Hangul syllable syaelp
+C10F: Hangul syllable syaelh
+C110: Hangul syllable syaem
+C111: Hangul syllable syaeb
+C112: Hangul syllable syaebs
+C113: Hangul syllable syaes
+C114: Hangul syllable syaess
+C115: Hangul syllable syaeng
+C116: Hangul syllable syaej
+C117: Hangul syllable syaec
+C118: Hangul syllable syaek
+C119: Hangul syllable syaet
+C11A: Hangul syllable syaep
+C11B: Hangul syllable syaeh
+C11C: Hangul syllable seo
+C11D: Hangul syllable seog
+C11E: Hangul syllable seogg
+C11F: Hangul syllable seogs
+C120: Hangul syllable seon
+C121: Hangul syllable seonj
+C122: Hangul syllable seonh
+C123: Hangul syllable seod
+C124: Hangul syllable seol
+C125: Hangul syllable seolg
+C126: Hangul syllable seolm
+C127: Hangul syllable seolb
+C128: Hangul syllable seols
+C129: Hangul syllable seolt
+C12A: Hangul syllable seolp
+C12B: Hangul syllable seolh
+C12C: Hangul syllable seom
+C12D: Hangul syllable seob
+C12E: Hangul syllable seobs
+C12F: Hangul syllable seos
+C130: Hangul syllable seoss
+C131: Hangul syllable seong
+C132: Hangul syllable seoj
+C133: Hangul syllable seoc
+C134: Hangul syllable seok
+C135: Hangul syllable seot
+C136: Hangul syllable seop
+C137: Hangul syllable seoh
+C138: Hangul syllable se
+C139: Hangul syllable seg
+C13A: Hangul syllable segg
+C13B: Hangul syllable segs
+C13C: Hangul syllable sen
+C13D: Hangul syllable senj
+C13E: Hangul syllable senh
+C13F: Hangul syllable sed
+C140: Hangul syllable sel
+C141: Hangul syllable selg
+C142: Hangul syllable selm
+C143: Hangul syllable selb
+C144: Hangul syllable sels
+C145: Hangul syllable selt
+C146: Hangul syllable selp
+C147: Hangul syllable selh
+C148: Hangul syllable sem
+C149: Hangul syllable seb
+C14A: Hangul syllable sebs
+C14B: Hangul syllable ses
+C14C: Hangul syllable sess
+C14D: Hangul syllable seng
+C14E: Hangul syllable sej
+C14F: Hangul syllable sec
+C150: Hangul syllable sek
+C151: Hangul syllable set
+C152: Hangul syllable sep
+C153: Hangul syllable seh
+C154: Hangul syllable syeo
+C155: Hangul syllable syeog
+C156: Hangul syllable syeogg
+C157: Hangul syllable syeogs
+C158: Hangul syllable syeon
+C159: Hangul syllable syeonj
+C15A: Hangul syllable syeonh
+C15B: Hangul syllable syeod
+C15C: Hangul syllable syeol
+C15D: Hangul syllable syeolg
+C15E: Hangul syllable syeolm
+C15F: Hangul syllable syeolb
+C160: Hangul syllable syeols
+C161: Hangul syllable syeolt
+C162: Hangul syllable syeolp
+C163: Hangul syllable syeolh
+C164: Hangul syllable syeom
+C165: Hangul syllable syeob
+C166: Hangul syllable syeobs
+C167: Hangul syllable syeos
+C168: Hangul syllable syeoss
+C169: Hangul syllable syeong
+C16A: Hangul syllable syeoj
+C16B: Hangul syllable syeoc
+C16C: Hangul syllable syeok
+C16D: Hangul syllable syeot
+C16E: Hangul syllable syeop
+C16F: Hangul syllable syeoh
+C170: Hangul syllable sye
+C171: Hangul syllable syeg
+C172: Hangul syllable syegg
+C173: Hangul syllable syegs
+C174: Hangul syllable syen
+C175: Hangul syllable syenj
+C176: Hangul syllable syenh
+C177: Hangul syllable syed
+C178: Hangul syllable syel
+C179: Hangul syllable syelg
+C17A: Hangul syllable syelm
+C17B: Hangul syllable syelb
+C17C: Hangul syllable syels
+C17D: Hangul syllable syelt
+C17E: Hangul syllable syelp
+C17F: Hangul syllable syelh
+C180: Hangul syllable syem
+C181: Hangul syllable syeb
+C182: Hangul syllable syebs
+C183: Hangul syllable syes
+C184: Hangul syllable syess
+C185: Hangul syllable syeng
+C186: Hangul syllable syej
+C187: Hangul syllable syec
+C188: Hangul syllable syek
+C189: Hangul syllable syet
+C18A: Hangul syllable syep
+C18B: Hangul syllable syeh
+C18C: Hangul syllable so
+C18D: Hangul syllable sog
+C18E: Hangul syllable sogg
+C18F: Hangul syllable sogs
+C190: Hangul syllable son
+C191: Hangul syllable sonj
+C192: Hangul syllable sonh
+C193: Hangul syllable sod
+C194: Hangul syllable sol
+C195: Hangul syllable solg
+C196: Hangul syllable solm
+C197: Hangul syllable solb
+C198: Hangul syllable sols
+C199: Hangul syllable solt
+C19A: Hangul syllable solp
+C19B: Hangul syllable solh
+C19C: Hangul syllable som
+C19D: Hangul syllable sob
+C19E: Hangul syllable sobs
+C19F: Hangul syllable sos
+C1A0: Hangul syllable soss
+C1A1: Hangul syllable song
+C1A2: Hangul syllable soj
+C1A3: Hangul syllable soc
+C1A4: Hangul syllable sok
+C1A5: Hangul syllable sot
+C1A6: Hangul syllable sop
+C1A7: Hangul syllable soh
+C1A8: Hangul syllable swa
+C1A9: Hangul syllable swag
+C1AA: Hangul syllable swagg
+C1AB: Hangul syllable swags
+C1AC: Hangul syllable swan
+C1AD: Hangul syllable swanj
+C1AE: Hangul syllable swanh
+C1AF: Hangul syllable swad
+C1B0: Hangul syllable swal
+C1B1: Hangul syllable swalg
+C1B2: Hangul syllable swalm
+C1B3: Hangul syllable swalb
+C1B4: Hangul syllable swals
+C1B5: Hangul syllable swalt
+C1B6: Hangul syllable swalp
+C1B7: Hangul syllable swalh
+C1B8: Hangul syllable swam
+C1B9: Hangul syllable swab
+C1BA: Hangul syllable swabs
+C1BB: Hangul syllable swas
+C1BC: Hangul syllable swass
+C1BD: Hangul syllable swang
+C1BE: Hangul syllable swaj
+C1BF: Hangul syllable swac
+C1C0: Hangul syllable swak
+C1C1: Hangul syllable swat
+C1C2: Hangul syllable swap
+C1C3: Hangul syllable swah
+C1C4: Hangul syllable swae
+C1C5: Hangul syllable swaeg
+C1C6: Hangul syllable swaegg
+C1C7: Hangul syllable swaegs
+C1C8: Hangul syllable swaen
+C1C9: Hangul syllable swaenj
+C1CA: Hangul syllable swaenh
+C1CB: Hangul syllable swaed
+C1CC: Hangul syllable swael
+C1CD: Hangul syllable swaelg
+C1CE: Hangul syllable swaelm
+C1CF: Hangul syllable swaelb
+C1D0: Hangul syllable swaels
+C1D1: Hangul syllable swaelt
+C1D2: Hangul syllable swaelp
+C1D3: Hangul syllable swaelh
+C1D4: Hangul syllable swaem
+C1D5: Hangul syllable swaeb
+C1D6: Hangul syllable swaebs
+C1D7: Hangul syllable swaes
+C1D8: Hangul syllable swaess
+C1D9: Hangul syllable swaeng
+C1DA: Hangul syllable swaej
+C1DB: Hangul syllable swaec
+C1DC: Hangul syllable swaek
+C1DD: Hangul syllable swaet
+C1DE: Hangul syllable swaep
+C1DF: Hangul syllable swaeh
+C1E0: Hangul syllable soe
+C1E1: Hangul syllable soeg
+C1E2: Hangul syllable soegg
+C1E3: Hangul syllable soegs
+C1E4: Hangul syllable soen
+C1E5: Hangul syllable soenj
+C1E6: Hangul syllable soenh
+C1E7: Hangul syllable soed
+C1E8: Hangul syllable soel
+C1E9: Hangul syllable soelg
+C1EA: Hangul syllable soelm
+C1EB: Hangul syllable soelb
+C1EC: Hangul syllable soels
+C1ED: Hangul syllable soelt
+C1EE: Hangul syllable soelp
+C1EF: Hangul syllable soelh
+C1F0: Hangul syllable soem
+C1F1: Hangul syllable soeb
+C1F2: Hangul syllable soebs
+C1F3: Hangul syllable soes
+C1F4: Hangul syllable soess
+C1F5: Hangul syllable soeng
+C1F6: Hangul syllable soej
+C1F7: Hangul syllable soec
+C1F8: Hangul syllable soek
+C1F9: Hangul syllable soet
+C1FA: Hangul syllable soep
+C1FB: Hangul syllable soeh
+C1FC: Hangul syllable syo
+C1FD: Hangul syllable syog
+C1FE: Hangul syllable syogg
+C1FF: Hangul syllable syogs

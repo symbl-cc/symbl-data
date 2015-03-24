@@ -1,256 +1,256 @@
-A200 : Yi syllable kax
-A201 : Yi syllable ka
-A202 : Yi syllable kap
-A203 : Yi syllable kuox
-A204 : Yi syllable kuo
-A205 : Yi syllable kuop
-A206 : Yi syllable kot
-A207 : Yi syllable kox
-A208 : Yi syllable ko
-A209 : Yi syllable kop
-A20A : Yi syllable ket
-A20B : Yi syllable kex
-A20C : Yi syllable ke
-A20D : Yi syllable kep
-A20E : Yi syllable kut
-A20F : Yi syllable kux
-A210 : Yi syllable ku
-A211 : Yi syllable kup
-A212 : Yi syllable kurx
-A213 : Yi syllable kur
-A214 : Yi syllable ggit
-A215 : Yi syllable ggix
-A216 : Yi syllable ggi
-A217 : Yi syllable ggiex
-A218 : Yi syllable ggie
-A219 : Yi syllable ggiep
-A21A : Yi syllable ggat
-A21B : Yi syllable ggax
-A21C : Yi syllable gga
-A21D : Yi syllable ggap
-A21E : Yi syllable gguot
-A21F : Yi syllable gguox
-A220 : Yi syllable gguo
-A221 : Yi syllable gguop
-A222 : Yi syllable ggot
-A223 : Yi syllable ggox
-A224 : Yi syllable ggo
-A225 : Yi syllable ggop
-A226 : Yi syllable gget
-A227 : Yi syllable ggex
-A228 : Yi syllable gge
-A229 : Yi syllable ggep
-A22A : Yi syllable ggut
-A22B : Yi syllable ggux
-A22C : Yi syllable ggu
-A22D : Yi syllable ggup
-A22E : Yi syllable ggurx
-A22F : Yi syllable ggur
-A230 : Yi syllable mgiex
-A231 : Yi syllable mgie
-A232 : Yi syllable mgat
-A233 : Yi syllable mgax
-A234 : Yi syllable mga
-A235 : Yi syllable mgap
-A236 : Yi syllable mguox
-A237 : Yi syllable mguo
-A238 : Yi syllable mguop
-A239 : Yi syllable mgot
-A23A : Yi syllable mgox
-A23B : Yi syllable mgo
-A23C : Yi syllable mgop
-A23D : Yi syllable mgex
-A23E : Yi syllable mge
-A23F : Yi syllable mgep
-A240 : Yi syllable mgut
-A241 : Yi syllable mgux
-A242 : Yi syllable mgu
-A243 : Yi syllable mgup
-A244 : Yi syllable mgurx
-A245 : Yi syllable mgur
-A246 : Yi syllable hxit
-A247 : Yi syllable hxix
-A248 : Yi syllable hxi
-A249 : Yi syllable hxip
-A24A : Yi syllable hxiet
-A24B : Yi syllable hxiex
-A24C : Yi syllable hxie
-A24D : Yi syllable hxiep
-A24E : Yi syllable hxat
-A24F : Yi syllable hxax
-A250 : Yi syllable hxa
-A251 : Yi syllable hxap
-A252 : Yi syllable hxuot
-A253 : Yi syllable hxuox
-A254 : Yi syllable hxuo
-A255 : Yi syllable hxuop
-A256 : Yi syllable hxot
-A257 : Yi syllable hxox
-A258 : Yi syllable hxo
-A259 : Yi syllable hxop
-A25A : Yi syllable hxex
-A25B : Yi syllable hxe
-A25C : Yi syllable hxep
-A25D : Yi syllable ngiex
-A25E : Yi syllable ngie
-A25F : Yi syllable ngiep
-A260 : Yi syllable ngat
-A261 : Yi syllable ngax
-A262 : Yi syllable nga
-A263 : Yi syllable ngap
-A264 : Yi syllable nguot
-A265 : Yi syllable nguox
-A266 : Yi syllable nguo
-A267 : Yi syllable ngot
-A268 : Yi syllable ngox
-A269 : Yi syllable ngo
-A26A : Yi syllable ngop
-A26B : Yi syllable ngex
-A26C : Yi syllable nge
-A26D : Yi syllable ngep
-A26E : Yi syllable hit
-A26F : Yi syllable hiex
-A270 : Yi syllable hie
-A271 : Yi syllable hat
-A272 : Yi syllable hax
-A273 : Yi syllable ha
-A274 : Yi syllable hap
-A275 : Yi syllable huot
-A276 : Yi syllable huox
-A277 : Yi syllable huo
-A278 : Yi syllable huop
-A279 : Yi syllable hot
-A27A : Yi syllable hox
-A27B : Yi syllable ho
-A27C : Yi syllable hop
-A27D : Yi syllable hex
-A27E : Yi syllable he
-A27F : Yi syllable hep
-A280 : Yi syllable wat
-A281 : Yi syllable wax
-A282 : Yi syllable wa
-A283 : Yi syllable wap
-A284 : Yi syllable wuox
-A285 : Yi syllable wuo
-A286 : Yi syllable wuop
-A287 : Yi syllable wox
-A288 : Yi syllable wo
-A289 : Yi syllable wop
-A28A : Yi syllable wex
-A28B : Yi syllable we
-A28C : Yi syllable wep
-A28D : Yi syllable zit
-A28E : Yi syllable zix
-A28F : Yi syllable zi
-A290 : Yi syllable zip
-A291 : Yi syllable ziex
-A292 : Yi syllable zie
-A293 : Yi syllable ziep
-A294 : Yi syllable zat
-A295 : Yi syllable zax
-A296 : Yi syllable za
-A297 : Yi syllable zap
-A298 : Yi syllable zuox
-A299 : Yi syllable zuo
-A29A : Yi syllable zuop
-A29B : Yi syllable zot
-A29C : Yi syllable zox
-A29D : Yi syllable zo
-A29E : Yi syllable zop
-A29F : Yi syllable zex
-A2A0 : Yi syllable ze
-A2A1 : Yi syllable zep
-A2A2 : Yi syllable zut
-A2A3 : Yi syllable zux
-A2A4 : Yi syllable zu
-A2A5 : Yi syllable zup
-A2A6 : Yi syllable zurx
-A2A7 : Yi syllable zur
-A2A8 : Yi syllable zyt
-A2A9 : Yi syllable zyx
-A2AA : Yi syllable zy
-A2AB : Yi syllable zyp
-A2AC : Yi syllable zyrx
-A2AD : Yi syllable zyr
-A2AE : Yi syllable cit
-A2AF : Yi syllable cix
-A2B0 : Yi syllable ci
-A2B1 : Yi syllable cip
-A2B2 : Yi syllable ciet
-A2B3 : Yi syllable ciex
-A2B4 : Yi syllable cie
-A2B5 : Yi syllable ciep
-A2B6 : Yi syllable cat
-A2B7 : Yi syllable cax
-A2B8 : Yi syllable ca
-A2B9 : Yi syllable cap
-A2BA : Yi syllable cuox
-A2BB : Yi syllable cuo
-A2BC : Yi syllable cuop
-A2BD : Yi syllable cot
-A2BE : Yi syllable cox
-A2BF : Yi syllable co
-A2C0 : Yi syllable cop
-A2C1 : Yi syllable cex
-A2C2 : Yi syllable ce
-A2C3 : Yi syllable cep
-A2C4 : Yi syllable cut
-A2C5 : Yi syllable cux
-A2C6 : Yi syllable cu
-A2C7 : Yi syllable cup
-A2C8 : Yi syllable curx
-A2C9 : Yi syllable cur
-A2CA : Yi syllable cyt
-A2CB : Yi syllable cyx
-A2CC : Yi syllable cy
-A2CD : Yi syllable cyp
-A2CE : Yi syllable cyrx
-A2CF : Yi syllable cyr
-A2D0 : Yi syllable zzit
-A2D1 : Yi syllable zzix
-A2D2 : Yi syllable zzi
-A2D3 : Yi syllable zzip
-A2D4 : Yi syllable zziet
-A2D5 : Yi syllable zziex
-A2D6 : Yi syllable zzie
-A2D7 : Yi syllable zziep
-A2D8 : Yi syllable zzat
-A2D9 : Yi syllable zzax
-A2DA : Yi syllable zza
-A2DB : Yi syllable zzap
-A2DC : Yi syllable zzox
-A2DD : Yi syllable zzo
-A2DE : Yi syllable zzop
-A2DF : Yi syllable zzex
-A2E0 : Yi syllable zze
-A2E1 : Yi syllable zzep
-A2E2 : Yi syllable zzux
-A2E3 : Yi syllable zzu
-A2E4 : Yi syllable zzup
-A2E5 : Yi syllable zzurx
-A2E6 : Yi syllable zzur
-A2E7 : Yi syllable zzyt
-A2E8 : Yi syllable zzyx
-A2E9 : Yi syllable zzy
-A2EA : Yi syllable zzyp
-A2EB : Yi syllable zzyrx
-A2EC : Yi syllable zzyr
-A2ED : Yi syllable nzit
-A2EE : Yi syllable nzix
-A2EF : Yi syllable nzi
-A2F0 : Yi syllable nzip
-A2F1 : Yi syllable nziex
-A2F2 : Yi syllable nzie
-A2F3 : Yi syllable nziep
-A2F4 : Yi syllable nzat
-A2F5 : Yi syllable nzax
-A2F6 : Yi syllable nza
-A2F7 : Yi syllable nzap
-A2F8 : Yi syllable nzuox
-A2F9 : Yi syllable nzuo
-A2FA : Yi syllable nzox
-A2FB : Yi syllable nzop
-A2FC : Yi syllable nzex
-A2FD : Yi syllable nze
-A2FE : Yi syllable nzux
-A2FF : Yi syllable nzu
+A200: Yi syllable kax
+A201: Yi syllable ka
+A202: Yi syllable kap
+A203: Yi syllable kuox
+A204: Yi syllable kuo
+A205: Yi syllable kuop
+A206: Yi syllable kot
+A207: Yi syllable kox
+A208: Yi syllable ko
+A209: Yi syllable kop
+A20A: Yi syllable ket
+A20B: Yi syllable kex
+A20C: Yi syllable ke
+A20D: Yi syllable kep
+A20E: Yi syllable kut
+A20F: Yi syllable kux
+A210: Yi syllable ku
+A211: Yi syllable kup
+A212: Yi syllable kurx
+A213: Yi syllable kur
+A214: Yi syllable ggit
+A215: Yi syllable ggix
+A216: Yi syllable ggi
+A217: Yi syllable ggiex
+A218: Yi syllable ggie
+A219: Yi syllable ggiep
+A21A: Yi syllable ggat
+A21B: Yi syllable ggax
+A21C: Yi syllable gga
+A21D: Yi syllable ggap
+A21E: Yi syllable gguot
+A21F: Yi syllable gguox
+A220: Yi syllable gguo
+A221: Yi syllable gguop
+A222: Yi syllable ggot
+A223: Yi syllable ggox
+A224: Yi syllable ggo
+A225: Yi syllable ggop
+A226: Yi syllable gget
+A227: Yi syllable ggex
+A228: Yi syllable gge
+A229: Yi syllable ggep
+A22A: Yi syllable ggut
+A22B: Yi syllable ggux
+A22C: Yi syllable ggu
+A22D: Yi syllable ggup
+A22E: Yi syllable ggurx
+A22F: Yi syllable ggur
+A230: Yi syllable mgiex
+A231: Yi syllable mgie
+A232: Yi syllable mgat
+A233: Yi syllable mgax
+A234: Yi syllable mga
+A235: Yi syllable mgap
+A236: Yi syllable mguox
+A237: Yi syllable mguo
+A238: Yi syllable mguop
+A239: Yi syllable mgot
+A23A: Yi syllable mgox
+A23B: Yi syllable mgo
+A23C: Yi syllable mgop
+A23D: Yi syllable mgex
+A23E: Yi syllable mge
+A23F: Yi syllable mgep
+A240: Yi syllable mgut
+A241: Yi syllable mgux
+A242: Yi syllable mgu
+A243: Yi syllable mgup
+A244: Yi syllable mgurx
+A245: Yi syllable mgur
+A246: Yi syllable hxit
+A247: Yi syllable hxix
+A248: Yi syllable hxi
+A249: Yi syllable hxip
+A24A: Yi syllable hxiet
+A24B: Yi syllable hxiex
+A24C: Yi syllable hxie
+A24D: Yi syllable hxiep
+A24E: Yi syllable hxat
+A24F: Yi syllable hxax
+A250: Yi syllable hxa
+A251: Yi syllable hxap
+A252: Yi syllable hxuot
+A253: Yi syllable hxuox
+A254: Yi syllable hxuo
+A255: Yi syllable hxuop
+A256: Yi syllable hxot
+A257: Yi syllable hxox
+A258: Yi syllable hxo
+A259: Yi syllable hxop
+A25A: Yi syllable hxex
+A25B: Yi syllable hxe
+A25C: Yi syllable hxep
+A25D: Yi syllable ngiex
+A25E: Yi syllable ngie
+A25F: Yi syllable ngiep
+A260: Yi syllable ngat
+A261: Yi syllable ngax
+A262: Yi syllable nga
+A263: Yi syllable ngap
+A264: Yi syllable nguot
+A265: Yi syllable nguox
+A266: Yi syllable nguo
+A267: Yi syllable ngot
+A268: Yi syllable ngox
+A269: Yi syllable ngo
+A26A: Yi syllable ngop
+A26B: Yi syllable ngex
+A26C: Yi syllable nge
+A26D: Yi syllable ngep
+A26E: Yi syllable hit
+A26F: Yi syllable hiex
+A270: Yi syllable hie
+A271: Yi syllable hat
+A272: Yi syllable hax
+A273: Yi syllable ha
+A274: Yi syllable hap
+A275: Yi syllable huot
+A276: Yi syllable huox
+A277: Yi syllable huo
+A278: Yi syllable huop
+A279: Yi syllable hot
+A27A: Yi syllable hox
+A27B: Yi syllable ho
+A27C: Yi syllable hop
+A27D: Yi syllable hex
+A27E: Yi syllable he
+A27F: Yi syllable hep
+A280: Yi syllable wat
+A281: Yi syllable wax
+A282: Yi syllable wa
+A283: Yi syllable wap
+A284: Yi syllable wuox
+A285: Yi syllable wuo
+A286: Yi syllable wuop
+A287: Yi syllable wox
+A288: Yi syllable wo
+A289: Yi syllable wop
+A28A: Yi syllable wex
+A28B: Yi syllable we
+A28C: Yi syllable wep
+A28D: Yi syllable zit
+A28E: Yi syllable zix
+A28F: Yi syllable zi
+A290: Yi syllable zip
+A291: Yi syllable ziex
+A292: Yi syllable zie
+A293: Yi syllable ziep
+A294: Yi syllable zat
+A295: Yi syllable zax
+A296: Yi syllable za
+A297: Yi syllable zap
+A298: Yi syllable zuox
+A299: Yi syllable zuo
+A29A: Yi syllable zuop
+A29B: Yi syllable zot
+A29C: Yi syllable zox
+A29D: Yi syllable zo
+A29E: Yi syllable zop
+A29F: Yi syllable zex
+A2A0: Yi syllable ze
+A2A1: Yi syllable zep
+A2A2: Yi syllable zut
+A2A3: Yi syllable zux
+A2A4: Yi syllable zu
+A2A5: Yi syllable zup
+A2A6: Yi syllable zurx
+A2A7: Yi syllable zur
+A2A8: Yi syllable zyt
+A2A9: Yi syllable zyx
+A2AA: Yi syllable zy
+A2AB: Yi syllable zyp
+A2AC: Yi syllable zyrx
+A2AD: Yi syllable zyr
+A2AE: Yi syllable cit
+A2AF: Yi syllable cix
+A2B0: Yi syllable ci
+A2B1: Yi syllable cip
+A2B2: Yi syllable ciet
+A2B3: Yi syllable ciex
+A2B4: Yi syllable cie
+A2B5: Yi syllable ciep
+A2B6: Yi syllable cat
+A2B7: Yi syllable cax
+A2B8: Yi syllable ca
+A2B9: Yi syllable cap
+A2BA: Yi syllable cuox
+A2BB: Yi syllable cuo
+A2BC: Yi syllable cuop
+A2BD: Yi syllable cot
+A2BE: Yi syllable cox
+A2BF: Yi syllable co
+A2C0: Yi syllable cop
+A2C1: Yi syllable cex
+A2C2: Yi syllable ce
+A2C3: Yi syllable cep
+A2C4: Yi syllable cut
+A2C5: Yi syllable cux
+A2C6: Yi syllable cu
+A2C7: Yi syllable cup
+A2C8: Yi syllable curx
+A2C9: Yi syllable cur
+A2CA: Yi syllable cyt
+A2CB: Yi syllable cyx
+A2CC: Yi syllable cy
+A2CD: Yi syllable cyp
+A2CE: Yi syllable cyrx
+A2CF: Yi syllable cyr
+A2D0: Yi syllable zzit
+A2D1: Yi syllable zzix
+A2D2: Yi syllable zzi
+A2D3: Yi syllable zzip
+A2D4: Yi syllable zziet
+A2D5: Yi syllable zziex
+A2D6: Yi syllable zzie
+A2D7: Yi syllable zziep
+A2D8: Yi syllable zzat
+A2D9: Yi syllable zzax
+A2DA: Yi syllable zza
+A2DB: Yi syllable zzap
+A2DC: Yi syllable zzox
+A2DD: Yi syllable zzo
+A2DE: Yi syllable zzop
+A2DF: Yi syllable zzex
+A2E0: Yi syllable zze
+A2E1: Yi syllable zzep
+A2E2: Yi syllable zzux
+A2E3: Yi syllable zzu
+A2E4: Yi syllable zzup
+A2E5: Yi syllable zzurx
+A2E6: Yi syllable zzur
+A2E7: Yi syllable zzyt
+A2E8: Yi syllable zzyx
+A2E9: Yi syllable zzy
+A2EA: Yi syllable zzyp
+A2EB: Yi syllable zzyrx
+A2EC: Yi syllable zzyr
+A2ED: Yi syllable nzit
+A2EE: Yi syllable nzix
+A2EF: Yi syllable nzi
+A2F0: Yi syllable nzip
+A2F1: Yi syllable nziex
+A2F2: Yi syllable nzie
+A2F3: Yi syllable nziep
+A2F4: Yi syllable nzat
+A2F5: Yi syllable nzax
+A2F6: Yi syllable nza
+A2F7: Yi syllable nzap
+A2F8: Yi syllable nzuox
+A2F9: Yi syllable nzuo
+A2FA: Yi syllable nzox
+A2FB: Yi syllable nzop
+A2FC: Yi syllable nzex
+A2FD: Yi syllable nze
+A2FE: Yi syllable nzux
+A2FF: Yi syllable nzu

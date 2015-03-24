@@ -1,256 +1,256 @@
-A100 : И слог dit
-A101 : И слог dix
-A102 : И слог di
-A103 : И слог dip
-A104 : И слог diex
-A105 : И слог die
-A106 : И слог diep
-A107 : И слог dat
-A108 : И слог dax
-A109 : И слог da
-A10A : И слог dap
-A10B : И слог duox
-A10C : И слог duo
-A10D : И слог dot
-A10E : И слог dox
-A10F : И слог do
-A110 : И слог dop
-A111 : И слог dex
-A112 : И слог de
-A113 : И слог dep
-A114 : И слог dut
-A115 : И слог dux
-A116 : И слог du
-A117 : И слог dup
-A118 : И слог durx
-A119 : И слог dur
-A11A : И слог tit
-A11B : И слог tix
-A11C : И слог ti
-A11D : И слог tip
-A11E : И слог tiex
-A11F : И слог tie
-A120 : И слог tiep
-A121 : И слог tat
-A122 : И слог tax
-A123 : И слог ta
-A124 : И слог tap
-A125 : И слог tuot
-A126 : И слог tuox
-A127 : И слог tuo
-A128 : И слог tuop
-A129 : И слог tot
-A12A : И слог tox
-A12B : И слог to
-A12C : И слог top
-A12D : И слог tex
-A12E : И слог te
-A12F : И слог tep
-A130 : И слог tut
-A131 : И слог tux
-A132 : И слог tu
-A133 : И слог tup
-A134 : И слог turx
-A135 : И слог tur
-A136 : И слог ddit
-A137 : И слог ddix
-A138 : И слог ddi
-A139 : И слог ddip
-A13A : И слог ddiex
-A13B : И слог ddie
-A13C : И слог ddiep
-A13D : И слог ddat
-A13E : И слог ddax
-A13F : И слог dda
-A140 : И слог ddap
-A141 : И слог dduox
-A142 : И слог dduo
-A143 : И слог dduop
-A144 : И слог ddot
-A145 : И слог ddox
-A146 : И слог ddo
-A147 : И слог ddop
-A148 : И слог ddex
-A149 : И слог dde
-A14A : И слог ddep
-A14B : И слог ddut
-A14C : И слог ddux
-A14D : И слог ddu
-A14E : И слог ddup
-A14F : И слог ddurx
-A150 : И слог ddur
-A151 : И слог ndit
-A152 : И слог ndix
-A153 : И слог ndi
-A154 : И слог ndip
-A155 : И слог ndiex
-A156 : И слог ndie
-A157 : И слог ndat
-A158 : И слог ndax
-A159 : И слог nda
-A15A : И слог ndap
-A15B : И слог ndot
-A15C : И слог ndox
-A15D : И слог ndo
-A15E : И слог ndop
-A15F : И слог ndex
-A160 : И слог nde
-A161 : И слог ndep
-A162 : И слог ndut
-A163 : И слог ndux
-A164 : И слог ndu
-A165 : И слог ndup
-A166 : И слог ndurx
-A167 : И слог ndur
-A168 : И слог hnit
-A169 : И слог hnix
-A16A : И слог hni
-A16B : И слог hnip
-A16C : И слог hniet
-A16D : И слог hniex
-A16E : И слог hnie
-A16F : И слог hniep
-A170 : И слог hnat
-A171 : И слог hnax
-A172 : И слог hna
-A173 : И слог hnap
-A174 : И слог hnuox
-A175 : И слог hnuo
-A176 : И слог hnot
-A177 : И слог hnox
-A178 : И слог hnop
-A179 : И слог hnex
-A17A : И слог hne
-A17B : И слог hnep
-A17C : И слог hnut
-A17D : И слог nit
-A17E : И слог nix
-A17F : И слог ni
-A180 : И слог nip
-A181 : И слог niex
-A182 : И слог nie
-A183 : И слог niep
-A184 : И слог nax
-A185 : И слог na
-A186 : И слог nap
-A187 : И слог nuox
-A188 : И слог nuo
-A189 : И слог nuop
-A18A : И слог not
-A18B : И слог nox
-A18C : И слог no
-A18D : И слог nop
-A18E : И слог nex
-A18F : И слог ne
-A190 : И слог nep
-A191 : И слог nut
-A192 : И слог nux
-A193 : И слог nu
-A194 : И слог nup
-A195 : И слог nurx
-A196 : И слог nur
-A197 : И слог hlit
-A198 : И слог hlix
-A199 : И слог hli
-A19A : И слог hlip
-A19B : И слог hliex
-A19C : И слог hlie
-A19D : И слог hliep
-A19E : И слог hlat
-A19F : И слог hlax
-A1A0 : И слог hla
-A1A1 : И слог hlap
-A1A2 : И слог hluox
-A1A3 : И слог hluo
-A1A4 : И слог hluop
-A1A5 : И слог hlox
-A1A6 : И слог hlo
-A1A7 : И слог hlop
-A1A8 : И слог hlex
-A1A9 : И слог hle
-A1AA : И слог hlep
-A1AB : И слог hlut
-A1AC : И слог hlux
-A1AD : И слог hlu
-A1AE : И слог hlup
-A1AF : И слог hlurx
-A1B0 : И слог hlur
-A1B1 : И слог hlyt
-A1B2 : И слог hlyx
-A1B3 : И слог hly
-A1B4 : И слог hlyp
-A1B5 : И слог hlyrx
-A1B6 : И слог hlyr
-A1B7 : И слог lit
-A1B8 : И слог lix
-A1B9 : И слог li
-A1BA : И слог lip
-A1BB : И слог liet
-A1BC : И слог liex
-A1BD : И слог lie
-A1BE : И слог liep
-A1BF : И слог lat
-A1C0 : И слог lax
-A1C1 : И слог la
-A1C2 : И слог lap
-A1C3 : И слог luot
-A1C4 : И слог luox
-A1C5 : И слог luo
-A1C6 : И слог luop
-A1C7 : И слог lot
-A1C8 : И слог lox
-A1C9 : И слог lo
-A1CA : И слог lop
-A1CB : И слог lex
-A1CC : И слог le
-A1CD : И слог lep
-A1CE : И слог lut
-A1CF : И слог lux
-A1D0 : И слог lu
-A1D1 : И слог lup
-A1D2 : И слог lurx
-A1D3 : И слог lur
-A1D4 : И слог lyt
-A1D5 : И слог lyx
-A1D6 : И слог ly
-A1D7 : И слог lyp
-A1D8 : И слог lyrx
-A1D9 : И слог lyr
-A1DA : И слог git
-A1DB : И слог gix
-A1DC : И слог gi
-A1DD : И слог gip
-A1DE : И слог giet
-A1DF : И слог giex
-A1E0 : И слог gie
-A1E1 : И слог giep
-A1E2 : И слог gat
-A1E3 : И слог gax
-A1E4 : И слог ga
-A1E5 : И слог gap
-A1E6 : И слог guot
-A1E7 : И слог guox
-A1E8 : И слог guo
-A1E9 : И слог guop
-A1EA : И слог got
-A1EB : И слог gox
-A1EC : И слог go
-A1ED : И слог gop
-A1EE : И слог get
-A1EF : И слог gex
-A1F0 : И слог ge
-A1F1 : И слог gep
-A1F2 : И слог gut
-A1F3 : И слог gux
-A1F4 : И слог gu
-A1F5 : И слог gup
-A1F6 : И слог gurx
-A1F7 : И слог gur
-A1F8 : И слог kit
-A1F9 : И слог kix
-A1FA : И слог ki
-A1FB : И слог kip
-A1FC : И слог kiex
-A1FD : И слог kie
-A1FE : И слог kiep
-A1FF : И слог kat
+A100: И слог dit
+A101: И слог dix
+A102: И слог di
+A103: И слог dip
+A104: И слог diex
+A105: И слог die
+A106: И слог diep
+A107: И слог dat
+A108: И слог dax
+A109: И слог da
+A10A: И слог dap
+A10B: И слог duox
+A10C: И слог duo
+A10D: И слог dot
+A10E: И слог dox
+A10F: И слог do
+A110: И слог dop
+A111: И слог dex
+A112: И слог de
+A113: И слог dep
+A114: И слог dut
+A115: И слог dux
+A116: И слог du
+A117: И слог dup
+A118: И слог durx
+A119: И слог dur
+A11A: И слог tit
+A11B: И слог tix
+A11C: И слог ti
+A11D: И слог tip
+A11E: И слог tiex
+A11F: И слог tie
+A120: И слог tiep
+A121: И слог tat
+A122: И слог tax
+A123: И слог ta
+A124: И слог tap
+A125: И слог tuot
+A126: И слог tuox
+A127: И слог tuo
+A128: И слог tuop
+A129: И слог tot
+A12A: И слог tox
+A12B: И слог to
+A12C: И слог top
+A12D: И слог tex
+A12E: И слог te
+A12F: И слог tep
+A130: И слог tut
+A131: И слог tux
+A132: И слог tu
+A133: И слог tup
+A134: И слог turx
+A135: И слог tur
+A136: И слог ddit
+A137: И слог ddix
+A138: И слог ddi
+A139: И слог ddip
+A13A: И слог ddiex
+A13B: И слог ddie
+A13C: И слог ddiep
+A13D: И слог ddat
+A13E: И слог ddax
+A13F: И слог dda
+A140: И слог ddap
+A141: И слог dduox
+A142: И слог dduo
+A143: И слог dduop
+A144: И слог ddot
+A145: И слог ddox
+A146: И слог ddo
+A147: И слог ddop
+A148: И слог ddex
+A149: И слог dde
+A14A: И слог ddep
+A14B: И слог ddut
+A14C: И слог ddux
+A14D: И слог ddu
+A14E: И слог ddup
+A14F: И слог ddurx
+A150: И слог ddur
+A151: И слог ndit
+A152: И слог ndix
+A153: И слог ndi
+A154: И слог ndip
+A155: И слог ndiex
+A156: И слог ndie
+A157: И слог ndat
+A158: И слог ndax
+A159: И слог nda
+A15A: И слог ndap
+A15B: И слог ndot
+A15C: И слог ndox
+A15D: И слог ndo
+A15E: И слог ndop
+A15F: И слог ndex
+A160: И слог nde
+A161: И слог ndep
+A162: И слог ndut
+A163: И слог ndux
+A164: И слог ndu
+A165: И слог ndup
+A166: И слог ndurx
+A167: И слог ndur
+A168: И слог hnit
+A169: И слог hnix
+A16A: И слог hni
+A16B: И слог hnip
+A16C: И слог hniet
+A16D: И слог hniex
+A16E: И слог hnie
+A16F: И слог hniep
+A170: И слог hnat
+A171: И слог hnax
+A172: И слог hna
+A173: И слог hnap
+A174: И слог hnuox
+A175: И слог hnuo
+A176: И слог hnot
+A177: И слог hnox
+A178: И слог hnop
+A179: И слог hnex
+A17A: И слог hne
+A17B: И слог hnep
+A17C: И слог hnut
+A17D: И слог nit
+A17E: И слог nix
+A17F: И слог ni
+A180: И слог nip
+A181: И слог niex
+A182: И слог nie
+A183: И слог niep
+A184: И слог nax
+A185: И слог na
+A186: И слог nap
+A187: И слог nuox
+A188: И слог nuo
+A189: И слог nuop
+A18A: И слог not
+A18B: И слог nox
+A18C: И слог no
+A18D: И слог nop
+A18E: И слог nex
+A18F: И слог ne
+A190: И слог nep
+A191: И слог nut
+A192: И слог nux
+A193: И слог nu
+A194: И слог nup
+A195: И слог nurx
+A196: И слог nur
+A197: И слог hlit
+A198: И слог hlix
+A199: И слог hli
+A19A: И слог hlip
+A19B: И слог hliex
+A19C: И слог hlie
+A19D: И слог hliep
+A19E: И слог hlat
+A19F: И слог hlax
+A1A0: И слог hla
+A1A1: И слог hlap
+A1A2: И слог hluox
+A1A3: И слог hluo
+A1A4: И слог hluop
+A1A5: И слог hlox
+A1A6: И слог hlo
+A1A7: И слог hlop
+A1A8: И слог hlex
+A1A9: И слог hle
+A1AA: И слог hlep
+A1AB: И слог hlut
+A1AC: И слог hlux
+A1AD: И слог hlu
+A1AE: И слог hlup
+A1AF: И слог hlurx
+A1B0: И слог hlur
+A1B1: И слог hlyt
+A1B2: И слог hlyx
+A1B3: И слог hly
+A1B4: И слог hlyp
+A1B5: И слог hlyrx
+A1B6: И слог hlyr
+A1B7: И слог lit
+A1B8: И слог lix
+A1B9: И слог li
+A1BA: И слог lip
+A1BB: И слог liet
+A1BC: И слог liex
+A1BD: И слог lie
+A1BE: И слог liep
+A1BF: И слог lat
+A1C0: И слог lax
+A1C1: И слог la
+A1C2: И слог lap
+A1C3: И слог luot
+A1C4: И слог luox
+A1C5: И слог luo
+A1C6: И слог luop
+A1C7: И слог lot
+A1C8: И слог lox
+A1C9: И слог lo
+A1CA: И слог lop
+A1CB: И слог lex
+A1CC: И слог le
+A1CD: И слог lep
+A1CE: И слог lut
+A1CF: И слог lux
+A1D0: И слог lu
+A1D1: И слог lup
+A1D2: И слог lurx
+A1D3: И слог lur
+A1D4: И слог lyt
+A1D5: И слог lyx
+A1D6: И слог ly
+A1D7: И слог lyp
+A1D8: И слог lyrx
+A1D9: И слог lyr
+A1DA: И слог git
+A1DB: И слог gix
+A1DC: И слог gi
+A1DD: И слог gip
+A1DE: И слог giet
+A1DF: И слог giex
+A1E0: И слог gie
+A1E1: И слог giep
+A1E2: И слог gat
+A1E3: И слог gax
+A1E4: И слог ga
+A1E5: И слог gap
+A1E6: И слог guot
+A1E7: И слог guox
+A1E8: И слог guo
+A1E9: И слог guop
+A1EA: И слог got
+A1EB: И слог gox
+A1EC: И слог go
+A1ED: И слог gop
+A1EE: И слог get
+A1EF: И слог gex
+A1F0: И слог ge
+A1F1: И слог gep
+A1F2: И слог gut
+A1F3: И слог gux
+A1F4: И слог gu
+A1F5: И слог gup
+A1F6: И слог gurx
+A1F7: И слог gur
+A1F8: И слог kit
+A1F9: И слог kix
+A1FA: И слог ki
+A1FB: И слог kip
+A1FC: И слог kiex
+A1FD: И слог kie
+A1FE: И слог kiep
+A1FF: И слог kat

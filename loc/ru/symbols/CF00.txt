@@ -1,256 +1,256 @@
-CF00 : Слог Хангыль ke
-CF01 : Слог Хангыль keg
-CF02 : Слог Хангыль kegg
-CF03 : Слог Хангыль kegs
-CF04 : Слог Хангыль ken
-CF05 : Слог Хангыль kenj
-CF06 : Слог Хангыль kenh
-CF07 : Слог Хангыль ked
-CF08 : Слог Хангыль kel
-CF09 : Слог Хангыль kelg
-CF0A : Слог Хангыль kelm
-CF0B : Слог Хангыль kelb
-CF0C : Слог Хангыль kels
-CF0D : Слог Хангыль kelt
-CF0E : Слог Хангыль kelp
-CF0F : Слог Хангыль kelh
-CF10 : Слог Хангыль kem
-CF11 : Слог Хангыль keb
-CF12 : Слог Хангыль kebs
-CF13 : Слог Хангыль kes
-CF14 : Слог Хангыль kess
-CF15 : Слог Хангыль keng
-CF16 : Слог Хангыль kej
-CF17 : Слог Хангыль kec
-CF18 : Слог Хангыль kek
-CF19 : Слог Хангыль ket
-CF1A : Слог Хангыль kep
-CF1B : Слог Хангыль keh
-CF1C : Слог Хангыль kyeo
-CF1D : Слог Хангыль kyeog
-CF1E : Слог Хангыль kyeogg
-CF1F : Слог Хангыль kyeogs
-CF20 : Слог Хангыль kyeon
-CF21 : Слог Хангыль kyeonj
-CF22 : Слог Хангыль kyeonh
-CF23 : Слог Хангыль kyeod
-CF24 : Слог Хангыль kyeol
-CF25 : Слог Хангыль kyeolg
-CF26 : Слог Хангыль kyeolm
-CF27 : Слог Хангыль kyeolb
-CF28 : Слог Хангыль kyeols
-CF29 : Слог Хангыль kyeolt
-CF2A : Слог Хангыль kyeolp
-CF2B : Слог Хангыль kyeolh
-CF2C : Слог Хангыль kyeom
-CF2D : Слог Хангыль kyeob
-CF2E : Слог Хангыль kyeobs
-CF2F : Слог Хангыль kyeos
-CF30 : Слог Хангыль kyeoss
-CF31 : Слог Хангыль kyeong
-CF32 : Слог Хангыль kyeoj
-CF33 : Слог Хангыль kyeoc
-CF34 : Слог Хангыль kyeok
-CF35 : Слог Хангыль kyeot
-CF36 : Слог Хангыль kyeop
-CF37 : Слог Хангыль kyeoh
-CF38 : Слог Хангыль kye
-CF39 : Слог Хангыль kyeg
-CF3A : Слог Хангыль kyegg
-CF3B : Слог Хангыль kyegs
-CF3C : Слог Хангыль kyen
-CF3D : Слог Хангыль kyenj
-CF3E : Слог Хангыль kyenh
-CF3F : Слог Хангыль kyed
-CF40 : Слог Хангыль kyel
-CF41 : Слог Хангыль kyelg
-CF42 : Слог Хангыль kyelm
-CF43 : Слог Хангыль kyelb
-CF44 : Слог Хангыль kyels
-CF45 : Слог Хангыль kyelt
-CF46 : Слог Хангыль kyelp
-CF47 : Слог Хангыль kyelh
-CF48 : Слог Хангыль kyem
-CF49 : Слог Хангыль kyeb
-CF4A : Слог Хангыль kyebs
-CF4B : Слог Хангыль kyes
-CF4C : Слог Хангыль kyess
-CF4D : Слог Хангыль kyeng
-CF4E : Слог Хангыль kyej
-CF4F : Слог Хангыль kyec
-CF50 : Слог Хангыль kyek
-CF51 : Слог Хангыль kyet
-CF52 : Слог Хангыль kyep
-CF53 : Слог Хангыль kyeh
-CF54 : Слог Хангыль ko
-CF55 : Слог Хангыль kog
-CF56 : Слог Хангыль kogg
-CF57 : Слог Хангыль kogs
-CF58 : Слог Хангыль kon
-CF59 : Слог Хангыль konj
-CF5A : Слог Хангыль konh
-CF5B : Слог Хангыль kod
-CF5C : Слог Хангыль kol
-CF5D : Слог Хангыль kolg
-CF5E : Слог Хангыль kolm
-CF5F : Слог Хангыль kolb
-CF60 : Слог Хангыль kols
-CF61 : Слог Хангыль kolt
-CF62 : Слог Хангыль kolp
-CF63 : Слог Хангыль kolh
-CF64 : Слог Хангыль kom
-CF65 : Слог Хангыль kob
-CF66 : Слог Хангыль kobs
-CF67 : Слог Хангыль kos
-CF68 : Слог Хангыль koss
-CF69 : Слог Хангыль kong
-CF6A : Слог Хангыль koj
-CF6B : Слог Хангыль koc
-CF6C : Слог Хангыль kok
-CF6D : Слог Хангыль kot
-CF6E : Слог Хангыль kop
-CF6F : Слог Хангыль koh
-CF70 : Слог Хангыль kwa
-CF71 : Слог Хангыль kwag
-CF72 : Слог Хангыль kwagg
-CF73 : Слог Хангыль kwags
-CF74 : Слог Хангыль kwan
-CF75 : Слог Хангыль kwanj
-CF76 : Слог Хангыль kwanh
-CF77 : Слог Хангыль kwad
-CF78 : Слог Хангыль kwal
-CF79 : Слог Хангыль kwalg
-CF7A : Слог Хангыль kwalm
-CF7B : Слог Хангыль kwalb
-CF7C : Слог Хангыль kwals
-CF7D : Слог Хангыль kwalt
-CF7E : Слог Хангыль kwalp
-CF7F : Слог Хангыль kwalh
-CF80 : Слог Хангыль kwam
-CF81 : Слог Хангыль kwab
-CF82 : Слог Хангыль kwabs
-CF83 : Слог Хангыль kwas
-CF84 : Слог Хангыль kwass
-CF85 : Слог Хангыль kwang
-CF86 : Слог Хангыль kwaj
-CF87 : Слог Хангыль kwac
-CF88 : Слог Хангыль kwak
-CF89 : Слог Хангыль kwat
-CF8A : Слог Хангыль kwap
-CF8B : Слог Хангыль kwah
-CF8C : Слог Хангыль kwae
-CF8D : Слог Хангыль kwaeg
-CF8E : Слог Хангыль kwaegg
-CF8F : Слог Хангыль kwaegs
-CF90 : Слог Хангыль kwaen
-CF91 : Слог Хангыль kwaenj
-CF92 : Слог Хангыль kwaenh
-CF93 : Слог Хангыль kwaed
-CF94 : Слог Хангыль kwael
-CF95 : Слог Хангыль kwaelg
-CF96 : Слог Хангыль kwaelm
-CF97 : Слог Хангыль kwaelb
-CF98 : Слог Хангыль kwaels
-CF99 : Слог Хангыль kwaelt
-CF9A : Слог Хангыль kwaelp
-CF9B : Слог Хангыль kwaelh
-CF9C : Слог Хангыль kwaem
-CF9D : Слог Хангыль kwaeb
-CF9E : Слог Хангыль kwaebs
-CF9F : Слог Хангыль kwaes
-CFA0 : Слог Хангыль kwaess
-CFA1 : Слог Хангыль kwaeng
-CFA2 : Слог Хангыль kwaej
-CFA3 : Слог Хангыль kwaec
-CFA4 : Слог Хангыль kwaek
-CFA5 : Слог Хангыль kwaet
-CFA6 : Слог Хангыль kwaep
-CFA7 : Слог Хангыль kwaeh
-CFA8 : Слог Хангыль koe
-CFA9 : Слог Хангыль koeg
-CFAA : Слог Хангыль koegg
-CFAB : Слог Хангыль koegs
-CFAC : Слог Хангыль koen
-CFAD : Слог Хангыль koenj
-CFAE : Слог Хангыль koenh
-CFAF : Слог Хангыль koed
-CFB0 : Слог Хангыль koel
-CFB1 : Слог Хангыль koelg
-CFB2 : Слог Хангыль koelm
-CFB3 : Слог Хангыль koelb
-CFB4 : Слог Хангыль koels
-CFB5 : Слог Хангыль koelt
-CFB6 : Слог Хангыль koelp
-CFB7 : Слог Хангыль koelh
-CFB8 : Слог Хангыль koem
-CFB9 : Слог Хангыль koeb
-CFBA : Слог Хангыль koebs
-CFBB : Слог Хангыль koes
-CFBC : Слог Хангыль koess
-CFBD : Слог Хангыль koeng
-CFBE : Слог Хангыль koej
-CFBF : Слог Хангыль koec
-CFC0 : Слог Хангыль koek
-CFC1 : Слог Хангыль koet
-CFC2 : Слог Хангыль koep
-CFC3 : Слог Хангыль koeh
-CFC4 : Слог Хангыль kyo
-CFC5 : Слог Хангыль kyog
-CFC6 : Слог Хангыль kyogg
-CFC7 : Слог Хангыль kyogs
-CFC8 : Слог Хангыль kyon
-CFC9 : Слог Хангыль kyonj
-CFCA : Слог Хангыль kyonh
-CFCB : Слог Хангыль kyod
-CFCC : Слог Хангыль kyol
-CFCD : Слог Хангыль kyolg
-CFCE : Слог Хангыль kyolm
-CFCF : Слог Хангыль kyolb
-CFD0 : Слог Хангыль kyols
-CFD1 : Слог Хангыль kyolt
-CFD2 : Слог Хангыль kyolp
-CFD3 : Слог Хангыль kyolh
-CFD4 : Слог Хангыль kyom
-CFD5 : Слог Хангыль kyob
-CFD6 : Слог Хангыль kyobs
-CFD7 : Слог Хангыль kyos
-CFD8 : Слог Хангыль kyoss
-CFD9 : Слог Хангыль kyong
-CFDA : Слог Хангыль kyoj
-CFDB : Слог Хангыль kyoc
-CFDC : Слог Хангыль kyok
-CFDD : Слог Хангыль kyot
-CFDE : Слог Хангыль kyop
-CFDF : Слог Хангыль kyoh
-CFE0 : Слог Хангыль ku
-CFE1 : Слог Хангыль kug
-CFE2 : Слог Хангыль kugg
-CFE3 : Слог Хангыль kugs
-CFE4 : Слог Хангыль kun
-CFE5 : Слог Хангыль kunj
-CFE6 : Слог Хангыль kunh
-CFE7 : Слог Хангыль kud
-CFE8 : Слог Хангыль kul
-CFE9 : Слог Хангыль kulg
-CFEA : Слог Хангыль kulm
-CFEB : Слог Хангыль kulb
-CFEC : Слог Хангыль kuls
-CFED : Слог Хангыль kult
-CFEE : Слог Хангыль kulp
-CFEF : Слог Хангыль kulh
-CFF0 : Слог Хангыль kum
-CFF1 : Слог Хангыль kub
-CFF2 : Слог Хангыль kubs
-CFF3 : Слог Хангыль kus
-CFF4 : Слог Хангыль kuss
-CFF5 : Слог Хангыль kung
-CFF6 : Слог Хангыль kuj
-CFF7 : Слог Хангыль kuc
-CFF8 : Слог Хангыль kuk
-CFF9 : Слог Хангыль kut
-CFFA : Слог Хангыль kup
-CFFB : Слог Хангыль kuh
-CFFC : Слог Хангыль kweo
-CFFD : Слог Хангыль kweog
-CFFE : Слог Хангыль kweogg
-CFFF : Слог Хангыль kweogs
+CF00: Слог Хангыль ke
+CF01: Слог Хангыль keg
+CF02: Слог Хангыль kegg
+CF03: Слог Хангыль kegs
+CF04: Слог Хангыль ken
+CF05: Слог Хангыль kenj
+CF06: Слог Хангыль kenh
+CF07: Слог Хангыль ked
+CF08: Слог Хангыль kel
+CF09: Слог Хангыль kelg
+CF0A: Слог Хангыль kelm
+CF0B: Слог Хангыль kelb
+CF0C: Слог Хангыль kels
+CF0D: Слог Хангыль kelt
+CF0E: Слог Хангыль kelp
+CF0F: Слог Хангыль kelh
+CF10: Слог Хангыль kem
+CF11: Слог Хангыль keb
+CF12: Слог Хангыль kebs
+CF13: Слог Хангыль kes
+CF14: Слог Хангыль kess
+CF15: Слог Хангыль keng
+CF16: Слог Хангыль kej
+CF17: Слог Хангыль kec
+CF18: Слог Хангыль kek
+CF19: Слог Хангыль ket
+CF1A: Слог Хангыль kep
+CF1B: Слог Хангыль keh
+CF1C: Слог Хангыль kyeo
+CF1D: Слог Хангыль kyeog
+CF1E: Слог Хангыль kyeogg
+CF1F: Слог Хангыль kyeogs
+CF20: Слог Хангыль kyeon
+CF21: Слог Хангыль kyeonj
+CF22: Слог Хангыль kyeonh
+CF23: Слог Хангыль kyeod
+CF24: Слог Хангыль kyeol
+CF25: Слог Хангыль kyeolg
+CF26: Слог Хангыль kyeolm
+CF27: Слог Хангыль kyeolb
+CF28: Слог Хангыль kyeols
+CF29: Слог Хангыль kyeolt
+CF2A: Слог Хангыль kyeolp
+CF2B: Слог Хангыль kyeolh
+CF2C: Слог Хангыль kyeom
+CF2D: Слог Хангыль kyeob
+CF2E: Слог Хангыль kyeobs
+CF2F: Слог Хангыль kyeos
+CF30: Слог Хангыль kyeoss
+CF31: Слог Хангыль kyeong
+CF32: Слог Хангыль kyeoj
+CF33: Слог Хангыль kyeoc
+CF34: Слог Хангыль kyeok
+CF35: Слог Хангыль kyeot
+CF36: Слог Хангыль kyeop
+CF37: Слог Хангыль kyeoh
+CF38: Слог Хангыль kye
+CF39: Слог Хангыль kyeg
+CF3A: Слог Хангыль kyegg
+CF3B: Слог Хангыль kyegs
+CF3C: Слог Хангыль kyen
+CF3D: Слог Хангыль kyenj
+CF3E: Слог Хангыль kyenh
+CF3F: Слог Хангыль kyed
+CF40: Слог Хангыль kyel
+CF41: Слог Хангыль kyelg
+CF42: Слог Хангыль kyelm
+CF43: Слог Хангыль kyelb
+CF44: Слог Хангыль kyels
+CF45: Слог Хангыль kyelt
+CF46: Слог Хангыль kyelp
+CF47: Слог Хангыль kyelh
+CF48: Слог Хангыль kyem
+CF49: Слог Хангыль kyeb
+CF4A: Слог Хангыль kyebs
+CF4B: Слог Хангыль kyes
+CF4C: Слог Хангыль kyess
+CF4D: Слог Хангыль kyeng
+CF4E: Слог Хангыль kyej
+CF4F: Слог Хангыль kyec
+CF50: Слог Хангыль kyek
+CF51: Слог Хангыль kyet
+CF52: Слог Хангыль kyep
+CF53: Слог Хангыль kyeh
+CF54: Слог Хангыль ko
+CF55: Слог Хангыль kog
+CF56: Слог Хангыль kogg
+CF57: Слог Хангыль kogs
+CF58: Слог Хангыль kon
+CF59: Слог Хангыль konj
+CF5A: Слог Хангыль konh
+CF5B: Слог Хангыль kod
+CF5C: Слог Хангыль kol
+CF5D: Слог Хангыль kolg
+CF5E: Слог Хангыль kolm
+CF5F: Слог Хангыль kolb
+CF60: Слог Хангыль kols
+CF61: Слог Хангыль kolt
+CF62: Слог Хангыль kolp
+CF63: Слог Хангыль kolh
+CF64: Слог Хангыль kom
+CF65: Слог Хангыль kob
+CF66: Слог Хангыль kobs
+CF67: Слог Хангыль kos
+CF68: Слог Хангыль koss
+CF69: Слог Хангыль kong
+CF6A: Слог Хангыль koj
+CF6B: Слог Хангыль koc
+CF6C: Слог Хангыль kok
+CF6D: Слог Хангыль kot
+CF6E: Слог Хангыль kop
+CF6F: Слог Хангыль koh
+CF70: Слог Хангыль kwa
+CF71: Слог Хангыль kwag
+CF72: Слог Хангыль kwagg
+CF73: Слог Хангыль kwags
+CF74: Слог Хангыль kwan
+CF75: Слог Хангыль kwanj
+CF76: Слог Хангыль kwanh
+CF77: Слог Хангыль kwad
+CF78: Слог Хангыль kwal
+CF79: Слог Хангыль kwalg
+CF7A: Слог Хангыль kwalm
+CF7B: Слог Хангыль kwalb
+CF7C: Слог Хангыль kwals
+CF7D: Слог Хангыль kwalt
+CF7E: Слог Хангыль kwalp
+CF7F: Слог Хангыль kwalh
+CF80: Слог Хангыль kwam
+CF81: Слог Хангыль kwab
+CF82: Слог Хангыль kwabs
+CF83: Слог Хангыль kwas
+CF84: Слог Хангыль kwass
+CF85: Слог Хангыль kwang
+CF86: Слог Хангыль kwaj
+CF87: Слог Хангыль kwac
+CF88: Слог Хангыль kwak
+CF89: Слог Хангыль kwat
+CF8A: Слог Хангыль kwap
+CF8B: Слог Хангыль kwah
+CF8C: Слог Хангыль kwae
+CF8D: Слог Хангыль kwaeg
+CF8E: Слог Хангыль kwaegg
+CF8F: Слог Хангыль kwaegs
+CF90: Слог Хангыль kwaen
+CF91: Слог Хангыль kwaenj
+CF92: Слог Хангыль kwaenh
+CF93: Слог Хангыль kwaed
+CF94: Слог Хангыль kwael
+CF95: Слог Хангыль kwaelg
+CF96: Слог Хангыль kwaelm
+CF97: Слог Хангыль kwaelb
+CF98: Слог Хангыль kwaels
+CF99: Слог Хангыль kwaelt
+CF9A: Слог Хангыль kwaelp
+CF9B: Слог Хангыль kwaelh
+CF9C: Слог Хангыль kwaem
+CF9D: Слог Хангыль kwaeb
+CF9E: Слог Хангыль kwaebs
+CF9F: Слог Хангыль kwaes
+CFA0: Слог Хангыль kwaess
+CFA1: Слог Хангыль kwaeng
+CFA2: Слог Хангыль kwaej
+CFA3: Слог Хангыль kwaec
+CFA4: Слог Хангыль kwaek
+CFA5: Слог Хангыль kwaet
+CFA6: Слог Хангыль kwaep
+CFA7: Слог Хангыль kwaeh
+CFA8: Слог Хангыль koe
+CFA9: Слог Хангыль koeg
+CFAA: Слог Хангыль koegg
+CFAB: Слог Хангыль koegs
+CFAC: Слог Хангыль koen
+CFAD: Слог Хангыль koenj
+CFAE: Слог Хангыль koenh
+CFAF: Слог Хангыль koed
+CFB0: Слог Хангыль koel
+CFB1: Слог Хангыль koelg
+CFB2: Слог Хангыль koelm
+CFB3: Слог Хангыль koelb
+CFB4: Слог Хангыль koels
+CFB5: Слог Хангыль koelt
+CFB6: Слог Хангыль koelp
+CFB7: Слог Хангыль koelh
+CFB8: Слог Хангыль koem
+CFB9: Слог Хангыль koeb
+CFBA: Слог Хангыль koebs
+CFBB: Слог Хангыль koes
+CFBC: Слог Хангыль koess
+CFBD: Слог Хангыль koeng
+CFBE: Слог Хангыль koej
+CFBF: Слог Хангыль koec
+CFC0: Слог Хангыль koek
+CFC1: Слог Хангыль koet
+CFC2: Слог Хангыль koep
+CFC3: Слог Хангыль koeh
+CFC4: Слог Хангыль kyo
+CFC5: Слог Хангыль kyog
+CFC6: Слог Хангыль kyogg
+CFC7: Слог Хангыль kyogs
+CFC8: Слог Хангыль kyon
+CFC9: Слог Хангыль kyonj
+CFCA: Слог Хангыль kyonh
+CFCB: Слог Хангыль kyod
+CFCC: Слог Хангыль kyol
+CFCD: Слог Хангыль kyolg
+CFCE: Слог Хангыль kyolm
+CFCF: Слог Хангыль kyolb
+CFD0: Слог Хангыль kyols
+CFD1: Слог Хангыль kyolt
+CFD2: Слог Хангыль kyolp
+CFD3: Слог Хангыль kyolh
+CFD4: Слог Хангыль kyom
+CFD5: Слог Хангыль kyob
+CFD6: Слог Хангыль kyobs
+CFD7: Слог Хангыль kyos
+CFD8: Слог Хангыль kyoss
+CFD9: Слог Хангыль kyong
+CFDA: Слог Хангыль kyoj
+CFDB: Слог Хангыль kyoc
+CFDC: Слог Хангыль kyok
+CFDD: Слог Хангыль kyot
+CFDE: Слог Хангыль kyop
+CFDF: Слог Хангыль kyoh
+CFE0: Слог Хангыль ku
+CFE1: Слог Хангыль kug
+CFE2: Слог Хангыль kugg
+CFE3: Слог Хангыль kugs
+CFE4: Слог Хангыль kun
+CFE5: Слог Хангыль kunj
+CFE6: Слог Хангыль kunh
+CFE7: Слог Хангыль kud
+CFE8: Слог Хангыль kul
+CFE9: Слог Хангыль kulg
+CFEA: Слог Хангыль kulm
+CFEB: Слог Хангыль kulb
+CFEC: Слог Хангыль kuls
+CFED: Слог Хангыль kult
+CFEE: Слог Хангыль kulp
+CFEF: Слог Хангыль kulh
+CFF0: Слог Хангыль kum
+CFF1: Слог Хангыль kub
+CFF2: Слог Хангыль kubs
+CFF3: Слог Хангыль kus
+CFF4: Слог Хангыль kuss
+CFF5: Слог Хангыль kung
+CFF6: Слог Хангыль kuj
+CFF7: Слог Хангыль kuc
+CFF8: Слог Хангыль kuk
+CFF9: Слог Хангыль kut
+CFFA: Слог Хангыль kup
+CFFB: Слог Хангыль kuh
+CFFC: Слог Хангыль kweo
+CFFD: Слог Хангыль kweog
+CFFE: Слог Хангыль kweogg
+CFFF: Слог Хангыль kweogs

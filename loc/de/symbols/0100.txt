@@ -1,256 +1,256 @@
-0100 : Lateinischer Großbuchstabe A mit Makron
-0101 : Lateinischer Kleinbuchstabe a mit Makron
-0102 : Lateinischer Großbuchstabe A mit Breve
-0103 : Lateinischer Kleinbuchstabe a mit Breve
-0104 : Lateinischer Großbuchstabe A mit Ogonek
-0105 : Lateinischer Kleinbuchstabe a mit Ogonek
-0106 : Lateinischer Großbuchstabe C mit Akut
-0107 : Lateinischer Kleinbuchstabe c mit Akut
-0108 : Lateinischer Großbuchstabe C mit Zirkumflex
-0109 : Lateinischer Kleinbuchstabe c mit Zirkumflex
-010A : Lateinischer Großbuchstabe C mit übergesetztem Punkt 	
-010B : Lateinischer Kleinbuchstabe c mit übergesetztem Punkt
-010C : Lateinischer Großbuchstabe C mit Hatschek
-010D : Lateinischer Kleinbuchstabe c mit Hatschek
-010E : Lateinischer Großbuchstabe D mit Hatschek
-010F : Lateinischer Kleinbuchstabe d mit Hatschek
-0110 : Lateinischer Großbuchstabe D mit Querstrich
-0111 : Lateinischer Kleinbuchstabe d mit Querstrich
-0112 : Lateinischer Großbuchstabe E mit Makron
-0113 : Lateinischer Kleinbuchstabe e mit Makron
-0114 : Lateinischer Großbuchstabe E mit Breve
-0115 : Lateinischer Kleinbuchstabe e mit Breve
-0116 : Lateinischer Großbuchstabe E mit übergesetztem Punkt
-0117 : Lateinischer Kleinbuchstabe e mit übergesetztem Punkt
-0118 : Lateinischer Großbuchstabe E mit Ogonek
-0119 : Lateinischer Kleinbuchstabe e mit Ogonek
-011A : Lateinischer Großbuchstabe E mit Hatschek
-011B : Lateinischer Kleinbuchstabe e mit Hatschek
-011C : Lateinischer Großbuchstabe G mit Zirkumflex
-011D : Lateinischer Kleinbuchstabe g mit Zirkumflex
-011E : Lateinischer Großbuchstabe G mit Breve
-011F : Lateinischer Kleinbuchstabe g mit Breve
-0120 : Lateinischer Großbuchstabe G mit übergesetztem Punkt
-0121 : Lateinischer Kleinbuchstabe g mit übergesetztem Punkt
-0122 : Lateinischer Großbuchstabe G mit Cédille
-0123 : Lateinischer Kleinbuchstabe g mit Cédille
-0124 : Lateinischer Großbuchstabe H mit Zirkumflex
-0125 : Lateinischer Kleinbuchstabe h mit Zirkumflex
-0126 : Lateinischer Großbuchstabe H mit Querstrich
-0127 : Lateinischer Kleinbuchstabe h mit Querstrich
-0128 : Lateinischer Großbuchstabe I mit Tilde
-0129 : Lateinischer Kleinbuchstabe i mit Tilde
-012A : Lateinischer Großbuchstabe I mit Makron
-012B : Lateinischer Kleinbuchstabe i mit Makron
-012C : Lateinischer Großbuchstabe I mit Breve
-012D : Lateinischer Kleinbuchstabe i mit Breve
-012E : Lateinischer Großbuchstabe I mit Ogonek
-012F : Lateinischer Kleinbuchstabe i mit Ogonek
-0130 : Lateinischer Großbuchstabe I mit übergesetztem Punkt
-0131 : Lateinischer Kleinbuchstabe punktloses i
-0132 : Lateinische große Ligatur IJ
-0133 : Lateinische kleine Ligatur ij
-0134 : Lateinischer Großbuchstabe J mit Zirkumflex
-0135 : Lateinischer Kleinbuchstabe j mit Zirkumflex
-0136 : Lateinischer Großbuchstabe K mit Cédille
-0137 : Lateinischer Kleinbuchstabe k mit Cédille
-0138 : Lateinischer Kleinbuchstabe Kra
-0139 : Lateinischer Großbuchstabe L mit Akut
-013A : Lateinischer Kleinbuchstabe l mit Akut
-013B : Lateinischer Großbuchstabe L mit Cédille
-013C : Lateinischer Kleinbuchstabe l mit Cédille
-013D : Lateinischer Großbuchstabe L mit Hatschek
-013E : Lateinischer Kleinbuchstabe l mit Hatschek
-013F : Lateinischer Großbuchstabe L mit Mittelpunkt
-0140 : Lateinischer Kleinbuchstabe l mit Mittelpunkt
-0141 : Lateinischer Großbuchstabe L mit Schrägstrich, Litecoin
-0142 : Lateinischer Kleinbuchstabe l mit Schrägstrich
-0143 : Lateinischer Großbuchstabe N mit Akut
-0144 : Lateinischer Kleinbuchstabe n mit Akut
-0145 : Lateinischer Großbuchstabe N mit Cédille
-0146 : Lateinischer Kleinbuchstabe n mit Cédille
-0147 : Lateinischer Großbuchstabe N mit Hatschek
-0148 : Lateinischer Kleinbuchstabe n mit Hatschek
-0149 : Lateinischer Kleinbuchstabe n mit vorangehendem Apostroph
-014A : Lateinischer Großbuchstabe Eng
-014B : Lateinischer Kleinbuchstabe Eng
-014C : Lateinischer Großbuchstabe O mit Makron
-014D : Lateinischer Kleinbuchstabe o mit Makron
-014E : Lateinischer Großbuchstabe O mit Breve
-014F : Lateinischer Kleinbuchstabe o mit Breve
-0150 : Lateinischer Großbuchstabe O mit Doppelakut
-0151 : Lateinischer Kleinbuchstabe o mit Doppelakut
-0152 : Lateinische große Ligatur OE
-0153 : Lateinische kleine Ligatur oe
-0154 : Lateinischer Großbuchstabe R mit Akut
-0155 : Lateinischer Kleinbuchstabe r mit Akut
-0156 : Lateinischer Großbuchstabe R mit Cédille
-0157 : Lateinischer Kleinbuchstabe r mit Cédille
-0158 : Lateinischer Großbuchstabe R mit Hatschek
-0159 : Lateinischer Kleinbuchstabe r mit Hatschek
-015A : Lateinischer Großbuchstabe S mit Akut
-015B : Lateinischer Kleinbuchstabe s mit Akut
-015C : Lateinischer Großbuchstabe S mit Zirkumflex
-015D : Lateinischer Kleinbuchstabe s mit Zirkumflex
-015E : Lateinischer Großbuchstabe S mit Cédille
-015F : Lateinischer Kleinbuchstabe s mit Cédille
-0160 : Lateinischer Großbuchstabe S mit Hatschek
-0161 : Lateinischer Kleinbuchstabe s mit Hatschek
-0162 : Lateinischer Großbuchstabe T mit Cédille
-0163 : Lateinischer Kleinbuchstabe t mit Cédille
-0164 : Lateinischer Großbuchstabe T mit Hatschek
-0165 : Lateinischer Kleinbuchstabe t mit Hatschek
-0166 : Lateinischer Großbuchstabe T mit Querstrich
-0167 : Lateinischer Kleinbuchstabe t mit Querstrich
-0168 : Lateinischer Großbuchstabe U mit Tilde
-0169 : Lateinischer Kleinbuchstabe u mit Tilde
-016A : Lateinischer Großbuchstabe U mit Makron
-016B : Lateinischer Kleinbuchstabe u mit Makron
-016C : Lateinischer Großbuchstabe U mit Breve
-016D : Lateinischer Kleinbuchstabe u mit Breve
-016E : Lateinischer Großbuchstabe U mit übergesetztem Ring
-016F : Lateinischer Kleinbuchstabe u mit übergesetztem Ring
-0170 : Lateinischer Großbuchstabe U mit Doppelakut
-0171 : Lateinischer Kleinbuchstabe u mit Doppelakut
-0172 : Lateinischer Großbuchstabe U mit Ogonek
-0173 : Lateinischer Kleinbuchstabe u mit Ogonek
-0174 : Lateinischer Großbuchstabe W mit Zirkumflex
-0175 : Lateinischer Kleinbuchstabe w mit Zirkumflex
-0176 : Lateinischer Großbuchstabe Y mit Zirkumflex
-0177 : Lateinischer Kleinbuchstabe y mit Zirkumflex
-0178 : Lateinischer Großbuchstabe Y mit Trema
-0179 : Lateinischer Großbuchstabe Z mit Akut
-017A : Lateinischer Kleinbuchstabe z mit Akut
-017B : Lateinischer Großbuchstabe Z mit übergesetztem Punkt
-017C : Lateinischer Kleinbuchstabe z mit übergesetztem Punkt
-017D : Lateinischer Großbuchstabe Z mit Hatschek
-017E : Lateinischer Kleinbuchstabe z mit Hatschek
-017F : Lateinischer Kleinbuchstabe langes s
-0180 : Lateinischer Kleinbuchstabe B mit Querstrich
-0181 : Lateinischer Großbuchstabe B mit Haken
-0182 : Lateinischer Großbuchstabe B mit oberem Balken
-0183 : Lateinischer Kleinbuchstabe B mit oberem Balken
-0184 : Lateinisches großes Lautzeichen Sechs
-0185 : Lateinisches kleines Lautzeichen Sechs
-0186 : Lateinischer Großbuchstabe offenes O
-0187 : Lateinischer Großbuchstabe C mit Haken
-0188 : Lateinischer Kleinbuchstabe C mit Haken
-0189 : Lateinischer Großbuchstabe afrikanisches D
-018A : Lateinischer Großbuchstabe D mit Haken
-018B : Lateinischer Großbuchstabe D mit oberem Balken
-018C : Lateinischer Kleinbuchstabe D mit oberem Balken
-018D : Lateinischer Kleinbuchstabe gedrehtes Delta
-018E : Lateinischer Großbuchstabe gespiegeltes E
-018F : Lateinischer Großbuchstabe Schwa
-0190 : Lateinischer Großbuchstabe offenes E
-0191 : Lateinischer Großbuchstabe F mit Haken
-0192 : Lateinischer Kleinbuchstabe F mit Haken
-0193 : Lateinischer Großbuchstabe G mit Haken
-0194 : Lateinischer Großbuchstabe Gamma
-0195 : Lateinischer Kleinbuchstabe Hv
-0196 : Lateinischer Großbuchstabe Iota
-0197 : Lateinischer Großbuchstabe I mit Querstrich
-0198 : Lateinischer Großbuchstabe K mit Haken
-0199 : Lateinischer Kleinbuchstabe K mit Haken
-019A : Lateinischer Kleinbuchstabe L mit Querstrich
-019B : Lateinischer Kleinbuchstabe Lambda mit Querstrich
-019C : Lateinischer Großbuchstabe gedrehtes M
-019D : Lateinischer Großbuchstabe N mit Haken links
-019E : Lateinischer Kleinbuchstabe N mit langem rechtem Bein
-019F : Lateinischer Großbuchstabe O mit mittlerer Tilde
-01A0 : Lateinischer Großbuchstabe O mit Horn
-01A1 : Lateinischer Kleinbuchstabe O mit Horn
-01A2 : Lateinischer Großbuchstabe Oi
-01A3 : Lateinischer Kleinbuchstabe Oi
-01A4 : Lateinischer Großbuchstabe P mit Haken
-01A5 : Lateinischer Kleinbuchstabe P mit Haken
-01A6 : Lateinischer Buchstabe Yr
-01A7 : Lateinisches großes Lautzeichen Zwei
-01A8 : Lateinisches kleines Lautzeichen Zwei
-01A9 : Lateinischer Großbuchstabe Esh
-01AA : Lateinischer Buchstabe gespiegeltes Esh schleifend
-01AB : Lateinischer Kleinbuchstabe T mit Palatalhaken
-01AC : Lateinischer Großbuchstabe T mit Haken
-01AD : Lateinischer Kleinbuchstabe T mit Haken
-01AE : Lateinischer Großbuchstabe T mit Retroflexhaken
-01AF : Lateinischer Großbuchstabe U mit Horn
-01B0 : Lateinischer Kleinbuchstabe U mit Horn
-01B1 : Lateinischer Großbuchstabe Upsilon
-01B2 : Lateinischer Großbuchstabe V mit Haken
-01B3 : Lateinischer Großbuchstabe Y mit Haken
-01B4 : Lateinischer Kleinbuchstabe Y mit Haken
-01B5 : Lateinischer Großbuchstabe Z mit Querstrich
-01B6 : Lateinischer Kleinbuchstabe Z mit Querstrich
-01B7 : Lateinischer Großbuchstabe Ezh
-01B8 : Lateinischer Großbuchstabe Ezh gespiegelt
-01B9 : Lateinischer Kleinbuchstabe Ezh gespiegelt
-01BA : Lateinischer Kleinbuchstabe Ezh und Schwanz
-01BB : Lateinischer Buchstabe 2 mit Querstrich
-01BC : Lateinisches großes Lautzeichen Fünf
-01BD : Lateinisches kleines Lautzeichen Fünf
-01BE : Lateinischer Buchstabe Ligatur von t und s
-01BF : Lateinischer Buchstabe Wynn
-01C0 : Lateinischer Buchstabe dentaler Klick
-01C1 : Lateinischer Buchstabe lateraler Klick
-01C2 : Lateinischer Buchstabe alveolarer Klick
-01C3 : Lateinischer Buchstabe retroflexer Klick
-01C4 : Lateinischer Großbuchstabe DZ-Digraph mit Hatschek
-01C5 : Lateinischer Großbuchstabe Digraph D mit Kleinbuchstabe z mit Hatschek
-01C6 : Lateinischer Kleinbuchstabe dz-Digraph mit Hatschek
-01C7 : Lateinischer Großbuchstabe LJ-Digraph
-01C8 : Lateinischer Großbuchstabe Digraph L mit Kleinbuchstabe J
-01C9 : Lateinischer Kleinbuchstabe lj-Digraph
-01CA : Lateinischer Großbuchstabe NJ-Digraph
-01CB : Lateinischer Großbuchstabe Digraph N mit Kleinbuchstabe j
-01CC : Lateinischer Kleinbuchstabe nj-Digraph
-01CD : Lateinischer Großbuchstabe A mit Hatschek
-01CE : Lateinischer Kleinbuchstabe A mit Hatschek
-01CF : Lateinischer Großbuchstabe I mit Hatschek
-01D0 : Lateinischer Kleinbuchstabe I mit Hatschek
-01D1 : Lateinischer Großbuchstabe O mit Hatschek
-01D2 : Lateinischer Kleinbuchstabe O mit Hatschek
-01D3 : Lateinischer Großbuchstabe U mit Hatschek
-01D4 : Lateinischer Kleinbuchstabe U mit Hatschek
-01D5 : Lateinischer Großbuchstabe U mit Trema und Makron
-01D6 : Lateinischer Kleinbuchstabe U mit Trema und Makron
-01D7 : Lateinischer Großbuchstabe U mit Trema und Akut
-01D8 : Lateinischer Kleinbuchstabe U mit Trema und Akut
-01D9 : Lateinischer Großbuchstabe U mit Trema und Hatschek
-01DA : Lateinischer Kleinbuchstabe U mit Trema und Hatschek
-01DB : Lateinischer Großbuchstabe U mit Trema und Gravis
-01DC : Lateinischer Kleinbuchstabe U mit Trema und Gravis
-01DD : Lateinischer Kleinbuchstabe gedrehtes E
-01DE : Lateinischer Großbuchstabe A mit Trema und Makron
-01DF : Lateinischer Kleinbuchstabe A mit Trema und Makron
-01E0 : Lateinischer Großbuchstabe A mit Punkt und Makron
-01E1 : Lateinischer Kleinbuchstabe A mit Punkt und Makron
-01E2 : Lateinischer Großbuchstabe AE-Ligatur mit Makron
-01E3 : Lateinischer Kleinbuchstabe ae-Ligatur mit Makron
-01E4 : Lateinischer Großbuchstabe G mit Querstrich
-01E5 : Lateinischer Kleinbuchstabe G mit Querstrich
-01E6 : Lateinischer Großbuchstabe G mit Hatschek
-01E7 : Lateinischer Kleinbuchstabe G mit Hatschek
-01E8 : Lateinischer Großbuchstabe K mit Hatschek
-01E9 : Lateinischer Kleinbuchstabe K mit Hatschek
-01EA : Lateinischer Großbuchstabe O mit Ogonek
-01EB : Lateinischer Kleinbuchstabe O mit Ogonek
-01EC : Lateinischer Großbuchstabe O mit Ogonek und Makron
-01ED : Lateinischer Kleinbuchstabe O mit Ogonek und Makron
-01EE : Lateinischer Großbuchstabe Ezh mit Hatschek
-01EF : Lateinischer Kleinbuchstabe Ezh mit Hatschek
-01F0 : Lateinischer Kleinbuchstabe J mit Hatschek
-01F1 : Lateinischer Großbuchstabe DZ-Digraph
-01F2 : Lateinischer Großbuchstabe Digraph D mit Kleinbuchstabe z
-01F3 : Lateinischer Kleinbuchstabe dz-Digraph
-01F4 : Lateinischer Großbuchstabe G mit Akut
-01F5 : Lateinischer Kleinbuchstabe G mit Akut
-01F6 : Lateinischer Großbuchstabe Hwair
-01F7 : Lateinischer Großbuchstabe Wynn
-01F8 : Lateinischer Großbuchstabe N mit Gravis
-01F9 : Lateinischer Kleinbuchstabe N mit Gravis
-01FA : Lateinischer Großbuchstabe A mit Ring und Akut
-01FB : Lateinischer Kleinbuchstabe A mit Ring und Akut
-01FC : Lateinischer Großbuchstabe AE-Ligatur mit Akut
-01FD : Lateinischer Kleinbuchstabe ae-Ligatur mit Akut
-01FE : Lateinischer Großbuchstabe durchgestrichenes O mit Akut
-01FF : Lateinischer Kleinbuchstabe durchgestrichenes O mit Akut
+0100: Lateinischer Großbuchstabe A mit Makron
+0101: Lateinischer Kleinbuchstabe a mit Makron
+0102: Lateinischer Großbuchstabe A mit Breve
+0103: Lateinischer Kleinbuchstabe a mit Breve
+0104: Lateinischer Großbuchstabe A mit Ogonek
+0105: Lateinischer Kleinbuchstabe a mit Ogonek
+0106: Lateinischer Großbuchstabe C mit Akut
+0107: Lateinischer Kleinbuchstabe c mit Akut
+0108: Lateinischer Großbuchstabe C mit Zirkumflex
+0109: Lateinischer Kleinbuchstabe c mit Zirkumflex
+010A: Lateinischer Großbuchstabe C mit übergesetztem Punkt
+010B: Lateinischer Kleinbuchstabe c mit übergesetztem Punkt
+010C: Lateinischer Großbuchstabe C mit Hatschek
+010D: Lateinischer Kleinbuchstabe c mit Hatschek
+010E: Lateinischer Großbuchstabe D mit Hatschek
+010F: Lateinischer Kleinbuchstabe d mit Hatschek
+0110: Lateinischer Großbuchstabe D mit Querstrich
+0111: Lateinischer Kleinbuchstabe d mit Querstrich
+0112: Lateinischer Großbuchstabe E mit Makron
+0113: Lateinischer Kleinbuchstabe e mit Makron
+0114: Lateinischer Großbuchstabe E mit Breve
+0115: Lateinischer Kleinbuchstabe e mit Breve
+0116: Lateinischer Großbuchstabe E mit übergesetztem Punkt
+0117: Lateinischer Kleinbuchstabe e mit übergesetztem Punkt
+0118: Lateinischer Großbuchstabe E mit Ogonek
+0119: Lateinischer Kleinbuchstabe e mit Ogonek
+011A: Lateinischer Großbuchstabe E mit Hatschek
+011B: Lateinischer Kleinbuchstabe e mit Hatschek
+011C: Lateinischer Großbuchstabe G mit Zirkumflex
+011D: Lateinischer Kleinbuchstabe g mit Zirkumflex
+011E: Lateinischer Großbuchstabe G mit Breve
+011F: Lateinischer Kleinbuchstabe g mit Breve
+0120: Lateinischer Großbuchstabe G mit übergesetztem Punkt
+0121: Lateinischer Kleinbuchstabe g mit übergesetztem Punkt
+0122: Lateinischer Großbuchstabe G mit Cédille
+0123: Lateinischer Kleinbuchstabe g mit Cédille
+0124: Lateinischer Großbuchstabe H mit Zirkumflex
+0125: Lateinischer Kleinbuchstabe h mit Zirkumflex
+0126: Lateinischer Großbuchstabe H mit Querstrich
+0127: Lateinischer Kleinbuchstabe h mit Querstrich
+0128: Lateinischer Großbuchstabe I mit Tilde
+0129: Lateinischer Kleinbuchstabe i mit Tilde
+012A: Lateinischer Großbuchstabe I mit Makron
+012B: Lateinischer Kleinbuchstabe i mit Makron
+012C: Lateinischer Großbuchstabe I mit Breve
+012D: Lateinischer Kleinbuchstabe i mit Breve
+012E: Lateinischer Großbuchstabe I mit Ogonek
+012F: Lateinischer Kleinbuchstabe i mit Ogonek
+0130: Lateinischer Großbuchstabe I mit übergesetztem Punkt
+0131: Lateinischer Kleinbuchstabe punktloses i
+0132: Lateinische große Ligatur IJ
+0133: Lateinische kleine Ligatur ij
+0134: Lateinischer Großbuchstabe J mit Zirkumflex
+0135: Lateinischer Kleinbuchstabe j mit Zirkumflex
+0136: Lateinischer Großbuchstabe K mit Cédille
+0137: Lateinischer Kleinbuchstabe k mit Cédille
+0138: Lateinischer Kleinbuchstabe Kra
+0139: Lateinischer Großbuchstabe L mit Akut
+013A: Lateinischer Kleinbuchstabe l mit Akut
+013B: Lateinischer Großbuchstabe L mit Cédille
+013C: Lateinischer Kleinbuchstabe l mit Cédille
+013D: Lateinischer Großbuchstabe L mit Hatschek
+013E: Lateinischer Kleinbuchstabe l mit Hatschek
+013F: Lateinischer Großbuchstabe L mit Mittelpunkt
+0140: Lateinischer Kleinbuchstabe l mit Mittelpunkt
+0141: Lateinischer Großbuchstabe L mit Schrägstrich, Litecoin
+0142: Lateinischer Kleinbuchstabe l mit Schrägstrich
+0143: Lateinischer Großbuchstabe N mit Akut
+0144: Lateinischer Kleinbuchstabe n mit Akut
+0145: Lateinischer Großbuchstabe N mit Cédille
+0146: Lateinischer Kleinbuchstabe n mit Cédille
+0147: Lateinischer Großbuchstabe N mit Hatschek
+0148: Lateinischer Kleinbuchstabe n mit Hatschek
+0149: Lateinischer Kleinbuchstabe n mit vorangehendem Apostroph
+014A: Lateinischer Großbuchstabe Eng
+014B: Lateinischer Kleinbuchstabe Eng
+014C: Lateinischer Großbuchstabe O mit Makron
+014D: Lateinischer Kleinbuchstabe o mit Makron
+014E: Lateinischer Großbuchstabe O mit Breve
+014F: Lateinischer Kleinbuchstabe o mit Breve
+0150: Lateinischer Großbuchstabe O mit Doppelakut
+0151: Lateinischer Kleinbuchstabe o mit Doppelakut
+0152: Lateinische große Ligatur OE
+0153: Lateinische kleine Ligatur oe
+0154: Lateinischer Großbuchstabe R mit Akut
+0155: Lateinischer Kleinbuchstabe r mit Akut
+0156: Lateinischer Großbuchstabe R mit Cédille
+0157: Lateinischer Kleinbuchstabe r mit Cédille
+0158: Lateinischer Großbuchstabe R mit Hatschek
+0159: Lateinischer Kleinbuchstabe r mit Hatschek
+015A: Lateinischer Großbuchstabe S mit Akut
+015B: Lateinischer Kleinbuchstabe s mit Akut
+015C: Lateinischer Großbuchstabe S mit Zirkumflex
+015D: Lateinischer Kleinbuchstabe s mit Zirkumflex
+015E: Lateinischer Großbuchstabe S mit Cédille
+015F: Lateinischer Kleinbuchstabe s mit Cédille
+0160: Lateinischer Großbuchstabe S mit Hatschek
+0161: Lateinischer Kleinbuchstabe s mit Hatschek
+0162: Lateinischer Großbuchstabe T mit Cédille
+0163: Lateinischer Kleinbuchstabe t mit Cédille
+0164: Lateinischer Großbuchstabe T mit Hatschek
+0165: Lateinischer Kleinbuchstabe t mit Hatschek
+0166: Lateinischer Großbuchstabe T mit Querstrich
+0167: Lateinischer Kleinbuchstabe t mit Querstrich
+0168: Lateinischer Großbuchstabe U mit Tilde
+0169: Lateinischer Kleinbuchstabe u mit Tilde
+016A: Lateinischer Großbuchstabe U mit Makron
+016B: Lateinischer Kleinbuchstabe u mit Makron
+016C: Lateinischer Großbuchstabe U mit Breve
+016D: Lateinischer Kleinbuchstabe u mit Breve
+016E: Lateinischer Großbuchstabe U mit übergesetztem Ring
+016F: Lateinischer Kleinbuchstabe u mit übergesetztem Ring
+0170: Lateinischer Großbuchstabe U mit Doppelakut
+0171: Lateinischer Kleinbuchstabe u mit Doppelakut
+0172: Lateinischer Großbuchstabe U mit Ogonek
+0173: Lateinischer Kleinbuchstabe u mit Ogonek
+0174: Lateinischer Großbuchstabe W mit Zirkumflex
+0175: Lateinischer Kleinbuchstabe w mit Zirkumflex
+0176: Lateinischer Großbuchstabe Y mit Zirkumflex
+0177: Lateinischer Kleinbuchstabe y mit Zirkumflex
+0178: Lateinischer Großbuchstabe Y mit Trema
+0179: Lateinischer Großbuchstabe Z mit Akut
+017A: Lateinischer Kleinbuchstabe z mit Akut
+017B: Lateinischer Großbuchstabe Z mit übergesetztem Punkt
+017C: Lateinischer Kleinbuchstabe z mit übergesetztem Punkt
+017D: Lateinischer Großbuchstabe Z mit Hatschek
+017E: Lateinischer Kleinbuchstabe z mit Hatschek
+017F: Lateinischer Kleinbuchstabe langes s
+0180: Lateinischer Kleinbuchstabe B mit Querstrich
+0181: Lateinischer Großbuchstabe B mit Haken
+0182: Lateinischer Großbuchstabe B mit oberem Balken
+0183: Lateinischer Kleinbuchstabe B mit oberem Balken
+0184: Lateinisches großes Lautzeichen Sechs
+0185: Lateinisches kleines Lautzeichen Sechs
+0186: Lateinischer Großbuchstabe offenes O
+0187: Lateinischer Großbuchstabe C mit Haken
+0188: Lateinischer Kleinbuchstabe C mit Haken
+0189: Lateinischer Großbuchstabe afrikanisches D
+018A: Lateinischer Großbuchstabe D mit Haken
+018B: Lateinischer Großbuchstabe D mit oberem Balken
+018C: Lateinischer Kleinbuchstabe D mit oberem Balken
+018D: Lateinischer Kleinbuchstabe gedrehtes Delta
+018E: Lateinischer Großbuchstabe gespiegeltes E
+018F: Lateinischer Großbuchstabe Schwa
+0190: Lateinischer Großbuchstabe offenes E
+0191: Lateinischer Großbuchstabe F mit Haken
+0192: Lateinischer Kleinbuchstabe F mit Haken
+0193: Lateinischer Großbuchstabe G mit Haken
+0194: Lateinischer Großbuchstabe Gamma
+0195: Lateinischer Kleinbuchstabe Hv
+0196: Lateinischer Großbuchstabe Iota
+0197: Lateinischer Großbuchstabe I mit Querstrich
+0198: Lateinischer Großbuchstabe K mit Haken
+0199: Lateinischer Kleinbuchstabe K mit Haken
+019A: Lateinischer Kleinbuchstabe L mit Querstrich
+019B: Lateinischer Kleinbuchstabe Lambda mit Querstrich
+019C: Lateinischer Großbuchstabe gedrehtes M
+019D: Lateinischer Großbuchstabe N mit Haken links
+019E: Lateinischer Kleinbuchstabe N mit langem rechtem Bein
+019F: Lateinischer Großbuchstabe O mit mittlerer Tilde
+01A0: Lateinischer Großbuchstabe O mit Horn
+01A1: Lateinischer Kleinbuchstabe O mit Horn
+01A2: Lateinischer Großbuchstabe Oi
+01A3: Lateinischer Kleinbuchstabe Oi
+01A4: Lateinischer Großbuchstabe P mit Haken
+01A5: Lateinischer Kleinbuchstabe P mit Haken
+01A6: Lateinischer Buchstabe Yr
+01A7: Lateinisches großes Lautzeichen Zwei
+01A8: Lateinisches kleines Lautzeichen Zwei
+01A9: Lateinischer Großbuchstabe Esh
+01AA: Lateinischer Buchstabe gespiegeltes Esh schleifend
+01AB: Lateinischer Kleinbuchstabe T mit Palatalhaken
+01AC: Lateinischer Großbuchstabe T mit Haken
+01AD: Lateinischer Kleinbuchstabe T mit Haken
+01AE: Lateinischer Großbuchstabe T mit Retroflexhaken
+01AF: Lateinischer Großbuchstabe U mit Horn
+01B0: Lateinischer Kleinbuchstabe U mit Horn
+01B1: Lateinischer Großbuchstabe Upsilon
+01B2: Lateinischer Großbuchstabe V mit Haken
+01B3: Lateinischer Großbuchstabe Y mit Haken
+01B4: Lateinischer Kleinbuchstabe Y mit Haken
+01B5: Lateinischer Großbuchstabe Z mit Querstrich
+01B6: Lateinischer Kleinbuchstabe Z mit Querstrich
+01B7: Lateinischer Großbuchstabe Ezh
+01B8: Lateinischer Großbuchstabe Ezh gespiegelt
+01B9: Lateinischer Kleinbuchstabe Ezh gespiegelt
+01BA: Lateinischer Kleinbuchstabe Ezh und Schwanz
+01BB: Lateinischer Buchstabe 2 mit Querstrich
+01BC: Lateinisches großes Lautzeichen Fünf
+01BD: Lateinisches kleines Lautzeichen Fünf
+01BE: Lateinischer Buchstabe Ligatur von t und s
+01BF: Lateinischer Buchstabe Wynn
+01C0: Lateinischer Buchstabe dentaler Klick
+01C1: Lateinischer Buchstabe lateraler Klick
+01C2: Lateinischer Buchstabe alveolarer Klick
+01C3: Lateinischer Buchstabe retroflexer Klick
+01C4: Lateinischer Großbuchstabe DZ-Digraph mit Hatschek
+01C5: Lateinischer Großbuchstabe Digraph D mit Kleinbuchstabe z mit Hatschek
+01C6: Lateinischer Kleinbuchstabe dz-Digraph mit Hatschek
+01C7: Lateinischer Großbuchstabe LJ-Digraph
+01C8: Lateinischer Großbuchstabe Digraph L mit Kleinbuchstabe J
+01C9: Lateinischer Kleinbuchstabe lj-Digraph
+01CA: Lateinischer Großbuchstabe NJ-Digraph
+01CB: Lateinischer Großbuchstabe Digraph N mit Kleinbuchstabe j
+01CC: Lateinischer Kleinbuchstabe nj-Digraph
+01CD: Lateinischer Großbuchstabe A mit Hatschek
+01CE: Lateinischer Kleinbuchstabe A mit Hatschek
+01CF: Lateinischer Großbuchstabe I mit Hatschek
+01D0: Lateinischer Kleinbuchstabe I mit Hatschek
+01D1: Lateinischer Großbuchstabe O mit Hatschek
+01D2: Lateinischer Kleinbuchstabe O mit Hatschek
+01D3: Lateinischer Großbuchstabe U mit Hatschek
+01D4: Lateinischer Kleinbuchstabe U mit Hatschek
+01D5: Lateinischer Großbuchstabe U mit Trema und Makron
+01D6: Lateinischer Kleinbuchstabe U mit Trema und Makron
+01D7: Lateinischer Großbuchstabe U mit Trema und Akut
+01D8: Lateinischer Kleinbuchstabe U mit Trema und Akut
+01D9: Lateinischer Großbuchstabe U mit Trema und Hatschek
+01DA: Lateinischer Kleinbuchstabe U mit Trema und Hatschek
+01DB: Lateinischer Großbuchstabe U mit Trema und Gravis
+01DC: Lateinischer Kleinbuchstabe U mit Trema und Gravis
+01DD: Lateinischer Kleinbuchstabe gedrehtes E
+01DE: Lateinischer Großbuchstabe A mit Trema und Makron
+01DF: Lateinischer Kleinbuchstabe A mit Trema und Makron
+01E0: Lateinischer Großbuchstabe A mit Punkt und Makron
+01E1: Lateinischer Kleinbuchstabe A mit Punkt und Makron
+01E2: Lateinischer Großbuchstabe AE-Ligatur mit Makron
+01E3: Lateinischer Kleinbuchstabe ae-Ligatur mit Makron
+01E4: Lateinischer Großbuchstabe G mit Querstrich
+01E5: Lateinischer Kleinbuchstabe G mit Querstrich
+01E6: Lateinischer Großbuchstabe G mit Hatschek
+01E7: Lateinischer Kleinbuchstabe G mit Hatschek
+01E8: Lateinischer Großbuchstabe K mit Hatschek
+01E9: Lateinischer Kleinbuchstabe K mit Hatschek
+01EA: Lateinischer Großbuchstabe O mit Ogonek
+01EB: Lateinischer Kleinbuchstabe O mit Ogonek
+01EC: Lateinischer Großbuchstabe O mit Ogonek und Makron
+01ED: Lateinischer Kleinbuchstabe O mit Ogonek und Makron
+01EE: Lateinischer Großbuchstabe Ezh mit Hatschek
+01EF: Lateinischer Kleinbuchstabe Ezh mit Hatschek
+01F0: Lateinischer Kleinbuchstabe J mit Hatschek
+01F1: Lateinischer Großbuchstabe DZ-Digraph
+01F2: Lateinischer Großbuchstabe Digraph D mit Kleinbuchstabe z
+01F3: Lateinischer Kleinbuchstabe dz-Digraph
+01F4: Lateinischer Großbuchstabe G mit Akut
+01F5: Lateinischer Kleinbuchstabe G mit Akut
+01F6: Lateinischer Großbuchstabe Hwair
+01F7: Lateinischer Großbuchstabe Wynn
+01F8: Lateinischer Großbuchstabe N mit Gravis
+01F9: Lateinischer Kleinbuchstabe N mit Gravis
+01FA: Lateinischer Großbuchstabe A mit Ring und Akut
+01FB: Lateinischer Kleinbuchstabe A mit Ring und Akut
+01FC: Lateinischer Großbuchstabe AE-Ligatur mit Akut
+01FD: Lateinischer Kleinbuchstabe ae-Ligatur mit Akut
+01FE: Lateinischer Großbuchstabe durchgestrichenes O mit Akut
+01FF: Lateinischer Kleinbuchstabe durchgestrichenes O mit Akut

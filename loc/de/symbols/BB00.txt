@@ -1,256 +1,256 @@
-BB00 : Hangul syllable moen
-BB01 : Hangul syllable moenj
-BB02 : Hangul syllable moenh
-BB03 : Hangul syllable moed
-BB04 : Hangul syllable moel
-BB05 : Hangul syllable moelg
-BB06 : Hangul syllable moelm
-BB07 : Hangul syllable moelb
-BB08 : Hangul syllable moels
-BB09 : Hangul syllable moelt
-BB0A : Hangul syllable moelp
-BB0B : Hangul syllable moelh
-BB0C : Hangul syllable moem
-BB0D : Hangul syllable moeb
-BB0E : Hangul syllable moebs
-BB0F : Hangul syllable moes
-BB10 : Hangul syllable moess
-BB11 : Hangul syllable moeng
-BB12 : Hangul syllable moej
-BB13 : Hangul syllable moec
-BB14 : Hangul syllable moek
-BB15 : Hangul syllable moet
-BB16 : Hangul syllable moep
-BB17 : Hangul syllable moeh
-BB18 : Hangul syllable myo
-BB19 : Hangul syllable myog
-BB1A : Hangul syllable myogg
-BB1B : Hangul syllable myogs
-BB1C : Hangul syllable myon
-BB1D : Hangul syllable myonj
-BB1E : Hangul syllable myonh
-BB1F : Hangul syllable myod
-BB20 : Hangul syllable myol
-BB21 : Hangul syllable myolg
-BB22 : Hangul syllable myolm
-BB23 : Hangul syllable myolb
-BB24 : Hangul syllable myols
-BB25 : Hangul syllable myolt
-BB26 : Hangul syllable myolp
-BB27 : Hangul syllable myolh
-BB28 : Hangul syllable myom
-BB29 : Hangul syllable myob
-BB2A : Hangul syllable myobs
-BB2B : Hangul syllable myos
-BB2C : Hangul syllable myoss
-BB2D : Hangul syllable myong
-BB2E : Hangul syllable myoj
-BB2F : Hangul syllable myoc
-BB30 : Hangul syllable myok
-BB31 : Hangul syllable myot
-BB32 : Hangul syllable myop
-BB33 : Hangul syllable myoh
-BB34 : Hangul syllable mu
-BB35 : Hangul syllable mug
-BB36 : Hangul syllable mugg
-BB37 : Hangul syllable mugs
-BB38 : Hangul syllable mun
-BB39 : Hangul syllable munj
-BB3A : Hangul syllable munh
-BB3B : Hangul syllable mud
-BB3C : Hangul syllable mul
-BB3D : Hangul syllable mulg
-BB3E : Hangul syllable mulm
-BB3F : Hangul syllable mulb
-BB40 : Hangul syllable muls
-BB41 : Hangul syllable mult
-BB42 : Hangul syllable mulp
-BB43 : Hangul syllable mulh
-BB44 : Hangul syllable mum
-BB45 : Hangul syllable mub
-BB46 : Hangul syllable mubs
-BB47 : Hangul syllable mus
-BB48 : Hangul syllable muss
-BB49 : Hangul syllable mung
-BB4A : Hangul syllable muj
-BB4B : Hangul syllable muc
-BB4C : Hangul syllable muk
-BB4D : Hangul syllable mut
-BB4E : Hangul syllable mup
-BB4F : Hangul syllable muh
-BB50 : Hangul syllable mweo
-BB51 : Hangul syllable mweog
-BB52 : Hangul syllable mweogg
-BB53 : Hangul syllable mweogs
-BB54 : Hangul syllable mweon
-BB55 : Hangul syllable mweonj
-BB56 : Hangul syllable mweonh
-BB57 : Hangul syllable mweod
-BB58 : Hangul syllable mweol
-BB59 : Hangul syllable mweolg
-BB5A : Hangul syllable mweolm
-BB5B : Hangul syllable mweolb
-BB5C : Hangul syllable mweols
-BB5D : Hangul syllable mweolt
-BB5E : Hangul syllable mweolp
-BB5F : Hangul syllable mweolh
-BB60 : Hangul syllable mweom
-BB61 : Hangul syllable mweob
-BB62 : Hangul syllable mweobs
-BB63 : Hangul syllable mweos
-BB64 : Hangul syllable mweoss
-BB65 : Hangul syllable mweong
-BB66 : Hangul syllable mweoj
-BB67 : Hangul syllable mweoc
-BB68 : Hangul syllable mweok
-BB69 : Hangul syllable mweot
-BB6A : Hangul syllable mweop
-BB6B : Hangul syllable mweoh
-BB6C : Hangul syllable mwe
-BB6D : Hangul syllable mweg
-BB6E : Hangul syllable mwegg
-BB6F : Hangul syllable mwegs
-BB70 : Hangul syllable mwen
-BB71 : Hangul syllable mwenj
-BB72 : Hangul syllable mwenh
-BB73 : Hangul syllable mwed
-BB74 : Hangul syllable mwel
-BB75 : Hangul syllable mwelg
-BB76 : Hangul syllable mwelm
-BB77 : Hangul syllable mwelb
-BB78 : Hangul syllable mwels
-BB79 : Hangul syllable mwelt
-BB7A : Hangul syllable mwelp
-BB7B : Hangul syllable mwelh
-BB7C : Hangul syllable mwem
-BB7D : Hangul syllable mweb
-BB7E : Hangul syllable mwebs
-BB7F : Hangul syllable mwes
-BB80 : Hangul syllable mwess
-BB81 : Hangul syllable mweng
-BB82 : Hangul syllable mwej
-BB83 : Hangul syllable mwec
-BB84 : Hangul syllable mwek
-BB85 : Hangul syllable mwet
-BB86 : Hangul syllable mwep
-BB87 : Hangul syllable mweh
-BB88 : Hangul syllable mwi
-BB89 : Hangul syllable mwig
-BB8A : Hangul syllable mwigg
-BB8B : Hangul syllable mwigs
-BB8C : Hangul syllable mwin
-BB8D : Hangul syllable mwinj
-BB8E : Hangul syllable mwinh
-BB8F : Hangul syllable mwid
-BB90 : Hangul syllable mwil
-BB91 : Hangul syllable mwilg
-BB92 : Hangul syllable mwilm
-BB93 : Hangul syllable mwilb
-BB94 : Hangul syllable mwils
-BB95 : Hangul syllable mwilt
-BB96 : Hangul syllable mwilp
-BB97 : Hangul syllable mwilh
-BB98 : Hangul syllable mwim
-BB99 : Hangul syllable mwib
-BB9A : Hangul syllable mwibs
-BB9B : Hangul syllable mwis
-BB9C : Hangul syllable mwiss
-BB9D : Hangul syllable mwing
-BB9E : Hangul syllable mwij
-BB9F : Hangul syllable mwic
-BBA0 : Hangul syllable mwik
-BBA1 : Hangul syllable mwit
-BBA2 : Hangul syllable mwip
-BBA3 : Hangul syllable mwih
-BBA4 : Hangul syllable myu
-BBA5 : Hangul syllable myug
-BBA6 : Hangul syllable myugg
-BBA7 : Hangul syllable myugs
-BBA8 : Hangul syllable myun
-BBA9 : Hangul syllable myunj
-BBAA : Hangul syllable myunh
-BBAB : Hangul syllable myud
-BBAC : Hangul syllable myul
-BBAD : Hangul syllable myulg
-BBAE : Hangul syllable myulm
-BBAF : Hangul syllable myulb
-BBB0 : Hangul syllable myuls
-BBB1 : Hangul syllable myult
-BBB2 : Hangul syllable myulp
-BBB3 : Hangul syllable myulh
-BBB4 : Hangul syllable myum
-BBB5 : Hangul syllable myub
-BBB6 : Hangul syllable myubs
-BBB7 : Hangul syllable myus
-BBB8 : Hangul syllable myuss
-BBB9 : Hangul syllable myung
-BBBA : Hangul syllable myuj
-BBBB : Hangul syllable myuc
-BBBC : Hangul syllable myuk
-BBBD : Hangul syllable myut
-BBBE : Hangul syllable myup
-BBBF : Hangul syllable myuh
-BBC0 : Hangul syllable meu
-BBC1 : Hangul syllable meug
-BBC2 : Hangul syllable meugg
-BBC3 : Hangul syllable meugs
-BBC4 : Hangul syllable meun
-BBC5 : Hangul syllable meunj
-BBC6 : Hangul syllable meunh
-BBC7 : Hangul syllable meud
-BBC8 : Hangul syllable meul
-BBC9 : Hangul syllable meulg
-BBCA : Hangul syllable meulm
-BBCB : Hangul syllable meulb
-BBCC : Hangul syllable meuls
-BBCD : Hangul syllable meult
-BBCE : Hangul syllable meulp
-BBCF : Hangul syllable meulh
-BBD0 : Hangul syllable meum
-BBD1 : Hangul syllable meub
-BBD2 : Hangul syllable meubs
-BBD3 : Hangul syllable meus
-BBD4 : Hangul syllable meuss
-BBD5 : Hangul syllable meung
-BBD6 : Hangul syllable meuj
-BBD7 : Hangul syllable meuc
-BBD8 : Hangul syllable meuk
-BBD9 : Hangul syllable meut
-BBDA : Hangul syllable meup
-BBDB : Hangul syllable meuh
-BBDC : Hangul syllable myi
-BBDD : Hangul syllable myig
-BBDE : Hangul syllable myigg
-BBDF : Hangul syllable myigs
-BBE0 : Hangul syllable myin
-BBE1 : Hangul syllable myinj
-BBE2 : Hangul syllable myinh
-BBE3 : Hangul syllable myid
-BBE4 : Hangul syllable myil
-BBE5 : Hangul syllable myilg
-BBE6 : Hangul syllable myilm
-BBE7 : Hangul syllable myilb
-BBE8 : Hangul syllable myils
-BBE9 : Hangul syllable myilt
-BBEA : Hangul syllable myilp
-BBEB : Hangul syllable myilh
-BBEC : Hangul syllable myim
-BBED : Hangul syllable myib
-BBEE : Hangul syllable myibs
-BBEF : Hangul syllable myis
-BBF0 : Hangul syllable myiss
-BBF1 : Hangul syllable mying
-BBF2 : Hangul syllable myij
-BBF3 : Hangul syllable myic
-BBF4 : Hangul syllable myik
-BBF5 : Hangul syllable myit
-BBF6 : Hangul syllable myip
-BBF7 : Hangul syllable myih
-BBF8 : Hangul syllable mi
-BBF9 : Hangul syllable mig
-BBFA : Hangul syllable migg
-BBFB : Hangul syllable migs
-BBFC : Hangul syllable min
-BBFD : Hangul syllable minj
-BBFE : Hangul syllable minh
-BBFF : Hangul syllable mid
+BB00: Hangul syllable moen
+BB01: Hangul syllable moenj
+BB02: Hangul syllable moenh
+BB03: Hangul syllable moed
+BB04: Hangul syllable moel
+BB05: Hangul syllable moelg
+BB06: Hangul syllable moelm
+BB07: Hangul syllable moelb
+BB08: Hangul syllable moels
+BB09: Hangul syllable moelt
+BB0A: Hangul syllable moelp
+BB0B: Hangul syllable moelh
+BB0C: Hangul syllable moem
+BB0D: Hangul syllable moeb
+BB0E: Hangul syllable moebs
+BB0F: Hangul syllable moes
+BB10: Hangul syllable moess
+BB11: Hangul syllable moeng
+BB12: Hangul syllable moej
+BB13: Hangul syllable moec
+BB14: Hangul syllable moek
+BB15: Hangul syllable moet
+BB16: Hangul syllable moep
+BB17: Hangul syllable moeh
+BB18: Hangul syllable myo
+BB19: Hangul syllable myog
+BB1A: Hangul syllable myogg
+BB1B: Hangul syllable myogs
+BB1C: Hangul syllable myon
+BB1D: Hangul syllable myonj
+BB1E: Hangul syllable myonh
+BB1F: Hangul syllable myod
+BB20: Hangul syllable myol
+BB21: Hangul syllable myolg
+BB22: Hangul syllable myolm
+BB23: Hangul syllable myolb
+BB24: Hangul syllable myols
+BB25: Hangul syllable myolt
+BB26: Hangul syllable myolp
+BB27: Hangul syllable myolh
+BB28: Hangul syllable myom
+BB29: Hangul syllable myob
+BB2A: Hangul syllable myobs
+BB2B: Hangul syllable myos
+BB2C: Hangul syllable myoss
+BB2D: Hangul syllable myong
+BB2E: Hangul syllable myoj
+BB2F: Hangul syllable myoc
+BB30: Hangul syllable myok
+BB31: Hangul syllable myot
+BB32: Hangul syllable myop
+BB33: Hangul syllable myoh
+BB34: Hangul syllable mu
+BB35: Hangul syllable mug
+BB36: Hangul syllable mugg
+BB37: Hangul syllable mugs
+BB38: Hangul syllable mun
+BB39: Hangul syllable munj
+BB3A: Hangul syllable munh
+BB3B: Hangul syllable mud
+BB3C: Hangul syllable mul
+BB3D: Hangul syllable mulg
+BB3E: Hangul syllable mulm
+BB3F: Hangul syllable mulb
+BB40: Hangul syllable muls
+BB41: Hangul syllable mult
+BB42: Hangul syllable mulp
+BB43: Hangul syllable mulh
+BB44: Hangul syllable mum
+BB45: Hangul syllable mub
+BB46: Hangul syllable mubs
+BB47: Hangul syllable mus
+BB48: Hangul syllable muss
+BB49: Hangul syllable mung
+BB4A: Hangul syllable muj
+BB4B: Hangul syllable muc
+BB4C: Hangul syllable muk
+BB4D: Hangul syllable mut
+BB4E: Hangul syllable mup
+BB4F: Hangul syllable muh
+BB50: Hangul syllable mweo
+BB51: Hangul syllable mweog
+BB52: Hangul syllable mweogg
+BB53: Hangul syllable mweogs
+BB54: Hangul syllable mweon
+BB55: Hangul syllable mweonj
+BB56: Hangul syllable mweonh
+BB57: Hangul syllable mweod
+BB58: Hangul syllable mweol
+BB59: Hangul syllable mweolg
+BB5A: Hangul syllable mweolm
+BB5B: Hangul syllable mweolb
+BB5C: Hangul syllable mweols
+BB5D: Hangul syllable mweolt
+BB5E: Hangul syllable mweolp
+BB5F: Hangul syllable mweolh
+BB60: Hangul syllable mweom
+BB61: Hangul syllable mweob
+BB62: Hangul syllable mweobs
+BB63: Hangul syllable mweos
+BB64: Hangul syllable mweoss
+BB65: Hangul syllable mweong
+BB66: Hangul syllable mweoj
+BB67: Hangul syllable mweoc
+BB68: Hangul syllable mweok
+BB69: Hangul syllable mweot
+BB6A: Hangul syllable mweop
+BB6B: Hangul syllable mweoh
+BB6C: Hangul syllable mwe
+BB6D: Hangul syllable mweg
+BB6E: Hangul syllable mwegg
+BB6F: Hangul syllable mwegs
+BB70: Hangul syllable mwen
+BB71: Hangul syllable mwenj
+BB72: Hangul syllable mwenh
+BB73: Hangul syllable mwed
+BB74: Hangul syllable mwel
+BB75: Hangul syllable mwelg
+BB76: Hangul syllable mwelm
+BB77: Hangul syllable mwelb
+BB78: Hangul syllable mwels
+BB79: Hangul syllable mwelt
+BB7A: Hangul syllable mwelp
+BB7B: Hangul syllable mwelh
+BB7C: Hangul syllable mwem
+BB7D: Hangul syllable mweb
+BB7E: Hangul syllable mwebs
+BB7F: Hangul syllable mwes
+BB80: Hangul syllable mwess
+BB81: Hangul syllable mweng
+BB82: Hangul syllable mwej
+BB83: Hangul syllable mwec
+BB84: Hangul syllable mwek
+BB85: Hangul syllable mwet
+BB86: Hangul syllable mwep
+BB87: Hangul syllable mweh
+BB88: Hangul syllable mwi
+BB89: Hangul syllable mwig
+BB8A: Hangul syllable mwigg
+BB8B: Hangul syllable mwigs
+BB8C: Hangul syllable mwin
+BB8D: Hangul syllable mwinj
+BB8E: Hangul syllable mwinh
+BB8F: Hangul syllable mwid
+BB90: Hangul syllable mwil
+BB91: Hangul syllable mwilg
+BB92: Hangul syllable mwilm
+BB93: Hangul syllable mwilb
+BB94: Hangul syllable mwils
+BB95: Hangul syllable mwilt
+BB96: Hangul syllable mwilp
+BB97: Hangul syllable mwilh
+BB98: Hangul syllable mwim
+BB99: Hangul syllable mwib
+BB9A: Hangul syllable mwibs
+BB9B: Hangul syllable mwis
+BB9C: Hangul syllable mwiss
+BB9D: Hangul syllable mwing
+BB9E: Hangul syllable mwij
+BB9F: Hangul syllable mwic
+BBA0: Hangul syllable mwik
+BBA1: Hangul syllable mwit
+BBA2: Hangul syllable mwip
+BBA3: Hangul syllable mwih
+BBA4: Hangul syllable myu
+BBA5: Hangul syllable myug
+BBA6: Hangul syllable myugg
+BBA7: Hangul syllable myugs
+BBA8: Hangul syllable myun
+BBA9: Hangul syllable myunj
+BBAA: Hangul syllable myunh
+BBAB: Hangul syllable myud
+BBAC: Hangul syllable myul
+BBAD: Hangul syllable myulg
+BBAE: Hangul syllable myulm
+BBAF: Hangul syllable myulb
+BBB0: Hangul syllable myuls
+BBB1: Hangul syllable myult
+BBB2: Hangul syllable myulp
+BBB3: Hangul syllable myulh
+BBB4: Hangul syllable myum
+BBB5: Hangul syllable myub
+BBB6: Hangul syllable myubs
+BBB7: Hangul syllable myus
+BBB8: Hangul syllable myuss
+BBB9: Hangul syllable myung
+BBBA: Hangul syllable myuj
+BBBB: Hangul syllable myuc
+BBBC: Hangul syllable myuk
+BBBD: Hangul syllable myut
+BBBE: Hangul syllable myup
+BBBF: Hangul syllable myuh
+BBC0: Hangul syllable meu
+BBC1: Hangul syllable meug
+BBC2: Hangul syllable meugg
+BBC3: Hangul syllable meugs
+BBC4: Hangul syllable meun
+BBC5: Hangul syllable meunj
+BBC6: Hangul syllable meunh
+BBC7: Hangul syllable meud
+BBC8: Hangul syllable meul
+BBC9: Hangul syllable meulg
+BBCA: Hangul syllable meulm
+BBCB: Hangul syllable meulb
+BBCC: Hangul syllable meuls
+BBCD: Hangul syllable meult
+BBCE: Hangul syllable meulp
+BBCF: Hangul syllable meulh
+BBD0: Hangul syllable meum
+BBD1: Hangul syllable meub
+BBD2: Hangul syllable meubs
+BBD3: Hangul syllable meus
+BBD4: Hangul syllable meuss
+BBD5: Hangul syllable meung
+BBD6: Hangul syllable meuj
+BBD7: Hangul syllable meuc
+BBD8: Hangul syllable meuk
+BBD9: Hangul syllable meut
+BBDA: Hangul syllable meup
+BBDB: Hangul syllable meuh
+BBDC: Hangul syllable myi
+BBDD: Hangul syllable myig
+BBDE: Hangul syllable myigg
+BBDF: Hangul syllable myigs
+BBE0: Hangul syllable myin
+BBE1: Hangul syllable myinj
+BBE2: Hangul syllable myinh
+BBE3: Hangul syllable myid
+BBE4: Hangul syllable myil
+BBE5: Hangul syllable myilg
+BBE6: Hangul syllable myilm
+BBE7: Hangul syllable myilb
+BBE8: Hangul syllable myils
+BBE9: Hangul syllable myilt
+BBEA: Hangul syllable myilp
+BBEB: Hangul syllable myilh
+BBEC: Hangul syllable myim
+BBED: Hangul syllable myib
+BBEE: Hangul syllable myibs
+BBEF: Hangul syllable myis
+BBF0: Hangul syllable myiss
+BBF1: Hangul syllable mying
+BBF2: Hangul syllable myij
+BBF3: Hangul syllable myic
+BBF4: Hangul syllable myik
+BBF5: Hangul syllable myit
+BBF6: Hangul syllable myip
+BBF7: Hangul syllable myih
+BBF8: Hangul syllable mi
+BBF9: Hangul syllable mig
+BBFA: Hangul syllable migg
+BBFB: Hangul syllable migs
+BBFC: Hangul syllable min
+BBFD: Hangul syllable minj
+BBFE: Hangul syllable minh
+BBFF: Hangul syllable mid

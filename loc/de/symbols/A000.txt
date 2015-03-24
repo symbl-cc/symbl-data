@@ -1,256 +1,256 @@
-A000 : Yi syllable it
-A001 : Yi syllable ix
-A002 : Yi syllable i
-A003 : Yi syllable ip
-A004 : Yi syllable iet
-A005 : Yi syllable iex
-A006 : Yi syllable ie
-A007 : Yi syllable iep
-A008 : Yi syllable at
-A009 : Yi syllable ax
-A00A : Yi syllable a
-A00B : Yi syllable ap
-A00C : Yi syllable uox
-A00D : Yi syllable uo
-A00E : Yi syllable uop
-A00F : Yi syllable ot
-A010 : Yi syllable ox
-A011 : Yi syllable o
-A012 : Yi syllable op
-A013 : Yi syllable ex
-A014 : Yi syllable e
-A015 : Yi syllable wu
-A016 : Yi syllable bit
-A017 : Yi syllable bix
-A018 : Yi syllable bi
-A019 : Yi syllable bip
-A01A : Yi syllable biet
-A01B : Yi syllable biex
-A01C : Yi syllable bie
-A01D : Yi syllable biep
-A01E : Yi syllable bat
-A01F : Yi syllable bax
-A020 : Yi syllable ba
-A021 : Yi syllable bap
-A022 : Yi syllable buox
-A023 : Yi syllable buo
-A024 : Yi syllable buop
-A025 : Yi syllable bot
-A026 : Yi syllable box
-A027 : Yi syllable bo
-A028 : Yi syllable bop
-A029 : Yi syllable bex
-A02A : Yi syllable be
-A02B : Yi syllable bep
-A02C : Yi syllable but
-A02D : Yi syllable bux
-A02E : Yi syllable bu
-A02F : Yi syllable bup
-A030 : Yi syllable burx
-A031 : Yi syllable bur
-A032 : Yi syllable byt
-A033 : Yi syllable byx
-A034 : Yi syllable by
-A035 : Yi syllable byp
-A036 : Yi syllable byrx
-A037 : Yi syllable byr
-A038 : Yi syllable pit
-A039 : Yi syllable pix
-A03A : Yi syllable pi
-A03B : Yi syllable pip
-A03C : Yi syllable piex
-A03D : Yi syllable pie
-A03E : Yi syllable piep
-A03F : Yi syllable pat
-A040 : Yi syllable pax
-A041 : Yi syllable pa
-A042 : Yi syllable pap
-A043 : Yi syllable puox
-A044 : Yi syllable puo
-A045 : Yi syllable puop
-A046 : Yi syllable pot
-A047 : Yi syllable pox
-A048 : Yi syllable po
-A049 : Yi syllable pop
-A04A : Yi syllable put
-A04B : Yi syllable pux
-A04C : Yi syllable pu
-A04D : Yi syllable pup
-A04E : Yi syllable purx
-A04F : Yi syllable pur
-A050 : Yi syllable pyt
-A051 : Yi syllable pyx
-A052 : Yi syllable py
-A053 : Yi syllable pyp
-A054 : Yi syllable pyrx
-A055 : Yi syllable pyr
-A056 : Yi syllable bbit
-A057 : Yi syllable bbix
-A058 : Yi syllable bbi
-A059 : Yi syllable bbip
-A05A : Yi syllable bbiet
-A05B : Yi syllable bbiex
-A05C : Yi syllable bbie
-A05D : Yi syllable bbiep
-A05E : Yi syllable bbat
-A05F : Yi syllable bbax
-A060 : Yi syllable bba
-A061 : Yi syllable bbap
-A062 : Yi syllable bbuox
-A063 : Yi syllable bbuo
-A064 : Yi syllable bbuop
-A065 : Yi syllable bbot
-A066 : Yi syllable bbox
-A067 : Yi syllable bbo
-A068 : Yi syllable bbop
-A069 : Yi syllable bbex
-A06A : Yi syllable bbe
-A06B : Yi syllable bbep
-A06C : Yi syllable bbut
-A06D : Yi syllable bbux
-A06E : Yi syllable bbu
-A06F : Yi syllable bbup
-A070 : Yi syllable bburx
-A071 : Yi syllable bbur
-A072 : Yi syllable bbyt
-A073 : Yi syllable bbyx
-A074 : Yi syllable bby
-A075 : Yi syllable bbyp
-A076 : Yi syllable nbit
-A077 : Yi syllable nbix
-A078 : Yi syllable nbi
-A079 : Yi syllable nbip
-A07A : Yi syllable nbiex
-A07B : Yi syllable nbie
-A07C : Yi syllable nbiep
-A07D : Yi syllable nbat
-A07E : Yi syllable nbax
-A07F : Yi syllable nba
-A080 : Yi syllable nbap
-A081 : Yi syllable nbot
-A082 : Yi syllable nbox
-A083 : Yi syllable nbo
-A084 : Yi syllable nbop
-A085 : Yi syllable nbut
-A086 : Yi syllable nbux
-A087 : Yi syllable nbu
-A088 : Yi syllable nbup
-A089 : Yi syllable nburx
-A08A : Yi syllable nbur
-A08B : Yi syllable nbyt
-A08C : Yi syllable nbyx
-A08D : Yi syllable nby
-A08E : Yi syllable nbyp
-A08F : Yi syllable nbyrx
-A090 : Yi syllable nbyr
-A091 : Yi syllable hmit
-A092 : Yi syllable hmix
-A093 : Yi syllable hmi
-A094 : Yi syllable hmip
-A095 : Yi syllable hmiex
-A096 : Yi syllable hmie
-A097 : Yi syllable hmiep
-A098 : Yi syllable hmat
-A099 : Yi syllable hmax
-A09A : Yi syllable hma
-A09B : Yi syllable hmap
-A09C : Yi syllable hmuox
-A09D : Yi syllable hmuo
-A09E : Yi syllable hmuop
-A09F : Yi syllable hmot
-A0A0 : Yi syllable hmox
-A0A1 : Yi syllable hmo
-A0A2 : Yi syllable hmop
-A0A3 : Yi syllable hmut
-A0A4 : Yi syllable hmux
-A0A5 : Yi syllable hmu
-A0A6 : Yi syllable hmup
-A0A7 : Yi syllable hmurx
-A0A8 : Yi syllable hmur
-A0A9 : Yi syllable hmyx
-A0AA : Yi syllable hmy
-A0AB : Yi syllable hmyp
-A0AC : Yi syllable hmyrx
-A0AD : Yi syllable hmyr
-A0AE : Yi syllable mit
-A0AF : Yi syllable mix
-A0B0 : Yi syllable mi
-A0B1 : Yi syllable mip
-A0B2 : Yi syllable miex
-A0B3 : Yi syllable mie
-A0B4 : Yi syllable miep
-A0B5 : Yi syllable mat
-A0B6 : Yi syllable max
-A0B7 : Yi syllable ma
-A0B8 : Yi syllable map
-A0B9 : Yi syllable muot
-A0BA : Yi syllable muox
-A0BB : Yi syllable muo
-A0BC : Yi syllable muop
-A0BD : Yi syllable mot
-A0BE : Yi syllable mox
-A0BF : Yi syllable mo
-A0C0 : Yi syllable mop
-A0C1 : Yi syllable mex
-A0C2 : Yi syllable me
-A0C3 : Yi syllable mut
-A0C4 : Yi syllable mux
-A0C5 : Yi syllable mu
-A0C6 : Yi syllable mup
-A0C7 : Yi syllable murx
-A0C8 : Yi syllable mur
-A0C9 : Yi syllable myt
-A0CA : Yi syllable myx
-A0CB : Yi syllable my
-A0CC : Yi syllable myp
-A0CD : Yi syllable fit
-A0CE : Yi syllable fix
-A0CF : Yi syllable fi
-A0D0 : Yi syllable fip
-A0D1 : Yi syllable fat
-A0D2 : Yi syllable fax
-A0D3 : Yi syllable fa
-A0D4 : Yi syllable fap
-A0D5 : Yi syllable fox
-A0D6 : Yi syllable fo
-A0D7 : Yi syllable fop
-A0D8 : Yi syllable fut
-A0D9 : Yi syllable fux
-A0DA : Yi syllable fu
-A0DB : Yi syllable fup
-A0DC : Yi syllable furx
-A0DD : Yi syllable fur
-A0DE : Yi syllable fyt
-A0DF : Yi syllable fyx
-A0E0 : Yi syllable fy
-A0E1 : Yi syllable fyp
-A0E2 : Yi syllable vit
-A0E3 : Yi syllable vix
-A0E4 : Yi syllable vi
-A0E5 : Yi syllable vip
-A0E6 : Yi syllable viet
-A0E7 : Yi syllable viex
-A0E8 : Yi syllable vie
-A0E9 : Yi syllable viep
-A0EA : Yi syllable vat
-A0EB : Yi syllable vax
-A0EC : Yi syllable va
-A0ED : Yi syllable vap
-A0EE : Yi syllable vot
-A0EF : Yi syllable vox
-A0F0 : Yi syllable vo
-A0F1 : Yi syllable vop
-A0F2 : Yi syllable vex
-A0F3 : Yi syllable vep
-A0F4 : Yi syllable vut
-A0F5 : Yi syllable vux
-A0F6 : Yi syllable vu
-A0F7 : Yi syllable vup
-A0F8 : Yi syllable vurx
-A0F9 : Yi syllable vur
-A0FA : Yi syllable vyt
-A0FB : Yi syllable vyx
-A0FC : Yi syllable vy
-A0FD : Yi syllable vyp
-A0FE : Yi syllable vyrx
-A0FF : Yi syllable vyr
+A000: Yi syllable it
+A001: Yi syllable ix
+A002: Yi syllable i
+A003: Yi syllable ip
+A004: Yi syllable iet
+A005: Yi syllable iex
+A006: Yi syllable ie
+A007: Yi syllable iep
+A008: Yi syllable at
+A009: Yi syllable ax
+A00A: Yi syllable a
+A00B: Yi syllable ap
+A00C: Yi syllable uox
+A00D: Yi syllable uo
+A00E: Yi syllable uop
+A00F: Yi syllable ot
+A010: Yi syllable ox
+A011: Yi syllable o
+A012: Yi syllable op
+A013: Yi syllable ex
+A014: Yi syllable e
+A015: Yi syllable wu
+A016: Yi syllable bit
+A017: Yi syllable bix
+A018: Yi syllable bi
+A019: Yi syllable bip
+A01A: Yi syllable biet
+A01B: Yi syllable biex
+A01C: Yi syllable bie
+A01D: Yi syllable biep
+A01E: Yi syllable bat
+A01F: Yi syllable bax
+A020: Yi syllable ba
+A021: Yi syllable bap
+A022: Yi syllable buox
+A023: Yi syllable buo
+A024: Yi syllable buop
+A025: Yi syllable bot
+A026: Yi syllable box
+A027: Yi syllable bo
+A028: Yi syllable bop
+A029: Yi syllable bex
+A02A: Yi syllable be
+A02B: Yi syllable bep
+A02C: Yi syllable but
+A02D: Yi syllable bux
+A02E: Yi syllable bu
+A02F: Yi syllable bup
+A030: Yi syllable burx
+A031: Yi syllable bur
+A032: Yi syllable byt
+A033: Yi syllable byx
+A034: Yi syllable by
+A035: Yi syllable byp
+A036: Yi syllable byrx
+A037: Yi syllable byr
+A038: Yi syllable pit
+A039: Yi syllable pix
+A03A: Yi syllable pi
+A03B: Yi syllable pip
+A03C: Yi syllable piex
+A03D: Yi syllable pie
+A03E: Yi syllable piep
+A03F: Yi syllable pat
+A040: Yi syllable pax
+A041: Yi syllable pa
+A042: Yi syllable pap
+A043: Yi syllable puox
+A044: Yi syllable puo
+A045: Yi syllable puop
+A046: Yi syllable pot
+A047: Yi syllable pox
+A048: Yi syllable po
+A049: Yi syllable pop
+A04A: Yi syllable put
+A04B: Yi syllable pux
+A04C: Yi syllable pu
+A04D: Yi syllable pup
+A04E: Yi syllable purx
+A04F: Yi syllable pur
+A050: Yi syllable pyt
+A051: Yi syllable pyx
+A052: Yi syllable py
+A053: Yi syllable pyp
+A054: Yi syllable pyrx
+A055: Yi syllable pyr
+A056: Yi syllable bbit
+A057: Yi syllable bbix
+A058: Yi syllable bbi
+A059: Yi syllable bbip
+A05A: Yi syllable bbiet
+A05B: Yi syllable bbiex
+A05C: Yi syllable bbie
+A05D: Yi syllable bbiep
+A05E: Yi syllable bbat
+A05F: Yi syllable bbax
+A060: Yi syllable bba
+A061: Yi syllable bbap
+A062: Yi syllable bbuox
+A063: Yi syllable bbuo
+A064: Yi syllable bbuop
+A065: Yi syllable bbot
+A066: Yi syllable bbox
+A067: Yi syllable bbo
+A068: Yi syllable bbop
+A069: Yi syllable bbex
+A06A: Yi syllable bbe
+A06B: Yi syllable bbep
+A06C: Yi syllable bbut
+A06D: Yi syllable bbux
+A06E: Yi syllable bbu
+A06F: Yi syllable bbup
+A070: Yi syllable bburx
+A071: Yi syllable bbur
+A072: Yi syllable bbyt
+A073: Yi syllable bbyx
+A074: Yi syllable bby
+A075: Yi syllable bbyp
+A076: Yi syllable nbit
+A077: Yi syllable nbix
+A078: Yi syllable nbi
+A079: Yi syllable nbip
+A07A: Yi syllable nbiex
+A07B: Yi syllable nbie
+A07C: Yi syllable nbiep
+A07D: Yi syllable nbat
+A07E: Yi syllable nbax
+A07F: Yi syllable nba
+A080: Yi syllable nbap
+A081: Yi syllable nbot
+A082: Yi syllable nbox
+A083: Yi syllable nbo
+A084: Yi syllable nbop
+A085: Yi syllable nbut
+A086: Yi syllable nbux
+A087: Yi syllable nbu
+A088: Yi syllable nbup
+A089: Yi syllable nburx
+A08A: Yi syllable nbur
+A08B: Yi syllable nbyt
+A08C: Yi syllable nbyx
+A08D: Yi syllable nby
+A08E: Yi syllable nbyp
+A08F: Yi syllable nbyrx
+A090: Yi syllable nbyr
+A091: Yi syllable hmit
+A092: Yi syllable hmix
+A093: Yi syllable hmi
+A094: Yi syllable hmip
+A095: Yi syllable hmiex
+A096: Yi syllable hmie
+A097: Yi syllable hmiep
+A098: Yi syllable hmat
+A099: Yi syllable hmax
+A09A: Yi syllable hma
+A09B: Yi syllable hmap
+A09C: Yi syllable hmuox
+A09D: Yi syllable hmuo
+A09E: Yi syllable hmuop
+A09F: Yi syllable hmot
+A0A0: Yi syllable hmox
+A0A1: Yi syllable hmo
+A0A2: Yi syllable hmop
+A0A3: Yi syllable hmut
+A0A4: Yi syllable hmux
+A0A5: Yi syllable hmu
+A0A6: Yi syllable hmup
+A0A7: Yi syllable hmurx
+A0A8: Yi syllable hmur
+A0A9: Yi syllable hmyx
+A0AA: Yi syllable hmy
+A0AB: Yi syllable hmyp
+A0AC: Yi syllable hmyrx
+A0AD: Yi syllable hmyr
+A0AE: Yi syllable mit
+A0AF: Yi syllable mix
+A0B0: Yi syllable mi
+A0B1: Yi syllable mip
+A0B2: Yi syllable miex
+A0B3: Yi syllable mie
+A0B4: Yi syllable miep
+A0B5: Yi syllable mat
+A0B6: Yi syllable max
+A0B7: Yi syllable ma
+A0B8: Yi syllable map
+A0B9: Yi syllable muot
+A0BA: Yi syllable muox
+A0BB: Yi syllable muo
+A0BC: Yi syllable muop
+A0BD: Yi syllable mot
+A0BE: Yi syllable mox
+A0BF: Yi syllable mo
+A0C0: Yi syllable mop
+A0C1: Yi syllable mex
+A0C2: Yi syllable me
+A0C3: Yi syllable mut
+A0C4: Yi syllable mux
+A0C5: Yi syllable mu
+A0C6: Yi syllable mup
+A0C7: Yi syllable murx
+A0C8: Yi syllable mur
+A0C9: Yi syllable myt
+A0CA: Yi syllable myx
+A0CB: Yi syllable my
+A0CC: Yi syllable myp
+A0CD: Yi syllable fit
+A0CE: Yi syllable fix
+A0CF: Yi syllable fi
+A0D0: Yi syllable fip
+A0D1: Yi syllable fat
+A0D2: Yi syllable fax
+A0D3: Yi syllable fa
+A0D4: Yi syllable fap
+A0D5: Yi syllable fox
+A0D6: Yi syllable fo
+A0D7: Yi syllable fop
+A0D8: Yi syllable fut
+A0D9: Yi syllable fux
+A0DA: Yi syllable fu
+A0DB: Yi syllable fup
+A0DC: Yi syllable furx
+A0DD: Yi syllable fur
+A0DE: Yi syllable fyt
+A0DF: Yi syllable fyx
+A0E0: Yi syllable fy
+A0E1: Yi syllable fyp
+A0E2: Yi syllable vit
+A0E3: Yi syllable vix
+A0E4: Yi syllable vi
+A0E5: Yi syllable vip
+A0E6: Yi syllable viet
+A0E7: Yi syllable viex
+A0E8: Yi syllable vie
+A0E9: Yi syllable viep
+A0EA: Yi syllable vat
+A0EB: Yi syllable vax
+A0EC: Yi syllable va
+A0ED: Yi syllable vap
+A0EE: Yi syllable vot
+A0EF: Yi syllable vox
+A0F0: Yi syllable vo
+A0F1: Yi syllable vop
+A0F2: Yi syllable vex
+A0F3: Yi syllable vep
+A0F4: Yi syllable vut
+A0F5: Yi syllable vux
+A0F6: Yi syllable vu
+A0F7: Yi syllable vup
+A0F8: Yi syllable vurx
+A0F9: Yi syllable vur
+A0FA: Yi syllable vyt
+A0FB: Yi syllable vyx
+A0FC: Yi syllable vy
+A0FD: Yi syllable vyp
+A0FE: Yi syllable vyrx
+A0FF: Yi syllable vyr

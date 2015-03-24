@@ -1,256 +1,256 @@
-2800 : Braille pattern blank
-2801 : Braille pattern dots-1
-2802 : Braille pattern dots-2
-2803 : Braille pattern dots-12
-2804 : Braille pattern dots-3
-2805 : Braille pattern dots-13
-2806 : Braille pattern dots-23
-2807 : Braille pattern dots-123
-2808 : Braille pattern dots-4
-2809 : Braille pattern dots-14
-280A : Braille pattern dots-24
-280B : Braille pattern dots-124
-280C : Braille pattern dots-34
-280D : Braille pattern dots-134
-280E : Braille pattern dots-234
-280F : Braille pattern dots-1234
-2810 : Braille pattern dots-5
-2811 : Braille pattern dots-15
-2812 : Braille pattern dots-25
-2813 : Braille pattern dots-125
-2814 : Braille pattern dots-35
-2815 : Braille pattern dots-135
-2816 : Braille pattern dots-235
-2817 : Braille pattern dots-1235
-2818 : Braille pattern dots-45
-2819 : Braille pattern dots-145
-281A : Braille pattern dots-245
-281B : Braille pattern dots-1245
-281C : Braille pattern dots-345
-281D : Braille pattern dots-1345
-281E : Braille pattern dots-2345
-281F : Braille pattern dots-12345
-2820 : Braille pattern dots-6
-2821 : Braille pattern dots-16
-2822 : Braille pattern dots-26
-2823 : Braille pattern dots-126
-2824 : Braille pattern dots-36
-2825 : Braille pattern dots-136
-2826 : Braille pattern dots-236
-2827 : Braille pattern dots-1236
-2828 : Braille pattern dots-46
-2829 : Braille pattern dots-146
-282A : Braille pattern dots-246
-282B : Braille pattern dots-1246
-282C : Braille pattern dots-346
-282D : Braille pattern dots-1346
-282E : Braille pattern dots-2346
-282F : Braille pattern dots-12346
-2830 : Braille pattern dots-56
-2831 : Braille pattern dots-156
-2832 : Braille pattern dots-256
-2833 : Braille pattern dots-1256
-2834 : Braille pattern dots-356
-2835 : Braille pattern dots-1356
-2836 : Braille pattern dots-2356
-2837 : Braille pattern dots-12356
-2838 : Braille pattern dots-456
-2839 : Braille pattern dots-1456
-283A : Braille pattern dots-2456
-283B : Braille pattern dots-12456
-283C : Braille pattern dots-3456
-283D : Braille pattern dots-13456
-283E : Braille pattern dots-23456
-283F : Braille pattern dots-123456
-2840 : Braille pattern dots-7
-2841 : Braille pattern dots-17
-2842 : Braille pattern dots-27
-2843 : Braille pattern dots-127
-2844 : Braille pattern dots-37
-2845 : Braille pattern dots-137
-2846 : Braille pattern dots-237
-2847 : Braille pattern dots-1237
-2848 : Braille pattern dots-47
-2849 : Braille pattern dots-147
-284A : Braille pattern dots-247
-284B : Braille pattern dots-1247
-284C : Braille pattern dots-347
-284D : Braille pattern dots-1347
-284E : Braille pattern dots-2347
-284F : Braille pattern dots-12347
-2850 : Braille pattern dots-57
-2851 : Braille pattern dots-157
-2852 : Braille pattern dots-257
-2853 : Braille pattern dots-1257
-2854 : Braille pattern dots-357
-2855 : Braille pattern dots-1357
-2856 : Braille pattern dots-2357
-2857 : Braille pattern dots-12357
-2858 : Braille pattern dots-457
-2859 : Braille pattern dots-1457
-285A : Braille pattern dots-2457
-285B : Braille pattern dots-12457
-285C : Braille pattern dots-3457
-285D : Braille pattern dots-13457
-285E : Braille pattern dots-23457
-285F : Braille pattern dots-123457
-2860 : Braille pattern dots-67
-2861 : Braille pattern dots-167
-2862 : Braille pattern dots-267
-2863 : Braille pattern dots-1267
-2864 : Braille pattern dots-367
-2865 : Braille pattern dots-1367
-2866 : Braille pattern dots-2367
-2867 : Braille pattern dots-12367
-2868 : Braille pattern dots-467
-2869 : Braille pattern dots-1467
-286A : Braille pattern dots-2467
-286B : Braille pattern dots-12467
-286C : Braille pattern dots-3467
-286D : Braille pattern dots-13467
-286E : Braille pattern dots-23467
-286F : Braille pattern dots-123467
-2870 : Braille pattern dots-567
-2871 : Braille pattern dots-1567
-2872 : Braille pattern dots-2567
-2873 : Braille pattern dots-12567
-2874 : Braille pattern dots-3567
-2875 : Braille pattern dots-13567
-2876 : Braille pattern dots-23567
-2877 : Braille pattern dots-123567
-2878 : Braille pattern dots-4567
-2879 : Braille pattern dots-14567
-287A : Braille pattern dots-24567
-287B : Braille pattern dots-124567
-287C : Braille pattern dots-34567
-287D : Braille pattern dots-134567
-287E : Braille pattern dots-234567
-287F : Braille pattern dots-1234567
-2880 : Braille pattern dots-8
-2881 : Braille pattern dots-18
-2882 : Braille pattern dots-28
-2883 : Braille pattern dots-128
-2884 : Braille pattern dots-38
-2885 : Braille pattern dots-138
-2886 : Braille pattern dots-238
-2887 : Braille pattern dots-1238
-2888 : Braille pattern dots-48
-2889 : Braille pattern dots-148
-288A : Braille pattern dots-248
-288B : Braille pattern dots-1248
-288C : Braille pattern dots-348
-288D : Braille pattern dots-1348
-288E : Braille pattern dots-2348
-288F : Braille pattern dots-12348
-2890 : Braille pattern dots-58
-2891 : Braille pattern dots-158
-2892 : Braille pattern dots-258
-2893 : Braille pattern dots-1258
-2894 : Braille pattern dots-358
-2895 : Braille pattern dots-1358
-2896 : Braille pattern dots-2358
-2897 : Braille pattern dots-12358
-2898 : Braille pattern dots-458
-2899 : Braille pattern dots-1458
-289A : Braille pattern dots-2458
-289B : Braille pattern dots-12458
-289C : Braille pattern dots-3458
-289D : Braille pattern dots-13458
-289E : Braille pattern dots-23458
-289F : Braille pattern dots-123458
-28A0 : Braille pattern dots-68
-28A1 : Braille pattern dots-168
-28A2 : Braille pattern dots-268
-28A3 : Braille pattern dots-1268
-28A4 : Braille pattern dots-368
-28A5 : Braille pattern dots-1368
-28A6 : Braille pattern dots-2368
-28A7 : Braille pattern dots-12368
-28A8 : Braille pattern dots-468
-28A9 : Braille pattern dots-1468
-28AA : Braille pattern dots-2468
-28AB : Braille pattern dots-12468
-28AC : Braille pattern dots-3468
-28AD : Braille pattern dots-13468
-28AE : Braille pattern dots-23468
-28AF : Braille pattern dots-123468
-28B0 : Braille pattern dots-568
-28B1 : Braille pattern dots-1568
-28B2 : Braille pattern dots-2568
-28B3 : Braille pattern dots-12568
-28B4 : Braille pattern dots-3568
-28B5 : Braille pattern dots-13568
-28B6 : Braille pattern dots-23568
-28B7 : Braille pattern dots-123568
-28B8 : Braille pattern dots-4568
-28B9 : Braille pattern dots-14568
-28BA : Braille pattern dots-24568
-28BB : Braille pattern dots-124568
-28BC : Braille pattern dots-34568
-28BD : Braille pattern dots-134568
-28BE : Braille pattern dots-234568
-28BF : Braille pattern dots-1234568
-28C0 : Braille pattern dots-78
-28C1 : Braille pattern dots-178
-28C2 : Braille pattern dots-278
-28C3 : Braille pattern dots-1278
-28C4 : Braille pattern dots-378
-28C5 : Braille pattern dots-1378
-28C6 : Braille pattern dots-2378
-28C7 : Braille pattern dots-12378
-28C8 : Braille pattern dots-478
-28C9 : Braille pattern dots-1478
-28CA : Braille pattern dots-2478
-28CB : Braille pattern dots-12478
-28CC : Braille pattern dots-3478
-28CD : Braille pattern dots-13478
-28CE : Braille pattern dots-23478
-28CF : Braille pattern dots-123478
-28D0 : Braille pattern dots-578
-28D1 : Braille pattern dots-1578
-28D2 : Braille pattern dots-2578
-28D3 : Braille pattern dots-12578
-28D4 : Braille pattern dots-3578
-28D5 : Braille pattern dots-13578
-28D6 : Braille pattern dots-23578
-28D7 : Braille pattern dots-123578
-28D8 : Braille pattern dots-4578
-28D9 : Braille pattern dots-14578
-28DA : Braille pattern dots-24578
-28DB : Braille pattern dots-124578
-28DC : Braille pattern dots-34578
-28DD : Braille pattern dots-134578
-28DE : Braille pattern dots-234578
-28DF : Braille pattern dots-1234578
-28E0 : Braille pattern dots-678
-28E1 : Braille pattern dots-1678
-28E2 : Braille pattern dots-2678
-28E3 : Braille pattern dots-12678
-28E4 : Braille pattern dots-3678
-28E5 : Braille pattern dots-13678
-28E6 : Braille pattern dots-23678
-28E7 : Braille pattern dots-123678
-28E8 : Braille pattern dots-4678
-28E9 : Braille pattern dots-14678
-28EA : Braille pattern dots-24678
-28EB : Braille pattern dots-124678
-28EC : Braille pattern dots-34678
-28ED : Braille pattern dots-134678
-28EE : Braille pattern dots-234678
-28EF : Braille pattern dots-1234678
-28F0 : Braille pattern dots-5678
-28F1 : Braille pattern dots-15678
-28F2 : Braille pattern dots-25678
-28F3 : Braille pattern dots-125678
-28F4 : Braille pattern dots-35678
-28F5 : Braille pattern dots-135678
-28F6 : Braille pattern dots-235678
-28F7 : Braille pattern dots-1235678
-28F8 : Braille pattern dots-45678
-28F9 : Braille pattern dots-145678
-28FA : Braille pattern dots-245678
-28FB : Braille pattern dots-1245678
-28FC : Braille pattern dots-345678
-28FD : Braille pattern dots-1345678
-28FE : Braille pattern dots-2345678
-28FF : Braille pattern dots-12345678
+2800: Braille pattern blank
+2801: Braille pattern dots-1
+2802: Braille pattern dots-2
+2803: Braille pattern dots-12
+2804: Braille pattern dots-3
+2805: Braille pattern dots-13
+2806: Braille pattern dots-23
+2807: Braille pattern dots-123
+2808: Braille pattern dots-4
+2809: Braille pattern dots-14
+280A: Braille pattern dots-24
+280B: Braille pattern dots-124
+280C: Braille pattern dots-34
+280D: Braille pattern dots-134
+280E: Braille pattern dots-234
+280F: Braille pattern dots-1234
+2810: Braille pattern dots-5
+2811: Braille pattern dots-15
+2812: Braille pattern dots-25
+2813: Braille pattern dots-125
+2814: Braille pattern dots-35
+2815: Braille pattern dots-135
+2816: Braille pattern dots-235
+2817: Braille pattern dots-1235
+2818: Braille pattern dots-45
+2819: Braille pattern dots-145
+281A: Braille pattern dots-245
+281B: Braille pattern dots-1245
+281C: Braille pattern dots-345
+281D: Braille pattern dots-1345
+281E: Braille pattern dots-2345
+281F: Braille pattern dots-12345
+2820: Braille pattern dots-6
+2821: Braille pattern dots-16
+2822: Braille pattern dots-26
+2823: Braille pattern dots-126
+2824: Braille pattern dots-36
+2825: Braille pattern dots-136
+2826: Braille pattern dots-236
+2827: Braille pattern dots-1236
+2828: Braille pattern dots-46
+2829: Braille pattern dots-146
+282A: Braille pattern dots-246
+282B: Braille pattern dots-1246
+282C: Braille pattern dots-346
+282D: Braille pattern dots-1346
+282E: Braille pattern dots-2346
+282F: Braille pattern dots-12346
+2830: Braille pattern dots-56
+2831: Braille pattern dots-156
+2832: Braille pattern dots-256
+2833: Braille pattern dots-1256
+2834: Braille pattern dots-356
+2835: Braille pattern dots-1356
+2836: Braille pattern dots-2356
+2837: Braille pattern dots-12356
+2838: Braille pattern dots-456
+2839: Braille pattern dots-1456
+283A: Braille pattern dots-2456
+283B: Braille pattern dots-12456
+283C: Braille pattern dots-3456
+283D: Braille pattern dots-13456
+283E: Braille pattern dots-23456
+283F: Braille pattern dots-123456
+2840: Braille pattern dots-7
+2841: Braille pattern dots-17
+2842: Braille pattern dots-27
+2843: Braille pattern dots-127
+2844: Braille pattern dots-37
+2845: Braille pattern dots-137
+2846: Braille pattern dots-237
+2847: Braille pattern dots-1237
+2848: Braille pattern dots-47
+2849: Braille pattern dots-147
+284A: Braille pattern dots-247
+284B: Braille pattern dots-1247
+284C: Braille pattern dots-347
+284D: Braille pattern dots-1347
+284E: Braille pattern dots-2347
+284F: Braille pattern dots-12347
+2850: Braille pattern dots-57
+2851: Braille pattern dots-157
+2852: Braille pattern dots-257
+2853: Braille pattern dots-1257
+2854: Braille pattern dots-357
+2855: Braille pattern dots-1357
+2856: Braille pattern dots-2357
+2857: Braille pattern dots-12357
+2858: Braille pattern dots-457
+2859: Braille pattern dots-1457
+285A: Braille pattern dots-2457
+285B: Braille pattern dots-12457
+285C: Braille pattern dots-3457
+285D: Braille pattern dots-13457
+285E: Braille pattern dots-23457
+285F: Braille pattern dots-123457
+2860: Braille pattern dots-67
+2861: Braille pattern dots-167
+2862: Braille pattern dots-267
+2863: Braille pattern dots-1267
+2864: Braille pattern dots-367
+2865: Braille pattern dots-1367
+2866: Braille pattern dots-2367
+2867: Braille pattern dots-12367
+2868: Braille pattern dots-467
+2869: Braille pattern dots-1467
+286A: Braille pattern dots-2467
+286B: Braille pattern dots-12467
+286C: Braille pattern dots-3467
+286D: Braille pattern dots-13467
+286E: Braille pattern dots-23467
+286F: Braille pattern dots-123467
+2870: Braille pattern dots-567
+2871: Braille pattern dots-1567
+2872: Braille pattern dots-2567
+2873: Braille pattern dots-12567
+2874: Braille pattern dots-3567
+2875: Braille pattern dots-13567
+2876: Braille pattern dots-23567
+2877: Braille pattern dots-123567
+2878: Braille pattern dots-4567
+2879: Braille pattern dots-14567
+287A: Braille pattern dots-24567
+287B: Braille pattern dots-124567
+287C: Braille pattern dots-34567
+287D: Braille pattern dots-134567
+287E: Braille pattern dots-234567
+287F: Braille pattern dots-1234567
+2880: Braille pattern dots-8
+2881: Braille pattern dots-18
+2882: Braille pattern dots-28
+2883: Braille pattern dots-128
+2884: Braille pattern dots-38
+2885: Braille pattern dots-138
+2886: Braille pattern dots-238
+2887: Braille pattern dots-1238
+2888: Braille pattern dots-48
+2889: Braille pattern dots-148
+288A: Braille pattern dots-248
+288B: Braille pattern dots-1248
+288C: Braille pattern dots-348
+288D: Braille pattern dots-1348
+288E: Braille pattern dots-2348
+288F: Braille pattern dots-12348
+2890: Braille pattern dots-58
+2891: Braille pattern dots-158
+2892: Braille pattern dots-258
+2893: Braille pattern dots-1258
+2894: Braille pattern dots-358
+2895: Braille pattern dots-1358
+2896: Braille pattern dots-2358
+2897: Braille pattern dots-12358
+2898: Braille pattern dots-458
+2899: Braille pattern dots-1458
+289A: Braille pattern dots-2458
+289B: Braille pattern dots-12458
+289C: Braille pattern dots-3458
+289D: Braille pattern dots-13458
+289E: Braille pattern dots-23458
+289F: Braille pattern dots-123458
+28A0: Braille pattern dots-68
+28A1: Braille pattern dots-168
+28A2: Braille pattern dots-268
+28A3: Braille pattern dots-1268
+28A4: Braille pattern dots-368
+28A5: Braille pattern dots-1368
+28A6: Braille pattern dots-2368
+28A7: Braille pattern dots-12368
+28A8: Braille pattern dots-468
+28A9: Braille pattern dots-1468
+28AA: Braille pattern dots-2468
+28AB: Braille pattern dots-12468
+28AC: Braille pattern dots-3468
+28AD: Braille pattern dots-13468
+28AE: Braille pattern dots-23468
+28AF: Braille pattern dots-123468
+28B0: Braille pattern dots-568
+28B1: Braille pattern dots-1568
+28B2: Braille pattern dots-2568
+28B3: Braille pattern dots-12568
+28B4: Braille pattern dots-3568
+28B5: Braille pattern dots-13568
+28B6: Braille pattern dots-23568
+28B7: Braille pattern dots-123568
+28B8: Braille pattern dots-4568
+28B9: Braille pattern dots-14568
+28BA: Braille pattern dots-24568
+28BB: Braille pattern dots-124568
+28BC: Braille pattern dots-34568
+28BD: Braille pattern dots-134568
+28BE: Braille pattern dots-234568
+28BF: Braille pattern dots-1234568
+28C0: Braille pattern dots-78
+28C1: Braille pattern dots-178
+28C2: Braille pattern dots-278
+28C3: Braille pattern dots-1278
+28C4: Braille pattern dots-378
+28C5: Braille pattern dots-1378
+28C6: Braille pattern dots-2378
+28C7: Braille pattern dots-12378
+28C8: Braille pattern dots-478
+28C9: Braille pattern dots-1478
+28CA: Braille pattern dots-2478
+28CB: Braille pattern dots-12478
+28CC: Braille pattern dots-3478
+28CD: Braille pattern dots-13478
+28CE: Braille pattern dots-23478
+28CF: Braille pattern dots-123478
+28D0: Braille pattern dots-578
+28D1: Braille pattern dots-1578
+28D2: Braille pattern dots-2578
+28D3: Braille pattern dots-12578
+28D4: Braille pattern dots-3578
+28D5: Braille pattern dots-13578
+28D6: Braille pattern dots-23578
+28D7: Braille pattern dots-123578
+28D8: Braille pattern dots-4578
+28D9: Braille pattern dots-14578
+28DA: Braille pattern dots-24578
+28DB: Braille pattern dots-124578
+28DC: Braille pattern dots-34578
+28DD: Braille pattern dots-134578
+28DE: Braille pattern dots-234578
+28DF: Braille pattern dots-1234578
+28E0: Braille pattern dots-678
+28E1: Braille pattern dots-1678
+28E2: Braille pattern dots-2678
+28E3: Braille pattern dots-12678
+28E4: Braille pattern dots-3678
+28E5: Braille pattern dots-13678
+28E6: Braille pattern dots-23678
+28E7: Braille pattern dots-123678
+28E8: Braille pattern dots-4678
+28E9: Braille pattern dots-14678
+28EA: Braille pattern dots-24678
+28EB: Braille pattern dots-124678
+28EC: Braille pattern dots-34678
+28ED: Braille pattern dots-134678
+28EE: Braille pattern dots-234678
+28EF: Braille pattern dots-1234678
+28F0: Braille pattern dots-5678
+28F1: Braille pattern dots-15678
+28F2: Braille pattern dots-25678
+28F3: Braille pattern dots-125678
+28F4: Braille pattern dots-35678
+28F5: Braille pattern dots-135678
+28F6: Braille pattern dots-235678
+28F7: Braille pattern dots-1235678
+28F8: Braille pattern dots-45678
+28F9: Braille pattern dots-145678
+28FA: Braille pattern dots-245678
+28FB: Braille pattern dots-1245678
+28FC: Braille pattern dots-345678
+28FD: Braille pattern dots-1345678
+28FE: Braille pattern dots-2345678
+28FF: Braille pattern dots-12345678

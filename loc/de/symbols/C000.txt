@@ -1,256 +1,256 @@
-C000 : Hangul syllable bbweok
-C001 : Hangul syllable bbweot
-C002 : Hangul syllable bbweop
-C003 : Hangul syllable bbweoh
-C004 : Hangul syllable bbwe
-C005 : Hangul syllable bbweg
-C006 : Hangul syllable bbwegg
-C007 : Hangul syllable bbwegs
-C008 : Hangul syllable bbwen
-C009 : Hangul syllable bbwenj
-C00A : Hangul syllable bbwenh
-C00B : Hangul syllable bbwed
-C00C : Hangul syllable bbwel
-C00D : Hangul syllable bbwelg
-C00E : Hangul syllable bbwelm
-C00F : Hangul syllable bbwelb
-C010 : Hangul syllable bbwels
-C011 : Hangul syllable bbwelt
-C012 : Hangul syllable bbwelp
-C013 : Hangul syllable bbwelh
-C014 : Hangul syllable bbwem
-C015 : Hangul syllable bbweb
-C016 : Hangul syllable bbwebs
-C017 : Hangul syllable bbwes
-C018 : Hangul syllable bbwess
-C019 : Hangul syllable bbweng
-C01A : Hangul syllable bbwej
-C01B : Hangul syllable bbwec
-C01C : Hangul syllable bbwek
-C01D : Hangul syllable bbwet
-C01E : Hangul syllable bbwep
-C01F : Hangul syllable bbweh
-C020 : Hangul syllable bbwi
-C021 : Hangul syllable bbwig
-C022 : Hangul syllable bbwigg
-C023 : Hangul syllable bbwigs
-C024 : Hangul syllable bbwin
-C025 : Hangul syllable bbwinj
-C026 : Hangul syllable bbwinh
-C027 : Hangul syllable bbwid
-C028 : Hangul syllable bbwil
-C029 : Hangul syllable bbwilg
-C02A : Hangul syllable bbwilm
-C02B : Hangul syllable bbwilb
-C02C : Hangul syllable bbwils
-C02D : Hangul syllable bbwilt
-C02E : Hangul syllable bbwilp
-C02F : Hangul syllable bbwilh
-C030 : Hangul syllable bbwim
-C031 : Hangul syllable bbwib
-C032 : Hangul syllable bbwibs
-C033 : Hangul syllable bbwis
-C034 : Hangul syllable bbwiss
-C035 : Hangul syllable bbwing
-C036 : Hangul syllable bbwij
-C037 : Hangul syllable bbwic
-C038 : Hangul syllable bbwik
-C039 : Hangul syllable bbwit
-C03A : Hangul syllable bbwip
-C03B : Hangul syllable bbwih
-C03C : Hangul syllable bbyu
-C03D : Hangul syllable bbyug
-C03E : Hangul syllable bbyugg
-C03F : Hangul syllable bbyugs
-C040 : Hangul syllable bbyun
-C041 : Hangul syllable bbyunj
-C042 : Hangul syllable bbyunh
-C043 : Hangul syllable bbyud
-C044 : Hangul syllable bbyul
-C045 : Hangul syllable bbyulg
-C046 : Hangul syllable bbyulm
-C047 : Hangul syllable bbyulb
-C048 : Hangul syllable bbyuls
-C049 : Hangul syllable bbyult
-C04A : Hangul syllable bbyulp
-C04B : Hangul syllable bbyulh
-C04C : Hangul syllable bbyum
-C04D : Hangul syllable bbyub
-C04E : Hangul syllable bbyubs
-C04F : Hangul syllable bbyus
-C050 : Hangul syllable bbyuss
-C051 : Hangul syllable bbyung
-C052 : Hangul syllable bbyuj
-C053 : Hangul syllable bbyuc
-C054 : Hangul syllable bbyuk
-C055 : Hangul syllable bbyut
-C056 : Hangul syllable bbyup
-C057 : Hangul syllable bbyuh
-C058 : Hangul syllable bbeu
-C059 : Hangul syllable bbeug
-C05A : Hangul syllable bbeugg
-C05B : Hangul syllable bbeugs
-C05C : Hangul syllable bbeun
-C05D : Hangul syllable bbeunj
-C05E : Hangul syllable bbeunh
-C05F : Hangul syllable bbeud
-C060 : Hangul syllable bbeul
-C061 : Hangul syllable bbeulg
-C062 : Hangul syllable bbeulm
-C063 : Hangul syllable bbeulb
-C064 : Hangul syllable bbeuls
-C065 : Hangul syllable bbeult
-C066 : Hangul syllable bbeulp
-C067 : Hangul syllable bbeulh
-C068 : Hangul syllable bbeum
-C069 : Hangul syllable bbeub
-C06A : Hangul syllable bbeubs
-C06B : Hangul syllable bbeus
-C06C : Hangul syllable bbeuss
-C06D : Hangul syllable bbeung
-C06E : Hangul syllable bbeuj
-C06F : Hangul syllable bbeuc
-C070 : Hangul syllable bbeuk
-C071 : Hangul syllable bbeut
-C072 : Hangul syllable bbeup
-C073 : Hangul syllable bbeuh
-C074 : Hangul syllable bbyi
-C075 : Hangul syllable bbyig
-C076 : Hangul syllable bbyigg
-C077 : Hangul syllable bbyigs
-C078 : Hangul syllable bbyin
-C079 : Hangul syllable bbyinj
-C07A : Hangul syllable bbyinh
-C07B : Hangul syllable bbyid
-C07C : Hangul syllable bbyil
-C07D : Hangul syllable bbyilg
-C07E : Hangul syllable bbyilm
-C07F : Hangul syllable bbyilb
-C080 : Hangul syllable bbyils
-C081 : Hangul syllable bbyilt
-C082 : Hangul syllable bbyilp
-C083 : Hangul syllable bbyilh
-C084 : Hangul syllable bbyim
-C085 : Hangul syllable bbyib
-C086 : Hangul syllable bbyibs
-C087 : Hangul syllable bbyis
-C088 : Hangul syllable bbyiss
-C089 : Hangul syllable bbying
-C08A : Hangul syllable bbyij
-C08B : Hangul syllable bbyic
-C08C : Hangul syllable bbyik
-C08D : Hangul syllable bbyit
-C08E : Hangul syllable bbyip
-C08F : Hangul syllable bbyih
-C090 : Hangul syllable bbi
-C091 : Hangul syllable bbig
-C092 : Hangul syllable bbigg
-C093 : Hangul syllable bbigs
-C094 : Hangul syllable bbin
-C095 : Hangul syllable bbinj
-C096 : Hangul syllable bbinh
-C097 : Hangul syllable bbid
-C098 : Hangul syllable bbil
-C099 : Hangul syllable bbilg
-C09A : Hangul syllable bbilm
-C09B : Hangul syllable bbilb
-C09C : Hangul syllable bbils
-C09D : Hangul syllable bbilt
-C09E : Hangul syllable bbilp
-C09F : Hangul syllable bbilh
-C0A0 : Hangul syllable bbim
-C0A1 : Hangul syllable bbib
-C0A2 : Hangul syllable bbibs
-C0A3 : Hangul syllable bbis
-C0A4 : Hangul syllable bbiss
-C0A5 : Hangul syllable bbing
-C0A6 : Hangul syllable bbij
-C0A7 : Hangul syllable bbic
-C0A8 : Hangul syllable bbik
-C0A9 : Hangul syllable bbit
-C0AA : Hangul syllable bbip
-C0AB : Hangul syllable bbih
-C0AC : Hangul syllable sa
-C0AD : Hangul syllable sag
-C0AE : Hangul syllable sagg
-C0AF : Hangul syllable sags
-C0B0 : Hangul syllable san
-C0B1 : Hangul syllable sanj
-C0B2 : Hangul syllable sanh
-C0B3 : Hangul syllable sad
-C0B4 : Hangul syllable sal
-C0B5 : Hangul syllable salg
-C0B6 : Hangul syllable salm
-C0B7 : Hangul syllable salb
-C0B8 : Hangul syllable sals
-C0B9 : Hangul syllable salt
-C0BA : Hangul syllable salp
-C0BB : Hangul syllable salh
-C0BC : Hangul syllable sam
-C0BD : Hangul syllable sab
-C0BE : Hangul syllable sabs
-C0BF : Hangul syllable sas
-C0C0 : Hangul syllable sass
-C0C1 : Hangul syllable sang
-C0C2 : Hangul syllable saj
-C0C3 : Hangul syllable sac
-C0C4 : Hangul syllable sak
-C0C5 : Hangul syllable sat
-C0C6 : Hangul syllable sap
-C0C7 : Hangul syllable sah
-C0C8 : Hangul syllable sae
-C0C9 : Hangul syllable saeg
-C0CA : Hangul syllable saegg
-C0CB : Hangul syllable saegs
-C0CC : Hangul syllable saen
-C0CD : Hangul syllable saenj
-C0CE : Hangul syllable saenh
-C0CF : Hangul syllable saed
-C0D0 : Hangul syllable sael
-C0D1 : Hangul syllable saelg
-C0D2 : Hangul syllable saelm
-C0D3 : Hangul syllable saelb
-C0D4 : Hangul syllable saels
-C0D5 : Hangul syllable saelt
-C0D6 : Hangul syllable saelp
-C0D7 : Hangul syllable saelh
-C0D8 : Hangul syllable saem
-C0D9 : Hangul syllable saeb
-C0DA : Hangul syllable saebs
-C0DB : Hangul syllable saes
-C0DC : Hangul syllable saess
-C0DD : Hangul syllable saeng
-C0DE : Hangul syllable saej
-C0DF : Hangul syllable saec
-C0E0 : Hangul syllable saek
-C0E1 : Hangul syllable saet
-C0E2 : Hangul syllable saep
-C0E3 : Hangul syllable saeh
-C0E4 : Hangul syllable sya
-C0E5 : Hangul syllable syag
-C0E6 : Hangul syllable syagg
-C0E7 : Hangul syllable syags
-C0E8 : Hangul syllable syan
-C0E9 : Hangul syllable syanj
-C0EA : Hangul syllable syanh
-C0EB : Hangul syllable syad
-C0EC : Hangul syllable syal
-C0ED : Hangul syllable syalg
-C0EE : Hangul syllable syalm
-C0EF : Hangul syllable syalb
-C0F0 : Hangul syllable syals
-C0F1 : Hangul syllable syalt
-C0F2 : Hangul syllable syalp
-C0F3 : Hangul syllable syalh
-C0F4 : Hangul syllable syam
-C0F5 : Hangul syllable syab
-C0F6 : Hangul syllable syabs
-C0F7 : Hangul syllable syas
-C0F8 : Hangul syllable syass
-C0F9 : Hangul syllable syang
-C0FA : Hangul syllable syaj
-C0FB : Hangul syllable syac
-C0FC : Hangul syllable syak
-C0FD : Hangul syllable syat
-C0FE : Hangul syllable syap
-C0FF : Hangul syllable syah
+C000: Hangul syllable bbweok
+C001: Hangul syllable bbweot
+C002: Hangul syllable bbweop
+C003: Hangul syllable bbweoh
+C004: Hangul syllable bbwe
+C005: Hangul syllable bbweg
+C006: Hangul syllable bbwegg
+C007: Hangul syllable bbwegs
+C008: Hangul syllable bbwen
+C009: Hangul syllable bbwenj
+C00A: Hangul syllable bbwenh
+C00B: Hangul syllable bbwed
+C00C: Hangul syllable bbwel
+C00D: Hangul syllable bbwelg
+C00E: Hangul syllable bbwelm
+C00F: Hangul syllable bbwelb
+C010: Hangul syllable bbwels
+C011: Hangul syllable bbwelt
+C012: Hangul syllable bbwelp
+C013: Hangul syllable bbwelh
+C014: Hangul syllable bbwem
+C015: Hangul syllable bbweb
+C016: Hangul syllable bbwebs
+C017: Hangul syllable bbwes
+C018: Hangul syllable bbwess
+C019: Hangul syllable bbweng
+C01A: Hangul syllable bbwej
+C01B: Hangul syllable bbwec
+C01C: Hangul syllable bbwek
+C01D: Hangul syllable bbwet
+C01E: Hangul syllable bbwep
+C01F: Hangul syllable bbweh
+C020: Hangul syllable bbwi
+C021: Hangul syllable bbwig
+C022: Hangul syllable bbwigg
+C023: Hangul syllable bbwigs
+C024: Hangul syllable bbwin
+C025: Hangul syllable bbwinj
+C026: Hangul syllable bbwinh
+C027: Hangul syllable bbwid
+C028: Hangul syllable bbwil
+C029: Hangul syllable bbwilg
+C02A: Hangul syllable bbwilm
+C02B: Hangul syllable bbwilb
+C02C: Hangul syllable bbwils
+C02D: Hangul syllable bbwilt
+C02E: Hangul syllable bbwilp
+C02F: Hangul syllable bbwilh
+C030: Hangul syllable bbwim
+C031: Hangul syllable bbwib
+C032: Hangul syllable bbwibs
+C033: Hangul syllable bbwis
+C034: Hangul syllable bbwiss
+C035: Hangul syllable bbwing
+C036: Hangul syllable bbwij
+C037: Hangul syllable bbwic
+C038: Hangul syllable bbwik
+C039: Hangul syllable bbwit
+C03A: Hangul syllable bbwip
+C03B: Hangul syllable bbwih
+C03C: Hangul syllable bbyu
+C03D: Hangul syllable bbyug
+C03E: Hangul syllable bbyugg
+C03F: Hangul syllable bbyugs
+C040: Hangul syllable bbyun
+C041: Hangul syllable bbyunj
+C042: Hangul syllable bbyunh
+C043: Hangul syllable bbyud
+C044: Hangul syllable bbyul
+C045: Hangul syllable bbyulg
+C046: Hangul syllable bbyulm
+C047: Hangul syllable bbyulb
+C048: Hangul syllable bbyuls
+C049: Hangul syllable bbyult
+C04A: Hangul syllable bbyulp
+C04B: Hangul syllable bbyulh
+C04C: Hangul syllable bbyum
+C04D: Hangul syllable bbyub
+C04E: Hangul syllable bbyubs
+C04F: Hangul syllable bbyus
+C050: Hangul syllable bbyuss
+C051: Hangul syllable bbyung
+C052: Hangul syllable bbyuj
+C053: Hangul syllable bbyuc
+C054: Hangul syllable bbyuk
+C055: Hangul syllable bbyut
+C056: Hangul syllable bbyup
+C057: Hangul syllable bbyuh
+C058: Hangul syllable bbeu
+C059: Hangul syllable bbeug
+C05A: Hangul syllable bbeugg
+C05B: Hangul syllable bbeugs
+C05C: Hangul syllable bbeun
+C05D: Hangul syllable bbeunj
+C05E: Hangul syllable bbeunh
+C05F: Hangul syllable bbeud
+C060: Hangul syllable bbeul
+C061: Hangul syllable bbeulg
+C062: Hangul syllable bbeulm
+C063: Hangul syllable bbeulb
+C064: Hangul syllable bbeuls
+C065: Hangul syllable bbeult
+C066: Hangul syllable bbeulp
+C067: Hangul syllable bbeulh
+C068: Hangul syllable bbeum
+C069: Hangul syllable bbeub
+C06A: Hangul syllable bbeubs
+C06B: Hangul syllable bbeus
+C06C: Hangul syllable bbeuss
+C06D: Hangul syllable bbeung
+C06E: Hangul syllable bbeuj
+C06F: Hangul syllable bbeuc
+C070: Hangul syllable bbeuk
+C071: Hangul syllable bbeut
+C072: Hangul syllable bbeup
+C073: Hangul syllable bbeuh
+C074: Hangul syllable bbyi
+C075: Hangul syllable bbyig
+C076: Hangul syllable bbyigg
+C077: Hangul syllable bbyigs
+C078: Hangul syllable bbyin
+C079: Hangul syllable bbyinj
+C07A: Hangul syllable bbyinh
+C07B: Hangul syllable bbyid
+C07C: Hangul syllable bbyil
+C07D: Hangul syllable bbyilg
+C07E: Hangul syllable bbyilm
+C07F: Hangul syllable bbyilb
+C080: Hangul syllable bbyils
+C081: Hangul syllable bbyilt
+C082: Hangul syllable bbyilp
+C083: Hangul syllable bbyilh
+C084: Hangul syllable bbyim
+C085: Hangul syllable bbyib
+C086: Hangul syllable bbyibs
+C087: Hangul syllable bbyis
+C088: Hangul syllable bbyiss
+C089: Hangul syllable bbying
+C08A: Hangul syllable bbyij
+C08B: Hangul syllable bbyic
+C08C: Hangul syllable bbyik
+C08D: Hangul syllable bbyit
+C08E: Hangul syllable bbyip
+C08F: Hangul syllable bbyih
+C090: Hangul syllable bbi
+C091: Hangul syllable bbig
+C092: Hangul syllable bbigg
+C093: Hangul syllable bbigs
+C094: Hangul syllable bbin
+C095: Hangul syllable bbinj
+C096: Hangul syllable bbinh
+C097: Hangul syllable bbid
+C098: Hangul syllable bbil
+C099: Hangul syllable bbilg
+C09A: Hangul syllable bbilm
+C09B: Hangul syllable bbilb
+C09C: Hangul syllable bbils
+C09D: Hangul syllable bbilt
+C09E: Hangul syllable bbilp
+C09F: Hangul syllable bbilh
+C0A0: Hangul syllable bbim
+C0A1: Hangul syllable bbib
+C0A2: Hangul syllable bbibs
+C0A3: Hangul syllable bbis
+C0A4: Hangul syllable bbiss
+C0A5: Hangul syllable bbing
+C0A6: Hangul syllable bbij
+C0A7: Hangul syllable bbic
+C0A8: Hangul syllable bbik
+C0A9: Hangul syllable bbit
+C0AA: Hangul syllable bbip
+C0AB: Hangul syllable bbih
+C0AC: Hangul syllable sa
+C0AD: Hangul syllable sag
+C0AE: Hangul syllable sagg
+C0AF: Hangul syllable sags
+C0B0: Hangul syllable san
+C0B1: Hangul syllable sanj
+C0B2: Hangul syllable sanh
+C0B3: Hangul syllable sad
+C0B4: Hangul syllable sal
+C0B5: Hangul syllable salg
+C0B6: Hangul syllable salm
+C0B7: Hangul syllable salb
+C0B8: Hangul syllable sals
+C0B9: Hangul syllable salt
+C0BA: Hangul syllable salp
+C0BB: Hangul syllable salh
+C0BC: Hangul syllable sam
+C0BD: Hangul syllable sab
+C0BE: Hangul syllable sabs
+C0BF: Hangul syllable sas
+C0C0: Hangul syllable sass
+C0C1: Hangul syllable sang
+C0C2: Hangul syllable saj
+C0C3: Hangul syllable sac
+C0C4: Hangul syllable sak
+C0C5: Hangul syllable sat
+C0C6: Hangul syllable sap
+C0C7: Hangul syllable sah
+C0C8: Hangul syllable sae
+C0C9: Hangul syllable saeg
+C0CA: Hangul syllable saegg
+C0CB: Hangul syllable saegs
+C0CC: Hangul syllable saen
+C0CD: Hangul syllable saenj
+C0CE: Hangul syllable saenh
+C0CF: Hangul syllable saed
+C0D0: Hangul syllable sael
+C0D1: Hangul syllable saelg
+C0D2: Hangul syllable saelm
+C0D3: Hangul syllable saelb
+C0D4: Hangul syllable saels
+C0D5: Hangul syllable saelt
+C0D6: Hangul syllable saelp
+C0D7: Hangul syllable saelh
+C0D8: Hangul syllable saem
+C0D9: Hangul syllable saeb
+C0DA: Hangul syllable saebs
+C0DB: Hangul syllable saes
+C0DC: Hangul syllable saess
+C0DD: Hangul syllable saeng
+C0DE: Hangul syllable saej
+C0DF: Hangul syllable saec
+C0E0: Hangul syllable saek
+C0E1: Hangul syllable saet
+C0E2: Hangul syllable saep
+C0E3: Hangul syllable saeh
+C0E4: Hangul syllable sya
+C0E5: Hangul syllable syag
+C0E6: Hangul syllable syagg
+C0E7: Hangul syllable syags
+C0E8: Hangul syllable syan
+C0E9: Hangul syllable syanj
+C0EA: Hangul syllable syanh
+C0EB: Hangul syllable syad
+C0EC: Hangul syllable syal
+C0ED: Hangul syllable syalg
+C0EE: Hangul syllable syalm
+C0EF: Hangul syllable syalb
+C0F0: Hangul syllable syals
+C0F1: Hangul syllable syalt
+C0F2: Hangul syllable syalp
+C0F3: Hangul syllable syalh
+C0F4: Hangul syllable syam
+C0F5: Hangul syllable syab
+C0F6: Hangul syllable syabs
+C0F7: Hangul syllable syas
+C0F8: Hangul syllable syass
+C0F9: Hangul syllable syang
+C0FA: Hangul syllable syaj
+C0FB: Hangul syllable syac
+C0FC: Hangul syllable syak
+C0FD: Hangul syllable syat
+C0FE: Hangul syllable syap
+C0FF: Hangul syllable syah

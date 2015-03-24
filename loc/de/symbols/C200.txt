@@ -1,256 +1,256 @@
-C200 : Hangul syllable syon
-C201 : Hangul syllable syonj
-C202 : Hangul syllable syonh
-C203 : Hangul syllable syod
-C204 : Hangul syllable syol
-C205 : Hangul syllable syolg
-C206 : Hangul syllable syolm
-C207 : Hangul syllable syolb
-C208 : Hangul syllable syols
-C209 : Hangul syllable syolt
-C20A : Hangul syllable syolp
-C20B : Hangul syllable syolh
-C20C : Hangul syllable syom
-C20D : Hangul syllable syob
-C20E : Hangul syllable syobs
-C20F : Hangul syllable syos
-C210 : Hangul syllable syoss
-C211 : Hangul syllable syong
-C212 : Hangul syllable syoj
-C213 : Hangul syllable syoc
-C214 : Hangul syllable syok
-C215 : Hangul syllable syot
-C216 : Hangul syllable syop
-C217 : Hangul syllable syoh
-C218 : Hangul syllable su
-C219 : Hangul syllable sug
-C21A : Hangul syllable sugg
-C21B : Hangul syllable sugs
-C21C : Hangul syllable sun
-C21D : Hangul syllable sunj
-C21E : Hangul syllable sunh
-C21F : Hangul syllable sud
-C220 : Hangul syllable sul
-C221 : Hangul syllable sulg
-C222 : Hangul syllable sulm
-C223 : Hangul syllable sulb
-C224 : Hangul syllable suls
-C225 : Hangul syllable sult
-C226 : Hangul syllable sulp
-C227 : Hangul syllable sulh
-C228 : Hangul syllable sum
-C229 : Hangul syllable sub
-C22A : Hangul syllable subs
-C22B : Hangul syllable sus
-C22C : Hangul syllable suss
-C22D : Hangul syllable sung
-C22E : Hangul syllable suj
-C22F : Hangul syllable suc
-C230 : Hangul syllable suk
-C231 : Hangul syllable sut
-C232 : Hangul syllable sup
-C233 : Hangul syllable suh
-C234 : Hangul syllable sweo
-C235 : Hangul syllable sweog
-C236 : Hangul syllable sweogg
-C237 : Hangul syllable sweogs
-C238 : Hangul syllable sweon
-C239 : Hangul syllable sweonj
-C23A : Hangul syllable sweonh
-C23B : Hangul syllable sweod
-C23C : Hangul syllable sweol
-C23D : Hangul syllable sweolg
-C23E : Hangul syllable sweolm
-C23F : Hangul syllable sweolb
-C240 : Hangul syllable sweols
-C241 : Hangul syllable sweolt
-C242 : Hangul syllable sweolp
-C243 : Hangul syllable sweolh
-C244 : Hangul syllable sweom
-C245 : Hangul syllable sweob
-C246 : Hangul syllable sweobs
-C247 : Hangul syllable sweos
-C248 : Hangul syllable sweoss
-C249 : Hangul syllable sweong
-C24A : Hangul syllable sweoj
-C24B : Hangul syllable sweoc
-C24C : Hangul syllable sweok
-C24D : Hangul syllable sweot
-C24E : Hangul syllable sweop
-C24F : Hangul syllable sweoh
-C250 : Hangul syllable swe
-C251 : Hangul syllable sweg
-C252 : Hangul syllable swegg
-C253 : Hangul syllable swegs
-C254 : Hangul syllable swen
-C255 : Hangul syllable swenj
-C256 : Hangul syllable swenh
-C257 : Hangul syllable swed
-C258 : Hangul syllable swel
-C259 : Hangul syllable swelg
-C25A : Hangul syllable swelm
-C25B : Hangul syllable swelb
-C25C : Hangul syllable swels
-C25D : Hangul syllable swelt
-C25E : Hangul syllable swelp
-C25F : Hangul syllable swelh
-C260 : Hangul syllable swem
-C261 : Hangul syllable sweb
-C262 : Hangul syllable swebs
-C263 : Hangul syllable swes
-C264 : Hangul syllable swess
-C265 : Hangul syllable sweng
-C266 : Hangul syllable swej
-C267 : Hangul syllable swec
-C268 : Hangul syllable swek
-C269 : Hangul syllable swet
-C26A : Hangul syllable swep
-C26B : Hangul syllable sweh
-C26C : Hangul syllable swi
-C26D : Hangul syllable swig
-C26E : Hangul syllable swigg
-C26F : Hangul syllable swigs
-C270 : Hangul syllable swin
-C271 : Hangul syllable swinj
-C272 : Hangul syllable swinh
-C273 : Hangul syllable swid
-C274 : Hangul syllable swil
-C275 : Hangul syllable swilg
-C276 : Hangul syllable swilm
-C277 : Hangul syllable swilb
-C278 : Hangul syllable swils
-C279 : Hangul syllable swilt
-C27A : Hangul syllable swilp
-C27B : Hangul syllable swilh
-C27C : Hangul syllable swim
-C27D : Hangul syllable swib
-C27E : Hangul syllable swibs
-C27F : Hangul syllable swis
-C280 : Hangul syllable swiss
-C281 : Hangul syllable swing
-C282 : Hangul syllable swij
-C283 : Hangul syllable swic
-C284 : Hangul syllable swik
-C285 : Hangul syllable swit
-C286 : Hangul syllable swip
-C287 : Hangul syllable swih
-C288 : Hangul syllable syu
-C289 : Hangul syllable syug
-C28A : Hangul syllable syugg
-C28B : Hangul syllable syugs
-C28C : Hangul syllable syun
-C28D : Hangul syllable syunj
-C28E : Hangul syllable syunh
-C28F : Hangul syllable syud
-C290 : Hangul syllable syul
-C291 : Hangul syllable syulg
-C292 : Hangul syllable syulm
-C293 : Hangul syllable syulb
-C294 : Hangul syllable syuls
-C295 : Hangul syllable syult
-C296 : Hangul syllable syulp
-C297 : Hangul syllable syulh
-C298 : Hangul syllable syum
-C299 : Hangul syllable syub
-C29A : Hangul syllable syubs
-C29B : Hangul syllable syus
-C29C : Hangul syllable syuss
-C29D : Hangul syllable syung
-C29E : Hangul syllable syuj
-C29F : Hangul syllable syuc
-C2A0 : Hangul syllable syuk
-C2A1 : Hangul syllable syut
-C2A2 : Hangul syllable syup
-C2A3 : Hangul syllable syuh
-C2A4 : Hangul syllable seu
-C2A5 : Hangul syllable seug
-C2A6 : Hangul syllable seugg
-C2A7 : Hangul syllable seugs
-C2A8 : Hangul syllable seun
-C2A9 : Hangul syllable seunj
-C2AA : Hangul syllable seunh
-C2AB : Hangul syllable seud
-C2AC : Hangul syllable seul
-C2AD : Hangul syllable seulg
-C2AE : Hangul syllable seulm
-C2AF : Hangul syllable seulb
-C2B0 : Hangul syllable seuls
-C2B1 : Hangul syllable seult
-C2B2 : Hangul syllable seulp
-C2B3 : Hangul syllable seulh
-C2B4 : Hangul syllable seum
-C2B5 : Hangul syllable seub
-C2B6 : Hangul syllable seubs
-C2B7 : Hangul syllable seus
-C2B8 : Hangul syllable seuss
-C2B9 : Hangul syllable seung
-C2BA : Hangul syllable seuj
-C2BB : Hangul syllable seuc
-C2BC : Hangul syllable seuk
-C2BD : Hangul syllable seut
-C2BE : Hangul syllable seup
-C2BF : Hangul syllable seuh
-C2C0 : Hangul syllable syi
-C2C1 : Hangul syllable syig
-C2C2 : Hangul syllable syigg
-C2C3 : Hangul syllable syigs
-C2C4 : Hangul syllable syin
-C2C5 : Hangul syllable syinj
-C2C6 : Hangul syllable syinh
-C2C7 : Hangul syllable syid
-C2C8 : Hangul syllable syil
-C2C9 : Hangul syllable syilg
-C2CA : Hangul syllable syilm
-C2CB : Hangul syllable syilb
-C2CC : Hangul syllable syils
-C2CD : Hangul syllable syilt
-C2CE : Hangul syllable syilp
-C2CF : Hangul syllable syilh
-C2D0 : Hangul syllable syim
-C2D1 : Hangul syllable syib
-C2D2 : Hangul syllable syibs
-C2D3 : Hangul syllable syis
-C2D4 : Hangul syllable syiss
-C2D5 : Hangul syllable sying
-C2D6 : Hangul syllable syij
-C2D7 : Hangul syllable syic
-C2D8 : Hangul syllable syik
-C2D9 : Hangul syllable syit
-C2DA : Hangul syllable syip
-C2DB : Hangul syllable syih
-C2DC : Hangul syllable si
-C2DD : Hangul syllable sig
-C2DE : Hangul syllable sigg
-C2DF : Hangul syllable sigs
-C2E0 : Hangul syllable sin
-C2E1 : Hangul syllable sinj
-C2E2 : Hangul syllable sinh
-C2E3 : Hangul syllable sid
-C2E4 : Hangul syllable sil
-C2E5 : Hangul syllable silg
-C2E6 : Hangul syllable silm
-C2E7 : Hangul syllable silb
-C2E8 : Hangul syllable sils
-C2E9 : Hangul syllable silt
-C2EA : Hangul syllable silp
-C2EB : Hangul syllable silh
-C2EC : Hangul syllable sim
-C2ED : Hangul syllable sib
-C2EE : Hangul syllable sibs
-C2EF : Hangul syllable sis
-C2F0 : Hangul syllable siss
-C2F1 : Hangul syllable sing
-C2F2 : Hangul syllable sij
-C2F3 : Hangul syllable sic
-C2F4 : Hangul syllable sik
-C2F5 : Hangul syllable sit
-C2F6 : Hangul syllable sip
-C2F7 : Hangul syllable sih
-C2F8 : Hangul syllable ssa
-C2F9 : Hangul syllable ssag
-C2FA : Hangul syllable ssagg
-C2FB : Hangul syllable ssags
-C2FC : Hangul syllable ssan
-C2FD : Hangul syllable ssanj
-C2FE : Hangul syllable ssanh
-C2FF : Hangul syllable ssad
+C200: Hangul syllable syon
+C201: Hangul syllable syonj
+C202: Hangul syllable syonh
+C203: Hangul syllable syod
+C204: Hangul syllable syol
+C205: Hangul syllable syolg
+C206: Hangul syllable syolm
+C207: Hangul syllable syolb
+C208: Hangul syllable syols
+C209: Hangul syllable syolt
+C20A: Hangul syllable syolp
+C20B: Hangul syllable syolh
+C20C: Hangul syllable syom
+C20D: Hangul syllable syob
+C20E: Hangul syllable syobs
+C20F: Hangul syllable syos
+C210: Hangul syllable syoss
+C211: Hangul syllable syong
+C212: Hangul syllable syoj
+C213: Hangul syllable syoc
+C214: Hangul syllable syok
+C215: Hangul syllable syot
+C216: Hangul syllable syop
+C217: Hangul syllable syoh
+C218: Hangul syllable su
+C219: Hangul syllable sug
+C21A: Hangul syllable sugg
+C21B: Hangul syllable sugs
+C21C: Hangul syllable sun
+C21D: Hangul syllable sunj
+C21E: Hangul syllable sunh
+C21F: Hangul syllable sud
+C220: Hangul syllable sul
+C221: Hangul syllable sulg
+C222: Hangul syllable sulm
+C223: Hangul syllable sulb
+C224: Hangul syllable suls
+C225: Hangul syllable sult
+C226: Hangul syllable sulp
+C227: Hangul syllable sulh
+C228: Hangul syllable sum
+C229: Hangul syllable sub
+C22A: Hangul syllable subs
+C22B: Hangul syllable sus
+C22C: Hangul syllable suss
+C22D: Hangul syllable sung
+C22E: Hangul syllable suj
+C22F: Hangul syllable suc
+C230: Hangul syllable suk
+C231: Hangul syllable sut
+C232: Hangul syllable sup
+C233: Hangul syllable suh
+C234: Hangul syllable sweo
+C235: Hangul syllable sweog
+C236: Hangul syllable sweogg
+C237: Hangul syllable sweogs
+C238: Hangul syllable sweon
+C239: Hangul syllable sweonj
+C23A: Hangul syllable sweonh
+C23B: Hangul syllable sweod
+C23C: Hangul syllable sweol
+C23D: Hangul syllable sweolg
+C23E: Hangul syllable sweolm
+C23F: Hangul syllable sweolb
+C240: Hangul syllable sweols
+C241: Hangul syllable sweolt
+C242: Hangul syllable sweolp
+C243: Hangul syllable sweolh
+C244: Hangul syllable sweom
+C245: Hangul syllable sweob
+C246: Hangul syllable sweobs
+C247: Hangul syllable sweos
+C248: Hangul syllable sweoss
+C249: Hangul syllable sweong
+C24A: Hangul syllable sweoj
+C24B: Hangul syllable sweoc
+C24C: Hangul syllable sweok
+C24D: Hangul syllable sweot
+C24E: Hangul syllable sweop
+C24F: Hangul syllable sweoh
+C250: Hangul syllable swe
+C251: Hangul syllable sweg
+C252: Hangul syllable swegg
+C253: Hangul syllable swegs
+C254: Hangul syllable swen
+C255: Hangul syllable swenj
+C256: Hangul syllable swenh
+C257: Hangul syllable swed
+C258: Hangul syllable swel
+C259: Hangul syllable swelg
+C25A: Hangul syllable swelm
+C25B: Hangul syllable swelb
+C25C: Hangul syllable swels
+C25D: Hangul syllable swelt
+C25E: Hangul syllable swelp
+C25F: Hangul syllable swelh
+C260: Hangul syllable swem
+C261: Hangul syllable sweb
+C262: Hangul syllable swebs
+C263: Hangul syllable swes
+C264: Hangul syllable swess
+C265: Hangul syllable sweng
+C266: Hangul syllable swej
+C267: Hangul syllable swec
+C268: Hangul syllable swek
+C269: Hangul syllable swet
+C26A: Hangul syllable swep
+C26B: Hangul syllable sweh
+C26C: Hangul syllable swi
+C26D: Hangul syllable swig
+C26E: Hangul syllable swigg
+C26F: Hangul syllable swigs
+C270: Hangul syllable swin
+C271: Hangul syllable swinj
+C272: Hangul syllable swinh
+C273: Hangul syllable swid
+C274: Hangul syllable swil
+C275: Hangul syllable swilg
+C276: Hangul syllable swilm
+C277: Hangul syllable swilb
+C278: Hangul syllable swils
+C279: Hangul syllable swilt
+C27A: Hangul syllable swilp
+C27B: Hangul syllable swilh
+C27C: Hangul syllable swim
+C27D: Hangul syllable swib
+C27E: Hangul syllable swibs
+C27F: Hangul syllable swis
+C280: Hangul syllable swiss
+C281: Hangul syllable swing
+C282: Hangul syllable swij
+C283: Hangul syllable swic
+C284: Hangul syllable swik
+C285: Hangul syllable swit
+C286: Hangul syllable swip
+C287: Hangul syllable swih
+C288: Hangul syllable syu
+C289: Hangul syllable syug
+C28A: Hangul syllable syugg
+C28B: Hangul syllable syugs
+C28C: Hangul syllable syun
+C28D: Hangul syllable syunj
+C28E: Hangul syllable syunh
+C28F: Hangul syllable syud
+C290: Hangul syllable syul
+C291: Hangul syllable syulg
+C292: Hangul syllable syulm
+C293: Hangul syllable syulb
+C294: Hangul syllable syuls
+C295: Hangul syllable syult
+C296: Hangul syllable syulp
+C297: Hangul syllable syulh
+C298: Hangul syllable syum
+C299: Hangul syllable syub
+C29A: Hangul syllable syubs
+C29B: Hangul syllable syus
+C29C: Hangul syllable syuss
+C29D: Hangul syllable syung
+C29E: Hangul syllable syuj
+C29F: Hangul syllable syuc
+C2A0: Hangul syllable syuk
+C2A1: Hangul syllable syut
+C2A2: Hangul syllable syup
+C2A3: Hangul syllable syuh
+C2A4: Hangul syllable seu
+C2A5: Hangul syllable seug
+C2A6: Hangul syllable seugg
+C2A7: Hangul syllable seugs
+C2A8: Hangul syllable seun
+C2A9: Hangul syllable seunj
+C2AA: Hangul syllable seunh
+C2AB: Hangul syllable seud
+C2AC: Hangul syllable seul
+C2AD: Hangul syllable seulg
+C2AE: Hangul syllable seulm
+C2AF: Hangul syllable seulb
+C2B0: Hangul syllable seuls
+C2B1: Hangul syllable seult
+C2B2: Hangul syllable seulp
+C2B3: Hangul syllable seulh
+C2B4: Hangul syllable seum
+C2B5: Hangul syllable seub
+C2B6: Hangul syllable seubs
+C2B7: Hangul syllable seus
+C2B8: Hangul syllable seuss
+C2B9: Hangul syllable seung
+C2BA: Hangul syllable seuj
+C2BB: Hangul syllable seuc
+C2BC: Hangul syllable seuk
+C2BD: Hangul syllable seut
+C2BE: Hangul syllable seup
+C2BF: Hangul syllable seuh
+C2C0: Hangul syllable syi
+C2C1: Hangul syllable syig
+C2C2: Hangul syllable syigg
+C2C3: Hangul syllable syigs
+C2C4: Hangul syllable syin
+C2C5: Hangul syllable syinj
+C2C6: Hangul syllable syinh
+C2C7: Hangul syllable syid
+C2C8: Hangul syllable syil
+C2C9: Hangul syllable syilg
+C2CA: Hangul syllable syilm
+C2CB: Hangul syllable syilb
+C2CC: Hangul syllable syils
+C2CD: Hangul syllable syilt
+C2CE: Hangul syllable syilp
+C2CF: Hangul syllable syilh
+C2D0: Hangul syllable syim
+C2D1: Hangul syllable syib
+C2D2: Hangul syllable syibs
+C2D3: Hangul syllable syis
+C2D4: Hangul syllable syiss
+C2D5: Hangul syllable sying
+C2D6: Hangul syllable syij
+C2D7: Hangul syllable syic
+C2D8: Hangul syllable syik
+C2D9: Hangul syllable syit
+C2DA: Hangul syllable syip
+C2DB: Hangul syllable syih
+C2DC: Hangul syllable si
+C2DD: Hangul syllable sig
+C2DE: Hangul syllable sigg
+C2DF: Hangul syllable sigs
+C2E0: Hangul syllable sin
+C2E1: Hangul syllable sinj
+C2E2: Hangul syllable sinh
+C2E3: Hangul syllable sid
+C2E4: Hangul syllable sil
+C2E5: Hangul syllable silg
+C2E6: Hangul syllable silm
+C2E7: Hangul syllable silb
+C2E8: Hangul syllable sils
+C2E9: Hangul syllable silt
+C2EA: Hangul syllable silp
+C2EB: Hangul syllable silh
+C2EC: Hangul syllable sim
+C2ED: Hangul syllable sib
+C2EE: Hangul syllable sibs
+C2EF: Hangul syllable sis
+C2F0: Hangul syllable siss
+C2F1: Hangul syllable sing
+C2F2: Hangul syllable sij
+C2F3: Hangul syllable sic
+C2F4: Hangul syllable sik
+C2F5: Hangul syllable sit
+C2F6: Hangul syllable sip
+C2F7: Hangul syllable sih
+C2F8: Hangul syllable ssa
+C2F9: Hangul syllable ssag
+C2FA: Hangul syllable ssagg
+C2FB: Hangul syllable ssags
+C2FC: Hangul syllable ssan
+C2FD: Hangul syllable ssanj
+C2FE: Hangul syllable ssanh
+C2FF: Hangul syllable ssad

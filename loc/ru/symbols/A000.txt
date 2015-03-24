@@ -1,256 +1,256 @@
-A000 : И слог it
-A001 : И слог ix
-A002 : И слог i
-A003 : И слог ip
-A004 : И слог iet
-A005 : И слог iex
-A006 : И слог ie
-A007 : И слог iep
-A008 : И слог at
-A009 : И слог ax
-A00A : И слог a
-A00B : И слог ap
-A00C : И слог uox
-A00D : И слог uo
-A00E : И слог uop
-A00F : И слог ot
-A010 : И слог ox
-A011 : И слог o
-A012 : И слог op
-A013 : И слог ex
-A014 : И слог e
-A015 : И слог wu
-A016 : И слог bit
-A017 : И слог bix
-A018 : И слог bi
-A019 : И слог bip
-A01A : И слог biet
-A01B : И слог biex
-A01C : И слог bie
-A01D : И слог biep
-A01E : И слог bat
-A01F : И слог bax
-A020 : И слог ba
-A021 : И слог bap
-A022 : И слог buox
-A023 : И слог buo
-A024 : И слог buop
-A025 : И слог bot
-A026 : И слог box
-A027 : И слог bo
-A028 : И слог bop
-A029 : И слог bex
-A02A : И слог be
-A02B : И слог bep
-A02C : И слог but
-A02D : И слог bux
-A02E : И слог bu
-A02F : И слог bup
-A030 : И слог burx
-A031 : И слог bur
-A032 : И слог byt
-A033 : И слог byx
-A034 : И слог by
-A035 : И слог byp
-A036 : И слог byrx
-A037 : И слог byr
-A038 : И слог pit
-A039 : И слог pix
-A03A : И слог pi
-A03B : И слог pip
-A03C : И слог piex
-A03D : И слог pie
-A03E : И слог piep
-A03F : И слог pat
-A040 : И слог pax
-A041 : И слог pa
-A042 : И слог pap
-A043 : И слог puox
-A044 : И слог puo
-A045 : И слог puop
-A046 : И слог pot
-A047 : И слог pox
-A048 : И слог po
-A049 : И слог pop
-A04A : И слог put
-A04B : И слог pux
-A04C : И слог pu
-A04D : И слог pup
-A04E : И слог purx
-A04F : И слог pur
-A050 : И слог pyt
-A051 : И слог pyx
-A052 : И слог py
-A053 : И слог pyp
-A054 : И слог pyrx
-A055 : И слог pyr
-A056 : И слог bbit
-A057 : И слог bbix
-A058 : И слог bbi
-A059 : И слог bbip
-A05A : И слог bbiet
-A05B : И слог bbiex
-A05C : И слог bbie
-A05D : И слог bbiep
-A05E : И слог bbat
-A05F : И слог bbax
-A060 : И слог bba
-A061 : И слог bbap
-A062 : И слог bbuox
-A063 : И слог bbuo
-A064 : И слог bbuop
-A065 : И слог bbot
-A066 : И слог bbox
-A067 : И слог bbo
-A068 : И слог bbop
-A069 : И слог bbex
-A06A : И слог bbe
-A06B : И слог bbep
-A06C : И слог bbut
-A06D : И слог bbux
-A06E : И слог bbu
-A06F : И слог bbup
-A070 : И слог bburx
-A071 : И слог bbur
-A072 : И слог bbyt
-A073 : И слог bbyx
-A074 : И слог bby
-A075 : И слог bbyp
-A076 : И слог nbit
-A077 : И слог nbix
-A078 : И слог nbi
-A079 : И слог nbip
-A07A : И слог nbiex
-A07B : И слог nbie
-A07C : И слог nbiep
-A07D : И слог nbat
-A07E : И слог nbax
-A07F : И слог nba
-A080 : И слог nbap
-A081 : И слог nbot
-A082 : И слог nbox
-A083 : И слог nbo
-A084 : И слог nbop
-A085 : И слог nbut
-A086 : И слог nbux
-A087 : И слог nbu
-A088 : И слог nbup
-A089 : И слог nburx
-A08A : И слог nbur
-A08B : И слог nbyt
-A08C : И слог nbyx
-A08D : И слог nby
-A08E : И слог nbyp
-A08F : И слог nbyrx
-A090 : И слог nbyr
-A091 : И слог hmit
-A092 : И слог hmix
-A093 : И слог hmi
-A094 : И слог hmip
-A095 : И слог hmiex
-A096 : И слог hmie
-A097 : И слог hmiep
-A098 : И слог hmat
-A099 : И слог hmax
-A09A : И слог hma
-A09B : И слог hmap
-A09C : И слог hmuox
-A09D : И слог hmuo
-A09E : И слог hmuop
-A09F : И слог hmot
-A0A0 : И слог hmox
-A0A1 : И слог hmo
-A0A2 : И слог hmop
-A0A3 : И слог hmut
-A0A4 : И слог hmux
-A0A5 : И слог hmu
-A0A6 : И слог hmup
-A0A7 : И слог hmurx
-A0A8 : И слог hmur
-A0A9 : И слог hmyx
-A0AA : И слог hmy
-A0AB : И слог hmyp
-A0AC : И слог hmyrx
-A0AD : И слог hmyr
-A0AE : И слог mit
-A0AF : И слог mix
-A0B0 : И слог mi
-A0B1 : И слог mip
-A0B2 : И слог miex
-A0B3 : И слог mie
-A0B4 : И слог miep
-A0B5 : И слог mat
-A0B6 : И слог max
-A0B7 : И слог ma
-A0B8 : И слог map
-A0B9 : И слог muot
-A0BA : И слог muox
-A0BB : И слог muo
-A0BC : И слог muop
-A0BD : И слог mot
-A0BE : И слог mox
-A0BF : И слог mo
-A0C0 : И слог mop
-A0C1 : И слог mex
-A0C2 : И слог me
-A0C3 : И слог mut
-A0C4 : И слог mux
-A0C5 : И слог mu
-A0C6 : И слог mup
-A0C7 : И слог murx
-A0C8 : И слог mur
-A0C9 : И слог myt
-A0CA : И слог myx
-A0CB : И слог my
-A0CC : И слог myp
-A0CD : И слог fit
-A0CE : И слог fix
-A0CF : И слог fi
-A0D0 : И слог fip
-A0D1 : И слог fat
-A0D2 : И слог fax
-A0D3 : И слог fa
-A0D4 : И слог fap
-A0D5 : И слог fox
-A0D6 : И слог fo
-A0D7 : И слог fop
-A0D8 : И слог fut
-A0D9 : И слог fux
-A0DA : И слог fu
-A0DB : И слог fup
-A0DC : И слог furx
-A0DD : И слог fur
-A0DE : И слог fyt
-A0DF : И слог fyx
-A0E0 : И слог fy
-A0E1 : И слог fyp
-A0E2 : И слог vit
-A0E3 : И слог vix
-A0E4 : И слог vi
-A0E5 : И слог vip
-A0E6 : И слог viet
-A0E7 : И слог viex
-A0E8 : И слог vie
-A0E9 : И слог viep
-A0EA : И слог vat
-A0EB : И слог vax
-A0EC : И слог va
-A0ED : И слог vap
-A0EE : И слог vot
-A0EF : И слог vox
-A0F0 : И слог vo
-A0F1 : И слог vop
-A0F2 : И слог vex
-A0F3 : И слог vep
-A0F4 : И слог vut
-A0F5 : И слог vux
-A0F6 : И слог vu
-A0F7 : И слог vup
-A0F8 : И слог vurx
-A0F9 : И слог vur
-A0FA : И слог vyt
-A0FB : И слог vyx
-A0FC : И слог vy
-A0FD : И слог vyp
-A0FE : И слог vyrx
-A0FF : И слог vyr
+A000: И слог it
+A001: И слог ix
+A002: И слог i
+A003: И слог ip
+A004: И слог iet
+A005: И слог iex
+A006: И слог ie
+A007: И слог iep
+A008: И слог at
+A009: И слог ax
+A00A: И слог a
+A00B: И слог ap
+A00C: И слог uox
+A00D: И слог uo
+A00E: И слог uop
+A00F: И слог ot
+A010: И слог ox
+A011: И слог o
+A012: И слог op
+A013: И слог ex
+A014: И слог e
+A015: И слог wu
+A016: И слог bit
+A017: И слог bix
+A018: И слог bi
+A019: И слог bip
+A01A: И слог biet
+A01B: И слог biex
+A01C: И слог bie
+A01D: И слог biep
+A01E: И слог bat
+A01F: И слог bax
+A020: И слог ba
+A021: И слог bap
+A022: И слог buox
+A023: И слог buo
+A024: И слог buop
+A025: И слог bot
+A026: И слог box
+A027: И слог bo
+A028: И слог bop
+A029: И слог bex
+A02A: И слог be
+A02B: И слог bep
+A02C: И слог but
+A02D: И слог bux
+A02E: И слог bu
+A02F: И слог bup
+A030: И слог burx
+A031: И слог bur
+A032: И слог byt
+A033: И слог byx
+A034: И слог by
+A035: И слог byp
+A036: И слог byrx
+A037: И слог byr
+A038: И слог pit
+A039: И слог pix
+A03A: И слог pi
+A03B: И слог pip
+A03C: И слог piex
+A03D: И слог pie
+A03E: И слог piep
+A03F: И слог pat
+A040: И слог pax
+A041: И слог pa
+A042: И слог pap
+A043: И слог puox
+A044: И слог puo
+A045: И слог puop
+A046: И слог pot
+A047: И слог pox
+A048: И слог po
+A049: И слог pop
+A04A: И слог put
+A04B: И слог pux
+A04C: И слог pu
+A04D: И слог pup
+A04E: И слог purx
+A04F: И слог pur
+A050: И слог pyt
+A051: И слог pyx
+A052: И слог py
+A053: И слог pyp
+A054: И слог pyrx
+A055: И слог pyr
+A056: И слог bbit
+A057: И слог bbix
+A058: И слог bbi
+A059: И слог bbip
+A05A: И слог bbiet
+A05B: И слог bbiex
+A05C: И слог bbie
+A05D: И слог bbiep
+A05E: И слог bbat
+A05F: И слог bbax
+A060: И слог bba
+A061: И слог bbap
+A062: И слог bbuox
+A063: И слог bbuo
+A064: И слог bbuop
+A065: И слог bbot
+A066: И слог bbox
+A067: И слог bbo
+A068: И слог bbop
+A069: И слог bbex
+A06A: И слог bbe
+A06B: И слог bbep
+A06C: И слог bbut
+A06D: И слог bbux
+A06E: И слог bbu
+A06F: И слог bbup
+A070: И слог bburx
+A071: И слог bbur
+A072: И слог bbyt
+A073: И слог bbyx
+A074: И слог bby
+A075: И слог bbyp
+A076: И слог nbit
+A077: И слог nbix
+A078: И слог nbi
+A079: И слог nbip
+A07A: И слог nbiex
+A07B: И слог nbie
+A07C: И слог nbiep
+A07D: И слог nbat
+A07E: И слог nbax
+A07F: И слог nba
+A080: И слог nbap
+A081: И слог nbot
+A082: И слог nbox
+A083: И слог nbo
+A084: И слог nbop
+A085: И слог nbut
+A086: И слог nbux
+A087: И слог nbu
+A088: И слог nbup
+A089: И слог nburx
+A08A: И слог nbur
+A08B: И слог nbyt
+A08C: И слог nbyx
+A08D: И слог nby
+A08E: И слог nbyp
+A08F: И слог nbyrx
+A090: И слог nbyr
+A091: И слог hmit
+A092: И слог hmix
+A093: И слог hmi
+A094: И слог hmip
+A095: И слог hmiex
+A096: И слог hmie
+A097: И слог hmiep
+A098: И слог hmat
+A099: И слог hmax
+A09A: И слог hma
+A09B: И слог hmap
+A09C: И слог hmuox
+A09D: И слог hmuo
+A09E: И слог hmuop
+A09F: И слог hmot
+A0A0: И слог hmox
+A0A1: И слог hmo
+A0A2: И слог hmop
+A0A3: И слог hmut
+A0A4: И слог hmux
+A0A5: И слог hmu
+A0A6: И слог hmup
+A0A7: И слог hmurx
+A0A8: И слог hmur
+A0A9: И слог hmyx
+A0AA: И слог hmy
+A0AB: И слог hmyp
+A0AC: И слог hmyrx
+A0AD: И слог hmyr
+A0AE: И слог mit
+A0AF: И слог mix
+A0B0: И слог mi
+A0B1: И слог mip
+A0B2: И слог miex
+A0B3: И слог mie
+A0B4: И слог miep
+A0B5: И слог mat
+A0B6: И слог max
+A0B7: И слог ma
+A0B8: И слог map
+A0B9: И слог muot
+A0BA: И слог muox
+A0BB: И слог muo
+A0BC: И слог muop
+A0BD: И слог mot
+A0BE: И слог mox
+A0BF: И слог mo
+A0C0: И слог mop
+A0C1: И слог mex
+A0C2: И слог me
+A0C3: И слог mut
+A0C4: И слог mux
+A0C5: И слог mu
+A0C6: И слог mup
+A0C7: И слог murx
+A0C8: И слог mur
+A0C9: И слог myt
+A0CA: И слог myx
+A0CB: И слог my
+A0CC: И слог myp
+A0CD: И слог fit
+A0CE: И слог fix
+A0CF: И слог fi
+A0D0: И слог fip
+A0D1: И слог fat
+A0D2: И слог fax
+A0D3: И слог fa
+A0D4: И слог fap
+A0D5: И слог fox
+A0D6: И слог fo
+A0D7: И слог fop
+A0D8: И слог fut
+A0D9: И слог fux
+A0DA: И слог fu
+A0DB: И слог fup
+A0DC: И слог furx
+A0DD: И слог fur
+A0DE: И слог fyt
+A0DF: И слог fyx
+A0E0: И слог fy
+A0E1: И слог fyp
+A0E2: И слог vit
+A0E3: И слог vix
+A0E4: И слог vi
+A0E5: И слог vip
+A0E6: И слог viet
+A0E7: И слог viex
+A0E8: И слог vie
+A0E9: И слог viep
+A0EA: И слог vat
+A0EB: И слог vax
+A0EC: И слог va
+A0ED: И слог vap
+A0EE: И слог vot
+A0EF: И слог vox
+A0F0: И слог vo
+A0F1: И слог vop
+A0F2: И слог vex
+A0F3: И слог vep
+A0F4: И слог vut
+A0F5: И слог vux
+A0F6: И слог vu
+A0F7: И слог vup
+A0F8: И слог vurx
+A0F9: И слог vur
+A0FA: И слог vyt
+A0FB: И слог vyx
+A0FC: И слог vy
+A0FD: И слог vyp
+A0FE: И слог vyrx
+A0FF: И слог vyr

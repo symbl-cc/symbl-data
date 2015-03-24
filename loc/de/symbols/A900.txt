@@ -1,256 +1,256 @@
-A900 : Kayah li digit zero
-A901 : Kayah li digit one
-A902 : Kayah li digit two
-A903 : Kayah li digit three
-A904 : Kayah li digit four
-A905 : Kayah li digit five
-A906 : Kayah li digit six
-A907 : Kayah li digit seven
-A908 : Kayah li digit eight
-A909 : Kayah li digit nine
-A90A : Kayah li letter ka
-A90B : Kayah li letter kha
-A90C : Kayah li letter ga
-A90D : Kayah li letter nga
-A90E : Kayah li letter sa
-A90F : Kayah li letter sha
-A910 : Kayah li letter za
-A911 : Kayah li letter nya
-A912 : Kayah li letter ta
-A913 : Kayah li letter hta
-A914 : Kayah li letter na
-A915 : Kayah li letter pa
-A916 : Kayah li letter pha
-A917 : Kayah li letter ma
-A918 : Kayah li letter da
-A919 : Kayah li letter ba
-A91A : Kayah li letter ra
-A91B : Kayah li letter ya
-A91C : Kayah li letter la
-A91D : Kayah li letter wa
-A91E : Kayah li letter tha
-A91F : Kayah li letter ha
-A920 : Kayah li letter va
-A921 : Kayah li letter ca
-A922 : Kayah li letter a
-A923 : Kayah li letter oe
-A924 : Kayah li letter i
-A925 : Kayah li letter oo
-A926 : Kayah li vowel ue
-A927 : Kayah li vowel e
-A928 : Kayah li vowel u
-A929 : Kayah li vowel ee
-A92A : Kayah li vowel o
-A92B : Kayah li tone plophu
-A92C : Kayah li tone calya
-A92D : Kayah li tone calya plophu
-A92E : Kayah li sign cwi
-A92F : Kayah li sign shya
-A930 : Rejang letter ka
-A931 : Rejang letter ga
-A932 : Rejang letter nga
-A933 : Rejang letter ta
-A934 : Rejang letter da
-A935 : Rejang letter na
-A936 : Rejang letter pa
-A937 : Rejang letter ba
-A938 : Rejang letter ma
-A939 : Rejang letter ca
-A93A : Rejang letter ja
-A93B : Rejang letter nya
-A93C : Rejang letter sa
-A93D : Rejang letter ra
-A93E : Rejang letter la
-A93F : Rejang letter ya
-A940 : Rejang letter wa
-A941 : Rejang letter ha
-A942 : Rejang letter mba
-A943 : Rejang letter ngga
-A944 : Rejang letter nda
-A945 : Rejang letter nyja
-A946 : Rejang letter a
-A947 : Rejang vowel sign i
-A948 : Rejang vowel sign u
-A949 : Rejang vowel sign e
-A94A : Rejang vowel sign ai
-A94B : Rejang vowel sign o
-A94C : Rejang vowel sign au
-A94D : Rejang vowel sign eu
-A94E : Rejang vowel sign ea
-A94F : Rejang consonant sign ng
-A950 : Rejang consonant sign n
-A951 : Rejang consonant sign r
-A952 : Rejang consonant sign h
-A953 : Rejang virama
-A954 : 
-A955 : 
-A956 : 
-A957 : 
-A958 : 
-A959 : 
-A95A : 
-A95B : 
-A95C : 
-A95D : 
-A95E : 
-A95F : Rejang section mark
-A960 : Hangul choseong tikeut-mieum
-A961 : Hangul choseong tikeut-pieup
-A962 : Hangul choseong tikeut-sios
-A963 : Hangul choseong tikeut-cieuc
-A964 : Hangul choseong rieul-kiyeok
-A965 : Hangul choseong rieul-ssangkiyeok
-A966 : Hangul choseong rieul-tikeut
-A967 : Hangul choseong rieul-ssangtikeut
-A968 : Hangul choseong rieul-mieum
-A969 : Hangul choseong rieul-pieup
-A96A : Hangul choseong rieul-ssangpieup
-A96B : Hangul choseong rieul-kapyeounpieup
-A96C : Hangul choseong rieul-sios
-A96D : Hangul choseong rieul-cieuc
-A96E : Hangul choseong rieul-khieukh
-A96F : Hangul choseong mieum-kiyeok
-A970 : Hangul choseong mieum-tikeut
-A971 : Hangul choseong mieum-sios
-A972 : Hangul choseong pieup-sios-thieuth
-A973 : Hangul choseong pieup-khieukh
-A974 : Hangul choseong pieup-hieuh
-A975 : Hangul choseong ssangsios-pieup
-A976 : Hangul choseong ieung-rieul
-A977 : Hangul choseong ieung-hieuh
-A978 : Hangul choseong ssangcieuc-hieuh
-A979 : Hangul choseong ssangthieuth
-A97A : Hangul choseong phieuph-hieuh
-A97B : Hangul choseong hieuh-sios
-A97C : Hangul choseong ssangyeorinhieuh
-A97D : 
-A97E : 
-A97F : 
-A980 : Javanese sign panyangga
-A981 : Javanese sign cecak
-A982 : Javanese sign layar
-A983 : Javanese sign wignyan
-A984 : Javanese letter a
-A985 : Javanese letter i kawi
-A986 : Javanese letter i
-A987 : Javanese letter ii
-A988 : Javanese letter u
-A989 : Javanese letter pa cerek
-A98A : Javanese letter nga lelet
-A98B : Javanese letter nga lelet raswadi
-A98C : Javanese letter e
-A98D : Javanese letter ai
-A98E : Javanese letter o
-A98F : Javanese letter ka
-A990 : Javanese letter ka sasak
-A991 : Javanese letter ka murda
-A992 : Javanese letter ga
-A993 : Javanese letter ga murda
-A994 : Javanese letter nga
-A995 : Javanese letter ca
-A996 : Javanese letter ca murda
-A997 : Javanese letter ja
-A998 : Javanese letter nya murda
-A999 : Javanese letter ja mahaprana
-A99A : Javanese letter nya
-A99B : Javanese letter tta
-A99C : Javanese letter tta mahaprana
-A99D : Javanese letter dda
-A99E : Javanese letter dda mahaprana
-A99F : Javanese letter na murda
-A9A0 : Javanese letter ta
-A9A1 : Javanese letter ta murda
-A9A2 : Javanese letter da
-A9A3 : Javanese letter da mahaprana
-A9A4 : Javanese letter na
-A9A5 : Javanese letter pa
-A9A6 : Javanese letter pa murda
-A9A7 : Javanese letter ba
-A9A8 : Javanese letter ba murda
-A9A9 : Javanese letter ma
-A9AA : Javanese letter ya
-A9AB : Javanese letter ra
-A9AC : Javanese letter ra agung
-A9AD : Javanese letter la
-A9AE : Javanese letter wa
-A9AF : Javanese letter sa murda
-A9B0 : Javanese letter sa mahaprana
-A9B1 : Javanese letter sa
-A9B2 : Javanese letter ha
-A9B3 : Javanese sign cecak telu
-A9B4 : Javanese vowel sign tarung
-A9B5 : Javanese vowel sign tolong
-A9B6 : Javanese vowel sign wulu
-A9B7 : Javanese vowel sign wulu melik
-A9B8 : Javanese vowel sign suku
-A9B9 : Javanese vowel sign suku mendut
-A9BA : Javanese vowel sign taling
-A9BB : Javanese vowel sign dirga mure
-A9BC : Javanese vowel sign pepet
-A9BD : Javanese consonant sign keret
-A9BE : Javanese consonant sign pengkal
-A9BF : Javanese consonant sign cakra
-A9C0 : Javanese pangkon
-A9C1 : Javanese left rerenggan
-A9C2 : Javanese right rerenggan
-A9C3 : Javanese pada andap
-A9C4 : Javanese pada madya
-A9C5 : Javanese pada luhur
-A9C6 : Javanese pada windu
-A9C7 : Javanese pada pangkat
-A9C8 : Javanese pada lingsa
-A9C9 : Javanese pada lungsi
-A9CA : Javanese pada adeg
-A9CB : Javanese pada adeg adeg
-A9CC : Javanese pada piseleh
-A9CD : Javanese turned pada piseleh
-A9CE : 
-A9CF : Javanese pangrangkep
-A9D0 : Javanese digit zero
-A9D1 : Javanese digit one
-A9D2 : Javanese digit two
-A9D3 : Javanese digit three
-A9D4 : Javanese digit four
-A9D5 : Javanese digit five
-A9D6 : Javanese digit six
-A9D7 : Javanese digit seven
-A9D8 : Javanese digit eight
-A9D9 : Javanese digit nine
-A9DA : 
-A9DB : 
-A9DC : 
-A9DD : 
-A9DE : Javanese pada tirta tumetes
-A9DF : Javanese pada isen-isen
-A9E0 : 
-A9E1 : 
-A9E2 : 
-A9E3 : 
-A9E4 : 
-A9E5 : 
-A9E6 : 
-A9E7 : 
-A9E8 : 
-A9E9 : 
-A9EA : 
-A9EB : 
-A9EC : 
-A9ED : 
-A9EE : 
-A9EF : 
-A9F0 : 
-A9F1 : 
-A9F2 : 
-A9F3 : 
-A9F4 : 
-A9F5 : 
-A9F6 : 
-A9F7 : 
-A9F8 : 
-A9F9 : 
-A9FA : 
-A9FB : 
-A9FC : 
-A9FD : 
-A9FE : 
-A9FF : 
+A900: Kayah li digit zero
+A901: Kayah li digit one
+A902: Kayah li digit two
+A903: Kayah li digit three
+A904: Kayah li digit four
+A905: Kayah li digit five
+A906: Kayah li digit six
+A907: Kayah li digit seven
+A908: Kayah li digit eight
+A909: Kayah li digit nine
+A90A: Kayah li letter ka
+A90B: Kayah li letter kha
+A90C: Kayah li letter ga
+A90D: Kayah li letter nga
+A90E: Kayah li letter sa
+A90F: Kayah li letter sha
+A910: Kayah li letter za
+A911: Kayah li letter nya
+A912: Kayah li letter ta
+A913: Kayah li letter hta
+A914: Kayah li letter na
+A915: Kayah li letter pa
+A916: Kayah li letter pha
+A917: Kayah li letter ma
+A918: Kayah li letter da
+A919: Kayah li letter ba
+A91A: Kayah li letter ra
+A91B: Kayah li letter ya
+A91C: Kayah li letter la
+A91D: Kayah li letter wa
+A91E: Kayah li letter tha
+A91F: Kayah li letter ha
+A920: Kayah li letter va
+A921: Kayah li letter ca
+A922: Kayah li letter a
+A923: Kayah li letter oe
+A924: Kayah li letter i
+A925: Kayah li letter oo
+A926: Kayah li vowel ue
+A927: Kayah li vowel e
+A928: Kayah li vowel u
+A929: Kayah li vowel ee
+A92A: Kayah li vowel o
+A92B: Kayah li tone plophu
+A92C: Kayah li tone calya
+A92D: Kayah li tone calya plophu
+A92E: Kayah li sign cwi
+A92F: Kayah li sign shya
+A930: Rejang letter ka
+A931: Rejang letter ga
+A932: Rejang letter nga
+A933: Rejang letter ta
+A934: Rejang letter da
+A935: Rejang letter na
+A936: Rejang letter pa
+A937: Rejang letter ba
+A938: Rejang letter ma
+A939: Rejang letter ca
+A93A: Rejang letter ja
+A93B: Rejang letter nya
+A93C: Rejang letter sa
+A93D: Rejang letter ra
+A93E: Rejang letter la
+A93F: Rejang letter ya
+A940: Rejang letter wa
+A941: Rejang letter ha
+A942: Rejang letter mba
+A943: Rejang letter ngga
+A944: Rejang letter nda
+A945: Rejang letter nyja
+A946: Rejang letter a
+A947: Rejang vowel sign i
+A948: Rejang vowel sign u
+A949: Rejang vowel sign e
+A94A: Rejang vowel sign ai
+A94B: Rejang vowel sign o
+A94C: Rejang vowel sign au
+A94D: Rejang vowel sign eu
+A94E: Rejang vowel sign ea
+A94F: Rejang consonant sign ng
+A950: Rejang consonant sign n
+A951: Rejang consonant sign r
+A952: Rejang consonant sign h
+A953: Rejang virama
+A954:
+A955:
+A956:
+A957:
+A958:
+A959:
+A95A:
+A95B:
+A95C:
+A95D:
+A95E:
+A95F: Rejang section mark
+A960: Hangul choseong tikeut-mieum
+A961: Hangul choseong tikeut-pieup
+A962: Hangul choseong tikeut-sios
+A963: Hangul choseong tikeut-cieuc
+A964: Hangul choseong rieul-kiyeok
+A965: Hangul choseong rieul-ssangkiyeok
+A966: Hangul choseong rieul-tikeut
+A967: Hangul choseong rieul-ssangtikeut
+A968: Hangul choseong rieul-mieum
+A969: Hangul choseong rieul-pieup
+A96A: Hangul choseong rieul-ssangpieup
+A96B: Hangul choseong rieul-kapyeounpieup
+A96C: Hangul choseong rieul-sios
+A96D: Hangul choseong rieul-cieuc
+A96E: Hangul choseong rieul-khieukh
+A96F: Hangul choseong mieum-kiyeok
+A970: Hangul choseong mieum-tikeut
+A971: Hangul choseong mieum-sios
+A972: Hangul choseong pieup-sios-thieuth
+A973: Hangul choseong pieup-khieukh
+A974: Hangul choseong pieup-hieuh
+A975: Hangul choseong ssangsios-pieup
+A976: Hangul choseong ieung-rieul
+A977: Hangul choseong ieung-hieuh
+A978: Hangul choseong ssangcieuc-hieuh
+A979: Hangul choseong ssangthieuth
+A97A: Hangul choseong phieuph-hieuh
+A97B: Hangul choseong hieuh-sios
+A97C: Hangul choseong ssangyeorinhieuh
+A97D:
+A97E:
+A97F:
+A980: Javanese sign panyangga
+A981: Javanese sign cecak
+A982: Javanese sign layar
+A983: Javanese sign wignyan
+A984: Javanese letter a
+A985: Javanese letter i kawi
+A986: Javanese letter i
+A987: Javanese letter ii
+A988: Javanese letter u
+A989: Javanese letter pa cerek
+A98A: Javanese letter nga lelet
+A98B: Javanese letter nga lelet raswadi
+A98C: Javanese letter e
+A98D: Javanese letter ai
+A98E: Javanese letter o
+A98F: Javanese letter ka
+A990: Javanese letter ka sasak
+A991: Javanese letter ka murda
+A992: Javanese letter ga
+A993: Javanese letter ga murda
+A994: Javanese letter nga
+A995: Javanese letter ca
+A996: Javanese letter ca murda
+A997: Javanese letter ja
+A998: Javanese letter nya murda
+A999: Javanese letter ja mahaprana
+A99A: Javanese letter nya
+A99B: Javanese letter tta
+A99C: Javanese letter tta mahaprana
+A99D: Javanese letter dda
+A99E: Javanese letter dda mahaprana
+A99F: Javanese letter na murda
+A9A0: Javanese letter ta
+A9A1: Javanese letter ta murda
+A9A2: Javanese letter da
+A9A3: Javanese letter da mahaprana
+A9A4: Javanese letter na
+A9A5: Javanese letter pa
+A9A6: Javanese letter pa murda
+A9A7: Javanese letter ba
+A9A8: Javanese letter ba murda
+A9A9: Javanese letter ma
+A9AA: Javanese letter ya
+A9AB: Javanese letter ra
+A9AC: Javanese letter ra agung
+A9AD: Javanese letter la
+A9AE: Javanese letter wa
+A9AF: Javanese letter sa murda
+A9B0: Javanese letter sa mahaprana
+A9B1: Javanese letter sa
+A9B2: Javanese letter ha
+A9B3: Javanese sign cecak telu
+A9B4: Javanese vowel sign tarung
+A9B5: Javanese vowel sign tolong
+A9B6: Javanese vowel sign wulu
+A9B7: Javanese vowel sign wulu melik
+A9B8: Javanese vowel sign suku
+A9B9: Javanese vowel sign suku mendut
+A9BA: Javanese vowel sign taling
+A9BB: Javanese vowel sign dirga mure
+A9BC: Javanese vowel sign pepet
+A9BD: Javanese consonant sign keret
+A9BE: Javanese consonant sign pengkal
+A9BF: Javanese consonant sign cakra
+A9C0: Javanese pangkon
+A9C1: Javanese left rerenggan
+A9C2: Javanese right rerenggan
+A9C3: Javanese pada andap
+A9C4: Javanese pada madya
+A9C5: Javanese pada luhur
+A9C6: Javanese pada windu
+A9C7: Javanese pada pangkat
+A9C8: Javanese pada lingsa
+A9C9: Javanese pada lungsi
+A9CA: Javanese pada adeg
+A9CB: Javanese pada adeg adeg
+A9CC: Javanese pada piseleh
+A9CD: Javanese turned pada piseleh
+A9CE:
+A9CF: Javanese pangrangkep
+A9D0: Javanese digit zero
+A9D1: Javanese digit one
+A9D2: Javanese digit two
+A9D3: Javanese digit three
+A9D4: Javanese digit four
+A9D5: Javanese digit five
+A9D6: Javanese digit six
+A9D7: Javanese digit seven
+A9D8: Javanese digit eight
+A9D9: Javanese digit nine
+A9DA:
+A9DB:
+A9DC:
+A9DD:
+A9DE: Javanese pada tirta tumetes
+A9DF: Javanese pada isen-isen
+A9E0:
+A9E1:
+A9E2:
+A9E3:
+A9E4:
+A9E5:
+A9E6:
+A9E7:
+A9E8:
+A9E9:
+A9EA:
+A9EB:
+A9EC:
+A9ED:
+A9EE:
+A9EF:
+A9F0:
+A9F1:
+A9F2:
+A9F3:
+A9F4:
+A9F5:
+A9F6:
+A9F7:
+A9F8:
+A9F9:
+A9FA:
+A9FB:
+A9FC:
+A9FD:
+A9FE:
+A9FF:

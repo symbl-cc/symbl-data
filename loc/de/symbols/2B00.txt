@@ -1,256 +1,256 @@
-2B00 : North east white arrow
-2B01 : North west white arrow
-2B02 : South east white arrow
-2B03 : South west white arrow
-2B04 : Left right white arrow
-2B05 : Leftwards black arrow
-2B06 : Upwards black arrow
-2B07 : Downwards black arrow
-2B08 : North east black arrow
-2B09 : North west black arrow
-2B0A : South east black arrow
-2B0B : South west black arrow
-2B0C : Left right black arrow
-2B0D : Up down black arrow
-2B0E : Rightwards arrow with tip downwards
-2B0F : Rightwards arrow with tip upwards
-2B10 : Leftwards arrow with tip downwards
-2B11 : Leftwards arrow with tip upwards
-2B12 : Square with top half black
-2B13 : Square with bottom half black
-2B14 : Square with upper right diagonal half black
-2B15 : Square with lower left diagonal half black
-2B16 : Diamond with left half black
-2B17 : Diamond with right half black
-2B18 : Diamond with top half black
-2B19 : Diamond with bottom half black
-2B1A : Dotted square
-2B1B : Black large square
-2B1C : White large square
-2B1D : Black very small square
-2B1E : White very small square
-2B1F : Black pentagon
-2B20 : White pentagon
-2B21 : White hexagon
-2B22 : Black hexagon
-2B23 : Horizontal black hexagon
-2B24 : Black large circle
-2B25 : Black medium diamond
-2B26 : White medium diamond
-2B27 : Black medium lozenge
-2B28 : White medium lozenge
-2B29 : Black small diamond
-2B2A : Black small lozenge
-2B2B : White small lozenge
-2B2C : Black horizontal ellipse
-2B2D : White horizontal ellipse
-2B2E : Black vertical ellipse
-2B2F : White vertical ellipse
-2B30 : Left arrow with small circle
-2B31 : Three leftwards arrows
-2B32 : Left arrow with circled plus
-2B33 : Long leftwards squiggle arrow
-2B34 : Leftwards two-headed arrow with vertical stroke
-2B35 : Leftwards two-headed arrow with double vertical stroke
-2B36 : Leftwards two-headed arrow from bar
-2B37 : Leftwards two-headed triple dash arrow
-2B38 : Leftwards arrow with dotted stem
-2B39 : Leftwards arrow with tail with vertical stroke
-2B3A : Leftwards arrow with tail with double vertical stroke
-2B3B : Leftwards two-headed arrow with tail
-2B3C : Leftwards two-headed arrow with tail with vertical stroke
-2B3D : Leftwards two-headed arrow with tail with double vertical stroke
-2B3E : Leftwards arrow through x
-2B3F : Wave arrow pointing directly left
-2B40 : Equals sign above leftwards arrow
-2B41 : Reverse tilde operator above leftwards arrow
-2B42 : Leftwards arrow above reverse almost equal to
-2B43 : Rightwards arrow through greater-than
-2B44 : Rightwards arrow through superset
-2B45 : Leftwards quadruple arrow
-2B46 : Rightwards quadruple arrow
-2B47 : Reverse tilde operator above rightwards arrow
-2B48 : Rightwards arrow above reverse almost equal to
-2B49 : Tilde operator above leftwards arrow
-2B4A : Leftwards arrow above almost equal to
-2B4B : Leftwards arrow above reverse tilde operator
-2B4C : Rightwards arrow above reverse tilde operator
-2B4D : 
-2B4E : 
-2B4F : 
-2B50 : White medium star
-2B51 : Black small star
-2B52 : White small star
-2B53 : Black right-pointing pentagon
-2B54 : White right-pointing pentagon
-2B55 : Heavy large circle
-2B56 : Heavy oval with oval inside
-2B57 : Heavy circle with circle inside
-2B58 : Heavy circle
-2B59 : Heavy circled saltire
-2B5A : 
-2B5B : 
-2B5C : 
-2B5D : 
-2B5E : 
-2B5F : 
-2B60 : 
-2B61 : 
-2B62 : 
-2B63 : 
-2B64 : 
-2B65 : 
-2B66 : 
-2B67 : 
-2B68 : 
-2B69 : 
-2B6A : 
-2B6B : 
-2B6C : 
-2B6D : 
-2B6E : 
-2B6F : 
-2B70 : 
-2B71 : 
-2B72 : 
-2B73 : 
-2B74 : 
-2B75 : 
-2B76 : 
-2B77 : 
-2B78 : 
-2B79 : 
-2B7A : 
-2B7B : 
-2B7C : 
-2B7D : 
-2B7E : 
-2B7F : 
-2B80 : 
-2B81 : 
-2B82 : 
-2B83 : 
-2B84 : 
-2B85 : 
-2B86 : 
-2B87 : 
-2B88 : 
-2B89 : 
-2B8A : 
-2B8B : 
-2B8C : 
-2B8D : 
-2B8E : 
-2B8F : 
-2B90 : 
-2B91 : 
-2B92 : 
-2B93 : 
-2B94 : 
-2B95 : 
-2B96 : 
-2B97 : 
-2B98 : 
-2B99 : 
-2B9A : 
-2B9B : 
-2B9C : 
-2B9D : 
-2B9E : 
-2B9F : 
-2BA0 : 
-2BA1 : 
-2BA2 : 
-2BA3 : 
-2BA4 : 
-2BA5 : 
-2BA6 : 
-2BA7 : 
-2BA8 : 
-2BA9 : 
-2BAA : 
-2BAB : 
-2BAC : 
-2BAD : 
-2BAE : 
-2BAF : 
-2BB0 : 
-2BB1 : 
-2BB2 : 
-2BB3 : 
-2BB4 : 
-2BB5 : 
-2BB6 : 
-2BB7 : 
-2BB8 : 
-2BB9 : 
-2BBA : 
-2BBB : 
-2BBC : 
-2BBD : 
-2BBE : 
-2BBF : 
-2BC0 : 
-2BC1 : 
-2BC2 : 
-2BC3 : 
-2BC4 : 
-2BC5 : 
-2BC6 : 
-2BC7 : 
-2BC8 : 
-2BC9 : 
-2BCA : 
-2BCB : 
-2BCC : 
-2BCD : 
-2BCE : 
-2BCF : 
-2BD0 : 
-2BD1 : 
-2BD2 : 
-2BD3 : 
-2BD4 : 
-2BD5 : 
-2BD6 : 
-2BD7 : 
-2BD8 : 
-2BD9 : 
-2BDA : 
-2BDB : 
-2BDC : 
-2BDD : 
-2BDE : 
-2BDF : 
-2BE0 : 
-2BE1 : 
-2BE2 : 
-2BE3 : 
-2BE4 : 
-2BE5 : 
-2BE6 : 
-2BE7 : 
-2BE8 : 
-2BE9 : 
-2BEA : 
-2BEB : 
-2BEC : 
-2BED : 
-2BEE : 
-2BEF : 
-2BF0 : 
-2BF1 : 
-2BF2 : 
-2BF3 : 
-2BF4 : 
-2BF5 : 
-2BF6 : 
-2BF7 : 
-2BF8 : 
-2BF9 : 
-2BFA : 
-2BFB : 
-2BFC : 
-2BFD : 
-2BFE : 
-2BFF : 
+2B00: North east white arrow
+2B01: North west white arrow
+2B02: South east white arrow
+2B03: South west white arrow
+2B04: Left right white arrow
+2B05: Leftwards black arrow
+2B06: Upwards black arrow
+2B07: Downwards black arrow
+2B08: North east black arrow
+2B09: North west black arrow
+2B0A: South east black arrow
+2B0B: South west black arrow
+2B0C: Left right black arrow
+2B0D: Up down black arrow
+2B0E: Rightwards arrow with tip downwards
+2B0F: Rightwards arrow with tip upwards
+2B10: Leftwards arrow with tip downwards
+2B11: Leftwards arrow with tip upwards
+2B12: Square with top half black
+2B13: Square with bottom half black
+2B14: Square with upper right diagonal half black
+2B15: Square with lower left diagonal half black
+2B16: Diamond with left half black
+2B17: Diamond with right half black
+2B18: Diamond with top half black
+2B19: Diamond with bottom half black
+2B1A: Dotted square
+2B1B: Black large square
+2B1C: White large square
+2B1D: Black very small square
+2B1E: White very small square
+2B1F: Black pentagon
+2B20: White pentagon
+2B21: White hexagon
+2B22: Black hexagon
+2B23: Horizontal black hexagon
+2B24: Black large circle
+2B25: Black medium diamond
+2B26: White medium diamond
+2B27: Black medium lozenge
+2B28: White medium lozenge
+2B29: Black small diamond
+2B2A: Black small lozenge
+2B2B: White small lozenge
+2B2C: Black horizontal ellipse
+2B2D: White horizontal ellipse
+2B2E: Black vertical ellipse
+2B2F: White vertical ellipse
+2B30: Left arrow with small circle
+2B31: Three leftwards arrows
+2B32: Left arrow with circled plus
+2B33: Long leftwards squiggle arrow
+2B34: Leftwards two-headed arrow with vertical stroke
+2B35: Leftwards two-headed arrow with double vertical stroke
+2B36: Leftwards two-headed arrow from bar
+2B37: Leftwards two-headed triple dash arrow
+2B38: Leftwards arrow with dotted stem
+2B39: Leftwards arrow with tail with vertical stroke
+2B3A: Leftwards arrow with tail with double vertical stroke
+2B3B: Leftwards two-headed arrow with tail
+2B3C: Leftwards two-headed arrow with tail with vertical stroke
+2B3D: Leftwards two-headed arrow with tail with double vertical stroke
+2B3E: Leftwards arrow through x
+2B3F: Wave arrow pointing directly left
+2B40: Equals sign above leftwards arrow
+2B41: Reverse tilde operator above leftwards arrow
+2B42: Leftwards arrow above reverse almost equal to
+2B43: Rightwards arrow through greater-than
+2B44: Rightwards arrow through superset
+2B45: Leftwards quadruple arrow
+2B46: Rightwards quadruple arrow
+2B47: Reverse tilde operator above rightwards arrow
+2B48: Rightwards arrow above reverse almost equal to
+2B49: Tilde operator above leftwards arrow
+2B4A: Leftwards arrow above almost equal to
+2B4B: Leftwards arrow above reverse tilde operator
+2B4C: Rightwards arrow above reverse tilde operator
+2B4D:
+2B4E:
+2B4F:
+2B50: White medium star
+2B51: Black small star
+2B52: White small star
+2B53: Black right-pointing pentagon
+2B54: White right-pointing pentagon
+2B55: Heavy large circle
+2B56: Heavy oval with oval inside
+2B57: Heavy circle with circle inside
+2B58: Heavy circle
+2B59: Heavy circled saltire
+2B5A:
+2B5B:
+2B5C:
+2B5D:
+2B5E:
+2B5F:
+2B60:
+2B61:
+2B62:
+2B63:
+2B64:
+2B65:
+2B66:
+2B67:
+2B68:
+2B69:
+2B6A:
+2B6B:
+2B6C:
+2B6D:
+2B6E:
+2B6F:
+2B70:
+2B71:
+2B72:
+2B73:
+2B74:
+2B75:
+2B76:
+2B77:
+2B78:
+2B79:
+2B7A:
+2B7B:
+2B7C:
+2B7D:
+2B7E:
+2B7F:
+2B80:
+2B81:
+2B82:
+2B83:
+2B84:
+2B85:
+2B86:
+2B87:
+2B88:
+2B89:
+2B8A:
+2B8B:
+2B8C:
+2B8D:
+2B8E:
+2B8F:
+2B90:
+2B91:
+2B92:
+2B93:
+2B94:
+2B95:
+2B96:
+2B97:
+2B98:
+2B99:
+2B9A:
+2B9B:
+2B9C:
+2B9D:
+2B9E:
+2B9F:
+2BA0:
+2BA1:
+2BA2:
+2BA3:
+2BA4:
+2BA5:
+2BA6:
+2BA7:
+2BA8:
+2BA9:
+2BAA:
+2BAB:
+2BAC:
+2BAD:
+2BAE:
+2BAF:
+2BB0:
+2BB1:
+2BB2:
+2BB3:
+2BB4:
+2BB5:
+2BB6:
+2BB7:
+2BB8:
+2BB9:
+2BBA:
+2BBB:
+2BBC:
+2BBD:
+2BBE:
+2BBF:
+2BC0:
+2BC1:
+2BC2:
+2BC3:
+2BC4:
+2BC5:
+2BC6:
+2BC7:
+2BC8:
+2BC9:
+2BCA:
+2BCB:
+2BCC:
+2BCD:
+2BCE:
+2BCF:
+2BD0:
+2BD1:
+2BD2:
+2BD3:
+2BD4:
+2BD5:
+2BD6:
+2BD7:
+2BD8:
+2BD9:
+2BDA:
+2BDB:
+2BDC:
+2BDD:
+2BDE:
+2BDF:
+2BE0:
+2BE1:
+2BE2:
+2BE3:
+2BE4:
+2BE5:
+2BE6:
+2BE7:
+2BE8:
+2BE9:
+2BEA:
+2BEB:
+2BEC:
+2BED:
+2BEE:
+2BEF:
+2BF0:
+2BF1:
+2BF2:
+2BF3:
+2BF4:
+2BF5:
+2BF6:
+2BF7:
+2BF8:
+2BF9:
+2BFA:
+2BFB:
+2BFC:
+2BFD:
+2BFE:
+2BFF:

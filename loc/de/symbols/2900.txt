@@ -1,256 +1,256 @@
-2900 : Rightwards two-headed arrow with vertical stroke
-2901 : Rightwards two-headed arrow with double vertical stroke
-2902 : Leftwards double arrow with vertical stroke
-2903 : Rightwards double arrow with vertical stroke
-2904 : Left right double arrow with vertical stroke
-2905 : Rightwards two-headed arrow from bar
-2906 : Leftwards double arrow from bar
-2907 : Rightwards double arrow from bar
-2908 : Downwards arrow with horizontal stroke
-2909 : Upwards arrow with horizontal stroke
-290A : Upwards triple arrow
-290B : Downwards triple arrow
-290C : Leftwards double dash arrow
-290D : Rightwards double dash arrow
-290E : Leftwards triple dash arrow
-290F : Rightwards triple dash arrow
-2910 : Rightwards two-headed triple dash arrow
-2911 : Rightwards arrow with dotted stem
-2912 : Upwards arrow to bar
-2913 : Downwards arrow to bar
-2914 : Rightwards arrow with tail with vertical stroke
-2915 : Rightwards arrow with tail with double vertical stroke
-2916 : Rightwards two-headed arrow with tail
-2917 : Rightwards two-headed arrow with tail with vertical stroke
-2918 : Rightwards two-headed arrow with tail with double vertical stroke
-2919 : Leftwards arrow-tail
-291A : Rightwards arrow-tail
-291B : Leftwards double arrow-tail
-291C : Rightwards double arrow-tail
-291D : Leftwards arrow to black diamond
-291E : Rightwards arrow to black diamond
-291F : Leftwards arrow from bar to black diamond
-2920 : Rightwards arrow from bar to black diamond
-2921 : North west and south east arrow
-2922 : North east and south west arrow
-2923 : North west arrow with hook
-2924 : North east arrow with hook
-2925 : South east arrow with hook
-2926 : South west arrow with hook
-2927 : North west arrow and north east arrow
-2928 : North east arrow and south east arrow
-2929 : South east arrow and south west arrow
-292A : South west arrow and north west arrow
-292B : Rising diagonal crossing falling diagonal
-292C : Falling diagonal crossing rising diagonal
-292D : South east arrow crossing north east arrow
-292E : North east arrow crossing south east arrow
-292F : Falling diagonal crossing north east arrow
-2930 : Rising diagonal crossing south east arrow
-2931 : North east arrow crossing north west arrow
-2932 : North west arrow crossing north east arrow
-2933 : Wave arrow pointing directly right
-2934 : Arrow pointing rightwards then curving upwards
-2935 : Arrow pointing rightwards then curving downwards
-2936 : Arrow pointing downwards then curving leftwards
-2937 : Arrow pointing downwards then curving rightwards
-2938 : Right-side arc clockwise arrow
-2939 : Left-side arc anticlockwise arrow
-293A : Top arc anticlockwise arrow
-293B : Bottom arc anticlockwise arrow
-293C : Top arc clockwise arrow with minus
-293D : Top arc anticlockwise arrow with plus
-293E : Lower right semicircular clockwise arrow
-293F : Lower left semicircular anticlockwise arrow
-2940 : Anticlockwise closed circle arrow
-2941 : Clockwise closed circle arrow
-2942 : Rightwards arrow above short leftwards arrow
-2943 : Leftwards arrow above short rightwards arrow
-2944 : Short rightwards arrow above leftwards arrow
-2945 : Rightwards arrow with plus below
-2946 : Leftwards arrow with plus below
-2947 : Rightwards arrow through x
-2948 : Left right arrow through small circle
-2949 : Upwards two-headed arrow from small circle
-294A : Left barb up right barb down harpoon
-294B : Left barb down right barb up harpoon
-294C : Up barb right down barb left harpoon
-294D : Up barb left down barb right harpoon
-294E : Left barb up right barb up harpoon
-294F : Up barb right down barb right harpoon
-2950 : Left barb down right barb down harpoon
-2951 : Up barb left down barb left harpoon
-2952 : Leftwards harpoon with barb up to bar
-2953 : Rightwards harpoon with barb up to bar
-2954 : Upwards harpoon with barb right to bar
-2955 : Downwards harpoon with barb right to bar
-2956 : Leftwards harpoon with barb down to bar
-2957 : Rightwards harpoon with barb down to bar
-2958 : Upwards harpoon with barb left to bar
-2959 : Downwards harpoon with barb left to bar
-295A : Leftwards harpoon with barb up from bar
-295B : Rightwards harpoon with barb up from bar
-295C : Upwards harpoon with barb right from bar
-295D : Downwards harpoon with barb right from bar
-295E : Leftwards harpoon with barb down from bar
-295F : Rightwards harpoon with barb down from bar
-2960 : Upwards harpoon with barb left from bar
-2961 : Downwards harpoon with barb left from bar
-2962 : Leftwards harpoon with barb up above leftwards harpoon with barb down
-2963 : Upwards harpoon with barb left beside upwards harpoon with barb right
-2964 : Rightwards harpoon with barb up above rightwards harpoon with barb down
-2965 : Downwards harpoon with barb left beside downwards harpoon with barb right
-2966 : Leftwards harpoon with barb up above rightwards harpoon with barb up
-2967 : Leftwards harpoon with barb down above rightwards harpoon with barb down
-2968 : Rightwards harpoon with barb up above leftwards harpoon with barb up
-2969 : Rightwards harpoon with barb down above leftwards harpoon with barb down
-296A : Leftwards harpoon with barb up above long dash
-296B : Leftwards harpoon with barb down below long dash
-296C : Rightwards harpoon with barb up above long dash
-296D : Rightwards harpoon with barb down below long dash
-296E : Upwards harpoon with barb left beside downwards harpoon with barb right
-296F : Downwards harpoon with barb left beside upwards harpoon with barb right
-2970 : Right double arrow with rounded head
-2971 : Equals sign above rightwards arrow
-2972 : Tilde operator above rightwards arrow
-2973 : Leftwards arrow above tilde operator
-2974 : Rightwards arrow above tilde operator
-2975 : Rightwards arrow above almost equal to
-2976 : Less-than above leftwards arrow
-2977 : Leftwards arrow through less-than
-2978 : Greater-than above rightwards arrow
-2979 : Subset above rightwards arrow
-297A : Leftwards arrow through subset
-297B : Superset above leftwards arrow
-297C : Left fish tail
-297D : Right fish tail
-297E : Up fish tail
-297F : Down fish tail
-2980 : Triple vertical bar delimiter
-2981 : Z notation spot
-2982 : Z notation type colon
-2983 : Left white curly bracket
-2984 : Right white curly bracket
-2985 : Left white parenthesis
-2986 : Right white parenthesis
-2987 : Z notation left image bracket
-2988 : Z notation right image bracket
-2989 : Z notation left binding bracket
-298A : Z notation right binding bracket
-298B : Left square bracket with underbar
-298C : Right square bracket with underbar
-298D : Left square bracket with tick in top corner
-298E : Right square bracket with tick in bottom corner
-298F : Left square bracket with tick in bottom corner
-2990 : Right square bracket with tick in top corner
-2991 : Left angle bracket with dot
-2992 : Right angle bracket with dot
-2993 : Left arc less-than bracket
-2994 : Right arc greater-than bracket
-2995 : Double left arc greater-than bracket
-2996 : Double right arc less-than bracket
-2997 : Left black tortoise shell bracket
-2998 : Right black tortoise shell bracket
-2999 : Dotted fence
-299A : Vertical zigzag line
-299B : Measured angle opening left
-299C : Right angle variant with square
-299D : Measured right angle with dot
-299E : Angle with s inside
-299F : Acute angle
-29A0 : Spherical angle opening left
-29A1 : Spherical angle opening up
-29A2 : Turned angle
-29A3 : Reversed angle
-29A4 : Angle with underbar
-29A5 : Reversed angle with underbar
-29A6 : Oblique angle opening up
-29A7 : Oblique angle opening down
-29A8 : Measured angle with open arm ending in arrow pointing up and right
-29A9 : Measured angle with open arm ending in arrow pointing up and left
-29AA : Measured angle with open arm ending in arrow pointing down and right
-29AB : Measured angle with open arm ending in arrow pointing down and left
-29AC : Measured angle with open arm ending in arrow pointing right and up
-29AD : Measured angle with open arm ending in arrow pointing left and up
-29AE : Measured angle with open arm ending in arrow pointing right and down
-29AF : Measured angle with open arm ending in arrow pointing left and down
-29B0 : Reversed empty set
-29B1 : Empty set with overbar
-29B2 : Empty set with small circle above
-29B3 : Empty set with right arrow above
-29B4 : Empty set with left arrow above
-29B5 : Circle with horizontal bar
-29B6 : Circled vertical bar
-29B7 : Circled parallel
-29B8 : Circled reverse solidus
-29B9 : Circled perpendicular
-29BA : Circle divided by horizontal bar and top half divided by vertical bar
-29BB : Circle with superimposed x
-29BC : Circled anticlockwise-rotated division sign
-29BD : Up arrow through circle
-29BE : Circled white bullet
-29BF : Circled bullet
-29C0 : Circled less-than
-29C1 : Circled greater-than
-29C2 : Circle with small circle to the right
-29C3 : Circle with two horizontal strokes to the right
-29C4 : Squared rising diagonal slash
-29C5 : Squared falling diagonal slash
-29C6 : Squared asterisk
-29C7 : Squared small circle
-29C8 : Squared square
-29C9 : Two joined squares
-29CA : Triangle with dot above
-29CB : Triangle with underbar
-29CC : S in triangle
-29CD : Triangle with serifs at bottom
-29CE : Right triangle above left triangle
-29CF : Left triangle beside vertical bar
-29D0 : Vertical bar beside right triangle
-29D1 : Bowtie with left half black
-29D2 : Bowtie with right half black
-29D3 : Black bowtie
-29D4 : Times with left half black
-29D5 : Times with right half black
-29D6 : White hourglass
-29D7 : Black hourglass
-29D8 : Left wiggly fence
-29D9 : Right wiggly fence
-29DA : Left double wiggly fence
-29DB : Right double wiggly fence
-29DC : Incomplete infinity
-29DD : Tie over infinity
-29DE : Infinity negated with vertical bar
-29DF : Double-ended multimap
-29E0 : Square with contoured outline
-29E1 : Increases as
-29E2 : Shuffle product
-29E3 : Equals sign and slanted parallel
-29E4 : Equals sign and slanted parallel with tilde above
-29E5 : Identical to and slanted parallel
-29E6 : Gleich stark
-29E7 : Thermodynamic
-29E8 : Down-pointing triangle with left half black
-29E9 : Down-pointing triangle with right half black
-29EA : Black diamond with down arrow
-29EB : Black lozenge
-29EC : White circle with down arrow
-29ED : Black circle with down arrow
-29EE : Error-barred white square
-29EF : Error-barred black square
-29F0 : Error-barred white diamond
-29F1 : Error-barred black diamond
-29F2 : Error-barred white circle
-29F3 : Error-barred black circle
-29F4 : Rule-delayed
-29F5 : Reverse solidus operator
-29F6 : Solidus with overbar
-29F7 : Reverse solidus with horizontal stroke
-29F8 : Big solidus
-29F9 : Big reverse solidus
-29FA : Double plus
-29FB : Triple plus
-29FC : Left-pointing curved angle bracket
-29FD : Right-pointing curved angle bracket
-29FE : Tiny
-29FF : Miny
+2900: Rightwards two-headed arrow with vertical stroke
+2901: Rightwards two-headed arrow with double vertical stroke
+2902: Leftwards double arrow with vertical stroke
+2903: Rightwards double arrow with vertical stroke
+2904: Left right double arrow with vertical stroke
+2905: Rightwards two-headed arrow from bar
+2906: Leftwards double arrow from bar
+2907: Rightwards double arrow from bar
+2908: Downwards arrow with horizontal stroke
+2909: Upwards arrow with horizontal stroke
+290A: Upwards triple arrow
+290B: Downwards triple arrow
+290C: Leftwards double dash arrow
+290D: Rightwards double dash arrow
+290E: Leftwards triple dash arrow
+290F: Rightwards triple dash arrow
+2910: Rightwards two-headed triple dash arrow
+2911: Rightwards arrow with dotted stem
+2912: Upwards arrow to bar
+2913: Downwards arrow to bar
+2914: Rightwards arrow with tail with vertical stroke
+2915: Rightwards arrow with tail with double vertical stroke
+2916: Rightwards two-headed arrow with tail
+2917: Rightwards two-headed arrow with tail with vertical stroke
+2918: Rightwards two-headed arrow with tail with double vertical stroke
+2919: Leftwards arrow-tail
+291A: Rightwards arrow-tail
+291B: Leftwards double arrow-tail
+291C: Rightwards double arrow-tail
+291D: Leftwards arrow to black diamond
+291E: Rightwards arrow to black diamond
+291F: Leftwards arrow from bar to black diamond
+2920: Rightwards arrow from bar to black diamond
+2921: North west and south east arrow
+2922: North east and south west arrow
+2923: North west arrow with hook
+2924: North east arrow with hook
+2925: South east arrow with hook
+2926: South west arrow with hook
+2927: North west arrow and north east arrow
+2928: North east arrow and south east arrow
+2929: South east arrow and south west arrow
+292A: South west arrow and north west arrow
+292B: Rising diagonal crossing falling diagonal
+292C: Falling diagonal crossing rising diagonal
+292D: South east arrow crossing north east arrow
+292E: North east arrow crossing south east arrow
+292F: Falling diagonal crossing north east arrow
+2930: Rising diagonal crossing south east arrow
+2931: North east arrow crossing north west arrow
+2932: North west arrow crossing north east arrow
+2933: Wave arrow pointing directly right
+2934: Arrow pointing rightwards then curving upwards
+2935: Arrow pointing rightwards then curving downwards
+2936: Arrow pointing downwards then curving leftwards
+2937: Arrow pointing downwards then curving rightwards
+2938: Right-side arc clockwise arrow
+2939: Left-side arc anticlockwise arrow
+293A: Top arc anticlockwise arrow
+293B: Bottom arc anticlockwise arrow
+293C: Top arc clockwise arrow with minus
+293D: Top arc anticlockwise arrow with plus
+293E: Lower right semicircular clockwise arrow
+293F: Lower left semicircular anticlockwise arrow
+2940: Anticlockwise closed circle arrow
+2941: Clockwise closed circle arrow
+2942: Rightwards arrow above short leftwards arrow
+2943: Leftwards arrow above short rightwards arrow
+2944: Short rightwards arrow above leftwards arrow
+2945: Rightwards arrow with plus below
+2946: Leftwards arrow with plus below
+2947: Rightwards arrow through x
+2948: Left right arrow through small circle
+2949: Upwards two-headed arrow from small circle
+294A: Left barb up right barb down harpoon
+294B: Left barb down right barb up harpoon
+294C: Up barb right down barb left harpoon
+294D: Up barb left down barb right harpoon
+294E: Left barb up right barb up harpoon
+294F: Up barb right down barb right harpoon
+2950: Left barb down right barb down harpoon
+2951: Up barb left down barb left harpoon
+2952: Leftwards harpoon with barb up to bar
+2953: Rightwards harpoon with barb up to bar
+2954: Upwards harpoon with barb right to bar
+2955: Downwards harpoon with barb right to bar
+2956: Leftwards harpoon with barb down to bar
+2957: Rightwards harpoon with barb down to bar
+2958: Upwards harpoon with barb left to bar
+2959: Downwards harpoon with barb left to bar
+295A: Leftwards harpoon with barb up from bar
+295B: Rightwards harpoon with barb up from bar
+295C: Upwards harpoon with barb right from bar
+295D: Downwards harpoon with barb right from bar
+295E: Leftwards harpoon with barb down from bar
+295F: Rightwards harpoon with barb down from bar
+2960: Upwards harpoon with barb left from bar
+2961: Downwards harpoon with barb left from bar
+2962: Leftwards harpoon with barb up above leftwards harpoon with barb down
+2963: Upwards harpoon with barb left beside upwards harpoon with barb right
+2964: Rightwards harpoon with barb up above rightwards harpoon with barb down
+2965: Downwards harpoon with barb left beside downwards harpoon with barb right
+2966: Leftwards harpoon with barb up above rightwards harpoon with barb up
+2967: Leftwards harpoon with barb down above rightwards harpoon with barb down
+2968: Rightwards harpoon with barb up above leftwards harpoon with barb up
+2969: Rightwards harpoon with barb down above leftwards harpoon with barb down
+296A: Leftwards harpoon with barb up above long dash
+296B: Leftwards harpoon with barb down below long dash
+296C: Rightwards harpoon with barb up above long dash
+296D: Rightwards harpoon with barb down below long dash
+296E: Upwards harpoon with barb left beside downwards harpoon with barb right
+296F: Downwards harpoon with barb left beside upwards harpoon with barb right
+2970: Right double arrow with rounded head
+2971: Equals sign above rightwards arrow
+2972: Tilde operator above rightwards arrow
+2973: Leftwards arrow above tilde operator
+2974: Rightwards arrow above tilde operator
+2975: Rightwards arrow above almost equal to
+2976: Less-than above leftwards arrow
+2977: Leftwards arrow through less-than
+2978: Greater-than above rightwards arrow
+2979: Subset above rightwards arrow
+297A: Leftwards arrow through subset
+297B: Superset above leftwards arrow
+297C: Left fish tail
+297D: Right fish tail
+297E: Up fish tail
+297F: Down fish tail
+2980: Triple vertical bar delimiter
+2981: Z notation spot
+2982: Z notation type colon
+2983: Left white curly bracket
+2984: Right white curly bracket
+2985: Left white parenthesis
+2986: Right white parenthesis
+2987: Z notation left image bracket
+2988: Z notation right image bracket
+2989: Z notation left binding bracket
+298A: Z notation right binding bracket
+298B: Left square bracket with underbar
+298C: Right square bracket with underbar
+298D: Left square bracket with tick in top corner
+298E: Right square bracket with tick in bottom corner
+298F: Left square bracket with tick in bottom corner
+2990: Right square bracket with tick in top corner
+2991: Left angle bracket with dot
+2992: Right angle bracket with dot
+2993: Left arc less-than bracket
+2994: Right arc greater-than bracket
+2995: Double left arc greater-than bracket
+2996: Double right arc less-than bracket
+2997: Left black tortoise shell bracket
+2998: Right black tortoise shell bracket
+2999: Dotted fence
+299A: Vertical zigzag line
+299B: Measured angle opening left
+299C: Right angle variant with square
+299D: Measured right angle with dot
+299E: Angle with s inside
+299F: Acute angle
+29A0: Spherical angle opening left
+29A1: Spherical angle opening up
+29A2: Turned angle
+29A3: Reversed angle
+29A4: Angle with underbar
+29A5: Reversed angle with underbar
+29A6: Oblique angle opening up
+29A7: Oblique angle opening down
+29A8: Measured angle with open arm ending in arrow pointing up and right
+29A9: Measured angle with open arm ending in arrow pointing up and left
+29AA: Measured angle with open arm ending in arrow pointing down and right
+29AB: Measured angle with open arm ending in arrow pointing down and left
+29AC: Measured angle with open arm ending in arrow pointing right and up
+29AD: Measured angle with open arm ending in arrow pointing left and up
+29AE: Measured angle with open arm ending in arrow pointing right and down
+29AF: Measured angle with open arm ending in arrow pointing left and down
+29B0: Reversed empty set
+29B1: Empty set with overbar
+29B2: Empty set with small circle above
+29B3: Empty set with right arrow above
+29B4: Empty set with left arrow above
+29B5: Circle with horizontal bar
+29B6: Circled vertical bar
+29B7: Circled parallel
+29B8: Circled reverse solidus
+29B9: Circled perpendicular
+29BA: Circle divided by horizontal bar and top half divided by vertical bar
+29BB: Circle with superimposed x
+29BC: Circled anticlockwise-rotated division sign
+29BD: Up arrow through circle
+29BE: Circled white bullet
+29BF: Circled bullet
+29C0: Circled less-than
+29C1: Circled greater-than
+29C2: Circle with small circle to the right
+29C3: Circle with two horizontal strokes to the right
+29C4: Squared rising diagonal slash
+29C5: Squared falling diagonal slash
+29C6: Squared asterisk
+29C7: Squared small circle
+29C8: Squared square
+29C9: Two joined squares
+29CA: Triangle with dot above
+29CB: Triangle with underbar
+29CC: S in triangle
+29CD: Triangle with serifs at bottom
+29CE: Right triangle above left triangle
+29CF: Left triangle beside vertical bar
+29D0: Vertical bar beside right triangle
+29D1: Bowtie with left half black
+29D2: Bowtie with right half black
+29D3: Black bowtie
+29D4: Times with left half black
+29D5: Times with right half black
+29D6: White hourglass
+29D7: Black hourglass
+29D8: Left wiggly fence
+29D9: Right wiggly fence
+29DA: Left double wiggly fence
+29DB: Right double wiggly fence
+29DC: Incomplete infinity
+29DD: Tie over infinity
+29DE: Infinity negated with vertical bar
+29DF: Double-ended multimap
+29E0: Square with contoured outline
+29E1: Increases as
+29E2: Shuffle product
+29E3: Equals sign and slanted parallel
+29E4: Equals sign and slanted parallel with tilde above
+29E5: Identical to and slanted parallel
+29E6: Gleich stark
+29E7: Thermodynamic
+29E8: Down-pointing triangle with left half black
+29E9: Down-pointing triangle with right half black
+29EA: Black diamond with down arrow
+29EB: Black lozenge
+29EC: White circle with down arrow
+29ED: Black circle with down arrow
+29EE: Error-barred white square
+29EF: Error-barred black square
+29F0: Error-barred white diamond
+29F1: Error-barred black diamond
+29F2: Error-barred white circle
+29F3: Error-barred black circle
+29F4: Rule-delayed
+29F5: Reverse solidus operator
+29F6: Solidus with overbar
+29F7: Reverse solidus with horizontal stroke
+29F8: Big solidus
+29F9: Big reverse solidus
+29FA: Double plus
+29FB: Triple plus
+29FC: Left-pointing curved angle bracket
+29FD: Right-pointing curved angle bracket
+29FE: Tiny
+29FF: Miny

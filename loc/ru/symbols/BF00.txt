@@ -1,256 +1,256 @@
-BF00 : Слог Хангыль bbess
-BF01 : Слог Хангыль bbeng
-BF02 : Слог Хангыль bbej
-BF03 : Слог Хангыль bbec
-BF04 : Слог Хангыль bbek
-BF05 : Слог Хангыль bbet
-BF06 : Слог Хангыль bbep
-BF07 : Слог Хангыль bbeh
-BF08 : Слог Хангыль bbyeo
-BF09 : Слог Хангыль bbyeog
-BF0A : Слог Хангыль bbyeogg
-BF0B : Слог Хангыль bbyeogs
-BF0C : Слог Хангыль bbyeon
-BF0D : Слог Хангыль bbyeonj
-BF0E : Слог Хангыль bbyeonh
-BF0F : Слог Хангыль bbyeod
-BF10 : Слог Хангыль bbyeol
-BF11 : Слог Хангыль bbyeolg
-BF12 : Слог Хангыль bbyeolm
-BF13 : Слог Хангыль bbyeolb
-BF14 : Слог Хангыль bbyeols
-BF15 : Слог Хангыль bbyeolt
-BF16 : Слог Хангыль bbyeolp
-BF17 : Слог Хангыль bbyeolh
-BF18 : Слог Хангыль bbyeom
-BF19 : Слог Хангыль bbyeob
-BF1A : Слог Хангыль bbyeobs
-BF1B : Слог Хангыль bbyeos
-BF1C : Слог Хангыль bbyeoss
-BF1D : Слог Хангыль bbyeong
-BF1E : Слог Хангыль bbyeoj
-BF1F : Слог Хангыль bbyeoc
-BF20 : Слог Хангыль bbyeok
-BF21 : Слог Хангыль bbyeot
-BF22 : Слог Хангыль bbyeop
-BF23 : Слог Хангыль bbyeoh
-BF24 : Слог Хангыль bbye
-BF25 : Слог Хангыль bbyeg
-BF26 : Слог Хангыль bbyegg
-BF27 : Слог Хангыль bbyegs
-BF28 : Слог Хангыль bbyen
-BF29 : Слог Хангыль bbyenj
-BF2A : Слог Хангыль bbyenh
-BF2B : Слог Хангыль bbyed
-BF2C : Слог Хангыль bbyel
-BF2D : Слог Хангыль bbyelg
-BF2E : Слог Хангыль bbyelm
-BF2F : Слог Хангыль bbyelb
-BF30 : Слог Хангыль bbyels
-BF31 : Слог Хангыль bbyelt
-BF32 : Слог Хангыль bbyelp
-BF33 : Слог Хангыль bbyelh
-BF34 : Слог Хангыль bbyem
-BF35 : Слог Хангыль bbyeb
-BF36 : Слог Хангыль bbyebs
-BF37 : Слог Хангыль bbyes
-BF38 : Слог Хангыль bbyess
-BF39 : Слог Хангыль bbyeng
-BF3A : Слог Хангыль bbyej
-BF3B : Слог Хангыль bbyec
-BF3C : Слог Хангыль bbyek
-BF3D : Слог Хангыль bbyet
-BF3E : Слог Хангыль bbyep
-BF3F : Слог Хангыль bbyeh
-BF40 : Слог Хангыль bbo
-BF41 : Слог Хангыль bbog
-BF42 : Слог Хангыль bbogg
-BF43 : Слог Хангыль bbogs
-BF44 : Слог Хангыль bbon
-BF45 : Слог Хангыль bbonj
-BF46 : Слог Хангыль bbonh
-BF47 : Слог Хангыль bbod
-BF48 : Слог Хангыль bbol
-BF49 : Слог Хангыль bbolg
-BF4A : Слог Хангыль bbolm
-BF4B : Слог Хангыль bbolb
-BF4C : Слог Хангыль bbols
-BF4D : Слог Хангыль bbolt
-BF4E : Слог Хангыль bbolp
-BF4F : Слог Хангыль bbolh
-BF50 : Слог Хангыль bbom
-BF51 : Слог Хангыль bbob
-BF52 : Слог Хангыль bbobs
-BF53 : Слог Хангыль bbos
-BF54 : Слог Хангыль bboss
-BF55 : Слог Хангыль bbong
-BF56 : Слог Хангыль bboj
-BF57 : Слог Хангыль bboc
-BF58 : Слог Хангыль bbok
-BF59 : Слог Хангыль bbot
-BF5A : Слог Хангыль bbop
-BF5B : Слог Хангыль bboh
-BF5C : Слог Хангыль bbwa
-BF5D : Слог Хангыль bbwag
-BF5E : Слог Хангыль bbwagg
-BF5F : Слог Хангыль bbwags
-BF60 : Слог Хангыль bbwan
-BF61 : Слог Хангыль bbwanj
-BF62 : Слог Хангыль bbwanh
-BF63 : Слог Хангыль bbwad
-BF64 : Слог Хангыль bbwal
-BF65 : Слог Хангыль bbwalg
-BF66 : Слог Хангыль bbwalm
-BF67 : Слог Хангыль bbwalb
-BF68 : Слог Хангыль bbwals
-BF69 : Слог Хангыль bbwalt
-BF6A : Слог Хангыль bbwalp
-BF6B : Слог Хангыль bbwalh
-BF6C : Слог Хангыль bbwam
-BF6D : Слог Хангыль bbwab
-BF6E : Слог Хангыль bbwabs
-BF6F : Слог Хангыль bbwas
-BF70 : Слог Хангыль bbwass
-BF71 : Слог Хангыль bbwang
-BF72 : Слог Хангыль bbwaj
-BF73 : Слог Хангыль bbwac
-BF74 : Слог Хангыль bbwak
-BF75 : Слог Хангыль bbwat
-BF76 : Слог Хангыль bbwap
-BF77 : Слог Хангыль bbwah
-BF78 : Слог Хангыль bbwae
-BF79 : Слог Хангыль bbwaeg
-BF7A : Слог Хангыль bbwaegg
-BF7B : Слог Хангыль bbwaegs
-BF7C : Слог Хангыль bbwaen
-BF7D : Слог Хангыль bbwaenj
-BF7E : Слог Хангыль bbwaenh
-BF7F : Слог Хангыль bbwaed
-BF80 : Слог Хангыль bbwael
-BF81 : Слог Хангыль bbwaelg
-BF82 : Слог Хангыль bbwaelm
-BF83 : Слог Хангыль bbwaelb
-BF84 : Слог Хангыль bbwaels
-BF85 : Слог Хангыль bbwaelt
-BF86 : Слог Хангыль bbwaelp
-BF87 : Слог Хангыль bbwaelh
-BF88 : Слог Хангыль bbwaem
-BF89 : Слог Хангыль bbwaeb
-BF8A : Слог Хангыль bbwaebs
-BF8B : Слог Хангыль bbwaes
-BF8C : Слог Хангыль bbwaess
-BF8D : Слог Хангыль bbwaeng
-BF8E : Слог Хангыль bbwaej
-BF8F : Слог Хангыль bbwaec
-BF90 : Слог Хангыль bbwaek
-BF91 : Слог Хангыль bbwaet
-BF92 : Слог Хангыль bbwaep
-BF93 : Слог Хангыль bbwaeh
-BF94 : Слог Хангыль bboe
-BF95 : Слог Хангыль bboeg
-BF96 : Слог Хангыль bboegg
-BF97 : Слог Хангыль bboegs
-BF98 : Слог Хангыль bboen
-BF99 : Слог Хангыль bboenj
-BF9A : Слог Хангыль bboenh
-BF9B : Слог Хангыль bboed
-BF9C : Слог Хангыль bboel
-BF9D : Слог Хангыль bboelg
-BF9E : Слог Хангыль bboelm
-BF9F : Слог Хангыль bboelb
-BFA0 : Слог Хангыль bboels
-BFA1 : Слог Хангыль bboelt
-BFA2 : Слог Хангыль bboelp
-BFA3 : Слог Хангыль bboelh
-BFA4 : Слог Хангыль bboem
-BFA5 : Слог Хангыль bboeb
-BFA6 : Слог Хангыль bboebs
-BFA7 : Слог Хангыль bboes
-BFA8 : Слог Хангыль bboess
-BFA9 : Слог Хангыль bboeng
-BFAA : Слог Хангыль bboej
-BFAB : Слог Хангыль bboec
-BFAC : Слог Хангыль bboek
-BFAD : Слог Хангыль bboet
-BFAE : Слог Хангыль bboep
-BFAF : Слог Хангыль bboeh
-BFB0 : Слог Хангыль bbyo
-BFB1 : Слог Хангыль bbyog
-BFB2 : Слог Хангыль bbyogg
-BFB3 : Слог Хангыль bbyogs
-BFB4 : Слог Хангыль bbyon
-BFB5 : Слог Хангыль bbyonj
-BFB6 : Слог Хангыль bbyonh
-BFB7 : Слог Хангыль bbyod
-BFB8 : Слог Хангыль bbyol
-BFB9 : Слог Хангыль bbyolg
-BFBA : Слог Хангыль bbyolm
-BFBB : Слог Хангыль bbyolb
-BFBC : Слог Хангыль bbyols
-BFBD : Слог Хангыль bbyolt
-BFBE : Слог Хангыль bbyolp
-BFBF : Слог Хангыль bbyolh
-BFC0 : Слог Хангыль bbyom
-BFC1 : Слог Хангыль bbyob
-BFC2 : Слог Хангыль bbyobs
-BFC3 : Слог Хангыль bbyos
-BFC4 : Слог Хангыль bbyoss
-BFC5 : Слог Хангыль bbyong
-BFC6 : Слог Хангыль bbyoj
-BFC7 : Слог Хангыль bbyoc
-BFC8 : Слог Хангыль bbyok
-BFC9 : Слог Хангыль bbyot
-BFCA : Слог Хангыль bbyop
-BFCB : Слог Хангыль bbyoh
-BFCC : Слог Хангыль bbu
-BFCD : Слог Хангыль bbug
-BFCE : Слог Хангыль bbugg
-BFCF : Слог Хангыль bbugs
-BFD0 : Слог Хангыль bbun
-BFD1 : Слог Хангыль bbunj
-BFD2 : Слог Хангыль bbunh
-BFD3 : Слог Хангыль bbud
-BFD4 : Слог Хангыль bbul
-BFD5 : Слог Хангыль bbulg
-BFD6 : Слог Хангыль bbulm
-BFD7 : Слог Хангыль bbulb
-BFD8 : Слог Хангыль bbuls
-BFD9 : Слог Хангыль bbult
-BFDA : Слог Хангыль bbulp
-BFDB : Слог Хангыль bbulh
-BFDC : Слог Хангыль bbum
-BFDD : Слог Хангыль bbub
-BFDE : Слог Хангыль bbubs
-BFDF : Слог Хангыль bbus
-BFE0 : Слог Хангыль bbuss
-BFE1 : Слог Хангыль bbung
-BFE2 : Слог Хангыль bbuj
-BFE3 : Слог Хангыль bbuc
-BFE4 : Слог Хангыль bbuk
-BFE5 : Слог Хангыль bbut
-BFE6 : Слог Хангыль bbup
-BFE7 : Слог Хангыль bbuh
-BFE8 : Слог Хангыль bbweo
-BFE9 : Слог Хангыль bbweog
-BFEA : Слог Хангыль bbweogg
-BFEB : Слог Хангыль bbweogs
-BFEC : Слог Хангыль bbweon
-BFED : Слог Хангыль bbweonj
-BFEE : Слог Хангыль bbweonh
-BFEF : Слог Хангыль bbweod
-BFF0 : Слог Хангыль bbweol
-BFF1 : Слог Хангыль bbweolg
-BFF2 : Слог Хангыль bbweolm
-BFF3 : Слог Хангыль bbweolb
-BFF4 : Слог Хангыль bbweols
-BFF5 : Слог Хангыль bbweolt
-BFF6 : Слог Хангыль bbweolp
-BFF7 : Слог Хангыль bbweolh
-BFF8 : Слог Хангыль bbweom
-BFF9 : Слог Хангыль bbweob
-BFFA : Слог Хангыль bbweobs
-BFFB : Слог Хангыль bbweos
-BFFC : Слог Хангыль bbweoss
-BFFD : Слог Хангыль bbweong
-BFFE : Слог Хангыль bbweoj
-BFFF : Слог Хангыль bbweoc
+BF00: Слог Хангыль bbess
+BF01: Слог Хангыль bbeng
+BF02: Слог Хангыль bbej
+BF03: Слог Хангыль bbec
+BF04: Слог Хангыль bbek
+BF05: Слог Хангыль bbet
+BF06: Слог Хангыль bbep
+BF07: Слог Хангыль bbeh
+BF08: Слог Хангыль bbyeo
+BF09: Слог Хангыль bbyeog
+BF0A: Слог Хангыль bbyeogg
+BF0B: Слог Хангыль bbyeogs
+BF0C: Слог Хангыль bbyeon
+BF0D: Слог Хангыль bbyeonj
+BF0E: Слог Хангыль bbyeonh
+BF0F: Слог Хангыль bbyeod
+BF10: Слог Хангыль bbyeol
+BF11: Слог Хангыль bbyeolg
+BF12: Слог Хангыль bbyeolm
+BF13: Слог Хангыль bbyeolb
+BF14: Слог Хангыль bbyeols
+BF15: Слог Хангыль bbyeolt
+BF16: Слог Хангыль bbyeolp
+BF17: Слог Хангыль bbyeolh
+BF18: Слог Хангыль bbyeom
+BF19: Слог Хангыль bbyeob
+BF1A: Слог Хангыль bbyeobs
+BF1B: Слог Хангыль bbyeos
+BF1C: Слог Хангыль bbyeoss
+BF1D: Слог Хангыль bbyeong
+BF1E: Слог Хангыль bbyeoj
+BF1F: Слог Хангыль bbyeoc
+BF20: Слог Хангыль bbyeok
+BF21: Слог Хангыль bbyeot
+BF22: Слог Хангыль bbyeop
+BF23: Слог Хангыль bbyeoh
+BF24: Слог Хангыль bbye
+BF25: Слог Хангыль bbyeg
+BF26: Слог Хангыль bbyegg
+BF27: Слог Хангыль bbyegs
+BF28: Слог Хангыль bbyen
+BF29: Слог Хангыль bbyenj
+BF2A: Слог Хангыль bbyenh
+BF2B: Слог Хангыль bbyed
+BF2C: Слог Хангыль bbyel
+BF2D: Слог Хангыль bbyelg
+BF2E: Слог Хангыль bbyelm
+BF2F: Слог Хангыль bbyelb
+BF30: Слог Хангыль bbyels
+BF31: Слог Хангыль bbyelt
+BF32: Слог Хангыль bbyelp
+BF33: Слог Хангыль bbyelh
+BF34: Слог Хангыль bbyem
+BF35: Слог Хангыль bbyeb
+BF36: Слог Хангыль bbyebs
+BF37: Слог Хангыль bbyes
+BF38: Слог Хангыль bbyess
+BF39: Слог Хангыль bbyeng
+BF3A: Слог Хангыль bbyej
+BF3B: Слог Хангыль bbyec
+BF3C: Слог Хангыль bbyek
+BF3D: Слог Хангыль bbyet
+BF3E: Слог Хангыль bbyep
+BF3F: Слог Хангыль bbyeh
+BF40: Слог Хангыль bbo
+BF41: Слог Хангыль bbog
+BF42: Слог Хангыль bbogg
+BF43: Слог Хангыль bbogs
+BF44: Слог Хангыль bbon
+BF45: Слог Хангыль bbonj
+BF46: Слог Хангыль bbonh
+BF47: Слог Хангыль bbod
+BF48: Слог Хангыль bbol
+BF49: Слог Хангыль bbolg
+BF4A: Слог Хангыль bbolm
+BF4B: Слог Хангыль bbolb
+BF4C: Слог Хангыль bbols
+BF4D: Слог Хангыль bbolt
+BF4E: Слог Хангыль bbolp
+BF4F: Слог Хангыль bbolh
+BF50: Слог Хангыль bbom
+BF51: Слог Хангыль bbob
+BF52: Слог Хангыль bbobs
+BF53: Слог Хангыль bbos
+BF54: Слог Хангыль bboss
+BF55: Слог Хангыль bbong
+BF56: Слог Хангыль bboj
+BF57: Слог Хангыль bboc
+BF58: Слог Хангыль bbok
+BF59: Слог Хангыль bbot
+BF5A: Слог Хангыль bbop
+BF5B: Слог Хангыль bboh
+BF5C: Слог Хангыль bbwa
+BF5D: Слог Хангыль bbwag
+BF5E: Слог Хангыль bbwagg
+BF5F: Слог Хангыль bbwags
+BF60: Слог Хангыль bbwan
+BF61: Слог Хангыль bbwanj
+BF62: Слог Хангыль bbwanh
+BF63: Слог Хангыль bbwad
+BF64: Слог Хангыль bbwal
+BF65: Слог Хангыль bbwalg
+BF66: Слог Хангыль bbwalm
+BF67: Слог Хангыль bbwalb
+BF68: Слог Хангыль bbwals
+BF69: Слог Хангыль bbwalt
+BF6A: Слог Хангыль bbwalp
+BF6B: Слог Хангыль bbwalh
+BF6C: Слог Хангыль bbwam
+BF6D: Слог Хангыль bbwab
+BF6E: Слог Хангыль bbwabs
+BF6F: Слог Хангыль bbwas
+BF70: Слог Хангыль bbwass
+BF71: Слог Хангыль bbwang
+BF72: Слог Хангыль bbwaj
+BF73: Слог Хангыль bbwac
+BF74: Слог Хангыль bbwak
+BF75: Слог Хангыль bbwat
+BF76: Слог Хангыль bbwap
+BF77: Слог Хангыль bbwah
+BF78: Слог Хангыль bbwae
+BF79: Слог Хангыль bbwaeg
+BF7A: Слог Хангыль bbwaegg
+BF7B: Слог Хангыль bbwaegs
+BF7C: Слог Хангыль bbwaen
+BF7D: Слог Хангыль bbwaenj
+BF7E: Слог Хангыль bbwaenh
+BF7F: Слог Хангыль bbwaed
+BF80: Слог Хангыль bbwael
+BF81: Слог Хангыль bbwaelg
+BF82: Слог Хангыль bbwaelm
+BF83: Слог Хангыль bbwaelb
+BF84: Слог Хангыль bbwaels
+BF85: Слог Хангыль bbwaelt
+BF86: Слог Хангыль bbwaelp
+BF87: Слог Хангыль bbwaelh
+BF88: Слог Хангыль bbwaem
+BF89: Слог Хангыль bbwaeb
+BF8A: Слог Хангыль bbwaebs
+BF8B: Слог Хангыль bbwaes
+BF8C: Слог Хангыль bbwaess
+BF8D: Слог Хангыль bbwaeng
+BF8E: Слог Хангыль bbwaej
+BF8F: Слог Хангыль bbwaec
+BF90: Слог Хангыль bbwaek
+BF91: Слог Хангыль bbwaet
+BF92: Слог Хангыль bbwaep
+BF93: Слог Хангыль bbwaeh
+BF94: Слог Хангыль bboe
+BF95: Слог Хангыль bboeg
+BF96: Слог Хангыль bboegg
+BF97: Слог Хангыль bboegs
+BF98: Слог Хангыль bboen
+BF99: Слог Хангыль bboenj
+BF9A: Слог Хангыль bboenh
+BF9B: Слог Хангыль bboed
+BF9C: Слог Хангыль bboel
+BF9D: Слог Хангыль bboelg
+BF9E: Слог Хангыль bboelm
+BF9F: Слог Хангыль bboelb
+BFA0: Слог Хангыль bboels
+BFA1: Слог Хангыль bboelt
+BFA2: Слог Хангыль bboelp
+BFA3: Слог Хангыль bboelh
+BFA4: Слог Хангыль bboem
+BFA5: Слог Хангыль bboeb
+BFA6: Слог Хангыль bboebs
+BFA7: Слог Хангыль bboes
+BFA8: Слог Хангыль bboess
+BFA9: Слог Хангыль bboeng
+BFAA: Слог Хангыль bboej
+BFAB: Слог Хангыль bboec
+BFAC: Слог Хангыль bboek
+BFAD: Слог Хангыль bboet
+BFAE: Слог Хангыль bboep
+BFAF: Слог Хангыль bboeh
+BFB0: Слог Хангыль bbyo
+BFB1: Слог Хангыль bbyog
+BFB2: Слог Хангыль bbyogg
+BFB3: Слог Хангыль bbyogs
+BFB4: Слог Хангыль bbyon
+BFB5: Слог Хангыль bbyonj
+BFB6: Слог Хангыль bbyonh
+BFB7: Слог Хангыль bbyod
+BFB8: Слог Хангыль bbyol
+BFB9: Слог Хангыль bbyolg
+BFBA: Слог Хангыль bbyolm
+BFBB: Слог Хангыль bbyolb
+BFBC: Слог Хангыль bbyols
+BFBD: Слог Хангыль bbyolt
+BFBE: Слог Хангыль bbyolp
+BFBF: Слог Хангыль bbyolh
+BFC0: Слог Хангыль bbyom
+BFC1: Слог Хангыль bbyob
+BFC2: Слог Хангыль bbyobs
+BFC3: Слог Хангыль bbyos
+BFC4: Слог Хангыль bbyoss
+BFC5: Слог Хангыль bbyong
+BFC6: Слог Хангыль bbyoj
+BFC7: Слог Хангыль bbyoc
+BFC8: Слог Хангыль bbyok
+BFC9: Слог Хангыль bbyot
+BFCA: Слог Хангыль bbyop
+BFCB: Слог Хангыль bbyoh
+BFCC: Слог Хангыль bbu
+BFCD: Слог Хангыль bbug
+BFCE: Слог Хангыль bbugg
+BFCF: Слог Хангыль bbugs
+BFD0: Слог Хангыль bbun
+BFD1: Слог Хангыль bbunj
+BFD2: Слог Хангыль bbunh
+BFD3: Слог Хангыль bbud
+BFD4: Слог Хангыль bbul
+BFD5: Слог Хангыль bbulg
+BFD6: Слог Хангыль bbulm
+BFD7: Слог Хангыль bbulb
+BFD8: Слог Хангыль bbuls
+BFD9: Слог Хангыль bbult
+BFDA: Слог Хангыль bbulp
+BFDB: Слог Хангыль bbulh
+BFDC: Слог Хангыль bbum
+BFDD: Слог Хангыль bbub
+BFDE: Слог Хангыль bbubs
+BFDF: Слог Хангыль bbus
+BFE0: Слог Хангыль bbuss
+BFE1: Слог Хангыль bbung
+BFE2: Слог Хангыль bbuj
+BFE3: Слог Хангыль bbuc
+BFE4: Слог Хангыль bbuk
+BFE5: Слог Хангыль bbut
+BFE6: Слог Хангыль bbup
+BFE7: Слог Хангыль bbuh
+BFE8: Слог Хангыль bbweo
+BFE9: Слог Хангыль bbweog
+BFEA: Слог Хангыль bbweogg
+BFEB: Слог Хангыль bbweogs
+BFEC: Слог Хангыль bbweon
+BFED: Слог Хангыль bbweonj
+BFEE: Слог Хангыль bbweonh
+BFEF: Слог Хангыль bbweod
+BFF0: Слог Хангыль bbweol
+BFF1: Слог Хангыль bbweolg
+BFF2: Слог Хангыль bbweolm
+BFF3: Слог Хангыль bbweolb
+BFF4: Слог Хангыль bbweols
+BFF5: Слог Хангыль bbweolt
+BFF6: Слог Хангыль bbweolp
+BFF7: Слог Хангыль bbweolh
+BFF8: Слог Хангыль bbweom
+BFF9: Слог Хангыль bbweob
+BFFA: Слог Хангыль bbweobs
+BFFB: Слог Хангыль bbweos
+BFFC: Слог Хангыль bbweoss
+BFFD: Слог Хангыль bbweong
+BFFE: Слог Хангыль bbweoj
+BFFF: Слог Хангыль bbweoc

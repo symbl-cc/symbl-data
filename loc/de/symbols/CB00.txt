@@ -1,256 +1,256 @@
-CB00 : Hangul syllable jjwaels
-CB01 : Hangul syllable jjwaelt
-CB02 : Hangul syllable jjwaelp
-CB03 : Hangul syllable jjwaelh
-CB04 : Hangul syllable jjwaem
-CB05 : Hangul syllable jjwaeb
-CB06 : Hangul syllable jjwaebs
-CB07 : Hangul syllable jjwaes
-CB08 : Hangul syllable jjwaess
-CB09 : Hangul syllable jjwaeng
-CB0A : Hangul syllable jjwaej
-CB0B : Hangul syllable jjwaec
-CB0C : Hangul syllable jjwaek
-CB0D : Hangul syllable jjwaet
-CB0E : Hangul syllable jjwaep
-CB0F : Hangul syllable jjwaeh
-CB10 : Hangul syllable jjoe
-CB11 : Hangul syllable jjoeg
-CB12 : Hangul syllable jjoegg
-CB13 : Hangul syllable jjoegs
-CB14 : Hangul syllable jjoen
-CB15 : Hangul syllable jjoenj
-CB16 : Hangul syllable jjoenh
-CB17 : Hangul syllable jjoed
-CB18 : Hangul syllable jjoel
-CB19 : Hangul syllable jjoelg
-CB1A : Hangul syllable jjoelm
-CB1B : Hangul syllable jjoelb
-CB1C : Hangul syllable jjoels
-CB1D : Hangul syllable jjoelt
-CB1E : Hangul syllable jjoelp
-CB1F : Hangul syllable jjoelh
-CB20 : Hangul syllable jjoem
-CB21 : Hangul syllable jjoeb
-CB22 : Hangul syllable jjoebs
-CB23 : Hangul syllable jjoes
-CB24 : Hangul syllable jjoess
-CB25 : Hangul syllable jjoeng
-CB26 : Hangul syllable jjoej
-CB27 : Hangul syllable jjoec
-CB28 : Hangul syllable jjoek
-CB29 : Hangul syllable jjoet
-CB2A : Hangul syllable jjoep
-CB2B : Hangul syllable jjoeh
-CB2C : Hangul syllable jjyo
-CB2D : Hangul syllable jjyog
-CB2E : Hangul syllable jjyogg
-CB2F : Hangul syllable jjyogs
-CB30 : Hangul syllable jjyon
-CB31 : Hangul syllable jjyonj
-CB32 : Hangul syllable jjyonh
-CB33 : Hangul syllable jjyod
-CB34 : Hangul syllable jjyol
-CB35 : Hangul syllable jjyolg
-CB36 : Hangul syllable jjyolm
-CB37 : Hangul syllable jjyolb
-CB38 : Hangul syllable jjyols
-CB39 : Hangul syllable jjyolt
-CB3A : Hangul syllable jjyolp
-CB3B : Hangul syllable jjyolh
-CB3C : Hangul syllable jjyom
-CB3D : Hangul syllable jjyob
-CB3E : Hangul syllable jjyobs
-CB3F : Hangul syllable jjyos
-CB40 : Hangul syllable jjyoss
-CB41 : Hangul syllable jjyong
-CB42 : Hangul syllable jjyoj
-CB43 : Hangul syllable jjyoc
-CB44 : Hangul syllable jjyok
-CB45 : Hangul syllable jjyot
-CB46 : Hangul syllable jjyop
-CB47 : Hangul syllable jjyoh
-CB48 : Hangul syllable jju
-CB49 : Hangul syllable jjug
-CB4A : Hangul syllable jjugg
-CB4B : Hangul syllable jjugs
-CB4C : Hangul syllable jjun
-CB4D : Hangul syllable jjunj
-CB4E : Hangul syllable jjunh
-CB4F : Hangul syllable jjud
-CB50 : Hangul syllable jjul
-CB51 : Hangul syllable jjulg
-CB52 : Hangul syllable jjulm
-CB53 : Hangul syllable jjulb
-CB54 : Hangul syllable jjuls
-CB55 : Hangul syllable jjult
-CB56 : Hangul syllable jjulp
-CB57 : Hangul syllable jjulh
-CB58 : Hangul syllable jjum
-CB59 : Hangul syllable jjub
-CB5A : Hangul syllable jjubs
-CB5B : Hangul syllable jjus
-CB5C : Hangul syllable jjuss
-CB5D : Hangul syllable jjung
-CB5E : Hangul syllable jjuj
-CB5F : Hangul syllable jjuc
-CB60 : Hangul syllable jjuk
-CB61 : Hangul syllable jjut
-CB62 : Hangul syllable jjup
-CB63 : Hangul syllable jjuh
-CB64 : Hangul syllable jjweo
-CB65 : Hangul syllable jjweog
-CB66 : Hangul syllable jjweogg
-CB67 : Hangul syllable jjweogs
-CB68 : Hangul syllable jjweon
-CB69 : Hangul syllable jjweonj
-CB6A : Hangul syllable jjweonh
-CB6B : Hangul syllable jjweod
-CB6C : Hangul syllable jjweol
-CB6D : Hangul syllable jjweolg
-CB6E : Hangul syllable jjweolm
-CB6F : Hangul syllable jjweolb
-CB70 : Hangul syllable jjweols
-CB71 : Hangul syllable jjweolt
-CB72 : Hangul syllable jjweolp
-CB73 : Hangul syllable jjweolh
-CB74 : Hangul syllable jjweom
-CB75 : Hangul syllable jjweob
-CB76 : Hangul syllable jjweobs
-CB77 : Hangul syllable jjweos
-CB78 : Hangul syllable jjweoss
-CB79 : Hangul syllable jjweong
-CB7A : Hangul syllable jjweoj
-CB7B : Hangul syllable jjweoc
-CB7C : Hangul syllable jjweok
-CB7D : Hangul syllable jjweot
-CB7E : Hangul syllable jjweop
-CB7F : Hangul syllable jjweoh
-CB80 : Hangul syllable jjwe
-CB81 : Hangul syllable jjweg
-CB82 : Hangul syllable jjwegg
-CB83 : Hangul syllable jjwegs
-CB84 : Hangul syllable jjwen
-CB85 : Hangul syllable jjwenj
-CB86 : Hangul syllable jjwenh
-CB87 : Hangul syllable jjwed
-CB88 : Hangul syllable jjwel
-CB89 : Hangul syllable jjwelg
-CB8A : Hangul syllable jjwelm
-CB8B : Hangul syllable jjwelb
-CB8C : Hangul syllable jjwels
-CB8D : Hangul syllable jjwelt
-CB8E : Hangul syllable jjwelp
-CB8F : Hangul syllable jjwelh
-CB90 : Hangul syllable jjwem
-CB91 : Hangul syllable jjweb
-CB92 : Hangul syllable jjwebs
-CB93 : Hangul syllable jjwes
-CB94 : Hangul syllable jjwess
-CB95 : Hangul syllable jjweng
-CB96 : Hangul syllable jjwej
-CB97 : Hangul syllable jjwec
-CB98 : Hangul syllable jjwek
-CB99 : Hangul syllable jjwet
-CB9A : Hangul syllable jjwep
-CB9B : Hangul syllable jjweh
-CB9C : Hangul syllable jjwi
-CB9D : Hangul syllable jjwig
-CB9E : Hangul syllable jjwigg
-CB9F : Hangul syllable jjwigs
-CBA0 : Hangul syllable jjwin
-CBA1 : Hangul syllable jjwinj
-CBA2 : Hangul syllable jjwinh
-CBA3 : Hangul syllable jjwid
-CBA4 : Hangul syllable jjwil
-CBA5 : Hangul syllable jjwilg
-CBA6 : Hangul syllable jjwilm
-CBA7 : Hangul syllable jjwilb
-CBA8 : Hangul syllable jjwils
-CBA9 : Hangul syllable jjwilt
-CBAA : Hangul syllable jjwilp
-CBAB : Hangul syllable jjwilh
-CBAC : Hangul syllable jjwim
-CBAD : Hangul syllable jjwib
-CBAE : Hangul syllable jjwibs
-CBAF : Hangul syllable jjwis
-CBB0 : Hangul syllable jjwiss
-CBB1 : Hangul syllable jjwing
-CBB2 : Hangul syllable jjwij
-CBB3 : Hangul syllable jjwic
-CBB4 : Hangul syllable jjwik
-CBB5 : Hangul syllable jjwit
-CBB6 : Hangul syllable jjwip
-CBB7 : Hangul syllable jjwih
-CBB8 : Hangul syllable jjyu
-CBB9 : Hangul syllable jjyug
-CBBA : Hangul syllable jjyugg
-CBBB : Hangul syllable jjyugs
-CBBC : Hangul syllable jjyun
-CBBD : Hangul syllable jjyunj
-CBBE : Hangul syllable jjyunh
-CBBF : Hangul syllable jjyud
-CBC0 : Hangul syllable jjyul
-CBC1 : Hangul syllable jjyulg
-CBC2 : Hangul syllable jjyulm
-CBC3 : Hangul syllable jjyulb
-CBC4 : Hangul syllable jjyuls
-CBC5 : Hangul syllable jjyult
-CBC6 : Hangul syllable jjyulp
-CBC7 : Hangul syllable jjyulh
-CBC8 : Hangul syllable jjyum
-CBC9 : Hangul syllable jjyub
-CBCA : Hangul syllable jjyubs
-CBCB : Hangul syllable jjyus
-CBCC : Hangul syllable jjyuss
-CBCD : Hangul syllable jjyung
-CBCE : Hangul syllable jjyuj
-CBCF : Hangul syllable jjyuc
-CBD0 : Hangul syllable jjyuk
-CBD1 : Hangul syllable jjyut
-CBD2 : Hangul syllable jjyup
-CBD3 : Hangul syllable jjyuh
-CBD4 : Hangul syllable jjeu
-CBD5 : Hangul syllable jjeug
-CBD6 : Hangul syllable jjeugg
-CBD7 : Hangul syllable jjeugs
-CBD8 : Hangul syllable jjeun
-CBD9 : Hangul syllable jjeunj
-CBDA : Hangul syllable jjeunh
-CBDB : Hangul syllable jjeud
-CBDC : Hangul syllable jjeul
-CBDD : Hangul syllable jjeulg
-CBDE : Hangul syllable jjeulm
-CBDF : Hangul syllable jjeulb
-CBE0 : Hangul syllable jjeuls
-CBE1 : Hangul syllable jjeult
-CBE2 : Hangul syllable jjeulp
-CBE3 : Hangul syllable jjeulh
-CBE4 : Hangul syllable jjeum
-CBE5 : Hangul syllable jjeub
-CBE6 : Hangul syllable jjeubs
-CBE7 : Hangul syllable jjeus
-CBE8 : Hangul syllable jjeuss
-CBE9 : Hangul syllable jjeung
-CBEA : Hangul syllable jjeuj
-CBEB : Hangul syllable jjeuc
-CBEC : Hangul syllable jjeuk
-CBED : Hangul syllable jjeut
-CBEE : Hangul syllable jjeup
-CBEF : Hangul syllable jjeuh
-CBF0 : Hangul syllable jjyi
-CBF1 : Hangul syllable jjyig
-CBF2 : Hangul syllable jjyigg
-CBF3 : Hangul syllable jjyigs
-CBF4 : Hangul syllable jjyin
-CBF5 : Hangul syllable jjyinj
-CBF6 : Hangul syllable jjyinh
-CBF7 : Hangul syllable jjyid
-CBF8 : Hangul syllable jjyil
-CBF9 : Hangul syllable jjyilg
-CBFA : Hangul syllable jjyilm
-CBFB : Hangul syllable jjyilb
-CBFC : Hangul syllable jjyils
-CBFD : Hangul syllable jjyilt
-CBFE : Hangul syllable jjyilp
-CBFF : Hangul syllable jjyilh
+CB00: Hangul syllable jjwaels
+CB01: Hangul syllable jjwaelt
+CB02: Hangul syllable jjwaelp
+CB03: Hangul syllable jjwaelh
+CB04: Hangul syllable jjwaem
+CB05: Hangul syllable jjwaeb
+CB06: Hangul syllable jjwaebs
+CB07: Hangul syllable jjwaes
+CB08: Hangul syllable jjwaess
+CB09: Hangul syllable jjwaeng
+CB0A: Hangul syllable jjwaej
+CB0B: Hangul syllable jjwaec
+CB0C: Hangul syllable jjwaek
+CB0D: Hangul syllable jjwaet
+CB0E: Hangul syllable jjwaep
+CB0F: Hangul syllable jjwaeh
+CB10: Hangul syllable jjoe
+CB11: Hangul syllable jjoeg
+CB12: Hangul syllable jjoegg
+CB13: Hangul syllable jjoegs
+CB14: Hangul syllable jjoen
+CB15: Hangul syllable jjoenj
+CB16: Hangul syllable jjoenh
+CB17: Hangul syllable jjoed
+CB18: Hangul syllable jjoel
+CB19: Hangul syllable jjoelg
+CB1A: Hangul syllable jjoelm
+CB1B: Hangul syllable jjoelb
+CB1C: Hangul syllable jjoels
+CB1D: Hangul syllable jjoelt
+CB1E: Hangul syllable jjoelp
+CB1F: Hangul syllable jjoelh
+CB20: Hangul syllable jjoem
+CB21: Hangul syllable jjoeb
+CB22: Hangul syllable jjoebs
+CB23: Hangul syllable jjoes
+CB24: Hangul syllable jjoess
+CB25: Hangul syllable jjoeng
+CB26: Hangul syllable jjoej
+CB27: Hangul syllable jjoec
+CB28: Hangul syllable jjoek
+CB29: Hangul syllable jjoet
+CB2A: Hangul syllable jjoep
+CB2B: Hangul syllable jjoeh
+CB2C: Hangul syllable jjyo
+CB2D: Hangul syllable jjyog
+CB2E: Hangul syllable jjyogg
+CB2F: Hangul syllable jjyogs
+CB30: Hangul syllable jjyon
+CB31: Hangul syllable jjyonj
+CB32: Hangul syllable jjyonh
+CB33: Hangul syllable jjyod
+CB34: Hangul syllable jjyol
+CB35: Hangul syllable jjyolg
+CB36: Hangul syllable jjyolm
+CB37: Hangul syllable jjyolb
+CB38: Hangul syllable jjyols
+CB39: Hangul syllable jjyolt
+CB3A: Hangul syllable jjyolp
+CB3B: Hangul syllable jjyolh
+CB3C: Hangul syllable jjyom
+CB3D: Hangul syllable jjyob
+CB3E: Hangul syllable jjyobs
+CB3F: Hangul syllable jjyos
+CB40: Hangul syllable jjyoss
+CB41: Hangul syllable jjyong
+CB42: Hangul syllable jjyoj
+CB43: Hangul syllable jjyoc
+CB44: Hangul syllable jjyok
+CB45: Hangul syllable jjyot
+CB46: Hangul syllable jjyop
+CB47: Hangul syllable jjyoh
+CB48: Hangul syllable jju
+CB49: Hangul syllable jjug
+CB4A: Hangul syllable jjugg
+CB4B: Hangul syllable jjugs
+CB4C: Hangul syllable jjun
+CB4D: Hangul syllable jjunj
+CB4E: Hangul syllable jjunh
+CB4F: Hangul syllable jjud
+CB50: Hangul syllable jjul
+CB51: Hangul syllable jjulg
+CB52: Hangul syllable jjulm
+CB53: Hangul syllable jjulb
+CB54: Hangul syllable jjuls
+CB55: Hangul syllable jjult
+CB56: Hangul syllable jjulp
+CB57: Hangul syllable jjulh
+CB58: Hangul syllable jjum
+CB59: Hangul syllable jjub
+CB5A: Hangul syllable jjubs
+CB5B: Hangul syllable jjus
+CB5C: Hangul syllable jjuss
+CB5D: Hangul syllable jjung
+CB5E: Hangul syllable jjuj
+CB5F: Hangul syllable jjuc
+CB60: Hangul syllable jjuk
+CB61: Hangul syllable jjut
+CB62: Hangul syllable jjup
+CB63: Hangul syllable jjuh
+CB64: Hangul syllable jjweo
+CB65: Hangul syllable jjweog
+CB66: Hangul syllable jjweogg
+CB67: Hangul syllable jjweogs
+CB68: Hangul syllable jjweon
+CB69: Hangul syllable jjweonj
+CB6A: Hangul syllable jjweonh
+CB6B: Hangul syllable jjweod
+CB6C: Hangul syllable jjweol
+CB6D: Hangul syllable jjweolg
+CB6E: Hangul syllable jjweolm
+CB6F: Hangul syllable jjweolb
+CB70: Hangul syllable jjweols
+CB71: Hangul syllable jjweolt
+CB72: Hangul syllable jjweolp
+CB73: Hangul syllable jjweolh
+CB74: Hangul syllable jjweom
+CB75: Hangul syllable jjweob
+CB76: Hangul syllable jjweobs
+CB77: Hangul syllable jjweos
+CB78: Hangul syllable jjweoss
+CB79: Hangul syllable jjweong
+CB7A: Hangul syllable jjweoj
+CB7B: Hangul syllable jjweoc
+CB7C: Hangul syllable jjweok
+CB7D: Hangul syllable jjweot
+CB7E: Hangul syllable jjweop
+CB7F: Hangul syllable jjweoh
+CB80: Hangul syllable jjwe
+CB81: Hangul syllable jjweg
+CB82: Hangul syllable jjwegg
+CB83: Hangul syllable jjwegs
+CB84: Hangul syllable jjwen
+CB85: Hangul syllable jjwenj
+CB86: Hangul syllable jjwenh
+CB87: Hangul syllable jjwed
+CB88: Hangul syllable jjwel
+CB89: Hangul syllable jjwelg
+CB8A: Hangul syllable jjwelm
+CB8B: Hangul syllable jjwelb
+CB8C: Hangul syllable jjwels
+CB8D: Hangul syllable jjwelt
+CB8E: Hangul syllable jjwelp
+CB8F: Hangul syllable jjwelh
+CB90: Hangul syllable jjwem
+CB91: Hangul syllable jjweb
+CB92: Hangul syllable jjwebs
+CB93: Hangul syllable jjwes
+CB94: Hangul syllable jjwess
+CB95: Hangul syllable jjweng
+CB96: Hangul syllable jjwej
+CB97: Hangul syllable jjwec
+CB98: Hangul syllable jjwek
+CB99: Hangul syllable jjwet
+CB9A: Hangul syllable jjwep
+CB9B: Hangul syllable jjweh
+CB9C: Hangul syllable jjwi
+CB9D: Hangul syllable jjwig
+CB9E: Hangul syllable jjwigg
+CB9F: Hangul syllable jjwigs
+CBA0: Hangul syllable jjwin
+CBA1: Hangul syllable jjwinj
+CBA2: Hangul syllable jjwinh
+CBA3: Hangul syllable jjwid
+CBA4: Hangul syllable jjwil
+CBA5: Hangul syllable jjwilg
+CBA6: Hangul syllable jjwilm
+CBA7: Hangul syllable jjwilb
+CBA8: Hangul syllable jjwils
+CBA9: Hangul syllable jjwilt
+CBAA: Hangul syllable jjwilp
+CBAB: Hangul syllable jjwilh
+CBAC: Hangul syllable jjwim
+CBAD: Hangul syllable jjwib
+CBAE: Hangul syllable jjwibs
+CBAF: Hangul syllable jjwis
+CBB0: Hangul syllable jjwiss
+CBB1: Hangul syllable jjwing
+CBB2: Hangul syllable jjwij
+CBB3: Hangul syllable jjwic
+CBB4: Hangul syllable jjwik
+CBB5: Hangul syllable jjwit
+CBB6: Hangul syllable jjwip
+CBB7: Hangul syllable jjwih
+CBB8: Hangul syllable jjyu
+CBB9: Hangul syllable jjyug
+CBBA: Hangul syllable jjyugg
+CBBB: Hangul syllable jjyugs
+CBBC: Hangul syllable jjyun
+CBBD: Hangul syllable jjyunj
+CBBE: Hangul syllable jjyunh
+CBBF: Hangul syllable jjyud
+CBC0: Hangul syllable jjyul
+CBC1: Hangul syllable jjyulg
+CBC2: Hangul syllable jjyulm
+CBC3: Hangul syllable jjyulb
+CBC4: Hangul syllable jjyuls
+CBC5: Hangul syllable jjyult
+CBC6: Hangul syllable jjyulp
+CBC7: Hangul syllable jjyulh
+CBC8: Hangul syllable jjyum
+CBC9: Hangul syllable jjyub
+CBCA: Hangul syllable jjyubs
+CBCB: Hangul syllable jjyus
+CBCC: Hangul syllable jjyuss
+CBCD: Hangul syllable jjyung
+CBCE: Hangul syllable jjyuj
+CBCF: Hangul syllable jjyuc
+CBD0: Hangul syllable jjyuk
+CBD1: Hangul syllable jjyut
+CBD2: Hangul syllable jjyup
+CBD3: Hangul syllable jjyuh
+CBD4: Hangul syllable jjeu
+CBD5: Hangul syllable jjeug
+CBD6: Hangul syllable jjeugg
+CBD7: Hangul syllable jjeugs
+CBD8: Hangul syllable jjeun
+CBD9: Hangul syllable jjeunj
+CBDA: Hangul syllable jjeunh
+CBDB: Hangul syllable jjeud
+CBDC: Hangul syllable jjeul
+CBDD: Hangul syllable jjeulg
+CBDE: Hangul syllable jjeulm
+CBDF: Hangul syllable jjeulb
+CBE0: Hangul syllable jjeuls
+CBE1: Hangul syllable jjeult
+CBE2: Hangul syllable jjeulp
+CBE3: Hangul syllable jjeulh
+CBE4: Hangul syllable jjeum
+CBE5: Hangul syllable jjeub
+CBE6: Hangul syllable jjeubs
+CBE7: Hangul syllable jjeus
+CBE8: Hangul syllable jjeuss
+CBE9: Hangul syllable jjeung
+CBEA: Hangul syllable jjeuj
+CBEB: Hangul syllable jjeuc
+CBEC: Hangul syllable jjeuk
+CBED: Hangul syllable jjeut
+CBEE: Hangul syllable jjeup
+CBEF: Hangul syllable jjeuh
+CBF0: Hangul syllable jjyi
+CBF1: Hangul syllable jjyig
+CBF2: Hangul syllable jjyigg
+CBF3: Hangul syllable jjyigs
+CBF4: Hangul syllable jjyin
+CBF5: Hangul syllable jjyinj
+CBF6: Hangul syllable jjyinh
+CBF7: Hangul syllable jjyid
+CBF8: Hangul syllable jjyil
+CBF9: Hangul syllable jjyilg
+CBFA: Hangul syllable jjyilm
+CBFB: Hangul syllable jjyilb
+CBFC: Hangul syllable jjyils
+CBFD: Hangul syllable jjyilt
+CBFE: Hangul syllable jjyilp
+CBFF: Hangul syllable jjyilh

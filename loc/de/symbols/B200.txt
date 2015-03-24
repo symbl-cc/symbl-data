@@ -1,256 +1,256 @@
-B200 : Hangul syllable nyok
-B201 : Hangul syllable nyot
-B202 : Hangul syllable nyop
-B203 : Hangul syllable nyoh
-B204 : Hangul syllable nu
-B205 : Hangul syllable nug
-B206 : Hangul syllable nugg
-B207 : Hangul syllable nugs
-B208 : Hangul syllable nun
-B209 : Hangul syllable nunj
-B20A : Hangul syllable nunh
-B20B : Hangul syllable nud
-B20C : Hangul syllable nul
-B20D : Hangul syllable nulg
-B20E : Hangul syllable nulm
-B20F : Hangul syllable nulb
-B210 : Hangul syllable nuls
-B211 : Hangul syllable nult
-B212 : Hangul syllable nulp
-B213 : Hangul syllable nulh
-B214 : Hangul syllable num
-B215 : Hangul syllable nub
-B216 : Hangul syllable nubs
-B217 : Hangul syllable nus
-B218 : Hangul syllable nuss
-B219 : Hangul syllable nung
-B21A : Hangul syllable nuj
-B21B : Hangul syllable nuc
-B21C : Hangul syllable nuk
-B21D : Hangul syllable nut
-B21E : Hangul syllable nup
-B21F : Hangul syllable nuh
-B220 : Hangul syllable nweo
-B221 : Hangul syllable nweog
-B222 : Hangul syllable nweogg
-B223 : Hangul syllable nweogs
-B224 : Hangul syllable nweon
-B225 : Hangul syllable nweonj
-B226 : Hangul syllable nweonh
-B227 : Hangul syllable nweod
-B228 : Hangul syllable nweol
-B229 : Hangul syllable nweolg
-B22A : Hangul syllable nweolm
-B22B : Hangul syllable nweolb
-B22C : Hangul syllable nweols
-B22D : Hangul syllable nweolt
-B22E : Hangul syllable nweolp
-B22F : Hangul syllable nweolh
-B230 : Hangul syllable nweom
-B231 : Hangul syllable nweob
-B232 : Hangul syllable nweobs
-B233 : Hangul syllable nweos
-B234 : Hangul syllable nweoss
-B235 : Hangul syllable nweong
-B236 : Hangul syllable nweoj
-B237 : Hangul syllable nweoc
-B238 : Hangul syllable nweok
-B239 : Hangul syllable nweot
-B23A : Hangul syllable nweop
-B23B : Hangul syllable nweoh
-B23C : Hangul syllable nwe
-B23D : Hangul syllable nweg
-B23E : Hangul syllable nwegg
-B23F : Hangul syllable nwegs
-B240 : Hangul syllable nwen
-B241 : Hangul syllable nwenj
-B242 : Hangul syllable nwenh
-B243 : Hangul syllable nwed
-B244 : Hangul syllable nwel
-B245 : Hangul syllable nwelg
-B246 : Hangul syllable nwelm
-B247 : Hangul syllable nwelb
-B248 : Hangul syllable nwels
-B249 : Hangul syllable nwelt
-B24A : Hangul syllable nwelp
-B24B : Hangul syllable nwelh
-B24C : Hangul syllable nwem
-B24D : Hangul syllable nweb
-B24E : Hangul syllable nwebs
-B24F : Hangul syllable nwes
-B250 : Hangul syllable nwess
-B251 : Hangul syllable nweng
-B252 : Hangul syllable nwej
-B253 : Hangul syllable nwec
-B254 : Hangul syllable nwek
-B255 : Hangul syllable nwet
-B256 : Hangul syllable nwep
-B257 : Hangul syllable nweh
-B258 : Hangul syllable nwi
-B259 : Hangul syllable nwig
-B25A : Hangul syllable nwigg
-B25B : Hangul syllable nwigs
-B25C : Hangul syllable nwin
-B25D : Hangul syllable nwinj
-B25E : Hangul syllable nwinh
-B25F : Hangul syllable nwid
-B260 : Hangul syllable nwil
-B261 : Hangul syllable nwilg
-B262 : Hangul syllable nwilm
-B263 : Hangul syllable nwilb
-B264 : Hangul syllable nwils
-B265 : Hangul syllable nwilt
-B266 : Hangul syllable nwilp
-B267 : Hangul syllable nwilh
-B268 : Hangul syllable nwim
-B269 : Hangul syllable nwib
-B26A : Hangul syllable nwibs
-B26B : Hangul syllable nwis
-B26C : Hangul syllable nwiss
-B26D : Hangul syllable nwing
-B26E : Hangul syllable nwij
-B26F : Hangul syllable nwic
-B270 : Hangul syllable nwik
-B271 : Hangul syllable nwit
-B272 : Hangul syllable nwip
-B273 : Hangul syllable nwih
-B274 : Hangul syllable nyu
-B275 : Hangul syllable nyug
-B276 : Hangul syllable nyugg
-B277 : Hangul syllable nyugs
-B278 : Hangul syllable nyun
-B279 : Hangul syllable nyunj
-B27A : Hangul syllable nyunh
-B27B : Hangul syllable nyud
-B27C : Hangul syllable nyul
-B27D : Hangul syllable nyulg
-B27E : Hangul syllable nyulm
-B27F : Hangul syllable nyulb
-B280 : Hangul syllable nyuls
-B281 : Hangul syllable nyult
-B282 : Hangul syllable nyulp
-B283 : Hangul syllable nyulh
-B284 : Hangul syllable nyum
-B285 : Hangul syllable nyub
-B286 : Hangul syllable nyubs
-B287 : Hangul syllable nyus
-B288 : Hangul syllable nyuss
-B289 : Hangul syllable nyung
-B28A : Hangul syllable nyuj
-B28B : Hangul syllable nyuc
-B28C : Hangul syllable nyuk
-B28D : Hangul syllable nyut
-B28E : Hangul syllable nyup
-B28F : Hangul syllable nyuh
-B290 : Hangul syllable neu
-B291 : Hangul syllable neug
-B292 : Hangul syllable neugg
-B293 : Hangul syllable neugs
-B294 : Hangul syllable neun
-B295 : Hangul syllable neunj
-B296 : Hangul syllable neunh
-B297 : Hangul syllable neud
-B298 : Hangul syllable neul
-B299 : Hangul syllable neulg
-B29A : Hangul syllable neulm
-B29B : Hangul syllable neulb
-B29C : Hangul syllable neuls
-B29D : Hangul syllable neult
-B29E : Hangul syllable neulp
-B29F : Hangul syllable neulh
-B2A0 : Hangul syllable neum
-B2A1 : Hangul syllable neub
-B2A2 : Hangul syllable neubs
-B2A3 : Hangul syllable neus
-B2A4 : Hangul syllable neuss
-B2A5 : Hangul syllable neung
-B2A6 : Hangul syllable neuj
-B2A7 : Hangul syllable neuc
-B2A8 : Hangul syllable neuk
-B2A9 : Hangul syllable neut
-B2AA : Hangul syllable neup
-B2AB : Hangul syllable neuh
-B2AC : Hangul syllable nyi
-B2AD : Hangul syllable nyig
-B2AE : Hangul syllable nyigg
-B2AF : Hangul syllable nyigs
-B2B0 : Hangul syllable nyin
-B2B1 : Hangul syllable nyinj
-B2B2 : Hangul syllable nyinh
-B2B3 : Hangul syllable nyid
-B2B4 : Hangul syllable nyil
-B2B5 : Hangul syllable nyilg
-B2B6 : Hangul syllable nyilm
-B2B7 : Hangul syllable nyilb
-B2B8 : Hangul syllable nyils
-B2B9 : Hangul syllable nyilt
-B2BA : Hangul syllable nyilp
-B2BB : Hangul syllable nyilh
-B2BC : Hangul syllable nyim
-B2BD : Hangul syllable nyib
-B2BE : Hangul syllable nyibs
-B2BF : Hangul syllable nyis
-B2C0 : Hangul syllable nyiss
-B2C1 : Hangul syllable nying
-B2C2 : Hangul syllable nyij
-B2C3 : Hangul syllable nyic
-B2C4 : Hangul syllable nyik
-B2C5 : Hangul syllable nyit
-B2C6 : Hangul syllable nyip
-B2C7 : Hangul syllable nyih
-B2C8 : Hangul syllable ni
-B2C9 : Hangul syllable nig
-B2CA : Hangul syllable nigg
-B2CB : Hangul syllable nigs
-B2CC : Hangul syllable nin
-B2CD : Hangul syllable ninj
-B2CE : Hangul syllable ninh
-B2CF : Hangul syllable nid
-B2D0 : Hangul syllable nil
-B2D1 : Hangul syllable nilg
-B2D2 : Hangul syllable nilm
-B2D3 : Hangul syllable nilb
-B2D4 : Hangul syllable nils
-B2D5 : Hangul syllable nilt
-B2D6 : Hangul syllable nilp
-B2D7 : Hangul syllable nilh
-B2D8 : Hangul syllable nim
-B2D9 : Hangul syllable nib
-B2DA : Hangul syllable nibs
-B2DB : Hangul syllable nis
-B2DC : Hangul syllable niss
-B2DD : Hangul syllable ning
-B2DE : Hangul syllable nij
-B2DF : Hangul syllable nic
-B2E0 : Hangul syllable nik
-B2E1 : Hangul syllable nit
-B2E2 : Hangul syllable nip
-B2E3 : Hangul syllable nih
-B2E4 : Hangul syllable da
-B2E5 : Hangul syllable dag
-B2E6 : Hangul syllable dagg
-B2E7 : Hangul syllable dags
-B2E8 : Hangul syllable dan
-B2E9 : Hangul syllable danj
-B2EA : Hangul syllable danh
-B2EB : Hangul syllable dad
-B2EC : Hangul syllable dal
-B2ED : Hangul syllable dalg
-B2EE : Hangul syllable dalm
-B2EF : Hangul syllable dalb
-B2F0 : Hangul syllable dals
-B2F1 : Hangul syllable dalt
-B2F2 : Hangul syllable dalp
-B2F3 : Hangul syllable dalh
-B2F4 : Hangul syllable dam
-B2F5 : Hangul syllable dab
-B2F6 : Hangul syllable dabs
-B2F7 : Hangul syllable das
-B2F8 : Hangul syllable dass
-B2F9 : Hangul syllable dang
-B2FA : Hangul syllable daj
-B2FB : Hangul syllable dac
-B2FC : Hangul syllable dak
-B2FD : Hangul syllable dat
-B2FE : Hangul syllable dap
-B2FF : Hangul syllable dah
+B200: Hangul syllable nyok
+B201: Hangul syllable nyot
+B202: Hangul syllable nyop
+B203: Hangul syllable nyoh
+B204: Hangul syllable nu
+B205: Hangul syllable nug
+B206: Hangul syllable nugg
+B207: Hangul syllable nugs
+B208: Hangul syllable nun
+B209: Hangul syllable nunj
+B20A: Hangul syllable nunh
+B20B: Hangul syllable nud
+B20C: Hangul syllable nul
+B20D: Hangul syllable nulg
+B20E: Hangul syllable nulm
+B20F: Hangul syllable nulb
+B210: Hangul syllable nuls
+B211: Hangul syllable nult
+B212: Hangul syllable nulp
+B213: Hangul syllable nulh
+B214: Hangul syllable num
+B215: Hangul syllable nub
+B216: Hangul syllable nubs
+B217: Hangul syllable nus
+B218: Hangul syllable nuss
+B219: Hangul syllable nung
+B21A: Hangul syllable nuj
+B21B: Hangul syllable nuc
+B21C: Hangul syllable nuk
+B21D: Hangul syllable nut
+B21E: Hangul syllable nup
+B21F: Hangul syllable nuh
+B220: Hangul syllable nweo
+B221: Hangul syllable nweog
+B222: Hangul syllable nweogg
+B223: Hangul syllable nweogs
+B224: Hangul syllable nweon
+B225: Hangul syllable nweonj
+B226: Hangul syllable nweonh
+B227: Hangul syllable nweod
+B228: Hangul syllable nweol
+B229: Hangul syllable nweolg
+B22A: Hangul syllable nweolm
+B22B: Hangul syllable nweolb
+B22C: Hangul syllable nweols
+B22D: Hangul syllable nweolt
+B22E: Hangul syllable nweolp
+B22F: Hangul syllable nweolh
+B230: Hangul syllable nweom
+B231: Hangul syllable nweob
+B232: Hangul syllable nweobs
+B233: Hangul syllable nweos
+B234: Hangul syllable nweoss
+B235: Hangul syllable nweong
+B236: Hangul syllable nweoj
+B237: Hangul syllable nweoc
+B238: Hangul syllable nweok
+B239: Hangul syllable nweot
+B23A: Hangul syllable nweop
+B23B: Hangul syllable nweoh
+B23C: Hangul syllable nwe
+B23D: Hangul syllable nweg
+B23E: Hangul syllable nwegg
+B23F: Hangul syllable nwegs
+B240: Hangul syllable nwen
+B241: Hangul syllable nwenj
+B242: Hangul syllable nwenh
+B243: Hangul syllable nwed
+B244: Hangul syllable nwel
+B245: Hangul syllable nwelg
+B246: Hangul syllable nwelm
+B247: Hangul syllable nwelb
+B248: Hangul syllable nwels
+B249: Hangul syllable nwelt
+B24A: Hangul syllable nwelp
+B24B: Hangul syllable nwelh
+B24C: Hangul syllable nwem
+B24D: Hangul syllable nweb
+B24E: Hangul syllable nwebs
+B24F: Hangul syllable nwes
+B250: Hangul syllable nwess
+B251: Hangul syllable nweng
+B252: Hangul syllable nwej
+B253: Hangul syllable nwec
+B254: Hangul syllable nwek
+B255: Hangul syllable nwet
+B256: Hangul syllable nwep
+B257: Hangul syllable nweh
+B258: Hangul syllable nwi
+B259: Hangul syllable nwig
+B25A: Hangul syllable nwigg
+B25B: Hangul syllable nwigs
+B25C: Hangul syllable nwin
+B25D: Hangul syllable nwinj
+B25E: Hangul syllable nwinh
+B25F: Hangul syllable nwid
+B260: Hangul syllable nwil
+B261: Hangul syllable nwilg
+B262: Hangul syllable nwilm
+B263: Hangul syllable nwilb
+B264: Hangul syllable nwils
+B265: Hangul syllable nwilt
+B266: Hangul syllable nwilp
+B267: Hangul syllable nwilh
+B268: Hangul syllable nwim
+B269: Hangul syllable nwib
+B26A: Hangul syllable nwibs
+B26B: Hangul syllable nwis
+B26C: Hangul syllable nwiss
+B26D: Hangul syllable nwing
+B26E: Hangul syllable nwij
+B26F: Hangul syllable nwic
+B270: Hangul syllable nwik
+B271: Hangul syllable nwit
+B272: Hangul syllable nwip
+B273: Hangul syllable nwih
+B274: Hangul syllable nyu
+B275: Hangul syllable nyug
+B276: Hangul syllable nyugg
+B277: Hangul syllable nyugs
+B278: Hangul syllable nyun
+B279: Hangul syllable nyunj
+B27A: Hangul syllable nyunh
+B27B: Hangul syllable nyud
+B27C: Hangul syllable nyul
+B27D: Hangul syllable nyulg
+B27E: Hangul syllable nyulm
+B27F: Hangul syllable nyulb
+B280: Hangul syllable nyuls
+B281: Hangul syllable nyult
+B282: Hangul syllable nyulp
+B283: Hangul syllable nyulh
+B284: Hangul syllable nyum
+B285: Hangul syllable nyub
+B286: Hangul syllable nyubs
+B287: Hangul syllable nyus
+B288: Hangul syllable nyuss
+B289: Hangul syllable nyung
+B28A: Hangul syllable nyuj
+B28B: Hangul syllable nyuc
+B28C: Hangul syllable nyuk
+B28D: Hangul syllable nyut
+B28E: Hangul syllable nyup
+B28F: Hangul syllable nyuh
+B290: Hangul syllable neu
+B291: Hangul syllable neug
+B292: Hangul syllable neugg
+B293: Hangul syllable neugs
+B294: Hangul syllable neun
+B295: Hangul syllable neunj
+B296: Hangul syllable neunh
+B297: Hangul syllable neud
+B298: Hangul syllable neul
+B299: Hangul syllable neulg
+B29A: Hangul syllable neulm
+B29B: Hangul syllable neulb
+B29C: Hangul syllable neuls
+B29D: Hangul syllable neult
+B29E: Hangul syllable neulp
+B29F: Hangul syllable neulh
+B2A0: Hangul syllable neum
+B2A1: Hangul syllable neub
+B2A2: Hangul syllable neubs
+B2A3: Hangul syllable neus
+B2A4: Hangul syllable neuss
+B2A5: Hangul syllable neung
+B2A6: Hangul syllable neuj
+B2A7: Hangul syllable neuc
+B2A8: Hangul syllable neuk
+B2A9: Hangul syllable neut
+B2AA: Hangul syllable neup
+B2AB: Hangul syllable neuh
+B2AC: Hangul syllable nyi
+B2AD: Hangul syllable nyig
+B2AE: Hangul syllable nyigg
+B2AF: Hangul syllable nyigs
+B2B0: Hangul syllable nyin
+B2B1: Hangul syllable nyinj
+B2B2: Hangul syllable nyinh
+B2B3: Hangul syllable nyid
+B2B4: Hangul syllable nyil
+B2B5: Hangul syllable nyilg
+B2B6: Hangul syllable nyilm
+B2B7: Hangul syllable nyilb
+B2B8: Hangul syllable nyils
+B2B9: Hangul syllable nyilt
+B2BA: Hangul syllable nyilp
+B2BB: Hangul syllable nyilh
+B2BC: Hangul syllable nyim
+B2BD: Hangul syllable nyib
+B2BE: Hangul syllable nyibs
+B2BF: Hangul syllable nyis
+B2C0: Hangul syllable nyiss
+B2C1: Hangul syllable nying
+B2C2: Hangul syllable nyij
+B2C3: Hangul syllable nyic
+B2C4: Hangul syllable nyik
+B2C5: Hangul syllable nyit
+B2C6: Hangul syllable nyip
+B2C7: Hangul syllable nyih
+B2C8: Hangul syllable ni
+B2C9: Hangul syllable nig
+B2CA: Hangul syllable nigg
+B2CB: Hangul syllable nigs
+B2CC: Hangul syllable nin
+B2CD: Hangul syllable ninj
+B2CE: Hangul syllable ninh
+B2CF: Hangul syllable nid
+B2D0: Hangul syllable nil
+B2D1: Hangul syllable nilg
+B2D2: Hangul syllable nilm
+B2D3: Hangul syllable nilb
+B2D4: Hangul syllable nils
+B2D5: Hangul syllable nilt
+B2D6: Hangul syllable nilp
+B2D7: Hangul syllable nilh
+B2D8: Hangul syllable nim
+B2D9: Hangul syllable nib
+B2DA: Hangul syllable nibs
+B2DB: Hangul syllable nis
+B2DC: Hangul syllable niss
+B2DD: Hangul syllable ning
+B2DE: Hangul syllable nij
+B2DF: Hangul syllable nic
+B2E0: Hangul syllable nik
+B2E1: Hangul syllable nit
+B2E2: Hangul syllable nip
+B2E3: Hangul syllable nih
+B2E4: Hangul syllable da
+B2E5: Hangul syllable dag
+B2E6: Hangul syllable dagg
+B2E7: Hangul syllable dags
+B2E8: Hangul syllable dan
+B2E9: Hangul syllable danj
+B2EA: Hangul syllable danh
+B2EB: Hangul syllable dad
+B2EC: Hangul syllable dal
+B2ED: Hangul syllable dalg
+B2EE: Hangul syllable dalm
+B2EF: Hangul syllable dalb
+B2F0: Hangul syllable dals
+B2F1: Hangul syllable dalt
+B2F2: Hangul syllable dalp
+B2F3: Hangul syllable dalh
+B2F4: Hangul syllable dam
+B2F5: Hangul syllable dab
+B2F6: Hangul syllable dabs
+B2F7: Hangul syllable das
+B2F8: Hangul syllable dass
+B2F9: Hangul syllable dang
+B2FA: Hangul syllable daj
+B2FB: Hangul syllable dac
+B2FC: Hangul syllable dak
+B2FD: Hangul syllable dat
+B2FE: Hangul syllable dap
+B2FF: Hangul syllable dah
