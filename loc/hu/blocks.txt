@@ -1,29 +1,29 @@
-control-character : Control character
-basic-latin     : Basic Latin
-latin-1-supplement : Latin-1 Supplement
-latin-extended-A : Latin Extended-A
-latin-extended-B : Latin Extended-B
-ipa-extensions  : IPA Extensions
-spacing-modifier-letters : Spacing Modifier Letters
-combining-diacritical-marks : Combining Diacritical Marks
-greek-coptic    : Greek and Coptic
-cyrillic        : Cyrillic
-cyrillic-supplement : Cyrillic Supplement
-armenian        : Armenian
-hebrew          : Hebrew
-arabic          : Arabic
-syrian          : Syriac
-arabic-supplement : Arabic Supplement
+control-character : Vezérlőkarakterek
+basic-latin     : Latin (alap)
+latin-1-supplement : Latin-1 kiegészítő karakterek
+latin-extended-A : Bővített Latin (A)
+latin-extended-B : Bővített Latin (B)
+ipa-extensions  : IPA kiterjesztések
+spacing-modifier-letters : Fonetikus jelek
+combining-diacritical-marks : Kombinált diakritikus jelek
+greek-coptic    : Görög és Kopt
+cyrillic        : Cirill
+cyrillic-supplement : Cirill kiegészítő karakterek
+armenian        : Örmény
+hebrew          : Héber
+arabic          : Arab
+syrian          : Szír
+arabic-supplement : Arab kiegészítő karakterek
 thaana          : Thaana
-nko             : NKo
-samaritan       : Samaritan
+nko             : Nko
+samaritan       : Szamaritán
 mandaic         : Mandaic
-arabic-extended-a : Arabic Extended-A
-devanagari      : Devanagari
-bengali         : Bengali
+arabic-extended-a : Kiterjesztett Arab (A)
+devanagari      : Dévanágari
+bengali         : Bengáli
 gurmukhi        : Gurmukhi
-gujarati        : Gujarati
-oriya           : Oriya
+gujarati        : Gudzsarati
+oriya           : Orija
 tamil           : Tamil
 telugu          : Telugu
 kannada         : Kannada
@@ -31,165 +31,165 @@ malayalam       : Malayalam
 sinhala         : Sinhala
 thai            : Thai
 lao             : Lao
-tibetan         : Tibetan
-myanmar         : Myanmar
-georgian        : Georgian
+tibetan         : Tibeti
+myanmar         : Burmai
+georgian        : Grúz
 hangul-jamo     : Hangul Jamo
-ethiopic        : Ethiopic
-ethiopic-supplement : Ethiopic Supplement
-cherokee        : Cherokee
-unified-canadian-aboriginal-syllabics : Unified Canadian Aboriginal Syllabics
+ethiopic        : Etióp
+ethiopic-supplement : Etióp kiegészítő karakterek
+cherokee        : Cseroki
+unified-canadian-aboriginal-syllabics : Egyszerűsített kanadai bennszülött jelek
 ogham           : Ogham
 runic           : Runic
 tagalog         : Tagalog
-hanunoo         : Hanunoo
+hanunoo         : Hanunóo
 buhid           : Buhid
 tagbanwa        : Tagbanwa
 khmer           : Khmer
-mongolian       : Mongolian
-unified-canadian-aboriginal-syllabics-extended : Unified Canadian Aboriginal Syllabics Extended
+mongolian       : Mongol
+unified-canadian-aboriginal-syllabics-extended : Egyszerűsített kanadai bennszülött jelek kiegészítése
 limbu           : Limbu
 tai-le          : Tai Le
-new-tai-lue     : New Tai Lue
-khmer-symbols   : Khmer Symbols
-buginese        : Buginese
+new-tai-lue     : Új Tai Lü
+khmer-symbols   : Khmer szimbólumok
+buginese        : Buginéz
 tai-tham        : Tai Tham
-balinese        : Balinese
-sundanese       : Sundanese
+balinese        : Balinéz
+sundanese       : Szudán
 batak           : Batak
 lepcha          : Lepcha
 ol-chiki        : Ol Chiki
-sundanese-supplement : Sundanese Supplement
-vedic-extensions : Vedic Extensions
-phonetic-extensions : Phonetic Extensions
-phonetic-extensions-supplement : Phonetic Extensions Supplement
-combining-diacritical-marks-supplement : Combining Diacritical Marks Supplement
-latin-extended-additional : Latin Extended Additional
-greek-extended  : Greek Extended
-general-punctuation : General Punctuation
-superscripts-and-subscripts : Superscripts and Subscripts
-currency-symbols : Currency Symbols
-combining-diacritical-marks-for-symbols : Combining Diacritical Marks for Symbols
-letterlike-symbols : Letterlike Symbols
-number-forms    : Number Forms
-arrows          : Arrows
-mathematical-operators : Mathematical Operators
-miscellaneous-technical : Miscellaneous Technical
-control-pictures : Control Pictures
-optical-character-recognition : Optical Character Recognition
+sundanese-supplement : Bővített Szudán
+vedic-extensions : Kiegészített Vedik
+phonetic-extensions : Fonetikus kiegészítések
+phonetic-extensions-supplement : Fonetikus bővítések kiegészítései
+combining-diacritical-marks-supplement : Kombinált diakritikus jelek kiegészítése
+latin-extended-additional : Latin bővítések kiegészítései
+greek-extended  : Bővített Görög
+general-punctuation : Általános elválasztó jelek
+superscripts-and-subscripts : Alsó- és felsőindexek
+currency-symbols : Pénzjelek
+combining-diacritical-marks-for-symbols : Kombinált diakritikus jelek szimbólumokhoz
+letterlike-symbols : Betűszerű szimbólumok
+number-forms    : Szám formátumok
+arrows          : Nyilak
+mathematical-operators : Matematikai műveleti jelek
+miscellaneous-technical : Vegyes technikai jelek
+control-pictures : Irányító képek
+optical-character-recognition : OCR karakterek
 enclosed-alphanumerics : Enclosed Alphanumerics
-box-drawing     : Box Drawing
-block-elements  : Block Elements
-geometric-shapes : Geometric Shapes
-miscellaneous-symbols : Miscellaneous Symbols
+box-drawing     : Rajzdobozok
+block-elements  : Blokk szimbólumok
+geometric-shapes : Geometrikus alakzatok
+miscellaneous-symbols : Vegyes szimbólumok
 dingbats        : Dingbats
-miscellaneous-mathematical-symbols-a : Miscellaneous Mathematical Symbols-A
-suplemental-arrows-a : Supplemental Arrows-A
-braille-patterns : Braille Patterns
-suplemental-arrows-b : Supplemental Arrows-B
-miscellaneous-mathematical-symbols-b : Miscellaneous Mathematical Symbols-B
-supplemental-mathematical-operators : Supplemental Mathematical Operators
-miscellaneous-symbols-and-arrows : Miscellaneous Symbols and Arrows
-glagolitic      : Glagolitic
-latin-extended-c : Latin Extended-C
-coptic          : Coptic
-georgian-supplement : Georgian Supplement
+miscellaneous-mathematical-symbols-a : Vegyes matematikai szimbólumok (A)
+suplemental-arrows-a : Nyilak kiegészítés (A)
+braille-patterns : Braille jelek
+suplemental-arrows-b : Nyilak kiegészítés (B)
+miscellaneous-mathematical-symbols-b : Vegyes matematikai szimbólumok (B)
+supplemental-mathematical-operators : Kiegészítő matematikai műveleti jelek
+miscellaneous-symbols-and-arrows : Vegyes szimbólumok és nyilak
+glagolitic      : Glagolita
+latin-extended-c : Kiegészített Latin (C)
+coptic          : Kopt
+georgian-supplement : Grúz kiegészítések
 tifinagh        : Tifinagh
-ethiopic-extended : Ethiopic Extended
-cyrillic-extended : Cyrillic Extended-A
-supplemental-punctuation : Supplemental Punctuation
-cjk-radicals-supplement : CJK Radicals Supplement
-kangxi-radicals : Kangxi Radicals
-ideographic-description-characters : Ideographic Description Characters
-cjk-symbols-and-punctuation : CJK Symbols and Punctuation
+ethiopic-extended : Bővített Etióp
+cyrillic-extended : Kiegészített Cirill (A)
+supplemental-punctuation : Elválasztó jelek kiegészítései
+cjk-radicals-supplement : CJK gyökök kiegészítés
+kangxi-radicals : Kangxi gyökök
+ideographic-description-characters : Ideografikus leíró karakterek
+cjk-symbols-and-punctuation : CJK szimbólumok és elválasztók
 hiragana        : Hiragana
 katakana        : Katakana
 bopomofo        : Bopomofo
 hangul-compatibility-jamo : Hangul Compatibility Jamo
 kanbun          : Kanbun
-bopomofo-extended : Bopomofo Extended
-cjk-strokes     : CJK Strokes
-katakana-phonetic-extensions : Katakana Phonetic Extensions
+bopomofo-extended : Bővített Bopomofo
+cjk-strokes     : CJK ecsetvonások
+katakana-phonetic-extensions : Katakana fonetikus bővítések
 enclosed-cjk-letters-and-months : Enclosed CJK Letters and Months
-cjk-compatibility : CJK Compatibility
-cjk-unified-ideographs-extension-a : CJK Unified Ideographs Extension A
-yijing-hexagram-symbols : Yijing Hexagram Symbols
-cjk-unified-ideographs : CJK Unified Ideographs
-yi-syllables    : Yi Syllables
-yi-radicals     : Yi Radicals
+cjk-compatibility : CJK-kompatibilis
+cjk-unified-ideographs-extension-a : CJK egyszerűsített szókép bővítés (A)
+yijing-hexagram-symbols : Yijing hexagram szimbólumok
+cjk-unified-ideographs : CJK egyszerűsített szóképek
+yi-syllables    : Ji jelek
+yi-radicals     : Ji gyökök
 old-lisu-alphabet : Vai
-ciryllic-extended-B : Cyrillic Extended-B
+ciryllic-extended-B : Kiegészített Cirill (B)
 bamum           : Bamum
-modifier-tone-letters : Modifier Tone Letters
-latin-extended-d : Latin Extended-D
+modifier-tone-letters : Hangmódosító betűk
+latin-extended-d : Kiegészített Latin (D)
 syloty-nagri    : Syloti Nagri
-indian-numeric-character : Common Indic Number Forms
+indian-numeric-character : Indiai számkarakterek
 phags-pa        : Phags-pa
 saurashtra      : Saurashtra
-devanagari-extended-characters : Devanagari Extended
+devanagari-extended-characters : Kiegészített Devanagari
 kayah-li        : Kayah Li
 rejang          : Rejang
-hangul          : Hangul Jamo Extended-A
+hangul          : Kiegészített Hangul Jamo (A)
 javanese-alphabet : Javanese
 cham-alphabet   : Cham
-burmese-alphabet-extention-a : Myanmar Extended-A
+burmese-alphabet-extention-a : Kiegészített Mynmar (A)
 tai-viet-alphabet : Tai Viet
-meitei-language-extensions : Meetei Mayek Extensions
-ethiopic-extended-a : Ethiopic Extended-A
+meitei-language-extensions : Meetei Mayek kiegészítései
+ethiopic-extended-a : Kiegészített Etióp (A)
 meitei-language : Meetei Mayek
-hangul-syllables : Hangul Syllables
-high-surrogates : High Surrogates
-high-private-use-surrogates : High Private Use Surrogates
-low-surrogates  : Low Surrogates
-private-use-area : Private Use Area
-cjk-compatibility-ideographs : CJK Compatibility Ideographs
-alphabetic-presentation-forms : Alphabetic Presentation Forms
-arabic-presentation-forms-a : Arabic Presentation Forms-A
-variation-selectors : Variation Selectors
-vertical-forms  : Vertical Forms
-combining-half-marks : Combining Half Marks
-cjk-compatibility-forms : CJK Compatibility Forms
-small-form-variants : Small Form Variants
-arabic-presentation-forms-b : Arabic Presentation Forms-B
-halfwidth-and-fullwidth-forms : Halfwidth and Fullwidth Forms
-specials        : Specials
-linear-b-syllabary : Linear B Syllabary
-linear-b-ideograms : Linear B Ideograms
-aegean-numbers : Aegean Numbers
-ancient-greek-numbers : Ancient Greek Numbers
-ancient-symbols : Ancient Symbols
+hangul-syllables : Hangul jelek
+high-surrogates : Magas pótlók
+high-private-use-surrogates : Magas privát használatú pótlók
+low-surrogates  : Alacsony pótlók
+private-use-area : Saját célra fenntartott
+cjk-compatibility-ideographs : CJK kompatibilis szóképek
+alphabetic-presentation-forms : Alfabetikus megjelenítési formák
+arabic-presentation-forms-a : Arab prezentációs formák (A)
+variation-selectors : Kijelölés változatok
+vertical-forms  : Függőleges formák
+combining-half-marks : Kombinált fél-jelzők
+cjk-compatibility-forms : CJK-kompatibilis formák
+small-form-variants : Kisebb forma változatok
+arabic-presentation-forms-b : Arab prezentációs formák (B)
+halfwidth-and-fullwidth-forms : Félszélességű és teljes szélességű formák
+specials        : Speciális jelek
+linear-b-syllabary : Lineáris B-írás jelei
+linear-b-ideograms : Lineáris B-írás ideogramjai
+aegean-numbers : Égei számok
+ancient-greek-numbers : Ősi görög számok
+ancient-symbols : Ősi szimbólumok
 phaistos-disc : Phaistos Disc
 lycian : Lycian
 carian : Carian
-coptic-epact-numbers : Coptic Epact Numbers
-old-italic : Old Italic
-gothic : Gothic
-old-permic : Old Permic
-ugaritic : Ugaritic
-old-persian : Old Persian
+coptic-epact-numbers : Kopt számok
+old-italic : Régi Olasz
+gothic : Gótikus
+old-permic : Régi Perm-i
+ugaritic : Ugar
+old-persian : Régi Perzsai
 deseret : Deseret
 shavian : Shavian
 osmanya : Osmanya
 elbasan : Elbasan
-caucasian-albanian : Caucasian Albanian
-linear-a : Linear A
-cypriot-syllabary : Cypriot Syllabary
+caucasian-albanian : Kaukázusi Albán
+linear-a : Lineáris A
+cypriot-syllabary : Ciprusi jelek
 imperial-aramaic : Imperial Aramaic
 palmyrene : Palmyrene
 nabataean : Nabataean
-phoenician : Phoenician
+phoenician : Főníciai
 lydian : Lydian
-meroitic-hieroglyphs : Meroitic Hieroglyphs
-meroitic-cursive : Meroitic Cursive
+meroitic-hieroglyphs : Meroitic Hieroglifák
+meroitic-cursive : Meroitic Kurzív
 kharoshthi : Kharoshthi
-old-south-arabian : Old South Arabian
-old-north-arabian : Old North Arabian
+old-south-arabian : Régi Dél-Arab
+old-north-arabian : Régi Észak-Arabian
 manichaean : Manichaean
 avestan : Avestan
 inscriptional-parthian : Inscriptional Parthian
 inscriptional-pahlavi : Inscriptional Pahlavi
 psalter-pahlavi : Psalter Pahlavi
-old-turkic : Old Turkic
+old-turkic : Régi Török
 rumi-numeral-symbols : Rumi Numeral Symbols
 brahmi : Brahmi
 kaithi : Kaithi
@@ -197,7 +197,7 @@ sora-sompeng : Sora Sompeng
 chakma : Chakma
 mahajani : Mahajani
 sharada : Sharada
-sinhala-archaic-numbers : Sinhala Archaic Numbers
+sinhala-archaic-numbers : Sinhala Arhaikus számok
 khojki : Khojki
 khudawadi : Khudawadi
 grantha : Grantha
@@ -208,38 +208,38 @@ takri : Takri
 warang-citi : Warang Citi
 pau-cin-hau : Pau Cin Hau
 cuneiform : Cuneiform
-cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
-egyptian-hieroglyphs : Egyptian Hieroglyphs
-bamum-supplement : Bamum Supplement
+cuneiform-numbers-and-punctuation : Cuneiform számok és írásjelek
+egyptian-hieroglyphs : Egyiptomi Hieroglifák
+bamum-supplement : Kiegészített Bamum
 mro : Mro
 bassa-vah : Bassa Vah
 pahawh-hmong : Pahawh Hmong
 miao : Miao
-kana-supplement : Kana Supplement
+kana-supplement : Kiegészített Kana
 duployan : Duployan
-shorthand-format-controls : Shorthand Format Controls
-byzantine-musical-symbols : Byzantine Musical Symbols
-musical-symbols : Musical Symbols
-ancient-greek-musical-notation : Ancient Greek Musical Notation
-tai-xuan-jing-symbols : Tai Xuan Jing Symbols
-counting-rod-numerals : Counting Rod Numerals
-mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
+shorthand-format-controls : Shorthand Formátumirányítás
+byzantine-musical-symbols : Byzantine zenei szimbólumok
+musical-symbols : Zenei szimbólumok
+ancient-greek-musical-notation : Ógörög zenei szimbólumok
+tai-xuan-jing-symbols : Tai Xuan Jing szimbólumok
+counting-rod-numerals : Számolórúd számai
+mathematical-alphanumeric-symbols : Matematikai alfanumerikus szimbólumok
 mende-kikakui : Mende Kikakui
-arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
-mahjong-tiles : Mahjong Tiles
-domino-tiles : Domino Tiles
-playing-cards : Playing Cards
-enclosed-alphanumeric-supplement : Enclosed Alphanumeric Supplement
-enclosed-ideographic-supplement : Enclosed Ideographic Supplement
-miscellaneous-symbols-and-pictographs : Miscellaneous Symbols and Pictographs
-emoticons : Emoticons (Emoji)
+arabic-mathematical-alphabetic-symbols : Arab matematekai alfabetikus szimbólumok
+mahjong-tiles : Mahjong-kövek
+domino-tiles : Dominókövek
+playing-cards : Játékkártyák
+enclosed-alphanumeric-supplement : Zárt alfanumerikus kiegészítés
+enclosed-ideographic-supplement : Zárt ideografikus kiegészítés
+miscellaneous-symbols-and-pictographs : Egyéb szimbólumok és piktogramok
+emoticons : Hangulatjelek (Emoji)
 ornamental-dingbats : Ornamental Dingbats
-transport-and-map-symbols : Transport and Map Symbols
-alchemical-symbols : Alchemical Symbols
-geometric-shapes-extended : Geometric Shapes Extended
-supplemental-arrows-c : Supplemental Arrows-C
-combining-diacritical-marks-extended: Combining Diacritical Marks Extended
+transport-and-map-symbols : Közlekedés- és térképszimbólumok
+alchemical-symbols : Alkímiai szimbólumok
+geometric-shapes-extended : Kiegészített geometriai alakzatok
+supplemental-arrows-c : Kiegészített nyilagk (C)
+combining-diacritical-marks-extended: Kombinált, kiegészített diakritikus jelek
 lisu: Lisu
-myanmar-extended-b: Myanmar Extended-B
-latin-extended-e: Latin Extended-E
-hangul-jamo-extended-b: Hangul Jamo Extended-B
+myanmar-extended-b: Kiegészített Myanmar (B)
+latin-extended-e: Kiegészített Latin (E)
+hangul-jamo-extended-b: Kiegészített Hangul Jamo (B)
