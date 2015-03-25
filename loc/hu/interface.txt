@@ -51,25 +51,25 @@ submit          : Elküldés
 undo            : Visszavonás
 send_changes    : A változtatások a fejlesztőknek lesznek elküldve. Biztos vagy benne?
 edit_thanks     : Köszönjük!
-gotofullversion : Ugrás a teljes verzió
+gotofullversion : Ugrás a teljes verzióra
 
 # __________________________________________________________
 #
 # FOOTER / МЕНЮ ПОДВАЛА
 # __________________________________________________________
 
-feedback        : Feedback
+feedback        : Visszajelzés
 github          : GitHub
 twitter         : Twitter
-join_us         : I want to join
-donate          : How to donate
+join_us         : Szeretnék csatlakozni!
+donate          : Hogyan tudok adományozni?
 unicode         : Unicode
-about_unicode   : About Unicode
-unicode_history : Unicode history
-unicode_versions: Unicode versions
-broken_chars    : Some characters not displaying
-cyrillic        : Cyrillic
-fonts           : Fonts
+about_unicode   : Az Unicode-ról
+unicode_history : Az Unicode történelme
+unicode_versions: Az Unicode verziói
+broken_chars    : Néhány karaktert nem mutat
+cyrillic        : Cirill
+fonts           : Betűtípusok
 
 
 
@@ -78,45 +78,45 @@ fonts           : Fonts
 # TOOLS / ИНСТРУМЕНТЫ   http://unicode-table.com/tools/
 # __________________________________________________________
 
-tools           : Tools
-encoder         : Encoder
-encoder-desc    : Encodes characters into html-code and back
-encoder-plain   : Plain text
-encoder-full    : Full
-encoder-text    : Text
-encoder-entities: Encodes characters with entities
-encoder-br      : Encodes line breaks
+tools           : Eszközök
+encoder         : Kódoló
+encoder-desc    : Karaktereket kódol HTML-kódra és vissza
+encoder-plain   : Normál szöveg
+encoder-full    : Teljes
+encoder-text    : Szöveg
+encoder-entities: Karakterkódolás egységekkel
+encoder-br      : Sortörések kódolása
 
-decoder         : Decoder
-decoder-desc    : Encodes characters into Unicode or decodes back
-decoder-example : This is an example
+decoder         : Dekódoló
+decoder-desc    : Karaktereket kódól Unicode-ra és vissza
+decoder-example : Ez egy példa
 decoder-code    : Unicode
-decoder-text    : Text
+decoder-text    : Szöveg
 
-flip            : Flip
-flip-desc       : Flip the Cyrillic and Latin characters upside down or backwards
-flip-plain      : Plain text
-flip-flipped    : Flipped text
-flip-backed     : Back to front text
+flip            : Megfordító
+flip-desc       : Megfordítja a Cirill és Latin betűket és vissza
+flip-plain      : Normál szöveg
+flip-flipped    : Fordított szöveg
+flip-backed     : Vissza az első szövegre
 
-toolsgenerator : Unicode character table generator
-toolsgenerator-desc : Generates a set of characters in a specified range
-toolsgenerator-range: Range
-toolsgenerator-format: Format
-toolsgenerator-info: Available: {symbol}, {dec}, {hex}, {html}
-toolsgenerator-text-generate: Generate
-toolsgenerator-result: Result
+toolsgenerator : Unicode-karaktertábla generátor
+toolsgenerator-desc : Karaktereket generál egy megadott intervallumban
+toolsgenerator-range: Intervallum
+toolsgenerator-format: Formátum
+toolsgenerator-info: Elérhető: {symbol}, {dec}, {hex}, {html}
+toolsgenerator-text-generate: Generálás
+toolsgenerator-result: Eredmény
 
 # CONTENT
 
-content-sorry: Sorry, there is no further information at the moment.
-content-sorry-lang: Sorry, further information in English is not available. We are working towards making it available soon.
-content-other: Text is also available in the following languages:
-content-sorry-other: See other language versions:
+content-sorry: Elnézést, ennek a karakternek a részletein még dolgozunk.
+content-sorry-lang: Elnézést, több információ nem érhető el magyarul. Próbálunk ezen javítani.
+content-other: Ez a szöveg már nyelveken elérhető:
+content-sorry-other: További nyelvek:
 
 # SEO
 
-meta_description : All Unicode Symbols with Names and Descriptions on One Page: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, uft-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
-symbol_description: Symbol: {{symbol}}, Name: {{name}}, Unicode number: {{code}}, Block: {{block}}{% if entity %}, Entity: {{ entity }}{% endif %}
-symbol_title: symbol, character, sign, icon
+meta_description : Az összes Unicode karakter egy helyen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta_keywords   : unicode, jelek, szimbólumok, karakterek, unicode tábla, karakterkészlet, unicód karakterek listája, uft-8, facebook karakterek, kódolás, szív jel, szkript, nyelvek, emoji, hieroglyphs, rúnák, nyíl szimbólumok, cirill, latin, pénznem szimbólumok
+symbol_description: Szimbólum: {{symbol}}, Név: {{name}}, Unicode szám: {{code}}, Blokk: {{block}}{% if entity %}, Egység: {{ entity }}{% endif %}
+symbol_title: szimbólum, karakter, jel, ikon
