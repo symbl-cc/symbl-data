@@ -33,62 +33,62 @@
 0020: Space
 0021: Felkiáltójel : faktoriális : bang
 0022: Kérdőjel
-0023: Number Sign : pound sign : hash : crosshatch : octothorpe
-0024: Dollar Sign : milréis : escudo
-0025: Percent Sign
-0026: Ampersand
-0027: Apostrophe : apostrophe-quote : apl quote
-0028: Left Parenthesis : opening parenthesis
-0029: Right Parenthesis : closing parenthesis
-002A: Asterisk : star
-002B: Plus Sign
-002C: Comma : decimal separator
-002D: Hyphen-Minus : hyphen or minus sign
-002E: Full Stop : period, dot, decimal point
-002F: Solidus : slash, virgule
-0030: Digit Zero
-0031: Digit One
-0032: Digit Two
-0033: Digit Three
-0034: Digit Four
-0035: Digit Five
-0036: Digit Six
-0037: Digit Seven
-0038: Digit Eight
-0039: Digit Nine
-003A: Colon
-003B: Semicolon
-003C: Less-Than Sign
-003D: Equals Sign
-003E: Greater-Than Sign
-003F: Question Mark
-0040: Commercial At : at sign : email
-0041: Latin Capital Letter A
-0042: Latin Capital Letter B
-0043: Latin Capital Letter C
-0044: Latin Capital Letter D
-0045: Latin Capital Letter E
-0046: Latin Capital Letter F
-0047: Latin Capital Letter G
-0048: Latin Capital Letter H
-0049: Latin Capital Letter I
-004A: Latin Capital Letter J
-004B: Latin Capital Letter K
-004C: Latin Capital Letter L
-004D: Latin Capital Letter M
-004E: Latin Capital Letter N
-004F: Latin Capital Letter O
-0050: Latin Capital Letter P
-0051: Latin Capital Letter Q
-0052: Latin Capital Letter R
-0053: Latin Capital Letter S
-0054: Latin Capital Letter T
-0055: Latin Capital Letter U
-0056: Latin Capital Letter V
-0057: Latin Capital Letter W
-0058: Latin Capital Letter X
-0059: Latin Capital Letter Y
-005A: Latin Capital Letter Z
+0023: Számjel : font jel : hash : crosshatch : octothorpe
+0024: Dollárjel : milréis : escudo
+0025: Százalékjel
+0026: Ésjel
+0027: Aposztróf : aposztróf-idézet : apl quote
+0028: Bal Zárójel : nyitott zárójel
+0029: Jobb Zárójel : csukott zárójel
+002A: Csillag : aszteriszk
+002B: Pluszjel
+002C: Vessző : tizedesvessző
+002D: Kötőjel/Mínusz : kötőjel vagy mínuszjel
+002E: Pont : ezresválasztó
+002F: Perjel : per
+0030: Nulla
+0031: Egy
+0032: Kettő
+0033: Három
+0034: Négy
+0035: Öt
+0036: Hat
+0037: Hét
+0038: Nyolc
+0039: Kilenc
+003A: Kettőspont
+003B: Pontosvessző
+003C: Kisebb, mint
+003D: Egyenlőségjel
+003E: Nagyobb, mint
+003F: Kérdőjel
+0040: Kukac : at sign : email
+0041: A betű
+0042: B betű
+0043: C betű
+0044: D betű
+0045: E betű
+0046: F betű
+0047: G betű
+0048: H betű
+0049: I betű
+004A: J betű
+004B: K betű
+004C: L betű
+004D: M betű
+004E: N betű
+004F: O betű
+0050: P betű
+0051: Q betű
+0052: R betű
+0053: S betű
+0054: T betű
+0055: U betű
+0056: V betű
+0057: W betű
+0058: X betű
+0059: Y betű
+005A: Z betű
 005B: Left Square Bracket : opening square bracket
 005C: Reverse Solidus : backslash
 005D: Right Square Bracket : closing square bracket
