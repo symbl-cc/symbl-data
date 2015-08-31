@@ -51,7 +51,12 @@ undo            : Deshacer
 send_changes    : Los cambios se enviarán a los desarrolladores del sitio. Estás seguro?
 edit_thanks     : Gracias!
 gotofullversion : Ir a la versión completa
-
+sharelink       : Compartir
+readmore        : Leer más
+readless        : Ocultar
+yourbrowser     : Su navegador
+fontview        : Inscripción del personaje en diferentes tipos de letra
+chardesc        : Descripción caracteres
 
 # __________________________________________________________
 #

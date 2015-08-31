@@ -49,7 +49,12 @@ undo            : 撤消
 send_changes    : 您所做的更改将被发送到该网站的开发。你确定吗？
 edit_thanks     : 谢谢
 gotofullversion : 查看完整版
-
+sharelink       : 分享
+readmore        : 阅读更多
+readless        : 隐藏
+yourbrowser     : 您的浏览器
+fontview        : 性格不同字体的题字
+chardesc        : 人物介绍
 # __________________________________________________________
 #
 # FOOTER / МЕНЮ ПОДВАЛА
