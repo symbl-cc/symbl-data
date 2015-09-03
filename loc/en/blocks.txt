@@ -1,8 +1,8 @@
 control-character : Control character
 basic-latin     : Basic Latin
 latin-1-supplement : Latin-1 Supplement
-latin-extended-A : Latin Extended-A
-latin-extended-B : Latin Extended-B
+latin-extended-a : Latin Extended-A
+latin-extended-b : Latin Extended-B
 ipa-extensions  : IPA Extensions
 spacing-modifier-letters : Spacing Modifier Letters
 combining-diacritical-marks : Combining Diacritical Marks

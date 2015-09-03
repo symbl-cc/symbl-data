@@ -52,7 +52,15 @@ undo            : Undo
 send_changes    : Your changes will be send to the website developers. Are you sure?
 edit_thanks     : Thanks!
 gotofullversion : Go to full version
-
+sharelink       : Share with friends
+recent          : Recent
+recentText      : Here will display recently used symbols. So far, see the popular symbols
+toMobile        : Mobile version
+readmore        : Read more
+readless        : Hide
+yourbrowser     : Your browser
+fontview        : Inscription of the character in different fonts
+chardesc        : Character description
 # __________________________________________________________
 #
 # FOOTER / МЕНЮ ПОДВАЛА

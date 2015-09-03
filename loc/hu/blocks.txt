@@ -1,8 +1,8 @@
 control-character : Vezérlőkarakterek
 basic-latin     : Latin (alap)
 latin-1-supplement : Latin-1 kiegészítő karakterek
-latin-extended-A : Bővített Latin (A)
-latin-extended-B : Bővített Latin (B)
+latin-extended-a : Bővített Latin (A)
+latin-extended-b : Bővített Latin (B)
 ipa-extensions  : IPA kiterjesztések
 spacing-modifier-letters : Fonetikus jelek
 combining-diacritical-marks : Kombinált diakritikus jelek

@@ -6,8 +6,8 @@
 control-character : อักขระควบคุม
 basic-latin     : อักษรละตินพื้นฐาน
 latin-1-supplement : อักษรละติน-1 เพิ่มเติม
-latin-extended-A : อักษรละตินส่วนเพิ่ม-A
-latin-extended-B : อักษรละตินส่วนเพิ่ม-B
+latin-extended-a : อักษรละตินส่วนเพิ่ม-A
+latin-extended-b : อักษรละตินส่วนเพิ่ม-B
 ipa-extensions  : ส่วนขยาย IPA
 spacing-modifier-letters : อักษรปรับเปลี่ยนระยะห่าง
 combining-diacritical-marks : เครื่องหมายกำกับเสียงแบบรวม

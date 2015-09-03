@@ -1,8 +1,8 @@
 control-character : Управляющие символы
 basic-latin     : Основная латиница
 latin-1-supplement : Дополнительная латиница-1
-latin-extended-A : Расширенная латиница-A
-latin-extended-B : Расширенная латиница-B
+latin-extended-a : Расширенная латиница-A
+latin-extended-b : Расширенная латиница-B
 ipa-extensions  : Международный фонетический алфавит
 spacing-modifier-letters : Некомбинируемые протяжённые символы-модификаторы
 combining-diacritical-marks : Комбинируемые диакритические знаки
@@ -232,7 +232,7 @@ playing-cards : Игральные карты
 enclosed-alphanumeric-supplement : Вложенные буквенно-цифровые символы (дополнение)
 enclosed-ideographic-supplement : Вложенные идеографические символы (дополнение)
 miscellaneous-symbols-and-pictographs : Различные символы и пиктограммы
-emoticons : Эмодзи (эмоджи)
+emoticons : Эмотикон (эмоджи)
 ornamental-dingbats : Элементы орнамента
 transport-and-map-symbols : Транспортные и картографические символы
 alchemical-symbols : Алхимические символы

@@ -16,13 +16,13 @@
 	languages       :
 	countries       :
 
-[latin-extended-A]
+[latin-extended-a]
 	diap            : 0100:017F
 	type            : alphabet
 	languages       : celtic, sami, maltese, turkish
 	countries       : scotland, wales, ireland, norway, finland, sweden, malta, turkey
 
-[latin-extended-B]
+[latin-extended-b]
 	diap            : 0180:024F
 	type            : alphabet
 	languages       : slovenian, croatian

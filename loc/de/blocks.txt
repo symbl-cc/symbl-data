@@ -1,8 +1,8 @@
 control-character : Steuerzeichen
 basic-latin     : Basis-Lateinisch
 latin-1-supplement : Lateinisch-1, Ergänzung
-latin-extended-A : Lateinisch, erweitert-A
-latin-extended-B : Lateinisch, erweitert-B
+latin-extended-a : Lateinisch, erweitert-A
+latin-extended-b : Lateinisch, erweitert-B
 ipa-extensions  : IPA-Erweiterungen
 spacing-modifier-letters : Spacing Modifier Letters
 combining-diacritical-marks : Kombinierende diakritische Zeichen

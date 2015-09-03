@@ -1,8 +1,8 @@
 control-character : 控制字符
 basic-latin     : 基本拉丁字母
 latin-1-supplement : 拉丁文补充1
-latin-extended-A : 拉丁文扩展A
-latin-extended-B : 拉丁文扩展B
+latin-extended-a : 拉丁文扩展A
+latin-extended-b : 拉丁文扩展B
 ipa-extensions  : 国际音标扩展
 spacing-modifier-letters : 占位修饰符号
 combining-diacritical-marks : 结合附加符号
