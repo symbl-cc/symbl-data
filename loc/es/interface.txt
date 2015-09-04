@@ -122,6 +122,6 @@ content-sorry-other: Ver en otros idiomas:
 # SEO
 
 meta_description : Todos los símbolos Unicode con nombres y descripciones en una sola página: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : Unicode, signos, símbolos, caracteres unicode, mesa, juego de caracteres, la lista de caracteres Unicode, UFT-8, facebook caracteres, la codificación, símbolo del corazón, escritura, idiomas, jeroglíficos, runas, símbolos de flecha, cirílico, latino, símbolos de moneda
+meta_keywords   : Unicode, signos, símbolos, caracteres unicode, mesa, juego de caracteres, la lista de caracteres Unicode, UTF-8, facebook caracteres, la codificación, símbolo del corazón, escritura, idiomas, jeroglíficos, runas, símbolos de flecha, cirílico, latino, símbolos de moneda
 symbol_description: Símbolo: {{symbol}}, Nombre: {{name}}, Unicode número: {{code}}, Bloque: {{block}}{% if entity %}, Entidad: {{ entity }}{% endif %}
 symbol_title: símbolo, carácter, muestra, icono
