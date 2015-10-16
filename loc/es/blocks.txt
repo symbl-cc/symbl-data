@@ -4,7 +4,7 @@ latin-1-supplement        : Latín-1 suplemento
 latin-extended-a          : Latín extendida A
 latin-extended-b          : Latín extendida B
 ipa-extensions            : Extensiones de la AFI
-spacing-modifier-letters  : Separación Modificador Cartas
+spacing-modifier-letters  : Separación Modificador Letras
 combining-diacritical-marks : Diacríticos (combinable)
 greek-coptic              : Griego y copto
 cyrillic                  : Cirílico
@@ -81,13 +81,13 @@ enclosed-alphanumerics    : Alfanuméricos cerrado
 box-drawing               : Dibujo de la caja
 block-elements            : Caracteres de relleno
 geometric-shapes          : Formas geométricas
-miscellaneous-symbols     : Símbolos misceláneos
+miscellaneous-symbols     : Símbolos diversos
 dingbats                  : Dingbats
-miscellaneous-mathematical-symbols-a : Símbolos matemáticos misceláneos A
+miscellaneous-mathematical-symbols-a : Símbolos matemáticos diversos A
 suplemental-arrows-a      : Flechas suplemento A
 braille-patterns          : Patrones de braille
 suplemental-arrows-b      : Flechas suplemento B
-miscellaneous-mathematical-symbols-b : Símbolos matemáticos misceláneos B
+miscellaneous-mathematical-symbols-b : Símbolos matemáticos diversos B
 supplemental-mathematical-operators : Operadores matemáticos suplementarios
 miscellaneous-symbols-and-arrows : Símbolos y flechas diverso
 glagolitic                : Glagolítico
