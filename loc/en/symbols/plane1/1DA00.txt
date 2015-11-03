@@ -1,143 +1,143 @@
-1DA00:
-1DA01:
-1DA02:
-1DA03:
-1DA04:
-1DA05:
-1DA06:
-1DA07:
-1DA08:
-1DA09:
-1DA0A:
-1DA0B:
-1DA0C:
-1DA0D:
-1DA0E:
-1DA0F:
-1DA10:
-1DA11:
-1DA12:
-1DA13:
-1DA14:
-1DA15:
-1DA16:
-1DA17:
-1DA18:
-1DA19:
-1DA1A:
-1DA1B:
-1DA1C:
-1DA1D:
-1DA1E:
-1DA1F:
-1DA20:
-1DA21:
-1DA22:
-1DA23:
-1DA24:
-1DA25:
-1DA26:
-1DA27:
-1DA28:
-1DA29:
-1DA2A:
-1DA2B:
-1DA2C:
-1DA2D:
-1DA2E:
-1DA2F:
-1DA30:
-1DA31:
-1DA32:
-1DA33:
-1DA34:
-1DA35:
-1DA36:
-1DA37:
-1DA38:
-1DA39:
-1DA3A:
-1DA3B:
-1DA3C:
-1DA3D:
-1DA3E:
-1DA3F:
-1DA40:
-1DA41:
-1DA42:
-1DA43:
-1DA44:
-1DA45:
-1DA46:
-1DA47:
-1DA48:
-1DA49:
-1DA4A:
-1DA4B:
-1DA4C:
-1DA4D:
-1DA4E:
-1DA4F:
-1DA50:
-1DA51:
-1DA52:
-1DA53:
-1DA54:
-1DA55:
-1DA56:
-1DA57:
-1DA58:
-1DA59:
-1DA5A:
-1DA5B:
-1DA5C:
-1DA5D:
-1DA5E:
-1DA5F:
-1DA60:
-1DA61:
-1DA62:
-1DA63:
-1DA64:
-1DA65:
-1DA66:
-1DA67:
-1DA68:
-1DA69:
-1DA6A:
-1DA6B:
-1DA6C:
-1DA6D:
-1DA6E:
-1DA6F:
-1DA70:
-1DA71:
-1DA72:
-1DA73:
-1DA74:
-1DA75:
-1DA76:
-1DA77:
-1DA78:
-1DA79:
-1DA7A:
-1DA7B:
-1DA7C:
-1DA7D:
-1DA7E:
-1DA7F:
-1DA80:
-1DA81:
-1DA82:
-1DA83:
-1DA84:
-1DA85:
-1DA86:
-1DA87:
-1DA88:
-1DA89:
-1DA8A:
-1DA8B:
+1DA00: Signwriting Head Rim
+1DA01: Signwriting Head Movement-Wallplane Straight
+1DA02: Signwriting Head Movement-Wallplane Tilt
+1DA03: Signwriting Head Movement-Floorplane Straight
+1DA04: Signwriting Head Movement-Wallplane Curve
+1DA05: Signwriting Head Movement-Floorplane Curve
+1DA06: Signwriting Head Movement Circle
+1DA07: Signwriting Face Direction Position Nose Forward Tilting
+1DA08: Signwriting Face Direction Position Nose Up Or Down
+1DA09: Signwriting Face Direction Position Nose Up Or Down Tilting
+1DA0A: Signwriting Eyebrows Straight Up
+1DA0B: Signwriting Eyebrows Straight Neutral
+1DA0C: Signwriting Eyebrows Straight Down
+1DA0D: Signwriting Dreamy Eyebrows Neutral Down
+1DA0E: Signwriting Dreamy Eyebrows Down Neutral
+1DA0F: Signwriting Dreamy Eyebrows Up Neutral
+1DA10: Signwriting Dreamy Eyebrows Neutral Up
+1DA11: Signwriting Forehead Neutral
+1DA12: Signwriting Forehead Contact
+1DA13: Signwriting Forehead Wrinkled
+1DA14: Signwriting Eyes Open
+1DA15: Signwriting Eyes Squeezed
+1DA16: Signwriting Eyes Closed
+1DA17: Signwriting Eye Blink Single
+1DA18: Signwriting Eye Blink Multiple
+1DA19: Signwriting Eyes Half Open
+1DA1A: Signwriting Eyes Wide Open
+1DA1B: Signwriting Eyes Half Closed
+1DA1C: Signwriting Eyes Widening Movement
+1DA1D: Signwriting Eye Wink
+1DA1E: Signwriting Eyelashes Up
+1DA1F: Signwriting Eyelashes Down
+1DA20: Signwriting Eyelashes Fluttering
+1DA21: Signwriting Eyegaze-Wallplane Straight
+1DA22: Signwriting Eyegaze-Wallplane Straight Double
+1DA23: Signwriting Eyegaze-Wallplane Straight Alternating
+1DA24: Signwriting Eyegaze-Floorplane Straight
+1DA25: Signwriting Eyegaze-Floorplane Straight Double
+1DA26: Signwriting Eyegaze-Floorplane Straight Alternating
+1DA27: Signwriting Eyegaze-Wallplane Curved
+1DA28: Signwriting Eyegaze-Floorplane Curved
+1DA29: Signwriting Eyegaze-Wallplane Circling
+1DA2A: Signwriting Cheeks Puffed
+1DA2B: Signwriting Cheeks Neutral
+1DA2C: Signwriting Cheeks Sucked
+1DA2D: Signwriting Tense Cheeks High
+1DA2E: Signwriting Tense Cheeks Middle
+1DA2F: Signwriting Tense Cheeks Low
+1DA30: Signwriting Ears
+1DA31: Signwriting Nose Neutral
+1DA32: Signwriting Nose Contact
+1DA33: Signwriting Nose Wrinkles
+1DA34: Signwriting Nose Wiggles
+1DA35: Signwriting Air Blowing Out
+1DA36: Signwriting Air Sucking In
+1DA37: Signwriting Air Blow Small Rotations
+1DA38: Signwriting Air Suck Small Rotations
+1DA39: Signwriting Breath Inhale
+1DA3A: Signwriting Breath Exhale
+1DA3B: Signwriting Mouth Closed Neutral
+1DA3C: Signwriting Mouth Closed Forward
+1DA3D: Signwriting Mouth Closed Contact
+1DA3E: Signwriting Mouth Smile
+1DA3F: Signwriting Mouth Smile Wrinkled
+1DA40: Signwriting Mouth Smile Open
+1DA41: Signwriting Mouth Frown
+1DA42: Signwriting Mouth Frown Wrinkled
+1DA43: Signwriting Mouth Frown Open
+1DA44: Signwriting Mouth Open Circle
+1DA45: Signwriting Mouth Open Forward
+1DA46: Signwriting Mouth Open Wrinkled
+1DA47: Signwriting Mouth Open Oval
+1DA48: Signwriting Mouth Open Oval Wrinkled
+1DA49: Signwriting Mouth Open Oval Yawn
+1DA4A: Signwriting Mouth Open Rectangle
+1DA4B: Signwriting Mouth Open Rectangle Wrinkled
+1DA4C: Signwriting Mouth Open Rectangle Yawn
+1DA4D: Signwriting Mouth Kiss
+1DA4E: Signwriting Mouth Kiss Forward
+1DA4F: Signwriting Mouth Kiss Wrinkled
+1DA50: Signwriting Mouth Tense
+1DA51: Signwriting Mouth Tense Forward
+1DA52: Signwriting Mouth Tense Sucked
+1DA53: Signwriting Lips Pressed Together
+1DA54: Signwriting Lip Lower Over Upper
+1DA55: Signwriting Lip Upper Over Lower
+1DA56: Signwriting Mouth Corners
+1DA57: Signwriting Mouth Wrinkles Single
+1DA58: Signwriting Mouth Wrinkles Double
+1DA59: Signwriting Tongue Sticking Out Far
+1DA5A: Signwriting Tongue Licking Lips
+1DA5B: Signwriting Tongue Tip Between Lips
+1DA5C: Signwriting Tongue Tip Touching Inside Mouth
+1DA5D: Signwriting Tongue Inside Mouth Relaxed
+1DA5E: Signwriting Tongue Moves Against Cheek
+1DA5F: Signwriting Tongue Centre Sticking Out
+1DA60: Signwriting Tongue Centre Inside Mouth
+1DA61: Signwriting Teeth
+1DA62: Signwriting Teeth Movement
+1DA63: Signwriting Teeth On Tongue
+1DA64: Signwriting Teeth On Tongue Movement
+1DA65: Signwriting Teeth On Lips
+1DA66: Signwriting Teeth On Lips Movement
+1DA67: Signwriting Teeth Bite Lips
+1DA68: Signwriting Movement-Wallplane Jaw
+1DA69: Signwriting Movement-Floorplane Jaw
+1DA6A: Signwriting Neck
+1DA6B: Signwriting Hair
+1DA6C: Signwriting Excitement
+1DA6D: Signwriting Shoulder Hip Spine
+1DA6E: Signwriting Shoulder Hip Positions
+1DA6F: Signwriting Wallplane Shoulder Hip Move
+1DA70: Signwriting Floorplane Shoulder Hip Move
+1DA71: Signwriting Shoulder Tilting from Waist
+1DA72: Signwriting Torso-Wallplane Straight Stretch
+1DA73: Signwriting Torso-Wallplane Curved Bend
+1DA74: Signwriting Torso-Floorplane Twisting
+1DA75: Signwriting Upper Body Tilting from Hip Joints
+1DA76: Signwriting Limb Combination
+1DA77: Signwriting Limb Length-1
+1DA78: Signwriting Limb Length-2
+1DA79: Signwriting Limb Length-3
+1DA7A: Signwriting Limb Length-4
+1DA7B: Signwriting Limb Length-5
+1DA7C: Signwriting Limb Length-6
+1DA7D: Signwriting Limb Length-7
+1DA7E: Signwriting Finger
+1DA7F: Signwriting Location-Wallplane Space
+1DA80: Signwriting Location-Floorplane Space
+1DA81: Signwriting Location Height
+1DA82: Signwriting Location Width
+1DA83: Signwriting Location Depth
+1DA84: Signwriting Location Head Neck
+1DA85: Signwriting Location Torso
+1DA86: Signwriting Location Limbs Digits
+1DA87: Signwriting Comma
+1DA88: Signwriting Full Stop
+1DA89: Signwriting Semicolon
+1DA8A: Signwriting Colon
+1DA8B: Signwriting Parenthesis
 1DA8C:
 1DA8D:
 1DA8E:
@@ -153,27 +153,27 @@
 1DA98:
 1DA99:
 1DA9A:
-1DA9B:
-1DA9C:
-1DA9D:
-1DA9E:
-1DA9F:
+1DA9B: Signwriting Fill Modifier-2
+1DA9C: Signwriting Fill Modifier-3
+1DA9D: Signwriting Fill Modifier-4
+1DA9E: Signwriting Fill Modifier-5
+1DA9F: Signwriting Fill Modifier-6
 1DAA0:
-1DAA1:
-1DAA2:
-1DAA3:
-1DAA4:
-1DAA5:
-1DAA6:
-1DAA7:
-1DAA8:
-1DAA9:
-1DAAA:
-1DAAB:
-1DAAC:
-1DAAD:
-1DAAE:
-1DAAF:
+1DAA1: Signwriting Rotation Modifier-2
+1DAA2: Signwriting Rotation Modifier-3
+1DAA3: Signwriting Rotation Modifier-4
+1DAA4: Signwriting Rotation Modifier-5
+1DAA5: Signwriting Rotation Modifier-6
+1DAA6: Signwriting Rotation Modifier-7
+1DAA7: Signwriting Rotation Modifier-8
+1DAA8: Signwriting Rotation Modifier-9
+1DAA9: Signwriting Rotation Modifier-10
+1DAAA: Signwriting Rotation Modifier-11
+1DAAB: Signwriting Rotation Modifier-12
+1DAAC: Signwriting Rotation Modifier-13
+1DAAD: Signwriting Rotation Modifier-14
+1DAAE: Signwriting Rotation Modifier-15
+1DAAF: Signwriting Rotation Modifier-16
 1DAB0:
 1DAB1:
 1DAB2:

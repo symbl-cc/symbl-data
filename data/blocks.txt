@@ -689,7 +689,7 @@
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [cjk-unified-ideographs-extension-a]
-	diap            : 3400:4DB5
+	diap            : 3400:4DBF
 	type            : syllabary
 	languages       : chinese, japanese, korean, vietnamese
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
@@ -701,7 +701,7 @@
 	countries       : china
 
 [cjk-unified-ideographs]
-	diap            : 4E00:9FCC
+	diap            : 4E00:9FFF
 	type            : syllabary
 	languages       : chinese, japanese, korean, vietnamese
 	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
@@ -849,7 +849,13 @@
     type            :
     languages       :
     countries       :    
-    	
+
+[cherokee-supplement]
+    diap            : AB70:ABBF
+    type            :
+    languages       :
+    countries       :
+
 [meitei-language]
 	diap            : ABC0:ABFF
 	type            :
@@ -857,7 +863,7 @@
 	countries       : india, bangladesh, burma
 
 [hangul-syllables]
-	diap            : AC00:D7A3
+	diap            : AC00:D7AF
 	type            : alphabet
 	languages       : korean, cia-cia
 	countries       : north_korea, south_korea, china, japan, indonesia
@@ -1102,6 +1108,12 @@
     languages       :
     countries       :
 
+[hatran]
+    diap            : 108E0:108FF
+    type            :
+    languages       :
+    countries       :
+
 [phoenician]
     diap            : 10900:1091F
     type            :
@@ -1180,6 +1192,12 @@
     languages       :
     countries       :
 
+[old-hungarian]
+    diap            : 10C80:10CFF
+    type            :
+    languages       :
+    countries       :
+
 [rumi-numeral-symbols]
     diap            : 10E60:10E7F
     type            :
@@ -1234,6 +1252,12 @@
     languages       :
     countries       :
 
+[multani]
+    diap            : 11280:112AF
+    type            :
+    languages       :
+    countries       :
+
 [khudawadi]
     diap            : 112B0:112FF
     type            :
@@ -1270,6 +1294,12 @@
     languages       :
     countries       :
 
+[ahom]
+    diap            : 11700:1173F
+    type            :
+    languages       :
+    countries       :
+
 [warang-citi]
     diap            : 118A0:118FF
     type            :
@@ -1294,8 +1324,20 @@
     languages       :
     countries       :
 
+[early-dynastic-cuneiform]
+    diap            : 12480:1254F
+    type            :
+    languages       :
+    countries       :
+
 [egyptian-hieroglyphs]
     diap            : 13000:1342F
+    type            :
+    languages       :
+    countries       :
+
+[anatolian-hieroglyphs]
+    diap            : 14400:1467F
     type            :
     languages       :
     countries       :
@@ -1384,6 +1426,12 @@
     languages       :
     countries       :
 
+[sutton-sign-writing]
+    diap            : 1D800:1DAAF
+    type            :
+    languages       :
+    countries       :
+
 [mende-kikakui]
     diap            : 1E800:1E8DF
     type            :
@@ -1464,6 +1512,12 @@
 
 [supplemental-arrows-c]
     diap            : 1F800:1F8FF
+    type            :
+    languages       :
+    countries       :
+
+[supplemental-symbols-and-pictographs]
+    diap            : 1F900:1F9FF
     type            :
     languages       :
     countries       :
