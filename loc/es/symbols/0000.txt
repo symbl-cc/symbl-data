@@ -12,8 +12,8 @@
 000B: Tabulación Vertical
 000C: De avance
 000D: Retorno de carro
-000E: Mayúsculas fuera
-000F: En mayúsculas
+000E: Desplazamiento hacia fuera : Mayúsculas fuera
+000F: Desplazamiento hacia dentro : En mayúsculas
 0010: Enlace de datos
 0011: Dispositivo de control 1
 0012: Dispositivo de control 2
@@ -63,8 +63,8 @@
 003E: Signo mayor que
 003F: Signo de interrogación
 0040: Arroba
-0041: Letra latina mayúscula A
-0042: Letra latina mayúscula B
+0041: Letra latina minúscula A
+0042: Letra latina minúscula B
 0043: Letra latina mayúscula C
 0044: Letra latina mayúscula D
 0045: Letra latina mayúscula E
@@ -206,51 +206,51 @@
 00CD: I mayúscula con acento agudo
 00CE: I mayúscula con circunflejo
 00CF: I mayúscula con diéresis
-00D0: Eth mayúscula
-00D1: Eñe mayúscula
-00D2: O mayúscula con acento grave
-00D3: O mayúscula con acento agudo
-00D4: O mayúscula con circunflejo
-00D5: O mayúscula con tilde
-00D6: O mayúscula con diéresis
-00D7: Signo de multiplicación (aspa)
-00D8: O mayúscula con barra inclinada
-00D9: U mayúscula con acento grave
-00DA: U mayúscula con acento agudo
-00DB: U mayúscula con circunflejo
-00DC: U mayúscula con diéresis
-00DD: Y mayúscula con acento agudo
-00DE: Thorn mayúscula
-00DF: S aguda alemana
-00E0: A minúscula con acento grave
-00E1: A minúscula con acento agudo
-00E2: A minúscula con circunflejo
-00E3: A minúscula con tilde
-00E4: A minúscula con diéresis
-00E5: A minúscula con círculo encima
-00E6: Ae minúscula
-00E7: C minúscula con cedilla
-00E8: E minúscula con acento grave
-00E9: E minúscula con acento agudo
-00EA: E minúscula con circunflejo
-00EB: E minúscula con diéresis
-00EC: I minúscula con acento grave
-00ED: I minúscula con acento agudo
-00EE: I minúscula con circunflejo
-00EF: I minúscula con diéresis
-00F0: Eth minúscula
-00F1: Eñe minúscula
-00F2: O minúscula con acento grave
-00F3: O minúscula con acento agudo
-00F4: O minúscula con circunflejo
-00F5: O minúscula con tilde
-00F6: O minúscula con diéresis
+00D0: Letra latina minúscula ETH
+00D1: Letra latina minúscula N con tilde
+00D2: Letra latina minúscula O con acento grave
+00D3: Letra latina minúscula O con acento agudo
+00D4: Letra latina minúscula O con acento circunflejo
+00D5: Letra latina minúscula O con tilde
+00D6: Letra latina minúscula O con diéresis
+00D7: Signo de multiplicación(aspa)
+00D8: Letra latina minúscula O con barra inclinada
+00D9: Letra latina minúscula U con acento grave
+00DA: Letra latina minúscula U con acento agudo
+00DB: Letra latina minúscula U con acento circunflejo
+00DC: Letra latina minúscula U con diéresis
+00DD: Letra latina minúscula Y con acento agudo
+00DE: Letra latina minúscula thorn
+00DF: Letra latina minúscula S aguda
+00E0: Letra latina minúscula A con acento grave
+00E1: Letra latina A con acento agudo
+00E2: Letra latina minúscula A con acento circunflejo
+00E3: Letra latina minúscula A con tilde
+00E4: Letra latina minúscula A con diéresis
+00E5: Letra latina minúscula A con anillo encima
+00E6: Letra latina minúscula AE
+00E7: Letra latina minúscula C con cedilla
+00E8: Letra latina minúscula E con acento grave
+00E9: Letra latina minúscula E con acento agudo
+00EA: Letra latina minúscula E con acento circunflejo
+00EB: Letra latina minúscula E con diéresis
+00EC: Letra latina minúscula I con acento grave
+00ED: Letra latina minúscula I con acento agudo
+00EE: Letra latina minúscula I con acento circunflejo
+00EF: Letra latina minúscula I con DIÉRSIS
+00F0: Letra latina minúscula ETH
+00F1: Letra latina minúscula N con tilde
+00F2: Letra latina minúscula O con acento grave
+00F3: Letra latina minúscula O con acento agudo
+00F4: Letra latina minúscula O con acento circunflejo
+00F5: Letra latina minúscula O con tilde
+00F6: Letra latina minúscula O con diéresis
 00F7: Signo de división
-00F8: O minúscula con barra inclinada
-00F9: U minúscula con acento grave
-00FA: U minúscula con acento agudo
-00FB: U minúscula con circunflejo
-00FC: U minúscula con diéresis
-00FD: Y minúscula con acento agudo
-00FE: Thorn minúscula
-00FF: Y minúscula con diéresis
+00F8: Letra latina minúscula O con barra inclinada
+00F9: Letra latina minúscula U con acento grave
+00FA: Letra latina minúscula U con acento agudo
+00FB: Letra latina minúscula U con acento circunflejo
+00FC: Letra latina minúscula U con diéresis
+00FD: Letra latina minúscula Y con acento agudo
+00FE: Letra latina minúscula thorn
+00FF: Letra latina minúscula Y con diéresis
