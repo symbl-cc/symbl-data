@@ -34,6 +34,7 @@ help_range      : Click to highlight range
 blocks_list     : Unicode blocks
 languages_list  : Languages
 languages_blocks : Blocks of language
+alphabets_list  : Alphabets
 types_list      : Types
 countries_list  : Countries
 more            : More
@@ -78,6 +79,7 @@ unicode_versions: Unicode versions
 broken_chars    : Some characters not displaying
 cyrillic        : Cyrillic
 fonts           : Fonts
+alphabets       : Alphabets
 
 
 

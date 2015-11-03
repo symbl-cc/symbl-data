@@ -21,7 +21,7 @@ mandaic         : Мандейский алфавит
 arabic-extended-a : Расширенный набор символов арабского письма-A
 devanagari      : Деванагари
 bengali         : Бенгальский
-gurmukhi        : Гурмухки
+gurmukhi        : Гурмукхи
 gujarati        : Гуджарати
 oriya           : Ория
 tamil           : Тамильская письменность
@@ -49,11 +49,11 @@ khmer           : Кхмерская письменность
 mongolian       : Старомонгольская письменность
 unified-canadian-aboriginal-syllabics-extended : Расширенный набор символов канадского слогового письма
 limbu           : Письменность лимбу
-tai-le          : Письменность тай лэ
+tai-le          : Письменность тай лы
 new-tai-lue     : Новый алфавит тай лы
 khmer-symbols   : Кхмерские символы
 buginese        : Бугийская письменность. Лонтара
-tai-tham        : Старый алфавит тай лы. Тай Тхам
+tai-tham        : Тай Тхам
 balinese        : Балийское письмо
 sundanese       : Сунданское письмо
 batak           : Батакское письмо
@@ -105,7 +105,7 @@ cjk-symbols-and-punctuation : Символы и пунктуация ККЯ
 hiragana        : Хирагана
 katakana        : Катакана
 bopomofo        : Чжуинь. Бопомофо
-hangul-compatibility-jamo : Комбинируемые с чамо Хангыля
+hangul-compatibility-jamo : Комбинируемые чамо Хангыля
 kanbun          : Канбун(китайский)
 bopomofo-extended : Расширенный набор символов бопомофо, чжуинь
 cjk-strokes     : Черты ККЯ
@@ -131,7 +131,7 @@ kayah-li        : Кайях Ли
 rejang          : Реджанг
 hangul          : Хангыль
 javanese-alphabet : Яванская письменность
-cham-alphabet   : Тямское письмо
+cham-alphabet   : Чамское письмо
 burmese-alphabet-extention-a : Мьянманская письменность. Расширение A
 tai-viet-alphabet : Письменность Тай Вьет
 meitei-language-extensions : Мейтей расширенная
@@ -168,14 +168,14 @@ old-permic : Древнепермское письмо
 ugaritic : Угаритский алфавит
 old-persian : Древнеперсидский клинописный алфавит
 deseret : Дезеретский алфавит
-shavian : Алфавит Бренарда Шоу
-osmanya : Османия (сомалийский алфавит)
+shavian : Алфавит Бернарда Шоу
+osmanya : Османья (сомалийский алфавит)
 elbasan : Эльбасанское письмо
 caucasian-albanian : Агванское письмо (Кавказская Албания)
 linear-a : Линейное письмо А
 cypriot-syllabary : Слоговая письменность острова Кипр
 imperial-aramaic : Имперское арамейское письмо
-palmyrene : Диалект Пальмиры
+palmyrene : Пальмирский алфавит
 nabataean : Набатейское письмо
 phoenician : Финикийское письмо
 lydian : Лидийский алфавит
