@@ -1,4 +1,4 @@
-title           : Tabla de caracteres Unicode
+title           : Tabla de caracteres Unicode®
 search          : Buscar caracter
 find            : Encontrar
 example         : Ejemplo
@@ -68,7 +68,7 @@ github          : GitHub
 twitter         : Twitter
 join_us         : Quiero unirme
 donate          : Cómo donar
-unicode         : Unicode
+unicode         : Unicode®
 about_unicode   : Acerca de Unicode
 unicode_history : Historia Unicode
 unicode_versions: Versiones Unicode
@@ -104,6 +104,13 @@ flip-desc       : Voltear los caracteres cirílicos y latinos o al revés
 flip-plain      : Texto sin formato
 flip-flipped    : Texto volteado
 flip-backed     : Volver al texto anterior
+
+toolsgenerator : Tabla
+toolsgenerator-range: Rango
+toolsgenerator-format: Formato
+toolsgenerator-info: permitir {symbol}, {dec}, {hex}, {html}
+toolsgenerator-text: texto para la copia
+toolsgenerator-file: descargar archivo
 
 toolsgenerator : Generador de tabla de caracteres Unicode
 toolsgenerator-desc : Genera un conjunto de caracteres en un rango especificado

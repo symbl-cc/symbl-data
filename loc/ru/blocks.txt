@@ -193,9 +193,9 @@ old-turkic : Древнетюркское руническое письмо
 rumi-numeral-symbols : Цифры системы руми
 brahmi : Брахмическая письменность
 kaithi : Кайтхи
-sora-sompeng : Sora Sompeng
+sora-sompeng : Соранг сомпенг
 chakma : Чакма
-mahajani : Mahajani
+mahajani : Махаяни
 sharada : Шарада
 sinhala-archaic-numbers : Сингальские архаические цифры
 khojki : Кходжики
@@ -206,22 +206,22 @@ siddham : Сиддхаматрика
 modi : Моди
 takri : Такри
 warang-citi : Варанг-кшити
-pau-cin-hau : Pau Cin Hau
+pau-cin-hau : Пау Цин Хау
 cuneiform : Клинопись
 cuneiform-numbers-and-punctuation : Клинописные цифры и знаки пунктуации
 egyptian-hieroglyphs : Египетские иероглифы
 bamum-supplement : Письмо бамум (дополнение)
-mro : Mro
+mro : Мру
 bassa-vah : Письмо басса
-pahawh-hmong : Pahawh Hmong
+pahawh-hmong : Пахау хмонг
 miao : Письмо Полларда (миао)
 kana-supplement : Кана (дополнение)
-duployan : Duployan
-shorthand-format-controls : Shorthand Format Controls
+duployan : Дюплойе
+shorthand-format-controls : Форматирующие символы стенографии
 byzantine-musical-symbols : Византийские музыкальные символы
 musical-symbols : Музыкальные символы
 ancient-greek-musical-notation : Древнегреческие музыкальные символы
-tai-xuan-jing-symbols : Tai Xuan Jing Symbols
+tai-xuan-jing-symbols : Символы Тай Сюань Цзин
 counting-rod-numerals : Счётные палочки
 mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
 mende-kikakui : Письмо кикакуи для языка менде
@@ -243,3 +243,12 @@ lisu: Лису
 myanmar-extended-b: Расширенный бирманский-B
 latin-extended-e: Расширенная латиница-E
 hangul-jamo-extended-b: Расширенные хангыль чамо B
+cherokee-supplement: Письменность чероки (дополнение)
+hatran: Хатран
+old-hungarian: Венгерские руны
+multani : Мултани
+ahom: Письмо ахом
+early-dynastic-cuneiform: Ранняя династическая клинопись
+anatolian-hieroglyphs: Анатолийские иероглифы
+sutton-sign-writing: Жестовая письменность Саттон
+supplemental-symbols-and-pictographs: Символы и пиктограммы (дополнение)
