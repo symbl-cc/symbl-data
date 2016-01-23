@@ -1,0 +1,34 @@
+: Outils
+
+[encoder]: Encoder
+
+desc: Encode les caractères en code html et inversement
+plain: Texte brut
+full: Plein
+text: Texte
+entities: Encode les caractères avec des entités
+br: Encode les sauts de ligne
+
+[decoder]: Décodeur
+
+desc: Encode les caractères en Unicode ou décode retour
+example: Il s'agit, par exemple,
+code: Unicode
+text: Texte
+
+[flip]: Retourner
+
+desc: Retournez les caractères cyrilliques et latins à l'envers
+plain: Texte brut
+flipped: Texte Flipped
+backed: Retour au texte avant
+
+[generator]: Caractère Unicode générateur de table
+
+desc: Génère un ensemble de caractères dans une plage spécifiée
+range: Gamme
+format: Format
+info: Disponible: {symbol}, {dec}, {hex}, {html}
+generate: Générer
+result: Résultat
+

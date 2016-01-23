@@ -1,0 +1,256 @@
+FF00: 
+FF01: Point d'exclamation pleine chasse
+FF02: Guillemet pleine chasse
+FF03: Croisillon pleine chasse
+FF04: Symbole dollar pleine chasse
+FF05: Symbole pour cent pleine chasse
+FF06: Perluète pleine chasse
+FF07: Apostrophe pleine chasse
+FF08: Parenthèse gauche pleine chasse
+FF09: Parenthèse droite pleine chasse
+FF0A: Astérisque pleine chasse
+FF0B: Signe plus pleine chasse
+FF0C: Virgule pleine chasse
+FF0D: Tiret pleine chasse
+FF0E: Point pleine chasse
+FF0F: Barre oblique pleine chasse : cotice pleine chasse
+FF10: Chiffre zéro pleine chasse
+FF11: Chiffre un pleine chasse
+FF12: Chiffre deux pleine chasse
+FF13: Chiffre trois pleine chasse
+FF14: Chiffre quatre pleine chasse
+FF15: Chiffre cinq pleine chasse
+FF16: Chiffre six pleine chasse
+FF17: Chiffre sept pleine chasse
+FF18: Chiffre huit pleine chasse
+FF19: Chiffre neuf pleine chasse
+FF1A: Deux-points colon pleine chasse
+FF1B: Point-virgule pleine chasse
+FF1C: Signe inférieur à pleine chasse
+FF1D: Signe égal à pleine chasse
+FF1E: Signe supérieur à pleine chasse
+FF1F: Point d'interrogation pleine chasse
+FF20: Arrobe pleine chasse : à commercial, arobas, arobase, arrobas [pleine chasse]
+FF21: Lettre majuscule latine a pleine chasse
+FF22: Lettre majuscule latine b pleine chasse
+FF23: Lettre majuscule latine c pleine chasse
+FF24: Lettre majuscule latine d pleine chasse
+FF25: Lettre majuscule latine e pleine chasse
+FF26: Lettre majuscule latine f pleine chasse
+FF27: Lettre majuscule latine g pleine chasse
+FF28: Lettre majuscule latine h pleine chasse
+FF29: Lettre majuscule latine i pleine chasse
+FF2A: Lettre majuscule latine j pleine chasse
+FF2B: Lettre majuscule latine k pleine chasse
+FF2C: Lettre majuscule latine l pleine chasse
+FF2D: Lettre majuscule latine m pleine chasse
+FF2E: Lettre majuscule latine n pleine chasse
+FF2F: Lettre majuscule latine o pleine chasse
+FF30: Lettre majuscule latine p pleine chasse
+FF31: Lettre majuscule latine q pleine chasse
+FF32: Lettre majuscule latine r pleine chasse
+FF33: Lettre majuscule latine s pleine chasse
+FF34: Lettre majuscule latine t pleine chasse
+FF35: Lettre majuscule latine u pleine chasse
+FF36: Lettre majuscule latine v pleine chasse
+FF37: Lettre majuscule latine w pleine chasse
+FF38: Lettre majuscule latine x pleine chasse
+FF39: Lettre majuscule latine y pleine chasse
+FF3A: Lettre majuscule latine z pleine chasse
+FF3B: Crochet gauche pleine chasse
+FF3C: Barre oblique inversée pleine chasse : contre-cotice pleine chasse
+FF3D: Crochet droit pleine chasse
+FF3E: Accent circonflexe pleine chasse
+FF3F: Tiret bas pleine chasse
+FF40: Accent grave pleine chasse
+FF41: Lettre minuscule latine a pleine chasse
+FF42: Lettre minuscule latine b pleine chasse
+FF43: Lettre minuscule latine c pleine chasse
+FF44: Lettre minuscule latine d pleine chasse
+FF45: Lettre minuscule latine e pleine chasse
+FF46: Lettre minuscule latine f pleine chasse
+FF47: Lettre minuscule latine g pleine chasse
+FF48: Lettre minuscule latine h pleine chasse
+FF49: Lettre minuscule latine i pleine chasse
+FF4A: Lettre minuscule latine j pleine chasse
+FF4B: Lettre minuscule latine k pleine chasse
+FF4C: Lettre minuscule latine l pleine chasse
+FF4D: Lettre minuscule latine m pleine chasse
+FF4E: Lettre minuscule latine n pleine chasse
+FF4F: Lettre minuscule latine o pleine chasse
+FF50: Lettre minuscule latine p pleine chasse
+FF51: Lettre minuscule latine q pleine chasse
+FF52: Lettre minuscule latine r pleine chasse
+FF53: Lettre minuscule latine s pleine chasse
+FF54: Lettre minuscule latine t pleine chasse
+FF55: Lettre minuscule latine u pleine chasse
+FF56: Lettre minuscule latine v pleine chasse
+FF57: Lettre minuscule latine w pleine chasse
+FF58: Lettre minuscule latine x pleine chasse
+FF59: Lettre minuscule latine y pleine chasse
+FF5A: Lettre minuscule latine z pleine chasse
+FF5B: Accolade gauche pleine chasse
+FF5C: Ligne verticale pleine chasse
+FF5D: Accolade droite pleine chasse
+FF5E: Tilde pleine chasse
+FF5F: Parenthèse gauche ajourée pleine chasse *
+FF60: Parenthèse droite ajourée pleine chasse *
+FF61: Point idéographique demi-chasse
+FF62: Crochet gauche en coin demi-chasse
+FF63: Crochet droit en coin demi-chasse
+FF64: Virgule idéographique demi-chasse
+FF65: Point médian katakana demi-chasse
+FF66: Syllabe katakana wo demi-chasse
+FF67: Syllabe katakana petit a demi-chasse
+FF68: Syllabe katakana petit i demi-chasse
+FF69: Syllabe katakana petit u demi-chasse
+FF6A: Syllabe katakana petit e demi-chasse
+FF6B: Syllabe katakana petit o demi-chasse
+FF6C: Syllabe katakana petit ya demi-chasse
+FF6D: Syllabe katakana petit yu demi-chasse
+FF6E: Syllabe katakana petit yo demi-chasse
+FF6F: Syllabe katakana petit tu demi-chasse
+FF70: Marque katakana-hiragana de son prolongé demi-chasse
+FF71: Syllabe katakana a demi-chasse
+FF72: Syllabe katakana i demi-chasse
+FF73: Syllabe katakana u demi-chasse
+FF74: Syllabe katakana e demi-chasse
+FF75: Syllabe katakana o demi-chasse
+FF76: Syllabe katakana ka demi-chasse
+FF77: Syllabe katakana ki demi-chasse
+FF78: Syllabe katakana ku demi-chasse
+FF79: Syllabe katakana ke demi-chasse
+FF7A: Syllabe katakana ko demi-chasse
+FF7B: Syllabe katakana sa demi-chasse
+FF7C: Syllabe katakana si demi-chasse
+FF7D: Syllabe katakana su demi-chasse
+FF7E: Syllabe katakana se demi-chasse
+FF7F: Syllabe katakana so demi-chasse
+FF80: Syllabe katakana ta demi-chasse
+FF81: Syllabe katakana ti demi-chasse
+FF82: Syllabe katakana tu demi-chasse
+FF83: Syllabe katakana te demi-chasse
+FF84: Syllabe katakana to demi-chasse
+FF85: Syllabe katakana na demi-chasse
+FF86: Syllabe katakana ni demi-chasse
+FF87: Syllabe katakana nu demi-chasse
+FF88: Syllabe katakana ne demi-chasse
+FF89: Syllabe katakana no demi-chasse
+FF8A: Syllabe katakana ha demi-chasse
+FF8B: Syllabe katakana hi demi-chasse
+FF8C: Syllabe katakana hu demi-chasse
+FF8D: Syllabe katakana he demi-chasse
+FF8E: Syllabe katakana ho demi-chasse
+FF8F: Syllabe katakana ma demi-chasse
+FF90: Syllabe katakana mi demi-chasse
+FF91: Syllabe katakana mu demi-chasse
+FF92: Syllabe katakana me demi-chasse
+FF93: Syllabe katakana mo demi-chasse
+FF94: Syllabe katakana ya demi-chasse
+FF95: Syllabe katakana yu demi-chasse
+FF96: Syllabe katakana yo demi-chasse
+FF97: Syllabe katakana ra demi-chasse
+FF98: Syllabe katakana ri demi-chasse
+FF99: Syllabe katakana ru demi-chasse
+FF9A: Syllabe katakana re demi-chasse
+FF9B: Syllabe katakana ro demi-chasse
+FF9C: Syllabe katakana wa demi-chasse
+FF9D: Syllabe katakana n demi-chasse
+FF9E: Marque katakana de son voisé demi-chasse (marque katakana-hiragana de son : marque katakana-hiragana de son voisé demi-chasse
+FF9F: Marque katakana de son semi-voisé demi-chasse (marque katakana-hiragana de : marque katakana-hiragana de son semi-voisé demi-chasse
+FFA0: Bourre hangûl demi-chasse
+FFA1: Lettre hangûl kiyok demi-chasse
+FFA2: Lettre hangûl ssangkiyok demi-chasse
+FFA3: Lettre hangûl kiyok-siôs demi-chasse
+FFA4: Lettre hangûl niûn demi-chasse
+FFA5: Lettre hangûl niûn-tchiûtch demi-chasse
+FFA6: Lettre hangûl niûn-hiûh demi-chasse
+FFA7: Lettre hangûl tikût demi-chasse
+FFA8: Lettre hangûl ssangtikût demi-chasse
+FFA9: Lettre hangûl riûl demi-chasse
+FFAA: Lettre hangûl riûl-kiyok demi-chasse
+FFAB: Lettre hangûl riûl-miûm demi-chasse
+FFAC: Lettre hangûl riûl-piûp demi-chasse
+FFAD: Lettre hangûl riûl-siôs demi-chasse
+FFAE: Lettre hangûl riûl-t'iût' demi-chasse
+FFAF: Lettre hangûl riûl-p'iûp' demi-chasse
+FFB0: Lettre hangûl riûl-hiûh demi-chasse
+FFB1: Lettre hangûl miûm demi-chasse
+FFB2: Lettre hangûl piûp demi-chasse
+FFB3: Lettre hangûl ssangpiûp demi-chasse
+FFB4: Lettre hangûl piûp-siôs demi-chasse
+FFB5: Lettre hangûl siôs demi-chasse
+FFB6: Lettre hangûl ssangsiôs demi-chasse
+FFB7: Lettre hangûl iûng demi-chasse
+FFB8: Lettre hangûl tchiûtch demi-chasse
+FFB9: Lettre hangûl ssangtchiûtch demi-chasse
+FFBA: Lettre hangûl tch'iûtch' demi-chasse
+FFBB: Lettre hangûl k'iûk' demi-chasse
+FFBC: Lettre hangûl t'iût' demi-chasse
+FFBD: Lettre hangûl p'iûp' demi-chasse
+FFBE: Lettre hangûl hiûh demi-chasse
+FFBF: 
+FFC0: 
+FFC1: 
+FFC2: Lettre hangûl a demi-chasse
+FFC3: Lettre hangûl è demi-chasse
+FFC4: Lettre hangûl ya demi-chasse
+FFC5: Lettre hangûl yè demi-chasse
+FFC6: Lettre hangûl o demi-chasse
+FFC7: Lettre hangûl é demi-chasse
+FFC8: 
+FFC9: 
+FFCA: Lettre hangûl yo demi-chasse
+FFCB: Lettre hangûl yé demi-chasse
+FFCC: Lettre hangûl ô demi-chasse
+FFCD: Lettre hangûl wa demi-chasse
+FFCE: Lettre hangûl wè demi-chasse
+FFCF: Lettre hangûl eu demi-chasse
+FFD0: 
+FFD1: 
+FFD2: Lettre hangûl yô demi-chasse
+FFD3: Lettre hangûl ou demi-chasse
+FFD4: Lettre hangûl wo demi-chasse
+FFD5: Lettre hangûl wé demi-chasse
+FFD6: Lettre hangûl wi demi-chasse
+FFD7: Lettre hangûl you demi-chasse
+FFD8: 
+FFD9: 
+FFDA: Lettre hangûl û demi-chasse
+FFDB: Lettre hangûl ûi demi-chasse
+FFDC: Lettre hangûl i demi-chasse
+FFDD: 
+FFDE: 
+FFDF: 
+FFE0: Symbole centime pleine chasse
+FFE1: Symbole livre pleine chasse
+FFE2: Signe négation pleine chasse
+FFE3: Macron pleine chasse *
+FFE4: Ligne brisée pleine chasse
+FFE5: Symbole yen pleine chasse
+FFE6: Symbole won pleine chasse
+FFE7: 
+FFE8: Ligne verticale mince demi-chasse
+FFE9: Flèche vers la gauche demi-chasse
+FFEA: Flèche vers le haut demi-chasse
+FFEB: Flèche vers la droite demi-chasse
+FFEC: Flèche vers le bas demi-chasse
+FFED: Carré noir demi-chasse
+FFEE: Cercle blanc demi-chasse
+FFEF: 
+FFF0: 
+FFF1: 
+FFF2: 
+FFF3: 
+FFF4: 
+FFF5: 
+FFF6: 
+FFF7: 
+FFF8: 
+FFF9: Ancre d'annotation interlinéaire
+FFFA: Séparateur d'annotation interlinéaire
+FFFB: Terminateur d'annotation interlinéaire
+FFFC: Caractère de remplacement d'objet
+FFFD: Caractère de remplacement
+FFFE: <pas un caractère>
+FFFF: <pas un caractère>

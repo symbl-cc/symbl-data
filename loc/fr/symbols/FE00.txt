@@ -1,0 +1,256 @@
+FE00: Sélecteur de variante-1
+FE01: Sélecteur de variante-2
+FE02: Sélecteur de variante-3
+FE03: Sélecteur de variante-4
+FE04: Sélecteur de variante-5
+FE05: Sélecteur de variante-6
+FE06: Sélecteur de variante-7
+FE07: Sélecteur de variante-8
+FE08: Sélecteur de variante-9
+FE09: Sélecteur de variante-10
+FE0A: Sélecteur de variante-11
+FE0B: Sélecteur de variante-12
+FE0C: Sélecteur de variante-13
+FE0D: Sélecteur de variante-14
+FE0E: Sélecteur de variante-15
+FE0F: Sélecteur de variante-16
+FE10: Forme de présentation de virgule verticale
+FE11: Forme de présentation de virgule idéographique verticale
+FE12: Forme de présentation de point idéographique vertical
+FE13: Forme de présentation de deux-points vertical
+FE14: Forme de présentation de point-virgule vertical
+FE15: Forme de présentation de point d'exclamation vertical
+FE16: Forme de présentation de point d'interrogation vertical
+FE17: Forme de présentation de crochet blanc lenticulaire gauche vertical
+FE18: Forme de présentation de crochet blanc lenticulaire droit vertical
+FE19: Forme de présentation de points de suspension verticaux
+FE1A: 
+FE1B: 
+FE1C: 
+FE1D: 
+FE1E: 
+FE1F: 
+FE20: Diacritique moitié gauche de ligature
+FE21: Diacritique moitié droite de ligature
+FE22: Diacritique moitié gauche de tilde double
+FE23: Diacritique moitié droite de tilde double
+FE24: Diacritique moitié gauche de macron
+FE25: Diacritique moitié droite de macron
+FE26: Diacritique macron jointif
+FE27: Diacritique moitié gauche de ligature souscrite
+FE28: Diacritique moitié droite de ligature souscrite
+FE29: Diacritique moitié gauche de tilde souscrit
+FE2A: Diacritique moitié droite de tilde souscrit
+FE2B: Diacritique moitié gauche de macron souscrit
+FE2C: Diacritique moitié droite de macron souscrit
+FE2D: Diacritique macron souscrit jointif
+FE2E: 
+FE2F: 
+FE30: Forme de présentation de point de conduite double vertical
+FE31: Forme de présentation de tiret cadratin vertical
+FE32: Forme de présentation de tiret demi-cadratin vertical
+FE33: Forme de présentation de tiret bas vertical
+FE34: Forme de présentation de tiret bas ondulé vertical
+FE35: Forme de présentation de parenthèse gauche verticale
+FE36: Forme de présentation de parenthèse droite verticale
+FE37: Forme de présentation d'accolade gauche verticale
+FE38: Forme de présentation d'accolade droite verticale
+FE39: Forme de présentation de crochet gauche vertical en écaille
+FE3A: Forme de présentation de crochet droit vertical en écaille
+FE3B: Forme de présentation de crochet gauche lenticulaire noir vertical
+FE3C: Forme de présentation de crochet droit lenticulaire noir vertical
+FE3D: Forme de présentation de crochet double gauche vertical
+FE3E: Forme de présentation de crochet double droit vertical
+FE3F: Forme de présentation de chevron gauche vertical
+FE40: Forme de présentation de chevron droit vertical
+FE41: Forme de présentation de crochet vertical gauche en coin
+FE42: Forme de présentation de crochet vertical droit en coin
+FE43: Forme de présentation de crochet blanc vertical gauche en coin
+FE44: Forme de présentation de crochet blanc vertical droit en coin
+FE45: Point sésame
+FE46: Point sésame ajouré : point sésame blanc
+FE47: Forme de présentation de crochet gauche vertical
+FE48: Forme de présentation de crochet droit vertical
+FE49: Tiret haut en pointillés
+FE4A: Tiret haut à point central
+FE4B: Tiret haut ondulé
+FE4C: Tiret haut double ondulé
+FE4D: Tiret bas avec pointillés
+FE4E: Tiret bas à point central
+FE4F: Tiret bas ondulé
+FE50: Virgule minuscule
+FE51: Virgule idéographique minuscule
+FE52: Point minuscule
+FE53: 
+FE54: Point-virgule minuscule
+FE55: Deux-points minuscule
+FE56: Point d'interrogation minuscule
+FE57: Point d'exclamation minuscule
+FE58: Trait d'union cadratin minuscule
+FE59: Parenthèse gauche minuscule
+FE5A: Parenthèse droite minuscule
+FE5B: Accolade gauche minuscule
+FE5C: Accolade droite minuscule
+FE5D: Crochet gauche en écaille minuscule
+FE5E: Crochet droit en écaille minuscule
+FE5F: Croisillon minuscule
+FE60: Perluète minuscule
+FE61: Astérisque minuscule
+FE62: Signe plus minuscule
+FE63: Tiret minuscule
+FE64: Signe inférieur à minuscule
+FE65: Signe supérieur à minuscule
+FE66: Signe égal à minuscule
+FE67: 
+FE68: Barre oblique inversée minuscule : contre-cotice minuscule
+FE69: Symbole dollar minuscule
+FE6A: Symbole pour cent minuscule
+FE6B: Arrobe minuscule : à commercial, arobas, arobase, arrobas [minuscule]
+FE6C: 
+FE6D: 
+FE6E: 
+FE6F: 
+FE70: Fathatan arabe isolé
+FE71: Tatouïl fathatan en chef arabe
+FE72: Dammatan arabe isolé
+FE73: Fragment de queue arabe
+FE74: Kasratan isolé arabe
+FE75: 
+FE76: Fatha isolé arabe
+FE77: Fatha médial arabe
+FE78: Damma isolé arabe
+FE79: Damma médial arabe
+FE7A: Kasra isolé arabe
+FE7B: Kasra médial arabe
+FE7C: Chadda isolé arabe
+FE7D: Chadda médial arabe
+FE7E: Soukoun isolé arabe
+FE7F: Soukoun médial arabe
+FE80: Lettre arabe hamza isolée
+FE81: Lettre arabe alif madda en chef isolé
+FE82: Lettre arabe alif madda en chef final
+FE83: Lettre arabe alif hamza en chef isolé
+FE84: Lettre arabe alif hamza en chef final
+FE85: Lettre arabe waw hamza en chef isolé
+FE86: Lettre arabe waw hamza en chef final
+FE87: Lettre arabe alif hamza souscrite isolé
+FE88: Lettre arabe alif hamza souscrite final
+FE89: Lettre arabe ya' hamza en chef isolé
+FE8A: Lettre arabe ya' hamza en chef final
+FE8B: Lettre arabe ya' hamza en chef initial
+FE8C: Lettre arabe ya' hamza en chef médial
+FE8D: Lettre arabe alif isolé
+FE8E: Lettre arabe alif final
+FE8F: Lettre arabe ba' isolé
+FE90: Lettre arabe ba' final
+FE91: Lettre arabe ba' initial
+FE92: Lettre arabe ba' médial
+FE93: Lettre arabe té' marbouta isolé
+FE94: Lettre arabe té' marbouta final
+FE95: Lettre arabe té' isolé
+FE96: Lettre arabe té' final
+FE97: Lettre arabe té' initial
+FE98: Lettre arabe té' médial
+FE99: Lettre arabe thé' isolé
+FE9A: Lettre arabe thé' final
+FE9B: Lettre arabe thé' initial
+FE9C: Lettre arabe thé' médial
+FE9D: Lettre arabe djîm isolé
+FE9E: Lettre arabe djîm final
+FE9F: Lettre arabe djîm initial
+FEA0: Lettre arabe djîm médial
+FEA1: Lettre arabe ha' isolé
+FEA2: Lettre arabe ha' final
+FEA3: Lettre arabe ha' initial
+FEA4: Lettre arabe ha' médial
+FEA5: Lettre arabe kha' isolé
+FEA6: Lettre arabe kha' final
+FEA7: Lettre arabe kha' initial
+FEA8: Lettre arabe kha' médial
+FEA9: Lettre arabe dal isolé
+FEAA: Lettre arabe dal final
+FEAB: Lettre arabe dhal isolé
+FEAC: Lettre arabe dhal final
+FEAD: Lettre arabe ra' isolé
+FEAE: Lettre arabe ra' final
+FEAF: Lettre arabe zaï isolé
+FEB0: Lettre arabe zaï final
+FEB1: Lettre arabe sîn isolé
+FEB2: Lettre arabe sîn final
+FEB3: Lettre arabe sîn initial
+FEB4: Lettre arabe sîn médial
+FEB5: Lettre arabe chîn isolé
+FEB6: Lettre arabe chîn final
+FEB7: Lettre arabe chîn initial
+FEB8: Lettre arabe chîn médial
+FEB9: Lettre arabe çad isolé
+FEBA: Lettre arabe çad final
+FEBB: Lettre arabe çad initial
+FEBC: Lettre arabe çad médial
+FEBD: Lettre arabe dad isolé
+FEBE: Lettre arabe dad final
+FEBF: Lettre arabe dad initial
+FEC0: Lettre arabe dad médial
+FEC1: Lettre arabe ta' isolé
+FEC2: Lettre arabe ta' final
+FEC3: Lettre arabe ta' initial
+FEC4: Lettre arabe ta' médial
+FEC5: Lettre arabe zza' isolé
+FEC6: Lettre arabe zza' final
+FEC7: Lettre arabe zza' initial
+FEC8: Lettre arabe zza' médial
+FEC9: Lettre arabe 'aïn isolé
+FECA: Lettre arabe 'aïn final
+FECB: Lettre arabe 'aïn initial
+FECC: Lettre arabe 'aïn médial
+FECD: Lettre arabe ghaïn isolé
+FECE: Lettre arabe ghaïn final
+FECF: Lettre arabe ghaïn initial
+FED0: Lettre arabe ghaïn médial
+FED1: Lettre arabe fa' isolé
+FED2: Lettre arabe fa' final
+FED3: Lettre arabe fa' initial
+FED4: Lettre arabe fa' médial
+FED5: Lettre arabe qaf isolé
+FED6: Lettre arabe qaf final
+FED7: Lettre arabe qaf initial
+FED8: Lettre arabe qaf médial
+FED9: Lettre arabe kaf isolé
+FEDA: Lettre arabe kaf final
+FEDB: Lettre arabe kaf initial
+FEDC: Lettre arabe kaf médial
+FEDD: Lettre arabe lam isolé
+FEDE: Lettre arabe lam final
+FEDF: Lettre arabe lam initial
+FEE0: Lettre arabe lam médial
+FEE1: Lettre arabe mîm isolé
+FEE2: Lettre arabe mîm final
+FEE3: Lettre arabe mîm initial
+FEE4: Lettre arabe mîm médial
+FEE5: Lettre arabe noûn isolé
+FEE6: Lettre arabe noûn final
+FEE7: Lettre arabe noûn initial
+FEE8: Lettre arabe noûn médial
+FEE9: Lettre arabe hé' isolé
+FEEA: Lettre arabe hé' final
+FEEB: Lettre arabe hé' initial
+FEEC: Lettre arabe hé' médial
+FEED: Lettre arabe waw isolé
+FEEE: Lettre arabe waw final
+FEEF: Lettre arabe alif maksoura isolé
+FEF0: Lettre arabe alif maksoura final
+FEF1: Lettre arabe ya' isolé
+FEF2: Lettre arabe ya' final
+FEF3: Lettre arabe ya' initial
+FEF4: Lettre arabe ya' médial
+FEF5: Ligature arabe lam alif madda en chef isolé
+FEF6: Ligature arabe lam alif madda en chef final
+FEF7: Ligature arabe lam alif hamza en chef isolé
+FEF8: Ligature arabe lam alif hamza en chef final
+FEF9: Ligature arabe lam alif hamza souscrite isolé
+FEFA: Ligature arabe lam alif hamza souscrite final
+FEFB: Ligature arabe lam alif isolé
+FEFC: Ligature arabe lam alif final
+FEFD: 
+FEFE: 
+FEFF: Indicateur d'ordre des octets : ioo, bom, espace insécable sans chasse : espinsc, zwnbsp

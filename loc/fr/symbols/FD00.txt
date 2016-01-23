@@ -1,0 +1,256 @@
+FD00: Ligature arabe ha' ya' isolé
+FD01: Ligature arabe djîm alif maksoura isolé
+FD02: Ligature arabe djîm ya' isolé
+FD03: Ligature arabe kha' alif maksoura isolé
+FD04: Ligature arabe kha' ya' isolé
+FD05: Ligature arabe çad alif maksoura isolé
+FD06: Ligature arabe çad ya' isolé
+FD07: Ligature arabe dad alif maksoura isolé
+FD08: Ligature arabe dad ya' isolé
+FD09: Ligature arabe chîn djîm isolé
+FD0A: Ligature arabe chîn ha' isolé
+FD0B: Ligature arabe chîn kha' isolé
+FD0C: Ligature arabe chîn mîm isolé
+FD0D: Ligature arabe chîn ra' isolé
+FD0E: Ligature arabe sîn ra' isolé
+FD0F: Ligature arabe çad ra' isolé
+FD10: Ligature arabe dad ra' isolé
+FD11: Ligature arabe ta' alif maksoura final
+FD12: Ligature arabe ta' ya' final
+FD13: Ligature arabe 'aïn alif maksoura final
+FD14: Ligature arabe 'aïn ya' final
+FD15: Ligature arabe ghaïn alif maksoura final
+FD16: Ligature arabe ghaïn ya' final
+FD17: Ligature arabe sîn alif maksoura final
+FD18: Ligature arabe sîn ya' final
+FD19: Ligature arabe chîn alif maksoura final
+FD1A: Ligature arabe chîn ya' final
+FD1B: Ligature arabe ha' alif maksoura final
+FD1C: Ligature arabe ha' ya' final
+FD1D: Ligature arabe djîm alif maksoura final
+FD1E: Ligature arabe djîm ya' final
+FD1F: Ligature arabe kha' alif maksoura final
+FD20: Ligature arabe kha' ya' final
+FD21: Ligature arabe çad alif maksoura final
+FD22: Ligature arabe çad ya' final
+FD23: Ligature arabe dad alif maksoura final
+FD24: Ligature arabe dad ya' final
+FD25: Ligature arabe chîn djîm final
+FD26: Ligature arabe chîn ha' final
+FD27: Ligature arabe chîn kha' final
+FD28: Ligature arabe chîn mîm final
+FD29: Ligature arabe chîn ra' final
+FD2A: Ligature arabe sîn ra' final
+FD2B: Ligature arabe çad ra' final
+FD2C: Ligature arabe dad ra' final
+FD2D: Ligature arabe chîn djîm initial
+FD2E: Ligature arabe chîn ha' initial
+FD2F: Ligature arabe chîn kha' initial
+FD30: Ligature arabe chîn mîm initial
+FD31: Ligature arabe sîn hé' initial
+FD32: Ligature arabe chîn hé' initial
+FD33: Ligature arabe ta' mîm initial
+FD34: Ligature arabe sîn djîm médial
+FD35: Ligature arabe sîn ha' médial
+FD36: Ligature arabe sîn kha' médial
+FD37: Ligature arabe chîn djîm médial
+FD38: Ligature arabe chîn ha' médial
+FD39: Ligature arabe chîn kha' médial
+FD3A: Ligature arabe ta' mîm médial
+FD3B: Ligature arabe zza' mîm médial
+FD3C: Ligature arabe alif fathatan final
+FD3D: Ligature arabe alif fathatan isolé
+FD3E: Parenthèse gauche ornée
+FD3F: Parenthèse droite ornée
+FD40: 
+FD41: 
+FD42: 
+FD43: 
+FD44: 
+FD45: 
+FD46: 
+FD47: 
+FD48: 
+FD49: 
+FD4A: 
+FD4B: 
+FD4C: 
+FD4D: 
+FD4E: 
+FD4F: 
+FD50: Ligature arabe té' djîm mîm initial
+FD51: Ligature arabe té' ha' djîm final
+FD52: Ligature arabe té' ha' djîm initial
+FD53: Ligature arabe té' ha' mîm initial
+FD54: Ligature arabe té' kha' mîm initial
+FD55: Ligature arabe té' mîm djîm initial
+FD56: Ligature arabe té' mîm ha' initial
+FD57: Ligature arabe té' mîm kha' initial
+FD58: Ligature arabe djîm mîm ha' final
+FD59: Ligature arabe djîm mîm ha' initial
+FD5A: Ligature arabe ha' mîm ya' final
+FD5B: Ligature arabe ha' mîm alif maksoura final
+FD5C: Ligature arabe sîn ha' djîm initial
+FD5D: Ligature arabe sîn djîm ha' initial
+FD5E: Ligature arabe sîn djîm alif maksoura final
+FD5F: Ligature arabe sîn mîm ha' final
+FD60: Ligature arabe sîn mîm ha' initial
+FD61: Ligature arabe sîn mîm djîm initial
+FD62: Ligature arabe sîn mîm mîm final
+FD63: Ligature arabe sîn mîm mîm initial
+FD64: Ligature arabe çad ha' ha' final
+FD65: Ligature arabe çad ha' ha' initial
+FD66: Ligature arabe çad mîm mîm final
+FD67: Ligature arabe chîn ha' mîm final
+FD68: Ligature arabe chîn ha' mîm initial
+FD69: Ligature arabe chîn djîm ya' final
+FD6A: Ligature arabe chîn mîm kha' final
+FD6B: Ligature arabe chîn mîm kha' initial
+FD6C: Ligature arabe chîn mîm mîm final
+FD6D: Ligature arabe chîn mîm mîm initial
+FD6E: Ligature arabe dad ha' alif maksoura final
+FD6F: Ligature arabe dad kha' mîm final
+FD70: Ligature arabe dad kha' mîm initial
+FD71: Ligature arabe ta' mîm ha' final
+FD72: Ligature arabe ta' mîm ha' initial
+FD73: Ligature arabe ta' mîm mîm initial
+FD74: Ligature arabe ta' mîm ya' final
+FD75: Ligature arabe 'aïn djîm mîm final
+FD76: Ligature arabe 'aïn mîm mîm final
+FD77: Ligature arabe 'aïn mîm mîm initial
+FD78: Ligature arabe 'aïn mîm alif maksoura final
+FD79: Ligature arabe ghaïn mîm mîm final
+FD7A: Ligature arabe ghaïn mîm ya' final
+FD7B: Ligature arabe ghaïn mîm alif maksoura final
+FD7C: Ligature arabe fa' kha' mîm final
+FD7D: Ligature arabe fa' kha' mîm initial
+FD7E: Ligature arabe qaf mîm ha' final
+FD7F: Ligature arabe qaf mîm mîm final
+FD80: Ligature arabe lam ha' mîm final
+FD81: Ligature arabe lam ha' ya' final
+FD82: Ligature arabe lam ha' alif maksoura final
+FD83: Ligature arabe lam djîm djîm initial
+FD84: Ligature arabe lam djîm djîm final
+FD85: Ligature arabe lam kha' mîm final
+FD86: Ligature arabe lam kha' mîm initial
+FD87: Ligature arabe lam mîm ha' final
+FD88: Ligature arabe lam mîm ha' initial
+FD89: Ligature arabe mîm ha' djîm initial
+FD8A: Ligature arabe mîm ha' mîm initial
+FD8B: Ligature arabe mîm ha' ya' final
+FD8C: Ligature arabe mîm djîm ha' initial
+FD8D: Ligature arabe mîm djîm mîm initial
+FD8E: Ligature arabe mîm kha' djîm initial
+FD8F: Ligature arabe mîm kha' mîm initial
+FD90: 
+FD91: 
+FD92: Ligature arabe mîm djîm kha' initial
+FD93: Ligature arabe hé' mîm djîm initial
+FD94: Ligature arabe hé' mîm mîm initial
+FD95: Ligature arabe noûn ha' mîm initial
+FD96: Ligature arabe noûn ha' alif maksoura final
+FD97: Ligature arabe noûn djîm mîm final
+FD98: Ligature arabe noûn djîm mîm initial
+FD99: Ligature arabe noûn djîm alif maksoura final
+FD9A: Ligature arabe noûn mîm ya' final
+FD9B: Ligature arabe noûn mîm alif maksoura final
+FD9C: Ligature arabe ya' mîm mîm final
+FD9D: Ligature arabe ya' mîm mîm initial
+FD9E: Ligature arabe ba' kha' ya' final
+FD9F: Ligature arabe té' djîm ya' final
+FDA0: Ligature arabe té' djîm alif maksoura final
+FDA1: Ligature arabe té' kha' ya' final
+FDA2: Ligature arabe té' kha' alif maksoura final
+FDA3: Ligature arabe té' mîm ya' final
+FDA4: Ligature arabe té' mîm alif maksoura final
+FDA5: Ligature arabe djîm mîm ya' final
+FDA6: Ligature arabe djîm ha' alif maksoura final
+FDA7: Ligature arabe djîm mîm alif maksoura final
+FDA8: Ligature arabe sîn kha' alif maksoura final
+FDA9: Ligature arabe çad ha' ya' final
+FDAA: Ligature arabe chîn ha' ya' final
+FDAB: Ligature arabe dad ha' ya' final
+FDAC: Ligature arabe lam djîm ya' final
+FDAD: Ligature arabe lam mîm ya' final
+FDAE: Ligature arabe ya' ha' ya' final
+FDAF: Ligature arabe ya' djîm ya' final
+FDB0: Ligature arabe ya' mîm ya' final
+FDB1: Ligature arabe mîm mîm ya' final
+FDB2: Ligature arabe qaf mîm ya' final
+FDB3: Ligature arabe noûn ha' ya' final
+FDB4: Ligature arabe qaf mîm ha' initial
+FDB5: Ligature arabe lam ha' mîm initial
+FDB6: Ligature arabe 'aïn mîm ya' final
+FDB7: Ligature arabe kaf mîm ya' final
+FDB8: Ligature arabe noûn djîm ha' initial
+FDB9: Ligature arabe mîm kha' ya' final
+FDBA: Ligature arabe lam djîm mîm initial
+FDBB: Ligature arabe kaf mîm mîm final
+FDBC: Ligature arabe lam djîm mîm final
+FDBD: Ligature arabe noûn djîm ha' final
+FDBE: Ligature arabe djîm ha' ya' final
+FDBF: Ligature arabe ha' djîm ya' final
+FDC0: Ligature arabe mîm djîm ya' final
+FDC1: Ligature arabe fa' mîm ya' final
+FDC2: Ligature arabe ba' ha' ya' final
+FDC3: Ligature arabe kaf mîm mîm initial
+FDC4: Ligature arabe 'aïn djîm mîm initial
+FDC5: Ligature arabe çad mîm mîm initial
+FDC6: Ligature arabe sîn kha' ya' final
+FDC7: Ligature arabe noûn djîm ya' final
+FDC8: 
+FDC9: 
+FDCA: 
+FDCB: 
+FDCC: 
+FDCD: 
+FDCE: 
+FDCF: 
+FDD0: <pas un caractère>
+FDD1: <pas un caractère>
+FDD2: <pas un caractère>
+FDD3: <pas un caractère>
+FDD4: <pas un caractère>
+FDD5: <pas un caractère>
+FDD6: <pas un caractère>
+FDD7: <pas un caractère>
+FDD8: <pas un caractère>
+FDD9: <pas un caractère>
+FDDA: <pas un caractère>
+FDDB: <pas un caractère>
+FDDC: <pas un caractère>
+FDDD: <pas un caractère>
+FDDE: <pas un caractère>
+FDDF: <pas un caractère>
+FDE0: <pas un caractère>
+FDE1: <pas un caractère>
+FDE2: <pas un caractère>
+FDE3: <pas un caractère>
+FDE4: <pas un caractère>
+FDE5: <pas un caractère>
+FDE6: <pas un caractère>
+FDE7: <pas un caractère>
+FDE8: <pas un caractère>
+FDE9: <pas un caractère>
+FDEA: <pas un caractère>
+FDEB: <pas un caractère>
+FDEC: <pas un caractère>
+FDED: <pas un caractère>
+FDEE: <pas un caractère>
+FDEF: <pas un caractère>
+FDF0: Ligature arabe salla isolé utilisé comme signe d'arrêt coranique
+FDF1: Ligature arabe qala isolé utilisé comme signe d'arrêt coranique
+FDF2: Ligature arabe allah isolé
+FDF3: Ligature arabe akbar isolé
+FDF4: Ligature arabe mohammad isolé
+FDF5: Ligature arabe salam isolé
+FDF6: Ligature arabe rasoul isolé
+FDF7: Ligature arabe alaïhe isolé
+FDF8: Ligature arabe wasallam isolé
+FDF9: Ligature arabe salla isolé
+FDFA: Ligature arabe sallallahou alaïhe wasallam
+FDFB: Ligature arabe djalladjalalouhou
+FDFC: Symbole rial
+FDFD: Ligature arabe bismillah ar-rahman ar-rahîm
+FDFE: 
+FDFF: 

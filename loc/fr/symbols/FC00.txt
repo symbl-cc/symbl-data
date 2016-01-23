@@ -1,0 +1,256 @@
+FC00: Ligature arabe ya' hamza en chef djîm isolé
+FC01: Ligature arabe ya' hamza en chef ha' isolé
+FC02: Ligature arabe ya' hamza en chef mîm isolé
+FC03: Ligature arabe ya' hamza en chef alif maksoura isolé
+FC04: Ligature arabe ya' hamza en chef ya' isolé
+FC05: Ligature arabe ba' djîm isolé
+FC06: Ligature arabe ba' ha' isolé
+FC07: Ligature arabe ba' kha' isolé
+FC08: Ligature arabe ba' mîm isolé
+FC09: Ligature arabe ba' alif maksoura isolé
+FC0A: Ligature arabe ba' ya' isolé
+FC0B: Ligature arabe té' djîm isolé
+FC0C: Ligature arabe té' ha' isolé
+FC0D: Ligature arabe té' kha' isolé
+FC0E: Ligature arabe té' mîm isolé
+FC0F: Ligature arabe té' alif maksoura isolé
+FC10: Ligature arabe té' ya' isolé
+FC11: Ligature arabe thé' djîm isolé
+FC12: Ligature arabe thé' mîm isolé
+FC13: Ligature arabe thé' alif maksoura isolé
+FC14: Ligature arabe thé' ya' isolé
+FC15: Ligature arabe djîm ha' isolé
+FC16: Ligature arabe djîm mîm isolé
+FC17: Ligature arabe ha' djîm isolé
+FC18: Ligature arabe ha' mîm isolé
+FC19: Ligature arabe kha' djîm isolé
+FC1A: Ligature arabe kha' ha' isolé
+FC1B: Ligature arabe kha' mîm isolé
+FC1C: Ligature arabe sîn djîm isolé
+FC1D: Ligature arabe sîn ha' isolé
+FC1E: Ligature arabe sîn kha' isolé
+FC1F: Ligature arabe sîn mîm isolé
+FC20: Ligature arabe çad ha' isolé
+FC21: Ligature arabe çad mîm isolé
+FC22: Ligature arabe dad djîm isolé
+FC23: Ligature arabe dad ha' isolé
+FC24: Ligature arabe dad kha' isolé
+FC25: Ligature arabe dad mîm isolé
+FC26: Ligature arabe ta' ha' isolé
+FC27: Ligature arabe ta' mîm isolé
+FC28: Ligature arabe zza' mîm isolé
+FC29: Ligature arabe 'aïn djîm isolé
+FC2A: Ligature arabe 'aïn mîm isolé
+FC2B: Ligature arabe ghaïn djîm isolé
+FC2C: Ligature arabe ghaïn mîm isolé
+FC2D: Ligature arabe fa' djîm isolé
+FC2E: Ligature arabe fa' ha' isolé
+FC2F: Ligature arabe fa' kha' isolé
+FC30: Ligature arabe fa' mîm isolé
+FC31: Ligature arabe fa' alif maksoura isolé
+FC32: Ligature arabe fa' ya' isolé
+FC33: Ligature arabe qaf ha' isolé
+FC34: Ligature arabe qaf mîm isolé
+FC35: Ligature arabe qaf alif maksoura isolé
+FC36: Ligature arabe qaf ya' isolé
+FC37: Ligature arabe kaf alif isolé
+FC38: Ligature arabe kaf djîm isolé
+FC39: Ligature arabe kaf ha' isolé
+FC3A: Ligature arabe kaf kha' isolé
+FC3B: Ligature arabe kaf lam isolé
+FC3C: Ligature arabe kaf mîm isolé
+FC3D: Ligature arabe kaf alif maksoura isolé
+FC3E: Ligature arabe kaf ya' isolé
+FC3F: Ligature arabe lam djîm isolé
+FC40: Ligature arabe lam ha' isolé
+FC41: Ligature arabe lam kha' isolé
+FC42: Ligature arabe lam mîm isolé
+FC43: Ligature arabe lam alif maksoura isolé
+FC44: Ligature arabe lam ya' isolé
+FC45: Ligature arabe mîm djîm isolé
+FC46: Ligature arabe mîm ha' isolé
+FC47: Ligature arabe mîm kha' isolé
+FC48: Ligature arabe mîm mîm isolé
+FC49: Ligature arabe mîm alif maksoura isolé
+FC4A: Ligature arabe mîm ya' isolé
+FC4B: Ligature arabe noûn djîm isolé
+FC4C: Ligature arabe noûn ha' isolé
+FC4D: Ligature arabe noûn kha' isolé
+FC4E: Ligature arabe noûn mîm isolé
+FC4F: Ligature arabe noûn alif maksoura isolé
+FC50: Ligature arabe noûn ya' isolé
+FC51: Ligature arabe hé' djîm isolé
+FC52: Ligature arabe hé' mîm isolé
+FC53: Ligature arabe hé' alif maksoura isolé
+FC54: Ligature arabe hé' ya' isolé
+FC55: Ligature arabe ya' djîm isolé
+FC56: Ligature arabe ya' ha' isolé
+FC57: Ligature arabe ya' kha' isolé
+FC58: Ligature arabe ya' mîm isolé
+FC59: Ligature arabe ya' alif maksoura isolé
+FC5A: Ligature arabe ya' ya' isolé
+FC5B: Ligature arabe dhal en chef alif isolé
+FC5C: Ligature arabe ra' en chef alif isolé
+FC5D: Ligature arabe alif maksoura en chef alif isolé
+FC5E: Ligature arabe chadda dammatan isolé
+FC5F: Ligature arabe chadda kasratan isolé
+FC60: Ligature arabe chadda fatha isolé
+FC61: Ligature arabe chadda damma isolé
+FC62: Ligature arabe chadda kasra isolé
+FC63: Ligature arabe chadda en chef alif isolé
+FC64: Ligature arabe ya' hamza en chef ra' final
+FC65: Ligature arabe ya' hamza en chef zay final
+FC66: Ligature arabe ya' hamza en chef mîm final
+FC67: Ligature arabe ya' hamza en chef noûn final
+FC68: Ligature arabe ya' hamza en chef alif maksoura final
+FC69: Ligature arabe ya' hamza en chef ya' final
+FC6A: Ligature arabe ba' ra' final
+FC6B: Ligature arabe ba' zay final
+FC6C: Ligature arabe ba' mîm final
+FC6D: Ligature arabe ba' noûn final
+FC6E: Ligature arabe ba' alif maksoura final
+FC6F: Ligature arabe ba' ya' final
+FC70: Ligature arabe té' ra' final
+FC71: Ligature arabe té' zay final
+FC72: Ligature arabe té' mîm final
+FC73: Ligature arabe té' noûn final
+FC74: Ligature arabe té' alif maksoura final
+FC75: Ligature arabe té' ya' final
+FC76: Ligature arabe thé' ra' final
+FC77: Ligature arabe thé' zay final
+FC78: Ligature arabe thé' mîm final
+FC79: Ligature arabe thé' noûn final
+FC7A: Ligature arabe thé' alif maksoura final
+FC7B: Ligature arabe thé' ya' final
+FC7C: Ligature arabe fa' alif maksoura final
+FC7D: Ligature arabe fa' ya' final
+FC7E: Ligature arabe qaf alif maksoura final
+FC7F: Ligature arabe qaf ya' final
+FC80: Ligature arabe kaf alif final
+FC81: Ligature arabe kaf lam final
+FC82: Ligature arabe kaf mîm final
+FC83: Ligature arabe kaf alif maksoura final
+FC84: Ligature arabe kaf ya' final
+FC85: Ligature arabe lam mîm final
+FC86: Ligature arabe lam alif maksoura final
+FC87: Ligature arabe lam ya' final
+FC88: Ligature arabe mîm alif final
+FC89: Ligature arabe mîm mîm final
+FC8A: Ligature arabe noûn ra' final
+FC8B: Ligature arabe noûn zay final
+FC8C: Ligature arabe noûn mîm final
+FC8D: Ligature arabe noûn noûn final
+FC8E: Ligature arabe noûn alif maksoura final
+FC8F: Ligature arabe noûn ya' final
+FC90: Ligature arabe alif maksoura en chef alif final
+FC91: Ligature arabe ya' ra' final
+FC92: Ligature arabe ya' zay final
+FC93: Ligature arabe ya' mîm final
+FC94: Ligature arabe ya' noûn final
+FC95: Ligature arabe ya' alif maksoura final
+FC96: Ligature arabe ya' ya' final
+FC97: Ligature arabe ya' hamza en chef djîm initial
+FC98: Ligature arabe ya' hamza en chef ha' initial
+FC99: Ligature arabe ya' hamza en chef kha' initial
+FC9A: Ligature arabe ya' hamza en chef mîm initial
+FC9B: Ligature arabe ya' hamza en chef hé' initial
+FC9C: Ligature arabe ba' djîm initial
+FC9D: Ligature arabe ba' ha' initial
+FC9E: Ligature arabe ba' kha' initial
+FC9F: Ligature arabe ba' mîm initial
+FCA0: Ligature arabe ba' hé' initial
+FCA1: Ligature arabe té' djîm initial
+FCA2: Ligature arabe té' ha' initial
+FCA3: Ligature arabe té' kha' initial
+FCA4: Ligature arabe té' mîm initial
+FCA5: Ligature arabe té' hé' initial
+FCA6: Ligature arabe thé' mîm initial
+FCA7: Ligature arabe djîm ha' initial
+FCA8: Ligature arabe djîm mîm initial
+FCA9: Ligature arabe ha' djîm initial
+FCAA: Ligature arabe ha' mîm initial
+FCAB: Ligature arabe kha' djîm initial
+FCAC: Ligature arabe kha' mîm initial
+FCAD: Ligature arabe sîn djîm initial
+FCAE: Ligature arabe sîn ha' initial
+FCAF: Ligature arabe sîn kha' initial
+FCB0: Ligature arabe sîn mîm initial
+FCB1: Ligature arabe çad ha' initial
+FCB2: Ligature arabe çad kha' initial
+FCB3: Ligature arabe çad mîm initial
+FCB4: Ligature arabe dad djîm initial
+FCB5: Ligature arabe dad ha' initial
+FCB6: Ligature arabe dad kha' initial
+FCB7: Ligature arabe dad mîm initial
+FCB8: Ligature arabe ta' ha' initial
+FCB9: Ligature arabe zza' mîm initial
+FCBA: Ligature arabe 'aïn djîm initial
+FCBB: Ligature arabe 'aïn mîm initial
+FCBC: Ligature arabe ghaïn djîm initial
+FCBD: Ligature arabe ghaïn mîm initial
+FCBE: Ligature arabe fa' djîm initial
+FCBF: Ligature arabe fa' ha' initial
+FCC0: Ligature arabe fa' kha' initial
+FCC1: Ligature arabe fa' mîm initial
+FCC2: Ligature arabe qaf ha' initial
+FCC3: Ligature arabe qaf mîm initial
+FCC4: Ligature arabe kaf djîm initial
+FCC5: Ligature arabe kaf ha' initial
+FCC6: Ligature arabe kaf kha' initial
+FCC7: Ligature arabe kaf lam initial
+FCC8: Ligature arabe kaf mîm initial
+FCC9: Ligature arabe lam djîm initial
+FCCA: Ligature arabe lam ha' initial
+FCCB: Ligature arabe lam kha' initial
+FCCC: Ligature arabe lam mîm initial
+FCCD: Ligature arabe lam hé' initial
+FCCE: Ligature arabe mîm djîm initial
+FCCF: Ligature arabe mîm ha' initial
+FCD0: Ligature arabe mîm kha' initial
+FCD1: Ligature arabe mîm mîm initial
+FCD2: Ligature arabe noûn djîm initial
+FCD3: Ligature arabe noûn ha' initial
+FCD4: Ligature arabe noûn kha' initial
+FCD5: Ligature arabe noûn mîm initial
+FCD6: Ligature arabe noûn hé' initial
+FCD7: Ligature arabe hé' djîm initial
+FCD8: Ligature arabe hé' mîm initial
+FCD9: Ligature arabe hé' en chef alif initial
+FCDA: Ligature arabe ya' djîm initial
+FCDB: Ligature arabe ya' ha' initial
+FCDC: Ligature arabe ya' kha' initial
+FCDD: Ligature arabe ya' mîm initial
+FCDE: Ligature arabe ya' hé' initial
+FCDF: Ligature arabe ya' hamza en chef mîm médial
+FCE0: Ligature arabe ya' hamza en chef hé' médial
+FCE1: Ligature arabe ba' mîm médial
+FCE2: Ligature arabe ba' hé' médial
+FCE3: Ligature arabe té' mîm médial
+FCE4: Ligature arabe té' hé' médial
+FCE5: Ligature arabe thé' mîm médial
+FCE6: Ligature arabe thé' hé' médial
+FCE7: Ligature arabe sîn mîm médial
+FCE8: Ligature arabe sîn hé' médial
+FCE9: Ligature arabe chîn mîm médial
+FCEA: Ligature arabe chîn hé' médial
+FCEB: Ligature arabe kaf lam médial
+FCEC: Ligature arabe kaf mîm médial
+FCED: Ligature arabe lam mîm médial
+FCEE: Ligature arabe noûn mîm médial
+FCEF: Ligature arabe noûn hé' médial
+FCF0: Ligature arabe ya' mîm médial
+FCF1: Ligature arabe ya' hé' médial
+FCF2: Ligature arabe chadda fatha médial
+FCF3: Ligature arabe chadda damma médial
+FCF4: Ligature arabe chadda kasra médial
+FCF5: Ligature arabe ta' alif maksoura isolé
+FCF6: Ligature arabe ta' ya' isolé
+FCF7: Ligature arabe 'aïn alif maksoura isolé
+FCF8: Ligature arabe 'aïn ya' isolé
+FCF9: Ligature arabe ghaïn alif maksoura isolé
+FCFA: Ligature arabe ghaïn ya' isolé
+FCFB: Ligature arabe sîn alif maksoura isolé
+FCFC: Ligature arabe sîn ya' isolé
+FCFD: Ligature arabe chîn alif maksoura isolé
+FCFE: Ligature arabe chîn ya' isolé
+FCFF: Ligature arabe ha' alif maksoura isolé

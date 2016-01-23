@@ -1,0 +1,256 @@
+0000: Nul
+0001: Début d'en-tête
+0002: Début de texte
+0003: Fin de texte
+0004: Fin de transmission
+0005: Demande
+0006: Accusé de réception, accusé de réception positif
+0007: Sonnerie
+0008: Espace arrière
+0009: Tabulation horizontale, tab
+000A: Changement de ligne, passage à la ligne
+000B: Tabulation verticale
+000C: Saut de page, page suivante
+000D: Retour de chariot
+000E: Hors code, remplacement verrouillé un
+000F: En code, remplacement verrouillé zéro
+0010: Échappement transmission
+0011: Commande de dispositif un (d'appareil un)
+0012: Commande de dispositif deux (d'appareil deux)
+0013: Commande de dispositif trois (commande d'appareil trois)
+0014: Commande de dispositif quatre (commande d'appareil quatre)
+0015: Accusé de réception négatif
+0016: Synchronisation
+0017: Fin de bloc de transmission
+0018: Annulation
+0019: Fin de support
+001A: Substitution
+001B: Échappement
+001C: Séparateur de fichiers
+001D: Séparateur de groupes
+001E: Séparateur d'enregistrements, séparateur d'articles
+001F: Séparateur de sous-articles
+0020: Espace
+0021: Point d'exclamation : factorielle
+0022: Guillement angais : guillemet APL, petit guillemet, guillemet dactylographique
+0023: Croisillon : chemin de fer, dièse, carré, octothorpe, ducat
+0024: Symbole Dollar : milreis, escudo, piastre
+0025: Symbole Pour Cent
+0026: Perluéte : esperluète, esperluette, et
+0027: Apostrophe : guillemet APL
+0028: Parenthése gauche : parenthèse ouvrante
+0029: Parenthése droite : parenthèse fermante
+002A: Astérisque : étoile (sur les claviers téléphoniques)
+002B: Signe plus : addition
+002C: Virgule : séparateur décimal
+002D: Trait d'union-signe moins : tiret, trait d'union, signe moins
+002E: Point : point final, séparateur de milliers, point décimal anglo-saxon
+002F: Barre Oblique : cotice, oblique
+0030: Chiffre Zéro
+0031: Chiffre Un
+0032: Chiffre Deux
+0033: Chiffre Trois
+0034: Chiffre Quatre
+0035: Chiffre Cinq
+0036: Chiffre Six
+0037: Chiffre Sept
+0038: Chiffre Huit
+0039: Chiffre Neuf
+003A: Deux-points
+003B: Point-virgule
+003C: Signe inféieur : crochet brisé ouvrant
+003D: Signe égal : égalité
+003E: Signe supérieur : crochet brisé fermant
+003F: Point d'interrogation
+0040: Arrobe : à commercial, arobas, arobase, arrobas, queue de singe, a crolle
+0041: Lettre majuscule latine A
+0042: Lettre majuscule latine B
+0043: Lettre majuscule latine C
+0044: Lettre majuscule latine D
+0045: Lettre majuscule latine E
+0046: Lettre majuscule latine F
+0047: Lettre majuscule latine G
+0048: Lettre majuscule latine H
+0049: Lettre majuscule latine I
+004A: Lettre majuscule latine J
+004B: Lettre majuscule latine K
+004C: Lettre majuscule latine L
+004D: Lettre majuscule latine M
+004E: Lettre majuscule latine N
+004F: Lettre majuscule latine O
+0050: Lettre majuscule latine P
+0051: Lettre majuscule latine Q
+0052: Lettre majuscule latine R
+0053: Lettre majuscule latine S
+0054: Lettre majuscule latine T
+0055: Lettre majuscule latine U
+0056: Lettre majuscule latine V
+0057: Lettre majuscule latine W
+0058: Lettre majuscule latine X
+0059: Lettre majuscule latine Y
+005A: Lettre majuscule latine Z
+005B: Crochet gauche : crochet ouvrant
+005C: Barre oblique inversée : contre-cotice, oblique inverse, contre-oblique
+005D: Crochet droit : crochet fermant
+005E: Accent circonflexe
+005F: Tiret bas : tiret de soulignement, souligné
+0060: Accent grave
+0061: Lettre minuscule latine A
+0062: Lettre minuscule latine B
+0063: Lettre minuscule latine C
+0064: Lettre minuscule latine D
+0065: Lettre minuscule latine E
+0066: Lettre minuscule latine F
+0067: Lettre minuscule latine G
+0068: Lettre minuscule latine H
+0069: Lettre minuscule latine I
+006A: Lettre minuscule latine J
+006B: Lettre minuscule latine K
+006C: Lettre minuscule latine L
+006D: Lettre minuscule latine M
+006E: Lettre minuscule latine N
+006F: Lettre minuscule latine O
+0070: Lettre minuscule latine P
+0071: Lettre minuscule latine Q
+0072: Lettre minuscule latine R
+0073: Lettre minuscule latine S
+0074: Lettre minuscule latine T
+0075: Lettre minuscule latine U
+0076: Lettre minuscule latine V
+0077: Lettre minuscule latine W
+0078: Lettre minuscule latine X
+0079: Lettre minuscule latine Y
+007A: Lettre minuscule latine Z
+007B: Accolade gauche : accolade ouvrante
+007C: Barre verticale
+007D: Accolade droite : accolade fermante
+007E: Tilde
+007F: Suppression
+0080: Caractère de bourre
+0081: Octet supérieur prédéfini
+0082: Arrêt permis ici
+0083: Aucun arrêt ici
+0084: commande-0084
+0085: À la ligne
+0086: Début de zone sélectionnée
+0087: Fin de zone sélectionnée
+0088: Taquet de tabulateur horizontal, arrêt de tabulateur horizontal
+0089: Tabulateur horizontal avec justification
+008A: Taquet de tabulateur vertical, arrêt de tabulateur vertical
+008B: Interligne partiel avant
+008C: Interligne partiel arrière
+008D: Index renversé, interligne inversé
+008E: Remplacement unique deux
+008F: Remplacement unique trois
+0090: Chaîne de commande d'appareils
+0091: Usage privé un
+0092: Usage privé deux
+0093: Mise en mode transmission
+0094: Annulation du caractère précédent
+0095: Message en attente
+0096: Début de zone protégée
+0097: Fin de zone protégée
+0098: Début de chaîne
+0099: Introducteur de caractère graphique unique
+009A: Introducteur de caractère unique
+009B: Introducteur de séquence de commandes
+009C: Fin de chaîne
+009D: Commande de système d'exploitation
+009E: Message privé
+009F: Commande de progiciel
+00A0: Espace insécable : espinc : espace imposée, espace sans coupure, espace liante
+00A1: Point d'exclamation renversé : point d'exclamation inversé
+00A2: Symbole Centime : symbole cent américain
+00A3: Symbole Livre : livre sterling, punt irlandaise, livre tournoi, lire italienne, livre
+00A4: Symbole Monétaire
+00A5: Symbole Yen : symbole yuan
+00A6: Barre verticale discontinue : barre déjointe, barre à trou
+00A7: Paragraphe : alinéa
+00A8: Tréma
+00A9: Symbole Copyright : mention de réserve
+00AA: Indicateur ordinal féminin
+00AB: Guillemet gauche : guillemet chevron pointant vers la gauche
+00AC: Signe négation : symbole non
+00AD: Trait d'union conditionnel : trait d'union virtuel
+00AE: Symbole marque déposée
+00AF: Macron : barre supérieure APL
+00B0: Symbole Degré
+00B1: Signe plus-ou-moins
+00B2: Exposant deux : au carré
+00B3: Exposant trois : cube
+00B4: Accent aigu
+00B5: Symbole micro
+00B6: Pied-de-mouche : fin de paragraphe
+00B7: Point Médian : point central, point au milieu : virgule géorgienne : point médian grec (ano teleia)
+00B8: Cédille
+00B9: Exposant un
+00BA: Indicateur ordinal masculin
+00BB: Guillemet droit : guillemet chevron pointant vers la droite
+00BC: Fraction un quart
+00BD: Fraction un demi
+00BE: Fraction trois quarts
+00BF: Point d'interrogatin renversé : point d'interrogation inversé
+00C0: Lettre majuscule latine A accent grave
+00C1: Lettre majuscule latine A accent aigu
+00C2: Lettre majuscule latine A accent circonflexe
+00C3: Lettre majuscule latine A tilde
+00C4: Lettre majuscule latine A tréma
+00C5: Lettre majuscule latine A rond en chef
+00C6: Lettre majuscule latine AE (ash) : digramme soudé ae, ash : e dans l'a majuscule
+00C7: Lettre majuscule latine C cédille
+00C8: Lettre majuscule latine E accent grave
+00C9: Lettre majuscule latine E accent aigu
+00CA: Lettre majuscule latine E accent circonflexe
+00CB: Lettre majuscule latine E tréma
+00CC: Lettre majuscule latine I accent grave
+00CD: Lettre majuscule latine I accent aigu
+00CE: Lettre majuscule latine I accent circonflexe
+00CF: Lettre majuscule latine I tréma
+00D0: Lettre majuscule latine ED (islandais) : eth majuscule
+00D1: Lettre majuscule latine N tilde
+00D2: Lettre majuscule latine O accent grave
+00D3: Lettre majuscule latine O accent aigu
+00D4: Lettre majuscule latine O accent circonflexe
+00D5: Lettre majuscule latine O tilde
+00D6: Lettre majuscule latine O tréma
+00D7: Signe multiplication : produit cartésien en notation z
+00D8: Lettre majuscule latine O BARRÉ OBLIQUEMENT : o coticé
+00D9: Lettre majuscule latine U accent grave
+00DA: Lettre majuscule latine U accent aigu
+00DB: Lettre majuscule latine U accent circonflexe
+00DC: Lettre majuscule latine U tréma
+00DD: Lettre majuscule latine Y accent aigu
+00DE: Lettre majuscule latine Thron (islandais)
+00DF: Lettre minuscule latine S dur (allemand) : eszett, s dur allemand
+00E0: Lettre minuscule latine A accent grave
+00E1: Lettre minuscule latine A accent aigu
+00E2: Lettre minuscule latine A accent circonflexe
+00E3: Lettre minuscule latine A tilde
+00E4: Lettre minuscule latine A tréma
+00E5: Lettre minuscule latine A rond en chef
+00E6: Lettre minuscule latine AE (ash) : digramme soudé ae, ash (de l'ancien anglais æsc) : e dans l'a minuscule
+00E7: Lettre minuscule latine C cédille
+00E8: Lettre minuscule latine E accent grave
+00E9: Lettre minuscule latine E accent aigu
+00EA: Lettre minuscule latine E accent circonflexe
+00EB: Lettre minuscule latine E tréma
+00EC: Lettre minuscule latine I accent grave
+00ED: Lettre minuscule latine I accent aigu
+00EE: Lettre minuscule latine I accent circonflexe
+00EF: Lettre minuscule latine I tréma
+00F0: Lettre minuscule latine ED (islandais) : eth minuscule
+00F1: Lettre minuscule latine N tilde
+00F2: Lettre minuscule latine O accent grave
+00F3: Lettre minuscule latine O accent aigu
+00F4: Lettre minuscule latine O accent circonflexe
+00F5: Lettre minuscule latine O tilde
+00F6: Lettre minuscule latine O tréma
+00F7: Signe division
+00F8: Lettre minuscule latine O berré obliquement : o coticé
+00F9: Lettre minuscule latine U accent grave
+00FA: Lettre minuscule latine U accent aigu
+00FB: Lettre minuscule latine U accent circonflexe
+00FC: Lettre minuscule latine U trémaA
+00FD: Lettre minuscule latine Y accent aigu
+00FE: Lettre minuscule latine Thorn (islandais)
+00FF: Lettre minuscule latine Y tréma

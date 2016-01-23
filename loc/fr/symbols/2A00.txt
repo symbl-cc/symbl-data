@@ -1,0 +1,256 @@
+2A00: Opérateur point cerclé n-aire
+2A01: Opérateur plus cerclé n-aire
+2A02: Opérateur multiplié par cerclé n-aire
+2A03: Opérateur union n-aire pointé
+2A04: Opérateur union n-aire avec plus
+2A05: Opérateur intersection carré n-aire
+2A06: Opérateur union carré n-aire
+2A07: Opérateur deux et logiques : fusion
+2A08: Opérateur deux ou logiques
+2A09: Opérateur multiplié par n-aire
+2A0A: Sommation modulo deux
+2A0B: Sommation avec intégrale
+2A0C: Intégrale quadruple
+2A0D: Intégrale à partie finie
+2A0E: Intégrale à deux barres horizontales
+2A0F: Moyenne d'intégrale à barre oblique inversée
+2A10: Fonction de circulation
+2A11: Intégrale en sens positif
+2A12: Intégrale de ligne à chemin rectangulaire autour du pôle
+2A13: Intégrale de ligne à chemin semi-circulaire autour du pôle
+2A14: Intégrale de ligne évitant le pôle
+2A15: Intégrale autour d'un opérateur point
+2A16: Intégrale quaternion
+2A17: Intégrale à crosse fléchée vers la gauche
+2A18: Intégrale au signe multiplié par
+2A19: Intégrale à signe intersection
+2A1A: Intégrale à signe union
+2A1B: Intégrale à barre en chef : intégrale supérieure
+2A1C: Intégrale à barre souscrite : intégrale inférieure
+2A1D: Jointure : gros nœud papillon
+2A1E: Gros opérateur triangle gauche
+2A1F: Composition de schémas en notation z
+2A20: Tubage de schémas en notation z
+2A21: Projection de schémas en notation z
+2A22: Plus surmonté d'un petit cercle
+2A23: Plus surmonté d'un circonflexe
+2A24: Plus surmonté d'un tilde : différence positive ou somme
+2A25: Plus à point souscrit
+2A26: Plus à tilde souscrit : somme ou différence positive
+2A27: Plus à chiffre deux souscrit : addition nim
+2A28: Plus à triangle noir
+2A29: Moins surmonté d'une virgule
+2A2A: Moins à point souscrit
+2A2B: Moins à points descendants
+2A2C: Moins à points ascendants
+2A2D: Plus dans demi-cercle gauche
+2A2E: Plus dans demi-cercle droit
+2A2F: Produit vectoriel
+2A30: Signe multiplication à point en chef
+2A31: Signe multiplication à barre souscrite
+2A32: Produit semi-direct fermé en bas
+2A33: Produit fusionné
+2A34: Signe multiplication dans demi-cercle gauche
+2A35: Signe multiplication dans demi-cercle droit
+2A36: Signe multiplication cerclé circonflexe
+2A37: Signe multiplication doublement cerclé
+2A38: Signe division cerclé
+2A39: Plus dans triangle
+2A3A: Moins dans triangle
+2A3B: Signe multiplication dans triangle
+2A3C: Produit intérieur
+2A3D: Produit intérieur à droite
+2A3E: Composition relationnelle en notation z
+2A3F: Amalgamation ou coproduit
+2A40: Intersection pointée
+2A41: Union à signe moins : différence de sacs en notation z
+2A42: Union à barre en chef
+2A43: Intersection à barre en chef
+2A44: Intersection avec et logique
+2A45: Union avec ou logique
+2A46: Union par-dessus intersection
+2A47: Intersection par-dessus union
+2A48: Union par-dessus trait par-dessus intersection
+2A49: Intersection par-dessus trait par-dessus union
+2A4A: Deux unions soudées côte à côte
+2A4B: Deux intersections soudées côte à côte
+2A4C: Union fermée à empattements
+2A4D: Intersection fermée à empattements
+2A4E: Deux intersections carrées emboîtées
+2A4F: Deux unions carrées emboîtées
+2A50: Union fermée à empattements et produit fusionné
+2A51: Et logique à point en chef
+2A52: Ou logique à point en chef
+2A53: Double et logique
+2A54: Double ou logique
+2A55: Deux et logiques entrecroisés
+2A56: Deux ou logiques entrecroisés
+2A57: Grand ou incliné
+2A58: Grand et incliné
+2A59: Et et ou logiques entrecroisés
+2A5A: Et logique à hampe médiane
+2A5B: Ou logique à hampe médiane
+2A5C: Et logique à tiret horizontal
+2A5D: Ou logique à tiret horizontal
+2A5E: Et logique à deux barres en chef
+2A5F: Et logique à barre souscrite
+2A60: Et logique à deux barres souscrites
+2A61: Petit v à barre souscrite
+2A62: Ou logique à deux barres en chef
+2A63: Ou logique à deux barres souscrites
+2A64: Antirestriction de domaine en notation z
+2A65: Antirestriction de codomaine en notation z
+2A66: Signe égal point souscrit
+2A67: Identique à surmonté d'un point
+2A68: Deux barres verticales à trois traverses : identique et parallèle à
+2A69: Trois barres verticales à trois traverses
+2A6A: Opérateur tilde point en chef
+2A6B: Opérateur tilde à points ascendants
+2A6C: Similaire à moins similaire à
+2A6D: Congruent point en chef
+2A6E: Égal astérisque en chef
+2A6F: Presque égal à circonflexe
+2A70: Approximativement égal à ou égal à
+2A71: Plus signe égal en chef
+2A72: Égal à signe plus en chef
+2A73: Tilde signe égal en chef
+2A74: Double deux-points égal à
+2A75: Deux signes égal à consécutifs
+2A76: Trois signes égal à consécutifs
+2A77: Égal à deux points en chef deux points souscrits
+2A78: Équivalent quatre points en chef
+2A79: Inférieur à avec cercle inscrit
+2A7A: Supérieur à avec cercle inscrit
+2A7B: Inférieur à point d'interrogation en chef
+2A7C: Supérieur à point d'interrogation en chef
+2A7D: Plus petit ou égal à incliné
+2A7E: Supérieur à ou égal à incliné
+2A7F: Inférieur à ou égal à incliné point inscrit
+2A80: Supérieur à ou égal à incliné point inscrit
+2A81: Inférieur à ou égal à incliné point en chef
+2A82: Supérieur à ou égal à incliné point en chef
+2A83: Inférieur à ou égal à incliné point en chef droit
+2A84: Supérieur à ou égal à incliné point en chef gauche
+2A85: Inférieur à ou approximatif
+2A86: Supérieur à ou approximatif
+2A87: Inférieur à et pas égal à une ligne
+2A88: Supérieur à et pas égal à une ligne
+2A89: Inférieur à et non approximatif
+2A8A: Supérieur à et non approximatif
+2A8B: Inférieur à par-dessus égal à deux lignes par-dessus supérieur à
+2A8C: Supérieur à par-dessus égal à deux lignes par-dessus inférieur à
+2A8D: Inférieur à par-dessus similaire à ou égal à
+2A8E: Supérieur à par-dessus similaire à ou égal à
+2A8F: Inférieur à par-dessus similaire à par-dessus supérieur à
+2A90: Supérieur à par-dessus similaire à par-dessus inférieur à
+2A91: Inférieur à par-dessus supérieur à par-dessus égal à deux lignes
+2A92: Supérieur à par-dessus inférieur à par-dessus égal à deux lignes
+2A93: Inférieur à par-dessus égal à incliné par-dessus supérieur à par-dessus égal à incliné
+2A94: Supérieur à par-dessus égal à incliné par-dessus inférieur à par-dessus égal à incliné
+2A95: Égal à incliné ou inférieur à
+2A96: Égal à incliné ou supérieur à
+2A97: Égal à incliné ou inférieur à point inscrit
+2A98: Égal à incliné ou supérieur à point inscrit
+2A99: Égal à deux lignes ou inférieur à
+2A9A: Égal à deux lignes ou supérieur à
+2A9B: Inférieur à ou égal à à deux lignes inclinées
+2A9C: Supérieur à ou égal à à deux lignes inclinées
+2A9D: Similaire à ou inférieur à
+2A9E: Similaire à ou supérieur à
+2A9F: Similaire à par-dessus inférieur à par-dessus signe égal
+2AA0: Similaire à par-dessus supérieur à par-dessus signe égal
+2AA1: Deux inférieur à emboîtés : continuité absolue
+2AA2: Deux supérieur à emboîtés
+2AA3: Deux inférieur à emboîtés avec barre souscrite
+2AA4: Deux supérieur à entrecroisés
+2AA5: Supérieur à à côté de inférieur à
+2AA6: Inférieur à fermé d'un arc
+2AA7: Supérieur à fermé d'un arc
+2AA8: Inférieur à fermé d'un arc par-dessus égal à incliné
+2AA9: Supérieur à fermé d'un arc par-dessus égal à incliné
+2AAA: Plus petit que en fourche
+2AAB: Plus grand que en fourche
+2AAC: Plus petit ou égal que en fourche
+2AAD: Plus grand ou égal que en fourche
+2AAE: Signe égal et dos-d'âne
+2AAF: Précède par-dessus signe égal à une ligne
+2AB0: Suit par-dessus signe égal à une ligne
+2AB1: Précède par-dessus pas égal à une ligne
+2AB2: Suit par-dessus pas égal à une ligne
+2AB3: Précède par-dessus signe égal
+2AB4: Suit par-dessus signe égal
+2AB5: Précède par-dessus pas égal à
+2AB6: Suit par-dessus pas égal à
+2AB7: Précède par-dessus presque égal à
+2AB8: Suit par-dessus presque égal à
+2AB9: Précède par-dessus non presque égal à
+2ABA: Suit par-dessus non presque égal à
+2ABB: Double précède
+2ABC: Double suit
+2ABD: Sous-ensemble pointé
+2ABE: Sur-ensemble pointé
+2ABF: Sous-ensemble plus souscrit
+2AC0: Sur-ensemble plus souscrit
+2AC1: Sous-ensemble à signe de multiplication souscrit
+2AC2: Sur-ensemble à signe de multiplication souscrit
+2AC3: Sous-ensemble de ou égal à point en chef
+2AC4: Sur-ensemble de ou égal à point en chef
+2AC5: Sous-ensemble de par-dessus signe égal
+2AC6: Sur-ensemble de par-dessus signe égal
+2AC7: Sous-ensemble de par-dessus opérateur tilde
+2AC8: Sur-ensemble de par-dessus opérateur tilde
+2AC9: Sous-ensemble de par-dessus presque égal à
+2ACA: Sur-ensemble de par-dessus presque égal à
+2ACB: Sous-ensemble de par-dessus pas égal à
+2ACC: Sur-ensemble de par-dessus pas égal à
+2ACD: Opérateur boîte carrée ouverte gauche
+2ACE: Opérateur boîte carrée ouverte droite
+2ACF: Sous-ensemble clos
+2AD0: Sur-ensemble clos
+2AD1: Sous-ensemble clos ou égal à
+2AD2: Sur-ensemble clos ou égal à
+2AD3: Sous-ensemble par-dessus sur-ensemble
+2AD4: Sur-ensemble par-dessus sous-ensemble
+2AD5: Sous-ensemble par-dessus sous-ensemble
+2AD6: Sur-ensemble par-dessus sur-ensemble
+2AD7: Sur-ensemble à côté de sous-ensemble
+2AD8: Sur-ensemble chaîné à sous-ensemble
+2AD9: Appartient à ouvert vers le bas
+2ADA: Fourche surmontée d'un t
+2ADB: Intersection transversale
+2ADC: Bifurcation (non indépendant) : non indépendant
+2ADD: Non-bifurcation (indépendant) : indépendant
+2ADE: Taquet gauche court
+2ADF: Taquet court vers le bas
+2AE0: Taquet court vers le haut
+2AE1: Perpendiculaire à s
+2AE2: Triple tourniquet droit à barre verticale : satisfait habituellement
+2AE3: Tourniquet gauche à double barre verticale
+2AE4: Double tourniquet gauche à barre verticale
+2AE5: Double tourniquet gauche à double barre verticale
+2AE6: Double barre verticale gauche à traverse
+2AE7: Taquet court vers le bas avec barre en chef
+2AE8: Taquet court vers le haut avec barre souscrite
+2AE9: Taquet court vers le haut par-dessus taquet court vers le bas
+2AEA: Double taquet vers le bas
+2AEB: Double taquet vers le haut : indépendance
+2AEC: Signe négation à deux traits
+2AED: Signe négation à deux traits réfléchi
+2AEE: N'est pas un diviseur de à barre de négation réfléchie
+2AEF: Ligne verticale cercle en chef
+2AF0: Ligne verticale cercle souscrit
+2AF1: Taquet vers le bas surmontant un cercle : satisfait nécessairement
+2AF2: Parallèle à vertical à une traverse
+2AF3: Parallèle à avec opérateur tilde
+2AF4: Relation binaire triple barre verticale : imbriquer
+2AF5: Triple barre verticale à une traverse
+2AF6: Opérateur trois-points
+2AF7: Trois inférieur à emboîtés
+2AF8: Trois supérieur à emboîtés
+2AF9: Inférieur à ou égal à et deux lignes inclinées
+2AFA: Supérieur à ou égal à et deux lignes inclinées
+2AFB: Relation binaire triple oblique
+2AFC: Grand opérateur à trois barres verticales
+2AFD: Opérateur double oblique
+2AFE: Barre verticale blanche : choix de dijkstra
+2AFF: Barre verticale blanche n-aire : choix n-aire de dijkstra

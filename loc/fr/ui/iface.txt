@@ -1,0 +1,28 @@
+up: En haut
+range: Gamme
+loading: S'il vous plaît, attendez ...
+count: Nombre de caractères
+sort-order: Par ordre
+sort-block: Par blocs
+copy-clipboard: Copier
+help-range: Cliquez pour mettre en évidence gamme
+more: Plus
+prev: Précédent
+next: Next
+separate-page: Open in page séparée
+share-link: Partager avec des amis
+# @todo recent
+# @todo recent-text
+read-more: En savoir plus
+read-less: Cacher
+
+[mobile]
+to-full: Aller à la version complète
+# @todo to-mobile
+
+[edit]: Modifier
+save: Record
+submit: Soumettre
+undo: Annuler
+send-changes: Vos modifications seront envoyés aux développeurs de site Web. Êtes-vous sûr?
+thanks: Merci!

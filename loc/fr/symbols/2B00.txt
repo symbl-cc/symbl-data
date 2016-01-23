@@ -1,0 +1,256 @@
+2B00: Flèche blanche nord-est
+2B01: Flèche blanche nord-ouest
+2B02: Flèche blanche sud-est
+2B03: Flèche blanche sud-ouest
+2B04: Flèche blanche bilatérale
+2B05: Flèche noire vers la gauche
+2B06: Flèche noire vers le haut
+2B07: Flèche noire vers le bas
+2B08: Flèche noire nord-est
+2B09: Flèche noire nord-ouest
+2B0A: Flèche noire sud-est
+2B0B: Flèche noire sud-ouest
+2B0C: Flèche noire bilatérale
+2B0D: Flèche noire haut et bas
+2B0E: Flèche vers la droite à pointe pliée vers le bas
+2B0F: Flèche vers la droite à pointe pliée vers le haut
+2B10: Flèche vers la gauche à pointe pliée vers le bas
+2B11: Flèche vers la gauche à pointe pliée vers le haut
+2B12: Carré à moitié supérieure noire
+2B13: Carré à moitié inférieure noire
+2B14: Carré à moitié diagonale supérieure droite noire
+2B15: Carré à moitié diagonale inférieure droite noire
+2B16: Losange à moitié gauche noire
+2B17: Losange à moitié droite noire
+2B18: Losange à moitié supérieure noire
+2B19: Losange à moitié inférieure noire
+2B1A: Carré en pointillés
+2B1B: Grand carré noir
+2B1C: Grand carré blanc
+2B1D: Très petit carré noir
+2B1E: Très petit carré blanc
+2B1F: Pentagone noir
+2B20: Pentagone blanc
+2B21: Hexagone blanc
+2B22: Hexagone noir
+2B23: Hexagone noir posé sur un côté
+2B24: Grand cercle noir
+2B25: Losange moyen noir
+2B26: Losange moyen blanc
+2B27: Rhombe moyen noir
+2B28: Rhombe moyen blanc
+2B29: Petit losange noir
+2B2A: Petit rhombe noir
+2B2B: Petit rhombe blanc
+2B2C: Ellipse horizontale noire
+2B2D: Ellipse horizontale blanche
+2B2E: Ellipse verticale noire
+2B2F: Ellipse verticale blanche
+2B30: Flèche vers la gauche à petit cercle
+2B31: Trois flèches vers la gauche
+2B32: Flèche vers la gauche à signe plus cerclé
+2B33: Longue flèche vers la gauche en tire-bouchon
+2B34: Flèche à deux pointes vers la gauche barrée verticalement
+2B35: Flèche à deux pointes vers la gauche barrée deux fois verticalement
+2B36: Flèche à deux têtes d'un taquet vers la gauche
+2B37: Flèche à trois traits et à deux têtes vers la gauche
+2B38: Flèche vers la gauche à fût pointillé
+2B39: Flèche empennée vers la gauche barrée verticalement
+2B3A: Flèche empennée vers la gauche barrée deux fois verticalement
+2B3B: Flèche empennée à deux têtes vers la gauche
+2B3C: Flèche empennée à deux têtes vers la gauche barrée verticalement
+2B3D: Flèche empennée à deux têtes vers la gauche barrée deux fois verticalement
+2B3E: Flèche vers la gauche au travers un x
+2B3F: Flèche vers la gauche bossue
+2B40: Flèche vers la gauche surmontée d'un égal
+2B41: Flèche vers la gauche surmontée d'un tilde
+2B42: Presque égal à réfléchi surmonté d'une flèche vers la gauche
+2B43: Flèche vers la droite à travers un inférieur à
+2B44: Flèche vers la droite au travers d'un sous-ensemble de
+2B45: Quadruple flèche vers la gauche
+2B46: Quadruple flèche vers la droite
+2B47: Flèche vers la droite surmontée d'un opérateur tilde réfléchi
+2B48: Presque égal à réfléchi surmonté d'une flèche vers la droite
+2B49: Flèche vers la gauche surmontée de l'opérateur tilde
+2B4A: Flèche vers la gauche par-dessus presque égal à
+2B4B: Tilde réfléchi surmonté d'une flèche vers la gauche
+2B4C: Ilde surmonté d'une flèche vers la droite
+2B4D: Flèche à pointe en triangle vers le bas en zigzag
+2B4E: Flèche courte inclinée au nord
+2B4F: Flèche courte inclinée au sud
+2B50: Étoile moyenne blanche
+2B51: Petite étoile noire
+2B52: Petite étoile blanche
+2B53: Pentagone noir pointant vers la droite
+2B54: Pentagone blanc pointant vers la droite
+2B55: Grand cercle gras
+2B56: Ovale gras avec ovale inscrit
+2B57: Cercle gras avec cercle inscrit
+2B58: Cercle gras
+2B59: Sautoir cerclé gras
+2B5A: Flèche inclinée au nord à tête en forme de crosse
+2B5B: Flèche inclinée au sud à empenne en forme de crosse
+2B5C: Flèche inclinée au nord à empenne horizontale
+2B5D: Flèche inclinée au sud à empenne horizontale
+2B5E: Flèche courte pliée vers le bas puis au nord-est
+2B5F: Flèche courte pliée pointant vers le bas puis au nord-est
+2B60: Flèche à pointe en triangle vers la gauche
+2B61: Flèche à pointe en triangle vers le haut
+2B62: Flèche à pointe en triangle vers la droite
+2B63: Flèche à pointe en triangle vers le bas
+2B64: Flèche bilatérale à pointes en triangle
+2B65: Flèche à pointe en triangle haut et bas
+2B66: Flèche à pointe en triangle nord-ouest
+2B67: Flèche à pointe en triangle nord-est
+2B68: Flèche à pointe en triangle sud-est
+2B69: Flèche à pointe en triangle sud-ouest
+2B6A: Flèche pointillée à pointe en triangle vers la gauche
+2B6B: Flèche pointillée à pointe en triangle vers le haut
+2B6C: Flèche pointillée à pointe en triangle vers la droite
+2B6D: Flèche pointillée à pointe en triangle vers le bas
+2B6E: Flèche à pointe en triangle en cercle ouvert dans le sens horaire
+2B6F: Flèche à pointe en triangle en cercle ouvert dans le sens antihoraire
+2B70: Flèche à pointe en triangle jusqu’à un taquet vers la gauche
+2B71: Flèche à pointe en triangle jusqu’à un taquet vers le haut
+2B72: Flèche à pointe en triangle jusqu’à un taquet vers la droite
+2B73: Flèche à pointe en triangle jusqu’à un taquet vers le bas
+2B74: 
+2B75: 
+2B76: Flèche à pointe en triangle jusqu’à un taquet nord-ouest
+2B77: Flèche à pointe en triangle jusqu’à un taquet nord-est
+2B78: Flèche à pointe en triangle jusqu’à un taquet sud-est
+2B79: Flèche à pointe en triangle jusqu’à un taquet sud-ouest
+2B7A: Flèche à pointe en triangle à double trait vertical vers la gauche
+2B7B: Flèche à pointe en triangle à double trait horizontal vers le haut
+2B7C: Flèche à pointe en triangle à double trait vertical vers la droite
+2B7D: Flèche à pointe en triangle à double trait horizontal vers le bas
+2B7E: Touche de tabulation horizontale
+2B7F: Touche de tabulation verticale
+2B80: Flèche à pointe en triangle vers la gauche sur une flèche à pointe en triangle vers la droite
+2B81: Flèche à pointe en triangle vers le haut à gauche d’une flèche à pointe en triangle vers le bas
+2B82: Flèche à pointe en triangle vers la droite sur une flèche à pointe en triangle vers la gauche
+2B83: Flèche à pointe en triangle vers le bas à gauche d’une flèche à pointe en triangle vers le haut
+2B84: Paire de flèches à pointe en triangle vers la gauche
+2B85: Paire de flèches à pointe en triangle vers le haut
+2B86: Paire de flèches à pointe en triangle vers la droite
+2B87: Paire de flèches à pointe en triangle vers le bas
+2B88: Flèche blanche cerclée de noir vers la gauche
+2B89: Flèche blanche cerclée de noir vers le haut
+2B8A: Flèche blanche cerclée de noir vers la droite
+2B8B: Flèche blanche cerclée de noir vers le bas
+2B8C: Flèche à pointe en triangle en u à droite tournant dans le sens antihoraire
+2B8D: Flèche à pointe en triangle en u en bas tournant dans le sens antihoraire
+2B8E: Flèche à pointe en triangle en u à gauche tournant dans le sens antihoraire
+2B8F: Flèche à pointe en triangle en u en haut tournant dans le sens antihoraire
+2B90: Retour de chariot à gauche
+2B91: Retour de chariot à droite
+2B92: Nouvelle ligne à gauche
+2B93: Nouvelle ligne à droite
+2B94: Quatre flèches en coin tournant en sens antihoraire
+2B95: Flèche noire vers la droite
+2B96: 
+2B97: 
+2B98: Pointe de flèche équilatérale trois-d éclairée par le haut vers la gauche
+2B99: Pointe de flèche équilatérale trois-d éclairée par la droite vers le haut
+2B9A: Pointe de flèche équilatérale trois-d éclairée par le haut vers la droite
+2B9B: Pointe de flèche équilatérale trois-d éclairée par la gauche vers le bas
+2B9C: Pointe de flèche équilatérale noire vers la gauche
+2B9D: Pointe de flèche équilatérale noire vers le haut
+2B9E: Pointe de flèche équilatérale noire vers la droite
+2B9F: Pointe de flèche équilatérale noire vers le bas
+2BA0: Flèche vers le bas à pointe longue en triangle vers la gauche
+2BA1: Flèche vers le bas à pointe longue en triangle vers la droite
+2BA2: Flèche vers le haut à pointe longue en triangle vers la gauche
+2BA3: Flèche vers le haut à pointe longue en triangle vers la droite
+2BA4: Flèchevers la gauche à pointe longue en triangle vers le haut
+2BA5: Flèche vers la droite à pointe longue en triangle vers le haut
+2BA6: Flèche vers la gauche à pointe longue en triangle vers le bas
+2BA7: Flèche vers la droite à pointe longue en triangle vers le bas
+2BA8: Flèche noire courbée vers le bas et vers la gauche
+2BA9: Flèche noire courbée vers le bas et vers la droite
+2BAA: Flèche noire courbée vers le haut et vers la gauche
+2BAB: Flèche noire courbée vers le haut et vers la droite
+2BAC: Flèche noire courbée vers la gauche et vers le haut
+2BAD: Flèche noire courbée vers la droite et vers le haut
+2BAE: Flèche noire courbée vers la gauche et vers le bas
+2BAF: Flèche noire courbée vers la droite et vers le bas
+2BB0: Flèche en ruban vers le bas et vers la gauche
+2BB1: Flèche en ruban vers le bas et vers la droite
+2BB2: Flèche en ruban vers le haut et vers la gauche
+2BB3: Flèche en ruban vers le haut et vers la droite
+2BB4: Flèche en ruban vers la gauche et vers le haut
+2BB5: Flèche en ruban vers la droite et vers le haut
+2BB6: Flèche en ruban vers la gauche et vers le bas
+2BB7: Flèche en ruban vers la droite et vers le bas
+2BB8: Flèche blanche barrée horizontalement d’un taquet vers le haut
+2BB9: Pointe de flèche vers le haut inscrite dans une boîte rectangulaire
+2BBA: 
+2BBB: 
+2BBC: 
+2BBD: Bulletin de vote marqué d’un x fin
+2BBE: X cerclé
+2BBF: X gras cerclé
+2BC0: Carré noir centré
+2BC1: Losange noir centré
+2BC2: Pentagone noir culbuté
+2BC3: Octogone noir horizontal
+2BC4: Octogone noir
+2BC5: Triangle moyen noir vers le haut centré
+2BC6: Triangle moyen noir vers le bas centré
+2BC7: Triangle moyen noir vers la gauche centré
+2BC8: Triangle moyen noir vers la droite centré
+2BC9: 
+2BCA: Moitié supérieure de cercle noir
+2BCB: Moitié inférieure de cercle noir
+2BCC: Valvule fine à quatre branches noire
+2BCD: Valvule fine à quatre branches noire couchée
+2BCE: Valvule à quatre branches blanche
+2BCF: Valvule à quatre branches blanche couchée
+2BD0: Repère de calage carré
+2BD1: Signe d’incertitude
+2BD2: 
+2BD3: 
+2BD4: 
+2BD5: 
+2BD6: 
+2BD7: 
+2BD8: 
+2BD9: 
+2BDA: 
+2BDB: 
+2BDC: 
+2BDD: 
+2BDE: 
+2BDF: 
+2BE0: 
+2BE1: 
+2BE2: 
+2BE3: 
+2BE4: 
+2BE5: 
+2BE6: 
+2BE7: 
+2BE8: 
+2BE9: 
+2BEA: 
+2BEB: 
+2BEC: 
+2BED: 
+2BEE: 
+2BEF: 
+2BF0: 
+2BF1: 
+2BF2: 
+2BF3: 
+2BF4: 
+2BF5: 
+2BF6: 
+2BF7: 
+2BF8: 
+2BF9: 
+2BFA: 
+2BFB: 
+2BFC: 
+2BFD: 
+2BFE: 
+2BFF: 

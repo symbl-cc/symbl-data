@@ -1,0 +1,23 @@
+title: Table de caractères Unicode®
+
+[sets]: Les jeux de caractères
+set: Fixé
+list: Les jeux de caractères
+
+[blocks]: Unicode blocs
+block: Bloc
+blocks: Unicode blocs
+
+[languages]: Langues
+list: Langues
+blocks: Blocs de langue
+
+[countries]: Pays
+list: Pays
+
+[alphabets]: Alphabets
+# @todo list
+
+[types]
+# @todo type
+list: Types

@@ -1,0 +1,256 @@
+10C00: Lettre orkhon a
+10C01: Lettre orkhon iénisséi a
+10C02: Lettre orkhon iénisséi ae
+10C03: Lettre orkhon i
+10C04: Lettre orkhon iénisséi i
+10C05: Lettre orkhon iénisséi e
+10C06: Lettre orkhon o
+10C07: Lettre orkhon oe
+10C08: Lettre orkhon iénisséi oe
+10C09: Lettre orkhon ab
+10C0A: Lettre orkhon iénisséi ab
+10C0B: Lettre orkhon aeb
+10C0C: Lettre orkhon iénisséi aeb
+10C0D: Lettre orkhon ag
+10C0E: Lettre orkhon iénisséi ag
+10C0F: Lettre orkhon aeg
+10C10: Lettre orkhon iénisséi aeg
+10C11: Lettre orkhon ad
+10C12: Lettre orkhon iénisséi ad
+10C13: Lettre orkhon aed
+10C14: Lettre orkhon ez
+10C15: Lettre orkhon iénisséi ez
+10C16: Lettre orkhon ay
+10C17: Lettre orkhon iénisséi ay
+10C18: Lettre orkhon aey
+10C19: Lettre orkhon iénisséi aey
+10C1A: Lettre orkhon aek
+10C1B: Lettre orkhon iénisséi aek
+10C1C: Lettre orkhon oek
+10C1D: Lettre orkhon iénisséi oek
+10C1E: Lettre orkhon al
+10C1F: Lettre orkhon iénisséi al
+10C20: Lettre orkhon ael
+10C21: Lettre orkhon elt
+10C22: Lettre orkhon em
+10C23: Lettre orkhon an
+10C24: Lettre orkhon aen
+10C25: Lettre orkhon iénisséi aen
+10C26: Lettre orkhon ent
+10C27: Lettre orkhon iénisséi ent
+10C28: Lettre orkhon enc
+10C29: Lettre orkhon iénisséi enc
+10C2A: Lettre orkhon eny
+10C2B: Lettre orkhon iénisséi eny
+10C2C: Lettre orkhon iénisséi ang
+10C2D: Lettre orkhon eng
+10C2E: Lettre orkhon iénisséi aeng
+10C2F: Lettre orkhon ep
+10C30: Lettre orkhon op
+10C31: Lettre orkhon ic
+10C32: Lettre orkhon ec
+10C33: Lettre orkhon iénisséi ec
+10C34: Lettre orkhon aq
+10C35: Lettre orkhon iénisséi aq
+10C36: Lettre orkhon iq
+10C37: Lettre orkhon iénisséi iq
+10C38: Lettre orkhon oq
+10C39: Lettre orkhon iénisséi oq
+10C3A: Lettre orkhon ar
+10C3B: Lettre orkhon iénisséi ar
+10C3C: Lettre orkhon aer
+10C3D: Lettre orkhon as
+10C3E: Lettre orkhon aes
+10C3F: Lettre orkhon ach
+10C40: Lettre orkhon iénisséi ach
+10C41: Lettre orkhon èch
+10C42: Lettre orkhon iénisséi èch
+10C43: Lettre orkhon at
+10C44: Lettre orkhon iénisséi at
+10C45: Lettre orkhon aet
+10C46: Lettre orkhon iénisséi aet
+10C47: Lettre orkhon ot
+10C48: Lettre orkhon bach
+10C49: 
+10C4A: 
+10C4B: 
+10C4C: 
+10C4D: 
+10C4E: 
+10C4F: 
+10C50: 
+10C51: 
+10C52: 
+10C53: 
+10C54: 
+10C55: 
+10C56: 
+10C57: 
+10C58: 
+10C59: 
+10C5A: 
+10C5B: 
+10C5C: 
+10C5D: 
+10C5E: 
+10C5F: 
+10C60: 
+10C61: 
+10C62: 
+10C63: 
+10C64: 
+10C65: 
+10C66: 
+10C67: 
+10C68: 
+10C69: 
+10C6A: 
+10C6B: 
+10C6C: 
+10C6D: 
+10C6E: 
+10C6F: 
+10C70: 
+10C71: 
+10C72: 
+10C73: 
+10C74: 
+10C75: 
+10C76: 
+10C77: 
+10C78: 
+10C79: 
+10C7A: 
+10C7B: 
+10C7C: 
+10C7D: 
+10C7E: 
+10C7F: 
+10C80: 
+10C81: 
+10C82: 
+10C83: 
+10C84: 
+10C85: 
+10C86: 
+10C87: 
+10C88: 
+10C89: 
+10C8A: 
+10C8B: 
+10C8C: 
+10C8D: 
+10C8E: 
+10C8F: 
+10C90: 
+10C91: 
+10C92: 
+10C93: 
+10C94: 
+10C95: 
+10C96: 
+10C97: 
+10C98: 
+10C99: 
+10C9A: 
+10C9B: 
+10C9C: 
+10C9D: 
+10C9E: 
+10C9F: 
+10CA0: 
+10CA1: 
+10CA2: 
+10CA3: 
+10CA4: 
+10CA5: 
+10CA6: 
+10CA7: 
+10CA8: 
+10CA9: 
+10CAA: 
+10CAB: 
+10CAC: 
+10CAD: 
+10CAE: 
+10CAF: 
+10CB0: 
+10CB1: 
+10CB2: 
+10CB3: 
+10CB4: 
+10CB5: 
+10CB6: 
+10CB7: 
+10CB8: 
+10CB9: 
+10CBA: 
+10CBB: 
+10CBC: 
+10CBD: 
+10CBE: 
+10CBF: 
+10CC0: 
+10CC1: 
+10CC2: 
+10CC3: 
+10CC4: 
+10CC5: 
+10CC6: 
+10CC7: 
+10CC8: 
+10CC9: 
+10CCA: 
+10CCB: 
+10CCC: 
+10CCD: 
+10CCE: 
+10CCF: 
+10CD0: 
+10CD1: 
+10CD2: 
+10CD3: 
+10CD4: 
+10CD5: 
+10CD6: 
+10CD7: 
+10CD8: 
+10CD9: 
+10CDA: 
+10CDB: 
+10CDC: 
+10CDD: 
+10CDE: 
+10CDF: 
+10CE0: 
+10CE1: 
+10CE2: 
+10CE3: 
+10CE4: 
+10CE5: 
+10CE6: 
+10CE7: 
+10CE8: 
+10CE9: 
+10CEA: 
+10CEB: 
+10CEC: 
+10CED: 
+10CEE: 
+10CEF: 
+10CF0: 
+10CF1: 
+10CF2: 
+10CF3: 
+10CF4: 
+10CF5: 
+10CF6: 
+10CF7: 
+10CF8: 
+10CF9: 
+10CFA: 
+10CFB: 
+10CFC: 
+10CFD: 
+10CFE: 
+10CFF: 

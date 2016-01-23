@@ -1,0 +1,256 @@
+16F00: Lettre miao pa
+16F01: Lettre miao ba
+16F02: Lettre miao yi pa
+16F03: Lettre miao pla
+16F04: Lettre miao ma
+16F05: Lettre miao mha
+16F06: Lettre miao archaïque ma
+16F07: Lettre miao fa
+16F08: Lettre miao va
+16F09: Lettre miao vfa
+16F0A: Lettre miao ta
+16F0B: Lettre miao da
+16F0C: Lettre miao yi tta
+16F0D: Lettre miao yi ta
+16F0E: Lettre miao tta
+16F0F: Lettre miao dda
+16F10: Lettre miao na
+16F11: Lettre miao nha
+16F12: Lettre miao yi nna
+16F13: Lettre miao archaïque na
+16F14: Lettre miao nna
+16F15: Lettre miao nnha
+16F16: Lettre miao la
+16F17: Lettre miao lya
+16F18: Lettre miao lha
+16F19: Lettre miao lhya
+16F1A: Lettre miao tlha
+16F1B: Lettre miao dlha
+16F1C: Lettre miao tlhya
+16F1D: Lettre miao dlhya
+16F1E: Lettre miao ka
+16F1F: Lettre miao ga
+16F20: Lettre miao yi ka
+16F21: Lettre miao qa
+16F22: Lettre miao qga
+16F23: Lettre miao nga
+16F24: Lettre miao ngha
+16F25: Lettre miao archaïque nga
+16F26: Lettre miao ha
+16F27: Lettre miao xa
+16F28: Lettre miao gha
+16F29: Lettre miao ghha
+16F2A: Lettre miao tssa
+16F2B: Lettre miao dzza
+16F2C: Lettre miao nya
+16F2D: Lettre miao nyha
+16F2E: Lettre miao tsha
+16F2F: Lettre miao dzha
+16F30: Lettre miao yi tsha
+16F31: Lettre miao yi dzha
+16F32: Lettre miao réformée tsha
+16F33: Lettre miao sha
+16F34: Lettre miao ssa
+16F35: Lettre miao zha
+16F36: Lettre miao zsha
+16F37: Lettre miao tsa
+16F38: Lettre miao dza
+16F39: Lettre miao yi tsa
+16F3A: Lettre miao sa
+16F3B: Lettre miao za
+16F3C: Lettre miao zsa
+16F3D: Lettre miao zza
+16F3E: Lettre miao zzsa
+16F3F: Lettre miao archaïque zza
+16F40: Lettre miao zzya
+16F41: Lettre miao zzsya
+16F42: Lettre miao wa
+16F43: Lettre miao ah
+16F44: Lettre miao hha
+16F45: 
+16F46: 
+16F47: 
+16F48: 
+16F49: 
+16F4A: 
+16F4B: 
+16F4C: 
+16F4D: 
+16F4E: 
+16F4F: 
+16F50: Lettre miao nasalisation
+16F51: Signe d’aspiration miao
+16F52: Signe voisé miao réformé
+16F53: Signe d’aspiration miao réformé
+16F54: Diacritique voyelle miao a
+16F55: Diacritique voyelle miao aa
+16F56: Diacritique voyelle miao ahh
+16F57: Diacritique voyelle miao an
+16F58: Diacritique voyelle miao ang
+16F59: Diacritique voyelle miao o
+16F5A: Diacritique voyelle miao oo
+16F5B: Diacritique voyelle miao wo
+16F5C: Diacritique voyelle miao w
+16F5D: Diacritique voyelle miao e
+16F5E: Diacritique voyelle miao en
+16F5F: Diacritique voyelle miao eng
+16F60: Diacritique voyelle miao oey
+16F61: Diacritique voyelle miao i
+16F62: Diacritique voyelle miao ia
+16F63: Diacritique voyelle miao ian
+16F64: Diacritique voyelle miao iang
+16F65: Diacritique voyelle miao io
+16F66: Diacritique voyelle miao ie
+16F67: Diacritique voyelle miao ii
+16F68: Diacritique voyelle miao iu
+16F69: Diacritique voyelle miao ing
+16F6A: Diacritique voyelle miao u
+16F6B: Diacritique voyelle miao ua
+16F6C: Diacritique voyelle miao uan
+16F6D: Diacritique voyelle miao uang
+16F6E: Diacritique voyelle miao uu
+16F6F: Diacritique voyelle miao uei
+16F70: Diacritique voyelle miao ung
+16F71: Diacritique voyelle miao y
+16F72: Diacritique voyelle miao yi
+16F73: Diacritique voyelle miao ae
+16F74: Diacritique voyelle miao aee
+16F75: Diacritique voyelle miao err
+16F76: Diacritique voyelle miao arrondie err
+16F77: Diacritique voyelle miao er
+16F78: Diacritique voyelle miao arrondie er
+16F79: Diacritique voyelle miao ai
+16F7A: Diacritique voyelle miao ei
+16F7B: Diacritique voyelle miao au
+16F7C: Diacritique voyelle miao ou
+16F7D: Diacritique voyelle miao n
+16F7E: Diacritique voyelle miao ng
+16F7F: 
+16F80: 
+16F81: 
+16F82: 
+16F83: 
+16F84: 
+16F85: 
+16F86: 
+16F87: 
+16F88: 
+16F89: 
+16F8A: 
+16F8B: 
+16F8C: 
+16F8D: 
+16F8E: 
+16F8F: Ton miao à droite
+16F90: Ton miao à droite en chef
+16F91: Ton miao en chef
+16F92: Ton miao souscrit
+16F93: Lettre miao ton-2
+16F94: Lettre miao ton-3
+16F95: Lettre miao ton-4
+16F96: Lettre miao ton-5
+16F97: Lettre miao ton-6
+16F98: Lettre miao ton-7
+16F99: Lettre miao ton-8
+16F9A: Lettre miao ton réformé-1
+16F9B: Lettre miao ton réformé-2
+16F9C: Lettre miao ton réformé-4
+16F9D: Lettre miao ton réformé-5
+16F9E: Lettre miao ton réformé-6
+16F9F: Lettre miao ton réformé-8
+16FA0: 
+16FA1: 
+16FA2: 
+16FA3: 
+16FA4: 
+16FA5: 
+16FA6: 
+16FA7: 
+16FA8: 
+16FA9: 
+16FAA: 
+16FAB: 
+16FAC: 
+16FAD: 
+16FAE: 
+16FAF: 
+16FB0: 
+16FB1: 
+16FB2: 
+16FB3: 
+16FB4: 
+16FB5: 
+16FB6: 
+16FB7: 
+16FB8: 
+16FB9: 
+16FBA: 
+16FBB: 
+16FBC: 
+16FBD: 
+16FBE: 
+16FBF: 
+16FC0: 
+16FC1: 
+16FC2: 
+16FC3: 
+16FC4: 
+16FC5: 
+16FC6: 
+16FC7: 
+16FC8: 
+16FC9: 
+16FCA: 
+16FCB: 
+16FCC: 
+16FCD: 
+16FCE: 
+16FCF: 
+16FD0: 
+16FD1: 
+16FD2: 
+16FD3: 
+16FD4: 
+16FD5: 
+16FD6: 
+16FD7: 
+16FD8: 
+16FD9: 
+16FDA: 
+16FDB: 
+16FDC: 
+16FDD: 
+16FDE: 
+16FDF: 
+16FE0: 
+16FE1: 
+16FE2: 
+16FE3: 
+16FE4: 
+16FE5: 
+16FE6: 
+16FE7: 
+16FE8: 
+16FE9: 
+16FEA: 
+16FEB: 
+16FEC: 
+16FED: 
+16FEE: 
+16FEF: 
+16FF0: 
+16FF1: 
+16FF2: 
+16FF3: 
+16FF4: 
+16FF5: 
+16FF6: 
+16FF7: 
+16FF8: 
+16FF9: 
+16FFA: 
+16FFB: 
+16FFC: 
+16FFD: 
+16FFE: 
+16FFF: 

@@ -1,0 +1,256 @@
+A900: Chiffre kayah li zéro
+A901: Chiffre kayah li un
+A902: Chiffre kayah li deux
+A903: Chiffre kayah li trois
+A904: Chiffre kayah li quatre
+A905: Chiffre kayah li cinq
+A906: Chiffre kayah li six
+A907: Chiffre kayah li sept
+A908: Chiffre kayah li huit
+A909: Chiffre kayah li neuf
+A90A: Lettre kayah li ka
+A90B: Lettre kayah li kha
+A90C: Lettre kayah li ga
+A90D: Lettre kayah li nga
+A90E: Lettre kayah li sa
+A90F: Lettre kayah li cha
+A910: Lettre kayah li za
+A911: Lettre kayah li ña
+A912: Lettre kayah li ta
+A913: Lettre kayah li hta
+A914: Lettre kayah li na
+A915: Lettre kayah li pa
+A916: Lettre kayah li pha
+A917: Lettre kayah li ma
+A918: Lettre kayah li da
+A919: Lettre kayah li ba
+A91A: Lettre kayah li ra
+A91B: Lettre kayah li ya
+A91C: Lettre kayah li la
+A91D: Lettre kayah li wa
+A91E: Lettre kayah li tha
+A91F: Lettre kayah li ha
+A920: Lettre kayah li va
+A921: Lettre kayah li tcha
+A922: Lettre kayah li a
+A923: Lettre kayah li oe
+A924: Lettre kayah li i
+A925: Lettre kayah li ô
+A926: Voyelle diacritique kayah li ue
+A927: Voyelle diacritique kayah li e
+A928: Voyelle diacritique kayah li u
+A929: Voyelle diacritique kayah li ee
+A92A: Voyelle diacritique kayah li o
+A92B: Ton kayah li plophu
+A92C: Ton kayah li tchalya
+A92D: Ton kayah li tchalya plophu
+A92E: Signe kayah li cwi
+A92F: Signe kayah lishya
+A930: Lettre rejang ka
+A931: Lettre rejang ga
+A932: Lettre rejang nga
+A933: Lettre rejang ta
+A934: Lettre rejang da
+A935: Lettre rejang na
+A936: Lettre rejang pa
+A937: Lettre rejang ba
+A938: Lettre rejang ma
+A939: Lettre rejang tcha
+A93A: Lettre rejang dja
+A93B: Lettre rejang ña
+A93C: Lettre rejang sa
+A93D: Lettre rejang ra
+A93E: Lettre rejang la
+A93F: Lettre rejang ya
+A940: Lettre rejang wa
+A941: Lettre rejang ha
+A942: Lettre rejang mba
+A943: Lettre rejang ngga
+A944: Lettre rejang nda
+A945: Lettre rejang ñja
+A946: Lettre rejang a
+A947: Voyelle diacritique rejang i
+A948: Voyelle diacritique rejang u
+A949: Voyelle diacritique rejang e
+A94A: Voyelle diacritique rejang ai
+A94B: Voyelle diacritique rejang o
+A94C: Voyelle diacritique rejang au
+A94D: Voyelle diacritique rejang eu
+A94E: Voyelle diacritique rejang ea
+A94F: Consonne diacritique rejang ng
+A950: Consonne diacritique rejang n
+A951: Consonne diacritique rejang r
+A952: Consonne diacritique rejang h
+A953: Virâma rejang
+A954: 
+A955: 
+A956: 
+A957: 
+A958: 
+A959: 
+A95A: 
+A95B: 
+A95C: 
+A95D: 
+A95E: 
+A95F: Signe rejang section
+A960: Hangûl tch’ôsong tikeut-mieum
+A961: Hangûl tch’ôsong tikeut-pieup
+A962: Hangûl tch’ôsong tikeut-sios
+A963: Hangûl tch’ôsong tikeut-cieuc
+A964: Hangûl tch’ôsong rieul-kiyeok
+A965: Hangûl tch’ôsong rieul-ssangkiyeok
+A966: Hangûl tch’ôsong rieul-tikeut
+A967: Hangûl tch’ôsong rieul-ssangtikeut
+A968: Hangûl tch’ôsong rieul-mieum
+A969: Hangûl tch’ôsong rieul-pieup
+A96A: Hangûl tch’ôsong rieul-ssangpieup
+A96B: Hangûl tch’ôsong rieul-kapyeounpieup
+A96C: Hangûl tch’ôsong rieul-sios
+A96D: Hangûl tch’ôsong rieul-cieuc
+A96E: Hangûl tch’ôsong rieul-khieukh
+A96F: Hangûl tch’ôsong mieum-kiyeok
+A970: Hangûl tch’ôsong mieum-tikeut
+A971: Hangûl tch’ôsong mieum-sios
+A972: Hangûl tch’ôsong pieup-sios-thieuth
+A973: Hangûl tch’ôsong pieup-khieukh
+A974: Hangûl tch’ôsong pieup-hieuh
+A975: Hangûl tch’ôsong ssangsios-pieup
+A976: Hangûl tch’ôsong ieung-rieul
+A977: Hangûl tch’ôsong ieung-hieuh
+A978: Hangûl tch’ôsong ssangcieuc-hieuh
+A979: Hangûl tch’ôsong ssangthieuth
+A97A: Hangûl tch’ôsong phieuph-hieuh
+A97B: Hangûl tch’ôsong hieuh-sios
+A97C: Hangûl tch’ôsong ssangyeorinhieuh
+A97D: 
+A97E: 
+A97F: 
+A980: Diacritique javanais panyangga
+A981: Diacritique javanais cecak
+A982: Diacritique javanais layar
+A983: Diacritique javanais wignyan
+A984: Lettre javanaise a
+A985: Lettre javanaise i kawi
+A986: Lettre javanaise i
+A987: Lettre javanaise ii
+A988: Lettre javanaise u
+A989: Lettre javanaise pa cerek
+A98A: Lettre javanaise nga lelet
+A98B: Lettre javanaise nga lelet raswadi
+A98C: Lettre javanaise e
+A98D: Lettre javanaise ai
+A98E: Lettre javanaise o
+A98F: Lettre javanaise ka
+A990: Lettre javanaise ka sasak
+A991: Lettre javanaise ka murda
+A992: Lettre javanaise ga
+A993: Lettre javanaise ga murda
+A994: Lettre javanaise nga
+A995: Lettre javanaise ca
+A996: Lettre javanaise ca murda
+A997: Lettre javanaise ja
+A998: Lettre javanaise nya murda
+A999: Lettre javanaise ja mahaprana
+A99A: Lettre javanaise nya
+A99B: Lettre javanaise tta
+A99C: Lettre javanaise tta mahaprana
+A99D: Lettre javanaise dda
+A99E: Lettre javanaise dda mahaprana
+A99F: Lettre javanaise na murda
+A9A0: Lettre javanaise ta
+A9A1: Lettre javanaise ta murda
+A9A2: Lettre javanaise da
+A9A3: Lettre javanaise da mahaprana
+A9A4: Lettre javanaise na
+A9A5: Lettre javanaise pa
+A9A6: Lettre javanaise pa murda
+A9A7: Lettre javanaise ba
+A9A8: Lettre javanaise ba murda
+A9A9: Lettre javanaise ma
+A9AA: Lettre javanaise ya
+A9AB: Lettre javanaise ra
+A9AC: Lettre javanaise ra agung
+A9AD: Lettre javanaise la
+A9AE: Lettre javanaise wa
+A9AF: Lettre javanaise sa murda
+A9B0: Lettre javanaise sa mahaprana
+A9B1: Lettre javanaise sa
+A9B2: Lettre javanaise ha
+A9B3: Diacritique javanais cecak telu
+A9B4: Voyelle diacritique javanaise tarung
+A9B5: Voyelle diacritique javanaise tolong
+A9B6: Voyelle diacritique javanaise wulu
+A9B7: Voyelle diacritique javanaise wulu melik
+A9B8: Voyelle diacritique javanaise suku
+A9B9: Voyelle diacritique javanaise suku mendut
+A9BA: Voyelle diacritique javanaise taling
+A9BB: Voyelle diacritique javanaise dirga mure
+A9BC: Voyelle diacritique javanaise pepet
+A9BD: Consonne diacritique javanaise keret
+A9BE: Consonne diacritique javanaise pengkal
+A9BF: Consonne diacritique javanaise cakra
+A9C0: Diacritique javanais pangkon
+A9C1: Rerenggan gauche javanais
+A9C2: Rerenggan droit javanais
+A9C3: Pada andap javanais
+A9C4: Pada madya javanais
+A9C5: Pada luhur javanais
+A9C6: Pada windu javanais
+A9C7: Pada pangkat javanais
+A9C8: Pada lingsa javanais
+A9C9: Pada lungsi javanais
+A9CA: Pada adeg javanais
+A9CB: Pada adeg adeg javanais
+A9CC: Pada piseleh javanais
+A9CD: Pada piseleh javanais culbuté
+A9CE: 
+A9CF: Pangrangkep javanais
+A9D0: Chiffre javanais zéro
+A9D1: Chiffre javanais un
+A9D2: Chiffre javanais deux
+A9D3: Chiffre javanais trois
+A9D4: Chiffre javanais quatre
+A9D5: Chiffre javanais cinq
+A9D6: Chiffre javanais six
+A9D7: Chiffre javanais sept
+A9D8: Chiffre javanais huit
+A9D9: Chiffre javanais neuf
+A9DA: 
+A9DB: 
+A9DC: 
+A9DD: 
+A9DE: Pada tirta tumetes javanais
+A9DF: Pada isen-isen javanais
+A9E0: Lettre birmane shan gha
+A9E1: Lettre birmane shan cha
+A9E2: Lettre birmane shan jha
+A9E3: Lettre birmane shan nna
+A9E4: Lettre birmane shan bha
+A9E5: Signemyanmar birman shan saw
+A9E6: Lettre modificative birmane shan réduplication
+A9E7: Lettre birmane taï-laing nya
+A9E8: Lettre birmane taï-laing fa
+A9E9: Lettre birmane taï-laing ga
+A9EA: Lettre birmane taï-laing gha
+A9EB: Lettre birmane taï-laing ja
+A9EC: Lettre birmane taï-laing jha
+A9ED: Lettre birmane taï-laing dda
+A9EE: Lettre birmane taï-laing ddha
+A9EF: Lettre birmane taï-laing nna
+A9F0: Chiffre birman taï-laing zéro
+A9F1: Chiffre birman taï-laing un
+A9F2: Chiffre birman taï-laing deux
+A9F3: Chiffre birman taï-laing trois
+A9F4: Chiffre birman taï-laing quatre
+A9F5: Chiffre birman taï-laing cinq
+A9F6: Chiffre birman taï-laing six
+A9F7: Chiffre birman taï-laing sept
+A9F8: Chiffre birman taï-laing huit
+A9F9: Chiffre birman taï-laing neuf
+A9FA: Lettre birmane taï-laing lla
+A9FB: Lettre birmane taï-laing da
+A9FC: Lettre birmane taï-laing dha
+A9FD: Lettre birmane taï-laing ba
+A9FE: Lettre birmane taï-laing bha
+A9FF: 

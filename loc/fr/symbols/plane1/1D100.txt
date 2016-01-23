@@ -1,0 +1,256 @@
+1D100: Symbole musical barre de mesure simple
+1D101: Symbole musical barre de mesure double
+1D102: Symbole musical barre de mesure finale
+1D103: Symbole musical barre de mesure finale inversée
+1D104: Symbole musical barre de mesure pointillée
+1D105: Symbole musical barre de mesure courte
+1D106: Symbole musical reprise de la suite
+1D107: Symbole musical reprise du début
+1D108: Symbole musical points de reprise
+1D109: Symbole musical dal segno
+1D10A: Symbole musical da capo
+1D10B: Symbole musical renvoi : segno
+1D10C: Symbole musical coda
+1D10D: Symbole musical figure répétée-1
+1D10E: Symbole musical figure répétée-2
+1D10F: Symbole musical figure répétée-3
+1D110: Symbole musical point d'orgue
+1D111: Symbole musical point d'orgue souscrit
+1D112: Symbole musical respiration
+1D113: Symbole musical césure
+1D114: Symbole musical accolade
+1D115: Symbole musical accolade droite : accolade de partition
+1D116: Symbole musical portée d'une ligne
+1D117: Symbole musical portée de deux lignes
+1D118: Symbole musical portée de trois lignes
+1D119: Symbole musical portée de quatre lignes
+1D11A: Symbole musical portée de cinq lignes
+1D11B: Symbole musical portée de six lignes
+1D11C: Symbole musical touche à six cordes
+1D11D: Symbole musical touche à quatre cordes
+1D11E: Symbole musical clé de sol
+1D11F: Symbole musical clé de sol octaviante supérieure
+1D120: Symbole musical clé de sol octaviante inférieure
+1D121: Symbole musical clé d'ut
+1D122: Symbole musical clé de fa
+1D123: Symbole musical clé de fa octaviante supérieure
+1D124: Symbole musical clé de fa octaviante inférieure
+1D125: Symbole musical clé de percussion-1
+1D126: Symbole musical clé de percussion-2
+1D127: <réservé>
+1D128: <réservé>
+1D129: Symbole musical pause multiple
+1D12A: Symbole musical double dièse
+1D12B: Symbole musical double bémol
+1D12C: Symbole musical bémol élevé
+1D12D: Symbole musical bémol abaissé
+1D12E: Symbole musical bécarre élevé
+1D12F: Symbole musical bécarre abaissé
+1D130: Symbole musical dièse élevé
+1D131: Symbole musical dièse abaissé
+1D132: Symbole musical quart de dièse élevé
+1D133: Symbole musical quart de bémol abaissé
+1D134: Symbole musical mesure à quatre-quatre
+1D135: Symbole musical mesure à deux-deux
+1D136: Symbole musical ottava alta
+1D137: Symbole musical ottava bassa
+1D138: Symbole musical quindicesima alta
+1D139: Symbole musical quindicesima bassa
+1D13A: Symbole musical double pause (bâton) : bâton
+1D13B: Symbole musical pause
+1D13C: Symbole musical demi-pause
+1D13D: Symbole musical soupir
+1D13E: Symbole musical demi-soupir
+1D13F: Symbole musical quart de soupir
+1D140: Symbole musical huitième de soupir
+1D141: Symbole musical seizième de soupir
+1D142: Symbole musical trente-deuxième de soupir
+1D143: Symbole musical tête de note x
+1D144: Symbole musical tête de note plus
+1D145: Symbole musical tête de note x cerclé
+1D146: Symbole musical tête de note carrée blanche
+1D147: Symbole musical tête de note carrée noire
+1D148: Symbole musical tête de note triangle blanc montant
+1D149: Symbole musical tête de note triangle noir montant
+1D14A: Symbole musical tête de note triangle blanc couché à gauche
+1D14B: Symbole musical tête de note triangle noir couché à gauche
+1D14C: Symbole musical tête de note triangle blanc couché à droite
+1D14D: Symbole musical tête de note triangle noir couché à droite
+1D14E: Symbole musical tête de note triangle blanc descendant
+1D14F: Symbole musical tête de note triangle noir descendant
+1D150: Symbole musical tête de note triangle blanc montant par la droite
+1D151: Symbole musical tête de note triangle noir montant par la droite
+1D152: Symbole musical tête de note lunule blanche
+1D153: Symbole musical tête de note lunule noire
+1D154: Symbole musical tête de note triangle blanc arrondi descendant
+1D155: Symbole musical tête de note triangle noir arrondi descendant
+1D156: Symbole musical tête de note parenthèses
+1D157: Symbole musical tête de note évidée
+1D158: Symbole musical tête de note noire
+1D159: Symbole musical tête de note nulle
+1D15A: Symbole musical tête de note bloc blanc
+1D15B: Symbole musical tête de note bloc noir
+1D15C: Symbole musical carrée : double ronde
+1D15D: Symbole musical ronde
+1D15E: Symbole musical blanche
+1D15F: Symbole musical noire
+1D160: Symbole musical croche
+1D161: Symbole musical double croche
+1D162: Symbole musical triple croche
+1D163: Symbole musical quadruple croche
+1D164: Symbole musical quintuple croche
+1D165: Diacritique musical hampe
+1D166: Diacritique musical hampe sprechgesang : hampe chant parlé
+1D167: Diacritique musical trémolo-1
+1D168: Diacritique musical trémolo-2
+1D169: Diacritique musical trémolo-3
+1D16A: Symbole musical trémolo-trille-1
+1D16B: Symbole musical trémolo-trille-2
+1D16C: Symbole musical trémolo-trille-3
+1D16D: Diacritique musical point d'augmentation
+1D16E: Diacritique musical crochet-1
+1D16F: Diacritique musical crochet-2
+1D170: Diacritique musical crochet-3
+1D171: Diacritique musical crochet-4
+1D172: Diacritique musical crochet-5
+1D173: Symbole musical début de rame : début de poutre, début de barre de valeur
+1D174: Symbole musical fin de rame
+1D175: Symbole musical début de tenue : début de liaison de prolongation
+1D176: Symbole musical fin de tenue
+1D177: Symbole musical début de coulé : début de liaison d'expression
+1D178: Symbole musical fin de coulé
+1D179: Symbole musical début de phrasé
+1D17A: Symbole musical fin de phrasé
+1D17B: Diacritique musical accent
+1D17C: Diacritique musical détaché : staccato
+1D17D: Diacritique musical appuyé : accent agogique, tenuto
+1D17E: Diacritique musical très détaché : staccatissimo
+1D17F: Diacritique musical marqué : marcato
+1D180: Diacritique musical marqué-détaché : marcato-staccato
+1D181: Diacritique musical accent-détaché
+1D182: Diacritique musical louré
+1D183: Symbole musical arpégé montant : arpègement monté
+1D184: Symbole musical arpégé descendant : arpègement descendu
+1D185: Diacritique musical doink
+1D186: Diacritique musical rip
+1D187: Diacritique musical flip
+1D188: Diacritique musical smear
+1D189: Diacritique musical bend
+1D18A: Diacritique musical articulation double : double coup de langue
+1D18B: Diacritique musical articulation triple : triple coup de langue
+1D18C: Symbole musical rinforzando
+1D18D: Symbole musical subito
+1D18E: Symbole musical z
+1D18F: Symbole musical piano
+1D190: Symbole musical mezzo
+1D191: Symbole musical forte
+1D192: Symbole musical crescendo
+1D193: Symbole musical decrescendo
+1D194: Symbole musical appoggiature brève : petite note barrée, agrément barré, port de voix bref
+1D195: Symbole musical appoggiature longue : petite note, agrément, port de voix
+1D196: Symbole musical trille
+1D197: Symbole musical gruppetto : groupe, doublé, double-cadence, tour de gosier
+1D198: Symbole musical gruppetto renversé
+1D199: Symbole musical gruppetto barré
+1D19A: Symbole musical gruppetto érigé
+1D19B: Symbole musical trait d'ornement numéro 1
+1D19C: Symbole musical trait d'ornement numéro 2
+1D19D: Symbole musical trait d'ornement numéro 3
+1D19E: Symbole musical trait d'ornement numéro 4
+1D19F: Symbole musical trait d'ornement numéro 5
+1D1A0: Symbole musical trait d'ornement numéro 6
+1D1A1: Symbole musical trait d'ornement numéro 7
+1D1A2: Symbole musical trait d'ornement numéro 8
+1D1A3: Symbole musical trait d'ornement numéro 9
+1D1A4: Symbole musical trait d'ornement numéro 10
+1D1A5: Symbole musical trait d'ornement numéro 11
+1D1A6: Symbole musical hauptstimme : partie principale
+1D1A7: Symbole musical nebenstimme : partie secondaire
+1D1A8: Symbole musical fin de stimme : fin de démarcation
+1D1A9: Symbole musical degré barré
+1D1AA: Diacritique musical archet tiré
+1D1AB: Diacritique musical archet poussé
+1D1AC: Diacritique musical diphonique : harmonique
+1D1AD: Diacritique musical pizzicato bartók
+1D1AE: Symbole musical pédale appuyée
+1D1AF: Symbole musical pédale levée
+1D1B0: Symbole musical demi-pédale
+1D1B1: Symbole musical glissando ascendant
+1D1B2: Symbole musical glissando descendant
+1D1B3: Symbole musical avec les ongles
+1D1B4: Symbole musical étouffer
+1D1B5: Symbole musical tout étouffer
+1D1B6: Symbole musical maxime
+1D1B7: Symbole musical longue : virga
+1D1B8: Symbole musical brève : punctum carré
+1D1B9: Symbole musical semi-brève
+1D1BA: Symbole musical semi-brève noire : punctum losangé
+1D1BB: Symbole musical minime
+1D1BC: Symbole musical semi-minime noire : minime (avant 1450)
+1D1BD: Symbole musical semi-minime
+1D1BE: Symbole musical fuse : semi-minime (avant 1450)
+1D1BF: Symbole musical fuse blanche
+1D1C0: Symbole musical semi-fuse
+1D1C1: Symbole musical silence de longue parfaite
+1D1C2: Symbole musical silence de longue imparfaite
+1D1C3: Symbole musical silence de brève
+1D1C4: Symbole musical silence de semi-brève
+1D1C5: Symbole musical silence de minime
+1D1C6: Symbole musical silence de semi-minime
+1D1C7: Symbole musical temps parfait prolation majeure : tempus perfectum cum prolatione perfecta
+1D1C8: Symbole musical temps parfait prolation mineure : tempus perfectum cum prolatione imperfecta
+1D1C9: Symbole musical temps parfait prolation majeure diminution-1 : tempus perfectum cum prolatione perfecta diminution-1
+1D1CA: Symbole musical temps imparfait prolation majeure : tempus imparfectum cum prolatione perfecta
+1D1CB: Symbole musical temps imparfait prolation mineure : tempus imperfectum cum prolatione imperfecta
+1D1CC: Symbole musical temps imparfait prolation mineure diminution-1 : tempus imperfectum cum prolatione imperfecta diminution-1
+1D1CD: Symbole musical temps imparfait prolation mineure diminution-2 : tempus imperfectum cum prolatione imperfecta diminution-2
+1D1CE: Symbole musical temps imparfait prolation mineure diminution-3 : tempus imperfectum cum prolatione imperfecta diminution-3
+1D1CF: Symbole musical croix
+1D1D0: Symbole musical grégorien clé de do
+1D1D1: Symbole musical grégorien clé de fa
+1D1D2: Symbole musical b carré
+1D1D3: Symbole musical virga
+1D1D4: Symbole musical podatus : pes
+1D1D5: Symbole musical clivis
+1D1D6: Symbole musical scandicus
+1D1D7: Symbole musical climacus : subpunctus
+1D1D8: Symbole musical torculus : pes flexus
+1D1D9: Symbole musical porrectus : flexus resupinus
+1D1DA: Symbole musical porrectus flexus
+1D1DB: Symbole musical scandicus flexus
+1D1DC: Symbole musical torculus resupinus
+1D1DD: Symbole musical pes subpunctis
+1D1DE: 
+1D1DF: 
+1D1E0: 
+1D1E1: 
+1D1E2: 
+1D1E3: 
+1D1E4: 
+1D1E5: 
+1D1E6: 
+1D1E7: 
+1D1E8: 
+1D1E9: 
+1D1EA: 
+1D1EB: 
+1D1EC: 
+1D1ED: 
+1D1EE: 
+1D1EF: 
+1D1F0: 
+1D1F1: 
+1D1F2: 
+1D1F3: 
+1D1F4: 
+1D1F5: 
+1D1F6: 
+1D1F7: 
+1D1F8: 
+1D1F9: 
+1D1FA: 
+1D1FB: 
+1D1FC: 
+1D1FD: 
+1D1FE: 
+1D1FF: 

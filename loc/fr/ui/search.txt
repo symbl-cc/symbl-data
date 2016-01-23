@@ -1,0 +1,13 @@
+: Recherche de caractères
+find: Trouver
+example: Exemple
+# phrases separated by ";"
+example-text: marteau et la faucille;flèche;coeur;étoile;triangle;vérifier;cercle;croix;carré;balle
+h1: Recherche
+result: Résultat
+empty: Phrase de recherche est vide
+total: Total: %s
+limit: (montrer que %s)
+none: Aucun
+any: Recherche par les mots
+overflow: Désolé, symbole U+%s est en cours de construction :)

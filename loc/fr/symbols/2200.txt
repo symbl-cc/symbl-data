@@ -1,0 +1,256 @@
+2200: Pour tous : quanteur quel que soit, quanteur universel
+2201: Complément
+2202: Dérivée partielle : d rond
+2203: Il existe : quanteur existe
+2204: Il n'existe pas
+2205: Ensemble vide
+2206: Incrément : laplacien : disjonction exclusive : différence symétrique d'ensembles
+2207: Nabla : atled : gradient, del : laplacien
+2208: Appartient à
+2209: N'appartient pas à
+220A: Petit appartient à
+220B: Contient comme élément
+220C: Ne contient pas comme élément
+220D: Petit contient comme élément
+220E: Ce qu'il fallait démontrer : c.q.f.d.
+220F: Produit de la famille : signe produit
+2210: Coproduit de la famille : signe coproduit
+2211: Sommation de la famille : signe somme
+2212: Signe moins : soustraction
+2213: Signe moins-ou-plus
+2214: Plus pointé
+2215: Barre oblique de division
+2216: Différence d'ensembles
+2217: Opérateur astérisque
+2218: Opérateur rond : rond, fonction composée
+2219: Opérateur puce
+221A: Racine carrée : radical
+221B: Racine cubique
+221C: Racine quatrième
+221D: Proportionnel à
+221E: Infini
+221F: Angle droit
+2220: Angle
+2221: Angle mesuré
+2222: Angle sphérique : arc angulaire
+2223: Est un diviseur de : tel que : tige apl
+2224: N'est pas un diviseur de
+2225: Parallèle à
+2226: Non parallèle à
+2227: Et logique : conjonction
+2228: Ou logique : disjonction, vel
+2229: Intersection : inter
+222A: Union : réunion
+222B: Intégrale
+222C: Intégrale double
+222D: Intégrale triple
+222E: Intégrale de contour
+222F: Intégrale de surface
+2230: Intégrale de volume
+2231: Intégrale en sens négatif
+2232: Intégrale de contour en sens négatif
+2233: Intégrale de contour en sens positif
+2234: Par conséquent : donc
+2235: Parce que
+2236: Rapport
+2237: Proportion
+2238: Moins pointé : soustraction saturante
+2239: Excès
+223A: Proportion géométrique
+223B: Homothétique
+223C: Opérateur tilde : varié avec (proportionnel à) : similaire à : non : cycle : équivalent : tilde apl
+223D: Opérateur tilde renversé (s couché) : s couché
+223E: S couché renversé : le plus positif
+223F: Sinusoïde : courant alternatif
+2240: Produit couronne
+2241: Non tilde : pas équivalent
+2242: Moins tilde
+2243: Asymptotiquement égal à
+2244: Non asymptotiquement égal à
+2245: Approximativement égal à
+2246: Approximativement mais non strictement égal à
+2247: Ni approximativement ni strictement égal à
+2248: Presque égal à : asymptotique à
+2249: Non presque égal à
+224A: Presque égal ou égal à
+224B: Triple tilde
+224C: Entièrement égal à
+224D: Équivalent à
+224E: Géométriquement équivalent à
+224F: Différence entre
+2250: Tend vers la limite
+2251: Géométriquement égal à
+2252: Approximativement égal à ou image de : presque égal à
+2253: Image de ou approximativement égal à
+2254: Deux-points égal
+2255: Égal deux-points
+2256: Rond dans égal
+2257: Égal avec rond en chef : approximativement égal à
+2258: Correspond à
+2259: Estime : correspond à
+225A: Équiangulaire à
+225B: Égal avec étoile en chef
+225C: Égal delta : equiangulaire : égal par définition à
+225D: Égal par définition à
+225E: Mesuré par
+225F: Égalité en doute
+2260: Pas égal à
+2261: Identique à : congru à, identiteur
+2262: Non identique à
+2263: Strictement équivalent à
+2264: Plus petit ou égal à
+2265: Plus grand ou égal à
+2266: Plus petit que par-dessus égal à
+2267: Plus grand que par-dessus égal à
+2268: Plus petit mais pas égal à
+2269: Plus grand mais pas égal à
+226A: Beaucoup plus petit que
+226B: Beaucoup plus grand que
+226C: Entre
+226D: Non équivalent à
+226E: Pas plus petit que
+226F: Pas plus grand que
+2270: Ni plus petit ni égal à
+2271: Ni plus grand ni égal à
+2272: Plus petit ou équivalent à
+2273: Plus grand ou équivalent à
+2274: Ni plus petit ni équivalent à
+2275: Ni plus grand ni équivalent à
+2276: Plus petit ou plus grand que
+2277: Plus grand ou plus petit que
+2278: Ni plus petit ni plus grand que
+2279: Ni plus grand ni plus petit que
+227A: Précède : est dominé (notation de hardy)
+227B: Suit
+227C: Précède ou est égal à
+227D: Suit ou est égal à
+227E: Précède ou est équivalent à
+227F: Suit ou est équivalent à
+2280: Ne précède pas
+2281: Ne suit pas
+2282: Sous-ensemble de
+2283: Sur-ensemble de
+2284: Pas un sous-ensemble de
+2285: Pas un sur-ensemble de
+2286: Sous-ensemble ou égal à
+2287: Sur-ensemble ou égal à
+2288: Ni un sous-ensemble ni égal à
+2289: Ni un sur-ensemble ni égal à
+228A: Sous-ensemble mais pas égal à
+228B: Sur-ensemble mais pas égal à
+228C: Multiensemble
+228D: Multiplication de multiensemble
+228E: Union de multiensemble : addition de sacs en notation z
+228F: Image carrée de
+2290: Original carré de
+2291: Image carrée ou égal à : appartient à un sous-sac en notation z
+2292: Original carré ou égal à
+2293: Chapeau carré
+2294: Coupe carrée
+2295: Plus cerclé : somme directe : vecteur pointant vers l'intérieur de la page
+2296: Moins cerclé : différence symétrique
+2297: Multiplié par cerclé : produit tensoriel : vecteur pointant vers l'intérieur de la page
+2298: Barre oblique de division cerclée
+2299: Opérateur point cerclé : vecteur pointant hors de la page : produit direct
+229A: Opérateur rond cerclé
+229B: Opérateur astérisque cerclé
+229C: Égal cerclé
+229D: Tiret cerclé
+229E: Plus encadré
+229F: Moins encadré
+22A0: Multiplié par encadré
+22A1: Opérateur point encadré
+22A2: Taquet droit : tourniquet, portillon : prouve, implique, fournit : réductible
+22A3: Taquet gauche : tourniquet inversé, portillon inversé : non-théorème, ne fournit pas
+22A4: Taquet vers le bas : dessus
+22A5: Taquet vers le haut : base, dessous
+22A6: Assertion : se réduit à
+22A7: Modélise : est valide (en logique mathématique)
+22A8: Vrai : l'énoncé est vrai : valable : est une tautologie : satisfait
+22A9: Oblige
+22AA: Barre verticale triple avec tourniquet à droite
+22AB: Barre verticale double avec tourniquet à droite double
+22AC: Ne prouve pas
+22AD: Pas vrai
+22AE: N'oblige pas
+22AF: Non-barre verticale double avec tourniquet à droite double
+22B0: Précède sous relation
+22B1: Suit sous relation
+22B2: Sous-groupe normal de
+22B3: Contient comme sous-groupe normal
+22B4: Sous-groupe normal ou égal à
+22B5: Contient comme sous-groupe normal ou égal à
+22B6: Original de
+22B7: Image de
+22B8: Multijection : multimap, liste associative
+22B9: Matrice hermitienne conjuguée
+22BA: Intercale
+22BB: Ou exclusif : aut
+22BC: Non et
+22BD: Non ou
+22BE: Angle droit avec arc
+22BF: Triangle rectangle
+22C0: Et logique de la famille
+22C1: Ou logique de la famille
+22C2: Intersection de la famille : intersection généralisée en notation z
+22C3: Réunion de la famille : union généralisée en notation z
+22C4: Opérateur losange
+22C5: Opérateur point
+22C6: Opérateur étoile
+22C7: Divisé multiplié
+22C8: Nœud papillon
+22C9: Produit semi-direct à gauche de facteur normal
+22CA: Produit semi-direct à droite de facteur normal
+22CB: Produit semi-direct à gauche
+22CC: Produit semi-direct à droite
+22CD: Moins tilde renversé
+22CE: Ou logique recourbé
+22CF: Et logique recourbé
+22D0: Sous-ensemble double
+22D1: Sur-ensemble double
+22D2: Intersection double
+22D3: Union double
+22D4: Fourche : intersection stricte
+22D5: Égal et parallèle à
+22D6: Plus petit que pointé
+22D7: Plus grand que pointé
+22D8: Considérablement plus petit que
+22D9: Considérablement plus grand que
+22DA: Plus petit ou égal ou plus grand que
+22DB: Plus grand ou égal ou plus petit que
+22DC: Égal ou plus petit que
+22DD: Égal ou plus grand que
+22DE: Égal ou précède
+22DF: Égal ou suit
+22E0: Ni précédant ni égal à
+22E1: Ni suivant ni égal à
+22E2: Ni image carrée ni égal à
+22E3: Ni original carré ni égal à
+22E4: Image carré ou différent de
+22E5: Original carré ou différent de
+22E6: Plus petit mais non équivalent à
+22E7: Plus grand mais non équivalent à
+22E8: Précédant mais non équivalent à
+22E9: Suivant mais non équivalent à
+22EA: Pas un sous-groupe normal de
+22EB: Ne contient pas comme sous-groupe normal
+22EC: Ni sous-groupe normal ni égal à
+22ED: Ni égal ni contenant comme sous-groupe normal
+22EE: Trois points suspendus
+22EF: Trois points médians
+22F0: Trois points diagonaux vers le coin haut à droite
+22F1: Trois points diagonaux vers le coin bas à droite
+22F2: Appartient à avec long trait horizontal
+22F3: Appartient à avec barre verticale au bout du trait horizontal
+22F4: Petit appartient à avec barre verticale au bout du trait horizontal
+22F5: Appartient à avec point en chef
+22F6: Appartient à avec trait en chef
+22F7: Petit appartient à avec trait en chef
+22F8: Appartient à avec trait souscrit
+22F9: Appartient à avec deux traits horizontaux
+22FA: Contient avec long trait horizontal
+22FB: Contient avec barre verticale au bout du trait horizontal
+22FC: Petit contient avec barre verticale au bout du trait horizontal
+22FD: Contient avec trait en chef
+22FE: Petit contient avec trait en chef
+22FF: Appartient à un sac en notation z : appartient à un multi-ensemble

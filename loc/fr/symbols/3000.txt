@@ -1,0 +1,256 @@
+3000: Espace idéographique
+3001: Virgule idéographique
+3002: Point idéographique
+3003: Guillemets de répétition
+3004: Symbole de norme industrielle japonaise
+3005: Marque idéographique d'itération
+3006: Marque idéographique de fermeture
+3007: Zéro idéographique
+3008: Chevron gauche : cro
+3009: Chevron droit : chet
+300A: Double chevron gauche
+300B: Double chevron droit
+300C: Anglet gauche
+300D: Anglet droit
+300E: Anglet ajouré gauche
+300F: Anglet ajouré droit
+3010: Crochet noir lenticulaire gauche
+3011: Crochet noir lenticulaire droit
+3012: Marque postale
+3013: Signe geta
+3014: Crochet gauche en écaille
+3015: Crochet droit en écaille
+3016: Crochet blanc lenticulaire gauche
+3017: Crochet blanc lenticulaire droit
+3018: Crochet blanc gauche en écaille
+3019: Crochet blanc droit en écaille
+301A: Crochet blanc gauche : crochet gauche de syntaxe abstraite
+301B: Crochet blanc droit : crochet droit de syntaxe abstraite
+301C: Trait d'union en esse
+301D: Guillemet double prime réfléchi
+301E: Guillemet double prime
+301F: Guillemet double prime inférieur
+3020: Visage en marque postale
+3021: Chiffre un hangzhou
+3022: Chiffre deux hangzhou
+3023: Chiffre trois hangzhou
+3024: Chiffre quatre hangzhou
+3025: Chiffre cinq hangzhou
+3026: Chiffre six hangzhou
+3027: Chiffre sept hangzhou
+3028: Chiffre huit hangzhou
+3029: Chiffre neuf hangzhou
+302A: Marque idéographique de ton fixe
+302B: Marque idéographique de ton ascendant
+302C: Marque idéographique de ton sortant
+302D: Marque idéographique de ton entrant
+302E: Marque de ton hangûl point : pangdjom à un point
+302F: Marque de ton hangûl double point : pangdjom à double point
+3030: Trait d'union ondulé
+3031: Marque verticale kana de répétition
+3032: Marque verticale kana de répétition avec son voisé
+3033: Moitié supérieure de marque verticale kana de répétition
+3034: Moitié supérieure de marque verticale kana de répétition avec son voisé
+3035: Moitié inférieure de marque verticale kana de répétition
+3036: Marque postale cerclée
+3037: Symbole télégraphique idéographique séparateur de changement de ligne
+3038: Nombre dix hangzhou
+3039: Nombre vingt hangzhou
+303A: Nombre trente hangzhou
+303B: Marque verticale idéographique d'itération
+303C: Signe masu
+303D: Signe de changement de partie
+303E: Indicateur de variante idéographique
+303F: Demi-espace idéographique
+3040: 
+3041: Syllabe hiragana a minuscule
+3042: Syllabe hiragana a
+3043: Syllabe hiragana i minuscule
+3044: Syllabe hiragana i
+3045: Syllabe hiragana u minuscule
+3046: Syllabe hiragana u
+3047: Syllabe hiragana e minuscule
+3048: Syllabe hiragana e
+3049: Syllabe hiragana o minuscule
+304A: Syllabe hiragana o
+304B: Syllabe hiragana ka
+304C: Syllabe hiragana ga
+304D: Syllabe hiragana ki
+304E: Syllabe hiragana gi
+304F: Syllabe hiragana ku
+3050: Syllabe hiragana gu
+3051: Syllabe hiragana ke
+3052: Syllabe hiragana ge
+3053: Syllabe hiragana ko
+3054: Syllabe hiragana go
+3055: Syllabe hiragana sa
+3056: Syllabe hiragana za
+3057: Syllabe hiragana si : chi
+3058: Syllabe hiragana zi : dji (pas unique)
+3059: Syllabe hiragana su
+305A: Syllabe hiragana zu
+305B: Syllabe hiragana se
+305C: Syllabe hiragana ze
+305D: Syllabe hiragana so
+305E: Syllabe hiragana zo
+305F: Syllabe hiragana ta
+3060: Syllabe hiragana da
+3061: Syllabe hiragana ti : tchi
+3062: Syllabe hiragana di : dji (pas unique)
+3063: Syllabe hiragana tu minuscule : petit tsou
+3064: Syllabe hiragana tu : tsou
+3065: Syllabe hiragana du : zou (pas unique)
+3066: Syllabe hiragana te
+3067: Syllabe hiragana de
+3068: Syllabe hiragana to
+3069: Syllabe hiragana do
+306A: Syllabe hiragana na
+306B: Syllabe hiragana ni
+306C: Syllabe hiragana nu
+306D: Syllabe hiragana ne
+306E: Syllabe hiragana no
+306F: Syllabe hiragana ha
+3070: Syllabe hiragana ba
+3071: Syllabe hiragana pa
+3072: Syllabe hiragana hi
+3073: Syllabe hiragana bi
+3074: Syllabe hiragana pi
+3075: Syllabe hiragana hu : fu, fou
+3076: Syllabe hiragana bu
+3077: Syllabe hiragana pu
+3078: Syllabe hiragana he
+3079: Syllabe hiragana be
+307A: Syllabe hiragana pe
+307B: Syllabe hiragana ho
+307C: Syllabe hiragana bo
+307D: Syllabe hiragana po
+307E: Syllabe hiragana ma
+307F: Syllabe hiragana mi
+3080: Syllabe hiragana mu
+3081: Syllabe hiragana me
+3082: Syllabe hiragana mo
+3083: Syllabe hiragana ya minuscule
+3084: Syllabe hiragana ya
+3085: Syllabe hiragana yu minuscule
+3086: Syllabe hiragana yu
+3087: Syllabe hiragana yo minuscule
+3088: Syllabe hiragana yo
+3089: Syllabe hiragana ra
+308A: Syllabe hiragana ri
+308B: Syllabe hiragana ru
+308C: Syllabe hiragana re
+308D: Syllabe hiragana ro
+308E: Syllabe hiragana wa minuscule
+308F: Syllabe hiragana wa
+3090: Syllabe hiragana wi
+3091: Syllabe hiragana we
+3092: Syllabe hiragana wo
+3093: Syllabe hiragana n
+3094: Syllabe hiragana vu
+3095: Syllabe hiragana ka minuscule
+3096: Syllabe hiragana ke minuscule
+3097: 
+3098: 
+3099: Diacritique katakana-hiragana son voisé
+309A: Diacritique katakana-hiragana son semi-voisé
+309B: Marque katakana-hiragana de son voisé
+309C: Marque katakana-hiragana de son semi-voisé
+309D: Marque d'itération hiragana
+309E: Marque d'itération voisée hiragana
+309F: Digramme hiragana yori
+30A0: Double trait katakana-hiragana
+30A1: Syllabe katakana a minuscule
+30A2: Syllabe katakana a
+30A3: Syllabe katakana i minuscule
+30A4: Syllabe katakana i
+30A5: Syllabe katakana u minuscule
+30A6: Syllabe katakana u
+30A7: Syllabe katakana e minuscule
+30A8: Syllabe katakana e
+30A9: Syllabe katakana o minuscule
+30AA: Syllabe katakana o
+30AB: Syllabe katakana ka
+30AC: Syllabe katakana ga
+30AD: Syllabe katakana ki
+30AE: Syllabe katakana gi
+30AF: Syllabe katakana ku
+30B0: Syllabe katakana gu
+30B1: Syllabe katakana ke
+30B2: Syllabe katakana ge
+30B3: Syllabe katakana ko
+30B4: Syllabe katakana go
+30B5: Syllabe katakana sa
+30B6: Syllabe katakana za
+30B7: Syllabe katakana si : chi
+30B8: Syllabe katakana zi : dji (pas unique)
+30B9: Syllabe katakana su
+30BA: Syllabe katakana zu
+30BB: Syllabe katakana se
+30BC: Syllabe katakana ze
+30BD: Syllabe katakana so
+30BE: Syllabe katakana zo
+30BF: Syllabe katakana ta
+30C0: Syllabe katakana da
+30C1: Syllabe katakana ti : tchi
+30C2: Syllabe katakana di : dji (pas unique)
+30C3: Syllabe katakana tu minuscule : petit tsou
+30C4: Syllabe katakana tu : tsou
+30C5: Syllabe katakana du : zou (pas unique)
+30C6: Syllabe katakana te
+30C7: Syllabe katakana de
+30C8: Syllabe katakana to
+30C9: Syllabe katakana do
+30CA: Syllabe katakana na
+30CB: Syllabe katakana ni
+30CC: Syllabe katakana nu
+30CD: Syllabe katakana ne
+30CE: Syllabe katakana no
+30CF: Syllabe katakana ha
+30D0: Syllabe katakana ba
+30D1: Syllabe katakana pa
+30D2: Syllabe katakana hi
+30D3: Syllabe katakana bi
+30D4: Syllabe katakana pi
+30D5: Syllabe katakana hu : fu, fou
+30D6: Syllabe katakana bu
+30D7: Syllabe katakana pu
+30D8: Syllabe katakana he
+30D9: Syllabe katakana be
+30DA: Syllabe katakana pe
+30DB: Syllabe katakana ho
+30DC: Syllabe katakana bo
+30DD: Syllabe katakana po
+30DE: Syllabe katakana ma
+30DF: Syllabe katakana mi
+30E0: Syllabe katakana mu
+30E1: Syllabe katakana me
+30E2: Syllabe katakana mo
+30E3: Syllabe katakana ya minuscule
+30E4: Syllabe katakana ya
+30E5: Syllabe katakana yu minuscule
+30E6: Syllabe katakana yu
+30E7: Syllabe katakana yo minuscule
+30E8: Syllabe katakana yo
+30E9: Syllabe katakana ra
+30EA: Syllabe katakana ri
+30EB: Syllabe katakana ru
+30EC: Syllabe katakana re
+30ED: Syllabe katakana ro
+30EE: Syllabe katakana wa minuscule
+30EF: Syllabe katakana wa
+30F0: Syllabe katakana wi
+30F1: Syllabe katakana we
+30F2: Syllabe katakana wo
+30F3: Syllabe katakana n
+30F4: Syllabe katakana vu
+30F5: Syllabe katakana ka minuscule
+30F6: Syllabe katakana ke minuscule
+30F7: Syllabe katakana va
+30F8: Syllabe katakana vi
+30F9: Syllabe katakana ve
+30FA: Syllabe katakana vo
+30FB: Point médian katakana
+30FC: Marque katakana-hiragana de son prolongé
+30FD: Marque d'itération katakana
+30FE: Marque d'itération voisée katakana
+30FF: Digramme katakana koto

@@ -1,0 +1,256 @@
+2000: Demi-cadratin
+2001: Cadratin
+2002: Espace demi-cadratin
+2003: Espace cadratin
+2004: Tiers de cadratin
+2005: Quart de cadratin
+2006: Sixième de cadratin
+2007: Espace tabulaire : espace-nombre
+2008: Espace ponctuation
+2009: Espace fine
+200A: Espace ultrafine
+200B: Espace sans chasse : espace à chasse nulle, abrégé en zwsp, espsc
+200C: Antiliant sans chasse : abrégé en alsc, zwnj
+200D: Liant sans chasse : abrégé en lsc, zwj
+200E: Marque gauche-à-droite : abrégé en mgad, lrm
+200F: Marque droite-à-gauche : abrégé en mdag, rlm
+2010: Trait d'union : division
+2011: Trait d'union insécable
+2012: Tiret numérique
+2013: Tiret demi-cadratin
+2014: Tiret cadratin : tiret sur cadratin
+2015: Barre horizontale
+2016: Double ligne verticale
+2017: Double trait souscrit
+2018: Guillemet-apostrophe culbuté
+2019: Guillemet-apostrophe
+201A: Guillemet-virgule inférieur
+201B: Guillemet-virgule supérieur culbuté
+201C: Guillemet-apostrophe double culbuté
+201D: Guillemet-apostrophe double
+201E: Guillemet-virgule double inférieur
+201F: Guillemet-virgule double supérieur culbuté
+2020: Obèle
+2021: Double obèle
+2022: Puce
+2023: Puce triangulaire
+2024: Point de conduite simple
+2025: Point de conduite double
+2026: Points de suspension : point de conduite triple
+2027: Point de coupure de mot
+2028: Séparateur de lignes
+2029: Séparateur de paragraphes
+202A: Enchâssement gauche-à-droite : abrégé en egad, lre
+202B: Enchâssement droite-à-gauche : abrégé en edag, rle
+202C: Dépilement de formatage directionnel : abrégé en dfd, pdf
+202D: Forçage gauche-à-droite : abrégé en fgad, lro
+202E: Forçage droite-à-gauche : abrégé en fdag, rlo
+202F: Espace insécable étroite : abrégé en nnbsp
+2030: Symbole pour mille
+2031: Symbole pour dix mille : par myriade
+2032: Prime : minutes, pieds
+2033: Double prime : secondes, pouces
+2034: Triple prime : ligne (ancienne mesure, un douzième de pouce, utilisée par ex. en
+2035: Prime réfléchi
+2036: Double prime réfléchi
+2037: Triple prime réfléchi
+2038: Chevron d'insertion
+2039: Guillemet simple vers la gauche
+203A: Guillemet simple vers la droite
+203B: Marque de référence : komé japonais : séparateur de paragraphes ourdou
+203C: Double point d'exclamation
+203D: Point exclarrogatif
+203E: Tiret en chef : tiret suscrit avec chasse
+203F: Tirant souscrit (énotikon) : énotikon grec
+2040: Tirant en chef : concaténation d'une séquence en notation z : dos-d'âne suscrit
+2041: Lambda d'insertion
+2042: Astérisme
+2043: Puce trait d'union
+2044: Barre de fraction : barre fractionnaire
+2045: Crochet gauche avec pique
+2046: Crochet droit avec pique
+2047: Double point d'interrogation
+2048: Point d'interrogation-exclamation
+2049: Point d'exclamation-interrogation
+204A: Note tironienne et
+204B: Pied-de-mouche réfléchi
+204C: Puce noire tronquée à droite
+204D: Puce noire tronquée à gauche
+204E: Astérisque baissé
+204F: Point-virgule réfléchi
+2050: Resserrer
+2051: Deux astérisques alignés verticalement
+2052: Signe moins commercial
+2053: Tiret ondé
+2054: Dos-d'âne souscrit
+2055: Point-fleur : phoul, pouspika, phul
+2056: Trois-points
+2057: Quadruple prime
+2058: Quatre-points en losange
+2059: Cinq-points en quinconce : pentonkion grec : quinconce
+205A: Deux-points en capitale
+205B: Quatre-points en croix
+205C: Croix pointée
+205D: Trois-points vertical : symbole trois acrophonique épidaurien
+205E: Quatre-points vertical
+205F: Espace moyenne mathématique
+2060: Gluon de mots : abrégé en gdm, wj
+2061: Application d'une fonction
+2062: Signe multiplier invisible
+2063: Séparateur invisible : virgule invisible
+2064: Plus invisible
+2065: 
+2066: Îlot de gauche à droite
+2067: Îlot de droite à gauche
+2068: Îlot à direction autodéterminée
+2069: Dépilement d'îlot directionnel
+206A: Inhibiteur d'échange symétrique
+206B: Activateur d'échange symétrique
+206C: Inhibiteur de formage arabe
+206D: Activateur de formage arabe
+206E: Sélecteur de formes numérales nationales
+206F: Sélecteur de formes numérales de référence
+2070: Exposant zéro
+2071: Exposant lettre minuscule latine i
+2072: <réservé>
+2073: <réservé>
+2074: Exposant quatre
+2075: Exposant cinq
+2076: Exposant six
+2077: Exposant sept
+2078: Exposant huit
+2079: Exposant neuf
+207A: Exposant signe plus
+207B: Exposant signe moins
+207C: Exposant signe égal
+207D: Exposant parenthèse gauche
+207E: Exposant parenthèse droite
+207F: Exposant lettre minuscule latine n
+2080: Indice zéro
+2081: Indice un
+2082: Indice deux
+2083: Indice trois
+2084: Indice quatre
+2085: Indice cinq
+2086: Indice six
+2087: Indice sept
+2088: Indice huit
+2089: Indice neuf
+208A: Indice signe plus
+208B: Indice signe moins
+208C: Indice signe égal
+208D: Indice parenthèse gauche
+208E: Indice parenthèse droite
+208F: 
+2090: Indice lettre minuscule latine a
+2091: Indice lettre minuscule latine e
+2092: Indice lettre minuscule latine o
+2093: Indice lettre minuscule latine x
+2094: Indice lettre minuscule latine schwa
+2095: Lettre minuscule latine souscrite h
+2096: Lettre minuscule latine souscrite k
+2097: Lettre minuscule latine souscrite l
+2098: Lettre minuscule latine souscrite m
+2099: Lettre minuscule latine souscrite n
+209A: Lettre minuscule latine souscrite p
+209B: Lettre minuscule latine souscrite s
+209C: Lettre minuscule latine souscrite t
+209D: 
+209E: 
+209F: 
+20A0: Symbole écu
+20A1: Symbole colon
+20A2: Symbole cruzeiro
+20A3: Symbole franc français
+20A4: Symbole lire
+20A5: Symbole millième
+20A6: Symbole naira
+20A7: Symbole peseta
+20A8: Symbole roupie
+20A9: Symbole won
+20AA: Symbole nouveau chékel
+20AB: Symbole dong
+20AC: Symbole euro
+20AD: Symbole kip
+20AE: Symbole tougrik
+20AF: Symbole drachme : drakhmê
+20B0: Symbole pfennig : denier, pfennig allemand
+20B1: Symbole peso
+20B2: Symbole guarani
+20B3: Symbole austral
+20B4: Symbole hryvnia
+20B5: Symbole cedi
+20B6: Symbole livre tournois
+20B7: Symbole spesmilo
+20B8: Symbole tenge
+20B9: Symbole roupie indienne
+20BA: Symbole lire turque
+20BB: Symbole du mark nordique
+20BC: Symbole manat
+20BD: 
+20BE: 
+20BF: 
+20C0: 
+20C1: 
+20C2: 
+20C3: 
+20C4: 
+20C5: 
+20C6: 
+20C7: 
+20C8: 
+20C9: 
+20CA: 
+20CB: 
+20CC: 
+20CD: 
+20CE: 
+20CF: 
+20D0: Diacritique vecteur vers la gauche en chef
+20D1: Diacritique vecteur vers la droite en chef
+20D2: Diacritique ligne verticale longue couvrante
+20D3: Diacritique ligne verticale courte couvrante
+20D4: Diacritique flèche en sens positif en chef
+20D5: Diacritique flèche en sens négatif en chef
+20D6: Diacritique flèche vers la gauche en chef
+20D7: Diacritique flèche vers la droite en chef
+20D8: Diacritique rond couvrant
+20D9: Diacritique rond en sens négatif couvrant
+20DA: Diacritique rond en sens positif couvrant
+20DB: Diacritique trois points en chef : troisième dérivée
+20DC: Diacritique quatre points en chef : quatrième dérivée
+20DD: Diacritique cercle englobant : cercle de composition jis : diacritique cyrillique myriade, diacritique cyrillique symbole dix mille
+20DE: Diacritique carré englobant
+20DF: Diacritique losange englobant
+20E0: Diacritique cercle englobant et barre oblique inversée : diacritique cercle englobant contre-coticé
+20E1: Diacritique flèche bilatérale en chef
+20E2: Diacritique écran englobant
+20E3: Diacritique touche englobante
+20E4: Diacritique triangle englobant pointant vers le haut
+20E5: Diacritique barre oblique inversée couvrante : diacritique contre-cotice couvrante : diacritique contre-oblique couvrante
+20E6: Diacritique double barre verticale couvrante : diacritique fonction finie en notation z
+20E7: Diacritique symbole de rente : anglet actuariel
+20E8: Diacritique trois points souscrits
+20E9: Diacritique pont en chef : opérateur de contraction
+20EA: Diacritique flèche vers la gauche couvrante
+20EB: Diacritique double barre oblique longue couvrante : longue double cotice couvrante
+20EC: Diacritique harpon vers la droite avec dent vers le bas
+20ED: Diacritique harpon vers la gauche avec dent vers le bas
+20EE: Diacritique flèche vers la gauche souscrite
+20EF: Diacritique flèche vers la droite souscrite
+20F0: Diacritique astérisque suscrit
+20F1: 
+20F2: 
+20F3: 
+20F4: 
+20F5: 
+20F6: 
+20F7: 
+20F8: 
+20F9: 
+20FA: 
+20FB: 
+20FC: 
+20FD: 
+20FE: 
+20FF: 

@@ -1,0 +1,256 @@
+1F000: Tuile de majong vent d'est
+1F001: Tuile de majong vent du sud
+1F002: Tuile de majong vent d'ouest
+1F003: Tuile de majong vent du nord
+1F004: Tuile de majong dragon rouge
+1F005: Tuile de majong dragon vert
+1F006: Tuile de majong dragon blanc
+1F007: Tuile de majong un de caractère
+1F008: Tuile de majong deux de caractère
+1F009: Tuile de majong trois de caractère
+1F00A: Tuile de majong quatre de caractère
+1F00B: Tuile de majong cinq de caractère
+1F00C: Tuile de majong six de caractère
+1F00D: Tuile de majong sept de caractère
+1F00E: Tuile de majong huit de caractère
+1F00F: Tuile de majong neuf de caractère
+1F010: Tuile de majong un de bambou
+1F011: Tuile de majong deux de bambou
+1F012: Tuile de majong trois de bambou
+1F013: Tuile de majong quatre de bambou
+1F014: Tuile de majong cinq de bambou
+1F015: Tuile de majong six de bambou
+1F016: Tuile de majong sept de bambou
+1F017: Tuile de majong huit de bambou
+1F018: Tuile de majong neuf de bambou
+1F019: Tuile de majong un de cercle
+1F01A: Tuile de majong deux de cercle
+1F01B: Tuile de majong trois de cercle
+1F01C: Tuile de majong quatre de cercle
+1F01D: Tuile de majong cinq de cercle
+1F01E: Tuile de majong six de cercle
+1F01F: Tuile de majong sept de cercle
+1F020: Tuile de majong huit de cercle
+1F021: Tuile de majong neuf de cercle
+1F022: Tuile de majong fleur de prunier
+1F023: Tuile de majong orchidée
+1F024: Tuile de majong fleur de bambou
+1F025: Tuile de majong chrysanthème
+1F026: Tuile de majong printemps
+1F027: Tuile de majong été
+1F028: Tuile de majong automne
+1F029: Tuile de majong hiver
+1F02A: Tuile de majong joker
+1F02B: Dos de tuile de majong
+1F02C: 
+1F02D: 
+1F02E: 
+1F02F: 
+1F030: Dos de domino horizontal
+1F031: Domino horizontal-00-00
+1F032: Domino horizontal-00-01
+1F033: Domino horizontal-00-02
+1F034: Domino horizontal-00-03
+1F035: Domino horizontal-00-04
+1F036: Domino horizontal-00-05
+1F037: Domino horizontal-00-06
+1F038: Domino horizontal-01-00
+1F039: Domino horizontal-01-01
+1F03A: Domino horizontal-01-02
+1F03B: Domino horizontal-01-03
+1F03C: Domino horizontal-01-04
+1F03D: Domino horizontal-01-05
+1F03E: Domino horizontal-01-06
+1F03F: Domino horizontal-02-00
+1F040: Domino horizontal-02-01
+1F041: Domino horizontal-02-02
+1F042: Domino horizontal-02-03
+1F043: Domino horizontal-02-04
+1F044: Domino horizontal-02-05
+1F045: Domino horizontal-02-06
+1F046: Domino horizontal-03-00
+1F047: Domino horizontal-03-01
+1F048: Domino horizontal-03-02
+1F049: Domino horizontal-03-03
+1F04A: Domino horizontal-03-04
+1F04B: Domino horizontal-03-05
+1F04C: Domino horizontal-03-06
+1F04D: Domino horizontal-04-00
+1F04E: Domino horizontal-04-01
+1F04F: Domino horizontal-04-02
+1F050: Domino horizontal-04-03
+1F051: Domino horizontal-04-04
+1F052: Domino horizontal-04-05
+1F053: Domino horizontal-04-06
+1F054: Domino horizontal-05-00
+1F055: Domino horizontal-05-01
+1F056: Domino horizontal-05-02
+1F057: Domino horizontal-05-03
+1F058: Domino horizontal-05-04
+1F059: Domino horizontal-05-05
+1F05A: Domino horizontal-05-06
+1F05B: Domino horizontal-06-00
+1F05C: Domino horizontal-06-01
+1F05D: Domino horizontal-06-02
+1F05E: Domino horizontal-06-03
+1F05F: Domino horizontal-06-04
+1F060: Domino horizontal-06-05
+1F061: Domino horizontal-06-06
+1F062: Dos de domino vertical
+1F063: Domino vertical-00-00
+1F064: Domino vertical-00-01
+1F065: Domino vertical-00-02
+1F066: Domino vertical-00-03
+1F067: Domino vertical-00-04
+1F068: Domino vertical-00-05
+1F069: Domino vertical-00-06
+1F06A: Domino vertical-01-00
+1F06B: Domino vertical-01-01
+1F06C: Domino vertical-01-02
+1F06D: Domino vertical-01-03
+1F06E: Domino vertical-01-04
+1F06F: Domino vertical-01-05
+1F070: Domino vertical-01-06
+1F071: Domino vertical-02-00
+1F072: Domino vertical-02-01
+1F073: Domino vertical-02-02
+1F074: Domino vertical-02-03
+1F075: Domino vertical-02-04
+1F076: Domino vertical-02-05
+1F077: Domino vertical-02-06
+1F078: Domino vertical-03-00
+1F079: Domino vertical-03-01
+1F07A: Domino vertical-03-02
+1F07B: Domino vertical-03-03
+1F07C: Domino vertical-03-04
+1F07D: Domino vertical-03-05
+1F07E: Domino vertical-03-06
+1F07F: Domino vertical-04-00
+1F080: Domino vertical-04-01
+1F081: Domino vertical-04-02
+1F082: Domino vertical-04-03
+1F083: Domino vertical-04-04
+1F084: Domino vertical-04-05
+1F085: Domino vertical-04-06
+1F086: Domino vertical-05-00
+1F087: Domino vertical-05-01
+1F088: Domino vertical-05-02
+1F089: Domino vertical-05-03
+1F08A: Domino vertical-05-04
+1F08B: Domino vertical-05-05
+1F08C: Domino vertical-05-06
+1F08D: Domino vertical-06-00
+1F08E: Domino vertical-06-01
+1F08F: Domino vertical-06-02
+1F090: Domino vertical-06-03
+1F091: Domino vertical-06-04
+1F092: Domino vertical-06-05
+1F093: Domino vertical-06-06
+1F094: 
+1F095: 
+1F096: 
+1F097: 
+1F098: 
+1F099: 
+1F09A: 
+1F09B: 
+1F09C: 
+1F09D: 
+1F09E: 
+1F09F: 
+1F0A0: Dos de carte à jouer
+1F0A1: Carte à jouer as de pique
+1F0A2: Carte à jouer deux de pique
+1F0A3: Carte à jouer trois de pique
+1F0A4: Carte à jouer quatre de pique
+1F0A5: Carte à jouer cinq de pique
+1F0A6: Carte à jouer six de pique
+1F0A7: Carte à jouer sept de pique
+1F0A8: Carte à jouer huit de pique
+1F0A9: Carte à jouer neuf de pique
+1F0AA: Carte à jouer dix de pique
+1F0AB: Carte à jouer valet de pique
+1F0AC: Carte à jouer chevalier de pique
+1F0AD: Carte à jouer dame de pique
+1F0AE: Carte à jouer roi de pique
+1F0AF: 
+1F0B0: 
+1F0B1: Carte à jouer as de cœur
+1F0B2: Carte à jouer deux de cœur
+1F0B3: Carte à jouer trois de cœur
+1F0B4: Carte à jouer quatre de cœur
+1F0B5: Carte à jouer cinq de cœur
+1F0B6: Carte à jouer six de cœur
+1F0B7: Carte à jouer sept de cœur
+1F0B8: Carte à jouer huit de cœur
+1F0B9: Carte à jouer neuf de cœur
+1F0BA: Carte à jouer dix de cœur
+1F0BB: Carte à jouer valet de cœur
+1F0BC: Carte à jouer chevalier de cœur
+1F0BD: Carte à jouer dame de cœur
+1F0BE: Carte à jouer roi de cœur
+1F0BF: Joker
+1F0C0: 
+1F0C1: Carte à jouer as de carreau
+1F0C2: Carte à jouer deux de carreau
+1F0C3: Carte à jouer trois de carreau
+1F0C4: Carte à jouer quatre de carreau
+1F0C5: Carte à jouer cinq de carreau
+1F0C6: Carte à jouer six de carreau
+1F0C7: Carte à jouer sept de carreau
+1F0C8: Carte à jouer huit de carreau
+1F0C9: Carte à jouer neuf de carreau
+1F0CA: Carte à jouer dix de carreau
+1F0CB: Carte à jouer valet de carreau
+1F0CC: Carte à jouer chevalier de carreau
+1F0CD: Carte à jouer dame de carreau
+1F0CE: Carte à jouer roi de carreau
+1F0CF: Carte à jouer joker noir
+1F0D0: 
+1F0D1: Carte à jouer as de trèfle
+1F0D2: Carte à jouer deux de trèfle
+1F0D3: Carte à jouer trois de trèfle
+1F0D4: Carte à jouer quatre de trèfle
+1F0D5: Carte à jouer cinq de trèfle
+1F0D6: Carte à jouer six de trèfle
+1F0D7: Carte à jouer sept de trèfle
+1F0D8: Carte à jouer huit de trèfle
+1F0D9: Carte à jouer neuf de trèfle
+1F0DA: Carte à jouer dix de trèfle
+1F0DB: Carte à jouer valet de trèfle
+1F0DC: Carte à jouer chevalier de trèfle
+1F0DD: Carte à jouer dame de trèfle
+1F0DE: Carte à jouer roi de trèfle
+1F0DF: Carte à jouer joker blanc
+1F0E0: Carte à jouer - fou
+1F0E1: Atout-1
+1F0E2: Atout-2
+1F0E3: Atout-3
+1F0E4: Atout-4
+1F0E5: Atout-5
+1F0E6: Atout-6
+1F0E7: Atout-7
+1F0E8: Atout-8
+1F0E9: Atout-9
+1F0EA: Atout-10
+1F0EB: Atout-11
+1F0EC: Atout-12
+1F0ED: Atout-13
+1F0EE: Atout-14
+1F0EF: Atout-15
+1F0F0: Atout-16
+1F0F1: Atout-17
+1F0F2: Atout-18
+1F0F3: Atout-19
+1F0F4: Atout-20
+1F0F5: Atout-21
+1F0F6: 
+1F0F7: 
+1F0F8: 
+1F0F9: 
+1F0FA: 
+1F0FB: 
+1F0FC: 
+1F0FD: 
+1F0FE: 
+1F0FF: 
