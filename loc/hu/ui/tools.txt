@@ -1,0 +1,34 @@
+: Eszközök
+
+[encoder]: Kódoló
+
+desc: Karaktereket kódol HTML-kódra és vissza
+plain: Normál szöveg
+full: Teljes
+text: Szöveg
+entities: Karakterkódolás egységekkel
+br: Sortörések kódolása
+
+[decoder]: Dekódoló
+
+desc: Karaktereket kódól Unicode-ra és vissza
+example: Ez egy példa
+code: Unicode
+text: Szöveg
+
+[flip]: Megfordító
+
+desc: Megfordítja a Cirill és Latin betűket és vissza
+plain: Normál szöveg
+flipped: Fordított szöveg
+backed: Vissza az első szövegre
+
+[generator]: Unicode-karaktertábla generátor
+
+desc: Karaktereket generál egy megadott intervallumban
+range: Intervallum
+format: Formátum
+info: Elérhető: {symbol}, {dec}, {hex}, {html}
+generate: Generálás
+result: Eredmény
+

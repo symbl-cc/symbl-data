@@ -1,0 +1,13 @@
+: ค้นหาอักขระ
+find: ค้นหา
+example: ตัวอย่าง
+# phrases separated by ";"
+example-text: ค้อนและเคียว
+h1: ค้นหา
+result: ผลลัพธ์
+empty: คำที่ค้นหาว่างเปล่า
+total: ทั้งหมด: %s
+limit: (แสดงเฉพาะ %s)
+none: ไม่มี
+any: ค้นหาคำใดๆ
+overflow: ขออภัย, สัญลักษณ์ U+%s อยู่ระหว่างการสร้าง :)

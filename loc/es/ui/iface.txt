@@ -1,0 +1,28 @@
+up: Subir
+range: Rango
+loading: Cargando, espera por favor ...
+count: Número de caracteres
+sort-order: Por orden
+sort-block: Por secciones
+copy-clipboard: Copiar al portapapeles
+help-range: Haga clic para resaltar rango
+more: Más
+prev: Ant
+next: Próx
+separate-page: Abrir en una página independiente
+share-link: Compartir
+# @todo recent
+# @todo recent-text
+read-more: Leer más
+read-less: Ocultar
+
+[mobile]
+to-full: Ir a la versión completa
+# @todo to-mobile
+
+[edit]: Editar
+save: Guardar
+# @todo submit
+undo: Deshacer
+send-changes: Los cambios se enviarán a los desarrolladores del sitio. Estás seguro?
+thanks: Gracias!

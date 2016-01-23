@@ -1,0 +1,34 @@
+: เครื่องมือ
+
+[encoder]: ตัวเข้ารหัส
+
+desc: เข้ารหัสอักขระเป็นโค้ด HTML และย้อนกลับ
+plain: ข้อความล้วน
+full: เต็มรูปแบบ
+text: ข้อความ
+entities: เข้ารหัสอักขระด้วยเอนทิตี
+br: ตัวแบ่งบรรทัดการเข้ารหัส
+
+[decoder]: ตัวถอดรหัส
+
+desc: เข้ารหัสอักขระเป็น Unicode หรือย้อนกลับไปถอดรหัส
+example: นี่คือตัวอย่าง
+code: Unicode
+text: ข้อความ
+
+[flip]: พลิก
+
+desc: พลิกอักษรซีริลลิกและอักษรละตินคว่ำหน้าหรือถอยหลัง
+plain: ข้อความล้วน
+flipped: ข้อความที่ถูกพลิก
+backed: ย้อนกลับไปยังข้อความด้านหน้า
+
+# @todo [generator]
+
+# @todo desc
+# @todo range
+# @todo format
+# @todo info
+# @todo generate
+# @todo result
+

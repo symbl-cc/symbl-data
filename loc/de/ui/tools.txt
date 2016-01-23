@@ -1,0 +1,34 @@
+: Werkzeuge
+
+[encoder]: HTML-Kodierungswerkzeug
+
+desc: Symbole in HTML-Code umwandeln, oder umgekehrt
+plain: Einfacher Text
+full: Alles
+# @todo text
+entities: HTML-Entsprechungen verwenden, falls vorhanden
+br: Zeilenumbrüche beachten
+
+[decoder]: Unicode-Kodierungswerkzeug
+
+desc: Symbole in Unicode-Codepoints umwandeln, oder umgekehrt
+example: Dies ist ein Beispieltext für Unicode-Kodierung
+code: Unicode
+text: Text
+
+[flip]: Text umdrehen
+
+desc: Lateinische Symbole unter Verwendung von kyrillischen Symbolen umgekehrt darstellen
+plain: Einfacher Text
+flipped: Kopfüber
+backed: Rückwärts
+
+[generator]: Unicode-Zeichentabellengenerator
+
+desc: Erzeugt einen Satz von Zeichen in einem bestimmten Bereich
+range: Reichweite
+format: Format
+info: Verfügbar: {symbol}, {dec}, {hex}, {html}
+generate: Generieren
+result: Ergebnis
+

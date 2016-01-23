@@ -1,0 +1,28 @@
+up: ขึ้น
+range: ช่วง
+loading: กำลังโหลด, กรุณารอสักครู่...
+count: จำนวนอักขระ
+sort-order: ตามลำดับ
+sort-block: ตามมาตรา
+copy-clipboard: คัดลอกไปยังคลิปบอร์ด
+help-range: คลิกเพื่อไฮไลท์ช่วง
+more: เพิ่มเติม
+prev: ก่อนหน้า
+next: ถัดไป
+separate-page: เปิดหน้าแยก
+share-link: แบ่งปัน
+# @todo recent
+# @todo recent-text
+read-more: อ่านเพิ่มเติม
+read-less: ปิดบัง
+
+[mobile]
+# @todo to-full
+# @todo to-mobile
+
+[edit]: แก้ไข
+save: ประหยัด
+# @todo submit
+undo: ยกเลิก
+send-changes: การเปลี่ยนแปลงของคุณจะถูกส่งไปยังนักพัฒนาเว็บไซต์ คุณแน่ใจหรือไม่?
+thanks: ขอขอบคุณ

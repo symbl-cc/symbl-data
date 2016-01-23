@@ -1,0 +1,24 @@
+title: ตารางอักขระ Unicode®
+
+[sets]: ชุดอักขระ
+# @todo set
+list: ชุดอักขระ
+
+[blocks]: รายชื่อส่วน
+# @todo block
+list: รายชื่อส่วน Unicode
+
+[languages]: ภาษา
+list: รายชื่อภาษา
+blocks: ส่วนภาษา
+
+[countries]: ประเทศ
+list: รายชื่อประเทศ
+
+# @todo [alphabets]
+# @todo list
+
+[types]
+# @todo type
+list: รายชื่อชนิด
+

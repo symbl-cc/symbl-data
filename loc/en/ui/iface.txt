@@ -1,0 +1,28 @@
+up: Up
+range: Range
+loading: Loading, please wait...
+count: Number of characters
+sort-order: By order
+sort-block: By blocks
+copy-clipboard: Copy to clipboard
+help-range: Click to highlight range
+more: More
+prev: Prev
+next: Next
+separate-page: Open in separate page
+share-link: Share with friends
+recent: Recent
+recent-text: Here will display recently used symbols. So far, see the popular symbols
+read-more: Read more
+read-less: Hide
+
+[mobile]
+to-full: Go to full version
+to-mobile: Mobile version
+
+[edit]: Edit
+save: Save
+submit: Submit
+undo: Undo
+send-changes: Your changes will be send to the website developers. Are you sure?
+thanks: Thanks!

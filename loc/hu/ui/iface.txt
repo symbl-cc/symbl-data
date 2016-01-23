@@ -1,0 +1,28 @@
+up: Fel
+range: Tartomány
+loading: Töltés...
+count: Karakterek száma
+sort-order: Rend szerint
+sort-block: Blokkonként
+copy-clipboard: Másolás a vágólapra
+help-range: Nyomj ide, hogy a tartomány kiemelődjön
+more: Több
+prev: Előző
+next: Következő
+separate-page: Megnyitás egy külön lapon
+share-link: Megosztom
+# @todo recent
+# @todo recent-text
+read-more: Olvass tovább
+read-less: Elrejt
+
+[mobile]
+to-full: Ugrás a teljes verzióra
+# @todo to-mobile
+
+[edit]: Szerkesztés
+save: Mentés
+submit: Elküldés
+undo: Visszavonás
+send-changes: A változtatások a fejlesztőknek lesznek elküldve. Biztos vagy benne?
+thanks: Köszönjük!

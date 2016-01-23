@@ -1,0 +1,13 @@
+: Zeichensuche
+find: Finden
+example: Zum Beispiel
+# phrases separated by ";"
+example-text: Hammer und Sichel;Pfeil;Herz;Leerzeichen;check;triangle
+h1: Zeichensuche
+result: Ergebnis
+empty: Suchephrase ist leer
+total: Insgesamt %s Ergebnisse
+limit: (nur %s angezeigt)
+none: Es wurden keine Ergebnisse gefunden.
+any: Es wurde keine vollständige Übereinstimmung gefunden. Versuchen Sie, weniger Schlüsselwörter zu verwenden.
+overflow: Entschuldigung, Symbol U+%s in Ausarbeitung :)

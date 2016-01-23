@@ -1,0 +1,28 @@
+up: Hinauf
+range: Bereich
+loading: Laden, bitte warten…
+count: Anzahl der Zeichen
+sort-order: Der Reihe nach
+sort-block: Abschnittsweise
+copy-clipboard: In die Zwischenablage kopieren
+help-range: Drücken, um anzuleuchten
+more: Mehr
+prev: Vorher.
+next: Folgend.
+separate-page: Öffnen einer separaten Seite
+share-link: Teilen
+# @todo recent
+# @todo recent-text
+read-more: Weiterlesen
+read-less: Verbergen
+
+[mobile]
+to-full: Zur Vollversion
+# @todo to-mobile
+
+[edit]: Bearbeiten
+save: Speichern
+submit: Einreichen
+undo: Rückgängig
+send-changes: Bitte bestätigen Sie die vorgenommenen Änderungen. Sie werden zur Überprüfung an die Redaktion übermittelt.
+thanks: Danke!

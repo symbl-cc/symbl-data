@@ -1,0 +1,23 @@
+title: Unicode®字符百科
+
+[sets]: 符号分类集汇
+# @todo set
+list: 符号分类集汇
+
+[blocks]: 字符段列表
+# @todo block
+blocks: Unicode 字符段列表
+
+[languages]: 语言
+list: 语言列表
+blocks: 该语言使用的字符范围
+
+[countries]: 国家地区
+list: 国家地区列表
+
+[alphabets]: 字母表
+# @todo list
+
+[types]: 字符类型列表
+# @todo type
+list: 字符类型列表

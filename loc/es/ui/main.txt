@@ -1,0 +1,24 @@
+title: Tabla de caracteres Unicode®
+
+[sets]: Conjuntos
+set: Conjunto
+list: Conjuntos de caracteres
+
+[blocks]: Secciones
+block: Bloque
+blocks: Lista de Secciones Unicode
+
+[languages]: Idiomas
+list: Lista de las Idiomas
+blocks: Bloques de idiomas
+
+[countries]: Países
+list: Lista de Países
+
+[alphabets]: Alphabets
+# @todo list
+
+[types]
+# @todo type
+list: Lista de Tipos
+

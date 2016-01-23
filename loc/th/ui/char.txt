@@ -1,0 +1,9 @@
+entity: เอนทิตี
+your-browser: เบราว์เซอร์ ของคุณ
+font-view: จารึก ของตัวละคร ในแบบอักษรที่ แตกต่างกัน
+char-desc: รายละเอียด ของตัวละคร
+unicode-number: หมายเลข Unicode
+html-code: <span class="caps">โค้ด HTML</span>
+# @todo uppercase
+# @todo lowercase
+# @todo encoding
