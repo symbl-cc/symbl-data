@@ -179,15 +179,15 @@
 08B2: Arabic Letter Zain with Inverted V Above
 08B3: Arabic Letter Ain with Three Dots Below
 08B4: Arabic Letter Kaf with Dot Below
-08B5: 
-08B6:
-08B7:
-08B8:
-08B9:
-08BA:
-08BB:
-08BC:
-08BD:
+08B5:
+08B6: Arabic Letter Beh with Small Meem Above
+08B7: Arabic Letter Peh with Small Meem Above
+08B8: Arabic Letter Teh with Small Teh Above
+08B9: Arabic Letter Reh with Small Noon Above
+08BA: Arabic Letter Yeh with Two Dots Below and Small Noon Above
+08BB: Arabic Letter African Feh
+08BC: Arabic Letter African Qaf
+08BD: Arabic Letter African Noon
 08BE:
 08BF:
 08C0:
@@ -210,21 +210,21 @@
 08D1:
 08D2:
 08D3:
-08D4:
-08D5:
-08D6:
-08D7:
-08D8:
-08D9:
-08DA:
-08DB:
-08DC:
-08DD:
-08DE:
-08DF:
-08E0:
-08E1:
-08E2:
+08D4: Arabic Small High Word Ar-Rub
+08D5: Arabic Small High Sad
+08D6: Arabic Small High Ain
+08D7: Arabic Small High Qaf
+08D8: Arabic Small High Noon with Kasra
+08D9: Arabic Small Low Noon with Kasra
+08DA: Arabic Small High Word Ath-Thalatha
+08DB: Arabic Small High Word As-Sajda
+08DC: Arabic Small High Word An-Nisf
+08DD: Arabic Small High Word Sakta
+08DE: Arabic Small High Word Qif
+08DF: Arabic Small High Word Waqfa
+08E0: Arabic Small High Footnote Marker
+08E1: Arabic Small High Sign Safha
+08E2: Arabic Disputed End of Ayah
 08E3: Arabic Turned Damma Below
 08E4: Arabic Curly Fatha
 08E5: Arabic Curly Damma
