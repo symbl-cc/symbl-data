@@ -211,10 +211,10 @@
 0FD2: Tibetan Mark Nyis Tsheg : nyi tsek
 0FD3: Tibetan Mark Initial Brda Rnying Yig Mgo Mdun Ma : da nying yik go dun ma
 0FD4: Tibetan Mark Closing Brda Rnying Yig Mgo Sgab Ma : da nying yik go kab ma
-0FD5: Right-Facing Svasti Sign : gyung drung nang -khor
-0FD6: Left-Facing Svasti Sign : gyung drung phyi -khor
-0FD7: Right-Facing Svasti Sign with Dots : gyung drung nang -khor bzhi mig can
-0FD8: Left-Facing Svasti Sign with Dots : gyung drung phyi -khor bzhi mig can
+0FD5: Right-Facing Svasti Sign : gyung drung nang -khor : swastika
+0FD6: Left-Facing Svasti Sign : gyung drung phyi -khor : swastika
+0FD7: Right-Facing Svasti Sign with Dots : gyung drung nang -khor bzhi mig can : swastika
+0FD8: Left-Facing Svasti Sign with Dots : gyung drung phyi -khor bzhi mig can : swastika
 0FD9: Tibetan Mark Leading Mchan Rtags
 0FDA: Tibetan Mark Trailing Mchan Rtags
 0FDB:

@@ -370,6 +370,10 @@
 	languages       : santali
 	countries       : india, butane, nepal, bangladesh
 
+[cyrillic-extended-c]
+    diap            : 1C80:1C87
+    type            : alphabet	
+
 [sundanese-supplement]
 	diap            : 1CC0:1CCF
 	type            : abugida
@@ -1065,6 +1069,9 @@
     type            :
     languages       :
     countries       :
+    
+[osage]
+    diap            : 104B0:104FF
 
 [elbasan]
     diap            : 10500:1052F
@@ -1269,6 +1276,9 @@
     type            :
     languages       :
     countries       :
+    
+[newa]
+    diap            : 11400:1147F    
 
 [tirhuta]
     diap            : 11480:114DF
@@ -1287,6 +1297,9 @@
     type            :
     languages       :
     countries       :
+    
+[mongolian-supplement]
+    diap            : 11660:1167F      
 
 [takri]
     diap            : 11680:116CF
@@ -1311,6 +1324,12 @@
     type            :
     languages       :
     countries       :
+
+[bhaiksuki]
+    diap: 11C00:11C6F    
+    
+[marchen]    
+    diap: 11C70:11CBF
 
 [cuneiform]
     diap            : 12000:123FF
@@ -1371,6 +1390,15 @@
     type            :
     languages       :
     countries       :
+    
+[ideographic-symbols-and-punctuation]
+    diap: 16FE0:16FFF
+    
+[tangut]
+    diap: 17000:187FF
+    
+[tangut-components]    
+    diap: 18800:18AFF
 
 [kana-supplement]
     diap            : 1B000:1B0FF
@@ -1431,12 +1459,18 @@
     type            :
     languages       :
     countries       :
+    
+[glagolitic-supplement]
+    diap: 1E000:1E02F
 
 [mende-kikakui]
     diap            : 1E800:1E8DF
     type            :
     languages       :
     countries       :
+    
+[adlam]    
+    diap: 1E900:1E95F
 
 [arabic-mathematical-alphabetic-symbols]
     diap            : 1EE00:1EEFF
