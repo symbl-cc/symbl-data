@@ -18,7 +18,7 @@ countries       : Країни
 count           : Кількість символів
 languages       : Мови
 sort_order      : Звичайним ладом
-sort_sect       : За розділами
+sort_block      : За розділами
 copy_clipboard  : Скопіювати до буферу
 search_h1       : Пошук символа
 search_result   : Результати пошуку за фразою
@@ -28,9 +28,9 @@ search_limit    : (показано тільки %s)
 search_none     : Нічого не знайдено
 search_any      : За фразою ничого не знайдено. Використовуємо пошук за всіми словами.
 help_range      : Натисніть, щоб підсвітити
-sections_list   : Список розділів Юнікоду
+blocks_list   : Список розділів Юнікоду
 languages_list  : Список мов
-languages_sections : Мова в наявності у наступних розділах
+languages_blocks : Мова в наявності у наступних розділах
 more            : Детальніше
 sets            : Набори символів
 ny_symbols      : Новорічні символи
