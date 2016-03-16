@@ -1,8 +1,8 @@
 control-character : Управляющие символы
 basic-latin     : Основная латиница
 latin-1-supplement : Расширенная латиница-1
-latin-extended-A : Расширенная латиница-A
-latin-extended-B : Расширенная латиница-B
+latin-extended-a : Расширенная латиница-A
+latin-extended-b : Расширенная латиница-B
 ipa-extensions  : Международный фонетический алфавит
 spacing-modifier-letters : Некомбинируемые протяжённые символы-модификаторы
 combining-diacritical-marks : Комбинируемые диакритические знаки

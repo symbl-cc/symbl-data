@@ -59,6 +59,7 @@ sundanese       : Sundanese
 batak           : Batak
 lepcha          : Lepcha
 ol-chiki        : Ol Chiki
+cyrillic-extended-c: Cyrillic Extended C
 sundanese-supplement : Sundanese Supplement
 vedic-extensions : Vedic Extensions
 phonetic-extensions : Phonetic Extensions
@@ -170,6 +171,7 @@ old-persian : Old Persian
 deseret : Deseret
 shavian : Shavian
 osmanya : Osmanya
+osage: Osage
 elbasan : Elbasan
 caucasian-albanian : Caucasian Albanian
 linear-a : Linear A
@@ -201,12 +203,16 @@ sinhala-archaic-numbers : Sinhala Archaic Numbers
 khojki : Khojki
 khudawadi : Khudawadi
 grantha : Grantha
+newa: Newa
 tirhuta : Tirhuta
 siddham : Siddham
 modi : Modi
+mongolian-supplement: Mongolian Supplement
 takri : Takri
 warang-citi : Warang Citi
 pau-cin-hau : Pau Cin Hau
+bhaiksuki: Bhaiksuki
+marchen: Marchen
 cuneiform : Cuneiform
 cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
 egyptian-hieroglyphs : Egyptian Hieroglyphs
@@ -215,6 +221,9 @@ mro : Mro
 bassa-vah : Bassa Vah
 pahawh-hmong : Pahawh Hmong
 miao : Miao
+ideographic-symbols-and-punctuation: Ideographic Symbols and Punctuation
+tangut: Tangut
+tangut-components: Tangut Components
 kana-supplement : Kana Supplement
 duployan : Duployan
 shorthand-format-controls : Shorthand Format Controls
@@ -225,6 +234,7 @@ tai-xuan-jing-symbols : Tai Xuan Jing Symbols
 counting-rod-numerals : Counting Rod Numerals
 mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
 mende-kikakui : Mende Kikakui
+adlam: Adlam
 arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
 mahjong-tiles : Mahjong Tiles
 domino-tiles : Domino Tiles
@@ -251,4 +261,5 @@ ahom: Ahom
 early-dynastic-cuneiform: Early Dynastic Cuneiform
 anatolian-hieroglyphs: Anatolian Hieroglyphs
 sutton-sign-writing: Sutton SignWriting
+glagolitic-supplement: Glagolitic Supplement
 supplemental-symbols-and-pictographs: Supplemental Symbols and Pictographs
