@@ -59,6 +59,7 @@ sundanese       : Сунданское письмо
 batak           : Батакское письмо
 lepcha          : Письмо лепча
 ol-chiki        : Письменность Ол-чики
+cyrillic-extended-c: Расширенная кириллица C
 sundanese-supplement : Сунданское расширенное письмо
 vedic-extensions : Ведические символы
 phonetic-extensions : Фонетические расширения
@@ -170,6 +171,7 @@ old-persian : Древнеперсидский клинописный алфав
 deseret : Дезеретский алфавит
 shavian : Алфавит Бернарда Шоу
 osmanya : Османья (сомалийский алфавит)
+osage: Оседж
 elbasan : Эльбасанское письмо
 caucasian-albanian : Агванское письмо (Кавказская Албания)
 linear-a : Линейное письмо А
@@ -201,20 +203,27 @@ sinhala-archaic-numbers : Сингальские архаические цифр
 khojki : Кходжики
 khudawadi : Кхудабади
 grantha : Грантха
+newa: Newa
 tirhuta : Тирхута
 siddham : Сиддхаматрика
 modi : Моди
+mongolian-supplement: Монгольский (дополнение)
 takri : Такри
 warang-citi : Варанг-кшити
 pau-cin-hau : Пау Цин Хау
+bhaiksuki: Байсаки
+marchen: Марчен
 cuneiform : Клинопись
-cuneiform-numbers-and-punctuation : Клинописные цифры и знаки пунктуации
+cuneiform-numbers-and-punctuation : Клинописные цифры и знаки препинания
 egyptian-hieroglyphs : Египетские иероглифы
 bamum-supplement : Письмо бамум (дополнение)
 mro : Мру
 bassa-vah : Письмо басса
 pahawh-hmong : Пахау хмонг
 miao : Письмо Полларда (миао)
+ideographic-symbols-and-punctuation: Идеографические символы и знаки препинания
+tangut: Тангутское письмо
+tangut-components: Компоненты тангутского письма
 kana-supplement : Кана (дополнение)
 duployan : Дюплойе
 shorthand-format-controls : Форматирующие символы стенографии
@@ -225,6 +234,7 @@ tai-xuan-jing-symbols : Символы Тай Сюань Цзин
 counting-rod-numerals : Счётные палочки
 mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
 mende-kikakui : Письмо кикакуи для языка менде
+adlam: Адлам
 arabic-mathematical-alphabetic-symbols : Арабские математические буквенно-цифровые символы
 mahjong-tiles : Кости для маджонга
 domino-tiles : Кости для домино
@@ -251,4 +261,5 @@ ahom: Письмо ахом
 early-dynastic-cuneiform: Ранняя династическая клинопись
 anatolian-hieroglyphs: Анатолийские иероглифы
 sutton-sign-writing: Жестовая письменность Саттон
+glagolitic-supplement: Глаголица (расширение)
 supplemental-symbols-and-pictographs: Символы и пиктограммы (дополнение)

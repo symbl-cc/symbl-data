@@ -11,3 +11,7 @@ limit: (montrer que %s)
 none: Aucun
 any: Recherche par les mots
 overflow: Désolé, symbole U+%s est en cours de construction :)
+unicode-block: Unicode bloc
+count-symbols: %s symboles
+sets: Fixé
+alphabet: Alphabet

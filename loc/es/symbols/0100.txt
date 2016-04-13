@@ -63,8 +63,8 @@
 013E : Letra latina minúscula L con acento
 013F : Letra latina mayúscula L con middle dot
 0140 : Letra latina minúscula L con middle dot
-0141 : Letra latina mayúscula L con linea
-0142 : Letra latina minúscula L con linea
+0141 : Letra latina mayúscula L con línea
+0142 : Letra latina minúscula L con línea
 0143 : Letra latina mayúscula N con acento agudo
 0144 : Letra latina minúscula N con acento agudo
 0145 : Letra latina mayúscula N con cedilla
@@ -94,14 +94,14 @@
 015D : Letra latina minúscula S con acento circunflejo
 015E : Letra latina mayúscula S con cedilla
 015F : Letra latina minúscula S con cedilla
-0160 : Letra latina mayúscula S con acento
-0161 : Letra latina minúscula S con acento
+0160 : Letra latina mayúscula S con carón
+0161 : Letra latina minúscula S con carón
 0162 : Letra latina mayúscula T con cedilla
 0163 : Letra latina minúscula T con cedilla
 0164 : Letra latina mayúscula T con acento
 0165 : Letra latina minúscula T con acento
-0166 : Letra latina mayúscula T con linea
-0167 : Letra latina minúscula T con linea
+0166 : Letra latina mayúscula T con línea
+0167 : Letra latina minúscula T con línea
 0168 : Letra latina mayúscula U con tilde
 0169 : Letra latina minúscula U con tilde
 016A : Letra latina mayúscula U con macron
@@ -126,7 +126,7 @@
 017D : Letra latina mayúscula Z con acento
 017E : Letra latina minúscula Z con acento
 017F : Letra latina minúscula s larga
-0180 : Letra latina minúscula b con linea
+0180 : Letra latina minúscula b con línea
 0181 : Letra latina mayúscula b con gancho
 0182 : Letra latina mayúscula b con barra encima
 0183 : Letra latina minúscula b con barra encima
@@ -149,11 +149,11 @@
 0194 : Letra latina mayúscula Gamma
 0195 : Letra latina minúscula Hv
 0196 : Letra latina mayúscula Iota
-0197 : Letra latina mayúscula I con linea
+0197 : Letra latina mayúscula I con línea
 0198 : Letra latina mayúscula K con gancho
 0199 : Letra latina minúscula K con gancho
-019A : Letra latina minúscula L con bar
-019B : Letra latina minúscula Lambda con linea
+019A : Letra latina minúscula L con barra
+019B : Letra latina minúscula Lambda con línea
 019C : Letra latina mayúscula M convertido
 019D : Letra latina mayúscula N con gancho de izquierda
 019E : Letra latina minúscula N con pierna derecha larga
@@ -179,16 +179,16 @@
 01B2 : Letra latina mayúscula v con gancho
 01B3 : Letra latina mayúscula Y con gancho
 01B4 : Letra latina minúscula Y con gancho
-01B5 : Letra latina mayúscula Z con linea
-01B6 : Letra latina minúscula Z con linea
+01B5 : Letra latina mayúscula Z con línea
+01B6 : Letra latina minúscula Z con línea
 01B7 : Letra latina mayúscula ezh
 01B8 : Letra latina mayúscula ezh invertido
 01B9 : Letra latina minúscula ezh invertido
 01BA : Letra latina minúscula ezh con cola
-01BB : Latin letter dos con linea
+01BB : Latin letter dos con línea
 01BC : Letra latina mayúscula tono cinco
 01BD : Letra latina minúscula tono cinco
-01BE : Latin letter parada glotal invertida con linea
+01BE : Latin letter parada glotal invertida con línea
 01BF : Latin letter Wynn
 01C0 : Latin letter clic dental
 01C1 : Latin letter clic lateral
@@ -226,8 +226,8 @@
 01E1 : Letra latina minúscula A con punto arriba y macron
 01E2 : Letra latina mayúscula ae con macron
 01E3 : Letra latina minúscula ae con macron
-01E4 : Letra latina mayúscula G con linea
-01E5 : Letra latina minúscula G con linea
+01E4 : Letra latina mayúscula G con línea
+01E5 : Letra latina minúscula G con línea
 01E6 : Letra latina mayúscula G con acento
 01E7 : Letra latina minúscula G con acento
 01E8 : Letra latina mayúscula K con acento
@@ -252,5 +252,5 @@
 01FB : Letra latina minúscula A con ring above y acento agudo
 01FC : Letra latina mayúscula AE con acento agudo
 01FD : Letra latina minúscula AE con acento agudo
-01FE : Letra latina mayúscula O con linea y acento agudo
-01FF : Letra latina minúscula O con linea y acento agudo
+01FE : Letra latina mayúscula O con línea y acento agudo
+01FF : Letra latina minúscula O con línea y acento agudo

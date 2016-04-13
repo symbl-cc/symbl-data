@@ -11,3 +11,7 @@ limit: (แสดงเฉพาะ %s)
 none: ไม่มี
 any: ค้นหาคำใดๆ
 overflow: ขออภัย, สัญลักษณ์ U+%s อยู่ระหว่างการสร้าง :)
+unicode-block: บล็อก Unicode
+count-symbols: %s สัญลักษณ์
+sets: ตั้งค่า
+alphabet: ตัวอักษร

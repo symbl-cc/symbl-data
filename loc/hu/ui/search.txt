@@ -11,3 +11,7 @@ limit: (csak %s -et mutat)
 none: Semmi
 any: Keresés bármely szóból
 overflow: Elnézést, a U+%s-s szimbólum fejlesztés alatt áll :)
+unicode-block: Unicode blokk
+count-symbols: %s szimbólumok
+sets: Készlet
+alphabet: Ábécé

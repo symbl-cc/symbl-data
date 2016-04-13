@@ -11,3 +11,7 @@ limit: （只显示了 %s）
 none: 无
 any: 用任何关键词搜索
 overflow: 对不起，U+%s 数据库还在制作中
+unicode-block: Unicode 字符段列表
+count-symbols: %s 符号
+sets: 组
+alphabet: 字母
