@@ -1,0 +1,23 @@
+title: Unicode® 字符百科
+
+[sets]: 符号分类
+set: 符号分类
+list: 符号分类集汇
+
+[blocks]: 区块
+block: 区块
+list: Unicode 区块列表
+
+[languages]: 语言
+list: 语言列表
+blocks: 该语言使用的字符区块
+
+[countries]: 国家地区
+list: 国家地区列表
+
+[alphabets]: 字母表
+list: 字母表列表
+
+[types]: 字符类型
+type: 字符类型
+list: 字符类型列表

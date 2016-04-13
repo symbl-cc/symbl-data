@@ -1,0 +1,256 @@
+A700 : 修饰字母中文音调阴平
+A701 : 修饰字母中文音调阳平
+A702 : 修饰字母中文音调阴上
+A703 : 修饰字母中文音调阳上
+A704 : 修饰字母中文音调阴去
+A705 : 修饰字母中文音调阳去
+A706 : 修饰字母中文音调阴入
+A707 : 修饰字母中文音调阳入
+A708 : 修饰字母超高点式音调条
+A709 : 修饰字母高点式音调条
+A70A : 修饰字母中点式音调条
+A70B : 修饰字母低点式音调条
+A70C : 修饰字母超低点式音调条
+A70D : 修饰字母超高点式左音调条
+A70E : 修饰字母高点式左音调条
+A70F : 修饰字母中点式左音调条
+A710 : 修饰字母低点式左音调条
+A711 : 修饰字母超低点式左音调条
+A712 : 修饰字母超高左音调条
+A713 : 修饰字母高左音调条
+A714 : 修饰字母中左音调条
+A715 : 修饰字母低左音调条
+A716 : 修饰字母超低左音调条
+A717 : 修饰字母点垂直条
+A718 : 修饰字母点斜杠
+A719 : 修饰字母点水平条
+A71A : 修饰字母低右顶角
+A71B : Modifier Letter Raised Up Arrow
+A71C : Modifier Letter Raised Down Arrow
+A71D : Modifier Letter Raised Exclamation Mark
+A71E : Modifier Letter Raised Inverted Exclamation Mark
+A71F : Modifier Letter Low Inverted Exclamation Mark
+A720 : 修饰字母重音和高音调
+A721 : 修饰字母重音和低音调
+A722 : Latin Capital Letter Egyptological Alef
+A723 : Latin Small Letter Egyptological Alef
+A724 : Latin Capital Letter Egyptological Ain
+A725 : Latin Small Letter Egyptological Ain
+A726 : Latin Capital Letter Heng
+A727 : Latin Small Letter Heng
+A728 : Latin Capital Letter Tz
+A729 : Latin Small Letter Tz
+A72A : Latin Capital Letter Tresillo
+A72B : Latin Small Letter Tresillo
+A72C : Latin Capital Letter Cuatrillo
+A72D : Latin Small Letter Cuatrillo
+A72E : Latin Capital Letter Cuatrillo With Comma
+A72F : Latin Small Letter Cuatrillo With Comma
+A730 : Latin Letter Small Capital F
+A731 : Latin Letter Small Capital S
+A732 : Latin Capital Letter Aa
+A733 : Latin Small Letter Aa
+A734 : Latin Capital Letter Ao
+A735 : Latin Small Letter Ao
+A736 : Latin Capital Letter Au
+A737 : Latin Small Letter Au
+A738 : Latin Capital Letter Av
+A739 : Latin Small Letter Av
+A73A : Latin Capital Letter Av With Horizontal Bar
+A73B : Latin Small Letter Av With Horizontal Bar
+A73C : Latin Capital Letter Ay
+A73D : Latin Small Letter Ay
+A73E : Latin Capital Letter Reversed C With Dot
+A73F : Latin Small Letter Reversed C With Dot
+A740 : Latin Capital Letter K With Stroke
+A741 : Latin Small Letter K With Stroke
+A742 : Latin Capital Letter K With Diagonal Stroke
+A743 : Latin Small Letter K With Diagonal Stroke
+A744 : Latin Capital Letter K With Stroke And Diagonal Stroke
+A745 : Latin Small Letter K With Stroke And Diagonal Stroke
+A746 : Latin Capital Letter Broken L
+A747 : Latin Small Letter Broken L
+A748 : Latin Capital Letter L With High Stroke
+A749 : Latin Small Letter L With High Stroke
+A74A : Latin Capital Letter O With Long Stroke Overlay
+A74B : Latin Small Letter O With Long Stroke Overlay
+A74C : Latin Capital Letter O With Loop
+A74D : Latin Small Letter O With Loop
+A74E : Latin Capital Letter Oo
+A74F : Latin Small Letter Oo
+A750 : Latin Capital Letter P With Stroke Through Descender
+A751 : Latin Small Letter P With Stroke Through Descender
+A752 : Latin Capital Letter P With Flourish
+A753 : Latin Small Letter P With Flourish
+A754 : Latin Capital Letter P With Squirrel Tail
+A755 : Latin Small Letter P With Squirrel Tail
+A756 : Latin Capital Letter Q With Stroke Through Descender
+A757 : Latin Small Letter Q With Stroke Through Descender
+A758 : Latin Capital Letter Q With Diagonal Stroke
+A759 : Latin Small Letter Q With Diagonal Stroke
+A75A : Latin Capital Letter R Rotunda
+A75B : Latin Small Letter R Rotunda
+A75C : Latin Capital Letter Rum Rotunda
+A75D : Latin Small Letter Rum Rotunda
+A75E : Latin Capital Letter V With Diagonal Stroke
+A75F : Latin Small Letter V With Diagonal Stroke
+A760 : Latin Capital Letter Vy
+A761 : Latin Small Letter Vy
+A762 : Latin Capital Letter Visigothic Z
+A763 : Latin Small Letter Visigothic Z
+A764 : Latin Capital Letter Thorn With Stroke
+A765 : Latin Small Letter Thorn With Stroke
+A766 : Latin Capital Letter Thorn With Stroke Through Descender
+A767 : Latin Small Letter Thorn With Stroke Through Descender
+A768 : Latin Capital Letter Vend
+A769 : Latin Small Letter Vend
+A76A : Latin Capital Letter Et
+A76B : Latin Small Letter Et
+A76C : Latin Capital Letter Is
+A76D : Latin Small Letter Is
+A76E : Latin Capital Letter Con
+A76F : Latin Small Letter Con
+A770 : Modifier Letter Us
+A771 : Latin Small Letter Dum
+A772 : Latin Small Letter Lum
+A773 : Latin Small Letter Mum
+A774 : Latin Small Letter Num
+A775 : Latin Small Letter Rum
+A776 : Latin Letter Small Capital Rum
+A777 : Latin Small Letter Tum
+A778 : Latin Small Letter Um
+A779 : Latin Capital Letter Insular D
+A77A : Latin Small Letter Insular D
+A77B : Latin Capital Letter Insular F
+A77C : Latin Small Letter Insular F
+A77D : Latin Capital Letter Insular G
+A77E : Latin Capital Letter Turned Insular G
+A77F : Latin Small Letter Turned Insular G
+A780 : Latin Capital Letter Turned L
+A781 : Latin Small Letter Turned L
+A782 : Latin Capital Letter Insular R
+A783 : Latin Small Letter Insular R
+A784 : Latin Capital Letter Insular S
+A785 : Latin Small Letter Insular S
+A786 : Latin Capital Letter Insular T
+A787 : Latin Small Letter Insular T
+A788 : Modifier Letter Circumflex Accent Below
+A789 : Modifier Letter Colon
+A78A : Modifier Letter Short Equals Sign
+A78B : Latin Capital Letter Saltillo
+A78C : Latin Small Letter Saltillo
+A78D : 
+A78E : 
+A78F : 
+A790 : 
+A791 : 
+A792 : 
+A793 : 
+A794 : 
+A795 : 
+A796 : 
+A797 : 
+A798 : 
+A799 : 
+A79A : 
+A79B : 
+A79C : 
+A79D : 
+A79E : 
+A79F : 
+A7A0 : 
+A7A1 : 
+A7A2 : 
+A7A3 : 
+A7A4 : 
+A7A5 : 
+A7A6 : 
+A7A7 : 
+A7A8 : 
+A7A9 : 
+A7AA : 
+A7AB : 
+A7AC : 
+A7AD : 
+A7AE : 
+A7AF : 
+A7B0 : 
+A7B1 : 
+A7B2 : 
+A7B3 : 
+A7B4 : 
+A7B5 : 
+A7B6 : 
+A7B7 : 
+A7B8 : 
+A7B9 : 
+A7BA : 
+A7BB : 
+A7BC : 
+A7BD : 
+A7BE : 
+A7BF : 
+A7C0 : 
+A7C1 : 
+A7C2 : 
+A7C3 : 
+A7C4 : 
+A7C5 : 
+A7C6 : 
+A7C7 : 
+A7C8 : 
+A7C9 : 
+A7CA : 
+A7CB : 
+A7CC : 
+A7CD : 
+A7CE : 
+A7CF : 
+A7D0 : 
+A7D1 : 
+A7D2 : 
+A7D3 : 
+A7D4 : 
+A7D5 : 
+A7D6 : 
+A7D7 : 
+A7D8 : 
+A7D9 : 
+A7DA : 
+A7DB : 
+A7DC : 
+A7DD : 
+A7DE : 
+A7DF : 
+A7E0 : 
+A7E1 : 
+A7E2 : 
+A7E3 : 
+A7E4 : 
+A7E5 : 
+A7E6 : 
+A7E7 : 
+A7E8 : 
+A7E9 : 
+A7EA : 
+A7EB : 
+A7EC : 
+A7ED : 
+A7EE : 
+A7EF : 
+A7F0 : 
+A7F1 : 
+A7F2 : 
+A7F3 : 
+A7F4 : 
+A7F5 : 
+A7F6 : 
+A7F7 : 
+A7F8 : 
+A7F9 : 
+A7FA : 
+A7FB : Latin Epigraphic Letter Reversed F
+A7FC : Latin Epigraphic Letter Reversed P
+A7FD : Latin Epigraphic Letter Inverted M
+A7FE : Latin Epigraphic Letter I Longa
+A7FF : Latin Epigraphic Letter Archaic M

@@ -1,0 +1,256 @@
+1C00 : 雷布查语字母 Ka
+1C01 : 雷布查语字母 Kla
+1C02 : 雷布查语字母 Kha
+1C03 : 雷布查语字母 Ga
+1C04 : 雷布查语字母 Gla
+1C05 : 雷布查语字母 Nga
+1C06 : 雷布查语字母 Ca
+1C07 : 雷布查语字母 Cha
+1C08 : 雷布查语字母 Ja
+1C09 : 雷布查语字母 Nya
+1C0A : 雷布查语字母 Ta
+1C0B : 雷布查语字母 Tha
+1C0C : 雷布查语字母 Da
+1C0D : 雷布查语字母 Na
+1C0E : 雷布查语字母 Pa
+1C0F : 雷布查语字母 Pla
+1C10 : 雷布查语字母 Pha
+1C11 : 雷布查语字母 Fa
+1C12 : 雷布查语字母 Fla
+1C13 : 雷布查语字母 Ba
+1C14 : 雷布查语字母 Bla
+1C15 : 雷布查语字母 Ma
+1C16 : 雷布查语字母 Mla
+1C17 : 雷布查语字母 Tsa
+1C18 : 雷布查语字母 Tsha
+1C19 : 雷布查语字母 Dza
+1C1A : 雷布查语字母 Ya
+1C1B : 雷布查语字母 Ra
+1C1C : 雷布查语字母 La
+1C1D : 雷布查语字母 Ha
+1C1E : 雷布查语字母 Hla
+1C1F : 雷布查语字母 Va
+1C20 : 雷布查语字母 Sa
+1C21 : 雷布查语字母 Sha
+1C22 : 雷布查语字母 Wa
+1C23 : 雷布查语字母 A
+1C24 : 雷布查语增补字母 Ya
+1C25 : 雷布查语增补字母 Ra
+1C26 : 雷布查语元音 标记 Aa
+1C27 : 雷布查语元音 标记 I
+1C28 : 雷布查语元音 标记 O
+1C29 : 雷布查语元音 标记 Oo
+1C2A : 雷布查语元音 标记 U
+1C2B : 雷布查语元音 标记 Uu
+1C2C : 雷布查语元音 标记 E
+1C2D : 雷布查语辅音 标记 K
+1C2E : 雷布查语辅音 标记 M
+1C2F : 雷布查语辅音 标记 L
+1C30 : 雷布查语辅音 标记 N
+1C31 : 雷布查语辅音 标记 P
+1C32 : 雷布查语辅音 标记 R
+1C33 : 雷布查语辅音 标记 T
+1C34 : 雷布查语辅音 标记 Nyin-do
+1C35 : 雷布查语辅音 标记 Kang
+1C36 : 雷布查语标记 Ran
+1C37 : 雷布查语标记 Nukta
+1C38 : 
+1C39 : 
+1C3A : 
+1C3B : 雷布查语标点 Ta-rol
+1C3C : 雷布查语标点 Nyet Thyoom Ta-rol
+1C3D : 雷布查语标点 Cer-wa
+1C3E : 雷布查语标点 Tshook Cer-wa
+1C3F : 雷布查语标点 Tshook
+1C40 : 雷布查语数字零
+1C41 : 雷布查语数字一
+1C42 : 雷布查语数字二
+1C43 : 雷布查语数字三
+1C44 : 雷布查语数字四
+1C45 : 雷布查语数字五
+1C46 : 雷布查语数字六
+1C47 : 雷布查语数字七
+1C48 : 雷布查语数字八
+1C49 : 雷布查语数字九
+1C4A : 
+1C4B : 
+1C4C : 
+1C4D : 雷布查语字母 Tta
+1C4E : 雷布查语字母 Ttha
+1C4F : 雷布查语字母 Dda
+1C50 : Ol Chiki 数字零
+1C51 : Ol Chiki 数字一
+1C52 : Ol Chiki 数字二
+1C53 : Ol Chiki 数字三
+1C54 : Ol Chiki 数字四
+1C55 : Ol Chiki 数字五
+1C56 : Ol Chiki 数字六
+1C57 : Ol Chiki 数字七
+1C58 : Ol Chiki 数字八
+1C59 : Ol Chiki 数字九
+1C5A : Ol Chiki 字母 La
+1C5B : Ol Chiki 字母 At
+1C5C : Ol Chiki 字母 Ag
+1C5D : Ol Chiki 字母 Ang
+1C5E : Ol Chiki 字母 Al
+1C5F : Ol Chiki 字母 Laa
+1C60 : Ol Chiki 字母 Aak
+1C61 : Ol Chiki 字母 Aaj
+1C62 : Ol Chiki 字母 Aam
+1C63 : Ol Chiki 字母 Aaw
+1C64 : Ol Chiki 字母 Li
+1C65 : Ol Chiki 字母 Is
+1C66 : Ol Chiki 字母 Ih
+1C67 : Ol Chiki 字母 Iny
+1C68 : Ol Chiki 字母 Ir
+1C69 : Ol Chiki 字母 Lu
+1C6A : Ol Chiki 字母 Uc
+1C6B : Ol Chiki 字母 Ud
+1C6C : Ol Chiki 字母 Unn
+1C6D : Ol Chiki 字母 Uy
+1C6E : Ol Chiki 字母 Le
+1C6F : Ol Chiki 字母 Ep
+1C70 : Ol Chiki 字母 Edd
+1C71 : Ol Chiki 字母 En
+1C72 : Ol Chiki 字母 Err
+1C73 : Ol Chiki 字母 Lo
+1C74 : Ol Chiki 字母 Ott
+1C75 : Ol Chiki 字母 Ob
+1C76 : Ol Chiki 字母 Ov
+1C77 : Ol Chiki 字母 Oh
+1C78 : Ol Chiki Mu Ttuddag
+1C79 : Ol Chiki Gaahlaa Ttuddaag
+1C7A : Ol Chiki Mu-gaahlaa Ttuddaag
+1C7B : Ol Chiki Relaa
+1C7C : Ol Chiki Phaarkaa
+1C7D : Ol Chiki Ahad
+1C7E : Ol Chiki 标点 Mucaad
+1C7F : Ol Chiki 标点双 Mucaad
+1C80 : 
+1C81 : 
+1C82 : 
+1C83 : 
+1C84 : 
+1C85 : 
+1C86 : 
+1C87 : 
+1C88 : 
+1C89 : 
+1C8A : 
+1C8B : 
+1C8C : 
+1C8D : 
+1C8E : 
+1C8F : 
+1C90 : 
+1C91 : 
+1C92 : 
+1C93 : 
+1C94 : 
+1C95 : 
+1C96 : 
+1C97 : 
+1C98 : 
+1C99 : 
+1C9A : 
+1C9B : 
+1C9C : 
+1C9D : 
+1C9E : 
+1C9F : 
+1CA0 : 
+1CA1 : 
+1CA2 : 
+1CA3 : 
+1CA4 : 
+1CA5 : 
+1CA6 : 
+1CA7 : 
+1CA8 : 
+1CA9 : 
+1CAA : 
+1CAB : 
+1CAC : 
+1CAD : 
+1CAE : 
+1CAF : 
+1CB0 : 
+1CB1 : 
+1CB2 : 
+1CB3 : 
+1CB4 : 
+1CB5 : 
+1CB6 : 
+1CB7 : 
+1CB8 : 
+1CB9 : 
+1CBA : 
+1CBB : 
+1CBC : 
+1CBD : 
+1CBE : 
+1CBF : 
+1CC0 : 
+1CC1 : 
+1CC2 : 
+1CC3 : 
+1CC4 : 
+1CC5 : 
+1CC6 : 
+1CC7 : 
+1CC8 : 
+1CC9 : 
+1CCA : 
+1CCB : 
+1CCC : 
+1CCD : 
+1CCE : 
+1CCF : 
+1CD0 : 吠陀梵文音调 Karshana
+1CD1 : 吠陀梵文音调 Shara
+1CD2 : 吠陀梵文音调 Prenkha
+1CD3 : 吠陀梵文标记 Nihshvasa
+1CD4 : 吠陀梵文标记 Yajurvedic 中线降调
+1CD5 : 吠陀梵文音调 Yajurvedic 加重独立降调
+1CD6 : 吠陀梵文音调 Yajurvedic 独立降调
+1CD7 : 吠陀梵文音调 Yajurvedic Kathaka 独立降调
+1CD8 : 吠陀梵文音调下 Candra
+1CD9 : 吠陀梵文音调 Yajurvedic Kathaka 独立降调 Schroeder
+1CDA : 吠陀梵文音调 双降调
+1CDB : 吠陀梵文音调 三重降调
+1CDC : 吠陀梵文音调 Kathaka 低调
+1CDD : 吠陀梵文音调下点
+1CDE : 吠陀梵文音调下二点
+1CDF : 吠陀梵文音调下三点
+1CE0 : 吠陀梵文音调 Rigvedic Kashmiri 独立降调
+1CE1 : 吠陀梵文音调 Atharvavedic 独立降调
+1CE2 : 吠陀梵文标记止韵降调
+1CE3 : 吠陀梵文标记止韵高调
+1CE4 : 吠陀梵文标记横翻止韵高调
+1CE5 : 吠陀梵文标记止韵低调
+1CE6 : 吠陀梵文标记横翻止韵低调
+1CE7 : 吠陀梵文标记带尾止韵高调
+1CE8 : 吠陀梵文标记带尾止韵低调
+1CE9 : 吠陀梵文标记随韵 Antargomukha
+1CEA : 吠陀梵文标记随韵 Bahirgomukha
+1CEB : 吠陀梵文标记随韵 Vamagomukha
+1CEC : 吠陀梵文标记带尾随韵 Vamagomukha
+1CED : 吠陀梵文标记 Tiryak
+1CEE : 吠陀梵文标记 Hexiform 长随韵
+1CEF : 吠陀梵文标记长随韵
+1CF0 : 吠陀梵文标记 Rthang 长随韵
+1CF1 : 吠陀梵文标记随韵 Ubhayato Mukha
+1CF2 : 吠陀梵文标记 Ardhavisarga
+1CF3 : 
+1CF4 : 
+1CF5 : 
+1CF6 : 
+1CF7 : 
+1CF8 : 
+1CF9 : 
+1CFA : 
+1CFB : 
+1CFC : 
+1CFD : 
+1CFE : 
+1CFF : 

@@ -1,0 +1,256 @@
+2E00 : 直角替换标记
+2E01 : 直角点式替换标记
+2E02 : 左替换括号
+2E03 : 右替换括号
+2E04 : 左点式替换括号
+2E05 : 右点式替换括号
+2E06 : 凸起插入标记
+2E07 : 凸起点式插入标记
+2E08 : 点式调换标记
+2E09 : 左调换括号
+2E0A : 右调换括号
+2E0B : 凸起正方形
+2E0C : 左凸省略括号
+2E0D : 右凸省略括号
+2E0E : 编辑的 Coronis
+2E0F : Paragraphos
+2E10 : 分叉 Paragraphos
+2E11 : 反向分叉 Paragraphos
+2E12 : Hypodiastole
+2E13 : 点式 Obelos
+2E14 : 向下 Ancora
+2E15 : 向上 Ancora
+2E16 : 点式右指尖符号
+2E17 : 双斜线连字符
+2E18 : Inverted Interrobang
+2E19 : Palm Branch
+2E1A : Hyphen With Diaeresis
+2E1B : Tilde With Ring Above
+2E1C : 左低解释括号
+2E1D : 右低解释括号
+2E1E : Tilde With Dot Above
+2E1F : Tilde With Dot Below
+2E20 : Left Vertical Bar With Quill
+2E21 : Right Vertical Bar With Quill
+2E22 : Top Left Half Bracket
+2E23 : Top Right Half Bracket
+2E24 : Bottom Left Half Bracket
+2E25 : Bottom Right Half Bracket
+2E26 : Left Sideways U Bracket
+2E27 : Right Sideways U Bracket
+2E28 : Left Double Parenthesis
+2E29 : Right Double Parenthesis
+2E2A : Two Dots Over One Dot Punctuation
+2E2B : One Dot Over Two Dots Punctuation
+2E2C : Squared Four Dot Punctuation
+2E2D : Five Dot Mark
+2E2E : Reversed Question Mark : Irony Sign, Sarcasm Sign
+2E2F : Vertical Tilde
+2E30 : Ring Point
+2E31 : Word Separator Middle Dot
+2E32 : 
+2E33 : 
+2E34 : 
+2E35 : 
+2E36 : 
+2E37 : 
+2E38 : 
+2E39 : 
+2E3A : 
+2E3B : 
+2E3C : 
+2E3D : 
+2E3E : 
+2E3F : 
+2E40 : 
+2E41 : 
+2E42 : 
+2E43 : 
+2E44 : 
+2E45 : 
+2E46 : 
+2E47 : 
+2E48 : 
+2E49 : 
+2E4A : 
+2E4B : 
+2E4C : 
+2E4D : 
+2E4E : 
+2E4F : 
+2E50 : 
+2E51 : 
+2E52 : 
+2E53 : 
+2E54 : 
+2E55 : 
+2E56 : 
+2E57 : 
+2E58 : 
+2E59 : 
+2E5A : 
+2E5B : 
+2E5C : 
+2E5D : 
+2E5E : 
+2E5F : 
+2E60 : 
+2E61 : 
+2E62 : 
+2E63 : 
+2E64 : 
+2E65 : 
+2E66 : 
+2E67 : 
+2E68 : 
+2E69 : 
+2E6A : 
+2E6B : 
+2E6C : 
+2E6D : 
+2E6E : 
+2E6F : 
+2E70 : 
+2E71 : 
+2E72 : 
+2E73 : 
+2E74 : 
+2E75 : 
+2E76 : 
+2E77 : 
+2E78 : 
+2E79 : 
+2E7A : 
+2E7B : 
+2E7C : 
+2E7D : 
+2E7E : 
+2E7F : 
+2E80 : 中日韩字根重复
+2E81 : 中日韩字根崖
+2E82 : 中日韩字根二一
+2E83 : 中日韩字根二二
+2E84 : 中日韩字根二三
+2E85 : 中日韩字根人
+2E86 : 中日韩字根框
+2E87 : 中日韩字根桌
+2E88 : 中日韩字根刀一
+2E89 : 中日韩字根刀二
+2E8A : 中日韩字根占
+2E8B : 中日韩字根封
+2E8C : 中日韩字根小一
+2E8D : 中日韩字根小二
+2E8E : 中日韩字根横折一
+2E8F : 中日韩字根横折二
+2E90 : 中日韩字根横折三
+2E91 : 中日韩字根横折四
+2E92 : 中日韩字根弓
+2E93 : 中日韩字根横
+2E94 : 中日韩字根口一
+2E95 : 中日韩字根口二
+2E96 : 中日韩字根心一
+2E97 : 中日韩字根心二
+2E98 : 中日韩字根手
+2E99 : 中日韩字根击
+2E9A : 
+2E9B : 中日韩字根扼
+2E9C : 中日韩字根日
+2E9D : 中日韩字根月形文
+2E9E : 中日韩字根亡
+2E9F : 中日韩字根母
+2EA0 : 中日韩字根民
+2EA1 : 中日韩字根水一
+2EA2 : 中日韩字根水二
+2EA3 : 中日韩字根火
+2EA4 : 中日韩字根爪一
+2EA5 : 中日韩字根爪二
+2EA6 : 中日韩字根简体半树干
+2EA7 : 中日韩字根牛
+2EA8 : 中日韩字根犬
+2EA9 : 中日韩字根玉
+2EAA : 中日韩字根损衣
+2EAB : 中日韩字根目
+2EAC : 中日韩字根灵一
+2EAD : 中日韩字根灵二
+2EAE : 中日韩字根竹
+2EAF : 中日韩字根绞丝
+2EB0 : 中日韩字根简体中文绞丝
+2EB1 : 中日韩字根网一
+2EB2 : 中日韩字根网二
+2EB3 : 中日韩字根网三
+2EB4 : 中日韩字根网四
+2EB5 : 中日韩字根网
+2EB6 : 中日韩字根羊
+2EB7 : 中日韩字根公羊
+2EB8 : 中日韩字根母羊
+2EB9 : 中日韩字根老
+2EBA : 中日韩字根刷一
+2EBB : 中日韩字根刷二
+2EBC : 中日韩字根肉
+2EBD : 中日韩字根臼
+2EBE : 中日韩字根草一
+2EBF : 中日韩字根草二
+2EC0 : 中日韩字根草三
+2EC1 : 中日韩字根虎
+2EC2 : 中日韩字根衣
+2EC3 : 中日韩字根西一
+2EC4 : 中日韩字根西二
+2EC5 : 中日韩字根简体中文目
+2EC6 : 中日韩字根简体角
+2EC7 : 中日韩字根角
+2EC8 : 中日韩字根简体中文言
+2EC9 : 中日韩字根简体中文贝
+2ECA : 中日韩字根脚
+2ECB : 中日韩字根简体中文车
+2ECC : 中日韩字根简体走之
+2ECD : 中日韩字根走之一
+2ECE : 中日韩字根走之二
+2ECF : 中日韩字根城
+2ED0 : 中日韩字根简体中文金
+2ED1 : 中日韩字根长一
+2ED2 : 中日韩字根长二
+2ED3 : 中日韩字根简体中文长
+2ED4 : 中日韩字根简体中文门
+2ED5 : 中日韩字根丘一
+2ED6 : 中日韩字根丘二
+2ED7 : 中日韩字根雨
+2ED8 : 中日韩字根蓝
+2ED9 : 中日韩字根简体中文鞣革
+2EDA : 中日韩字根简体中文叶
+2EDB : 中日韩字根简体中文风
+2EDC : 中日韩字根简体中文飞
+2EDD : 中日韩字根吃一
+2EDE : 中日韩字根吃二
+2EDF : 中日韩字根吃三
+2EE0 : 中日韩字根简体中文吃
+2EE1 : 中日韩字根头
+2EE2 : 中日韩字根简体中文马
+2EE3 : 中日韩字根骨
+2EE4 : 中日韩字根鬼
+2EE5 : 中日韩字根简体中文鱼
+2EE6 : 中日韩字根简体中文鸟
+2EE7 : 中日韩字根简体中文盐
+2EE8 : 中日韩字根简体麦
+2EE9 : 中日韩字根简体黄
+2EEA : 中日韩字根简体中文蛙
+2EEB : 中日韩字根简体韩文平
+2EEC : 中日韩字根简体中文平
+2EED : 中日韩字根简体韩文齿
+2EEE : 中日韩字根简体中文齿
+2EEF : 中日韩字根简体韩文龙
+2EF0 : 中日韩字根简体中文龙
+2EF1 : 中日韩字根龟
+2EF2 : 中日韩字根简体韩文龟
+2EF3 : 中日韩字根简体中文龟
+2EF4 : 
+2EF5 : 
+2EF6 : 
+2EF7 : 
+2EF8 : 
+2EF9 : 
+2EFA : 
+2EFB : 
+2EFC : 
+2EFD : 
+2EFE : 
+2EFF : 

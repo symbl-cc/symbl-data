@@ -1,0 +1,17 @@
+: 搜索字符
+find: 查找
+example: 示例
+# phrases separated by ";"
+example-text: hammer and sickle;arrow;heart;star;triangle;check;circle;cross;square;bullet
+h1: 搜索
+result: 搜索结果
+empty: 搜索关键词是空的
+total: 总 %s 条结果
+limit: （只显示了 %s 条）
+none: 无
+any: 用任何关键词搜索
+overflow: 对不起，U+%s 数据库还在制作中
+unicode-block: Unicode 区块
+count-symbols: %s 符号
+sets: 符号分类
+alphabet: 字母

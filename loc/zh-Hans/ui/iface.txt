@@ -1,0 +1,31 @@
+up: 回顶部
+range: 范围
+loading: 正在载入，请稍等
+count: 字符总数
+sort-order: 按顺序
+sort-block: 按字符范围分段
+copy-clipboard: 复制到剪贴板
+help-range: 点击显示字符范围
+more: 更多
+prev: 向前
+next: 向后
+separate-page: 在新页面中打开
+share-link: 分享
+recent: 最近使用
+recent-text: 这里会显示最近使用的字符。你还可以查看热门字符
+read-more: 阅读更多
+read-less: 隐藏
+madeby: 提供
+keepupdates: 关注我们
+hint: 选择并复制需要的字符
+
+[mobile]
+to-full: 查看完整版
+to-mobile: 查看移动版
+
+[edit]: 编辑
+save: 保存
+submit: 提交
+undo: 撤消
+send-changes: 您所做的更改将被发送给该网站的开发者。你确定吗？
+thanks: 谢谢

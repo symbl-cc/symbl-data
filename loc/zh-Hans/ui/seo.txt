@@ -1,0 +1,5 @@
+meta-description: 各种 Unicode 字符的名字与描述：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords: unicode, signs, 符号, 字符, unicode table, 字符集, unicode 字符列表, utf-8, 表情符号, 编码, heart symbol, script, 语言, 绘文字, 象形文字, 北欧古字, 箭头符号, 西里尔字母, 拉丁文, 货币符号
+symbol-description: 符号: {{symbol}}, 名称: {{name}}, Unicode 编码: {{code}}, 区块: {{block}}{% if entity %}, 实体: {{ entity }}{% endif %}
+symbol-title: 符号，文字，标志，图标
+

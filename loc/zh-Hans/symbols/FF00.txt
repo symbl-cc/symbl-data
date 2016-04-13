@@ -1,0 +1,256 @@
+FF00 : 
+FF01 : 全形叹号
+FF02 : 全形引号
+FF03 : 全形数字标记
+FF04 : 全形美元标记
+FF05 : 全形百分号
+FF06 : 全形与号
+FF07 : 全形撇号
+FF08 : 全形左圆括号
+FF09 : 全形右圆括号
+FF0A : 全形星号
+FF0B : 全形正号
+FF0C : 全形逗号
+FF0D : 全形连字符 - 负号
+FF0E : 全形句号
+FF0F : 全形斜线号
+FF10 : 全形数字零
+FF11 : 全形数字一
+FF12 : 全形数字二
+FF13 : 全形数字三
+FF14 : 全形数字四
+FF15 : 全形数字五
+FF16 : 全形数字六
+FF17 : 全形数字七
+FF18 : 全形数字八
+FF19 : 全形数字九
+FF1A : 全形冒号
+FF1B : 全形分号
+FF1C : 全形小于号
+FF1D : 全形等号
+FF1E : 全形大于号
+FF1F : 全形问号
+FF20 : 全形商业用单价符号
+FF21 : 全形拉丁文大写字母 A
+FF22 : 全形拉丁文大写字母 B
+FF23 : 全形拉丁文大写字母 C
+FF24 : 全形拉丁文大写字母 D
+FF25 : 全形拉丁文大写字母 E
+FF26 : 全形拉丁文大写字母 F
+FF27 : 全形拉丁文大写字母 G
+FF28 : 全形拉丁文大写字母 H
+FF29 : 全形拉丁文大写字母 I
+FF2A : 全形拉丁文大写字母 J
+FF2B : 全形拉丁文大写字母 K
+FF2C : 全形拉丁文大写字母 L
+FF2D : 全形拉丁文大写字母 M
+FF2E : 全形拉丁文大写字母 N
+FF2F : 全形拉丁文大写字母 O
+FF30 : 全形拉丁文大写字母 P
+FF31 : 全形拉丁文大写字母 Q
+FF32 : 全形拉丁文大写字母 R
+FF33 : 全形拉丁文大写字母 S
+FF34 : 全形拉丁文大写字母 T
+FF35 : 全形拉丁文大写字母 U
+FF36 : 全形拉丁文大写字母 V
+FF37 : 全形拉丁文大写字母 W
+FF38 : 全形拉丁文大写字母 X
+FF39 : 全形拉丁文大写字母 Y
+FF3A : 全形拉丁文大写字母 Z
+FF3B : 全形左方括号
+FF3C : 全形反斜线号
+FF3D : 全形右方括号
+FF3E : 全形扬抑符
+FF3F : 全形下横线
+FF40 : 全形抑音符
+FF41 : 全形拉丁文小写字母 A
+FF42 : 全形拉丁文小写字母 B
+FF43 : 全形拉丁文小写字母 C
+FF44 : 全形拉丁文小写字母 D
+FF45 : 全形拉丁文小写字母 E
+FF46 : 全形拉丁文小写字母 F
+FF47 : 全形拉丁文小写字母 G
+FF48 : 全形拉丁文小写字母 H
+FF49 : 全形拉丁文小写字母 I
+FF4A : 全形拉丁文小写字母 J
+FF4B : 全形拉丁文小写字母 K
+FF4C : 全形拉丁文小写字母 L
+FF4D : 全形拉丁文小写字母 M
+FF4E : 全形拉丁文小写字母 N
+FF4F : 全形拉丁文小写字母 O
+FF50 : 全形拉丁文小写字母 P
+FF51 : 全形拉丁文小写字母 Q
+FF52 : 全形拉丁文小写字母 R
+FF53 : 全形拉丁文小写字母 S
+FF54 : 全形拉丁文小写字母 T
+FF55 : 全形拉丁文小写字母 U
+FF56 : 全形拉丁文小写字母 V
+FF57 : 全形拉丁文小写字母 W
+FF58 : 全形拉丁文小写字母 X
+FF59 : 全形拉丁文小写字母 Y
+FF5A : 全形拉丁文小写字母 Z
+FF5B : 全形左花括号
+FF5C : 全形竖线
+FF5D : 全形右花括号
+FF5E : 全形颚化符
+FF5F : 全形左空心圆括号
+FF60 : 全形右空心圆括号
+FF61 : 半形象形字句号
+FF62 : 半形左角括号
+FF63 : 半形右角括号
+FF64 : 半形象形字逗号
+FF65 : 半形片假名中间点
+FF66 : 半形片假名字母 Wo
+FF67 : 半形片假名字母小型 A
+FF68 : 半形片假名字母小型 I
+FF69 : 半形片假名字母小型 U
+FF6A : 半形片假名字母小型 E
+FF6B : 半形片假名字母小型 O
+FF6C : 半形片假名字母小型 Ya
+FF6D : 半形片假名字母小型 Yu
+FF6E : 半形片假名字母小型 Yo
+FF6F : 半形片假名字母小型 Tu
+FF70 : 半形片假名 - 平假名长音标志
+FF71 : 半形片假名字母 A
+FF72 : 半形片假名字母 I
+FF73 : 半形片假名字母 U
+FF74 : 半形片假名字母 E
+FF75 : 半形片假名字母 O
+FF76 : 半形片假名字母 Ka
+FF77 : 半形片假名字母 Ki
+FF78 : 半形片假名字母 Ku
+FF79 : 半形片假名字母 Ke
+FF7A : 半形片假名字母 Ko
+FF7B : 半形片假名字母 Sa
+FF7C : 半形片假名字母 Si
+FF7D : 半形片假名字母 Su
+FF7E : 半形片假名字母 Se
+FF7F : 半形片假名字母 So
+FF80 : 半形片假名字母 Ta
+FF81 : 半形片假名字母 Ti
+FF82 : 半形片假名字母 Tu
+FF83 : 半形片假名字母 Te
+FF84 : 半形片假名字母 To
+FF85 : 半形片假名字母 Na
+FF86 : 半形片假名字母 Ni
+FF87 : 半形片假名字母 Nu
+FF88 : 半形片假名字母 Ne
+FF89 : 半形片假名字母 No
+FF8A : 半形片假名字母 Ha
+FF8B : 半形片假名字母 Hi
+FF8C : 半形片假名字母 Hu
+FF8D : 半形片假名字母 He
+FF8E : 半形片假名字母 Ho
+FF8F : 半形片假名字母 Ma
+FF90 : 半形片假名字母 Mi
+FF91 : 半形片假名字母 Mu
+FF92 : 半形片假名字母 Me
+FF93 : 半形片假名字母 Mo
+FF94 : 半形片假名字母 Ya
+FF95 : 半形片假名字母 Yu
+FF96 : 半形片假名字母 Yo
+FF97 : 半形片假名字母 Ra
+FF98 : 半形片假名字母 Ri
+FF99 : 半形片假名字母 Ru
+FF9A : 半形片假名字母 Re
+FF9B : 半形片假名字母 Ro
+FF9C : 半形片假名字母 Wa
+FF9D : 半形片假名字母 N
+FF9E : 半形片假名浊音标志
+FF9F : 半形片假名半浊音标志
+FFA0 : 半形朝鲜文填充符
+FFA1 : 半形朝鲜文字母 Kiyeok
+FFA2 : 半形朝鲜文字母 Ssangkiyeok
+FFA3 : 半形朝鲜文字母 Kiyeok-Sios
+FFA4 : 半形朝鲜文字母 Nieun
+FFA5 : 半形朝鲜文字母 Nieun-Cieuc
+FFA6 : 半形朝鲜文字母 Nieun-Hieuh
+FFA7 : 半形朝鲜文字母 Tikeut
+FFA8 : 半形朝鲜文字母 Ssangtikeut
+FFA9 : 半形朝鲜文字母 Rieul
+FFAA : 半形朝鲜文字母 Rieul-Kiyeok
+FFAB : 半形朝鲜文字母 Rieul-Mieum
+FFAC : 半形朝鲜文字母 Rieul-Pieup
+FFAD : 半形朝鲜文字母 Rieul-Sios
+FFAE : 半形朝鲜文字母 Rieul-Thieuth
+FFAF : 半形朝鲜文字母 Rieul-Phieuph
+FFB0 : 半形朝鲜文字母 Rieul-Hieuh
+FFB1 : 半形朝鲜文字母 Mieum
+FFB2 : 半形朝鲜文字母 Pieup
+FFB3 : 半形朝鲜文字母 Ssangpieup
+FFB4 : 半形朝鲜文字母 Pieup-Sios
+FFB5 : 半形朝鲜文字母 Sios
+FFB6 : 半形朝鲜文字母 Ssangsios
+FFB7 : 半形朝鲜文字母 Ieung
+FFB8 : 半形朝鲜文字母 Cieuc
+FFB9 : 半形朝鲜文字母 Ssangcieuc
+FFBA : 半形朝鲜文字母 Chieuch
+FFBB : 半形朝鲜文字母 Khieukh
+FFBC : 半形朝鲜文字母 Thieuth
+FFBD : 半形朝鲜文字母 Phieuph
+FFBE : 半形朝鲜文字母 Hieuh
+FFBF : 
+FFC0 : 
+FFC1 : 
+FFC2 : 半形朝鲜文字母 A
+FFC3 : 半形朝鲜文字母 Ae
+FFC4 : 半形朝鲜文字母 Ya
+FFC5 : 半形朝鲜文字母 Yae
+FFC6 : 半形朝鲜文字母 Eo
+FFC7 : 半形朝鲜文字母 E
+FFC8 : 
+FFC9 : 
+FFCA : 半形朝鲜文字母 Yeo
+FFCB : 半形朝鲜文字母 Ye
+FFCC : 半形朝鲜文字母 O
+FFCD : 半形朝鲜文字母 Wa
+FFCE : 半形朝鲜文字母 Wae
+FFCF : 半形朝鲜文字母 Oe
+FFD0 : 
+FFD1 : 
+FFD2 : 半形朝鲜文字母 Yo
+FFD3 : 半形朝鲜文字母 U
+FFD4 : 半形朝鲜文字母 Weo
+FFD5 : 半形朝鲜文字母 We
+FFD6 : 半形朝鲜文字母 Wi
+FFD7 : 半形朝鲜文字母 Yu
+FFD8 : 
+FFD9 : 
+FFDA : 半形朝鲜文字母 Eu
+FFDB : 半形朝鲜文字母 Yi
+FFDC : 半形朝鲜文字母 I
+FFDD : 
+FFDE : 
+FFDF : 
+FFE0 : 全形分币标记
+FFE1 : 全形英镑标记
+FFE2 : 全形非标记
+FFE3 : 全形长音符
+FFE4 : 全形间断条
+FFE5 : 全形日元标记
+FFE6 : 全形韩元标记
+FFE7 : 
+FFE8 : 半形形式细竖
+FFE9 : 半形向左箭头
+FFEA : 半形向上箭头
+FFEB : 半形向右箭头
+FFEC : 半形向下箭头
+FFED : 半形实心方形
+FFEE : 半形空心圆圈
+FFEF : 
+FFF0 : 
+FFF1 : 
+FFF2 : 
+FFF3 : 
+FFF4 : 
+FFF5 : 
+FFF6 : 
+FFF7 : 
+FFF8 : 
+FFF9 : 行间注释锚
+FFFA : 行间注释分隔符
+FFFB : 行间注释终结符
+FFFC : 目标替换字符
+FFFD : 替换字符
+FFFE : 未定义
+FFFF : 

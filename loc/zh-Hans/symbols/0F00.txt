@@ -1,0 +1,256 @@
+0F00 : 藏语音节 Om
+0F01 : 藏语标志 Gter Yig Mgo Truncated A
+0F02 : 藏语标志 Gter Yig Mgo -Um Rnam Bcad Ma
+0F03 : 藏语标志 Gter Yig Mgo -Um Gter Tsheg Ma
+0F04 : 藏语标志词首 Yig Mgo Mdun Ma
+0F05 : 藏语标志闭 Yig Mgo Sgab Ma
+0F06 : 藏语标志脱字号 Yig Mgo Phur Shad Ma
+0F07 : 藏语标志 Yig Mgo Tsheg Shad Ma
+0F08 : 藏语标志 Sbrul Shad
+0F09 : 藏语标志 Bskur Yig Mgo
+0F0A : 藏语标志 Bka- Shog Yig Mgo
+0F0B : 藏语标志音节间 Tsheg
+0F0C : 藏语标志分隔符 Tsheg Bstar
+0F0D : 藏语标志 Shad
+0F0E : 藏语标志 Nyis Shad
+0F0F : 藏语标志 Tsheg Shad
+0F10 : 藏语标志 Nyis Tsheg Shad
+0F11 : 藏语标志 Rin Chen Spungs Shad
+0F12 : 藏语标志 Rgya Gram Shad
+0F13 : 藏语标志脱字号 -Dzud Rtags Me Long Can
+0F14 : 藏语标志 Gter Tsheg
+0F15 : 藏语连合活字标记 Chad Rtags
+0F16 : 藏语连合活字标记 Lhag Rtags
+0F17 : 藏语占星标记 Sgra Gcan -Char Rtags
+0F18 : 藏语占星标记 -Khyud Pa
+0F19 : 藏语占星标记 Sdong Tshugs
+0F1A : 藏语标记 Rdel Dkar Gcig
+0F1B : 藏语标记 Rdel Dkar Gnyis
+0F1C : 藏语标记 Rdel Dkar Gsum
+0F1D : 藏语标记 Rdel Nag Gcig
+0F1E : 藏语标记 Rdel Nag Gnyis
+0F1F : 藏语标记 Rdel Dkar Rdel Nag
+0F20 : 藏语数字零
+0F21 : 藏语数字一
+0F22 : 藏语数字二
+0F23 : 藏语数字三
+0F24 : 藏语数字四
+0F25 : 藏语数字五
+0F26 : 藏语数字六
+0F27 : 藏语数字七
+0F28 : 藏语数字八
+0F29 : 藏语数字九
+0F2A : 藏语数字半一
+0F2B : 藏语数字半二
+0F2C : 藏语数字半三
+0F2D : 藏语数字半四
+0F2E : 藏语数字半五
+0F2F : 藏语数字半六
+0F30 : 藏语数字半七
+0F31 : 藏语数字半八
+0F32 : 藏语数字半九
+0F33 : 藏语数字半零
+0F34 : 藏语标志 Bsdus Rtags
+0F35 : 藏语标志 Ngas Bzung Nyi Zla
+0F36 : 藏语标志脱字号 -Dzud Rtags Bzhi Mig Can
+0F37 : 藏语标志 Ngas Bzung Sgor Rtags
+0F38 : 藏语标志 Che Mgo
+0F39 : 藏语标志 Tsa -Phru
+0F3A : 藏语标志 Gug Rtags Gyon
+0F3B : 藏语标志 Gug Rtags Gyas
+0F3C : 藏语标志 Ang Khang Gyon
+0F3D : 藏语标志 Ang Khang Gyas
+0F3E : 藏语标记 Yar Tshes
+0F3F : 藏语标记 Mar Tshes
+0F40 : 藏语字母 Ka
+0F41 : 藏语字母 Kha
+0F42 : 藏语字母 Ga
+0F43 : 藏语字母 Gha
+0F44 : 藏语字母 Nga
+0F45 : 藏语字母 Ca
+0F46 : 藏语字母 Cha
+0F47 : 藏语字母 Ja
+0F48 : 
+0F49 : 藏语字母 Nya
+0F4A : 藏语字母 Tta
+0F4B : 藏语字母 Ttha
+0F4C : 藏语字母 Dda
+0F4D : 藏语字母 Ddha
+0F4E : 藏语字母 Nna
+0F4F : 藏语字母 Ta
+0F50 : 藏语字母 Tha
+0F51 : 藏语字母 Da
+0F52 : 藏语字母 Dha
+0F53 : 藏语字母 Na
+0F54 : 藏语字母 Pa
+0F55 : 藏语字母 Pha
+0F56 : 藏语字母 Ba
+0F57 : 藏语字母 Bha
+0F58 : 藏语字母 Ma
+0F59 : 藏语字母 Tsa
+0F5A : 藏语字母 Tsha
+0F5B : 藏语字母 Dza
+0F5C : 藏语字母 Dzha
+0F5D : 藏语字母 Wa
+0F5E : 藏语字母 Zha
+0F5F : 藏语字母 Za
+0F60 : 藏语字母 -A
+0F61 : 藏语字母 Ya
+0F62 : 藏语字母 Ra
+0F63 : 藏语字母 La
+0F64 : 藏语字母 Sha
+0F65 : 藏语字母 Ssa
+0F66 : 藏语字母 Sa
+0F67 : 藏语字母 Ha
+0F68 : 藏语字母 A
+0F69 : 藏语字母 Kssa
+0F6A : 藏语字母固定格式 Ra
+0F6B : 藏语字母 Kka
+0F6C : 藏语字母 Rra
+0F6D : 
+0F6E : 
+0F6F : 
+0F70 : 
+0F71 : 藏语元音标记 Aa
+0F72 : 藏语元音标记 I
+0F73 : 藏语元音标记 Ii
+0F74 : 藏语元音标记 U
+0F75 : 藏语元音标记 Uu
+0F76 : 藏语元音标记元音 R
+0F77 : 藏语元音标记元音 Rr
+0F78 : 藏语元音标记元音 L
+0F79 : 藏语元音标记元音 Ll
+0F7A : 藏语元音标记 E
+0F7B : 藏语元音标记 Ee
+0F7C : 藏语元音标记 O
+0F7D : 藏语元音标记 Oo
+0F7E : 藏语标记 Rjes Su Nga Ro
+0F7F : 藏语标记 Rnam Bcad
+0F80 : 藏语元音标记横翻 I
+0F81 : 藏语元音标记横翻 Ii
+0F82 : 藏语标记 Nyi Zla Naa Da
+0F83 : 藏语标记 Sna Ldan
+0F84 : 藏语标志 Halanta
+0F85 : 藏语标志 Paluta
+0F86 : 藏语标记 Lci Rtags
+0F87 : 藏语标记 Yang Rtags
+0F88 : 藏语标记 Lce Tsa Can
+0F89 : 藏语标记 Mchu Can
+0F8A : 藏语标记 Gru Can Rgyings
+0F8B : 藏语标记 Gru Med Rgyings
+0F8C : 
+0F8D : 
+0F8E : 
+0F8F : 
+0F90 : 藏语增补字母 Ka
+0F91 : 藏语增补字母 Kha
+0F92 : 藏语增补字母 Ga
+0F93 : 藏语增补字母 Gha
+0F94 : 藏语增补字母 Nga
+0F95 : 藏语增补字母 Ca
+0F96 : 藏语增补字母 Cha
+0F97 : 藏语增补字母 Ja
+0F98 : 
+0F99 : 藏语增补字母 Nya
+0F9A : 藏语增补字母 Tta
+0F9B : 藏语增补字母 Ttha
+0F9C : 藏语增补字母 Dda
+0F9D : 藏语增补字母 Ddha
+0F9E : 藏语增补字母 Nna
+0F9F : 藏语增补字母 Ta
+0FA0 : 藏语增补字母 Tha
+0FA1 : 藏语增补字母 Da
+0FA2 : 藏语增补字母 Dha
+0FA3 : 藏语增补字母 Na
+0FA4 : 藏语增补字母 Pa
+0FA5 : 藏语增补字母 Pha
+0FA6 : 藏语增补字母 Ba
+0FA7 : 藏语增补字母 Bha
+0FA8 : 藏语增补字母 Ma
+0FA9 : 藏语增补字母 Tsa
+0FAA : 藏语增补字母 Tsha
+0FAB : 藏语增补字母 Dza
+0FAC : 藏语增补字母 Dzha
+0FAD : 藏语增补字母 Wa
+0FAE : 藏语增补字母 Zha
+0FAF : 藏语增补字母 Za
+0FB0 : 藏语增补字母 -A
+0FB1 : 藏语增补字母 Ya
+0FB2 : 藏语增补字母 Ra
+0FB3 : 藏语增补字母 La
+0FB4 : 藏语增补字母 Sha
+0FB5 : 藏语增补字母 Ssa
+0FB6 : 藏语增补字母 Sa
+0FB7 : 藏语增补字母 Ha
+0FB8 : 藏语增补字母 A
+0FB9 : 藏语增补字母 Kssa
+0FBA : 藏语增补字母固定格式 Wa
+0FBB : 藏语增补字母固定格式 Ya
+0FBC : 藏语增补字母固定格式 Ra
+0FBD : 
+0FBE : 藏语 Ku Ru Kha
+0FBF : 藏语 Ku Ru Kha Bzhi Mig Can
+0FC0 : 藏语吟诵标记重击
+0FC1 : 藏语吟诵标记轻击
+0FC2 : 藏语吟诵标记 Cang Te-U
+0FC3 : 藏语吟诵标记 Sbub -Chal
+0FC4 : 藏语符号 Dril Bu
+0FC5 : 藏语符号 Rdo Rje
+0FC6 : 藏语符号 Padma Gdan
+0FC7 : 藏语符号 Rdo Rje Rgya Gram
+0FC8 : 藏语符号 Phur Pa
+0FC9 : 藏语符号 Nor Bu
+0FCA : 藏语符号 Nor Bu Nyis -Khyil
+0FCB : 藏语符号 Nor Bu Gsum -Khyil
+0FCC : 藏语符号 Nor Bu Bzhi -Khyil
+0FCD : 
+0FCE : 藏语标记 Rdel Nag Rdel Dkar
+0FCF : 藏语符号 Rdel Nag Gsum
+0FD0 : 藏语标志 Bska- Shog Gi Mgo Rgyan
+0FD1 : 藏语标志 Mnyam Yig Gi Mgo Rgyan
+0FD2 : 藏语标志 Nyis Tsheg
+0FD3 : 藏语标志 Initial Brda Rnying Yig Mgo Mdun Ma
+0FD4 : 藏语标志 Closing Brda Rnying Yig Mgo Sgab Ma
+0FD5 : 向右的万字标记(卐)
+0FD6 : 向左的万字标记(卍)
+0FD7 : 带四点的向右的万字标记(卐)
+0FD8 : 带四点的向左的万字标记(卍)
+0FD9 : 
+0FDA : 
+0FDB : 
+0FDC : 
+0FDD : 
+0FDE : 
+0FDF : 
+0FE0 : 
+0FE1 : 
+0FE2 : 
+0FE3 : 
+0FE4 : 
+0FE5 : 
+0FE6 : 
+0FE7 : 
+0FE8 : 
+0FE9 : 
+0FEA : 
+0FEB : 
+0FEC : 
+0FED : 
+0FEE : 
+0FEF : 
+0FF0 : 
+0FF1 : 
+0FF2 : 
+0FF3 : 
+0FF4 : 
+0FF5 : 
+0FF6 : 
+0FF7 : 
+0FF8 : 
+0FF9 : 
+0FFA : 
+0FFB : 
+0FFC : 
+0FFD : 
+0FFE : 
+0FFF : 

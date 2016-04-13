@@ -1,0 +1,256 @@
+2300 : 直径标记
+2301 : 电子箭头
+2302 : 房子
+2303 : 上箭头尖
+2304 : 下箭头尖
+2305 : 投影
+2306 : 透视
+2307 : 波形线
+2308 : 左顶棚
+2309 : 右顶棚
+230A : 左地板
+230B : 右地板
+230C : 右下修剪
+230D : 左下修剪
+230E : 右上修剪
+230F : 左上修剪
+2310 : 横翻非标记
+2311 : 方形菱形
+2312 : 弧
+2313 : 弓形
+2314 : 扇形
+2315 : 电话录音机
+2316 : 位置指示符
+2317 : 可视数据方块
+2318 : 兴趣位置标记
+2319 : 倒转非标记
+231A : 手表
+231B : 沙漏
+231C : 左上角
+231D : 右上角
+231E : 左下角
+231F : 右下角
+2320 : 上半积分
+2321 : 下半积分
+2322 : 哭脸
+2323 : 笑脸
+2324 : 上箭头尖在二个水平条之间
+2325 : 选项键
+2326 : 向右擦除
+2327 : X 在矩形框中
+2328 : 键盘
+2329 : 左指尖括号
+232A : 右指尖括号
+232B : 向左擦除
+232C : 苯圆圈
+232D : 柱面
+232E : 圆周剖面
+232F : 对称
+2330 : 全部离开
+2331 : 尺寸原点
+2332 : 圆锥锥度
+2333 : 斜面
+2334 : 钻孔内径
+2335 : 钻孔
+2336 : Apl 函数符号 I-Beam
+2337 : Apl 函数符号 Squish Quad
+2338 : Apl 函数符号 Quad Equal
+2339 : Apl 函数符号 Quad Divide
+233A : Apl 函数符号 Quad Diamond
+233B : Apl 函数符号 Quad Jot
+233C : Apl 函数符号 Quad Circle
+233D : Apl 函数符号 Circle Stile
+233E : Apl 函数符号 Circle Jot
+233F : Apl 函数符号 Slash Bar
+2340 : Apl 函数符号 Backslash Bar
+2341 : Apl 函数符号 Quad Slash
+2342 : Apl 函数符号 Quad Backslash
+2343 : Apl 函数符号 Quad Less-Than
+2344 : Apl 函数符号 Quad Greater-Than
+2345 : Apl 函数符号 Leftwards Vane
+2346 : Apl 函数符号 Rightwards Vane
+2347 : Apl 函数符号 Quad Leftwards Arrow
+2348 : Apl 函数符号 Quad Rightwards Arrow
+2349 : Apl 函数符号 Circle Backslash
+234A : Apl 函数符号 Down Tack Underbar
+234B : Apl 函数符号 Delta Stile
+234C : Apl 函数符号 Quad Down Caret
+234D : Apl 函数符号 Quad Delta
+234E : Apl 函数符号 Down Tack Jot
+234F : Apl 函数符号 Upwards Vane
+2350 : Apl 函数符号 Quad Upwards Arrow
+2351 : Apl 函数符号 Up Tack Overbar
+2352 : Apl 函数符号 Del Stile
+2353 : Apl 函数符号 Quad Up Caret
+2354 : Apl 函数符号 Quad Del
+2355 : Apl 函数符号 Up Tack Jot
+2356 : Apl 函数符号 Downwards Vane
+2357 : Apl 函数符号 Quad Downwards Arrow
+2358 : Apl 函数符号 Quote Underbar
+2359 : Apl 函数符号 Delta Underbar
+235A : Apl 函数符号 Diamond Underbar
+235B : Apl 函数符号 Jot Underbar
+235C : Apl 函数符号 Circle Underbar
+235D : Apl 函数符号 Up Shoe Jot
+235E : Apl 函数符号 Quote Quad
+235F : Apl 函数符号 Circle Star
+2360 : Apl 函数符号 Quad Colon
+2361 : Apl 函数符号 Up Tack Diaeresis
+2362 : Apl 函数符号 Del Diaeresis
+2363 : Apl 函数符号 Star Diaeresis
+2364 : Apl 函数符号 Jot Diaeresis
+2365 : Apl 函数符号 Circle Diaeresis
+2366 : Apl 函数符号 Down Shoe Stile
+2367 : Apl 函数符号 Left Shoe Stile
+2368 : Apl 函数符号 Tilde Diaeresis
+2369 : Apl 函数符号 Greater-Than Diaeresis
+236A : Apl 函数符号 Comma Bar
+236B : Apl 函数符号 Del Tilde
+236C : Apl 函数符号 Zilde
+236D : Apl 函数符号 Stile Tilde
+236E : Apl 函数符号 Semicolon Underbar
+236F : Apl 函数符号 Quad Not Equal
+2370 : Apl 函数符号 Quad Question
+2371 : Apl 函数符号 Down Caret Tilde
+2372 : Apl 函数符号 Up Caret Tilde
+2373 : Apl 函数符号 Iota
+2374 : Apl 函数符号 Rho
+2375 : Apl 函数符号 Omega
+2376 : Apl 函数符号 Alpha Underbar
+2377 : Apl 函数符号 Epsilon Underbar
+2378 : Apl 函数符号 Iota Underbar
+2379 : Apl 函数符号 Omega Underbar
+237A : Apl 函数符号 Alpha
+237B : 无复选标记
+237C : 带有向下之字形箭头的右角
+237D : 侧翼打开框
+237E : 响铃符号
+237F : 中间带点的竖直线
+2380 : 插入符号
+2381 : 连续下划线符号
+2382 : 不连续下划线符号
+2383 : 强调符号
+2384 : 成分符号
+2385 : 中心带竖线的空心矩形
+2386 : 输入符号
+2387 : 备用键符号
+2388 : 舵符号
+2389 : 有开口的环绕水平条
+238A : 环绕的下三角形
+238B : 带有西北箭头的间断圆
+238C : 撤消符号
+238D : 单稳态符号
+238E : 滞后符号
+238F : 开路输出 H 类型符号
+2390 : 开路输出 L 类型符号
+2391 : 被动下拉输出符号
+2392 : 被动提升输出符号
+2393 : 直流电符号方式二
+2394 : 软件功能符号 : 六边形
+2395 : Apl 函数符号嵌块
+2396 : 小数分隔符键符号
+2397 : 上一页
+2398 : 下一页
+2399 : 打印屏幕符号
+239A : 清除屏幕符号
+239B : 左括号上钩
+239C : 左括号扩展
+239D : 左括号下钩
+239E : 右括号上钩
+239F : 右括号扩展
+23A0 : 右括号下钩
+23A1 : 左方括号上角
+23A2 : 左方括号扩展
+23A3 : 左方括号下角
+23A4 : 右方括号上角
+23A5 : 右方括号扩展
+23A6 : 右方括号下角
+23A7 : 左花括号上钩
+23A8 : 左花括号中间段
+23A9 : 左花括号下钩
+23AA : 花括号扩展
+23AB : 右花括号上钩
+23AC : 右花括号中间段
+23AD : 右花括号下钩
+23AE : 积分扩展
+23AF : 水平线延长
+23B0 : 左上或右下花括号部分
+23B1 : 右上或右下花括号部分
+23B2 : 上合计
+23B3 : 下合计
+23B4 : 上方括号
+23B5 : 下方括号
+23B6 : 上方括号上的下方括号
+23B7 : 下字根符号
+23B8 : 左垂直框线
+23B9 : 右垂直框线
+23BA : 水平扫描行 1
+23BB : 水平扫描行 3
+23BC : 水平扫描行 7
+23BD : 水平扫描行 9
+23BE : 牙科符号细竖和右上
+23BF : 牙科符号细竖和右下
+23C0 : 带圆圈的牙科符号细竖
+23C1 : 带圆圈的牙科符号细下和水平
+23C2 : 带圆圈的牙科符号细上和水平
+23C3 : 带三角形的牙科符号细竖
+23C4 : 带三角形的牙科符号细下和水平
+23C5 : 带三角形的牙科符号细上和水平
+23C6 : 牙科符号细竖和波纹
+23C7 : 带波纹的牙科符号细下和水平
+23C8 : 带波纹的牙科符号细上和水平
+23C9 : 牙科符号细下和水平
+23CA : 牙科符号细上和水平
+23CB : 牙科符号细竖和左上
+23CC : 牙科符号细竖和左下
+23CD : 平方英尺
+23CE : 返回符号
+23CF : 弹出符号
+23D0 : 竖线延长
+23D1 : 度量短音符
+23D2 : 短上的度量长
+23D3 : 长上的度量短
+23D4 : 两短上的度量长
+23D5 : 长上的两度量短
+23D6 : 连接的两度量短
+23D7 : 度量 Triseme
+23D8 : 度量 Tetraseme
+23D9 : 度量 Pentaseme
+23DA : 地
+23DB : 保险丝
+23DC : 上括号
+23DD : 下括号
+23DE : 上花括号
+23DF : 下花括号
+23E0 : 上龟壳形括号
+23E1 : 下龟壳形括号
+23E2 : 空心梯形
+23E3 : 带圆圈的苯圆圈
+23E4 : 直度
+23E5 : 平度
+23E6 : 交流电流
+23E7 : 电气网络
+23E8 : 十进制指数符号
+23E9 : 
+23EA : 
+23EB : 
+23EC : 
+23ED : 
+23EE : 
+23EF : 
+23F0 : 
+23F1 : 
+23F2 : 
+23F3 : 
+23F4 : 
+23F5 : 
+23F6 : 
+23F7 : 
+23F8 : 
+23F9 : 正方形/停止
+23FA : 圆形/录制
+23FB : 
+23FC : 
+23FD : 
+23FE : 
+23FF : 

@@ -1,0 +1,34 @@
+: 工具
+
+[encoder]: 编码器
+
+desc: 将字符与 HTML 代码相互转换
+plain: 字符
+full: 全部转换
+text: 保留文本
+entities: 按 HTML 实体编码
+br: 在换行处添加 <br> 标签
+
+[decoder]: 解码器
+
+desc: 将字符编码为 Unicode 转义文本或者反之
+example: 这是栗子
+code: Unicode 转义文本
+text: 文本
+
+[flip]: 翻转
+
+desc: 将英语字母或者西里尔语“倒”过来
+plain: 原始文本
+flipped: 倒过来！
+backed: 只调换顺序
+
+[generator]: Unicode字符表生成
+
+desc: 产生指定范围内的一组字符
+range: 范围
+format: 格式
+info: 可用： {symbol}, {dec}, {hex}, {html}
+generate: 生成
+result: 结果
+
