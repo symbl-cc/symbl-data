@@ -11,3 +11,7 @@ limit: (show only %s)
 none: None
 any: Search by any words
 overflow: Sorry, symbol U+%s is under construction :)
+unicode-block: Unicode block
+count-symbols: %s symbols
+sets: Set
+alphabet: Alphabet

@@ -1,0 +1,17 @@
+: Caută caracter
+find: Caută
+example: Exemplu
+# phrases separated by ";"
+example-text: secera și ciocanul;săgeată;inimă;stea;triunghi;bifă;cerc;cruce;pătrat;bulină
+h1: Caută
+result: Rezultat
+empty: Fraza de căutare e vidă
+total: Total: %s
+limit: (arată doar %s)
+none: Niciunul
+any: Caută după cuvinte
+overflow: Ne cerem scuze, simbolul U+%s este în construcție :)
+unicode-block: bloc Unicode
+count-symbols: %s simboluri
+sets: Seturi
+alphabet: Alfabet

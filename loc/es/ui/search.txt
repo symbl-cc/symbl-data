@@ -11,3 +11,7 @@ limit: (mostrar sólo %s)
 none: Ninguno
 any: Buscar por cualquier palabra
 overflow: Lo sentimos, el símbolo U+% s está en construcción :)
+unicode-block: Lista de Secciones Unicode
+count-symbols: %s símbolos
+sets: Conjunto
+alphabet: Alfabeto

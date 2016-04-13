@@ -1,0 +1,33 @@
+: Instrumente
+
+[encoder]: Codificare
+
+desc: Codificare caractere în cod HTML și invers
+plain: Text brut
+full: Complet
+text: Text
+entities: Codificarea caracterelor cu entități
+br: Codificare sfârșit de rând
+
+[decoder]: Decodificare
+
+desc: Codificare caractere în format Unicode sau decodificare
+example: Acesta este un exemplu
+code: Unicode
+text: Text
+
+[flip]: Inversare
+
+desc: Inversare caractere chirilice si latine cu susul în jos sau invers
+plain: Text brut
+flipped: Text inversat
+backed: Înapoi la textul inițial
+
+[generator]: Generator de tabel de caractere Unicode
+
+desc: Genereaza un set de caractere într-un interval specificat
+range: Interval
+format: Format
+info: Disponibil: {symbol}, {dec}, {hex}, {html}
+generate: Generează
+result: Rezultat

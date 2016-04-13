@@ -11,3 +11,7 @@ limit: (nur %s angezeigt)
 none: Es wurden keine Ergebnisse gefunden.
 any: Es wurde keine vollständige Übereinstimmung gefunden. Versuchen Sie, weniger Schlüsselwörter zu verwenden.
 overflow: Entschuldigung, Symbol U+%s in Ausarbeitung :)
+unicode-block: Unicode-Absätze
+count-symbols: %s symbole
+sets: Set
+alphabet: Alphabet

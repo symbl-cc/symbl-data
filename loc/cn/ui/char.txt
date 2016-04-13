@@ -1,9 +1,10 @@
 entity: 实体
 your-browser: 您的浏览器
-font-view: 性格不同字体的题字
-char-desc: 人物介绍
+font-view: 不同字体下的字符示例
+char-desc: 字符描述
 unicode-number: Unicode编号
 html-code: <span class="caps">HTML</span>代码
 uppercase: 大写
 lowercase: 小写
-# @todo encoding
+encoding: 编码
+related: 相关字符

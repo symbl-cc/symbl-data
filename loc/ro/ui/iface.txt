@@ -1,0 +1,28 @@
+up: Sus
+range: Interval
+loading: Se încarcă, te rugăm să aștepți...
+count: Număr de caractere
+sort-order: După ordine
+sort-block: După blocuri
+copy-clipboard: Copiază în clipboard
+help-range: Click pentru marcare interval
+more: Mai mult
+prev: Înapoi
+next: Înainte
+separate-page: Deschide în pagină separată
+share-link: Distribuie prietenilor
+recent: Recent
+recent-text: Aici se afișează simbolurile utilizate recent. Vezi simbolurile populare.
+read-more: Vezi mai mult
+read-less: Ascunde
+
+[mobile]
+to-full: Mergi la versiunea completă
+to-mobile: Versiune mobilă
+
+[edit]: Modificare
+save: Salvează
+submit: Trimite
+undo: Anulează
+send-changes: Modificările tale vor fi trimise programatorilor website-ului. Ești sigur?
+thanks: Mulțumim!

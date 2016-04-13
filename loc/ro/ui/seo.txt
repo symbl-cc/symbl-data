@@ -1,0 +1,4 @@
+meta-description: Toate simbolurile Unicode cu nume și descriere într-o singura pagină: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords: Unicode, semne, simboluri, caractere, tabel Unicode, set de caractere, listă de caractere Unicode, utf-8, caractere facebook, codificare, simbolul inima, script, limbi, emoticoane, hieroglife, rune, simboluri săgeți, chirilic, latin, simboluri monetare
+symbol-description: Simbol: {{symbol}}, Nume: {{name}}, Număr Unicode: {{code}}, Bloc: {{block}}{% if entity %}, Entitate: {{ entity }}{% endif %}
+symbol-title: simbol, caracter, semn, iconiță
