@@ -1,0 +1,31 @@
+up	: Su
+range	: Gamma
+loading	: Attendere il caricamento prego...
+count	: Numero di caratteri
+sort-order	: Per ordine
+sort-block	: Con blocchi
+copy-clipboard	: Copia negli appunti
+help-range	: Fare clic per evidenziare gamma
+more	: Di Più
+prev	: prev
+next	: Il prossimo
+separate-page	: Open in pagina separata
+share-link	: Condividere con gli amici
+recent	: Recente
+recent-text	: Qui verranno visualizzati i simboli utilizzati di recente. Finora, vedere i simboli popolari
+read-more	: Leggi di più
+read-less	: Nascondere
+madeby	: Fatto da
+keepupdates	: Seguici
+hint	: Selezionare e copiare carattere desiderato
+
+[mobile]
+to-full: Vai alla versione completa
+to-mobile: Versione mobile
+
+[edit]	: Modifica
+save	: Salvare
+submit	: Sottoscrivi
+undo	: Disfare
+send-changes	: Le modifiche saranno inviati agli sviluppatori di siti web. Sei sicuro?
+thanks	: Grazie!

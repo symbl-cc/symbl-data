@@ -1,0 +1,23 @@
+title: Tabella di caratteri Unicode®
+
+[sets]	: Imposta
+set	: Impostato
+list	: Set di caratteri
+	
+[blocks]	: Blocchi
+block	: Bloccare
+list	: Blocchi Unicode
+	
+[languages]	: Le lingue
+list	: Le lingue
+blocks	: Blocchi di lingua
+	
+[countries]	: Paesi
+list	: Paesi
+	
+[alphabets]	: Alfabeti
+list	: Alfabeti
+	
+[types]	: Tipi
+type	: Tipo
+list	: Tipi

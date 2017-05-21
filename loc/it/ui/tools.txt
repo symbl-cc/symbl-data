@@ -1,0 +1,34 @@
+: Utensili
+
+[encoder]	: Codificatore
+	
+desc	: Codifica caratteri in codice HTML e ritorno
+plain	: testo normale
+full	: Pieno
+text	: Testo
+entities	: Codifica caratteri con entità
+br	: Codifica interruzioni di riga
+	
+[decoder]	: decoder
+	
+desc	: Codifica caratteri in Unicode o decodifica indietro
+example	: Questo è un esempio
+code	: Unicode
+text	: Testo
+	
+[flip]	: Capovolgere
+	
+desc	: Capovolgere i caratteri cirillici e latini a testa in giù o indietro
+plain	: testo normale
+flipped	: il testo capovolto
+backed	: Torna al testo anteriore
+	
+[generator]	: generatore di tabella di caratteri Unicode
+	
+desc	: Genera un insieme di caratteri in un intervallo specificato
+range	: Gamma
+format	: Formato
+info : A disposizione: {symbol}, {dec}, {hex}, {html}
+generate : Creare
+result : Risultato
+

@@ -1,0 +1,112 @@
+# See ftp: //ftp.unicode.org/Public/3.0-Update/UnicodeData-3.0.0.html
+
+[gc]	: Categoria Generale
+	
+L	: Lettera
+M	: Marchio
+N	: Numero
+Z	: Separatore
+C	: Altro
+P	: Punteggiatura
+S	: Simbolo
+Lu	: Lettere maiuscole
+Ll	: Minuscolo
+Lt	: Titlecase
+Mn	: Senza spaziatura
+Mc	: Combinando spaziatura
+Me	: Racchiudere
+Nd	: Cifra decimale
+Nl	: Lettera
+No	: Altro
+Zs	: Spazio
+Zl	: Linea
+Zp	: Paragrafo
+Cc	: Controllo
+Cf	: Formato
+Cs	: Surrogato
+Co	: Uso privato
+Cn	: Non assegnato (senza caratteri nel file hanno questa proprietà)
+Lm	: Modificatore
+Lo	: Altro
+Pc	: Connettore
+Pd	: Trattino
+Ps	: Aperto
+Pe	: Vicino
+Pi	: Citazione iniziale (può comportarsi come Ps o Pe a seconda dell'uso)
+Pf	: Citazione finale (può comportarsi come Ps o Pe a seconda dell'uso)
+Po	: Altro
+Sm	: Matematica
+Sc	: Moneta
+Sk	: Modificatore
+So	: Altro
+	
+[bc]	: Bidirezionale Categoria
+	
+L	: Da sinistra a destra
+LRE	: Da sinistra a Destra Embedding
+LRO	: Da sinistra a Destra Override
+R	: Da destra a sinistra
+AL	: Da destra a sinistra araba
+RLE	: Da destra a sinistra Embedding
+RLO	: Da destra a sinistra Override
+PDF	: Pop direzionale Format
+EN	: Numero europea
+ES	: Separatore europea Numero
+ET	: Terminator europea Numero
+AN	: Numero arabo
+CS	: Separatore numero comune
+NSM	: Senza spaziatura Mark
+BN	: Boundary Neutral
+B	: Separatore paragrafo
+S	: Separatore segmento
+WS	: Lo spazio bianco
+ON	: Altri Neutrali
+	
+[cdm]	: Mappatura di decomposizione carattere
+	
+font	: Una variante del font (per esempio un modulo blackletter)
+noBreak	: Una versione no-break di uno spazio o un trattino
+initial	: Una forma di presentazione iniziale (arabo)
+medial	: Una forma di presentazione mediale (arabo)
+final	: Una forma presentazione finale (arabo)
+isolated	: Una forma isolata di presentazione (in arabo)
+circle	: Una forma circondato
+super	: Una forma apice
+sub	: Una forma pedice
+vertical	: Una forma di presentazione layout verticale
+wide	: Una vasta (o Zenkaku) carattere compatibilità
+narrow	: Uno stretto (o Hankaku) carattere compatibilità
+small	: Una piccola variante (compatibilità CNS)
+square	: Un CJK quadrato variante di carattere
+fraction	: Una forma di frazione volgare
+compat	: Carattere compatibilità Altrimenti non specificata
+	
+[ccc]	: Classi canonica combinata
+	
+0	: Spaziatura, spaccatura, che racchiude, reordrant, e tibetano soggiunse
+1	: Sovrapposizioni e interni
+7	: Nuktas
+8	: Hiragana / Katakana voicing marchi
+9	: Viramas
+10	: Inizio delle lezioni di posizione fisse
+199	: Fine delle classi di posizione fisse
+200	: In basso a sinistra in allegato
+202	: Qui di seguito allegata
+204	: In basso a destra in allegato
+208	: Lasciati aderenti (reordrant giro singolo carattere di base)
+210	: Diritto afferente
+212	: In alto a sinistra allegato
+214	: Sopra allegato
+216	: In alto a destra in allegato
+218	: In basso a sinistra
+220	: Sotto
+222	: In basso a destra
+224	: A sinistra (reordrant giro singolo carattere di base)
+226	: Destra
+228	: In alto a sinistra
+230	: Sopra
+232	: In alto a destra
+233	: Raddoppia sotto
+234	: Doppio sopra
+240	: Qui di seguito (pedice iota)
+

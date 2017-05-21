@@ -1,0 +1,17 @@
+: Ricerca carattere
+find: Trova
+example: Esempio
+# phrases separated by ";"
+example-text: falce e martello;freccia;cuore;stella;triangolo;controllare;cerchio;croce;quadrato;proiettile
+h1: Ricerca
+result: Risultato
+empty: Cerca frase è vuota
+total: Totale: %s
+limit: (mostra solo %s)
+none: Nessuna
+any: Ricerca per ogni parola
+overflow: Siamo spiacenti, simbolo U+%s è in costruzione
+unicode-block: Blocco Unicode
+count-symbols: %s simboli
+sets: Impostato
+alphabet: Alfabeto
