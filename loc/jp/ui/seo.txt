@@ -1,0 +1,5 @@
+meta-description: 全ての種類Unicodeキャラクターの名前と説明：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords:Unicode, ユニコード、記号、記号、文字、ユニコードテーブル、キャラクタセット、ユニコードキャラクタ、UTF-8、フェイスブックキャラクタ、エンコード、ハート記号、スクリプト、言語、絵文字、象形文字、象、矢印記号、キリル文字、ラテン、通貨記号
+symbol-description: シンボル: {{symbol}}, 名前: {{name}}, Unicode数: {{code}}, シート: {{block}}{% if entity %}, エンティティ: {{ entity }}{% endif %}
+symbol-title: シンボル、言葉、シンボル、アイコン、
+

@@ -1,0 +1,24 @@
+title: Unicode®キャラクター図鑑
+
+[sets]	: 記号分類シンク
+# @todo set	
+list	: 記号分類シンク
+	
+[blocks]	: リストセグメントの文字
+# @todo block	
+blocks	: Unicode文字リストセクション
+	
+[languages]	: 言語
+list	: 言語のリスト
+blocks	: 文字の範囲で使用される言語
+	
+[countries]	: カントリー
+list	: 国リスト
+	
+[alphabets]	: アルファベット
+# @todo list	
+	
+[types]	: タイプ文字リスト
+# @todo type	
+list	: タイプ文字リスト 
+

@@ -1,0 +1,34 @@
+: ツール
+
+[encoder]	: エンコーダ
+	
+desc	: HTMLコードや文字変換
+plain	: 文字
+full	: すべての変換
+text	: テキスト
+entities	: HTMLエンティティのエンコーディングを押してください
+br	: コーディングラップ
+	
+[decoder]	: デコーダ
+	
+desc	: Unicodeに文字エンコーディングは、テキスト、またはその逆をエスケープ
+example	: これは栗です
+code	: Unicodeは、テキストをエスケープ
+text	: テキスト
+	
+[flip]	: 覆します
+	
+desc	: 英語のアルファベットやキリル文字が来て「反転します」
+plain	: テキスト
+flipped	: 逆さまに！
+backed	: ただ、順序を逆にします
+	
+[generator]	: Unicode文字テーブル生成
+	
+desc	: 指定された範囲内の文字のセットを生成します
+range	: スコープ
+format	: フォーマット
+info: 利用できます： {symbol}, {dec}, {hex}, {html}
+generate: 生成します
+result: 結果
+

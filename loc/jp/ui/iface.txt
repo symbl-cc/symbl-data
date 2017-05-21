@@ -1,0 +1,29 @@
+up	: トップに戻ります
+range	: スコープ
+loading	: ロード、待ってください
+count	: 文字の合計数
+sort-order	: 連続して
+sort-block	: 文字範囲のセグメントを押してください
+copy-clipboard	: クリップボードにコピー
+help-range	: 文字の範囲をクリックして表示します
+more	: もっと
+prev	: フォワード
+next	: 後方
+separate-page	: 新しい開いているページ
+share-link	: シェア
+# @todo recent	
+# @todo recent-text	
+read-more	: 続きを読みます
+read-less	: 隠します
+	
+	
+[mobile]	
+to-full	: フルバージョンに移動します
+# @todo to-mobile	
+	
+[edit]	: 編集
+save	: 保存
+submit	: 提出します
+undo	: 取り消します
+send-changes	: 変更内容は、サイトの開発に送信されます。本当に？
+thanks	: ありがとう

@@ -1,0 +1,17 @@
+: 検索文字
+find: 検索
+example: 例
+# phrases separated by ";"
+example-text: ハンマーと鎌;矢;ハート;
+h1: 検索
+result: 検索結果
+empty: 検索キーワードは空です
+total: 検索結果の合計：%s
+limit: （表示のみ %s）
+none: いいえ
+any: 任意のキーワードで検索
+overflow: 私は申し訳ありません，U+%s データベースはまだ生産で
+unicode-block: Unicode 文字列のリスト
+count-symbols: %s シンボル
+sets: グループ
+alphabet: 手紙
