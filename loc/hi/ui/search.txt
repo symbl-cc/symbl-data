@@ -1,0 +1,17 @@
+: कैरेक्टर खोज
+find : खोज
+example : उदाहरण
+# phrases separated by ";"
+example-text : हथौड़ा और सिकल;तीर;दिल;स्टार;त्रिकोण;जांच;वृत्त;पार;वर्ग;गोली
+h1 : खोज
+result : परिणाम
+empty : खोज वाक्यांश रिक्त है
+total : कुल: %s
+limit : (केवल दिखाअो %s)
+none : कुछ भी नहीं मिला
+any : किसी भी शब्द के आधार पर खोजें
+overflow : माफ़ कीजिये, प्रतीक U+%s विकसित :)
+unicode-block : धारा यूनिकोड
+count-symbols : %s प्रतीकों
+sets : सेट
+alphabet : वर्णमाला

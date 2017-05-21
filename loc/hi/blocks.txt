@@ -1,0 +1,266 @@
+control-character 	: नियंत्रण चरित्र
+basic-latin     	: मूल लैटिन
+latin-1-supplement 	: लैटिन -1 अनुपूरक
+latin-extended-a 	: लैटिन विस्तारित-ए
+latin-extended-b 	: लैटिन विस्तारित-बी
+ipa-extensions  	: आईपीए एक्सटेंशन
+spacing-modifier-letters 	: रिक्ति संशोधक पत्र
+combining-diacritical-marks 	: विशेषक चिह्नों का मेल
+greek-coptic    	: ग्रीक और कॉप्टिक
+cyrillic        	: सिरिलिक
+cyrillic-supplement 	: सिरिलिक अनुपूरक
+armenian        	: अर्मेनियाई
+hebrew          	: यहूदी
+arabic          	: अरबी
+syrian          	: सिरिएक
+arabic-supplement 	: अरबी अनुपूरक
+thaana          	: थाना
+nko             	: पत्र Nko
+samaritan       	: सामरी
+mandaic         	: मंडेला पत्र इग्नाटियस
+arabic-extended-a 	: अरबी विस्तारित-ए
+devanagari      	: देवनागरी
+bengali         	: बंगाली
+gurmukhi        	: गुरुमुखी
+gujarati        	: गुजराती
+oriya           	: ओरिया
+tamil           	: तामिल
+telugu          	: तेलुगु
+kannada         	: कन्नड़
+malayalam       	: मलयालम
+sinhala         	: सिंहली
+thai            	: थाई
+lao             	: लाओ
+tibetan         	: तिब्बती
+myanmar         	: म्यांमार
+georgian        	: जॉर्जियाई
+hangul-jamo     	: हंगुल जामो
+ethiopic        	: इथियोपिया के वर्णमाला
+ethiopic-supplement 	: इथियोपिया के वर्णमाला अनुपूरक
+cherokee        	: चेरोकी
+unified-canadian-aboriginal-syllabics 	: एकीकृत कनाडा के ऐबोरजीनी लिपि
+ogham           	: ओगम
+runic           	: रूण का
+tagalog         	: तागालोग
+hanunoo         	: हनुनो'ओ वर्णमाला
+buhid           	: पत्र Buhid
+tagbanwa        	: Tagbanwa वर्णमाला
+khmer           	: खमेर
+mongolian       	: मंगोलियन
+unified-canadian-aboriginal-syllabics-extended 	: एकीकृत कनाडा के ऐबोरजीनी लिपि विस्तारित
+limbu           	: पत्र Limbu
+tai-le          	: ताई Le
+new-tai-lue     	: न्यू ताई लुए
+khmer-symbols   	: खमेर चिह्न
+buginese        	: बगिनीस
+tai-tham        	: ताई थाम
+balinese        	: बाली
+sundanese       	: सुंडानी
+batak           	: पत्र Batak
+lepcha          	: लेपचा
+ol-chiki        	: राजभाषा Chiki
+cyrillic-extended-c	: सिरिलिक विस्तारित सी
+sundanese-supplement 	: सुंडानी अनुपूरक
+vedic-extensions 	: वैदिक एक्सटेंशन
+phonetic-extensions 	: ध्वन्यात्मक एक्सटेंशन
+phonetic-extensions-supplement 	: ध्वन्यात्मक एक्सटेंशन अनुपूरक
+combining-diacritical-marks-supplement 	: संयोजन विशेषक चिह्नों अनुपूरक
+latin-extended-additional 	: लैटिन विस्तारित अतिरिक्त
+greek-extended  	: ग्रीक विस्तारित
+general-punctuation 	: जनरल विराम चिह्न
+superscripts-and-subscripts 	: सबस्क्रिप्ट और अभिलेख
+currency-symbols 	: मुद्रा प्रतीकों
+combining-diacritical-marks-for-symbols 	: प्रतीकों के लिए विशेषक चिह्नों का मेल
+letterlike-symbols 	: पत्र-जैसे प्रतीक
+number-forms    	: संख्या फार्म
+arrows          	: तीर
+mathematical-operators 	: गणितीय ऑपरेटर्स
+miscellaneous-technical 	: विविध तकनीकी
+control-pictures 	: नियंत्रण चित्र
+optical-character-recognition 	: ऑप्टिकल कैरेक्टर पहचान
+enclosed-alphanumerics 	: संलग्न अक्षर या अंक
+box-drawing     	: बॉक्स ड्राइंग
+block-elements  	: ब्लॉक तत्वों
+geometric-shapes 	: ज्यामितीय आकार
+miscellaneous-symbols 	: विविध प्रतीक
+dingbats        	: Dingbats
+miscellaneous-mathematical-symbols-a 	: विविध गणितीय प्रतीकों-ए
+suplemental-arrows-a 	: पूरक तीर-ए
+braille-patterns 	: ब्रेल पैटर्न्स
+suplemental-arrows-b 	: पूरक तीर-बी
+miscellaneous-mathematical-symbols-b 	: विविध गणितीय प्रतीकों-बी
+supplemental-mathematical-operators 	: पूरक गणितीय ऑपरेटर्स
+miscellaneous-symbols-and-arrows 	: विविध प्रतीक और तीर
+glagolitic      	: ग्लैगोलिटिक
+latin-extended-c 	: लैटिन विस्तृत-सी
+coptic          	: कॉप्टिक
+georgian-supplement 	: जॉर्जियाई अनुपूरक
+tifinagh        	: टिफ़िनाघ
+ethiopic-extended 	: इथियोपिया के वर्णमाला विस्तारित
+cyrillic-extended 	: सिरिलिक विस्तारित-ए
+supplemental-punctuation 	: पूरक विराम चिह्न
+cjk-radicals-supplement 	: सीजेके कण अनुपूरक
+kangxi-radicals 	: Kangxi की व्युत्पत्ति
+ideographic-description-characters 	: आइडियोग्राफ़िक वर्णन वर्ण
+cjk-symbols-and-punctuation 	: सीजेके प्रतीकों और विराम चिह्न
+hiragana        	: हीरागाना
+katakana        	: काताकाना
+bopomofo        	: बोपोमोफो
+hangul-compatibility-jamo 	: हंगुल संगतता जामो
+kanbun          	: Kanbun
+bopomofo-extended 	: बोपोमोफो विस्तारित
+cjk-strokes     	: सीजेके स्ट्रोक
+katakana-phonetic-extensions 	: काताकाना ध्वन्यात्मक एक्सटेंशन
+enclosed-cjk-letters-and-months 	: संलग्न सीजेके पत्र और महीने
+cjk-compatibility 	: सीजेके संगतता
+cjk-unified-ideographs-extension-a 	: सीजेके एकीकृत अवलोकन विस्तार एक
+yijing-hexagram-symbols 	: मैं चिंग के छह पंक्तियों। चिह्न
+cjk-unified-ideographs 	: सीजेके एकीकृत अवलोकन
+yi-syllables    	: यी पेरों
+yi-radicals     	: यी कण
+old-lisu-alphabet 	: व्हाइट पत्र
+ciryllic-extended-B 	: सिरिलिक विस्तारित-बी
+bamum           	: बामम
+modifier-tone-letters 	: संशोधक टोन पत्र
+latin-extended-d 	: लैटिन विस्तारित-डी
+syloty-nagri    	: स्यालोती नागरी
+indian-numeric-character 	: आम भारतीय संख्या फार्म
+phags-pa        	: फ़ाग्स-देहात
+saurashtra      	: सौराष्ट्र
+devanagari-extended-characters 	: देवनागरी विस्तारित
+kayah-li        	: Kayah ली
+rejang          	: रेस नफरत पत्र
+hangul          	: हंगुल जामो विस्तारित-ए
+javanese-alphabet 	: जावानीस
+cham-alphabet   	: चाम
+burmese-alphabet-extention-a 	: म्यांमार विस्तारित-ए
+tai-viet-alphabet 	: ताई वियतनाम
+meitei-language-extensions 	: मीटी माएक एक्सटेंशन
+ethiopic-extended-a 	: इथियोपिया के वर्णमाला विस्तारित-ए
+meitei-language 	: मीटी माएक
+hangul-syllables 	: हंगुल पेरों
+high-surrogates 	: उच्च Surrogates
+high-private-use-surrogates 	: उच्च निजी उपयोग Surrogates
+low-surrogates  	: कम Surrogates
+private-use-area 	: निजी उपयोग के क्षेत्र
+cjk-compatibility-ideographs 	: सीजेके संगतता अवलोकन
+alphabetic-presentation-forms 	: वर्णमाला प्रस्तुति फार्म
+arabic-presentation-forms-a 	: अरबी प्रस्तुति प्रपत्र-एक
+variation-selectors 	: रूपांतर चयनकर्ताओं
+vertical-forms  	: कार्यक्षेत्र फार्म
+combining-half-marks 	: आधे अंक का मेल
+cjk-compatibility-forms 	: सीजेके संगतता फार्म
+small-form-variants 	: स्मॉल फॉर्म वेरिएंट
+arabic-presentation-forms-b 	: अरबी प्रस्तुति प्रपत्र-बी
+halfwidth-and-fullwidth-forms 	: हाफ़विड्थ और चौड़ाई फार्म
+specials        	: स्पेशल
+linear-b-syllabary 	: लीनियर बी सिलेबिक्स
+linear-b-ideograms 	: लीनियर बी ideograms
+aegean-numbers 	: एजियन नंबर
+ancient-greek-numbers 	: प्राचीन यूनानी नंबर
+ancient-symbols 	: प्राचीन प्रतीक
+phaistos-disc 	: Phaistos डिस्क
+lycian 	: Lycian
+carian 	: कारियान
+coptic-epact-numbers 	: कॉप्टिक Epact नंबर
+old-italic 	: पुरानी इटैलिक
+gothic 	: गोथिक
+old-permic 	: पुरानी पर्मिक
+ugaritic 	: युगैरिटिक
+old-persian 	: पुरानी फारसी
+deseret 	: Deseret
+shavian 	: शावियन
+osmanya 	: ओसमान्या
+osage	: ओसेज
+elbasan 	: Elbasan
+caucasian-albanian 	: यूरोपीय अल्बानियाई
+linear-a 	: रैखिक एक
+cypriot-syllabary 	: साइप्रस सिलेबिक्स
+imperial-aramaic 	: इंपीरियल इब्रानी
+palmyrene 	: Palmyrene
+nabataean 	: Nabataean
+phoenician 	: फ़ोनीशिया
+lydian 	: Lydian
+meroitic-hieroglyphs 	: मेरोटिक चित्रलिपि
+meroitic-cursive 	: मेरोइटिक कर्सिव
+kharoshthi 	: खरोष्ठी
+old-south-arabian 	: पुराने दक्षिण अरब
+old-north-arabian 	: ओल्ड उत्तरी अरब
+manichaean 	: मैनिशैन
+avestan 	: अवस्ताई
+inscriptional-parthian 	: शिलालेख पार्थियन
+inscriptional-pahlavi 	: शिलालेख पहलवी
+psalter-pahlavi 	: भजनमाला पहलवी
+old-turkic 	: ओल्ड तुर्की
+rumi-numeral-symbols 	: रूमी अंक और प्रतीकों
+brahmi 	: ब्राह्मी
+kaithi 	: कैथी
+sora-sompeng 	: सोरा सोम्पेंग
+chakma 	: चकमा
+mahajani 	: महाजनी
+sharada 	: शारदा
+sinhala-archaic-numbers 	: सिंहली पुरातन नंबर
+khojki 	: Khojki
+khudawadi 	: Khudawadi
+grantha 	: ग्रंथ
+newa	: Newa
+tirhuta 	: मिथिलाक्षर
+siddham 	: सिद्धम
+modi 	: मोदी
+mongolian-supplement	: मंगोलियाई अनुपूरक
+takri 	: तकरी
+warang-citi 	: Warang सिटी
+pau-cin-hau 	: पऊ सिनेमा हाओ
+bhaiksuki	: Bhaiksuki
+marchen	: Märchen
+cuneiform 	: अंकन (लिपि)
+cuneiform-numbers-and-punctuation 	: अंकन (लिपि) संख्या और विराम
+egyptian-hieroglyphs 	: मिस्री चित्रलिपि
+bamum-supplement 	: बामम अनुपूरक
+mro 	: एमआरओ
+bassa-vah 	: बासा Vah
+pahawh-hmong 	: पाहाव्ह हमोन्ग
+miao 	: मियाओ
+ideographic-symbols-and-punctuation	: इदेओग्राफ प्रतीकों और विराम चिह्न
+tangut	: Tangut
+tangut-components	: Tangut अवयव
+kana-supplement 	: काना अनुपूरक
+duployan 	: Duployan
+shorthand-format-controls 	: आशुलिपि प्रारूप नियंत्रण
+byzantine-musical-symbols 	: बीजान्टिन संगीत चिह्न
+musical-symbols 	: संगीत चिह्न
+ancient-greek-musical-notation 	: प्राचीन यूनानी संगीत संकेतन
+tai-xuan-jing-symbols 	: ताई जुआन जिंग चिह्न
+counting-rod-numerals 	: रॉड अंकों की गिनती
+mathematical-alphanumeric-symbols 	: गणितीय अक्षरांकीय चिह्न
+mende-kikakui 	: Mende Kikakui
+adlam	: Adlam
+arabic-mathematical-alphabetic-symbols 	: अरबी वर्णमाला गणितीय चिह्न
+mahjong-tiles 	: माहजोंग टाइलें
+domino-tiles 	: डोमिनोज़ टाइलें
+playing-cards 	: ताश के पत्ते
+enclosed-alphanumeric-supplement 	: संलग्न अल्फान्यूमेरिक अनुपूरक
+enclosed-ideographic-supplement 	: संलग्न चित्र-लेख संबंधी अनुपूरक
+miscellaneous-symbols-and-pictographs 	: विविध प्रतीक और पिक्टोग्राफ
+emoticons 	: इमोटिकॉन्स (Emoji)
+ornamental-dingbats 	: सजावटी Dingbats
+transport-and-map-symbols 	: परिवहन और नक्शे के संकेत चिन्हों
+alchemical-symbols 	: कीमिया चिह्न
+geometric-shapes-extended 	: ज्यामितीय आकृतियों विस्तारित
+supplemental-arrows-c 	: पूरक तीर-सी
+combining-diacritical-marks-extended	: संयोजन विशेषक चिह्नों विस्तारित
+lisu	: Lisu
+myanmar-extended-b	: म्यांमार विस्तारित-बी
+latin-extended-e	: लैटिन विस्तारित-ई
+hangul-jamo-extended-b	: हंगुल जामो विस्तारित-बी
+cherokee-supplement	: चेरोकी अनुपूरक
+hatran	: Hatran
+old-hungarian	: ओल्ड हंगेरियन
+multani	: मुल्तानी
+ahom	: अहोम
+early-dynastic-cuneiform	: प्रारंभिक वंशवादी अंकन
+anatolian-hieroglyphs	: अनातोलियन चित्रलिपि
+sutton-sign-writing	: सटन साइन राइटिंग
+glagolitic-supplement	: ग्लैगोलिटिक अनुपूरक
+supplemental-symbols-and-pictographs	: पूरक चिह्न और पिक्टोग्राफ 
+

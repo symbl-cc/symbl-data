@@ -1,0 +1,23 @@
+title : यूनिकोड® चरित्र तालिका
+
+[sets]	: सेट
+set	: सेट
+list	: चरित्र सेट
+	
+[blocks]	: ब्लाकों
+block	: खंड
+list	: यूनिकोड ब्लॉक
+	
+[languages]	: बोली
+list	: बोली
+blocks	: भाषा के ब्लॉक
+	
+[countries]	: देशों
+list	: देशों
+	
+[alphabets]	: अक्षर
+list	: अक्षर
+	
+[types]	: प्रकार
+type	: प्रकार
+list	: प्रकार
