@@ -1,0 +1,17 @@
+: Pesquisa de personagens
+find: Encontrar
+example: Exemplo
+# phrases separated by ";"
+example-text: Martelo e foice;seta;coração, estrela;triângulo;cheque;círculo;cruz;quadrado;bala
+h1: Pesquisa
+result: Resultado
+empty: A frase de pesquisa está vazia
+total: Total: %s
+limit: (apenas mostrar %s)
+none: Nenhum
+any: Pesquisa por palavras
+overflow: Desculpe, símbolo U+%s está em construção :)
+unicode-block: Bloco Unicode
+count-symbols: %s símbolos
+sets: Conjunto
+alphabet: Alfabeto

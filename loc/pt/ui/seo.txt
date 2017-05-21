@@ -1,0 +1,4 @@
+meta-description: Todos os símbolos Unicode com nomes e descrições em uma página: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords: Unicode, sinais, símbolos, caráteres, tabela do unicode, jogo de caráter, lista de caráteres de unicode, utf-8, caráteres do facebook, codificação, símbolo do coração, roteiro, línguas, emoji, hieroglyphs, runes, símbolos da seta, cyrillic, latin, símbolos de moeda
+symbol-description: Symbol: {{symbol}}, Name: {{name}}, Unicode number: {{code}}, Block: {{block}}{% if entity %}, Entity: {{ entity }}{% endif %}
+symbol-title: Símbolo, caráter, sinal, ícone

@@ -1,0 +1,31 @@
+up: Acima
+range: Alcance
+loading: Carregando, por favor espere...
+count: Número de caracteres
+sort-order: Por ordem
+sort-block: Por blocos
+copy-clipboard: Copiar para área de transferência
+help-range: Clique para destacar o intervalo
+more: Mais
+prev: Anterior
+next: Próximo
+separate-page: Abrir em página separada
+share-link: Compartilhe com amigos
+recent: Recente
+recent-text: Here will display recently used symbols. So far, see the popular symbols
+read-more: Consulte Mais informação
+read-less: ocultar
+madeby: Feito por
+keepupdates: Siga-nos
+hint: Selecione e copie o caractere que você precisa
+
+[mobile]
+to-full: Ir para a versão completa
+to-mobile: Versão móvel
+
+[edit]: Editar
+save: Salvar
+submit: Enviar
+undo: Desfazer
+send-changes: Suas alterações serão enviadas para os desenvolvedores do site. Você tem certeza?
+thanks: Obrigado!

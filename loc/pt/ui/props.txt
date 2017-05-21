@@ -1,0 +1,112 @@
+# See ftp://ftp.unicode.org/Public/3.0-Update/UnicodeData-3.0.0.html
+
+[gc]: Categoria Geral
+
+L: Carta
+M: Marca
+N: Número
+Z: Separador
+C: De outros
+P: Pontuação
+S: Símbolo
+Lu: Maiúsculas
+Ll: Minúsculas
+Lt: Titlecase
+Mn: Não-espaçamento
+Mc: Combinação de espaçamento
+Me: Encerrando
+Nd: Dígito decimal
+Nl: Carta
+No: De outros
+Zs: Espaço
+Zl: Linha
+Zp: Parágrafo
+Cc: Ao controle
+Cf: Formato
+Cs: Substituto
+Co: Uso Privado
+Cn: Não atribuído (nenhum caractere no arquivo tem essa propriedade)
+Lm: Modificador
+Lo: De outros
+Pc: Conector
+Pd: Traço
+Ps: Aberto
+Pe: Fechar
+Pi: Citação inicial (pode se comportar como Ps ou Pe dependendo do uso)
+Pf: Citação final (pode se comportar como Ps ou Pe dependendo do uso)
+Po: De outros
+Sm: Matemática
+Sc: Moeda
+Sk: Modificador
+So: De outros
+
+[bc]: Categoria Bidirecional
+
+L: Da esquerda para direita
+LRE: Incorporação da Esquerda para a Direita
+LRO: Substituição da esquerda para a direita
+R: Direita para esquerda
+AL: Árabe da direita para a esquerda
+RLE: Incorporação da direita para a esquerda
+RLO: Substituição da direita para a esquerda
+PDF: Formato direcional pop
+EN: Número Europeu
+ES: Separador de número europeu
+ET: Terminator de número europeu
+AN: Número árabe
+CS: Separador de número comum
+NSM: Marca não-espaçadora
+BN: Limite Neutro
+B: Separador de Parágrafos
+S: Separador de segmentos
+WS: Espaço em branco
+ON: Outros neutros
+
+[cdm]: Mapeamento de decomposição de caracteres
+
+font: Uma variante de fonte (por exemplo, um formulário em preto)
+noBreak: Uma versão sem interrupções de um espaço ou hífen
+initial: Um formulário de apresentação inicial (árabe)
+medial: Um formulário de apresentação médica (árabe)
+final: Uma apresentação final (em árabe)
+isolated: Uma forma de apresentação isolada (árabe)
+circle: Uma forma circundada
+super: Um formulário sobrescrito
+sub: Um formulário subscrito
+vertical: Um formulário de apresentação de layout vertical
+wide: Um caractere de compatibilidade amplo (ou zenkaku)
+narrow: Um caractere de compatibilidade estreita (ou hankaku)
+small: Uma pequena forma variante (compatibilidade CNS)
+square: Uma variante de fonte esquemática CJK
+fraction: Uma forma de fração vulgar
+compat: Caso contrário, caracteres de compatibilidade não especificados
+
+[ccc]: Combinações canônicas
+
+0: Espaçamento, divisão, encerramento, reordancia, e tibetano subjoined
+1: Superposições e interior
+7: Nuktas
+8: Hiragana / Katakana marcas de voz
+9: Viramas
+10: Início das classes de posição fixa
+199: Fim de classes de posição fixa
+200: Em baixo, à esquerda, anexado
+202: Embaixo anexado
+204: Em baixo, à direita, anexado
+208: Left attached (reordrant em torno de um personagem de base única)
+210: Em anexo
+212: Acima à esquerda anexado
+214: Acima anexado
+216: Acima do lado direito
+218: Abaixo da esquerda
+220: Abaixo
+222: Abaixo da direita
+224: Esquerda (quadrante em torno de um caractere de base única)
+226: Certo
+228: Acima à esquerda
+230: Acima
+232: Acima à direita
+233: Duplo abaixo
+234: Duplo acima
+240: Abaixo (iota subscrito)
+
