@@ -372,7 +372,7 @@
 
 [cyrillic-extended-c]
     diap            : 1C80:1C87
-    type            : alphabet	
+    type            : alphabet
 
 [sundanese-supplement]
 	diap            : 1CC0:1CCF
@@ -847,12 +847,12 @@
 	type            : abugida
 	languages       : ethiopian-semitic
 	countries       : ethiopia, sudan, eritrea, somalia, israel
-	
+
 [latin-extended-e]
     diap            : AB30:AB6F
     type            :
     languages       :
-    countries       :    
+    countries       :
 
 [cherokee-supplement]
     diap            : AB70:ABBF
@@ -1069,7 +1069,7 @@
     type            :
     languages       :
     countries       :
-    
+
 [osage]
     diap            : 104B0:104FF
 
@@ -1276,9 +1276,9 @@
     type            :
     languages       :
     countries       :
-    
+
 [newa]
-    diap            : 11400:1147F    
+    diap            : 11400:1147F
 
 [tirhuta]
     diap            : 11480:114DF
@@ -1297,9 +1297,9 @@
     type            :
     languages       :
     countries       :
-    
+
 [mongolian-supplement]
-    diap            : 11660:1167F      
+    diap            : 11660:1167F
 
 [takri]
     diap            : 11680:116CF
@@ -1326,9 +1326,9 @@
     countries       :
 
 [bhaiksuki]
-    diap: 11C00:11C6F    
-    
-[marchen]    
+    diap: 11C00:11C6F
+
+[marchen]
     diap: 11C70:11CBF
 
 [cuneiform]
@@ -1390,14 +1390,14 @@
     type            :
     languages       :
     countries       :
-    
+
 [ideographic-symbols-and-punctuation]
     diap: 16FE0:16FFF
-    
+
 [tangut]
     diap: 17000:187FF
-    
-[tangut-components]    
+
+[tangut-components]
     diap: 18800:18AFF
 
 [kana-supplement]
@@ -1459,7 +1459,7 @@
     type            :
     languages       :
     countries       :
-    
+
 [glagolitic-supplement]
     diap: 1E000:1E02F
 
@@ -1468,8 +1468,8 @@
     type            :
     languages       :
     countries       :
-    
-[adlam]    
+
+[adlam]
     diap: 1E900:1E95F
 
 [arabic-mathematical-alphabetic-symbols]
@@ -1552,6 +1552,48 @@
 
 [supplemental-symbols-and-pictographs]
     diap            : 1F900:1F9FF
+    type            :
+    languages       :
+    countries       :
+
+[cjk-unified-ideographs-extension-b]
+    diap            : 20000:2A6D6
+    type            :
+    languages       :
+    countries       :
+
+[cjk-unified-ideographs-extension-c]
+    diap            : 2A700:2B734
+    type            :
+    languages       :
+    countries       :
+
+[cjk-unified-ideographs-extension-d]
+    diap            : 2B740:2B81D
+    type            :
+    languages       :
+    countries       :
+
+[cjk-unified-ideographs-extension-e]
+    diap            : 2B820:2CEA1
+    type            :
+    languages       :
+    countries       :
+
+[cjk-compatibility-ideographs-supplement]
+    diap            : 2F800:2FA1F
+    type            :
+    languages       :
+    countries       :
+
+[tags]
+    diap            : E0000:E007F
+    type            :
+    languages       :
+    countries       :
+
+[variation-selectors-supplement]
+    diap            : E0100:E01EF
     type            :
     languages       :
     countries       :
