@@ -1,0 +1,17 @@
+: Szukaj symbolu
+find: Odnaleźć
+example: Przykładowo
+# phrases separated by ";"
+example-text: Sierp i młot;trójkąt;strzałka;serce;gwiazda;space;telefon;koło;kleszczy; kreskę
+h1: Szukaj symbolu
+result: Wyniki wyszukiwania wyrażenie
+empty: Wyniki wyszukiwania wyrażenie
+total: Wyniki wyszukiwania: %s
+limit: (wyświetlane tylko %s)
+none: Nic nie znaleziono
+any: Zwroty nie znaleziono niczego. Lista wszystkich słów.
+overflow: Niestety;symbol U+%s rozwinięty :)
+unicode-block: Sekcja Unicode
+sets: Zestaw
+count-symbols: %s znaków
+alphabet: Alfabet

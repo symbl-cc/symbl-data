@@ -1,0 +1,265 @@
+arab	: Alfabet arabski
+	
+armenian	: Alfabet ormiański
+	
+avestan	: Alfabet awestyjski
+	
+balinese	: Pismo balijskie
+	
+bamum	: Bamum alfabetu
+	
+bashkir	: Bashkir alfabetu
+	
+bassa-vah	: Bassa-vah alfabetu
+	
+batak	: Pismo batackie
+	
+belarusian	: Alfabet białoruski
+	
+bengali	: Pismo bengalskie
+	
+bopomofo	: Bopomofo alfabetu. zhuyin
+	
+brahmi	: Brahmi alfabetu
+	
+buginese	: Bugiński alfabetu
+	
+buhid	: Buhid alfabetu
+	
+bulgarian	: Alfabet bułgarski
+	
+carian	: Carian alfabetu
+	
+caucasian-albanian	: Kaukaski alfabet albański
+	
+chakma	: Pismo czakma
+	
+cham	: Cham alfabetu
+	
+cherokee	: Cherokee alfabetu
+	
+chinese	: Chiński alfabet pinyin
+	
+coptic	: Koptyjski alfabetu
+	
+cypriot-syllabary	: Syllabary cypryjski
+	
+cyrillic	: Cyrylica
+	
+czech	: Czeska alfabetu
+	
+deseret	: Deseret alfabetu
+	
+devanagari	: Alfabetu dewanagari
+	
+elbasan	: Elbasan alfabetu
+	
+english	: Angielski alfabet
+	
+esperanto	: Esperanto alfabetu
+	
+ethiopic	: Etiopski Ge'ez alfabetu
+	
+french	: Francuski alfabet
+	
+georgian	: Gruziński alfabet
+	
+german	: Niemiecki alfabetu
+	
+glagolitic	: Głagolicy
+	
+gothic	: Alfabet gocki
+	
+grantha	: Grantha
+	
+greek	: Grecki alfabet
+	
+gujarati	: Pismo gudżarati
+	
+gurmukhi	: Pismo Gurmukhi
+	
+hangul	: Hangul alfabetu
+	
+hanunoo	: Hanunoo alfabetu
+	
+hebrew	: Alfabet hebrajski
+	
+hungarian	: Alfabet węgierski
+	
+imperial-aramaic	: Imperial alfabet aramejski
+	
+international-phonetic-alphabet	: Międzynarodowy alfabet fonetyczny
+	
+italian	: Włoski alfabetu
+	
+japanese-hiragana	: Japoński hiragana alfabetu
+	
+japanese-katakana	: Japoński alfabet katakana
+	
+javanese	: Jawajski alfabetu
+	
+kaithi	: Kaithi alfabetu
+	
+kannada	: Pismo kannada
+	
+kayah-li	: Kayah Li alfabetu
+	
+kazakh	: Kazachski alfabetu
+	
+kharoshthi	: Kharoszthi alfabetu
+	
+khmer	: Khmer alfabetu
+	
+khojki	: Khojki alfabetu
+	
+khudawadi	: Khudawadi alfabetu
+	
+lao	: Lao alfabetu
+	
+latin	: Alfabet łaciński
+	
+lepcha	: Pismo Rong
+	
+limbu	: Pismo Limbu
+	
+linear-b-Syllabary	: Linear B syllabary
+	
+lisu	: Lisu alfabetu
+	
+lycian	: Lycian alfabetu
+	
+lydian	: Lydian alfabetu
+	
+nabataean	: Nabataean alfabetu
+	
+mahajani	: Mahadżani alfabetu
+	
+malayalam	: Malajalam alfabetu
+	
+mandaic	: Mandejski alfabetu
+	
+manichaean	: Pismo manichejskie
+	
+meetei-mayek	: Munipuri alfabetu
+	
+mende-kikakui	: Mende kikakui alfabetu
+	
+meroitic-cursive	: Meroickie kursywą alfabetu
+	
+modi	: Pismo Modi
+	
+mongolian	: Mongolski alfabetu
+	
+mro	: MRO alfabetu
+	
+myanmar	: Birma alfabetu
+	
+new-tai-lue	: Nowy alfabet lue tai
+	
+nko	: Nko alfabetu
+	
+ogham	: Ngham alfabetu
+	
+ol-chiki	: Ol ciki
+	
+old-italic	: Stary włoski alfabet etruski
+	
+old-north-arabian	: Stary północny arabskiego alfabetu
+	
+old-permic	: Stary permic alfabetu
+	
+old-persian	: Staroperski alfabetu
+	
+old-south-arabian	: Stary południe arabskiego alfabetu
+	
+old-turkic	: Stary alfabet runiczny tureckich
+	
+oriya	: Pismo orija
+	
+osmanya	: Osmanija alfabetu
+	
+pahawh-hmong	: Pismo Pahawh Hmong alfabetu
+	
+pahlavi	: Pahlavi alfabetu
+	
+palmyrene	: Palmyrene alfabetu
+	
+pau-cin-hau	: Pau cin hau alfabetu
+	
+phags-pa	: Phags pa alfabetu
+	
+phoenician	: Fenicki alfabet
+	
+polish	: Polski alfabet
+	
+pollard	: Pollard alfabetu
+	
+rejang	: Rejang alfabetu
+	
+runic	: Runiczny alfabet
+	
+russian	: Rosyjski alfabet
+	
+samaritan	: Samarytanin alfabetu
+	
+saurashtra	: Saurashtra alfabetu
+	
+sharada	: Sharada alfabetu
+	
+shavian	: Pismo Shawa alfabetu
+	
+siddham	: Siddham alfabetu
+	
+sinhala	: Pismo syngaleskie
+	
+sora-sompeng	: Sory Sompeng alfabetu
+	
+spanish	: Hiszpański alfabetu
+	
+sundanese	: Pismo sundajskie
+	
+syloti-nagri	: Syloti Nagri alfabetu
+	
+syriac	: Alfabet syryjski
+	
+tagalog	: Tagalog alfabetu
+	
+tagbanwa	: Tagbanwa alfabetu
+	
+tai-le	: Tai le alfabetu
+	
+tai-tham	: Pismo lanna
+	
+tai-viet	: Viet Tai alfabetu
+	
+takri	: Takri alfabetu
+	
+tamil	: Tamil alfabetu
+	
+tatar	: Alfabet tatarski
+	
+telugu	: Telugu alfabetu
+	
+thaana	: Thaana alfabetu
+	
+thai	: Pismo tajskie
+	
+tibetan	: Pismo tybetańskie
+	
+tifinagh	: Tifinagh alfabetu
+	
+tirhuta	: Tirhuta alfabetu
+	
+turkish	: alfabet turecki
+	
+ugaritic	: Alfabet ugarycki
+	
+ukrainian	: Alfabet ukraiński
+	
+unified-canadian-aboriginal-syllabics	: Unified Canadian rodowity syllabary
+	
+vai	: Syllabary vai
+	
+varang-kshiti	: Varang kshiti alfabetu
+	
+yi-syllables	: Yi syllabary 

@@ -1,0 +1,25 @@
+title	: Tabela znaków Unicode®
+	
+[sets]	: Zestawy
+set	: Zestawy
+list	: Zestawy znaków
+	
+[blocks]	: Sekcje
+block	: Sekcja
+list	: Sekcje Unicode
+	
+[languages]	: Języki
+list	: Języki
+blocks	: Język jest przedstawiony w następujących sekcjach
+	
+[countries]	: Kraje
+list	: Kraje
+	
+[alphabets]	: Alfabetów
+list	: Alfabetów
+	
+[types]	: Rodzaje
+type	: Rodzaj
+list	: Rodzaje 
+
+

@@ -1,0 +1,34 @@
+: Instrumenty
+
+[encoder]: HTML-koder
+
+desc: Kodowanie znaków w HTML-kodu i plecach
+plain: Zwykły tekst
+full: Wszystko
+text: Tekst
+entities: Kodowanie znaków, które mają mnemonicznych mnemoniki
+br: Rozważmy podziały wiersza
+
+[decoder]: Unicode ⇆ Tekst
+
+desc: Koduje znaki Unicode lub dekoduje powrotem
+example: jest to przykład
+code: Unicode
+text: Tekst
+
+[flip]: Trzepnięcie
+
+desc: Odwraca znaki cyrylicy i alfabetu łacińskiego do góry nogami lub do tyłu
+plain: Prosty tekst
+flipped: Tekst odwrócony
+backed: Powrót do tekstu przednim
+
+[generator]: Generator znaków Unicode tabele
+
+desc: Tworzy ciąg znaków w określonym przedziale
+range: Zakres
+format: Format
+info: Dostępny: {symbol}, {dec}, {hex}, {html}
+generate: Generowania
+result: Wynik
+

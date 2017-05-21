@@ -1,0 +1,31 @@
+up	: Na górze
+range	: Zakres
+loading	: Ładuję ...
+count	: Liczba znaków
+sort-order	: W porządku
+sort-block	: Według kategorii
+copy-clipboard	: Skopiować do schowka
+help-range	: Kliknij, aby podświetlić
+more	: Więcej
+prev	: Prev.
+next	: Dalej.
+separate-page	: Otwarty na oddzielnej stronie
+share-link	: Podziel się z przyjaciółmi
+recent	: Ostatnio używane
+recent-text	: Chociaż pusta. Zakładka ta pokaże posledenie skopiowane znaki.
+read-more	: więcej
+read-less	: Ukryć
+madeby	: Niezbędny w
+keepupdates	: Uważaj na aktualizacje na portalach społecznościowych
+hint	: Wybierz żądany znak i skopiuj
+	
+[mobile]	
+to-full	: Przejdź do pełnej wersji
+to-mobile	: Przejdź do wersji mobilnej
+	
+[edit]	: Zmianę
+save	: Zachować
+submit	: Wysłać
+undo	: Anulować
+send-changes	: Zmiana zostanie wysłany do strony deweloperów. Czy jesteś pewien?
+thanks	: Dziękuję! 
