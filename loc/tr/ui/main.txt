@@ -1,0 +1,23 @@
+title: Unicode® character table
+
+[sets]	: Setleri
+set	: Set
+list	: Karakter setleri
+	
+[blocks]	: Bloklar
+block	: Blok
+list	: Unicode blokları
+	
+[languages]	: Diller
+list	: Diller
+blocks	: Dil blokları
+	
+[countries]	: Ülkeler
+list	: Ülkeler
+	
+[alphabets]	: Alfabe
+list	: Alfabe
+	
+[types]	: Türleri
+type	: Tür
+list	: Türleri

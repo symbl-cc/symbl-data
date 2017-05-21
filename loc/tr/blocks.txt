@@ -1,0 +1,265 @@
+control-character 	: Kontrol karakteri
+basic-latin     	: Temel latin
+latin-1-supplement 	: Latin-1 ek
+latin-extended-a 	: Latin genişletilmiş-A
+latin-extended-b 	: Latin genişletilmiş-B
+ipa-extensions  	: IPA uzantıları
+spacing-modifier-letters 	: Boşluk değiştirici harfler
+combining-diacritical-marks 	: Aksan işaretlerini birleştirmek
+greek-coptic    	: Yunanca ve Kıpti
+cyrillic        	: Kiril
+cyrillic-supplement 	: Kiril Ek
+armenian        	: Ermeni
+hebrew          	: İbranice
+arabic          	: Arapça
+syrian          	: Süryanice
+arabic-supplement 	: Arapça Ek
+thaana          	: Thaana
+nko             	: NKo
+samaritan       	: Samaritan
+mandaic         	: Mandence
+arabic-extended-a 	: Arapça Genişletilmiş-A
+devanagari      	: Devanagari
+bengali         	: Bengalce
+gurmukhi        	: Gurmukhi
+gujarati        	: Gujarati
+oriya           	: Oriya
+tamil           	: Tamil
+telugu          	: Telugu
+kannada         	: Kannada
+malayalam       	: Malayalam
+sinhala         	: Sinhala
+thai            	: Tay dili
+lao             	: Lao
+tibetan         	: Tibetçe
+myanmar         	: Myanmar
+georgian        	: Gürcüce
+hangul-jamo     	: Hangul Jamo
+ethiopic        	: Etiyopyalı
+ethiopic-supplement 	: Etiyopyalı Ek
+cherokee        	: Cherokee
+unified-canadian-aboriginal-syllabics 	: Birleşik kanada aborijin heceli
+ogham           	: Ogham
+runic           	: Rünik
+tagalog         	: Tagalog
+hanunoo         	: Hanunoo
+buhid           	: Buhid
+tagbanwa        	: Tagbanwa
+khmer           	: Khmer
+mongolian       	: Moğolca
+unified-canadian-aboriginal-syllabics-extended 	: Birleşik kanada aborijin heceli Genişletilmiş
+limbu           	: Limbu
+tai-le          	: Tai Le
+new-tai-lue     	: New Tai Lue
+khmer-symbols   	: Khmer Sembolleri
+buginese        	: Buginese
+tai-tham        	: Tai Tham
+balinese        	: Balinese
+sundanese       	: Sunda Dili
+batak           	: Batak
+lepcha          	: Sevgilim
+ol-chiki        	: Ol Chiki
+cyrillic-extended-c	: Kiril Uzatılmış C
+sundanese-supplement 	: Sundaese Supplement
+vedic-extensions 	: Vedik Uzantılar
+phonetic-extensions 	: Fonetik Uzantılar
+phonetic-extensions-supplement 	: Fonetik Uzantıları Ek
+combining-diacritical-marks-supplement 	: Aksanlı Marks Eklentisini Birleştirme
+latin-extended-additional 	: Latin Genişletilmiş Ek
+greek-extended  	: Yunanca Genişletilmiş
+general-punctuation 	: Genel Noktalama İşaretleri
+superscripts-and-subscripts 	: Üst simgeler ve alt simgeler
+currency-symbols 	: Para birimi sembolleri
+combining-diacritical-marks-for-symbols 	: Semboller için aksan işaretleri birleştirmek
+letterlike-symbols 	: Harf benzeri semboller
+number-forms    	: Sayı formları
+arrows          	: Oklar
+mathematical-operators 	: Matematiksel operatörler
+miscellaneous-technical 	: Çeşitli teknik
+control-pictures 	: Resimleri kontrol et
+optical-character-recognition 	: Optik karakter tanıma
+enclosed-alphanumerics 	: Kapatılan alfasayısal sayılar
+box-drawing     	: Kutu çizimi
+block-elements  	: Blok elemanları
+geometric-shapes 	: Geometrik şekiller
+miscellaneous-symbols 	: Çeşitli semboller
+dingbats        	: Boynuzlar
+miscellaneous-mathematical-symbols-a 	: Çeşitli matematik sembolleri-A
+suplemental-arrows-a 	: Tamamlayıcı Oklar-A
+braille-patterns 	: Körler alfabesi kalıpları
+suplemental-arrows-b 	: Tamam Oklar-B
+miscellaneous-mathematical-symbols-b 	: Çeşitli matematik sembolleri-B
+supplemental-mathematical-operators 	: Yardımcı Matematiksel Operatörler
+miscellaneous-symbols-and-arrows 	: Çeşitli simgeler ve oklar
+glagolitic      	: Glagolitik
+latin-extended-c 	: Latin genişletilmiş-C
+coptic          	: Kıpti
+georgian-supplement 	: Gürcüce Ek
+tifinagh        	: Tifinagh
+ethiopic-extended 	: Etiyopyalı Genişletilmiş
+cyrillic-extended 	: Kiril genişletilmiş-A
+supplemental-punctuation 	: Ek noktalama İşaretleri
+cjk-radicals-supplement 	: ÇJK Radikal Ekleri
+kangxi-radicals 	: Kangxi Radikaller
+ideographic-description-characters 	: İdeografik açıklama karakterleri
+cjk-symbols-and-punctuation 	: ÇJK sembolleri ve noktalama işaretleri
+hiragana        	: Hiragana
+katakana        	: Katakana
+bopomofo        	: Bopomofo
+hangul-compatibility-jamo 	: Hangul uyumluluğu Jamo
+kanbun          	: Kanbun
+bopomofo-extended 	: Bopomofo Genişletilmiş
+cjk-strokes     	: ÇJK Strokes
+katakana-phonetic-extensions 	: Katakana fonetik uzantıları
+enclosed-cjk-letters-and-months 	: Kapatılan ÇJK mektupları ve ayları
+cjk-compatibility 	: ÇJK uyumluluğu
+cjk-unified-ideographs-extension-a 	: ÇJK Birleşik İfadeler uzantısı A
+yijing-hexagram-symbols 	: Yijing heksagram sembolleri
+cjk-unified-ideographs 	: ÇJK Birleşik İfadeleri
+yi-syllables    	: Yi heceleri
+yi-radicals     	: Yi Radikaller
+old-lisu-alphabet 	: Vai
+ciryllic-extended-B 	: Kiril Genişletilmiş-B
+bamum           	: Bamum
+modifier-tone-letters 	: Değiştirici Ton Mektupları
+latin-extended-d 	: Latin Genişletilmiş-D
+syloty-nagri    	: Syloti Nagri
+indian-numeric-character 	: Ortak Gösterge Sayı Formları
+phags-pa        	: Phags-pa
+saurashtra      	: Saurashtra
+devanagari-extended-characters 	: Devanagari Genişletilmiş
+kayah-li        	: Kayah Li
+rejang          	: Rejang
+hangul          	: Hangul Jamo Genişletilmiş-A
+javanese-alphabet 	: Cava
+cham-alphabet   	: Cham
+burmese-alphabet-extention-a 	: Myanmar Genişletilmiş-A
+tai-viet-alphabet 	: Tai Viet
+meitei-language-extensions 	: Meetei Mayek Uzantıları
+ethiopic-extended-a 	: Etiyopyalı Genişletilmiş-A
+meitei-language 	: Meetei Mayek
+hangul-syllables 	: Hangul heceleri
+high-surrogates 	: Yüksek temsilciler
+high-private-use-surrogates 	: Yüksek özel kullanımlı temsilciler
+low-surrogates  	: Düşük Bayanlar
+private-use-area 	: Özel Kullanım Alanı
+cjk-compatibility-ideographs 	: ÇJK Uyumluluk Fikirleri
+alphabetic-presentation-forms 	: Alfabetik Sunu Formları
+arabic-presentation-forms-a 	: Arapça Sunum Formları-A
+variation-selectors 	: Varyasyon Seçicileri
+vertical-forms  	: Dikey Formlar
+combining-half-marks 	: Yarı İşaretlerin Birleştirilmesi
+cjk-compatibility-forms 	: ÇJK Uygunluk Formları
+small-form-variants 	: Küçük Form Çeşitleri
+arabic-presentation-forms-b 	: Arapça Sunum Formları-B
+halfwidth-and-fullwidth-forms 	: Yarı Genişlik ve Tam Genişlikte Formlar
+specials        	: Özel
+linear-b-syllabary 	: Doğrusal B Heceli
+linear-b-ideograms 	: Doğrusal B İdeogramlar
+aegean-numbers 	: Ege Numaraları
+ancient-greek-numbers 	: Eski Yunan Numaraları
+ancient-symbols 	: Eski Semboller
+phaistos-disc 	: Phaistos Diski
+lycian 	: Likya
+carian 	: Karia
+coptic-epact-numbers 	: Kıpti epakt sayıları
+old-italic 	: v İtalik
+gothic 	: Gotik
+old-permic 	: Eski Permik
+ugaritic 	: Ugaritik
+old-persian 	: Eski Farsça
+deseret 	: Deseret
+shavian 	: Şaviyen
+osmanya 	: Osmanya
+osage	: Osage
+elbasan 	: Elbasan
+caucasian-albanian 	: Kafkas Arnavutça
+linear-a 	: Doğrusal A
+cypriot-syllabary 	: Kıbrıs Heceli
+imperial-aramaic 	: İmparatorluk Aramice
+palmyrene 	: Palirden
+nabataean 	: Nebe de
+phoenician 	: Fenike
+lydian 	: Lydia
+meroitic-hieroglyphs 	: Meroitik Hiyeroglifler
+meroitic-cursive 	: Meroitik el yazısı
+kharoshthi 	: Kharoshthi
+old-south-arabian 	: Eski Güney Arabistan
+old-north-arabian 	: Eski Kuzey Arabian
+manichaean 	: Maniheaean
+avestan 	: Avestan
+inscriptional-parthian 	: Yazıtipi Parthian
+inscriptional-pahlavi 	: Yazılı Pehlevi
+psalter-pahlavi 	: Mezmur Pehlevi
+old-turkic 	: Eski Türkçülük
+rumi-numeral-symbols 	: Rumi sayı sembolleri
+brahmi 	: Brahmi
+kaithi 	: Kaithi
+sora-sompeng 	: Sora Sompeng
+chakma 	: Chakma
+mahajani 	: Mahajani
+sharada 	: Sharada
+sinhala-archaic-numbers 	: Sinhala Arkaik Sayılar
+khojki 	: Khojki
+khudawadi 	: Khudawadi
+grantha 	: Grantha
+newa	: Newa
+tirhuta 	: Tirhuta
+siddham 	: Siddham
+modi 	: Modi
+mongolian-supplement	: Moğolca Ek
+takri 	: Takri
+warang-citi 	: Warang Citi
+pau-cin-hau 	: Pau Cin Hau
+bhaiksuki	: Bhaiksuki
+marchen	: Marchen
+cuneiform 	: Çivi yazılı
+cuneiform-numbers-and-punctuation 	: Çivi yazısı Sayılar ve noktalama işaretleri
+egyptian-hieroglyphs 	: Mısır Hiyeroglifleri
+bamum-supplement 	: Bamum Eki
+mro 	: Mro
+bassa-vah 	: Bassa Vah
+pahawh-hmong 	: Pahawh Hmong
+miao 	: Miao
+ideographic-symbols-and-punctuation	: Fikirografik Semboller ve Noktalama İşaretleri
+tangut	: Tangut
+tangut-components	: Tangut Bileşenleri
+kana-supplement 	: Kana Ek
+duployan 	: Duployan
+shorthand-format-controls 	: Kestirme Biçim Denetimleri
+byzantine-musical-symbols 	: Bizans Müzikal Sembolleri
+musical-symbols 	: Müzikal Semboller
+ancient-greek-musical-notation 	: Eski Yunan Müzik Notasyonu
+tai-xuan-jing-symbols 	: Tai Xuan Jing Sembolleri
+counting-rod-numerals 	: Sayma Çubuğu Rakamları
+mathematical-alphanumeric-symbols 	: Matematik Alfanümerik Semboller
+mende-kikakui 	: Mende Kikakui
+adlam	: Adlam
+arabic-mathematical-alphabetic-symbols 	: Arap Matematik Alfabetik Semboller
+mahjong-tiles 	: Mahjong Fayans
+domino-tiles 	: Domino Fayansları
+playing-cards 	: Kağıt oynamak
+enclosed-alphanumeric-supplement 	: Kapalı Alfanümerik Ek
+enclosed-ideographic-supplement 	: Kapalı İdeografik Ek
+miscellaneous-symbols-and-pictographs 	: Çeşitli Semboller ve Piktogramlar
+emoticons 	: ifadeyi (Emoji)
+ornamental-dingbats 	: Süs Boy Dolmaları
+transport-and-map-symbols 	: Taşıma ve Harita Sembolleri
+alchemical-symbols 	: Simyasal Semboller
+geometric-shapes-extended 	: Genişletilmiş Geometrik Şekiller
+supplemental-arrows-c 	: Tamam Oklar-C
+combining-diacritical-marks-extended	: Genişletilmiş Aksi Yazı İşaretlerini Birleştirme
+lisu	: Lisu
+myanmar-extended-b	: Myanmar Genişletilmiş B
+latin-extended-e	: Latin Genişletilmiş E
+hangul-jamo-extended-b	: Hangul Jamo Genişletilmiş B
+cherokee-supplement	: Cherokee Ek
+hatran	: Hatran
+old-hungarian	: Eski Macarca
+multani	: Multani
+ahom	: Ahom
+early-dynastic-cuneiform	: Erken Hanedan Çıplak Formatı
+anatolian-hieroglyphs	: Anadolu Hiyeroglifleri
+sutton-sign-writing	: Sutton Şiir Yazma
+glagolitic-supplement	: Glagolitik Ek
+supplemental-symbols-and-pictographs	: Ek Semboller ve Piktogramlar

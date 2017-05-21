@@ -1,0 +1,35 @@
+: Araçlar
+
+[encoder]	: Kodlayıcı
+	
+desc	: Karakterleri html koduna ve geri kodlar
+plain	: Düz metin
+full	: Tam
+text	: Metin
+entities	: Karakterleri varlıklarla kodlar
+br	: Satır sonlarını kodlar
+	
+[decoder]	: Kod çözücü
+	
+desc	: Karakterleri Unicode'a kodlar veya geri çözer
+example	: Bu bir örnektir
+code	: Unicode
+text	: Metin
+	
+[flip]	: Çevir
+	
+desc	: Kiril ve Latin karakterleri baş aşağı veya geriye çevirin
+plain	: Düz metin
+flipped	: Metni çevrilmiş
+backed	: Ön metne dön
+	
+[generator]	: Unicode karakter tablosu üreteci
+	
+desc	: Belirtilen bir aralıkta bir karakter kümesi üretir
+range	: Menzil
+format	: Biçim
+info	: Mevcut: {symbol}, {dec}, {hex}, {html}
+generate	: Üret
+result	: Sonuç 
+
+

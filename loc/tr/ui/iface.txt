@@ -1,0 +1,32 @@
+up	: Up
+range	: Menzil
+loading	: Yükleniyor lütfen bekleyin...
+count	: Karakter sayısı
+sort-order	: Emriyle
+sort-block	: Bloklarla
+copy-clipboard	: Panoya kopyala
+help-range	: Menzilini vurgulamak için tıklayın
+more	: Daha
+prev	: Önceki
+next	: Sonraki
+separate-page	: Ayrı sayfada aç
+share-link	: Arkadaşlarınla paylaş
+recent	: Son
+recent-text	: Burada son zamanlarda kullanılan simgeler görüntülenecektir. Şimdiye kadar popüler simgelere bakın
+read-more	: Daha fazla oku
+read-less	: Saklamak
+madeby	: Tarafından üretildi
+keepupdates	: Bizi takip et
+hint	: İhtiyacınız olan karakteri seçin ve kopyalayın
+	
+[mobile]	
+to-full	: Tam sürüme git
+to-mobile	: Mobil versiyon
+	
+[edit]	: Düzenle
+save	: Kayıt etmek
+submit	: Gönder
+undo	: Geri alma
+send-changes	: Değişiklikleriniz web sitesi geliştiricilerine gönderilecek. Emin misiniz?
+thanks	: Teşekkürler! 
+

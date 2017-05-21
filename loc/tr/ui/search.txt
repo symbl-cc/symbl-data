@@ -1,0 +1,17 @@
+: Karakter araması
+find: Bulmak
+example: Örnek
+# phrases separated by ";"
+example-text: çekiç ve orak;ok;kalp;yıldız;Üçgen;kontrol;daire;çapraz;Kare;kurşun
+h1: Arama
+result: Sonuç
+empty: Arama ifadesi boş
+total: Toplam: %s
+limit: (Sadece göster %s)
+none: Yok
+any: Herhangi bir kelimeyle ara
+overflow: Üzgünüz, sembol U+%s yapım aşamasındadır :)
+unicode-block: Unicode bölüm
+count-symbols: %s Semboller
+sets: Set
+alphabet: Alfabe

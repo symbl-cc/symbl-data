@@ -1,0 +1,265 @@
+arab	: Arap alfabesi
+	
+armenian	: Ermeni alfabesi
+	
+avestan	: Avestan alfabesi
+	
+balinese	: Bali alfabesi
+	
+bamum	: Bamum alfabesi
+	
+bashkir	: Başkurt alfabesi
+	
+bassa-vah	: Bassa-vah alfabesi
+	
+batak	: Batak alfabe
+	
+belarusian	: Belarus alfabesi
+	
+bengali	: Bengalce alfabe
+	
+bopomofo	: Bopomofo alfabesi. Zhuyin
+	
+brahmi	: Brahmi alfabesi
+	
+buginese	: Bugince alfabe
+	
+buhid	: Buhid alfabesi
+	
+bulgarian	: Bulgar alfabesi
+	
+carian	: Karia alfabesi
+	
+caucasian-albanian	: Kafkas arnavut alfabesi
+	
+chakma	: Çakma alfabesi
+	
+cham	: Cham alfabesi
+	
+cherokee	: Cherokee alfabesi
+	
+chinese	: Çince pinyin alfabesi
+	
+coptic	: Kıpti alfabe
+	
+cypriot-syllabary	: Kıbrıs heceli
+	
+cyrillic	: Kiril alfabesi
+	
+czech	: Çek alfabesi
+	
+deseret	: Deseret alfabesi
+	
+devanagari	: Devanagari alfabesi
+	
+elbasan	: Elbasan alfabesi
+	
+english	: ingilizce alfabe
+	
+esperanto	: Esperanto alfabesi
+	
+ethiopic	: Etiyopyalı Ge'ez alfabesi
+	
+french	: Fransız alfabesi
+	
+georgian	: Gürcüce alfabe
+	
+german	: Alman alfabesi
+	
+glagolitic	: Glokalitik alfabe
+	
+gothic	: Gotik alfabe
+	
+grantha	: Grantha alfabesi
+	
+greek	: Yunan alfabesi
+	
+gujarati	: Gujarati alfabesi
+	
+gurmukhi	: Gurmukhi alfabesi
+	
+hangul	: Hangul alfabesi
+	
+hanunoo	: Hanunoo alfabesi
+	
+hebrew	: İbranice alfabe
+	
+hungarian	: Macarca alfabe
+	
+imperial-aramaic	: İmparator Aramic alfabesi
+	
+international-phonetic-alphabet	: Uluslararası fonetik alfabe
+	
+italian	: İtalyan alfabesi
+	
+japanese-hiragana	: Japon hiragana alfabesi
+	
+japanese-katakana	: Japon katakana alfabesi
+	
+javanese	: Cava alfabesi
+	
+kaithi	: Kaithi alfabesi
+	
+kannada	: Kannada alfabesi
+	
+kayah-li	: Kayah li alfabesi
+	
+kazakh	: Kazak alfabesi
+	
+kharoshthi	: Kharoshthi alfabesi
+	
+khmer	: Kmer alfabesi
+	
+khojki	: Khojki alfabesi
+	
+khudawadi	: Kudwadi alfabesi
+	
+lao	: Lao alfabesi
+	
+latin	: Latin alfabesi
+	
+lepcha	: Lepcha alfabe
+	
+limbu	: Limbu alfabesi
+	
+linear-b-Syllabary	: Doğrusal B hece
+	
+lisu	: Lisu alfabesi
+	
+lycian	: Likya alfabesi
+	
+lydian	: Lydia alfabesi
+	
+nabataean	: Nabataean alfabesi
+	
+mahajani	: Mahajani alfabesi
+	
+malayalam	: Malayalam alfabesi
+	
+mandaic	: Mandal alfabesi
+	
+manichaean	: Maniheae alfabesi
+	
+meetei-mayek	: Meetei mayek alfabesi
+	
+mende-kikakui	: Mende kikakui alfabesi
+	
+meroitic-cursive	: Meroitik parmakla alfabe
+	
+modi	: Mod alfabesi
+	
+mongolian	: Moğolca alfabe
+	
+mro	: Mro alfabesi
+	
+myanmar	: Myanmar alfabesi
+	
+new-tai-lue	: Yeni tai lue alfabesi
+	
+nko	: Nko alfabesi
+	
+ogham	: Ngham alfabesi
+	
+ol-chiki	: Ol chiki alfabesi
+	
+old-italic	: Eski italik etruscan alfabesi
+	
+old-north-arabian	: Eski kuzey arabian alfabesi
+	
+old-permic	: Eski permik alfabe
+	
+old-persian	: Eski persian alfabesi
+	
+old-south-arabian	: Eski güney arabian alfabesi
+	
+old-turkic	: Eski türk rik alfabesi
+	
+oriya	: Oriya alfabesi
+	
+osmanya	: Osmanya alfabesi
+	
+pahawh-hmong	: Alfabe harfi harf
+	
+pahlavi	: Pehlevi alfabe
+	
+palmyrene	: Palmyrene alfabesi
+	
+pau-cin-hau	: Pau cin hau alfabe
+	
+phags-pa	: Phags-pa alfabe
+	
+phoenician	: Fenike alfabesi
+	
+polish	: Lehçe alfabe
+	
+pollard	: Pollard alfabesi
+	
+rejang	: Alfabe rejangını rejang
+	
+runic	: Akik alfabesi
+	
+russian	: Rus alfabesi
+	
+samaritan	: Samaritan alfabesi
+	
+saurashtra	: Saurashtra alfabesi
+	
+sharada	: Sharada alfabesi
+	
+shavian	: Şiav alfabesi
+	
+siddham	: Siddham alfabesi
+	
+sinhala	: Sinhala alfabesi
+	
+sora-sompeng	: Sora sampeng alfabesi
+	
+spanish	: İspanyol alfabesi
+	
+sundanese	: Sunda Dili alfabe
+	
+syloti-nagri	: Syloti nagri alfabesi
+	
+syriac	: Süryanice alfabe
+	
+tagalog	: Tagalog alfabesi
+	
+tagbanwa	: Tagbanwa alfabesi
+	
+tai-le	: Tai le alfabe
+	
+tai-tham	: Tai tham alfabe
+	
+tai-viet	: Tai viet alfabesi
+	
+takri	: Takri alfabesi
+	
+tamil	: Tamil alfabesi
+	
+tatar	: Tatar alfabesi
+	
+telugu	: Telugu alfabesi
+	
+thaana	: Thaana alfabesi
+	
+thai	: Taylandlı alfabe
+	
+tibetan	: Tibet alfabesi
+	
+tifinagh	: Tifinagh alfabesi
+	
+tirhuta	: Tirhuta alfabesi
+	
+turkish	: Türkçe alfabe
+	
+ugaritic	: Ugarit alfabe
+	
+ukrainian	: Ukraynaca alfabesi
+	
+unified-canadian-aboriginal-syllabics	: Birleşik kanada aborijin heceli
+	
+vai	: Vai heceli
+	
+varang-kshiti	: Varang kshiti alfabesi
+	
+yi-syllables	: Yi heceli 
