@@ -1,0 +1,34 @@
+: 수단
+
+[encoder]	: 인코더
+	
+desc	: HTML 코드 및 문자 변환
+plain	: 문자
+full	: 모든 전환
+text	: 본문
+entities	: 는 HTML 엔티티 인코딩을 누릅니다
+br	: 코딩 랩
+	
+[decoder]	: 디코더
+	
+desc	: 유니 코드 문자 인코딩은 텍스트 또는 그 반대의 경우도 마찬가지 탈출
+example	: 이것은 밤이고
+code	: 유니 코드는 텍스트를 탈출
+text	: 본문
+	
+[flip]	: 전복
+	
+desc	: "반전"영어 알파벳 또는 키릴 문자가 와서
+plain	: 본문
+flipped	: 거꾸로!
+backed	: 그냥 순서를 반대로
+
+[generator]: 유니 코드 문자 테이블 생성
+
+desc: 지정된 범위 내에서 문자 집합을 생성
+range: 범위
+format: 체재
+info: 유효한： {symbol}, {dec}, {hex}, {html}
+generate: 생성
+result: 결과
+

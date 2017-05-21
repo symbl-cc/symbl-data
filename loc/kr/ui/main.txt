@@ -1,0 +1,24 @@
+title: Unicode® 문자 백과 사전
+
+[sets]	: 기호 분류 싱크
+# @todo set	
+list	: 기호 분류 싱크
+	
+[blocks]	: 목록 세그먼트 문자
+# @todo block	
+blocks	: 유니 코드 문자 목록 섹션
+	
+[languages]	: 언어
+list	: 언어 목록
+blocks	: 문자의 범위에 사용되는 언어
+	
+[countries]	: 국가
+list	: 국가 목록
+	
+[alphabets]	: 알파벳
+# @todo list	
+	
+[types]	: 입력 한 문자 목록
+# @todo type	
+list	: 입력 한 문자 목록 
+

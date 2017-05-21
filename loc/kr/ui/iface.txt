@@ -1,0 +1,30 @@
+up	: 맨 위로
+range	: 범위
+loading	: 로딩 중, 잠시 기다려주십시오
+count	: 문자의 총 수
+sort-order	: 순차적으로
+sort-block	: 문자 범위 세그먼트를 눌러
+copy-clipboard	: 클립 보드로 복사
+help-range	: 문자의 범위를 표시하려면 클릭
+more	: 더
+prev	: 앞으로
+next	: 뒤로
+separate-page	: 새로운 오픈 페이지
+share-link	: 몫
+# @todo recent	
+# @todo recent-text	
+read-more	: 자세히보기
+read-less	: 숨기기
+	
+	
+[mobile]	
+to-full	: 정식 버전으로 이동
+# @todo to-mobile	
+	
+[edit]	: 편집
+save	: 저장
+submit	: 제출
+undo	: 취소
+send-changes	: 변경 사항은 사이트의 개발로 전송됩니다. 당신은 확실한가요?
+thanks	: 고맙습니다 
+

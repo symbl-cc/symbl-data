@@ -1,0 +1,17 @@
+: 검색 용 문자
+find: 수색
+example: 예
+# phrases separated by ";"
+example-text: 화살표;심장;스타
+h1: 검색
+result: 검색 결과
+empty: 검색 키워드가 비어 있습니다
+total: 전체 결과：%s
+limit: （보기 만 %s）
+none: 아니
+any: 키워드로 검색
+overflow: 미안，U+%s 생산에 여전히 데이터베이스
+unicode-block: 유니 코드 문자열 목록
+count-symbols: %s 상징
+sets: 그룹
+alphabet: 편지

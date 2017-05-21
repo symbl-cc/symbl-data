@@ -1,0 +1,5 @@
+meta-description: 다양한 유니 코드 문자 이름과 설명：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords: unicode, 유니 코드, 기호, 기호, 문자, 유니 코드 표, 문자 집합, 유니 코드 문자 목록, utf-8, 페이퍼 북 문자, 인코딩, 하트 기호, 스크립트, 언어, 이모티콘, 상형 문자, 룬 문자, 화살표 기호, 키릴 문자, 라틴 문자,
+symbol-description: 부호: {{symbol}}, 이름: {{name}}, 유니 코드 번호: {{code}}, 좌석: {{block}}{% if entity %}, 엔티티: {{ entity }}{% endif %}
+symbol-title: 기호, 단어, 심볼, 아이콘
+

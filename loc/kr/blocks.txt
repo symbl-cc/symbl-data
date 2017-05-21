@@ -1,0 +1,261 @@
+control-character : 제어 문자
+basic-latin     : 로마자 기본
+latin-1-supplement : 라틴-1 보충
+latin-extended-a : 로마자 확장 A
+latin-extended-b : 로마자 확장 B
+ipa-extensions  : IPA 확장
+spacing-modifier-letters : 수식 문자
+combining-diacritical-marks : 조합용 발음 구별 부호
+greek-coptic    : 그리스와 콥트 문자
+cyrillic        : 키릴 문자
+cyrillic-supplement : 키릴 문자 보충
+armenian        : 아르메니아 문자
+hebrew          : 히브리 문자
+arabic          : 아랍 문자
+syrian          : 시리아 문자
+arabic-supplement : 아랍 문자 보충
+thaana          : 타나
+nko             : 응코 문자
+samaritan       : 사마리아 문자
+mandaic         : 만다 문자
+arabic-extended-a : 아랍 문자 확장 A
+devanagari      : 데바나가리
+bengali         : 벵골 문자
+gurmukhi        : 굴무키
+gujarati        : 구자라트 문자
+oriya           : 오리야 문자
+tamil           : 타밀 문자
+telugu          : 텔루구 문자
+kannada         : 칸나다 문자
+malayalam       : 말라얄람 문자
+sinhala         : 싱할라 문자
+thai            : 타이 문자
+lao             : 라오 문자
+tibetan         : 티베트 문자
+myanmar         	: 버마의
+georgian        	: 그루지야어 알파벳
+hangul-jamo     	: 말하는 알파벳
+ethiopic        	: 에티오피아
+ethiopic-supplement 	: 에티오피아 보충
+cherokee        	: 체로키 알파벳
+unified-canadian-aboriginal-syllabics 	: 통합 캐나다 원주민 음절
+ogham           	: 오검 문자
+runic           	: 룬 문자 알파벳
+tagalog         	: 타갈로그어 알파벳
+hanunoo         	: 누누
+buhid           	: 부디 텍스트
+tagbanwa        	: 타그 반와
+khmer           	: 크메르어
+mongolian       	: 몽고의
+unified-canadian-aboriginal-syllabics-extended 	: 통합 캐나다 원주민 음절 확장
+limbu           	: 림부
+tai-le          	: Dehong 다이 언어
+new-tai-lue     	: 루 사람들이 새로운 텍스트
+khmer-symbols   	: 크메르 기호
+buginese        	: 부 기어
+tai-tham        	: 타이 탐
+balinese        	: 발리 문자
+sundanese       	: 순다 문자
+batak           	: 바 타크
+lepcha          	: 레프 알파벳
+ol-chiki        	: Ol-chiki
+sundanese-supplement 	: 순다 문자 추가
+vedic-extensions 	: 베다 어
+phonetic-extensions 	: 음성학은 확장
+phonetic-extensions-supplement 	: 음성학 확장 보충
+combining-diacritical-marks-supplement 	: 발음 구별 부호 보충과 결합
+latin-extended-additional 	: 추가 확장 라틴어
+greek-extended  	: 확장 그리스어
+general-punctuation 	: 일반적으로 사용되는 문장 부호
+superscripts-and-subscripts 	: 첨자 및 아래 첨자
+currency-symbols 	: 통화 기호
+combining-diacritical-marks-for-symbols 	: 마크와 함께
+letterlike-symbols 	: 수식 기호 문자
+number-forms    	: 디지털 형태
+arrows          	: 화살
+mathematical-operators 	: 수학 연산자
+miscellaneous-technical 	: 기타 기술
+control-pictures 	: 제어 사진
+optical-character-recognition 	: 광학 문자 인식
+enclosed-alphanumerics 	: 원 또는 괄호 영숫자
+box-drawing     	: 탭
+block-elements  	: 상자 요소
+geometric-shapes 	: 기하학
+miscellaneous-symbols 	: 기타 기호
+dingbats        	: 인쇄상의
+miscellaneous-mathematical-symbols-a 	: 기타 수학 기호-A
+suplemental-arrows-a 	: 기업 화살표-A
+braille-patterns 	: 점자 모델
+suplemental-arrows-b 	: 기업 화살표-B
+miscellaneous-mathematical-symbols-b 	: 기타 수학 기호-B
+supplemental-mathematical-operators 	: 추가 수학 연산자
+miscellaneous-symbols-and-arrows 	: 기타 기호와 화살표
+glagolitic      	: 글라 골 문자
+latin-extended-c 	: 라틴 확장-C
+coptic          	: 콥트 사람의
+georgian-supplement 	: 조지아 보충 문자
+tifinagh        	: 티피 나그
+ethiopic-extended 	: 확장 에티오피아
+cyrillic-extended 	: 확장 키릴
+supplemental-punctuation 	: 기업 구두점
+cjk-radicals-supplement 	: CJK 부수 보충
+kangxi-radicals 	: 강희 과격한
+ideographic-description-characters 	: 표의 문자 설명
+cjk-symbols-and-punctuation 	: CJK 기호 및 구두점
+hiragana        	: 히라가나
+katakana        	: 일본어 가타카나
+bopomofo        	: 소리 나는대로 알파벳
+hangul-compatibility-jamo 	: 한글 알파벳 호환
+kanbun          	: 상형 기호주의 사항
+bopomofo-extended 	: 확장 된 음성 알파벳
+cjk-strokes     	: CJK는 스트로크
+katakana-phonetic-extensions 	: 가타카나 소리 나는대로 확장
+enclosed-cjk-letters-and-months 	: 밴드 CJK 문자와 달
+cjk-compatibility 	: CJK 문자 세트는 호환
+cjk-unified-ideographs-extension-a 	: 한중일 통합 한자 확장
+yijing-hexagram-symbols 	: I 칭 hexagram의 기호
+cjk-unified-ideographs 	: 한중일 통합 한자
+yi-syllables    	: 이순신 음절
+yi-radicals     	: 이순신 언어의 뿌리
+old-lisu-alphabet 	: 이전 리수
+ciryllic-extended-B 	: 키릴 확장-B
+bamum           	: 바뭄 언어
+modifier-tone-letters 	: 톤 수정 편지
+latin-extended-d 	: 라틴 확장-D
+syloty-nagri    	: 실 헤트 텍스트
+indian-numeric-character 	: 인도 수치
+phags-pa        	: 원 총리 Pagba
+saurashtra      	: 사우라 슈트라
+devanagari-extended-characters 	: 데바 나가리 확장
+kayah-li        	: 카야 편지
+rejang          	: 르 생강 언어
+hangul          	: 속담 알파벳 확장
+javanese-alphabet 	: 자바어
+cham-alphabet   	: 타타르어
+burmese-alphabet-extention-a 	: 확장 버마어
+tai-viet-alphabet 	: 베트남 Daiwen
+meitei-language-extensions 	: 마니 푸리 확장
+ethiopic-extended-a 	: 에티오피아
+meitei-language 	: 마니 푸리
+hangul-syllables 	: 한글 음절
+high-surrogates 	: 높은 단어에 작용
+high-private-use-surrogates 	: 전용 면적 높은 단어에 작용
+low-surrogates  	: 하위 워드에 작용
+private-use-area 	: 개인 영역
+cjk-compatibility-ideographs 	: 한중일 호환 용 한자
+alphabetic-presentation-forms 	: 편지의 형태로 표현 (AZ 합자, 합자 아르메니아 문자, 히브리 식)
+arabic-presentation-forms-a 	: 아랍어 표현의 한 형태
+variation-selectors 	: 변형 선택기
+vertical-forms  	: 수직 양식
+combining-half-marks 	: 절반 마크를 결합
+cjk-compatibility-forms 	: CJK 호환성 양식
+small-form-variants 	: 소문자 형태 변화
+arabic-presentation-forms-b 	: 아랍어 표현 B
+halfwidth-and-fullwidth-forms 	: 반 폭 및 전체 폭 양식
+specials        	: 특별한
+Linear-B-Syllabary 	: 선 문자 B 음절 문자
+Linear-B-Ideograms 	: 선 문자 B 표의 문자
+Aegean-Numbers 	: 해를 숫자
+Ancient-Greek-Numbers 	: 고대 그리스 숫자
+Ancient-Symbols 	: 고대 상징
+Phaistos-Disc 	: 파이스 토스 원반 문자
+Lycian 	: 리키아 문자
+Carian 	: 카 리아 문자
+Coptic-Epact-Numbers 	: 콥트 · 에빠쿠토 숫자
+Old-Italic 	: 고대 이탈리아의 문자 (고대 이탈리아의 문자)
+Gothic 	: 고트 문자
+Old-Permic 	: 고대 뻬루무 문자
+Ugaritic 	: 우가리토 문자 (우가 리트 문자)
+Old-Persian 	: 고대 페르시아 문자
+Deseret 	: 데자렛토 문자
+Shavian 	: 세이 비안 문자
+Osmanya 	: 오스마니아 문자
+Elbasan 	: 엘바 산 자
+Caucasian-Albanian 	: 카프카스 · 알바니아 문자
+Linear-A 	: 선 문자 A
+Cypriot-Syllabary 	: 키프로스 음절 문자
+Imperial-Aramaic 	: 아람 문자
+Palmyrene 	: 팔미라 문자
+Nabataean 	: 나바 테아 문자
+Hatran 	: 이빨 호랑이 문자
+Phoenician 	: 페니키아 문자
+Lydian 	: 리디아 문자
+Meroitic-Hieroglyphs 	: 메로 기념비 서체
+Meroitic-Cursive 	: 메로 초서체
+Kharoshthi 	: 카 로슈 티 문자
+Old-South-Arabian 	: 남쪽 아라비아 문자
+Old-North-Arabian 	: 북부 아라비아 문자
+Manichaean 	: 마니 문자
+Avestan 	: 아베스타 문자
+Inscriptional-Parthian 	: 파르티아 문자
+Inscriptional-Pahlavi 	: 빠후라뷔 문자
+Psalter-Pahlavi 	: 聖詠 빠후라뷔 문자
+Old-Turkic 	: 돌궐 문자
+Old-Hungarian 	: 로봐슈 문자
+Rumi-Numeral-Symbols 	: 루미 숫자
+Brahmi 	: 브라 미 문자
+Kaithi 	: 카 이티 문자
+Sora-Sompeng 	: 소라 · 손뻰 문자
+Chakma 	: 챠쿠마 문자
+Mahajani 	: 마하 쟈니 문자
+Sharada 	: 샤라다 문자
+Sinhala-Archaic-Numbers 	: 싱 할라 이전 숫자
+Khojki 	: 호자 문자
+Multani 	: 무루타니 문자
+Khudawadi 	: 후다와디 문자
+Grantha 	: 구란타 문자
+Tirhuta 	: 티루후타 문자
+Siddham 	: 悉曇 문자
+Modi 	: 모디 문자
+Takri 	: 타쿠리 문자
+Ahom 	: 아호무 문자
+Warang-Citi 	: 와란구 · 쿠시티 문자
+Pau-Cin-Hau 	: 파우 틴 하우 문자
+Cuneiform 	: 설형 문자
+Cuneiform-Numbers-and-Punctuation 	: 설형 문자의 숫자 및 구두점
+Early-Dynastic-Cuneiform 	: 수메르 설형 문자
+Egyptian-Hieroglyphs 	: 이집트 상형 문자
+Anatolian-Hieroglyphs 	: 아나톨리아 상형 문자
+Bamum-Supplement 	: 바뭄 문자 보조
+Mro 	: 무로 문자
+Bassa-Vah 	: 바사 문자
+Pahawh-Hmong 	: 빠하우 · 불문 문자
+Miao 	: 폴라드 문자
+Kana-Supplement 	: 가나 문자 보조
+Duployan 	: 듀뿌로와이에 식 속기
+Shorthand-Format-Controls 	: 속기 서식 제어 기호
+Byzantine-Musical-Symbols 	: 비잔틴 음악 기호
+Musical-Symbols 	: 음악 기호
+Ancient-Greek-Musical-Notation 	: 고대 그리스 음자리표
+Tai-Xuan-Jing-Symbols 	: 太玄経 기호
+Counting-Rod-Numerals 	: 산가지 용 숫자
+Mathematical-Alphanumeric-Symbols 	: 수학 용 알파벳 기호
+Sutton-SignWriting 	: 서튼 수화 표기법
+Mende-Kikakui 	: 츠 라이 데 문자
+Arabic-Mathematical-Alphabetic-Symbols 	: 아라비아 수학 용 문자 기호
+Mahjong-Tiles 	: 마작
+Domino-Tiles 	: 도미노 패
+Playing-Cards 	: 트럼프
+Enclosed-Alphanumeric-Supplement 	: 포위 영숫자 보조
+Enclosed-Ideographic-Supplement 	: 포위 표의 문자 보조
+Miscellaneous-Symbols-And-Pictographs 	: 기타 기호 및 이모티콘
+Emoticons 	: 이모티콘
+Ornamental-Dingbats 	: 장식
+Transport-And-Map-Symbols 	: 교통 및지도의 기호
+Alchemical-Symbols 	: 연금술 기호
+Geometric-Shapes-Extended 	: 기하학적 확장
+Supplemental-Arrows-C 	: 보조 화살표 C
+Supplemental-Symbols-and-Pictographs 	: 보조 기호 및 이모티콘
+CJK-Unified-Ideographs-Extension-B 	: CJK 통합 한자 확장 B
+CJK-Unified-Ideographs-Extension-C 	: CJK 통합 한자 확장 C
+CJK-Unified-Ideographs-Extension-D 	: CJK 통합 한자 확장 D
+CJK-Unified-Ideographs-Extension-E 	: CJK 통합 한자 확장 E
+CJK-Compatibility-Ideographs-Supplement 	: CJK 호환 한자 보조
+Tags 	: 태그
+Variation-Selectors-Supplement 	: 자형 선택자 보조
+Supplementary-Private-Use-Area-A 	: 보조 개인 영역 (A)
+Supplementary-Private-Use-Area-B 	: 보조 개인 영역 (B)
+	
+ideographic-symbols-and-punctuation 	: 표의 문자의 구두점 및 기호
+cyrillic-extended-c 	: 키릴 문자 확장 C
+mongolian-supplement 	: 몽골 문자 글자 보조
