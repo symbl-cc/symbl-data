@@ -1,15 +1,15 @@
-1F900:
-1F901:
-1F902:
-1F903:
-1F904:
-1F905:
-1F906:
-1F907:
-1F908:
-1F909:
-1F90A:
-1F90B:
+1F900: Circled Cross Formee With Four Dots
+1F901: Circled Cross Formee With Two Dots
+1F902: Circled Cross Formee
+1F903: Left Half Circle With Four Dots
+1F904: Left Half Circle With Three Dots
+1F905: Left Half Circle With Two Dots
+1F906: Left Half Circle With Dot
+1F907: Left Half Circle
+1F908: Downward Facing Hook
+1F909: Downward Facing Notched Hook
+1F90A: Downward Facing Hook With Dot
+1F90B: Downward Facing Notched Hook With Dot
 1F90C:
 1F90D:
 1F90E:
@@ -29,7 +29,7 @@
 1F91C: Right-Facing Fist
 1F91D: Handshake
 1F91E: Hand with Index and Middle Fingers Crossed
-1F91F:
+1F91F: I Love You Hand Sign
 1F920: Face with Cowboy Hat
 1F921: Clown Face
 1F922: Nauseated Face
@@ -38,17 +38,17 @@
 1F925: Lying Face
 1F926: Face Palm : frustration, disbelief
 1F927: Sneezing Face : gesundheit
-1F928:
-1F929:
-1F92A:
-1F92B:
-1F92C:
-1F92D:
-1F92E:
-1F92F:
+1F928: Face With One Eyebrow Raised
+1F929: Grinning Face With Star Eyes
+1F92A: Grinning Face With One Large And One Small Eye
+1F92B: Face With Finger Covering Closed Lips
+1F92C: Serious Face With Symbols Covering Mouth
+1F92D: Smiling Face With Smiling Eyes And Hand Covering Mouth
+1F92E: Face With Open Mouth Vomiting
+1F92F: Shocked Face With Exploding Head
 1F930: Pregnant Woman
-1F931:
-1F932:
+1F931: Breast-Feeding
+1F932: Palms Up Together
 1F933: Selfie
 1F934: Prince
 1F935: Man In Tuxedo
@@ -74,7 +74,7 @@
 1F949: Third Place Medal : bronze medal
 1F94A: Boxing Glove
 1F94B: Martial Arts Uniform : judo, karate, taekwondo
-1F94C:
+1F94C: Curling Stone
 1F94D:
 1F94E:
 1F94F:
@@ -93,19 +93,19 @@
 1F95C: Peanuts
 1F95D: Kiwifruit
 1F95E: Pancakes : hotcakes, crêpes, blini
-1F95F:
-1F960:
-1F961:
-1F962:
-1F963:
-1F964:
-1F965:
-1F966:
-1F967:
-1F968:
-1F969:
-1F96A:
-1F96B:
+1F95F: Dumpling: potsticker, gyooza, jiaozi, pierogi, empanada
+1F960: Fortune Cookie
+1F961: Takeout Box: take-away box, oyster pail
+1F962: Chopsticks: kuaizi, hashi, jeotgarak
+1F963: Bowl With Spoon
+1F964: Cup With Straw
+1F965: Coconut
+1F966: Broccoli
+1F967: Pie
+1F968: Pretzel
+1F969: Cut Of Meat: porkchop, chop, steak
+1F96A: Sandwich
+1F96B: Canned Food
 1F96C:
 1F96D:
 1F96E:
@@ -144,12 +144,12 @@
 1F98F: Rhinoceros
 1F990: Shrimp
 1F991: Squid
-1F992:
-1F993:
-1F994:
-1F995:
-1F996:
-1F997:
+1F992: Giraffe Face
+1F993: Zebra Face
+1F994: Hedgehog
+1F995: Sauropod
+1F996: T-Rex: Tyrannosaurus rex
+1F997: Cricket
 1F998:
 1F999:
 1F99A:
@@ -206,29 +206,29 @@
 1F9CD:
 1F9CE:
 1F9CF:
-1F9D0:
-1F9D1:
-1F9D2:
-1F9D3:
-1F9D4:
-1F9D5:
-1F9D6:
-1F9D7:
-1F9D8:
-1F9D9:
-1F9DA:
-1F9DB:
-1F9DC:
-1F9DD:
-1F9DE:
-1F9DF:
-1F9E0:
-1F9E1:
-1F9E2:
-1F9E3:
-1F9E4:
-1F9E5:
-1F9E6:
+1F9D0: Face With Monocle
+1F9D1: Adult
+1F9D2: Child
+1F9D3: Older Adult
+1F9D4: Bearded Person
+1F9D5: Person With Headscarf: woman's headscarf, hijab
+1F9D6: Person In Steamy Room: sauna, steam room
+1F9D7: Person Climbing
+1F9D8: Person In Lotus Position: yoga, meditation
+1F9D9: Mage: wizard, witch, sorcerer, sorceress
+1F9DA: Fairy
+1F9DB: Vampire
+1F9DC: Merperson: mermaid, merman
+1F9DD: Elf
+1F9DE: Genie
+1F9DF: Zombie
+1F9E0: Brain
+1F9E1: Orange Heart
+1F9E2: Billed Cap: baseball cap
+1F9E3: Scarf
+1F9E4: Gloves
+1F9E5: Coat
+1F9E6: Socks
 1F9E7:
 1F9E8:
 1F9E9:
@@ -254,3 +254,4 @@
 1F9FD:
 1F9FE:
 1F9FF:
+

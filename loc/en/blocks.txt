@@ -18,6 +18,7 @@ thaana          : Thaana
 nko             : NKo
 samaritan       : Samaritan
 mandaic         : Mandaic
+syriac-supplement: Syriac Supplement
 arabic-extended-a : Arabic Extended-A
 devanagari      : Devanagari
 bengali         : Bengali
@@ -210,9 +211,12 @@ modi : Modi
 mongolian-supplement: Mongolian Supplement
 takri : Takri
 warang-citi : Warang Citi
+zanabazar-square: Zanabazar Square
+soyombo: Soyombo
 pau-cin-hau : Pau Cin Hau
 bhaiksuki: Bhaiksuki
 marchen: Marchen
+masaram-gondi: Masaram Gondi
 cuneiform : Cuneiform
 cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
 egyptian-hieroglyphs : Egyptian Hieroglyphs
@@ -225,6 +229,8 @@ ideographic-symbols-and-punctuation: Ideographic Symbols and Punctuation
 tangut: Tangut
 tangut-components: Tangut Components
 kana-supplement : Kana Supplement
+kana-extended-a: Kana Extended-A
+nushu: Nushu 
 duployan : Duployan
 shorthand-format-controls : Shorthand Format Controls
 byzantine-musical-symbols : Byzantine Musical Symbols
@@ -267,6 +273,7 @@ cjk-unified-ideographs-extension-b: CJK Unified Ideographs Extension B
 cjk-unified-ideographs-extension-c: CJK Unified Ideographs Extension C
 cjk-unified-ideographs-extension-d: CJK Unified Ideographs Extension D
 cjk-unified-ideographs-extension-e: CJK Unified Ideographs Extension E
+cjk-unified-ideographs-extension-f: CJK Unified Ideographs Extension F
 cjk-compatibility-ideographs-supplement: CJK Compatibility Ideographs Supplement
 tags: Tags
 variation-selectors-supplement: Variation Selectors Supplement

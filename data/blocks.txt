@@ -117,6 +117,12 @@
 	type            : alphabet
 	languages       : mandaic
 	countries       :
+	
+[syriac-supplement]
+    diap            : 0860:086F
+	type            :
+	languages       :
+	countries       :    
 
 [arabic-extended-a]
 	diap            : 08A0:08FF
@@ -371,7 +377,7 @@
 	countries       : india, butane, nepal, bangladesh
 
 [cyrillic-extended-c]
-    diap            : 1C80:1C87
+    diap            : 1C80:1C8F
     type            : alphabet
 
 [sundanese-supplement]
@@ -1318,6 +1324,18 @@
     type            :
     languages       :
     countries       :
+    
+[zanabazar-square]
+    diap            : 11A00:11A4F
+    type            :
+    languages       :
+    countries       :    
+
+[soyombo]
+    diap            : 11A50:11AAF
+    type            :
+    languages       :
+    countries       :    
 
 [pau-cin-hau]
     diap            : 11AC0:11AFF
@@ -1330,7 +1348,10 @@
 
 [marchen]
     diap: 11C70:11CBF
-
+    
+[masaram-gondi]
+    diap: 11C70:11CBF    
+    
 [cuneiform]
     diap            : 12000:123FF
     type            :
@@ -1405,6 +1426,18 @@
     type            :
     languages       :
     countries       :
+    
+[kana-extended-a]
+    diap            : 1B100:1B12F
+    type            :
+    languages       :
+    countries       :
+    
+[nushu]
+    diap            : 1B170:1B2FF
+    type            :
+    languages       :
+    countries       :        
 
 [duployan]
     diap            : 1BC00:1BC9F
@@ -1557,28 +1590,34 @@
     countries       :
 
 [cjk-unified-ideographs-extension-b]
-    diap            : 20000:2A6D6
+    diap            : 20000:2A6DF
     type            :
     languages       :
     countries       :
 
 [cjk-unified-ideographs-extension-c]
-    diap            : 2A700:2B734
+    diap            : 2A700:2B73F
     type            :
     languages       :
     countries       :
 
 [cjk-unified-ideographs-extension-d]
-    diap            : 2B740:2B81D
+    diap            : 2B740:2B81F
     type            :
     languages       :
     countries       :
 
 [cjk-unified-ideographs-extension-e]
-    diap            : 2B820:2CEA1
+    diap            : 2B820:2CEAF
     type            :
     languages       :
     countries       :
+    
+[cjk-unified-ideographs-extension-f]
+    diap            : 2CEB0:2EBEF
+    type            :
+    languages       :
+    countries       :    
 
 [cjk-compatibility-ideographs-supplement]
     diap            : 2F800:2FA1F
