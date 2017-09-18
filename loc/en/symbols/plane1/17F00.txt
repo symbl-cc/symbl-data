@@ -1,256 +1,256 @@
-17F00:
-17F01:
-17F02:
-17F03:
-17F04:
-17F05:
-17F06:
-17F07:
-17F08:
-17F09:
-17F0A:
-17F0B:
-17F0C:
-17F0D:
-17F0E:
-17F0F:
-17F10:
-17F11:
-17F12:
-17F13:
-17F14:
-17F15:
-17F16:
-17F17:
-17F18:
-17F19:
-17F1A:
-17F1B:
-17F1C:
-17F1D:
-17F1E:
-17F1F:
-17F20:
-17F21:
-17F22:
-17F23:
-17F24:
-17F25:
-17F26:
-17F27:
-17F28:
-17F29:
-17F2A:
-17F2B:
-17F2C:
-17F2D:
-17F2E:
-17F2F:
-17F30:
-17F31:
-17F32:
-17F33:
-17F34:
-17F35:
-17F36:
-17F37:
-17F38:
-17F39:
-17F3A:
-17F3B:
-17F3C:
-17F3D:
-17F3E:
-17F3F:
-17F40:
-17F41:
-17F42:
-17F43:
-17F44:
-17F45:
-17F46:
-17F47:
-17F48:
-17F49:
-17F4A:
-17F4B:
-17F4C:
-17F4D:
-17F4E:
-17F4F:
-17F50:
-17F51:
-17F52:
-17F53:
-17F54:
-17F55:
-17F56:
-17F57:
-17F58:
-17F59:
-17F5A:
-17F5B:
-17F5C:
-17F5D:
-17F5E:
-17F5F:
-17F60:
-17F61:
-17F62:
-17F63:
-17F64:
-17F65:
-17F66:
-17F67:
-17F68:
-17F69:
-17F6A:
-17F6B:
-17F6C:
-17F6D:
-17F6E:
-17F6F:
-17F70:
-17F71:
-17F72:
-17F73:
-17F74:
-17F75:
-17F76:
-17F77:
-17F78:
-17F79:
-17F7A:
-17F7B:
-17F7C:
-17F7D:
-17F7E:
-17F7F:
-17F80:
-17F81:
-17F82:
-17F83:
-17F84:
-17F85:
-17F86:
-17F87:
-17F88:
-17F89:
-17F8A:
-17F8B:
-17F8C:
-17F8D:
-17F8E:
-17F8F:
-17F90:
-17F91:
-17F92:
-17F93:
-17F94:
-17F95:
-17F96:
-17F97:
-17F98:
-17F99:
-17F9A:
-17F9B:
-17F9C:
-17F9D:
-17F9E:
-17F9F:
-17FA0:
-17FA1:
-17FA2:
-17FA3:
-17FA4:
-17FA5:
-17FA6:
-17FA7:
-17FA8:
-17FA9:
-17FAA:
-17FAB:
-17FAC:
-17FAD:
-17FAE:
-17FAF:
-17FB0:
-17FB1:
-17FB2:
-17FB3:
-17FB4:
-17FB5:
-17FB6:
-17FB7:
-17FB8:
-17FB9:
-17FBA:
-17FBB:
-17FBC:
-17FBD:
-17FBE:
-17FBF:
-17FC0:
-17FC1:
-17FC2:
-17FC3:
-17FC4:
-17FC5:
-17FC6:
-17FC7:
-17FC8:
-17FC9:
-17FCA:
-17FCB:
-17FCC:
-17FCD:
-17FCE:
-17FCF:
-17FD0:
-17FD1:
-17FD2:
-17FD3:
-17FD4:
-17FD5:
-17FD6:
-17FD7:
-17FD8:
-17FD9:
-17FDA:
-17FDB:
-17FDC:
-17FDD:
-17FDE:
-17FDF:
-17FE0:
-17FE1:
-17FE2:
-17FE3:
-17FE4:
-17FE5:
-17FE6:
-17FE7:
-17FE8:
-17FE9:
-17FEA:
-17FEB:
-17FEC:
-17FED:
-17FEE:
-17FEF:
-17FF0:
-17FF1:
-17FF2:
-17FF3:
-17FF4:
-17FF5:
-17FF6:
-17FF7:
-17FF8:
-17FF9:
-17FFA:
-17FFB:
-17FFC:
-17FFD:
-17FFE:
-17FFF:
+17F00: Tangut ideograph L2008-3152
+17F01: Tangut ideograph L2008-3269
+17F02: Tangut ideograph L2008-2200
+17F03: Tangut ideograph L2008-2544
+17F04: Tangut ideograph L2008-2341
+17F05: Tangut ideograph L2008-3434
+17F06: Tangut ideograph L2008-2335
+17F07: Tangut ideograph L2008-2344
+17F08: Tangut ideograph L2008-2546
+17F09: Tangut ideograph L2008-3751
+17F0A: Tangut ideograph L2008-3429
+17F0B: Tangut ideograph L2008-3442
+17F0C: Tangut ideograph L2008-2348
+17F0D: Tangut ideograph L2008-3435-3436
+17F0E: Tangut ideograph L2008-3752
+17F0F: Tangut ideograph L2008-3443
+17F10: Tangut ideograph L2008-2345
+17F11: Tangut ideograph L2008-2814
+17F12: Tangut ideograph L2008-2815
+17F13: Tangut ideograph L2008-2349
+17F14: Tangut ideograph L2008-2336
+17F15: Tangut ideograph L2008-2342
+17F16: Tangut ideograph L2008-2545
+17F17: Tangut ideograph L2008-3433
+17F18: Tangut ideograph L2008-3749
+17F19: Tangut ideograph L2008-2813
+17F1A: Tangut ideograph L2008-3437
+17F1B: Tangut ideograph L2008-2547
+17F1C: Tangut ideograph L2008-2337
+17F1D: Tangut ideograph L2008-2816
+17F1E: Tangut ideograph L2008-3753
+17F1F: Tangut ideograph L2008-3750
+17F20: Tangut ideograph L2008-3438
+17F21: Tangut ideograph L2008-3439
+17F22: Tangut ideograph L2008-3754
+17F23: Tangut ideograph L2008-2338
+17F24: Tangut ideograph L2008-2340
+17F25: Tangut ideograph L2008-3440
+17F26: Tangut ideograph L2008-2346
+17F27: Tangut ideograph L2008-6037
+17F28: Tangut ideograph L2008-2339
+17F29: Tangut ideograph L2008-3441
+17F2A: Tangut ideograph L2008-3430
+17F2B: Tangut ideograph L2008-3748
+17F2C: Tangut ideograph L2008-2343
+17F2D: Tangut ideograph L2008-2347
+17F2E: Tangut ideograph L2008-3431
+17F2F: Tangut ideograph L2008-2433
+17F30: Tangut ideograph L2008-3184
+17F31: Tangut ideograph L2008-2068
+17F32: Tangut ideograph L2008-2804
+17F33: Tangut ideograph L2008-2069
+17F34: Tangut ideograph L2008-2218
+17F35: Tangut ideograph L2008-2635
+17F36: Tangut ideograph L2008-3362
+17F37: Tangut ideograph L2008-2145
+17F38: Tangut ideograph L2008-2077
+17F39: Tangut ideograph L2008-2207
+17F3A: Tangut ideograph L2008-2498
+17F3B: Tangut ideograph L2008-2627
+17F3C: Tangut ideograph L2008-2605
+17F3D: Tangut ideograph L2008-3799
+17F3E: Tangut ideograph L2008-3382
+17F3F: Tangut ideograph L2008-3206
+17F40: Tangut ideograph L2008-3264
+17F41: Tangut ideograph L2008-2871
+17F42: Tangut ideograph L2008-2285
+17F43: Tangut ideograph L2008-2654
+17F44: Tangut ideograph L2008-2461
+17F45: Tangut ideograph L2008-2685
+17F46: Tangut ideograph L2008-3792
+17F47: Tangut ideograph L2008-3667
+17F48: Tangut ideograph L2008-3668
+17F49: Tangut ideograph L2008-3185
+17F4A: Tangut ideograph L2008-2889
+17F4B: Tangut ideograph L2008-3223
+17F4C: Tangut ideograph L2008-3122
+17F4D: Tangut ideograph L2008-2799A
+17F4E: Tangut ideograph L2008-2799B
+17F4F: Tangut ideograph L2008-2237
+17F50: Tangut ideograph L2008-2199
+17F51: Tangut ideograph L2008-3309
+17F52: Tangut ideograph L2008-2137
+17F53: Tangut ideograph L2008-2154
+17F54: Tangut ideograph L2008-3721
+17F55: Tangut ideograph L2008-2780
+17F56: Tangut ideograph L2008-3291
+17F57: Tangut ideograph L2008-3290
+17F58: Tangut ideograph L2008-3387
+17F59: Tangut ideograph L2008-2741
+17F5A: Tangut ideograph L2008-2773
+17F5B: Tangut ideograph L2008-3136
+17F5C: Tangut ideograph L2008-3293
+17F5D: Tangut ideograph L2008-3632
+17F5E: Tangut ideograph L2008-3666
+17F5F: Tangut ideograph L2008-3169
+17F60: Tangut ideograph L2008-3689
+17F61: Tangut ideograph L2008-2674
+17F62: Tangut ideograph L2008-3137
+17F63: Tangut ideograph L2008-3328
+17F64: Tangut ideograph L2008-2153
+17F65: Tangut ideograph L2008-2121
+17F66: Tangut ideograph L2008-2482
+17F67: Tangut ideograph L2008-2758
+17F68: Tangut ideograph L2008-3203
+17F69: Tangut ideograph L2008-3108
+17F6A: Tangut ideograph L2008-2122
+17F6B: Tangut ideograph L2008-2765
+17F6C: Tangut ideograph L2008-2861
+17F6D: Tangut ideograph L2008-3601
+17F6E: Tangut ideograph L2008-3669
+17F6F: Tangut ideograph L2008-2483
+17F70: Tangut ideograph L2008-2138
+17F71: Tangut ideograph L2008-3390
+17F72: Tangut ideograph L2008-2181
+17F73: Tangut ideograph L2008-2887
+17F74: Tangut ideograph L2008-3292
+17F75: Tangut ideograph L2008-3138
+17F76: Tangut ideograph L2008-3358
+17F77: Tangut ideograph L2008-2085
+17F78: Tangut ideograph L2008-3321
+17F79: Tangut ideograph L2008-2450
+17F7A: Tangut ideograph L2008-3177
+17F7B: Tangut ideograph L2008-2673
+17F7C: Tangut ideograph L2008-3584
+17F7D: Tangut ideograph L2008-2598
+17F7E: Tangut ideograph L2008-2585
+17F7F: Tangut ideograph L2008-2632
+17F80: Tangut ideograph L2008-2576
+17F81: Tangut ideograph L2008-6035
+17F82: Tangut ideograph L2008-2599
+17F83: Tangut ideograph L2008-2692
+17F84: Tangut ideograph L2008-2658
+17F85: Tangut ideograph L2008-2593
+17F86: Tangut ideograph L2008-3087
+17F87: Tangut ideograph L2008-3242
+17F88: Tangut ideograph L2008-3294
+17F89: Tangut ideograph L2008-3186
+17F8A: Tangut ideograph L2008-2252-2253
+17F8B: Tangut ideograph L2008-2742
+17F8C: Tangut ideograph L2008-3645
+17F8D: Tangut ideograph L2008-3204
+17F8E: Tangut ideograph L2008-3243
+17F8F: Tangut ideograph L2008-3109
+17F90: Tangut ideograph L2008-2238
+17F91: Tangut ideograph L2008-2254
+17F92: Tangut ideograph L2008-2070
+17F93: Tangut ideograph L2008-2079
+17F94: Tangut ideograph L2008-2449
+17F95: Tangut ideograph L2008-3295
+17F96: Tangut ideograph L2008-2628
+17F97: Tangut ideograph L2008-3670
+17F98: Tangut ideograph L2008-3625
+17F99: Tangut ideograph L2008-3800
+17F9A: Tangut ideograph L2008-3671
+17F9B: Tangut ideograph L2008-2855
+17F9C: Tangut ideograph L2008-2186
+17F9D: Tangut ideograph L2008-2086
+17F9E: Tangut ideograph L2008-2440
+17F9F: Tangut ideograph L2008-3310
+17FA0: Tangut ideograph L2008-2470
+17FA1: Tangut ideograph L2008-2462
+17FA2: Tangut ideograph L2008-2675
+17FA3: Tangut ideograph L2008-2655
+17FA4: Tangut ideograph L2008-3600
+17FA5: Tangut ideograph L2008-3683-3684
+17FA6: Tangut ideograph L2008-2759
+17FA7: Tangut ideograph L2008-3296
+17FA8: Tangut ideograph L2008-2890
+17FA9: Tangut ideograph L2008-2800
+17FAA: Tangut ideograph L2008-2519
+17FAB: Tangut ideograph L2008-2621
+17FAC: Tangut ideograph L2008-2208
+17FAD: Tangut ideograph L2008-2239
+17FAE: Tangut ideograph L2008-2087
+17FAF: Tangut ideograph L2008-2657
+17FB0: Tangut ideograph N1966-211-078
+17FB1: Tangut ideograph L2008-2781
+17FB2: Tangut ideograph L2008-2209
+17FB3: Tangut ideograph L2008-2760
+17FB4: Tangut ideograph L2008-3224
+17FB5: Tangut ideograph L2008-2615
+17FB6: Tangut ideograph L2008-3808
+17FB7: Tangut ideograph L2008-3110
+17FB8: Tangut ideograph L2008-2868
+17FB9: Tangut ideograph L2008-2175
+17FBA: Tangut ideograph L2008-3690
+17FBB: Tangut ideograph L2008-2146
+17FBC: Tangut ideograph L2008-6032
+17FBD: Tangut ideograph L2008-2451
+17FBE: Tangut ideograph L2008-2499
+17FBF: Tangut ideograph L2008-3160
+17FC0: Tangut ideograph L2008-2107
+17FC1: Tangut ideograph L2008-2454
+17FC2: Tangut ideograph L2008-3579
+17FC3: Tangut ideograph L2008-3633
+17FC4: Tangut ideograph L2008-2791
+17FC5: Tangut ideograph L2008-3657
+17FC6: Tangut ideograph L2008-2210
+17FC7: Tangut ideograph L2008-2766
+17FC8: Tangut ideograph L2008-3626
+17FC9: Tangut ideograph L2008-3673
+17FCA: Tangut ideograph L2008-3322
+17FCB: Tangut ideograph L2008-2165
+17FCC: Tangut ideograph L2008-3297
+17FCD: Tangut ideograph L2008-3698
+17FCE: Tangut ideograph L2008-2761
+17FCF: Tangut ideograph L2008-3251
+17FD0: Tangut ideograph L2008-2241
+17FD1: Tangut ideograph L2008-3571
+17FD2: Tangut ideograph L2008-2893
+17FD3: Tangut ideograph L2008-2240
+17FD4: Tangut ideograph L2008-2139
+17FD5: Tangut ideograph L2008-3635
+17FD6: Tangut ideograph L2008-3323
+17FD7: Tangut ideograph L2008-2656
+17FD8: Tangut ideograph L2008-3127
+17FD9: Tangut ideograph L2008-3254
+17FDA: Tangut ideograph L2008-2856
+17FDB: Tangut ideograph L2008-3672
+17FDC: Tangut ideograph L2008-3170
+17FDD: Tangut ideograph L2008-2669
+17FDE: Tangut ideograph L2008-3312
+17FDF: Tangut ideograph L2008-2255
+17FE0: Tangut ideograph L2008-2242
+17FE1: Tangut ideograph L2008-2873
+17FE2: Tangut ideograph L2008-2806
+17FE3: Tangut ideograph L2008-3111
+17FE4: Tangut ideograph L2008-2260
+17FE5: Tangut ideograph L2008-2140
+17FE6: Tangut ideograph L2008-3334
+17FE7: Tangut ideograph L2008-3612
+17FE8: Tangut ideograph L2008-3647
+17FE9: Tangut ideograph L2008-3324
+17FEA: Tangut ideograph L2008-2762
+17FEB: Tangut ideograph L2008-3709
+17FEC: Tangut ideograph L2008-3694
+17FED: Tangut ideograph L2008-3171
+17FEE: Tangut ideograph L2008-3311
+17FEF: Tangut ideograph L2008-3298
+17FF0: Tangut ideograph L2008-3359
+17FF1: Tangut ideograph L2008-2266
+17FF2: Tangut ideograph L2008-2115
+17FF3: Tangut ideograph L2008-3589
+17FF4: Tangut ideograph L2008-3608
+17FF5: Tangut ideograph L2008-2767
+17FF6: Tangut ideograph L2008-2114
+17FF7: Tangut ideograph L2008-3126
+17FF8: Tangut ideograph L2008-3703
+17FF9: Tangut ideograph L2008-2261
+17FFA: Tangut ideograph L2008-2288
+17FFB: Tangut ideograph L2008-2267
+17FFC: Tangut ideograph L2008-2262
+17FFD: Tangut ideograph L2008-2270
+17FFE: Tangut ideograph L2008-2268
+17FFF: Tangut ideograph L2008-2463
