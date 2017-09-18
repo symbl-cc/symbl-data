@@ -1,17 +1,17 @@
-20000: Ideograph the sound made by breathing in; oh! (cf. U+311B BOPOMOFO LETTER O, which is derived from this character) : hē
-20001: Ideograph the original form for 七 U+4E03 : qī : cat1
+20000: Ideograph the sound made by breathing in; oh! (cf. U+311B BOPOMOFO LETTER O, which is derived from this character) CJK : hē
+20001: Ideograph the original form for 七 U+4E03 CJK : cat1 : qī
 20002:
 20003: Ideograph qiě
 20004:
-20005: Ideograph an alternate form of U+4EA5 亥 : hài : hoi6
+20005: Ideograph an alternate form of U+4EA5 亥 CJK : hoi6 : hài
 20006:
 20007:
 20008:
-20009: Ideograph (the same as U+4E18 丘) a hill; elder; empty; a name : qiū : jau1
+20009: Ideograph (the same as U+4E18 丘) a hill; elder; empty; a name CJK : jau1 : qiū
 2000A: Ideograph cāo
 2000B:
 2000C:
-2000D: Ideograph (same as U+4E16 世) generation; world; era : shì : sai3
+2000D: Ideograph (same as U+4E16 世) generation; world; era CJK : sai3 : shì
 2000E:
 2000F:
 20010:
@@ -19,9 +19,9 @@
 20012:
 20013: Ideograph sī
 20014: Ideograph jué
-20015: Ideograph Variant of U+4E99 亙
-20016: Ideograph 
-20017: Ideograph 
+20015: Ideograph Variant of U+4E99 亙 CJK
+20016: Ideograph
+20017: Ideograph
 20018:
 20019:
 2001A:
@@ -37,20 +37,20 @@
 20024:
 20025:
 20026: Ideograph xíng
-20027: Ideograph 
-20028: Ideograph 
+20027: Ideograph
+20028: Ideograph
 20029:
-2002A: Ideograph 
-2002B: Ideograph 
+2002A: Ideograph
+2002B: Ideograph
 2002C:
 2002D:
 2002E:
 2002F:
 20030:
 20031: Ideograph mǒu
-20032: Ideograph 
-20033: Ideograph 
-20034: Ideograph 
+20032: Ideograph
+20033: Ideograph
+20034: Ideograph
 20035:
 20036:
 20037: Ideograph jī
@@ -61,12 +61,12 @@
 2003C: Ideograph qián
 2003D: Ideograph lù
 2003E: Ideograph bui5
-2003F: Ideograph 
-20040: Ideograph 
-20041: Ideograph a flagon
-20042: Ideograph 
+2003F: Ideograph
+20040: Ideograph
+20041: Ideograph a flagon CJK
+20042: Ideograph
 20043:
-20044: Ideograph 
+20044: Ideograph
 20045:
 20046: Ideograph bik6
 20047:
@@ -79,32 +79,32 @@
 2004E: Ideograph lin4
 2004F:
 20050:
-20051: Ideograph 
+20051: Ideograph
 20052:
 20053:
-20054: Ideograph 
+20054: Ideograph
 20055:
 20056:
 20057: Ideograph shì
 20058:
-20059: Ideograph 
-2005A: Ideograph 
+20059: Ideograph
+2005A: Ideograph
 2005B:
 2005C:
-2005D: Ideograph 
+2005D: Ideograph
 2005E:
-2005F: Ideograph 
+2005F: Ideograph
 20060: Ideograph qiè
 20061:
 20062:
 20063:
 20064:
-20065: Ideograph the horns of a sheep : gǎ
+20065: Ideograph the horns of a sheep CJK : gǎ
 20066:
 20067:
 20068: Ideograph cung1
 20069:
-2006A: Ideograph 
+2006A: Ideograph
 2006B:
 2006C:
 2006D: Ideograph qí
@@ -115,13 +115,13 @@
 20072:
 20073:
 20074:
-20075: Ideograph 
+20075: Ideograph
 20076:
 20077: Ideograph chǎn
-20078: Ideograph 
-20079: Ideograph 
-2007A: Ideograph 
-2007B: Ideograph 
+20078: Ideograph
+20079: Ideograph
+2007A: Ideograph
+2007B: Ideograph
 2007C:
 2007D:
 2007E:
@@ -140,13 +140,13 @@
 2008B:
 2008C:
 2008D:
-2008E: Ideograph 
+2008E: Ideograph
 2008F:
 20090:
 20091: Ideograph zōu
 20092:
 20093:
-20094: Ideograph to stop : zǐ : zi2
+20094: Ideograph to stop CJK : zi2 : zǐ
 20095:
 20096:
 20097:
@@ -155,21 +155,21 @@
 2009A:
 2009B:
 2009C:
-2009D: Ideograph every, all; a multitude : zung3
+2009D: Ideograph every, all; a multitude CJK : zung3
 2009E:
 2009F: Ideograph jīn
 200A0:
 200A1:
-200A2: Ideograph to branch : pài
+200A2: Ideograph to branch CJK : pài
 200A3:
-200A4: Ideograph to store up, to pile up : duī : deoi1
+200A4: Ideograph to store up, to pile up CJK : deoi1 : duī
 200A5: Ideograph cóng
 200A6:
 200A7: Ideograph shèn
 200A8:
 200A9:
-200AA: Ideograph 
-200AB: Ideograph 
+200AA: Ideograph
+200AB: Ideograph
 200AC:
 200AD:
 200AE:
@@ -195,7 +195,7 @@
 200C2:
 200C3:
 200C4:
-200C5: Ideograph 
+200C5: Ideograph
 200C6:
 200C7:
 200C8:
@@ -219,25 +219,25 @@
 200DA:
 200DB:
 200DC:
-200DD: Ideograph 
+200DD: Ideograph
 200DE:
 200DF:
 200E0:
 200E1:
 200E2:
-200E3: Ideograph 
+200E3: Ideograph
 200E4:
 200E5:
 200E6:
 200E7:
 200E8:
-200E9: Ideograph 
+200E9: Ideograph
 200EA:
 200EB: Ideograph shēn
 200EC:
 200ED:
 200EE: Ideograph tam5
-200EF: Ideograph 
+200EF: Ideograph
 200F0:
 200F1:
 200F2:
@@ -245,7 +245,7 @@
 200F4:
 200F5:
 200F6:
-200F7: Ideograph 
+200F7: Ideograph
 200F8:
 200F9:
 200FA: Ideograph jiù

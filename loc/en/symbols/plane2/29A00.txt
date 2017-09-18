@@ -22,7 +22,7 @@
 29A15:
 29A16:
 29A17: Ideograph yú
-29A18: Ideograph arm, side : qì
+29A18: Ideograph arm, side CJK : qì
 29A19: Ideograph yú
 29A1A: Ideograph wā
 29A1B:
@@ -43,7 +43,7 @@
 29A2A:
 29A2B: Ideograph kǔn
 29A2C: Ideograph gǔn
-29A2D: Ideograph stiffness in the joints : quē
+29A2D: Ideograph stiffness in the joints CJK : quē
 29A2E: Ideograph è
 29A2F: Ideograph qióng
 29A30:
@@ -58,7 +58,7 @@
 29A39: Ideograph jiǎ
 29A3A:
 29A3B: Ideograph zhǔ
-29A3C: Ideograph 
+29A3C: Ideograph
 29A3D: Ideograph duī
 29A3E: Ideograph wá
 29A3F:
@@ -69,13 +69,13 @@
 29A44: Ideograph yán
 29A45: Ideograph tóng
 29A46:
-29A47: Ideograph 
+29A47: Ideograph
 29A48:
 29A49:
 29A4A:
 29A4B: Ideograph xíng
 29A4C: Ideograph gǔn
-29A4D: Ideograph (Cant.) ribs, rib-cage : pīng : peng1
+29A4D: Ideograph (Cant.) ribs, rib-cage CJK : peng1 : pīng
 29A4E:
 29A4F:
 29A50:
@@ -84,7 +84,7 @@
 29A53:
 29A54: Ideograph zhuó
 29A55:
-29A56: Ideograph 
+29A56: Ideograph
 29A57: Ideograph shē
 29A58: Ideograph yǔ
 29A59:
@@ -103,10 +103,10 @@
 29A66:
 29A67: Ideograph dàn
 29A68:
-29A69: Ideograph 
-29A6A: Ideograph 
-29A6B: Ideograph 
-29A6C: Ideograph 
+29A69: Ideograph
+29A6A: Ideograph
+29A6B: Ideograph
+29A6C: Ideograph
 29A6D:
 29A6E: Ideograph dù
 29A6F: Ideograph biàn
@@ -125,7 +125,7 @@
 29A7C: Ideograph yǎo
 29A7D:
 29A7E: Ideograph kāo
-29A7F: Ideograph 
+29A7F: Ideograph
 29A80: Ideograph zhuī
 29A81: Ideograph guì
 29A82: Ideograph ái
@@ -149,14 +149,14 @@
 29A94:
 29A95:
 29A96: Ideograph bì
-29A97: Ideograph tailbones, the coccyx : jué
+29A97: Ideograph tailbones, the coccyx CJK : jué
 29A98: Ideograph chuáng
 29A99:
 29A9A:
 29A9B: Ideograph pú
 29A9C:
 29A9D:
-29A9E: Ideograph 
+29A9E: Ideograph
 29A9F: Ideograph yì
 29AA0:
 29AA1:
@@ -179,7 +179,7 @@
 29AB2:
 29AB3:
 29AB4: Ideograph yàn
-29AB5: Ideograph 
+29AB5: Ideograph
 29AB6:
 29AB7:
 29AB8: Ideograph lì
@@ -187,7 +187,7 @@
 29ABA: Ideograph tán
 29ABB:
 29ABC:
-29ABD: Ideograph 
+29ABD: Ideograph
 29ABE: Ideograph luán
 29ABF:
 29AC0: Ideograph kài
@@ -217,7 +217,7 @@
 29AD8:
 29AD9:
 29ADA:
-29ADB: Ideograph 
+29ADB: Ideograph
 29ADC:
 29ADD:
 29ADE:
