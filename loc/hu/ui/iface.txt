@@ -1,28 +1,31 @@
 up: Fel
-range: Tartomány
-loading: Töltés...
+range: Hatótávolság
+loading: Betöltés, kérlek, várj...
 count: Karakterek száma
 sort-order: Rend szerint
-sort-block: Blokkonként
+sort-block: Blokk szerint
 copy-clipboard: Másolás a vágólapra
-help-range: Nyomj ide, hogy a tartomány kiemelődjön
+help-range: Kattintással kijelölheti a tartományt
 more: Több
 prev: Előző
 next: Következő
-separate-page: Megnyitás egy külön lapon
-share-link: Megosztom
-# @todo recent
-# @todo recent-text
+separate-page: Nyissa meg külön oldalon
+share-link: Oszd meg a barátaiddal
+recent: Friss
+recent-text: Itt megjelenik a közelmúltban használt szimbólumok. Eddig nézze meg a népszerű szimbólumokat
 read-more: Olvass tovább
 read-less: Elrejt
+madeby: Készítette
+keepupdates: Kövess minket
+hint: Jelölje ki és másolja a kívánt karaktert
 
 [mobile]
-to-full: Ugrás a teljes verzióra
-# @todo to-mobile
+to-full: Teljes verzió
+to-mobile: Mobil verzió
 
 [edit]: Szerkesztés
 save: Mentés
 submit: Elküldés
 undo: Visszavonás
-send-changes: A változtatások a fejlesztőknek lesznek elküldve. Biztos vagy benne?
+send-changes: A módosításokat elküldjük a webhely fejlesztőinek. Biztos vagy ebben?
 thanks: Köszönjük!
