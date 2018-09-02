@@ -1,5 +1,5 @@
 : Karakter keresése
-find: Keress
+find: Keresés
 example: Példa
 # phrases separated by ";"
 example-text: kalapács és kasza;nyíl;szív;csillag;háromszög;pipa;karika;kereszt;négyzet;golyó
@@ -7,7 +7,7 @@ h1: Keresés
 result: Eredmény
 empty: A keresőmező üres
 total: Teljes: %s
-limit: (csak %s -et mutat)
+limit: (csak %s-et mutat)
 none: Semmi
 any: Keresés bármely szóból
 overflow: Elnézést, a U+%s-s szimbólum fejlesztés alatt áll :)

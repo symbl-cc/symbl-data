@@ -1,24 +1,23 @@
-# @todo title
+title: Unicode® karakter tábla
 
-[sets]: Karakterkészlet
+[sets]: Készletek
 set: Beállítás
 list: Karakterkészlet
 
-[blocks]: Unicode blokkok
+[blocks]: Blokkok
 block: Blokk
 blocks: Unicode blokkok
 
 [languages]: Nyelvek
 list: Nyelv
-blocks: Nyelvblokk
+blocks: Nyelvblokkok
 
 [countries]: Országok
 list: Országok
 
 [alphabets]: ábécé
-# @todo list
+list: ábécé
 
 [types]
-# todo type
+type: típus
 list: Típusok
-
