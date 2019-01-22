@@ -95,7 +95,7 @@ latin-extended-c 	: 라틴 확장-C
 coptic          	: 콥트 사람의
 georgian-supplement 	: 조지아 보충 문자
 tifinagh        	: 티피 나그
-ethiopic-extended 	: 확장 에티오피아
+ethiopic-extended 	: 에티오피아 확장
 cyrillic-extended 	: 확장 키릴
 supplemental-punctuation 	: 기업 구두점
 cjk-radicals-supplement 	: CJK 부수 보충
@@ -135,7 +135,7 @@ cham-alphabet   	: 타타르어
 burmese-alphabet-extention-a 	: 확장 버마어
 tai-viet-alphabet 	: 베트남 Daiwen
 meitei-language-extensions 	: 마니 푸리 확장
-ethiopic-extended-a 	: 에티오피아
+ethiopic-extended-a 	: 에티오피아 확장-A
 meitei-language 	: 마니 푸리
 hangul-syllables 	: 한글 음절
 high-surrogates 	: 높은 단어에 작용
