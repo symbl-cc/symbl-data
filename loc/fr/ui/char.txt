@@ -7,3 +7,7 @@ html-code: <span class="caps">HTML</span>-code
 uppercase: majuscule
 lowercase: minuscules
 encoding: Codage
+copy: Copiez et collez le symbole
+copy_button: Copie
+copy_done: Copié!
+version: Version Unicode

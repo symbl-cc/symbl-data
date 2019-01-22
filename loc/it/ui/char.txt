@@ -9,3 +9,7 @@ lowercase	: Minuscolo
 encoding	: Codifica
 related	: Personaggi correlati
 tech-info	: Informazioni tecniche
+copy: Copia e incolla il simbolo
+copy_button: Copia
+copy_done: Copiato!
+version: Versione Unicode

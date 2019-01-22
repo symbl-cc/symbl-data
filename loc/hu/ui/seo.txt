@@ -1,4 +1,7 @@
 meta-description: Minden Unicode szimbólum, amelynek nevét és leírását egy oldalon: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
 meta-keywords: unicode, jelek, szimbólumok, karakterek, unicode tábla, karakterkészlet, unicód karakterek listája, utf-8, facebook karakterek, kódolás, szív jel, szkript, nyelvek, emoji, hieroglyphs, rúnák, nyíl szimbólumok, cirill, latin, pénznem szimbólumok
-symbol-description: Szimbólum: {{symbol}}, Név: {{name}}, Unicode szám: {{code}}, Blokk: {{block}}{% if entity %}, Egység: {{ entity }}{% endif %}
-symbol-title: szimbólum, karakter, jel, ikon
+symbol-description: Szimbólum: {{symbol}}, Név: {{name}}, Unicode szám: {{code}}, Blokk: {{block}}
+
+emoji: hangulatjel
+copy: másolat
+symbol: jel, ikon

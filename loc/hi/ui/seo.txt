@@ -1,4 +1,7 @@
 meta-description: एक ही पृष्ठ पर सभी यूनिकोड वर्ण: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
 meta-keywords: यूनिकोड, वर्ण, प्रतीकों, मेज, UTF-8, कोडिंग, लेखन, भाषाओं, emodzhi, इमोजी, वर्ण, तीर, दिल, सिरिलिक, मुद्रा प्रतीकों
-symbol-description: प्रतीक: {{symbol}}, नाम: {{name}}, यूनिकोड नंबर: {{code}}, खंड: {{block}}{% if entity %}, सत्ता: {{ entity }}{% endif %}
-symbol-title: प्रतीक, चरित्र, हस्ताक्षर, आइकन
+symbol-description: प्रतीक: {{symbol}}, नाम: {{name}}, यूनिकोड नंबर: {{code}}, खंड: {{block}}
+
+emoji: इमोजी
+copy: प्रतिलिपि
+symbol: साइन, आइकन

@@ -9,3 +9,7 @@ lowercase	: Küçük harf
 encoding	: Kodlama
 related	: İlgili karakterler
 tech-info	: Teknik Bilgiler
+copy: Sembolü kopyalayıp yapıştırın
+copy_button: Kopya
+copy_done: Kopyalanan!
+version: Unicode sürümü

@@ -8,3 +8,7 @@ uppercase	: 首都
 lowercase	: 小文字
 encoding	: コーディング
 related	: 関連文字
+copy: シンボルをコピー＆ペーストする
+copy_button: コピー
+copy_done: コピーされた!
+version: Unicodeバージョン

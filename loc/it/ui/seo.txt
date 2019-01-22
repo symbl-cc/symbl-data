@@ -1,4 +1,6 @@
 meta-description: Tutti i simboli Unicode con nomi e descrizioni su una pagina: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
 meta-keywords: unicode, segni, simboli, caratteri, tavolo unicode, set di caratteri, elenco di caratteri Unicode, UTF-8, i caratteri facebook, la codifica, il simbolo del cuore, lo script, lingue, emoji, geroglifici, rune, simboli delle frecce, cirillico, latino, simboli di valuta
-symbol-description: Symbol: {{symbol}}, Name: {{name}}, Unicode number: {{code}}, Block: {{block}}{% if entity %}, Entity: {{ entity }}{% endif %}
-symbol-title: simbolo, il carattere, segno, icona
+
+emoji: emoji
+copy: copia
+symbol: segno, icona

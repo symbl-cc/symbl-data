@@ -9,4 +9,7 @@ lowercase	: लोअरकेस
 encoding	: एन्कोडिंग
 related	: संबंधित पात्रों
 tech-info	: तकनीकी जानकारी 
-
+copy: प्रतीक कॉपी और पेस्ट करें
+copy_button: प्रतिलिपि
+copy_done: कॉपी किया गया!
+version: यूनिकोड संस्करण

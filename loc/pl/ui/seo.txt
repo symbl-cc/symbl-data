@@ -1,5 +1,7 @@
 meta-description: Na tej samej stronie, wszystkie znaki Unicode z ich nazwami i opisami: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
 meta-keywords: Unicode, znaków, symboli, stół, UTF-8, znaki portalu VKontakte, kodowanie, pisanie, języki, emodzhi, emotikon, znaków, runy, strzałki, serc, cyrylicy, symbole walut
-symbol-description: Symbol: {{symbol}}, Nazwa: {{name}}, Ilość Unicode: {{code}}, Sekcja: {{block}}{% if entity %}, mnemonika: {{ entity }}{% endif %}
-symbol-title: symbol, znak, ikona
+symbol-description: Symbol: {{symbol}}, Nazwa: {{name}}, Ilość Unicode: {{code}}, Sekcja: {{block}}
 
+emoji: emoji
+copy: kopiuj
+symbol: znak, ikona

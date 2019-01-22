@@ -1,7 +1,8 @@
 entity: Мнемоника
 your-browser: Ваш браузер
-font-view: Начертание этого символа в разных шрифтах
+font-view: Начертание символа &laquo;{{ name }}&raquo; в&nbsp;разных шрифтах
 char-desc: Описание символа
+unicode-name: Название в Юникоде
 unicode-number: Номер в Юникоде
 html-code: <span class="caps">HTML</span>-код
 uppercase: Прописная
@@ -9,3 +10,7 @@ lowercase: Строчная
 encoding: Кодировка
 related: Связанные символы
 tech-info: Техническая информация
+copy: Копировать и вставить этот символ
+copy_button: Копировать
+copy_done: Скопировано!
+version: Версия Юникода

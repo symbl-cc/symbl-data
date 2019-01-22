@@ -11,6 +11,7 @@ broken: Some characters not displaying
 cyrillic: Cyrillic
 fonts: Fonts
 alphabets: Alphabets
+language: Language
 
 [unicode]: Unicode®
 about: About Unicode

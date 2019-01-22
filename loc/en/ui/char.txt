@@ -1,7 +1,8 @@
 entity: Entity
 your-browser: Your browser
-font-view: Inscription of the character in different fonts
+font-view: Inscription of the character &quot;{{ name }}&quot; in different fonts
 char-desc: Character description
+unicode-name: Name
 unicode-number: Unicode number
 html-code: <span class="caps">HTML</span>-code
 uppercase: Uppercase
@@ -9,3 +10,7 @@ lowercase: Lowercase
 encoding: Encoding
 related: Related characters
 tech-info: Technical information
+copy: Copy and paste the symbol
+copy_button: Copy
+copy_done: Copied!
+version: Unicode version
