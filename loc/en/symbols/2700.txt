@@ -1,14 +1,14 @@
 2700: Black Safety Scissors
 2701: Upper Blade Scissors
-2702: Black Scissors
+2702: Black Scissors : cutting
 2703: Lower Blade Scissors
 2704: White Scissors
-2705: White Heavy Check Mark
+2705: White Heavy Check Mark : green tick
 2706: Telephone Location Sign
 2707: Tape Drive
-2708: Airplane
-2709: Envelope : email
-270A: Raised Fist : rock in rock, paper, scissors game
+2708: Airplane : aeroplane, flight, flying
+2709: Envelope : email, letter
+270A: Raised Fist : rock in rock, paper, scissors game, fist pump
 270B: Raised Hand : paper in rock, paper, scissors game
 270C: Victory Hand : scissors in rock, paper, scissors game
 270D: Writing Hand
@@ -16,18 +16,18 @@
 270F: Pencil
 2710: Upper Right Pencil
 2711: White Nib
-2712: Black Nib
-2713: Check Mark
-2714: Heavy Check Mark
+2712: Black Nib : pen nib, fountain pen 
+2713: Check Mark : tick
+2714: Heavy Check Mark : tick
 2715: Multiplication X
-2716: Heavy Multiplication X
+2716: Heavy Multiplication X : cross
 2717: Ballot X
 2718: Heavy Ballot X
 2719: Outlined Greek Cross
 271A: Heavy Greek Cross
 271B: Open Centre Cross
 271C: Heavy Open Centre Cross
-271D: Latin Cross
+271D: Latin Cross : christian cross
 271E: Shadowed White Latin Cross
 271F: Outlined Latin Cross
 2720: Maltese Cross
@@ -36,27 +36,27 @@
 2723: Four Balloon-Spoked Asterisk
 2724: Heavy Four Balloon-Spoked Asterisk
 2725: Four Club-Spoked Asterisk
-2726: Black Four Pointed Star
-2727: White Four Pointed Star
-2728: Sparkles
+2726: Black Four Pointed Star : New Year, Christmas
+2727: White Four Pointed Star : New Year, Christmas
+2728: Sparkles : Shine, stars : New Year, Christmas
 2729: Stress Outlined White Star
-272A: Circled White Star
-272B: Open Centre Black Star
+272A: Circled White Star : New Year, Christmas
+272B: Open Centre Black Star : New Year, Christmas
 272C: Black Centre White Star
 272D: Outlined Black Star
 272E: Heavy Outlined Black Star
-272F: Pinwheel Star
+272F: Pinwheel Star : New Year, Christmas
 2730: Shadowed White Star
-2731: Heavy Asterisk
-2732: Open Centre Asterisk
-2733: Eight Spoked Asterisk
-2734: Eight Pointed Black Star
-2735: Eight Pointed Pinwheel Star
-2736: Six Pointed Black Star : sextile
-2737: Eight Pointed Rectilinear Black Star
-2738: Heavy Eight Pointed Rectilinear Black Star
-2739: Twelve Pointed Black Star
-273A: Sixteen Pointed Asterisk : starburst
+2731: Heavy Asterisk : New Year, Christmas
+2732: Open Centre Asterisk : New Year, Christmas
+2733: Eight Spoked Asterisk : New Year, Christmas
+2734: Eight Pointed Black Star : Orange star, four pointed X pattern : New Year, Christmas
+2735: Eight Pointed Pinwheel Star : New Year, Christmas
+2736: Six Pointed Black Star : sextile : New Year, Christmas
+2737: Eight Pointed Rectilinear Black Star : New Year, Christmas
+2738: Heavy Eight Pointed Rectilinear Black Star : New Year, Christmas
+2739: Twelve Pointed Black Star : New Year, Christmas
+273A: Sixteen Pointed Asterisk : starburst : New Year, Christmas
 273B: Teardrop-Spoked Asterisk
 273C: Open Centre Teardrop-Spoked Asterisk
 273D: Heavy Teardrop-Spoked Asterisk
@@ -66,23 +66,23 @@
 2741: Eight Petalled Outlined Black Florette
 2742: Circled Open Centre Eight Pointed Star
 2743: Heavy Teardrop-Spoked Pinwheel Asterisk
-2744: Snowflake
-2745: Tight Trifoliate Snowflake
-2746: Heavy Chevron Snowflake
+2744: Snowflake : Snow, frost : New Year, Christmas
+2745: Tight Trifoliate Snowflake : New Year, Christmas
+2746: Heavy Chevron Snowflake : New Year, Christmas
 2747: Sparkle
 2748: Heavy Sparkle
-2749: Balloon-Spoked Asterisk : jack
+2749: Balloon-Spoked Asterisk : jack : New Year, Christmas
 274A: Eight Teardrop-Spoked Propeller Asterisk
-274B: Heavy Eight Teardrop-Spoked Propeller Asterisk : turbofan
-274C: Cross Mark
+274B: Heavy Eight Teardrop-Spoked Propeller Asterisk : turbofan : jack : New Year, Christmas
+274C: Cross Mark : cross, x, ex, ex mark, multiplication sign
 274D: Shadowed White Circle
-274E: Negative Squared Cross Mark
+274E: Negative Squared Cross Mark : cross, x, ex, ex mark, multiplication sign
 274F: Lower Right Drop-Shadowed White Square
 2750: Upper Right Drop-Shadowed White Square
 2751: Lower Right Shadowed White Square
 2752: Upper Right Shadowed White Square
-2753: Black Question Mark Ornament
-2754: White Question Mark Ornament
+2753: Black Question Mark Ornament : interrogative
+2754: White Question Mark Ornament : interrogative
 2755: White Exclamation Mark Ornament
 2756: Black Diamond Minus White X
 2757: Heavy Exclamation Mark Symbol : obstacles on the road, arib std b24
@@ -97,8 +97,8 @@
 2760: Heavy Low Double Comma Quotation Mark Ornament
 2761: Curved Stem Paragraph Sign Ornament
 2762: Heavy Exclamation Mark Ornament
-2763: Heavy Heart Exclamation Mark Ornament
-2764: Heavy Black Heart
+2763: Heavy Heart Exclamation Mark Ornament : heart above dot, red heart as an exclamation mark
+2764: Black Heart Symbol : Red Heart, Love
 2765: Rotated Heavy Black Heart Bullet
 2766: Floral Heart : aldus leaf
 2767: Rotated Floral Heart Bullet : hedera, ivy leaf
@@ -116,7 +116,7 @@
 2773: Light Right Tortoise Shell Bracket Ornament
 2774: Medium Left Curly Bracket Ornament
 2775: Medium Right Curly Bracket Ornament
-2776: Dingbat Negative Circled Digit One
+2776: Dingbat Negative Circled Digit One : New Year, Christmas
 2777: Dingbat Negative Circled Digit Two
 2778: Dingbat Negative Circled Digit Three
 2779: Dingbat Negative Circled Digit Four
@@ -189,7 +189,7 @@
 27BC: Wedge-Tailed Rightwards Arrow
 27BD: Heavy Wedge-Tailed Rightwards Arrow
 27BE: Open-Outlined Rightwards Arrow
-27BF: Double Curly Loop
+27BF: Double Curly Loop : Voicemail
 27C0: Three Dimensional Angle
 27C1: White Triangle Containing Small White Triangle
 27C2: Perpendicular : orthogonal to

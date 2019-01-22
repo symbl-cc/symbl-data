@@ -45,7 +45,7 @@
 1F12C: Circled Italic Latin Capital Letter R : disc record
 1F12D: Circled Cd
 1F12E: Circled Wz
-1F12F:
+1F12F: Copyleft Symbol
 1F130: Squared Latin Capital Letter A : anreisetag (day of arrival)
 1F131: Squared Latin Capital Letter B : bank : b-mode stereo compression broadcasting service (arib std b24)
 1F132: Squared Latin Capital Letter C
@@ -110,8 +110,8 @@
 1F16D:
 1F16E:
 1F16F:
-1F170: Negative Squared Latin Capital Letter A : blood type a
-1F171: Negative Squared Latin Capital Letter B : blood type b
+1F170: Negative Squared Latin Capital Letter A : Blood type A
+1F171: Negative Squared Latin Capital Letter B : Blood type B
 1F172: Negative Squared Latin Capital Letter C : centre, city centre
 1F173: Negative Squared Latin Capital Letter D
 1F174: Negative Squared Latin Capital Letter E
@@ -124,8 +124,8 @@
 1F17B: Negative Squared Latin Capital Letter L : leisure center (arib std b24)
 1F17C: Negative Squared Latin Capital Letter M : museum, cultural center (arib std b24)
 1F17D: Negative Squared Latin Capital Letter N
-1F17E: Negative Squared Latin Capital Letter O : blood type o
-1F17F: Negative Squared Latin Capital Letter P : parking space empty-full (arib std b24)
+1F17E: Negative Squared Latin Capital Letter O : Blood type O
+1F17F: Negative Squared Latin Capital Letter P : Parking space empty-full (arib std b24)
 1F180: Negative Squared Latin Capital Letter Q
 1F181: Negative Squared Latin Capital Letter R
 1F182: Negative Squared Latin Capital Letter S
@@ -136,11 +136,11 @@
 1F187: Negative Squared Latin Capital Letter X
 1F188: Negative Squared Latin Capital Letter Y
 1F189: Negative Squared Latin Capital Letter Z
-1F18A: Crossed Negative Squared Latin Capital Letter P : parking space closed
+1F18A: Crossed Negative Squared Latin Capital Letter P : Parking space closed
 1F18B: Negative Squared Ic : interchange, ramp
 1F18C: Negative Squared Pa : parking area
 1F18D: Negative Squared Sa : service area
-1F18E: Negative Squared Ab : blood type ab
+1F18E: Negative Squared Ab : Blood type AB
 1F18F: Negative Squared Wc : water closet, public toilet
 1F190: Square Dj : disc jockey
 1F191: Squared Cl : clear

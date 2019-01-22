@@ -78,12 +78,12 @@
 2B4D: Downwards Triangle-Headed Zigzag Arrow
 2B4E: Short Slanted North Arrow
 2B4F: Short Backslanted South Arrow
-2B50: White Medium Star
+2B50: White Medium Star : Yellow Star
 2B51: Black Small Star
 2B52: White Small Star
 2B53: Black Right-Pointing Pentagon
 2B54: White Right-Pointing Pentagon
-2B55: Heavy Large Circle : basic symbol for speed limit
+2B55: Heavy Large Circle : Basic symbol for speed limit, Correct, Red Circle, Circle Mark
 2B56: Heavy Oval with Oval Inside : prefectural office
 2B57: Heavy Circle with Circle Inside : municipal office
 2B58: Heavy Circle : town or village office
@@ -184,9 +184,9 @@
 2BB7: Ribbon Arrow Right Down
 2BB8: Upwards White Arrow from Bar with Horizontal Bar : caps lock
 2BB9: Up Arrowhead In a Rectangle Box : escape
-2BBA:
-2BBB:
-2BBC:
+2BBA: Overlapping White Squares
+2BBB: Overlapping White and Black Squares
+2BBC: Overlapping Black Squares
 2BBD: Ballot Box with Light X
 2BBE: Circled X
 2BBF: Circled Bold X
@@ -209,48 +209,48 @@
 2BD0: Square Position Indicator
 2BD1: Uncertainty Sign : query
 2BD2: Group Mark
-2BD3:
-2BD4:
-2BD5:
-2BD6:
-2BD7:
-2BD8:
-2BD9:
-2BDA:
-2BDB:
-2BDC:
-2BDD:
-2BDE:
-2BDF:
-2BE0:
-2BE1:
-2BE2:
-2BE3:
-2BE4:
-2BE5:
-2BE6:
-2BE7:
-2BE8:
-2BE9:
-2BEA:
-2BEB:
+2BD3: Pluto Form Two
+2BD4: Pluto Form Three
+2BD5: Pluto Form Four
+2BD6: Pluto Form Five
+2BD7: Transpluto
+2BD8: Proserpina
+2BD9: Astraea
+2BDA: Hygiea
+2BDB: Pholus
+2BDC: Nessus
+2BDD: White Moon Selena
+2BDE: Black Diamond on Cross
+2BDF: True Light Moon Arta
+2BE0: Cupido
+2BE1: Hades
+2BE2: Zeus
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: Poseidon
+2BE8: Left Half black Star
+2BE9: Right Half black Star
+2BEA: Star with Left Half Black
+2BEB: Star with right Half Black
 2BEC: Leftwards Two-Headed Arrow with Tringle Arrowheads : fast cursor left
 2BED: Upwards Two-Headed Arrow with Tringle Arrowheads : fast cursor up
 2BEE: Rightwards Two-Headed Arrow with Tringle Arrowheads : fast cursor right
 2BEF: Downwards Two-Headed Arrow with Tringle Arrowheads : fast cursor down
-2BF0:
-2BF1:
-2BF2:
-2BF3:
-2BF4:
-2BF5:
-2BF6:
-2BF7:
-2BF8:
-2BF9:
-2BFA:
-2BFB:
-2BFC:
-2BFD:
-2BFE:
+2BF0: Eris Form One
+2BF1: Eris Form Two
+2BF2: Sedna
+2BF3: Russian Astrological Symbol Vigintile
+2BF4: Russian Astrological Symbol Novile
+2BF5: Russian Astrological Symbol Quintile
+2BF6: Russian Astrological Symbol Binovile
+2BF7: Russian Astrological Symbol Sentagon
+2BF8: Russian Astrological Symbol Tredecile
+2BF9: Equals Sign with Infinity Below
+2BFA: United Symbol
+2BFB: Separated Symbol
+2BFC: Doubled Symbol
+2BFD: Passed Symbol
+2BFE: Reversed Right Angle
 2BFF:

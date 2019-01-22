@@ -175,13 +175,13 @@
 00AE: Registered Sign : registered trade mark sign
 00AF: Macron : overline, apl overbar
 00B0: Degree Sign
-00B1: Plus-Minus Sign
+00B1: Plus minus symbol
 00B2: Superscript Two : squared
 00B3: Superscript Three : cubed
 00B4: Acute Accent
 00B5: Micro Sign
 00B6: Pilcrow Sign : paragraph sign
-00B7: Middle Dot : midpoint : georgian comma : greek middle dot
+00B7: Middle Dot : Midpoint : georgian comma : greek middle dot, dot symbol
 00B8: Cedilla
 00B9: Superscript One
 00BA: Masculine Ordinal Indicator
@@ -228,7 +228,7 @@
 00E3: Latin Small Letter a with Tilde
 00E4: Latin Small Letter a with Diaeresis
 00E5: Latin Small Letter a with Ring Above
-00E6: Latin Small Letter Ae : latin small ligature ae : ash (from old english æsc)
+00E6: Latin Small Letter Ae : Latin small ligature ae : ash (from old english æsc)
 00E7: Latin Small Letter C with Cedilla
 00E8: Latin Small Letter E with Grave
 00E9: Latin Small Letter E with Acute
@@ -250,7 +250,7 @@
 00F9: Latin Small Letter U with Grave
 00FA: Latin Small Letter U with Acute
 00FB: Latin Small Letter U with Circumflex
-00FC: Latin Small Letter U with Diaeresis
+00FC: U with two Dots : Latin Small Letter U with Diaeresis, U with trema, U with umlaut
 00FD: Latin Small Letter Y with Acute
 00FE: Latin Small Letter Thorn
 00FF: Latin Small Letter Y with Diaeresis

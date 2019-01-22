@@ -1,22 +1,22 @@
-1F300: Cyclone : typhoon, hurricane
-1F301: Foggy
-1F302: Closed Umbrella
-1F303: Night with Stars
-1F304: Sunrise Over Mountains
-1F305: Sunrise
-1F306: Cityscape At Dusk
-1F307: Sunset Over Buildings
-1F308: Rainbow
-1F309: Bridge At Night
-1F30A: Water Wave
+1F300: Cyclone : Hurricane, spiral, swirl, tornado, typhoon
+1F301: Foggy : City in fog
+1F302: Closed Umbrella : Collapsed Umbrella 
+1F303: Night with Stars : City At Night, Starry Night
+1F304: Sunrise Over Mountains : Morning, sunset, evening
+1F305: Sunrise : Morning, sunset, evening
+1F306: Cityscape At Dusk : Orange sky city, twilight
+1F307: Sunset Over Buildings : City sunset,  sunrise
+1F308: Rainbow : Gay Pride 
+1F309: Bridge At Night : Golden Gate Bridge 
+1F30A: Water Wave : Tsunami, tide, sea, ocean
 1F30B: Volcano
-1F30C: Milky Way
-1F30D: Earth Globe Europe-Africa
-1F30E: Earth Globe Americas
-1F30F: Earth Globe Asia-Australia
-1F310: Globe with Meridians
+1F30C: Milky Way : Galaxy, night sky, space, stars, universe 
+1F30D: Earth Globe Europe-Africa : Planet, world 
+1F30E: Earth Globe Americas : Planet, world 
+1F30F: Earth Globe Asia-Australia : Planet, world 
+1F310: Globe with Meridians : Globified, world wide web, www
 1F311: New Moon Symbol
-1F312: Waxing Crescent Moon Symbol
+1F312: Waxing Crescent Moon Symbol : Growing Moon
 1F313: First Quarter Moon Symbol : half moon
 1F314: Waxing Gibbous Moon Symbol : waxing moon
 1F315: Full Moon Symbol
@@ -27,11 +27,11 @@
 1F31A: New Moon with Face
 1F31B: First Quarter Moon with Face
 1F31C: Last Quarter Moon with Face
-1F31D: Full Moon with Face
-1F31E: Sun with Face
+1F31D: Full Moon with Face : Smiley moon
+1F31E: Sun with Face : Sunface, smiley sun
 1F31F: Glowing Star
-1F320: Shooting Star
-1F321: Thermometer : temperature, warm
+1F320: Shooting Star : Meteor, meteoroid, when you wish upon a star 
+1F321: Thermometer : Hot weather, temperature, warm
 1F322: Black Droplet : droplet
 1F323: White Sun : sunny
 1F324: White Sun with Small Cloud : mostly sunny
@@ -46,58 +46,58 @@
 1F32D: Hot Dog
 1F32E: Taco
 1F32F: Burrito
-1F330: Chestnut
-1F331: Seedling
-1F332: Evergreen Tree
+1F330: Chestnut : Acorn, nut
+1F331: Seedling : Spring, sprout, sprouting
+1F332: Evergreen Tree : Spruce tree, pine tree
 1F333: Deciduous Tree
-1F334: Palm Tree
-1F335: Cactus
-1F336: Hot Pepper : hot, spicy
+1F334: Palm Tree : Coconut tree, survivor, tropical island 
+1F335: Cactus : Desert, wild west
+1F336: Hot Pepper : Chili Pepper, spicy, hot
 1F337: Tulip
-1F338: Cherry Blossom
-1F339: Rose
+1F338: Cherry Blossom : Sakura, pink flower
+1F339: Rose : Red flower
 1F33A: Hibiscus
-1F33B: Sunflower
+1F33B: Sunflower : Yellow flower
 1F33C: Blossom : daisy
 1F33D: Ear of Maize
-1F33E: Ear of Rice
-1F33F: Herb
-1F340: Four Leaf Clover
-1F341: Maple Leaf
-1F342: Fallen Leaf
-1F343: Leaf Fluttering In Wind
-1F344: Mushroom
+1F33E: Ear of Rice : Crop, farming, wheat
+1F33F: Herb : Plant, branch with leaves
+1F340: Four Leaf Clover : Lucky, Ireland
+1F341: Maple Leaf : Canada, Canadian
+1F342: Fallen Leaf : Autumn Leaves
+1F343: Leaf Fluttering In Wind : Green leaves, spring
+1F344: Mushroom : Shroom, toadstool
 1F345: Tomato
 1F346: Aubergine : eggplant
 1F347: Grapes
-1F348: Melon
+1F348: Melon : Cantaloupe, honeydew, muskmelon, rockmelon
 1F349: Watermelon
-1F34A: Tangerine
+1F34A: Tangerine : Mandarin, orange : New Year, Christmas
 1F34B: Lemon
-1F34C: Banana
+1F34C: Banana : Plantain
 1F34D: Pineapple
-1F34E: Red Apple
-1F34F: Green Apple
-1F350: Pear
+1F34E: Red Apple : Empire Apple, Gala Apple
+1F34F: Green Apple : Granny Smith Apple, Grevenstein Apple
+1F350: Pear : Bottom, Butt
 1F351: Peach
-1F352: Cherries
-1F353: Strawberry
-1F354: Hamburger : fast food place
-1F355: Slice of Pizza
-1F356: Meat On Bone
-1F357: Poultry Leg
-1F358: Rice Cracker
-1F359: Rice Ball
-1F35A: Cooked Rice : bowl of rice
-1F35B: Curry and Rice : japanese style curry
-1F35C: Steaming Bowl : ramen noodles
-1F35D: Spaghetti
+1F352: Cherries : Cherry
+1F353: Strawberry : New Year, Christmas
+1F354: Hamburger : Fast food place, Burger, Cheeseburger
+1F355: Slice of Pizza : Pepperoni Pizza
+1F356: Meat On Bone : Ano Niku
+1F357: Poultry Leg : Chicken Drumstick, Turkey Leg
+1F358: Rice Cracker : Sembei
+1F359: Rice Ball : Onigiri
+1F35A: Cooked Rice : Bowl of rice, Congee
+1F35B: Curry and Rice : Japanese style curry
+1F35C: Steaming Bowl : Ramen noodles
+1F35D: Spaghetti : Pasta, Spaghetti Bolognese
 1F35E: Bread
 1F35F: French Fries
-1F360: Roasted Sweet Potato
-1F361: Dango : mochi balls on skewer
-1F362: Oden : seafood on skewer
-1F363: Sushi
+1F360: Roasted Sweet Potato : Yam, Ipomoea batatas
+1F361: Dango : Mochi balls on skewer, Dessert Stick, Pink White Green Balls
+1F362: Oden : Seafood on skewer, Kebab, Skewer
+1F363: Sushi : Sashimi, Seafood
 1F364: Fried Shrimp
 1F365: Fish Cake with Swirl Design
 1F366: Soft Ice Cream
@@ -117,7 +117,7 @@
 1F374: Fork and Knife : restaurant, meal
 1F375: Teacup Without Handle
 1F376: Sake Bottle and Cup
-1F377: Wine Glass
+1F377: Wine Glass : New Year, Christmas
 1F378: Cocktail Glass : lounge
 1F379: Tropical Drink
 1F37A: Beer Mug
@@ -127,15 +127,15 @@
 1F37E: Bottle with Popping Cork
 1F37F: Popcorn
 1F380: Ribbon
-1F381: Wrapped Present
+1F381: Wrapped Present : New Year, Christmas
 1F382: Birthday Cake
 1F383: Jack-O-Lantern : hallowe'en
-1F384: Christmas Tree
-1F385: Father Christmas : santa claus
-1F386: Fireworks
-1F387: Firework Sparkler
+1F384: Christmas Tree : New Year, Christmas
+1F385: Father Christmas : santa claus : New Year, Christmas
+1F386: Fireworks : New Year, Christmas
+1F387: Firework Sparkler : New Year, Christmas
 1F388: Balloon
-1F389: Party Popper
+1F389: Party Popper : New Year, Christmas
 1F38A: Confetti Ball : congratulations
 1F38B: Tanabata Tree : tanabata tree with wishing papers
 1F38C: Crossed Flags
