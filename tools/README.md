@@ -41,6 +41,10 @@ After changing a translation, the script can easily be rerun for that language.
 The results, in form of HTML files, can be found in the directory
 [`reviews`](reviews).
 
+An example of such review report is seen below.
+
+[![Example diff2html](diff2html-example.png)](diff2html-example.png)
+
 
 ## Identical source texts
 
