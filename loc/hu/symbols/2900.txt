@@ -1,256 +1,256 @@
-2900: Rightwards Two-Headed Arrow with Vertical Stroke : z notation partial surjection
-2901: Rightwards Two-Headed Arrow with Double Vertical Stroke : z notation finite surjection
-2902: Leftwards Double Arrow with Vertical Stroke
-2903: Rightwards Double Arrow with Vertical Stroke
-2904: Left Right Double Arrow with Vertical Stroke
-2905: Rightwards Two-Headed Arrow from Bar : maps to
-2906: Leftwards Double Arrow from Bar : maps from
-2907: Rightwards Double Arrow from Bar : maps to
-2908: Downwards Arrow with Horizontal Stroke
-2909: Upwards Arrow with Horizontal Stroke
-290A: Upwards Triple Arrow
-290B: Downwards Triple Arrow
-290C: Leftwards Double Dash Arrow
-290D: Rightwards Double Dash Arrow
-290E: Leftwards Triple Dash Arrow
-290F: Rightwards Triple Dash Arrow
-2910: Rightwards Two-Headed Triple Dash Arrow
-2911: Rightwards Arrow with Dotted Stem
-2912: Upwards Arrow To Bar
-2913: Downwards Arrow To Bar
-2914: Rightwards Arrow with Tail with Vertical Stroke : z notation partial injection
-2915: Rightwards Arrow with Tail with Double Vertical Stroke : z notation finite injection
-2916: Rightwards Two-Headed Arrow with Tail : bijective mapping : z notation bijection
-2917: Rightwards Two-Headed Arrow with Tail with Vertical Stroke : z notation surjective injection
-2918: Rightwards Two-Headed Arrow with Tail with Double Vertical Stroke : z notation finite surjective injection
-2919: Leftwards Arrow-Tail
-291A: Rightwards Arrow-Tail
-291B: Leftwards Double Arrow-Tail
-291C: Rightwards Double Arrow-Tail
-291D: Leftwards Arrow To Black Diamond
-291E: Rightwards Arrow To Black Diamond
-291F: Leftwards Arrow from Bar To Black Diamond
-2920: Rightwards Arrow from Bar To Black Diamond
-2921: North West and South East Arrow
-2922: North East and South West Arrow
-2923: North West Arrow with Hook
-2924: North East Arrow with Hook
-2925: South East Arrow with Hook
-2926: South West Arrow with Hook
-2927: North West Arrow and North East Arrow
-2928: North East Arrow and South East Arrow
-2929: South East Arrow and South West Arrow
-292A: South West Arrow and North West Arrow
-292B: Rising Diagonal Crossing Falling Diagonal
+2900: Jobbra kétfejű nyíl függőleges lökettel : z jelölés részleges túlterhelés
+2901: Jobbra kétfejű nyíl dupla függőleges ütéssel : z jelölés véges túlterhelés
+2902: Balra dupla nyíl függőleges lökettel
+2903: Jobbra dupla nyíl függőleges lökettel
+2904: Balra jobbra nyíl, függőleges lökettel
+2905: Jobbra kétfejű nyíl a bárból : térképek
+2906: Balra dupla nyíl a bárból : térképek
+2907: Jobbra dupla nyíl a bárból : térképek
+2908: Lefelé nyíl vízszintes ütéssel
+2909: Felfelé nyíl vízszintes ütéssel
+290A: Felfelé Hármas nyíl
+290B: Lefelé hármas nyíl
+290C: Balra Dash Dash Arrow
+290D: Jobbra Dash Dash Arrow
+290E: Balra Triple Dash Arrow
+290F: Jobbra Triple Dash Arrow
+2910: Jobbra kétfejű hármas kötő nyíl
+2911: Jobbra nyíl a pontozott szárral
+2912: Felfelé nyíl-bár
+2913: Lefelé mutató nyíl bárra
+2914: Jobbra nyíl a farok függőleges lökettel : z jelölés részleges injekció
+2915: Jobbra nyíl a farok kettős függőleges ütéssel : z jelölés véges injekció
+2916: Jobbra kétfejű nyíl farokkal : bijektív térképezés : z jelölés bijection
+2917: Jobbra kétfejű nyíl farokkal függőleges ütéssel : z jelölés surjective injekció
+2918: Jobbra kétfejű nyíl farokkal kettős függőleges ütéssel : z jelölés véges jellegű injekció
+2919: Balra nyíl-farok
+291A: Jobbra nyíl-farok
+291B: Balra dupla nyíl-farok
+291C: Jobbra Double Arrow-Tail
+291D: Balra mutató nyíl a fekete gyémántra
+291E: Jobbra mutató nyíl a fekete gyémántra
+291F: Balra nyíl a Bar-tól Black Diamondig
+2920: Jobbra nyíl a Bar-tól Black Diamond-ig
+2921: Északnyugat és Délkelet-nyíl
+2922: Északkelet és Délnyugati nyíl
+2923: Északnyugati nyíl a horoggal
+2924: Északkelet nyíl horoggal
+2925: Délkelet-nyíl a horoggal
+2926: Délnyugati nyíl a horoggal
+2927: Északnyugati nyíl és észak-keleti nyíl
+2928: Északkelet nyíl és Délkelet-nyíl
+2929: Délkelet-nyíl és délnyugati nyíl
+292A: Délnyugati nyíl és Északnyugati nyíl
+292B: Emelkedő átlós kereszteződéses esés
 292C: Falling Diagonal Crossing Rising Diagonal
-292D: South East Arrow Crossing North East Arrow
-292E: North East Arrow Crossing South East Arrow
-292F: Falling Diagonal Crossing North East Arrow
+292D: Délkelet-Arrow átkelés észak-keleti nyíl
+292E: Északkelet nyíl átkelés délkeleti nyíl
+292F: Falling Diagonal Crossing északkeleti nyíl
 2930: Rising Diagonal Crossing South East Arrow
-2931: North East Arrow Crossing North West Arrow
-2932: North West Arrow Crossing North East Arrow
-2933: Wave Arrow Pointing Directly Right
-2934: Arrow Pointing Rightwards Then Curving Upwards
-2935: Arrow Pointing Rightwards Then Curving Downwards
-2936: Arrow Pointing Downwards Then Curving Leftwards
-2937: Arrow Pointing Downwards Then Curving Rightwards
-2938: Right-Side Arc Clockwise Arrow
-2939: Left-Side Arc Anticlockwise Arrow
-293A: Top Arc Anticlockwise Arrow
-293B: Bottom Arc Anticlockwise Arrow
-293C: Top Arc Clockwise Arrow with Minus
-293D: Top Arc Anticlockwise Arrow with Plus
-293E: Lower Right Semicircular Clockwise Arrow
-293F: Lower Left Semicircular Anticlockwise Arrow
-2940: Anticlockwise Closed Circle Arrow
-2941: Clockwise Closed Circle Arrow
-2942: Rightwards Arrow Above Short Leftwards Arrow
-2943: Leftwards Arrow Above Short Rightwards Arrow
-2944: Short Rightwards Arrow Above Leftwards Arrow
-2945: Rightwards Arrow with Plus Below
-2946: Leftwards Arrow with Plus Below
-2947: Rightwards Arrow Through X
-2948: Left Right Arrow Through Small Circle
-2949: Upwards Two-Headed Arrow from Small Circle
-294A: Left Barb Up Right Barb Down Harpoon
-294B: Left Barb Down Right Barb Up Harpoon
-294C: Up Barb Right Down Barb Left Harpoon
-294D: Up Barb Left Down Barb Right Harpoon
-294E: Left Barb Up Right Barb Up Harpoon
-294F: Up Barb Right Down Barb Right Harpoon
-2950: Left Barb Down Right Barb Down Harpoon
-2951: Up Barb Left Down Barb Left Harpoon
-2952: Leftwards Harpoon with Barb Up To Bar
-2953: Rightwards Harpoon with Barb Up To Bar
-2954: Upwards Harpoon with Barb Right To Bar
-2955: Downwards Harpoon with Barb Right To Bar
-2956: Leftwards Harpoon with Barb Down To Bar
-2957: Rightwards Harpoon with Barb Down To Bar
-2958: Upwards Harpoon with Barb Left To Bar
-2959: Downwards Harpoon with Barb Left To Bar
-295A: Leftwards Harpoon with Barb Up from Bar
-295B: Rightwards Harpoon with Barb Up from Bar
-295C: Upwards Harpoon with Barb Right from Bar
-295D: Downwards Harpoon with Barb Right from Bar
-295E: Leftwards Harpoon with Barb Down from Bar
-295F: Rightwards Harpoon with Barb Down from Bar
-2960: Upwards Harpoon with Barb Left from Bar
-2961: Downwards Harpoon with Barb Left from Bar
-2962: Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down
-2963: Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right
-2964: Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down
-2965: Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right
-2966: Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up
-2967: Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down
-2968: Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up
-2969: Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down
-296A: Leftwards Harpoon with Barb Up Above Long Dash
-296B: Leftwards Harpoon with Barb Down Below Long Dash
-296C: Rightwards Harpoon with Barb Up Above Long Dash
-296D: Rightwards Harpoon with Barb Down Below Long Dash
-296E: Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right
-296F: Downwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right
-2970: Right Double Arrow with Rounded Head
-2971: Equals Sign Above Rightwards Arrow
-2972: Tilde Operator Above Rightwards Arrow
-2973: Leftwards Arrow Above Tilde Operator
-2974: Rightwards Arrow Above Tilde Operator
-2975: Rightwards Arrow Above Almost Equal To
-2976: Less-Than Above Leftwards Arrow
-2977: Leftwards Arrow Through Less-Than
-2978: Greater-Than Above Rightwards Arrow
-2979: Subset Above Rightwards Arrow
-297A: Leftwards Arrow Through Subset
-297B: Superset Above Leftwards Arrow
-297C: Left Fish Tail
-297D: Right Fish Tail
-297E: Up Fish Tail
-297F: Down Fish Tail
-2980: Triple Vertical Bar Delimiter
-2981: Z Notation Spot
-2982: Z Notation Type Colon
-2983: Left White Curly Bracket
-2984: Right White Curly Bracket
-2985: Left White Parenthesis
-2986: Right White Parenthesis
-2987: Z Notation Left Image Bracket
-2988: Z Notation Right Image Bracket
-2989: Z Notation Left Binding Bracket
-298A: Z Notation Right Binding Bracket
-298B: Left Square Bracket with Underbar
-298C: Right Square Bracket with Underbar
-298D: Left Square Bracket with Tick In Top Corner
-298E: Right Square Bracket with Tick In Bottom Corner
-298F: Left Square Bracket with Tick In Bottom Corner
-2990: Right Square Bracket with Tick In Top Corner
-2991: Left Angle Bracket with Dot
-2992: Right Angle Bracket with Dot
-2993: Left Arc Less-Than Bracket
-2994: Right Arc Greater-Than Bracket
-2995: Double Left Arc Greater-Than Bracket
-2996: Double Right Arc Less-Than Bracket
-2997: Left Black Tortoise Shell Bracket
-2998: Right Black Tortoise Shell Bracket
-2999: Dotted Fence
-299A: Vertical Zigzag Line
-299B: Measured Angle Opening Left
-299C: Right Angle Variant with Square
-299D: Measured Right Angle with Dot
-299E: Angle with S Inside
-299F: Acute Angle
-29A0: Spherical Angle Opening Left
-29A1: Spherical Angle Opening Up
-29A2: Turned Angle
-29A3: Reversed Angle
-29A4: Angle with Underbar
-29A5: Reversed Angle with Underbar
-29A6: Oblique Angle Opening Up
-29A7: Oblique Angle Opening Down
-29A8: Measured Angle with Open Arm Ending In Arrow Pointing Up and Right
-29A9: Measured Angle with Open Arm Ending In Arrow Pointing Up and Left
-29AA: Measured Angle with Open Arm Ending In Arrow Pointing Down and Right
-29AB: Measured Angle with Open Arm Ending In Arrow Pointing Down and Left
-29AC: Measured Angle with Open Arm Ending In Arrow Pointing Right and Up
-29AD: Measured Angle with Open Arm Ending In Arrow Pointing Left and Up
-29AE: Measured Angle with Open Arm Ending In Arrow Pointing Right and Down
-29AF: Measured Angle with Open Arm Ending In Arrow Pointing Left and Down
-29B0: Reversed Empty Set
-29B1: Empty Set with Overbar
-29B2: Empty Set with Small Circle Above
-29B3: Empty Set with Right Arrow Above
-29B4: Empty Set with Left Arrow Above
-29B5: Circle with Horizontal Bar
-29B6: Circled Vertical Bar
-29B7: Circled Parallel
-29B8: Circled Reverse Solidus
-29B9: Circled Perpendicular
-29BA: Circle Divided By Horizontal Bar and Top Half Divided By Vertical Bar
-29BB: Circle with Superimposed X
-29BC: Circled Anticlockwise-Rotated Division Sign
-29BD: Up Arrow Through Circle
-29BE: Circled White Bullet
-29BF: Circled Bullet
-29C0: Circled Less-Than
-29C1: Circled Greater-Than
-29C2: Circle with Small Circle To the Right
-29C3: Circle with Two Horizontal Strokes To the Right
+2931: Északkelet nyíl átkelés észak-nyugati nyíl
+2932: Északnyugati nyíl átkelés észak-keleti nyíl
+2933: Közvetlenül jobbra mutató hullám nyíl
+2934: Jobbra mutató nyíl, majd felfelé görbítés
+2935: Jobbra mutató nyíl, majd lefelé görbítés
+2936: Lefelé mutató nyíl, majd balra hajlítás
+2937: Lefelé mutató nyíl, majd jobbra hajlítva
+2938: Jobb oldali íj az óramutató járásával megegyező irányban
+2939: Bal oldali Ív az óramutató járásával ellentétes irányban
+293A: Felfelé ívelő nyíl
+293B: Az alsó ív az óramutató járásával ellentétes irányban
+293C: Top Arc óra jobbra a mínusz
+293D: Felfelé ívelő óramutató járásával ellentétes irányba mutató nyíl Plus
+293E: Jobb alsó félkör alakú óra jobbra
+293F: Bal alsó félkör alakú ellentétes irányú nyíl
+2940: Az óramutató járásával ellentétes irányban zárt kör nyíl
+2941: Az óramutató járásával megegyezően zárt kör nyíl
+2942: Jobbra nyíl a rövid balra nyíl felett
+2943: Balra nyíl a rövid nyíl felett
+2944: Rövid jobbra nyíl balra nyíl fölött
+2945: Jobbra nyíl a Plus alatt
+2946: Balra nyíl a Plus alatt
+2947: Jobbra nyíl X-en keresztül
+2948: Balra jobb nyíl a kis körön keresztül
+2949: Felfelé mutató kétfejű nyíl a kis körből
+294A: Balra jobbra felfelé jobbra le a hárfán
+294B: Balra lefelé jobbra Barb felfelé
+294C: Felfelé Barb jobbra, balra hárfán
+294D: Felfelé balra lefelé Barb jobbra Harpoon
+294E: Bal Barb Up jobbra Barb Up Harpoon
+294F: Felfelé Barb jobbra, jobbra a hárfánra
+2950: Balra lefelé jobbra lefelé a hárfán
+2951: Fel balra balra Barb balra hárfán
+2952: Balra hárfán Barb Up bárral
+2953: Jobbra hárfán és Barb felfelé
+2954: Felfelé hárfán a jobb oldali bárral
+2955: Lefelé hárfán a jobb oldali bárral
+2956: Balra hárfán és a Barb le a bárba
+2957: Jobbra hárfán és a Barb le a bárba
+2958: Felfelé hárfán, bal oldali bárral
+2959: Harpoon lefelé a bal oldali bárral
+295A: Balra hárfán Barb-fel a bárból
+295B: Jobbra hárfa a Barb-fel a bárból
+295C: Felfelé hárfán Barb-ről közvetlenül a bárból
+295D: Harpon lefelé a Barb-ről a bárból
+295E: Balra hárfán, bár le a bárból
+295F: Jobbra hárfán és a Barb lefelé a bárból
+2960: Felfelé hárfán, bár balra a bárból
+2961: Harpúni lefelé, bár balra a bárból
+2962: Balra hárfán, Barb felfelé, balra felfelé Hárfán és Barb lefelé
+2963: Felfelé hárfán és balra balra a Harpoon mellett Barb jobbra
+2964: Jobbra hárfán Barb felfelé jobbra Hárfán és Barb lefelé
+2965: Harpoon lefelé, balra, balra a hárfán mellett, jobbra
+2966: Balra hárfán Barb felfelé jobbra hárfán Barb Up felől
+2967: Balra hárfán, balra, jobbra, jobbra, hárfán, lefelé
+2968: Jobbra hárfán, Barb felfelé balra hárfán és Barb felfelé
+2969: Jobbra hárfán, balra húzva Barbal lefelé
+296A: Balra hárfán, Barb Up feletti hosszú kötőjel
+296B: Balra hárfán, lefelé húzva a hosszú dash alatt
+296C: Jobbra hárfán a Barb felfelé a hosszú kötőjel felett
+296D: Jobbra hárfán, lefelé húzva a hosszú dash alatt
+296E: Felfelé hárfán, balra balra, lefelé hárfán mellett, jobbra
+296F: Harpoon lefelé, balra a bal oldali Harpoon mellett, Barb jobbra
+2970: Jobb dupla nyíl lekerekített fejjel
+2971: Egyenlő jel jobbra mutató nyíl felett
+2972: Tilde Operator jobbra mutató nyíl fölött
+2973: Balra nyíl a Tilde operátor felett
+2974: Jobbra nyíl a Tilde operátor felett
+2975: Jobbra nyíló nyíl majdnem egyenlő
+2976: Kevesebb, mint a bal oldali nyíl felett
+2977: Balra nyíl a Less-Than-n keresztül
+2978: Nagyobb mint jobbra nyíl
+2979: A jobboldali nyíl feletti részhalmaz
+297A: Balra nyíló nyíláshalmaz
+297B: Felfelé mutató nyíl balra
+297C: Bal hal farka
+297D: Jobb hal farka
+297E: Halak farka
+297F: Leeső farok
+2980: Hármas függőleges sávelválasztó
+2981: Z jelölési pont
+2982: Z jelölés típusa Colon
+2983: Bal fehér göndör tartó
+2984: Jobb fehér göndör tartó
+2985: Bal fehér parenthesis
+2986: Jobb fehér parenthesis
+2987: Z Jelölés bal oldali képkeret
+2988: Z Jegyzet jobb képkeret
+2989: Z Jelölés bal kötőelem
+298A: Z jelölés jobb kötőelem
+298B: Bal négyzet zárójel az alsó sávval
+298C: Jobb szögletes zárójel az alsó sávban
+298D: Bal szögletes zárójel a felső sarokban
+298E: Jobb szögletes zárójel a bal alsó sarokban
+298F: Bal szögletes zárójel a bal alsó sarokban
+2990: Jobb szögletes zárójel a Tick a felső sarokban
+2991: Bal szögtartó Dot-tal
+2992: Jobb szögű konzol Dot-tal
+2993: Bal léc kevésbé, mint a konzol
+2994: Jobb ív nagyobb, mint a konzol
+2995: Kettős bal oldali ív nagyobb, mint a konzol
+2996: Dupla jobb ív kevésbé, mint a konzol
+2997: Bal fekete teknősbéka Shell konzol
+2998: Jobb fekete teknős Shell konzol
+2999: Pontozott kerítés
+299A: Függőleges Zigzag vonal
+299B: Mérési szög nyitása balra
+299C: Jobb szögváltozat térrel
+299D: Mért derékszög a ponttal
+299E: Szög az S belsejében
+299F: Hegyesszög
+29A0: Szférikus szög nyitása balra
+29A1: Szférikus szög nyitása
+29A2: Esztergált szög
+29A3: Fordított szög
+29A4: Szög az alsó sarokkal
+29A5: Fordított szög az alsó sávban
+29A6: A ferde szög nyitása
+29A7: Ferde szög nyitva
+29A8: Mérési szög nyílt karral, amely felfelé és jobbra mutat
+29A9: Mért szög nyílt karral, amely a nyíl felfelé és balra végződik
+29AA: Mérési szög nyílt karral lefelé mutató nyíl lefelé és jobbra
+29AB: Mérési szög nyílt karral lefelé mutató nyíl lefelé és balra
+29AC: Mérési szög nyílt karral, a nyíl jobbra és felfelé mutató vége
+29AD: Mérési szög nyílt karral, a nyíl balra és felfelé mutató vége
+29AE: Mérési szög nyílt karral a jobbra és lefelé mutató nyíllal
+29AF: Mérési szög nyílt karral, a nyíl balra és lefelé mutató vége
+29B0: Fordított üres készlet
+29B1: Üres készlet a Overbar segítségével
+29B2: Üres szett kis körrel felül
+29B3: Üres készlet jobb oldali nyíl felett
+29B4: Üres sor balra nyíl
+29B5: Kör vízszintes sávval
+29B6: Körözött függőleges sáv
+29B7: Körözött párhuzamos
+29B8: Körbefordított Reverse Solidus
+29B9: Körözött merőleges
+29BA: Kör osztva vízszintes sáv és a felsõ felosztás függõleges sávval
+29BB: Kör felülettel X
+29BC: Körkörös, ellentétes irányban elforgatott osztály jel
+29BD: Felfelé nyíló kör
+29BE: Körözött fehér golyó
+29BF: Körözött golyó
+29C0: Körülvették a kevesebbet
+29C1: Nagyobb körben körözött
+29C2: Kör kis körrel jobbra
+29C3: Kör, két vízszintes ütéssel jobbra
 29C4: Squared Rising Diagonal Slash
 29C5: Squared Falling Diagonal Slash
-29C6: Squared Asterisk
+29C6: Négyzet alakú csillag
 29C7: Squared Small Circle
-29C8: Squared Square
-29C9: Two Joined Squares
-29CA: Triangle with Dot Above
-29CB: Triangle with Underbar
-29CC: S In Triangle
-29CD: Triangle with Serifs At Bottom
-29CE: Right Triangle Above Left Triangle
-29CF: Left Triangle Beside Vertical Bar
-29D0: Vertical Bar Beside Right Triangle
-29D1: Bowtie with Left Half Black
-29D2: Bowtie with Right Half Black
-29D3: Black Bowtie
-29D4: Times with Left Half Black
-29D5: Times with Right Half Black
-29D6: White Hourglass : vertical bowtie : white framus
-29D7: Black Hourglass
-29D8: Left Wiggly Fence
-29D9: Right Wiggly Fence
-29DA: Left Double Wiggly Fence
-29DB: Right Double Wiggly Fence
-29DC: Incomplete Infinity : isotech entity &iinfin;
-29DD: Tie Over Infinity
-29DE: Infinity Negated with Vertical Bar
-29DF: Double-Ended Multimap
-29E0: Square with Contoured Outline : d'alembertian
-29E1: Increases As
-29E2: Shuffle Product
-29E3: Equals Sign and Slanted Parallel
-29E4: Equals Sign and Slanted Parallel with Tilde Above
-29E5: Identical To and Slanted Parallel
-29E6: Gleich Stark : tautological equivalent
-29E7: Thermodynamic
-29E8: Down-Pointing Triangle with Left Half Black
-29E9: Down-Pointing Triangle with Right Half Black
-29EA: Black Diamond with Down Arrow
-29EB: Black Lozenge
-29EC: White Circle with Down Arrow
-29ED: Black Circle with Down Arrow
-29EE: Error-Barred White Square
-29EF: Error-Barred Black Square
-29F0: Error-Barred White Diamond
-29F1: Error-Barred Black Diamond
-29F2: Error-Barred White Circle
-29F3: Error-Barred Black Circle
-29F4: Rule-Delayed : colon right arrow
-29F5: Reverse Solidus Operator
-29F6: Solidus with Overbar
-29F7: Reverse Solidus with Horizontal Stroke
+29C8: Négyzet alakú négyzet
+29C9: Két egyesített négyzet
+29CA: Háromszög a fenti ponttal
+29CB: Háromszög az alsó sávval
+29CC: S Háromszögben
+29CD: Háromszög Serifs alul
+29CE: Jobb háromszög a bal oldali háromszög felett
+29CF: Bal háromszög a függőleges sáv mellett
+29D0: Függőleges sáv a jobb oldali háromszög mellett
+29D1: Bowtie a bal félig fekete
+29D2: Bowtie a jobb félig fekete
+29D3: Fekete Bowtie
+29D4: Times bal félig fekete
+29D5: Times jobb félig fekete
+29D6: Fehér homokóra : függőleges értékesítés : fehér framus
+29D7: Fekete homokóra
+29D8: Bal Wiggly kerítés
+29D9: Jobb Wiggly kerítés
+29DA: Bal Double Wiggly kerítés
+29DB: Jobb dupla Wiggly kerítés
+29DC: Hiányos Infinity : izotech entitás & iinfin;
+29DD: Nyakkendő végtelen
+29DE: Infinity Negated a függőleges sávval
+29DF: Dupla végű multimap
+29E0: Négyzet alakú kontúrvázzal : d'alembertian
+29E1: Növekszik As
+29E2: Vegyes termék
+29E3: Egyenlő jel és ferde párhuzamos
+29E4: Egyenlő jel és párhuzamos a Tilde-fel
+29E5: Azonos és ferde párhuzamos
+29E6: Gleich Stark : tautológiai egyenértékű
+29E7: termodinamikai
+29E8: Lefelé mutató háromszög, bal félig fekete
+29E9: Lefelé mutató háromszög a jobb félig fekete
+29EA: Fekete gyémánt lefelé nyíl
+29EB: Fekete Lozenge
+29EC: Fehér kör, lefelé nyíl
+29ED: Fekete kör, lefelé nyíl
+29EE: Hiba-Barred White Square
+29EF: Hiba-Barred Black Square
+29F0: Hiba-Barred White Diamond
+29F1: Hiba-Barred Black Diamond
+29F2: Hiba-elutasított fehér kör
+29F3: Hiba-Barred Black Circle
+29F4: Szabály Késleltetett : vastagbél jobb nyíl
+29F5: Fordított Solidus operátor
+29F6: Solidus a Overbar-al
+29F7: Fordított Solidus vízszintes ütéssel
 29F8: Big Solidus
-29F9: Big Reverse Solidus : z notation schema hiding
+29F9: Nagy Reverse Solidus : z jelölési séma elrejtése
 29FA: Double Plus
 29FB: Triple Plus
-29FC: Left-Pointing Curved Angle Bracket
-29FD: Right-Pointing Curved Angle Bracket
-29FE: Tiny
-29FF: Miny
+29FC: Balra mutató görbe szögtartó
+29FD: Jobbra mutató görbe szögtartó
+29FE: Apró
+29FF: miny

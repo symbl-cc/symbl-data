@@ -1,0 +1,256 @@
+1D900: Firma Mano-Puño Pulgar Bajo Tres Dedos
+1D901: Firma Mano-Puño Pulgar Bajo Cuatro Dedos
+1D902: Firma Mano-Puño Pulgar Sobre Cuatro Nudillos Levantados
+1D903: Firma Mano Puño
+1D904: Firma de mano puño de tacón
+1D905: Firma Touch Single
+1D906: Signwriting Touch Multiple
+1D907: Signo de escritura entre
+1D908: Sujeción de firma individual
+1D909: Sujeción de firma múltiple
+1D90A: Sujeción de firma entre
+1D90B: Firma huelga individual
+1D90C: Firma de huelga múltiple
+1D90D: Huelga de firma entre
+1D90E: Pincel de firma individual
+1D90F: Pincel de firma múltiple
+1D910: Pincel de firma entre
+1D911: Firma de Rub solo
+1D912: Firma frotar múltiples
+1D913: Firma Frotar Entre
+1D914: Signos de símbolos de superficie
+1D915: Firma de superficie entre
+1D916: Firma Squeeze Large Single
+1D917: Firma Squeeze Pequeño Individual
+1D918: Signwriting Squeeze Large Multiple
+1D919: Firma Squeeze Pequeño Múltiple
+1D91A: Firma Squeeze Secuencial
+1D91B: Firma Flick Large Single
+1D91C: Firma Flick Pequeño Individual
+1D91D: Firma Flick Gran Múltiple
+1D91E: Firma Flick Pequeño Múltiple
+1D91F: Firma Flick Secuencial
+1D920: Firma Squeeze Flick Alternando
+1D921: Señalización Movimiento-Bisagra Arriba Abajo Grande
+1D922: Señalización Movimiento-Bisagra Arriba Abajo Pequeño
+1D923: Firma de movimiento-bisagra arriba secuencial
+1D924: Firma de movimiento-bisagra hacia abajo secuencial
+1D925: Señalización Movimiento-Bisagra Arriba Abajo Alternando Grande
+1D926: Señalización Movimiento-Bisagra Arriba Abajo Alternando Pequeño
+1D927: Señalización Movimiento-Bisagra de lado a lado Tijeras
+1D928: Señalización Movimiento-Plano Plano Dedo Contacto
+1D929: Señalización Movimiento-Plano Plano Dedo Contacto
+1D92A: Señalización Movimiento-Wallplane Individual Recta Pequeña
+1D92B: Signwriting Movement-Wallplane Single Straight Medium
+1D92C: Señalización Movimiento-Wallplane Individual Recta Grande
+1D92D: Señalización Movimiento-Wallplane individual recta más grande
+1D92E: Signwriting Movement-Wallplane Single Wrist Flex
+1D92F: Señalización Movimiento-Wallplane Doble Recta
+1D930: Signwriting Movimiento-Wallplane Doble muñeca Flex
+1D931: Señalización Movimiento-Wallplane Doble Alternativa
+1D932: Signwriting Movimiento-Wallplane Doble muñeca alterna Flex
+1D933: Firma Movimiento-Wallplane Cruz
+1D934: Señalización Movimiento-Wallplane Triple Movimiento Recto
+1D935: Signwriting Movement-Wallplane Triple muñeca Flex
+1D936: Señalización Movimiento-Wallplane Triple Alternante
+1D937: Signwriting Movimiento-Wallplane Triple muñeca alterna Flex
+1D938: Señalización Movimiento-Wallplane Curva pequeña
+1D939: Signwriting Movement-Wallplane Bend Medium
+1D93A: Señalización Movimiento-Wallplane Curva Grande
+1D93B: Signwriting Movement-Wallplane Corner Small
+1D93C: Signwriting Movement-Wallplane Corner Medium
+1D93D: Signwriting Movement-Wallplane Corner Large
+1D93E: Rotación de esquinas de movimiento-rotulación plano
+1D93F: Firma Movimiento-Wallplane cheque pequeño
+1D940: Firma Movimiento-Wallplane Check Medium
+1D941: Firma Movimiento-Wallplane cheque grande
+1D942: Señalización Movimiento-Wallplane Caja pequeña
+1D943: Signwriting Movement-Wallplane Box Medium
+1D944: Señalización Movimiento-Wallplane Caja Grande
+1D945: Señalización Movimiento-Wallplane Zigzag Pequeño
+1D946: Signwriting Movimiento-Wallplane Zigzag Medio
+1D947: Señalización Movimiento-Wallplane Zigzag Grande
+1D948: Señalización Movimiento-Wallplane Picos pequeños
+1D949: Signwriting Movement-Wallplane Peaks Medium
+1D94A: Señalización Movimiento-Wallplane Picos Grandes
+1D94B: Signwriting Travel-Wallplane Rotation-Wallplane individual
+1D94C: Signwriting Travel-Wallplane Rotation-Wallplane Doble
+1D94D: Signwriting Travel-Wallplane Rotación-Wallplane Alternando
+1D94E: Signwriting Travel-Wallplane Rotación-Floorplane individual
+1D94F: Signwriting Travel-Wallplane Rotación-Floorplane Doble
+1D950: Signwriting Travel-Wallplane Rotación-Floorplane Alternando
+1D951: Signwriting Travel-Wallplane Shaking
+1D952: Señalización Travel-Wallplane Brazo Espiral Individual
+1D953: Señalización Travel-Wallplane Brazo Espiral Doble
+1D954: Señalización Travel-Wallplane Brazo Espiral Triple
+1D955: Signwriting Movement-Diagonal Away Small
+1D956: Signwriting Movement-Diagonal Away Medium
+1D957: Signwriting Movement-Diagonal Away Large
+1D958: Signwriting Movement-Diagonal Away más grande
+1D959: Señalización Movimiento-Diagonal Hacia Pequeño
+1D95A: Señalización Movimiento-Diagonal Hacia Medio
+1D95B: Señalización Movimiento-Diagonal Hacia Grandes
+1D95C: Firma de movimiento-Diagonal hacia el más grande
+1D95D: Firma Movimiento-Diagonal Entre Away Pequeño
+1D95E: Signwriting Movement-Diagonal Between Away Medium
+1D95F: Signwriting Movement-Diagonal Entre Away Large
+1D960: Firma de movimiento-diagonal entre el más grande lejos
+1D961: Firma de movimiento-diagonal entre hacia pequeño
+1D962: Firma de movimiento-diagonal entre medio
+1D963: Firma de movimiento-Diagonal entre grandes
+1D964: Firma de movimiento-diagonal entre hacia más grande
+1D965: Señalización Movimiento-Plano Plano Recto Pequeño
+1D966: Señalización Movimiento Plano Plano Recta Mediana
+1D967: Señalización Movimiento-Plano Plano Recto Grande
+1D968: Señalización Movimiento-Plano Plano Recto Más Grande
+1D969: Signwriting Movement-Floorplane Single Wrist Flex
+1D96A: Señalización Movimiento-Plano Plano Doble Recta
+1D96B: Signwriting Movimiento-Floorplane Doble muñeca Flex
+1D96C: Señalización Movimiento-Plano Plano Doble Alterno
+1D96D: Signwriting Movimiento-Floorplane doble muñeca alternante Flex
+1D96E: Señalización Movimiento-Floorplane Cruz
+1D96F: Señalización Movimiento-Plano Plano Movimiento Recto Triple
+1D970: Signwriting Movement-Floorplane Triple Wrist Flex
+1D971: Señalización Movimiento-Plano Plano Movimiento Alternativo
+1D972: Signwriting Movimiento-Floorplane Triple muñeca alternante Flex
+1D973: Señalización Movimiento-Plano de planta
+1D974: Signwriting Movement-Floorplane Corner Small
+1D975: Signwriting Movement-Floorplane Corner Medium
+1D976: Signwriting Movement-Floorplane Corner Large
+1D977: Firma de movimiento-Verificación de plano de piso
+1D978: Señalización Movimiento-Floorplane Caja pequeña
+1D979: Signwriting Movement-Floorplane Box Medium
+1D97A: Señalización movimiento caja de plano de piso grande
+1D97B: Señalización Movimiento-Floorplane Zigzag Pequeño
+1D97C: Signwriting Movement-Floorplane Zigzag Medium
+1D97D: Señalización Movimiento-Floorplane Zigzag Grande
+1D97E: Señalización Movimiento-Floorplane Picos pequeños
+1D97F: Señalización Movimiento-Floorplane Picos Medio
+1D980: Señalización Movimiento-Floorplane Picos Grandes
+1D981: Señalización Travel-Floorplane Rotation-Floorplane Single
+1D982: Signwriting Travel-Floorplane Rotation-Floorplane Doble
+1D983: Signwriting Travel-Floorplane Rotation-Floorplane Alternando
+1D984: Signwriting Travel-Floorplane Rotation-Wallplane individual
+1D985: Signwriting Travel-Floorplane Rotation-Wallplane Doble
+1D986: Signwriting Travel-Floorplane Rotation-Wallplane Alternando
+1D987: Signwriting Travel-Floorplane Shaking
+1D988: Firma Movimiento-Wallplane Curva Cuarto pequeño
+1D989: Signwriting Movimiento-Wallplane Curva Cuarto Medio
+1D98A: Signwriting Movement-Wallplane Curve Quarter Large
+1D98B: Firma Movimiento-Wallplane Curva Trimestre más grande
+1D98C: Señalización Movimiento-Wallplane Curva Medio Círculo Pequeño
+1D98D: Signwriting Movimiento-Wallplane Curva Medio Círculo Medio
+1D98E: Señalización Movimiento-Wallplane Curva Medio Círculo Grande
+1D98F: Signwriting Movement-Wallplane Curva medio círculo más grande
+1D990: Signwriting Movement-Wallplane Curve Three Quarter Circle Small
+1D991: Signwriting Movement-Wallplane Curva Mediano Círculo de tres cuartos
+1D992: Señalización Movimiento-Wallplane Hump Pequeño
+1D993: Signwriting Movement-Wallplane Hump Medium
+1D994: Signwriting Movement-Wallplane Hump Large
+1D995: Señalización Movimiento-Wallplane Loop Pequeño
+1D996: Signwriting Movement-Wallplane Loop Medium
+1D997: Señalización Movimiento-Wallplane Loop Grande
+1D998: Signwriting Movement-Wallplane Loop Small Double
+1D999: Señalización Movimiento-Wallplane Onda Curva Doble Pequeña
+1D99A: Señalización Movimiento-Wallplane Onda Curva Doble Mediana
+1D99B: Señalización Movimiento-Wallplane Onda Curva Doble Grande
+1D99C: Señalización Movimiento-Wallplane Onda Curva Triple pequeña
+1D99D: Señalización Movimiento-Wallplane Onda Curva Triple Medio
+1D99E: Señalización Movimiento-Wallplane Onda Curva Triple Grande
+1D99F: Firma de movimiento-Wallplane curva luego recta
+1D9A0: Firma Movimiento-Wallplane Curvado Cruz Pequeño
+1D9A1: Señalización Movimiento-Plano de pared Curvado Medio en cruz
+1D9A2: Firma Rotación-Wallplane Individual
+1D9A3: Firma Rotación-Wallplane Doble
+1D9A4: Firma Rotación-Wallplane Alternativa
+1D9A5: Signwriting Movimiento-Wallplane Shaking
+1D9A6: Señalización Movimiento-Wallplane Curva Golpear la pared frontal
+1D9A7: Señalización Movimiento-Wallplane Hump Golpear la pared frontal
+1D9A8: Señalización Movimiento-Wallplane Loop golpear la pared frontal
+1D9A9: Señalización Movimiento-Wallplane Onda golpeando la pared frontal
+1D9AA: Señalización Rotación-Plano de pared Golpe sencillo Pared frontal
+1D9AB: Señalización Rotación-plano de pared Doble golpe en la pared frontal
+1D9AC: Señalización Rotación-Plano de pared Alternando Golpear la pared frontal
+1D9AD: Signwriting Movimiento-Wallplane Curva Golpear el pecho
+1D9AE: Signwriting Movement-Wallplane Hump Golpear el pecho
+1D9AF: Signwriting Movement-Wallplane Loop Golpear el pecho
+1D9B0: Signwriting Movement-Wallplane Wave Cofre de golpes
+1D9B1: Letrero de rotación de plano de plano de un solo golpe
+1D9B2: Rótulo de Rotación-Plano de Planchas de Doble Golpe
+1D9B3: Rótulo de Rotación-Plano de Planchas de Golpe Alternativo
+1D9B4: Señalización Movimiento-Wallplane Onda Diagonal Trayectoria pequeña
+1D9B5: Signwriting Movimiento-Wallplane Onda Diagonal Camino Medio
+1D9B6: Señalización Movimiento-Wallplane Onda Diagonal Trayectoria grande
+1D9B7: Señalización Movimiento-Floorplane Curva Golpear Techo Pequeño
+1D9B8: Señalización Movimiento-Plano Plano Curva Golpear Techo Grande
+1D9B9: Señalización Movimiento-Floorplane Hump Golpear Techo Pequeño Doble
+1D9BA: Señalización Movimiento-Floorplane Hump Golpear Techo Grande Doble
+1D9BB: Señalización Movimiento-Floorplane Hump Golpear Techo Pequeño Triple
+1D9BC: Señalización Movimiento-Floorplane Hump Golpear Techo Grande Triple
+1D9BD: Señalización Movimiento Movimiento Plano Plano Golpe Techo Pequeño Individual
+1D9BE: Señalización Movimiento Movimiento Plano Plano Golpe Techo Grande Individual
+1D9BF: Señalización Movimiento Movimiento Plano Plano Golpe Techo Pequeño Doble
+1D9C0: Señalización Movimiento - Plano de piso Golpear Techo grande doble
+1D9C1: Señalización Movimiento-Floorplane Onda Golpear Techo Pequeño
+1D9C2: Señalización Movimiento-Floorplane Onda Golpear Techo Grande
+1D9C3: Señalización Rotación-Plano Plano Golpe simple Techo
+1D9C4: Señalización Rotación-Plano Plano Doble Golpe Techo
+1D9C5: Señalización Rotación-Plano Plano Alternativo Golpear Techo
+1D9C6: Señalización Movimiento-Plano Plano Curva Golpear Piso Pequeño
+1D9C7: Señalización Movimiento-Plano Plano Curva Golpear Piso Grande
+1D9C8: Señalización Movimiento-Floorplane Hump Golpear Floor Small Doble
+1D9C9: Señalización Movimiento-Floorplane Hump Golpear Piso Grande Doble
+1D9CA: Señalización Movimiento-Floorplane Hump Golpear Floor Triple Small Triple
+1D9CB: Señalización Movimiento-Floorplane Hump Golpear Floor Triple Large Triple
+1D9CC: Señalización Movimiento Movimiento Plano Plano Golpear Piso Pequeño Individual
+1D9CD: Señalización Movimiento - Plano de piso Golpe Golpear Piso Grande Individual
+1D9CE: Señalización Movimiento - Plano de piso Golpe Golpear Piso Pequeño Doble
+1D9CF: Señalización Movimiento-Plano de piso Golpe Golpear Piso Grande Doble
+1D9D0: Señalización Movimiento-Floorplane Onda Golpear Piso Pequeño
+1D9D1: Señalización Movimiento-Floorplane Onda Golpear Piso Grande
+1D9D2: Señalización Rotación-Floorplane Single Hitting Floor
+1D9D3: Señalización Rotación-Plano Plano Doble Golpear Piso
+1D9D4: Rótulo rotativo-Plano de piso Alternando golpeando piso
+1D9D5: Señalización Movimiento-Plano Plano Curva Pequeño
+1D9D6: Signwriting Movimiento-Floorplane Curva Medio
+1D9D7: Signwriting Movement-Floorplane Curve Large
+1D9D8: Signwriting Movement-Floorplane la curva más grande
+1D9D9: Señalización Movimiento-Plano Plano Curva Combinada
+1D9DA: Signwriting Movement-Floorplane Hump Small
+1D9DB: Señalización Movimiento Loop Plano Plano pequeño
+1D9DC: Signwriting Movimiento-Floorplane Wave Snake
+1D9DD: Señalización Movimiento-Floorplane Onda Pequeño
+1D9DE: Señalización Movimiento-Floorplane Wave Grande
+1D9DF: Firma Rotación-Plano de Piso Individual
+1D9E0: Rótulo de Rotación-Plano Plano Doble
+1D9E1: Rótulo rotativo-Plano de piso alternante
+1D9E2: Señalización Movimiento-Plano Plano Temblando Paralelo
+1D9E3: Signwriting Movement-Wallplane Arm Circle Small Single
+1D9E4: Señalización Movimiento-Plano de plano Brazo Círculo Medio Individual
+1D9E5: Señalización Movimiento-Wallplane Brazo Círculo Pequeño doble
+1D9E6: Señalización Movimiento-Wallplane Brazo Círculo Medio Doble
+1D9E7: Señalización Movimiento-Plano del piso Brazo Círculo Golpear la pared Individual pequeño
+1D9E8: Señalización Movimiento-Plano del piso Brazo Círculo Golpear la pared Medio Individual
+1D9E9: Señalización Movimiento-Plano del piso Brazo Círculo Golpear la pared Grande Individual
+1D9EA: Señalización Movimiento-Plano Plano Brazo Círculo Golpear Muro Pequeño doble
+1D9EB: Señalización Movimiento-Plano Plano Brazo Círculo Golpear Muro Medio Doble
+1D9EC: Señalización Movimiento-Plano Plano Brazo Círculo Golpear Muro Grande Doble
+1D9ED: Signwriting Movement-Wallplane Muñeca Círculo Delantero Simple
+1D9EE: Signwriting Movimiento-Wallplane Muñeca Círculo Frontal Doble
+1D9EF: Signwriting Movement-Floorplane Muñeca Círculo Golpear la pared Individual
+1D9F0: Señalización Movimiento-Plano Plano Muñeca Círculo Golpear Muro Doble
+1D9F1: Signwriting Movement-Wallplane Finger Circles Single
+1D9F2: Signwriting Movimiento-Wallplane Dedos Círculos Doble
+1D9F3: Señalización Movimiento Círculo Dedo Círculos Golpear la pared individual
+1D9F4: Señalización Movimiento-Plano Plano Dedos Círculos Golpear Muro Doble
+1D9F5: Firma dinámica punta de flecha pequeña
+1D9F6: Signwriting Dynamic Arrowhead Large
+1D9F7: Firma rápida dinámica
+1D9F8: Firma Dinámica Lenta
+1D9F9: Firma de tiempo dinámico
+1D9FA: Firma dinámica relajada
+1D9FB: Firma Dinámica Simultánea
+1D9FC: Firma Dinámica Alternativa Simultánea
+1D9FD: Firma dinámica cada dos veces
+1D9FE: Firma Dinámica Gradual
+1D9FF: Jefe de Firma

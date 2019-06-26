@@ -6,7 +6,7 @@ example-text: ค้อนและเคียว
 h1: ค้นหา
 result: ผลลัพธ์
 empty: คำที่ค้นหาว่างเปล่า
-total: ทั้งหมด: %s
+total: ผลการค้นหา: %s
 limit: (แสดงเฉพาะ %s)
 none: ไม่มี
 any: ค้นหาคำใดๆ
@@ -15,3 +15,10 @@ unicode-block: บล็อก Unicode
 count-symbols: %s สัญลักษณ์
 sets: ตั้งค่า
 alphabet: ตัวอักษร
+
+[empty]
+no_results: ไม่พบผลลัพธ์สำหรับ "{query}" ในภาษาไทย
+language: ลองเปลี่ยน{ภาษา}.
+blocks: สำรวจ{บล็อกUnicode}
+sets: มองมันเป็น{ชุด}.
+table: มองผ่าน{ตารางอักขระ}เต็ม

@@ -1,256 +1,256 @@
-BE00: Hangul syllable byum
-BE01: Hangul syllable byub
-BE02: Hangul syllable byubs
-BE03: Hangul syllable byus
-BE04: Hangul syllable byuss
-BE05: Hangul syllable byung
-BE06: Hangul syllable byuj
-BE07: Hangul syllable byuc
-BE08: Hangul syllable byuk
-BE09: Hangul syllable byut
-BE0A: Hangul syllable byup
-BE0B: Hangul syllable byuh
-BE0C: Hangul syllable beu
-BE0D: Hangul syllable beug
-BE0E: Hangul syllable beugg
-BE0F: Hangul syllable beugs
-BE10: Hangul syllable beun
-BE11: Hangul syllable beunj
-BE12: Hangul syllable beunh
-BE13: Hangul syllable beud
-BE14: Hangul syllable beul
-BE15: Hangul syllable beulg
-BE16: Hangul syllable beulm
-BE17: Hangul syllable beulb
-BE18: Hangul syllable beuls
-BE19: Hangul syllable beult
-BE1A: Hangul syllable beulp
-BE1B: Hangul syllable beulh
-BE1C: Hangul syllable beum
-BE1D: Hangul syllable beub
-BE1E: Hangul syllable beubs
-BE1F: Hangul syllable beus
-BE20: Hangul syllable beuss
-BE21: Hangul syllable beung
-BE22: Hangul syllable beuj
-BE23: Hangul syllable beuc
-BE24: Hangul syllable beuk
-BE25: Hangul syllable beut
-BE26: Hangul syllable beup
-BE27: Hangul syllable beuh
-BE28: Hangul syllable byi
-BE29: Hangul syllable byig
-BE2A: Hangul syllable byigg
-BE2B: Hangul syllable byigs
-BE2C: Hangul syllable byin
-BE2D: Hangul syllable byinj
-BE2E: Hangul syllable byinh
-BE2F: Hangul syllable byid
-BE30: Hangul syllable byil
-BE31: Hangul syllable byilg
-BE32: Hangul syllable byilm
-BE33: Hangul syllable byilb
-BE34: Hangul syllable byils
-BE35: Hangul syllable byilt
-BE36: Hangul syllable byilp
-BE37: Hangul syllable byilh
-BE38: Hangul syllable byim
-BE39: Hangul syllable byib
-BE3A: Hangul syllable byibs
-BE3B: Hangul syllable byis
-BE3C: Hangul syllable byiss
-BE3D: Hangul syllable bying
-BE3E: Hangul syllable byij
-BE3F: Hangul syllable byic
-BE40: Hangul syllable byik
-BE41: Hangul syllable byit
-BE42: Hangul syllable byip
-BE43: Hangul syllable byih
-BE44: Hangul syllable bi
-BE45: Hangul syllable big
-BE46: Hangul syllable bigg
-BE47: Hangul syllable bigs
-BE48: Hangul syllable bin
-BE49: Hangul syllable binj
-BE4A: Hangul syllable binh
-BE4B: Hangul syllable bid
-BE4C: Hangul syllable bil
-BE4D: Hangul syllable bilg
-BE4E: Hangul syllable bilm
-BE4F: Hangul syllable bilb
-BE50: Hangul syllable bils
-BE51: Hangul syllable bilt
-BE52: Hangul syllable bilp
-BE53: Hangul syllable bilh
-BE54: Hangul syllable bim
-BE55: Hangul syllable bib
-BE56: Hangul syllable bibs
-BE57: Hangul syllable bis
-BE58: Hangul syllable biss
-BE59: Hangul syllable bing
-BE5A: Hangul syllable bij
-BE5B: Hangul syllable bic
-BE5C: Hangul syllable bik
-BE5D: Hangul syllable bit
-BE5E: Hangul syllable bip
-BE5F: Hangul syllable bih
-BE60: Hangul syllable bba
-BE61: Hangul syllable bbag
-BE62: Hangul syllable bbagg
-BE63: Hangul syllable bbags
-BE64: Hangul syllable bban
-BE65: Hangul syllable bbanj
-BE66: Hangul syllable bbanh
-BE67: Hangul syllable bbad
-BE68: Hangul syllable bbal
-BE69: Hangul syllable bbalg
-BE6A: Hangul syllable bbalm
-BE6B: Hangul syllable bbalb
-BE6C: Hangul syllable bbals
-BE6D: Hangul syllable bbalt
-BE6E: Hangul syllable bbalp
-BE6F: Hangul syllable bbalh
-BE70: Hangul syllable bbam
-BE71: Hangul syllable bbab
-BE72: Hangul syllable bbabs
-BE73: Hangul syllable bbas
-BE74: Hangul syllable bbass
-BE75: Hangul syllable bbang
-BE76: Hangul syllable bbaj
-BE77: Hangul syllable bbac
-BE78: Hangul syllable bbak
-BE79: Hangul syllable bbat
-BE7A: Hangul syllable bbap
-BE7B: Hangul syllable bbah
-BE7C: Hangul syllable bbae
-BE7D: Hangul syllable bbaeg
-BE7E: Hangul syllable bbaegg
-BE7F: Hangul syllable bbaegs
-BE80: Hangul syllable bbaen
-BE81: Hangul syllable bbaenj
-BE82: Hangul syllable bbaenh
-BE83: Hangul syllable bbaed
-BE84: Hangul syllable bbael
-BE85: Hangul syllable bbaelg
-BE86: Hangul syllable bbaelm
-BE87: Hangul syllable bbaelb
-BE88: Hangul syllable bbaels
-BE89: Hangul syllable bbaelt
-BE8A: Hangul syllable bbaelp
-BE8B: Hangul syllable bbaelh
-BE8C: Hangul syllable bbaem
-BE8D: Hangul syllable bbaeb
-BE8E: Hangul syllable bbaebs
-BE8F: Hangul syllable bbaes
-BE90: Hangul syllable bbaess
-BE91: Hangul syllable bbaeng
-BE92: Hangul syllable bbaej
-BE93: Hangul syllable bbaec
-BE94: Hangul syllable bbaek
-BE95: Hangul syllable bbaet
-BE96: Hangul syllable bbaep
-BE97: Hangul syllable bbaeh
-BE98: Hangul syllable bbya
-BE99: Hangul syllable bbyag
-BE9A: Hangul syllable bbyagg
-BE9B: Hangul syllable bbyags
-BE9C: Hangul syllable bbyan
-BE9D: Hangul syllable bbyanj
-BE9E: Hangul syllable bbyanh
-BE9F: Hangul syllable bbyad
-BEA0: Hangul syllable bbyal
-BEA1: Hangul syllable bbyalg
-BEA2: Hangul syllable bbyalm
-BEA3: Hangul syllable bbyalb
-BEA4: Hangul syllable bbyals
-BEA5: Hangul syllable bbyalt
-BEA6: Hangul syllable bbyalp
-BEA7: Hangul syllable bbyalh
-BEA8: Hangul syllable bbyam
-BEA9: Hangul syllable bbyab
-BEAA: Hangul syllable bbyabs
-BEAB: Hangul syllable bbyas
-BEAC: Hangul syllable bbyass
-BEAD: Hangul syllable bbyang
-BEAE: Hangul syllable bbyaj
-BEAF: Hangul syllable bbyac
-BEB0: Hangul syllable bbyak
-BEB1: Hangul syllable bbyat
-BEB2: Hangul syllable bbyap
-BEB3: Hangul syllable bbyah
-BEB4: Hangul syllable bbyae
-BEB5: Hangul syllable bbyaeg
-BEB6: Hangul syllable bbyaegg
-BEB7: Hangul syllable bbyaegs
-BEB8: Hangul syllable bbyaen
-BEB9: Hangul syllable bbyaenj
-BEBA: Hangul syllable bbyaenh
-BEBB: Hangul syllable bbyaed
-BEBC: Hangul syllable bbyael
-BEBD: Hangul syllable bbyaelg
-BEBE: Hangul syllable bbyaelm
-BEBF: Hangul syllable bbyaelb
-BEC0: Hangul syllable bbyaels
-BEC1: Hangul syllable bbyaelt
-BEC2: Hangul syllable bbyaelp
-BEC3: Hangul syllable bbyaelh
-BEC4: Hangul syllable bbyaem
-BEC5: Hangul syllable bbyaeb
-BEC6: Hangul syllable bbyaebs
-BEC7: Hangul syllable bbyaes
-BEC8: Hangul syllable bbyaess
-BEC9: Hangul syllable bbyaeng
-BECA: Hangul syllable bbyaej
-BECB: Hangul syllable bbyaec
-BECC: Hangul syllable bbyaek
-BECD: Hangul syllable bbyaet
-BECE: Hangul syllable bbyaep
-BECF: Hangul syllable bbyaeh
-BED0: Hangul syllable bbeo
-BED1: Hangul syllable bbeog
-BED2: Hangul syllable bbeogg
-BED3: Hangul syllable bbeogs
-BED4: Hangul syllable bbeon
-BED5: Hangul syllable bbeonj
-BED6: Hangul syllable bbeonh
-BED7: Hangul syllable bbeod
-BED8: Hangul syllable bbeol
-BED9: Hangul syllable bbeolg
-BEDA: Hangul syllable bbeolm
-BEDB: Hangul syllable bbeolb
-BEDC: Hangul syllable bbeols
-BEDD: Hangul syllable bbeolt
-BEDE: Hangul syllable bbeolp
-BEDF: Hangul syllable bbeolh
-BEE0: Hangul syllable bbeom
-BEE1: Hangul syllable bbeob
-BEE2: Hangul syllable bbeobs
-BEE3: Hangul syllable bbeos
-BEE4: Hangul syllable bbeoss
-BEE5: Hangul syllable bbeong
-BEE6: Hangul syllable bbeoj
-BEE7: Hangul syllable bbeoc
-BEE8: Hangul syllable bbeok
-BEE9: Hangul syllable bbeot
-BEEA: Hangul syllable bbeop
-BEEB: Hangul syllable bbeoh
-BEEC: Hangul syllable bbe
-BEED: Hangul syllable bbeg
-BEEE: Hangul syllable bbegg
-BEEF: Hangul syllable bbegs
-BEF0: Hangul syllable bben
-BEF1: Hangul syllable bbenj
-BEF2: Hangul syllable bbenh
-BEF3: Hangul syllable bbed
-BEF4: Hangul syllable bbel
-BEF5: Hangul syllable bbelg
-BEF6: Hangul syllable bbelm
-BEF7: Hangul syllable bbelb
-BEF8: Hangul syllable bbels
-BEF9: Hangul syllable bbelt
-BEFA: Hangul syllable bbelp
-BEFB: Hangul syllable bbelh
-BEFC: Hangul syllable bbem
-BEFD: Hangul syllable bbeb
-BEFE: Hangul syllable bbebs
-BEFF: Hangul syllable bbes
+BE00: Hangul Silbe Byum
+BE01: Hangul Silbe Byub
+BE02: Hangul Silbe Byubs
+BE03: Hangul Silbe Byus
+BE04: Hangul Silbe Byuss
+BE05: Hangul Silbe Byung
+BE06: Hangul-Silbe Byuj
+BE07: Hangul Silbe Byuc
+BE08: Hangul Silbe Byuk
+BE09: Hangul Silbe Byut
+BE0A: Hangul Silbe Byup
+BE0B: Hangul-Silbe Byuh
+BE0C: Hangul Silbe Beu
+BE0D: Hangul Silbe Beug
+BE0E: Hangul Silbe Beugg
+BE0F: Hangul Silbe Beugs
+BE10: Hangul Silbe Beun
+BE11: Hangul Silbe Beunj
+BE12: Hangul Silbe Beunh
+BE13: Hangul Silbe Beud
+BE14: Hangul Silbe Beul
+BE15: Hangul Silbe Beulg
+BE16: Hangul Silbe Beulm
+BE17: Hangul Silbe Beulb
+BE18: Hangul Silbe Beuls
+BE19: Hangul Silbe Beult
+BE1A: Hangul Silbe Beulp
+BE1B: Hangul Silbe Beulh
+BE1C: Hangul Silbe Beum
+BE1D: Hangul Silbe Beub
+BE1E: Hangul Silbe Beubs
+BE1F: Hangul Silbe Beus
+BE20: Hangul Silbe Beuss
+BE21: Hangul Silbe Beung
+BE22: Hangul-Silbe Beuj
+BE23: Hangul Silbe Beuc
+BE24: Hangul Silbe Beuk
+BE25: Hangul Silbe Beut
+BE26: Hangul Silbe Beup
+BE27: Hangul Silbe Beuh
+BE28: Hangul Silbe Byi
+BE29: Hangul Silbe Byig
+BE2A: Hangul Silbe Byigg
+BE2B: Hangul Silbe Byigs
+BE2C: Hangul Silbe Byin
+BE2D: Hangul-Silbe Byinj
+BE2E: Hangul-Silbe Byinh
+BE2F: Hangul Silbe Byid
+BE30: Hangul Silbe Byil
+BE31: Hangul-Silbe Byilg
+BE32: Hangul Silbe Byilm
+BE33: Hangul Silbe Byilb
+BE34: Hangul Silbe Byils
+BE35: Hangul Silbe Byilt
+BE36: Hangul Silbe Byilp
+BE37: Hangul-Silbe Byilh
+BE38: Hangul Silbe Byim
+BE39: Hangul Silbe Byib
+BE3A: Hangul Silbe Byibs
+BE3B: Hangul Silbe Byis
+BE3C: Hangul Silbe Byiss
+BE3D: Hangul Silbe Bying
+BE3E: Hangul-Silbe Byij
+BE3F: Hangul Silbe Byic
+BE40: Hangul Silbe Byik
+BE41: Hangul Silbe Byit
+BE42: Hangul Silbe Byip
+BE43: Hangul Silbe Byih
+BE44: Hangul Silbe Bi
+BE45: Hangul Silbe groß
+BE46: Hangul Silbe Bigg
+BE47: Hangul Silbe Bigs
+BE48: Hangul Silbe Bin
+BE49: Hangul-Silbe Binj
+BE4A: Hangul-Silbe Binh
+BE4B: Hangul Silbengebot
+BE4C: Hangul Silbe Bil
+BE4D: Hangul Silbe Bilg
+BE4E: Hangul Silbe Bilm
+BE4F: Hangul Silbe Bilb
+BE50: Hangul Silbe Bils
+BE51: Hangul Silbe Bilt
+BE52: Hangul Silbe Bilp
+BE53: Hangul Silbe Bilh
+BE54: Hangul Silbe Bim
+BE55: Hangul Syllable Lätzchen
+BE56: Hangul Syllable Lätzchen
+BE57: Hangul Silbe Bis
+BE58: Hangul Silbe Biss
+BE59: Hangul Silbe Bing
+BE5A: Hangul Silbe Bij
+BE5B: Hangul Silbe Bic
+BE5C: Hangul Silbe Bik
+BE5D: Hangul Silbenstückchen
+BE5E: Hangul Silbe Bip
+BE5F: Hangul Silbe Bih
+BE60: Hangul-Silbe Bba
+BE61: Hangul Silbe Bbag
+BE62: Hangul Silbe Bbagg
+BE63: Hangul Silbenbeutel
+BE64: Hangul Silbe Bban
+BE65: Hangul-Silbe Bbanj
+BE66: Hangul Silbe Bbanh
+BE67: Hangul Silbe Bbad
+BE68: Hangul Silbe Bbal
+BE69: Hangul Silbe Bbalg
+BE6A: Hangul Silbe Bbalm
+BE6B: Hangul Silbe Bbalb
+BE6C: Hangul Silbe Bbals
+BE6D: Hangul Silbe Bbalt
+BE6E: Hangul Silbe Bbalp
+BE6F: Hangul Silbe Bbalh
+BE70: Hangul Silbe Bbam
+BE71: Hangul Silbe Bbab
+BE72: Hangul Silbe Bbabs
+BE73: Hangul Silbe Bbas
+BE74: Hangul Silbe Bbass
+BE75: Hangul Silbe Bbang
+BE76: Hangul-Silbe Bbaj
+BE77: Hangul-Silbe Bbac
+BE78: Hangul Silbe Bbak
+BE79: Hangul Silbe Bbat
+BE7A: Hangul Silbe Bbap
+BE7B: Hangul Silbe Bbah
+BE7C: Hangul-Silbe Bbae
+BE7D: Hangul-Silbe Bbaeg
+BE7E: Hangul-Silbe Bbaegg
+BE7F: Hangul Syllable Bbaegs
+BE80: Hangul-Silbe Bbaen
+BE81: Hangul-Silbe Bbaenj
+BE82: Hangul-Silbe Bbaenh
+BE83: Hangul Silbe Bbaed
+BE84: Hangul Silbe Bbael
+BE85: Hangul Silbe Bbaelg
+BE86: Hangul Silbe Bbaelm
+BE87: Hangul Silbe Bbaelb
+BE88: Hangul Silbe Bbaels
+BE89: Hangul-Silbe Bbaelt
+BE8A: Hangul Silbe Bbaelp
+BE8B: Hangul Silbe Bbaelh
+BE8C: Hangul-Silbe Bbaem
+BE8D: Hangul-Silbe Bbaeb
+BE8E: Hangul Silbe Bbaebs
+BE8F: Hangul-Silbe Bbaes
+BE90: Hangul Silbe Bbaess
+BE91: Hangul-Silbe Bbaeng
+BE92: Hangul-Silbe Bbaej
+BE93: Hangul-Silbe Bbaec
+BE94: Hangul-Silbe Bbaek
+BE95: Hangul-Silbe Bbaet
+BE96: Hangul-Silbe Bbaep
+BE97: Hangul Silbe Bbaeh
+BE98: Hangul Silbe Bbya
+BE99: Hangul-Silbe Bbyag
+BE9A: Hangul-Silbe Bbyagg
+BE9B: Hangul Silbe Bbyags
+BE9C: Hangul-Silbe Bbyan
+BE9D: Hangul-Silbe Bbyanj
+BE9E: Hangul-Silbe Bbyanh
+BE9F: Hangul-Silbe Bbyad
+BEA0: Hangul Silbe Bbyal
+BEA1: Hangul-Silbe Bbyalg
+BEA2: Hangul-Silbe Bbyalm
+BEA3: Hangul-Silbe Bbyalb
+BEA4: Hangul Silbe Bbyals
+BEA5: Hangul-Silbe Bbyalt
+BEA6: Hangul-Silbe Bbyalp
+BEA7: Hangul-Silbe Bbyalh
+BEA8: Hangul-Silbe Bbyam
+BEA9: Hangul Silbe Bbyab
+BEAA: Hangul Silbe Bbyabs
+BEAB: Hangul Silbe Bbyas
+BEAC: Hangul Silbe Bbyass
+BEAD: Hangul-Silbe Bbyang
+BEAE: Hangul-Silbe Bbyaj
+BEAF: Hangul-Silbe Bbyac
+BEB0: Hangul-Silbe Bbyak
+BEB1: Hangul-Silbe Bbyat
+BEB2: Hangul-Silbe Bbyap
+BEB3: Hangul Silbe Bbyah
+BEB4: Hangul-Silbe Bbyae
+BEB5: Hangul-Silbe Bbyaeg
+BEB6: Hangul-Silbe Bbyaegg
+BEB7: Hangul Silbe Bbyaegs
+BEB8: Hangul-Silbe Bbyaen
+BEB9: Hangul-Silbe Bbyaenj
+BEBA: Hangul-Silbe Bbyaenh
+BEBB: Hangul Silbe Bbyaed
+BEBC: Hangul-Silbe Bbyael
+BEBD: Hangul-Silbe Bbyaelg
+BEBE: Hangul-Silbe Bbyaelm
+BEBF: Hangul-Silbe Bbyaelb
+BEC0: Hangul-Silbe Bbyaels
+BEC1: Hangul-Silbe Bbyaelt
+BEC2: Hangul-Silbe Bbyaelp
+BEC3: Hangul-Silbe Bbyaelh
+BEC4: Hangul-Silbe Bbyaem
+BEC5: Hangul-Silbe Bbyaeb
+BEC6: Hangul-Silbe Bbyaebs
+BEC7: Hangul-Silbe Bbyaes
+BEC8: Hangul Silbe Bbyaess
+BEC9: Hangul-Silbe Bbyaeng
+BECA: Hangul-Silbe Bbyaej
+BECB: Hangul-Silbe Bbyaec
+BECC: Hangul-Silbe Bbyaek
+BECD: Hangul-Silbe Bbyaet
+BECE: Hangul-Silbe Bbyaep
+BECF: Hangul-Silbe Bbyaeh
+BED0: Hangul Silbe Bbeo
+BED1: Hangul Silbe Bbeog
+BED2: Hangul-Silbe Bbeogg
+BED3: Hangul Silbe Bbeogs
+BED4: Hangul Silbe Bbeon
+BED5: Hangul-Silbe Bbeonj
+BED6: Hangul-Silbe Bbeonh
+BED7: Hangul Silbe Bbeod
+BED8: Hangul-Silbe Bbeol
+BED9: Hangul Silbe Bbeolg
+BEDA: Hangul Silbe Bbeolm
+BEDB: Hangul Silbe Bbeolb
+BEDC: Hangul Silbe Bbeols
+BEDD: Hangul Silbe Bbeolt
+BEDE: Hangul Silbe Bbeolp
+BEDF: Hangul-Silbe Bbeolh
+BEE0: Hangul Silbe Bbeom
+BEE1: Hangul Silbe Bbeob
+BEE2: Hangul Silbe Bbeobs
+BEE3: Hangul Silbe Bbeos
+BEE4: Hangul Silbe Bbeoss
+BEE5: Hangul Silbe Bbeong
+BEE6: Hangul Silbe Bbeoj
+BEE7: Hangul-Silbe Bbeoc
+BEE8: Hangul Silbe Bbeok
+BEE9: Hangul Silbe Bbeot
+BEEA: Hangul-Silbe Bbeop
+BEEB: Hangul Silbe Bbeoh
+BEEC: Hangul Silbe Bbe
+BEED: Hangul Silbe Bbeg
+BEEE: Hangul Silbe Bbegg
+BEEF: Hangul Silbe Bbegs
+BEF0: Hangul Silbe Bben
+BEF1: Hangul Silbe Bbenj
+BEF2: Hangul Silbe Bbenh
+BEF3: Hangul Silbe Bett
+BEF4: Hangul Silbe Bbel
+BEF5: Hangul Silbe Bbelg
+BEF6: Hangul Silbe Bbelm
+BEF7: Hangul Silbe Bbelb
+BEF8: Hangul Silbe Bbels
+BEF9: Hangul Silbe Bbelt
+BEFA: Hangul Silbe Bbelp
+BEFB: Hangul Silbe Bbelh
+BEFC: Hangul Silbe Bbem
+BEFD: Hangul Silbe Bbeb
+BEFE: Hangul Silbe Bbebs
+BEFF: Hangul Silbe Bbes

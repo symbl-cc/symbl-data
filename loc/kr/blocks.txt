@@ -33,15 +33,15 @@ thai            : 타이 문자
 lao             : 라오 문자
 tibetan         : 티베트 문자
 myanmar         	: 버마의
-georgian        	: 그루지야어 알파벳
-hangul-jamo     	: 말하는 알파벳
+georgian        	: 그루지야어 
+hangul-jamo     	: 말하는 
 ethiopic        	: 에티오피아
 ethiopic-supplement 	: 에티오피아 보충
-cherokee        	: 체로키 알파벳
+cherokee        	: 체로키 
 unified-canadian-aboriginal-syllabics 	: 통합 캐나다 원주민 음절
 ogham           	: 오검 문자
-runic           	: 룬 문자 알파벳
-tagalog         	: 타갈로그어 알파벳
+runic           	: 룬 문자 
+tagalog         	: 타갈로그어
 hanunoo         	: 누누
 buhid           	: 부디 텍스트
 tagbanwa        	: 타그 반와
@@ -104,7 +104,7 @@ ideographic-description-characters 	: 표의 문자 설명
 cjk-symbols-and-punctuation 	: CJK 기호 및 구두점
 hiragana        	: 히라가나
 katakana        	: 일본어 가타카나
-bopomofo        	: 소리 나는대로 알파벳
+bopomofo        	: 소리 나는대로
 hangul-compatibility-jamo 	: 한글 알파벳 호환
 kanbun          	: 상형 기호주의 사항
 bopomofo-extended 	: 확장 된 음성 알파벳

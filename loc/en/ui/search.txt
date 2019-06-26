@@ -6,7 +6,7 @@ example-text: hammer and sickle;arrow;heart;star;triangle;check;circle;cross;squ
 h1: Search
 result: Result
 empty: Search phrase is empty
-total: Total: %s
+total: Search results: %s
 limit: (show only %s)
 none: None
 any: Search by any words
@@ -15,3 +15,10 @@ unicode-block: Unicode block
 count-symbols: %s symbols
 sets: Set
 alphabet: Alphabet
+
+[empty]
+no_results: No results found for "{query}" in English.
+language: Try to change {language}.
+blocks: Explore the {Unicode blocks}.
+sets: Look it up in {Sets}.
+table: Look through the full {character table}.

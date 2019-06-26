@@ -1,227 +1,227 @@
-0D00:
-0D01: Malayalam Sign Candrabindu
-0D02: Malayalam Sign Anusvara
-0D03: Malayalam Sign Visarga
+0D00: Malajálam jelzés kombinálása Anusvara felett
+0D01: Malajálam jel Candrabindu
+0D02: Malajálam jel Anusvara
+0D03: Malajálam jele Visarga
 0D04:
-0D05: Malayalam Letter A
-0D06: Malayalam Letter Aa
-0D07: Malayalam Letter I
-0D08: Malayalam Letter Ii
-0D09: Malayalam Letter U
-0D0A: Malayalam Letter Uu
-0D0B: Malayalam Letter Vocalic R
-0D0C: Malayalam Letter Vocalic L
+0D05: Malajálam A betű
+0D06: Malajálam levél Aa
+0D07: Malajálam I betű
+0D08: Malajálam levél Ii
+0D09: Malajálam betű U
+0D0A: Malajálam levél Uu
+0D0B: Malajálam levél Vocalic R
+0D0C: Malajálam levél Vocalic L
 0D0D:
-0D0E: Malayalam Letter E
-0D0F: Malayalam Letter Ee
-0D10: Malayalam Letter Ai
+0D0E: Malajálam E betű
+0D0F: Malajálam levél Ee
+0D10: Malajálam levél Ai
 0D11:
-0D12: Malayalam Letter O
-0D13: Malayalam Letter Oo
-0D14: Malayalam Letter Au
+0D12: Malajálam levél O
+0D13: Malajálam levél Oo
+0D14: Malajálam levél Au
 0D15: Malayalam Letter Ka
-0D16: Malayalam Letter Kha
+0D16: Malajálam levél Kha
 0D17: Malayalam Letter Ga
-0D18: Malayalam Letter Gha
-0D19: Malayalam Letter Nga
-0D1A: Malayalam Letter Ca : cha
-0D1B: Malayalam Letter Cha : chha
+0D18: Malajálam levél Gha
+0D19: Malajálam levél Nga
+0D1A: Malajálam levél Ca : cha
+0D1B: Malajálam levél Cha : chha
 0D1C: Malayalam Letter Ja
-0D1D: Malayalam Letter Jha
-0D1E: Malayalam Letter Nya : nha
-0D1F: Malayalam Letter Tta : ta
-0D20: Malayalam Letter Ttha : tta
-0D21: Malayalam Letter Dda : hard da
-0D22: Malayalam Letter Ddha : hard dda
-0D23: Malayalam Letter Nna : hard na
-0D24: Malayalam Letter Ta : tha
-0D25: Malayalam Letter Tha : ttha
-0D26: Malayalam Letter Da : soft da
-0D27: Malayalam Letter Dha : soft dda
-0D28: Malayalam Letter Na
-0D29: Malayalam Letter Nnna
-0D2A: Malayalam Letter Pa
-0D2B: Malayalam Letter Pha
-0D2C: Malayalam Letter Ba
-0D2D: Malayalam Letter Bha
-0D2E: Malayalam Letter Ma
-0D2F: Malayalam Letter Ya
-0D30: Malayalam Letter Ra
-0D31: Malayalam Letter Rra
-0D32: Malayalam Letter La
-0D33: Malayalam Letter Lla
-0D34: Malayalam Letter Llla : zha
-0D35: Malayalam Letter Va
-0D36: Malayalam Letter Sha : soft sha
-0D37: Malayalam Letter Ssa : sha
+0D1D: Malajálam levél Jha
+0D1E: Malajálam levél Nya : Nha
+0D1F: Malajálam levél Tta : ta
+0D20: Malajálam levél Ttha : TTA
+0D21: Malajálam levél Dda : kemény da
+0D22: Malajálam levél Ddha : kemény dda
+0D23: Malajálam levél Nna : kemény na
+0D24: Malajálam levél Ta : tha
+0D25: Malajálam levél Tha : TTHA
+0D26: Malajálam levél Da : puha da
+0D27: Malajálam levél Dha : puha dda
+0D28: Malajálam levél Na
+0D29: Malajálam levél Nnna
+0D2A: Malajálam levél Pa
+0D2B: Malajálam levél Pha
+0D2C: Malajálam betű Ba
+0D2D: Malajálam levél Bha
+0D2E: Malajálam levél Ma
+0D2F: Malajálam levél Ya
+0D30: Ra
+0D31: Malajálam levél Rra
+0D32: Malajálam levél La
+0D33: Malajálam levél Lla
+0D34: Malajálam levél Llla : zha
+0D35: Malajálam levél Va
+0D36: Malajálam levél Sha : puha sha
+0D37: Malajálam levél Ssa : sha
 0D38: Malayalam Letter Sa
-0D39: Malayalam Letter Ha
-0D3A: Malayalam Letter Ttta
-0D3B:
-0D3C:
-0D3D: Malayalam Sign Avagraha : praslesham
-0D3E: Malayalam Vowel Sign Aa
-0D3F: Malayalam Vowel Sign I
-0D40: Malayalam Vowel Sign Ii
-0D41: Malayalam Vowel Sign U
-0D42: Malayalam Vowel Sign Uu
-0D43: Malayalam Vowel Sign Vocalic R
-0D44: Malayalam Vowel Sign Vocalic Rr
+0D39: Malajálam levél Ha
+0D3A: Malajálam levél Ttta
+0D3B: Malajálam jel függőleges bár Virama
+0D3C: Malayalam Sign Circular Virama
+0D3D: Malajálam jel Avagraha : praslesham
+0D3E: Malajálam magánhangzó jel Aa
+0D3F: Malajálam magánhangzó jel I
+0D40: Malajálam magánhangzó jel Ii
+0D41: Malajálam magánhangzó jel U
+0D42: Malajálam magánhangzó jel Uu
+0D43: Malajálam magánhangzó jel Vocalic R
+0D44: Malajálam magánhangzó jel vokális Rr
 0D45:
-0D46: Malayalam Vowel Sign E
-0D47: Malayalam Vowel Sign Ee
-0D48: Malayalam Vowel Sign Ai
+0D46: Malajálam magánhangzó jel E
+0D47: Malayalam magánhangzó jel Ee
+0D48: Malajálam magánhangzó jel Ai
 0D49:
-0D4A: Malayalam Vowel Sign O
-0D4B: Malayalam Vowel Sign Oo
-0D4C: Malayalam Vowel Sign Au
-0D4D: Malayalam Sign Virama : candrakkala (the preferred name) : vowel half-u
-0D4E: Malayalam Letter Dot Reph
-0D4F:
+0D4A: Malajálam magánhangzó jel O
+0D4B: Malajálam magánhangzó jel Oo
+0D4C: Malayalam magánhangzó jel Au
+0D4D: Malajálam jel Virama : candrakkala (a preferált név) : magánhangzó fél-u
+0D4E: Malajálam levél Dot Reph
+0D4F: Malajálam jel Para
 0D50:
 0D51:
 0D52:
 0D53:
-0D54:
-0D55:
-0D56:
-0D57: Malayalam Au Length Mark
-0D58:
-0D59:
-0D5A:
-0D5B:
-0D5C:
-0D5D:
-0D5E:
-0D5F:
-0D60: Malayalam Letter Vocalic Rr
-0D61: Malayalam Letter Vocalic Ll
-0D62: Malayalam Vowel Sign Vocalic L
-0D63: Malayalam Vowel Sign Vocalic Ll
-0D64: <Reserved>
-0D65: <Reserved>
-0D66: Malayalam Digit Zero
-0D67: Malayalam Digit One
-0D68: Malayalam Digit Two
-0D69: Malayalam Digit Three
-0D6A: Malayalam Digit Four
-0D6B: Malayalam Digit Five
+0D54: Malajálam levél Chillu M
+0D55: Malajálam levél Chillu Y
+0D56: Malajálam levél Chillu Lll
+0D57: Malajálam Au hosszúsága
+0D58: A malajálam frakciója egyszázhatodik
+0D59: Malayalam frakció egy negyvenedik
+0D5A: Malajálam Hármas nyolcadrész
+0D5B: Malajálam frakció egy huszadik
+0D5C: Malajálam frakció egy tized
+0D5D: Malajálam Hármas hetedik frakció
+0D5E: Malajálam frakció ötödik
+0D5F: Malájalám levél archaikus Ii
+0D60: Malajálam levél vokális Rr
+0D61: Malajálam levél vokális Ll
+0D62: Malajálam magánhangzó jel Vocalic L
+0D63: Malajálam magánhangzó jel vokális Ll
+0D64: <Fenntartva>
+0D65: <Fenntartva>
+0D66: Malajálam Digit Zero
+0D67: Malajálam számjegy
+0D68: Malajálam kettő
+0D69: Malajálam három számjegy
+0D6A: Malajálam szám négy
+0D6B: Malayalam számjegy öt
 0D6C: Malayalam Digit Six
 0D6D: Malayalam Digit Seven
-0D6E: Malayalam Digit Eight
+0D6E: Malajálam számjegy nyolc
 0D6F: Malayalam Digit Nine
-0D70: Malayalam Number Ten
-0D71: Malayalam Number One Hundred
-0D72: Malayalam Number One Thousand
-0D73: Malayalam Fraction One Quarter
-0D74: Malayalam Fraction One Half
+0D70: Malajálam száma tíz
+0D71: Malajálam szám száz
+0D72: Malajálam száma ezer
+0D73: Malayalam Fraction One negyed
+0D74: Malajálam frakció egy fél
 0D75: Malayalam Fraction Three Quarters
-0D76:
-0D77:
-0D78:
-0D79: Malayalam Date Mark
-0D7A: Malayalam Letter Chillu Nn
-0D7B: Malayalam Letter Chillu N
-0D7C: Malayalam Letter Chillu Rr
-0D7D: Malayalam Letter Chillu L
-0D7E: Malayalam Letter Chillu Ll
-0D7F: Malayalam Letter Chillu K
+0D76: Malayalam frakció egy tizenhatodik
+0D77: Malajálam frakció egy nyolcadik
+0D78: Malajálam három tizenhatodik frakció
+0D79: Malajálam dátuma
+0D7A: Malajálam levél Chillu Nn
+0D7B: Malajálam levél Chillu N
+0D7C: Malajálam levél Chillu Rr
+0D7D: Malajálam levél Chillu L
+0D7E: Malajálam levél Chillu Ll
+0D7F: Malajálam levél Chillu K
 0D80:
 0D81:
-0D82: Sinhala Sign Anusvaraya : anusvara
-0D83: Sinhala Sign Visargaya : visarga
+0D82: Szingalai jel Anusvaraya : anusvara
+0D83: Szingalai jel Visargaya : visarga
 0D84:
-0D85: Sinhala Letter Ayanna : sinhala letter a
-0D86: Sinhala Letter Aayanna : sinhala letter aa
-0D87: Sinhala Letter Aeyanna : sinhala letter ae
-0D88: Sinhala Letter Aeeyanna : sinhala letter aae
-0D89: Sinhala Letter Iyanna : sinhala letter i
-0D8A: Sinhala Letter Iiyanna : sinhala letter ii
-0D8B: Sinhala Letter Uyanna : sinhala letter u
-0D8C: Sinhala Letter Uuyanna : sinhala letter uu
-0D8D: Sinhala Letter Iruyanna : sinhala letter vocalic r
-0D8E: Sinhala Letter Iruuyanna : sinhala letter vocalic rr
-0D8F: Sinhala Letter Iluyanna : sinhala letter vocalic l
-0D90: Sinhala Letter Iluuyanna : sinhala letter vocalic ll
-0D91: Sinhala Letter Eyanna : sinhala letter e
-0D92: Sinhala Letter Eeyanna : sinhala letter ee
-0D93: Sinhala Letter Aiyanna : sinhala letter ai
-0D94: Sinhala Letter Oyanna : sinhala letter o
-0D95: Sinhala Letter Ooyanna : sinhala letter oo
-0D96: Sinhala Letter Auyanna : sinhala letter au
+0D85: Sinhala Letter Ayanna : sinhala levél a
+0D86: Sinhala levél Aayanna : sinhala aa
+0D87: Sinhala levél Aeyanna : sinhala levél ae
+0D88: Sinhala levél Aeeyanna : sinhala levél aae
+0D89: Sinhala levél Iyanna : sinhala i betű
+0D8A: Sinhala levél Iiyanna : sinhala levél ii
+0D8B: Sinhala levél Uyanna : sinhala u
+0D8C: Sinhala levél Uuyanna : sinhala levél uu
+0D8D: Sinhala levél Iruyanna : sinhala levél vokális r
+0D8E: Sinhala levél Iruuyanna : sinhala levél vokális rr
+0D8F: Sinhala levél Iluyanna : sinhala levél vokális l
+0D90: Sinhalai levél Iluuyanna : sinhala levél vokális ll
+0D91: Sinhala levél Eyanna : sinhala e betű
+0D92: Sinhala levél Eeyanna : sinhala ee
+0D93: Sinhala levél Aiyanna : sinhala levél ai
+0D94: Sinhala levél Oyanna : sinhala o
+0D95: Sinhala Letter Ooyanna : sinhala oo
+0D96: Sinhala levél Auyanna : sinhala levél au
 0D97:
 0D98:
 0D99:
-0D9A: Sinhala Letter Alpapraana Kayanna : sinhala letter ka
-0D9B: Sinhala Letter Mahaapraana Kayanna : sinhala letter kha
-0D9C: Sinhala Letter Alpapraana Gayanna : sinhala letter ga
-0D9D: Sinhala Letter Mahaapraana Gayanna : sinhala letter gha
-0D9E: Sinhala Letter Kantaja Naasikyaya : sinhala letter nga
-0D9F: Sinhala Letter Sanyaka Gayanna : sinhala letter nnga
-0DA0: Sinhala Letter Alpapraana Cayanna : sinhala letter ca
-0DA1: Sinhala Letter Mahaapraana Cayanna : sinhala letter cha
-0DA2: Sinhala Letter Alpapraana Jayanna : sinhala letter ja
-0DA3: Sinhala Letter Mahaapraana Jayanna : sinhala letter jha
-0DA4: Sinhala Letter Taaluja Naasikyaya : sinhala letter nya
-0DA5: Sinhala Letter Taaluja Sanyooga Naaksikyaya : sinhala letter jnya
-0DA6: Sinhala Letter Sanyaka Jayanna : sinhala letter nyja
-0DA7: Sinhala Letter Alpapraana Ttayanna : sinhala letter tta
-0DA8: Sinhala Letter Mahaapraana Ttayanna : sinhala letter ttha
-0DA9: Sinhala Letter Alpapraana Ddayanna : sinhala letter dda
-0DAA: Sinhala Letter Mahaapraana Ddayanna : sinhala letter ddha
-0DAB: Sinhala Letter Muurdhaja Nayanna : sinhala letter nna
-0DAC: Sinhala Letter Sanyaka Ddayanna : sinhala letter nndda
-0DAD: Sinhala Letter Alpapraana Tayanna : sinhala letter ta
-0DAE: Sinhala Letter Mahaapraana Tayanna : sinhala letter tha
-0DAF: Sinhala Letter Alpapraana Dayanna : sinhala letter da
-0DB0: Sinhala Letter Mahaapraana Dayanna : sinhala letter dha
-0DB1: Sinhala Letter Dantaja Nayanna : sinhala letter na
+0D9A: Sinhala levél Alpapraana Kayanna : sinhala levél ka
+0D9B: Sinhala levél Mahaapraana Kayanna : sinhala kha
+0D9C: Sinhala levél Alpapraana Gayanna : sinhala levél ga
+0D9D: Sinhala levél Mahaapraana Gayanna : sinhala gha
+0D9E: Sinhala levél Kantaja Naasikyaya : sinhala levél nga
+0D9F: Sinhala levél Sanyaka Gayanna : sinhala levél nnga
+0DA0: Sinhala levél Alpapraana Cayanna : sinhala levél ca
+0DA1: Sinhala levél Mahaapraana Cayanna : sinhala cha
+0DA2: Sinhala levél Alpapraana Jayanna : sinhala levél ja
+0DA3: Sinhala levél Mahaapraana Jayanna : sinhala levél jha
+0DA4: Sinhalai levél Taaluja Naasikyaya : sinhala levél nya
+0DA5: Sinhalai levél Taaluja Sanyooga Naaksikyaya : sinhala levél jnya
+0DA6: Sinhala levél Sanyaka Jayanna : sinhala levél nyja
+0DA7: Sinhala levél Alpapraana Ttayanna : sinhala levél tta
+0DA8: Sinhala levél Mahaapraana Ttayanna : sinhala ttha levél
+0DA9: Sinhala levél Alpapraana Ddayanna : sinhala dda
+0DAA: Sinhala levél Mahaapraana Ddayanna : sinhala levél ddha
+0DAB: Sinhalai levél Muurdhaja Nayanna : sinhala nna
+0DAC: Sinhala levél Sanyaka Ddayanna : sinhala nndda levél
+0DAD: Sinhala levél Alpapraana Tayanna : sinhala levél ta
+0DAE: Sinhala levél Mahaapraana Tayanna : sinhala levél tha
+0DAF: Sinhala levél Alpapraana Dayanna : sinhala levél da
+0DB0: Sinhala levél Mahaapraana Dayanna : sinhala levél dha
+0DB1: Sinhala levél Dantaja Nayanna : sinhala levél na
 0DB2:
-0DB3: Sinhala Letter Sanyaka Dayanna : sinhala letter nda
-0DB4: Sinhala Letter Alpapraana Payanna : sinhala letter pa
-0DB5: Sinhala Letter Mahaapraana Payanna : sinhala letter pha
-0DB6: Sinhala Letter Alpapraana Bayanna : sinhala letter ba
-0DB7: Sinhala Letter Mahaapraana Bayanna : sinhala letter bha
-0DB8: Sinhala Letter Mayanna : sinhala letter ma
-0DB9: Sinhala Letter Amba Bayanna : sinhala letter mba
-0DBA: Sinhala Letter Yayanna : sinhala letter ya
-0DBB: Sinhala Letter Rayanna : sinhala letter ra
+0DB3: Sinhala levél Sanyaka Dayanna : sinhala levél nda
+0DB4: Sinhala levél Alpapraana Payanna : sinhala levél pa
+0DB5: Sinhala levél Mahaapraana Payanna : sinhala pha
+0DB6: Szingalai levél Alpapraana Bayanna : sinhala betű ba
+0DB7: Sinhala levél Mahaapraana Bayanna : sinhala bha levél
+0DB8: Sinhala levél Mayanna : sinhala levél ma
+0DB9: Sinhala levél Amba Bayanna : sinhala levél mba
+0DBA: Sinhala levél Yayanna : sinhala levél ya
+0DBB: Sinhala levél Rayanna : sinhala levél ra
 0DBC:
-0DBD: Sinhala Letter Dantaja Layanna : sinhala letter la
+0DBD: Sinhala levél Dantaja Layanna : sinhala levél la
 0DBE:
 0DBF:
-0DC0: Sinhala Letter Vayanna : sinhala letter va
-0DC1: Sinhala Letter Taaluja Sayanna : sinhala letter sha
-0DC2: Sinhala Letter Muurdhaja Sayanna : sinhala letter ssa
-0DC3: Sinhala Letter Dantaja Sayanna : sinhala letter sa
-0DC4: Sinhala Letter Hayanna : sinhala letter ha
-0DC5: Sinhala Letter Muurdhaja Layanna : sinhala letter lla
-0DC6: Sinhala Letter Fayanna : sinhala letter fa
+0DC0: Sinhala levél Vayanna : sinhala va
+0DC1: Sinhalai levél Taaluja Sayanna : sinhala levél sha
+0DC2: Sinhalai levél Muurdhaja Sayanna : sinhala levél ssa
+0DC3: Sinhala levél Dantaja Sayanna : sinhala levél sa
+0DC4: Szahala levél Hayanna : sinhala levél ha
+0DC5: Sinhalai levél Muurdhaja Layanna : sinhala levél, ak
+0DC6: Sinhala levél Fayanna : sinhala fa levél
 0DC7:
 0DC8:
 0DC9:
-0DCA: Sinhala Sign Al-Lakuna : virama
+0DCA: Sinhala Al-Lakuna jel : virama
 0DCB:
 0DCC:
 0DCD:
 0DCE:
-0DCF: Sinhala Vowel Sign Aela-Pilla : sinhala vowel sign aa
-0DD0: Sinhala Vowel Sign Ketti Aeda-Pilla : sinhala vowel sign ae
-0DD1: Sinhala Vowel Sign Diga Aeda-Pilla : sinhala vowel sign aae
-0DD2: Sinhala Vowel Sign Ketti Is-Pilla : sinhala vowel sign i
-0DD3: Sinhala Vowel Sign Diga Is-Pilla : sinhala vowel sign ii
-0DD4: Sinhala Vowel Sign Ketti Paa-Pilla : sinhala vowel sign u
+0DCF: Szingaliai magánhangzó jel Aela-Pilla : sinhala magánhangzó jele aa
+0DD0: Sinhala magánhangzójel Ketti Aeda-Pilla : sinhala magánhangzó jelzi ae-t
+0DD1: Sinhala magánhangzó jel Diga Aeda-Pilla : sinhala magánhangzó jel aae
+0DD2: Sinhala magánhangzójel Ketti Is-Pilla : sinhala magánhangzó jel
+0DD3: Sinhala magánhangzó jel Diga Is-Pilla : sinhala magánhangzó jel ii
+0DD4: Sinhala magánhangzójel Ketti Paa-Pilla : sinhala magánhangzó jel u
 0DD5:
-0DD6: Sinhala Vowel Sign Diga Paa-Pilla : sinhala vowel sign uu
+0DD6: Sinhala magánhangzó jel Diga Paa-Pilla : sinhala magánhangzó jel uu
 0DD7:
-0DD8: Sinhala Vowel Sign Gaetta-Pilla : sinhala vowel sign vocalic r
-0DD9: Sinhala Vowel Sign Kombuva : sinhala vowel sign e
-0DDA: Sinhala Vowel Sign Diga Kombuva : sinhala vowel sign ee
-0DDB: Sinhala Vowel Sign Kombu Deka : sinhala vowel sign ai
-0DDC: Sinhala Vowel Sign Kombuva Haa Aela-Pilla : sinhala vowel sign o
-0DDD: Sinhala Vowel Sign Kombuva Haa Diga Aela-Pilla : sinhala vowel sign oo
-0DDE: Sinhala Vowel Sign Kombuva Haa Gayanukitta : sinhala vowel sign au
-0DDF: Sinhala Vowel Sign Gayanukitta : sinhala vowel sign vocalic l
+0DD8: Sinhala magánhangzó jel Gaetta-Pilla : sinhala magánhangzó jel vokális r
+0DD9: Sinhala magánhangzó jel Kombuva : sinhala magánhangzó jel
+0DDA: Sinhala magánhangzó jel Diga Kombuva : sinhala magánhangzó jel
+0DDB: Szingalai magánhangzójel Kombu Deka : sinhala magánhangzó jel ai
+0DDC: Sinhala magánhangzó jel Kombuva Haa Aela-Pilla : sinhala magánhangzó jel o
+0DDD: Sinhala magánhangzó jel Kombuva Haa Diga Aela-Pilla : sinhala magánhangzó jel oo
+0DDE: Sinhala magánhangzó jel Kombuva Haa Gayanukitta : sinhala magánhangzó jel au
+0DDF: Szingaliai magánhangzó jel Gayanukitta : sinhala magánhangzó jel énekes l
 0DE0:
 0DE1:
 0DE2:
@@ -233,16 +233,16 @@
 0DE8: Sinhala Lith Digit Two
 0DE9: Sinhala Lith Digit Three
 0DEA: Sinhala Lith Digit Four
-0DEB: Sinhala Lith Digit Five
+0DEB: Sinhala Lith számjegy öt
 0DEC: Sinhala Lith Digit Six
 0DED: Sinhala Lith Digit Seven
-0DEE: Sinhala Lith Digit Eight
+0DEE: Sinhala Lith Digit nyolc
 0DEF: Sinhala Lith Digit Nine
 0DF0:
 0DF1:
-0DF2: Sinhala Vowel Sign Diga Gaetta-Pilla : sinhala vowel sign vocalic rr
-0DF3: Sinhala Vowel Sign Diga Gayanukitta : sinhala vowel sign vocalic ll
-0DF4: Sinhala Punctuation Kunddaliya
+0DF2: Sinhala magánhangzó jel Diga Gaetta-Pilla : sinhala magánhangzó jel vokális rr
+0DF3: Sinhala magánhangzó jel Diga Gayanukitta : sinhala magánhangzó jel énekes ll
+0DF4: Sinhala írásjelek Kunddaliya
 0DF5:
 0DF6:
 0DF7:

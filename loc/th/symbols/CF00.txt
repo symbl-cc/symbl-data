@@ -1,256 +1,256 @@
-CF00 : Hangul syllable ke
-CF01 : Hangul syllable keg
-CF02 : Hangul syllable kegg
-CF03 : Hangul syllable kegs
-CF04 : Hangul syllable ken
-CF05 : Hangul syllable kenj
-CF06 : Hangul syllable kenh
-CF07 : Hangul syllable ked
-CF08 : Hangul syllable kel
-CF09 : Hangul syllable kelg
-CF0A : Hangul syllable kelm
-CF0B : Hangul syllable kelb
-CF0C : Hangul syllable kels
-CF0D : Hangul syllable kelt
-CF0E : Hangul syllable kelp
-CF0F : Hangul syllable kelh
-CF10 : Hangul syllable kem
-CF11 : Hangul syllable keb
-CF12 : Hangul syllable kebs
-CF13 : Hangul syllable kes
-CF14 : Hangul syllable kess
-CF15 : Hangul syllable keng
-CF16 : Hangul syllable kej
-CF17 : Hangul syllable kec
-CF18 : Hangul syllable kek
-CF19 : Hangul syllable ket
-CF1A : Hangul syllable kep
-CF1B : Hangul syllable keh
-CF1C : Hangul syllable kyeo
-CF1D : Hangul syllable kyeog
-CF1E : Hangul syllable kyeogg
-CF1F : Hangul syllable kyeogs
-CF20 : Hangul syllable kyeon
-CF21 : Hangul syllable kyeonj
-CF22 : Hangul syllable kyeonh
-CF23 : Hangul syllable kyeod
-CF24 : Hangul syllable kyeol
-CF25 : Hangul syllable kyeolg
-CF26 : Hangul syllable kyeolm
-CF27 : Hangul syllable kyeolb
-CF28 : Hangul syllable kyeols
-CF29 : Hangul syllable kyeolt
-CF2A : Hangul syllable kyeolp
-CF2B : Hangul syllable kyeolh
-CF2C : Hangul syllable kyeom
-CF2D : Hangul syllable kyeob
-CF2E : Hangul syllable kyeobs
-CF2F : Hangul syllable kyeos
-CF30 : Hangul syllable kyeoss
-CF31 : Hangul syllable kyeong
-CF32 : Hangul syllable kyeoj
-CF33 : Hangul syllable kyeoc
-CF34 : Hangul syllable kyeok
-CF35 : Hangul syllable kyeot
-CF36 : Hangul syllable kyeop
-CF37 : Hangul syllable kyeoh
-CF38 : Hangul syllable kye
-CF39 : Hangul syllable kyeg
-CF3A : Hangul syllable kyegg
-CF3B : Hangul syllable kyegs
-CF3C : Hangul syllable kyen
-CF3D : Hangul syllable kyenj
-CF3E : Hangul syllable kyenh
-CF3F : Hangul syllable kyed
-CF40 : Hangul syllable kyel
-CF41 : Hangul syllable kyelg
-CF42 : Hangul syllable kyelm
-CF43 : Hangul syllable kyelb
-CF44 : Hangul syllable kyels
-CF45 : Hangul syllable kyelt
-CF46 : Hangul syllable kyelp
-CF47 : Hangul syllable kyelh
-CF48 : Hangul syllable kyem
-CF49 : Hangul syllable kyeb
-CF4A : Hangul syllable kyebs
-CF4B : Hangul syllable kyes
-CF4C : Hangul syllable kyess
-CF4D : Hangul syllable kyeng
-CF4E : Hangul syllable kyej
-CF4F : Hangul syllable kyec
-CF50 : Hangul syllable kyek
-CF51 : Hangul syllable kyet
-CF52 : Hangul syllable kyep
-CF53 : Hangul syllable kyeh
-CF54 : Hangul syllable ko
-CF55 : Hangul syllable kog
-CF56 : Hangul syllable kogg
-CF57 : Hangul syllable kogs
-CF58 : Hangul syllable kon
-CF59 : Hangul syllable konj
-CF5A : Hangul syllable konh
-CF5B : Hangul syllable kod
-CF5C : Hangul syllable kol
-CF5D : Hangul syllable kolg
-CF5E : Hangul syllable kolm
-CF5F : Hangul syllable kolb
-CF60 : Hangul syllable kols
-CF61 : Hangul syllable kolt
-CF62 : Hangul syllable kolp
-CF63 : Hangul syllable kolh
-CF64 : Hangul syllable kom
-CF65 : Hangul syllable kob
-CF66 : Hangul syllable kobs
-CF67 : Hangul syllable kos
-CF68 : Hangul syllable koss
-CF69 : Hangul syllable kong
-CF6A : Hangul syllable koj
-CF6B : Hangul syllable koc
-CF6C : Hangul syllable kok
-CF6D : Hangul syllable kot
-CF6E : Hangul syllable kop
-CF6F : Hangul syllable koh
-CF70 : Hangul syllable kwa
-CF71 : Hangul syllable kwag
-CF72 : Hangul syllable kwagg
-CF73 : Hangul syllable kwags
-CF74 : Hangul syllable kwan
-CF75 : Hangul syllable kwanj
-CF76 : Hangul syllable kwanh
-CF77 : Hangul syllable kwad
-CF78 : Hangul syllable kwal
-CF79 : Hangul syllable kwalg
-CF7A : Hangul syllable kwalm
-CF7B : Hangul syllable kwalb
-CF7C : Hangul syllable kwals
-CF7D : Hangul syllable kwalt
-CF7E : Hangul syllable kwalp
-CF7F : Hangul syllable kwalh
-CF80 : Hangul syllable kwam
-CF81 : Hangul syllable kwab
-CF82 : Hangul syllable kwabs
-CF83 : Hangul syllable kwas
-CF84 : Hangul syllable kwass
-CF85 : Hangul syllable kwang
-CF86 : Hangul syllable kwaj
-CF87 : Hangul syllable kwac
-CF88 : Hangul syllable kwak
-CF89 : Hangul syllable kwat
-CF8A : Hangul syllable kwap
-CF8B : Hangul syllable kwah
-CF8C : Hangul syllable kwae
-CF8D : Hangul syllable kwaeg
-CF8E : Hangul syllable kwaegg
-CF8F : Hangul syllable kwaegs
-CF90 : Hangul syllable kwaen
-CF91 : Hangul syllable kwaenj
-CF92 : Hangul syllable kwaenh
-CF93 : Hangul syllable kwaed
-CF94 : Hangul syllable kwael
-CF95 : Hangul syllable kwaelg
-CF96 : Hangul syllable kwaelm
-CF97 : Hangul syllable kwaelb
-CF98 : Hangul syllable kwaels
-CF99 : Hangul syllable kwaelt
-CF9A : Hangul syllable kwaelp
-CF9B : Hangul syllable kwaelh
-CF9C : Hangul syllable kwaem
-CF9D : Hangul syllable kwaeb
-CF9E : Hangul syllable kwaebs
-CF9F : Hangul syllable kwaes
-CFA0 : Hangul syllable kwaess
-CFA1 : Hangul syllable kwaeng
-CFA2 : Hangul syllable kwaej
-CFA3 : Hangul syllable kwaec
-CFA4 : Hangul syllable kwaek
-CFA5 : Hangul syllable kwaet
-CFA6 : Hangul syllable kwaep
-CFA7 : Hangul syllable kwaeh
-CFA8 : Hangul syllable koe
-CFA9 : Hangul syllable koeg
-CFAA : Hangul syllable koegg
-CFAB : Hangul syllable koegs
-CFAC : Hangul syllable koen
-CFAD : Hangul syllable koenj
-CFAE : Hangul syllable koenh
-CFAF : Hangul syllable koed
-CFB0 : Hangul syllable koel
-CFB1 : Hangul syllable koelg
-CFB2 : Hangul syllable koelm
-CFB3 : Hangul syllable koelb
-CFB4 : Hangul syllable koels
-CFB5 : Hangul syllable koelt
-CFB6 : Hangul syllable koelp
-CFB7 : Hangul syllable koelh
-CFB8 : Hangul syllable koem
-CFB9 : Hangul syllable koeb
-CFBA : Hangul syllable koebs
-CFBB : Hangul syllable koes
-CFBC : Hangul syllable koess
-CFBD : Hangul syllable koeng
-CFBE : Hangul syllable koej
-CFBF : Hangul syllable koec
-CFC0 : Hangul syllable koek
-CFC1 : Hangul syllable koet
-CFC2 : Hangul syllable koep
-CFC3 : Hangul syllable koeh
-CFC4 : Hangul syllable kyo
-CFC5 : Hangul syllable kyog
-CFC6 : Hangul syllable kyogg
-CFC7 : Hangul syllable kyogs
-CFC8 : Hangul syllable kyon
-CFC9 : Hangul syllable kyonj
-CFCA : Hangul syllable kyonh
-CFCB : Hangul syllable kyod
-CFCC : Hangul syllable kyol
-CFCD : Hangul syllable kyolg
-CFCE : Hangul syllable kyolm
-CFCF : Hangul syllable kyolb
-CFD0 : Hangul syllable kyols
-CFD1 : Hangul syllable kyolt
-CFD2 : Hangul syllable kyolp
-CFD3 : Hangul syllable kyolh
-CFD4 : Hangul syllable kyom
-CFD5 : Hangul syllable kyob
-CFD6 : Hangul syllable kyobs
-CFD7 : Hangul syllable kyos
-CFD8 : Hangul syllable kyoss
-CFD9 : Hangul syllable kyong
-CFDA : Hangul syllable kyoj
-CFDB : Hangul syllable kyoc
-CFDC : Hangul syllable kyok
-CFDD : Hangul syllable kyot
-CFDE : Hangul syllable kyop
-CFDF : Hangul syllable kyoh
-CFE0 : Hangul syllable ku
-CFE1 : Hangul syllable kug
-CFE2 : Hangul syllable kugg
-CFE3 : Hangul syllable kugs
-CFE4 : Hangul syllable kun
-CFE5 : Hangul syllable kunj
-CFE6 : Hangul syllable kunh
-CFE7 : Hangul syllable kud
-CFE8 : Hangul syllable kul
-CFE9 : Hangul syllable kulg
-CFEA : Hangul syllable kulm
-CFEB : Hangul syllable kulb
-CFEC : Hangul syllable kuls
-CFED : Hangul syllable kult
-CFEE : Hangul syllable kulp
-CFEF : Hangul syllable kulh
-CFF0 : Hangul syllable kum
-CFF1 : Hangul syllable kub
-CFF2 : Hangul syllable kubs
-CFF3 : Hangul syllable kus
-CFF4 : Hangul syllable kuss
-CFF5 : Hangul syllable kung
-CFF6 : Hangul syllable kuj
-CFF7 : Hangul syllable kuc
-CFF8 : Hangul syllable kuk
-CFF9 : Hangul syllable kut
-CFFA : Hangul syllable kup
-CFFB : Hangul syllable kuh
-CFFC : Hangul syllable kweo
-CFFD : Hangul syllable kweog
-CFFE : Hangul syllable kweogg
-CFFF : Hangul syllable kweogs
+CF00: อังกูลพยางค์อังกูล
+CF01: ถังอังกูลพยางค์
+CF02: อังกูลพยางค์
+CF03: ถังอังกูลพยางค์
+CF04: อังกูลพยางค์เคน
+CF05: อังกูลพยางค์เคน
+CF06: อังกูลพยางค์เคน
+CF07: อังกูลพยางค์ Ked
+CF08: เคลอังกูล
+CF09: Kelul พยางค์ฮันกึล
+CF0A: Kelul พยางค์อังกูล
+CF0B: Kelul พยางค์ฮันกึล
+CF0C: Kels อังกูลพยางค์
+CF0D: อังกูลพยางค์เคล
+CF0E: สาหร่ายทะเลอังกูล
+CF0F: Kelul พยางค์อังกูล
+CF10: Kem พยางค์อังกูล
+CF11: อังกูลพยางค์ Keb
+CF12: อังกูลพยางค์ Kebs
+CF13: อังกูลพยางค์ Kes
+CF14: Kess อังกูล
+CF15: อังกูลพยางค์เก่ง
+CF16: อังกูลพยางค์
+CF17: Kec อังกูล
+CF18: อังกูลพยางค์ Kek
+CF19: อังกูลพยางค์อังกูล
+CF1A: อังกูลพยางค์ Kep
+CF1B: อังกูลพยางค์ Keh
+CF1C: อังกูลพยางค์ Kyeo
+CF1D: อังกูลพยางค์ Kyeog
+CF1E: อังกูลพยางค์ Kyeogg
+CF1F: Kyeogs อังกูลพยางค์
+CF20: อังกูลพยางค์คยอง
+CF21: อังกูลพยางค์ Kyeonj
+CF22: อังกูลพยางค์ Kyeonh
+CF23: อังกูลพยางค์ Kyeod
+CF24: อังกูลพยางค์ Kyeol
+CF25: อังกูลพยางค์ Kyeolg
+CF26: อังกูลพยางค์ Kyeolm
+CF27: อังกูลพยางค์ Kyeolb
+CF28: Kyeols พยางค์อังกูล
+CF29: อังกูลพยางค์ Kyeolt
+CF2A: อังกูลพยางค์ Kyeolp
+CF2B: อังกูลพยางค์ Kyeolh
+CF2C: อังกูลพยางค์ Kyeom
+CF2D: อังกูลพยางค์ Kyeob
+CF2E: อังกูลพยางค์ Kyeobs
+CF2F: Kyeos อังกูล
+CF30: อังกูลพยางค์ Kyeoss
+CF31: อังกูลพยางค์คยอง
+CF32: อังกูลพยางค์ Kyeoj
+CF33: อังกูลพยางค์ Kyeoc
+CF34: พยางค์ฮันกึล
+CF35: อังกูลพยางค์ Kyeot
+CF36: อังกูลพยางค์ Kyeop
+CF37: อังกูลพยางค์ Kyeoh
+CF38: อังกูลพยางค์ Kye
+CF39: อังกูลพยางค์อังกูล
+CF3A: อังกูลพยางค์ภาษาอังกูล
+CF3B: อังกูลพยางค์อังกูล
+CF3C: อังกูลพยางค์เคน
+CF3D: อังกูลพยางค์ Kyenj
+CF3E: อังกูลพยางค์ Kyenh
+CF3F: อังกูลพยางค์ Kyed
+CF40: Kyel พยางค์อังกูล
+CF41: อังกูลพยางค์ Kyelg
+CF42: อังกูลพยางค์ Kyelm
+CF43: อังกูลพยางค์ Kyelb
+CF44: Kyul พยางค์อังกูล
+CF45: พยางค์ฮันกึล
+CF46: อังกูลพยางค์ Kyelp
+CF47: อังกูลพยางค์ Kyelh
+CF48: อังกูลพยางค์ Kyem
+CF49: อังกูลพยางค์ Kyeb
+CF4A: Kyebs อังกูลพยางค์
+CF4B: Kyes พยางค์อังกูล
+CF4C: อังกูลพยางค์ Kyul
+CF4D: พยางค์ฮันกึล
+CF4E: อังกูลพยางค์ Kyej
+CF4F: Kyul พยางค์อังกูล
+CF50: อังกูลพยางค์ Kyek
+CF51: อังกูลพยางค์ภาษาอังกูล
+CF52: อังกูลพยางค์ Kyep
+CF53: อังกูลพยางค์ Kyeh
+CF54: เกาะอังกูลพยางค์
+CF55: อังกูลพยางค์ Kog
+CF56: อังกูลพยางค์ Kogg
+CF57: อังกูลพยางค์ Kogs
+CF58: พยางค์อังกูล
+CF59: อังกูลพยางค์ของอังกูล
+CF5A: พยางค์อังกูล
+CF5B: พยางค์ฮันกึล
+CF5C: พยางค์อังกูล
+CF5D: อังกูลพยางค์
+CF5E: พยางค์อังกูล
+CF5F: อังกูลพยางค์ Kolb
+CF60: อังกูลพยางค์โคล
+CF61: พยางค์ฮันกึล
+CF62: พยางค์อังกูล
+CF63: อังกูลพยางค์ลาห์
+CF64: พยางค์อังกูล
+CF65: กบพยางค์อังกูล
+CF66: Kobs อังกูลพยางค์
+CF67: Kos พยางค์อังกูล
+CF68: Koss พยางค์อังกูล
+CF69: อังกูลพยางค์
+CF6A: อังกูลพยางค์
+CF6B: อังกูลพยางค์ Koc
+CF6C: กกอังกูลพยางค์
+CF6D: อังกูลพยางค์ Kot
+CF6E: พยางค์อังกูล
+CF6F: เกาะอังกูลพยางค์
+CF70: พยางค์ฮันกึล
+CF71: อังกูลพยางค์ภาษาอังกูล
+CF72: อังกูลพยางค์ Kwagg
+CF73: อังกูลพยางค์อังกูล
+CF74: อังกูลพยางค์ขวัญ
+CF75: อังกูลพยางค์ขวัญวัน
+CF76: อังกูลพยางค์ขวัญ
+CF77: พยางค์อังกูล
+CF78: อังกูลพยางค์อังกูล
+CF79: อังกูลพยางค์ของอังกูล
+CF7A: อังกูลพยางค์อังกูล
+CF7B: อังกูลพยางค์ Kwalb
+CF7C: อังกูลพยางค์อังกูล
+CF7D: อังกูลพยางค์
+CF7E: อังกูลพยางค์ควัล
+CF7F: อังกูลพยางค์ควอล
+CF80: อังกูลพยางค์ Kwam
+CF81: อังกูลพยางค์ Kwab
+CF82: Kwul พยางค์อังกูล
+CF83: อังกูลพยางค์ Kwas
+CF84: อังกูลพยางค์อังกูล
+CF85: พยางค์อังกูลกวาง
+CF86: อังกูลพยางค์ควัล
+CF87: อังกูลพยางค์อังกูล
+CF88: อังกูลพยางค์ Kwak
+CF89: อังกูลพยางค์ควัท
+CF8A: อังกูลพยางค์ Kwap
+CF8B: อังกูลพยางค์ควา
+CF8C: อังกูลพยางค์ Kwae
+CF8D: พยางค์ฮันกึล
+CF8E: พยางค์ฮันกึล
+CF8F: พยางค์ฮันกึล
+CF90: พยางค์ฮันกึล
+CF91: พยางค์ฮันกึล
+CF92: อังกูลพยางค์ควาฮาน
+CF93: พยางค์ฮันกึล
+CF94: พยางค์ฮันกึล
+CF95: พยางค์อังกูล
+CF96: พยางค์อังกูล
+CF97: อังกูลพยางค์ Kwaelb
+CF98: พยางค์อังกูล
+CF99: พยางค์ฮันกึล
+CF9A: พยางค์อังกูล
+CF9B: อังกูลพยางค์ Kwaelh
+CF9C: พยางค์ฮันกึล
+CF9D: อังกูลพยางค์ Kwaeb
+CF9E: อังกูลพยางค์ Kwaebs
+CF9F: พยางค์ฮันกึล
+CFA0: พยางค์ฮันกึล
+CFA1: พยางค์ฮันกึล
+CFA2: อังกูลพยางค์ Kwaej
+CFA3: อังกูลพยางค์ Kwaec
+CFA4: อังกูลพยางค์ Kwaek
+CFA5: พยางค์ฮันกึล
+CFA6: พยางค์ฮันกึล
+CFA7: อังกูลพยางค์ Kwaeh
+CFA8: อังกูลพยางค์โค
+CFA9: อังกูลพยางค์
+CFAA: อังกูลพยางค์
+CFAB: อังกูลพยางค์อังกูล
+CFAC: อังกูลพยางค์โคเอ็น
+CFAD: อังกูลพยางค์โคเอ็น
+CFAE: อังกูลพยางค์ Koenh
+CFAF: พยางค์อังกูล Koed
+CFB0: อังกูลพยางค์ Koel
+CFB1: Koulg พยางค์อังกูล
+CFB2: Koulm พยางค์อังกูล
+CFB3: อังกูลพยางค์ Koelb
+CFB4: Koul พยางค์อังกูล
+CFB5: พยางค์ฮันกึล
+CFB6: Koulp พยางค์อังกูล
+CFB7: Koulh พยางค์อังกูล
+CFB8: พยางค์อังกูล
+CFB9: อังกูลพยางค์ Koeb
+CFBA: อังกูลพยางค์ Koebs
+CFBB: พยางค์อังกูล
+CFBC: Koul พยางค์อังกูล
+CFBD: พยางค์ฮันกึล
+CFBE: อังกูลพยางค์ Koej
+CFBF: Koec พยางค์อังกูล
+CFC0: อังกูลพยางค์ Koek
+CFC1: Koul พยางค์ฮันกึล
+CFC2: Koul พยางค์อังกูล
+CFC3: อังกูลพยางค์ Koeh
+CFC4: อังกูลพยางค์เคียว
+CFC5: อังกูลพยางค์อังกูล
+CFC6: อังกูลพยางค์ Kyogg
+CFC7: Kyuls พยางค์อังกูล
+CFC8: พยางค์ฮันกึล
+CFC9: อังกูลพยางค์ Kyonj
+CFCA: อังกูลพยางค์ Kyonh
+CFCB: อังกูลพยางค์ Kyod
+CFCC: พยางค์ฮันกึล
+CFCD: อังกูลพยางค์ Kyolg
+CFCE: อังกูลพยางค์ Kyolm
+CFCF: อังกูลพยางค์ Kyolb
+CFD0: Kyul พยางค์อังกูล
+CFD1: อังกูลพยางค์ Kyolt
+CFD2: อังกูลพยางค์ Kyolp
+CFD3: อังกูลพยางค์ Kyolh
+CFD4: พยัญชนะอังกูล
+CFD5: Kyul พยางค์อังกูล
+CFD6: Kyul พยางค์อังกูล
+CFD7: Kyul พยางค์อังกูล
+CFD8: Kyulable พยางค์ฮันกึล
+CFD9: พยางค์ฮันกึล
+CFDA: อังกูลพยางค์ Kyoj
+CFDB: Kyul พยางค์อังกูล
+CFDC: อังกูลพยางค์ Kyok
+CFDD: อังกูลพยางค์อังกูล
+CFDE: อังกูลพยางค์อังกูล
+CFDF: พยางค์ฮันกึล
+CFE0: อังกูลพยางค์กู่
+CFE1: กุนอังกูล
+CFE2: อังกูลพยางค์ Kugg
+CFE3: พยางค์อังกูล
+CFE4: อังกูลพยางค์
+CFE5: อักษรอังกูลอังกูล
+CFE6: อักษรอังกูลอังกูล
+CFE7: อังกูลพยางค์กุด
+CFE8: พยางค์อังกูลกุล
+CFE9: อังกูลพยางค์ Kulg
+CFEA: พยางค์อังกูล
+CFEB: พยางค์ฮันกึล
+CFEC: พยางค์อังกูล
+CFED: อังกูลพยางค์ Kult
+CFEE: พยางค์อังกูล
+CFEF: อังกูลพยางค์ Kulh
+CFF0: อังกูลพยางค์
+CFF1: ฮันกูลพยางค์ Kub
+CFF2: คูลพยางค์ฮันกึล
+CFF3: พยางค์อังกูล
+CFF4: Kus อังกูลพยางค์
+CFF5: อังกูลพยางค์กัง
+CFF6: อังกูลพยางค์คูจ
+CFF7: อังกูลพยางค์คูค
+CFF8: อังกูลพยางค์กั๊ก
+CFF9: อังกูลพยางค์กุด
+CFFA: อังกูลพยางค์ Kup
+CFFB: อังกูลพยางค์ Kuh
+CFFC: พยางค์อังกูล
+CFFD: Kulog พยางค์อังกูล
+CFFE: อังกูลพยางค์ Kweogg
+CFFF: Kweogs อังกูล

@@ -241,14 +241,14 @@
 0BF0: Nombre tamoul dix
 0BF1: Nombre tamoul cent
 0BF2: Nombre tamoul mille
-0BF3: Symbole tamoul du jour (nâl)
-0BF4: Symbole tamoul du mois (mâtham)
-0BF5: Symbole tamoul de l'année (varoudam)
-0BF6: Symbole tamoul de débit (patrou)
-0BF7: Symbole tamoul de crédit (varavou)
-0BF8: Symbole tamoul comme ci-dessus (merpadi)
-0BF9: Symbole tamoul roupie (roupai)
-0BFA: Symbole tamoul numéro (enn)
+0BF3: Symbole tamoul du jour : nâl
+0BF4: Symbole tamoul du mois : mâtham
+0BF5: Symbole tamoul de l'année : varoudam
+0BF6: Symbole tamoul de débit : patrou
+0BF7: Symbole tamoul de crédit : varavou
+0BF8: Symbole tamoul comme ci-dessus : merpadi
+0BF9: Symbole tamoul roupie : roupai
+0BFA: Symbole tamoul numéro : enn
 0BFB: 
 0BFC: 
 0BFD: 

@@ -1,256 +1,256 @@
-1B000: Lettre katakana e archaïque
-1B001: Lettre hiragana ye archaïque
-1B002: 
-1B003: 
-1B004: 
-1B005: 
-1B006: 
-1B007: 
-1B008: 
-1B009: 
-1B00A: 
-1B00B: 
-1B00C: 
-1B00D: 
-1B00E: 
-1B00F: 
-1B010: 
-1B011: 
-1B012: 
-1B013: 
-1B014: 
-1B015: 
-1B016: 
-1B017: 
-1B018: 
-1B019: 
-1B01A: 
-1B01B: 
-1B01C: 
-1B01D: 
-1B01E: 
-1B01F: 
-1B020: 
-1B021: 
-1B022: 
-1B023: 
-1B024: 
-1B025: 
-1B026: 
-1B027: 
-1B028: 
-1B029: 
-1B02A: 
-1B02B: 
-1B02C: 
-1B02D: 
-1B02E: 
-1B02F: 
-1B030: 
-1B031: 
-1B032: 
-1B033: 
-1B034: 
-1B035: 
-1B036: 
-1B037: 
-1B038: 
-1B039: 
-1B03A: 
-1B03B: 
-1B03C: 
-1B03D: 
-1B03E: 
-1B03F: 
-1B040: 
-1B041: 
-1B042: 
-1B043: 
-1B044: 
-1B045: 
-1B046: 
-1B047: 
-1B048: 
-1B049: 
-1B04A: 
-1B04B: 
-1B04C: 
-1B04D: 
-1B04E: 
-1B04F: 
-1B050: 
-1B051: 
-1B052: 
-1B053: 
-1B054: 
-1B055: 
-1B056: 
-1B057: 
-1B058: 
-1B059: 
-1B05A: 
-1B05B: 
-1B05C: 
-1B05D: 
-1B05E: 
-1B05F: 
-1B060: 
-1B061: 
-1B062: 
-1B063: 
-1B064: 
-1B065: 
-1B066: 
-1B067: 
-1B068: 
-1B069: 
-1B06A: 
-1B06B: 
-1B06C: 
-1B06D: 
-1B06E: 
-1B06F: 
-1B070: 
-1B071: 
-1B072: 
-1B073: 
-1B074: 
-1B075: 
-1B076: 
-1B077: 
-1B078: 
-1B079: 
-1B07A: 
-1B07B: 
-1B07C: 
-1B07D: 
-1B07E: 
-1B07F: 
-1B080: 
-1B081: 
-1B082: 
-1B083: 
-1B084: 
-1B085: 
-1B086: 
-1B087: 
-1B088: 
-1B089: 
-1B08A: 
-1B08B: 
-1B08C: 
-1B08D: 
-1B08E: 
-1B08F: 
-1B090: 
-1B091: 
-1B092: 
-1B093: 
-1B094: 
-1B095: 
-1B096: 
-1B097: 
-1B098: 
-1B099: 
-1B09A: 
-1B09B: 
-1B09C: 
-1B09D: 
-1B09E: 
-1B09F: 
-1B0A0: 
-1B0A1: 
-1B0A2: 
-1B0A3: 
-1B0A4: 
-1B0A5: 
-1B0A6: 
-1B0A7: 
-1B0A8: 
-1B0A9: 
-1B0AA: 
-1B0AB: 
-1B0AC: 
-1B0AD: 
-1B0AE: 
-1B0AF: 
-1B0B0: 
-1B0B1: 
-1B0B2: 
-1B0B3: 
-1B0B4: 
-1B0B5: 
-1B0B6: 
-1B0B7: 
-1B0B8: 
-1B0B9: 
-1B0BA: 
-1B0BB: 
-1B0BC: 
-1B0BD: 
-1B0BE: 
-1B0BF: 
-1B0C0: 
-1B0C1: 
-1B0C2: 
-1B0C3: 
-1B0C4: 
-1B0C5: 
-1B0C6: 
-1B0C7: 
-1B0C8: 
-1B0C9: 
-1B0CA: 
-1B0CB: 
-1B0CC: 
-1B0CD: 
-1B0CE: 
-1B0CF: 
-1B0D0: 
-1B0D1: 
-1B0D2: 
-1B0D3: 
-1B0D4: 
-1B0D5: 
-1B0D6: 
-1B0D7: 
-1B0D8: 
-1B0D9: 
-1B0DA: 
-1B0DB: 
-1B0DC: 
-1B0DD: 
-1B0DE: 
-1B0DF: 
-1B0E0: 
-1B0E1: 
-1B0E2: 
-1B0E3: 
-1B0E4: 
-1B0E5: 
-1B0E6: 
-1B0E7: 
-1B0E8: 
-1B0E9: 
-1B0EA: 
-1B0EB: 
-1B0EC: 
-1B0ED: 
-1B0EE: 
-1B0EF: 
-1B0F0: 
-1B0F1: 
-1B0F2: 
-1B0F3: 
-1B0F4: 
-1B0F5: 
-1B0F6: 
-1B0F7: 
-1B0F8: 
-1B0F9: 
-1B0FA: 
-1B0FB: 
-1B0FC: 
-1B0FD: 
-1B0FE: 
-1B0FF: 
+1B000: Lettre Katakana e archaïque
+1B001: Lettre Hiragana ye archaïque
+1B002: Lettre Hentaigana  A-1
+1B003: Lettre Hentaigana  A-2
+1B004: Lettre Hentaigana  A-3
+1B005: Lettre Hentaigana  A-Wo
+1B006: Lettre Hentaigana  I-1
+1B007: Lettre Hentaigana  I-2
+1B008: Lettre Hentaigana  I-3
+1B009: Lettre Hentaigana  I-4
+1B00A: Lettre Hentaigana  U-1
+1B00B: Lettre Hentaigana  U-2
+1B00C: Lettre Hentaigana  U-3
+1B00D: Lettre Hentaigana  U-4
+1B00E: Lettre Hentaigana  U-5
+1B00F: Lettre Hentaigana  E-2
+1B010: Lettre Hentaigana  E-3
+1B011: Lettre Hentaigana  E-4
+1B012: Lettre Hentaigana  E-5
+1B013: Lettre Hentaigana  E-6
+1B014: Lettre Hentaigana  O-1
+1B015: Lettre Hentaigana  O-2
+1B016: Lettre Hentaigana  O-3
+1B017: Lettre Hentaigana  Ka-1
+1B018: Lettre Hentaigana  Ka-2
+1B019: Lettre Hentaigana  Ka-3
+1B01A: Lettre Hentaigana  Ka-4
+1B01B: Lettre Hentaigana  Ka-5
+1B01C: Lettre Hentaigana  Ka-6
+1B01D: Lettre Hentaigana Ka-7
+1B01E: Lettre Hentaigana Ka-8
+1B01F: Lettre Hentaigana  Ka-9
+1B020: Lettre Hentaigana Ka-10
+1B021: Lettre Hentaigana Ka-11
+1B022: Lettre Hentaigana Ka-Ke
+1B023: Lettre Hentaigana  Ki-1
+1B024: Lettre Hentaigana  Ki-2
+1B025: Lettre Hentaigana  Ki-3
+1B026: Lettre Hentaigana  Ki-4
+1B027: Lettre Hentaigana  Ki-5
+1B028: Lettre Hentaigana  Ki-6
+1B029: Lettre Hentaigana  Ki-7
+1B02A: Lettre Hentaigana  Ki-8
+1B02B: Lettre Hentaigana  Ku-1
+1B02C: Lettre Hentaigana  Ku-2
+1B02D: Lettre Hentaigana  Ku-3
+1B02E: Lettre Hentaigana  Ku-4
+1B02F: Lettre Hentaigana  Ku-5
+1B030: Lettre Hentaigana  Ku-6
+1B031: Lettre Hentaigana  Ku-7
+1B032: Lettre Hentaigana  Ke-1
+1B033: Lettre Hentaigana  Ke-2
+1B034: Lettre Hentaigana  Ke-3
+1B035: Lettre Hentaigana  Ke-4
+1B036: Lettre Hentaigana  Ke-5
+1B037: Lettre Hentaigana  Ke-6
+1B038: Lettre Hentaigana  Ko-1
+1B039: Lettre Hentaigana  Ko-2
+1B03A: Lettre Hentaigana  Ko-3
+1B03B: Lettre Hentaigana Ko-Ki
+1B03C: Lettre Hentaigana  Sa-1
+1B03D: Lettre Hentaigana  Sa-2
+1B03E: Lettre Hentaigana  Sa-3
+1B03F: Lettre Hentaigana  Sa-4
+1B040: Lettre Hentaigana  Sa-5
+1B041: Lettre Hentaigana  Sa-6
+1B042: Lettre Hentaigana  Sa-7
+1B043: Lettre Hentaigana  Sa-8
+1B044: Lettre Hentaigana  Si-1
+1B045: Lettre Hentaigana  Si-2
+1B046: Lettre Hentaigana  Si-3
+1B047: Lettre Hentaigana  Si-4
+1B048: Lettre Hentaigana  Si-5
+1B049: Lettre Hentaigana  Si-6
+1B04A: Lettre Hentaigana  Su-1
+1B04B: Lettre Hentaigana  Su-2
+1B04C: Lettre Hentaigana  Su-3
+1B04D: Lettre Hentaigana  Su-4
+1B04E: Lettre Hentaigana  Su-5
+1B04F: Lettre Hentaigana  Su-6
+1B050: Lettre Hentaigana  Su-7
+1B051: Lettre Hentaigana  Su-8
+1B052: Lettre Hentaigana  Se-1
+1B053: Lettre Hentaigana  Se-2
+1B054: Lettre Hentaigana  Se-3
+1B055: Lettre Hentaigana  Se-4
+1B056: Lettre Hentaigana  Se-5
+1B057: Lettre Hentaigana  So-1
+1B058: Lettre Hentaigana  So-2
+1B059: Lettre Hentaigana  So-3
+1B05A: Lettre Hentaigana  So-4
+1B05B: Lettre Hentaigana  So-5
+1B05C: Lettre Hentaigana  So-6
+1B05D: Lettre Hentaigana  So-7
+1B05E: Lettre Hentaigana  Ta-1
+1B05F: Lettre Hentaigana  Ta-2
+1B060: Lettre Hentaigana  Ta-3
+1B061: Lettre Hentaigana  Ta-4
+1B062: Lettre Hentaigana  Ti-1
+1B063: Lettre Hentaigana  Ti-2
+1B064: Lettre Hentaigana Ti-3
+1B065: Lettre Hentaigana Ti-4
+1B066: Lettre Hentaigana Ti-5
+1B067: Lettre Hentaigana Ti-6
+1B068: Lettre Hentaigana  Ti-7
+1B069: Lettre Hentaigana  Tu-1
+1B06A: Lettre Hentaigana  Tu-2
+1B06B: Lettre Hentaigana  Tu-3
+1B06C: Lettre Hentaigana  Tu-4
+1B06D: Lettre Hentaigana  Tu-To
+1B06E: Lettre Hentaigana  Te-1
+1B06F: Lettre Hentaigana  Te-2
+1B070: Lettre Hentaigana  Te-3
+1B071: Lettre Hentaigana  Te-4
+1B072: Lettre Hentaigana  Te-5
+1B073: Lettre Hentaigana  Te-6
+1B074: Lettre Hentaigana  Te-7
+1B075: Lettre Hentaigana  Te-8
+1B076: Lettre Hentaigana  Te-9
+1B077: Lettre Hentaigana  À-1
+1B078: Lettre Hentaigana  À-2
+1B079: Lettre Hentaigana  À-3
+1B07A: Lettre Hentaigana  À-4
+1B07B: Lettre Hentaigana  À-5
+1B07C: Lettre Hentaigana  À-6
+1B07D: Lettre Hentaigana  À-Ra
+1B07E: Lettre Hentaigana  Na-1
+1B07F: Lettre Hentaigana  Na-2
+1B080: Lettre Hentaigana  Na-3
+1B081: Lettre Hentaigana  Na-4
+1B082: Lettre Hentaigana  Na-5
+1B083: Lettre Hentaigana  Na-6
+1B084: Lettre Hentaigana Na-7
+1B085: Lettre Hentaigana Na-8
+1B086: Lettre Hentaigana  Na-9
+1B087: Lettre Hentaigana  Ni-1
+1B088: Lettre Hentaigana  Ni-2
+1B089: Lettre Hentaigana  Ni-3
+1B08A: Lettre Hentaigana  Ni-4
+1B08B: Lettre Hentaigana  Ni-5
+1B08C: Lettre Hentaigana  Ni-6
+1B08D: Lettre Hentaigana  Ni-7
+1B08E: Lettre Hentaigana  Ni-Te
+1B08F: Lettre Hentaigana  N ° 1
+1B090: Lettre Hentaigana  N ° 2
+1B091: Lettre Hentaigana  N ° 3
+1B092: Lettre Hentaigana  Ne-1
+1B093: Lettre Hentaigana  Ne-2
+1B094: Lettre Hentaigana  Ne-3
+1B095: Lettre Hentaigana  Ne-4
+1B096: Lettre Hentaigana  Ne-5
+1B097: Lettre Hentaigana  Ne-6
+1B098: Lettre Hentaigana  Ne-Ko
+1B099: Lettre Hentaigana  No-1
+1B09A: Lettre Hentaigana  No-2
+1B09B: Lettre Hentaigana  No-3
+1B09C: Lettre Hentaigana  No-4
+1B09D: Lettre Hentaigana  No-5
+1B09E: Lettre Hentaigana  Ha-1
+1B09F: Lettre Hentaigana  Ha-2
+1B0A0: Lettre Hentaigana  Ha-3
+1B0A1: Lettre Hentaigana  Ha-4
+1B0A2: Lettre Hentaigana  Ha-5
+1B0A3: Lettre Hentaigana  Ha-6
+1B0A4: Lettre Hentaigana  Ha-7
+1B0A5: Lettre Hentaigana  Ha-8
+1B0A6: Lettre Hentaigana  Ha-9
+1B0A7: Lettre Hentaigana  Ha-10
+1B0A8: Lettre Hentaigana  Ha-11
+1B0A9: Lettre Hentaigana Hi-1
+1B0AA: Lettre Hentaigana Hi-2
+1B0AB: Lettre Hentaigana Hi-3
+1B0AC: Lettre Hentaigana Hi-4
+1B0AD: Lettre Hentaigana Hi-5
+1B0AE: Lettre Hentaigana Hi-6
+1B0AF: Lettre Hentaigana Hi-7
+1B0B0: Lettre Hentaigana  Hu-1
+1B0B1: Lettre Hentaigana  Hu-2
+1B0B2: Lettre Hentaigana  Hu-3
+1B0B3: Lettre Hentaigana  He-1
+1B0B4: Lettre Hentaigana  He-2
+1B0B5: Lettre Hentaigana  He-3
+1B0B6: Lettre Hentaigana  He-4
+1B0B7: Lettre Hentaigana  He-5
+1B0B8: Lettre Hentaigana  He-6
+1B0B9: Lettre Hentaigana  He-7
+1B0BA: Lettre Hentaigana  Ho-1
+1B0BB: Lettre Hentaigana  Ho-2
+1B0BC: Lettre Hentaigana  Ho-3
+1B0BD: Lettre Hentaigana  Ho-4
+1B0BE: Lettre Hentaigana  Ho-5
+1B0BF: Lettre Hentaigana  Ho-6
+1B0C0: Lettre Hentaigana  Ho-7
+1B0C1: Lettre Hentaigana  Ho-8
+1B0C2: Lettre Hentaigana  Ma-1
+1B0C3: Lettre Hentaigana  Ma-2
+1B0C4: Lettre Hentaigana  Ma-3
+1B0C5: Lettre Hentaigana  Ma-4
+1B0C6: Lettre Hentaigana  Ma-5
+1B0C7: Lettre Hentaigana  Ma-6
+1B0C8: Lettre Hentaigana  Ma-7
+1B0C9: Lettre Hentaigana  Mi-1
+1B0CA: Lettre Hentaigana  Mi-2
+1B0CB: Lettre Hentaigana Mi-3
+1B0CC: Lettre Hentaigana  Mi-4
+1B0CD: Lettre Hentaigana  Mi-5
+1B0CE: Lettre Hentaigana  Mi-6
+1B0CF: Lettre Hentaigana Mi-7
+1B0D0: Lettre Hentaigana  Mu-1
+1B0D1: Lettre Hentaigana  Mu-2
+1B0D2: Lettre Hentaigana  Mu-3
+1B0D3: Lettre Hentaigana  Mu-4
+1B0D4: Lettre Hentaigana Moi-1
+1B0D5: Lettre Hentaigana  Me-2
+1B0D6: Lettre Hentaigana  Me-Ma
+1B0D7: Lettre Hentaigana  Mo-1
+1B0D8: Lettre Hentaigana  Mo-2
+1B0D9: Lettre Hentaigana  Mo-3
+1B0DA: Lettre Hentaigana  Mo-4
+1B0DB: Lettre Hentaigana Mo-5
+1B0DC: Lettre Hentaigana  Mo-6
+1B0DD: Lettre Hentaigana  Ya-1
+1B0DE: Lettre Hentaigana  Ya-2
+1B0DF: Lettre Hentaigana  Ya-3
+1B0E0: Lettre Hentaigana  Ya-4
+1B0E1: Lettre Hentaigana  Ya-5
+1B0E2: Lettre Hentaigana  Ya-Yo
+1B0E3: Lettre Hentaigana  Yu-1
+1B0E4: Lettre Hentaigana  Yu-2
+1B0E5: Lettre Hentaigana  Yu-3
+1B0E6: Lettre Hentaigana  Yu-4
+1B0E7: Lettre Hentaigana  Yo-1
+1B0E8: Lettre Hentaigana  Yo-2
+1B0E9: Lettre Hentaigana  Yo-3
+1B0EA: Lettre Hentaigana  Yo-4
+1B0EB: Lettre Hentaigana  Yo-5
+1B0EC: Lettre Hentaigana  Yo-6
+1B0ED: Lettre Hentaigana  Ra-1
+1B0EE: Lettre Hentaigana  Ra-2
+1B0EF: Lettre Hentaigana  Ra-3
+1B0F0: Lettre Hentaigana  Ra-4
+1B0F1: Lettre Hentaigana  Ri-1
+1B0F2: Lettre Hentaigana  Ri-2
+1B0F3: Lettre Hentaigana  Ri-3
+1B0F4: Lettre Hentaigana  Ri-4
+1B0F5: Lettre Hentaigana  Ri-5
+1B0F6: Lettre Hentaigana  Ri-6
+1B0F7: Lettre Hentaigana  Ri-7
+1B0F8: Lettre Hentaigana  Ru-1
+1B0F9: Lettre Hentaigana  Ru-2
+1B0FA: Lettre Hentaigana  Ru-3
+1B0FB: Lettre Hentaigana  Ru-4
+1B0FC: Lettre Hentaigana  Ru-5
+1B0FD: Lettre Hentaigana  Ru-6
+1B0FE: Lettre Hentaigana  Re-1
+1B0FF: Lettre Hentaigana  Re-2

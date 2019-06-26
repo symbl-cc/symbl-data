@@ -1,0 +1,256 @@
+2000: En Quad
+2001: Em Quad : carne de oaie
+2002: En Space : nuca
+2003: Em Space : carne de oaie
+2004: Spațiu 3-pe-Em : spațiu gros
+2005: Spațiu patru pe perimetru : în spațiu
+2006: Spațiul Six-Per-Em
+2007: Figura spațiu
+2008: Punctul de punctuație
+2009: Spațiu subțire
+200A: Spațiul părului
+200B: Spațiu cu spațiu liber
+200C: Zero Lățime Non-Joiner
+200D: Ferăstrău cu lățime de la zero
+200E: Marcaj de la stânga la dreapta
+200F: Marcaj din dreapta până la stânga
+2010: Cratimă
+2011: Non-Breaking Hyphen
+2012: Figura Dash
+2013: En Dash
+2014: Em Dash
+2015: Bara orizontala : cotație de cotație
+2016: Dublă linie verticală
+2017: Dublă Linie joasă
+2018: Marcaj de cotare unică stânga : un singur marcator de virgulă
+2019: Marcaj de cotare drept unic : marcaj unic de virgulă
+201A: Un singur marcaj de cotare redus : semn de cite o singură virgulă mică
+201B: Un singur marcaj de cotare mare inversat-9 : un singur marcator de cotă inversă
+201C: Marcaj dublu de cotare stânga : marcator de bijuterie cu două rânduri
+201D: Drept dublu marcaj de cotare : dublu marcaj de virgulă
+201E: Dublu marcaj de cotare de minimum 9 : scăzută dublă marcaj de virgulă
+201F: Dublu marcaj de cotare mare inversă-9 : marcaj dublu inversat de virgulă
+2020: Pumnal : obelisc, cruce lungă, cruce alungită
+2021: Double Dagger : diesis, dublu obelisc
+2022: Glonţ : negru cerc mic
+2023: Glonț triunghiular
+2024: Un lider Dot
+2025: Doi lideri Dot
+2026: Elipsa orizontală : trei lideri punct
+2027: Punct de hrănire
+2028: Line Separator
+2029: Separator de paragrafe
+202A: Embedding de la stânga la dreapta
+202B: Încărcarea de la dreapta la stânga
+202C: Formatarea direcțională în format .pdf
+202D: Controlul de la stânga la dreapta
+202E: De la dreapta la stânga
+202F: Spațiul fără spații înguste
+2030: Semnul Per Mille : permille, pe mie
+2031: La zece mii de semne : permyriad
+2032: Prim : minute, picioare
+2033: Dublu Prime : secunde, inci
+2034: Triple Prime : linii (măsura veche, 1/12 dintr-un centimetru)
+2035: Reversed Prime
+2036: Reversed Double Prime
+2037: Triple Prime inversat
+2038: Semn de omisiune
+2039: Marcaj de cotare unghiulară unică la stânga : stânga îndreptată o singură guillemet
+203A: Marcaj de cotare unghiular unic : îndreptându-se spre un singur guillemet
+203B: Marcaj de referință : japoneză kome : urdu paragraf separator
+203C: Dublu semn de exclamare
+203D: Interrobang
+203E: overline : spațierea excesivă
+203F: Undertie : greek enotikon
+2040: Legătura caracterului : z concatenarea secvenței de notație
+2041: Caret punct de inserție
+2042: Asterismul
+2043: Hyphen Bullet
+2044: Fraction Slash : solidus (în tipografie)
+2045: Stânga braț cu braț
+2046: Pătrat drept cu braț
+2047: Dublu marcaj de întrebare
+2048: Întrebare exclamator
+2049: Semnul de întrebare exclamator
+204A: Tironian Sign Et
+204B: Inversarea semnului pilcrow
+204C: Negru stânga bullet
+204D: Negru dreapta Bullet
+204E: Asterisc scăzut
+204F: Invertorul inversat
+2050: A închide
+2051: Două asteriscuri aliniate vertical
+2052: Semnalul comercial minus : abzüglich (germană), med avdrag av (suedeză), piska (suedeză, "bici")
+2053: Swash Dash
+2054: Inversă Undertie
+2055: Semne de punctuație a florilor : phul, puspika
+2056: Două punctuație punctată
+2057: Quadruple Prime
+2058: Patru punct punctat
+2059: Cinci Punct Punct : pentonkion grec : inconjunctii
+205A: Două punctaj punctuație
+205B: Patru semne Dot
+205C: Dotted Cross
+205D: Tricolon : epidemiole simbol acrofonic trei
+205E: Cele patru puncte verticale
+205F: Spațiul matematic mediu
+2060: Word Joiner
+2061: Aplicație funcțională
+2062: Times invizibile
+2063: Separator invizibil : inversă virgulă
+2064: Invisible Plus
+2065:
+2066: Izolați de la stânga la dreapta
+2067: Izolați din dreapta-stânga
+2068: Primul izolator puternic
+2069: Pop Directional Izolați
+206A: Inhibați schimbarea simetrică
+206B: Activați Schimbarea simetrică
+206C: Inhibiți formarea formei arabe
+206D: Activați modelarea formei arabe
+206E: Formatele digitale digitale
+206F: Nominal Digit Shapes
+2070: Superscript Zero
+2071: Superscript Latin Small Letter I
+2072: <Rezervat>
+2073: <Rezervat>
+2074: Superscript Patru
+2075: Superscript Five
+2076: Superscript Șase
+2077: Superscript Seven
+2078: Superscriptul opt
+2079: Superscript Nouă
+207A: Superscript Plus Sign
+207B: Superscript Minus
+207C: Superscript Equals Sign
+207D: Superscript Parenthesis stânga
+207E: Superscript dreapta Parenthesis
+207F: Superscript Latin Small Letter N
+2080: Subscript Zero
+2081: Subscriptul unu
+2082: Subscriptul doi
+2083: Subscriptul trei
+2084: Subscriptul Patru
+2085: Subscript Cinci
+2086: Subscriptul șase
+2087: Subscript Seven
+2088: Subscriptul opt
+2089: Subscript Nouă
+208A: Subscript Plus Sign
+208B: Subscript Minus
+208C: Subscriptul este egal cu semnul
+208D: Subscript Parenthesis stânga
+208E: Subscript dreapta Parenthesis
+208F:
+2090: Latină Subscript Small Letter A
+2091: Latin Subscript Scrisoare mică E
+2092: Latină Subscript Small Letter O
+2093: Latin Subscript Scrisoare mică X
+2094: Latină Subscript Small Letter Schwa
+2095: Latin Subscript Scrisoare mică H
+2096: Latin Subscript Scrisoare mică K
+2097: Latin Subscript Scrisoare mică L
+2098: Latin Subscript Scrisoare mică M
+2099: Latin Subscript Scrisoare mică N
+209A: Latin Subscript Scrisoare mică P
+209B: Latin Subscript Scrisoare mică S
+209C: Latin Subscript Scrisoare mică T
+209D:
+209E:
+209F:
+20A0: Semnul euro-valută
+20A1: Semnul colonului
+20A2: Semnalul Cruzeiro
+20A3: Semnul Franc Franc
+20A4: Lira Sign
+20A5: Semn de miere
+20A6: Semn Naira
+20A7: Semnul Peseta
+20A8: Rupee Sign
+20A9: A câștigat semnul
+20AA: Semnul nou Sheqel
+20AB: Semnul Dong
+20AC: Semnalul Euro
+20AD: Semnul Kip
+20AE: Tugrik Sign
+20AF: Drachma Sign
+20B0: Semnul german Penny
+20B1: Semnul Peso : filipino peso semn
+20B2: Guarani Sign
+20B3: Semnul Australului
+20B4: Grivna semn
+20B5: Semnul Cedi
+20B6: Livre Tournois Sign
+20B7: Spesmilo Sign
+20B8: Tenge Sign
+20B9: Indian Sign Rupee
+20BA: Semnul turc de Lira
+20BB: Semnul semnelor nordice
+20BC: Manat Sign
+20BD: Rublab Simbol : Ruble simbol rus, moneda rusă, rur, freca
+20BE: Semnul Lari
+20BF: Bitcoin Sign
+20C0:
+20C1:
+20C2:
+20C3:
+20C4:
+20C5:
+20C6:
+20C7:
+20C8:
+20C9:
+20CA:
+20CB:
+20CC:
+20CD:
+20CE:
+20CF:
+20D0: Combinând Harponul stâng de sus
+20D1: Combinând Harponul Dreaptă deasupra
+20D2: Combinarea suprapunerii liniei verticale lungi
+20D3: Combinarea suprapunerii liniei scurte scurte
+20D4: Combinând săgeata în sens invers acelor de ceasornic deasupra
+20D5: Combinând săgeata în sensul acelor de ceasornic de mai sus
+20D6: Combinând săgeata stângă deasupra
+20D7: Combinând săgeata dreapta sus
+20D8: Combinarea suprapunerii inelului
+20D9: Combinând suprapunerea cu inel în sensul acelor de ceas
+20DA: Combinarea suprapunerii inelului invers
+20DB: Combinând trei puncte deasupra : al treilea derivat
+20DC: Combinând patru puncte deasupra : al patrulea derivat
+20DD: Combinând cercul închis : jis compoziție cerc : chirilă combinând zece mii de semne
+20DE: Combinând pătratul închis
+20DF: Combinând diamantul închis
+20E0: Combinând backslash-ul Circle Enclosing : interzicere, dezactivare
+20E1: Combinând săgeata stânga dreaptă deasupra
+20E2: Combinând ecranul de închidere
+20E3: Combinând capacul de închidere
+20E4: Combinând triunghiul de poziționare în sus
+20E5: Combinarea suprapunerii Reverse Solidus
+20E6: Combinarea suprapunerii dublu verticale a stroke : z notație funcția finită diacritic
+20E7: Combinând simbolul anuității : conturul actuarial
+20E8: Combinând Triple Underdot
+20E9: Combinând podul larg deasupra : operator de contracție
+20EA: Combinând suprapunerea cu săgeată din stânga
+20EB: Combinând suprapunerea dublă Solidus lungă : lung dublu slash suprapunere
+20EC: Combinând dreapta Harpoon cu Barb Down
+20ED: Combinând Harponul stâng și Barb Down
+20EE: Combinând săgeata stânga de mai jos
+20EF: Combinând săgeata dreaptă de mai jos
+20F0: Combinând Asterisk deasupra
+20F1:
+20F2:
+20F3:
+20F4:
+20F5:
+20F6:
+20F7:
+20F8:
+20F9:
+20FA:
+20FB:
+20FC:
+20FD:
+20FE:
+20FF:

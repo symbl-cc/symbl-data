@@ -1,256 +1,256 @@
-D000: Hangul syllable kweon
-D001: Hangul syllable kweonj
-D002: Hangul syllable kweonh
-D003: Hangul syllable kweod
-D004: Hangul syllable kweol
-D005: Hangul syllable kweolg
-D006: Hangul syllable kweolm
-D007: Hangul syllable kweolb
-D008: Hangul syllable kweols
-D009: Hangul syllable kweolt
-D00A: Hangul syllable kweolp
-D00B: Hangul syllable kweolh
-D00C: Hangul syllable kweom
-D00D: Hangul syllable kweob
-D00E: Hangul syllable kweobs
-D00F: Hangul syllable kweos
-D010: Hangul syllable kweoss
-D011: Hangul syllable kweong
-D012: Hangul syllable kweoj
-D013: Hangul syllable kweoc
-D014: Hangul syllable kweok
-D015: Hangul syllable kweot
-D016: Hangul syllable kweop
-D017: Hangul syllable kweoh
-D018: Hangul syllable kwe
-D019: Hangul syllable kweg
-D01A: Hangul syllable kwegg
-D01B: Hangul syllable kwegs
-D01C: Hangul syllable kwen
-D01D: Hangul syllable kwenj
-D01E: Hangul syllable kwenh
-D01F: Hangul syllable kwed
-D020: Hangul syllable kwel
-D021: Hangul syllable kwelg
-D022: Hangul syllable kwelm
-D023: Hangul syllable kwelb
-D024: Hangul syllable kwels
-D025: Hangul syllable kwelt
-D026: Hangul syllable kwelp
-D027: Hangul syllable kwelh
-D028: Hangul syllable kwem
-D029: Hangul syllable kweb
-D02A: Hangul syllable kwebs
-D02B: Hangul syllable kwes
-D02C: Hangul syllable kwess
-D02D: Hangul syllable kweng
-D02E: Hangul syllable kwej
-D02F: Hangul syllable kwec
-D030: Hangul syllable kwek
-D031: Hangul syllable kwet
-D032: Hangul syllable kwep
-D033: Hangul syllable kweh
-D034: Hangul syllable kwi
-D035: Hangul syllable kwig
-D036: Hangul syllable kwigg
-D037: Hangul syllable kwigs
-D038: Hangul syllable kwin
-D039: Hangul syllable kwinj
-D03A: Hangul syllable kwinh
-D03B: Hangul syllable kwid
-D03C: Hangul syllable kwil
-D03D: Hangul syllable kwilg
-D03E: Hangul syllable kwilm
-D03F: Hangul syllable kwilb
-D040: Hangul syllable kwils
-D041: Hangul syllable kwilt
-D042: Hangul syllable kwilp
-D043: Hangul syllable kwilh
-D044: Hangul syllable kwim
-D045: Hangul syllable kwib
-D046: Hangul syllable kwibs
-D047: Hangul syllable kwis
-D048: Hangul syllable kwiss
-D049: Hangul syllable kwing
-D04A: Hangul syllable kwij
-D04B: Hangul syllable kwic
-D04C: Hangul syllable kwik
-D04D: Hangul syllable kwit
-D04E: Hangul syllable kwip
-D04F: Hangul syllable kwih
-D050: Hangul syllable kyu
-D051: Hangul syllable kyug
-D052: Hangul syllable kyugg
-D053: Hangul syllable kyugs
-D054: Hangul syllable kyun
-D055: Hangul syllable kyunj
-D056: Hangul syllable kyunh
-D057: Hangul syllable kyud
-D058: Hangul syllable kyul
-D059: Hangul syllable kyulg
-D05A: Hangul syllable kyulm
-D05B: Hangul syllable kyulb
-D05C: Hangul syllable kyuls
-D05D: Hangul syllable kyult
-D05E: Hangul syllable kyulp
-D05F: Hangul syllable kyulh
-D060: Hangul syllable kyum
-D061: Hangul syllable kyub
-D062: Hangul syllable kyubs
-D063: Hangul syllable kyus
-D064: Hangul syllable kyuss
-D065: Hangul syllable kyung
-D066: Hangul syllable kyuj
-D067: Hangul syllable kyuc
-D068: Hangul syllable kyuk
-D069: Hangul syllable kyut
-D06A: Hangul syllable kyup
-D06B: Hangul syllable kyuh
-D06C: Hangul syllable keu
-D06D: Hangul syllable keug
-D06E: Hangul syllable keugg
-D06F: Hangul syllable keugs
-D070: Hangul syllable keun
-D071: Hangul syllable keunj
-D072: Hangul syllable keunh
-D073: Hangul syllable keud
-D074: Hangul syllable keul
-D075: Hangul syllable keulg
-D076: Hangul syllable keulm
-D077: Hangul syllable keulb
-D078: Hangul syllable keuls
-D079: Hangul syllable keult
-D07A: Hangul syllable keulp
-D07B: Hangul syllable keulh
-D07C: Hangul syllable keum
-D07D: Hangul syllable keub
-D07E: Hangul syllable keubs
-D07F: Hangul syllable keus
-D080: Hangul syllable keuss
-D081: Hangul syllable keung
-D082: Hangul syllable keuj
-D083: Hangul syllable keuc
-D084: Hangul syllable keuk
-D085: Hangul syllable keut
-D086: Hangul syllable keup
-D087: Hangul syllable keuh
-D088: Hangul syllable kyi
-D089: Hangul syllable kyig
-D08A: Hangul syllable kyigg
-D08B: Hangul syllable kyigs
-D08C: Hangul syllable kyin
-D08D: Hangul syllable kyinj
-D08E: Hangul syllable kyinh
-D08F: Hangul syllable kyid
-D090: Hangul syllable kyil
-D091: Hangul syllable kyilg
-D092: Hangul syllable kyilm
-D093: Hangul syllable kyilb
-D094: Hangul syllable kyils
-D095: Hangul syllable kyilt
-D096: Hangul syllable kyilp
-D097: Hangul syllable kyilh
-D098: Hangul syllable kyim
-D099: Hangul syllable kyib
-D09A: Hangul syllable kyibs
-D09B: Hangul syllable kyis
-D09C: Hangul syllable kyiss
-D09D: Hangul syllable kying
-D09E: Hangul syllable kyij
-D09F: Hangul syllable kyic
-D0A0: Hangul syllable kyik
-D0A1: Hangul syllable kyit
-D0A2: Hangul syllable kyip
-D0A3: Hangul syllable kyih
-D0A4: Hangul syllable ki
-D0A5: Hangul syllable kig
-D0A6: Hangul syllable kigg
-D0A7: Hangul syllable kigs
-D0A8: Hangul syllable kin
-D0A9: Hangul syllable kinj
-D0AA: Hangul syllable kinh
-D0AB: Hangul syllable kid
-D0AC: Hangul syllable kil
-D0AD: Hangul syllable kilg
-D0AE: Hangul syllable kilm
-D0AF: Hangul syllable kilb
-D0B0: Hangul syllable kils
-D0B1: Hangul syllable kilt
-D0B2: Hangul syllable kilp
-D0B3: Hangul syllable kilh
-D0B4: Hangul syllable kim
-D0B5: Hangul syllable kib
-D0B6: Hangul syllable kibs
-D0B7: Hangul syllable kis
-D0B8: Hangul syllable kiss
-D0B9: Hangul syllable king
-D0BA: Hangul syllable kij
-D0BB: Hangul syllable kic
-D0BC: Hangul syllable kik
-D0BD: Hangul syllable kit
-D0BE: Hangul syllable kip
-D0BF: Hangul syllable kih
-D0C0: Hangul syllable ta
-D0C1: Hangul syllable tag
-D0C2: Hangul syllable tagg
-D0C3: Hangul syllable tags
-D0C4: Hangul syllable tan
-D0C5: Hangul syllable tanj
-D0C6: Hangul syllable tanh
-D0C7: Hangul syllable tad
-D0C8: Hangul syllable tal
-D0C9: Hangul syllable talg
-D0CA: Hangul syllable talm
-D0CB: Hangul syllable talb
-D0CC: Hangul syllable tals
-D0CD: Hangul syllable talt
-D0CE: Hangul syllable talp
-D0CF: Hangul syllable talh
-D0D0: Hangul syllable tam
-D0D1: Hangul syllable tab
-D0D2: Hangul syllable tabs
-D0D3: Hangul syllable tas
-D0D4: Hangul syllable tass
-D0D5: Hangul syllable tang
-D0D6: Hangul syllable taj
-D0D7: Hangul syllable tac
-D0D8: Hangul syllable tak
-D0D9: Hangul syllable tat
-D0DA: Hangul syllable tap
-D0DB: Hangul syllable tah
-D0DC: Hangul syllable tae
-D0DD: Hangul syllable taeg
-D0DE: Hangul syllable taegg
-D0DF: Hangul syllable taegs
-D0E0: Hangul syllable taen
-D0E1: Hangul syllable taenj
-D0E2: Hangul syllable taenh
-D0E3: Hangul syllable taed
-D0E4: Hangul syllable tael
-D0E5: Hangul syllable taelg
-D0E6: Hangul syllable taelm
-D0E7: Hangul syllable taelb
-D0E8: Hangul syllable taels
-D0E9: Hangul syllable taelt
-D0EA: Hangul syllable taelp
-D0EB: Hangul syllable taelh
-D0EC: Hangul syllable taem
-D0ED: Hangul syllable taeb
-D0EE: Hangul syllable taebs
-D0EF: Hangul syllable taes
-D0F0: Hangul syllable taess
-D0F1: Hangul syllable taeng
-D0F2: Hangul syllable taej
-D0F3: Hangul syllable taec
-D0F4: Hangul syllable taek
-D0F5: Hangul syllable taet
-D0F6: Hangul syllable taep
-D0F7: Hangul syllable taeh
-D0F8: Hangul syllable tya
-D0F9: Hangul syllable tyag
-D0FA: Hangul syllable tyagg
-D0FB: Hangul syllable tyags
-D0FC: Hangul syllable tyan
-D0FD: Hangul syllable tyanj
-D0FE: Hangul syllable tyanh
-D0FF: Hangul syllable tyad
+D000: Hangul Silbe Kweon
+D001: Hangul Silbe Kweonj
+D002: Hangul Silbe Kweonh
+D003: Hangul Silbe Kweod
+D004: Hangul Silbe Kweol
+D005: Hangul Silbe Kweolg
+D006: Hangul Silbe Kweolm
+D007: Hangul Silbe Kweolb
+D008: Hangul Silbe Kweols
+D009: Hangul Silbe Kweolt
+D00A: Hangul Silbe Kweolp
+D00B: Hangul Silbe Kweolh
+D00C: Hangul Silbe Kweom
+D00D: Hangul Silbe Kweob
+D00E: Hangul Silbe Kweobs
+D00F: Hangul Silbe Kweos
+D010: Hangul Silbe Kweoss
+D011: Hangul Silbe Kweong
+D012: Hangul Silbe Kweoj
+D013: Hangul Silbe Kweoc
+D014: Hangul Silbe Kweok
+D015: Hangul Silbe Kweot
+D016: Hangul Silbe Kweop
+D017: Hangul Silbe Kweoh
+D018: Hangul Silbe Kwe
+D019: Hangul Silbe Kweg
+D01A: Hangul Silbe Kwegg
+D01B: Hangul Syllable Kwegs
+D01C: Hangul Silbe Kwen
+D01D: Hangul Silbe Kwenj
+D01E: Hangul Silbe Kwenh
+D01F: Hangul Silbe Kwed
+D020: Hangul Silbe Kwel
+D021: Hangul Silbe Kwelg
+D022: Hangul Silbe Kwelm
+D023: Hangul Silbe Kwelb
+D024: Hangul Silbe Kwels
+D025: Hangul Silbe Kwelt
+D026: Hangul Syllable Kwelp
+D027: Hangul Silbe Kwelh
+D028: Hangul Silbe Kwem
+D029: Hangul Silbe Kweb
+D02A: Hangul Silbe Kwebs
+D02B: Hangul Silbe Kwes
+D02C: Hangul Silbe Kwess
+D02D: Hangul Silbe Kweng
+D02E: Hangul Silbe Kwej
+D02F: Hangul Silbe Kwec
+D030: Hangul Silbe Kwek
+D031: Hangul Silbe Kwet
+D032: Hangul Silbe Kwep
+D033: Hangul Silbe Kweh
+D034: Hangul Silbe Kwi
+D035: Hangul Silbe Kwig
+D036: Hangul Silbe Kwigg
+D037: Hangul Silbe Kwigs
+D038: Hangul Silbe Kwin
+D039: Hangul Silbe Kwinj
+D03A: Hangul Silbe Kwinh
+D03B: Hangul Silbe Kwid
+D03C: Hangul Silbe Kwil
+D03D: Hangul-Silbe Kwilg
+D03E: Hangul Silbe Kwilm
+D03F: Hangul Silbe Kwilb
+D040: Hangul Silbe Kwils
+D041: Hangul Silbe Kwilt
+D042: Hangul Silbe Kwilp
+D043: Hangul-Silbe Kwilh
+D044: Hangul Silbe Kwim
+D045: Hangul Silbe Kwib
+D046: Hangul Silbe Kwibs
+D047: Hangul Silbe Kwis
+D048: Hangul Silbe Kwiss
+D049: Hangul Silbe Kwing
+D04A: Hangul Silbe Kwij
+D04B: Hangul Silbe Kwic
+D04C: Hangul Silbe Kwik
+D04D: Hangul Silbe Kwit
+D04E: Hangul Silbe Kwip
+D04F: Hangul Silbe Kwih
+D050: Hangul-Silbe Kyu
+D051: Hangul-Silbe Kyug
+D052: Hangul-Silbe Kyugg
+D053: Hangul Silbe Kyugs
+D054: Hangul-Silbe Kyun
+D055: Hangul-Silbe Kyunj
+D056: Hangul-Silbe Kyunh
+D057: Hangul Silbe Kyud
+D058: Hangul-Silbe Kyul
+D059: Hangul-Silbe Kyulg
+D05A: Hangul-Silbe Kyulm
+D05B: Hangul-Silbe Kyulb
+D05C: Hangul-Silbe Kyuls
+D05D: Hangul-Silbe Kyult
+D05E: Hangul-Silbe Kyulp
+D05F: Hangul-Silbe Kyulh
+D060: Hangul-Silbe Kyum
+D061: Hangul-Silbe Kyub
+D062: Hangul Syllable Kyubs
+D063: Hangul-Silbe Kyus
+D064: Hangul-Silbe Kyuss
+D065: Hangul-Silbe Kyung
+D066: Hangul-Silbe Kyuj
+D067: Hangul-Silbe Kyuc
+D068: Hangul-Silbe Kyuk
+D069: Hangul-Silbe Kyut
+D06A: Hangul-Silbe Kyup
+D06B: Hangul-Silbe Kyuh
+D06C: Hangul Silbe Keu
+D06D: Hangul Silbe Keug
+D06E: Hangul Silbe Keugg
+D06F: Hangul Silbe Keugs
+D070: Hangul Silbe Keun
+D071: Hangul-Silbe Keunj
+D072: Hangul Silbe Keunh
+D073: Hangul Silbe Keud
+D074: Hangul Silbe Keul
+D075: Hangul-Silbe Keulg
+D076: Hangul Silbe Keulm
+D077: Hangul Silbe Keulb
+D078: Hangul Silbe Keuls
+D079: Hangul-Silbe Keult
+D07A: Hangul Silbe Keulp
+D07B: Hangul Silbe Keulh
+D07C: Hangul Silbe Keum
+D07D: Hangul Silbe Keub
+D07E: Hangul Silbe Keubs
+D07F: Hangul Silbe Keus
+D080: Hangul Silbe Keuss
+D081: Hangul Silbe Keung
+D082: Hangul Silbe Keuj
+D083: Hangul Silbe Keuc
+D084: Hangul Silbe Keuk
+D085: Hangul Silbe Keut
+D086: Hangul Silbe Keup
+D087: Hangul Silbe Keuh
+D088: Hangul-Silbe Kyi
+D089: Hangul Silbe Kyig
+D08A: Hangul-Silbe Kyigg
+D08B: Hangul Silbe Kyigs
+D08C: Hangul-Silbe Kyin
+D08D: Hangul-Silbe Kyinj
+D08E: Hangul-Silbe Kyinh
+D08F: Hangul Silbe Kyid
+D090: Hangul-Silbe Kyil
+D091: Hangul-Silbe Kyilg
+D092: Hangul-Silbe Kyilm
+D093: Hangul-Silbe Kyilb
+D094: Hangul-Silbe Kyils
+D095: Hangul Silbe Kyilt
+D096: Hangul-Silbe Kyilp
+D097: Hangul-Silbe Kyilh
+D098: Hangul-Silbe Kyim
+D099: Hangul-Silbe Kyib
+D09A: Hangul Silbe Kyibs
+D09B: Hangul-Silbe Kyis
+D09C: Hangul-Silbe Kyiss
+D09D: Hangul Silbe Kying
+D09E: Hangul-Silbe Kyij
+D09F: Hangul-Silbe Kyic
+D0A0: Hangul-Silbe Kyik
+D0A1: Hangul Silbe Kyit
+D0A2: Hangul-Silbe Kyip
+D0A3: Hangul Silbe Kyih
+D0A4: Hangul Silbe Ki
+D0A5: Hangul Silbe Kig
+D0A6: Hangul Silbe Kigg
+D0A7: Hangul Silbe Kigs
+D0A8: Hangul Silbe Kin
+D0A9: Hangul-Silbe Kinj
+D0AA: Hangul Silbe Kinh
+D0AB: Hangul Syllable Kid
+D0AC: Hangul Silbe Kil
+D0AD: Hangul Silbe Kilg
+D0AE: Hangul Silbe Kilm
+D0AF: Hangul Silbe Kilb
+D0B0: Hangul Silbe Kils
+D0B1: Hangul Silbenkilt
+D0B2: Hangul Silbe Kilp
+D0B3: Hangul Silbe Kilh
+D0B4: Hangul Silbe Kim
+D0B5: Hangul Silbe Kib
+D0B6: Hangul Silbe Kibs
+D0B7: Hangul Silbe Kis
+D0B8: Hangul Silbe Kuss
+D0B9: Hangul Silbenkönig
+D0BA: Hangul Silbe Kij
+D0BB: Hangul Silbe Kic
+D0BC: Hangul Silbe Kik
+D0BD: Hangul Silben-Kit
+D0BE: Hangul Silbe Kip
+D0BF: Hangul Silbe Kih
+D0C0: Hangul Silbe Ta
+D0C1: Hangul-Silben-Tag
+D0C2: Hangul Silbe Tagg
+D0C3: Hangul-Silben-Tags
+D0C4: Hangul Silbe Tan
+D0C5: Hangul Silbe Tanj
+D0C6: Hangul Silbe Tanh
+D0C7: Hangul Silbe Tad
+D0C8: Hangul Syllable Tal
+D0C9: Hangul Silbe Talg
+D0CA: Hangul-Silben-Talm
+D0CB: Hangul Silbe Talb
+D0CC: Hangul Silbe Tals
+D0CD: Hangul Silbe Talt
+D0CE: Hangul Silbe Talp
+D0CF: Hangul Silbe Talh
+D0D0: Hangul Silbe Tam
+D0D1: Hangul-Silben-Tab
+D0D2: Hangul-Silben-Registerkarten
+D0D3: Hangul Silbe Tas
+D0D4: Hangul Silbe Tass
+D0D5: Hangul Silbe Tang
+D0D6: Hangul Silbe Taj
+D0D7: Hangul Silbe Tac
+D0D8: Hangul Silbe Tak
+D0D9: Hangul-Silbe Tat
+D0DA: Hangul Silbe tippen auf
+D0DB: Hangul-Silbe Tah
+D0DC: Hangul Silbe Tae
+D0DD: Hangul Silbe Taeg
+D0DE: Hangul Silbe Taegg
+D0DF: Hangul Silbe Taegs
+D0E0: Hangul-Silbe Taen
+D0E1: Hangul-Silbe Taenj
+D0E2: Hangul-Silbe Taenh
+D0E3: Hangul Silbe Taed
+D0E4: Hangul Silbe Tael
+D0E5: Hangul Silbe Taelg
+D0E6: Hangul Silbe Taelm
+D0E7: Hangul Silbe Taelb
+D0E8: Hangul-Silbe Taels
+D0E9: Hangul Silbe Taelt
+D0EA: Hangul Silbe Taelp
+D0EB: Hangul Silbe Taelh
+D0EC: Hangul Silbe Taem
+D0ED: Hangul Silbe Taeb
+D0EE: Hangul Silbe Taebs
+D0EF: Hangul-Silbe Taes
+D0F0: Hangul Silbe Taess
+D0F1: Hangul-Silbe Taeng
+D0F2: Hangul-Silbe Taej
+D0F3: Hangul-Silbe Taec
+D0F4: Hangul Silbe Taek
+D0F5: Hangul-Silbe Taet
+D0F6: Hangul Silbe Taep
+D0F7: Hangul Silbe Taeh
+D0F8: Hangul-Silbe Tya
+D0F9: Hangul Silbe Tyag
+D0FA: Hangul-Silbe Tyagg
+D0FB: Hangul Silbe Tyags
+D0FC: Hangul Silbe Tyan
+D0FD: Hangul-Silbe Tyanj
+D0FE: Hangul-Silbe Tyanh
+D0FF: Hangul Syllable Tyad

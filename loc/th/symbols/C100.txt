@@ -1,256 +1,256 @@
-C100 : Hangul syllable syae
-C101 : Hangul syllable syaeg
-C102 : Hangul syllable syaegg
-C103 : Hangul syllable syaegs
-C104 : Hangul syllable syaen
-C105 : Hangul syllable syaenj
-C106 : Hangul syllable syaenh
-C107 : Hangul syllable syaed
-C108 : Hangul syllable syael
-C109 : Hangul syllable syaelg
-C10A : Hangul syllable syaelm
-C10B : Hangul syllable syaelb
-C10C : Hangul syllable syaels
-C10D : Hangul syllable syaelt
-C10E : Hangul syllable syaelp
-C10F : Hangul syllable syaelh
-C110 : Hangul syllable syaem
-C111 : Hangul syllable syaeb
-C112 : Hangul syllable syaebs
-C113 : Hangul syllable syaes
-C114 : Hangul syllable syaess
-C115 : Hangul syllable syaeng
-C116 : Hangul syllable syaej
-C117 : Hangul syllable syaec
-C118 : Hangul syllable syaek
-C119 : Hangul syllable syaet
-C11A : Hangul syllable syaep
-C11B : Hangul syllable syaeh
-C11C : Hangul syllable seo
-C11D : Hangul syllable seog
-C11E : Hangul syllable seogg
-C11F : Hangul syllable seogs
-C120 : Hangul syllable seon
-C121 : Hangul syllable seonj
-C122 : Hangul syllable seonh
-C123 : Hangul syllable seod
-C124 : Hangul syllable seol
-C125 : Hangul syllable seolg
-C126 : Hangul syllable seolm
-C127 : Hangul syllable seolb
-C128 : Hangul syllable seols
-C129 : Hangul syllable seolt
-C12A : Hangul syllable seolp
-C12B : Hangul syllable seolh
-C12C : Hangul syllable seom
-C12D : Hangul syllable seob
-C12E : Hangul syllable seobs
-C12F : Hangul syllable seos
-C130 : Hangul syllable seoss
-C131 : Hangul syllable seong
-C132 : Hangul syllable seoj
-C133 : Hangul syllable seoc
-C134 : Hangul syllable seok
-C135 : Hangul syllable seot
-C136 : Hangul syllable seop
-C137 : Hangul syllable seoh
-C138 : Hangul syllable se
-C139 : Hangul syllable seg
-C13A : Hangul syllable segg
-C13B : Hangul syllable segs
-C13C : Hangul syllable sen
-C13D : Hangul syllable senj
-C13E : Hangul syllable senh
-C13F : Hangul syllable sed
-C140 : Hangul syllable sel
-C141 : Hangul syllable selg
-C142 : Hangul syllable selm
-C143 : Hangul syllable selb
-C144 : Hangul syllable sels
-C145 : Hangul syllable selt
-C146 : Hangul syllable selp
-C147 : Hangul syllable selh
-C148 : Hangul syllable sem
-C149 : Hangul syllable seb
-C14A : Hangul syllable sebs
-C14B : Hangul syllable ses
-C14C : Hangul syllable sess
-C14D : Hangul syllable seng
-C14E : Hangul syllable sej
-C14F : Hangul syllable sec
-C150 : Hangul syllable sek
-C151 : Hangul syllable set
-C152 : Hangul syllable sep
-C153 : Hangul syllable seh
-C154 : Hangul syllable syeo
-C155 : Hangul syllable syeog
-C156 : Hangul syllable syeogg
-C157 : Hangul syllable syeogs
-C158 : Hangul syllable syeon
-C159 : Hangul syllable syeonj
-C15A : Hangul syllable syeonh
-C15B : Hangul syllable syeod
-C15C : Hangul syllable syeol
-C15D : Hangul syllable syeolg
-C15E : Hangul syllable syeolm
-C15F : Hangul syllable syeolb
-C160 : Hangul syllable syeols
-C161 : Hangul syllable syeolt
-C162 : Hangul syllable syeolp
-C163 : Hangul syllable syeolh
-C164 : Hangul syllable syeom
-C165 : Hangul syllable syeob
-C166 : Hangul syllable syeobs
-C167 : Hangul syllable syeos
-C168 : Hangul syllable syeoss
-C169 : Hangul syllable syeong
-C16A : Hangul syllable syeoj
-C16B : Hangul syllable syeoc
-C16C : Hangul syllable syeok
-C16D : Hangul syllable syeot
-C16E : Hangul syllable syeop
-C16F : Hangul syllable syeoh
-C170 : Hangul syllable sye
-C171 : Hangul syllable syeg
-C172 : Hangul syllable syegg
-C173 : Hangul syllable syegs
-C174 : Hangul syllable syen
-C175 : Hangul syllable syenj
-C176 : Hangul syllable syenh
-C177 : Hangul syllable syed
-C178 : Hangul syllable syel
-C179 : Hangul syllable syelg
-C17A : Hangul syllable syelm
-C17B : Hangul syllable syelb
-C17C : Hangul syllable syels
-C17D : Hangul syllable syelt
-C17E : Hangul syllable syelp
-C17F : Hangul syllable syelh
-C180 : Hangul syllable syem
-C181 : Hangul syllable syeb
-C182 : Hangul syllable syebs
-C183 : Hangul syllable syes
-C184 : Hangul syllable syess
-C185 : Hangul syllable syeng
-C186 : Hangul syllable syej
-C187 : Hangul syllable syec
-C188 : Hangul syllable syek
-C189 : Hangul syllable syet
-C18A : Hangul syllable syep
-C18B : Hangul syllable syeh
-C18C : Hangul syllable so
-C18D : Hangul syllable sog
-C18E : Hangul syllable sogg
-C18F : Hangul syllable sogs
-C190 : Hangul syllable son
-C191 : Hangul syllable sonj
-C192 : Hangul syllable sonh
-C193 : Hangul syllable sod
-C194 : Hangul syllable sol
-C195 : Hangul syllable solg
-C196 : Hangul syllable solm
-C197 : Hangul syllable solb
-C198 : Hangul syllable sols
-C199 : Hangul syllable solt
-C19A : Hangul syllable solp
-C19B : Hangul syllable solh
-C19C : Hangul syllable som
-C19D : Hangul syllable sob
-C19E : Hangul syllable sobs
-C19F : Hangul syllable sos
-C1A0 : Hangul syllable soss
-C1A1 : Hangul syllable song
-C1A2 : Hangul syllable soj
-C1A3 : Hangul syllable soc
-C1A4 : Hangul syllable sok
-C1A5 : Hangul syllable sot
-C1A6 : Hangul syllable sop
-C1A7 : Hangul syllable soh
-C1A8 : Hangul syllable swa
-C1A9 : Hangul syllable swag
-C1AA : Hangul syllable swagg
-C1AB : Hangul syllable swags
-C1AC : Hangul syllable swan
-C1AD : Hangul syllable swanj
-C1AE : Hangul syllable swanh
-C1AF : Hangul syllable swad
-C1B0 : Hangul syllable swal
-C1B1 : Hangul syllable swalg
-C1B2 : Hangul syllable swalm
-C1B3 : Hangul syllable swalb
-C1B4 : Hangul syllable swals
-C1B5 : Hangul syllable swalt
-C1B6 : Hangul syllable swalp
-C1B7 : Hangul syllable swalh
-C1B8 : Hangul syllable swam
-C1B9 : Hangul syllable swab
-C1BA : Hangul syllable swabs
-C1BB : Hangul syllable swas
-C1BC : Hangul syllable swass
-C1BD : Hangul syllable swang
-C1BE : Hangul syllable swaj
-C1BF : Hangul syllable swac
-C1C0 : Hangul syllable swak
-C1C1 : Hangul syllable swat
-C1C2 : Hangul syllable swap
-C1C3 : Hangul syllable swah
-C1C4 : Hangul syllable swae
-C1C5 : Hangul syllable swaeg
-C1C6 : Hangul syllable swaegg
-C1C7 : Hangul syllable swaegs
-C1C8 : Hangul syllable swaen
-C1C9 : Hangul syllable swaenj
-C1CA : Hangul syllable swaenh
-C1CB : Hangul syllable swaed
-C1CC : Hangul syllable swael
-C1CD : Hangul syllable swaelg
-C1CE : Hangul syllable swaelm
-C1CF : Hangul syllable swaelb
-C1D0 : Hangul syllable swaels
-C1D1 : Hangul syllable swaelt
-C1D2 : Hangul syllable swaelp
-C1D3 : Hangul syllable swaelh
-C1D4 : Hangul syllable swaem
-C1D5 : Hangul syllable swaeb
-C1D6 : Hangul syllable swaebs
-C1D7 : Hangul syllable swaes
-C1D8 : Hangul syllable swaess
-C1D9 : Hangul syllable swaeng
-C1DA : Hangul syllable swaej
-C1DB : Hangul syllable swaec
-C1DC : Hangul syllable swaek
-C1DD : Hangul syllable swaet
-C1DE : Hangul syllable swaep
-C1DF : Hangul syllable swaeh
-C1E0 : Hangul syllable soe
-C1E1 : Hangul syllable soeg
-C1E2 : Hangul syllable soegg
-C1E3 : Hangul syllable soegs
-C1E4 : Hangul syllable soen
-C1E5 : Hangul syllable soenj
-C1E6 : Hangul syllable soenh
-C1E7 : Hangul syllable soed
-C1E8 : Hangul syllable soel
-C1E9 : Hangul syllable soelg
-C1EA : Hangul syllable soelm
-C1EB : Hangul syllable soelb
-C1EC : Hangul syllable soels
-C1ED : Hangul syllable soelt
-C1EE : Hangul syllable soelp
-C1EF : Hangul syllable soelh
-C1F0 : Hangul syllable soem
-C1F1 : Hangul syllable soeb
-C1F2 : Hangul syllable soebs
-C1F3 : Hangul syllable soes
-C1F4 : Hangul syllable soess
-C1F5 : Hangul syllable soeng
-C1F6 : Hangul syllable soej
-C1F7 : Hangul syllable soec
-C1F8 : Hangul syllable soek
-C1F9 : Hangul syllable soet
-C1FA : Hangul syllable soep
-C1FB : Hangul syllable soeh
-C1FC : Hangul syllable syo
-C1FD : Hangul syllable syog
-C1FE : Hangul syllable syogg
-C1FF : Hangul syllable syogs
+C100: พยางค์ฮันกึล
+C101: อังกูลพยางค์ Syaeg
+C102: อังกูลพยางค์
+C103: อังกูลพยางค์ Syaegs
+C104: พยางค์ฮันกึล
+C105: พยางค์อังกูล
+C106: Hangul พยางค์ Syaenh
+C107: พยางค์อังกูล Syaed
+C108: พยางค์อังกูล
+C109: พยางค์อังกูล
+C10A: พยางค์อังกูล
+C10B: พยางค์อังกูล
+C10C: Syaels พยางค์ฮันกึล
+C10D: พยางค์ฮันกึล
+C10E: พยางค์อังกูล
+C10F: พยางค์ฮันกึล
+C110: พยางค์อังกูล
+C111: อังกูลพยางค์ Syaeb
+C112: พยางค์อังกูล
+C113: พยางค์อังกูล Syaes
+C114: พยางค์อังกูล
+C115: พยางค์ฮันกึล
+C116: พยางค์ฮันกึล
+C117: อังกูลพยางค์ Syaec
+C118: พยางค์อังกูล
+C119: พยางค์อังกูล Syaet
+C11A: อังกูลพยางค์ Syaep
+C11B: พยางค์ฮันกึล
+C11C: พยางค์ฮันกึล
+C11D: อังกูลพยางค์ Seog
+C11E: Seogg อังกูลพยางค์
+C11F: Seogs พยางค์อังกูล
+C120: พยางค์ฮันกึล
+C121: อังกูลพยางค์
+C122: Seulh พยางค์อังกูล
+C123: พยางค์อังกูล
+C124: พยางค์ฮันกึล
+C125: พยางค์ฮันกึล
+C126: Seulm พยางค์อังกูล
+C127: Seulb พยางค์อังกูล
+C128: Seulable พยางค์อังกูล
+C129: Seult พยางค์อังกูล
+C12A: Seulp พยางค์อังกูล
+C12B: พยางค์ฮันกึล
+C12C: พยางค์อังกูล
+C12D: Seul พยางค์อังกูล
+C12E: Seul พยางค์อังกูล
+C12F: Seulable พยางค์อังกูล
+C130: พยางค์ฮันกึล
+C131: พยางค์ฮันกึล
+C132: Seul อังกูลพยางค์
+C133: Seulable พยางค์อังกูล
+C134: อังกูลพยางค์ Seok
+C135: Seotable พยางค์อังกูล
+C136: พยางค์อังกูล
+C137: พยางค์ฮันกึล
+C138: พยางค์อังกูล
+C139: พยางค์อังกูล
+C13A: Segul พยางค์อังกูล
+C13B: Segul พยางค์อังกูล
+C13C: อังกูลพยางค์เสน
+C13D: อังกูลพยางค์
+C13E: อังกูลพยางค์เสนห์
+C13F: พยางค์อังกูล
+C140: Selul พยางค์อังกูล
+C141: พยางค์อังกูล
+C142: Selul พยางค์อังกูล
+C143: Selul พยางค์อังกูล
+C144: พยางค์อังกูล
+C145: พยางค์อังกูล
+C146: Selul พยางค์อังกูล
+C147: Selul พยางค์อังกูล
+C148: พยางค์อังกูล
+C149: Seb พยางค์อังกูล
+C14A: พยางค์อังกูล
+C14B: อังกูลพยางค์
+C14C: Sess อังกูลพยางค์
+C14D: อังกูลพยางค์แสง
+C14E: อังกูลพยางค์
+C14F: อังกูลพยางค์
+C150: อังกูลพยางค์
+C151: ชุดพยางค์อังกูล
+C152: พยางค์อังกูล
+C153: พยางค์อังกูล
+C154: พยางค์ฮันกึล
+C155: พยางค์ฮันกึล
+C156: อังกูลพยางค์ Syeogg
+C157: Syeogs อังกูลพยางค์
+C158: พยางค์ภาษาอังกูล
+C159: พยางค์ฮันกึล
+C15A: พยางค์ฮันกึล
+C15B: พยางค์ฮันกึล
+C15C: พยางค์ฮันกึล
+C15D: พยางค์ฮันกึล
+C15E: พยางค์ฮันกึล
+C15F: พยางค์ฮันกึล
+C160: Syeols พยางค์อังกูล
+C161: พยางค์ฮันกึล
+C162: พยางค์ฮันกึล
+C163: พยางค์ฮันกึล
+C164: พยางค์อังกูล
+C165: อังกูลพยางค์ Syeob
+C166: Syeobs อังกูลพยางค์
+C167: Syeos พยางค์อังกูล
+C168: อังกูลพยางค์ Syeoss
+C169: พยางค์ฮันกึล
+C16A: อังกูลพยางค์ Syeoj
+C16B: อังกูลพยางค์ Syeoc
+C16C: พยางค์ฮันกึล
+C16D: Syeot พยางค์ฮันกึล
+C16E: พยางค์ภาษาอังกูล
+C16F: พยางค์ฮันกึล
+C170: พยางค์อังกูล
+C171: พยางค์อังกูล
+C172: พยางค์อังกูล
+C173: พยางค์อังกูล
+C174: พยางค์ฮันกึล
+C175: พยางค์ฮันกึล
+C176: อังกูลพยางค์ Syenh
+C177: อังกูลพยางค์ไซ
+C178: อังกูลพยางค์ไซล
+C179: พยางค์อังกูล
+C17A: พยางค์อังกูล
+C17B: อังกูลพยางค์
+C17C: พยางค์อังกูล
+C17D: พยางค์อังกูล
+C17E: พยางค์อังกูล
+C17F: พยางค์ฮันกึล
+C180: พยางค์อังกูล
+C181: อังกูลพยางค์ Syeb
+C182: Syebs อังกูลพยางค์
+C183: พยางค์อังกูล
+C184: พยางค์อังกูล
+C185: พยางค์ฮันกึล
+C186: อังกูลพยางค์ Syej
+C187: พยางค์อังกูล
+C188: พยางค์อังกูล Syek
+C189: พยางค์อังกูล
+C18A: พยางค์อังกูล
+C18B: พยางค์ฮันกึล
+C18C: พยางค์อังกูลดังนั้น
+C18D: พยางค์อังกูล
+C18E: อังกูลพยางค์ Sogg
+C18F: Sogs อังกูลพยางค์
+C190: อังกูลพยางค์ลูกชาย
+C191: พยางค์ฮันกึล
+C192: พยางค์ฮันกึล
+C193: พยางค์อังกูลสด
+C194: อังกูลพยางค์โซล
+C195: อังกูลพยางค์โซล
+C196: ตัวพยางค์อังกูล
+C197: อังกูลพยางค์
+C198: อังกูลพยางค์โซล
+C199: อังกูลพยางค์
+C19A: ตัวพยางค์อังกูล
+C19B: พยางค์ฮันกึล
+C19C: พยางค์อังกูล
+C19D: Sul พยางค์ฮันกึล
+C19E: Sobs อังกูลพยางค์
+C19F: Sos อังกูลพยางค์
+C1A0: พยางค์อังกูล
+C1A1: เพลงอังกูลพยางค์
+C1A2: อังกูลพยางค์ Soj
+C1A3: พยางค์อังกูล
+C1A4: อังกูลพยางค์ซก
+C1A5: อังกูลพยางค์
+C1A6: พยางค์อังกูล
+C1A7: พยางค์ฮันกึล
+C1A8: Swa อังกูลพยางค์
+C1A9: อังกูลพยางค์จ้า
+C1AA: อังกูลพยางค์ Swagg
+C1AB: Swul พยางค์อังกูล
+C1AC: หงส์อังกูลพยางค์
+C1AD: พยางค์อังกูลสวอนจ์
+C1AE: อังกูลพยางค์หงส์
+C1AF: พยางค์ฮันกึล
+C1B0: อังกูลพยางค์ Swal
+C1B1: อังกูลพยางค์ Swalg
+C1B2: Swul พยางค์อังกูล
+C1B3: อังกูล Swalb พยางค์
+C1B4: อังกูลพยางค์ Swals
+C1B5: พยางค์ฮันกึล
+C1B6: อังกูล Swalp พยางค์
+C1B7: อังกูลพยางค์ Swalh
+C1B8: Hangul พยางค์ว่ายน้ำ
+C1B9: อังกูล Swab พยางค์
+C1BA: อังกูล Swabs พยางค์
+C1BB: Swang พยางค์อังกูล
+C1BC: อังกูลพยางค์ Swass
+C1BD: Swang พยางค์อังกูล
+C1BE: อังกูลพยางค์สวจ
+C1BF: Swan อังกูลพยางค์
+C1C0: อังกูล Swak พยางค์
+C1C1: หน่วยคำพยางค์อังกูล
+C1C2: สลับพยางค์อังกูล
+C1C3: พยางค์อังกูล Swah
+C1C4: พยางค์อังกูล Swae
+C1C5: อังกูลพยางค์ Swaeg
+C1C6: อักษรอังกูล Swaegg
+C1C7: อังกูลพยางค์ Swaegs
+C1C8: พยางค์อังกูล Swaen
+C1C9: อักษรอังกูล Swaenj
+C1CA: อักษรอังกูล Swaenh
+C1CB: พยางค์อังกูล Swaed
+C1CC: พยางค์ฮันกึล
+C1CD: พยางค์อังกูล Swaelg
+C1CE: พยางค์ฮันกึล
+C1CF: อังกูล Swaelb พยางค์
+C1D0: พยางค์อังกูล Swaels
+C1D1: อักษรอังกูล Swaelt
+C1D2: ภาษาอังกูล Swaelp
+C1D3: พยางค์อังกูล Swaelh
+C1D4: อังกูลพยางค์ Swaem
+C1D5: อังกูล Swaeb พยางค์
+C1D6: อังกูล Swaebs พยางค์
+C1D7: อังกูลพยางค์ Swaes
+C1D8: Hangul พยางค์ Swaess
+C1D9: พยางค์อังกูล Swaeng
+C1DA: อักษรอังกูล Swaej
+C1DB: อักษรอังกูล Swaec
+C1DC: อังกูลพยางค์ Swaek
+C1DD: อังกูล Swaet พยางค์
+C1DE: อังกูลพยางค์ Swaep
+C1DF: พยางค์อังกูล Swaeh
+C1E0: อังกูลพยางค์
+C1E1: Soeg พยางค์อังกูล
+C1E2: อังกูลพยางค์ฮันกึล
+C1E3: Soegs พยางค์อังกูล
+C1E4: พยางค์อังกูล Soen
+C1E5: พยางค์อังกูล
+C1E6: อังกูลพยางค์โซฮัน
+C1E7: อังกูลพยางค์ Soed
+C1E8: พยางค์ฮันกึล
+C1E9: Soelg พยางค์อังกูล
+C1EA: ฮันกึล Sollm พยางค์
+C1EB: Soelb พยางค์อังกูล
+C1EC: พยางค์อังกูล
+C1ED: พยางค์ฮันกึล
+C1EE: Soulp พยางค์อังกูล
+C1EF: พยางค์ฮันกึล
+C1F0: พยางค์อังกูล
+C1F1: Soeb พยางค์อังกูล
+C1F2: Soebs พยางค์อังกูล
+C1F3: พยางค์อังกูล
+C1F4: อังกูลพยางค์ฮันกึล
+C1F5: อังกูลพยางค์ Soeng
+C1F6: อังกูลพยางค์
+C1F7: Soul พยางค์อังกูล
+C1F8: อังกูลพยางค์ Soek
+C1F9: ดังนั้นพยางค์ฮันกึล
+C1FA: Soep พยางค์อังกูล
+C1FB: พยางค์ฮันกึล
+C1FC: พยางค์อังกูล
+C1FD: พยางค์อังกูล
+C1FE: อังกูลพยางค์ Syogg
+C1FF: พยางค์อังกูล

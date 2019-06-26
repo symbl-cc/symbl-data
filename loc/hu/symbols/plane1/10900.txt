@@ -1,25 +1,25 @@
-10900: Phoenician Letter Alf
-10901: Phoenician Letter Bet
-10902: Phoenician Letter Gaml
-10903: Phoenician Letter Delt
-10904: Phoenician Letter He
-10905: Phoenician Letter Wau
-10906: Phoenician Letter Zai
-10907: Phoenician Letter Het
-10908: Phoenician Letter Tet
-10909: Phoenician Letter Yod
-1090A: Phoenician Letter Kaf
-1090B: Phoenician Letter Lamd
-1090C: Phoenician Letter Mem
-1090D: Phoenician Letter Nun
-1090E: Phoenician Letter Semk
-1090F: Phoenician Letter Ain
-10910: Phoenician Letter Pe
-10911: Phoenician Letter Sade
-10912: Phoenician Letter Qof
-10913: Phoenician Letter Rosh
-10914: Phoenician Letter Shin
-10915: Phoenician Letter Tau
+10900: Phoenician betű Alf
+10901: Phoenician betű Bet
+10902: Phoenician betű Gaml
+10903: Phoenician betű Delt
+10904: Phoenician betű He
+10905: Phoenician betű Wau
+10906: Phoenician betű Zai
+10907: Phoenician betű Het
+10908: Phoenician betű Tet
+10909: Phoenician betű Yod
+1090A: Phoenician betű Kaf
+1090B: Phoenician betű Lamd
+1090C: Phoenician betű Mem
+1090D: Phoenician betű Nun
+1090E: Phoenician betű Semk
+1090F: Phoenician betű Ain
+10910: Phoenician betű Pe
+10911: Phoenician betű Sade
+10912: Phoenician betű Qof
+10913: Phoenician betű Rosh
+10914: Phoenician betű Shin
+10915: Phoenician betű Tau
 10916: Phoenician Number One
 10917: Phoenician Number Ten
 10918: Phoenician Number Twenty
@@ -30,32 +30,32 @@
 1091D:
 1091E:
 1091F: Phoenician Word Separator
-10920: Lydian Letter A
-10921: Lydian Letter B
-10922: Lydian Letter G
-10923: Lydian Letter D
-10924: Lydian Letter E
-10925: Lydian Letter V
-10926: Lydian Letter I
-10927: Lydian Letter Y
-10928: Lydian Letter K
-10929: Lydian Letter L
-1092A: Lydian Letter M
-1092B: Lydian Letter N
-1092C: Lydian Letter O
-1092D: Lydian Letter R
-1092E: Lydian Letter Ss
-1092F: Lydian Letter T
-10930: Lydian Letter U
-10931: Lydian Letter F
-10932: Lydian Letter Q
-10933: Lydian Letter S
-10934: Lydian Letter Tt
-10935: Lydian Letter An
-10936: Lydian Letter En
-10937: Lydian Letter Ly
-10938: Lydian Letter Nn
-10939: Lydian Letter C
+10920: Lydian betű A
+10921: Lydian betű B
+10922: Lydian betű G
+10923: Lydian betű D
+10924: Lydian betű E
+10925: Lydian betű V
+10926: Lydian betű I
+10927: Lydian betű Y
+10928: Lydian betű K
+10929: Lydian betű L
+1092A: Lydian betű M
+1092B: Lydian betű N
+1092C: Lydian betű O
+1092D: Lydian betű R
+1092E: Lydian betű Ss
+1092F: Lydian betű T
+10930: Lydian betű U
+10931: Lydian betű F
+10932: Lydian betű Q
+10933: Lydian betű S
+10934: Lydian betű Tt
+10935: Lydian betű An
+10936: Lydian betű En
+10937: Lydian betű Ly
+10938: Lydian betű Nn
+10939: Lydian betű C
 1093A:
 1093B:
 1093C:
@@ -126,62 +126,62 @@
 1097D:
 1097E:
 1097F:
-10980: Meroitic Hieroglyphic Letter A
-10981: Meroitic Hieroglyphic Letter E
-10982: Meroitic Hieroglyphic Letter I
-10983: Meroitic Hieroglyphic Letter O
-10984: Meroitic Hieroglyphic Letter Ya
-10985: Meroitic Hieroglyphic Letter Wa
-10986: Meroitic Hieroglyphic Letter Ba
-10987: Meroitic Hieroglyphic Letter Ba-2
-10988: Meroitic Hieroglyphic Letter Pa
-10989: Meroitic Hieroglyphic Letter Ma
-1098A: Meroitic Hieroglyphic Letter Na
-1098B: Meroitic Hieroglyphic Letter Na-2
-1098C: Meroitic Hieroglyphic Letter Ne
-1098D: Meroitic Hieroglyphic Letter Ne-2
-1098E: Meroitic Hieroglyphic Letter Ra
-1098F: Meroitic Hieroglyphic Letter Ra-2
-10990: Meroitic Hieroglyphic Letter La
-10991: Meroitic Hieroglyphic Letter Kha
-10992: Meroitic Hieroglyphic Letter Hha
-10993: Meroitic Hieroglyphic Letter Sa
-10994: Meroitic Hieroglyphic Letter Sa-2
-10995: Meroitic Hieroglyphic Letter Se
-10996: Meroitic Hieroglyphic Letter Ka
-10997: Meroitic Hieroglyphic Letter Qa
-10998: Meroitic Hieroglyphic Letter Ta
-10999: Meroitic Hieroglyphic Letter Ta-2
-1099A: Meroitic Hieroglyphic Letter Te
-1099B: Meroitic Hieroglyphic Letter Te-2
-1099C: Meroitic Hieroglyphic Letter To
-1099D: Meroitic Hieroglyphic Letter Da
-1099E: Meroitic Hieroglyphic Symbol Vidj
-1099F: Meroitic Hieroglyphic Symbol Vidj-2
-109A0: Meroitic Cursive Letter A
-109A1: Meroitic Cursive Letter E
-109A2: Meroitic Cursive Letter I
-109A3: Meroitic Cursive Letter O
-109A4: Meroitic Cursive Letter Ya
-109A5: Meroitic Cursive Letter Wa
-109A6: Meroitic Cursive Letter Ba
-109A7: Meroitic Cursive Letter Pa
-109A8: Meroitic Cursive Letter Ma
-109A9: Meroitic Cursive Letter Na
-109AA: Meroitic Cursive Letter Ne
-109AB: Meroitic Cursive Letter Ra
-109AC: Meroitic Cursive Letter La
-109AD: Meroitic Cursive Letter Kha
-109AE: Meroitic Cursive Letter Hha
-109AF: Meroitic Cursive Letter Sa
-109B0: Meroitic Cursive Letter Archaic Sa
-109B1: Meroitic Cursive Letter Se
-109B2: Meroitic Cursive Letter Ka
-109B3: Meroitic Cursive Letter Qa
-109B4: Meroitic Cursive Letter Ta
-109B5: Meroitic Cursive Letter Te
-109B6: Meroitic Cursive Letter To
-109B7: Meroitic Cursive Letter Da
+10980: Meroitic hieroglifaic betű A
+10981: Meroitic hieroglifaic betű E
+10982: Meroitic hieroglifaic betű I
+10983: Meroitic hieroglifaic betű O
+10984: Meroitic hieroglifaic betű Ya
+10985: Meroitic hieroglifaic betű Wa
+10986: Meroitic hieroglifaic betű Ba
+10987: Meroitic hieroglifaic betű Ba-2
+10988: Meroitic hieroglifaic betű Pa
+10989: Meroitic hieroglifaic betű Ma
+1098A: Meroitic hieroglifaic betű Na
+1098B: Meroitic hieroglifaic betű Na-2
+1098C: Meroitic hieroglifaic betű Ne
+1098D: Meroitic hieroglifaic betű Ne-2
+1098E: Meroitic hieroglifaic betű Ra
+1098F: Meroitic hieroglifaic betű Ra-2
+10990: Meroitic hieroglifaic betű La
+10991: Meroitic hieroglifaic betű Kha
+10992: Meroitic hieroglifaic betű Hha
+10993: Meroitic hieroglifaic betű Sa
+10994: Meroitic hieroglifaic betű Sa-2
+10995: Meroitic hieroglifaic betű Se
+10996: Meroitic hieroglifaic betű Ka
+10997: Meroitic hieroglifaic betű Qa
+10998: Meroitic hieroglifaic betű Ta
+10999: Meroitic hieroglifaic betű Ta-2
+1099A: Meroitic hieroglifaic betű Te
+1099B: Meroitic hieroglifaic betű Te-2
+1099C: Meroitic hieroglifaic betű To
+1099D: Meroitic hieroglifaic betű Da
+1099E: Meroitic hieroglifaic Symbol Vidj
+1099F: Meroitic hieroglifaic Symbol Vidj-2
+109A0: Meroitic Cursive betű A
+109A1: Meroitic Cursive betű E
+109A2: Meroitic Cursive betű I
+109A3: Meroitic Cursive betű O
+109A4: Meroitic Cursive betű Ya
+109A5: Meroitic Cursive betű Wa
+109A6: Meroitic Cursive betű Ba
+109A7: Meroitic Cursive betű Pa
+109A8: Meroitic Cursive betű Ma
+109A9: Meroitic Cursive betű Na
+109AA: Meroitic Cursive betű Ne
+109AB: Meroitic Cursive betű Ra
+109AC: Meroitic Cursive betű La
+109AD: Meroitic Cursive betű Kha
+109AE: Meroitic Cursive betű Hha
+109AF: Meroitic Cursive betű Sa
+109B0: Meroitic Cursive betű Archaic Sa
+109B1: Meroitic Cursive betű Se
+109B2: Meroitic Cursive betű Ka
+109B3: Meroitic Cursive betű Qa
+109B4: Meroitic Cursive betű Ta
+109B5: Meroitic Cursive betű Te
+109B6: Meroitic Cursive betű To
+109B7: Meroitic Cursive betű Da
 109B8:
 109B9:
 109BA:

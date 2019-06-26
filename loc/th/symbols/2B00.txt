@@ -1,256 +1,256 @@
-2B00 : North east white arrow
-2B01 : North west white arrow
-2B02 : South east white arrow
-2B03 : South west white arrow
-2B04 : Left right white arrow
-2B05 : Leftwards black arrow
-2B06 : Upwards black arrow
-2B07 : Downwards black arrow
-2B08 : North east black arrow
-2B09 : North west black arrow
-2B0A : South east black arrow
-2B0B : South west black arrow
-2B0C : Left right black arrow
-2B0D : Up down black arrow
-2B0E : Rightwards arrow with tip downwards
-2B0F : Rightwards arrow with tip upwards
-2B10 : Leftwards arrow with tip downwards
-2B11 : Leftwards arrow with tip upwards
-2B12 : Square with top half black
-2B13 : Square with bottom half black
-2B14 : Square with upper right diagonal half black
-2B15 : Square with lower left diagonal half black
-2B16 : Diamond with left half black
-2B17 : Diamond with right half black
-2B18 : Diamond with top half black
-2B19 : Diamond with bottom half black
-2B1A : Dotted square
-2B1B : Black large square
-2B1C : White large square
-2B1D : Black very small square
-2B1E : White very small square
-2B1F : Black pentagon
-2B20 : White pentagon
-2B21 : White hexagon
-2B22 : Black hexagon
-2B23 : Horizontal black hexagon
-2B24 : Black large circle
-2B25 : Black medium diamond
-2B26 : White medium diamond
-2B27 : Black medium lozenge
-2B28 : White medium lozenge
-2B29 : Black small diamond
-2B2A : Black small lozenge
-2B2B : White small lozenge
-2B2C : Black horizontal ellipse
-2B2D : White horizontal ellipse
-2B2E : Black vertical ellipse
-2B2F : White vertical ellipse
-2B30 : Left arrow with small circle
-2B31 : Three leftwards arrows
-2B32 : Left arrow with circled plus
-2B33 : Long leftwards squiggle arrow
-2B34 : Leftwards two-headed arrow with vertical stroke
-2B35 : Leftwards two-headed arrow with double vertical stroke
-2B36 : Leftwards two-headed arrow from bar
-2B37 : Leftwards two-headed triple dash arrow
-2B38 : Leftwards arrow with dotted stem
-2B39 : Leftwards arrow with tail with vertical stroke
-2B3A : Leftwards arrow with tail with double vertical stroke
-2B3B : Leftwards two-headed arrow with tail
-2B3C : Leftwards two-headed arrow with tail with vertical stroke
-2B3D : Leftwards two-headed arrow with tail with double vertical stroke
-2B3E : Leftwards arrow through x
-2B3F : Wave arrow pointing directly left
-2B40 : Equals sign above leftwards arrow
-2B41 : Reverse tilde operator above leftwards arrow
-2B42 : Leftwards arrow above reverse almost equal to
-2B43 : Rightwards arrow through greater-than
-2B44 : Rightwards arrow through superset
-2B45 : Leftwards quadruple arrow
-2B46 : Rightwards quadruple arrow
-2B47 : Reverse tilde operator above rightwards arrow
-2B48 : Rightwards arrow above reverse almost equal to
-2B49 : Tilde operator above leftwards arrow
-2B4A : Leftwards arrow above almost equal to
-2B4B : Leftwards arrow above reverse tilde operator
-2B4C : Rightwards arrow above reverse tilde operator
-2B4D : 
-2B4E : 
-2B4F : 
-2B50 : White medium star
-2B51 : Black small star
-2B52 : White small star
-2B53 : Black right-pointing pentagon
-2B54 : White right-pointing pentagon
-2B55 : Heavy large circle
-2B56 : Heavy oval with oval inside
-2B57 : Heavy circle with circle inside
-2B58 : Heavy circle
-2B59 : Heavy circled saltire
-2B5A : 
-2B5B : 
-2B5C : 
-2B5D : 
-2B5E : 
-2B5F : 
-2B60 : 
-2B61 : 
-2B62 : 
-2B63 : 
-2B64 : 
-2B65 : 
-2B66 : 
-2B67 : 
-2B68 : 
-2B69 : 
-2B6A : 
-2B6B : 
-2B6C : 
-2B6D : 
-2B6E : 
-2B6F : 
-2B70 : 
-2B71 : 
-2B72 : 
-2B73 : 
-2B74 : 
-2B75 : 
-2B76 : 
-2B77 : 
-2B78 : 
-2B79 : 
-2B7A : 
-2B7B : 
-2B7C : 
-2B7D : 
-2B7E : 
-2B7F : 
-2B80 : 
-2B81 : 
-2B82 : 
-2B83 : 
-2B84 : 
-2B85 : 
-2B86 : 
-2B87 : 
-2B88 : 
-2B89 : 
-2B8A : 
-2B8B : 
-2B8C : 
-2B8D : 
-2B8E : 
-2B8F : 
-2B90 : 
-2B91 : 
-2B92 : 
-2B93 : 
-2B94 : 
-2B95 : 
-2B96 : 
-2B97 : 
-2B98 : 
-2B99 : 
-2B9A : 
-2B9B : 
-2B9C : 
-2B9D : 
-2B9E : 
-2B9F : 
-2BA0 : 
-2BA1 : 
-2BA2 : 
-2BA3 : 
-2BA4 : 
-2BA5 : 
-2BA6 : 
-2BA7 : 
-2BA8 : 
-2BA9 : 
-2BAA : 
-2BAB : 
-2BAC : 
-2BAD : 
-2BAE : 
-2BAF : 
-2BB0 : 
-2BB1 : 
-2BB2 : 
-2BB3 : 
-2BB4 : 
-2BB5 : 
-2BB6 : 
-2BB7 : 
-2BB8 : 
-2BB9 : 
-2BBA : 
-2BBB : 
-2BBC : 
-2BBD : 
-2BBE : 
-2BBF : 
-2BC0 : 
-2BC1 : 
-2BC2 : 
-2BC3 : 
-2BC4 : 
-2BC5 : 
-2BC6 : 
-2BC7 : 
-2BC8 : 
-2BC9 : 
-2BCA : 
-2BCB : 
-2BCC : 
-2BCD : 
-2BCE : 
-2BCF : 
-2BD0 : 
-2BD1 : 
-2BD2 : 
-2BD3 : 
-2BD4 : 
-2BD5 : 
-2BD6 : 
-2BD7 : 
-2BD8 : 
-2BD9 : 
-2BDA : 
-2BDB : 
-2BDC : 
-2BDD : 
-2BDE : 
-2BDF : 
-2BE0 : 
-2BE1 : 
-2BE2 : 
-2BE3 : 
-2BE4 : 
-2BE5 : 
-2BE6 : 
-2BE7 : 
-2BE8 : 
-2BE9 : 
-2BEA : 
-2BEB : 
-2BEC : 
-2BED : 
-2BEE : 
-2BEF : 
-2BF0 : 
-2BF1 : 
-2BF2 : 
-2BF3 : 
-2BF4 : 
-2BF5 : 
-2BF6 : 
-2BF7 : 
-2BF8 : 
-2BF9 : 
-2BFA : 
-2BFB : 
-2BFC : 
-2BFD : 
-2BFE : 
-2BFF : 
+2B00: ลูกศรสีขาวตะวันออกเฉียงเหนือ
+2B01: ลูกศรสีขาวทางตะวันตกเฉียงเหนือ
+2B02: ลูกศรสีขาวตะวันออกเฉียงใต้
+2B03: ลูกศรทิศตะวันตกเฉียงใต้สีขาว
+2B04: ลูกศรสีขาวซ้ายขวา
+2B05: ลูกศรสีดำทางซ้าย
+2B06: ลูกศรสีดำขึ้นไป
+2B07: ลูกศรสีดำลง
+2B08: ลูกศรสีดำตะวันออกเฉียงเหนือ
+2B09: ลูกศรสีดำทางตะวันตกเฉียงเหนือ
+2B0A: ลูกศรสีดำตะวันออกเฉียงใต้
+2B0B: ลูกศรสีดำตะวันตกเฉียงใต้
+2B0C: ลูกศรสีดำซ้ายขวา
+2B0D: ลูกศรสีดำขึ้นลง
+2B0E: ลูกศรไปทางขวาพร้อมกับ Tip Downward
+2B0F: ลูกศรไปทางขวาพร้อมด้วย Tip Upwards
+2B10: ลูกศรซ้ายพร้อมด้วยปลายลง
+2B11: ลูกศรซ้ายพร้อมด้วย Tip Upwards
+2B12: สี่เหลี่ยมจัตุรัสที่มีสีดำครึ่งบน
+2B13: สี่เหลี่ยมจัตุรัสที่มีก้นครึ่งดำ
+2B14: สี่เหลี่ยมจัตุรัสที่มีมุมฉากสีดำครึ่งบนด้านขวา
+2B15: สี่เหลี่ยมจัตุรัสที่มีสีดำครึ่งซ้ายล่างในแนวทแยง
+2B16: เพชรสีดำครึ่งซ้าย
+2B17: เพชรสีดำครึ่งขวา
+2B18: เพชรสีดำครึ่งบน
+2B19: ไดมอนด์กับก้นครึ่งดำ
+2B1A: จุดประ
+2B1B: สี่เหลี่ยมสีดำขนาดใหญ่
+2B1C: สี่เหลี่ยมสีขาวขนาดใหญ่
+2B1D: สี่เหลี่ยมจัตุรัสเล็กสีดำมาก
+2B1E: สี่เหลี่ยมสีขาวเล็กมาก
+2B1F: เพนตากอนสีดำ
+2B20: เพนตากอนสีขาว
+2B21: หกเหลี่ยมสีขาว
+2B22: หกเหลี่ยมสีดำ
+2B23: หกเหลี่ยมแนวนอนสีดำ
+2B24: วงกลมใหญ่สีดำ
+2B25: เพชรดำกลาง
+2B26: เพชรขาวกลาง
+2B27: ยาอมดำขนาดกลาง
+2B28: ยาอม Medium White
+2B29: เพชรดำเล็ก
+2B2A: ยาอมดำขนาดเล็ก
+2B2B: ยาอมเล็กสีขาว
+2B2C: วงรีแนวนอนสีดำ
+2B2D: วงรีแนวนอนสีขาว
+2B2E: วงรีแนวตั้งสีดำ
+2B2F: วงรีแนวตั้งสีขาว
+2B30: ลูกศรซ้ายพร้อมวงกลมขนาดเล็ก
+2B31: ลูกศรซ้ายสามลูก
+2B32: ลูกศรซ้ายพร้อม Circled Plus
+2B33: Arrow Squiggle Left Left
+2B34: ลูกศรสองหัวซ้ายไปทางซ้าย
+2B35: ลูกศรสองหัวซ้ายไปทางซ้าย
+2B36: ลูกศรสองหัวซ้ายจากบาร์
+2B37: ลูกศรสามขีดสองหัวซ้ายไปทางซ้าย
+2B38: ลูกศรซ้ายด้วยก้านประ
+2B39: ลูกศรซ้ายด้วยหางพร้อมกับจังหวะตามแนวตั้ง
+2B3A: ลูกศรซ้ายกับหางพร้อม Stroke แนวตั้งสองเท่า
+2B3B: ลูกศรสองหัวซ้ายโดยมีหาง
+2B3C: ลูกศรสองหัวซ้ายพร้อมหางที่มีจังหวะตามแนวตั้ง
+2B3D: ลูกศรสองหัวซ้ายพร้อมหางที่มีการลากเส้นแนวดิ่งสองครั้ง
+2B3E: ลูกศรซ้ายไปทาง X
+2B3F: ลูกศรของคลื่นชี้ไปทางซ้ายโดยตรง
+2B40: เท่ากับเครื่องหมายเหนือลูกศรซ้าย
+2B41: Reverse Tilde Operator ด้านบนลูกศรซ้าย
+2B42: ลูกศรซ้ายไปด้านบนย้อนกลับเกือบเท่ากับ
+2B43: ลูกศรขวาผ่านทะลุมากกว่า
+2B44: ไปทางขวาลูกศรผ่าน Superset
+2B45: ลูกศรสี่เท่าทางซ้าย
+2B46: ลูกศรสี่ทางขวา
+2B47: ย้อนกลับตัวดำเนินการตัวหนอนด้านบนขวาลูกศร
+2B48: ลูกศรขวาไปข้างบนย้อนกลับเกือบเท่ากับ
+2B49: Tilde Operator ด้านบนซ้ายของ Arrow
+2B4A: ลูกศรซ้ายเหนือขึ้นไปเกือบเท่ากับ
+2B4B: ลูกศรซ้ายไปด้านบนย้อนกลับโอเปอเรเตอร์ตัวหนอน
+2B4C: ลูกศรขวาไปด้านบนย้อนกลับตัวดำเนินการตัวหนอน
+2B4D: ลูกศรซิกแซกลูกศรสามเหลี่ยม
+2B4E: ลูกธนูเฉียงนอร์ทสั้น
+2B4F: ลูกศรใต้ที่ย้อนกลับสั้น
+2B50: ดาวสีขาวปานกลาง : ดาวสีเหลือง
+2B51: Black Small Star
+2B52: ดาวดวงเล็กสีขาว
+2B53: เพนตากอนขวาชี้ดำ
+2B54: เพนตากอนขวาสีขาวชี้
+2B55: วงกลมขนาดใหญ่หนัก : สัญลักษณ์พื้นฐานสำหรับการ จำกัด ความเร็วถูกต้องวงกลมสีแดงเครื่องหมายวงกลม
+2B56: วงรีหนักกับวงรีด้านใน : สำนักงานจังหวัด
+2B57: Heavy Circle พร้อม Circle Inside : สำนักงานเทศบาล
+2B58: วงเวียนหนัก : สำนักงานเมืองหรือหมู่บ้าน
+2B59: ไขว้หนาทึบ : สถานีตำรวจ
+2B5A: ลูกศรเฉียงเฉียงเฉียงที่มีหัวตะขอ
+2B5B: ลูกศรทางทิศใต้ backslanted กับหางตะขอ
+2B5C: ลูกศรเฉียงเฉียงที่มีหางแนวนอน
+2B5D: ลูกศรใต้ backslanted กับหางแนวนอน
+2B5E: Bent Arrow ชี้ไปทางตะวันออกเฉียงเหนือ
+2B5F: ลูกศรแบบโค้งสั้นที่ชี้ลงจากนั้นตะวันออกเฉียงเหนือ
+2B60: ลูกศรสามเหลี่ยมหัวซ้าย
+2B61: ลูกศรที่มีหัวรูปสามเหลี่ยมขึ้นไป
+2B62: ลูกศรสามเหลี่ยมหัวขวา
+2B63: ลูกศรสามเหลี่ยมหัวลง
+2B64: ลูกศรสามเหลี่ยมหัวซ้ายขวา
+2B65: ลูกศรชี้ขึ้นรูปสามเหลี่ยมหัวขึ้น
+2B66: ลูกศรที่มีหัวรูปสามเหลี่ยมทิศตะวันตกเฉียงเหนือ
+2B67: ลูกศรที่มีลูกศรสามเหลี่ยมสามทิศตะวันออกเฉียงเหนือ
+2B68: ลูกศรที่มีหัวรูปสามเหลี่ยมตะวันออกเฉียงใต้
+2B69: ลูกศรที่มีหัวรูปสามเหลี่ยมทิศตะวันตกเฉียงใต้
+2B6A: Arrowed Dashed Arrowed Headwards
+2B6B: Arrowed Dashed Arrowed ขึ้นไปด้านบน
+2B6C: Arrowed Dashed Arrowed ที่อยู่ด้านขวา
+2B6D: Arrowed Dashed Arrowed หัวลูกศรลง
+2B6E: ลูกศรวงกลมเปิดหัวรูปสามเหลี่ยมตามเข็มนาฬิกา
+2B6F: ลูกศรวงกลมเปิดหัวทวนเข็มนาฬิการูปสามเหลี่ยม
+2B70: ลูกศรสามเหลี่ยมหัวซ้ายไปยังบาร์ : แท็บด้านซ้าย
+2B71: Arrow Arrowed Headed To Bar ขึ้นไป : แท็บขึ้น
+2B72: ลูกศรสามเหลี่ยมหัวขวาไปทางบาร์ : แท็บขวา
+2B73: ลูกศรสามเหลี่ยมลงหัวไปที่บาร์ : แท็บลง
+2B74:
+2B75:
+2B76: ลูกศรหัวสามทิศตะวันตกเฉียงเหนือไปที่บาร์ : บ้าน
+2B77: ลูกศรมุ่งหน้าไปยังแถบตะวันออกเฉียงเหนือของรูปสามเหลี่ยมที่บาร์
+2B78: ลูกศรชี้ไปที่บาร์ทางทิศตะวันออกเฉียงใต้รูปสามเหลี่ยม : ปลาย
+2B79: ลูกศรหัวสามทิศตะวันตกเฉียงใต้ไปที่บาร์
+2B7A: ลูกศรสามเหลี่ยมหัวซ้ายด้วยโรคหลอดเลือดสมองแนวนอนคู่
+2B7B: ลูกศรที่มีหัวรูปสามเหลี่ยมขึ้นไปพร้อมกับการลากเส้นแนวนอนสองครั้ง : เลื่อนหน้าขึ้น
+2B7C: ลูกศรสามเหลี่ยมหัวขวาไปทางขวาพร้อมกับโรคหลอดเลือดสมองแนวนอนคู่
+2B7D: ลูกศรสามเหลี่ยมหัวลงล่าง : เลื่อนหน้าลง
+2B7E: คีย์แท็บแนวนอน
+2B7F: คีย์แท็บแนวตั้ง
+2B80: ลูกศรสามเหลี่ยมหัวซ้ายไปทางขวาลูกศรสามเหลี่ยมหัวซ้าย
+2B81: ลูกศรที่มีหัวรูปสามเหลี่ยมขึ้นไปทางซ้ายของลูกศรที่มีหัวรูปสามเหลี่ยมด้านล่าง
+2B82: ลูกศรสามเหลี่ยมหัวขวาไปทางซ้ายลูกศรสามเหลี่ยมหัวขวา
+2B83: ลูกศรรูปสามเหลี่ยมที่หัวลง
+2B84: ลูกศรจับคู่สามเหลี่ยมหัวซ้าย
+2B85: ลูกศรจับคู่หัวขึ้นสามเหลี่ยม
+2B86: ลูกศรจับคู่สามเหลี่ยมหัวขวา
+2B87: ลูกศรจับคู่สามเหลี่ยมหัวลง
+2B88: ลูกศรสีขาววงกลมสีดำด้านซ้าย
+2B89: ลูกศรสีขาววงกลมสีดำขึ้นไป
+2B8A: ลูกศรสีขาววงกลมสีดำขวา
+2B8B: ลูกศรสีขาววงกลมสีดำลดลง
+2B8C: ลูกศรทรงสามเหลี่ยมขวาหัว Anticlockwise
+2B8D: ลูกศรรูปตัว U ด้านล่างแบบทวนเข็มนาฬิกา
+2B8E: ลูกศรรูปตัวยูหัวซ้ายของทวนเข็มนาฬิกา
+2B8F: ลูกศรรูปตัวยูรูปสามเหลี่ยมหัวทวนเข็มนาฬิกา
+2B90: กลับไปทางซ้าย
+2B91: กลับไปทางขวา
+2B92: ขึ้นบรรทัดใหม่ทางซ้าย
+2B93: ขึ้นบรรทัดใหม่
+2B94: ลูกศรสี่มุมลูกศรวนทวนเข็มนาฬิกา : ห่วง
+2B95: ลูกศรขวาสีดำ
+2B96:
+2B97:
+2B98: หัวลูกศรสามด้านที่มีแสงส่องด้านซ้ายสามมิติ
+2B99: หัวลูกศรสามด้านที่มีแสงส่องสว่างขึ้นสามลูก
+2B9A: หัวลูกศรสามด้านที่มีแสงด้านขวาแบบสามมิติ
+2B9B: หัวลูกศรสามด้านที่มีแสงส่องลงจากด้านล่างสามจุด
+2B9C: หัวลูกศรด้านซ้ายสีดำด้านซ้าย
+2B9D: หัวลูกศรด้านเท่าสีดำด้านบนขึ้นไป
+2B9E: หัวลูกศรด้านขวาสีดำด้านขวา
+2B9F: หัวลูกศรสีดำรูปสี่เหลี่ยม
+2BA0: ลูกศรที่มีหัวรูปสามเหลี่ยมแบบลงที่ปลายด้านซ้ายยาว
+2BA1: ลูกศรที่มีหัวรูปสามเหลี่ยมแบบลงที่มีปลายยาวด้านขวา
+2BA2: ลูกศรสามเหลี่ยมหัวขึ้นไปทางซ้ายสุด
+2BA3: ลูกศรที่มีหัวรูปสามเหลี่ยมขึ้นด้านบน
+2BA4: ลูกศรสามเหลี่ยมหัวซ้ายโดยมีปลายยาวขึ้น
+2BA5: ลูกศรสามเหลี่ยมหัวขวาไปทางขวา
+2BA6: ลูกศรสามเหลี่ยมหัวซ้ายไปทางซ้าย
+2BA7: ลูกศรสามเหลี่ยมหัวขวาโดยมีปลายยาวลง
+2BA8: ลูกศรโค้งสีดำและลูกศรซ้าย
+2BA9: ลูกศรโค้งดำลงและลูกศรขวา
+2BAA: ลูกศรโค้งสีดำขึ้นและลูกศรซ้าย
+2BAB: ลูกศรโค้งสีดำขึ้นไปและลูกศรขวา
+2BAC: ลูกศรโค้งสีดำไปทางซ้ายและลูกศรขึ้น
+2BAD: ลูกศรโค้งขวาสีดำและลูกศรขึ้น
+2BAE: ลูกศรโค้งซ้ายและลูกศรชี้ลง
+2BAF: ลูกศรโค้งขวาสีดำและลูกศรชี้ลง
+2BB0: Ribbon Arrow Down Left
+2BB1: Ribbon Arrow Down ขวา
+2BB2: Ribbon Arrow Up Left
+2BB3: Ribbon Arrow Up ขวา
+2BB4: Ribbon Arrow Left Up
+2BB5: Ribbon Arrow Right Up
+2BB6: ลูกศรริบบิ้นซ้ายลง
+2BB7: Ribbon Arrow Right ลงมา
+2BB8: ลูกศรสีขาวขึ้นจากบาร์พร้อมแถบแนวนอน : หมวกล็อค
+2BB9: ลูกศรขึ้นในกล่องสี่เหลี่ยม : หนี
+2BBA: สี่เหลี่ยมสีขาวที่ทับซ้อนกัน
+2BBB: สี่เหลี่ยมสีขาวและสีดำที่ทับซ้อนกัน
+2BBC: สี่เหลี่ยมสีดำที่ทับซ้อนกัน
+2BBD: กล่องลงคะแนนพร้อม Light X
+2BBE: วงกลม X
+2BBF: วงกลมตัวหนา X
+2BC0: Black Square กึ่งกลาง
+2BC1: ศูนย์เพชรดำ
+2BC2: หันเพนตากอนสีดำ
+2BC3: แปดเหลี่ยมแนวนอนสีดำ
+2BC4: แปดเหลี่ยมสีดำ
+2BC5: สามเหลี่ยมสีดำชี้ขึ้นกลางจัดกึ่งกลาง
+2BC6: สามเหลี่ยมกลางชี้สีดำชี้ลงกึ่งกลาง
+2BC7: สามเหลี่ยมสีดำชี้ไปทางซ้ายกึ่งกลาง
+2BC8: สามเหลี่ยมมุมฉากสีดำปานกลางชี้กึ่งกลาง
+2BC9:
+2BCA: วงกลมสีดำครึ่งบน
+2BCB: วงกลมสีดำครึ่งล่าง
+2BCC: แสงสีดำแหลมสี่จุด
+2BCD: ไฟหมุนแหลมดำแหลมสี่จุด
+2BCE: แหลมสี่จุดสีขาว
+2BCF: แหลมสี่จุดสีขาวหมุน
+2BD0: ตัวบ่งชี้ตำแหน่งสแควร์
+2BD1: เครื่องหมายไม่แน่นอน : สอบถาม
+2BD2: กลุ่มเครื่องหมาย
+2BD3: ดาวพลูโตแบบที่สอง
+2BD4: ดาวพลูโตแบบที่สาม
+2BD5: ดาวพลูโตแบบที่สี่
+2BD6: พลูโตฟอร์มห้า
+2BD7: Transpluto
+2BD8: Proserpina
+2BD9: Astraea
+2BDA: Hygiea
+2BDB: Pholus
+2BDC: Nessus
+2BDD: เซเลน่าไวท์มูน
+2BDE: เพชรดำบนไม้กางเขน
+2BDF: True Light Moon Arta
+2BE0: Cupido
+2BE1: นรก
+2BE2: ซุส
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: โพไซดอน
+2BE8: ดาวดำครึ่งซ้าย
+2BE9: ดาวสีดำครึ่งขวา
+2BEA: ดาวกับ Left Half Black
+2BEB: ดาวที่มี Half Black ขวา
+2BEC: ลูกศรสองหัวทางซ้ายด้วยหัวลูกศร Tringle : เลื่อนเคอร์เซอร์ไปทางซ้ายอย่างรวดเร็ว
+2BED: ลูกศรสองหัวขึ้นไปพร้อมกับหัวลูกศร Tringle : เคอร์เซอร์ขึ้นอย่างรวดเร็ว
+2BEE: ลูกศรสองหัวทางขวาไปทางซ้ายกับหัวลูกกรง : เลื่อนเคอร์เซอร์ไปทางขวา
+2BEF: ลูกศรสองหัวลงด้วยหัวลูกศร Tringle : เคอร์เซอร์ลงอย่างรวดเร็ว
+2BF0: Eris Form One
+2BF1: แบบฟอร์ม Eris สอง
+2BF2: เซด
+2BF3: สัญลักษณ์โหราศาสตร์รัสเซีย
+2BF4: สัญลักษณ์ทางโหราศาสตร์รัสเซีย
+2BF5: สัญลักษณ์โหราศาสตร์รัสเซีย
+2BF6: สัญลักษณ์โหราศาสตร์รัสเซีย Binovile
+2BF7: Sentagon สัญลักษณ์โหราศาสตร์รัสเซีย
+2BF8: Tredecile สัญลักษณ์โหราศาสตร์รัสเซีย
+2BF9: เท่ากับลงชื่อด้วย Infinity ด้านล่าง
+2BFA: สัญลักษณ์สห
+2BFB: สัญลักษณ์แยก
+2BFC: สัญลักษณ์สองเท่า
+2BFD: ผ่านสัญลักษณ์
+2BFE: กลับด้านมุมขวา
+2BFF:

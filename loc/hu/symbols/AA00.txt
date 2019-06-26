@@ -1,44 +1,44 @@
-AA00: Cham Letter A
-AA01: Cham Letter I
-AA02: Cham Letter U
-AA03: Cham Letter E
-AA04: Cham Letter Ai
-AA05: Cham Letter O
-AA06: Cham Letter Ka
-AA07: Cham Letter Kha
-AA08: Cham Letter Ga
-AA09: Cham Letter Gha
-AA0A: Cham Letter Ngue
-AA0B: Cham Letter Nga
-AA0C: Cham Letter Cha
-AA0D: Cham Letter Chha
-AA0E: Cham Letter Ja
-AA0F: Cham Letter Jha
-AA10: Cham Letter Nhue
-AA11: Cham Letter Nha
-AA12: Cham Letter Nhja
-AA13: Cham Letter Ta
-AA14: Cham Letter Tha
-AA15: Cham Letter Da
-AA16: Cham Letter Dha
-AA17: Cham Letter Nue
-AA18: Cham Letter Na
-AA19: Cham Letter Dda
-AA1A: Cham Letter Pa
-AA1B: Cham Letter Ppa
-AA1C: Cham Letter Pha
-AA1D: Cham Letter Ba
-AA1E: Cham Letter Bha
-AA1F: Cham Letter Mue
-AA20: Cham Letter Ma
-AA21: Cham Letter Bba
-AA22: Cham Letter Ya
-AA23: Cham Letter Ra
-AA24: Cham Letter La
-AA25: Cham Letter Va
-AA26: Cham Letter Ssa
-AA27: Cham Letter Sa
-AA28: Cham Letter Ha
+AA00: Cham betű A
+AA01: Cham betű I
+AA02: Cham betű U
+AA03: Cham betű E
+AA04: Cham betű Ai
+AA05: Cham betű O
+AA06: Cham betű Ka
+AA07: Cham betű Kha
+AA08: Cham betű Ga
+AA09: Cham betű Gha
+AA0A: Cham betű Ngue
+AA0B: Cham betű Nga
+AA0C: Cham betű Cha
+AA0D: Cham betű Chha
+AA0E: Cham betű Ja
+AA0F: Cham betű Jha
+AA10: Cham betű Nhue
+AA11: Cham betű Nha
+AA12: Cham betű Nhja
+AA13: Cham betű Ta
+AA14: Cham betű Tha
+AA15: Cham betű Da
+AA16: Cham betű Dha
+AA17: Cham betű Nue
+AA18: Cham betű Na
+AA19: Cham betű Dda
+AA1A: Cham betű Pa
+AA1B: Cham betű Ppa
+AA1C: Cham betű Pha
+AA1D: Cham betű Ba
+AA1E: Cham betű Bha
+AA1F: Cham betű Mue
+AA20: Cham betű Ma
+AA21: Cham betű Bba
+AA22: Cham betű Ya
+AA23: Cham betű Ra
+AA24: Cham betű La
+AA25: Cham betű Va
+AA26: Cham betű Ssa
+AA27: Cham betű Sa
+AA28: Cham betű Ha
 AA29: Cham Vowel Sign Aa
 AA2A: Cham Vowel Sign I
 AA2B: Cham Vowel Sign Ii
@@ -62,18 +62,18 @@ AA3C:
 AA3D:
 AA3E:
 AA3F:
-AA40: Cham Letter Final K
-AA41: Cham Letter Final G
-AA42: Cham Letter Final Ng
+AA40: Cham betű Final K
+AA41: Cham betű Final G
+AA42: Cham betű Final Ng
 AA43: Cham Consonant Sign Final Ng
-AA44: Cham Letter Final Ch
-AA45: Cham Letter Final T
-AA46: Cham Letter Final N
-AA47: Cham Letter Final P
-AA48: Cham Letter Final Y
-AA49: Cham Letter Final R
-AA4A: Cham Letter Final L
-AA4B: Cham Letter Final Ss
+AA44: Cham betű Final Ch
+AA45: Cham betű Final T
+AA46: Cham betű Final N
+AA47: Cham betű Final P
+AA48: Cham betű Final Y
+AA49: Cham betű Final R
+AA4A: Cham betű Final L
+AA4B: Cham betű Final Ss
 AA4C: Cham Consonant Sign Final M
 AA4D: Cham Consonant Sign Final H
 AA4E:
@@ -94,86 +94,86 @@ AA5C: Cham Punctuation Spiral
 AA5D: Cham Punctuation Danda
 AA5E: Cham Punctuation Double Danda
 AA5F: Cham Punctuation Triple Danda
-AA60: Myanmar Letter Khamti Ga
-AA61: Myanmar Letter Khamti Ca
-AA62: Myanmar Letter Khamti Cha
-AA63: Myanmar Letter Khamti Ja
-AA64: Myanmar Letter Khamti Jha
-AA65: Myanmar Letter Khamti Nya
-AA66: Myanmar Letter Khamti Tta
-AA67: Myanmar Letter Khamti Ttha
-AA68: Myanmar Letter Khamti Dda
-AA69: Myanmar Letter Khamti Ddha
-AA6A: Myanmar Letter Khamti Dha
-AA6B: Myanmar Letter Khamti Na
-AA6C: Myanmar Letter Khamti Sa
-AA6D: Myanmar Letter Khamti Ha
-AA6E: Myanmar Letter Khamti Hha
-AA6F: Myanmar Letter Khamti Fa
-AA70: Myanmar Modifier Letter Khamti Reduplication
-AA71: Myanmar Letter Khamti Xa
-AA72: Myanmar Letter Khamti Za
-AA73: Myanmar Letter Khamti Ra
+AA60: Myanmar betű Khamti Ga
+AA61: Myanmar betű Khamti Ca
+AA62: Myanmar betű Khamti Cha
+AA63: Myanmar betű Khamti Ja
+AA64: Myanmar betű Khamti Jha
+AA65: Myanmar betű Khamti Nya
+AA66: Myanmar betű Khamti Tta
+AA67: Myanmar betű Khamti Ttha
+AA68: Myanmar betű Khamti Dda
+AA69: Myanmar betű Khamti Ddha
+AA6A: Myanmar betű Khamti Dha
+AA6B: Myanmar betű Khamti Na
+AA6C: Myanmar betű Khamti Sa
+AA6D: Myanmar betű Khamti Ha
+AA6E: Myanmar betű Khamti Hha
+AA6F: Myanmar betű Khamti Fa
+AA70: Myanmar Modifier betű Khamti Reduplication
+AA71: Myanmar betű Khamti Xa
+AA72: Myanmar betű Khamti Za
+AA73: Myanmar betű Khamti Ra
 AA74: Myanmar Logogram Khamti Oay
 AA75: Myanmar Logogram Khamti Qn
 AA76: Myanmar Logogram Khamti Hm
 AA77: Myanmar Symbol Aiton Exclamation
 AA78: Myanmar Symbol Aiton One
 AA79: Myanmar Symbol Aiton Two
-AA7A: Myanmar Letter Aiton Ra
+AA7A: Myanmar betű Aiton Ra
 AA7B: Myanmar Sign Pao Karen Tone
 AA7C: Myanmar Sign Tai Laing Tone-2
 AA7D: Myanmar Sign Tai Laing Tone-5
-AA7E: Myanmar Letter Shwe Palaung Cha
-AA7F: Myanmar Letter Shwe Palaung Sha
-AA80: Tai Viet Letter Low Ko
-AA81: Tai Viet Letter High Ko
-AA82: Tai Viet Letter Low Kho
-AA83: Tai Viet Letter High Kho
-AA84: Tai Viet Letter Low Khho
-AA85: Tai Viet Letter High Khho
-AA86: Tai Viet Letter Low Go
-AA87: Tai Viet Letter High Go
-AA88: Tai Viet Letter Low Ngo
-AA89: Tai Viet Letter High Ngo
-AA8A: Tai Viet Letter Low Co
-AA8B: Tai Viet Letter High Co
-AA8C: Tai Viet Letter Low Cho
-AA8D: Tai Viet Letter High Cho
-AA8E: Tai Viet Letter Low So
-AA8F: Tai Viet Letter High So
-AA90: Tai Viet Letter Low Nyo
-AA91: Tai Viet Letter High Nyo
-AA92: Tai Viet Letter Low Do
-AA93: Tai Viet Letter High Do
-AA94: Tai Viet Letter Low To
-AA95: Tai Viet Letter High To
-AA96: Tai Viet Letter Low Tho
-AA97: Tai Viet Letter High Tho
-AA98: Tai Viet Letter Low No
-AA99: Tai Viet Letter High No
-AA9A: Tai Viet Letter Low Bo
-AA9B: Tai Viet Letter High Bo
-AA9C: Tai Viet Letter Low Po
-AA9D: Tai Viet Letter High Po
-AA9E: Tai Viet Letter Low Pho
-AA9F: Tai Viet Letter High Pho
-AAA0: Tai Viet Letter Low Fo
-AAA1: Tai Viet Letter High Fo
-AAA2: Tai Viet Letter Low Mo
-AAA3: Tai Viet Letter High Mo
-AAA4: Tai Viet Letter Low Yo
-AAA5: Tai Viet Letter High Yo
-AAA6: Tai Viet Letter Low Ro
-AAA7: Tai Viet Letter High Ro
-AAA8: Tai Viet Letter Low Lo
-AAA9: Tai Viet Letter High Lo
-AAAA: Tai Viet Letter Low Vo
-AAAB: Tai Viet Letter High Vo
-AAAC: Tai Viet Letter Low Ho
-AAAD: Tai Viet Letter High Ho
-AAAE: Tai Viet Letter Low O
-AAAF: Tai Viet Letter High O
+AA7E: Myanmar betű Shwe Palaung Cha
+AA7F: Myanmar betű Shwe Palaung Sha
+AA80: Tai Viet betű Low Ko
+AA81: Tai Viet betű High Ko
+AA82: Tai Viet betű Low Kho
+AA83: Tai Viet betű High Kho
+AA84: Tai Viet betű Low Khho
+AA85: Tai Viet betű High Khho
+AA86: Tai Viet betű Low Go
+AA87: Tai Viet betű High Go
+AA88: Tai Viet betű Low Ngo
+AA89: Tai Viet betű High Ngo
+AA8A: Tai Viet betű Low Co
+AA8B: Tai Viet betű High Co
+AA8C: Tai Viet betű Low Cho
+AA8D: Tai Viet betű High Cho
+AA8E: Tai Viet betű Low So
+AA8F: Tai Viet betű High So
+AA90: Tai Viet betű Low Nyo
+AA91: Tai Viet betű High Nyo
+AA92: Tai Viet betű Low Do
+AA93: Tai Viet betű High Do
+AA94: Tai Viet betű Low To
+AA95: Tai Viet betű High To
+AA96: Tai Viet betű Low Tho
+AA97: Tai Viet betű High Tho
+AA98: Tai Viet betű Low No
+AA99: Tai Viet betű High No
+AA9A: Tai Viet betű Low Bo
+AA9B: Tai Viet betű High Bo
+AA9C: Tai Viet betű Low Po
+AA9D: Tai Viet betű High Po
+AA9E: Tai Viet betű Low Pho
+AA9F: Tai Viet betű High Pho
+AAA0: Tai Viet betű Low Fo
+AAA1: Tai Viet betű High Fo
+AAA2: Tai Viet betű Low Mo
+AAA3: Tai Viet betű High Mo
+AAA4: Tai Viet betű Low Yo
+AAA5: Tai Viet betű High Yo
+AAA6: Tai Viet betű Low Ro
+AAA7: Tai Viet betű High Ro
+AAA8: Tai Viet betű Low Lo
+AAA9: Tai Viet betű High Lo
+AAAA: Tai Viet betű Low Vo
+AAAB: Tai Viet betű High Vo
+AAAC: Tai Viet betű Low Ho
+AAAD: Tai Viet betű High Ho
+AAAE: Tai Viet betű Low O
+AAAF: Tai Viet betű High O
 AAB0: Tai Viet Mai Kang
 AAB1: Tai Viet Vowel Aa
 AAB2: Tai Viet Vowel I
@@ -222,17 +222,17 @@ AADC: Tai Viet Symbol Nueng : one
 AADD: Tai Viet Symbol Sam
 AADE: Tai Viet Symbol Ho Hoi
 AADF: Tai Viet Symbol Koi Koi
-AAE0: Meetei Mayek Letter E
-AAE1: Meetei Mayek Letter O
-AAE2: Meetei Mayek Letter Cha
-AAE3: Meetei Mayek Letter Nya
-AAE4: Meetei Mayek Letter Tta
-AAE5: Meetei Mayek Letter Ttha
-AAE6: Meetei Mayek Letter Dda
-AAE7: Meetei Mayek Letter Ddha
-AAE8: Meetei Mayek Letter Nna
-AAE9: Meetei Mayek Letter Sha
-AAEA: Meetei Mayek Letter Ssa
+AAE0: Meetei Mayek betű E
+AAE1: Meetei Mayek betű O
+AAE2: Meetei Mayek betű Cha
+AAE3: Meetei Mayek betű Nya
+AAE4: Meetei Mayek betű Tta
+AAE5: Meetei Mayek betű Ttha
+AAE6: Meetei Mayek betű Dda
+AAE7: Meetei Mayek betű Ddha
+AAE8: Meetei Mayek betű Nna
+AAE9: Meetei Mayek betű Sha
+AAEA: Meetei Mayek betű Ssa
 AAEB: Meetei Mayek Vowel Sign Ii
 AAEC: Meetei Mayek Vowel Sign Uu
 AAED: Meetei Mayek Vowel Sign Aai
@@ -241,7 +241,7 @@ AAEF: Meetei Mayek Vowel Sign Aau
 AAF0: Meetei Mayek Cheikhan : danda
 AAF1: Meetei Mayek Ahang Khudam : question mark
 AAF2: Meetei Mayek Anji
-AAF3: Meetei Mayek Syllable Repetition Mark
+AAF3: Meetei Mayek szótag Repetition Mark
 AAF4: Meetei Mayek Word Repetition Mark
 AAF5: Meetei Mayek Vowel Sign Visarga
 AAF6: Meetei Mayek Virama

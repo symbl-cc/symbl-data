@@ -1,0 +1,256 @@
+2B00: North East White Arrow
+2B01: North West White Arrow
+2B02: Południowo-wschodnia biała strzałka
+2B03: Południowo-zachodnia biała strzałka
+2B04: Biała strzałka w lewo w prawo
+2B05: Czarna strzałka od lewej strony
+2B06: Czarna strzałka w górę
+2B07: W dół czarna strzałka
+2B08: North East Black Arrow
+2B09: Północno-zachodnia czarna strzałka
+2B0A: Południowo-wschodnia czarna strzałka
+2B0B: Południowo-zachodnia czarna strzałka
+2B0C: Lewa prawa czarna strzałka
+2B0D: Góra w dół Czarna strzałka
+2B0E: Strzałka w prawo z końcówką w dół
+2B0F: Strzałka w prawo z końcówką w górę
+2B10: Strzałka w lewo z końcówką skierowaną w dół
+2B11: Strzałka w lewo z końcówką w górę
+2B12: Kwadrat z górną połową czerni
+2B13: Kwadrat z dolną połową czerni
+2B14: Kwadrat z górnym prawym przekątnym pół czarnym
+2B15: Kwadrat z dolną lewą diagonalną połową czerni
+2B16: Diament z lewą połową czerni
+2B17: Diamond with Right Half Black
+2B18: Diament z górną połową czerni
+2B19: Diament z dolną połową czerni
+2B1A: Kropkowany kwadrat
+2B1B: Czarny duży kwadrat
+2B1C: Biały duży plac
+2B1D: Czarny bardzo mały kwadrat
+2B1E: Biały bardzo mały kwadrat
+2B1F: Czarny Pentagon
+2B20: Biały Pentagon
+2B21: Biały sześciokąt
+2B22: Czarny sześciokąt
+2B23: Poziomy czarny sześciokąt
+2B24: Czarny Duży Krąg
+2B25: Czarny średni diament
+2B26: Biały średni diament
+2B27: Czarna średnia pastylka do ssania
+2B28: Biała średnia pastylka do ssania
+2B29: Czarny mały diament
+2B2A: Czarna mała pastylka do ssania
+2B2B: Biała mała pastylka do ssania
+2B2C: Czarna pozioma elipsa
+2B2D: Biała elipsa pozioma
+2B2E: Czarna pionowa elipsa
+2B2F: Biała pionowa elipsa
+2B30: Strzałka w lewo z małym okręgiem
+2B31: Trzy strzały Leftwards
+2B32: Left Arrow with Circled Plus
+2B33: Squiggle Arrow Long Leftwards
+2B34: Strzałka w dwie strony ze strzałką pionową
+2B35: Strzałka w dwie strony z podwójnym skokiem pionowym
+2B36: Strzałka w lewo Dwugłowy strzałka z paska
+2B37: Dwugłowy Potrójny Dash Arrow Leftwards
+2B38: Strzałka w lewo z trzonkiem kropkowanym
+2B39: Strzałka w lewo z ogonem z pionowym skokiem
+2B3A: Strzałka w lewo z ogonem z podwójnym pionowym skokiem
+2B3B: Strzała Dwugłowa z Ogonem
+2B3C: Strzała dwugłowa ze skrzydłami z uderzeniem pionowym
+2B3D: Strzałka w dwie strony z ogonem z podwójnym pionowym skokiem
+2B3E: Strzałka w lewo przez X
+2B3F: Strzałka wskazująca bezpośrednio w lewo
+2B40: Równa się znak powyżej strzałki lewej strony
+2B41: Operator tyldy odwrotnej nad strzałką lewą
+2B42: Strzałka w lewą stronę nad odwróconą Prawie równą
+2B43: Strzałka w prawo przez większą niż
+2B44: Strzałka w prawo przez Superset
+2B45: Czteroosobowa strzała Leftwards
+2B46: Czteroosobowa strzałka w prawo
+2B47: Operator tyldy odwrotnej Powyżej strzałki w prawo
+2B48: Strzałka w prawo Nad odwrotnością Prawie równa
+2B49: Operator tyldy nad strzałką po lewej stronie
+2B4A: Strzałka w lewą stronę ponad prawie równą
+2B4B: Leftwards Arrow Powyżej Reverse Tilde Operator
+2B4C: Strzałka w prawo Nad operatorem tyldy odwrotnej
+2B4D: Zygzakowata strzałka skierowana w dół trójkąta
+2B4E: Krótka skośna strzałka północna
+2B4F: Krótka strzałka południowa
+2B50: Biała średnia gwiazda : Żółta gwiazda
+2B51: Czarna mała gwiazda
+2B52: Biała mała gwiazda
+2B53: Czarny prawoskrętny Pentagon
+2B54: Biały prawoskrętny Pentagon
+2B55: Ciężki Duży Krąg : Podstawowy symbol ograniczenia prędkości, poprawny, czerwony okrąg, znak koła
+2B56: Ciężki owal z owalnym wnętrzem : biuro prefektury
+2B57: Ciężki krąg z kółkiem w środku : Urząd Miasta
+2B58: Ciężki krąg : Urząd miasta lub wsi
+2B59: Ciężkie kółko Saltire : posterunek policji
+2B5A: Pochylona północna strzałka z zaczepioną głową
+2B5B: Backslanted South Arrow z Hooked Tail
+2B5C: Ukośna strzałka północna z poziomym ogonem
+2B5D: Backslanted South Arrow z poziomym ogonem
+2B5E: Wygięta strzałka skierowana w dół, a następnie północny wschód
+2B5F: Krótka zgięta strzałka skierowana w dół, a następnie północny wschód
+2B60: Strzałka w lewo na trójkąt
+2B61: Strzałka w górę trójkąta
+2B62: Strzałka w prawo w trójkąt
+2B63: Strzałka skierowana w dół trójkąta
+2B64: Strzałka w lewo w prawo w trójkąt
+2B65: Strzałka w górę w dół trójkąta
+2B66: Północno-zachodnia strzałka w kształcie trójkąta
+2B67: Północno-wschodnia strzałka w kształcie trójkąta
+2B68: Południowo-wschodnia strzałka w kształcie trójkąta
+2B69: Południowo-zachodnia strzałka w kształcie trójkąta
+2B6A: Strzałka w lewo na trójkąt z trójkątem
+2B6B: Przerywana strzałka w kształcie trójkąta w górę
+2B6C: Przerywana strzałka w kształcie trójkąta w prawo
+2B6D: Przerywana strzałka w kształcie trójkąta w dół
+2B6E: Strzałka koła otwartego w kształcie trójkąta zgodnego z ruchem wskazówek zegara
+2B6F: Strzała okrągła na czele z trójkątem w lewo
+2B70: Strzałka w lewo Trójkąt na pasku : lewa zakładka
+2B71: Strzałka skierowana w górę trójkąta do paska : w górę karty
+2B72: Strzałka w prawo na trójkąt z nagłówkiem do paska : prawa karta
+2B73: Strzałka skierowana w dół trójkąta do paska : w dół zakładka
+2B74:
+2B75:
+2B76: North West Triangle-Headed Arrow To Bar : Dom
+2B77: North East Triangle-Headed Arrow To Bar
+2B78: South East Triangle-Headed Arrow To Bar : koniec
+2B79: South West Triangle-Headed Arrow To Bar
+2B7A: Strzałka w lewo Trójkąt z podwójnym poziomym skokiem
+2B7B: Strzałka w górę trójkąta z podwójnym poziomym obrysem : Strona w górę
+2B7C: Strzałka w prawo w trójkąt z podwójnym poziomym skokiem
+2B7D: Strzałka skierowana w dół trójkąta z podwójnym skokiem poziomym : Strona w dół
+2B7E: Poziomy klawisz karty
+2B7F: Pionowy klawisz tabulacji
+2B80: Strzałka w lewo Trójkąt nad głową w prawo Strzałka w kształcie trójkąta w prawo
+2B81: Strzałka skierowana w górę trójkąta Strzałka w lewo skierowana w dół trójkąta
+2B82: Strzałka w prawo w trójkąt nad lewą strzałą w trójkąt
+2B83: Strzałka skierowana w dół trójkątem Strzałka w lewo trójkątna w górę trójkąta
+2B84: Leworęczne trójkątne strzały sparowane
+2B85: Sparowane strzałki w górę trójkąta
+2B86: Strzałki w parze z trójkątem w prawo
+2B87: Sparowane strzałki skierowane w dół trójkąta
+2B88: Biała strzałka z lewej strony
+2B89: Biała, czarna strzałka w kółko
+2B8A: Biała strzałka w prawo w prawo
+2B8B: Biała strzałka skierowana w dół
+2B8C: Strzałka w prawo w kształcie litery U z trójkątem w lewo
+2B8D: Strzałka w kształcie litery U w kształcie trójkąta skierowana przeciwnie do ruchu wskazówek zegara
+2B8E: Strzałka w lewo w kształcie litery U w kształcie trójkąta przeciwnie do ruchu wskazówek zegara
+2B8F: Strzałka w kształcie U w kształcie trójkąta skierowana przeciwnie do ruchu wskazówek zegara
+2B90: Wróć w lewo
+2B91: Wróć w prawo
+2B92: Newline Left
+2B93: Newline Right
+2B94: Cztery narożne strzały krążące w kierunku przeciwnym do ruchu wskazówek zegara : pętla
+2B95: Czarna strzałka w prawo
+2B96:
+2B97:
+2B98: Trójgłowy grot ze strzałkami trójwymiarowymi z górnym oświetleniem
+2B99: Trójwymiarowy grot strzałki w prawo, oświetlony w górę, w stronę równoboczną
+2B9A: Trójwymiarowy grot ze strzałką w prawo i równobocznie
+2B9B: Trójgłowy lewostronny grot ze strzałką skierowaną w dół
+2B9C: Czarny grot lewy równoboczny
+2B9D: Czarny grot strzałki w górę równoboczny
+2B9E: Czarny grot strzałki w prawo
+2B9F: Czarny grot strzałki w dół równoboczny
+2BA0: Strzałka skierowana w dół trójkąta z długimi końcówkami po lewej stronie
+2BA1: Strzałka skierowana w dół trójkąta z długą końcówką w prawo
+2BA2: Strzałka skierowana w górę trójkąta z długimi końcówkami po lewej stronie
+2BA3: Strzałka skierowana w górę trójkąta z długą końcówką w prawo
+2BA4: Strzałka w lewo na trójkąt z długą końcówką do góry
+2BA5: Strzałka w prawo w trójkąt z długą końcówką w górę
+2BA6: Strzałka w lewo Trójkąt z długą końcówką w dół
+2BA7: Strzałka w prawo w trójkąt z długą końcówką w dół
+2BA8: Czarna zakrzywiona w dół i lewa strzała
+2BA9: Czarna zakrzywiona strzałka w dół i w prawo
+2BAA: Czarna zakrzywiona w górę i lewa strzała
+2BAB: Czarna zakrzywiona strzałka w górę i w prawo
+2BAC: Czarne zakrzywione lewe i górna strzałka
+2BAD: Czarna zakrzywiona strzałka w prawo i w górę
+2BAE: Czarne zakrzywione lewe i dolne strzałki
+2BAF: Czarna zakrzywiona strzałka w prawo i w dół
+2BB0: Wstążka Strzałka w dół w lewo
+2BB1: Wstążka Strzałka w dół w prawo
+2BB2: Wstążka Strzałka w górę w lewo
+2BB3: Wstążka Strzałka w górę w prawo
+2BB4: Strzałka wstążki w lewo
+2BB5: Wstążka Strzałka w górę
+2BB6: Strzałka wstążki w lewo w dół
+2BB7: Wstążka Strzałka w prawo w dół
+2BB8: Biała strzałka w górę z paska z poziomym paskiem : duże litery
+2BB9: Strzałka w pudełku prostokątnym : ucieczka
+2BBA: Nakładające się białe kwadraty
+2BBB: Nakładające się białe i czarne kwadraty
+2BBC: Nakładające się czarne kwadraty
+2BBD: Urna z Light X
+2BBE: Krążyłem X
+2BBF: Okrągły Bold X
+2BC0: Black Square wyśrodkowany
+2BC1: Black Diamond Centered
+2BC2: Zwrócił się czarny Pentagon
+2BC3: Poziomy czarny ośmiokąt
+2BC4: Czarny ośmiokąt
+2BC5: Czarny średni trójkąt skierowany w górę
+2BC6: Czarny średni trójkąt skierowany w dół
+2BC7: Czarny średni lewy trójkąt wyśrodkowany
+2BC8: Czarny średni prawostronny trójkąt wyśrodkowany
+2BC9:
+2BCA: Top Half Black Circle
+2BCB: Dolny pół czarny krąg
+2BCC: Jasny, czworokątny czarny punkt
+2BCD: Obrócony lekki czarny spiczasty cztery wierzchołki
+2BCE: Biały czteroramienny wierzchołek
+2BCF: Obrócony biały czworokątny szczyt
+2BD0: Kwadratowy wskaźnik pozycji
+2BD1: Znak niepewności : pytanie
+2BD2: Znak grupy
+2BD3: Pluto Form Two
+2BD4: Pluto Form Three
+2BD5: Pluto Form Four
+2BD6: Pluto Form Five
+2BD7: Transpluto
+2BD8: Prozerpina
+2BD9: Astraea
+2BDA: Hygiea
+2BDB: Pholus
+2BDC: Nessus
+2BDD: Biały Księżyc Selena
+2BDE: Czarny diament na krzyżu
+2BDF: True Light Moon Arta
+2BE0: Cupido
+2BE1: Hades
+2BE2: Zeus
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: Posejdon
+2BE8: Lewa połowa czarna gwiazda
+2BE9: Prawa połowa czarnej gwiazdy
+2BEA: Gwiazda z lewą połową czerni
+2BEB: Gwiazda z prawą połową czerni
+2BEC: Dwunogie strzały lewoskrętne z tringle grotami : szybki kursor w lewo
+2BED: Dwugłowa strzałka w górę z tringle grotami : szybki kursor w górę
+2BEE: Dwugłowa strzałka w prawo z grotami Tringle : szybki kursor w prawo
+2BEF: Dwugłowa strzałka w dół z grotami Tringle : szybki kursor w dół
+2BF0: Eris Form One
+2BF1: Eris Form Two
+2BF2: Sedna
+2BF3: Rosyjski symbol astrologiczny Vigintile
+2BF4: Rosyjski symbol astrologiczny Novile
+2BF5: Rosyjski symbol astrologiczny Kwintyl
+2BF6: Rosyjski symbol astrologiczny Binovile
+2BF7: Rosyjski symbol astrologiczny Sentagon
+2BF8: Rosyjski symbol astrologiczny Tredecile
+2BF9: Równy znak z nieskończonością poniżej
+2BFA: Zjednoczony symbol
+2BFB: Oddzielny symbol
+2BFC: Podwojony symbol
+2BFD: Przekazany symbol
+2BFE: Odwrócony kąt prosty
+2BFF:

@@ -1,256 +1,256 @@
-D000 : Hangul syllable kweon
-D001 : Hangul syllable kweonj
-D002 : Hangul syllable kweonh
-D003 : Hangul syllable kweod
-D004 : Hangul syllable kweol
-D005 : Hangul syllable kweolg
-D006 : Hangul syllable kweolm
-D007 : Hangul syllable kweolb
-D008 : Hangul syllable kweols
-D009 : Hangul syllable kweolt
-D00A : Hangul syllable kweolp
-D00B : Hangul syllable kweolh
-D00C : Hangul syllable kweom
-D00D : Hangul syllable kweob
-D00E : Hangul syllable kweobs
-D00F : Hangul syllable kweos
-D010 : Hangul syllable kweoss
-D011 : Hangul syllable kweong
-D012 : Hangul syllable kweoj
-D013 : Hangul syllable kweoc
-D014 : Hangul syllable kweok
-D015 : Hangul syllable kweot
-D016 : Hangul syllable kweop
-D017 : Hangul syllable kweoh
-D018 : Hangul syllable kwe
-D019 : Hangul syllable kweg
-D01A : Hangul syllable kwegg
-D01B : Hangul syllable kwegs
-D01C : Hangul syllable kwen
-D01D : Hangul syllable kwenj
-D01E : Hangul syllable kwenh
-D01F : Hangul syllable kwed
-D020 : Hangul syllable kwel
-D021 : Hangul syllable kwelg
-D022 : Hangul syllable kwelm
-D023 : Hangul syllable kwelb
-D024 : Hangul syllable kwels
-D025 : Hangul syllable kwelt
-D026 : Hangul syllable kwelp
-D027 : Hangul syllable kwelh
-D028 : Hangul syllable kwem
-D029 : Hangul syllable kweb
-D02A : Hangul syllable kwebs
-D02B : Hangul syllable kwes
-D02C : Hangul syllable kwess
-D02D : Hangul syllable kweng
-D02E : Hangul syllable kwej
-D02F : Hangul syllable kwec
-D030 : Hangul syllable kwek
-D031 : Hangul syllable kwet
-D032 : Hangul syllable kwep
-D033 : Hangul syllable kweh
-D034 : Hangul syllable kwi
-D035 : Hangul syllable kwig
-D036 : Hangul syllable kwigg
-D037 : Hangul syllable kwigs
-D038 : Hangul syllable kwin
-D039 : Hangul syllable kwinj
-D03A : Hangul syllable kwinh
-D03B : Hangul syllable kwid
-D03C : Hangul syllable kwil
-D03D : Hangul syllable kwilg
-D03E : Hangul syllable kwilm
-D03F : Hangul syllable kwilb
-D040 : Hangul syllable kwils
-D041 : Hangul syllable kwilt
-D042 : Hangul syllable kwilp
-D043 : Hangul syllable kwilh
-D044 : Hangul syllable kwim
-D045 : Hangul syllable kwib
-D046 : Hangul syllable kwibs
-D047 : Hangul syllable kwis
-D048 : Hangul syllable kwiss
-D049 : Hangul syllable kwing
-D04A : Hangul syllable kwij
-D04B : Hangul syllable kwic
-D04C : Hangul syllable kwik
-D04D : Hangul syllable kwit
-D04E : Hangul syllable kwip
-D04F : Hangul syllable kwih
-D050 : Hangul syllable kyu
-D051 : Hangul syllable kyug
-D052 : Hangul syllable kyugg
-D053 : Hangul syllable kyugs
-D054 : Hangul syllable kyun
-D055 : Hangul syllable kyunj
-D056 : Hangul syllable kyunh
-D057 : Hangul syllable kyud
-D058 : Hangul syllable kyul
-D059 : Hangul syllable kyulg
-D05A : Hangul syllable kyulm
-D05B : Hangul syllable kyulb
-D05C : Hangul syllable kyuls
-D05D : Hangul syllable kyult
-D05E : Hangul syllable kyulp
-D05F : Hangul syllable kyulh
-D060 : Hangul syllable kyum
-D061 : Hangul syllable kyub
-D062 : Hangul syllable kyubs
-D063 : Hangul syllable kyus
-D064 : Hangul syllable kyuss
-D065 : Hangul syllable kyung
-D066 : Hangul syllable kyuj
-D067 : Hangul syllable kyuc
-D068 : Hangul syllable kyuk
-D069 : Hangul syllable kyut
-D06A : Hangul syllable kyup
-D06B : Hangul syllable kyuh
-D06C : Hangul syllable keu
-D06D : Hangul syllable keug
-D06E : Hangul syllable keugg
-D06F : Hangul syllable keugs
-D070 : Hangul syllable keun
-D071 : Hangul syllable keunj
-D072 : Hangul syllable keunh
-D073 : Hangul syllable keud
-D074 : Hangul syllable keul
-D075 : Hangul syllable keulg
-D076 : Hangul syllable keulm
-D077 : Hangul syllable keulb
-D078 : Hangul syllable keuls
-D079 : Hangul syllable keult
-D07A : Hangul syllable keulp
-D07B : Hangul syllable keulh
-D07C : Hangul syllable keum
-D07D : Hangul syllable keub
-D07E : Hangul syllable keubs
-D07F : Hangul syllable keus
-D080 : Hangul syllable keuss
-D081 : Hangul syllable keung
-D082 : Hangul syllable keuj
-D083 : Hangul syllable keuc
-D084 : Hangul syllable keuk
-D085 : Hangul syllable keut
-D086 : Hangul syllable keup
-D087 : Hangul syllable keuh
-D088 : Hangul syllable kyi
-D089 : Hangul syllable kyig
-D08A : Hangul syllable kyigg
-D08B : Hangul syllable kyigs
-D08C : Hangul syllable kyin
-D08D : Hangul syllable kyinj
-D08E : Hangul syllable kyinh
-D08F : Hangul syllable kyid
-D090 : Hangul syllable kyil
-D091 : Hangul syllable kyilg
-D092 : Hangul syllable kyilm
-D093 : Hangul syllable kyilb
-D094 : Hangul syllable kyils
-D095 : Hangul syllable kyilt
-D096 : Hangul syllable kyilp
-D097 : Hangul syllable kyilh
-D098 : Hangul syllable kyim
-D099 : Hangul syllable kyib
-D09A : Hangul syllable kyibs
-D09B : Hangul syllable kyis
-D09C : Hangul syllable kyiss
-D09D : Hangul syllable kying
-D09E : Hangul syllable kyij
-D09F : Hangul syllable kyic
-D0A0 : Hangul syllable kyik
-D0A1 : Hangul syllable kyit
-D0A2 : Hangul syllable kyip
-D0A3 : Hangul syllable kyih
-D0A4 : Hangul syllable ki
-D0A5 : Hangul syllable kig
-D0A6 : Hangul syllable kigg
-D0A7 : Hangul syllable kigs
-D0A8 : Hangul syllable kin
-D0A9 : Hangul syllable kinj
-D0AA : Hangul syllable kinh
-D0AB : Hangul syllable kid
-D0AC : Hangul syllable kil
-D0AD : Hangul syllable kilg
-D0AE : Hangul syllable kilm
-D0AF : Hangul syllable kilb
-D0B0 : Hangul syllable kils
-D0B1 : Hangul syllable kilt
-D0B2 : Hangul syllable kilp
-D0B3 : Hangul syllable kilh
-D0B4 : Hangul syllable kim
-D0B5 : Hangul syllable kib
-D0B6 : Hangul syllable kibs
-D0B7 : Hangul syllable kis
-D0B8 : Hangul syllable kiss
-D0B9 : Hangul syllable king
-D0BA : Hangul syllable kij
-D0BB : Hangul syllable kic
-D0BC : Hangul syllable kik
-D0BD : Hangul syllable kit
-D0BE : Hangul syllable kip
-D0BF : Hangul syllable kih
-D0C0 : Hangul syllable ta
-D0C1 : Hangul syllable tag
-D0C2 : Hangul syllable tagg
-D0C3 : Hangul syllable tags
-D0C4 : Hangul syllable tan
-D0C5 : Hangul syllable tanj
-D0C6 : Hangul syllable tanh
-D0C7 : Hangul syllable tad
-D0C8 : Hangul syllable tal
-D0C9 : Hangul syllable talg
-D0CA : Hangul syllable talm
-D0CB : Hangul syllable talb
-D0CC : Hangul syllable tals
-D0CD : Hangul syllable talt
-D0CE : Hangul syllable talp
-D0CF : Hangul syllable talh
-D0D0 : Hangul syllable tam
-D0D1 : Hangul syllable tab
-D0D2 : Hangul syllable tabs
-D0D3 : Hangul syllable tas
-D0D4 : Hangul syllable tass
-D0D5 : Hangul syllable tang
-D0D6 : Hangul syllable taj
-D0D7 : Hangul syllable tac
-D0D8 : Hangul syllable tak
-D0D9 : Hangul syllable tat
-D0DA : Hangul syllable tap
-D0DB : Hangul syllable tah
-D0DC : Hangul syllable tae
-D0DD : Hangul syllable taeg
-D0DE : Hangul syllable taegg
-D0DF : Hangul syllable taegs
-D0E0 : Hangul syllable taen
-D0E1 : Hangul syllable taenj
-D0E2 : Hangul syllable taenh
-D0E3 : Hangul syllable taed
-D0E4 : Hangul syllable tael
-D0E5 : Hangul syllable taelg
-D0E6 : Hangul syllable taelm
-D0E7 : Hangul syllable taelb
-D0E8 : Hangul syllable taels
-D0E9 : Hangul syllable taelt
-D0EA : Hangul syllable taelp
-D0EB : Hangul syllable taelh
-D0EC : Hangul syllable taem
-D0ED : Hangul syllable taeb
-D0EE : Hangul syllable taebs
-D0EF : Hangul syllable taes
-D0F0 : Hangul syllable taess
-D0F1 : Hangul syllable taeng
-D0F2 : Hangul syllable taej
-D0F3 : Hangul syllable taec
-D0F4 : Hangul syllable taek
-D0F5 : Hangul syllable taet
-D0F6 : Hangul syllable taep
-D0F7 : Hangul syllable taeh
-D0F8 : Hangul syllable tya
-D0F9 : Hangul syllable tyag
-D0FA : Hangul syllable tyagg
-D0FB : Hangul syllable tyags
-D0FC : Hangul syllable tyan
-D0FD : Hangul syllable tyanj
-D0FE : Hangul syllable tyanh
-D0FF : Hangul syllable tyad
+D000: อังกูลพยางค์ควอน
+D001: อังกูลพยางค์ควอน
+D002: อังกูลพยางค์ควอน
+D003: พยางค์อังกูล
+D004: อังกูลพยางค์ Kweol
+D005: พยางค์ฮันกึล
+D006: พยางค์อังกูล
+D007: พยางค์ฮันกึล
+D008: Kweols พยางค์อังกูล
+D009: Kulolt อังกูล
+D00A: พยางค์อังกูล
+D00B: พยางค์ฮันกึล
+D00C: พยางค์ฮันกึล
+D00D: อังกูลพยางค์ Kweob
+D00E: Kulobs พยางค์อังกูล
+D00F: Kweos พยางค์อังกูล
+D010: Kuloss อังกูล
+D011: พยางค์ฮันกึล
+D012: อังกูลพยางค์ Kweoj
+D013: พยางค์อังกูล
+D014: อังกูลพยางค์คไว
+D015: พยางค์อังกูล
+D016: Kulop พยางค์อังกูล
+D017: พยางค์ฮันกึล
+D018: อังกูลพยางค์ Kwe
+D019: อังกูลพยางค์ Kweg
+D01A: อังกูลพยางค์
+D01B: อังกูลพยางค์ Kwegs
+D01C: อังกูลพยางค์เกวียน
+D01D: อังกูลพยางค์ Kwenj
+D01E: อังกูลพยางค์ Kwenh
+D01F: อังกูลพยางค์
+D020: Kwul พยางค์อังกูล
+D021: อังกูลพยางค์ Kwelg
+D022: พยางค์อังกูล
+D023: อังกูลพยางค์ Kwelb
+D024: Kwul พยางค์อังกูล
+D025: อังกูลพยางค์ Kwelt
+D026: อังกูลพยางค์ Kwelp
+D027: อังกูลพยางค์ Kwelh
+D028: อังกูลพยางค์ Kwem
+D029: อังกูลพยางค์ Kweb
+D02A: Kwebs อังกูลพยางค์
+D02B: อังกูลพยางค์ Kwes
+D02C: อังกูลพยางค์อังกูล
+D02D: พยางค์ฮันกึล
+D02E: อังกูลพยางค์ Kwej
+D02F: อังกูลพยางค์ Kwul
+D030: อังกูลพยางค์ Kwek
+D031: อังกูลพยางค์อังกูล
+D032: อังกูลพยางค์ Kwep
+D033: อังกูลพยางค์ Kweh
+D034: พยางค์อังกูล
+D035: อังกูลพยางค์ภาษาอังกูล
+D036: พยางค์อังกูล
+D037: กงอูลอังกูลพยางค์
+D038: พยางค์อังกูล
+D039: พยางค์อังกูล
+D03A: อังกูลพยางค์ควิงห์
+D03B: อังกูลพยางค์ Kwid
+D03C: อังกูลพยางค์ Kwil
+D03D: อังกูลพยางค์ Kwilg
+D03E: อังกูลพยางค์ Kwilm
+D03F: อังกูลพยางค์ Kwilb
+D040: Kwul พยางค์อังกูล
+D041: อังกูล Kwilt พยางค์
+D042: อังกูลพยางค์ Kwilp
+D043: อังกูลพยางค์ควิล
+D044: อังกูลพยางค์ควิม
+D045: อังกูลพยางค์ Kwib
+D046: อังกูลพยางค์ Kwib
+D047: อังกูลพยางค์ภาษาอังกูล
+D048: อังกูลพยางค์ Kwiss
+D049: พยางค์ฮันกึล
+D04A: อังกูลพยางค์ Kwij
+D04B: อังกูลพยางค์อังกูล
+D04C: อังกูลพยางค์ควิก
+D04D: อังกูลพยางค์ Kwit
+D04E: อังกูลพยางค์ Kwip
+D04F: อังกูลพยางค์ Kwih
+D050: พยางค์ภาษาอังกูล
+D051: อังกูลพยางค์อังกูล
+D052: อังกูลพยางค์ Kyugg
+D053: Kyulable พยางค์ของอังกูล
+D054: อังกูลพยางค์คยู
+D055: อังกูลพยางค์คยูน
+D056: พยางค์ฮันกึล
+D057: อังกูลพยางค์ Kyud
+D058: พยางค์ฮันกึล
+D059: พยางค์ฮันกึล
+D05A: พยางค์ฮันกึล
+D05B: พยางค์ภาษาอังกูล
+D05C: Kyul พยางค์อังกูล
+D05D: อังกูลพยางค์ Kyul
+D05E: พยางค์อังกูล
+D05F: พยางค์ฮันกึล
+D060: พยางค์ฮันกึล
+D061: อังกูลพยางค์ Kyub
+D062: Kyuls พยางค์อังกูล
+D063: พยางค์ฮันกึล
+D064: อังกูลพยางค์ Kyul
+D065: พยางค์ฮันกึล
+D066: อังกูลพยางค์คยู
+D067: อังกูลพยางค์ Kyuc
+D068: อังกูลพยางค์คยู
+D069: อังกูลพยางค์ Kyut
+D06A: อังกูลพยางค์ Kyup
+D06B: พยางค์ฮันกึล
+D06C: อังกูลพยางค์ Keu
+D06D: อังกูลพยางค์อังกูล
+D06E: Keul พยางค์ฮันกึล
+D06F: คีนพยางค์อังกูล
+D070: Keul พยางค์ฮันกึล
+D071: อังกูลพยางค์ Keunj
+D072: Keulh พยางค์อังกูล
+D073: อังกูลพยางค์ Keud
+D074: Keulable พยางค์อังกูล
+D075: อังกูลพยางค์ Keulg
+D076: Keulm พยางค์อังกูล
+D077: Keulb พยางค์อังกูล
+D078: Keulable พยางค์อังกูล
+D079: Keul พยางค์อังกูล
+D07A: Keulp พยางค์อังกูล
+D07B: Keulh พยางค์อังกูล
+D07C: Keul พยางค์อังกูล
+D07D: Keul พยางค์อังกูล
+D07E: Keuls พยางค์อังกูล
+D07F: Keul พยางค์ฮันกึล
+D080: อังกูลพยางค์ฮันกึล
+D081: อังกูลพยางค์ Keung
+D082: Keul พยางค์อังกูล
+D083: Keul พยางค์อังกูล
+D084: อังกูลพยางค์ Keuk
+D085: Keul พยางค์อังกูล
+D086: Keul พยางค์อังกูล
+D087: อังกูลพยางค์ Keuh
+D088: พยางค์ภาษาอังกูล
+D089: อังกูลพยางค์ Kyul
+D08A: อังกูลพยางค์ Kyigg
+D08B: อังกูลพยางค์ภาษาอังกูล
+D08C: พยางค์ฮันกึล
+D08D: พยางค์ฮันกึล
+D08E: พยางค์ฮันกึล
+D08F: พยางค์ฮันกึล
+D090: Kyul พยางค์อังกูล
+D091: อังกูลพยางค์ Kyulg
+D092: อังกูลพยางค์ Kyulm
+D093: พยางค์ภาษาอังกูล
+D094: Kyul พยางค์อังกูล
+D095: Kyulable พยางค์อังกูล
+D096: พยางค์อังกูล
+D097: พยางค์ฮันกึล
+D098: พยางค์ฮันกึล
+D099: อังกูลพยางค์จิบ
+D09A: Kyuls พยางค์อังกูล
+D09B: พยางค์อังกูล
+D09C: อังกูลพยางค์ Kyiss
+D09D: พยางค์ภาษาอังกูล
+D09E: พยางค์ภาษาอังกูล
+D09F: อังกูลพยางค์ Kyul
+D0A0: อังกูลพยางค์ Kyik
+D0A1: พยางค์อังกูล
+D0A2: Kyul พยางค์อังกูล
+D0A3: พยางค์ฮันกึล
+D0A4: อังกูลพยางค์ Ki
+D0A5: อังกูลพยางค์คิก
+D0A6: อังกูลพยางค์คิก
+D0A7: Kigs อังกูล
+D0A8: อังกูลพยางค์ Kin
+D0A9: อังกูลพยางค์ Kinj
+D0AA: พยางค์ฮันกึล
+D0AB: เด็กอังกูลพยางค์
+D0AC: อังกูลพยางค์
+D0AD: กิโลกรัมอังกูลพยางค์
+D0AE: Kilul พยางค์อังกูล
+D0AF: Kilul พยางค์อังกูล
+D0B0: Kils พยางค์ฮันกึล
+D0B1: พยางค์อังกูล
+D0B2: Kilul พยางค์อังกูล
+D0B3: เตาเผาพยางค์อังกูล
+D0B4: พยางค์ฮันกึล
+D0B5: อังกูลพยางค์ Kib
+D0B6: Kibs อังกูลพยางค์
+D0B7: พยางค์อังกูล
+D0B8: จูบพยางค์ฮันกึล
+D0B9: อังกูลพยางค์กษัตริย์
+D0BA: อังกูลพยางค์ Kij
+D0BB: อังกูลพยางค์ Kic
+D0BC: อังกูลพยางค์กิ๊ก
+D0BD: ชุดพยางค์อังกูล
+D0BE: พยางค์อังกูล
+D0BF: อังกูลพยางค์ Kih
+D0C0: อังกูลพยางค์ Ta
+D0C1: แท็กพยางค์อังกูล
+D0C2: แท็กพยางค์อังกูล
+D0C3: แท็กพยางค์อังกูล
+D0C4: อังกูลพยางค์ตัน
+D0C5: อังกูลพยางค์ตันจ
+D0C6: อังกูลพยางค์ Tanh
+D0C7: อังกูลพยางค์ตาด
+D0C8: พยางค์อังกูลทัล
+D0C9: อังกูลพยางค์
+D0CA: Talul พยางค์อังกูล
+D0CB: พยางค์อังกูล
+D0CC: พยางค์อังกูล
+D0CD: พยางค์อังกูล
+D0CE: พยางค์อังกูล
+D0CF: พยางค์ฮันกึล
+D0D0: Tam พยางค์ฮันกึล
+D0D1: แท็บพยางค์อังกูล
+D0D2: แท็บพยางค์อังกูล
+D0D3: ภาษาอังกูลพยางค์
+D0D4: Tung พยางค์ฮันกึล
+D0D5: อังกูลพยางค์ถัง
+D0D6: พยางค์ฮันกึล
+D0D7: Tac พยางค์อังกูล
+D0D8: อังกูลพยางค์ตาก
+D0D9: ทัตอังกูลพยางค์
+D0DA: Tap พยางค์อังกูล
+D0DB: อังกูลพยางค์ Tah
+D0DC: อังกูลพยางค์ Tae
+D0DD: อังกูลพยางค์ของอังกูล
+D0DE: อังกูลพยางค์ของอังกูล
+D0DF: Taul พยางค์อังกูล
+D0E0: พยางค์ฮันกึล
+D0E1: พยางค์ฮันกึล
+D0E2: อังกูลพยางค์แทน
+D0E3: อังกูลพยางค์ฮันกึล
+D0E4: อังกูลพยางค์แทล
+D0E5: พยางค์ฮันกึล
+D0E6: Taulm พยางค์อังกูล
+D0E7: พยางค์อังกูล
+D0E8: Taul พยางค์อังกูล
+D0E9: อังกูล Taelt พยางค์
+D0EA: พยางค์อังกูล
+D0EB: พยางค์ฮันกึล
+D0EC: พยางค์อังกูล
+D0ED: อังกูลพยางค์ Taeb
+D0EE: อังกูลพยางค์ Taebs
+D0EF: อังกูล Taes พยางค์
+D0F0: Hangul พยางค์ Taess
+D0F1: พยางค์ฮันกึล
+D0F2: อังกูลพยางค์ Taej
+D0F3: Taul พยางค์ฮันกึล
+D0F4: อังกูลพยางค์ Taek
+D0F5: อังกูล Taet พยางค์
+D0F6: อังกูลพยางค์แทป
+D0F7: อังกูลพยางค์ Taeh
+D0F8: อังกูลพยางค์ Tya
+D0F9: อังกูลพยางค์ Tyag
+D0FA: อังกูลพยางค์ Tyagg
+D0FB: ภาษาอังกูลพยางค์
+D0FC: อังกูลพยางค์ Tyan
+D0FD: อังกูลพยางค์ Tyanj
+D0FE: อังกูลพยางค์ Tyanh
+D0FF: อังกูลพยางค์

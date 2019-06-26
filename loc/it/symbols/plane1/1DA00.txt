@@ -1,0 +1,256 @@
+1DA00: Signwriting Head Rim
+1DA01: Signwriting Head Movement-Wallplane Straight
+1DA02: Signwriting Head Movement-Wallplane Tilt
+1DA03: Signwriting Head Movement-Floorplane Straight
+1DA04: Signwriting Head Movement-Wallplane Curve
+1DA05: Signwriting Head Movement-Floorplane Curve
+1DA06: Cerchio di movimento della testa di Signwriting
+1DA07: Firma Direzione viso Posizione Naso Inclinazione in avanti
+1DA08: Signwriting Face Direction Position Nose Up o Down
+1DA09: Signwriting Face Direction Position Nose Up o Down Inclinazione
+1DA0A: Signwriting Sopracciglia Straight Up
+1DA0B: Segni di sopracciglia diritte neutre
+1DA0C: Firme Sopracciglia dritte
+1DA0D: Signwriting Dreamy Eyebrows Neutral Down
+1DA0E: Signwriting Dreamy Eyebrows Down Neutral
+1DA0F: Signwriting Dreamy Sopracciglia Up Neutro
+1DA10: Signwriting Sopracciglia Sognanti Up
+1DA11: Signwriting Forehead Neutral
+1DA12: Signwriting Forehead Contact
+1DA13: Signwriting Fronte rugosa
+1DA14: Signwriting Eyes Open
+1DA15: Signwriting Occhi spremuti
+1DA16: Signwriting Eyes Closed
+1DA17: Signwriting Eye Blink Single
+1DA18: Signwriting Eye Blink Multiple
+1DA19: Signwriting Eyes Half Open
+1DA1A: Signwriting Eyes Wide Open
+1DA1B: Signwriting Eyes Half Closed
+1DA1C: Movimento per l'allargamento degli occhi
+1DA1D: Signwriting Eye Wink
+1DA1E: Firmare i cigli
+1DA1F: Firmare le ciglia
+1DA20: Firme di ciglia che fluttuano
+1DA21: Firmare dritto Eyegaze-Wallplane
+1DA22: Signwriting Eyegaze-Wallplane Straight Double
+1DA23: Signwriting diretto di Eyegaze-Wallplane
+1DA24: Signwriting Eyegaze-Floorplane Dritto
+1DA25: Signwriting Eyegaze-Floorplane Straight Double
+1DA26: Signwriting Eyegaze-Floorplane Straight Alternating
+1DA27: Signwriting Eyegaze-Wallplane Curved
+1DA28: Signwriting Eyegaze-Floorplane Curved
+1DA29: Signwriting Eyegaze-Wallplane Circling
+1DA2A: Le guance di firma sono soffiate
+1DA2B: Signwriting Cheeks Neutral
+1DA2C: Significa le guance aspirate
+1DA2D: Signwriting Tense Guance alte
+1DA2E: Mediazione delle guance tese
+1DA2F: Signwriting Tense Guance basse
+1DA30: Signwriting Orecchie
+1DA31: Neutro del segno neutro
+1DA32: Segnalazione del naso
+1DA33: Rughe del naso di firma
+1DA34: Wiggles del segno di sega
+1DA35: Signwriting Air Blowing Out
+1DA36: Signwriting Air Sucking In
+1DA37: Signwriting Air Blow Small Rotations
+1DA38: Signwriting Air Suck Piccole rotazioni
+1DA39: Inspirazione del respiro Inspirare
+1DA3A: Inspirazione del respiro Espirare
+1DA3B: Signwriting Mouth Closed Neutral
+1DA3C: In avanti, firma la bocca chiusa
+1DA3D: Contatto chiuso a bocca
+1DA3E: Sorriso della bocca di Signwriting
+1DA3F: Sorriso della bocca Signwriting corrugato
+1DA40: Apri il sorriso della bocca di Signwriting
+1DA41: Cipiglio della bocca
+1DA42: Scrutatore della bocca cipiglio corrugato
+1DA43: Aperto il cipiglio della bocca di Signwriting
+1DA44: Cerchio aperto della bocca di firma
+1DA45: Signwriting Bouth Open Forward
+1DA46: Signwriting Bouth Open Wrinkled
+1DA47: Bocca aperta a segno
+1DA48: Firma bocca aperta ovale rugosa
+1DA49: Sbavatura a segno aperto
+1DA4A: Signwriting Bouth Open Rectangle
+1DA4B: Signwriting Bouth Open Rectangle Wrinkled
+1DA4C: Signwriting Mouth Open Rectangle Yawn
+1DA4D: Bocca di Signwriting Kiss
+1DA4E: In avanti, il bacio della bocca è segnato
+1DA4F: Segna il bacio della bocca corrugato
+1DA50: Signwriting Mouth Tense
+1DA51: Segnare in avanti la bocca in avanti
+1DA52: Sincerità di bocca per segnare i segni
+1DA53: Lips di scrittura di segni premuti insieme
+1DA54: Signwriting Lip Lower Over Upper
+1DA55: Signwriting Lip Upper Over Lower
+1DA56: Signwriting Mouth Corners
+1DA57: Signwriting Bocca Rughe Singolo
+1DA58: Doppio segno di rughe di segni di firme
+1DA59: La lingua della scrittura dei segni che si sporge lontano
+1DA5A: Labbra che leccano la lingua
+1DA5B: Punta della lingua di riconoscimento tra le labbra
+1DA5C: Signwriting Tongue Tip Touching Inside Mouth
+1DA5D: Lingua di lingua di scrittura all'interno della bocca rilassata
+1DA5E: La lingua di Signwriting si sposta contro la guancia
+1DA5F: Signwriting Tongue Center Sticking Out
+1DA60: Signwriting Tongue Center Inside Mouth
+1DA61: Signwriting Denti
+1DA62: Signwriting Teeth Movement
+1DA63: Signwriting Teeth On Tongue
+1DA64: Signwriting Teeth On Tongue Movement
+1DA65: Signwriting Teeth On Lips
+1DA66: Signwriting Denti sul movimento delle labbra
+1DA67: Labbra da morso di segni autografe
+1DA68: Movimento di segnatura-mascella a muro
+1DA69: Movimento della segnatura-mascella del piano
+1DA6A: Collo Signwriting
+1DA6B: Signwriting Hair
+1DA6C: Signwriting Excitement
+1DA6D: Spine della spalla dell'anca della segnatura
+1DA6E: Firma delle posizioni delle spalle
+1DA6F: Spostamento dell'anca della spalla del wallprint di segnatura
+1DA70: Spostamento dell'anca della spalla del piano di inscrizione
+1DA71: Firma della spalla inclinando dalla vita
+1DA72: Stiratura dritta Torso-Wallplane
+1DA73: Curvatura curva di Torso-Wallplane
+1DA74: Taglio del torso-floorplane
+1DA75: Signwriting Upper Body Tilting from Hip Joints
+1DA76: Combinazione degli arti di scrittura
+1DA77: Lunghezza degli arti per la firma-1
+1DA78: Lunghezza degli archi Sign-writing-2
+1DA79: Lunghezza dell'emblema della firma-3
+1DA7A: Lunghezza degli archi di scrittura-4
+1DA7B: Lunghezza degli archi di scrittura-5
+1DA7C: Lunghezza dell'emblema per la segnatura-6
+1DA7D: Lunghezza degli arti per segnare-7
+1DA7E: Dito della grafia
+1DA7F: Signwriting Location-Wallplane Space
+1DA80: Posizione segnatura - Spazio piano
+1DA81: Altezza di segnatura
+1DA82: Signwriting Location Width
+1DA83: Signwriting Depth Location
+1DA84: Headwriting Location Head Neck
+1DA85: Posizione di scrittura Torso
+1DA86: Cifre degli arti di localizzazione di segnature
+1DA87: Signwriting di Comma
+1DA88: Signwriting Full Stop
+1DA89: Segnaposto. Punto e virgola
+1DA8A: Signwriting Colon
+1DA8B: Signhriting Parenthesis
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: Modificatore riempimento segnatura-2
+1DA9C: Modificatore riempimento segnatura-3
+1DA9D: Modificatore riempimento segnatura-4
+1DA9E: Modificatore riempimento segnatura-5
+1DA9F: Modificatore riempimento segnatura-6
+1DAA0:
+1DAA1: Signwriting Rotation Modifier-2
+1DAA2: Signwriting Rotation Modifier-3
+1DAA3: Signwriting Rotation Modifier-4
+1DAA4: Signwriting Rotation Modifier-5
+1DAA5: Signwriting Rotation Modifier-6
+1DAA6: Signwriting Rotation Modifier-7
+1DAA7: Signwriting Rotation Modifier-8
+1DAA8: Modificatore di rotazione segnatura-9
+1DAA9: Modificatore di rotazione per la scrittura di segni-10
+1DAAA: Signwriting Rotation Modifier-11
+1DAAB: Modificatore di rotazione segnatura-12
+1DAAC: Modificatore di rotazione per la scrittura di firme-13
+1DAAD: Modificatore di rotazione segnatura-14
+1DAAE: Signwriting Rotation Modifier-15
+1DAAF: Signwriting Rotation Modifier-16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:

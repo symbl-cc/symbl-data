@@ -1,0 +1,256 @@
+1DA00: Obrys głowy Obrys
+1DA01: Znakowanie głowicy Ruchome ściany pionowe
+1DA02: Przechylanie głowy Przechylanie ściany-pochylenia
+1DA03: Znakowanie Głowica Ruchome-Podłoga Prosto
+1DA04: Krzywa ruchu głowicy piszącej
+1DA05: Krzywa głowicy piszącej na szynie
+1DA06: Krąg ruchu głowicy piszącej
+1DA07: Zapisywanie kierunku twarzy Pozycja Nos Przesuwanie do przodu
+1DA08: Zapisywanie kierunku twarzy Pozycja Nos w górę lub w dół
+1DA09: Zapisywanie kierunku twarzy Pozycja Nos w górę lub w dół Przechylanie
+1DA0A: Pisanie brwi Prosto do góry
+1DA0B: Pisanie brwi proste neutralne
+1DA0C: Pisanie brwi Prosto w dół
+1DA0D: Signwriting Dreamy Eyebrows Neutral Down
+1DA0E: Znakowanie Marzycielskich Brwi W Dół Neutralne
+1DA0F: Znakowanie marzycielskich brwi w górę neutralne
+1DA10: Signwriting Dreamy Eyebrows Neutral Up
+1DA11: Zapisywanie neutralnego czoła
+1DA12: Signwriting Forehead Contact
+1DA13: Znakowanie czoła pomarszczone
+1DA14: Otwarte oczy do pisania
+1DA15: Znakowanie oczu wyciśnięte
+1DA16: Zamknięcie oczu do pisania
+1DA17: Signwriting Eye Blink Single
+1DA18: Znakowanie oka Mrugnięcie wielokrotne
+1DA19: Signwriting Eyes Half Open
+1DA1A: Znakowanie oczu szeroko otwarte
+1DA1B: Zapisywanie oczu w połowie zamknięte
+1DA1C: Zapisywanie ruchu poszerzającego oczy
+1DA1D: Mrugnięcie okiem podpisującym
+1DA1E: Pisanie rzęs do góry
+1DA1F: Pisanie rzęs w dół
+1DA20: Pisanie rzęs Trzepotanie rzęs
+1DA21: Pisanie Eyegaze-Wallplane Straight
+1DA22: Zapisywanie Eyegaze-Wallplane Straight Double
+1DA23: Zapisywanie Eyegaze-Wallplane Straight Alternating
+1DA24: Podpisywanie Eyegaze-Floorplane Straight
+1DA25: Zapisywanie Eyegaze-Floorplane Straight Double
+1DA26: Zapisywanie Eyegaze-Floorplane Straight Alternating
+1DA27: Zakreślanie Eyegaze-Wallplane Zakrzywione
+1DA28: Zakrzywione znakowanie Eyegaze-Floorplane Zakrzywione
+1DA29: Znakowanie Eyegaze-Wallplane Circling
+1DA2A: Napisane policzki piszące
+1DA2B: Znakowanie policzków neutralne
+1DA2C: Napisanie policzków do ssania
+1DA2D: Znakowanie napiętych policzków wysoko
+1DA2E: Pisanie napiętych policzków w środku
+1DA2F: Pisanie napiętych policzków na niskim poziomie
+1DA30: Zapisywanie uszu
+1DA31: Neutralny nos podpisu
+1DA32: Kontakt z noskiem podpisującym
+1DA33: Pisanie zmarszczek nosa
+1DA34: Nawijanie nosa przez pisanie
+1DA35: Znakowanie powietrza wydmuchiwanie
+1DA36: Signwriting Air Sucking In
+1DA37: Signwriting Air Blow Small Rotations
+1DA38: Signwriting Air Suck Small Rotations
+1DA39: Wpisywanie oddechu wdechu
+1DA3A: Oddech oddechowy
+1DA3B: Znakowanie ust Unieruchomienie neutralne
+1DA3C: Usta podpisu zamknięte
+1DA3D: Zamknięty kontakt z pisaniem ust
+1DA3E: Usta uśmiechu piszącego
+1DA3F: Znakowanie uśmiechu Usta pomarszczone
+1DA40: Usta podpisywania Smile Open
+1DA41: Signwriting Mouth Frown
+1DA42: Signwriting Mouth Frown Wrinkled
+1DA43: Signwriting Mouth Frown Open
+1DA44: Otwarte kółko do pisania ustami
+1DA45: Znakowanie ust Otwarte do przodu
+1DA46: Znakowanie ust Otwarte pomarszczone
+1DA47: Znakowanie ust Otwarte owalne
+1DA48: Znakowanie ust Otwarte owalne Pomarszczone
+1DA49: Znakowanie ust Otwarte owalne poziewanie
+1DA4A: Znakowanie ustami Otwórz prostokąt
+1DA4B: Znakowanie ust Otwarty prostokąt Pomarszczony
+1DA4C: Pisanie ust Usta Otwórz prostokąt Yawn
+1DA4D: Znakowanie buziaka ustami
+1DA4E: Pisanie buziaka do przodu
+1DA4F: Pisanie Pocałunek Usta Pomarszczony
+1DA50: Napis na ustach
+1DA51: Napisywanie napiętego usta
+1DA52: Pisanie napiętego usta Ssać
+1DA53: Wpisywanie warg prasowanych razem
+1DA54: Warga do pisania w dolnej części górna
+1DA55: Signwriting Lip Upper Over Lower
+1DA56: Pisanie narożników ust
+1DA57: Signwriting Mouth Wrinkles Single
+1DA58: Znakowanie zmarszczek ust podwójnie
+1DA59: Język pisma wystający daleko
+1DA5A: Oblizywanie warg języka obcego
+1DA5B: Pisanie końcówki języka między wargami
+1DA5C: Porada dotycząca języka piszącego, dotykająca wnętrza ust
+1DA5D: Język pisma w ustach Zrelaksowany
+1DA5E: Język piszący napiera na policzek
+1DA5F: Centrum językowe podpisywania wystaje
+1DA60: Centrum językowe do pisania w ustach
+1DA61: Pisanie zębów
+1DA62: Znakowanie ruchu zębów
+1DA63: Pisanie zębów na języku
+1DA64: Pisanie zębów na ruch języka
+1DA65: Pisanie zębów na ustach
+1DA66: Znakowanie zębów na ruchu warg
+1DA67: Pisanie zębów Ugryzienie warg
+1DA68: Szczęka Ruch-Ściana Znakowania
+1DA69: Znakowanie Szczęka Ruch-Podłoga
+1DA6A: Szyja do pisania
+1DA6B: Pisanie włosów
+1DA6C: Podniecenie podpisywania
+1DA6D: Znakowanie kręgosłupa biodrowego
+1DA6E: Zapisywanie pozycji bioder na ramieniu
+1DA6F: Ramię hippisowe do pisania
+1DA70: Pisanie płaszczyzny Ramię Hip ruch
+1DA71: Zapisywanie ramienia przechylającego się z talii
+1DA72: Zapisywanie Torso-Wallplane Straight Stretch
+1DA73: Zapisywanie zakrzywionego zakrętu Torso-Wallplane
+1DA74: Znakowanie Skręcanie tułowia-płaszczyzny
+1DA75: Pisanie górnej części ciała przechylanie od stawów biodrowych
+1DA76: Signwriting Limb Combination
+1DA77: Długość kończyny podpisywania-1
+1DA78: Długość kończyny pisania-2
+1DA79: Długość kończyny pisania-3
+1DA7A: Długość kończyny pisania-4
+1DA7B: Długość kończyny pisania-5
+1DA7C: Długość kończyny pisania-6
+1DA7D: Długość kończyny podpisującej-7
+1DA7E: Znakowanie palcem
+1DA7F: Miejsce na zapisywanie lokalizacji i płaszczyzny
+1DA80: Zapisywanie miejsca-powierzchni płaszczyzny
+1DA81: Wysokość lokalizacji podpisu
+1DA82: Szerokość lokalizacji zapisu
+1DA83: Głębokość lokalizacji zapisu
+1DA84: Lokalizacja podpisu Głowa szyi
+1DA85: Miejsce zapisywania torsu
+1DA86: Znakowanie Ograniczenia lokalizacji Cyfry
+1DA87: Zapisywanie przecinka
+1DA88: Signwriting Full Stop
+1DA89: Znakowanie średnikiem
+1DA8A: Pisanie dwukropka
+1DA8B: Nawias podpisywania
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: Modyfikator wypełniania napisami-2
+1DA9C: Modyfikator wypełniania napisami-3
+1DA9D: Modyfikator wypełniania napisami-4
+1DA9E: Modyfikator wypełniania napisami-5
+1DA9F: Modyfikator wypełniania napisami-6
+1DAA0:
+1DAA1: Signwriting Rotation Modifier-2
+1DAA2: Modyfikator obrotu podpisu-3
+1DAA3: Modyfikator obrotu podpisu-4
+1DAA4: Modyfikator obrotu podpisu-5
+1DAA5: Modyfikator obrotu podpisu-6
+1DAA6: Modyfikator obrotu podpisu-7
+1DAA7: Modyfikator obrotu podpisu-8
+1DAA8: Signwriting Rotation Modifier-9
+1DAA9: Modyfikator obrotu podpisu-10
+1DAAA: Modyfikator obrotu podpisu-11
+1DAAB: Modyfikator obrotu podpisu-12
+1DAAC: Modyfikator obrotu podpisu-13
+1DAAD: Modyfikator obrotu podpisu-14
+1DAAE: Modyfikator obrotu podpisu-15
+1DAAF: Modyfikator obrotu podpisu-16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:

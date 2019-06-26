@@ -1,0 +1,5 @@
+Control Pictures is a Unicode block containing graphic characters for representing the C0 control codes, and other control characters.
+
+The C0 and C1 control code or control character sets define control codes for use in text by computer systems that use the ISO/IEC 2022 system of specifying control and graphic characters. Most character encodings, in addition to representing printable characters, also have characters such as these that represent additional information about the text, such as the position of a cursor, an instruction to start a new line, or a message that the text has been received.
+
+The C0 set defines codes in the range 00HEX–1FHEX and the C1 set defines codes in the range 80HEX–9FHEX. The default C0 set was originally defined in ISO 646 (ASCII), while the default C1 set was originally defined in ECMA-48 (harmonized later with ISO 6429). While other C0 and C1 sets are available for specialized applications, they are rarely used

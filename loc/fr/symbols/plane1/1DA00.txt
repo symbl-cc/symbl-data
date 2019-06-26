@@ -1,0 +1,256 @@
+1DA00: Inscription sur la tête
+1DA01: Signwriting Head Movement-Wallplane Droit
+1DA02: Inclinaison du mouvement de la tête du wallplane
+1DA03: Signwriting Head Movement-Floorplane Droit
+1DA04: Tête d'écriture de signe - courbe du fond de panier
+1DA05: Courbe de plancher-mouvement
+1DA06: Cercle du mouvement des têtes d'écriture
+1DA07: Signe de la direction du visage Position Nez Inclinaison vers l'avant
+1DA08: Signe du visage, direction du nez, position haute ou basse
+1DA09: Signalisation de la direction du visage Position Nez vers le haut ou vers le bas Inclinaison
+1DA0A: Signer les sourcils tout droit
+1DA0B: Sourcils Droite Neutre
+1DA0C: Sourcils d'écriture vers le bas
+1DA0D: Signer les sourcils rêveurs neutre vers le bas
+1DA0E: Signer les sourcils rêveurs vers le bas, neutre
+1DA0F: Signwriting Dreamy Eyebrows Up Neutral
+1DA10: Signer les Rêves Sourcils Neutre Up
+1DA11: Front Signwriting Neutral
+1DA12: Front Signwriting Contact
+1DA13: Signe du front plissé
+1DA14: Signer les yeux ouverts
+1DA15: Signer les yeux pincés
+1DA16: Signer les yeux fermés
+1DA17: Signer les yeux Blink Single
+1DA18: Signalisation des yeux Blink multiples
+1DA19: Yeux à moitié ouverts
+1DA1A: Signer les yeux grands ouverts
+1DA1B: Yeux à moitié fermés
+1DA1C: Mouvement d'écriture des yeux
+1DA1D: Signer l'oeil clin d'oeil
+1DA1E: Signatures Cils Up
+1DA1F: Cils de signature
+1DA20: Cils de la signature
+1DA21: Eyegaze-Wallplane droit
+1DA22: Eyegaze-Wallplane Double Droit
+1DA23: Eyegaze-Wallplane droit en alternance
+1DA24: Signalisation Eyegaze-Floorplane Droit
+1DA25: Signalisation Eyegaze-Floorplane Straight Double
+1DA26: Eyegaze-Floorplane droit en alternance
+1DA27: Eyegaze-Wallplane courbé
+1DA28: Signalisation Eyegaze-Floorplane Curved
+1DA29: Eyegaze-Wallplane cerclant
+1DA2A: Inscription sur les joues
+1DA2B: Signwriting Cheeks Neutral
+1DA2C: Signe De Joues Sucé
+1DA2D: Signer les joues hautes
+1DA2E: Signer les joues tendues au milieu
+1DA2F: Signer les joues creuses basses
+1DA30: Oreilles d'écriture
+1DA31: Signer Nez Neutre
+1DA32: Signalisation Nez Contact
+1DA33: Signes de nez
+1DA34: Signatures de nez se tortillant
+1DA35: Signalisation de l'air soufflant
+1DA36: Signer de l'air sucer dans
+1DA37: Signatures d'air coup de petites rotations
+1DA38: Signatures d'air sucer de petites rotations
+1DA39: Inspiration souffle
+1DA3A: Inspiration souffle expiration
+1DA3B: Bouche de signature fermée neutre
+1DA3C: Bouche de signature fermée
+1DA3D: Signature bouche fermée contact
+1DA3E: Sourire de la bouche
+1DA3F: Signer la bouche sourire ridé
+1DA40: Signe, bouche, sourire, ouvert
+1DA41: Signe de la bouche
+1DA42: Signe de la bouche froncée des rides
+1DA43: Signe bouche bée
+1DA44: Bouche ouverte
+1DA45: La bouche de l'écriture ouverte
+1DA46: Signe de la bouche ouverte ridée
+1DA47: Signe de la bouche ouverte ovale
+1DA48: Signature bouche ouverte ovale ridée
+1DA49: Signe bouche ouverte ovale bâillement
+1DA4A: Rectangulaire ouvert de la bouche de la signature
+1DA4B: La bouche de l'écriture ouverte rectangle ridée
+1DA4C: Signe bouche ouverte rectangle bâillement
+1DA4D: Baiser de la bouche
+1DA4E: Signer la bouche Baiser
+1DA4F: Signer la bouche baiser ridée
+1DA50: Signer la bouche
+1DA51: Signer la bouche bouche avant
+1DA52: Signe de la bouche sous aspiré
+1DA53: Signer les lèvres pressées ensemble
+1DA54: Lèvre de signature inférieure sur supérieure
+1DA55: Lèvre de signature supérieure sur inférieure
+1DA56: Coins buccaux
+1DA57: Signalisation de la bouche rides unique
+1DA58: Signer la bouche double rides
+1DA59: Langue de l'écriture qui dépasse
+1DA5A: Signes de langue se léchant les lèvres
+1DA5B: Embout de la langue des signes entre les lèvres
+1DA5C: Embout de la langue des signes touchant à l'intérieur de la bouche
+1DA5D: Langue de signature dans la bouche détendue
+1DA5E: La langue des signes se déplace contre la joue
+1DA5F: Centre de la langue des signes
+1DA60: Centre de la langue des signes dans la bouche
+1DA61: Signer les dents
+1DA62: Mouvement de signature des dents
+1DA63: Signer les dents sur la langue
+1DA64: Signer les dents sur le mouvement de la langue
+1DA65: Signer les dents sur les lèvres
+1DA66: Signer le mouvement des dents sur les lèvres
+1DA67: Signature des dents morsures des lèvres
+1DA68: Signwriting Movement-Wallplane Mâchoire
+1DA69: Signwriting Movement-Floorplane Mâchoire
+1DA6A: Cou de signature
+1DA6B: Signer les cheveux
+1DA6C: Excitation de l'écriture
+1DA6D: Epine dorsale d'épaule
+1DA6E: Signatures sur les hanches d'épaule
+1DA6F: Mouvement de l'épaule hanche
+1DA70: Mouvement de l'épaule
+1DA71: Épaule d'écriture de signature inclinable à partir de la taille
+1DA72: Étirement du torse-wallplane
+1DA73: Courbure courbée du torse-wallplane
+1DA74: Torso-Floorplane
+1DA75: Inscription du haut du corps inclinée à partir des articulations de la hanche
+1DA76: Combinaison de membres
+1DA77: Longueur de membre de signe-1
+1DA78: Longueur de membre de signe-2
+1DA79: Longueur de membre de signe-3
+1DA7A: Longueur de membre de signe-4
+1DA7B: Longueur de membre de signe-5
+1DA7C: Longueur de membre de signe-6
+1DA7D: Longueur de membre de signe-7
+1DA7E: Doigt d'écriture
+1DA7F: Emplacement de la plaque signalétique-Espace Wallplane
+1DA80: Emplacement de la plaque signalétique
+1DA81: Hauteur de l'enseigne
+1DA82: Largeur de l'emplacement de l'écriture
+1DA83: Profondeur de l'emplacement de l'écriture
+1DA84: Localisation de la signature Head Neck
+1DA85: Torse de localisation
+1DA86: Localisation des chiffres des membres
+1DA87: Virgule de signature
+1DA88: Arrêt complet de l'écriture
+1DA89: Point-virgule
+1DA8A: Deux points
+1DA8B: Parenthèse
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: Modificateur de remplissage d'écriture-2
+1DA9C: Modificateur de remplissage d'écriture-3
+1DA9D: Modificateur de remplissage d'écriture-4
+1DA9E: Modificateur de remplissage d'écriture-5
+1DA9F: Modificateur de remplissage d'écriture-6
+1DAA0:
+1DAA1: Modificateur de rotation de la signature-2
+1DAA2: Modificateur de rotation des écritures-3
+1DAA3: Modificateur de rotation des écritures-4
+1DAA4: Modificateur de rotation de l’inscription-5
+1DAA5: Modificateur de rotation d'écriture-6
+1DAA6: Modificateur de rotation d'écriture-7
+1DAA7: Modificateur de rotation des écritures-8
+1DAA8: Modificateur de rotation des écritures-9
+1DAA9: Modificateur de rotation d'écriture-10
+1DAAA: Modificateur de rotation d'écriture-11
+1DAAB: Modificateur de rotation d'écriture-12
+1DAAC: Modificateur de rotation des écritures-13
+1DAAD: Modificateur de rotation d'écriture-14
+1DAAE: Modificateur de rotation d'écriture-15
+1DAAF: Modificateur de rotation d'écriture-16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:

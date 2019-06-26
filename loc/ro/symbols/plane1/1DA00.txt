@@ -1,0 +1,256 @@
+1DA00: Semnificația capului Rim
+1DA01: Signposting Head Movement-Wallplane Drept
+1DA02: Semnalarea mișcării capului - înclinarea peretelui
+1DA03: Signwriting Head Movement-Floorplane Drept
+1DA04: Semnalarea mișcării capului - curba peretelui
+1DA05: Signwriting Head Movement-Floorplane Curve
+1DA06: Cercul de mișcare a capului semnelor
+1DA07: Semnalizarea poziției direcției feței Poziția înclinării în față
+1DA08: Signwriting Face Direction Poziția nasului în sus sau în jos
+1DA09: Semnalizarea poziției direcției feței Poziționarea nasului în sus sau în jos
+1DA0A: Semnificația sprâncenelor
+1DA0B: Semnificația sprâncenelor Drept neutru
+1DA0C: Signwriting Eyebrows Straight Down
+1DA0D: Signwriting Eyebrows Dreamy Neutral Down
+1DA0E: Signwriting Eyebrows de vis în jos neutru
+1DA0F: Signwriting Eyebrows visă în sus Neutru
+1DA10: Signwriting Eyebrows visătorilor Neutral Up
+1DA11: Semnalarea frunții Neutru
+1DA12: Semnalarea contactului cu fruntea
+1DA13: Semnătură Fruntea încrețită
+1DA14: Signwriting Eyes Open
+1DA15: Ochelari de semnalizare Strânși
+1DA16: Signwriting Eyes Closed
+1DA17: Signwriting Eye Blink Single
+1DA18: Signwriting Eye Blink Multiple
+1DA19: Signwriting Eyes Half Open
+1DA1A: Signwriting Eyes Wide Open
+1DA1B: Semnalează ochii pe jumătate închise
+1DA1C: Signwriting Ochi Widening Mișcarea
+1DA1D: Signwriting Eye Wink
+1DA1E: Signwriting Genes Up
+1DA1F: Signwriting riduri jos
+1DA20: Signwriting Genele fluttering
+1DA21: Signgriting Eyegaze-Wallplane Drept
+1DA22: Signwriting Eyegaze-Wallplane Drept dublu
+1DA23: Semnătură de ochi-perete plană alternativă
+1DA24: Signgriting Eyegaze-Floorplane Drept
+1DA25: Signgriting Eyegaze-Floorplane Drept dublu
+1DA26: Signgriting Eyegaze-Floorplane Drept alternativ
+1DA27: Signwriting Eyegaze-Wallplane Curved
+1DA28: Ochelari de semnalizare - curbate pe planșeu
+1DA29: Signwriting Eyegaze-Wallplane Circling
+1DA2A: Ochelarii semnalizați
+1DA2B: Semnele de semnalizare neutre
+1DA2C: Semnele de semnalizare au fost supuse
+1DA2D: Signwriting Cheeks tensionat de înaltă
+1DA2E: Signwriting Oboseala Strămoasă în mijloc
+1DA2F: Semnificația tânărului tensionat scăzut
+1DA30: Semnificația urechilor
+1DA31: Semnalul nasului neutru
+1DA32: Signwriting Nose Contact
+1DA33: Semnificația ridurilor nazale
+1DA34: Signwriting Wiggles de nas
+1DA35: Signwriting Air Out
+1DA36: Semnificație de aer sucking în
+1DA37: Signwriting Air suflă mici rotații
+1DA38: Semnalarea aerului aspiră mici rotații
+1DA39: Signwriting Breath Inhale
+1DA3A: Signwriting Breath Exhale
+1DA3B: Gura de semnalizare închisă neutră
+1DA3C: Signwriting Mouth Closed Forward
+1DA3D: Signwriting Mouth Closed Contact
+1DA3E: Signwriting Mouth Smile
+1DA3F: Signwriting Mouth Smile Wrinkled
+1DA40: Signwriting Mouth Smile Open
+1DA41: Signwriting Mouth Frown
+1DA42: Signwriting Mouth Frown încrețită
+1DA43: Signwriting Mouth Frown Deschis
+1DA44: Signwriting Mouth Open Circle
+1DA45: Signwriting Mouth Open Forward
+1DA46: Signwriting Mouth Deschis încrețit
+1DA47: Signwriting Mouth Open Oval
+1DA48: Signwriting Mouth Deschis Oval Ridicat
+1DA49: Signwriting Mouth Deschis Oval Yawn
+1DA4A: Signwriting Mouth Open Rectangle
+1DA4B: Signwriting Gură deschisă dreptunghiulară Ridicată
+1DA4C: Signwriting Mouth Deschis Rectangle Yawn
+1DA4D: Signwriting Mouth Kiss
+1DA4E: Semnătură de gură sărutată înainte
+1DA4F: Mouthwriting Mouth Kiss Wrinkled
+1DA50: Signwriting Mouth Tense
+1DA51: Signwriting Mouth Tense Forward
+1DA52: Signwriting Mouth Tense Sucked
+1DA53: Semnele de buze presate impreuna
+1DA54: Signwriting Lip Lower Over Up
+1DA55: Signwriting Lip superioare peste inferioare
+1DA56: Signwriting Mouth Corners
+1DA57: Signwriting Mouth Wrinkles Single
+1DA58: Signwriting Mouth Wrinkles Dublu
+1DA59: Semnătură de limbă
+1DA5A: Semnătură de limba Licking Lips
+1DA5B: Semnătură de vârf de limbă între buze
+1DA5C: Semnalarea vârfului limbii Touching Inside Mouth
+1DA5D: Signwriting limba în interiorul gura relaxat
+1DA5E: Semnalarea limbii se mută împotriva cheek-ului
+1DA5F: Centru de scriere a limbii signwriting
+1DA60: Signwriting Tongue Center Inside Mouth
+1DA61: Semnificația dinților
+1DA62: Semnificația mișcării dinților
+1DA63: Înscrierea pe dinți a dinților
+1DA64: Semnificația dinților pe mișcarea limbii
+1DA65: Semnificația dinților pe buze
+1DA66: Semnificația dinților pe mișcarea buzelor
+1DA67: Signwriting dinti Buze Bite
+1DA68: Mișcarea de semnalizare-jaw
+1DA69: Mișcarea de semnalizare-jaw
+1DA6A: Semnalarea gâtului
+1DA6B: Signwriting Hair
+1DA6C: Semnalarea excitare
+1DA6D: Semnificația coloanei vertebrale la umăr
+1DA6E: Semnătura pozițiilor șoldului umărului
+1DA6F: Signwriting Wallplane Umăr Misc
+1DA70: Signwriting Plăci de planșă umăr Misc
+1DA71: Signwriting Umăr înclinat din talie
+1DA72: Semnificație torsiune-perete drept
+1DA73: Semnificația curbării curbate a planului tronson-perete
+1DA74: Semnalizarea torsiunii pe torsiune
+1DA75: Signwriting Upper Body înclinarea de la articulațiile șoldului
+1DA76: Signwriting Limbă combinată
+1DA77: Semnătura limbii lungime-1
+1DA78: Semnificație limbă-2
+1DA79: Semnificația limbii lungime-3
+1DA7A: Lungimea semnăturii-4
+1DA7B: Semnătura limbii lungime-5
+1DA7C: Lungimea semnăturii-6
+1DA7D: Semnătură Limbaj Lungime-7
+1DA7E: Semne de semnalizare
+1DA7F: Signwriting Locație-Spațiul Wallplane
+1DA80: Signwriting Location-Floorplane Space
+1DA81: Semnificația înălțimii locației
+1DA82: Signwriting Locație Lățime
+1DA83: Semnarea locației Adâncime locație
+1DA84: Signwriting Head Neck
+1DA85: Signwriting Location Torso
+1DA86: Signwriting Locații Cifre Cifre
+1DA87: Comma de semnătură
+1DA88: Signwriting Full Stop
+1DA89: Semicolon semnatar
+1DA8A: Signwriting Colon
+1DA8B: Parenthesis semnătură
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: Significant umplere modificator-2
+1DA9C: Signifiant Modificare umplere-3
+1DA9D: Modificator de umplere semnalizator-4
+1DA9E: Modificator de umplere semnalizator-5
+1DA9F: Signifiant Modificare umplere-6
+1DAA0:
+1DAA1: Modificator rotație signwriting-2
+1DAA2: Modificator de rotație signwriting-3
+1DAA3: Modificator de rotație signwriting-4
+1DAA4: Modificator rotație signwriting-5
+1DAA5: Modificator de rotație signwriting-6
+1DAA6: Signifiant Modificarea rotației-7
+1DAA7: Modificator de rotație semnătură-8
+1DAA8: Modificator rotație signwriting-9
+1DAA9: Modificator de rotație de semnătură-10
+1DAAA: Modificator de rotație signwriting-11
+1DAAB: Modificator de rotație semnalizator-12
+1DAAC: Modificator de rotație signwriting-13
+1DAAD: Modificator de rotație signwriting-14
+1DAAE: Modificator de rotație signwriting-15
+1DAAF: Modificator de rotație signwriting-16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:

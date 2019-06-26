@@ -5,6 +5,7 @@ char-desc: Character description
 unicode-name: Name
 unicode-number: Unicode number
 html-code: <span class="caps">HTML</span>-code
+css-code: CSS-code
 uppercase: Uppercase
 lowercase: Lowercase
 encoding: Encoding

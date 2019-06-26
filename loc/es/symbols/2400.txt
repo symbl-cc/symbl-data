@@ -1,0 +1,256 @@
+2400: Símbolo para nulo
+2401: Símbolo para el inicio de la partida
+2402: Símbolo de inicio de texto
+2403: Símbolo para el final del texto
+2404: Símbolo de fin de transmisión
+2405: Símbolo de consulta
+2406: Símbolo para el reconocimiento
+2407: Símbolo de campana
+2408: Símbolo de Retroceso
+2409: Símbolo para la tabulación horizontal
+240A: Símbolo para alimentación de línea
+240B: Símbolo para la tabulación vertical
+240C: Símbolo para la alimentación de forma
+240D: Símbolo para el retorno de carro
+240E: Símbolo para Shift Out
+240F: Símbolo para Shift In
+2410: Símbolo para el escape de enlace de datos
+2411: Símbolo para el control de dispositivos uno
+2412: Símbolo para el control de dispositivos dos
+2413: Símbolo para el control de dispositivos tres
+2414: Símbolo para el Control de Dispositivos Cuatro
+2415: Símbolo para el reconocimiento negativo
+2416: Símbolo de ralentí sincrónico
+2417: Símbolo para el bloque de fin de transmisión
+2418: Símbolo para cancelar
+2419: Símbolo para el fin del medio
+241A: Símbolo para Sustituir
+241B: Símbolo para escapar
+241C: Símbolo para separador de archivos
+241D: Símbolo para separador de grupo
+241E: Símbolo para el separador de registros
+241F: Símbolo para separador de unidades
+2420: Símbolo para el espacio
+2421: Símbolo para eliminar
+2422: Símbolo en blanco
+2423: Abrir caja
+2424: Símbolo para Newline
+2425: Símbolo para eliminar formulario dos
+2426: Símbolo para la Forma Dos Sustituta
+2427:
+2428:
+2429:
+242A:
+242B:
+242C:
+242D:
+242E:
+242F:
+2430:
+2431:
+2432:
+2433:
+2434:
+2435:
+2436:
+2437:
+2438:
+2439:
+243A:
+243B:
+243C:
+243D:
+243E:
+243F:
+2440: Ocr Hook
+2441: Silla Ocr
+2442: Tenedor Ocr
+2443: Horquilla Invertida Ocr
+2444: Hebilla De Cinturón Ocr
+2445: Pajarita Ocr : asterisco único
+2446: Identificación de la sucursal bancaria : tránsito
+2447: Ocr Cantidad de cheque : cantidad
+2448: Ocr Dash : en nosotros
+2449: Número de cuenta del cliente de Ocr : guión
+244A: Doble barra invertida Ocr
+244B:
+244C:
+244D:
+244E:
+244F:
+2450:
+2451:
+2452:
+2453:
+2454:
+2455:
+2456:
+2457:
+2458:
+2459:
+245A:
+245B:
+245C:
+245D:
+245E:
+245F:
+2460: Círculo Dígito Uno
+2461: Círculo Dígito Dos
+2462: Círculo Dígito Tres
+2463: Círculo Dígito Cuatro
+2464: Círculo Dígito Cinco
+2465: Dígito circundado Seis
+2466: Círculo Dígito Siete
+2467: Círculo Dígito Ocho
+2468: Dígito Circulo Nueve
+2469: Número diez en un círculo
+246A: Número circulado once
+246B: Número doce dentro de un círculo
+246C: Círculo Número Trece
+246D: Número circundado Catorce
+246E: Número quince en un círculo
+246F: Número dieciséis en un círculo
+2470: Número en círculo diecisiete
+2471: Número de círculo dieciocho
+2472: Número en círculo diecinueve
+2473: Número de círculo veinte
+2474: Dígito uno entre paréntesis
+2475: Dígito entre paréntesis dos
+2476: Dígito entre paréntesis tres
+2477: Cuatro dígitos entre paréntesis
+2478: Dígito entre paréntesis cinco
+2479: Dígito entre paréntesis seis
+247A: Dígito entre paréntesis siete
+247B: Dígito entre paréntesis ocho
+247C: Dígito entre paréntesis nueve
+247D: Número diez entre paréntesis
+247E: Número once entre paréntesis
+247F: Número doce entre paréntesis
+2480: Número entre paréntesis trece
+2481: Número catorce paréntesis
+2482: Número quince entre paréntesis
+2483: Número entre paréntesis dieciséis
+2484: Número entre paréntesis diecisiete
+2485: Paréntesis Número Dieciocho
+2486: Número entre paréntesis diecinueve
+2487: Número entre paréntesis veinte
+2488: Dígito uno parada completa
+2489: Dígito dos de parada completa
+248A: Dígito tres parada completa
+248B: Dígito cuatro parada completa
+248C: Dígito cinco completa parada
+248D: Dígito seis parada completa
+248E: Dígito siete parada completa
+248F: Dígito Ocho Completo
+2490: Digit Nine Full Stop
+2491: Número diez parada completa
+2492: Número once completo parada
+2493: Número Doce Parada completa
+2494: Número trece parada completa
+2495: Número catorce completo
+2496: Número quince completa parada
+2497: Número dieciséis parada completa
+2498: Número diecisiete punto de parada
+2499: Número dieciocho parada completa
+249A: Número diecinueve punto de parada
+249B: Número Veinte Parada completa
+249C: Paréntesis latina letra minúscula A
+249D: Paréntesis latina letra minúscula B
+249E: Paréntesis latina minúscula C
+249F: Letra D latina entre paréntesis
+24A0: Paréntesis latina letra minúscula E
+24A1: Paréntesis latina letra minúscula F
+24A2: Paréntesis latina letra minúscula G
+24A3: Paréntesis latina minúscula H
+24A4: Paréntesis latina minúscula I
+24A5: Paréntesis latina letra minúscula J
+24A6: Paréntesis latina letra minúscula K
+24A7: Paréntesis latina letra minúscula L
+24A8: Paréntesis latina minúscula M
+24A9: Letra mayúscula latina entre paréntesis
+24AA: Paréntesis latina minúscula O
+24AB: Letra latina P entre paréntesis
+24AC: Paréntesis latina letra minúscula Q
+24AD: Letra latina entre paréntesis R
+24AE: Paréntesis latina letra minúscula S
+24AF: Letra latina entre paréntesis T
+24B0: Letra U latina entre paréntesis
+24B1: Paréntesis latina letra minúscula V
+24B2: Letra latina entre paréntesis W
+24B3: Letra latina entre paréntesis X
+24B4: Paréntesis latina minúscula Y
+24B5: En letras pequeñas latinas entre paréntesis Z
+24B6: Círculo latino mayúscula A
+24B7: Círculo latino mayúscula B
+24B8: Círculo latino mayúscula C
+24B9: Círculo latino mayúscula D
+24BA: Círculo latino mayúscula E
+24BB: Círculo latino mayúscula F
+24BC: Círculo latino mayúscula G
+24BD: Círculo latino mayúscula H
+24BE: Círculo latino mayúscula I
+24BF: Círculo latino mayúscula J
+24C0: Círculo latino mayúscula K
+24C1: Círculo latino mayúscula L
+24C2: Círculo latino mayúscula M
+24C3: Círculo latino mayúscula N
+24C4: Círculo latino mayúscula O
+24C5: Letra mayúscula en un círculo latino
+24C6: Círculo latino mayúscula Q
+24C7: Círculo latino mayúscula R
+24C8: Círculo latino mayúscula S
+24C9: Círculo latino mayúscula T
+24CA: Círculo latino mayúscula U
+24CB: Círculo latino mayúscula V
+24CC: Círculo latino mayúscula W
+24CD: Círculo latino mayúscula X
+24CE: Círculo latino mayúscula Y
+24CF: Círculo latino mayúscula Z
+24D0: Letra latina en un círculo A
+24D1: Círculo latino letra minúscula B
+24D2: Círculo latino letra minúscula C
+24D3: Círculo latino letra minúscula D
+24D4: Círculo latino letra minúscula E
+24D5: Letra latina minúscula en círculo F
+24D6: Círculo latino letra minúscula G
+24D7: Letra minúscula latina en un círculo H
+24D8: Letra latina en un círculo I
+24D9: Letra minúscula latina en un círculo J
+24DA: Letra latina minúscula K circulada
+24DB: Letra latina en un círculo L
+24DC: Letra latina minúscula en un círculo M
+24DD: Círculo latino letra minúscula N
+24DE: Letra latina minúscula en un círculo O
+24DF: Letra minúscula latina en un círculo P
+24E0: Letra minúscula latina en un círculo Q
+24E1: Letra minúscula latina en un círculo R
+24E2: Círculo latino letra minúscula S
+24E3: Letra latina minúscula T circulada
+24E4: Letra latina en un círculo U
+24E5: Letra latina en un círculo V
+24E6: Letra minúscula latina circulada W
+24E7: Letra minúscula latina en un círculo X
+24E8: Letra latina en un círculo Y
+24E9: Círculo latino letra minúscula Z
+24EA: Círculo Dígito Cero
+24EB: Número de círculo negativo once
+24EC: Número de círculo negativo doce
+24ED: Número en círculo negativo trece
+24EE: Número Círculo Negativo Catorce
+24EF: Número quince en círculo negativo
+24F0: Número de círculo negativo dieciséis
+24F1: Número en círculo negativo diecisiete
+24F2: Número de círculo negativo dieciocho
+24F3: Número en círculo negativo diecinueve
+24F4: Número de círculo negativo veinte
+24F5: Doble Círculo Dígito Uno
+24F6: Doble Círculo Dígito Dos
+24F7: Doble Círculo Dígito Tres
+24F8: Doble Círculo Dígito Cuatro
+24F9: Doble Círculo Dígito Cinco
+24FA: Dígito de doble círculo seis
+24FB: Doble Dígito Circulo Siete
+24FC: Doble Círculo Dígito Ocho
+24FD: Doble Círculo Dígito Nueve
+24FE: Doble circulo numero diez
+24FF: Dígito Círculo Negativo Cero

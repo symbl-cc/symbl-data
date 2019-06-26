@@ -1,0 +1,256 @@
+0D00: Malayalam işareti yukarıda Anusvara birleştirerek
+0D01: Malayalam işareti Candrabindu
+0D02: Malayalam işareti Anusvara
+0D03: Malayalam işareti Visarga
+0D04:
+0D05: Malayalam Mektubu A
+0D06: Malayalam Mektubu Aa
+0D07: Malayalam Mektubu I
+0D08: Malayalam Mektubu Iı
+0D09: Malayalam U Harfi
+0D0A: Malayalam Mektubu Uu
+0D0B: Malayalam Mektubu Vokal Harfi
+0D0C: Malayalam Mektubu Vokal L
+0D0D:
+0D0E: Malayalam E Harfi
+0D0F: Malayalam Mektubu Ee
+0D10: Malayalam Mektubu Ai
+0D11:
+0D12: Malayalam Mektubu O
+0D13: Malayalam Mektubu Oo
+0D14: Malayalam Mektubu Au
+0D15: Malayalam Mektubu Ka
+0D16: Malayalam Mektubu Kha
+0D17: Malayalam Mektubu Ga
+0D18: Malayalam Mektubu Gha
+0D19: Malayalam Mektubu Nga
+0D1A: Malayalam Mektubu Ca : cha
+0D1B: Malayalam Mektubu Cha : chha
+0D1C: Malayalam Mektubu Ja
+0D1D: Malayalam Mektubu Jha
+0D1E: Malayalam Mektubu Nya : nha
+0D1F: Malayalam Mektubu Tta : ta
+0D20: Malayalam Mektubu Ttha : tta
+0D21: Malayalam Mektubu Dda : zor da
+0D22: Malayalam Mektubu Ddha : zor dda
+0D23: Malayalam Mektubu Nna : zor na
+0D24: Malayalam Mektubu Ta : tha
+0D25: Malayalam Mektubu Tha : ttha
+0D26: Malayalam Mektubu Da : yumuşak da
+0D27: Malayalam Mektubu Dha : yumuşak dda
+0D28: Malayalam Mektubu Na
+0D29: Malayalam Mektubu Nnna
+0D2A: Malayalam Mektubu Pa
+0D2B: Malayalam Mektubu Pha
+0D2C: Malayalam Mektubu Ba
+0D2D: Malayalam Mektup Bha
+0D2E: Malayalam Mektubu Ma
+0D2F: Malayalam Mektubu Ya
+0D30: Malayalam Mektubu Ra
+0D31: Malayalam Mektubu Rra
+0D32: Malayalam Mektubu La
+0D33: Malayalam Mektubu Lla
+0D34: Malayalam Mektubu Llla : zha
+0D35: Malayalam Mektubu Va
+0D36: Malayalam Mektubu Sha : yumuşak sha
+0D37: Malayalam Mektubu Ssa : sha
+0D38: Malayalam Mektubu Sa
+0D39: Malayalam Mektubu Ha
+0D3A: Malayalam Mektubu Ttta
+0D3B: Malayalam Üye Dikey Bar Virama
+0D3C: Malayalam işareti dairesel Virama
+0D3D: Malayalam işareti Avagraha : praslesham
+0D3E: Malayalam ünlü işareti Aa
+0D3F: Malayalam Ünlü Harf I
+0D40: Malayalam Ünlü Harfi Iı
+0D41: Malayalam Ünlüler U Burcu
+0D42: Malayalam ünlü işareti Uu
+0D43: Malayalam Ünlüler İşaret Vokal R
+0D44: Malayalam Vowel Sign Vocalic Rr
+0D45:
+0D46: Malayalam Ünlüler E işareti
+0D47: Malayalam ünlü işareti Ee
+0D48: Malayalam ünlü işareti Ai
+0D49:
+0D4A: Malayalam Ünlüler O işareti
+0D4B: Malayalam ünlü işareti Oo
+0D4C: Malayalam ünlü işareti Au
+0D4D: Malayalam Burcu Virama : candrakkala (tercih edilen isim) : ünlü yarım
+0D4E: Malayalam Mektubu Nokta Reph
+0D4F: Malayalam Üye Parası
+0D50:
+0D51:
+0D52:
+0D53:
+0D54: Malayalam Mektubu Chillu M
+0D55: Malayalam Mektubu Chillu Y
+0D56: Malayalam Mektubu Chillu Lll
+0D57: Malayalam Au Uzunluk İşareti
+0D58: Malayalam Kesiri Yüz Yüz Altmış
+0D59: Malayalam Kesir Bir Kırk
+0D5A: Malayalam Kesir Üç Seksenli
+0D5B: Malayalam Kesir Bir Yirminci
+0D5C: Malayalam Kesiri Onuncu
+0D5D: Malayalam Kesiri Üç Yirminci
+0D5E: Malayalam Kesir Birinci Beşinci
+0D5F: Malayalam Mektubu Arkaik Iı
+0D60: Malayalam Mektubu Vocalic Rr
+0D61: Malayalam Mektubu Vocalic Ll
+0D62: Malayalam Ünlüler Vokal İşareti L
+0D63: Malayalam ünlü işaretini Vokal Ll
+0D64: <Ayrılmış>
+0D65: <Ayrılmış>
+0D66: Malayalam Rakam Sıfır
+0D67: Malayalam Rakam Bir
+0D68: Malayalam Basamak İki
+0D69: Malayalam Rakam Üç
+0D6A: Malayalam Rakam Dört
+0D6B: Malayalam Rakam Beş
+0D6C: Malayalam Rakam Altı
+0D6D: Malayalam Rakam Yedi
+0D6E: Malayalam Rakam Sekiz
+0D6F: Malayalam Rakam Dokuz
+0D70: Malayalam 10 Numara
+0D71: Yüzlerce Malayalam
+0D72: Binlerce Malayalam
+0D73: Malayalam Kesir Bir Çeyrek
+0D74: Malayalam kesir bir buçuk
+0D75: Malayalam Kesimi Üç Çeyrek
+0D76: Malayalam Kesiri Onaltıncı
+0D77: Malayalam Kesir Sekizinci
+0D78: Malayalam Kesir Üç Onaltıncı
+0D79: Malayalam Tarih Işareti
+0D7A: Malayalam Mektubu Chillu Nn
+0D7B: Malayalam Mektubu Chillu N
+0D7C: Malayalam Mektubu Chillu Rr
+0D7D: Malayalam Mektubu Chillu L
+0D7E: Malayalam Mektubu Chillu Ll
+0D7F: Malayalam Mektubu Chillu K
+0D80:
+0D81:
+0D82: Sinhala Anusvaraya işareti : anusvara
+0D83: Sinhala Burcu Visargaya : visarga
+0D84:
+0D85: Sinhala Letter Ayanna : sinhala a harfi
+0D86: Sinhala Letter Aayanna : Sinhala mektup aa
+0D87: Sinhala Letter Aeyanna : Sinhala mektup ae
+0D88: Sinhala Letter Aeeyanna : Sinhala mektup aae
+0D89: Sinhala Mektubu Iyanna : Sinhala mektubu ben
+0D8A: Sinhala Letter Iiyanna : sinhala mektubu ii
+0D8B: Sinhala Letter Uyanna : Sinhala harf u
+0D8C: Sinhala Letter Uuyanna : Sinhala harf uu
+0D8D: Sinhala Letter Iruyanna : sinhala mektup sesli r
+0D8E: Sinhala Letter Iruuyanna : Sinhala mektup vokal rr
+0D8F: Sinhala Letter Iluyanna : Sinhala harf sesli l
+0D90: Sinhala Letter Iluuyanna : sinhala mektup vokal ll
+0D91: Sinhala Mektubu Eyanna : sinhala e harfi
+0D92: Sinhala Mektubu Eeyanna : Sinhala mektubu ee
+0D93: Sinhala Letter Aiyanna : Sinhala mektup ai
+0D94: Sinhala Letter Oyanna : Sinhala harf o
+0D95: Sinhala Letter Ooyanna : Sinhala mektup oo
+0D96: Sinhala Letter Auyanna : Sinhala mektubu au
+0D97:
+0D98:
+0D99:
+0D9A: Sinhala Mektubu Alpapraana Kayanna : Sinhala harf ka
+0D9B: Sinhala Mektubu Mahaapraana Kayanna : Sinhala harf kha
+0D9C: Sinhala Mektubu Alpapraana Gayanna : Sinhala mektup ga
+0D9D: Sinhala Mektubu Mahaapraana Gayanna : Sinhala mektup gha
+0D9E: Sinhala Letter Kantaja Naasikyaya : sinhala mektubu nga
+0D9F: Sinhala Mektubu Sanyaka Gayanna : Sinhala mektup nnga
+0DA0: Sinhala Mektubu Alpapraana Cayanna : Sinhala mektubu ca
+0DA1: Sinhala Mektubu Mahaapraana Cayanna : Sinhala harf cha
+0DA2: Sinhala Mektubu Alpapraana Jayanna : Sinhala harf ja
+0DA3: Sinhala Letter Mahaapraana Jayanna : Sinhala harf jha
+0DA4: Sinhala Letter Taaluja Naasikyaya : sinhala mektubu nya
+0DA5: Sinhala Letter Taaluja Sanyooga Naaksikyaya : Sinhala harf jnya
+0DA6: Sinhala Letter Sanyaka Jayanna : Sinhala mektup nyja
+0DA7: Sinhala Letter Alpapraana Ttayanna : Sinhala mektup tta
+0DA8: Sinhala Letter Mahaapraana Ttayanna : Sinhala mektup ttha
+0DA9: Sinhala Letter Alpapraana Ddayanna : sinhala mektubu dda
+0DAA: Sinhala Letter Mahaapraana Ddayanna : Sinhala mektup ddha
+0DAB: Sinhala Letter Muurdhaja Nayanna : Sinhala mektup nna
+0DAC: Sinhala Letter Sanyaka Ddayanna : Sinhala mektup nndda
+0DAD: Sinhala Mektubu Alpapraana Tayanna : Sinhala mektup ta
+0DAE: Sinhala Mektubu Mahaapraana Tayanna : Sinhala mektup tha
+0DAF: Sinhala Letter Alpapraana Dayanna : Sinhala mektup da
+0DB0: Sinhala Letter Mahaapraana Dayanna : Sinhala harf dha
+0DB1: Sinhala Letter Dantaja Nayanna : Sinhala harf na
+0DB2:
+0DB3: Sinhala Mektubu Sanyaka Dayanna : Sinhala harf nda
+0DB4: Sinhala Mektubu Alpapraana Payanna : Sinhala harf pa
+0DB5: Sinhala Mektubu Mahaapraana Payanna : Sinhala harf pha
+0DB6: Sinhala Letter Alpapraana Bayanna : Sinhala harf ba
+0DB7: Sinhala Letter Mahaapraana Bayanna : Sinhala mektup bha
+0DB8: Sinhala Mektubu Mayanna : Sinhala mektup ma
+0DB9: Sinhala Letter Amba Bayanna : Sinhala mektup mba
+0DBA: Sinhala Letter Yayanna : sinhala ya
+0DBB: Sinhala Letter Rayanna : Sinhala harf ra
+0DBC:
+0DBD: Sinhala Letter Dantaja Layanna : Sinhala la la
+0DBE:
+0DBF:
+0DC0: Sinhala Letter Vayanna : sinhala mektubu va
+0DC1: Sinhala Letter Taaluja Sayanna : Sinhala harf sha
+0DC2: Sinhala Letter Muurdhaja Sayanna : Sinhala mektup ssa
+0DC3: Sinhala Letter Dantaja Sayanna : Sinhala harf sa
+0DC4: Sinhala Letter Hayanna : Sinhala harf ha
+0DC5: Sinhala Letter Muurdhaja Layanna : Sinhala mektup lla
+0DC6: Sinhala Letter Fayanna : Sinhala harf fa
+0DC7:
+0DC8:
+0DC9:
+0DCA: Sinhala işaret Al-Lakuna : virama
+0DCB:
+0DCC:
+0DCD:
+0DCE:
+0DCF: Sinhala ünlü işaret Aela-Pilla : sinhala ünlü işareti aa
+0DD0: Sinhala ünlü işaretini Ketti Aeda-Pilla : sinhala ünlü işareti ae
+0DD1: Sinhala ünlü işaret Diga Aeda Pilla işareti : sinhala ünlü işaret işareti
+0DD2: Sinhala ünlü işaretini Ketti Is-Pilla : Sinhala ünlü işaret ben
+0DD3: Sinhala ünlü işaret Diga Is-Pilla işareti : sinhala ünlü işareti ii
+0DD4: Sinhala ünlü işaretini Ketti Paa-Pilla : sinhala ünlü işaret u
+0DD5:
+0DD6: Sinhala ünlü işaret Diga Paa-Pilla işareti : Sinhala ünlü işaret uu
+0DD7:
+0DD8: Sinhala ünlü işareti Gaetta-Pilla : sinhala ünlü işaret işaret sesli r
+0DD9: Sinhala Vowel Kombuva işareti : sinhala ünlü işaret e
+0DDA: Sinhala Vowel Diga Kombuva işareti : sinhala ünlü işaret ee
+0DDB: Sinhala Vowel Sign Kombu Deka : sinhala ünlü işareti ai
+0DDC: Sinhala Vowel işareti Kombuva Haa Aela-Pilla : Sinhala ünlü işaret o
+0DDD: Sinhala Vowel işareti Kombuva Haa Diga Aela-Pilla : Sinhala ünlü işaret oo
+0DDE: Sinhala Vowel Sign Kombuva Haa Gayanukitta : sinhala ünlü işaret au işareti
+0DDF: Sinhala Vowel Gayanukitta işareti : sinhala ünlü işaret vokal işareti
+0DE0:
+0DE1:
+0DE2:
+0DE3:
+0DE4:
+0DE5:
+0DE6: Sinhala Lith Rakam Sıfır
+0DE7: Sinhala Lith Basamaklı Bir
+0DE8: Sinhala Lith Basamak İki
+0DE9: Sinhala Lith Basamak Üç
+0DEA: Sinhala Lith Basamak Dört
+0DEB: Sinhala Lith Basamak Beş
+0DEC: Sinhala Lith Rakam Altı
+0DED: Sinhala Lith Rakam Yedi
+0DEE: Sinhala Lith Basamak Sekiz
+0DEF: Sinhala Lith Rakam Dokuz
+0DF0:
+0DF1:
+0DF2: Sinhala ünlü işaret Diga Gaetta-Pilla işareti : sinhala ünlü işaret sesli harf rr
+0DF3: Sinhala Vowel Sign Diga Gayanukitta : sinhala ünlü işareti işaret sesli ll
+0DF4: Sinhala Noktalama İşaretleri Kunddaliya
+0DF5:
+0DF6:
+0DF7:
+0DF8:
+0DF9:
+0DFA:
+0DFB:
+0DFC:
+0DFD:
+0DFE:
+0DFF:

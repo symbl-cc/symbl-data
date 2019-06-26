@@ -15,8 +15,9 @@ blocks: Bloques de idiomas
 [countries]: Países
 list: Lista de Países
 
-[alphabets]: Alphabets
+[alphabets]: Alfabetos
 # @todo list
+list: Alfabetos
 
 [types]
 # @todo type

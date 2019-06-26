@@ -1,256 +1,256 @@
-BF00: Hangul syllable bbess
-BF01: Hangul syllable bbeng
-BF02: Hangul syllable bbej
-BF03: Hangul syllable bbec
-BF04: Hangul syllable bbek
-BF05: Hangul syllable bbet
-BF06: Hangul syllable bbep
-BF07: Hangul syllable bbeh
-BF08: Hangul syllable bbyeo
-BF09: Hangul syllable bbyeog
-BF0A: Hangul syllable bbyeogg
-BF0B: Hangul syllable bbyeogs
-BF0C: Hangul syllable bbyeon
-BF0D: Hangul syllable bbyeonj
-BF0E: Hangul syllable bbyeonh
-BF0F: Hangul syllable bbyeod
-BF10: Hangul syllable bbyeol
-BF11: Hangul syllable bbyeolg
-BF12: Hangul syllable bbyeolm
-BF13: Hangul syllable bbyeolb
-BF14: Hangul syllable bbyeols
-BF15: Hangul syllable bbyeolt
-BF16: Hangul syllable bbyeolp
-BF17: Hangul syllable bbyeolh
-BF18: Hangul syllable bbyeom
-BF19: Hangul syllable bbyeob
-BF1A: Hangul syllable bbyeobs
-BF1B: Hangul syllable bbyeos
-BF1C: Hangul syllable bbyeoss
-BF1D: Hangul syllable bbyeong
-BF1E: Hangul syllable bbyeoj
-BF1F: Hangul syllable bbyeoc
-BF20: Hangul syllable bbyeok
-BF21: Hangul syllable bbyeot
-BF22: Hangul syllable bbyeop
-BF23: Hangul syllable bbyeoh
-BF24: Hangul syllable bbye
-BF25: Hangul syllable bbyeg
-BF26: Hangul syllable bbyegg
-BF27: Hangul syllable bbyegs
-BF28: Hangul syllable bbyen
-BF29: Hangul syllable bbyenj
-BF2A: Hangul syllable bbyenh
-BF2B: Hangul syllable bbyed
-BF2C: Hangul syllable bbyel
-BF2D: Hangul syllable bbyelg
-BF2E: Hangul syllable bbyelm
-BF2F: Hangul syllable bbyelb
-BF30: Hangul syllable bbyels
-BF31: Hangul syllable bbyelt
-BF32: Hangul syllable bbyelp
-BF33: Hangul syllable bbyelh
-BF34: Hangul syllable bbyem
-BF35: Hangul syllable bbyeb
-BF36: Hangul syllable bbyebs
-BF37: Hangul syllable bbyes
-BF38: Hangul syllable bbyess
-BF39: Hangul syllable bbyeng
-BF3A: Hangul syllable bbyej
-BF3B: Hangul syllable bbyec
-BF3C: Hangul syllable bbyek
-BF3D: Hangul syllable bbyet
-BF3E: Hangul syllable bbyep
-BF3F: Hangul syllable bbyeh
-BF40: Hangul syllable bbo
-BF41: Hangul syllable bbog
-BF42: Hangul syllable bbogg
-BF43: Hangul syllable bbogs
-BF44: Hangul syllable bbon
-BF45: Hangul syllable bbonj
-BF46: Hangul syllable bbonh
-BF47: Hangul syllable bbod
-BF48: Hangul syllable bbol
-BF49: Hangul syllable bbolg
-BF4A: Hangul syllable bbolm
-BF4B: Hangul syllable bbolb
-BF4C: Hangul syllable bbols
-BF4D: Hangul syllable bbolt
-BF4E: Hangul syllable bbolp
-BF4F: Hangul syllable bbolh
-BF50: Hangul syllable bbom
-BF51: Hangul syllable bbob
-BF52: Hangul syllable bbobs
-BF53: Hangul syllable bbos
-BF54: Hangul syllable bboss
-BF55: Hangul syllable bbong
-BF56: Hangul syllable bboj
-BF57: Hangul syllable bboc
-BF58: Hangul syllable bbok
-BF59: Hangul syllable bbot
-BF5A: Hangul syllable bbop
-BF5B: Hangul syllable bboh
-BF5C: Hangul syllable bbwa
-BF5D: Hangul syllable bbwag
-BF5E: Hangul syllable bbwagg
-BF5F: Hangul syllable bbwags
-BF60: Hangul syllable bbwan
-BF61: Hangul syllable bbwanj
-BF62: Hangul syllable bbwanh
-BF63: Hangul syllable bbwad
-BF64: Hangul syllable bbwal
-BF65: Hangul syllable bbwalg
-BF66: Hangul syllable bbwalm
-BF67: Hangul syllable bbwalb
-BF68: Hangul syllable bbwals
-BF69: Hangul syllable bbwalt
-BF6A: Hangul syllable bbwalp
-BF6B: Hangul syllable bbwalh
-BF6C: Hangul syllable bbwam
-BF6D: Hangul syllable bbwab
-BF6E: Hangul syllable bbwabs
-BF6F: Hangul syllable bbwas
-BF70: Hangul syllable bbwass
-BF71: Hangul syllable bbwang
-BF72: Hangul syllable bbwaj
-BF73: Hangul syllable bbwac
-BF74: Hangul syllable bbwak
-BF75: Hangul syllable bbwat
-BF76: Hangul syllable bbwap
-BF77: Hangul syllable bbwah
-BF78: Hangul syllable bbwae
-BF79: Hangul syllable bbwaeg
-BF7A: Hangul syllable bbwaegg
-BF7B: Hangul syllable bbwaegs
-BF7C: Hangul syllable bbwaen
-BF7D: Hangul syllable bbwaenj
-BF7E: Hangul syllable bbwaenh
-BF7F: Hangul syllable bbwaed
-BF80: Hangul syllable bbwael
-BF81: Hangul syllable bbwaelg
-BF82: Hangul syllable bbwaelm
-BF83: Hangul syllable bbwaelb
-BF84: Hangul syllable bbwaels
-BF85: Hangul syllable bbwaelt
-BF86: Hangul syllable bbwaelp
-BF87: Hangul syllable bbwaelh
-BF88: Hangul syllable bbwaem
-BF89: Hangul syllable bbwaeb
-BF8A: Hangul syllable bbwaebs
-BF8B: Hangul syllable bbwaes
-BF8C: Hangul syllable bbwaess
-BF8D: Hangul syllable bbwaeng
-BF8E: Hangul syllable bbwaej
-BF8F: Hangul syllable bbwaec
-BF90: Hangul syllable bbwaek
-BF91: Hangul syllable bbwaet
-BF92: Hangul syllable bbwaep
-BF93: Hangul syllable bbwaeh
-BF94: Hangul syllable bboe
-BF95: Hangul syllable bboeg
-BF96: Hangul syllable bboegg
-BF97: Hangul syllable bboegs
-BF98: Hangul syllable bboen
-BF99: Hangul syllable bboenj
-BF9A: Hangul syllable bboenh
-BF9B: Hangul syllable bboed
-BF9C: Hangul syllable bboel
-BF9D: Hangul syllable bboelg
-BF9E: Hangul syllable bboelm
-BF9F: Hangul syllable bboelb
-BFA0: Hangul syllable bboels
-BFA1: Hangul syllable bboelt
-BFA2: Hangul syllable bboelp
-BFA3: Hangul syllable bboelh
-BFA4: Hangul syllable bboem
-BFA5: Hangul syllable bboeb
-BFA6: Hangul syllable bboebs
-BFA7: Hangul syllable bboes
-BFA8: Hangul syllable bboess
-BFA9: Hangul syllable bboeng
-BFAA: Hangul syllable bboej
-BFAB: Hangul syllable bboec
-BFAC: Hangul syllable bboek
-BFAD: Hangul syllable bboet
-BFAE: Hangul syllable bboep
-BFAF: Hangul syllable bboeh
-BFB0: Hangul syllable bbyo
-BFB1: Hangul syllable bbyog
-BFB2: Hangul syllable bbyogg
-BFB3: Hangul syllable bbyogs
-BFB4: Hangul syllable bbyon
-BFB5: Hangul syllable bbyonj
-BFB6: Hangul syllable bbyonh
-BFB7: Hangul syllable bbyod
-BFB8: Hangul syllable bbyol
-BFB9: Hangul syllable bbyolg
-BFBA: Hangul syllable bbyolm
-BFBB: Hangul syllable bbyolb
-BFBC: Hangul syllable bbyols
-BFBD: Hangul syllable bbyolt
-BFBE: Hangul syllable bbyolp
-BFBF: Hangul syllable bbyolh
-BFC0: Hangul syllable bbyom
-BFC1: Hangul syllable bbyob
-BFC2: Hangul syllable bbyobs
-BFC3: Hangul syllable bbyos
-BFC4: Hangul syllable bbyoss
-BFC5: Hangul syllable bbyong
-BFC6: Hangul syllable bbyoj
-BFC7: Hangul syllable bbyoc
-BFC8: Hangul syllable bbyok
-BFC9: Hangul syllable bbyot
-BFCA: Hangul syllable bbyop
-BFCB: Hangul syllable bbyoh
-BFCC: Hangul syllable bbu
-BFCD: Hangul syllable bbug
-BFCE: Hangul syllable bbugg
-BFCF: Hangul syllable bbugs
-BFD0: Hangul syllable bbun
-BFD1: Hangul syllable bbunj
-BFD2: Hangul syllable bbunh
-BFD3: Hangul syllable bbud
-BFD4: Hangul syllable bbul
-BFD5: Hangul syllable bbulg
-BFD6: Hangul syllable bbulm
-BFD7: Hangul syllable bbulb
-BFD8: Hangul syllable bbuls
-BFD9: Hangul syllable bbult
-BFDA: Hangul syllable bbulp
-BFDB: Hangul syllable bbulh
-BFDC: Hangul syllable bbum
-BFDD: Hangul syllable bbub
-BFDE: Hangul syllable bbubs
-BFDF: Hangul syllable bbus
-BFE0: Hangul syllable bbuss
-BFE1: Hangul syllable bbung
-BFE2: Hangul syllable bbuj
-BFE3: Hangul syllable bbuc
-BFE4: Hangul syllable bbuk
-BFE5: Hangul syllable bbut
-BFE6: Hangul syllable bbup
-BFE7: Hangul syllable bbuh
-BFE8: Hangul syllable bbweo
-BFE9: Hangul syllable bbweog
-BFEA: Hangul syllable bbweogg
-BFEB: Hangul syllable bbweogs
-BFEC: Hangul syllable bbweon
-BFED: Hangul syllable bbweonj
-BFEE: Hangul syllable bbweonh
-BFEF: Hangul syllable bbweod
-BFF0: Hangul syllable bbweol
-BFF1: Hangul syllable bbweolg
-BFF2: Hangul syllable bbweolm
-BFF3: Hangul syllable bbweolb
-BFF4: Hangul syllable bbweols
-BFF5: Hangul syllable bbweolt
-BFF6: Hangul syllable bbweolp
-BFF7: Hangul syllable bbweolh
-BFF8: Hangul syllable bbweom
-BFF9: Hangul syllable bbweob
-BFFA: Hangul syllable bbweobs
-BFFB: Hangul syllable bbweos
-BFFC: Hangul syllable bbweoss
-BFFD: Hangul syllable bbweong
-BFFE: Hangul syllable bbweoj
-BFFF: Hangul syllable bbweoc
+BF00: Hangul Silbe Bbess
+BF01: Hangul Silbe Bbeng
+BF02: Hangul-Silbe Bbej
+BF03: Hangul-Silbe Bbec
+BF04: Hangul Silbe Bbek
+BF05: Hangul Silbe Bbet
+BF06: Hangul Silbe Bbep
+BF07: Hangul Silbe Bbeh
+BF08: Hangul-Silbe Bbyeo
+BF09: Hangul-Silbe Bbyeog
+BF0A: Hangul-Silbe Bbyeogg
+BF0B: Hangul-Silbe Bbyeogs
+BF0C: Hangul-Silbe Bbyeon
+BF0D: Hangul-Silbe Bbyeonj
+BF0E: Hangul-Silbe Bbyeonh
+BF0F: Hangul-Silbe Bbyeod
+BF10: Hangul-Silbe Bbyeol
+BF11: Hangul Silbe Bbyeolg
+BF12: Hangul-Silbe Bbyeolm
+BF13: Hangul-Silbe Bbyeolb
+BF14: Hangul-Silbe Bbyeols
+BF15: Hangul-Silbe Bbyeolt
+BF16: Hangul-Silbe Bbyeolp
+BF17: Hangul-Silbe Bbyeolh
+BF18: Hangul-Silbe Bbyeom
+BF19: Hangul-Silbe Bbyeob
+BF1A: Hangul Silbe Bbyeobs
+BF1B: Hangul-Silbe Bbyeos
+BF1C: Hangul-Silbe Bbyeoss
+BF1D: Hangul-Silbe Bbyeong
+BF1E: Hangul-Silbe Bbyeoj
+BF1F: Hangul-Silbe Bbyeoc
+BF20: Hangul-Silbe Bbyeok
+BF21: Hangul-Silbe Bbyeot
+BF22: Hangul-Silbe Bbyeop
+BF23: Hangul-Silbe Bbyeoh
+BF24: Hangul-Silbe Bbye
+BF25: Hangul-Silbe Bbyeg
+BF26: Hangul-Silbe Bbyegg
+BF27: Hangul Syllable Bbyegs
+BF28: Hangul Silbe Bbyen
+BF29: Hangul-Silbe Bbyenj
+BF2A: Hangul-Silbe Bbyenh
+BF2B: Hangul Syllable Bbyed
+BF2C: Hangul Silbe Bbyel
+BF2D: Hangul-Silbe Bbyelg
+BF2E: Hangul-Silbe Bbyelm
+BF2F: Hangul-Silbe Bbyelb
+BF30: Hangul Silbe Bbyels
+BF31: Hangul-Silbe Bbyelt
+BF32: Hangul-Silbe Bbyelp
+BF33: Hangul-Silbe Bbyelh
+BF34: Hangul-Silbe Bbyem
+BF35: Hangul-Silbe Bbyeb
+BF36: Hangul-Silbe Bybyebs
+BF37: Hangul-Silbe Bbyes
+BF38: Hangul Silbe Bbyess
+BF39: Hangul-Silbe Bbyeng
+BF3A: Hangul-Silbe Bbyej
+BF3B: Hangul-Silbe Bbyec
+BF3C: Hangul-Silbe Bbyek
+BF3D: Hangul Silbe Bbyet
+BF3E: Hangul-Silbe Bbyep
+BF3F: Hangul-Silbe Bbyeh
+BF40: Hangul Silbe Bbo
+BF41: Hangul Silbenschwein
+BF42: Hangul-Silbe Bbogg
+BF43: Hangul Silberne Sümpfe
+BF44: Hangul Silbe Bbon
+BF45: Hangul Silbe Bbonj
+BF46: Hangul Silbe Bbonh
+BF47: Hangul Silbe Bbod
+BF48: Hangul Silbe Bbol
+BF49: Hangul Silbe Bbolg
+BF4A: Hangul Silbe Bbolm
+BF4B: Hangul Silbe Bbolb
+BF4C: Hangul Silbe Bbols
+BF4D: Hangul Silbe Bbolt
+BF4E: Hangul-Silbe Bbolp
+BF4F: Hangul-Silbe Bbolh
+BF50: Hangul Silbe Bbom
+BF51: Hangul Silbe Bbob
+BF52: Hangul Silbe Bbobs
+BF53: Hangul Silbe Bbos
+BF54: Hangul Silbe Bboss
+BF55: Hangul Silbe Bbong
+BF56: Hangul-Silbe Bboj
+BF57: Hangul-Silbe Bboc
+BF58: Hangul Silbe Bbok
+BF59: Hangul Silbe Bbot
+BF5A: Hangul Silbe Bbop
+BF5B: Hangul Silbe Bboh
+BF5C: Hangul-Silbe Bbwa
+BF5D: Hangul Silbe Bbwag
+BF5E: Hangul-Silbe Bbwagg
+BF5F: Hangul Silbe Bbwags
+BF60: Hangul Silbe Bbwan
+BF61: Hangul-Silbe Bbwanj
+BF62: Hangul-Silbe Bbwanh
+BF63: Hangul Silbe Bbwad
+BF64: Hangul Silbe Bbwal
+BF65: Hangul-Silbe Bbwalg
+BF66: Hangul-Silbe Bbwalm
+BF67: Hangul-Silbe Bbwalb
+BF68: Hangul Silbe Bbwals
+BF69: Hangul Silbe Bbwalt
+BF6A: Hangul-Silbe Bbwalp
+BF6B: Hangul-Silbe Bbwalh
+BF6C: Hangul Silbe Bbwam
+BF6D: Hangul Silbe Bbwab
+BF6E: Hangul Silbe Bbwabs
+BF6F: Hangul Silbe Bbwas
+BF70: Hangul-Silbe Bbwass
+BF71: Hangul Silbe Bbwang
+BF72: Hangul-Silbe Bbwaj
+BF73: Hangul Silbe Bbwac
+BF74: Hangul Silbe Bbwak
+BF75: Hangul Silbe Bbwat
+BF76: Hangul Silbe Bbwap
+BF77: Hangul Silbe Bbwah
+BF78: Hangul-Silbe Bbwae
+BF79: Hangul-Silbe Bbwaeg
+BF7A: Hangul-Silbe Bbwaegg
+BF7B: Hangul Silbe Bbwaegs
+BF7C: Hangul-Silbe Bbwaen
+BF7D: Hangul-Silbe Bbwaenj
+BF7E: Hangul-Silbe Bbwaenh
+BF7F: Hangul Silbe Bbwaed
+BF80: Hangul-Silbe Bbwael
+BF81: Hangul-Silbe Bbwaelg
+BF82: Hangul Silbe Bbwaelm
+BF83: Hangul Silbe Bbwaelb
+BF84: Hangul Silbe Bbwaels
+BF85: Hangul-Silbe Bbwaelt
+BF86: Hangul Silbe Bbwaelp
+BF87: Hangul-Silbe Bbwaelh
+BF88: Hangul-Silbe Bbwaem
+BF89: Hangul Silbe Bbwaeb
+BF8A: Hangul Silbe Bbwaebs
+BF8B: Hangul Silbe Bbwaes
+BF8C: Hangul Silbe Bbwaess
+BF8D: Hangul-Silbe Bbwaeng
+BF8E: Hangul-Silbe Bbwaej
+BF8F: Hangul-Silbe Bbwaec
+BF90: Hangul-Silbe Bbwaek
+BF91: Hangul-Silbe Bbwaet
+BF92: Hangul-Silbe Bbwaep
+BF93: Hangul Silbe Bbwaeh
+BF94: Hangul Silbe Bboe
+BF95: Hangul Silbe Bboeg
+BF96: Hangul-Silbe Bboegg
+BF97: Hangul Silbe Bboegs
+BF98: Hangul Silbe Bboen
+BF99: Hangul-Silbe Bboenj
+BF9A: Hangul-Silbe Bboenh
+BF9B: Hangul Silbe Bboed
+BF9C: Hangul Silbe Bboel
+BF9D: Hangul-Silbe Bboelg
+BF9E: Hangul-Silbe Bboelm
+BF9F: Hangul Silbe Bboelb
+BFA0: Hangul Silbe Bboels
+BFA1: Hangul-Silbe Bboelt
+BFA2: Hangul Silbe Bboelp
+BFA3: Hangul-Silbe Bboelh
+BFA4: Hangul Silbe Bboem
+BFA5: Hangul Silbe Bboeb
+BFA6: Hangul Silbe Bboebs
+BFA7: Hangul Silbe Bboes
+BFA8: Hangul Silbe Bboess
+BFA9: Hangul-Silbe Bboeng
+BFAA: Hangul-Silbe Bboej
+BFAB: Hangul-Silbe Bboec
+BFAC: Hangul-Silbe Bboek
+BFAD: Hangul Silbe Bboet
+BFAE: Hangul Silbe Bboep
+BFAF: Hangul Silbe Bboeh
+BFB0: Hangul-Silbe Bbyo
+BFB1: Hangul-Silbe Bbyog
+BFB2: Hangul-Silbe Bbyogg
+BFB3: Hangul Silbe Bbyogs
+BFB4: Hangul-Silbe Bbyon
+BFB5: Hangul-Silbe Bbyonj
+BFB6: Hangul-Silbe Bbyonh
+BFB7: Hangul-Silbe Bbyod
+BFB8: Hangul-Silbe Bbyol
+BFB9: Hangul-Silbe Bbyolg
+BFBA: Hangul-Silbe Bbyolm
+BFBB: Hangul-Silbe Bbyolb
+BFBC: Hangul-Silbe Bbyols
+BFBD: Hangul-Silbe Bbyolt
+BFBE: Hangul-Silbe Bbyolp
+BFBF: Hangul-Silbe Bbyolh
+BFC0: Hangul-Silbe Bbyom
+BFC1: Hangul Silbe Bbyob
+BFC2: Hangul Silbebyobs
+BFC3: Hangul-Silbe Bbyos
+BFC4: Hangul-Silbe Bbyoss
+BFC5: Hangul-Silbe Bbyong
+BFC6: Hangul-Silbe Bbyoj
+BFC7: Hangul Silbe Bbyoc
+BFC8: Hangul-Silbe Bbyok
+BFC9: Hangul Silbe Bbyot
+BFCA: Hangul-Silbe Bbyop
+BFCB: Hangul-Silbe Bbyoh
+BFCC: Hangul Silbe Bbu
+BFCD: Hangul Silbe Bbug
+BFCE: Hangul Silbe Bbugg
+BFCF: Hangul Silbe Wanzen
+BFD0: Hangul Silbe Bbun
+BFD1: Hangul Silbe Bbunj
+BFD2: Hangul Silbe Bbunh
+BFD3: Hangul Syllable Bbud
+BFD4: Hangul Silbe Bbul
+BFD5: Hangul Silbe Bbulg
+BFD6: Hangul Silbe Bbulm
+BFD7: Hangul Silbe Bbulb
+BFD8: Hangul Silbe Bbuls
+BFD9: Hangul Silbe Bbult
+BFDA: Hangul Silbe Bbulp
+BFDB: Hangul Silbe Bbulh
+BFDC: Hangul Silbe Bbum
+BFDD: Hangul Silbe Bbub
+BFDE: Hangul Silbe Bbubs
+BFDF: Hangul Silbe Bbus
+BFE0: Hangul Silbe Bbuss
+BFE1: Hangul Silbe Bbung
+BFE2: Hangul-Silbe Bbuj
+BFE3: Hangul Silbe Bbuc
+BFE4: Hangul Silbe Bbuk
+BFE5: Hangul-Silbe Bbut
+BFE6: Hangul Silbe Bbup
+BFE7: Hangul Silbe Bbuh
+BFE8: Hangul-Silbe Bbweo
+BFE9: Hangul Silbe Bbweog
+BFEA: Hangul-Silbe Bbweogg
+BFEB: Hangul Silbe Bbweogs
+BFEC: Hangul-Silbe Bbweon
+BFED: Hangul-Silbe Bbweonj
+BFEE: Hangul-Silbe Bbweonh
+BFEF: Hangul Silbe Bbweod
+BFF0: Hangul-Silbe Bbweol
+BFF1: Hangul Silbe Bbweolg
+BFF2: Hangul Silbe Bbweolm
+BFF3: Hangul Silbe Bbweolb
+BFF4: Hangul Silbe Bbweols
+BFF5: Hangul Silbe Bbweolt
+BFF6: Hangul-Silbe Bbweolp
+BFF7: Hangul-Silbe Bbweolh
+BFF8: Hangul Silbe Bbweom
+BFF9: Hangul Silbe Bbweob
+BFFA: Hangul Silbe Bbweobs
+BFFB: Hangul Silbe Bbweos
+BFFC: Hangul Silbe Bbweoss
+BFFD: Hangul Silbe Bbweong
+BFFE: Hangul-Silbe Bbweoj
+BFFF: Hangul Silbe Bbweoc

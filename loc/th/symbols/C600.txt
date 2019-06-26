@@ -1,256 +1,256 @@
-C600 : Hangul syllable yeoss
-C601 : Hangul syllable yeong
-C602 : Hangul syllable yeoj
-C603 : Hangul syllable yeoc
-C604 : Hangul syllable yeok
-C605 : Hangul syllable yeot
-C606 : Hangul syllable yeop
-C607 : Hangul syllable yeoh
-C608 : Hangul syllable ye
-C609 : Hangul syllable yeg
-C60A : Hangul syllable yegg
-C60B : Hangul syllable yegs
-C60C : Hangul syllable yen
-C60D : Hangul syllable yenj
-C60E : Hangul syllable yenh
-C60F : Hangul syllable yed
-C610 : Hangul syllable yel
-C611 : Hangul syllable yelg
-C612 : Hangul syllable yelm
-C613 : Hangul syllable yelb
-C614 : Hangul syllable yels
-C615 : Hangul syllable yelt
-C616 : Hangul syllable yelp
-C617 : Hangul syllable yelh
-C618 : Hangul syllable yem
-C619 : Hangul syllable yeb
-C61A : Hangul syllable yebs
-C61B : Hangul syllable yes
-C61C : Hangul syllable yess
-C61D : Hangul syllable yeng
-C61E : Hangul syllable yej
-C61F : Hangul syllable yec
-C620 : Hangul syllable yek
-C621 : Hangul syllable yet
-C622 : Hangul syllable yep
-C623 : Hangul syllable yeh
-C624 : Hangul syllable o
-C625 : Hangul syllable og
-C626 : Hangul syllable ogg
-C627 : Hangul syllable ogs
-C628 : Hangul syllable on
-C629 : Hangul syllable onj
-C62A : Hangul syllable onh
-C62B : Hangul syllable od
-C62C : Hangul syllable ol
-C62D : Hangul syllable olg
-C62E : Hangul syllable olm
-C62F : Hangul syllable olb
-C630 : Hangul syllable ols
-C631 : Hangul syllable olt
-C632 : Hangul syllable olp
-C633 : Hangul syllable olh
-C634 : Hangul syllable om
-C635 : Hangul syllable ob
-C636 : Hangul syllable obs
-C637 : Hangul syllable os
-C638 : Hangul syllable oss
-C639 : Hangul syllable ong
-C63A : Hangul syllable oj
-C63B : Hangul syllable oc
-C63C : Hangul syllable ok
-C63D : Hangul syllable ot
-C63E : Hangul syllable op
-C63F : Hangul syllable oh
-C640 : Hangul syllable wa
-C641 : Hangul syllable wag
-C642 : Hangul syllable wagg
-C643 : Hangul syllable wags
-C644 : Hangul syllable wan
-C645 : Hangul syllable wanj
-C646 : Hangul syllable wanh
-C647 : Hangul syllable wad
-C648 : Hangul syllable wal
-C649 : Hangul syllable walg
-C64A : Hangul syllable walm
-C64B : Hangul syllable walb
-C64C : Hangul syllable wals
-C64D : Hangul syllable walt
-C64E : Hangul syllable walp
-C64F : Hangul syllable walh
-C650 : Hangul syllable wam
-C651 : Hangul syllable wab
-C652 : Hangul syllable wabs
-C653 : Hangul syllable was
-C654 : Hangul syllable wass
-C655 : Hangul syllable wang
-C656 : Hangul syllable waj
-C657 : Hangul syllable wac
-C658 : Hangul syllable wak
-C659 : Hangul syllable wat
-C65A : Hangul syllable wap
-C65B : Hangul syllable wah
-C65C : Hangul syllable wae
-C65D : Hangul syllable waeg
-C65E : Hangul syllable waegg
-C65F : Hangul syllable waegs
-C660 : Hangul syllable waen
-C661 : Hangul syllable waenj
-C662 : Hangul syllable waenh
-C663 : Hangul syllable waed
-C664 : Hangul syllable wael
-C665 : Hangul syllable waelg
-C666 : Hangul syllable waelm
-C667 : Hangul syllable waelb
-C668 : Hangul syllable waels
-C669 : Hangul syllable waelt
-C66A : Hangul syllable waelp
-C66B : Hangul syllable waelh
-C66C : Hangul syllable waem
-C66D : Hangul syllable waeb
-C66E : Hangul syllable waebs
-C66F : Hangul syllable waes
-C670 : Hangul syllable waess
-C671 : Hangul syllable waeng
-C672 : Hangul syllable waej
-C673 : Hangul syllable waec
-C674 : Hangul syllable waek
-C675 : Hangul syllable waet
-C676 : Hangul syllable waep
-C677 : Hangul syllable waeh
-C678 : Hangul syllable oe
-C679 : Hangul syllable oeg
-C67A : Hangul syllable oegg
-C67B : Hangul syllable oegs
-C67C : Hangul syllable oen
-C67D : Hangul syllable oenj
-C67E : Hangul syllable oenh
-C67F : Hangul syllable oed
-C680 : Hangul syllable oel
-C681 : Hangul syllable oelg
-C682 : Hangul syllable oelm
-C683 : Hangul syllable oelb
-C684 : Hangul syllable oels
-C685 : Hangul syllable oelt
-C686 : Hangul syllable oelp
-C687 : Hangul syllable oelh
-C688 : Hangul syllable oem
-C689 : Hangul syllable oeb
-C68A : Hangul syllable oebs
-C68B : Hangul syllable oes
-C68C : Hangul syllable oess
-C68D : Hangul syllable oeng
-C68E : Hangul syllable oej
-C68F : Hangul syllable oec
-C690 : Hangul syllable oek
-C691 : Hangul syllable oet
-C692 : Hangul syllable oep
-C693 : Hangul syllable oeh
-C694 : Hangul syllable yo
-C695 : Hangul syllable yog
-C696 : Hangul syllable yogg
-C697 : Hangul syllable yogs
-C698 : Hangul syllable yon
-C699 : Hangul syllable yonj
-C69A : Hangul syllable yonh
-C69B : Hangul syllable yod
-C69C : Hangul syllable yol
-C69D : Hangul syllable yolg
-C69E : Hangul syllable yolm
-C69F : Hangul syllable yolb
-C6A0 : Hangul syllable yols
-C6A1 : Hangul syllable yolt
-C6A2 : Hangul syllable yolp
-C6A3 : Hangul syllable yolh
-C6A4 : Hangul syllable yom
-C6A5 : Hangul syllable yob
-C6A6 : Hangul syllable yobs
-C6A7 : Hangul syllable yos
-C6A8 : Hangul syllable yoss
-C6A9 : Hangul syllable yong
-C6AA : Hangul syllable yoj
-C6AB : Hangul syllable yoc
-C6AC : Hangul syllable yok
-C6AD : Hangul syllable yot
-C6AE : Hangul syllable yop
-C6AF : Hangul syllable yoh
-C6B0 : Hangul syllable u
-C6B1 : Hangul syllable ug
-C6B2 : Hangul syllable ugg
-C6B3 : Hangul syllable ugs
-C6B4 : Hangul syllable un
-C6B5 : Hangul syllable unj
-C6B6 : Hangul syllable unh
-C6B7 : Hangul syllable ud
-C6B8 : Hangul syllable ul
-C6B9 : Hangul syllable ulg
-C6BA : Hangul syllable ulm
-C6BB : Hangul syllable ulb
-C6BC : Hangul syllable uls
-C6BD : Hangul syllable ult
-C6BE : Hangul syllable ulp
-C6BF : Hangul syllable ulh
-C6C0 : Hangul syllable um
-C6C1 : Hangul syllable ub
-C6C2 : Hangul syllable ubs
-C6C3 : Hangul syllable us
-C6C4 : Hangul syllable uss
-C6C5 : Hangul syllable ung
-C6C6 : Hangul syllable uj
-C6C7 : Hangul syllable uc
-C6C8 : Hangul syllable uk
-C6C9 : Hangul syllable ut
-C6CA : Hangul syllable up
-C6CB : Hangul syllable uh
-C6CC : Hangul syllable weo
-C6CD : Hangul syllable weog
-C6CE : Hangul syllable weogg
-C6CF : Hangul syllable weogs
-C6D0 : Hangul syllable weon
-C6D1 : Hangul syllable weonj
-C6D2 : Hangul syllable weonh
-C6D3 : Hangul syllable weod
-C6D4 : Hangul syllable weol
-C6D5 : Hangul syllable weolg
-C6D6 : Hangul syllable weolm
-C6D7 : Hangul syllable weolb
-C6D8 : Hangul syllable weols
-C6D9 : Hangul syllable weolt
-C6DA : Hangul syllable weolp
-C6DB : Hangul syllable weolh
-C6DC : Hangul syllable weom
-C6DD : Hangul syllable weob
-C6DE : Hangul syllable weobs
-C6DF : Hangul syllable weos
-C6E0 : Hangul syllable weoss
-C6E1 : Hangul syllable weong
-C6E2 : Hangul syllable weoj
-C6E3 : Hangul syllable weoc
-C6E4 : Hangul syllable weok
-C6E5 : Hangul syllable weot
-C6E6 : Hangul syllable weop
-C6E7 : Hangul syllable weoh
-C6E8 : Hangul syllable we
-C6E9 : Hangul syllable weg
-C6EA : Hangul syllable wegg
-C6EB : Hangul syllable wegs
-C6EC : Hangul syllable wen
-C6ED : Hangul syllable wenj
-C6EE : Hangul syllable wenh
-C6EF : Hangul syllable wed
-C6F0 : Hangul syllable wel
-C6F1 : Hangul syllable welg
-C6F2 : Hangul syllable welm
-C6F3 : Hangul syllable welb
-C6F4 : Hangul syllable wels
-C6F5 : Hangul syllable welt
-C6F6 : Hangul syllable welp
-C6F7 : Hangul syllable welh
-C6F8 : Hangul syllable wem
-C6F9 : Hangul syllable web
-C6FA : Hangul syllable webs
-C6FB : Hangul syllable wes
-C6FC : Hangul syllable wess
-C6FD : Hangul syllable weng
-C6FE : Hangul syllable wej
-C6FF : Hangul syllable wec
+C600: Yeul พยางค์ฮันกึล
+C601: พยางค์ฮันกึลเยียง
+C602: พยางค์ฮันกึล
+C603: Yeul พยางค์อังกูล
+C604: พยางค์ฮันกึล
+C605: พยางค์อังกูล
+C606: พยางค์ฮันกึล
+C607: พยางค์ฮันกึล
+C608: พยางค์อังกูลเย่
+C609: พยางค์อังกูล
+C60A: อังกูลพยางค์ Yegg
+C60B: Yegs พยางค์อังกูล
+C60C: เยนอังกูลพยางค์
+C60D: พยางค์ฮันกึล Yenj
+C60E: พยางค์ฮันกึล
+C60F: พยางค์อังกูล
+C610: พยางค์อังกูล
+C611: พยางค์อังกูล Yelg
+C612: พยางค์อังกูล Yelm
+C613: พยางค์อังกูล Yelb
+C614: พยางค์อังกูล
+C615: พยางค์ฮันกึล
+C616: พยางค์อังกูล Yelp
+C617: พยางค์ฮันกึล
+C618: พยางค์อังกูล
+C619: อังกูลพยางค์ Yeb
+C61A: Yebs อังกูลพยางค์
+C61B: พยางค์อังกูลใช่
+C61C: อังกูลพยางค์ Yess
+C61D: พยางค์อังกูลเยิง
+C61E: พยางค์ฮันกึล
+C61F: พยางค์อังกูล
+C620: อังกูลพยางค์ Yek
+C621: พยางค์อังกูลยัง
+C622: พยางค์อังกูลอ๋อ
+C623: พยางค์ฮันกึลเย้
+C624: พยางค์อังกูล
+C625: พยางค์อังกูล
+C626: อังกูลพยางค์อังกูล
+C627: Ogs พยางค์อังกูล
+C628: พยางค์อังกูล
+C629: อังกูลพยางค์
+C62A: พยางค์อังกูล
+C62B: พยางค์อังกูล
+C62C: พยางค์อังกูลเฒ่า
+C62D: พยางค์อังกูล Olg
+C62E: Olul พยางค์อังกูล
+C62F: Hangul พยางค์ Olb
+C630: Hangul พยางค์ Ols
+C631: อังกูลพยางค์ Olt
+C632: Olul พยางค์อังกูล
+C633: พยางค์ฮันกึล
+C634: พยางค์อังกูล
+C635: อังกูลพยางค์
+C636: Obs พยางค์อังกูล
+C637: พยางค์อังกูล
+C638: ระบบพยางค์อังกูล
+C639: อังกูลพยางค์องค์
+C63A: อังกูลพยางค์ Oj
+C63B: พยางค์อังกูล
+C63C: พยางค์อังกูลตกลง
+C63D: พยางค์อังกูล
+C63E: สหกรณ์พยางค์อังกูล
+C63F: พยางค์อังกูลโอ้
+C640: อังกูลพยางค์วา
+C641: อังกูลพยางค์กระดิก
+C642: อังกูลพยางค์ Wagg
+C643: อังกูลพยางค์ Wags
+C644: อังกูลพยางค์วรรณ
+C645: อังกูลพยางค์วรรณจ
+C646: อังกูลพยางค์วรรณ
+C647: พยางค์อังกูลปึก
+C648: อังกูลพยางค์วอล
+C649: พยางค์ฮันกึล
+C64A: Walul พยางค์อังกูล
+C64B: Walul พยางค์อังกูล
+C64C: คำแปลพยางค์อังกูล
+C64D: อังกูลพยางค์วอลต์
+C64E: อังกูลพยางค์ Walp
+C64F: อังกูลพยางค์วัล
+C650: อังกูลพยางค์ Wam
+C651: อังกูลพยางค์ Wab
+C652: อังกูลพยางค์ Wabs
+C653: พยางค์อังกูลคือ
+C654: Wass พยางค์อังกูล
+C655: อังกูลพยางค์วัง
+C656: อังกูลพยางค์วจี
+C657: อังกูลพยางค์ Wac
+C658: อังกูลพยางค์วก
+C659: วัดอังกูลพยางค์
+C65A: อังกูล Wap พยางค์
+C65B: พยางค์อังกูลวา
+C65C: อังกูลพยางค์กังวาน
+C65D: อังกูลพยางค์ Waeg
+C65E: พยางค์ฮันกึล
+C65F: อังกูลพยางค์ภาษาอังกูล
+C660: พยางค์ฮันกึล
+C661: พยางค์อังกูล
+C662: อังกูลพยางค์ Waenh
+C663: พยางค์อังกูลรออยู่
+C664: อังกูล Wael พยางค์
+C665: พยางค์ฮันกึล
+C666: พยางค์ฮันกึล
+C667: อังกูลพยางค์ Waelb
+C668: อังกูลพยางค์ Waels
+C669: อังกูลพยางค์ Waelt
+C66A: อังกูลพยางค์ Waelp
+C66B: พยางค์ฮันกึล
+C66C: พยางค์อังกูล
+C66D: อังกูลพยางค์ Waeb
+C66E: อังกูลพยางค์ Waebs
+C66F: อังกูลพยางค์กำลังรอ
+C670: อังกูลพยางค์อังกูล
+C671: พยางค์อังกูลแว้ง
+C672: อังกูลพยางค์เวจ
+C673: อังกูลพยางค์ Waul
+C674: อังกูลพยางค์ Waek
+C675: อังกูลพยางค์ Waet
+C676: อังกูลพยางค์ Waep
+C677: พยางค์อังกูล Waeh
+C678: พยางค์อังกูล Oe
+C679: Oeg พยางค์อังกูล
+C67A: อังกูลพยางค์ Oegg
+C67B: Oegs อังกูลพยางค์
+C67C: พยางค์อังกูล
+C67D: พยางค์อังกูล
+C67E: อังกูลพยางค์ Oenh
+C67F: อังกูลพยางค์ Oed
+C680: Oul พยางค์อังกูล
+C681: พยางค์อังกูล
+C682: Oulm พยางค์อังกูล
+C683: Oulb พยางค์อังกูล
+C684: Oul พยางค์อังกูล
+C685: อังกูลพยางค์ฮันกึล
+C686: Oelp พยางค์อังกูล
+C687: พยางค์อังกูล Oelh
+C688: พยางค์อังกูล
+C689: อังกูลพยางค์ Oeb
+C68A: Oebs อังกูลพยางค์
+C68B: Oes พยางค์อังกูล
+C68C: พยางค์อังกูล
+C68D: พยางค์อังกูลอึล
+C68E: อังกูลพยางค์ Oej
+C68F: Oul พยางค์อังกูล
+C690: อังกูลพยางค์โอก
+C691: Oul พยางค์อังกูล
+C692: พยางค์อังกูล
+C693: พยางค์ฮันกึล
+C694: พยางค์อังกูล
+C695: พยางค์อังกูล
+C696: พยางค์อังกูล
+C697: พยางค์อังกูล
+C698: พยางค์ฮันกึล
+C699: พยางค์ฮันกึล
+C69A: พยางค์ฮันกึล
+C69B: พยางค์อังกูล
+C69C: พยางค์อังกูล
+C69D: พยางค์อังกูล Yolg
+C69E: พยางค์อังกูล
+C69F: พยางค์อังกูล
+C6A0: พยางค์อังกูล
+C6A1: พยางค์อังกูล
+C6A2: พยางค์อังกูล
+C6A3: พยางค์อังกูล
+C6A4: พยางค์อังกูล
+C6A5: พยางค์ฮันกึล
+C6A6: พยางค์อังกูล
+C6A7: พยางค์อังกูล
+C6A8: พยางค์ฮันกึล
+C6A9: พยางค์อังกูลยง
+C6AA: พยางค์ฮันกึล
+C6AB: พยางค์อังกูล
+C6AC: พยางค์ฮันกึล
+C6AD: พยางค์อังกูล
+C6AE: พยางค์อังกูล
+C6AF: พยางค์ฮันกึล
+C6B0: พยางค์อังกูล
+C6B1: พยางค์อังกูล
+C6B2: อังกูลพยางค์ Ugg
+C6B3: Ugs พยางค์อังกูล
+C6B4: อังกูลพยางค์อัง
+C6B5: อังกูลพยางค์ Unj
+C6B6: อังกูลพยางค์
+C6B7: อังกูลพยางค์อู
+C6B8: อังกูลพยางค์อูล
+C6B9: อังกูลพยางค์อูล
+C6BA: Ulm อังกูลพยางค์
+C6BB: Ulul อังกูลพยางค์
+C6BC: Ull พยางค์อังกูล
+C6BD: อังกูลพยางค์ Ult
+C6BE: Ulul พยางค์อังกูล
+C6BF: อูลพยางค์อังกูล
+C6C0: อืมอังกูลพยางค์
+C6C1: อังกูลพยางค์อูบ
+C6C2: Ubs พยางค์ฮันกึล
+C6C3: อังกูลพยางค์เรา
+C6C4: พยางค์ฮันกึล
+C6C5: อังกูลพยางค์อังกูล
+C6C6: อังกูลพยางค์ Uj
+C6C7: อังกูลพยางค์ Uc
+C6C8: อังกูลพยางค์สหราชอาณาจักร
+C6C9: พยางค์อังกูล
+C6CA: พยางค์อังกูลขึ้น
+C6CB: อังกูลพยางค์ Uh
+C6CC: ฮันกึล Weo พยางค์
+C6CD: Weog พยางค์ฮันกึล
+C6CE: Weogg พยางค์ฮันกึล
+C6CF: Weogs พยางค์อังกูล
+C6D0: วอนเกาหลี
+C6D1: พยางค์ฮันกูล
+C6D2: Weonh พยางค์อังกูล
+C6D3: Weod พยางค์ฮันกึล
+C6D4: Weul พยางค์ฮันกึล
+C6D5: Weulg พยางค์อังกูล
+C6D6: Weulm พยางค์อังกูล
+C6D7: Weulb พยางค์อังกูล
+C6D8: Weols พยางค์ฮันกึล
+C6D9: Weolt พยางค์อังกูล
+C6DA: Weulp พยางค์อังกูล
+C6DB: Weolh พยางค์อังกูล
+C6DC: Weung พยางค์ฮันกึล
+C6DD: Weob พยางค์ฮันกึล
+C6DE: Weul พยางค์ฮันกึล
+C6DF: Weos พยางค์อังกูล
+C6E0: Weung พยางค์ฮันกึล
+C6E1: น้ำหนักพยางค์ฮันกึล
+C6E2: Weul พยางค์ฮันกึล
+C6E3: Weoc พยางค์อังกูล
+C6E4: Weul พยางค์อังกูล
+C6E5: Weot พยางค์อังกูล
+C6E6: Weul พยางค์ฮันกึล
+C6E7: Weul พยางค์ฮันกึล
+C6E8: พยางค์อังกูลเรา
+C6E9: อังกูลพยางค์ Weg
+C6EA: อังกูลพยางค์ Wegg
+C6EB: อังกูลพยางค์ Wegs
+C6EC: อังกูลพยางค์เหวิน
+C6ED: อังกูลพยางค์ Wenj
+C6EE: อังกูลพยางค์เวิน
+C6EF: อังกูลพยางค์พ
+C6F0: อังกูลพยางค์เวล
+C6F1: อังกูลพยางค์เวล
+C6F2: ฮันกึลเวลล์พยางค์
+C6F3: Welul พยางค์อังกูล
+C6F4: พยางค์อังกูลเวลส์
+C6F5: พยางค์อังกูลดาม
+C6F6: Welul พยางค์อังกูล
+C6F7: ฮันกึลเวลช์พยางค์
+C6F8: พยางค์อังกูล
+C6F9: เว็บอังกูลพยางค์
+C6FA: เว็บอังกูลพยางค์
+C6FB: ฮันกึลเวสสตรีท
+C6FC: Wess พยางค์อังกูล
+C6FD: อังกูลพยางค์เวง
+C6FE: พยางค์ฮันกึล
+C6FF: พยางค์อังกูล

@@ -15,3 +15,10 @@ unicode-block: Sekcja Unicode
 sets: Zestaw
 count-symbols: %s znaków
 alphabet: Alfabet
+
+[empty]
+no_results: Brak wyników dla "{query}" po polsku.
+language: Spróbuj zmienić {język}.
+blocks: Poznaj {bloki Unicode}.
+sets: Sprawdź w {Zestawy}.
+table: Przejrzyj pełną {tabelę znaków}.

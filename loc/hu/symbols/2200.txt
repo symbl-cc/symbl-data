@@ -1,256 +1,256 @@
-2200: For All : universal quantifier
-2201: Complement
-2202: Partial Differential
-2203: There Exists : existential quantifier
-2204: There Does Not Exist
-2205: Empty Set : null set
-2206: Increment : laplace operator : forward difference : symmetric difference (in set theory)
-2207: Nabla : backward difference : gradient, del
-2208: Element Of
-2209: Not an Element Of
-220A: Small Element Of
-220B: Contains As Member : such that
-220C: Does Not Contain As Member
-220D: Small Contains As Member
-220E: End of Proof : q.e.d.
-220F: N-Ary Product : product sign
-2210: N-Ary Coproduct : coproduct sign
-2211: N-Ary Summation : summation sign
-2212: Minus Sign
-2213: Minus-or-Plus Sign
+2200: Mindenkinek : univerzális kvantáló
+2201: Kiegészítés
+2202: Részleges különbség
+2203: Létezik : egzisztenciális mennyiségi érték
+2204: Nem létezik
+2205: Üres készlet : null készlet
+2206: Növekedés : laplace operátor : előrejelzési különbség : szimmetrikus különbség (készletelméletben)
+2207: Nabla : hátrányos különbség : gradiens, del
+2208: Elem
+2209: Nem egy elem
+220A: Kis elem
+220B: Tagként szerepel : oly módon, hogy
+220C: Nem tartalmaz tagként
+220D: Kicsi Tartalom Tagként
+220E: A bizonyítás vége : Q.E.D.
+220F: N-Ary termék : termék jel
+2210: N-Ary Coproduct : coproduct jel
+2211: N-Ary Summation : összegző jel
+2212: Mínusz jele
+2213: Mínusz vagy plusz jel
 2214: Dot Plus
-2215: Division Slash
-2216: Set Minus
-2217: Asterisk Operator
-2218: Ring Operator : composite function : apl jot
+2215: Slash osztály
+2216: Mínusz beállítása
+2217: Csillagkezelő
+2218: Ring Operator : összetett funkció : apl valami
 2219: Bullet Operator
-221A: Square Root : radical sign
-221B: Cube Root
-221C: Fourth Root
-221D: Proportional To
-221E: Infinity
-221F: Right Angle
-2220: Angle
-2221: Measured Angle
-2222: Spherical Angle : angle arc
-2223: Divides : such that : apl stile
-2224: Does Not Divide
-2225: Parallel To
-2226: Not Parallel To
-2227: Logical And : wedge, conjunction
-2228: Logical Or : vee, disjunction
-2229: Intersection : cap, hat
-222A: Union : cup
-222B: Integral
-222C: Double Integral
+221A: Négyzetgyök : radikális jel
+221B: Köbgyök
+221C: Negyedik gyökér
+221D: Arányos
+221E: végtelenség
+221F: Derékszög
+2220: Szög
+2221: Mért szög
+2222: Gömbszög : szög ív
+2223: oszt : oly módon, hogy : apl stile
+2224: Nem oszlik meg
+2225: Párhuzamos
+2226: Nem párhuzamos
+2227: Logikai és : ék, együtt
+2228: Logikus Or : vee, diszjunkció
+2229: Útkereszteződés : sapka, kalap
+222A: Unió : csésze
+222B: Integrál
+222C: Dupla integrál
 222D: Triple Integral
-222E: Contour Integral
-222F: Surface Integral
+222E: Kontúr integrált
+222F: Felület integrált
 2230: Volume Integral
-2231: Clockwise Integral
-2232: Clockwise Contour Integral
-2233: Anticlockwise Contour Integral
-2234: Therefore
-2235: Because
-2236: Ratio
-2237: Proportion
-2238: Dot Minus : saturating subtraction
-2239: Excess
-223A: Geometric Proportion
+2231: Óramutató járásával ellentétes
+2232: Óramutató járásával ellentétes kontúr
+2233: Az óramutató járásával ellentétes irányba integrált
+2234: Ebből adódóan
+2235: Mert
+2236: Hányados
+2237: Arány
+2238: Dot Minus : telített kivonás
+2239: többlet
+223A: Geometriai arány
 223B: Homothetic
-223C: Tilde Operator : varies with (proportional to) : difference between : similar to : not : cycle : apl tilde
-223D: Reversed Tilde : lazy s
-223E: Inverted Lazy S : most positive
-223F: Sine Wave : alternating current
-2240: Wreath Product
-2241: Not Tilde
+223C: Tilde Operator : változik (arányos) : a különbség köztük : hasonló : nem : ciklus : apl tilde
+223D: Megfordult Tilde : lusta s
+223E: Fordított Lazy S : leginkább pozitív
+223F: Szinuszos hullám : váltakozó áram
+2240: Koszorú termék
+2241: Nem Tilde
 2242: Minus Tilde
-2243: Asymptotically Equal To
-2244: Not Asymptotically Equal To
-2245: Approximately Equal To
-2246: Approximately But Not Actually Equal To
-2247: Neither Approximately nor Actually Equal To
-2248: Almost Equal To : asymptotic to
-2249: Not Almost Equal To
-224A: Almost Equal or Equal To
+2243: Aszimptotikusan egyenlő
+2244: Nem aszimptotikusan egyenlő
+2245: Körülbelül egyenlő
+2246: Körülbelül de nem valójában egyenlő
+2247: Sem megközelítőleg, sem valójában nem egyenlő
+2248: Majdnem egyenlő : aszimptotikus
+2249: Nem szinte egyenlő
+224A: Majdnem egyenlő vagy egyenlő
 224B: Triple Tilde
-224C: All Equal To
-224D: Equivalent To
-224E: Geometrically Equivalent To
-224F: Difference Between
-2250: Approaches the Limit
-2251: Geometrically Equal To
-2252: Approximately Equal To or the Image Of : nearly equals
-2253: Image of or Approximately Equal To
-2254: Colon Equals
-2255: Equals Colon
-2256: Ring In Equal To
-2257: Ring Equal To : approximately equal to
-2258: Corresponds To
-2259: Estimates : corresponds to
-225A: Equiangular To
-225B: Star Equals
-225C: Delta Equal To : equiangular : equal to by definition
-225D: Equal To By Definition
-225E: Measured By
-225F: Questioned Equal To
-2260: Not Equal To
-2261: Identical To
-2262: Not Identical To
-2263: Strictly Equivalent To
-2264: Less-Than or Equal To
-2265: Greater-Than or Equal To
-2266: Less-Than Over Equal To
-2267: Greater-Than Over Equal To
-2268: Less-Than But Not Equal To
-2269: Greater-Than But Not Equal To
-226A: Much Less-Than
-226B: Much Greater-Than
-226C: Between : plaintiff, quantic
-226D: Not Equivalent To
-226E: Not Less-Than
-226F: Not Greater-Than
-2270: Neither Less-Than nor Equal To
-2271: Neither Greater-Than nor Equal To
-2272: Less-Than or Equivalent To
-2273: Greater-Than or Equivalent To
-2274: Neither Less-Than nor Equivalent To
-2275: Neither Greater-Than nor Equivalent To
-2276: Less-Than or Greater-Than
-2277: Greater-Than or Less-Than
-2278: Neither Less-Than nor Greater-Than
-2279: Neither Greater-Than nor Less-Than
-227A: Precedes : lower rank than
-227B: Succeeds : higher rank than
-227C: Precedes or Equal To
-227D: Succeeds or Equal To
-227E: Precedes or Equivalent To
-227F: Succeeds or Equivalent To
-2280: Does Not Precede
-2281: Does Not Succeed
-2282: Subset Of : included in set
-2283: Superset Of : includes in set
-2284: Not a Subset Of
-2285: Not a Superset Of
-2286: Subset of or Equal To
-2287: Superset of or Equal To
-2288: Neither a Subset of nor Equal To
-2289: Neither a Superset of nor Equal To
-228A: Subset of with Not Equal To
-228B: Superset of with Not Equal To
+224C: Minden egyenlő
+224D: Egyenértékű
+224E: Geometriai egyenértékű
+224F: A különbség köztük
+2250: Megközelíti a határt
+2251: Geometrikusan egyenlő
+2252: Körülbelül egyenlő vagy a kép : majdnem egyenlő
+2253: Kép vagy kb
+2254: Colon egyenlő
+2255: Egyenlő Colon
+2256: Egyenlő gyűrű
+2257: Gyűrű egyenlő : megközelítőleg egyenlő
+2258: Megfelel
+2259: becslések : megfelel
+225A: Egyenértékű
+225B: Csillag egyenlő
+225C: Delta egyenlő : egyenlő szögű : definíció szerint egyenlő
+225D: Megegyezés szerint
+225E: Mért
+225F: Kérdőív egyenlő
+2260: Nem egyenlő
+2261: Megegyező
+2262: Nem azonos
+2263: Szigorúan egyenértékű
+2264: Kevesebb vagy kevesebb
+2265: Nagyobb vagy egyenlő
+2266: Kevesebb, mint az egyenlő
+2267: Nagyobb, mint az egyenlő
+2268: Kevésbé, de nem egyenlő
+2269: Nagyobb, de nem egyenlő
+226A: Sokkal kevesebbet
+226B: Sokkal nagyobb
+226C: Között : felperes, kvantikus
+226D: Nem egyenértékű
+226E: Nem kevesebb mint
+226F: Nem nagyobb, mint
+2270: Sem kevésbé, sem egyenlő
+2271: Sem a nagyobb, sem egyenlő
+2272: Kevesebb vagy kevesebb
+2273: Nagyobb vagy egyenértékű
+2274: Sem kevésbé, sem egyenértékű
+2275: Sem a nagyobb, sem egyenértékű
+2276: Kevesebb, mint vagy nagyobb
+2277: Nagyobb vagy kevésbé
+2278: Sem a kevésbé, sem a nagyobb mint
+2279: Sem Nagy-Than, sem kevésbé
+227A: Precedes : alacsonyabb rang
+227B: Sikerül : magasabb rangú, mint
+227C: Előző vagy egyenlő
+227D: Sikeres vagy egyenlő
+227E: Előző vagy azzal egyenértékű
+227F: Sikeres vagy egyenértékű
+2280: Nem előzi meg
+2281: Nem sikerül
+2282: Részhalmaza : benne van a készletben
+2283: Superset Of : tartalmazza a készletben
+2284: Nem egy részhalmaz
+2285: Nem egy Superset Of
+2286: Alcsoport vagy egyenlő
+2287: Superset vagy egyenlő
+2288: Sem egy részhalmaz, sem egyenlő
+2289: Sem a Superset of, sem a Equal To nem
+228A: A nem egyenlő részhalmaz
+228B: A nem egyenlő értékű Superset
 228C: Multiset
-228D: Multiset Multiplication
-228E: Multiset Union : z notation bag addition
-228F: Square Image Of
+228D: Multiset szorzás
+228E: Multiset Unió : z jelölőzsák hozzáadása
+228F: Négyzet alakú kép
 2290: Square Original Of
-2291: Square Image of or Equal To
-2292: Square Original of or Equal To
-2293: Square Cap
+2291: Négyzet alakú vagy egyenlő kép
+2292: Négyzet eredeti vagy egyenlő
+2293: Négyzet alakú sapka
 2294: Square Cup
-2295: Circled Plus : direct sum : vector pointing into page
-2296: Circled Minus : symmetric difference
-2297: Circled Times : tensor product : vector pointing into page
-2298: Circled Division Slash : ban, disable
-2299: Circled Dot Operator : direct product : vector pointing out of page
-229A: Circled Ring Operator
-229B: Circled Asterisk Operator
-229C: Circled Equals
-229D: Circled Dash
+2295: Körözött plusz : közvetlen összeg : vektor oldalra mutat
+2296: Körözött mínusz : szimmetrikus különbség
+2297: Körözött idők : tenzor termék : vektor oldalra mutat
+2298: Körözött osztás Slash : tiltsa, tiltsa le
+2299: Körözött pont üzemeltető : közvetlen termék : vektor az oldalra mutat
+229A: Körkörös gyűrűkezelő
+229B: Körözött csillag csillagkezelő : Új év, karácsony
+229C: Körözött egyenlő
+229D: Körözött kötőjel
 229E: Squared Plus
-229F: Squared Minus
+229F: Négyzet mínusz
 22A0: Squared Times
-22A1: Squared Dot Operator
-22A2: Right Tack : turnstile : proves, implies, yields : reducible
-22A3: Left Tack : reverse turnstile : non-theorem, does not yield
-22A4: Down Tack : top
-22A5: Up Tack : base, bottom
-22A6: Assertion : reduces to
-22A7: Models
-22A8: True : statement is true, valid : is a tautology : satisfies : results in
-22A9: Forces
-22AA: Triple Vertical Bar Right Turnstile
-22AB: Double Vertical Bar Double Right Turnstile
-22AC: Does Not Prove
-22AD: Not True
-22AE: Does Not Force
-22AF: Negated Double Vertical Bar Double Right Turnstile
-22B0: Precedes Under Relation
-22B1: Succeeds Under Relation
-22B2: Normal Subgroup Of
-22B3: Contains As Normal Subgroup
-22B4: Normal Subgroup of or Equal To
-22B5: Contains As Normal Subgroup or Equal To
-22B6: Original Of
-22B7: Image Of
+22A1: Négyzetpontos operátor
+22A2: Jobb Tack : forgóajtó : bizonyítja, azt jelenti, hozamok : redukálható
+22A3: Bal Tack : fordított fordulatszám : nem tételes, nem hoz
+22A4: Down Tack : felső
+22A5: Fel Tack : alap, alsó
+22A6: kijelentés : csökken
+22A7: Összes
+22A8: Igaz : a nyilatkozat igaz, érvényes : egy tautológia : eleget tesz : eredmények
+22A9: erők
+22AA: Hármas függőleges sáv jobb fordulatszám
+22AB: Dupla függőleges sáv Dupla jobbra forduló
+22AC: Nem támasztja alá
+22AD: Nem igaz
+22AE: Nem kényszerül
+22AF: Negatív dupla függőleges sáv Dupla jobb fordulópont
+22B0: Előzmény a kapcsolat alatt
+22B1: Sikeres a kapcsolat alatt
+22B2: Normál alcsoport
+22B3: Normál alcsoportként szerepel
+22B4: Normál alcsoport vagy egyenlő
+22B5: Normál alcsoportként vagy egyenlő értékű
+22B6: Eredeti Of
+22B7: Kép Of
 22B8: Multimap
-22B9: Hermitian Conjugate Matrix
-22BA: Intercalate
-22BB: Xor
+22B9: Hermitikus konjugált mátrix
+22BA: Beiktat
+22BB: xor
 22BC: Nand
-22BD: Nor
-22BE: Right Angle with Arc
-22BF: Right Triangle
-22C0: N-Ary Logical And
+22BD: Sem
+22BE: Jobb szög az ívvel
+22BF: Derékszögű háromszög
+22C0: N-Ary Logikai És
 22C1: N-Ary Logical Or
-22C2: N-Ary Intersection : z notation generalised intersection
-22C3: N-Ary Union : z notation generalised union
-22C4: Diamond Operator
+22C2: N-Ary kereszteződés : z jelölés általánosított kereszteződés
+22C3: N-Ary Unió : z jelölés általánosított unió
+22C4: Gyémántkezelő
 22C5: Dot Operator
-22C6: Star Operator
+22C6: Csillagkezelő
 22C7: Division Times
-22C8: Bowtie
-22C9: Left Normal Factor Semidirect Product
-22CA: Right Normal Factor Semidirect Product
-22CB: Left Semidirect Product
-22CC: Right Semidirect Product
-22CD: Reversed Tilde Equals
+22C8: Csokornyakkendő
+22C9: Bal oldali normál tényező félirányú termék
+22CA: Jobb Normal Factor Semidirect termék
+22CB: Bal félirányú termék
+22CC: Jobb félirányú termék
+22CD: Megfordult a Tilde Equals
 22CE: Curly Logical Or
-22CF: Curly Logical And
-22D0: Double Subset
+22CF: Göndör logikai és
+22D0: Dupla részhalmaz
 22D1: Double Superset
-22D2: Double Intersection
+22D2: Dupla metszéspont
 22D3: Double Union
-22D4: Pitchfork : proper intersection
-22D5: Equal and Parallel To
-22D6: Less-Than with Dot
-22D7: Greater-Than with Dot
-22D8: Very Much Less-Than
-22D9: Very Much Greater-Than
-22DA: Less-Than Equal To or Greater-Than
-22DB: Greater-Than Equal To or Less-Than
-22DC: Equal To or Less-Than
-22DD: Equal To or Greater-Than
-22DE: Equal To or Precedes
-22DF: Equal To or Succeeds
-22E0: Does Not Precede or Equal
-22E1: Does Not Succeed or Equal
-22E2: Not Square Image of or Equal To
-22E3: Not Square Original of or Equal To
-22E4: Square Image of or Not Equal To
-22E5: Square Original of or Not Equal To
-22E6: Less-Than But Not Equivalent To
-22E7: Greater-Than But Not Equivalent To
-22E8: Precedes But Not Equivalent To
-22E9: Succeeds But Not Equivalent To
-22EA: Not Normal Subgroup Of
-22EB: Does Not Contain As Normal Subgroup
-22EC: Not Normal Subgroup of or Equal To
-22ED: Does Not Contain As Normal Subgroup or Equal
-22EE: Vertical Ellipsis
-22EF: Midline Horizontal Ellipsis
-22F0: Up Right Diagonal Ellipsis
-22F1: Down Right Diagonal Ellipsis
-22F2: Element of with Long Horizontal Stroke
-22F3: Element of with Vertical Bar At End of Horizontal Stroke
-22F4: Small Element of with Vertical Bar At End of Horizontal Stroke
-22F5: Element of with Dot Above
-22F6: Element of with Overbar
-22F7: Small Element of with Overbar
-22F8: Element of with Underbar
-22F9: Element of with Two Horizontal Strokes
-22FA: Contains with Long Horizontal Stroke
-22FB: Contains with Vertical Bar At End of Horizontal Stroke
-22FC: Small Contains with Vertical Bar At End of Horizontal Stroke
-22FD: Contains with Overbar
-22FE: Small Contains with Overbar
-22FF: Z Notation Bag Membership
+22D4: Vasvilla : megfelelő kereszteződés
+22D5: Egyenlő és párhuzamos
+22D6: Kevesebb, mint Dot
+22D7: Nagyobb mint Dot
+22D8: Nagyon sok kevésbé
+22D9: Nagyon sok-nagyobb
+22DA: Kevesebb, mint egyenlő vagy nagyobb
+22DB: Nagyobb, mint egyenlő vagy kevésbé
+22DC: Egyenlő vagy kevésbé
+22DD: Egyenlő vagy nagyobb
+22DE: Egyenlő vagy megelőző
+22DF: Egyenlő vagy sikeres
+22E0: Nem előre vagy egyenlő
+22E1: Nem sikerül vagy egyenlő
+22E2: Nem négyzet alakú vagy egyenlő kép
+22E3: Nem négyzet eredeti vagy egyenlő
+22E4: Négyzet alakú vagy nem egyenlő kép
+22E5: Négyzet eredeti vagy nem egyenlő
+22E6: Kevésbé, de nem egyenértékű
+22E7: Nagyobb, de nem egyenértékű
+22E8: Előtti, de nem egyenértékű
+22E9: Sikeres, de nem egyenértékű
+22EA: Nem normál alcsoport
+22EB: Nem tartalmaz normál alcsoportot
+22EC: Nem normál alcsoport vagy egyenlő
+22ED: Nem tartalmaz normál alcsoportot vagy egyenlőt
+22EE: Függőleges ellipszis
+22EF: Középvonalas vízszintes ellipszis
+22F0: Jobb oldali diagonális ellipszis
+22F1: Jobb oldali diagonális ellipszis
+22F2: Hosszú vízszintes körvonalú elem
+22F3: A függőleges sáv eleme a vízszintes stroke végén
+22F4: Kis függőleges sáv a vízszintes ütem végén
+22F5: Elem a Dot felett
+22F6: A Overbar elemével
+22F7: Kis elem a Overbar-al
+22F8: Az alsó elem elemei
+22F9: Elem a két vízszintes ütéssel
+22FA: Hosszú vízszintes ütéssel rendelkezik
+22FB: Függőleges sávot tartalmaz a vízszintes stroke végén
+22FC: A kis függőleges sáv a vízszintes stroke végén található
+22FD: Tartalmaz Overbar
+22FE: Kicsi Tartalmazza a Overbar-ot
+22FF: Z jelölőzsák tagság

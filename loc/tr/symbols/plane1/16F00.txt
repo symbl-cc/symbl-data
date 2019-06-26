@@ -1,0 +1,256 @@
+16F00: Miao Harf Pa
+16F01: Miao Mektup Ba
+16F02: Miao Mektup Yi Pa
+16F03: Miao Letter Pla
+16F04: Miao Mektubu Ma
+16F05: Miao Mha Mha
+16F06: Miao Mektubu Arkaik Ma
+16F07: Miao Letter Fa
+16F08: Miao Mektubu Va
+16F09: Miao Letter Vfa
+16F0A: Miao Mektubu Ta
+16F0B: Miao Mektubu Da
+16F0C: Miao Mektup Yi Tta
+16F0D: Miao Mektubu Yi Ta
+16F0E: Miao Mektup Tta
+16F0F: Miao Mektubu Dda
+16F10: Miao Harf Na
+16F11: Miao Harf Nha
+16F12: Miao Mektubu Yi Nna
+16F13: Miao Mektubu Arkaik Na
+16F14: Miao Letter Nna
+16F15: Miao Letter Nnha
+16F16: Miao Mektubu La
+16F17: Miao Mektubu Lya
+16F18: Miao Harf Lha
+16F19: Miao Mektubu Lhya
+16F1A: Miao Letter Tlha
+16F1B: Miao Letter Dlha
+16F1C: Miao Letter Tlhya
+16F1D: Miao Letter Dlhya
+16F1E: Miao Mektup Ka
+16F1F: Miao Mektubu Ga
+16F20: Miao Mektup Yi Ka
+16F21: Miao Letter Qa
+16F22: Miao Letter Qga
+16F23: Miao Letter Nga
+16F24: Miao Letter Ngha
+16F25: Miao Mektubu Arkaik Nga
+16F26: Miao Harf Ha
+16F27: Miao Xa Harfi
+16F28: Miao Mektubu Gha
+16F29: Miao Mektubu Ghha
+16F2A: Miao Mektup Tssa
+16F2B: Miao Mektubu Dzza
+16F2C: Miao Mektubu Nya
+16F2D: Miao Mektubu Nyha
+16F2E: Miao Mektup Tsha
+16F2F: Miao Mektubu Dzha
+16F30: Miao Mektup Yi Tsha
+16F31: Miao Mektubu Yi Dzha
+16F32: Miao Mektup Tsha Reformu
+16F33: Miao Mektubu Sha
+16F34: Miao Letter Ssa
+16F35: Miao Mektubu Zha
+16F36: Miao Mektubu Zsha
+16F37: Miao Letter Tsa
+16F38: Miao Mektubu Dza
+16F39: Miao Mektubu Yi Tsa
+16F3A: Miao Harf Sa
+16F3B: Miao Mektubu Za
+16F3C: Miao Letter Zsa
+16F3D: Miao Mektubu Zza
+16F3E: Miao Letter Zzsa
+16F3F: Miao Mektubu Arkaik Zza
+16F40: Miao Mektubu Zzya
+16F41: Miao Letter Zzsya
+16F42: Miao Mektubu Wa
+16F43: Miao Mektubu Ah
+16F44: Miao Mektubu Hha
+16F45:
+16F46:
+16F47:
+16F48:
+16F49:
+16F4A:
+16F4B:
+16F4C:
+16F4D:
+16F4E:
+16F4F:
+16F50: Miao Mektup Nazalizasyonu
+16F51: Miao İşaret Aspirasyonu
+16F52: Miao İşareti Reform Yaptı
+16F53: Miao İmzalı Aspirasyon
+16F54: Miao Vowel A işareti
+16F55: Miao Vowel Sign Aa
+16F56: Miao Vowel Ahh işareti
+16F57: Miao Ünlü Bir An Burcu
+16F58: Miao Vowel Ang işareti
+16F59: Miao Vowel O işareti
+16F5A: Miao Vowel Sign Oo
+16F5B: Miao Ünlü Harfi Wo
+16F5C: Miao Vowel W işareti
+16F5D: Miao Vowel E işareti
+16F5E: Miao Vowel Giriş yap
+16F5F: Miao Vowel Üye Eng
+16F60: Miao Vowel Sign Oey
+16F61: Miao Ünlü Harf I
+16F62: Miao Vowel Sign Ia
+16F63: Miao Vowel Ian İmza
+16F64: Miao Vowel Üye Iang
+16F65: Miao Vowel Io İşareti
+16F66: Miao Vowel Üye Ie
+16F67: Miao Vowel Burcu Iı
+16F68: Miao Vowel Üye Iu
+16F69: Miao Vowel işaret Ing
+16F6A: Miao Vowel işaret U
+16F6B: Miao Vowel işaret Ua
+16F6C: Miao Vowel işareti Uan
+16F6D: Miao Vowel Sign Uang
+16F6E: Miao Vowel Uu işaretiyle
+16F6F: Miao Vowel Sign Uei
+16F70: Miao Ünlü Işareti Ung
+16F71: Miao Vowel Üye Y
+16F72: Miao Vowel Üye Yi
+16F73: Miao Vowel Ae işareti
+16F74: Miao Vowel Burcu Aee
+16F75: Miao Vowel Err imzala
+16F76: Miao Vowel işareti yuvarlak Err
+16F77: Miao Vowel Işareti Er
+16F78: Miao ünlü işareti yuvarlatılmış Er
+16F79: Miao Vowel Ai imzala
+16F7A: Miao Vowel Burcu Ei
+16F7B: Miao Vowel işareti Au
+16F7C: Miao Vowel Sign Ou
+16F7D: Miao Vowel Üye N
+16F7E: Miao Vowel Üye Ng
+16F7F:
+16F80:
+16F81:
+16F82:
+16F83:
+16F84:
+16F85:
+16F86:
+16F87:
+16F88:
+16F89:
+16F8A:
+16F8B:
+16F8C:
+16F8D:
+16F8E:
+16F8F: Miao Sesi Sağ
+16F90: Miao Tone Üst Sağ
+16F91: Miao sesi yukarıda
+16F92: Miao Sesi Altında
+16F93: Miao Mektup Sesi-2
+16F94: Miao Mektup Sesi-3
+16F95: Miao Mektup Sesi-4
+16F96: Miao Mektup Sesi-5
+16F97: Miao Mektup Sesi-6
+16F98: Miao Mektup Sesi-7
+16F99: Miao Mektup Sesi-8
+16F9A: Miao Mektubu Reform Sesi-1
+16F9B: Miao Mektup Düzeltilmiş Tonu-2
+16F9C: Miao Mektup Düzeltilmiş Tonu-4
+16F9D: Miao Mektup Düzeltilmiş Tonu-5
+16F9E: Miao Mektup Yenilenmiş Ton-6
+16F9F: Miao Mektup Düzeltilmiş Ton-8
+16FA0:
+16FA1:
+16FA2:
+16FA3:
+16FA4:
+16FA5:
+16FA6:
+16FA7:
+16FA8:
+16FA9:
+16FAA:
+16FAB:
+16FAC:
+16FAD:
+16FAE:
+16FAF:
+16FB0:
+16FB1:
+16FB2:
+16FB3:
+16FB4:
+16FB5:
+16FB6:
+16FB7:
+16FB8:
+16FB9:
+16FBA:
+16FBB:
+16FBC:
+16FBD:
+16FBE:
+16FBF:
+16FC0:
+16FC1:
+16FC2:
+16FC3:
+16FC4:
+16FC5:
+16FC6:
+16FC7:
+16FC8:
+16FC9:
+16FCA:
+16FCB:
+16FCC:
+16FCD:
+16FCE:
+16FCF:
+16FD0:
+16FD1:
+16FD2:
+16FD3:
+16FD4:
+16FD5:
+16FD6:
+16FD7:
+16FD8:
+16FD9:
+16FDA:
+16FDB:
+16FDC:
+16FDD:
+16FDE:
+16FDF:
+16FE0: Tangut İterasyon İşareti
+16FE1: Nushu Yineleme İşareti
+16FE2:
+16FE3:
+16FE4:
+16FE5:
+16FE6:
+16FE7:
+16FE8:
+16FE9:
+16FEA:
+16FEB:
+16FEC:
+16FED:
+16FEE:
+16FEF:
+16FF0:
+16FF1:
+16FF2:
+16FF3:
+16FF4:
+16FF5:
+16FF6:
+16FF7:
+16FF8:
+16FF9:
+16FFA:
+16FFB:
+16FFC:
+16FFD:
+16FFE:
+16FFF:

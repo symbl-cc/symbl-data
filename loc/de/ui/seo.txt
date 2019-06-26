@@ -1,5 +1,4 @@
-meta-description: Alle Unicode-Zeichen auf einer Seite mit den Namen und Beschreibungen: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta-keywords: Unicode, Zeichen, Symbole, Zeichen, Unicode-Tabelle, Zeichensatz, Liste von Unicode-Zeichen, UTF-8, Facebook-Zeichen, Codierung, Herz-Symbol, Schrift, Sprache, Emoji, Hieroglyphen, Runen, Pfeilsymbole, Kyrillisch, Latein, Währungszeichen
+meta-description: Webservice für die Suche nach Unicode-Zeichen. Suchen, kopieren und fügen Sie beliebige Zeichen ein: 😎 Emoji, ❤ Herz, 💲 Währungen, → Pfeile und mehr 🚩
 symbol-description: Symbol: {{ symbol }}, der Zeichenname: {{ name }}, die Unicode-Nummer: {{ code }}, das Zeichen ist im Abschnitt enthalten: {{ block }}.
 symbol-title: {{ symbol }} - {{ name }} ({{ code }})
 

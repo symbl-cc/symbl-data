@@ -1,10 +1,10 @@
-FB00:
-FB01:
-FB02:
-FB03:
-FB04:
-FB05:
-FB06:
+FB00: Lateinische kleine Ligatur Ff
+FB01: Lateinische Kleinligatur Fi
+FB02: Lateinische kleine Ligatur Fl
+FB03: Lateinische kleine Ligatur Ffi
+FB04: Lateinische kleine Ligatur Ffl
+FB05: Lateinische kleine Ligatur lang ST
+FB06: Lateinische kleine Ligatur St
 FB07:
 FB08:
 FB09:
@@ -17,181 +17,181 @@ FB0F:
 FB10:
 FB11:
 FB12:
-FB13:
-FB14:
-FB15:
-FB16:
-FB17:
+FB13: Armenische Kleinligatur-Männer jetzt
+FB14: Armenische Kleinligatur Männer Ech
+FB15: Armenische Kleinligatur Men Ini
+FB16: Armenische kleine Ligatur Vew Now
+FB17: Armenische Kleinligatur Men Xeh
 FB18:
 FB19:
 FB1A:
 FB1B:
 FB1C:
-FB1D:
-FB1E:
-FB1F:
-FB20:
-FB21:
-FB22:
-FB23:
-FB24:
-FB25:
-FB26:
-FB27:
-FB28:
-FB29:
-FB2A:
-FB2B:
-FB2C:
-FB2D:
-FB2E:
-FB2F:
-FB30:
-FB31:
-FB32:
-FB33:
-FB34:
-FB35:
-FB36:
+FB1D: Hebräischer Buchstabe Yud mit Hiriq
+FB1E: Hebräischer Punkt Judeo-Spanisch Varika
+FB1F: Hebräische Ligatur Yidd Yod Yod Patah
+FB20: Hebräischer Brief Alternative Ayin
+FB21: Hebräischer Buchstabe weit Alef
+FB22: Hebräischer Brief breiter Dalet
+FB23: Hebräischer Brief weit er
+FB24: Hebräischer Buchstabe Wide Kaf
+FB25: Hebräischer Buchstabe weit gelähmt
+FB26: Hebräischer Buchstabe breiter Schluss Mem
+FB27: Hebräischer Brief Wide Resh
+FB28: Hebräischer Buchstabe breiter Tav
+FB29: Hebräischer Buchstabe Alternative Plus Sign
+FB2A: Hebräischer Buchstabe Shin mit Shin Dot
+FB2B: Hebräischer Buchstabe Shin mit Sin Dot
+FB2C: Hebräischer Buchstabe Shin mit Dagesh und Shin Dot
+FB2D: Hebräischer Buchstabe Shin mit Dagesh und Sin Dot
+FB2E: Hebräischer Brief Alef mit Patah
+FB2F: Hebräischer Brief Alef mit Qamats
+FB30: Hebräischer Brief Alef mit Mapiq
+FB31: Hebräischer Brief Bet mit Dagesh
+FB32: Hebräischer Brief Gimel mit Dagesh
+FB33: Hebräischer Brief Dalet mit Dagesh
+FB34: Hebräischer Brief He mit Mapiq
+FB35: Hebräischer Buchstabe Vav mit Dagesh
+FB36: Hebräischer Brief Zayin mit Dagesh
 FB37:
-FB38:
-FB39:
-FB3A:
-FB3B:
-FB3C:
+FB38: Hebräischer Buchstabe Tet mit Dagesh
+FB39: Hebräischer Buchstabe Yod mit Dagesh
+FB3A: Hebräischer Brief Final Kaf with Dagesh
+FB3B: Hebräischer Brief Kaf mit Dagesh
+FB3C: Hebräischer Brief mit Dagesh gelähmt
 FB3D:
-FB3E:
+FB3E: Hebräischer Brief Mem mit Dagesh
 FB3F:
-FB40:
-FB41:
+FB40: Hebräischer Brief Nonne mit Dagesh
+FB41: Hebräischer Brief Samekh mit Dagesh
 FB42:
-FB43:
-FB44:
+FB43: Hebräischer Brief Final Pe mit Dagesh
+FB44: Hebräischer Buchstabe Pe mit Dagesh
 FB45:
-FB46:
-FB47:
-FB48:
-FB49:
-FB4A:
-FB4B:
-FB4C:
-FB4D:
-FB4E:
-FB4F:
-FB50:
-FB51:
-FB52:
-FB53:
-FB54:
-FB55:
-FB56:
-FB57:
-FB58:
-FB59:
-FB5A:
-FB5B:
-FB5C:
-FB5D:
-FB5E:
-FB5F:
-FB60:
-FB61:
-FB62:
-FB63:
-FB64:
-FB65:
-FB66:
-FB67:
-FB68:
-FB69:
-FB6A:
-FB6B:
-FB6C:
-FB6D:
-FB6E:
-FB6F:
-FB70:
-FB71:
-FB72:
-FB73:
-FB74:
-FB75:
-FB76:
-FB77:
-FB78:
-FB79:
-FB7A:
-FB7B:
-FB7C:
-FB7D:
-FB7E:
-FB7F:
-FB80:
-FB81:
-FB82:
-FB83:
-FB84:
-FB85:
-FB86:
-FB87:
-FB88:
-FB89:
-FB8A:
-FB8B:
-FB8C:
-FB8D:
-FB8E:
-FB8F:
-FB90:
-FB91:
-FB92:
-FB93:
-FB94:
-FB95:
-FB96:
-FB97:
-FB98:
-FB99:
-FB9A:
-FB9B:
-FB9C:
-FB9D:
-FB9E:
-FB9F:
-FBA0:
-FBA1:
-FBA2:
-FBA3:
-FBA4:
-FBA5:
-FBA6:
-FBA7:
-FBA8:
-FBA9:
-FBAA:
-FBAB:
-FBAC:
-FBAD:
-FBAE:
-FBAF:
-FBB0:
-FBB1:
-FBB2:
-FBB3:
-FBB4:
-FBB5:
-FBB6:
-FBB7:
-FBB8:
-FBB9:
-FBBA:
-FBBB:
-FBBC:
-FBBD:
-FBBE:
-FBBF:
-FBC0:
-FBC1:
+FB46: Hebräischer Brief Tsadi mit Dagesh
+FB47: Hebräischer Brief Qof mit Dagesh
+FB48: Hebräischer Brief Resh mit Dagesh
+FB49: Hebräischer Buchstabe Shin mit Dagesh
+FB4A: Hebräischer Buchstabe Tav mit Dagesh
+FB4B: Hebräischer Brief Waw mit Holam
+FB4C: Hebrew Letter Bet mit Rafe
+FB4D: Hebräischer Buchstabe Kaf mit Rafe
+FB4E: Hebräischer Buchstabe Pe mit Rafe
+FB4F: Hebräische Ligatur Alef Lamed
+FB50: Arabischer Buchstabe Alef Wasla lokalisiertes Formular
+FB51: Arabischer Buchstabe Alef Wasla Endgültige Form
+FB52: Arabisches Zeichen Beeh getrenntes Formular
+FB53: Arabischer Buchstabe Beeh Endform
+FB54: Anfangsbuchstabe des arabischen Buchstaben Beeh
+FB55: Arabische Buchstabe Beeh Mediale Form
+FB56: Arabischer Buchstabe Peh getrenntes Formular
+FB57: Arabischer Buchstabe Peh Final Form
+FB58: Arabischer Buchstabe Peh Ausgangsform
+FB59: Arabischer Buchstabe Peh Mediale Form
+FB5A: Arabischer Buchstabe Beheh getrenntes Formular
+FB5B: Arabischer Buchstabe Beheh Final Form
+FB5C: Arabischer Buchstabe Beheh-Anfangsformular
+FB5D: Arabischer Buchstabe Beheh Medial Form
+FB5E: Arabischer Buchstabe Tteheh getrenntes Formular
+FB5F: Arabischer Buchstabe Tteheh Final Form
+FB60: Ursprüngliches Formular des arabischen Buchstaben Tteheh
+FB61: Arabischer Buchstabe Tteheh Mediale Form
+FB62: Arabisches Zeichen Teheh getrenntes Formular
+FB63: Arabischer Buchstabe Teheh Endform
+FB64: Arabischer Buchstabe Teheh-Anfangsformular
+FB65: Arabischer Buchstabe Teheh Medial Form
+FB66: Arabisches Zeichen Tteh getrenntes Formular
+FB67: Arabischer Buchstabe Tteh Endform
+FB68: Anfangsbuchstabe des arabischen Buchstaben Tteh
+FB69: Arabische Buchstabe Tteh Mediale Form
+FB6A: Arabischer Buchstabe Veh lokalisiertes Formular
+FB6B: Arabischer Buchstabe Veh Final Form
+FB6C: Arabischer Buchstabe Veh Ausgangsform
+FB6D: Arabischer Buchstabe Veh Medial Form
+FB6E: Arabischer Buchstabe Peheh getrenntes Formular
+FB6F: Arabischer Buchstabe Peheh Final Form
+FB70: Arabischer Buchstabe Peheh-Anfangsformular
+FB71: Arabischer Buchstabe Peheh Medial Form
+FB72: Arabischer Buchstabe Dyeh getrenntes Formular
+FB73: Arabischer Buchstabe Dyeh Endform
+FB74: Arabischer Buchstabe Dyeh Ausgangsform
+FB75: Arabischer Buchstabe Dyeh Mediale Form
+FB76: Arabischer Buchstabe Nyeh getrenntes Formular
+FB77: Arabischer Buchstabe Nyeh Endform
+FB78: Arabischer Buchstabe Nyeh Ausgangsform
+FB79: Arabischer Buchstabe Nyeh Mediale Form
+FB7A: Arabisches Zeichen Tcheh getrenntes Formular
+FB7B: Arabischer Buchstabe Tcheh Endform
+FB7C: Arabischer Buchstabe Tcheh Ausgangsform
+FB7D: Arabischer Buchstabe Tcheh Mediale Form
+FB7E: Arabischer Buchstabe Tcheheh getrenntes Formular
+FB7F: Arabischer Buchstabe Tcheheh Endform
+FB80: Arabischer Buchstabe Tcheheh Ausgangsform
+FB81: Arabischer Buchstabe Tcheheh Medial Form
+FB82: Arabischer Buchstabe Ddahal getrenntes Formular
+FB83: Arabischer Buchstabe Ddahal Final Form
+FB84: Arabischer Buchstabe Dahal lokalisiertes Formular
+FB85: Arabischer Buchstabe Dahal Final Form
+FB86: Arabischer Buchstabe Dul getrenntes Formular
+FB87: Arabischer Buchstabe Dul Abschlussformular
+FB88: Arabischer Buchstabe Ddal getrenntes Formular
+FB89: Arabischer Buchstabe Ddal Abschlussformular
+FB8A: Arabischer Buchstabe Jeh getrenntes Formular
+FB8B: Arabischer Buchstabe Jeh Final Form
+FB8C: Arabisches Zeichen Rreh isoliertes Formular
+FB8D: Arabischer Buchstabe Rreh Endform
+FB8E: Arabischer Buchstabe Keheh getrenntes Formular
+FB8F: Arabischer Buchstabe Keheh Endform
+FB90: Arabischer Buchstabe Keheh-Anfangsformular
+FB91: Arabischer Buchstabe Keheh Medial Form
+FB92: Arabischer Buchstabe Gaf lokalisiertes Formular
+FB93: Arabischer Buchstabe Gaf Final Form
+FB94: Arabischer Buchstabe Gaf-Anfangsformular
+FB95: Arabischer Buchstabe Gaf Mediale Form
+FB96: Arabischer Buchstabe Gueh getrenntes Formular
+FB97: Arabischer Buchstabe Gueh Endform
+FB98: Arabischer Buchstabe Gueh Ausgangsform
+FB99: Arabische Buchstaben Gueh Mediale Form
+FB9A: Arabisches Zeichen Ngoeh getrenntes Formular
+FB9B: Arabischer Buchstabe Ngoeh Final Form
+FB9C: Arabischer Buchstabe Ngoeh Ausgangsform
+FB9D: Arabischer Buchstabe Ngoeh Mediale Form
+FB9E: Arabisches Zeichen Noon Ghunna lokalisiertes Formular
+FB9F: Arabischer Brief Noon Ghunna Final Form
+FBA0: Arabisches Zeichen Rnoon getrenntes Formular
+FBA1: Arabischer Buchstabe Rnoon Final Form
+FBA2: Anfangsbuchstabe für arabische Buchstaben
+FBA3: Arabische Buchstabe Rnoon Medial Form
+FBA4: Arabischer Buchstabe Heh mit Yeh oben getrennter Form
+FBA5: Arabischer Buchstabe Heh mit Yeh über der endgültigen Form
+FBA6: Arabisches Zeichen heh Ziel lokalisiertes Formular
+FBA7: Arabischer Buchstabe Heh Ziel Final Form
+FBA8: Arabischer Buchstabe Heh Ziel Ausgangsform
+FBA9: Arabischer Buchstabe Heh Goal Medial Form
+FBAA: Arabisches Zeichen heh Doachashmee lokalisierte Form
+FBAB: Arabischer Buchstabe Heh Doachashmee Final Form
+FBAC: Arabischer Buchstabe Heh Doachashmee Ausgangsform
+FBAD: Arabischer Buchstabe Heh Doachashmee Mediale Form
+FBAE: Arabisches Zeichen Yeh Barree lokalisierte Form
+FBAF: Arabischer Buchstabe Yeh Barree Final Form
+FBB0: Arabischer Buchstabe Yeh Barree mit Hamza über isolierter Form
+FBB1: Arabischer Buchstabe Yeh Barree mit Hamza über der endgültigen Form
+FBB2: Arabischer Symbolpunkt oben
+FBB3: Arabischer Symbolpunkt unten
+FBB4: Arabisches Symbol zwei Punkte oben
+FBB5: Arabisches Symbol Zwei Punkte unten
+FBB6: Arabisches Symbol drei Punkte oben
+FBB7: Arabisches Symbol drei Punkte unten
+FBB8: Arabisches Symbol Drei Punkte, die oben nach unten zeigen
+FBB9: Arabisches Symbol Drei Punkte, die unten nach unten zeigen
+FBBA: Arabisches Symbol vier Punkte oben
+FBBB: Arabisches Symbol vier Punkte unten
+FBBC: Doppelter vertikaler Balken unten
+FBBD: Arabisches Symbol Zwei Punkte senkrecht darüber
+FBBE: Arabisches Symbol Zwei Punkte senkrecht darunter
+FBBF: Arabischer Symbolring
+FBC0: Arabisches Symbol kleines Tah oben
+FBC1: Arabisches Symbol kleines Tah unten
 FBC2:
 FBC3:
 FBC4:
@@ -209,48 +209,48 @@ FBCF:
 FBD0:
 FBD1:
 FBD2:
-FBD3:
-FBD4:
-FBD5:
-FBD6:
-FBD7:
-FBD8:
-FBD9:
-FBDA:
-FBDB:
-FBDC:
-FBDD:
-FBDE:
-FBDF:
-FBE0:
-FBE1:
-FBE2:
-FBE3:
-FBE4:
-FBE5:
-FBE6:
-FBE7:
-FBE8:
-FBE9:
-FBEA:
-FBEB:
-FBEC:
-FBED:
-FBEE:
-FBEF:
-FBF0:
-FBF1:
-FBF2:
-FBF3:
-FBF4:
-FBF5:
-FBF6:
-FBF7:
-FBF8:
-FBF9:
-FBFA:
-FBFB:
-FBFC:
-FBFD:
-FBFE:
-FBFF:
+FBD3: Arabisches Zeichen Ng getrenntes Formular
+FBD4: Arabische Buchstabe Ng Endform
+FBD5: Anfangsbuchstabe für arabische Buchstaben
+FBD6: Arabische Buchstabe Ng Mediale Form
+FBD7: Arabisches Zeichen U getrenntes Formular
+FBD8: Arabischer Buchstabe U Endgültige Form
+FBD9: Arabischer Buchstabe Oe getrenntes Formular
+FBDA: Arabischer Buchstabe Oe Final Form
+FBDB: Arabischer Buchstabe Yu getrenntes Formular
+FBDC: Arabischer Buchstabe Yu Endgültige Form
+FBDD: Arabischer Buchstabe U mit Hamza über getrennter Form
+FBDE: Arabischer Buchstabe Ve getrenntes Formular
+FBDF: Arabischer Buchstabe Ve Final Form
+FBE0: Arabischer Buchstabe Kirghiz Oe lokalisierte Form
+FBE1: Arabischer Buchstabe Kirgisisch Oe Final Form
+FBE2: Arabischer Buchstabe Kirghiz Yu lokalisiertes Formular
+FBE3: Arabischer Buchstabe Kirgisisch Yu Abschlussformular
+FBE4: Arabischer Buchstabe E lokalisiertes Formular
+FBE5: Arabischer Buchstabe E Endform
+FBE6: Arabischer Buchstabe E Anfangsform
+FBE7: Arabische Buchstabe E Mediale Form
+FBE8: Arabischer Buchstabe Uighur Kasachisch Kirgisistan Alef Maksura Anfangsform
+FBE9: Arabischer Buchstabe Uighur Kasachischer Kirgisier Alef Maksura Mediale Form
+FBEA: Arabische Ligatur Yeh mit Hamza oben mit Alef-isolierter Form
+FBEB: Arabische Ligatur Yeh mit Hamza oben mit Alef Final Form
+FBEC: Arabische Ligatur Yeh mit Hamza oben mit Ae-isolierter Form
+FBED: Arabische Ligatur Yeh mit Hamza oben mit Ae Final Form
+FBEE: Arabische Ligatur Yeh mit Hamza oben mit Waw Isolated Form
+FBEF: Arabische Ligatur Yeh mit Hamza oben mit Waw Final Form
+FBF0: Arabische Ligatur Yeh mit Hamza oben mit U-isolierter Form
+FBF1: Arabische Ligatur Yeh mit Hamza oben mit U-Endform
+FBF2: Arabische Ligatur Yeh mit Hamza oben mit getrennter Oe-Form
+FBF3: Arabische Ligatur Yeh mit Hamza oben mit Oe-Schlussform
+FBF4: Arabische Ligatur Yeh mit Hamza oben mit isolierter Form von Yu
+FBF5: Arabische Ligatur Yeh mit Hamza oben mit Yu-Schlussform
+FBF6: Arabische Ligatur Yeh mit Hamza oben mit E-isolierter Form
+FBF7: Arabische Ligatur Yeh mit Hamza oben mit E-Endform
+FBF8: Arabische Ligatur Yeh mit Hamza oben mit E-Anfangsform
+FBF9: Uigurisch Kirgisisch Yeh mit Hamza oben mit Alef Maksura isoliert Form
+FBFA: Arabische Ligatur Uigur Kirgisisch Yeh mit Hamza oben mit Alef Maksura Final Form
+FBFB: Arabische Ligatur Uigur Kirgisisch Yeh mit Hamza oben mit Alef Maksura Ausgangsform
+FBFC: Arabischer Buchstabe Farsi Yeh Isolierte Form
+FBFD: Arabischer Buchstabe Farsi Yeh Endform
+FBFE: Arabischer Buchstabe Farsi Yeh Ausgangsform
+FBFF: Arabischer Buchstabe Farsi Yeh Mediale Form

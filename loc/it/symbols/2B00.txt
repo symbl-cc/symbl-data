@@ -1,0 +1,256 @@
+2B00: Freccia bianca nord-orientale
+2B01: Freccia bianca del Nord Ovest
+2B02: Freccia bianca sud-orientale
+2B03: Freccia bianca sud occidentale
+2B04: Freccia bianca sinistra destra
+2B05: Freccia nera verso sinistra
+2B06: Freccia nera verso l'alto
+2B07: Freccia nera verso il basso
+2B08: Freccia nera nord orientale
+2B09: Freccia nera del Nord Ovest
+2B0A: South East Black Arrow
+2B0B: Freccia nera sud occidentale
+2B0C: Freccia nera sinistra destra
+2B0D: Freccia nera in su
+2B0E: Freccia verso destra con punta verso il basso
+2B0F: Freccia verso destra con la punta verso l'alto
+2B10: Freccia a sinistra con punta verso il basso
+2B11: Freccia verso sinistra con punta verso l'alto
+2B12: Quadrato con Top Half Black
+2B13: Quadrato con fondo nero mezzo
+2B14: Quadrato con mezza diagonale superiore destra nera
+2B15: Quadrato con semitono diagonale inferiore sinistro
+2B16: Diamante con mezzo nero a sinistra
+2B17: Diamante con mezzo mezzo nero
+2B18: Diamante con Top Half Black
+2B19: Diamante con fondo mezzo nero
+2B1A: Piazza punteggiata
+2B1B: Grande quadrato nero
+2B1C: Grande quadrato bianco
+2B1D: Quadrato nero molto piccolo
+2B1E: Quadrato bianco molto piccolo
+2B1F: Pentagono nero
+2B20: Pentagono bianco
+2B21: Esagono bianco
+2B22: Esagono nero
+2B23: Esagono nero orizzontale
+2B24: Grande cerchio nero
+2B25: Diamante medio nero
+2B26: Diamante medio bianco
+2B27: Black Medium Losanga
+2B28: Losanga medio bianco
+2B29: Piccolo diamante nero
+2B2A: Piccola losanga nera
+2B2B: Piccola losanga bianca
+2B2C: Ellisse orizzontale nera
+2B2D: Ellisse orizzontale bianca
+2B2E: Ellisse verticale nera
+2B2F: Ellisse verticale bianca
+2B30: Freccia sinistra con piccolo cerchio
+2B31: Tre frecce a sinistra
+2B32: Freccia sinistra con Cerchiata Plus
+2B33: Freccia ondulata lunga sinistra
+2B34: Freccia a due punte a sinistra con tratto verticale
+2B35: Freccia a due punte a sinistra con doppio tratto verticale
+2B36: Freccia a due punte a sinistra da barra
+2B37: Freccia a triplo tratteggio a sinistra a due punte
+2B38: Freccia a sinistra con stelo tratteggiato
+2B39: Freccia sinistra con coda con tratto verticale
+2B3A: Freccia sinistra con coda con doppio tratto verticale
+2B3B: Freccia a due punte a sinistra con coda
+2B3C: Freccia a due punte a sinistra con coda con tratto verticale
+2B3D: Freccia a due punte a sinistra con coda con doppio tratto verticale
+2B3E: Freccia verso sinistra attraverso X
+2B3F: Wave Arrow che punta direttamente a sinistra
+2B40: Segno uguale sopra freccia sinistra
+2B41: Operatore Tilde inverso sopra la freccia sinistra
+2B42: Freccia sinistra verso sinistra al contrario quasi uguale a
+2B43: Freccia verso destra per maggiore di
+2B44: Freccia verso destra attraverso il Superset
+2B45: Freccia quadrupla a sinistra
+2B46: Freccia quadrupla rivolta verso destra
+2B47: Reverse Tilde Operator above Rightwards Arrow
+2B48: Freccia verso destra sopra il retromarcia quasi uguale a
+2B49: Operatore Tilde sopra freccia sinistra
+2B4A: Freccia sinistra verso sinistra quasi uguale a
+2B4B: Freccia a sinistra sopra l'operatore Tilde inverso
+2B4C: Freccia verso destra sopra l'operatore Tilde inverso
+2B4D: Freccia a zig-zag a testa triangolare verso il basso
+2B4E: Freccia Nord inclinata corta
+2B4F: Freccia Sud rivolta verso il basso corta
+2B50: Stella media bianca : Stella gialla
+2B51: Stella piccola nera
+2B52: Piccola stella bianca
+2B53: Pentagono nero a destra
+2B54: Pentagono bianco a destra
+2B55: Grande cerchio pesante : Simbolo di base per il limite di velocità, corretto, cerchio rosso, segno del cerchio
+2B56: Ovale pesante con interno ovale : ufficio prefettizio
+2B57: Heavy Circle con Circle Inside : ufficio comunale
+2B58: Heavy Circle : ufficio della città o del villaggio
+2B59: Heavy Circle Saltire : stazione di polizia
+2B5A: Freccia Nord inclinata con testa uncinata
+2B5B: Freccia Sud rovesciata con coda uncinata
+2B5C: Freccia Nord inclinata con coda orizzontale
+2B5D: Freccia Sud rovesciata con coda orizzontale
+2B5E: Freccia curva che punta verso il basso, quindi verso nord-est
+2B5F: Breve freccia piegata che punta verso il basso, quindi verso nord-est
+2B60: Freccia a testa triangolare sinistra
+2B61: Freccia verso l'alto a triangolo
+2B62: Freccia a testa triangolare rivolta verso destra
+2B63: Freccia a testa triangolare verso il basso
+2B64: Freccia a freccia triangolare sinistra destra
+2B65: Freccia verso il basso a triangolo
+2B66: Freccia con testa a triangolo nord-occidentale
+2B67: Freccia con testa a triangolo nord-orientale
+2B68: Arrow-Headed Arrow South East
+2B69: Arrow-Headed Arrow South West
+2B6A: Freccia tratteggiata a testa triangolare sinistra
+2B6B: Freccia tratteggiata verso l'alto a triangolo
+2B6C: Freccia tratteggiata rivolta verso destra
+2B6D: Freccia tratteggiata verso il basso a forma di triangolo
+2B6E: Freccia a cerchio aperto a forma di triangolo
+2B6F: Freccia a cerchio aperto con la testa triangolare in senso antiorario
+2B70: Freccia verso sinistra con freccia a triangolo : scheda sinistra
+2B71: Freccia verso l'alto rivolta verso l'alto : su scheda
+2B72: Freccia a barra rivolta verso destra : scheda destra
+2B73: Freccia verso il basso con la freccia rivolta verso il basso : giù la scheda
+2B74:
+2B75:
+2B76: Arrow-Bar da puntare a triangolo nord-occidentale : casa
+2B77: Freccia a triangolo con testa a triangolo nord-orientale
+2B78: Freccia a triangolo rivolta a sud-est del triangolo : fine
+2B79: Freccia a triangolo rivolta a sud-ovest
+2B7A: Freccia a testa triangolare verso sinistra con doppio tratto orizzontale
+2B7B: Freccia a testa triangolare verso l'alto con doppio tratto orizzontale : pagina su
+2B7C: Freccia a testa triangolare rivolta verso destra con doppio tratto orizzontale
+2B7D: Freccia a testa triangolare verso il basso con doppio tratto orizzontale : pagina giù
+2B7E: Tasto Tab orizzontale
+2B7F: Tasto Tab verticale
+2B80: Freccia con la testa triangolare rivolta verso sinistra
+2B81: Freccia rivolta verso l'alto Triangolo-testa verso sinistra Freccia verso il basso verso il basso
+2B82: Freccia con la testa a triangolo rivolta verso sinistra a triangolo a destra
+2B83: Freccia a testa triangolare rivolta verso il basso a sinistra della freccia verso l'alto a triangolo
+2B84: Frecce abbinate a freccia triangolare sinistra
+2B85: Frecce abbinate a testa triangolare verso l'alto
+2B86: Frecce accoppiate a testa triangolare destra
+2B87: Frecce abbinate a freccia triangolare verso il basso
+2B88: Freccia bianca cerchiata nera verso sinistra
+2B89: Freccia bianca cerchiata verso l'alto nera
+2B8A: Freccia bianca nera cerchiata verso destra
+2B8B: Freccia bianca nera arrotondata verso il basso
+2B8C: Freccia a forma di U con la freccia a forma di triangolo in senso antiorario
+2B8D: Freccia a forma di U con fondo a freccia triangolare in senso antiorario
+2B8E: Freccia a forma di U sinistra a triangolo a testa in senso antiorario
+2B8F: Freccia a forma di U a forma di triangolo rivolta in senso antiorario
+2B90: Ritorno a sinistra
+2B91: Ritorno a destra
+2B92: Newline Left
+2B93: Newline Right
+2B94: Quattro frecce d'angolo che circondano in senso antiorario : ciclo continuo
+2B95: Freccia nera verso destra
+2B96:
+2B97:
+2B98: Arrowhead equilatero sinistro a tre punte
+2B99: Arrowhead equilatero in alto a destra tridimensionale
+2B9A: Freccia a testa tridimensionale con testa a croce tridimensionale
+2B9B: Arrowhead equilatero verso il basso a tre punte D sinistro
+2B9C: Arrowhead Equilateral nero di sinistra
+2B9D: Arrowhead nero verso l'alto equilatero
+2B9E: Arrowhead Equilateral nero verso destra
+2B9F: Arrowhead Equilateral nero verso il basso
+2BA0: Freccia rivolta verso il basso a triangolo con punta lunga verso sinistra
+2BA1: Freccia rivolta verso il basso a triangolo con punta lunga rivolta verso destra
+2BA2: Freccia rivolta verso l'alto a triangolo con punta lunga verso sinistra
+2BA3: Freccia rivolta verso l'alto a triangolo con punta lunga rivolta verso destra
+2BA4: Freccia a testa triangolare verso sinistra con punta lunga verso l'alto
+2BA5: Freccia a punta triangolare rivolta verso destra con punta lunga verso l'alto
+2BA6: Freccia a testa triangolare verso sinistra con punta lunga rivolta verso il basso
+2BA7: Freccia triangolare rivolta verso destra con punta lunga verso il basso
+2BA8: Freccia nera rivolta verso il basso e sinistra
+2BA9: Freccia curva nera verso il basso e verso destra
+2BAA: Freccia curva verso l'alto e verso sinistra nera
+2BAB: Freccia curva verso l'alto e verso destra nera
+2BAC: Freccia curvata verso sinistra e verso l'alto nera
+2BAD: Freccia nera rivolta verso destra e verso l'alto
+2BAE: Freccia curvata verso sinistra e verso il basso nera
+2BAF: Freccia curvata verso destra e verso il basso nera
+2BB0: Ribbon Arrow Down Left
+2BB1: Ribbon Arrow Down Right
+2BB2: Ribbon Arrow Up Left
+2BB3: Ribbon Arrow Up Right
+2BB4: Ribbon Arrow Left Up
+2BB5: Ribbon Arrow Right Up
+2BB6: Ribbon Arrow Left Down
+2BB7: Ribbon Arrow Right Down
+2BB8: Freccia bianca verso l'alto dalla barra con barra orizzontale : blocco maiuscole
+2BB9: Freccia in alto in una scatola rettangolare : fuga
+2BBA: Quadrati bianchi sovrapposti
+2BBB: Sovrapposizione di quadrati bianchi e neri
+2BBC: Quadrati neri sovrapposti
+2BBD: Urne con luce X
+2BBE: Cerchiato X
+2BBF: Circled Bold X
+2BC0: Quadrato nero centrato
+2BC1: Black Diamond centrato
+2BC2: Turned Black Pentagon
+2BC3: Ottagono nero orizzontale
+2BC4: Ottagono nero
+2BC5: Triangolo up-pointing medio nero centrato
+2BC6: Triangolo verso il basso a forma di triangolo nero centrato
+2BC7: Triangolo a sinistra medio nero centrato
+2BC8: Triangolo a destra a forma di triangolo nero centrato
+2BC9:
+2BCA: Cerchio nero mezzo superiore
+2BCB: Mezzo cerchio nero inferiore
+2BCC: Cuspide nera a quattro punte leggera
+2BCD: Cuspide nera a quattro punte ruotata
+2BCE: Cuspide a quattro punte bianca
+2BCF: Cuspide a quattro punte bianca ruotata
+2BD0: Indicatore di posizione quadrata
+2BD1: Segno di incertezza : domanda
+2BD2: Segno di gruppo
+2BD3: Plutone Forma due
+2BD4: Plutone Forma Tre
+2BD5: Plutone Form Four
+2BD6: Plutone Forma Cinque
+2BD7: Transpluto
+2BD8: Proserpina
+2BD9: Astrea
+2BDA: Hygiea
+2BDB: Folo
+2BDC: Nessus
+2BDD: White Moon Selena
+2BDE: Black Diamond on Cross
+2BDF: True Light Moon Arta
+2BE0: cupido
+2BE1: Ade
+2BE2: Zeus
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: Poseidon
+2BE8: Sinistra Mezza stella nera
+2BE9: Right Half black Star
+2BEA: Star con Left Half Black
+2BEB: Stella con giusto mezzo nero
+2BEC: Freccia a due punte a sinistra con punte di freccia tringle : cursore veloce a sinistra
+2BED: Freccia a due punte verso l'alto con punte di freccia tringle : cursore veloce verso l'alto
+2BEE: Freccia a due punte rivolta verso destra con punte di freccia tringle : cursore veloce a destra
+2BEF: Freccia a due punte verso il basso con punte di freccia tringle : cursore veloce verso il basso
+2BF0: Eris Form One
+2BF1: Eris Form Two
+2BF2: Sedna
+2BF3: Simbolo astrologico russo Vigintile
+2BF4: Simbolo astrologico russo Novile
+2BF5: Simbolo astrologico russo Quintile
+2BF6: Simbolo astrologico russo Binovile
+2BF7: Sentagrana del simbolo astrologico russo
+2BF8: Simbolo astrologico russo Tredecile
+2BF9: Segno di uguale con l'infinito sotto
+2BFA: Simbolo Unito
+2BFB: Simbolo separato
+2BFC: Simbolo raddoppiato
+2BFD: Simbolo passato
+2BFE: Angolo retto invertito
+2BFF:

@@ -1,256 +1,256 @@
-C700: Hangul syllable wek
-C701: Hangul syllable wet
-C702: Hangul syllable wep
-C703: Hangul syllable weh
-C704: Hangul syllable wi
-C705: Hangul syllable wig
-C706: Hangul syllable wigg
-C707: Hangul syllable wigs
-C708: Hangul syllable win
-C709: Hangul syllable winj
-C70A: Hangul syllable winh
-C70B: Hangul syllable wid
-C70C: Hangul syllable wil
-C70D: Hangul syllable wilg
-C70E: Hangul syllable wilm
-C70F: Hangul syllable wilb
-C710: Hangul syllable wils
-C711: Hangul syllable wilt
-C712: Hangul syllable wilp
-C713: Hangul syllable wilh
-C714: Hangul syllable wim
-C715: Hangul syllable wib
-C716: Hangul syllable wibs
-C717: Hangul syllable wis
-C718: Hangul syllable wiss
-C719: Hangul syllable wing
-C71A: Hangul syllable wij
-C71B: Hangul syllable wic
-C71C: Hangul syllable wik
-C71D: Hangul syllable wit
-C71E: Hangul syllable wip
-C71F: Hangul syllable wih
-C720: Hangul syllable yu
-C721: Hangul syllable yug
-C722: Hangul syllable yugg
-C723: Hangul syllable yugs
-C724: Hangul syllable yun
-C725: Hangul syllable yunj
-C726: Hangul syllable yunh
-C727: Hangul syllable yud
-C728: Hangul syllable yul
-C729: Hangul syllable yulg
-C72A: Hangul syllable yulm
-C72B: Hangul syllable yulb
-C72C: Hangul syllable yuls
-C72D: Hangul syllable yult
-C72E: Hangul syllable yulp
-C72F: Hangul syllable yulh
-C730: Hangul syllable yum
-C731: Hangul syllable yub
-C732: Hangul syllable yubs
-C733: Hangul syllable yus
-C734: Hangul syllable yuss
-C735: Hangul syllable yung
-C736: Hangul syllable yuj
-C737: Hangul syllable yuc
-C738: Hangul syllable yuk
-C739: Hangul syllable yut
-C73A: Hangul syllable yup
-C73B: Hangul syllable yuh
-C73C: Hangul syllable eu
-C73D: Hangul syllable eug
-C73E: Hangul syllable eugg
-C73F: Hangul syllable eugs
-C740: Hangul syllable eun
-C741: Hangul syllable eunj
-C742: Hangul syllable eunh
-C743: Hangul syllable eud
-C744: Hangul syllable eul
-C745: Hangul syllable eulg
-C746: Hangul syllable eulm
-C747: Hangul syllable eulb
-C748: Hangul syllable euls
-C749: Hangul syllable eult
-C74A: Hangul syllable eulp
-C74B: Hangul syllable eulh
-C74C: Hangul syllable eum
-C74D: Hangul syllable eub
-C74E: Hangul syllable eubs
-C74F: Hangul syllable eus
-C750: Hangul syllable euss
-C751: Hangul syllable eung
-C752: Hangul syllable euj
-C753: Hangul syllable euc
-C754: Hangul syllable euk
-C755: Hangul syllable eut
-C756: Hangul syllable eup
-C757: Hangul syllable euh
-C758: Hangul syllable yi
-C759: Hangul syllable yig
-C75A: Hangul syllable yigg
-C75B: Hangul syllable yigs
-C75C: Hangul syllable yin
-C75D: Hangul syllable yinj
-C75E: Hangul syllable yinh
-C75F: Hangul syllable yid
-C760: Hangul syllable yil
-C761: Hangul syllable yilg
-C762: Hangul syllable yilm
-C763: Hangul syllable yilb
-C764: Hangul syllable yils
-C765: Hangul syllable yilt
-C766: Hangul syllable yilp
-C767: Hangul syllable yilh
-C768: Hangul syllable yim
-C769: Hangul syllable yib
-C76A: Hangul syllable yibs
-C76B: Hangul syllable yis
-C76C: Hangul syllable yiss
-C76D: Hangul syllable ying
-C76E: Hangul syllable yij
-C76F: Hangul syllable yic
-C770: Hangul syllable yik
-C771: Hangul syllable yit
-C772: Hangul syllable yip
-C773: Hangul syllable yih
-C774: Hangul syllable i
-C775: Hangul syllable ig
-C776: Hangul syllable igg
-C777: Hangul syllable igs
-C778: Hangul syllable in
-C779: Hangul syllable inj
-C77A: Hangul syllable inh
-C77B: Hangul syllable id
-C77C: Hangul syllable il
-C77D: Hangul syllable ilg
-C77E: Hangul syllable ilm
-C77F: Hangul syllable ilb
-C780: Hangul syllable ils
-C781: Hangul syllable ilt
-C782: Hangul syllable ilp
-C783: Hangul syllable ilh
-C784: Hangul syllable im
-C785: Hangul syllable ib
-C786: Hangul syllable ibs
-C787: Hangul syllable is
-C788: Hangul syllable iss
-C789: Hangul syllable ing
-C78A: Hangul syllable ij
-C78B: Hangul syllable ic
-C78C: Hangul syllable ik
-C78D: Hangul syllable it
-C78E: Hangul syllable ip
-C78F: Hangul syllable ih
-C790: Hangul syllable ja
-C791: Hangul syllable jag
-C792: Hangul syllable jagg
-C793: Hangul syllable jags
-C794: Hangul syllable jan
-C795: Hangul syllable janj
-C796: Hangul syllable janh
-C797: Hangul syllable jad
-C798: Hangul syllable jal
-C799: Hangul syllable jalg
-C79A: Hangul syllable jalm
-C79B: Hangul syllable jalb
-C79C: Hangul syllable jals
-C79D: Hangul syllable jalt
-C79E: Hangul syllable jalp
-C79F: Hangul syllable jalh
-C7A0: Hangul syllable jam
-C7A1: Hangul syllable jab
-C7A2: Hangul syllable jabs
-C7A3: Hangul syllable jas
-C7A4: Hangul syllable jass
-C7A5: Hangul syllable jang
-C7A6: Hangul syllable jaj
-C7A7: Hangul syllable jac
-C7A8: Hangul syllable jak
-C7A9: Hangul syllable jat
-C7AA: Hangul syllable jap
-C7AB: Hangul syllable jah
-C7AC: Hangul syllable jae
-C7AD: Hangul syllable jaeg
-C7AE: Hangul syllable jaegg
-C7AF: Hangul syllable jaegs
-C7B0: Hangul syllable jaen
-C7B1: Hangul syllable jaenj
-C7B2: Hangul syllable jaenh
-C7B3: Hangul syllable jaed
-C7B4: Hangul syllable jael
-C7B5: Hangul syllable jaelg
-C7B6: Hangul syllable jaelm
-C7B7: Hangul syllable jaelb
-C7B8: Hangul syllable jaels
-C7B9: Hangul syllable jaelt
-C7BA: Hangul syllable jaelp
-C7BB: Hangul syllable jaelh
-C7BC: Hangul syllable jaem
-C7BD: Hangul syllable jaeb
-C7BE: Hangul syllable jaebs
-C7BF: Hangul syllable jaes
-C7C0: Hangul syllable jaess
-C7C1: Hangul syllable jaeng
-C7C2: Hangul syllable jaej
-C7C3: Hangul syllable jaec
-C7C4: Hangul syllable jaek
-C7C5: Hangul syllable jaet
-C7C6: Hangul syllable jaep
-C7C7: Hangul syllable jaeh
-C7C8: Hangul syllable jya
-C7C9: Hangul syllable jyag
-C7CA: Hangul syllable jyagg
-C7CB: Hangul syllable jyags
-C7CC: Hangul syllable jyan
-C7CD: Hangul syllable jyanj
-C7CE: Hangul syllable jyanh
-C7CF: Hangul syllable jyad
-C7D0: Hangul syllable jyal
-C7D1: Hangul syllable jyalg
-C7D2: Hangul syllable jyalm
-C7D3: Hangul syllable jyalb
-C7D4: Hangul syllable jyals
-C7D5: Hangul syllable jyalt
-C7D6: Hangul syllable jyalp
-C7D7: Hangul syllable jyalh
-C7D8: Hangul syllable jyam
-C7D9: Hangul syllable jyab
-C7DA: Hangul syllable jyabs
-C7DB: Hangul syllable jyas
-C7DC: Hangul syllable jyass
-C7DD: Hangul syllable jyang
-C7DE: Hangul syllable jyaj
-C7DF: Hangul syllable jyac
-C7E0: Hangul syllable jyak
-C7E1: Hangul syllable jyat
-C7E2: Hangul syllable jyap
-C7E3: Hangul syllable jyah
-C7E4: Hangul syllable jyae
-C7E5: Hangul syllable jyaeg
-C7E6: Hangul syllable jyaegg
-C7E7: Hangul syllable jyaegs
-C7E8: Hangul syllable jyaen
-C7E9: Hangul syllable jyaenj
-C7EA: Hangul syllable jyaenh
-C7EB: Hangul syllable jyaed
-C7EC: Hangul syllable jyael
-C7ED: Hangul syllable jyaelg
-C7EE: Hangul syllable jyaelm
-C7EF: Hangul syllable jyaelb
-C7F0: Hangul syllable jyaels
-C7F1: Hangul syllable jyaelt
-C7F2: Hangul syllable jyaelp
-C7F3: Hangul syllable jyaelh
-C7F4: Hangul syllable jyaem
-C7F5: Hangul syllable jyaeb
-C7F6: Hangul syllable jyaebs
-C7F7: Hangul syllable jyaes
-C7F8: Hangul syllable jyaess
-C7F9: Hangul syllable jyaeng
-C7FA: Hangul syllable jyaej
-C7FB: Hangul syllable jyaec
-C7FC: Hangul syllable jyaek
-C7FD: Hangul syllable jyaet
-C7FE: Hangul syllable jyaep
-C7FF: Hangul syllable jyaeh
+C700: Hangul Silbe Wek
+C701: Hangul Silbe nass
+C702: Hangul Silbe Wep
+C703: Hangul-Silbe Weh
+C704: Hangul Silbe Wi
+C705: Hangul Silbenperücke
+C706: Hangul Silberne Perücke
+C707: Hangul Silbenperücken
+C708: Hangul Syllable Win
+C709: Hangul Silbe Winj
+C70A: Hangul Silbe Winh
+C70B: Hangul Silbe Wid
+C70C: Hangul Silbe Wil
+C70D: Hangul Silbe Wilg
+C70E: Hangul Silbe Wilm
+C70F: Hangul Silbe Wilb
+C710: Hangul-Silbe Wils
+C711: Hangul Silbe Welke
+C712: Hangul Silbe Wilp
+C713: Hangul Silbe Wilh
+C714: Hangul Silbe Wim
+C715: Hangul Silbe Wib
+C716: Hangul Silbe Wibs
+C717: Hangul-Silbe Wis
+C718: Hangul Silbe Wiss
+C719: Hangul Silbenflügel
+C71A: Hangul Silbe Wij
+C71B: Hangul Silbe Wic
+C71C: Hangul Syllable Wik
+C71D: Hangul Silbe Wit
+C71E: Hangul Syllable Wip
+C71F: Hangul Silbe Wih
+C720: Hangul Silbe Yu
+C721: Hangul Syllable Yug
+C722: Hangul Silbe Yugg
+C723: Hangul Silbe Yugs
+C724: Hangul Silbe Yun
+C725: Hangul Silbe Yunj
+C726: Hangul Silbe Yunh
+C727: Hangul Silbe Yud
+C728: Hangul Silbe Yul
+C729: Hangul Silbe Yulg
+C72A: Hangul Silbe Yulm
+C72B: Hangul Silbe Yulb
+C72C: Hangul Silbe Yuls
+C72D: Hangul Silbe Yult
+C72E: Hangul Silbe Yulp
+C72F: Hangul Silbe Yulh
+C730: Hangul Silbe Yum
+C731: Hangul Silbe Yub
+C732: Hangul Silbe Yubs
+C733: Hangul Silbe Yus
+C734: Hangul Silbe Yuss
+C735: Hangul Silbe Yung
+C736: Hangul Silbe Yuj
+C737: Hangul Silbe Yuc
+C738: Hangul Silbe Yuk
+C739: Hangul Silbe Yut
+C73A: Hangul Silbe Yup
+C73B: Hangul Silbe Yuh
+C73C: Hangul Silbe Eu
+C73D: Hangul Silbe Eug
+C73E: Hangul Silbe Eugg
+C73F: Hangul Silbe
+C740: Hangul Silbe Eun
+C741: Hangul Silbe Eunj
+C742: Hangul Silbe Eunh
+C743: Hangul Silbe Eud
+C744: Hangul Silbe Eul
+C745: Hangul Silbe Eulg
+C746: Hangul Silbe Eulm
+C747: Hangul Silbe Eulb
+C748: Hangul Silbe Euls
+C749: Hangul Silbe Eult
+C74A: Hangul Silbe Eulp
+C74B: Hangul Silbe Eulh
+C74C: Hangul Silbe Eum
+C74D: Hangul Silbe Eub
+C74E: Hangul Silbe Eubs
+C74F: Hangul Silbe Eus
+C750: Hangul Silbe Euss
+C751: Hangul Silbe Eung
+C752: Hangul Silbe Euj
+C753: Hangul Silbe Euc
+C754: Hangul Silbe Euk
+C755: Hangul Silbe Eut
+C756: Hangul Silbe Eup
+C757: Hangul Silbe Euh
+C758: Hangul Silbe Yi
+C759: Hangul Silbe Yig
+C75A: Hangul Silbe Yigg
+C75B: Hangul Silbe Yigs
+C75C: Hangul Silbe Yin
+C75D: Hangul Silbe Yinj
+C75E: Hangul Silbe Yinh
+C75F: Hangul Silbe Yid
+C760: Hangul Silbe Yil
+C761: Hangul Silbe Yilg
+C762: Hangul Silbe Yilm
+C763: Hangul Silbe Yilb
+C764: Hangul Silbe Yils
+C765: Hangul Silbe Yilt
+C766: Hangul Silbe Yilp
+C767: Hangul Silbe Yilh
+C768: Hangul Silbe Yim
+C769: Hangul Silbe Yib
+C76A: Hangul Silbe Yibs
+C76B: Hangul-Silbe Yis
+C76C: Hangul Silbe Yiss
+C76D: Hangul Silbe Ying
+C76E: Hangul Silbe Yij
+C76F: Hangul Silbe Yic
+C770: Hangul Silbe Yik
+C771: Hangul Silbe Yit
+C772: Hangul Silbe Yip
+C773: Hangul Silbe Yih
+C774: Hangul-Silbe I
+C775: Hangul Silbe Ig
+C776: Hangul Silbe Igg
+C777: Hangul Silbe Igs
+C778: Hangul Silbe In
+C779: Hangul Silbe Inj
+C77A: Hangul-Silbe Inh
+C77B: Hangul-Silben-ID
+C77C: Hangul Silbe Il
+C77D: Hangul Silbe Ilg
+C77E: Hangul Silbe Ilm
+C77F: Hangul Silbe Ilb
+C780: Hangul Silbe Ils
+C781: Hangul-Silbe Ilt
+C782: Hangul Silbe Ilp
+C783: Hangul Silbe Ilh
+C784: Hangul Syllable Im
+C785: Hangul Silbe Ib
+C786: Hangul Silbe Ibs
+C787: Hangul-Silbe ist
+C788: Hangul Silbe Ausgabe
+C789: Hangul Silbe Ing. Dr.
+C78A: Hangul Silbe Ij
+C78B: Hangul-Silbe Ic
+C78C: Hangul Silbe Ik
+C78D: Hangul Silbe es
+C78E: Hangul-Silbe Ip
+C78F: Hangul Silbe Ih
+C790: Hangul-Silbe Ja
+C791: Hangul Silbe Jag
+C792: Hangul Silbe Jagg
+C793: Hangul Silbe Zacken
+C794: Hangul-Silbe Jan
+C795: Hangul-Silbe Janj
+C796: Hangul Silbe Janh
+C797: Hangul Silbe Jad
+C798: Hangul Silbe Jal
+C799: Hangul Silbe Jalg
+C79A: Hangul Silbe Jalm
+C79B: Hangul Silbe Jalb
+C79C: Hangul Silbe Jals
+C79D: Hangul Silbe Jalt
+C79E: Hangul Silbe Jalp
+C79F: Hangul Silbe Jalh
+C7A0: Hangul Syllable Jam
+C7A1: Hangul Silbe Jab
+C7A2: Hangul Silbe Jabs
+C7A3: Hangul Silbe Jas
+C7A4: Hangul Silbe Jass
+C7A5: Hangul Silbe Jang
+C7A6: Hangul Silbe Jaj
+C7A7: Hangul Silbe Jac
+C7A8: Hangul Silbe Jak
+C7A9: Hangul Silbe Jat
+C7AA: Hangul Silbe Jap
+C7AB: Hangul Silbe Jah
+C7AC: Hangul-Silbe Jae
+C7AD: Hangul-Silbe Jaeg
+C7AE: Hangul-Silbe Jaegg
+C7AF: Hangul Silbe Jaegs
+C7B0: Hangul-Silbe Jaen
+C7B1: Hangul-Silbe Jaenj
+C7B2: Hangul-Silbe Jaenh
+C7B3: Hangul Silbe Jaed
+C7B4: Hangul Silbe Jael
+C7B5: Hangul Silbe Jaelg
+C7B6: Hangul Silbe Jaelm
+C7B7: Hangul Silbe Jaelb
+C7B8: Hangul Silbe Jaels
+C7B9: Hangul-Silbe Jaelt
+C7BA: Hangul Silbe Jaelp
+C7BB: Hangul Silbe Jaelh
+C7BC: Hangul-Silbe Jaem
+C7BD: Hangul-Silbe Jaeb
+C7BE: Hangul-Silbe Jaebs
+C7BF: Hangul Silbe Jaes
+C7C0: Hangul Silbe Jaess
+C7C1: Hangul-Silbe Jaeng
+C7C2: Hangul-Silbe Jaej
+C7C3: Hangul-Silbe Jaec
+C7C4: Hangul-Silbe Jaek
+C7C5: Hangul-Silbe Jaet
+C7C6: Hangul-Silbe Jaep
+C7C7: Hangul Silbe Jaeh
+C7C8: Hangul-Silbe Jya
+C7C9: Hangul-Silbe Jyag
+C7CA: Hangul-Silbe Jyagg
+C7CB: Hangul Silbe Jyags
+C7CC: Hangul-Silbe Jyan
+C7CD: Hangul-Silbe Jyanj
+C7CE: Hangul-Silbe Jyanh
+C7CF: Hangul-Silbe Jyad
+C7D0: Hangul-Silbe Jyal
+C7D1: Hangul-Silbe Jyalg
+C7D2: Hangul-Silbe Jyalm
+C7D3: Hangul-Silbe Jyalb
+C7D4: Hangul Silbe Jyals
+C7D5: Hangul-Silbe Jyalt
+C7D6: Hangul-Silbe Jyalp
+C7D7: Hangul-Silbe Jyalh
+C7D8: Hangul-Silbe Jyam
+C7D9: Hangul Silbe Jyab
+C7DA: Hangul-Silbe Jyabs
+C7DB: Hangul-Silbe Jyas
+C7DC: Hangul Silbe Jyass
+C7DD: Hangul-Silbe Jyang
+C7DE: Hangul-Silbe Jyaj
+C7DF: Hangul-Silbe Jyac
+C7E0: Hangul-Silbe Jyak
+C7E1: Hangul-Silbe Jyat
+C7E2: Hangul-Silbe Jyap
+C7E3: Hangul Silbe Jyah
+C7E4: Hangul Silbe Jyae
+C7E5: Hangul-Silbe Jyaeg
+C7E6: Hangul Silbe Jyaegg
+C7E7: Hangul Syllable Jyaegs
+C7E8: Hangul Silbe Jyaen
+C7E9: Hangul-Silbe Jyaenj
+C7EA: Hangul-Silbe Jyaenh
+C7EB: Hangul-Silbe Jyaed
+C7EC: Hangul-Silbe Jyael
+C7ED: Hangul-Silbe Jyaelg
+C7EE: Hangul-Silbe Jyaelm
+C7EF: Hangul-Silbe Jyaelb
+C7F0: Hangul Silbe Jyaels
+C7F1: Hangul-Silbe Jyaelt
+C7F2: Hangul-Silbe Jyaelp
+C7F3: Hangul-Silbe Jyaelh
+C7F4: Hangul-Silbe Jyaem
+C7F5: Hangul Silbe Jyaeb
+C7F6: Hangul Syllable Jyaebs
+C7F7: Hangul Syllable Jyaes
+C7F8: Hangul Silbe Jyaess
+C7F9: Hangul-Silbe Jyaeng
+C7FA: Hangul-Silbe Jyaej
+C7FB: Hangul-Silbe Jyaec
+C7FC: Hangul-Silbe Jyaek
+C7FD: Hangul-Silbe Jyaet
+C7FE: Hangul Silbe Jyaep
+C7FF: Hangul Silbe Jyaeh

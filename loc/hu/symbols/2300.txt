@@ -1,256 +1,256 @@
-2300: Diameter Sign
-2301: Electric Arrow
-2302: House : Home
-2303: Up Arrowhead
-2304: Down Arrowhead
-2305: Projective
-2306: Perspective
-2307: Wavy Line
-2308: Left Ceiling : apl upstile
-2309: Right Ceiling
-230A: Left Floor : apl downstile
-230B: Right Floor
-230C: Bottom Right Crop
-230D: Bottom Left Crop
-230E: Top Right Crop
-230F: Top Left Crop
-2310: Reversed Not Sign : beginning of line
-2311: Square Lozenge : kissen (pillow)
-2312: Arc : position of any line
-2313: Segment : position of a surface
-2314: Sector
-2315: Telephone Recorder
-2316: Position Indicator : true position
-2317: Viewdata Square
-2318: Place of Interest Sign : command key : operating system key (iso 9995-7)
-2319: Turned Not Sign : line marker
-231A: Watch
-231B: Hourglass : alchemical symbol for hour
-231C: Top Left Corner
-231D: Top Right Corner
-231E: Bottom Left Corner
-231F: Bottom Right Corner
+2300: Átmérő jel
+2301: Elektromos nyíl
+2302: Ház : itthon
+2303: Felfelé mutató nyíl
+2304: Le nyílhegy
+2305: A projektív
+2306: távlati
+2307: Hullámos vonal
+2308: Bal felső mennyezet : apl upstile
+2309: Jobb mennyezet
+230A: Bal padló : apl downstile
+230B: Jobb emelet
+230C: Alul jobbra
+230D: Alul balra
+230E: Jobb jobbra
+230F: A bal felső sarok
+2310: Fordított nem jel : sor kezdete
+2311: Square Lozenge : kissen (párna)
+2312: Ív : bármely vonal helyzete
+2313: szegmens : egy felület pozícióját
+2314: Ágazat
+2315: Telefon felvevő
+2316: Pozíció jelző : igaz pozíció
+2317: Viewdata tér
+2318: Érdeklődési hely jel : parancsgomb : operációs rendszer kulcs (iso 9995-7)
+2319: Nem fordult elő : vonaljelző
+231A: Néz
+231B: Homokóra : alkímiai szimbólum az óra
+231C: Bal felső sarok
+231D: Jobb felső sarok
+231E: Alsó bal sarok
+231F: Jobb alsó sarok
 2320: Top Half Integral
-2321: Bottom Half Integral
-2322: Frown
-2323: Smile
-2324: Up Arrowhead Between Two Horizontal Bars : enter key
-2325: Option Key
-2326: Erase To the Right : delete to the right key
-2327: X In a Rectangle Box : clear key
-2328: Keyboard
-2329: Left-Pointing Angle Bracket
-232A: Right-Pointing Angle Bracket
-232B: Erase To the Left : delete to the left key
-232C: Benzene Ring
-232D: Cylindricity
-232E: All Around-Profile
-232F: Symmetry
-2330: Total Runout
-2331: Dimension Origin
-2332: Conical Taper
-2333: Slope
-2334: Counterbore
-2335: Countersink
-2336: Apl Functional Symbol I-Beam
-2337: Apl Functional Symbol Squish Quad
-2338: Apl Functional Symbol Quad Equal
-2339: Apl Functional Symbol Quad Divide
-233A: Apl Functional Symbol Quad Diamond
-233B: Apl Functional Symbol Quad Jot
-233C: Apl Functional Symbol Quad Circle
-233D: Apl Functional Symbol Circle Stile
-233E: Apl Functional Symbol Circle Jot
-233F: Apl Functional Symbol Slash Bar
-2340: Apl Functional Symbol Backslash Bar
-2341: Apl Functional Symbol Quad Slash
-2342: Apl Functional Symbol Quad Backslash
-2343: Apl Functional Symbol Quad Less-Than
-2344: Apl Functional Symbol Quad Greater-Than
-2345: Apl Functional Symbol Leftwards Vane
-2346: Apl Functional Symbol Rightwards Vane
-2347: Apl Functional Symbol Quad Leftwards Arrow
-2348: Apl Functional Symbol Quad Rightwards Arrow
-2349: Apl Functional Symbol Circle Backslash
-234A: Apl Functional Symbol Down Tack Underbar : up tack underbar
-234B: Apl Functional Symbol Delta Stile
-234C: Apl Functional Symbol Quad Down Caret
-234D: Apl Functional Symbol Quad Delta
-234E: Apl Functional Symbol Down Tack Jot : up tack jot
-234F: Apl Functional Symbol Upwards Vane
-2350: Apl Functional Symbol Quad Upwards Arrow
-2351: Apl Functional Symbol Up Tack Overbar : down tack overbar
-2352: Apl Functional Symbol Del Stile
-2353: Apl Functional Symbol Quad Up Caret
-2354: Apl Functional Symbol Quad Del
-2355: Apl Functional Symbol Up Tack Jot : down tack jot
-2356: Apl Functional Symbol Downwards Vane
-2357: Apl Functional Symbol Quad Downwards Arrow
-2358: Apl Functional Symbol Quote Underbar
-2359: Apl Functional Symbol Delta Underbar
-235A: Apl Functional Symbol Diamond Underbar
-235B: Apl Functional Symbol Jot Underbar
-235C: Apl Functional Symbol Circle Underbar
-235D: Apl Functional Symbol Up Shoe Jot
-235E: Apl Functional Symbol Quote Quad
-235F: Apl Functional Symbol Circle Star
-2360: Apl Functional Symbol Quad Colon
-2361: Apl Functional Symbol Up Tack Diaeresis : down tack diaeresis
-2362: Apl Functional Symbol Del Diaeresis
-2363: Apl Functional Symbol Star Diaeresis
-2364: Apl Functional Symbol Jot Diaeresis : hoot
-2365: Apl Functional Symbol Circle Diaeresis : holler
-2366: Apl Functional Symbol Down Shoe Stile
-2367: Apl Functional Symbol Left Shoe Stile
-2368: Apl Functional Symbol Tilde Diaeresis : smirk
-2369: Apl Functional Symbol Greater-Than Diaeresis
-236A: Apl Functional Symbol Comma Bar
-236B: Apl Functional Symbol Del Tilde
-236C: Apl Functional Symbol Zilde
-236D: Apl Functional Symbol Stile Tilde
-236E: Apl Functional Symbol Semicolon Underbar
-236F: Apl Functional Symbol Quad Not Equal
-2370: Apl Functional Symbol Quad Question
-2371: Apl Functional Symbol Down Caret Tilde
-2372: Apl Functional Symbol Up Caret Tilde
-2373: Apl Functional Symbol Iota
-2374: Apl Functional Symbol Rho
-2375: Apl Functional Symbol Omega
-2376: Apl Functional Symbol Alpha Underbar
-2377: Apl Functional Symbol Epsilon Underbar
-2378: Apl Functional Symbol Iota Underbar
-2379: Apl Functional Symbol Omega Underbar
-237A: Apl Functional Symbol Alpha
-237B: Not Check Mark
-237C: Right Angle with Downwards Zigzag Arrow
-237D: Shouldered Open Box
-237E: Bell Symbol
-237F: Vertical Line with Middle Dot
-2380: Insertion Symbol
-2381: Continuous Underline Symbol
-2382: Discontinuous Underline Symbol
-2383: Emphasis Symbol
-2384: Composition Symbol
-2385: White Square with Centre Vertical Line : center
-2386: Enter Symbol
-2387: Alternative Key Symbol
-2388: Helm Symbol : control
-2389: Circled Horizontal Bar with Notch : pause
-238A: Circled Triangle Down : interrupt, break
-238B: Broken Circle with Northwest Arrow : escape
-238C: Undo Symbol
+2321: Alsó félig integrális
+2322: homlokát ráncolja
+2323: Mosoly
+2324: Felfelé mutató nyíl két vízszintes sáv között : Enter gomb
+2325: Opciógomb
+2326: Törlés a jobbra : törölje a jobb oldali gombot
+2327: X Egy téglalapdobozban : törölje a kulcsot
+2328: Billentyűzet
+2329: Balra mutató szögtartó
+232A: Jobbra mutató szögtartó
+232B: Törlés a balra : törölje a bal gombot
+232C: Benzolgyűrű
+232D: hengeresség
+232E: Minden Around-profil
+232F: Szimmetria
+2330: Teljes futás
+2331: Méret eredete
+2332: Kúpos kúp
+2333: Lejtő
+2334: süllyesztett
+2335: Marófúró
+2336: Apl funkcionális szimbólum I-Beam
+2337: Apl Funkcionális Szimbólum Squish Quad
+2338: Apl funkcionális szimbólum Quad Equal
+2339: Apl Funkcionális szimbólum Quad Divide
+233A: Apl funkcionális szimbólum Quad Diamond
+233B: Apl funkcionális szimbólum Quad Jot
+233C: Apl funkcionális szimbólum négyszög
+233D: Apl Funkcionális Szimbólum Kör Stile
+233E: Apl funkcionális szimbólum kör
+233F: Apl Funkcionális Szimbólum Slash Bar
+2340: Apl Funkcionális Szimbólum Backslash sáv
+2341: Apl funkcionális szimbólum Quad Slash
+2342: Apl Funkcionális szimbólum Quad Backslash
+2343: Apl Funkcionális Szimbólum Quad Less-Than
+2344: Apl Funkcionális szimbólum Quad Greater-Than
+2345: Apl Funkcionális szimbólum Bal oldali lapát
+2346: Apl Funkcionális Szimbólum A Vane jobbra
+2347: Apl Funkcionális szimbólum Négy balra nyíl
+2348: Apl Funkcionális szimbólum Quad Jobbra mutató nyíl
+2349: Apl Funkcionális Szimbólum Kör Backslash
+234A: Apl Funkcionális szimbólum Le Tack Underbar : felfelé tapintható
+234B: Apl funkcionális szimbólum Delta Stile
+234C: Apl funkcionális szimbólum Quad Down Caret
+234D: Apl Funkcionális Szimbólum Quad Delta
+234E: Apl Funkable Symbol Down Tack Jot : megragadta a betűt
+234F: Apl funkcionális szimbólum felfelé lapát
+2350: Apl Funkcionális szimbólum Quad Upward Arrow
+2351: Apl Funkcionális Szimbólum Fel Tack Overbar : lefelé
+2352: Apl funkcionális szimbólum Del Stile
+2353: Apl funkcionális szimbólum Quad Up Caret
+2354: Apl funkcionális szimbólum Quad Del
+2355: Apl funkcionális szimbólum fel Tack Jot : lefelé tapintás
+2356: Apl Funkcionális szimbólum Downward Vane
+2357: Apl Funkcionális szimbólum Quad Downward nyíl
+2358: Apl Funkcionális Szimbólum Idézet Underbar
+2359: Apl funkcionális szimbólum Delta Underbar
+235A: Apl funkcionális szimbólum Diamond Underbar
+235B: Apl Funkcionális Symbol Jot Underbar
+235C: Apl funkcionális szimbólum kör alsó
+235D: Apl funkcionális szimbólum a cipőre
+235E: Apl funkcionális szimbóluma Quad
+235F: Apl funkcionális szimbólum kör csillag : Új év, karácsony
+2360: Apl Funkcionális szimbólum Quad Colon
+2361: Apl Funkcionális szimbólum Up Tack Diaeresis : lefelé tapadó diazézis
+2362: Apl funkcionális szimbólum Del Diaeresis
+2363: Apl Funkcionális Szimbólum Starézis
+2364: Apl Funkcionális Szimbólum Jot Diaeresis : huhogás
+2365: Apl Funkcionális Szimbólum Kör Diaézis : ordít
+2366: Apl Funkcionális Szimbólum Le cipőstílus
+2367: Apl funkcionális szimbólum bal cipőstílus
+2368: Apl funkcionális szimbólum Tilde Diaeresis : önelégült mosoly
+2369: Apl Funkcionális szimbólum Nagyobb mint Diaeresis
+236A: Apl Funkcionális Szimbólum vesszősáv
+236B: Apl funkcionális szimbólum Del Tilde
+236C: Apl funkcionális szimbólum Zilde
+236D: Apl funkcionális szimbólum Stile Tilde
+236E: Apl Funkcionális szimbólum Semicolon Underbar
+236F: Apl Funkcionális szimbólum Quad nem egyenlő
+2370: Apl Funkcionális szimbólum Quad kérdés
+2371: Apl funkcionális szimbólum le Caret Tilde
+2372: Apl funkcionális szimbólum fel Caret Tilde
+2373: Apl funkcionális szimbólum Iota
+2374: Apl funkcionális szimbólum Rho
+2375: Apl funkcionális szimbólum Omega
+2376: Apl funkcionális szimbólum Alpha Underbar
+2377: Apl funkcionális szimbólum Epsilon Underbar
+2378: Apl funkcionális szimbólum Iota Underbar
+2379: Apl funkcionális szimbólum Omega Underbar
+237A: Apl funkcionális szimbólum Alpha
+237B: Nem jelölje be a jelölést
+237C: Jobb szög lefelé Zigzag nyíl
+237D: Vállú nyitott doboz
+237E: Bell szimbólum
+237F: Függőleges vonal középső ponttal
+2380: Szimbólum beillesztése
+2381: Folyamatos aláhúzás szimbólum
+2382: Állandó aláhúzás szimbólum
+2383: Hangsúly Szimbólum
+2384: Összetétel szimbólum
+2385: Fehér tér és a középső függőleges vonal : központ
+2386: Írja be a szimbólumot
+2387: Alternatív kulcs szimbólum
+2388: Helm Symbol : ellenőrzés
+2389: Kör alakú vízszintes sáv a Notch-rel : szünet
+238A: Körözött háromszög le : megszakítás, szünet
+238B: Törött kör északnyugati nyíl : menekülni
+238C: Szüntesse meg a szimbólumot
 238D: Monostable Symbol
-238E: Hysteresis Symbol
-238F: Open-Circuit-Output H-Type Symbol
-2390: Open-Circuit-Output L-Type Symbol
-2391: Passive-Pull-Down-Output Symbol
-2392: Passive-Pull-Up-Output Symbol
-2393: Direct Current Symbol Form Two
-2394: Software-Function Symbol
-2395: Apl Functional Symbol Quad
-2396: Decimal Separator Key Symbol
-2397: Previous Page
-2398: Next Page
-2399: Print Screen Symbol
+238E: Hiszterézis szimbólum
+238F: Nyílt áramkör H-típusú szimbólum
+2390: Nyílt áramkör-kimeneti L-típusú szimbólum
+2391: Passzív-kihúzható kimeneti szimbólum
+2392: Passzív-kihúzható kimeneti szimbólum
+2393: Közvetlen áramszimbólum kettő
+2394: Szoftver-funkció szimbólum
+2395: Apl Funkcionális szimbólum Quad
+2396: Tizedes elválasztó kulcs szimbólum
+2397: Előző oldal
+2398: Következő oldal
+2399: Nyomtatás képernyő szimbólum
 239A: Clear Screen Symbol
-239B: Left Parenthesis Upper Hook
-239C: Left Parenthesis Extension
-239D: Left Parenthesis Lower Hook
-239E: Right Parenthesis Upper Hook
-239F: Right Parenthesis Extension
-23A0: Right Parenthesis Lower Hook
-23A1: Left Square Bracket Upper Corner
-23A2: Left Square Bracket Extension
-23A3: Left Square Bracket Lower Corner
-23A4: Right Square Bracket Upper Corner
-23A5: Right Square Bracket Extension
-23A6: Right Square Bracket Lower Corner
-23A7: Left Curly Bracket Upper Hook
-23A8: Left Curly Bracket Middle Piece
-23A9: Left Curly Bracket Lower Hook
-23AA: Curly Bracket Extension
-23AB: Right Curly Bracket Upper Hook
-23AC: Right Curly Bracket Middle Piece
-23AD: Right Curly Bracket Lower Hook
-23AE: Integral Extension
-23AF: Horizontal Line Extension
-23B0: Upper Left or Lower Right Curly Bracket Section : left moustache
-23B1: Upper Right or Lower Left Curly Bracket Section : right moustache
+239B: Bal oldali parenthesis felső horog
+239C: Bal oldali parenthesis kiterjesztés
+239D: Bal parenthesis alsó horog
+239E: Jobb Parenthesis Felső Hook
+239F: Jobb Parenthesis kiterjesztés
+23A0: Jobb Parenthesis Alsó horog
+23A1: Bal szögletes zárójel felső sarkában
+23A2: Bal szögletes záróelem
+23A3: Bal szögletes zárójel Alsó sarok
+23A4: Jobb szögletes zárójel felső sarkában
+23A5: Jobb szögletes konzol kiterjesztés
+23A6: Jobb szögletes zárójel Alsó sarok
+23A7: Bal göndör konzol felső horog
+23A8: Bal göndör tartó középső darab
+23A9: Bal göndör tartó alsó horog
+23AA: Göndör konzol kiterjesztés
+23AB: Jobb göndör konzol felső horog
+23AC: Jobb göndör tartó középső darab
+23AD: Jobb göndör tartó alsó horog
+23AE: Integrál kiterjesztés
+23AF: Vízszintes vonalhosszabbítás
+23B0: Felső bal vagy alsó jobb göndör tartóelem : bal bajusz
+23B1: Felső jobb vagy alsó bal göndör tartóelem : jobb bajusz
 23B2: Summation Top
 23B3: Summation Bottom
 23B4: Top Square Bracket
-23B5: Bottom Square Bracket
-23B6: Bottom Square Bracket Over Top Square Bracket
-23B7: Radical Symbol Bottom
-23B8: Left Vertical Box Line
-23B9: Right Vertical Box Line
-23BA: Horizontal Scan Line-1
-23BB: Horizontal Scan Line-3
-23BC: Horizontal Scan Line-7
-23BD: Horizontal Scan Line-9
-23BE: Dentistry Symbol Light Vertical and Top Right
-23BF: Dentistry Symbol Light Vertical and Bottom Right
-23C0: Dentistry Symbol Light Vertical with Circle
-23C1: Dentistry Symbol Light Down and Horizontal with Circle
-23C2: Dentistry Symbol Light Up and Horizontal with Circle
-23C3: Dentistry Symbol Light Vertical with Triangle
-23C4: Dentistry Symbol Light Down and Horizontal with Triangle
-23C5: Dentistry Symbol Light Up and Horizontal with Triangle
-23C6: Dentistry Symbol Light Vertical and Wave
-23C7: Dentistry Symbol Light Down and Horizontal with Wave
-23C8: Dentistry Symbol Light Up and Horizontal with Wave
-23C9: Dentistry Symbol Light Down and Horizontal
-23CA: Dentistry Symbol Light Up and Horizontal
-23CB: Dentistry Symbol Light Vertical and Top Left
-23CC: Dentistry Symbol Light Vertical and Bottom Left
-23CD: Square Foot
-23CE: Return Symbol
-23CF: Eject Symbol
-23D0: Vertical Line Extension
-23D1: Metrical Breve
-23D2: Metrical Long Over Short
-23D3: Metrical Short Over Long
-23D4: Metrical Long Over Two Shorts
-23D5: Metrical Two Shorts Over Long
-23D6: Metrical Two Shorts Joined
-23D7: Metrical Triseme
-23D8: Metrical Tetraseme
-23D9: Metrical Pentaseme
-23DA: Earth Ground
-23DB: Fuse
+23B5: Alsó négyzet konzol
+23B6: Alsó szögletes zárójel a felső négyzet alakú konzolon
+23B7: Radikális szimbólum alsó
+23B8: Bal függőleges dobozsor
+23B9: Jobb függőleges dobozvonal
+23BA: Vízszintes szkennelési vonal-1
+23BB: Vízszintes szkennelési sor-3
+23BC: Vízszintes szkennelési sor-7
+23BD: Vízszintes szkennelési sor-9
+23BE: Fogászat Szimbólum Fény Függőleges és Felfelé
+23BF: Fogászat Szimbólum Fény Függőleges és Alsó Jobb
+23C0: Fogászati ​​szimbólum fény függőleges kör
+23C1: Fogászat Szimbólum világít és vízszintes kör
+23C2: Fogorvosi szimbólum világít és vízszintes a kör
+23C3: Fogászati ​​szimbólum fény függőleges háromszög
+23C4: Fogászat Szimbólum világít és vízszintes a háromszög
+23C5: Fogászati ​​szimbólum világít és vízszintes a háromszög
+23C6: Fogászat Szimbólum Fény Függőleges és Hullám
+23C7: Fogászat Szimbólum világít és vízszintes a hullám
+23C8: Fogászat Szimbólum világít és vízszintes a hullám
+23C9: Fogászat Szimbólum Világít és vízszintes
+23CA: Fogászati ​​szimbólum világít és vízszintes
+23CB: Fogászat Szimbólum Fény Függőleges és Felső Balra
+23CC: Fogászat Szimbólum Fény függőleges és alsó bal
+23CD: Négyzetméteres
+23CE: Vissza a szimbólumra
+23CF: Szimbólum kiadása
+23D0: Függőleges vonalhosszabbítás
+23D1: Metrikus Breve
+23D2: Metric Long Over Short
+23D3: Metrikus rövid, hosszú
+23D4: Metrikus hosszú két rövidnadrág
+23D5: Metrikus két rövid hosszúságú rövidnadrág
+23D6: Metric Two Shorts csatlakozott
+23D7: Metrikus Triseme
+23D8: Metrikus tetraem
+23D9: Metrikus Pentaseme
+23DA: Föld föld
+23DB: Biztosíték
 23DC: Top Parenthesis
-23DD: Bottom Parenthesis
-23DE: Top Curly Bracket
-23DF: Bottom Curly Bracket
-23E0: Top Tortoise Shell Bracket
-23E1: Bottom Tortoise Shell Bracket
-23E2: White Trapezium
-23E3: Benzene Ring with Circle
-23E4: Straightness
+23DD: Alsó zárójel
+23DE: Top göndör tartó
+23DF: Alsó göndör tartó
+23E0: Top Tortoise Shell konzol
+23E1: Alsó teknősbéka Shell konzol
+23E2: Fehér Trapéz
+23E3: Benzol gyűrű körrel
+23E4: Egyenesség
 23E5: Flatness
-23E6: Ac Current
-23E7: Electrical Intersection
-23E8: Decimal Exponent Symbol
-23E9: Black Right-Pointing Double Triangle : fast forward
-23EA: Black Left-Pointing Double Triangle : fast rewind
-23EB: Black Up-Pointing Double Triangle
-23EC: Black Down-Pointing Double Triangle
-23ED: Black Right-Pointing Double Triangle with Vertical Bar
-23EE: Black Left-Pointing Double Triangle with Vertical Bar
-23EF: Black Right-Pointing Triangle with Double Vertical Bar
-23F0: Alarm Clock
-23F1: Stopwatch
-23F2: Timer Clock
-23F3: Hourglass with Flowing Sand
-23F4: Black Medium Left-Pointing Triangle : reverse, back
-23F5: Black Medium Right-Pointing Triangle : forward
-23F6: Black Medium Up-Pointing Triangle : increase
-23F7: Black Medium Down-Pointing Triangle : decrease
-23F8: Double Vertical Bar : pause
-23F9: Black Square for Stop : stop
-23FA: Black Circle for Record : record
-23FB:
-23FC:
-23FD:
-23FE:
-23FF:
+23E6: Ac áram
+23E7: Elektromos kereszteződés
+23E8: Decimális exponens szimbólum
+23E9: Fekete jobbra mutató kettős háromszög : előrepörgetés
+23EA: Fekete balra mutató kettős háromszög : gyors visszatekerés
+23EB: Fekete felfelé mutató kettős háromszög
+23EC: Fekete lefelé mutató kettős háromszög
+23ED: Fekete jobbra mutató kettős háromszög, függőleges sávval
+23EE: Fekete balra mutató kettős háromszög, függőleges sávval
+23EF: Fekete jobbra mutató háromszög, dupla függőleges sávval
+23F0: Ébresztőóra
+23F1: Stopperóra
+23F2: Időzítő óra
+23F3: Homokóra áramló homokkal
+23F4: Fekete közepes balra mutató háromszög : hátra, hátra
+23F5: Fekete közepes jobbra mutató háromszög : előre
+23F6: Fekete közepes felfelé mutató háromszög : növekedés
+23F7: Fekete közepes lefelé mutató háromszög : csökken
+23F8: Dupla függőleges sáv : szünet
+23F9: Fekete négyzet a stophoz : állj meg
+23FA: Fekete kör a felvételhez : rekord
+23FB: Teljesítmény szimbólum
+23FC: Bekapcsolási szimbólum
+23FD: Bekapcsolt szimbólum
+23FE: Teljesítmény alvó szimbólum
+23FF: Observer Eye szimbólum

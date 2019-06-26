@@ -1,0 +1,256 @@
+2200: Dla wszystkich : uniwersalny kwantyfikator
+2201: Komplement
+2202: Częściowe różnicowanie
+2203: Tam istnieje : kwantyfikator egzystencjalny
+2204: Nie istnieje
+2205: Pusty zestaw : zestaw zerowy
+2206: Przyrost : operator laplace : różnica do przodu : różnica symetryczna (w teorii mnogości)
+2207: Nabla : różnica wsteczna : gradient, del
+2208: Element
+2209: Nie element
+220A: Mały Element
+220B: Zawiera jako członek : takie
+220C: Nie zawiera jako członek
+220D: Mały zawiera jako członek
+220E: Koniec dowodu : co było do okazania.
+220F: Produkt N-Ary : znak produktu
+2210: N-Ary Coproduct : znak produktu
+2211: Podsumowanie N-Ary : znak sumowania
+2212: Minus
+2213: Znak minus lub plus
+2214: Dot Plus
+2215: Division Slash
+2216: Ustaw Minus
+2217: Operator gwiazdki
+2218: Operator pierścienia : funkcja złożona : apl jot
+2219: Operator kul
+221A: Pierwiastek kwadratowy : radykalny znak
+221B: Pierwiastek sześcienny
+221C: Czwarty korzeń
+221D: Proporcjonalnie do
+221E: Nieskończoność
+221F: Prosty kąt
+2220: Kąt
+2221: Zmierzony kąt
+2222: Kąt sferyczny : łuk kątowy
+2223: Dzieli : takie : stile
+2224: Nie dzieli się
+2225: Równoległy do
+2226: Nie równoległy do
+2227: Logiczne I : klin, koniunkcja
+2228: Logiczny Or : vee, rozłączenie
+2229: Skrzyżowanie : czapka, kapelusz
+222A: Unia : Puchar
+222B: Całka
+222C: Double Integral
+222D: Potrójna integralność
+222E: Całka konturowa
+222F: Całka powierzchniowa
+2230: Całość objętościowa
+2231: Całkowanie zgodnie z ruchem wskazówek zegara
+2232: Całka konturowa zgodna z ruchem wskazówek zegara
+2233: Całka konturowa przeciwnie do ruchu wskazówek zegara
+2234: W związku z tym
+2235: Bo
+2236: Stosunek
+2237: Proporcja
+2238: Dot Minus : odejmowanie nasycające
+2239: Nadmiar
+223A: Proporcja geometryczna
+223B: Homotetyczny
+223C: Tilde Operator : różni się (proporcjonalnie do) : różnica pomiędzy : podobny do : nie : cykl : apl tylda
+223D: Odwrócona tylda : leniwy
+223E: Odwrócony Leniwy S : najbardziej pozytywne
+223F: Sinusoida : prąd przemienny
+2240: Produkt wieniec
+2241: Nie Tilde
+2242: Minus Tilde
+2243: Asymptotycznie równy
+2244: Nie asymptotycznie równy
+2245: W przybliżeniu równe
+2246: W przybliżeniu ale nie tak naprawdę równy
+2247: Ani w przybliżeniu, ani w rzeczywistości równe
+2248: Prawie równy : asymptotyczny do
+2249: Nie prawie tak samo
+224A: Prawie równe lub równe
+224B: Potrójna tylda
+224C: Wszystko równe
+224D: Równoważny
+224E: Geometrically Equivalent To
+224F: Różnica pomiędzy
+2250: Zbliża się do limitu
+2251: Geometrically Equal To
+2252: W przybliżeniu równy lub obraz : prawie równa się
+2253: Obraz lub przybliżony do równego
+2254: Okrężnica równa się
+2255: Równa się dwukropek
+2256: Ring In Equal To
+2257: Pierścień równy do : w przybliżeniu równa
+2258: Koresponduje z
+2259: Szacunki : koresponduje z
+225A: Equiangular To
+225B: Gwiazda równa się
+225C: Delta równa się : równokątny : równy z definicji
+225D: Równa by definiować
+225E: Mierzony przez
+225F: Pytany Równy do
+2260: Nie równa się
+2261: Identyczne do
+2262: Nie identyczne do
+2263: Strictly Equivalent To
+2264: Mniejszy lub równy
+2265: Większe bądź równe
+2266: Mniej niż ponad równe
+2267: Większy niż ponad równy
+2268: Mniej niż ale nie równe
+2269: Większy niż ale nie równy
+226A: Znacznie mniej niż
+226B: Znacznie większy niż
+226C: pomiędzy : powód, kwantowy
+226D: Nie jest równoważny z
+226E: Nie mniej niż
+226F: Nie większy niż
+2270: Ani mniej niż, ani tak samo
+2271: Ani większe niż ani równe
+2272: Mniej niż lub ekwiwalent do
+2273: Większy niż lub równoważny do
+2274: Ani mniej, ani równorzędnie
+2275: Ani wyższy niż ani równoważny
+2276: Mniej niż lub więcej niż
+2277: Większy niż lub mniejszy niż
+2278: Ani mniej niż, ani więcej niż
+2279: Ani więcej niż, ani mniej niż
+227A: Poprzedza : niższa ranga niż
+227B: Udaje się : wyższa niż
+227C: Poprzedza lub równy
+227D: Udaje się lub jest równy
+227E: Poprzedza lub ekwiwalentny do
+227F: Udane lub ekwiwalentne do
+2280: Nie poprzedza
+2281: Nie udaje się
+2282: Podzbiór : zawarte w zestawie
+2283: Superset Of : zawiera w zestawie
+2284: Nie jest podzbiorem
+2285: Nie Superset Of
+2286: Podzbiór lub Równy do
+2287: Superset of lub Equal To
+2288: Ani podzbiór ani równy
+2289: Ani Superset, ani Equal To
+228A: Podzbiór z Nie równa się
+228B: Superset z Nie równa się
+228C: Multiset
+228D: Mnożenie wielokrotne
+228E: Multiset Union : z dodatkiem torby z notacją
+228F: Kwadratowy obraz
+2290: Kwadratowy oryginał
+2291: Kwadratowy obraz lub równy do
+2292: Kwadratowy oryginał lub równy do
+2293: Kwadratowa czapka
+2294: Square Cup
+2295: Zakreślony Plus : suma bezpośrednia : wektor wskazujący na stronę
+2296: Zakręcony Minus : symetryczna różnica
+2297: Krążyły czasy : produkt tensorowy : wektor wskazujący na stronę
+2298: Circled Division Slash : zakaz, wyłącz
+2299: Operator kropkowany : bezpośredni produkt : wektor wskazujący na stronie
+229A: Circled Ring Operator
+229B: Krążył operator gwiazdki : Nowy Rok, Boże Narodzenie
+229C: Okrągły Równy
+229D: Okrągła kreska
+229E: Squared Plus
+229F: Squared Minus
+22A0: Squared Times
+22A1: Operator kwadratu punktowego
+22A2: Right Tack : bramka : udowadnia, sugeruje, plony : dający się zredukować
+22A3: Lewy hak : kołowrót zwrotny : non-theorem, nie daje
+22A4: Down Tack : Top
+22A5: Up Tack : podstawa, dół
+22A6: Twierdzenie : zmniejsza się do
+22A7: Modele
+22A8: Prawdziwe : oświadczenie jest prawdziwe, ważne : jest tautologią : spełnia : prowadzi do
+22A9: Siły
+22AA: Potrójny pionowy słupek prawego kołowrotka
+22AB: Podwójny pionowy pręt Podwójny prawy kołowrót
+22AC: Nie udowadnia
+22AD: Nie prawda
+22AE: Nie wymusza
+22AF: Negated Double Vertical Bar Double Right Turnstile
+22B0: Poprzedza Under Relation
+22B1: Odnosi sukces w związku
+22B2: Normalna podgrupa
+22B3: Zawiera podgrupę jako normalną
+22B4: Normalna podgrupa lub równa
+22B5: Zawiera jako normalną podgrupę lub równą do
+22B6: Oryginał
+22B7: Obraz przedstawiający
+22B8: Multimap
+22B9: Hermitian Conjugate Matrix
+22BA: Interkalat
+22BB: Xor
+22BC: Nand
+22BD: Ani
+22BE: Kąt prosty z łukiem
+22BF: Trójkąt prostokątny
+22C0: N-Ary Logiczne I
+22C1: N-Ary Logical Or
+22C2: Skrzyżowanie N-Ary : notacja z uogólnione przecięcie
+22C3: N-Ary Union : notacja z unia uogólniona
+22C4: Diamentowy operator
+22C5: Dot Operator
+22C6: Gwiezdny operator
+22C7: Podział czasów
+22C8: Muszka
+22C9: Left Normal Factor Semidirect Product
+22CA: Prawy produkt pośredni typu Normal Factor
+22CB: Lewy produkt pośredni
+22CC: Prawy produkt pośredni
+22CD: Odwrócona tylda równa się
+22CE: Curly Logical Or
+22CF: Curly Logical I
+22D0: Podwójny podzbiór
+22D1: Podwójny Superset
+22D2: Podwójne przecięcie
+22D3: Podwójna Unia
+22D4: Widły : właściwe skrzyżowanie
+22D5: Równe i równoległe do
+22D6: Mniej niż z kropką
+22D7: Większy niż z kropką
+22D8: O wiele mniej niż
+22D9: Bardzo dużo większy niż
+22DA: Mniej niż równe lub większe niż
+22DB: Większy niż równy lub mniejszy niż
+22DC: Równy lub mniejszy niż
+22DD: Równe lub większe niż
+22DE: Równy lub poprzedni
+22DF: Równe lub sukcesy
+22E0: Nie poprzedza ani nie jest równy
+22E1: Nie udaje się lub jest równy
+22E2: Obraz nie kwadratowy lub równy
+22E3: Nie kwadratowy oryginał lub równy do
+22E4: Kwadratowy obraz lub nie równy do
+22E5: Kwadratowy oryginał lub nie równy do
+22E6: Mniej niż ale nie równoważne
+22E7: Większy niż ale nie równoważny
+22E8: Poprzedza, ale nie jest równoważny
+22E9: Udaje się, ale nie jest równoważny
+22EA: Nie normalna podgrupa
+22EB: Nie zawiera normalnej podgrupy
+22EC: Nie Normalna Podgrupa lub Równa Do
+22ED: Nie zawiera jako normalna podgrupa lub równa
+22EE: Elipsa pionowa
+22EF: Elipsa pozioma w linii środkowej
+22F0: Ukośne ukośne prawo w górę
+22F1: Ukośne ukośne prawo w dół
+22F2: Element o długim skoku poziomym
+22F3: Element z pionowym paskiem na końcu skoku poziomego
+22F4: Mały element z pionowym paskiem na końcu poziomego skoku
+22F5: Element z kropką powyżej
+22F6: Element z Paskiem
+22F7: Mały element z paskiem
+22F8: Element z Underbar
+22F9: Element z dwoma poziomymi pociągnięciami
+22FA: Zawiera długi poziomy skok
+22FB: Zawiera pasek pionowy na końcu skoku poziomego
+22FC: Małe elementy z pionowym paskiem na końcu poziomego skoku
+22FD: Zawiera Overbar
+22FE: Mała zawartość z paskiem
+22FF: Członkostwo Z Notation Bag

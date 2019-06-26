@@ -1,0 +1,256 @@
+2300: Çap işareti
+2301: Elektrik ok
+2302: ev : Ev
+2303: Yukarı ok ucu
+2304: Aşağı ok ucu
+2305: izdüşümsel
+2306: Perspektif
+2307: Dalgalı çizgi
+2308: Sol Tavan : apl upstile
+2309: Doğru tavan
+230A: Sol Kat : apl aşağı yönlü
+230B: Sağ zemin
+230C: Sağ Alt Kırpma
+230D: Sol Alt Kırpma
+230E: Sağ Üst Kırpma
+230F: Sol Üst Kırpma
+2310: Tersine Döndü İşaret Yok : çizginin başlangıcı
+2311: Kare Pastil : öpücük (yastık)
+2312: Ark : herhangi bir hattın konumu
+2313: bölüm : yüzeyin konumu
+2314: sektör
+2315: Telefon kaydedici
+2316: Pozisyon göstergesi : gerçek pozisyon
+2317: Viewdata Meydanı
+2318: İlgi çekici yer işareti : komut tuşu : işletim sistemi anahtarı (iso 9995-7)
+2319: İşareti Değil döndü : çizgi kalemi
+231A: İzlemek
+231B: Kum saati : saat için simyasal sembol
+231C: Sol üst köşe
+231D: Sağ üst köşe
+231E: Sol alt köşe
+231F: Sağ Alt Köşe
+2320: Üst Yarım İntegral
+2321: Alt Yarım İntegral
+2322: hoşgörmemek
+2323: Gülümseme
+2324: İki Yatay Çubuk Arasında Yukarı Ok Başı : giriş anahtarı
+2325: Seçenek tuşu
+2326: Sağa Sil : sağ tuşa sil
+2327: Bir Dikdörtgen Kutuda X : anahtarı temizle
+2328: Tuş takımı
+2329: Sol İşaret Açılı Braketi
+232A: Sağ İşaret Açısı Braketi
+232B: Sola Sil : sol tuşa sil
+232C: Benzen Halkası
+232D: silindiriklik
+232E: Her Yerde-Profil
+232F: Simetri
+2330: Toplam aşınma
+2331: Boyut kökenli
+2332: Konik Konik
+2333: Eğim
+2334: havşa
+2335: Havşa
+2336: APL İşlevsel Simgesi I-Beam
+2337: Apl Fonksiyonel Sembolü Squish Quad
+2338: Apl İşlevsel Simgesi Quad Eşit
+2339: APL İşlevsel Sembolü Quad Divide
+233A: APL İşlevsel Sembol Quad Diamond
+233B: APL İşlevsel Simgesi Quad Jot
+233C: APL İşlevsel Sembolü Quad Circle
+233D: APL İşlevsel Sembol Daire Stile
+233E: APL İşlevsel Simgesi Circle Jot
+233F: APL İşlevsel Sembol Çizgi Çubuğu
+2340: APL İşlevsel Sembol Ters Eğik Çizgi Çubuğu
+2341: APL İşlevsel Sembolü Quad Slash
+2342: APL İşlevsel Sembolü Quad Ters Eğik Çizgi
+2343: Apl İşlevsel Sembolü Quad Daha Az
+2344: Apl Fonksiyonel Sembolü Quad Daha Büyük
+2345: APL İşlevsel Sembol Soldan Vane
+2346: Apl Fonksiyonel Sembolü Sağa Vane
+2347: APL İşlevsel Sembolü Quad Soldan Ok
+2348: APL Fonksiyonel Sembolü Dörtlü Sağ Ok
+2349: APL İşlevsel Simgesi Daire Ters Eğik Çizgi
+234A: APL İşlevsel Sembol Aşağı Tack Underbar : tack underbar
+234B: APL İşlevsel Sembol Delta Stile
+234C: APL İşlevsel Sembolü Quad Down Caret
+234D: APL İşlevsel Simgesi Quad Delta
+234E: APL İşlevsel Sembol Aşağı Tack Jot : up tack jot
+234F: APL İşlevsel Sembol Yukarı Vane
+2350: APL İşlevsel Sembolü Quad Yukarı Ok
+2351: APL İşlevsel Sembol Yukarı Tack Overbar : aşağı gelmek
+2352: APL İşlevsel Simgesi Del Stile
+2353: APL İşlevsel Sembolü Quad Up Caret
+2354: APL İşlevsel Simgesi Quad Del
+2355: APL İşlevsel Sembol Yukarı Tack Jot : aşağı not jot
+2356: Apl Fonksiyonel Sembolü Aşağıya Vane
+2357: APL İşlevsel Sembolü Quad Downward Arrow
+2358: APL İşlevsel Sembol Alıntı Underbar
+2359: APL İşlevsel Sembol Delta Underbar
+235A: APL İşlevsel Sembol Diamond Underbar
+235B: APL İşlevsel Sembolü Jot Underbar
+235C: APL İşlevsel Sembol Daire Alt Çubuğu
+235D: APL İşlevsel Sembol Yukarı Ayakkabı Jotu
+235E: API İşlevsel Sembolü Alıntı Quad
+235F: APL İşlevsel Sembol Çember Yıldız : Yeni yıl, noel
+2360: APL İşlevsel Simgesi Dört Sütun
+2361: APL İşlevsel Sembol Yukarı Tack Diaeresis : aşağı tack diaeresis
+2362: Apl İşlevsel Sembolü Del Diaeresis
+2363: Apl İşlevsel Sembol Yıldız Diyaterezi
+2364: Apl İşlevsel Sembol Jot Diyaterezi : yuh
+2365: APL İşlevsel Sembol Çember Diyaterezi : bağırmak
+2366: APL Fonksiyonel Sembol Aşağı Ayakkabı Stile
+2367: APL İşlevsel Sembol Sol Ayakkabı Stile
+2368: APL İşlevsel Simgesi Tilde Diyaterezi : sırıtma
+2369: Apl İşlevsel Sembolü Daha Büyük Diaerez
+236A: APL İşlevsel Simgesi Virgül Çubuğu
+236B: APL İşlevsel Simgesi Del Tilde
+236C: Apl İşlevsel Simgesi Zilde
+236D: APL İşlevsel Sembol Stile Tilde
+236E: Apl İşlevsel Sembolü Noktalı virgül Underbar
+236F: APL İşlevsel Simgesi Quad Eşit Değil
+2370: API Fonksiyonel Sembolü Quad Sorusu
+2371: Apl Fonksiyonel Sembol Aşağı Caret Tilde
+2372: APL İşlevsel Sembol Yukarı Caret Tilde
+2373: APL İşlevsel Simgesi Iota
+2374: APL İşlevsel Simgesi Rho
+2375: APL İşlevsel Simgesi Omega
+2376: APL İşlevsel Sembolü Alpha Underbar
+2377: APL İşlevsel Simgesi Epsilon Underbar
+2378: APL İşlevsel Simgesi Iota Underbar
+2379: APL İşlevsel Simgesi Omega Underbar
+237A: APL İşlevsel Sembolü Alpha
+237B: Onay işareti değil
+237C: Aşağıya Doğru Zikzak Oklu Dik Açı
+237D: Omuzlu Açık Kutu
+237E: Zil simgesini
+237F: Orta Noktalı Dikey Çizgi
+2380: Ekleme Sembolü
+2381: Sürekli Alt Çizgi Sembolü
+2382: Süreksiz Alt Çizgi Sembolü
+2383: Vurgu Sembolü
+2384: Kompozisyon Sembolü
+2385: Merkez Dikey Çizgi ile Beyaz Kare : merkez
+2386: Sembol Gir
+2387: Alternatif Anahtar Simgesi
+2388: Dümen Simgesi : kontrol
+2389: Çentikli Yuvarlak Çubuk : Duraklat
+238A: Aşağı çemberli Üçgen : ara ver
+238B: Kuzeybatı ok ile kırık daire : kaçış
+238C: Sembolü geri al
+238D: Monostable Sembolü
+238E: Histerezis sembolü
+238F: Açık Devre Çıkış H Tipi Sembol
+2390: Açık Devre L Çıkışlı Sembol
+2391: Pasif Aşağı Çekmeli Çıkış Sembolü
+2392: Pasif Çekmeli Çıkış Sembolü
+2393: Doğru Akım Sembolü Form İki
+2394: Yazılım-İşlev Sembolü
+2395: APL İşlevsel Sembolü Quad
+2396: Ondalık Ayırıcı Anahtar Simgesi
+2397: Önceki sayfa
+2398: Sonraki Sayfa
+2399: Ekranı Yazdır Simgesi
+239A: Ekran Simgesini Temizle
+239B: Sol Parantez Üst Kancası
+239C: Sol Parantez Uzatması
+239D: Sol Parantez Alt Kancası
+239E: Sağ Parantez Üst Kancası
+239F: Sağ Parantez Uzantısı
+23A0: Sağ Parantez Alt Kancası
+23A1: Sol Köşe Dirseği Üst Köşe
+23A2: Sol Köşebent Uzatma
+23A3: Sol Köşeli Dirsek Alt Köşe
+23A4: Sağ Köşe Dirseği Üst Köşe
+23A5: Sağ köşeli ayraç uzatma
+23A6: Sağ Köşebent Alt Köşe
+23A7: Sol Kıvırcık Braket Üst Kanca
+23A8: Sol Kıvırcık Braket Orta Parça
+23A9: Sol Kıvırcık Braket Alt Kancası
+23AA: Kıvırcık Braket Uzatma
+23AB: Sağ Kıvırcık Braket Üst Kanca
+23AC: Sağ Kıvırcık Braket Orta Parça
+23AD: Sağ Kıvırcık Braketi Alt Kanca
+23AE: İntegral Uzatma
+23AF: Yatay çizgi uzatma
+23B0: Sol Üst veya Sağ Alt Kıvırcık Braket Bölümü : sol bıyık
+23B1: Sağ Üst veya Alt Sol Kıvırcık Braketi Bölümü : sağ bıyık
+23B2: Toplama Üstü
+23B3: Toplama Alt
+23B4: Üst köşeli ayraç
+23B5: Alt köşeli ayraç
+23B6: Üst köşeli ayraç üst alt köşeli ayraç
+23B7: Radikal Sembol Alt
+23B8: Sol Dikey Kutu Çizgisi
+23B9: Sağ Dikey Kutu Hattı
+23BA: Yatay Tarama Hattı-1
+23BB: Yatay Tarama Hattı-3
+23BC: Yatay Tarama Hattı-7
+23BD: Yatay Tarama Hattı-9
+23BE: Diş Hekimliği Sembolü Işık Dikey ve Sağ Üst
+23BF: Diş Hekimliği Sembolü Işık Dikey ve Sağ Alt
+23C0: Diş Hekimliği sembolü ışık daire ile dikey
+23C1: Diş Hekimliği sembolü ışık aşağı ve daire ile yatay
+23C2: Diş Hekimliği sembolü yanar ve daire ile yatay
+23C3: Diş Hekimliği sembol hafif üçgen ile dikey
+23C4: Diş Hekimliği sembolü ışık aşağı ve üçgen ile yatay
+23C5: Diş Hekimliği sembolü yanar ve üçgen ile yatay
+23C6: Diş Hekimliği Sembolü Işık Dikey ve Dalga
+23C7: Diş Hekimliği sembolü ışık aşağı ve dalga ile yatay
+23C8: Diş Hekimliği sembolü yanar ve dalga ile yatay
+23C9: Diş Hekimliği Sembolü Aşağı Hafif ve Yatay
+23CA: Diş Hekimliği sembolü yanar ve yatay
+23CB: Diş Hekimliği Sembolü Işık Dikey ve Sol Üst
+23CC: Diş Hekimliği Sembolü Işık Dikey ve Sol Alt
+23CD: Metrekare
+23CE: Dönüş sembolü
+23CF: Sembolü Çıkar
+23D0: Dikey çizgi uzatma
+23D1: Metrik Breve
+23D2: Metrik Uzun Aşırı Kısa
+23D3: Uzun Metrik Kısa
+23D4: Metrik Uzun İki Şort Üzeri
+23D5: Uzun Metrik İki Şort
+23D6: Metrik İki Şort Katıldı
+23D7: Metrik Triseme
+23D8: Metrik Tetraseme
+23D9: Metrik Pentaseme
+23DA: Yeryüzü
+23DB: Sigorta
+23DC: Üst Parantez
+23DD: Alt Parantez
+23DE: Üst Kıvırcık Braket
+23DF: Alt Kıvırcık Braket
+23E0: En Kaplumbağa Kabuğu Braketi
+23E1: Alt Kaplumbağa Kabuğu Braketi
+23E2: Beyaz Yamuk
+23E3: Yuvarlak Benekli Yüzük
+23E4: doğruluk
+23E5: Düzlük
+23E6: AC akım
+23E7: Elektrik kavşak
+23E8: Ondalık Üs Sembolü
+23E9: Siyah sağ işaret eden çift üçgen : Hızlı ileri
+23EA: Siyah Sol Işaretli Çift Üçgen : hızlı geri sarma
+23EB: Siyah Yukarıyı Gösteren Çift Üçgen
+23EC: Siyah Aşağı Işaretli Çift Üçgen
+23ED: Dikey Çubuklu Siyah Sağ Işaretli Çift Üçgen
+23EE: Dikey Çubuklu Siyah Sol Işaretli Çift Üçgen
+23EF: Çift Dikey Çubuklu Siyah Sağ İşaret Üçgeni
+23F0: Alarm saati
+23F1: Kronometre
+23F2: Zamanlayıcı Saati
+23F3: Akan Kumlu Kum Saati
+23F4: Siyah Orta Sol İşaret Üçgeni : geri, geri
+23F5: Siyah Orta Sağ İşaret Üçgen : ileri
+23F6: Siyah Orta Yukarı dönük Üçgen : artırmak
+23F7: Siyah Orta Aşağı Işaretli Üçgen : azaltmak
+23F8: Çift dikey çubuk : Duraklat
+23F9: Durmak için Siyah Kare : durdurmak
+23FA: Kayıt için Siyah Daire : kayıt
+23FB: Güç sembolü
+23FC: Açma-Kapama Sembolü
+23FD: Güç Açık Sembolü
+23FE: Güç uyku sembolü
+23FF: Gözlemci Göz Simgesi

@@ -1,0 +1,256 @@
+FE00: Varyasyon Seçici-1
+FE01: Varyasyon Seçici-2
+FE02: Varyasyon Seçici-3
+FE03: Varyasyon Seçici-4
+FE04: Varyasyon Seçici-5
+FE05: Varyasyon Seçici-6
+FE06: Varyasyon Seçici-7
+FE07: Varyasyon Seçici-8
+FE08: Varyasyon Seçici-9
+FE09: Varyasyon Seçici-10
+FE0A: Varyasyon Seçici-11
+FE0B: Varyasyon Seçici-12
+FE0C: Varyasyon Seçici-13
+FE0D: Varyasyon Seçici-14
+FE0E: Varyasyon Seçici-15
+FE0F: Varyasyon Seçici-16
+FE10: Dikey Virgül Sunum Formu
+FE11: Dikey İdeografik Virgül Sunum Formu
+FE12: Dikey İdeografik Full Stop Sunum Formu
+FE13: Dikey Kolon Sunum Formu
+FE14: Dikey noktalı virgül için sunum formu
+FE15: Dikey Ünlem İşareti Sunum Formu
+FE16: Dikey Soru İşareti Sunum Formu
+FE17: Dikey Sol Beyaz Lentiküler Braket Sunum Formu
+FE18: Dikey Sağ Beyaz Lentiküler Braket Sunum Formu
+FE19: Dikey Yatay Üç Nokta Sunum Formu
+FE1A:
+FE1B:
+FE1C:
+FE1D:
+FE1E:
+FE1F:
+FE20: Birleştirici Soldaki Sol Yarı
+FE21: Ligatür Sağ Yarışı Birleştirme
+FE22: Çift Tilde Sol Yarım Kombinasyon
+FE23: Çift Tilde Sağ Yarım Birleştirme
+FE24: Macron Sol Yarım birleştirilmesi
+FE25: Macron'un Sağ Yarısını Birleştirmek
+FE26: Yapıştırıcı Macron'u Birleştirmek
+FE27: Bitişik Bitiş Sol Yarısı Altında
+FE28: Ligatür Sağ Yarısını Aşağıda Birleştirmek
+FE29: Tilde Sol Yarım Aşağıdaki Birleştirilmesi
+FE2A: Tilde'nin sağ yarısını birleştiriyor
+FE2B: Altında Macron Sol Yarım Kombine
+FE2C: Macron'un Sağ Yarısını Aşağıda Birleştirmek
+FE2D: Aşağıdaki Yapıştırıcı Macron'u Birleştirmek
+FE2E: Kiril Başlığı Sol Yarım birleştiren
+FE2F: Kiril Başlığı Sağ Yarısını Birleştirmek
+FE30: Dikey İki Nokta Lider İçin Sunum Formu
+FE31: Dikey Em Çizgi Sunum Formu
+FE32: Vertical En Dash için Sunum Formu
+FE33: Dikey Alçak Çizgi Sunum Formu
+FE34: Dikey Dalgalı Alçak Çizgi Sunum Formu
+FE35: Dikey Sol Parantez için Sunum Formu
+FE36: Dikey Sağ Parantez için Sunum Formu
+FE37: Dikey Sol Kıvrımlı Braket Sunum Formu
+FE38: Dikey Sağ Kıvrımlı Braket Sunum Formu
+FE39: Dikey Sol Kaplumbağa Kabuğu Braketi Sunum Formu
+FE3A: Dikey Sağ Kaplumbağa Kabuğu Braketi Sunum Formu
+FE3B: Dikey Sol Siyah Lentiküler Braket Sunum Formu
+FE3C: Dikey Sağ Siyah Lentiküler Braket Sunum Formu
+FE3D: Dikey Sol Çift Açılı Braket Sunum Formu
+FE3E: Dik Sağ Açılı Braket Sunum Formu
+FE3F: Dikey Sol Açılı Braket Sunum Formu
+FE40: Dik Dik Açı Braketi Sunum Formu
+FE41: Dikey Sol Köşe Dirseği Sunum Formu
+FE42: Dikey Sağ Köşe Dirseği Sunum Formu
+FE43: Dikey Sol Beyaz Köşe Dirseği Sunum Formu
+FE44: Dikey Sağ Beyaz Köşe Dirseği Sunum Formu
+FE45: Susam Nokta
+FE46: Beyaz susam nokta
+FE47: Dikey Sol Köşebent için Sunum Formu
+FE48: Dik Sağ Köşebent Sunum Formu
+FE49: Kesikli Overline
+FE4A: Merkez Çizgisi Üst Çizgisi
+FE4B: Dalgalı Overline
+FE4C: Çift Dalgalı Overline
+FE4D: Kesikli Düşük Çizgi
+FE4E: Merkez hattı düşük hat
+FE4F: Dalgalı Düşük Çizgi
+FE50: Küçük Virgül
+FE51: Küçük İdeografik Virgül
+FE52: Küçük Tam Durak
+FE53:
+FE54: Küçük noktalı virgül
+FE55: Küçük Kolon
+FE56: Küçük Soru İşareti
+FE57: Küçük ünlem işareti
+FE58: Küçük Em Çizgi
+FE59: Küçük Sol Parantez
+FE5A: Küçük Sağ Parantez
+FE5B: Küçük Sol Kıvırcık Braket
+FE5C: Küçük Sağ Kıvırcık Braket
+FE5D: Küçük Sol Kaplumbağa Kabuğu Braketi
+FE5E: Küçük Sağ Kaplumbağa Kabuğu Braketi
+FE5F: Küçük sayı işareti
+FE60: Küçük Amper
+FE61: Küçük Yıldız
+FE62: Küçük Artı Işareti
+FE63: Küçük Tire-Eksi
+FE64: Küçük Daha Az İşaret
+FE65: Küçük Büyük işareti
+FE66: Küçük eşittir işareti
+FE67:
+FE68: Küçük Ters Solidus
+FE69: Küçük dolar işareti
+FE6A: Küçük Yüzde Işareti
+FE6B: Küçük Ticari At
+FE6C:
+FE6D:
+FE6E:
+FE6F:
+FE70: Arapça Fathatan İzole Formu
+FE71: Yukarıda Fathatan ile Arapça Tatweel
+FE72: Arapça Dammatan İzole Formu
+FE73: Arapça Kuyruk Parçası
+FE74: Arapça Kasratan İzole Formu
+FE75:
+FE76: Arapça Fatha İzole Formu
+FE77: Arapça Fatha Medial Formu
+FE78: Arapça Damma İzole Formu
+FE79: Arapça Damma Medial Formu
+FE7A: Arapça Kasra İzole Formu
+FE7B: Arapça Kasra Medial Formu
+FE7C: Arapça Shadda İzole Formu
+FE7D: Arapça Shadda Medial Formu
+FE7E: Arapça Sukun izole formu
+FE7F: Arapça Sukun Medial Formu
+FE80: Arapça mektup Hamza izole formu
+FE81: Madda izole formda yukarıda ile Arapça mektup Alef
+FE82: Madda final formunun üstünde Madda ile Arapça mektup Alef
+FE83: Arapça mektup Alef ile izole formun üstünde Hamza
+FE84: Final Formunun Üstünde Hamza ile Arapça Mektup Alef
+FE85: Hamza ile izole mektup yukarıda Arapça formu waw
+FE86: Hamza ile Final Formunun Üstündeki Arapça Mektup Waw
+FE87: Arapça mektup Alef ile izole formun altında Hamza
+FE88: Final Formunun Altında Hamza ile Arapça Mektup Alef
+FE89: Arapça mektup Yeh Hamza ile izole formun üstünde
+FE8A: Son Form Üstünde Hamza ile birlikte Arapça Mektup Yeh
+FE8B: İlk Harfi Yukarıdaki Hamza ile Arapça Mektup Yeh
+FE8C: Medial Form Üstünde Hamza ile Arapça Mektup Yeh
+FE8D: Arapça mektup alef izole formu
+FE8E: Arapça Mektup Alef Nihai Formu
+FE8F: Arapça mektup izole formun arkasında
+FE90: Final Form Behind Arapça Harfi
+FE91: İlk Harf Behind Arapça Harfi
+FE92: Medial Form Behind Arapça Mektup
+FE93: Arapça mektup Teh Marbuta izole formu
+FE94: Arapça Mektup Teh Marbuta Final Formu
+FE95: Arapça mektup Teh izole formu
+FE96: Arapça Mektup Teh Son Formu
+FE97: Arapça Harf Teh İlk Formu
+FE98: Arapça Mektup Teh Medial Formu
+FE99: Arapça mektup theh izole formu
+FE9A: Arapça Mektup Theh Final Formu
+FE9B: Arapça Harf Theh İlk Formu
+FE9C: Arapça Harf Theh Medial Formu
+FE9D: Arapça mektup Jeem izole formu
+FE9E: Arapça Mektup Jeem Final Formu
+FE9F: Arapça Mektup Jeem İlk Formu
+FEA0: Arapça Mektup Jeem Medial Formu
+FEA1: Arapça mektup Hah izole formu
+FEA2: Arapça Mektup Hah Final Formu
+FEA3: Arapça Harf Hah İlk Formu
+FEA4: Arapça Harf Hah Medial Formu
+FEA5: Arapça mektup hah izole formu
+FEA6: Arapça Mektup Khah Final Formu
+FEA7: Arapça Mektup Khah İlk Formu
+FEA8: Arapça Mektup Khah Medial Form
+FEA9: Arapça mektup Dal izole formu
+FEAA: Arapça Mektup Dal Son Formu
+FEAB: Arapça mektup Thal izole formu
+FEAC: Arapça Mektup Thal Final Formu
+FEAD: Arapça mektup reh izole formu
+FEAE: Arapça Mektup Reh Son Formu
+FEAF: Arapça mektup Zain izole formu
+FEB0: Arapça Mektubu Zain Final Formu
+FEB1: Arapça mektup izole formu görüldü
+FEB2: Arapça Mektup Görülen Final Formu
+FEB3: Arapça Harf İlk Form Görüldü
+FEB4: Arapça Mektup Görülen Medial Form
+FEB5: Arapça mektup parlaklık izole formu
+FEB6: Arapça Mektup Sheen Final Formu
+FEB7: Arapça Mektup Sheen İlk Formu
+FEB8: Arapça Mektup Sheen Medial Formu
+FEB9: Arapça mektup üzgün izole formu
+FEBA: Arapça Mektup Sad Final Formu
+FEBB: Arapça Mektup Sad İlk Formu
+FEBC: Arapça Mektup Sad Medial Form
+FEBD: Arapça mektup baba izole formu
+FEBE: Arapça Mektup Baba Final Formu
+FEBF: Arapça Mektup Baba İlk Formu
+FEC0: Arapça mektup baba medial formu
+FEC1: Arapça mektup Tah izole formu
+FEC2: Arapça Mektup Tah Son Form
+FEC3: Arapça Mektup Tah İlk Form
+FEC4: Arapça Mektup Tah Medial Form
+FEC5: Arapça mektup Zah izole formu
+FEC6: Arapça Mektup Zah Final Formu
+FEC7: Arapça Mektup Zah İlk Form
+FEC8: Arapça Mektup Zah Medial Form
+FEC9: Arapça mektup Ain izole formu
+FECA: Arapça Mektup Ain Final Formu
+FECB: Arapça Harf Ain İlk Formu
+FECC: Arapça mektup Ain medial formu
+FECD: Arapça mektup Ghain izole formu
+FECE: Arapça Mektup Ghain Final Formu
+FECF: Arapça Mektup Ghain İlk Formu
+FED0: Arapça Mektup Ghain Medial Formu
+FED1: Arapça mektup Feh izole formu
+FED2: Arapça Mektup Feh Final Formu
+FED3: Arapça Harf Feh İlk Formu
+FED4: Arapça Mektup Feh Medial Formu
+FED5: Arapça harf qaf izole formu
+FED6: Arapça Mektup Qaf Final Formu
+FED7: Arapça Mektup Qaf İlk Formu
+FED8: Arapça Mektup Qaf Medial Form
+FED9: Arapça mektup kaf izole formu
+FEDA: Arapça Mektup Kaf Final Formu
+FEDB: Arapça Mektup Kaf İlk Formu
+FEDC: Arapça Mektup Kaf Medial Form
+FEDD: Arapça Letter Lam Izole Formu
+FEDE: Arapça Mektup Lamı Final Formu
+FEDF: Arapça Mektubu Lam İlk Formu
+FEE0: Arapça Mektubu Lam Medial Formu
+FEE1: Arapça mektup Meem izole formu
+FEE2: Arapça Mektup Meem Final Formu
+FEE3: Arapça Mektup Meem İlk Formu
+FEE4: Arapça Mektup Meem Medial Formu
+FEE5: Arapça Mektup Öğlen Izole Formu
+FEE6: Arapça Mektup Öğlen Nihai Formu
+FEE7: Arapça Mektup Öğlen İlk Formu
+FEE8: Arapça Mektup Öğlen Medial Formu
+FEE9: Arapça mektup Heh izole formu
+FEEA: Arapça Mektup Heh Final Formu
+FEEB: Arapça Harf Heh İlk Formu
+FEEC: Arapça Mektup Heh Medial Formu
+FEED: Arapça mektup waw izole formu
+FEEE: Arapça Mektup Waw Final Formu
+FEEF: Arapça Mektup Alef Maksura İzole Form
+FEF0: Arapça Mektup Alef Maksura Final Formu
+FEF1: Arapça mektup Yeh izole formu
+FEF2: Arapça Mektup Yeh Final Formu
+FEF3: Arapça Mektup Yeh İlk Formu
+FEF4: Arapça Mektup Yeh Medial Form
+FEF5: Madda ile izole formun üzerinde Alef ile Arapça ligature Lam
+FEF6: Madda ile Final Formunun Üstünde Alefli Arapça Ligatür Lam
+FEF7: Hamza ile birlikte Alef ile Arapça Ligatür Lam
+FEF8: Final Formunun Üstünde Hamza ile Alefli Arapça Ligatür Lam
+FEF9: Hamza ile Alefli Arapça Ligatür Lam
+FEFA: Final Formunun Altında Hamza ile Alefli Arapça Ligatür Lam
+FEFB: Alef İzole Form ile Arapça Ligatür Lam
+FEFC: Alef Final Formlu Arapça Ligatür Lam
+FEFD:
+FEFE:
+FEFF: Sıfır Genişlikte Kesilmez Boşluk : bom, zwnbsp, Bayt Sipariş Markası

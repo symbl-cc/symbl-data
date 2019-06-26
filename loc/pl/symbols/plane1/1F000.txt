@@ -1,0 +1,256 @@
+1F000: Mahjong Tile East Wind
+1F001: Mahjong Tile South Wind
+1F002: Mahjong Tile West Wind
+1F003: Mahjong Tile North Wind
+1F004: Mahjong Tile Red Dragon : Hongzhong, 中
+1F005: Mahjong Tile Green Dragon : qingfa
+1F006: Mahjong Tile White Dragon : baiban
+1F007: Mahjong Tile One of Characters : blady
+1F008: Mahjong Tile Two of Characters
+1F009: Mahjong Tile Three of Characters
+1F00A: Mahjong Tile Four of Characters
+1F00B: Mahjong Tile Five of Characters
+1F00C: Mahjong Tile Six of Characters
+1F00D: Mahjong Tile Seven of Characters
+1F00E: Mahjong Tile Eight of Characters
+1F00F: Mahjong Tile Nine of Characters
+1F010: Mahjong Tile One of Bamboos : tiao
+1F011: Mahjong Tile Two Bamboo
+1F012: Mahjong Tile Three Bamboos
+1F013: Mahjong Tile Four Bamboo
+1F014: Mahjong Tile Five of Bamboos
+1F015: Mahjong Tile Six of Bamboos
+1F016: Mahjong Tile Seven Bamboo
+1F017: Mahjong Płytka Osiem Bambusów
+1F018: Mahjong Tile Nine of Bamboo
+1F019: Mahjong Tile One of Circles : bing
+1F01A: Mahjong Tile Two of Circles
+1F01B: Mahjong Tile of Three of Circles
+1F01C: Mahjong Tile Four of Circles
+1F01D: Mahjong Tile Five of Circles
+1F01E: Mahjong Tile Six of Circles
+1F01F: Mahjong Tile Seven of Circles
+1F020: Mahjong Tile Eight of Circles
+1F021: Mahjong Tile Nine of Circles
+1F022: Mahjong Tile Plum : mei
+1F023: Mahjong Tile Orchid : lan
+1F024: Mahjong Tile Bamboo : zhu
+1F025: Mahjong Tile Chrysanthemum : ju
+1F026: Mahjong Tile Spring
+1F027: Mahjong Tile Summer
+1F028: Mahjong Tile Autumn
+1F029: Mahjong Tile Winter
+1F02A: Mahjong Tile Joker : baida
+1F02B: Mahjong Tile Back
+1F02C:
+1F02D:
+1F02E:
+1F02F:
+1F030: Dachówka Domino pozioma z powrotem
+1F031: Dachówka Domino Horizontal-00-00
+1F032: Płytka domino pozioma-00-01
+1F033: Dachówka Domino Horizontal-00-02
+1F034: Płytka Domino Horizontal-00-03
+1F035: Dachówka Domino Horizontal-00-04
+1F036: Dachówka Domino Horizontal-00-05
+1F037: Dachówka Domino poziomo-00-06
+1F038: Dachówka Domino Horizontal-01-00
+1F039: Dachówka Domino Poziomo-01-01
+1F03A: Płytka Domino Horizontal-01-02
+1F03B: Dachówka Domino pozioma-01-03
+1F03C: Dachówka Domino Horizontal-01-04
+1F03D: Dachówka Domino pozioma-01-05
+1F03E: Dachówka Domino Horizontal-01-06
+1F03F: Dachówka Domino Horizontal-02-00
+1F040: Dachówka Domino Horizontal-02-01
+1F041: Dachówka Domino Poziomo-02-02
+1F042: Dachówka Domino Horizontal-02-03
+1F043: Dachówka Domino Horizontal-02-04
+1F044: Dachówka Domino pozioma-02-05
+1F045: Dachówka Domino Horizontal-02-06
+1F046: Dachówka Domino Horizontal-03-00
+1F047: Dachówka Domino Horizontal-03-01
+1F048: Dachówka Domino Horizontal-03-02
+1F049: Dachówka Domino Horizontal-03-03
+1F04A: Dachówka Domino Horizontal-03-04
+1F04B: Dachówka domino pozioma-03-05
+1F04C: Dachówka Domino Horizontal-03-06
+1F04D: Domino Płytka Horizontal-04-00
+1F04E: Dachówka Domino Horizontal-04-01
+1F04F: Dachówka Domino poziomo-04-02
+1F050: Dachówka Domino Horizontal-04-03
+1F051: Dachówka Domino Horizontal-04-04
+1F052: Dachówka Domino Horizontal-04-05
+1F053: Dachówka Domino Horizontal-04-06
+1F054: Dachówka Domino Horizontal-05-00
+1F055: Dachówka Domino Horizontal-05-01
+1F056: Dachówka Domino poziomo-05-02
+1F057: Dachówka Domino Horizontal-05-03
+1F058: Dachówka Domino poziomo-05-04
+1F059: Dachówka domino pozioma-05-05
+1F05A: Dachówka Domino Horizontal-05-06
+1F05B: Dachówka Domino Horizontal-06-00
+1F05C: Dachówka Domino Horizontal-06-01
+1F05D: Dachówka Domino poziomo-06-02
+1F05E: Dachówka Domino Horizontal-06-03
+1F05F: Dachówka Domino Horizontal-06-04
+1F060: Dachówka Domino poziomo-06-05
+1F061: Dachówka Domino poziomo-06-06
+1F062: Dachówka Domino z tyłu
+1F063: Dachówka Domino Vertical-00-00
+1F064: Dachówka Domino w pionie-00-01
+1F065: Dachówka Domino Vertical-00-02
+1F066: Dachówka Domino Vertical-00-03
+1F067: Dachówka Domino Vertical-00-04
+1F068: Dachówka Domino w pionie 00-05
+1F069: Dachówka Domino w pionie 00-06
+1F06A: Dachówka Domino Vertical-01-00
+1F06B: Dachówka Domino Vertical-01-01
+1F06C: Dachówka Domino Vertical-01-02
+1F06D: Dachówka Domino Vertical-01-03
+1F06E: Dachówka Domino Vertical-01-04
+1F06F: Dachówka Domino w pionie 01-05
+1F070: Dachówka Domino w pionie 01-06
+1F071: Domino Tile Vertical-02-00
+1F072: Dachówka Domino Vertical-02-01
+1F073: Dachówka Domino Vertical-02-02
+1F074: Dachówka Domino Vertical-02-03
+1F075: Dachówka Domino Vertical-02-04
+1F076: Dachówka Domino w pionie-02-05
+1F077: Dachówka Domino w pionie-02-06
+1F078: Dachówka Domino Vertical-03-00
+1F079: Dachówka Domino Vertical-03-01
+1F07A: Dachówka Domino Vertical-03-02
+1F07B: Dachówka Domino Vertical-03-03
+1F07C: Dachówka Domino Vertical-03-04
+1F07D: Dachówka Domino w pionie 03-05
+1F07E: Dachówka Domino Vertical-03-06
+1F07F: Dachówka Domino Vertical-04-00
+1F080: Dachówka Domino w pionie-04-01
+1F081: Dachówka Domino Vertical-04-02
+1F082: Dachówka Domino Vertical-04-03
+1F083: Dachówka Domino Vertical-04-04
+1F084: Dachówka Domino w pionie-04-05
+1F085: Dachówka Domino Vertical-04-06
+1F086: Dachówka Domino Vertical-05-00
+1F087: Dachówka Domino Vertical-05-01
+1F088: Dachówka Domino Vertical-05-02
+1F089: Dachówka Domino Vertical-05-03
+1F08A: Dachówka Domino Vertical-05-04
+1F08B: Dachówka Domino w pionie 05-05
+1F08C: Dachówka Domino Vertical-05-06
+1F08D: Domino Płytka Vertical-06-00
+1F08E: Dachówka Domino Vertical-06-01
+1F08F: Dachówka Domino Vertical-06-02
+1F090: Dachówka Domino Vertical-06-03
+1F091: Dachówka Domino Vertical-06-04
+1F092: Dachówka Domino w pionie 06-05
+1F093: Dachówka Domino w pionie 06-06
+1F094:
+1F095:
+1F096:
+1F097:
+1F098:
+1F099:
+1F09A:
+1F09B:
+1F09C:
+1F09D:
+1F09E:
+1F09F:
+1F0A0: Powrót do gry w karty
+1F0A1: As kart pikowych
+1F0A2: Karta do gry Dwie pik
+1F0A3: Karta do gry Trzy pik
+1F0A4: Karta do gry Cztery pik
+1F0A5: Karta do gry Pięć pików
+1F0A6: Karta do gry Sześć pików
+1F0A7: Karta do gry Siedem pików
+1F0A8: Karta do gry Osiem pików
+1F0A9: Dziewięć pików kart do gry
+1F0AA: Karta do gry Dziesięć pików
+1F0AB: Karta do gry Jack of Spades : valet, bube, unter, page, fante : strona mieczy
+1F0AC: Rycerz kart pikowych : chevalier, ober, ritter, cavall, cavaliere : rycerz mieczy
+1F0AD: Gra w karty Królowa pików : dame, dame, königin, regina : królowa mieczy
+1F0AE: Król pik kart do gry : roi, könig, re : król mieczy
+1F0AF:
+1F0B0:
+1F0B1: Karta do gry As kier
+1F0B2: Dwie karty do gry
+1F0B3: Karta do gry Trzy serca
+1F0B4: Karta do gry Cztery serca
+1F0B5: Karta do gry Pięć serc
+1F0B6: Karta do gry Sześć serc
+1F0B7: Karta do gry Siedem serc
+1F0B8: Karta do gry Osiem serc
+1F0B9: Karta do gry Dziewięć serc
+1F0BA: Karta do gry Dziesięć serc
+1F0BB: Karta do gry Jack of Hearts
+1F0BC: Rycerz kart do gry w karty
+1F0BD: Karta do gry Królowa serc
+1F0BE: Karta do gry Król serc
+1F0BF: Karta do gry Czerwony Joker
+1F0C0:
+1F0C1: As karcianych kart do gry
+1F0C2: Karta do gry Dwie diamenty
+1F0C3: Karta do gry Trzy diamenty
+1F0C4: Karta do gry Cztery diamenty
+1F0C5: Karta do gry Pięć diamentów
+1F0C6: Karta do gry Sześć diamentów
+1F0C7: Karta do gry Siedem diamentów
+1F0C8: Karta do gry Osiem diamentów
+1F0C9: Karta do gry Dziewięć diamentów
+1F0CA: Karta do gry Dziesięć diamentów
+1F0CB: Karta do gry Jack of Diamonds
+1F0CC: Rycerz Karciany Diamentów
+1F0CD: Karta do gry Królowa diamentów
+1F0CE: Karta do gry Król diamentów
+1F0CF: Karta do gry Czarny Joker
+1F0D0:
+1F0D1: As karty klubów
+1F0D2: Karta do gry Dwa kluby
+1F0D3: Karta do gry Trzy kluby
+1F0D4: Karta do gry Cztery kluby
+1F0D5: Karta do gry Pięć klubów
+1F0D6: Karta do gry Sześć klubów
+1F0D7: Karta do gry Siedem klubów
+1F0D8: Osiem kart klubowych
+1F0D9: Dziewięć klubów z kartami do gry
+1F0DA: Karta do gry Dziesięć klubów
+1F0DB: Karta do gry Jack of Clubs
+1F0DC: Rycerz kart klubowych
+1F0DD: Królowa klubów grających w karty
+1F0DE: Król kart do gry w karty
+1F0DF: Karta do gry Biały Joker
+1F0E0: Głupiec z kart do gry
+1F0E1: Karta do gry Trump-1
+1F0E2: Karta do gry Trump-2
+1F0E3: Karta do gry Trump-3
+1F0E4: Karta do gry Trump-4
+1F0E5: Karta do gry Trump-5
+1F0E6: Karta do gry Trump-6
+1F0E7: Karta do gry Trump-7
+1F0E8: Karta do gry Trump-8
+1F0E9: Karta do gry Trump-9
+1F0EA: Karta do gry Trump-10
+1F0EB: Karta do gry Trump-11
+1F0EC: Karta do gry Trump-12
+1F0ED: Karta do gry Trump-13
+1F0EE: Karta do gry Trump-14
+1F0EF: Karta do gry Trump-15
+1F0F0: Karta do gry Trump-16
+1F0F1: Karta do gry Trump-17
+1F0F2: Karta do gry Trump-18
+1F0F3: Karta do gry Trump-19
+1F0F4: Karta do gry Trump-20
+1F0F5: Karta do gry Trump-21
+1F0F6:
+1F0F7:
+1F0F8:
+1F0F9:
+1F0FA:
+1F0FB:
+1F0FC:
+1F0FD:
+1F0FE:
+1F0FF:

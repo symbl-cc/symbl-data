@@ -1,256 +1,256 @@
-D500 : Hangul syllable pyuk
-D501 : Hangul syllable pyut
-D502 : Hangul syllable pyup
-D503 : Hangul syllable pyuh
-D504 : Hangul syllable peu
-D505 : Hangul syllable peug
-D506 : Hangul syllable peugg
-D507 : Hangul syllable peugs
-D508 : Hangul syllable peun
-D509 : Hangul syllable peunj
-D50A : Hangul syllable peunh
-D50B : Hangul syllable peud
-D50C : Hangul syllable peul
-D50D : Hangul syllable peulg
-D50E : Hangul syllable peulm
-D50F : Hangul syllable peulb
-D510 : Hangul syllable peuls
-D511 : Hangul syllable peult
-D512 : Hangul syllable peulp
-D513 : Hangul syllable peulh
-D514 : Hangul syllable peum
-D515 : Hangul syllable peub
-D516 : Hangul syllable peubs
-D517 : Hangul syllable peus
-D518 : Hangul syllable peuss
-D519 : Hangul syllable peung
-D51A : Hangul syllable peuj
-D51B : Hangul syllable peuc
-D51C : Hangul syllable peuk
-D51D : Hangul syllable peut
-D51E : Hangul syllable peup
-D51F : Hangul syllable peuh
-D520 : Hangul syllable pyi
-D521 : Hangul syllable pyig
-D522 : Hangul syllable pyigg
-D523 : Hangul syllable pyigs
-D524 : Hangul syllable pyin
-D525 : Hangul syllable pyinj
-D526 : Hangul syllable pyinh
-D527 : Hangul syllable pyid
-D528 : Hangul syllable pyil
-D529 : Hangul syllable pyilg
-D52A : Hangul syllable pyilm
-D52B : Hangul syllable pyilb
-D52C : Hangul syllable pyils
-D52D : Hangul syllable pyilt
-D52E : Hangul syllable pyilp
-D52F : Hangul syllable pyilh
-D530 : Hangul syllable pyim
-D531 : Hangul syllable pyib
-D532 : Hangul syllable pyibs
-D533 : Hangul syllable pyis
-D534 : Hangul syllable pyiss
-D535 : Hangul syllable pying
-D536 : Hangul syllable pyij
-D537 : Hangul syllable pyic
-D538 : Hangul syllable pyik
-D539 : Hangul syllable pyit
-D53A : Hangul syllable pyip
-D53B : Hangul syllable pyih
-D53C : Hangul syllable pi
-D53D : Hangul syllable pig
-D53E : Hangul syllable pigg
-D53F : Hangul syllable pigs
-D540 : Hangul syllable pin
-D541 : Hangul syllable pinj
-D542 : Hangul syllable pinh
-D543 : Hangul syllable pid
-D544 : Hangul syllable pil
-D545 : Hangul syllable pilg
-D546 : Hangul syllable pilm
-D547 : Hangul syllable pilb
-D548 : Hangul syllable pils
-D549 : Hangul syllable pilt
-D54A : Hangul syllable pilp
-D54B : Hangul syllable pilh
-D54C : Hangul syllable pim
-D54D : Hangul syllable pib
-D54E : Hangul syllable pibs
-D54F : Hangul syllable pis
-D550 : Hangul syllable piss
-D551 : Hangul syllable ping
-D552 : Hangul syllable pij
-D553 : Hangul syllable pic
-D554 : Hangul syllable pik
-D555 : Hangul syllable pit
-D556 : Hangul syllable pip
-D557 : Hangul syllable pih
-D558 : Hangul syllable ha
-D559 : Hangul syllable hag
-D55A : Hangul syllable hagg
-D55B : Hangul syllable hags
-D55C : Hangul syllable han
-D55D : Hangul syllable hanj
-D55E : Hangul syllable hanh
-D55F : Hangul syllable had
-D560 : Hangul syllable hal
-D561 : Hangul syllable halg
-D562 : Hangul syllable halm
-D563 : Hangul syllable halb
-D564 : Hangul syllable hals
-D565 : Hangul syllable halt
-D566 : Hangul syllable halp
-D567 : Hangul syllable halh
-D568 : Hangul syllable ham
-D569 : Hangul syllable hab
-D56A : Hangul syllable habs
-D56B : Hangul syllable has
-D56C : Hangul syllable hass
-D56D : Hangul syllable hang
-D56E : Hangul syllable haj
-D56F : Hangul syllable hac
-D570 : Hangul syllable hak
-D571 : Hangul syllable hat
-D572 : Hangul syllable hap
-D573 : Hangul syllable hah
-D574 : Hangul syllable hae
-D575 : Hangul syllable haeg
-D576 : Hangul syllable haegg
-D577 : Hangul syllable haegs
-D578 : Hangul syllable haen
-D579 : Hangul syllable haenj
-D57A : Hangul syllable haenh
-D57B : Hangul syllable haed
-D57C : Hangul syllable hael
-D57D : Hangul syllable haelg
-D57E : Hangul syllable haelm
-D57F : Hangul syllable haelb
-D580 : Hangul syllable haels
-D581 : Hangul syllable haelt
-D582 : Hangul syllable haelp
-D583 : Hangul syllable haelh
-D584 : Hangul syllable haem
-D585 : Hangul syllable haeb
-D586 : Hangul syllable haebs
-D587 : Hangul syllable haes
-D588 : Hangul syllable haess
-D589 : Hangul syllable haeng
-D58A : Hangul syllable haej
-D58B : Hangul syllable haec
-D58C : Hangul syllable haek
-D58D : Hangul syllable haet
-D58E : Hangul syllable haep
-D58F : Hangul syllable haeh
-D590 : Hangul syllable hya
-D591 : Hangul syllable hyag
-D592 : Hangul syllable hyagg
-D593 : Hangul syllable hyags
-D594 : Hangul syllable hyan
-D595 : Hangul syllable hyanj
-D596 : Hangul syllable hyanh
-D597 : Hangul syllable hyad
-D598 : Hangul syllable hyal
-D599 : Hangul syllable hyalg
-D59A : Hangul syllable hyalm
-D59B : Hangul syllable hyalb
-D59C : Hangul syllable hyals
-D59D : Hangul syllable hyalt
-D59E : Hangul syllable hyalp
-D59F : Hangul syllable hyalh
-D5A0 : Hangul syllable hyam
-D5A1 : Hangul syllable hyab
-D5A2 : Hangul syllable hyabs
-D5A3 : Hangul syllable hyas
-D5A4 : Hangul syllable hyass
-D5A5 : Hangul syllable hyang
-D5A6 : Hangul syllable hyaj
-D5A7 : Hangul syllable hyac
-D5A8 : Hangul syllable hyak
-D5A9 : Hangul syllable hyat
-D5AA : Hangul syllable hyap
-D5AB : Hangul syllable hyah
-D5AC : Hangul syllable hyae
-D5AD : Hangul syllable hyaeg
-D5AE : Hangul syllable hyaegg
-D5AF : Hangul syllable hyaegs
-D5B0 : Hangul syllable hyaen
-D5B1 : Hangul syllable hyaenj
-D5B2 : Hangul syllable hyaenh
-D5B3 : Hangul syllable hyaed
-D5B4 : Hangul syllable hyael
-D5B5 : Hangul syllable hyaelg
-D5B6 : Hangul syllable hyaelm
-D5B7 : Hangul syllable hyaelb
-D5B8 : Hangul syllable hyaels
-D5B9 : Hangul syllable hyaelt
-D5BA : Hangul syllable hyaelp
-D5BB : Hangul syllable hyaelh
-D5BC : Hangul syllable hyaem
-D5BD : Hangul syllable hyaeb
-D5BE : Hangul syllable hyaebs
-D5BF : Hangul syllable hyaes
-D5C0 : Hangul syllable hyaess
-D5C1 : Hangul syllable hyaeng
-D5C2 : Hangul syllable hyaej
-D5C3 : Hangul syllable hyaec
-D5C4 : Hangul syllable hyaek
-D5C5 : Hangul syllable hyaet
-D5C6 : Hangul syllable hyaep
-D5C7 : Hangul syllable hyaeh
-D5C8 : Hangul syllable heo
-D5C9 : Hangul syllable heog
-D5CA : Hangul syllable heogg
-D5CB : Hangul syllable heogs
-D5CC : Hangul syllable heon
-D5CD : Hangul syllable heonj
-D5CE : Hangul syllable heonh
-D5CF : Hangul syllable heod
-D5D0 : Hangul syllable heol
-D5D1 : Hangul syllable heolg
-D5D2 : Hangul syllable heolm
-D5D3 : Hangul syllable heolb
-D5D4 : Hangul syllable heols
-D5D5 : Hangul syllable heolt
-D5D6 : Hangul syllable heolp
-D5D7 : Hangul syllable heolh
-D5D8 : Hangul syllable heom
-D5D9 : Hangul syllable heob
-D5DA : Hangul syllable heobs
-D5DB : Hangul syllable heos
-D5DC : Hangul syllable heoss
-D5DD : Hangul syllable heong
-D5DE : Hangul syllable heoj
-D5DF : Hangul syllable heoc
-D5E0 : Hangul syllable heok
-D5E1 : Hangul syllable heot
-D5E2 : Hangul syllable heop
-D5E3 : Hangul syllable heoh
-D5E4 : Hangul syllable he
-D5E5 : Hangul syllable heg
-D5E6 : Hangul syllable hegg
-D5E7 : Hangul syllable hegs
-D5E8 : Hangul syllable hen
-D5E9 : Hangul syllable henj
-D5EA : Hangul syllable henh
-D5EB : Hangul syllable hed
-D5EC : Hangul syllable hel
-D5ED : Hangul syllable helg
-D5EE : Hangul syllable helm
-D5EF : Hangul syllable helb
-D5F0 : Hangul syllable hels
-D5F1 : Hangul syllable helt
-D5F2 : Hangul syllable help
-D5F3 : Hangul syllable helh
-D5F4 : Hangul syllable hem
-D5F5 : Hangul syllable heb
-D5F6 : Hangul syllable hebs
-D5F7 : Hangul syllable hes
-D5F8 : Hangul syllable hess
-D5F9 : Hangul syllable heng
-D5FA : Hangul syllable hej
-D5FB : Hangul syllable hec
-D5FC : Hangul syllable hek
-D5FD : Hangul syllable het
-D5FE : Hangul syllable hep
-D5FF : Hangul syllable heh
+D500: พยางค์อังกูล
+D501: Pyul อังกูล
+D502: พยางค์อังกูลพยางค์
+D503: พยางค์ฮันกึล
+D504: พยางค์ฮันกึล
+D505: Peug อังกูลพยางค์
+D506: Peugg อังกูลพยางค์
+D507: พยางค์อังกูล
+D508: Peun อังกูลพยางค์
+D509: Peulj พยางค์ฮันกึล
+D50A: Peunh พยางค์อังกูล
+D50B: Peud พยางค์อังกูล
+D50C: พยางค์ฮันกึล
+D50D: Peulg พยางค์อังกูล
+D50E: Peulm พยางค์อังกูล
+D50F: Peulb พยางค์อังกูล
+D510: พยางค์อังกูล
+D511: Peul อังกูลพยางค์
+D512: Peulp พยางค์อังกูล
+D513: Peulh พยางค์อังกูล
+D514: Peung พยางค์ฮันกึล
+D515: Peul พยางค์อังกูล
+D516: Peuls พยางค์อังกูล
+D517: ถั่วฮันกึลพยางค์
+D518: Peuss พยางค์อังกูล
+D519: พยุงฮันกึล
+D51A: Peul อังกูลพยางค์
+D51B: Peul พยางค์อังกูล
+D51C: อังกูลพยางค์เป๊ก
+D51D: ถั่วฮันกึลพยางค์
+D51E: Peung พยางค์อังกูล
+D51F: พยางค์ฮันกึล
+D520: พยางค์ฮันกึล
+D521: พยางค์ภาษาอังกูล
+D522: พยางค์ภาษาอังกูล
+D523: Pyul อังกูลพยางค์
+D524: พยางค์ภาษาอังกูล
+D525: พยางค์ภาษาอังกูล
+D526: พยางค์ภาษาอังกูล
+D527: Pyul อังกูลพยางค์
+D528: Pyul อังกูลพยางค์
+D529: Pyulg พยางค์อังกูล
+D52A: Pyulm พยางค์อังกูล
+D52B: Pyulb พยางค์อังกูล
+D52C: Pyils พยางค์อังกูล
+D52D: Pyul Hangll พยางค์
+D52E: Pyulp พยางค์อังกูล
+D52F: Pyulh พยางค์อังกูล
+D530: Pyul อังกูลพยางค์
+D531: Pyul อังกูลพยางค์
+D532: Pyuls พยางค์อังกูล
+D533: Pyis อังกูลพยางค์
+D534: Pyul อังกูลพยางค์
+D535: พยางค์ฮันกึล
+D536: พยางค์อังกูล
+D537: Pyul อังกูลพยางค์
+D538: Pyul อังกูลพยางค์
+D539: พยางค์อังกูล
+D53A: Pyul อังกูลพยางค์
+D53B: พยางค์ภาษาอังกูล
+D53C: พยางค์ฮันกึล
+D53D: หมูพยางค์อังกูล
+D53E: หมูพยางค์อังกูล
+D53F: หมูพยางค์อังกูล
+D540: Pin พยางค์อังกูล
+D541: พยางค์ฮันกึล
+D542: พยางค์ฮันกึล
+D543: พยางค์อังกูล
+D544: พยางค์อังกูล
+D545: Pilul พยางค์อังกูล
+D546: พยางค์อังกูล
+D547: Pilul พยางค์อังกูล
+D548: พยางค์อังกูล
+D549: พยางค์อังกูลเอียง
+D54A: พยางค์อังกูล
+D54B: พยางค์ฮันกึล
+D54C: พยางค์ฮันกึล
+D54D: Pib พยางค์ฮันกึล
+D54E: Pibs อังกูล
+D54F: พยางค์อังกูล
+D550: ปัสสาวะพยางค์ฮันกึล
+D551: ปิงอังกูลพยางค์
+D552: พยางค์ฮันกึล
+D553: Pic พยางค์อังกูล
+D554: พยางค์ฮันกึล
+D555: หลุมพยางค์อังกูล
+D556: Pip พยางค์อังกูล
+D557: พยางค์ฮันกึล
+D558: พยางค์อังกูลฮา
+D559: อังกูลพยางค์ Hag
+D55A: อังกูลพยางค์ Hagg
+D55B: อังกูลพยางค์ฮันกึล
+D55C: อังกูลพยางค์ฮัน
+D55D: อังกูลพยางค์ฮัน
+D55E: อังกูลพยางค์ฮัน
+D55F: พยางค์อังกูลมี
+D560: อังกูลพยางค์ฮัล
+D561: พยางค์ฮันกึล
+D562: พยางค์ฮันกึล
+D563: พยางค์ฮันกึล
+D564: Hals พยางค์ฮันกึล
+D565: พยางค์อังกูลหยุด
+D566: พยางค์ฮันกึล
+D567: อังกูลพยางค์ฮัล
+D568: อังกูลพยางค์แฮม
+D569: ฮันกูลพยางค์ Hab
+D56A: พยางค์ฮันกึล
+D56B: พยางค์อังกูลมี
+D56C: ฮันกึลพยางค์ Hass
+D56D: พยางค์ฮันกึล
+D56E: พยางค์ฮันกึล
+D56F: พยางค์ฮันกึล
+D570: พยางค์ฮันกึล
+D571: หมวกพยางค์อังกูล
+D572: พยางค์ฮันกึล
+D573: พยางค์อังกูลฮะ
+D574: พยางค์ฮันกึล
+D575: อังกูลพยางค์เฮก
+D576: พยางค์ฮันกึล
+D577: พยางค์ฮันกึล
+D578: พยางค์ฮันกุน
+D579: พยางค์ฮันกึลเฮนจ์
+D57A: อังกูลพยางค์ Haenh
+D57B: อังกูลพยางค์ Haed
+D57C: พยางค์ฮันกึล
+D57D: พยางค์ฮันกึล
+D57E: พยางค์ฮันกึล
+D57F: พยางค์ฮันกึล
+D580: พยางค์ฮันกึล
+D581: พยางค์ฮันกึล
+D582: พยางค์ฮันกึล
+D583: พยางค์ฮันกึล
+D584: พยางค์ฮันกุน
+D585: อังกูลพยางค์ Haeb
+D586: อังกูลพยางค์ Haebs
+D587: พยางค์ฮันกึล
+D588: พยางค์ฮันกึล
+D589: พยางค์ฮันกึล
+D58A: พยางค์ฮันกึล
+D58B: พยางค์ฮันกึล
+D58C: พยางค์ฮันกึล
+D58D: พยางค์ฮันกึลเฮต
+D58E: พยางค์ฮันกุน
+D58F: พยางค์ฮันกึล
+D590: พยางค์อังกูล
+D591: อังกูลพยางค์ Hyag
+D592: อังกูลพยางค์ Hyagg
+D593: พยางค์อังกูลพยางค์
+D594: พยางค์ฮันกุน
+D595: พยางค์ฮันกึลฮัน
+D596: อังกูลพยางค์ Hyanh
+D597: พยางค์ฮันกึล
+D598: พยางค์ฮันกึล
+D599: Hyul พยางค์อังกูล
+D59A: Hyul พยางค์อังกูล
+D59B: ฮันกึล Hyalb พยางค์
+D59C: Hyul พยางค์อังกูล
+D59D: พยางค์อังกูล
+D59E: อังกูล Hyalp พยางค์
+D59F: พยางค์ฮันกึล
+D5A0: พยางค์พยางค์อังกูล
+D5A1: อังกูลพยางค์ Hyab
+D5A2: Hyabs พยางค์อังกูล
+D5A3: Hyul พยางค์อังกูล
+D5A4: พยางค์อังกูล
+D5A5: อังกูลพยางค์ฮยอง
+D5A6: พยางค์ฮันกึล
+D5A7: อังกูล Hyac พยางค์
+D5A8: พยางค์อังกูล Hyak
+D5A9: พยางค์อังกูล Hyat
+D5AA: พยางค์อังกูล
+D5AB: พยางค์ภาษาอังกูล
+D5AC: พยางค์ฮันกึล
+D5AD: อังกูลพยางค์ Hyaeg
+D5AE: อังกูลพยางค์ Hyaegg
+D5AF: พยางค์ Hyuleg อังกูล
+D5B0: พยางค์ Hyulen อังกูล
+D5B1: พยางค์อังกูลใจเย็น
+D5B2: อังกูลพยางค์ Hyaenh
+D5B3: พยางค์อังกูล Hyaed
+D5B4: พยางค์ฮันกึล
+D5B5: พยางค์ฮันกึล
+D5B6: พยางค์ฮันกึล
+D5B7: พยางค์ฮันกึล
+D5B8: พยางค์ Hyulels อังกูล
+D5B9: พยางค์ Hyulelt อังกูล
+D5BA: พยางค์อังกูล
+D5BB: พยางค์ฮันกึล
+D5BC: พยางค์พยางค์ไฮยาเอล
+D5BD: อังกูลพยางค์ Hyaeb
+D5BE: พยางค์พยางค์อังกูล
+D5BF: พยางค์ Hyules อังกูล
+D5C0: อังกูลพยางค์ Hyaess
+D5C1: พยางค์ฮันกึลเฮีย
+D5C2: พยางค์ฮันกึลเฮ
+D5C3: พยางค์ Hyul อังกูล
+D5C4: พยางค์อังกูลพยัคฆ์
+D5C5: พยางค์ Hyulet อังกูล
+D5C6: พยางค์ Hyulep อังกูล
+D5C7: พยางค์ฮันกึล
+D5C8: พยางค์อังกูลฮี
+D5C9: อังกูลพยางค์ Heul
+D5CA: อังกูลพยางค์ Heogg
+D5CB: อังกูลพยางค์อังกูล
+D5CC: อังกูลพยางค์ Heon
+D5CD: พยางค์อังกูล
+D5CE: อังกูลพยางค์ Heonh
+D5CF: พยางค์อังกูล
+D5D0: พยางค์อังกูล
+D5D1: พยางค์อังกูล
+D5D2: พยางค์อังกูล
+D5D3: พยางค์อังกูล
+D5D4: ฮีลพยางค์อังกูล
+D5D5: พยางค์อังกูล
+D5D6: พยางค์อังกูล
+D5D7: พยางค์ฮันกึล
+D5D8: พยางค์อังกูลฮีล
+D5D9: อังกูลพยางค์ Heob
+D5DA: Heul พยางค์อังกูล
+D5DB: พยางค์อังกูล
+D5DC: พยางค์ฮันกึล
+D5DD: พยางค์อังกูลเฮง
+D5DE: พยางค์ฮันกึล
+D5DF: พยางค์อังกูล
+D5E0: พยางค์ฮันกึล
+D5E1: Heul พยางค์อังกูล
+D5E2: Heul พยางค์อังกูล
+D5E3: อังกูลพยางค์ Heoh
+D5E4: อังกูลพยางค์เขา
+D5E5: พยางค์อังกูล
+D5E6: พยางค์อังกูล
+D5E7: พยางค์อังกูล
+D5E8: อังกูลพยางค์ไก่
+D5E9: อังกูลพยางค์อังกูล
+D5EA: อังกูลพยางค์ Henh
+D5EB: พยางค์ฮันกึล
+D5EC: อังกูลพยางค์เฮล
+D5ED: อังกูลพยางค์
+D5EE: อังกูลพยางค์
+D5EF: อังกูลพยางค์
+D5F0: อังกูลพยางค์เฮล
+D5F1: อังกูลพยางค์
+D5F2: ช่วยเหลือพยางค์อังกูล
+D5F3: อังกูลพยางค์เฮล
+D5F4: พยางค์อังกูล
+D5F5: อังกูลพยางค์ Heb
+D5F6: Heul พยางค์อังกูล
+D5F7: พยางค์อังกูลเขา
+D5F8: Hessul พยางค์เดิม
+D5F9: อังกูลเฮงพยางค์
+D5FA: อังกูลพยางค์
+D5FB: Hec พยางค์อังกูล
+D5FC: อังกูลพยางค์ Hek
+D5FD: พยางค์ฮันกึล
+D5FE: Hep พยางค์อังกูล
+D5FF: พยางค์อังกูลเหอ

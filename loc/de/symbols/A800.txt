@@ -1,123 +1,123 @@
-A800: Syloti nagri letter a
-A801: Syloti nagri letter i
-A802: Syloti nagri sign dvisvara
-A803: Syloti nagri letter u
-A804: Syloti nagri letter e
-A805: Syloti nagri letter o
-A806: Syloti nagri sign hasanta
-A807: Syloti nagri letter ko
-A808: Syloti nagri letter kho
-A809: Syloti nagri letter go
-A80A: Syloti nagri letter gho
-A80B: Syloti nagri sign anusvara
-A80C: Syloti nagri letter co
-A80D: Syloti nagri letter cho
-A80E: Syloti nagri letter jo
-A80F: Syloti nagri letter jho
-A810: Syloti nagri letter tto
-A811: Syloti nagri letter ttho
-A812: Syloti nagri letter ddo
-A813: Syloti nagri letter ddho
-A814: Syloti nagri letter to
-A815: Syloti nagri letter tho
-A816: Syloti nagri letter do
-A817: Syloti nagri letter dho
-A818: Syloti nagri letter no
-A819: Syloti nagri letter po
-A81A: Syloti nagri letter pho
-A81B: Syloti nagri letter bo
-A81C: Syloti nagri letter bho
-A81D: Syloti nagri letter mo
-A81E: Syloti nagri letter ro
-A81F: Syloti nagri letter lo
-A820: Syloti nagri letter rro
-A821: Syloti nagri letter so
-A822: Syloti nagri letter ho
-A823: Syloti nagri vowel sign a
-A824: Syloti nagri vowel sign i
-A825: Syloti nagri vowel sign u
-A826: Syloti nagri vowel sign e
-A827: Syloti nagri vowel sign oo
-A828: Syloti nagri poetry mark-1
-A829: Syloti nagri poetry mark-2
-A82A: Syloti nagri poetry mark-3
-A82B: Syloti nagri poetry mark-4
+A800: Syloti Nagri Buchstabe A
+A801: Syloti Nagri Buchstabe I
+A802: Syloti Nagri-Zeichen Dvisvara
+A803: Syloti Nagri Buchstabe U
+A804: Syloti Nagri Buchstabe E
+A805: Syloti Nagri Buchstabe O
+A806: Syloti Nagri Sign Hasanta : Halant, Virama
+A807: Syloti Nagri Brief Ko
+A808: Syloti Nagri Brief Kho
+A809: Syloti Nagri Brief gehen
+A80A: Syloti Nagri Brief Gho
+A80B: Syloti Nagri-Zeichen Anusvara
+A80C: Syloti Nagri Brief Co
+A80D: Syloti Nagri Brief Cho
+A80E: Syloti Nagri Brief Jo
+A80F: Syloti Nagri Brief Jho
+A810: Syloti Nagri Buchstabe Tto
+A811: Syloti Nagri Brief Ttho
+A812: Syloti Nagri Brief Ddo
+A813: Syloti Nagri Brief Ddho
+A814: Syloti Nagri Brief an
+A815: Syloti Nagri Brief Tho
+A816: Syloti Nagri Brief tun
+A817: Syloti Nagri Brief Dho
+A818: Syloti Nagri Brief Nr
+A819: Syloti Nagri Buchstabe Po
+A81A: Syloti Nagri Brief Pho
+A81B: Syloti Nagri Brief Bo
+A81C: Syloti Nagri Brief Bho
+A81D: Syloti Nagri Brief Mo
+A81E: Syloti Nagri Buchstabe Ro
+A81F: Syloti Nagri Brief Lo
+A820: Syloti Nagri Buchstabe Rro
+A821: Syloti Nagri Brief So
+A822: Syloti Nagri Brief Ho
+A823: Syloti Nagri Vokalzeichen A
+A824: Syloti Nagri Vokalzeichen I
+A825: Syloti Nagri Vokalzeichen U
+A826: Syloti Nagri Vokalzeichen E
+A827: Syloti Nagri Vokalzeichen Oo
+A828: Syloti Nagri Poetry Mark-1
+A829: Syloti Nagri Poetry Mark-2
+A82A: Syloti Nagri Poetry Mark-3
+A82B: Syloti Nagri Poetry Mark-4
 A82C:
 A82D:
 A82E:
 A82F:
-A830: North indic fraction one quarter
-A831: North indic fraction one half
-A832: North indic fraction three quarters
-A833: North indic fraction one sixteenth
-A834: North indic fraction one eighth
-A835: North indic fraction three sixteenths
-A836: North indic quarter mark
-A837: North indic placeholder mark
-A838: North indic rupee mark
-A839: North indic quantity mark
+A830: North Indic Fraction ein Viertel
+A831: North Indic Fraction Eine Hälfte
+A832: North Indic Fraction Drei Viertel
+A833: North Indic Fraction One Sechzehntel
+A834: North Indic Fraction One Achtel
+A835: North Indic Fraction Drei Sechzehntel
+A836: North Indic Quarter Mark
+A837: Platzierungsmarkierung für Nord-Indikatoren
+A838: Mark der nordindischen Rupie
+A839: North Indic Quantity Mark
 A83A:
 A83B:
 A83C:
 A83D:
 A83E:
 A83F:
-A840: Phags-pa letter ka
-A841: Phags-pa letter kha
-A842: Phags-pa letter ga
-A843: Phags-pa letter nga
-A844: Phags-pa letter ca
-A845: Phags-pa letter cha
-A846: Phags-pa letter ja
-A847: Phags-pa letter nya
-A848: Phags-pa letter ta
-A849: Phags-pa letter tha
-A84A: Phags-pa letter da
-A84B: Phags-pa letter na
-A84C: Phags-pa letter pa
-A84D: Phags-pa letter pha
-A84E: Phags-pa letter ba
-A84F: Phags-pa letter ma
-A850: Phags-pa letter tsa
-A851: Phags-pa letter tsha
-A852: Phags-pa letter dza
-A853: Phags-pa letter wa
-A854: Phags-pa letter zha
-A855: Phags-pa letter za
-A856: Phags-pa letter small a
-A857: Phags-pa letter ya
-A858: Phags-pa letter ra
-A859: Phags-pa letter la
-A85A: Phags-pa letter sha
-A85B: Phags-pa letter sa
-A85C: Phags-pa letter ha
-A85D: Phags-pa letter a
-A85E: Phags-pa letter i
-A85F: Phags-pa letter u
-A860: Phags-pa letter e
-A861: Phags-pa letter o
-A862: Phags-pa letter qa
-A863: Phags-pa letter xa
-A864: Phags-pa letter fa
-A865: Phags-pa letter gga
-A866: Phags-pa letter ee
-A867: Phags-pa subjoined letter wa
-A868: Phags-pa subjoined letter ya
-A869: Phags-pa letter tta
-A86A: Phags-pa letter ttha
-A86B: Phags-pa letter dda
-A86C: Phags-pa letter nna
-A86D: Phags-pa letter alternate ya
-A86E: Phags-pa letter voiceless sha
-A86F: Phags-pa letter voiced ha
-A870: Phags-pa letter aspirated fa
-A871: Phags-pa subjoined letter ra
-A872: Phags-pa superfixed letter ra
-A873: Phags-pa letter candrabindu
-A874: Phags-pa single head mark
-A875: Phags-pa double head mark
-A876: Phags-pa mark shad
-A877: Phags-pa mark double shad
+A840: Phags-Pa Buchstabe Ka
+A841: Phags-Pa Buchstabe Kha
+A842: Phags-Pa Buchstabe Ga
+A843: Phags-Pa Buchstabe Nga
+A844: Phags-Pa Buchstabe Ca
+A845: Phags-Pa Buchstabe Cha
+A846: Phags-Pa Brief Ja
+A847: Phags-Pa Buchstabe Nya
+A848: Phags-Pa Buchstabe Ta
+A849: Phags-Pa Buchstabe Tha
+A84A: Phags-Pa Buchstabe Da
+A84B: Phags-Pa Buchstabe Na
+A84C: Phags-Pa Buchstabe Pa
+A84D: Phags-Pa Buchstabe Pha
+A84E: Phags-Pa Buchstabe Ba
+A84F: Phags-Pa Buchstabe Ma
+A850: Phags-Pa Buchstabe Tsa
+A851: Phags-Pa Buchstabe Tsha
+A852: Phags-Pa Buchstabe Dza
+A853: Phags-Pa Buchstabe Wa
+A854: Phags-Pa Buchstabe Zha
+A855: Phags-Pa Buchstabe Za
+A856: Phags-Pa Buchstabe Klein A
+A857: Phags-Pa Buchstabe Ya
+A858: Phags-Pa Buchstabe Ra
+A859: Phags-Pa Buchstabe La
+A85A: Phags-Pa Buchstabe Sha
+A85B: Phags-Pa Buchstabe Sa
+A85C: Phags-Pa Buchstabe Ha
+A85D: Phags-Pa Buchstabe A
+A85E: Phags-Pa Buchstabe I
+A85F: Phags-Pa Buchstabe U
+A860: Phags-Pa Buchstabe E
+A861: Phags-Pa Buchstabe O
+A862: Phags-Pa Buchstabe Qa
+A863: Phags-Pa Buchstabe Xa
+A864: Phags-Pa Buchstabe Fa
+A865: Phags-Pa Buchstabe Gga
+A866: Phags-Pa Buchstabe Ee
+A867: Phags-Pa untergeordneter Buchstabe Wa
+A868: Phags-Pa untergeordneter Buchstabe Ya
+A869: Phags-Pa Buchstabe Tta
+A86A: Phags-Pa Buchstabe Ttha
+A86B: Phags-Pa Buchstabe Dda
+A86C: Phags-Pa Buchstabe Nna
+A86D: Phags-Pa-Buchstabe Alternatives Ya
+A86E: Phags-Pa Brief Voiceless Sha
+A86F: Phags-Pa Brief stimmte Ha
+A870: Phags-Pa-Brief gesaugt Fa
+A871: Phags-Pa Untergeordneter Buchstabe Ra
+A872: Phags-Pa Superfixierter Buchstabe Ra
+A873: Phags-Pa Buchstabe Candrabindu
+A874: Phags-Pa Single Head Mark
+A875: Phags-Pa Doppelkopfmarkierung
+A876: Phags-Pa Mark Shad
+A877: Phags-Pa Mark Double Shad
 A878:
 A879:
 A87A:
@@ -126,76 +126,76 @@ A87C:
 A87D:
 A87E:
 A87F:
-A880: Saurashtra sign anusvara
-A881: Saurashtra sign visarga
-A882: Saurashtra letter a
-A883: Saurashtra letter aa
-A884: Saurashtra letter i
-A885: Saurashtra letter ii
-A886: Saurashtra letter u
-A887: Saurashtra letter uu
-A888: Saurashtra letter vocalic r
-A889: Saurashtra letter vocalic rr
-A88A: Saurashtra letter vocalic l
-A88B: Saurashtra letter vocalic ll
-A88C: Saurashtra letter e
-A88D: Saurashtra letter ee
-A88E: Saurashtra letter ai
-A88F: Saurashtra letter o
-A890: Saurashtra letter oo
-A891: Saurashtra letter au
-A892: Saurashtra letter ka
-A893: Saurashtra letter kha
-A894: Saurashtra letter ga
-A895: Saurashtra letter gha
-A896: Saurashtra letter nga
-A897: Saurashtra letter ca
-A898: Saurashtra letter cha
-A899: Saurashtra letter ja
-A89A: Saurashtra letter jha
-A89B: Saurashtra letter nya
-A89C: Saurashtra letter tta
-A89D: Saurashtra letter ttha
-A89E: Saurashtra letter dda
-A89F: Saurashtra letter ddha
-A8A0: Saurashtra letter nna
-A8A1: Saurashtra letter ta
-A8A2: Saurashtra letter tha
-A8A3: Saurashtra letter da
-A8A4: Saurashtra letter dha
-A8A5: Saurashtra letter na
-A8A6: Saurashtra letter pa
-A8A7: Saurashtra letter pha
-A8A8: Saurashtra letter ba
-A8A9: Saurashtra letter bha
-A8AA: Saurashtra letter ma
-A8AB: Saurashtra letter ya
-A8AC: Saurashtra letter ra
-A8AD: Saurashtra letter la
-A8AE: Saurashtra letter va
-A8AF: Saurashtra letter sha
-A8B0: Saurashtra letter ssa
-A8B1: Saurashtra letter sa
-A8B2: Saurashtra letter ha
-A8B3: Saurashtra letter lla
-A8B4: Saurashtra consonant sign haaru
-A8B5: Saurashtra vowel sign aa
-A8B6: Saurashtra vowel sign i
-A8B7: Saurashtra vowel sign ii
-A8B8: Saurashtra vowel sign u
-A8B9: Saurashtra vowel sign uu
-A8BA: Saurashtra vowel sign vocalic r
-A8BB: Saurashtra vowel sign vocalic rr
-A8BC: Saurashtra vowel sign vocalic l
-A8BD: Saurashtra vowel sign vocalic ll
-A8BE: Saurashtra vowel sign e
-A8BF: Saurashtra vowel sign ee
-A8C0: Saurashtra vowel sign ai
-A8C1: Saurashtra vowel sign o
-A8C2: Saurashtra vowel sign oo
-A8C3: Saurashtra vowel sign au
-A8C4: Saurashtra sign virama
-A8C5:
+A880: Saurashtra-Zeichen Anusvara
+A881: Saurashtra Sign Visarga
+A882: Saurashtra Buchstabe A
+A883: Saurashtra-Buchstabe Aa
+A884: Saurashtra-Buchstabe I
+A885: Saurashtra-Brief Ii
+A886: Saurashtra Buchstabe U
+A887: Saurashtra-Buchstabe Uu
+A888: Saurashtra Buchstabe Vocalic R
+A889: Saurashtra Brief Gesang Rr
+A88A: Saurashtra Brief Gesang L
+A88B: Saurashtra Letter Vocalic Ll
+A88C: Saurashtra Buchstabe E
+A88D: Saurashtra-Buchstabe Ee
+A88E: Saurashtra-Brief Ai
+A88F: Saurashtra Buchstabe O
+A890: Saurashtra-Buchstabe Oo
+A891: Saurashtra Brief Au
+A892: Saurashtra Buchstabe Ka
+A893: Saurashtra-Buchstabe Kha
+A894: Saurashtra Buchstabe Ga
+A895: Saurashtra-Buchstabe Gha
+A896: Saurashtra-Brief Nga
+A897: Saurashtra Brief Ca
+A898: Saurashtra-Buchstabe Cha
+A899: Saurashtra-Brief Ja
+A89A: Saurashtra Buchstabe Jha
+A89B: Saurashtra-Brief Nya
+A89C: Saurashtra Brief Tta
+A89D: Saurashtra-Buchstabe Ttha
+A89E: Saurashtra Brief Dda
+A89F: Saurashtra Brief Ddha
+A8A0: Saurashtra-Brief Nna
+A8A1: Saurashtra Buchstabe Ta
+A8A2: Saurashtra-Brief Tha
+A8A3: Saurashtra Brief Da
+A8A4: Saurashtra-Buchstabe Dha
+A8A5: Saurashtra Brief Na
+A8A6: Saurashtra Brief Pa
+A8A7: Saurashtra Brief Pha
+A8A8: Saurashtra Buchstabe Ba
+A8A9: Saurashtra-Brief Bha
+A8AA: Saurashtra Buchstabe Ma
+A8AB: Saurashtra-Buchstabe Ya
+A8AC: Saurashtra Brief Ra
+A8AD: Saurashtra-Buchstabe La
+A8AE: Saurashtra Brief Va
+A8AF: Saurashtra Buchstabe Sha
+A8B0: Saurashtra Brief Ssa
+A8B1: Saurashtra Buchstabe Sa
+A8B2: Saurashtra-Buchstabe Ha
+A8B3: Saurashtra Brief Lla
+A8B4: Saurashtra Konsonantenzeichen Haaru
+A8B5: Saurashtra Vokalzeichen Aa
+A8B6: Saurashtra Vokalzeichen I
+A8B7: Saurashtra Vokalzeichen Ii
+A8B8: Saurashtra Vokalzeichen U
+A8B9: Saurashtra Vokalzeichen Uu
+A8BA: Saurashtra Vokalzeichen Vocalic R
+A8BB: Saurashtra Vokalzeichen Vokal Rr
+A8BC: Saurashtra Vokalzeichen Vocalic L
+A8BD: Saurashtra Vokalzeichen Vocalic Ll
+A8BE: Saurashtra Vokalzeichen E
+A8BF: Saurashtra Vokalzeichen Ee
+A8C0: Saurashtra Vokalzeichen Ai
+A8C1: Saurashtra Vokalzeichen O
+A8C2: Saurashtra Vokalzeichen Oo
+A8C3: Saurashtra Vokalzeichen Au
+A8C4: Saurashtra Sign Virama
+A8C5: Saurashtra-Zeichen Candrabindu
 A8C6:
 A8C7:
 A8C8:
@@ -204,53 +204,53 @@ A8CA:
 A8CB:
 A8CC:
 A8CD:
-A8CE: Saurashtra danda
-A8CF: Saurashtra double danda
-A8D0: Saurashtra digit zero
-A8D1: Saurashtra digit one
-A8D2: Saurashtra digit two
-A8D3: Saurashtra digit three
-A8D4: Saurashtra digit four
-A8D5: Saurashtra digit five
-A8D6: Saurashtra digit six
-A8D7: Saurashtra digit seven
-A8D8: Saurashtra digit eight
-A8D9: Saurashtra digit nine
+A8CE: Saurashtra Danda
+A8CF: Saurashtra Double Danda
+A8D0: Saurashtra Digit Zero
+A8D1: Saurashtra Ziffer Eins
+A8D2: Saurashtra Ziffer zwei
+A8D3: Saurashtra Ziffer Drei
+A8D4: Saurashtra Ziffer Vier
+A8D5: Saurashtra Ziffer Fünf
+A8D6: Saurashtra Ziffer sechs
+A8D7: Saurashtra Ziffer sieben
+A8D8: Saurashtra Ziffer Acht
+A8D9: Saurashtra Ziffer neun
 A8DA:
 A8DB:
 A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Combining devanagari digit zero
-A8E1: Combining devanagari digit one
-A8E2: Combining devanagari digit two
-A8E3: Combining devanagari digit three
-A8E4: Combining devanagari digit four
-A8E5: Combining devanagari digit five
-A8E6: Combining devanagari digit six
-A8E7: Combining devanagari digit seven
-A8E8: Combining devanagari digit eight
-A8E9: Combining devanagari digit nine
-A8EA: Combining devanagari letter a
-A8EB: Combining devanagari letter u
-A8EC: Combining devanagari letter ka
-A8ED: Combining devanagari letter na
-A8EE: Combining devanagari letter pa
-A8EF: Combining devanagari letter ra
-A8F0: Combining devanagari letter vi
-A8F1: Combining devanagari sign avagraha
-A8F2: Devanagari sign spacing candrabindu
-A8F3: Devanagari sign candrabindu virama
-A8F4: Devanagari sign double candrabindu virama
-A8F5: Devanagari sign candrabindu two
-A8F6: Devanagari sign candrabindu three
-A8F7: Devanagari sign candrabindu avagraha
-A8F8: Devanagari sign pushpika
-A8F9: Devanagari gap filler
-A8FA: Devanagari caret
-A8FB: Devanagari headstroke
-A8FC:
-A8FD:
-A8FE:
-A8FF:
+A8E0: Devanagari Digit Zero kombinieren : Vaidika Saamasvara Anka Shuunya
+A8E1: Devanagari Ziffer Eins kombinieren : vaidika saamasvara anka eka udaatta
+A8E2: Devanagari-Ziffer 2 kombinieren : vaidika saamasvara anka dvi svarita
+A8E3: Devanagari-Ziffer Drei kombinieren : vaidika saamasvara anka tri anudaatta
+A8E4: Devanagari Ziffer Vier kombinieren : Vaidika Saamasvara Anka Chatur
+A8E5: Devanagari Ziffer Fünf kombinieren : Vaidika Saamasvara Anka Pancha
+A8E6: Devanagari Ziffer Sechs kombinieren : Vaidika Saamasvara Anka Shatt
+A8E7: Devanagari Ziffer 7 kombinieren : Vaidika Saamasvara Anka Sapta
+A8E8: Devanagari Ziffer Acht kombinieren : vaidika saamasvara anka ashta
+A8E9: Devanagari Ziffer Neun kombinieren : Vaidika Saamasvara Anka Nava
+A8EA: Devanagari-Buchstabe A kombinieren : vaidika saamasvara abhinihita
+A8EB: Devanagari-Buchstabe U kombinieren : vaidika saamasvara u
+A8EC: Kombinierter Devanagari-Buchstabe Ka : vaidika saamasvara ka
+A8ED: Kombinierte Devanagari-Buchstaben Na : Vaidika Saamasvara Namana
+A8EE: Kombinierter Devanagari-Buchstabe Pa : vaidika saamasvara prannatam
+A8EF: Kombinierter Devanagari-Buchstabe Ra : vaidika saamasvara ra
+A8F0: Devanagari-Buchstabe Vi kombinieren : vaidika saamasvara vinata
+A8F1: Kombiniertes Devanagari-Zeichen Avagraha : Vaidika Saamasvara Diirghiibhaava
+A8F2: Devanagari-Zeichenabstand Candrabindu : Vaidika Candrabindu
+A8F3: Devanagari-Zeichen Candrabindu Virama : Vaidika Anusvaara Candrabindu Tiryak
+A8F4: Devanagari-Zeichen-Doppeltes Candrabindu Virama : Vaidika Anusvaara Dvi Candrabindu Tiryak
+A8F5: Devanagari-Zeichen Candrabindu Two : vaidika anusvaara candrabindu sa-dvi
+A8F6: Devanagari-Zeichen Candrabindu Three : vaidika anusvaara candrabindu sa-tri
+A8F7: Devanagari-Zeichen Candrabindu Avagraha : Vaidika Anusvaara Candrabindu Sa-Avagraha
+A8F8: Devanagari-Zeichen Pushpika : Vaidika Pushpikaa
+A8F9: Devanagari Gap Filler
+A8FA: Devanagari Caret : Vaidika Trutikaa
+A8FB: Devanagari-Schlaganfall : Shirorekhaa
+A8FC: Devanagari-Zeichen Siddham : Siddhirastu
+A8FD: Devanagari Jain Om
+A8FE: Devanagari-Brief Ay
+A8FF: Devanagari Vokalzeichen Ay

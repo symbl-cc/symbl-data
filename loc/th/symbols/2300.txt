@@ -1,256 +1,256 @@
-2300 : Diameter sign
-2301 : Electric arrow
-2302 : House
-2303 : Up arrowhead
-2304 : Down arrowhead
-2305 : Projective
-2306 : Perspective
-2307 : Wavy line
-2308 : Left ceiling
-2309 : Right ceiling
-230A : Left floor
-230B : Right floor
-230C : Bottom right crop
-230D : Bottom left crop
-230E : Top right crop
-230F : Top left crop
-2310 : Reversed not sign
-2311 : Square lozenge
-2312 : Arc
-2313 : Segment
-2314 : Sector
-2315 : Telephone recorder
-2316 : Position indicator
-2317 : Viewdata square
-2318 : Place of interest sign
-2319 : Turned not sign
-231A : Watch
-231B : Hourglass
-231C : Top left corner
-231D : Top right corner
-231E : Bottom left corner
-231F : Bottom right corner
-2320 : Top half integral
-2321 : Bottom half integral
-2322 : Frown
-2323 : Smile
-2324 : Up arrowhead between two horizontal bars
-2325 : Option key
-2326 : Erase to the right
-2327 : X in a rectangle box
-2328 : Keyboard
-2329 : Left-pointing angle bracket
-232A : Right-pointing angle bracket
-232B : Erase to the left
-232C : Benzene ring
-232D : Cylindricity
-232E : All around-profile
-232F : Symmetry
-2330 : Total runout
-2331 : Dimension origin
-2332 : Conical taper
-2333 : Slope
-2334 : Counterbore
-2335 : Countersink
-2336 : Apl functional symbol i-beam
-2337 : Apl functional symbol squish quad
-2338 : Apl functional symbol quad equal
-2339 : Apl functional symbol quad divide
-233A : Apl functional symbol quad diamond
-233B : Apl functional symbol quad jot
-233C : Apl functional symbol quad circle
-233D : Apl functional symbol circle stile
-233E : Apl functional symbol circle jot
-233F : Apl functional symbol slash bar
-2340 : Apl functional symbol backslash bar
-2341 : Apl functional symbol quad slash
-2342 : Apl functional symbol quad backslash
-2343 : Apl functional symbol quad less-than
-2344 : Apl functional symbol quad greater-than
-2345 : Apl functional symbol leftwards vane
-2346 : Apl functional symbol rightwards vane
-2347 : Apl functional symbol quad leftwards arrow
-2348 : Apl functional symbol quad rightwards arrow
-2349 : Apl functional symbol circle backslash
-234A : Apl functional symbol down tack underbar
-234B : Apl functional symbol delta stile
-234C : Apl functional symbol quad down caret
-234D : Apl functional symbol quad delta
-234E : Apl functional symbol down tack jot
-234F : Apl functional symbol upwards vane
-2350 : Apl functional symbol quad upwards arrow
-2351 : Apl functional symbol up tack overbar
-2352 : Apl functional symbol del stile
-2353 : Apl functional symbol quad up caret
-2354 : Apl functional symbol quad del
-2355 : Apl functional symbol up tack jot
-2356 : Apl functional symbol downwards vane
-2357 : Apl functional symbol quad downwards arrow
-2358 : Apl functional symbol quote underbar
-2359 : Apl functional symbol delta underbar
-235A : Apl functional symbol diamond underbar
-235B : Apl functional symbol jot underbar
-235C : Apl functional symbol circle underbar
-235D : Apl functional symbol up shoe jot
-235E : Apl functional symbol quote quad
-235F : Apl functional symbol circle star
-2360 : Apl functional symbol quad colon
-2361 : Apl functional symbol up tack diaeresis
-2362 : Apl functional symbol del diaeresis
-2363 : Apl functional symbol star diaeresis
-2364 : Apl functional symbol jot diaeresis
-2365 : Apl functional symbol circle diaeresis
-2366 : Apl functional symbol down shoe stile
-2367 : Apl functional symbol left shoe stile
-2368 : Apl functional symbol tilde diaeresis
-2369 : Apl functional symbol greater-than diaeresis
-236A : Apl functional symbol comma bar
-236B : Apl functional symbol del tilde
-236C : Apl functional symbol zilde
-236D : Apl functional symbol stile tilde
-236E : Apl functional symbol semicolon underbar
-236F : Apl functional symbol quad not equal
-2370 : Apl functional symbol quad question
-2371 : Apl functional symbol down caret tilde
-2372 : Apl functional symbol up caret tilde
-2373 : Apl functional symbol iota
-2374 : Apl functional symbol rho
-2375 : Apl functional symbol omega
-2376 : Apl functional symbol alpha underbar
-2377 : Apl functional symbol epsilon underbar
-2378 : Apl functional symbol iota underbar
-2379 : Apl functional symbol omega underbar
-237A : Apl functional symbol alpha
-237B : Not check mark
-237C : Right angle with downwards zigzag arrow
-237D : Shouldered open box
-237E : Bell symbol
-237F : Vertical line with middle dot
-2380 : Insertion symbol
-2381 : Continuous underline symbol
-2382 : Discontinuous underline symbol
-2383 : Emphasis symbol
-2384 : Composition symbol
-2385 : White square with centre vertical line
-2386 : Enter symbol
-2387 : Alternative key symbol
-2388 : Helm symbol
-2389 : Circled horizontal bar with notch
-238A : Circled triangle down
-238B : Broken circle with northwest arrow
-238C : Undo symbol
-238D : Monostable symbol
-238E : Hysteresis symbol
-238F : Open-circuit-output h-type symbol
-2390 : Open-circuit-output l-type symbol
-2391 : Passive-pull-down-output symbol
-2392 : Passive-pull-up-output symbol
-2393 : Direct current symbol form two
-2394 : Software-function symbol
-2395 : Apl functional symbol quad
-2396 : Decimal separator key symbol
-2397 : Previous page
-2398 : Next page
-2399 : Print screen symbol
-239A : Clear screen symbol
-239B : Left parenthesis upper hook
-239C : Left parenthesis extension
-239D : Left parenthesis lower hook
-239E : Right parenthesis upper hook
-239F : Right parenthesis extension
-23A0 : Right parenthesis lower hook
-23A1 : Left square bracket upper corner
-23A2 : Left square bracket extension
-23A3 : Left square bracket lower corner
-23A4 : Right square bracket upper corner
-23A5 : Right square bracket extension
-23A6 : Right square bracket lower corner
-23A7 : Left curly bracket upper hook
-23A8 : Left curly bracket middle piece
-23A9 : Left curly bracket lower hook
-23AA : Curly bracket extension
-23AB : Right curly bracket upper hook
-23AC : Right curly bracket middle piece
-23AD : Right curly bracket lower hook
-23AE : Integral extension
-23AF : Horizontal line extension
-23B0 : Upper left or lower right curly bracket section
-23B1 : Upper right or lower left curly bracket section
-23B2 : Summation top
-23B3 : Summation bottom
-23B4 : Top square bracket
-23B5 : Bottom square bracket
-23B6 : Bottom square bracket over top square bracket
-23B7 : Radical symbol bottom
-23B8 : Left vertical box line
-23B9 : Right vertical box line
-23BA : Horizontal scan line-1
-23BB : Horizontal scan line-3
-23BC : Horizontal scan line-7
-23BD : Horizontal scan line-9
-23BE : Dentistry symbol light vertical and top right
-23BF : Dentistry symbol light vertical and bottom right
-23C0 : Dentistry symbol light vertical with circle
-23C1 : Dentistry symbol light down and horizontal with circle
-23C2 : Dentistry symbol light up and horizontal with circle
-23C3 : Dentistry symbol light vertical with triangle
-23C4 : Dentistry symbol light down and horizontal with triangle
-23C5 : Dentistry symbol light up and horizontal with triangle
-23C6 : Dentistry symbol light vertical and wave
-23C7 : Dentistry symbol light down and horizontal with wave
-23C8 : Dentistry symbol light up and horizontal with wave
-23C9 : Dentistry symbol light down and horizontal
-23CA : Dentistry symbol light up and horizontal
-23CB : Dentistry symbol light vertical and top left
-23CC : Dentistry symbol light vertical and bottom left
-23CD : Square foot
-23CE : Return symbol
-23CF : Eject symbol
-23D0 : Vertical line extension
-23D1 : Metrical breve
-23D2 : Metrical long over short
-23D3 : Metrical short over long
-23D4 : Metrical long over two shorts
-23D5 : Metrical two shorts over long
-23D6 : Metrical two shorts joined
-23D7 : Metrical triseme
-23D8 : Metrical tetraseme
-23D9 : Metrical pentaseme
-23DA : Earth ground
-23DB : Fuse
-23DC : Top parenthesis
-23DD : Bottom parenthesis
-23DE : Top curly bracket
-23DF : Bottom curly bracket
-23E0 : Top tortoise shell bracket
-23E1 : Bottom tortoise shell bracket
-23E2 : White trapezium
-23E3 : Benzene ring with circle
-23E4 : Straightness
-23E5 : Flatness
-23E6 : Ac current
-23E7 : Electrical intersection
-23E8 : Decimal exponent symbol
-23E9 : 
-23EA : 
-23EB : 
-23EC : 
-23ED : 
-23EE : 
-23EF : 
-23F0 : 
-23F1 : 
-23F2 : 
-23F3 : 
-23F4 : 
-23F5 : 
-23F6 : 
-23F7 : 
-23F8 : 
-23F9 : 
-23FA : 
-23FB : 
-23FC : 
-23FD : 
-23FE : 
-23FF : 
+2300: เครื่องหมายเส้นผ่าศูนย์กลาง
+2301: ลูกศรไฟฟ้า
+2302: บ้าน : บ้าน
+2303: หัวลูกศรขึ้น
+2304: หัวลูกศรลง
+2305: projective
+2306: มุมมอง
+2307: เส้นหยัก
+2308: เพดานด้านซ้าย : apl upstile
+2309: เพดานด้านขวา
+230A: ชั้นซ้าย : apl downstile
+230B: ชั้นที่เหมาะสม
+230C: ครอบตัดด้านล่างขวา
+230D: พืชด้านล่างซ้าย
+230E: ครอบตัดด้านขวา
+230F: ครอบตัดด้านซ้าย
+2310: ย้อนกลับไม่ได้เข้าสู่ระบบ : จุดเริ่มต้นของบรรทัด
+2311: Square ยาอม : kissen (หมอน)
+2312: เส้นโค้ง : ตำแหน่งของสายใด ๆ
+2313: ส่วน : ตำแหน่งของพื้นผิว
+2314: ภาค
+2315: เครื่องบันทึกโทรศัพท์
+2316: ตัวบ่งชี้ตำแหน่ง : ตำแหน่งที่แท้จริง
+2317: วิวดาต้าสแควร์
+2318: ป้ายสถานที่ที่น่าสนใจ : รหัสคำสั่ง : กุญแจระบบปฏิบัติการ (iso 9995-7)
+2319: กลายเป็นไม่ได้เข้าสู่ระบบ : เครื่องหมายเส้น
+231A: ดู
+231B: นาฬิกาทราย : สัญลักษณ์การเล่นแร่แปรธาตุเป็นชั่วโมง
+231C: มุมบนซ้าย
+231D: มุมบนขวา
+231E: มุมล่างซ้าย
+231F: มุมล่างขวา
+2320: Integral ครึ่งบน
+2321: ส่วนประกอบครึ่งล่าง
+2322: ขมวดคิ้ว
+2323: ยิ้ม
+2324: หัวลูกศรขึ้นระหว่างสองแท่งในแนวนอน : ใส่รหัส
+2325: คีย์ตัวเลือก
+2326: ลบไปทางขวา : ลบไปที่ปุ่มขวา
+2327: X ในกล่องสี่เหลี่ยม : คีย์ที่ชัดเจน
+2328: แป้นพิมพ์
+2329: คร่อมมุมซ้ายชี้
+232A: คร่อมมุมขวา
+232B: ลบไปทางซ้าย : ลบไปที่ปุ่มซ้าย
+232C: แหวนเบนซิน
+232D: Cylindricity
+232E: ทุกรอบโปรไฟล์
+232F: สมมาตร
+2330: ยอดรวมทั้งหมด
+2331: กำเนิดมิติ
+2332: กรวยเรียวเล็ก
+2333: ลาด
+2334: Counterbore
+2335: Countersink
+2336: สัญลักษณ์การทำงาน Apl I-Beam
+2337: สัญลักษณ์การทำงาน Apl Squish Quad
+2338: Apl ฟังก์ชั่นสัญลักษณ์เท่ากับ Quad
+2339: Apl สัญลักษณ์การทำงานแบ่ง Quad
+233A: Apl สัญลักษณ์การทำงานรูปสี่เหลี่ยมเพชร
+233B: Apl ฟังก์ชั่นสัญลักษณ์ Quad Jot
+233C: Apl สัญลักษณ์การทำงานรูปสี่เหลี่ยมวงกลม
+233D: Apl Function Symbol Circle Stile
+233E: Apl ฟังก์ชั่นสัญลักษณ์วงกลม Jot
+233F: Apl ฟังก์ชันสแลชบาร์สัญลักษณ์
+2340: Apl หน้าที่สัญลักษณ์แบ็กสแลชบาร์
+2341: Apl ฟังก์ชั่นสัญลักษณ์ Quad Slash
+2342: Apl หน้าที่สัญลักษณ์ Quad Backslash
+2343: สัญลักษณ์การทำงาน Apl Quad น้อยกว่า
+2344: Apl ฟังก์ชั่นสัญลักษณ์ Quad มากกว่า - มากกว่า
+2345: สัญลักษณ์การทำงาน Apl ไปทางซ้าย Vane
+2346: สัญลักษณ์การทำงาน Apl ขวา Vane
+2347: Apl สัญลักษณ์การทำงานรูปสี่เหลี่ยมลูกศรซ้าย
+2348: Apl ฟังก์ชันสัญลักษณ์ลูกศรขวาสี่ทิศ
+2349: Apl ฟังก์ชั่นสัญลักษณ์วงกลมแบ็กสแลช
+234A: สัญลักษณ์การทำงาน Apl Down Tack Underbar : ตะปูหัวโต
+234B: สัญลักษณ์การทำงาน Apl Delta Stile
+234C: สัญลักษณ์การทำงาน Apl Quad Down Caret
+234D: สัญลักษณ์การทำงาน Apl Quad Delta
+234E: สัญลักษณ์การทำงาน Apl Down Tack Jot : ตะปูหัวโตขึ้น
+234F: สัญลักษณ์การทำงาน Apl Vane ขึ้นไป
+2350: Apl ฟังก์ชั่นสัญลักษณ์ Quad ลูกศรขึ้นไป
+2351: สัญลักษณ์การทำงาน Apl Up Tack Overbar : ลงตะปูหัวโต overbar
+2352: สัญลักษณ์การทำงาน Apl Del Stile
+2353: สัญลักษณ์การทำงาน Apl Quad Up Caret
+2354: Apl ฟังก์ชั่นสัญลักษณ์ Quad Del
+2355: สัญลักษณ์การทำงาน Apl Up Tack Jot : ลงตะปูหัวโต
+2356: สัญลักษณ์การทำงาน Apl Vane ด้านล่าง
+2357: สัญลักษณ์การทำงาน Apl Quad Arrow Downward
+2358: Apl สัญลักษณ์การทำงานอ้างอิง Underbar
+2359: Apl สัญลักษณ์การทำงาน Delta Underbar
+235A: สัญลักษณ์การทำงาน Apl Diamond Underbar
+235B: สัญลักษณ์การทำงาน Apl Jot Underbar
+235C: Apl สัญลักษณ์การทำงานวงกลมอันเดอร์บาร์
+235D: Apl ฟังก์ชั่นสัญลักษณ์ขึ้นรองเท้า Jot
+235E: สัญลักษณ์การทำงาน Apl อ้างรูปสี่เหลี่ยม
+235F: Apl สัญลักษณ์การทำงานวงกลมดาว : ปีใหม่คริสต์มาส
+2360: สัญลักษณ์การทำงาน Apl Quad Colon
+2361: สัญลักษณ์การทำงานของ Apl Up : ลง diaeresis
+2362: Apl ฟังก์ชั่นสัญลักษณ์ Del Diaeresis
+2363: Apl สัญลักษณ์การทำงานของดาว
+2364: Apl ฟังก์ชั่นสัญลักษณ์ Jot Diaeresis : บีบแตร
+2365: Aer ฟังก์ชั่นวงกลมสัญลักษณ์การสื่อสาร Diaeresis : ตะโกนเรียก
+2366: สัญลักษณ์การทำงาน Apl Down Shoe Stile
+2367: สัญลักษณ์ Apl ฟังก์ชั่นซ้ายท้ารองเท้า
+2368: สัญลักษณ์การทำงาน Apl Tilde Diaeresis : ย้ิมเย้ย
+2369: สัญลักษณ์การทำงาน Apl มากกว่าการเขียนเชิงทฤษฎี
+236A: Apl Function Comma Bar
+236B: สัญลักษณ์การทำงาน Apl Del Tilde
+236C: สัญลักษณ์การทำงาน Apl Zilde
+236D: สัญลักษณ์การทำงาน Apl Stile Tilde
+236E: Apl สัญลักษณ์การทำงานอัฒภาค Underbar
+236F: Apl ฟังก์ชั่นสัญลักษณ์ Quad ไม่เท่ากับ
+2370: Apl ฟังก์ชั่นคำถาม Quad สัญลักษณ์
+2371: สัญลักษณ์การทำงาน Apl Down Caret Tilde
+2372: สัญลักษณ์การทำงาน Apl Up Caret Tilde
+2373: สัญลักษณ์การทำงาน Apl Iota
+2374: สัญลักษณ์การทำงาน Apl Rho
+2375: Apl Function Symbol Omega
+2376: สัญลักษณ์การทำงาน Apl Alpha Underbar
+2377: สัญลักษณ์การทำงาน Apl Epsilon Underbar
+2378: สัญลักษณ์การทำงาน Apl Iota Underbar
+2379: Apl Function Symbol Ombar Underbar
+237A: Apl สัญลักษณ์การทำงานอัลฟ่า
+237B: ไม่ทำเครื่องหมาย
+237C: มุมขวาพร้อมลูกศรซิกแซกลง
+237D: ไหล่เปิดกล่อง
+237E: สัญลักษณ์กระดิ่ง
+237F: เส้นแนวตั้งที่มีจุดกึ่งกลาง
+2380: สัญลักษณ์แทรก
+2381: สัญลักษณ์ขีดเส้นใต้อย่างต่อเนื่อง
+2382: สัญลักษณ์ขีดเส้นใต้ไม่ต่อเนื่อง
+2383: สัญลักษณ์เน้น
+2384: สัญลักษณ์องค์ประกอบ
+2385: White Square พร้อม Center Line Line : ศูนย์
+2386: ใส่สัญลักษณ์
+2387: สัญลักษณ์ทางเลือกที่สำคัญ
+2388: สัญลักษณ์หางเสือ : ควบคุม
+2389: บาร์แนวนอนวงกลมพร้อมรอย : หยุด
+238A: วงกลมสามเหลี่ยมลดลง : ขัดจังหวะทำลาย
+238B: Broken Circle พร้อม Northwest Arrow : หนี
+238C: เลิกทำสัญลักษณ์
+238D: สัญลักษณ์ที่ monostable
+238E: สัญลักษณ์ Hysteresis
+238F: สัญลักษณ์ H-Type แบบวงจรเปิด - เอาท์พุท
+2390: สัญลักษณ์ L-Type แบบวงจรเปิด - เอาท์พุท
+2391: สัญลักษณ์ Passive-Pull-Down-Output
+2392: สัญลักษณ์ Passive-Pull-Up-Output
+2393: สัญลักษณ์กระแสตรงแบบสอง
+2394: สัญลักษณ์ฟังก์ชั่นซอฟต์แวร์
+2395: Apl ฟังก์ชั่นสัญลักษณ์ Quad
+2396: สัญลักษณ์คีย์ตัวคั่นทศนิยม
+2397: หน้าก่อนหน้า
+2398: หน้าต่อไป
+2399: พิมพ์สัญลักษณ์หน้าจอ
+239A: สัญลักษณ์หน้าจอที่ชัดเจน
+239B: วงเล็บซ้ายบนตะขอ
+239C: นามสกุลวงเล็บด้านซ้าย
+239D: วงเล็บซ้ายตะขอตัวล่าง
+239E: วงเล็บปิดด้านบนขวา
+239F: นามสกุลวงเล็บขวา
+23A0: วงเล็บปิดตะขอด้านขวา
+23A1: วงเล็บเหลี่ยมซ้าย
+23A2: ส่วนต่อขยาย Square Square ซ้าย
+23A3: วงเล็บเหลี่ยมซ้ายมุมล่าง
+23A4: วงเล็บมุมขวา
+23A5: ส่วนต่อขยายสี่เหลี่ยมจัตุรัสขวา
+23A6: วงเล็บมุมขวาล่าง
+23A7: วงเล็บปีกกาซ้าย
+23A8: วงเล็บปีกกาซ้ายกลางชิ้น
+23A9: วงเล็บปีกกาซ้าย
+23AA: นามสกุล Bracket หยิก
+23AB: วงเล็บปีกกาขวา
+23AC: วงเล็บปีกกาขวากลางชิ้น
+23AD: วงเล็บปีกกาด้านขวาตะขอด้านล่าง
+23AE: ส่วนต่อขยายที่สำคัญ
+23AF: ส่วนต่อขยายแนวนอน
+23B0: ส่วนวงเล็บปีกกาซ้ายบนหรือล่างขวา : หนวดซ้าย
+23B1: ส่วนวงเล็บปีกกาด้านขวาบนหรือล่างซ้าย : หนวดขวา
+23B2: ด้านบนของการรวม
+23B3: ด้านล่างของการรวม
+23B4: ฉากยึดด้านบน
+23B5: วงเล็บเหลี่ยมด้านล่าง
+23B6: วงเล็บเหลี่ยมด้านล่างเหนือวงเล็บเหลี่ยมบนสุด
+23B7: สัญลักษณ์หัวรุนแรงด้านล่าง
+23B8: บรรทัดกล่องแนวตั้งด้านซ้าย
+23B9: ขวากล่องแนวตั้ง
+23BA: เครื่องสแกนแนวนอน -1
+23BB: เครื่องสแกนแนวนอน -3
+23BC: Horizontal Scan Line-7
+23BD: เครื่องสแกนแนวนอน -9
+23BE: สัญลักษณ์ทันตกรรมแสงแนวตั้งและบนขวา
+23BF: สัญลักษณ์ทันตกรรมแสงแนวตั้งและล่างขวา
+23C0: สัญลักษณ์แสงทันตกรรมแนวตั้งกับวงกลม
+23C1: สัญลักษณ์ทางทันตกรรมแสงลงและแนวนอนกับวงกลม
+23C2: สัญลักษณ์ทันตกรรมสว่างขึ้นและแนวนอนกับวงกลม
+23C3: สัญลักษณ์ทันตกรรมแสงแนวตั้งกับสามเหลี่ยม
+23C4: สัญลักษณ์ทางทันตกรรมสว่างและแนวนอนด้วยสามเหลี่ยม
+23C5: สัญลักษณ์ทันตกรรมสว่างขึ้นและแนวนอนด้วยสามเหลี่ยม
+23C6: สัญลักษณ์ทันตกรรมแสงแนวตั้งและคลื่น
+23C7: สัญลักษณ์ทางทันตกรรมเบาและแนวนอนด้วยคลื่น
+23C8: สัญลักษณ์ทันตกรรมสว่างขึ้นและเป็นแนวนอนด้วยคลื่น
+23C9: สัญลักษณ์ทันตกรรมเบาและแนวนอน
+23CA: สัญลักษณ์ทันตกรรมสว่างขึ้นและเป็นแนวนอน
+23CB: สัญลักษณ์ทันตกรรมแสงแนวตั้งและบนซ้าย
+23CC: สัญลักษณ์ทันตกรรมแสงแนวตั้งและซ้ายล่าง
+23CD: ตารางฟุต
+23CE: สัญลักษณ์คืน
+23CF: สัญลักษณ์ดีดออก
+23D0: ส่วนต่อขยายสายแนวตั้ง
+23D1: Metveve Breve
+23D2: ระยะสั้นยาวเกินพิกัด
+23D3: ระยะสั้นแบบสั้น
+23D4: กางเกงขาสั้นยาวแบบสองส่วน Metrical
+23D5: กางเกงขาสั้นสองท่อนยาว
+23D6: กางเกงขาสั้น Metrical สองเข้าร่วม
+23D7: Triseme Metrical
+23D8: Metras Tetraseme
+23D9: Metas Pentaseme
+23DA: พื้นดิน
+23DB: ฟิวส์
+23DC: วงเล็บด้านบน
+23DD: วงเล็บด้านล่าง
+23DE: วงเล็บปีกกาด้านบน
+23DF: วงเล็บปีกกาด้านล่าง
+23E0: คร่อมเชลล์เต่าด้านบน
+23E1: คร่อมเปลือกเต่าด้านล่าง
+23E2: สี่เหลี่ยมคางหมูสีขาว
+23E3: แหวนเบนซินพร้อมวง
+23E4: ตรง
+23E5: ความเรียบ
+23E6: กระแสสลับ
+23E7: สี่แยกไฟฟ้า
+23E8: สัญลักษณ์เลขชี้กำลังทศนิยม
+23E9: สามเหลี่ยมสองแฉกสีดำ : กรอไปข้างหน้า
+23EA: สามเหลี่ยมคู่สีดำชี้ซ้าย : กรออย่างรวดเร็ว
+23EB: สามเหลี่ยมคู่สีดำชี้ขึ้น
+23EC: สามเหลี่ยมคู่สีดำชี้ลง
+23ED: สามเหลี่ยมสองแฉกสีดำพร้อมบาร์แนวตั้ง
+23EE: สามเหลี่ยมคู่สีดำชี้ไปทางซ้ายพร้อมแถบแนวตั้ง
+23EF: สามเหลี่ยมมุมฉากสีดำพร้อมบาร์แนวตั้งสองชั้น
+23F0: นาฬิกาปลุก
+23F1: นาฬิกาจับเวลา
+23F2: นาฬิกาจับเวลา
+23F3: นาฬิกาทรายกับทรายไหล
+23F4: สามเหลี่ยมสีดำชี้ไปทางซ้ายขนาดกลาง : กลับหลัง
+23F5: สามเหลี่ยมขวาชี้ดำขนาดกลาง : ข้างหน้า
+23F6: สามเหลี่ยมสีดำชี้ขึ้นกลาง : เพิ่ม
+23F7: สามเหลี่ยมชี้ลงกลางชี้สีดำ : ลดลง
+23F8: แถบแนวตั้งคู่ : หยุด
+23F9: Black Square สำหรับหยุด : หยุด
+23FA: วงกลมสีดำสำหรับบันทึก : บันทึก
+23FB: สัญลักษณ์พลังงาน
+23FC: สัญลักษณ์เปิดปิดเครื่อง
+23FD: สัญลักษณ์เปิดเครื่อง
+23FE: สัญลักษณ์ Power Sleep
+23FF: สัญลักษณ์ดวงตาสังเกตการณ์

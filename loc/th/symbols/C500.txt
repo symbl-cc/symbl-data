@@ -1,256 +1,256 @@
-C500 : Hangul syllable sseum
-C501 : Hangul syllable sseub
-C502 : Hangul syllable sseubs
-C503 : Hangul syllable sseus
-C504 : Hangul syllable sseuss
-C505 : Hangul syllable sseung
-C506 : Hangul syllable sseuj
-C507 : Hangul syllable sseuc
-C508 : Hangul syllable sseuk
-C509 : Hangul syllable sseut
-C50A : Hangul syllable sseup
-C50B : Hangul syllable sseuh
-C50C : Hangul syllable ssyi
-C50D : Hangul syllable ssyig
-C50E : Hangul syllable ssyigg
-C50F : Hangul syllable ssyigs
-C510 : Hangul syllable ssyin
-C511 : Hangul syllable ssyinj
-C512 : Hangul syllable ssyinh
-C513 : Hangul syllable ssyid
-C514 : Hangul syllable ssyil
-C515 : Hangul syllable ssyilg
-C516 : Hangul syllable ssyilm
-C517 : Hangul syllable ssyilb
-C518 : Hangul syllable ssyils
-C519 : Hangul syllable ssyilt
-C51A : Hangul syllable ssyilp
-C51B : Hangul syllable ssyilh
-C51C : Hangul syllable ssyim
-C51D : Hangul syllable ssyib
-C51E : Hangul syllable ssyibs
-C51F : Hangul syllable ssyis
-C520 : Hangul syllable ssyiss
-C521 : Hangul syllable ssying
-C522 : Hangul syllable ssyij
-C523 : Hangul syllable ssyic
-C524 : Hangul syllable ssyik
-C525 : Hangul syllable ssyit
-C526 : Hangul syllable ssyip
-C527 : Hangul syllable ssyih
-C528 : Hangul syllable ssi
-C529 : Hangul syllable ssig
-C52A : Hangul syllable ssigg
-C52B : Hangul syllable ssigs
-C52C : Hangul syllable ssin
-C52D : Hangul syllable ssinj
-C52E : Hangul syllable ssinh
-C52F : Hangul syllable ssid
-C530 : Hangul syllable ssil
-C531 : Hangul syllable ssilg
-C532 : Hangul syllable ssilm
-C533 : Hangul syllable ssilb
-C534 : Hangul syllable ssils
-C535 : Hangul syllable ssilt
-C536 : Hangul syllable ssilp
-C537 : Hangul syllable ssilh
-C538 : Hangul syllable ssim
-C539 : Hangul syllable ssib
-C53A : Hangul syllable ssibs
-C53B : Hangul syllable ssis
-C53C : Hangul syllable ssiss
-C53D : Hangul syllable ssing
-C53E : Hangul syllable ssij
-C53F : Hangul syllable ssic
-C540 : Hangul syllable ssik
-C541 : Hangul syllable ssit
-C542 : Hangul syllable ssip
-C543 : Hangul syllable ssih
-C544 : Hangul syllable a
-C545 : Hangul syllable ag
-C546 : Hangul syllable agg
-C547 : Hangul syllable ags
-C548 : Hangul syllable an
-C549 : Hangul syllable anj
-C54A : Hangul syllable anh
-C54B : Hangul syllable ad
-C54C : Hangul syllable al
-C54D : Hangul syllable alg
-C54E : Hangul syllable alm
-C54F : Hangul syllable alb
-C550 : Hangul syllable als
-C551 : Hangul syllable alt
-C552 : Hangul syllable alp
-C553 : Hangul syllable alh
-C554 : Hangul syllable am
-C555 : Hangul syllable ab
-C556 : Hangul syllable abs
-C557 : Hangul syllable as
-C558 : Hangul syllable ass
-C559 : Hangul syllable ang
-C55A : Hangul syllable aj
-C55B : Hangul syllable ac
-C55C : Hangul syllable ak
-C55D : Hangul syllable at
-C55E : Hangul syllable ap
-C55F : Hangul syllable ah
-C560 : Hangul syllable ae
-C561 : Hangul syllable aeg
-C562 : Hangul syllable aegg
-C563 : Hangul syllable aegs
-C564 : Hangul syllable aen
-C565 : Hangul syllable aenj
-C566 : Hangul syllable aenh
-C567 : Hangul syllable aed
-C568 : Hangul syllable ael
-C569 : Hangul syllable aelg
-C56A : Hangul syllable aelm
-C56B : Hangul syllable aelb
-C56C : Hangul syllable aels
-C56D : Hangul syllable aelt
-C56E : Hangul syllable aelp
-C56F : Hangul syllable aelh
-C570 : Hangul syllable aem
-C571 : Hangul syllable aeb
-C572 : Hangul syllable aebs
-C573 : Hangul syllable aes
-C574 : Hangul syllable aess
-C575 : Hangul syllable aeng
-C576 : Hangul syllable aej
-C577 : Hangul syllable aec
-C578 : Hangul syllable aek
-C579 : Hangul syllable aet
-C57A : Hangul syllable aep
-C57B : Hangul syllable aeh
-C57C : Hangul syllable ya
-C57D : Hangul syllable yag
-C57E : Hangul syllable yagg
-C57F : Hangul syllable yags
-C580 : Hangul syllable yan
-C581 : Hangul syllable yanj
-C582 : Hangul syllable yanh
-C583 : Hangul syllable yad
-C584 : Hangul syllable yal
-C585 : Hangul syllable yalg
-C586 : Hangul syllable yalm
-C587 : Hangul syllable yalb
-C588 : Hangul syllable yals
-C589 : Hangul syllable yalt
-C58A : Hangul syllable yalp
-C58B : Hangul syllable yalh
-C58C : Hangul syllable yam
-C58D : Hangul syllable yab
-C58E : Hangul syllable yabs
-C58F : Hangul syllable yas
-C590 : Hangul syllable yass
-C591 : Hangul syllable yang
-C592 : Hangul syllable yaj
-C593 : Hangul syllable yac
-C594 : Hangul syllable yak
-C595 : Hangul syllable yat
-C596 : Hangul syllable yap
-C597 : Hangul syllable yah
-C598 : Hangul syllable yae
-C599 : Hangul syllable yaeg
-C59A : Hangul syllable yaegg
-C59B : Hangul syllable yaegs
-C59C : Hangul syllable yaen
-C59D : Hangul syllable yaenj
-C59E : Hangul syllable yaenh
-C59F : Hangul syllable yaed
-C5A0 : Hangul syllable yael
-C5A1 : Hangul syllable yaelg
-C5A2 : Hangul syllable yaelm
-C5A3 : Hangul syllable yaelb
-C5A4 : Hangul syllable yaels
-C5A5 : Hangul syllable yaelt
-C5A6 : Hangul syllable yaelp
-C5A7 : Hangul syllable yaelh
-C5A8 : Hangul syllable yaem
-C5A9 : Hangul syllable yaeb
-C5AA : Hangul syllable yaebs
-C5AB : Hangul syllable yaes
-C5AC : Hangul syllable yaess
-C5AD : Hangul syllable yaeng
-C5AE : Hangul syllable yaej
-C5AF : Hangul syllable yaec
-C5B0 : Hangul syllable yaek
-C5B1 : Hangul syllable yaet
-C5B2 : Hangul syllable yaep
-C5B3 : Hangul syllable yaeh
-C5B4 : Hangul syllable eo
-C5B5 : Hangul syllable eog
-C5B6 : Hangul syllable eogg
-C5B7 : Hangul syllable eogs
-C5B8 : Hangul syllable eon
-C5B9 : Hangul syllable eonj
-C5BA : Hangul syllable eonh
-C5BB : Hangul syllable eod
-C5BC : Hangul syllable eol
-C5BD : Hangul syllable eolg
-C5BE : Hangul syllable eolm
-C5BF : Hangul syllable eolb
-C5C0 : Hangul syllable eols
-C5C1 : Hangul syllable eolt
-C5C2 : Hangul syllable eolp
-C5C3 : Hangul syllable eolh
-C5C4 : Hangul syllable eom
-C5C5 : Hangul syllable eob
-C5C6 : Hangul syllable eobs
-C5C7 : Hangul syllable eos
-C5C8 : Hangul syllable eoss
-C5C9 : Hangul syllable eong
-C5CA : Hangul syllable eoj
-C5CB : Hangul syllable eoc
-C5CC : Hangul syllable eok
-C5CD : Hangul syllable eot
-C5CE : Hangul syllable eop
-C5CF : Hangul syllable eoh
-C5D0 : Hangul syllable e
-C5D1 : Hangul syllable eg
-C5D2 : Hangul syllable egg
-C5D3 : Hangul syllable egs
-C5D4 : Hangul syllable en
-C5D5 : Hangul syllable enj
-C5D6 : Hangul syllable enh
-C5D7 : Hangul syllable ed
-C5D8 : Hangul syllable el
-C5D9 : Hangul syllable elg
-C5DA : Hangul syllable elm
-C5DB : Hangul syllable elb
-C5DC : Hangul syllable els
-C5DD : Hangul syllable elt
-C5DE : Hangul syllable elp
-C5DF : Hangul syllable elh
-C5E0 : Hangul syllable em
-C5E1 : Hangul syllable eb
-C5E2 : Hangul syllable ebs
-C5E3 : Hangul syllable es
-C5E4 : Hangul syllable ess
-C5E5 : Hangul syllable eng
-C5E6 : Hangul syllable ej
-C5E7 : Hangul syllable ec
-C5E8 : Hangul syllable ek
-C5E9 : Hangul syllable et
-C5EA : Hangul syllable ep
-C5EB : Hangul syllable eh
-C5EC : Hangul syllable yeo
-C5ED : Hangul syllable yeog
-C5EE : Hangul syllable yeogg
-C5EF : Hangul syllable yeogs
-C5F0 : Hangul syllable yeon
-C5F1 : Hangul syllable yeonj
-C5F2 : Hangul syllable yeonh
-C5F3 : Hangul syllable yeod
-C5F4 : Hangul syllable yeol
-C5F5 : Hangul syllable yeolg
-C5F6 : Hangul syllable yeolm
-C5F7 : Hangul syllable yeolb
-C5F8 : Hangul syllable yeols
-C5F9 : Hangul syllable yeolt
-C5FA : Hangul syllable yeolp
-C5FB : Hangul syllable yeolh
-C5FC : Hangul syllable yeom
-C5FD : Hangul syllable yeob
-C5FE : Hangul syllable yeobs
-C5FF : Hangul syllable yeos
+C500: Sseum พยางค์อังกูล
+C501: Sseub พยางค์อังกูล
+C502: Sseubs พยางค์อังกูล
+C503: Sseus พยางค์อังกูล
+C504: เซฮุลพยางค์อังกูล
+C505: พยางค์อังกูล
+C506: Sseuj พยางค์ฮันกึล
+C507: Sseuc พยางค์อังกูล
+C508: พยางค์อังกูล
+C509: อังกูลพยางค์ Sseut
+C50A: ชุดคำพยางค์อังกูล
+C50B: พยางค์อังกูล
+C50C: พยางค์อังกูล
+C50D: พยางค์อังกูล
+C50E: พยางค์อังกูล
+C50F: Ssyigs พยางค์อังกูล
+C510: อังกูลพยางค์ซิน
+C511: พยางค์อังกูล
+C512: พยางค์ฮันกึล
+C513: พยางค์ฮันกึล
+C514: พยางค์อังกูล Ssyil
+C515: พยางค์อังกูล
+C516: พยางค์อังกูล
+C517: พยางค์อังกูล
+C518: พยางค์อังกูล
+C519: พยางค์อังกูล
+C51A: พยางค์อังกูล
+C51B: พยางค์อังกูล
+C51C: พยางค์ฮันกึล
+C51D: พยางค์อังกูล Ssyib
+C51E: พยางค์อังกูล
+C51F: อังกูลพยางค์ Ssyis
+C520: พยางค์ฮันกึล
+C521: การออกเสียงพยางค์อังกูล
+C522: พยางค์อังกูล
+C523: พยางค์อังกูล Ssyic
+C524: อังกูลพยางค์ Ssyik
+C525: พยางค์อังกูล
+C526: พยางค์อังกูล
+C527: พยางค์อังกูล Ssyih
+C528: พยางค์อังกูล Ssi
+C529: พยางค์อังกูล
+C52A: อังกูลพยางค์
+C52B: Ssigs พยางค์ฮันกึล
+C52C: พยางค์อังกูล
+C52D: พยางค์อังกูล
+C52E: พยางค์ฮันกึล
+C52F: พยางค์ฮันกึล
+C530: พยางค์อังกูล
+C531: พยางค์อังกูล
+C532: อักษรฮันกึล
+C533: พยางค์อังกูล
+C534: พยางค์อังกูล
+C535: พยางค์อังกูล
+C536: พยางค์อังกูล
+C537: พยางค์อังกูล
+C538: พยางค์อังกูล
+C539: พยางค์อังกูล
+C53A: พยางค์อังกูล
+C53B: พยางค์อังกูล
+C53C: พยางค์อังกูล
+C53D: พยางค์อังกูล
+C53E: พยางค์อังกูล
+C53F: พยางค์อังกูล
+C540: พยางค์อังกูล Ssik
+C541: พยางค์อังกูล Ssit
+C542: พยางค์อังกูล
+C543: พยางค์อังกูล
+C544: พยางค์อังกูล
+C545: อังกูลพยางค์ Ag
+C546: อังกูลพยางค์
+C547: พยางค์อังกูล
+C548: พยางค์อังกูล
+C549: อังกูลพยางค์อังกูล
+C54A: อังกูลพยางค์อังกูล
+C54B: โฆษณาพยางค์อังกูล
+C54C: อังกูลพยางค์อัล
+C54D: Algul พยางค์ฮันกึล
+C54E: อังกูลพยางค์ Alm
+C54F: อังกูลพยางค์อัล
+C550: อังกูลพยางค์
+C551: อังกูลพยางค์ Alt
+C552: อังกูลพยางค์อัล
+C553: อังกูลพยางค์ Alh
+C554: อังกูลพยางค์
+C555: อังกูลพยางค์ Ab
+C556: Abs พยางค์อังกูล
+C557: อังกูลพยางค์เป็น
+C558: อังกูลพยางค์
+C559: อังกูลพยางค์อัง
+C55A: พยางค์อังกูล
+C55B: พยางค์อังกูล
+C55C: พยางค์อังกูล
+C55D: พยางค์อังกูลที่
+C55E: Ap พยางค์อังกูล
+C55F: พยางค์อังกูลอา
+C560: แองพยางค์อังกูล
+C561: Aeg พยางค์ฮันกึล
+C562: อังกูลพยางค์ Aegg
+C563: Aeg พยางค์อังกูล
+C564: อังกูลพยางค์
+C565: อังกูลพยางค์อังกูล
+C566: อังกูลพยางค์ Aenh
+C567: Aed พยางค์อังกูล
+C568: Aul พยางค์ฮันกึล
+C569: Aulg พยางค์อังกูล
+C56A: Aulm พยางค์อังกูล
+C56B: อังกูลพยางค์ Aelb
+C56C: All พยางค์อังกูล
+C56D: อังกูลพยางค์ฮันกึล
+C56E: Aelp พยางค์อังกูล
+C56F: อังกูลพยางค์ Aelh
+C570: พยางค์อังกูล
+C571: อังกูลพยางค์ Aeb
+C572: อังกูลพยางค์อังกูล
+C573: Aes พยางค์อังกูล
+C574: Aess พยางค์อังกูล
+C575: อังกูลพยางค์อังกูล
+C576: อังกูลพยางค์ Aej
+C577: Aul พยางค์ฮันกึล
+C578: อังกูลพยางค์เอก
+C579: Aul พยางค์ฮันกึล
+C57A: Aul พยางค์อังกูล
+C57B: อังกูลพยางค์เอ๋อ
+C57C: พยางค์อังกูลยา
+C57D: อังกูลพยางค์ Yag
+C57E: พยางค์อังกูล Yagg
+C57F: พยางค์อังกูล
+C580: อังกูลพยางค์ยัน
+C581: อังกูลพยางค์ยานหั
+C582: อังกูลพยางค์ Yanh
+C583: พยางค์อังกูล
+C584: พยางค์ฮันกึล
+C585: พยางค์อังกูล
+C586: พยางค์ภาษาอังกูล
+C587: พยางค์อังกูล
+C588: พยางค์ฮันกึล
+C589: พยางค์อังกูล
+C58A: พยางค์อังกูล
+C58B: พยางค์ฮันกึล
+C58C: พยางค์ฮันกึล
+C58D: พยางค์ฮันกึล
+C58E: พยางค์พยางค์อังกูล
+C58F: พยางค์อังกูลยาส
+C590: พยางค์ฮันกึล
+C591: อังกูลพยางค์หยาง
+C592: อังกูลพยางค์ยาจ
+C593: พยางค์ฮันกึล
+C594: อังกูลพยางค์จามรี
+C595: พยางค์อังกูล
+C596: พยางค์อังกูล
+C597: พยางค์อังกูล
+C598: พยางค์อังกูลเย
+C599: อังกูลพยางค์
+C59A: อังกูลพยางค์
+C59B: พยางค์อังกูล
+C59C: พยางค์ฮันกึลแยน
+C59D: อังกูลพยางค์
+C59E: อังกูลพยางค์ Yaenh
+C59F: พยางค์อังกูล
+C5A0: พยางค์ฮันกึล
+C5A1: พยางค์ฮันกึล
+C5A2: พยางค์ฮันกึล
+C5A3: พยางค์ฮันกึล
+C5A4: พยางค์ฮันกึล
+C5A5: พยางค์ฮันกึล
+C5A6: พยางค์อังกูล
+C5A7: พยางค์ฮันกึล
+C5A8: พยัญชนะอังกูล
+C5A9: อังกูลพยางค์ Yaeb
+C5AA: อังกูลพยางค์ Yaebs
+C5AB: พยางค์อังกูล
+C5AC: พยางค์อังกูล
+C5AD: พยางค์อังกูลแยง
+C5AE: อังกูลพยางค์ Yaej
+C5AF: พยางค์อังกูล
+C5B0: อังกูลพยางค์แยก
+C5B1: อังกูลพยางค์ Yaet
+C5B2: พยัญชนะอังกูล
+C5B3: พยางค์ฮันกึล
+C5B4: พยางค์ฮันกึล
+C5B5: อังกูลพยางค์ Eog
+C5B6: อังกูลพยางค์ Eogg
+C5B7: Eogs อังกูลพยางค์
+C5B8: พยางค์อังกูล
+C5B9: พยางค์อังกูล
+C5BA: พยางค์ฮันกึล
+C5BB: พยางค์อังกูล
+C5BC: อังกูลพยางค์ Eol
+C5BD: อังกูลพยางค์ Eolg
+C5BE: อังกูลพยางค์ Eolm
+C5BF: อังกูลพยางค์ Eolb
+C5C0: อังกูลพยางค์ Eols
+C5C1: Eult พยางค์อังกูล
+C5C2: อังกูลพยางค์ Eolp
+C5C3: อังกูลพยางค์ Eolh
+C5C4: อังกูลพยางค์ Eom
+C5C5: Eob พยางค์ฮันกึล
+C5C6: Eobs พยางค์ฮันกึล
+C5C7: Eos พยางค์อังกูล
+C5C8: ฮันกึลพยางค์
+C5C9: อังกูลพยางค์ออง
+C5CA: อังกูลพยางค์ Eoj
+C5CB: Eul อังกูลพยางค์
+C5CC: อังกูลพยางค์เอก
+C5CD: อังกูลพยางค์
+C5CE: Eul พยางค์อังกูล
+C5CF: พยางค์ฮันกึล
+C5D0: อังกูลพยางค์ E
+C5D1: พยางค์อังกูลเช่น
+C5D2: ไข่พยางค์ฮันกึล
+C5D3: Egs พยางค์อังกูล
+C5D4: อังกูลพยางค์
+C5D5: อังกูลพยางค์
+C5D6: อังกูลพยางค์เพิ่ม
+C5D7: อังกูลพยางค์เอ็ด
+C5D8: พยางค์อังกูล
+C5D9: Elg พยางค์อังกูล
+C5DA: Elm พยางค์อังกูล
+C5DB: Elul พยางค์อังกูล
+C5DC: พยางค์อังกูล
+C5DD: พยางค์อังกูล
+C5DE: พยางค์อังกูล
+C5DF: อังกูลพยางค์เอล
+C5E0: พยางค์อังกูล
+C5E1: อังกูลพยางค์ Eb
+C5E2: Eul พยางค์ฮันกึล
+C5E3: อังกูลพยางค์ Es
+C5E4: เอสอังกูลพยางค์
+C5E5: ภาษาอังกูลพยางค์
+C5E6: อังกูลพยางค์ Ej
+C5E7: Eculable พยางค์อังกูล
+C5E8: อังกูลพยางค์เอก
+C5E9: อังกูลพยางค์และอื่น ๆ
+C5EA: พยางค์อังกูล
+C5EB: พยางค์ฮันกึล
+C5EC: พยางค์ฮันกึล
+C5ED: Yeul พยางค์อังกูล
+C5EE: Yeul พยางค์ฮันกึล
+C5EF: Yeogs อังกูลพยางค์
+C5F0: พยางค์ฮันกึล
+C5F1: พยางค์ฮันกึลยอน
+C5F2: พยางค์ฮันกึล
+C5F3: พยางค์ฮันกึล
+C5F4: พยางค์ฮันกึล
+C5F5: พยางค์ฮันกึล
+C5F6: พยางค์ฮันกึล
+C5F7: พยางค์ฮันกึล
+C5F8: Yeul พยางค์ฮันกึล
+C5F9: พยางค์ฮันกึล
+C5FA: พยางค์อังกูล Yeolp
+C5FB: พยางค์ฮันกึล
+C5FC: พยางค์อังกูล Yeom
+C5FD: Yeul พยางค์ฮันกึล
+C5FE: Yeobs พยางค์อังกูล
+C5FF: Yeul พยางค์อังกูล

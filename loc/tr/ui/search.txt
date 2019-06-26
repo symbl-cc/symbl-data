@@ -6,7 +6,7 @@ example-text: çekiç ve orak;ok;kalp;yıldız;Üçgen;kontrol;daire;çapraz;Kar
 h1: Arama
 result: Sonuç
 empty: Arama ifadesi boş
-total: Toplam: %s
+total: Arama sonuçları: %s
 limit: (Sadece göster %s)
 none: Yok
 any: Herhangi bir kelimeyle ara
@@ -15,3 +15,10 @@ unicode-block: Unicode bölüm
 count-symbols: %s Semboller
 sets: Set
 alphabet: Alfabe
+
+[empty]
+no_results: "{query}" için Türkçe sonuç bulunamadı.
+language: {Dili} değiştirmeyi dene.
+blocks: {Unicode Bloklarını} keşfedin.
+sets: {Kümelere} bak.
+table: Tam {karakter tablosuna} bakın.

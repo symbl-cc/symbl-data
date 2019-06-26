@@ -1,256 +1,256 @@
-1100: Hangul choseong kiyeok
-1101: Hangul choseong ssangkiyeok
-1102: Hangul choseong nieun
-1103: Hangul choseong tikeut
-1104: Hangul choseong ssangtikeut
-1105: Hangul choseong rieul
-1106: Hangul choseong mieum
-1107: Hangul choseong pieup
-1108: Hangul choseong ssangpieup
-1109: Hangul choseong sios
-110A: Hangul choseong ssangsios
-110B: Hangul choseong ieung
-110C: Hangul choseong cieuc
-110D: Hangul choseong ssangcieuc
-110E: Hangul choseong chieuch
-110F: Hangul choseong khieukh
-1110: Hangul choseong thieuth
-1111: Hangul choseong phieuph
-1112: Hangul choseong hieuh
-1113: Hangul choseong nieun-kiyeok
-1114: Hangul choseong ssangnieun
-1115: Hangul choseong nieun-tikeut
-1116: Hangul choseong nieun-pieup
-1117: Hangul choseong tikeut-kiyeok
-1118: Hangul choseong rieul-nieun
-1119: Hangul choseong ssangrieul
-111A: Hangul choseong rieul-hieuh
-111B: Hangul choseong kapyeounrieul
-111C: Hangul choseong mieum-pieup
-111D: Hangul choseong kapyeounmieum
-111E: Hangul choseong pieup-kiyeok
-111F: Hangul choseong pieup-nieun
-1120: Hangul choseong pieup-tikeut
-1121: Hangul choseong pieup-sios
-1122: Hangul choseong pieup-sios-kiyeok
-1123: Hangul choseong pieup-sios-tikeut
-1124: Hangul choseong pieup-sios-pieup
-1125: Hangul choseong pieup-ssangsios
-1126: Hangul choseong pieup-sios-cieuc
-1127: Hangul choseong pieup-cieuc
-1128: Hangul choseong pieup-chieuch
-1129: Hangul choseong pieup-thieuth
-112A: Hangul choseong pieup-phieuph
-112B: Hangul choseong kapyeounpieup
-112C: Hangul choseong kapyeounssangpieup
-112D: Hangul choseong sios-kiyeok
-112E: Hangul choseong sios-nieun
-112F: Hangul choseong sios-tikeut
-1130: Hangul choseong sios-rieul
-1131: Hangul choseong sios-mieum
-1132: Hangul choseong sios-pieup
-1133: Hangul choseong sios-pieup-kiyeok
-1134: Hangul choseong sios-ssangsios
-1135: Hangul choseong sios-ieung
-1136: Hangul choseong sios-cieuc
-1137: Hangul choseong sios-chieuch
-1138: Hangul choseong sios-khieukh
-1139: Hangul choseong sios-thieuth
-113A: Hangul choseong sios-phieuph
-113B: Hangul choseong sios-hieuh
-113C: Hangul choseong chitueumsios
-113D: Hangul choseong chitueumssangsios
-113E: Hangul choseong ceongchieumsios
-113F: Hangul choseong ceongchieumssangsios
-1140: Hangul choseong pansios
-1141: Hangul choseong ieung-kiyeok
-1142: Hangul choseong ieung-tikeut
-1143: Hangul choseong ieung-mieum
-1144: Hangul choseong ieung-pieup
-1145: Hangul choseong ieung-sios
-1146: Hangul choseong ieung-pansios
-1147: Hangul choseong ssangieung
-1148: Hangul choseong ieung-cieuc
-1149: Hangul choseong ieung-chieuch
-114A: Hangul choseong ieung-thieuth
-114B: Hangul choseong ieung-phieuph
-114C: Hangul choseong yesieung
-114D: Hangul choseong cieuc-ieung
-114E: Hangul choseong chitueumcieuc
-114F: Hangul choseong chitueumssangcieuc
-1150: Hangul choseong ceongchieumcieuc
-1151: Hangul choseong ceongchieumssangcieuc
-1152: Hangul choseong chieuch-khieukh
-1153: Hangul choseong chieuch-hieuh
-1154: Hangul choseong chitueumchieuch
-1155: Hangul choseong ceongchieumchieuch
-1156: Hangul choseong phieuph-pieup
-1157: Hangul choseong kapyeounphieuph
-1158: Hangul choseong ssanghieuh
-1159: Hangul choseong yeorinhieuh
-115A: Hangul choseong kiyeok-tikeut
-115B: Hangul choseong nieun-sios
-115C: Hangul choseong nieun-cieuc
-115D: Hangul choseong nieun-hieuh
-115E: Hangul choseong tikeut-rieul
-115F: Hangul choseong filler
-1160: Hangul jungseong filler
-1161: Hangul jungseong a
-1162: Hangul jungseong ae
-1163: Hangul jungseong ya
-1164: Hangul jungseong yae
-1165: Hangul jungseong eo
-1166: Hangul jungseong e
-1167: Hangul jungseong yeo
-1168: Hangul jungseong ye
-1169: Hangul jungseong o
-116A: Hangul jungseong wa
-116B: Hangul jungseong wae
-116C: Hangul jungseong oe
-116D: Hangul jungseong yo
-116E: Hangul jungseong u
-116F: Hangul jungseong weo
-1170: Hangul jungseong we
-1171: Hangul jungseong wi
-1172: Hangul jungseong yu
-1173: Hangul jungseong eu
-1174: Hangul jungseong yi
-1175: Hangul jungseong i
-1176: Hangul jungseong a-o
-1177: Hangul jungseong a-u
-1178: Hangul jungseong ya-o
-1179: Hangul jungseong ya-yo
-117A: Hangul jungseong eo-o
-117B: Hangul jungseong eo-u
-117C: Hangul jungseong eo-eu
-117D: Hangul jungseong yeo-o
-117E: Hangul jungseong yeo-u
-117F: Hangul jungseong o-eo
-1180: Hangul jungseong o-e
-1181: Hangul jungseong o-ye
-1182: Hangul jungseong o-o
-1183: Hangul jungseong o-u
-1184: Hangul jungseong yo-ya
-1185: Hangul jungseong yo-yae
-1186: Hangul jungseong yo-yeo
-1187: Hangul jungseong yo-o
-1188: Hangul jungseong yo-i
-1189: Hangul jungseong u-a
-118A: Hangul jungseong u-ae
-118B: Hangul jungseong u-eo-eu
-118C: Hangul jungseong u-ye
-118D: Hangul jungseong u-u
-118E: Hangul jungseong yu-a
-118F: Hangul jungseong yu-eo
-1190: Hangul jungseong yu-e
-1191: Hangul jungseong yu-yeo
-1192: Hangul jungseong yu-ye
-1193: Hangul jungseong yu-u
-1194: Hangul jungseong yu-i
-1195: Hangul jungseong eu-u
-1196: Hangul jungseong eu-eu
-1197: Hangul jungseong yi-u
-1198: Hangul jungseong i-a
-1199: Hangul jungseong i-ya
-119A: Hangul jungseong i-o
-119B: Hangul jungseong i-u
-119C: Hangul jungseong i-eu
-119D: Hangul jungseong i-araea
-119E: Hangul jungseong araea
-119F: Hangul jungseong araea-eo
-11A0: Hangul jungseong araea-u
-11A1: Hangul jungseong araea-i
-11A2: Hangul jungseong ssangaraea
-11A3: Hangul jungseong a-eu
-11A4: Hangul jungseong ya-u
-11A5: Hangul jungseong yeo-ya
-11A6: Hangul jungseong o-ya
-11A7: Hangul jungseong o-yae
-11A8: Hangul jongseong kiyeok
-11A9: Hangul jongseong ssangkiyeok
-11AA: Hangul jongseong kiyeok-sios
-11AB: Hangul jongseong nieun
-11AC: Hangul jongseong nieun-cieuc
-11AD: Hangul jongseong nieun-hieuh
-11AE: Hangul jongseong tikeut
-11AF: Hangul jongseong rieul
-11B0: Hangul jongseong rieul-kiyeok
-11B1: Hangul jongseong rieul-mieum
-11B2: Hangul jongseong rieul-pieup
-11B3: Hangul jongseong rieul-sios
-11B4: Hangul jongseong rieul-thieuth
-11B5: Hangul jongseong rieul-phieuph
-11B6: Hangul jongseong rieul-hieuh
-11B7: Hangul jongseong mieum
-11B8: Hangul jongseong pieup
-11B9: Hangul jongseong pieup-sios
-11BA: Hangul jongseong sios
-11BB: Hangul jongseong ssangsios
-11BC: Hangul jongseong ieung
-11BD: Hangul jongseong cieuc
-11BE: Hangul jongseong chieuch
-11BF: Hangul jongseong khieukh
-11C0: Hangul jongseong thieuth
-11C1: Hangul jongseong phieuph
-11C2: Hangul jongseong hieuh
-11C3: Hangul jongseong kiyeok-rieul
-11C4: Hangul jongseong kiyeok-sios-kiyeok
-11C5: Hangul jongseong nieun-kiyeok
-11C6: Hangul jongseong nieun-tikeut
-11C7: Hangul jongseong nieun-sios
-11C8: Hangul jongseong nieun-pansios
-11C9: Hangul jongseong nieun-thieuth
-11CA: Hangul jongseong tikeut-kiyeok
-11CB: Hangul jongseong tikeut-rieul
-11CC: Hangul jongseong rieul-kiyeok-sios
-11CD: Hangul jongseong rieul-nieun
-11CE: Hangul jongseong rieul-tikeut
-11CF: Hangul jongseong rieul-tikeut-hieuh
-11D0: Hangul jongseong ssangrieul
-11D1: Hangul jongseong rieul-mieum-kiyeok
-11D2: Hangul jongseong rieul-mieum-sios
-11D3: Hangul jongseong rieul-pieup-sios
-11D4: Hangul jongseong rieul-pieup-hieuh
-11D5: Hangul jongseong rieul-kapyeounpieup
-11D6: Hangul jongseong rieul-ssangsios
-11D7: Hangul jongseong rieul-pansios
-11D8: Hangul jongseong rieul-khieukh
-11D9: Hangul jongseong rieul-yeorinhieuh
-11DA: Hangul jongseong mieum-kiyeok
-11DB: Hangul jongseong mieum-rieul
-11DC: Hangul jongseong mieum-pieup
-11DD: Hangul jongseong mieum-sios
-11DE: Hangul jongseong mieum-ssangsios
-11DF: Hangul jongseong mieum-pansios
-11E0: Hangul jongseong mieum-chieuch
-11E1: Hangul jongseong mieum-hieuh
-11E2: Hangul jongseong kapyeounmieum
-11E3: Hangul jongseong pieup-rieul
-11E4: Hangul jongseong pieup-phieuph
-11E5: Hangul jongseong pieup-hieuh
-11E6: Hangul jongseong kapyeounpieup
-11E7: Hangul jongseong sios-kiyeok
-11E8: Hangul jongseong sios-tikeut
-11E9: Hangul jongseong sios-rieul
-11EA: Hangul jongseong sios-pieup
-11EB: Hangul jongseong pansios
-11EC: Hangul jongseong ieung-kiyeok
-11ED: Hangul jongseong ieung-ssangkiyeok
-11EE: Hangul jongseong ssangieung
-11EF: Hangul jongseong ieung-khieukh
-11F0: Hangul jongseong yesieung
-11F1: Hangul jongseong yesieung-sios
-11F2: Hangul jongseong yesieung-pansios
-11F3: Hangul jongseong phieuph-pieup
-11F4: Hangul jongseong kapyeounphieuph
-11F5: Hangul jongseong hieuh-nieun
-11F6: Hangul jongseong hieuh-rieul
-11F7: Hangul jongseong hieuh-mieum
-11F8: Hangul jongseong hieuh-pieup
-11F9: Hangul jongseong yeorinhieuh
-11FA: Hangul jongseong kiyeok-nieun
-11FB: Hangul jongseong kiyeok-pieup
-11FC: Hangul jongseong kiyeok-chieuch
-11FD: Hangul jongseong kiyeok-khieukh
-11FE: Hangul jongseong kiyeok-hieuh
-11FF: Hangul jongseong ssangnieun
+1100: Hangul Choseong Kiyeok : G
+1101: Hangul Choseong Ssangkiyeok : gg
+1102: Hangul Choseong Nieun : n
+1103: Hangul Choseong Tikeut : d
+1104: Hangul Choseong Ssangtikeut : dd
+1105: Hangul Choseong Rieul : r
+1106: Hangul Choseong Mieum : m
+1107: Hangul Choseong Pieup : b
+1108: Hangul Choseong Ssangpieup : bb
+1109: Hangul Choseong Sios : s
+110A: Hangul Choseong Ssangsios : ss
+110B: Hangul Choseong Ieung
+110C: Hangul Choseong Cieuc : j
+110D: Hangul Choseong Ssangcieuc : jj
+110E: Hangul Choseong Chieuch : c
+110F: Hangul Choseong Khieukh : k
+1110: Hangul Choseong Thieuth : t
+1111: Hangul Choseong Phieuph : p
+1112: Hangul Choseong Hieuh : h
+1113: Hangul Choseong Nieun-Kiyeok
+1114: Hangul Choseong Ssangnieun
+1115: Hangul Choseong Nieun-Tikeut
+1116: Hangul Choseong Nieun-Pieup
+1117: Hangul Choseong Tikeut-Kiyeok
+1118: Hangul Choseong Rieul-Nieun
+1119: Hangul Choseong Ssangrieul
+111A: Hangul Choseong Rieul-Hieuh
+111B: Hangul Choseong Kapyeounrieul
+111C: Hangul Choseong Mieum-Pieup
+111D: Hangul Choseong Kapyeounmieum
+111E: Hangul Choseong Pieup-Kiyeok
+111F: Hangul Choseong Pieup-Nieun
+1120: Hangul Choseong Pieup-Tikeut
+1121: Hangul Choseong Pieup-Sios
+1122: Hangul Choseong Pieup-Sios-Kiyeok
+1123: Hangul Choseong Pieup-Sios-Tikeut
+1124: Hangul Choseong Pieup-Sios-Pieup
+1125: Hangul Choseong Pieup-Ssangsios
+1126: Hangul Choseong Pieup-Sios-Cieuc
+1127: Hangul Choseong Pieup-Cieuc
+1128: Hangul Choseong Pieup-Chieuch
+1129: Hangul Choseong Pieup-Thieuth
+112A: Hangul Choseong Pieup-Phieuph
+112B: Hangul Choseong Kapyeounpieup
+112C: Hangul Choseong Kapyeounssangpieup
+112D: Hangul Choseong Sios-Kiyeok
+112E: Hangul Choseong Sios-Nieun
+112F: Hangul Choseong Sios-Tikeut
+1130: Hangul Choseong Sios-Rieul
+1131: Hangul Choseong Sios-Mieum
+1132: Hangul Choseong Sios-Pieup
+1133: Hangul Choseong Sios-Pieup-Kiyeok
+1134: Hangul Choseong Sios-Ssangsios
+1135: Hangul Choseong Sios-Ieung
+1136: Hangul Choseong Sios-Cieuc
+1137: Hangul Choseong Sios-Chieuch
+1138: Hangul Choseong Sios-Khieukh
+1139: Hangul Choseong Sios-Thieuth
+113A: Hangul Choseong Sios-Phieuph
+113B: Hangul Choseong Sios-Hieuh
+113C: Hangul Choseong Chitueumsios
+113D: Hangul Choseong Chitueumssangsios
+113E: Hangul Choseong Ceongchieumsios
+113F: Hangul Choseong Ceongchieumssangsios
+1140: Hangul Choseong Pansios
+1141: Hangul Choseong Ieung-Kiyeok
+1142: Hangul Choseong Ieung-Tikeut
+1143: Hangul Choseong Ieung-Mieum
+1144: Hangul Choseong Ieung-Pieup
+1145: Hangul Choseong Ieung-Sios
+1146: Hangul Choseong Ieung-Pansios
+1147: Hangul Choseong Ssangieung
+1148: Hangul Choseong Ieung-Cieuc
+1149: Hangul Choseong Ieung-Chieuch
+114A: Hangul Choseong Ieung-Thieuth
+114B: Hangul Choseong Ieung-Phieuph
+114C: Hangul Choseong Yesieung
+114D: Hangul Choseong Cieuc-Ieung
+114E: Hangul Choseong Chitueumcieuc
+114F: Hangul Choseong Chitueumssangcieuc
+1150: Hangul Choseong Ceongchieumcieuc
+1151: Hangul Choseong Ceongchieumssangcieuc
+1152: Hangul Choseong Chieuch-Khieukh
+1153: Hangul Choseong Chieuch-Hieuh
+1154: Hangul Choseong Chitueumchieuch
+1155: Hangul Choseong Ceongchieumchieuch
+1156: Hangul Choseong Phieuph-Pieup
+1157: Hangul Choseong Kapyeounphieuph
+1158: Hangul Choseong Ssanghieuh
+1159: Hangul Choseong Yeorinhieuh
+115A: Hangul Choseong Kiyeok-Tikeut
+115B: Hangul Choseong Nieun-Sios
+115C: Hangul Choseong Nieun-Cieuc
+115D: Hangul Choseong Nieun-Hieuh
+115E: Hangul Choseong Tikeut-Rieul
+115F: Hangul Choseong-Füller
+1160: Hangul Jungseong-Füller
+1161: Hangul Jungseong A : ein
+1162: Hangul Jungseong Ae : ae
+1163: Hangul Jungseong Ya : ya
+1164: Hangul Jungseong Yae : yae
+1165: Hangul Jungseong Eo : eo
+1166: Hangul Jungseong E : e
+1167: Hangul Jungseong Yeo : yeo
+1168: Hangul Jungseong Ye : Ihr
+1169: Hangul Jungseong O : O
+116A: Hangul Jungseong Wa : wa
+116B: Hangul Jungseong Wae : wae
+116C: Hangul Jungseong Oe : oe
+116D: Hangul Jungseong Yo : yo
+116E: Hangul Jungseong U : u
+116F: Hangul Jungseong Weo : weo
+1170: Hangul Jungseong Wir : wir
+1171: Hangul Jungseong Wi : wi
+1172: Hangul Jungseong Yu : yu
+1173: Hangul Jungseong Eu : EU
+1174: Hangul Jungseong Yi : yi
+1175: Hangul Jungseong I : ich
+1176: Hangul Jungseong a-O
+1177: Hangul Jungseong a-U
+1178: Hangul Jungseong Ya-O
+1179: Hangul Jungseong Ya-Yo
+117A: Hangul Jungseong Eo-O
+117B: Hangul Jungseong Eo-U
+117C: Hangul Jungseong Eo-Eu
+117D: Hangul Jungseong Yeo-O
+117E: Hangul Jungseong Yeo-U
+117F: Hangul Jungseong O-Eo
+1180: Hangul Jungseong O-E
+1181: Hangul Jungseong O-Ye
+1182: Hangul Jungseong O-O
+1183: Hangul Jungseong O-U
+1184: Hangul Jungseong Yo-Ya
+1185: Hangul Jungseong Yo-Yae
+1186: Hangul Jungseong Yo-Yeo
+1187: Hangul Jungseong Yo-O
+1188: Hangul Jungseong Yo-I
+1189: Hangul Jungseong U-A
+118A: Hangul Jungseong U-Ae
+118B: Hangul Jungseong U-Eo-Eu
+118C: Hangul Jungseong U-Ye
+118D: Hangul Jungseong U-U
+118E: Hangul Jungseong Yu-A
+118F: Hangul Jungseong Yu-Eo
+1190: Hangul Jungseong Yu-E
+1191: Hangul Jungseong Yu-Yeo
+1192: Hangul Jungseong Yu-Ye
+1193: Hangul Jungseong Yu-U
+1194: Hangul Jungseong Yu-I
+1195: Hangul Jungseong Eu-U
+1196: Hangul Jungseong Eu-Eu
+1197: Hangul Jungseong Yi-U
+1198: Hangul Jungseong I-A
+1199: Hangul Jungseong I-Ya
+119A: Hangul Jungseong I-O
+119B: Hangul Jungseong I-U
+119C: Hangul Jungseong I-Eu
+119D: Hangul Jungseong I-Araea
+119E: Hangul Jungseong Araea
+119F: Hangul Jungseong Araea-Eo
+11A0: Hangul Jungseong Araea-U
+11A1: Hangul Jungseong Araea-I
+11A2: Hangul Jungseong Ssangaraea
+11A3: Hangul Jungseong a-Eu
+11A4: Hangul Jungseong Ya-U
+11A5: Hangul Jungseong Yeo-Ya
+11A6: Hangul Jungseong O-Ya
+11A7: Hangul Jungseong O-Yae
+11A8: Hangul Jongseong Kiyeok : G
+11A9: Hangul Jongseong Ssangkiyeok : gg
+11AA: Hangul Jongseong Kiyeok-Sios : gs
+11AB: Hangul Jongseong Nieun : n
+11AC: Hangul Jongseong Nieun-Cieuc : NJ
+11AD: Hangul Jongseong Nieun-Hieuh : nh
+11AE: Hangul Jongseong Tikeut : d
+11AF: Hangul Jongseong Rieul : l
+11B0: Hangul Jongseong Rieul-Kiyeok : lg
+11B1: Hangul Jongseong Rieul-Mieum : lm
+11B2: Hangul Jongseong Rieul-Pieup : Pfund
+11B3: Hangul Jongseong Rieul-Sios : ls
+11B4: Hangul Jongseong Rieul-Thieuth : Es ist
+11B5: Hangul Jongseong Rieul-Phieuph : lp
+11B6: Hangul Jongseong Rieul-Hieuh : lh
+11B7: Hangul Jongseong Mieum : m
+11B8: Hangul Jongseong Pieup : b
+11B9: Hangul Jongseong Pieup-Sios : bs
+11BA: Hangul Jongseong Sios : s
+11BB: Hangul Jongseong Ssangsios : ss
+11BC: Hangul Jongseong Ieung : ng
+11BD: Hangul Jongseong Cieuc : j
+11BE: Hangul Jongseong Chieuch : c
+11BF: Hangul Jongseong Khieukh : k
+11C0: Hangul Jongseong Thieuth : t
+11C1: Hangul Jongseong Phieuph : p
+11C2: Hangul Jongseong Hieuh : h
+11C3: Hangul Jongseong Kiyeok-Rieul
+11C4: Hangul Jongseong Kiyeok-Sios-Kiyeok
+11C5: Hangul Jongseong Nieun-Kiyeok
+11C6: Hangul Jongseong Nieun-Tikeut
+11C7: Hangul Jongseong Nieun-Sios
+11C8: Hangul Jongseong Nieun-Pansios
+11C9: Hangul Jongseong Nieun-Thieuth
+11CA: Hangul Jongseong Tikeut-Kiyeok
+11CB: Hangul Jongseong Tikeut-Rieul
+11CC: Hangul Jongseong Rieul-Kiyeok-Sios
+11CD: Hangul Jongseong Rieul-Nieun
+11CE: Hangul Jongseong Rieul-Tikeut
+11CF: Hangul Jongseong Rieul-Tikeut-Hieuh
+11D0: Hangul Jongseong Ssangrieul
+11D1: Hangul Jongseong Rieul-Mieum-Kiyeok
+11D2: Hangul Jongseong Rieul-Mieum-Sios
+11D3: Hangul Jongseong Rieul-Pieup-Sios
+11D4: Hangul Jongseong Rieul-Pieup-Hieuh
+11D5: Hangul Jongseong Rieul-Kapyeounpieup
+11D6: Hangul Jongseong Rieul-Ssangsios
+11D7: Hangul Jongseong Rieul-Pansios
+11D8: Hangul Jongseong Rieul-Khieukh
+11D9: Hangul Jongseong Rieul-Yeorinhieuh
+11DA: Hangul Jongseong Mieum-Kiyeok
+11DB: Hangul Jongseong Mieum-Rieul
+11DC: Hangul Jongseong Mieum-Pieup
+11DD: Hangul Jongseong Mieum-Sios
+11DE: Hangul Jongseong Mieum-Ssangsios
+11DF: Hangul Jongseong Mieum-Pansios
+11E0: Hangul Jongseong Mieum-Chieuch
+11E1: Hangul Jongseong Mieum-Hieuh
+11E2: Hangul Jongseong Kapyeounmieum
+11E3: Hangul Jongseong Pieup-Rieul
+11E4: Hangul Jongseong Pieup-Phieuph
+11E5: Hangul Jongseong Pieup-Hieuh
+11E6: Hangul Jongseong Kapyeounpieup
+11E7: Hangul Jongseong Sios-Kiyeok
+11E8: Hangul Jongseong Sios-Tikeut
+11E9: Hangul Jongseong Sios-Rieul
+11EA: Hangul Jongseong Sios-Pieup
+11EB: Hangul Jongseong Pansios
+11EC: Hangul Jongseong Ieung-Kiyeok : Yesieung-Kiyeok
+11ED: Hangul Jongseong Ieung-Ssangkiyeok : yesieung-ssangkiyeok
+11EE: Hangul Jongseong Ssangieung : ssangyesieung
+11EF: Hangul Jongseong Ieung-Khieukh : yesieung-khieukh
+11F0: Hangul Jongseong Yesieung
+11F1: Hangul Jongseong Yesieung-Sios
+11F2: Hangul Jongseong Yesieung-Pansios
+11F3: Hangul Jongseong Phieuph-Pieup
+11F4: Hangul Jongseong Kapyeounphieuph
+11F5: Hangul Jongseong Hieuh-Nieun
+11F6: Hangul Jongseong Hieuh-Rieul
+11F7: Hangul Jongseong Hieuh-Mieum
+11F8: Hangul Jongseong Hieuh-Pieup
+11F9: Hangul Jongseong Yeorinhieuh
+11FA: Hangul Jongseong Kiyeok-Nieun
+11FB: Hangul Jongseong Kiyeok-Pieup
+11FC: Hangul Jongseong Kiyeok-Chieuch
+11FD: Hangul Jongseong Kiyeok-Khieukh
+11FE: Hangul Jongseong Kiyeok-Hieuh
+11FF: Hangul Jongseong Ssangnieun

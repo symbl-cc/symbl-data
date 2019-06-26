@@ -1,0 +1,5 @@
+﻿Latin Extended-A is a block of the Unicode Standard.
+
+It encodes [BLOCK:basic-latin Latin] letters from the Latin ISO character sets other than Latin-1 (which is already encoded in the [BLOCK:latin-1-supplement Latin-1 Supplement block]) and also legacy characters from the ISO 6937 standard.
+
+The Latin Extended-A block has been in the Unicode Standard since version 1.0, with its entire character repertoire, except for the Latin Small Letter Long S, which was added during unification with ISO 10646 in version 1.1

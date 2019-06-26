@@ -1,0 +1,256 @@
+FE00: Selettore di variazione-1
+FE01: Variation Selector-2
+FE02: Variation Selector-3
+FE03: Variation Selector-4
+FE04: Variation Selector-5
+FE05: Selettore di variazione-6
+FE06: Selettore di variazione-7
+FE07: Variation Selector-8
+FE08: Selettore di variazione-9
+FE09: Variation Selector-10
+FE0A: Variation Selector-11
+FE0B: Selettore di variazione-12
+FE0C: Selettore di variazione-13
+FE0D: Selettore di variazione-14
+FE0E: Selettore di variazione-15
+FE0F: Selettore di variazione-16
+FE10: Modulo di presentazione per Virgola verticale
+FE11: Modulo di presentazione per virgola ideografica verticale
+FE12: Modulo di presentazione per arresto completo ideografico verticale
+FE13: Modulo di presentazione per colon verticale
+FE14: Modulo di presentazione per punto e virgola verticale
+FE15: Modulo di presentazione per il punto esclamativo verticale
+FE16: Modulo di presentazione per il punto interrogativo verticale
+FE17: Modulo di presentazione per staffa lenticolare verticale sinistra bianca
+FE18: Modulo di presentazione per staffa verticale lenticolare verticale destra
+FE19: Forma di presentazione per l'ellisse orizzontale verticale
+FE1A:
+FE1B:
+FE1C:
+FE1D:
+FE1E:
+FE1F:
+FE20: Combinando la legatura a metà sinistra
+FE21: Combinando la legatura giusta metà
+FE22: Combinando la metà sinistra della doppia tilde
+FE23: Combinazione di Double Tilde Right Half
+FE24: Combinando la metà sinistra di Macron
+FE25: Combinando la metà destra di Macron
+FE26: Combinando il Macron Conjoining
+FE27: Combinando la legatura sinistra a metà sotto
+FE28: Combinando la legatura giusta metà sotto
+FE29: Combinando Tilde Left Half Below
+FE2A: Combinando la metà destra della tilde qui sotto
+FE2B: Combinando Macron Left Half Below
+FE2C: Combinando Macron Right Half Below
+FE2D: Combinando il Macron conjoining qui sotto
+FE2E: Combinando la metà sinistra di Titlo cirillico
+FE2F: Combinando la metà destra del titolo cirillico
+FE30: Modulo di presentazione per Vertical Two Dot Leader
+FE31: Modulo di presentazione per Vertical Em Dash
+FE32: Modulo di presentazione per Vertical En Dash
+FE33: Modulo di presentazione per linea verticale bassa
+FE34: Modulo di presentazione per Vertical Lowy Low Line
+FE35: Modulo di presentazione per parentesi verticale sinistra
+FE36: Modulo di presentazione per parentesi verticale destra
+FE37: Modulo di presentazione per parentesi graffa verticale sinistra
+FE38: Modulo di presentazione per staffa verticale destra ricurva
+FE39: Modulo di presentazione per staffa a guscio verticale di tartaruga sinistra
+FE3A: Modulo di presentazione per staffa verticale a guscio di tartaruga destro
+FE3B: Modulo di presentazione per staffa lenticolare nera sinistra verticale
+FE3C: Modulo di presentazione per staffa lenticolare nera verticale destra
+FE3D: Modulo di presentazione per staffa a doppio angolo verticale sinistra
+FE3E: Forma di presentazione per staffa a doppio angolo verticale destra
+FE3F: Modulo di presentazione per staffa verticale angolo sinistro
+FE40: Modulo di presentazione per staffa verticale ad angolo retto
+FE41: Modulo di presentazione per staffa verticale angolo sinistro
+FE42: Modulo di presentazione per staffa verticale ad angolo retto
+FE43: Modulo di presentazione per staffa angolare verticale sinistra bianca
+FE44: Modulo di presentazione per staffa angolare verticale destra bianca
+FE45: Sesamo Dot
+FE46: Bianco sesamo dot
+FE47: Modulo di presentazione per staffa verticale sinistra
+FE48: Modulo di presentazione per staffa verticale destra
+FE49: Sovrapposizione tratteggiata
+FE4A: Centreline Overline
+FE4B: Linea ondulata
+FE4C: Double Wavy Overline
+FE4D: Linea bassa tratteggiata
+FE4E: Centreline Low Line
+FE4F: Linea ondulata
+FE50: Piccola virgola
+FE51: Piccola virgola ideografica
+FE52: Piccola fermata completa
+FE53:
+FE54: Piccolo punto e virgola
+FE55: Piccoli Colon
+FE56: Piccolo punto interrogativo
+FE57: Piccolo punto esclamativo
+FE58: Small Em Dash
+FE59: Piccola parentesi sinistra
+FE5A: Piccola parentesi a destra
+FE5B: Piccola parentesi graffa sinistra
+FE5C: Piccola staffa destra riccia
+FE5D: Staffa a conchiglia sinistra piccola a sinistra
+FE5E: Staffa piccola a guscio di tartaruga destro
+FE5F: Segno di piccolo numero
+FE60: Piccolo e commerciale
+FE61: Asterisco piccolo
+FE62: Segno più piccolo
+FE63: Piccolo trattino-meno
+FE64: Piccolo segno minore di
+FE65: Piccolo segno maggiore di
+FE66: Piccolo segno di uguale
+FE67:
+FE68: Piccolo solido inverso
+FE69: Piccolo simbolo del dollaro
+FE6A: Piccolo segno percentuale
+FE6B: Piccolo commerciale a
+FE6C:
+FE6D:
+FE6E:
+FE6F:
+FE70: Forma isolata di Fathatan arabo
+FE71: Tatweel arabo con Fathatan qui sopra
+FE72: Forma isolata di Dammatan arabo
+FE73: Frammento arabo della coda
+FE74: Forma isolata araba di Kasratan
+FE75:
+FE76: Forma isolata di Fatha araba
+FE77: Forma mediana Fatha araba
+FE78: Forma isolata Damma arabo
+FE79: Arabo Damma Medial Form
+FE7A: Forma isolata araba di Kasra
+FE7B: Forma mediana araba di Kasra
+FE7C: Forma isolata di Shadda arabo
+FE7D: Forma mediana di Shadda arabo
+FE7E: Arabo Sukun Forma isolata
+FE7F: Arabo Sukun Medial Form
+FE80: Forma araba Hamza isolata lettera
+FE81: Arabic Letter Alef with Madda Above Isolated Form
+FE82: Arabic Letter Alef with Madda Above Final Form
+FE83: Lettera Araba Alef con Hamza sopra forma isolata
+FE84: Arabic Letter Alef with Hamza Above Final Form
+FE85: Lettera araba Waw con Hamza sopra forma isolata
+FE86: Lettera araba Waw con Hamza sopra la forma finale
+FE87: Lettera araba Alef con Hamza sotto forma isolata
+FE88: Arabic Letter Alef with Hamza Below Final Form
+FE89: Arabo Lettera Yeh con Hamza sopra forma isolata
+FE8A: Lettera araba Yeh con Hamza sopra la forma finale
+FE8B: Lettera araba Yeh con Hamza sopra la forma iniziale
+FE8C: Arabo Lettera Yeh con Hamza sopra forma mediale
+FE8D: Forma isolata Alef della lettera araba
+FE8E: Forma finale Alef della lettera araba
+FE8F: Forma isolata lettera araba
+FE90: Forma finale araba della lettera Beh
+FE91: Forma iniziale della lettera araba Beh
+FE92: Forma mediana Beh della lettera araba
+FE93: Lettera Araba Teh Marbuta Forma Isolata
+FE94: Lettera araba Teh Marbuta Forma finale
+FE95: Forma isolata lettera araba di Teh
+FE96: Lettera araba Teh Forma finale
+FE97: Lettera araba Teh Forma iniziale
+FE98: Lettera araba Teh Forma mediale
+FE99: Lettera araba Theh Isolated Form
+FE9A: Arabic Letter Theh Final Form
+FE9B: Lettera Araba Theh Forma Iniziale
+FE9C: Arabo Lettera Theh forma mediale
+FE9D: Forma isolata lettera araba di Jeem
+FE9E: Arabic Letter Jeem Forma finale
+FE9F: Arabo Lettera Jeem Forma iniziale
+FEA0: Arabo Lettera Jeem Forma mediale
+FEA1: Forma isolata hah della lettera araba
+FEA2: Forma finale araba della lettera Hah
+FEA3: Forma iniziale araba della lettera Hah
+FEA4: Forma araba della lettera Hah mediale
+FEA5: Forma isolata araba della lettera Khah
+FEA6: Forma finale araba della lettera Khah
+FEA7: Forma iniziale della lettera araba di Khah
+FEA8: Forma araba della lettera Khah mediale
+FEA9: Forma isolata Dal arabo della lettera
+FEAA: Lettera araba dal modulo finale
+FEAB: Forma isolata lettera araba Thal
+FEAC: Arabic Letter Thal Final Form
+FEAD: Forma isolata Reh della lettera araba
+FEAE: Forma finale arabo Lettera Reh
+FEAF: Forma isolata lettera araba Zain
+FEB0: Forma finale arabo lettera Zain
+FEB1: Forma isolata visto arabo della lettera
+FEB2: Forma finale visto in arabo
+FEB3: Forma iniziale visto lettera araba
+FEB4: Forma mediana visto lettera araba
+FEB5: Forma isolata di Sheen della lettera araba
+FEB6: Forma finale della lettera araba Sheen
+FEB7: Forma iniziale di Sheen della lettera araba
+FEB8: Forma mediana di Sheen della lettera araba
+FEB9: Forma isolata triste della lettera araba
+FEBA: Lettera araba forma finale triste
+FEBB: Lettera araba forma iniziale triste
+FEBC: Forma mediana triste della lettera araba
+FEBD: Forma isolata del papà arabo della lettera
+FEBE: Forma finale arabo del papà della lettera
+FEBF: Forma iniziale del papà della lettera araba
+FEC0: Forma geometrica del papà della lettera araba
+FEC1: Forma isolata lettera araba Tah
+FEC2: Forma finale della lettera araba Tah
+FEC3: Forma iniziale della lettera araba Tah
+FEC4: Forma araba della lettera Tah mediale
+FEC5: Forma araba lettera Zah isolata
+FEC6: Forma finale araba della lettera Zah
+FEC7: Forma iniziale araba della lettera Zah
+FEC8: Forma mediana araba della lettera Zah
+FEC9: Lettera Araba Ain Forma Isolata
+FECA: Arabo Lettera Ain forma finale
+FECB: Arabic Letter Ain Initial Form
+FECC: Arabo Lettera Ain forma mediale
+FECD: Lettera araba forma isolata Ghain
+FECE: Lettera araba Ghain Forma finale
+FECF: Lettera araba Ghain Forma iniziale
+FED0: Lettera araba forma mediana Ghain
+FED1: Forma isolata lettera araba di Feh
+FED2: Forma finale arabo Lettera Feh
+FED3: Forma iniziale di lettera ebraica araba
+FED4: Forma mediana araba della lettera Feh
+FED5: Forma isolata lettera Qaf araba
+FED6: Modulo finale lettera araba Qaf
+FED7: Forma iniziale lettera Qaf araba
+FED8: Forma mediana della lettera Qaf araba
+FED9: Forma isolata lettera Kaf araba
+FEDA: Forma finale della lettera araba Kaf
+FEDB: Forma iniziale della lettera kaf araba
+FEDC: Forma geometrica Kaf della lettera araba
+FEDD: Forma isolata Lam araba della lettera
+FEDE: Modulo finale lettera araba
+FEDF: Arabic Letter Lam Initial Form
+FEE0: Lettera araba Forma mediale Lam
+FEE1: Lettera araba Meem forma isolata
+FEE2: Forma finale araba della lettera Meem
+FEE3: Lettera araba Meem Forma iniziale
+FEE4: Forma mediana araba della lettera Meem
+FEE5: Forma isolata di lettera araba di mezzogiorno
+FEE6: Forma finale araba lettera mezzogiorno
+FEE7: Forma iniziale araba lettera mezzogiorno
+FEE8: Forma mediana del mezzogiorno arabo
+FEE9: Forma isolata lettera Heh araba
+FEEA: Forma finale arabo Lettera Heh
+FEEB: Forma iniziale di lettera ebraica araba
+FEEC: Forma araba della lettera Heh della lettera
+FEED: Forma araba Waw isolata della lettera
+FEEE: Forma finale araba lettera Waw
+FEEF: Lettera Araba Alef Maksura Forma Isolata
+FEF0: Arabic Letter Alef Maksura Final Form
+FEF1: Lettera Araba Yeh Forma Isolata
+FEF2: Arabic Letter Yeh Final Form
+FEF3: Arabic Letter Yeh Initial Form
+FEF4: Arabo Lettera Yeh forma mediale
+FEF5: Lamatura araba della legatura con Alef con Madda sopra forma isolata
+FEF6: Legatura araba Lam con Alef con Madda sopra forma finale
+FEF7: Lamia della legatura araba con Alef con Hamza sopra forma isolata
+FEF8: Legatura araba Lam con Alef con Hamza sopra la forma finale
+FEF9: Lamia della legatura araba con Alef con Hamza sotto forma isolata
+FEFA: Legatura araba Lam con Alef con Hamza sotto forma finale
+FEFB: Lamia della legatura araba con forma isolata di Alef
+FEFC: Lamia della legatura araba con forma finale di Alef
+FEFD:
+FEFE:
+FEFF: Zero spazio senza interruzioni : bom, zwnbsp, Byte Order Mark

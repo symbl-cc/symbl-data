@@ -1,154 +1,154 @@
-0700: Syriac End of Paragraph
-0701: Syriac Supralinear Full Stop
-0702: Syriac Sublinear Full Stop
-0703: Syriac Supralinear Colon
-0704: Syriac Sublinear Colon
-0705: Syriac Horizontal Colon
-0706: Syriac Colon Skewed Left
-0707: Syriac Colon Skewed Right
-0708: Syriac Supralinear Colon Skewed Left
-0709: Syriac Sublinear Colon Skewed Right
-070A: Syriac Contraction
-070B: Syriac Harklean Obelus
-070C: Syriac Harklean Metobelus
-070D: Syriac Harklean Asteriscus
+0700: Syriac vége
+0701: Szirikus Supralinear Teljes megállás
+0702: Szíriai szublináris teljes megállás
+0703: Szíriai Supralinear Colon
+0704: Szíriai Sublinear Colon
+0705: Szíriai vízszintes kettőspont
+0706: Szirikus Colon ferde balra
+0707: Szirikus Colon ferde jobbra
+0708: Szirikus Supralinear Colon Skewed Left
+0709: Szíriai szublinear Colon Skewed Right
+070A: Szíriai összehúzódás
+070B: Szíriai Harklean Obelus
+070C: Szirikus Harklean Metobelus
+070D: Szirikus Harklean Asteriscus
 070E:
-070F: Syriac Abbreviation Mark : sam
-0710: Syriac Letter Alaph
-0711: Syriac Letter Superscript Alaph
-0712: Syriac Letter Beth
-0713: Syriac Letter Gamal
-0714: Syriac Letter Gamal Garshuni
-0715: Syriac Letter Dalath
-0716: Syriac Letter Dotless Dalath Rish
-0717: Syriac Letter He
-0718: Syriac Letter Waw
-0719: Syriac Letter Zain
-071A: Syriac Letter Heth
-071B: Syriac Letter Teth
-071C: Syriac Letter Teth Garshuni
-071D: Syriac Letter Yudh
-071E: Syriac Letter Yudh He
-071F: Syriac Letter Kaph
-0720: Syriac Letter Lamadh
-0721: Syriac Letter Mim
-0722: Syriac Letter Nun
-0723: Syriac Letter Semkath
-0724: Syriac Letter Final Semkath
-0725: Syriac Letter E
-0726: Syriac Letter Pe
-0727: Syriac Letter Reversed Pe
-0728: Syriac Letter Sadhe
-0729: Syriac Letter Qaph
-072A: Syriac Letter Rish
-072B: Syriac Letter Shin
-072C: Syriac Letter Taw
-072D: Syriac Letter Persian Bheth
-072E: Syriac Letter Persian Ghamal
-072F: Syriac Letter Persian Dhalath
-0730: Syriac Pthaha Above
-0731: Syriac Pthaha Below
-0732: Syriac Pthaha Dotted
-0733: Syriac Zqapha Above
-0734: Syriac Zqapha Below
-0735: Syriac Zqapha Dotted
-0736: Syriac Rbasa Above
-0737: Syriac Rbasa Below
-0738: Syriac Dotted Zlama Horizontal
-0739: Syriac Dotted Zlama Angular
-073A: Syriac Hbasa Above
-073B: Syriac Hbasa Below
-073C: Syriac Hbasa-Esasa Dotted
-073D: Syriac Esasa Above
-073E: Syriac Esasa Below
-073F: Syriac Rwaha
-0740: Syriac Feminine Dot
-0741: Syriac Qushshaya
-0742: Syriac Rukkakha
-0743: Syriac Two Vertical Dots Above
-0744: Syriac Two Vertical Dots Below
-0745: Syriac Three Dots Above
-0746: Syriac Three Dots Below
-0747: Syriac Oblique Line Above
-0748: Syriac Oblique Line Below
-0749: Syriac Music
-074A: Syriac Barrekh
+070F: Szíriai rövidítés jel : sam
+0710: Szirikus levél Alaph
+0711: Szirikus betűs szavakat Alaphcript
+0712: Beth szirikus levél
+0713: Szirikus levél Gamal
+0714: Szirikus levél Gamal Garshuni
+0715: Szíriai levél Dalath
+0716: Sziréziós levél Dotless Dalath Rish
+0717: Szirikus levél He
+0718: Szíriai levél Waw
+0719: Szirikus levél Zain
+071A: Szirikus levél Heth
+071B: Szirikus levél Teth
+071C: Szirikus levél Teth Garshuni
+071D: Yudh szirikus levél
+071E: Szirikus levél Yudh He
+071F: Szirikus levél Kaph
+0720: Sziriac levél Lamadh
+0721: Szíriai levél Mim
+0722: Szíriai levél Nun
+0723: Szíriai levél Semkath
+0724: Szíriai levél Végső Semkath
+0725: E szírus E betű
+0726: Szíriai levél Pe
+0727: Szíriai levél megfordult Pe
+0728: Szíriai levél, Sadhe
+0729: Szirikus levél Qaph
+072A: Szirikus levél Rish
+072B: Szirikus levél Shin
+072C: Szíriai levél Taw
+072D: Szíriai levél Perzsa Bhet
+072E: Szíriai levél Perzsa Ghamal
+072F: Szíriai levél Perzsa Dhalath
+0730: Siriac Pthaha felett
+0731: Szíriai Pthaha Alább
+0732: Szíriai Pthaha pontozott
+0733: Szirikus Zqapha felett
+0734: A szirikus Zqapha alább
+0735: Szirikus Zqapha pontozott
+0736: Siriac Rbasa Above felett
+0737: Siriac Rbasa lent
+0738: Szíriai pontozott zlám vízszintes
+0739: Szíriai pontozott Zlama szög
+073A: Szirikus Hbasa A fenti
+073B: Szíriai Hbasa alább
+073C: Szíriai Hbasa-Esasa pontozott
+073D: Szirikus Esasa felett
+073E: Szíriai Esasa alább
+073F: Szíriai Rwaha
+0740: Szíriai nőies pont
+0741: Szíriai Qushshaya
+0742: Szirikus Rukkakha
+0743: Szirikus két függőleges pont felett
+0744: Szíriai két függőleges pont az alábbiakban
+0745: Szirikus három pont felett
+0746: Szíriai három pont alatt
+0747: A fenti szirikus ferde vonal
+0748: Szíriai ferde vonal az alábbiakban
+0749: Szíriai zene
+074A: Szíriai Barrekh
 074B:
 074C:
-074D: Syriac Letter Sogdian Zhain
-074E: Syriac Letter Sogdian Khaph
-074F: Syriac Letter Sogdian Fe
-0750: Arabic Letter Beh with Three Dots Horizontally Below
-0751: Arabic Letter Beh with Dot Below and Three Dots Above
-0752: Arabic Letter Beh with Three Dots Pointing Upwards Below
-0753: Arabic Letter Beh with Three Dots Pointing Upwards Below and Two Dots Above
-0754: Arabic Letter Beh with Two Dots Below and Dot Above
-0755: Arabic Letter Beh with Inverted Small V Below
-0756: Arabic Letter Beh with Small V
-0757: Arabic Letter Hah with Two Dots Above
-0758: Arabic Letter Hah with Three Dots Pointing Upwards Below
-0759: Arabic Letter Dal with Two Dots Vertically Below and Small Tah
-075A: Arabic Letter Dal with Inverted Small V Below
-075B: Arabic Letter Reh with Stroke
-075C: Arabic Letter Seen with Four Dots Above
-075D: Arabic Letter Ain with Two Dots Above
-075E: Arabic Letter Ain with Three Dots Pointing Downwards Above
-075F: Arabic Letter Ain with Two Dots Vertically Above
-0760: Arabic Letter Feh with Two Dots Below
-0761: Arabic Letter Feh with Three Dots Pointing Upwards Below
-0762: Arabic Letter Keheh with Dot Above
-0763: Arabic Letter Keheh with Three Dots Above
-0764: Arabic Letter Keheh with Three Dots Pointing Upwards Below
-0765: Arabic Letter Meem with Dot Above
-0766: Arabic Letter Meem with Dot Below
-0767: Arabic Letter Noon with Two Dots Below
-0768: Arabic Letter Noon with Small Tah
-0769: Arabic Letter Noon with Small V
-076A: Arabic Letter Lam with Bar
-076B: Arabic Letter Reh with Two Dots Vertically Above
-076C: Arabic Letter Reh with Hamza Above
-076D: Arabic Letter Seen with Two Dots Vertically Above
-076E: Arabic Letter Hah with Small Arabic Letter Tah Below
-076F: Arabic Letter Hah with Small Arabic Letter Tah and Two Dots
-0770: Arabic Letter Seen with Small Arabic Letter Tah and Two Dots
-0771: Arabic Letter Reh with Small Arabic Letter Tah and Two Dots
-0772: Arabic Letter Hah with Small Arabic Letter Tah Above
-0773: Arabic Letter Alef with Extended Arabic-Indic Digit Two Above
-0774: Arabic Letter Alef with Extended Arabic-Indic Digit Three Above
-0775: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Two Above
-0776: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Three Above
-0777: Arabic Letter Farsi Yeh with Extended Arabic-Indic Digit Four Below
-0778: Arabic Letter Waw with Extended Arabic-Indic Digit Two Above
-0779: Arabic Letter Waw with Extended Arabic-Indic Digit Three Above
-077A: Arabic Letter Yeh Barree with Extended Arabic-Indic Digit Two Above
-077B: Arabic Letter Yeh Barree with Extended Arabic-Indic Digit Three Above
-077C: Arabic Letter Hah with Extended Arabic-Indic Digit Four Below
-077D: Arabic Letter Seen with Extended Arabic-Indic Digit Four Above
-077E: Arabic Letter Seen with Inverted V
-077F: Arabic Letter Kaf with Two Dots Above
+074D: Szíriai levél Sogdian Zhain
+074E: Szíriai levél Sogdian Khaph
+074F: Szíriai levél Sogdian Fe
+0750: Arab betű Beh három ponttal vízszintesen
+0751: Beh arab levél, alul és pont alatt három pont
+0752: Az arab betű Beh három ponttal felfelé mutat
+0753: Arab betű Beh három ponttal felfelé és két pont felett
+0754: Arab levél Beh két ponttal és a pont felett
+0755: Az arab betű Beh invertált kis V-vel
+0756: Arab betű Beh kis V-vel
+0757: Arab levél Hah két pont felett
+0758: Hah arab levél három ponttal felfelé mutat
+0759: Arab levél Dal két ponttal függőlegesen és kis Tah
+075A: Az arab betű megfordított kicsi v az alábbiakban
+075B: Arab betűvel a Stroke-tal
+075C: Arab levele négy pont felett látható
+075D: A arab arab két pont fölött
+075E: A Arab arab betű, három pontot lefelé mutatva
+075F: A Arab arab betű két ponttal függőlegesen
+0760: Arab levél Feh két pont alatt
+0761: Az arab betű Feh három ponttal felfelé mutat
+0762: Keheh arab levél a fenti ponttal
+0763: Keheh arab levél három pont felett
+0764: Az arab betű Keheh három ponttal felfelé mutat
+0765: Arab levél Meem a fenti ponttal
+0766: Az arab levél Meem az alábbi ponttal
+0767: Arab levél Noon két pont alatt
+0768: Arab levél Noon kis Tah-vel
+0769: Arab levél Noon kis V-vel
+076A: Arab levél Lam bárral
+076B: Arab betű, két ponttal függőlegesen felfelé
+076C: Rehab arab levél Hamza felett
+076D: Arab betű látható két ponttal függőlegesen
+076E: Hah arab betű kis arab betűvel Tah
+076F: Arab levél Hah kis arab betűvel és két ponttal
+0770: Arab arab levél kis arab betűvel és két ponttal
+0771: Arab betű, kis arab betűvel és két ponttal
+0772: Hah arab levél kis arab betűvel Tah felett
+0773: Arab levél Alef kiterjesztett arab-indikátor számmal két felett
+0774: Arab levél Alef kiterjesztett arab-mutató számjegygel három felett
+0775: Farsi Yeh arab levél kiterjesztett arab-indikátor számmal két felett
+0776: Arab betű Farsi Yeh kiterjesztett arab-mutató számjegygel három felett
+0777: Farok Yeh arab betűvel bővített arab-indikátor számmal négy
+0778: Arab levél Waw kiterjesztett arab-indikátor számmal két felett
+0779: Arab levél Waw kiterjesztett arab-mutató számjegygel három felett
+077A: Yeh Barree arab betű, kiterjesztett arab-indikátor számmal két felett
+077B: Yeh Barree arab betű, kiterjesztett arab-mutató számjegygel három felett
+077C: Arab levél Hah kiterjesztett arab-indikátor számjegygel négy alatt
+077D: Arab betű kiterjesztett arab-indikátor számmal négy felett
+077E: Arab betű invertált V-vel
+077F: Arab levél Kaf két pont felett
 0780: Thaana Letter Haa
-0781: Thaana Letter Shaviyani
+0781: Thaana levél Shaviyani
 0782: Thaana Letter Noonu
-0783: Thaana Letter Raa
+0783: Thaana levél Raa
 0784: Thaana Letter Baa
-0785: Thaana Letter Lhaviyani
+0785: Thaana Lhaviyani levél
 0786: Thaana Letter Kaafu
 0787: Thaana Letter Alifu
 0788: Thaana Letter Vaavu
 0789: Thaana Letter Meemu
 078A: Thaana Letter Faafu
-078B: Thaana Letter Dhaalu
+078B: Thaana levél Dhaalu
 078C: Thaana Letter Thaa
 078D: Thaana Letter Laamu
 078E: Thaana Letter Gaafu
-078F: Thaana Letter Gnaviyani
+078F: Thaana levél Gnaviyani
 0790: Thaana Letter Seenu
-0791: Thaana Letter Daviyani
+0791: Thaana levél Daviyani
 0792: Thaana Letter Zaviyani
-0793: Thaana Letter Taviyani
-0794: Thaana Letter Yaa
-0795: Thaana Letter Paviyani
-0796: Thaana Letter Javiyani
+0793: Thaana levél Taviyani
+0794: Thaana levél Yaa
+0795: Thaana levél Paviyani
+0796: Thaana levél Javiyani
 0797: Thaana Letter Chaviyani
 0798: Thaana Letter Ttaa
 0799: Thaana Letter Hhaa
@@ -156,12 +156,12 @@
 079B: Thaana Letter Thaalu
 079C: Thaana Letter Zaa
 079D: Thaana Letter Sheenu
-079E: Thaana Letter Saadhu
+079E: Thaana levél Saadhu
 079F: Thaana Letter Daadhu
-07A0: Thaana Letter To
+07A0: Thaana levél
 07A1: Thaana Letter Zo
-07A2: Thaana Letter Ainu
-07A3: Thaana Letter Ghainu
+07A2: Thaana levél Ainu
+07A3: Thaana levél Ghainu
 07A4: Thaana Letter Qaafu
 07A5: Thaana Letter Waavu
 07A6: Thaana Abafili
@@ -198,17 +198,17 @@
 07C5: Nko Digit Five
 07C6: Nko Digit Six
 07C7: Nko Digit Seven
-07C8: Nko Digit Eight
+07C8: Nko Digit nyolc
 07C9: Nko Digit Nine
-07CA: Nko Letter A
+07CA: Nko A levél
 07CB: Nko Letter Ee
-07CC: Nko Letter I
-07CD: Nko Letter E
-07CE: Nko Letter U
+07CC: Nko I. levél
+07CD: Nko E betű
+07CE: Nko levél U
 07CF: Nko Letter Oo
-07D0: Nko Letter O
+07D0: Nko levél O
 07D1: Nko Letter Dagbasinna
-07D2: Nko Letter N
+07D2: Nko N betű
 07D3: Nko Letter Ba
 07D4: Nko Letter Pa
 07D5: Nko Letter Ta
@@ -228,29 +228,29 @@
 07E3: Nko Letter Na
 07E4: Nko Letter Ha
 07E5: Nko Letter Wa
-07E6: Nko Letter Ya
-07E7: Nko Letter Nya Woloso
+07E6: Nko levél Ya
+07E7: Nko levél Nya Woloso
 07E8: Nko Letter Jona Ja
 07E9: Nko Letter Jona Cha
 07EA: Nko Letter Jona Ra
-07EB: Nko Combining Short High Tone
-07EC: Nko Combining Short Low Tone
-07ED: Nko Combining Short Rising Tone
-07EE: Nko Combining Long Descending Tone
-07EF: Nko Combining Long High Tone
-07F0: Nko Combining Long Low Tone
-07F1: Nko Combining Long Rising Tone
-07F2: Nko Combining Nasalization Mark
-07F3: Nko Combining Double Dot Above
+07EB: Nko kombinálja a rövid magas hangot
+07EC: Nko kombinálja a rövid alacsony hangszínt
+07ED: Nko kombinálja a rövid emelkedő hangot
+07EE: Nko kombinálja a hosszú csökkenő hangot
+07EF: Nko kombinálja a hosszú magas hangot
+07F0: Nko kombinálja a hosszú alacsony hangszínt
+07F1: Nko kombinálja a hosszú emelkedő hangot
+07F2: Nko kombinálja a Nasalization Markot
+07F3: Nko kombinálja a dupla pontot fent
 07F4: Nko High Tone Apostrophe
 07F5: Nko Low Tone Apostrophe
 07F6: Nko Symbol Oo Dennen
 07F7: Nko Symbol Gbakurunen
 07F8: Nko Comma
-07F9: Nko Exclamation Mark
+07F9: Nko felkiáltójel
 07FA: Nko Lajanyalan
 07FB:
 07FC:
-07FD:
-07FE:
-07FF:
+07FD: Nko Dantayalan
+07FE: Nko Dorome Sign
+07FF: Nko Taman Sign

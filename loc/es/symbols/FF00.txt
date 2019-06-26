@@ -1,0 +1,256 @@
+FF00:
+FF01: Signo de exclamación de ancho completo
+FF02: Comillas de ancho completo
+FF03: Número de signo de ancho completo
+FF04: Signo de dólar de ancho completo
+FF05: Signo de porcentaje de ancho completo
+FF06: Ampersand de ancho completo
+FF07: Apóstrofe de ancho completo
+FF08: Paréntesis izquierdo de ancho completo
+FF09: Paréntesis derecho de ancho completo
+FF0A: Asterisco de ancho completo
+FF0B: Signo de ancho completo
+FF0C: Coma de ancho completo
+FF0D: Ancho de ancho completo
+FF0E: Fullwidth Full Stop
+FF0F: Sólido de ancho completo
+FF10: Dígito de ancho completo cero
+FF11: FullWidth Digit One
+FF12: Dígito de ancho completo dos
+FF13: Dígito de ancho completo tres
+FF14: Dígito cuatro de ancho completo
+FF15: Dígito de ancho completo cinco
+FF16: Dígito de ancho completo seis
+FF17: Dígito de ancho completo siete
+FF18: Dígito de ancho completo ocho
+FF19: Dígito Nueve de ancho completo
+FF1A: Ancho completo de colon
+FF1B: Punto y coma de ancho completo
+FF1C: Ancho completo menos de la señal
+FF1D: Signo de igual ancho completo
+FF1E: Ancho completo mayor que el signo
+FF1F: Signo de interrogación de ancho completo
+FF20: Comercial de ancho completo en
+FF21: Letra mayúscula latina de ancho completo
+FF22: De ancho completo latino mayúscula B
+FF23: Ancho completo latino mayúscula C
+FF24: Ancho latino mayúscula d
+FF25: Letra latina mayúscula de ancho completo
+FF26: Ancho completo letra mayúscula latina
+FF27: Letra mayúscula latina de ancho completo
+FF28: Letra mayúscula latina de ancho completo
+FF29: Letra latina mayúscula de ancho completo
+FF2A: Ancho completo letra mayúscula latina
+FF2B: Ancho latino letra mayúscula k
+FF2C: Ancho latino letra mayúscula
+FF2D: De ancho completo latino mayúscula m
+FF2E: Ancho de letra latino de ancho completo
+FF2F: Letra mayúscula latina de ancho completo
+FF30: Letra mayúscula latina de ancho completo
+FF31: Letra latina mayúscula de ancho completo
+FF32: Ancho latino letra mayúscula r
+FF33: De ancho completo latino mayúscula s
+FF34: Letra mayúscula latina de ancho completo
+FF35: Ancho completo letra mayúscula latina
+FF36: Letra mayúscula de ancho completo latino
+FF37: Letra mayúscula de ancho completo latino
+FF38: Ancho completo latino mayúscula X
+FF39: Letra mayúscula de ancho completo latino
+FF3A: Letra mayúscula latina de ancho completo
+FF3B: Soporte cuadrado izquierdo de ancho completo
+FF3C: Sólido inverso de ancho completo
+FF3D: Soporte cuadrado derecho de ancho completo
+FF3E: Acento circunflejo de ancho completo
+FF3F: Línea baja de ancho completo
+FF40: Acento grave de ancho completo
+FF41: Letra latina A de ancho completo
+FF42: Letra latina B de ancho completo
+FF43: Letra latina de ancho completo C
+FF44: Letra latina D de ancho completo
+FF45: Letra latina pequeña de ancho completo E
+FF46: Letra latina minúscula de ancho completo
+FF47: Letra minúscula latina de ancho completo
+FF48: Letra latina minúscula de ancho completo
+FF49: Letra latina de ancho completo I
+FF4A: Letra latina minúscula de ancho completo
+FF4B: Letra latina minúscula de ancho completo
+FF4C: Letra L latina de ancho completo
+FF4D: Letra latina minúscula de ancho completo
+FF4E: Letra latina minúscula de ancho completo
+FF4F: Letra latina minúscula de ancho completo
+FF50: Letra latina P de ancho completo
+FF51: Letra latina minúscula de ancho completo Q
+FF52: Letra latina minúscula de ancho completo
+FF53: Letra latina minúscula de ancho completo
+FF54: Letra latina minúscula de ancho completo
+FF55: Letra latina minúscula de ancho completo
+FF56: Letra latina de ancho completo V
+FF57: Letra minúscula latina de ancho completo w
+FF58: Letra latina de ancho completo x
+FF59: Letra minúscula latina de ancho completo Y
+FF5A: Ancho completo letra minúscula latina
+FF5B: Corchete rizado izquierdo de ancho completo
+FF5C: Línea vertical de ancho completo
+FF5D: Corchete derecho de ancho completo
+FF5E: Tilde de ancho completo
+FF5F: Paréntesis blanco izquierdo de ancho completo
+FF60: Paréntesis blanco derecho de ancho completo
+FF61: Parada completa ideográfica de medio ancho
+FF62: Corchete de esquina izquierda de medio ancho
+FF63: Soporte de esquina derecha de medio ancho
+FF64: Coma ideográfica de medio ancho
+FF65: Punto medio Katakana punto medio
+FF66: De ancho medio katakana letra wo
+FF67: Medio ancho Katakana letra pequeña A
+FF68: Medio Katakana Letra Pequeña I
+FF69: Medio ancho Katakana letra pequeña U
+FF6A: Medio ancho Katakana letra pequeña E
+FF6B: Medio ancho Katakana letra pequeña O
+FF6C: Medio Katakana Letra Pequeña Ya
+FF6D: Mitad ancho Katakana letra pequeño Yu
+FF6E: Medio Katakana Letra Yo Pequeño
+FF6F: Medio Katakana Letra Pequeña Tu
+FF70: Ancho medio Katakana-Hiragana marca de sonido prolongada
+FF71: Katakana medio ancho letra A
+FF72: Katakana medio ancho letra I
+FF73: Medio ancho Katakana Letra U
+FF74: Medio ancho Katakana Letra E
+FF75: Medio ancho Katakana letra O
+FF76: Medio ancho Katakana letra Ka
+FF77: Medio ancho Katakana letra Ki
+FF78: Mitad ancho Katakana letra Ku
+FF79: Medio k Katakana letra Ke
+FF7A: Medio ancho Katakana letra Ko
+FF7B: Medio ancho Katakana letra Sa
+FF7C: Medio ancho Katakana Letra Si
+FF7D: Medio Katakana letra Su
+FF7E: Medio ancho Katakana letra SE
+FF7F: La mitad de la letra Katakana tan
+FF80: Medio ancho Katakana letra Ta
+FF81: Medio ancho Katakana Letra Ti
+FF82: Medio Katakana Letra Tu
+FF83: Medio ancho Katakana Letra Te
+FF84: Letra Katakana De Medio Ancho Para
+FF85: Medio ancho Katakana letra Na
+FF86: Medio ancho Katakana Letra Ni
+FF87: Medio ancho Katakana Letra Nu
+FF88: Medio ancho Katakana Letra Ne
+FF89: No de medio ancho letra Katakana
+FF8A: Medio ancho Katakana letra Ha
+FF8B: Medio Katakana Carta Hola
+FF8C: Medio ancho Katakana Letra Hu
+FF8D: Medio Katakana letra Él
+FF8E: Medio ancho Katakana letra Ho
+FF8F: Medio ancho Katakana Letra Ma
+FF90: Medio Katakana Letra Mi
+FF91: Medio ancho Katakana Letra Mu
+FF92: Katakana medio ancho me letra
+FF93: Medio ancho Katakana Letra Mo
+FF94: Medio Katakana Letra Ya
+FF95: Medio ancho katakana letra yu
+FF96: Medio ancho Katakana Letra Yo
+FF97: Medio ancho katakana letra ra
+FF98: Medio ancho Katakana Letra Ri
+FF99: Mitad de ancho Katakana Letra Ru
+FF9A: La mitad de ancho Katakana letra Re
+FF9B: Medio ancho Katakana Letra Ro
+FF9C: Medio ancho katakana letra wa
+FF9D: Medio ancho Katakana Letra N
+FF9E: Katakana con sonido de medio ancho
+FF9F: Marca de sonido semi voz de Katakana de medio ancho
+FFA0: Llenador de medio ancho de hangul
+FFA1: Hangul letra Kiyeok de medio ancho
+FFA2: Hangul medio ancho letra Ssangkiyeok
+FFA3: Hangul letra de ancho medio Kiyeok-Sios
+FFA4: Hangul medio ancho letra Nieun
+FFA5: Hangul medio ancho letra Nieun-Cieuc
+FFA6: Hangul medio ancho letra Nieun-Hieuh
+FFA7: Medio ancho Hangul letra Tikeut
+FFA8: Hangul medio ancho letra Ssangtikeut
+FFA9: Hangul medio ancho letra Rieul
+FFAA: Hangul letra de ancho medio Rieul-Kiyeok
+FFAB: Hangul letra de ancho medio Rieul-Mieum
+FFAC: Hangul letra de ancho medio Rieul-Pieup
+FFAD: Hangul medio ancho letra Rieul-Sios
+FFAE: Hangul letra de ancho medio Rieul-Thieuth
+FFAF: Hangul medio ancho letra Rieul-Phieuph
+FFB0: Hangul medio ancho letra Rieul-Hieuh
+FFB1: Hangul letra de ancho medio Mieum
+FFB2: Hangul letra ancho ancho
+FFB3: Hangul medio ancho letra Ssangpieup
+FFB4: Hangul letra ancho ancho pie-sios
+FFB5: Medio ancho Hangul Letra Sios
+FFB6: Hangul medio ancho letra ssangsios
+FFB7: Medio ancho Hangul letra Ieung
+FFB8: Medio ancho Hangul letra Cieuc
+FFB9: Medio ancho de la letra Hangul Ssangcieuc
+FFBA: Medio ancho Hangul letra Chieuch
+FFBB: Hangul letra de medio ancho Khieukh
+FFBC: Hangul letra de ancho medio Thieuth
+FFBD: Hangul medio ancho letra Phieuph
+FFBE: Hangul medio ancho letra Hieuh
+FFBF:
+FFC0:
+FFC1:
+FFC2: Hangul medio ancho letra A
+FFC3: Hangul letra de ancho medio Ae
+FFC4: Hangul de medio ancho letra Ya
+FFC5: Hangul letra de ancho medio Yae
+FFC6: Medio ancho Hangul Letra Eo
+FFC7: Hangul medio ancho letra E
+FFC8:
+FFC9:
+FFCA: Hangul letra de ancho medio Yeo
+FFCB: Hangul medio ancho letra Ye
+FFCC: Hangul medio ancho letra O
+FFCD: Media Ancho Hangul Letra Wa
+FFCE: Hangul medio ancho letra wae
+FFCF: Medio ancho de la letra Hangul Oe
+FFD0:
+FFD1:
+FFD2: Hangul medio ancho letra yo
+FFD3: Hangul medio ancho letra U
+FFD4: Hangul letra de ancho medio Weo
+FFD5: Letra Hangul De Medio Ancho Nosotros
+FFD6: Hangul letra Wi de ancho medio
+FFD7: Hangul letra medio ancho Yu
+FFD8:
+FFD9:
+FFDA: Hangul letra Eu de medio ancho
+FFDB: Medio Ancho Hangul Letra Yi
+FFDC: Hangul medio ancho letra I
+FFDD:
+FFDE:
+FFDF:
+FFE0: Signo de centavo de ancho completo
+FFE1: Signo de libra de ancho completo
+FFE2: Fullwidth no firmar
+FFE3: Ancho completo macron
+FFE4: Barra rota de ancho completo
+FFE5: Signo de yen de ancho completo
+FFE6: Signo de ancho completo ganado
+FFE7:
+FFE8: Formas de ancho medio luz vertical
+FFE9: Flecha hacia la izquierda de medio ancho
+FFEA: Flecha ascendente de medio ancho
+FFEB: Flecha de medio ancho hacia la derecha
+FFEC: Flecha hacia abajo de medio ancho
+FFED: Medio ancho cuadrado negro
+FFEE: Círculo blanco de medio ancho
+FFEF:
+FFF0:
+FFF1:
+FFF2:
+FFF3:
+FFF4:
+FFF5:
+FFF6:
+FFF7:
+FFF8:
+FFF9: Ancla de anotación interlinear
+FFFA: Separador de Anotación Interlinear
+FFFB: Terminador de Anotación Interlinear
+FFFC: Carácter de reemplazo de objeto
+FFFD: Personaje de reemplazo
+FFFE: <No es un personaje>
+FFFF: <No es un personaje>

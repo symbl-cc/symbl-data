@@ -1,0 +1,6 @@
+In Unicode, the Sumero-Akkadian Cuneiform script is covered in two blocks:
+U+12000–U+1237F [BLOCK:cuneiform]
+U+12400–U+1247F Cuneiform Numbers and Punctuation
+These blocks, in version 6.0, are in the Supplementary Multilingual Plane (SMP).
+The sample glyphs in the chart file published by the Unicode Consortium show the characters in their Classical Sumerian form (Early Dynastic period, mid 3rd millennium BCE). The characters as written during the 2nd and 1st millennia BCE, the era during which the vast majority of cuneiform texts were written, are considered font variants of the same characters.
+The character set as published in version 5.2 has been criticized, mostly because of its treatment of a number of common characters as ligatures, omitting them from the encoding standard.

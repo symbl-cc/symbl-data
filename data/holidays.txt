@@ -1,0 +1,205 @@
+#  Дополнительные классы для разных праздников (добавить к основному классу holiday внешнего div'a):
+#  14 февраля: holiday--pink
+#  23 февраля: holiday--camouflage
+#  Алые паруса, День Победы: holiday--red
+#  День святого Патрика: holiday--green
+#  1 апреля: holiday--yellow
+#  12 апреля: holiday--cosmos
+#  1 сентября: holiday--darkgreen
+#  Черная пятница: holiday--black
+#  Хэллоуин: holiday--orange
+
+[winter-olympic-games]
+    date: 04.02
+    show: 04.02-20.02
+    left: 🏅, 🏂, 🛷, 🥌
+    right: 🎿, 🏒, 🥅, 🥇
+    style: white
+
+[new-year]
+    date: 01.01
+    show: 21.12-13.01
+    left: U+1F384
+    right: U+1F385
+    style: white
+
+[valentine-day]
+    date: 14.02
+    left: 💕, 😘, 💏
+    right: 😍, ❤,️ 💘
+    style: pink
+
+[23-february]
+    date: 23.02
+    show: 21.02-23.02
+    left: 🎖, 🛡, ★
+    right: 🔫, ⚔, 🏹
+    style: camouflage
+    lang: ru
+
+[maslenica]
+    date: 04.03-10.03
+    show: 04.03-06.03
+    left: 🥞, 🌞
+    right: ☦, 🛷
+    style: pink
+    lang: ru
+
+[8-march]
+    date: 08.03
+    show: 07.03-08.03
+    left: 🎁, 💐, 🌹
+    right: 🍫, 💍, 💝
+    style: pink
+
+[saint-patricks-day]
+	date: 17.03
+    show: 17.03
+    left: ☘️, 🇮🇪
+    right: 🍺, 🥃
+    style: green
+
+[holi]
+	date: 21.03
+    show: 21.03
+    left: ☸️, 💖, 💙 
+    right: 🌈, 💚, 💃
+    style: orange
+    lang: hi
+	
+[april-fools-day]
+	date: 01.04
+    show: 01.04
+    left: 😀, 🤣, 🙃
+    right: 😛, 😯, 🤯
+    style: yellow
+	
+[cosmonautics-day]
+	date: 12.04
+    show: 12.04
+    left: 🚀, 🌌, ☄
+    right: 🌠, 🌟, 🛰
+    style: cosmos
+    lang: ru
+	
+[easter-catolic]
+	date: 12.04
+    show: 12.04
+    left: 🥚, ⛪, ☦️
+    right: 🐇, ✝️, 🔔
+    style: pink
+    lang: en, de, es, fr, it, pt, pl, ro
+    
+[easter-orthodox]
+	date: 28.04
+    show: 28.04
+    left: 🥚, ⛪, ☦️
+    right: 🐇, ✝️, 🔔
+    style: pink
+    lang: ru
+
+[1-may]
+	date: 01.05
+    show: 01.05
+    left: ☭, ⚐, ⚒
+    right: 🌱, 🌷, 🌞
+    style: pink
+
+[cinco-de-mayo]
+	date: 05.05
+    show: 05.05
+    left: 🇲🇽, 🎸, 🌮
+    right: 💃, 👏, 🌵
+    style: pink
+    lang: en, es
+
+[victory-day]
+	date: 09.05
+    show: 09.05
+    left: 🎗, ★, 🎆
+    right: ☆, ☭, 🎖
+    style: red
+
+[uefa-champions-league]
+	date: 01.06
+    show: 01.06
+    left: ⚽, 🥅
+    right: 🏆, 🎉
+    style: pink
+	
+[international-childrens-day]
+	date: 01.06
+    show: 01.06
+    left: 🧒, 🚼
+    right: 👶, 🍼
+    style: pink
+
+[eid-al-fitr]
+	date: 04.06
+    show: 04.06
+    left: 📖, 🛐, ☪️
+    right: 🤲, 🕌, 🕋
+    style: pink
+
+[dragon-boat-festival]
+	date: 07.06
+    show: 07.06
+    left: 🇨🇳, 👲
+    right: 🚣, 🐲
+    style: pink
+    lang: cn
+	
+[queens-official-birthday]
+	date: 08.06
+    show: 08.06
+    left: 🇬🇧, 👑, 👸
+    right: 🎂, 🏰, 🎉
+    style: pink
+    lang: en
+	
+[graduation]
+	date: 23.06
+    show: 21.06-25.06
+    left: ⛵, 🍾
+    right: 🎉, 🎓
+    style: red
+    lang: ru
+	
+[independence-day]
+	date: 04.07
+    show: 04.07
+    left: 🇺🇸, 🗽, 🦅
+    right: 🤠, ⚾, 💵
+    style: pink
+    lang: en
+	
+[international-chess-day]
+	date: 20.07
+    show: 20.07
+    left: ♔, ♕, ♖
+    right: ♝, ♞, ♟
+    style: green
+
+[bastille-day]
+	date: 14.07
+    show: 14.07
+    left: 🇫🇷, 🍷
+    right: 🏰, 🍾
+    style: pink
+    lang: fr
+
+[navy-day]
+	date: 28.07
+    show: 28.07
+    left: 🚢, 🎆
+    right: 🇷🇺, ❌
+    style: camouflage
+    lang: ru
+
+[den-vdv]
+	date: 02.08
+    show: 02.08
+    left: 🎆, ✈️, 🇷🇺
+    right: ⛲, 🎖
+    style: camouflage
+    lang: ru

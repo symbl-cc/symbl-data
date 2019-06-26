@@ -1,0 +1,256 @@
+1D100: Símbolo Musical Único Barline
+1D101: Símbolo Musical Barline Duplo
+1D102: Barline Final do Símbolo Musical
+1D103: Símbolo Musical Barra Final Reversa
+1D104: Símbolo Musical Barline
+1D105: Barra Curta Símbolo Musical
+1D106: Símbolo Musical Sinal De Repetição Esquerda
+1D107: Símbolo Musical Sinal De Repetição à Direita
+1D108: Pontos de repetição de símbolo musical
+1D109: Símbolo Musical Dal Segno
+1D10A: Símbolo Musical Da Capo
+1D10B: Símbolo Musical Segno
+1D10C: Símbolo Musical Coda
+1D10D: Símbolo musical repetido Figura 1
+1D10E: Símbolo musical repetido figura-2
+1D10F: Figura Musical Símbolo Repetido-3
+1D110: Símbolo Musical Fermata
+1D111: Símbolo Musical Fermata Abaixo
+1D112: Marca de respiração de símbolo musical
+1D113: Símbolo Musical Caesura
+1D114: Brace Símbolo Musical
+1D115: Suporte de símbolo musical
+1D116: Cajado de uma linha de símbolo musical
+1D117: Símbolo Musical Equipe de Duas Linhas
+1D118: Equipe de três linhas de símbolo musical
+1D119: Cajado de Quatro Linhas do Símbolo Musical
+1D11A: Cajado de Cinco Linhas do Símbolo Musical
+1D11B: Equipe de seis linhas de símbolo musical
+1D11C: Símbolo musical de seis cordas Fretboard
+1D11D: Símbolo musical de quatro cordas Fretboard
+1D11E: Símbolo musical, g, clef
+1D11F: Símbolo Musical G Clef Ottava Alta
+1D120: Símbolo Musical G Clef Ottava Bassa
+1D121: Símbolo Musical C Clef
+1D122: Símbolo Musical F Clef
+1D123: Símbolo Musical F Clef Ottava Alta
+1D124: Símbolo Musical F Clef Ottava Bassa
+1D125: Símbolo Musical Drum Clef-1
+1D126: Símbolo Musical Drum Clef-2
+1D127:
+1D128:
+1D129: Símbolo musical, múltiplo, medida, resto
+1D12A: Símbolo Musical Duplo Afiado
+1D12B: Símbolo Musical Plano Duplo
+1D12C: Símbolo Musical Plano
+1D12D: Símbolo Musical Plano Para Baixo
+1D12E: Símbolo Musical Natural Up
+1D12F: Símbolo Musical Natural Down
+1D130: Símbolo Musical Afiado Acima
+1D131: Símbolo Musical Afiado Para Baixo
+1D132: Símbolo Musical Quarter Tone Sharp
+1D133: Tom de quarto de símbolo musical plano
+1D134: Tempo Comum do Símbolo Musical
+1D135: Tempo de Corte de Símbolo Musical
+1D136: Símbolo Musical Ottava Alta
+1D137: Símbolo Musical Ottava Bassa
+1D138: Símbolo Musical Quindicesima Alta
+1D139: Símbolo Musical Quindicesima Bassa
+1D13A: Símbolo Musical Multi Resto : duplo descanso total, breve resto
+1D13B: Símbolo Musical Resto Inteiro : descanso semibreve
+1D13C: Resto Metade do Símbolo Musical : descanso mínimo
+1D13D: Resto do Trimestre do Símbolo Musical : descanso de crochê
+1D13E: Símbolo Musical Oitavo Descanso : descanso de colcheia
+1D13F: Símbolo Musical Décimo Segundo Descanso : descanso semiquaver
+1D140: Símbolo Musical Trigésimo Segundo Resto : descanso demisemiquaver
+1D141: Símbolo Musical Sessenta e Quatro Descanso : hemidemisemiquaver rest, semidemisemiquaver rest
+1D142: Símbolo Musical Cem Centésimo Oitavo Descanso : semihemidemisemiquaver rest, quasihemidemisemiquaver rest
+1D143: Símbolo Musical X Notehead
+1D144: Símbolo musical mais o cabeçalho
+1D145: Círculo Símbolo Musical X Notehead
+1D146: Quadrado de símbolo musical branco
+1D147: Símbolo Musical Quadrado Notehead Preto
+1D148: Símbolo Musical Triangle Notehead Up Branco
+1D149: Musical Symbol Triangle Notehead Up Preto
+1D14A: Símbolo Musical, Triângulo, Nota, Branco Esquerdo
+1D14B: Musical Symbol Triangle Notehead Left Preto
+1D14C: Símbolo Musical Triangle Notehead Branco Direito
+1D14D: Musical Symbol Triangle Notehead Preto Direita
+1D14E: Símbolo Musical Triangle Notehead Down White
+1D14F: Musical Symbol Triangle Notehead Down Preto
+1D150: Símbolo Musical Triangle Note Up Branco Direita
+1D151: Musical Symbol Triangle Notehead Up Direito Preto
+1D152: Símbolo Musical Moon Notehead White
+1D153: Musical Symbol Moon Notehead Preto
+1D154: Símbolo Musical Triangle-Round Notehead Down White
+1D155: Símbolo Musical Triangle-Round Notehead Down Preto
+1D156: Notehead do parêntese do símbolo musical
+1D157: Nota Musical Void Vazio
+1D158: Musical Symbol Notehead Black
+1D159: Símbolo Musical Null Notehead
+1D15A: Símbolo Musical Cluster Notehead White
+1D15B: Musical Symbol Cluster Notehead Preto
+1D15C: Símbolo Musical Breve
+1D15D: Nota inteira de símbolo musical : semibreve
+1D15E: Nota meio símbolo musical : mínima
+1D15F: Nota Trimestre do Símbolo Musical : crotchet
+1D160: Símbolo Musical Oitava Nota : tremor
+1D161: Nota Musical Décima Sexta Nota : semicolcheia
+1D162: Símbolo Musical Trigésima Segunda Nota : demisemiquaver
+1D163: Símbolo Musical Sessenta-Quarta Nota : hemidemisemiquaver, semidemisemiquaver
+1D164: Símbolo Musical Cem Vinte E Oitavo Nota : semi-hemismissemia, quasihemidemisemiquaver
+1D165: Símbolo Musical Combinando Haste
+1D166: Símbolo musical, combinando, Sprechgesang, caule
+1D167: Símbolo Musical Combinando Tremolo-1
+1D168: Símbolo Musical Combinando Tremolo-2
+1D169: Símbolo Musical Combinando Tremolo-3
+1D16A: Símbolo Musical Fingered Tremolo-1
+1D16B: Símbolo Musical Fingered Tremolo-2
+1D16C: Símbolo Musical Fingered Tremolo-3
+1D16D: Símbolo Musical, Combinando o Ponto de Aumento
+1D16E: Símbolo musical, combinando, bandeira-1
+1D16F: Símbolo musical, combinando, bandeira-2
+1D170: Símbolo Musical, combinando a bandeira-3
+1D171: Símbolo musical, combinando, bandeira-4
+1D172: Símbolo musical, combinando, bandeira-5
+1D173: Símbolo Musical Começa Feixe
+1D174: Feixe de fim de símbolo musical
+1D175: O símbolo musical começa o laço
+1D176: Laço final do símbolo musical
+1D177: Símbolo Musical Comece Slur
+1D178: Fim do Fim do Símbolo Musical
+1D179: Símbolo Musical Comece Phrase
+1D17A: Frase Final do Símbolo Musical
+1D17B: Símbolo musical, combinando, sotaque
+1D17C: Símbolo Musical Combinando Staccato
+1D17D: Símbolo Musical Combinando Tenuto
+1D17E: Símbolo Musical Combinando Staccatissimo
+1D17F: Símbolo Musical Combinando Marcato
+1D180: Símbolo Musical Combinando Marcato-Staccato
+1D181: Símbolo Musical, Combinando Sotaque-Staccato
+1D182: Símbolo Musical Combinando Loure
+1D183: Símbolo Musical Arpeggiato Up
+1D184: Símbolo Musical Arpeggiato Down
+1D185: Símbolo Musical Combinando Doit
+1D186: Símbolo Musical Combinando Rip
+1D187: Símbolo Musical Combinando Flip
+1D188: Símbolo Musical Combinando Esfregaço
+1D189: Símbolo Musical Combinando Curva
+1D18A: Símbolo Musical, Combinando Língua Dupla
+1D18B: Símbolo Musical Combinando a Língua Tripla
+1D18C: Símbolo Musical Rinforzando
+1D18D: Símbolo Musical Subito
+1D18E: Símbolo musical z
+1D18F: Piano símbolo musical
+1D190: Símbolo Musical Mezzo
+1D191: Símbolo Musical Forte
+1D192: Crescendo Símbolo Musical
+1D193: Símbolo Musical Decrescendo
+1D194: Símbolo Musical Grace Note Slash
+1D195: Símbolo Musical Grace Note No Slash
+1D196: Símbolo Musical Tr
+1D197: Símbolo Musical Turn
+1D198: Símbolo Musical Virada Invertida
+1D199: Símbolo Musical Virar Barra
+1D19A: Símbolo Musical
+1D19B: Ornamento de símbolo musical Stroke-1
+1D19C: Símbolo Musical Ornamento Stroke-2
+1D19D: Símbolo Musical Ornamento Stroke-3
+1D19E: Símbolo Musical Ornamento Stroke-4
+1D19F: Símbolo Musical Ornament Stroke-5
+1D1A0: Símbolo Musical Ornamento Stroke-6
+1D1A1: Símbolo Musical Ornamento Stroke-7
+1D1A2: Símbolo Musical Ornamento Stroke-8
+1D1A3: Símbolo Musical Ornamento Stroke-9
+1D1A4: Ornamento de símbolo musical Stroke-10
+1D1A5: Símbolo Musical Ornamento Stroke-11
+1D1A6: Símbolo Musical Hauptstimme
+1D1A7: Símbolo Musical Nebenstimme
+1D1A8: Fim do símbolo musical de Stimme
+1D1A9: Grau de símbolo musical
+1D1AA: Símbolo Musical, combinando para baixo do arco
+1D1AB: Símbolo musical, combinando, cima, arco
+1D1AC: Símbolo Musical Combinando Harmônica
+1D1AD: Símbolo Musical Combinando Snap Pizzicato
+1D1AE: Marca de Pedal de Símbolo Musical
+1D1AF: Símbolo Musical Pedal Up Mark
+1D1B0: Marca de meio pedal de símbolo musical
+1D1B1: Símbolo Musical Glissando Up
+1D1B2: Símbolo Musical Glissando Down
+1D1B3: Símbolo musical com unhas
+1D1B4: Símbolo musical úmido
+1D1B5: Símbolo Musical Damp All
+1D1B6: Símbolo Musical Maxima
+1D1B7: Longa Símbolo Musical
+1D1B8: Símbolo Musical Brevis
+1D1B9: Símbolo Musical Semibrevis Branco
+1D1BA: Símbolo Musical Semibrevis Preto
+1D1BB: Mínimo Símbolo Musical
+1D1BC: Símbolo Musical Minima Preto
+1D1BD: Símbolo Musical Semiminima Branco
+1D1BE: Símbolo Musical Semiminima Preto
+1D1BF: Símbolo Musical Fusa Branco
+1D1C0: Símbolo Musical Fusa Black
+1D1C1: Símbolo Musical Longa Perfeita Resto
+1D1C2: Símbolo Musical Longa Imperfecta Resto
+1D1C3: Símbolo Musical Brevis Rest
+1D1C4: Símbolo Musical Semibrevis Rest
+1D1C5: Símbolo Musical Minima Resto
+1D1C6: Símbolo Musical Semiminima Rest
+1D1C7: Símbolo Musical Tempus Perfectum Cum Prolatione Perfecta
+1D1C8: Símbolo Musical Tempus Perfectum Cum Prolatione Imperfecta
+1D1C9: Símbolo Musical Tempus Perfectum Cum Prolatione Perfecta Diminution-1
+1D1CA: Símbolo Musical Tempus Imperfectum Cum Prolatione Perfecta
+1D1CB: Símbolo Musical Tempus Imperfectum Cum Prolatione Imperfecta
+1D1CC: Símbolo Musical Tempus Imperfeito Cum Prolatione Imperfecta Diminution-1
+1D1CD: Símbolo Musical Tempus Imperfeito Cum Prolatione Imperfecta Diminution-2
+1D1CE: Símbolo Musical Tempus Imperfeito Cum Prolatione Imperfecta Diminution-3
+1D1CF: Símbolo Musical Croix
+1D1D0: Símbolo Musical Gregoriano C Clef
+1D1D1: Símbolo Musical Gregoriano F Clef
+1D1D2: Praça do símbolo musical B
+1D1D3: Símbolo Musical Virga
+1D1D4: Símbolo musical podatus
+1D1D5: Símbolo Musical Clivis
+1D1D6: Símbolo musical scandicus
+1D1D7: Climacus Symbol Musical
+1D1D8: Símbolo musical Torculus
+1D1D9: Símbolo Musical Porrectus
+1D1DA: Símbolo Musical Porrectus Flexus
+1D1DB: Símbolo musical scandicus flexus
+1D1DC: Símbolo Musical Torculus Resupinus
+1D1DD: Símbolo Musical Pes Subpunctis
+1D1DE: Símbolo musical c clan kievan
+1D1DF: Fim do pedaço de Kievan Símbolo Musical
+1D1E0: Nota Final Kievana do Símbolo Musical
+1D1E1: Símbolo Musical Marca Recíproca Kievana
+1D1E2: Nota inteira kievan do símbolo musical
+1D1E3: Símbolo Musical Kievan Meia Nota
+1D1E4: Símbolo Musical Kievan Quarter Note Stem Down
+1D1E5: Símbolo Musical Kievan Quarter Note Stem Up
+1D1E6: Símbolo Musical Kievan Oitava Nota Tronco Abaixo
+1D1E7: Símbolo Musical Kievan Oitava Nota Suba
+1D1E8: Símbolo Musical Sinal Plano Kievano
+1D1E9:
+1D1EA:
+1D1EB:
+1D1EC:
+1D1ED:
+1D1EE:
+1D1EF:
+1D1F0:
+1D1F1:
+1D1F2:
+1D1F3:
+1D1F4:
+1D1F5:
+1D1F6:
+1D1F7:
+1D1F8:
+1D1F9:
+1D1FA:
+1D1FB:
+1D1FC:
+1D1FD:
+1D1FE:
+1D1FF:

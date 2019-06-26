@@ -1,0 +1,16 @@
+# see http://www.unicode.org/Public/9.0.0/ucd/NamedSequences-9.0.0d1.txt
+# Named keycap sequences for telephone keypad (used for emoji)
+# Provisional 2015-05-05, Approved TBD
+
+keycap-number-sign: Keycap number sign
+keycap-asterisk: Keycap asterisk
+keycap-digit-zero: Keycap digit zero
+keycap-digit-one: Keycap digit one
+keycap-digit-two: Keycap digit two
+keycap-digit-three: Keycap digit three
+keycap-digit-four: Keycap digit four
+keycap-digit-five: Keycap digit five
+keycap-digit-six: Keycap digit six
+keycap-digit-seven: Keycap digit seven
+keycap-digit-eight: Keycap digit eight
+keycap-digit-nine: Keycap digit nine

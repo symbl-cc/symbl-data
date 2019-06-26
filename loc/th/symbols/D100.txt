@@ -1,256 +1,256 @@
-D100 : Hangul syllable tyal
-D101 : Hangul syllable tyalg
-D102 : Hangul syllable tyalm
-D103 : Hangul syllable tyalb
-D104 : Hangul syllable tyals
-D105 : Hangul syllable tyalt
-D106 : Hangul syllable tyalp
-D107 : Hangul syllable tyalh
-D108 : Hangul syllable tyam
-D109 : Hangul syllable tyab
-D10A : Hangul syllable tyabs
-D10B : Hangul syllable tyas
-D10C : Hangul syllable tyass
-D10D : Hangul syllable tyang
-D10E : Hangul syllable tyaj
-D10F : Hangul syllable tyac
-D110 : Hangul syllable tyak
-D111 : Hangul syllable tyat
-D112 : Hangul syllable tyap
-D113 : Hangul syllable tyah
-D114 : Hangul syllable tyae
-D115 : Hangul syllable tyaeg
-D116 : Hangul syllable tyaegg
-D117 : Hangul syllable tyaegs
-D118 : Hangul syllable tyaen
-D119 : Hangul syllable tyaenj
-D11A : Hangul syllable tyaenh
-D11B : Hangul syllable tyaed
-D11C : Hangul syllable tyael
-D11D : Hangul syllable tyaelg
-D11E : Hangul syllable tyaelm
-D11F : Hangul syllable tyaelb
-D120 : Hangul syllable tyaels
-D121 : Hangul syllable tyaelt
-D122 : Hangul syllable tyaelp
-D123 : Hangul syllable tyaelh
-D124 : Hangul syllable tyaem
-D125 : Hangul syllable tyaeb
-D126 : Hangul syllable tyaebs
-D127 : Hangul syllable tyaes
-D128 : Hangul syllable tyaess
-D129 : Hangul syllable tyaeng
-D12A : Hangul syllable tyaej
-D12B : Hangul syllable tyaec
-D12C : Hangul syllable tyaek
-D12D : Hangul syllable tyaet
-D12E : Hangul syllable tyaep
-D12F : Hangul syllable tyaeh
-D130 : Hangul syllable teo
-D131 : Hangul syllable teog
-D132 : Hangul syllable teogg
-D133 : Hangul syllable teogs
-D134 : Hangul syllable teon
-D135 : Hangul syllable teonj
-D136 : Hangul syllable teonh
-D137 : Hangul syllable teod
-D138 : Hangul syllable teol
-D139 : Hangul syllable teolg
-D13A : Hangul syllable teolm
-D13B : Hangul syllable teolb
-D13C : Hangul syllable teols
-D13D : Hangul syllable teolt
-D13E : Hangul syllable teolp
-D13F : Hangul syllable teolh
-D140 : Hangul syllable teom
-D141 : Hangul syllable teob
-D142 : Hangul syllable teobs
-D143 : Hangul syllable teos
-D144 : Hangul syllable teoss
-D145 : Hangul syllable teong
-D146 : Hangul syllable teoj
-D147 : Hangul syllable teoc
-D148 : Hangul syllable teok
-D149 : Hangul syllable teot
-D14A : Hangul syllable teop
-D14B : Hangul syllable teoh
-D14C : Hangul syllable te
-D14D : Hangul syllable teg
-D14E : Hangul syllable tegg
-D14F : Hangul syllable tegs
-D150 : Hangul syllable ten
-D151 : Hangul syllable tenj
-D152 : Hangul syllable tenh
-D153 : Hangul syllable ted
-D154 : Hangul syllable tel
-D155 : Hangul syllable telg
-D156 : Hangul syllable telm
-D157 : Hangul syllable telb
-D158 : Hangul syllable tels
-D159 : Hangul syllable telt
-D15A : Hangul syllable telp
-D15B : Hangul syllable telh
-D15C : Hangul syllable tem
-D15D : Hangul syllable teb
-D15E : Hangul syllable tebs
-D15F : Hangul syllable tes
-D160 : Hangul syllable tess
-D161 : Hangul syllable teng
-D162 : Hangul syllable tej
-D163 : Hangul syllable tec
-D164 : Hangul syllable tek
-D165 : Hangul syllable tet
-D166 : Hangul syllable tep
-D167 : Hangul syllable teh
-D168 : Hangul syllable tyeo
-D169 : Hangul syllable tyeog
-D16A : Hangul syllable tyeogg
-D16B : Hangul syllable tyeogs
-D16C : Hangul syllable tyeon
-D16D : Hangul syllable tyeonj
-D16E : Hangul syllable tyeonh
-D16F : Hangul syllable tyeod
-D170 : Hangul syllable tyeol
-D171 : Hangul syllable tyeolg
-D172 : Hangul syllable tyeolm
-D173 : Hangul syllable tyeolb
-D174 : Hangul syllable tyeols
-D175 : Hangul syllable tyeolt
-D176 : Hangul syllable tyeolp
-D177 : Hangul syllable tyeolh
-D178 : Hangul syllable tyeom
-D179 : Hangul syllable tyeob
-D17A : Hangul syllable tyeobs
-D17B : Hangul syllable tyeos
-D17C : Hangul syllable tyeoss
-D17D : Hangul syllable tyeong
-D17E : Hangul syllable tyeoj
-D17F : Hangul syllable tyeoc
-D180 : Hangul syllable tyeok
-D181 : Hangul syllable tyeot
-D182 : Hangul syllable tyeop
-D183 : Hangul syllable tyeoh
-D184 : Hangul syllable tye
-D185 : Hangul syllable tyeg
-D186 : Hangul syllable tyegg
-D187 : Hangul syllable tyegs
-D188 : Hangul syllable tyen
-D189 : Hangul syllable tyenj
-D18A : Hangul syllable tyenh
-D18B : Hangul syllable tyed
-D18C : Hangul syllable tyel
-D18D : Hangul syllable tyelg
-D18E : Hangul syllable tyelm
-D18F : Hangul syllable tyelb
-D190 : Hangul syllable tyels
-D191 : Hangul syllable tyelt
-D192 : Hangul syllable tyelp
-D193 : Hangul syllable tyelh
-D194 : Hangul syllable tyem
-D195 : Hangul syllable tyeb
-D196 : Hangul syllable tyebs
-D197 : Hangul syllable tyes
-D198 : Hangul syllable tyess
-D199 : Hangul syllable tyeng
-D19A : Hangul syllable tyej
-D19B : Hangul syllable tyec
-D19C : Hangul syllable tyek
-D19D : Hangul syllable tyet
-D19E : Hangul syllable tyep
-D19F : Hangul syllable tyeh
-D1A0 : Hangul syllable to
-D1A1 : Hangul syllable tog
-D1A2 : Hangul syllable togg
-D1A3 : Hangul syllable togs
-D1A4 : Hangul syllable ton
-D1A5 : Hangul syllable tonj
-D1A6 : Hangul syllable tonh
-D1A7 : Hangul syllable tod
-D1A8 : Hangul syllable tol
-D1A9 : Hangul syllable tolg
-D1AA : Hangul syllable tolm
-D1AB : Hangul syllable tolb
-D1AC : Hangul syllable tols
-D1AD : Hangul syllable tolt
-D1AE : Hangul syllable tolp
-D1AF : Hangul syllable tolh
-D1B0 : Hangul syllable tom
-D1B1 : Hangul syllable tob
-D1B2 : Hangul syllable tobs
-D1B3 : Hangul syllable tos
-D1B4 : Hangul syllable toss
-D1B5 : Hangul syllable tong
-D1B6 : Hangul syllable toj
-D1B7 : Hangul syllable toc
-D1B8 : Hangul syllable tok
-D1B9 : Hangul syllable tot
-D1BA : Hangul syllable top
-D1BB : Hangul syllable toh
-D1BC : Hangul syllable twa
-D1BD : Hangul syllable twag
-D1BE : Hangul syllable twagg
-D1BF : Hangul syllable twags
-D1C0 : Hangul syllable twan
-D1C1 : Hangul syllable twanj
-D1C2 : Hangul syllable twanh
-D1C3 : Hangul syllable twad
-D1C4 : Hangul syllable twal
-D1C5 : Hangul syllable twalg
-D1C6 : Hangul syllable twalm
-D1C7 : Hangul syllable twalb
-D1C8 : Hangul syllable twals
-D1C9 : Hangul syllable twalt
-D1CA : Hangul syllable twalp
-D1CB : Hangul syllable twalh
-D1CC : Hangul syllable twam
-D1CD : Hangul syllable twab
-D1CE : Hangul syllable twabs
-D1CF : Hangul syllable twas
-D1D0 : Hangul syllable twass
-D1D1 : Hangul syllable twang
-D1D2 : Hangul syllable twaj
-D1D3 : Hangul syllable twac
-D1D4 : Hangul syllable twak
-D1D5 : Hangul syllable twat
-D1D6 : Hangul syllable twap
-D1D7 : Hangul syllable twah
-D1D8 : Hangul syllable twae
-D1D9 : Hangul syllable twaeg
-D1DA : Hangul syllable twaegg
-D1DB : Hangul syllable twaegs
-D1DC : Hangul syllable twaen
-D1DD : Hangul syllable twaenj
-D1DE : Hangul syllable twaenh
-D1DF : Hangul syllable twaed
-D1E0 : Hangul syllable twael
-D1E1 : Hangul syllable twaelg
-D1E2 : Hangul syllable twaelm
-D1E3 : Hangul syllable twaelb
-D1E4 : Hangul syllable twaels
-D1E5 : Hangul syllable twaelt
-D1E6 : Hangul syllable twaelp
-D1E7 : Hangul syllable twaelh
-D1E8 : Hangul syllable twaem
-D1E9 : Hangul syllable twaeb
-D1EA : Hangul syllable twaebs
-D1EB : Hangul syllable twaes
-D1EC : Hangul syllable twaess
-D1ED : Hangul syllable twaeng
-D1EE : Hangul syllable twaej
-D1EF : Hangul syllable twaec
-D1F0 : Hangul syllable twaek
-D1F1 : Hangul syllable twaet
-D1F2 : Hangul syllable twaep
-D1F3 : Hangul syllable twaeh
-D1F4 : Hangul syllable toe
-D1F5 : Hangul syllable toeg
-D1F6 : Hangul syllable toegg
-D1F7 : Hangul syllable toegs
-D1F8 : Hangul syllable toen
-D1F9 : Hangul syllable toenj
-D1FA : Hangul syllable toenh
-D1FB : Hangul syllable toed
-D1FC : Hangul syllable toel
-D1FD : Hangul syllable toelg
-D1FE : Hangul syllable toelm
-D1FF : Hangul syllable toelb
+D100: พยางค์อังกูล
+D101: การสะกดพยางค์อังกูล
+D102: พยางค์อังกูล
+D103: อังกูลพยางค์ Tyalb
+D104: Tyal พยางค์อังกูล
+D105: Tyll พยางค์อังกูล
+D106: Tyalp พยางค์อังกูล
+D107: พยางค์อังกูล
+D108: อังกูลพยางค์ Tyam
+D109: อังกูลพยางค์ Tyab
+D10A: พยางค์อังกูล
+D10B: พยางค์อังกูล
+D10C: พยางค์อังกูล
+D10D: อังกูลพยางค์ Tyang
+D10E: อังกูลพยางค์ Tyaj
+D10F: Tyul อังกูล
+D110: อังกูลพยางค์ Tyak
+D111: พยางค์อังกูล
+D112: อังกูลพยางค์พิมพ์
+D113: อังกูลพยางค์ Tyah
+D114: อังกูลพยางค์ Tyae
+D115: อังกูลพยางค์ Tyaeg
+D116: พยางค์อังกูล
+D117: พยางค์อังกูล
+D118: อังกูลพยางค์ Tyaen
+D119: พยางค์อังกูล
+D11A: อังกูลพยางค์ Tyaenh
+D11B: พยางค์อังกูล
+D11C: พยางค์ฮันกึล
+D11D: Tyulg พยางค์อังกูล
+D11E: พยางค์อังกูลพยางค์
+D11F: อังกูลพยางค์ Tyaelb
+D120: อังกูล Tyaels พยางค์
+D121: อังกูลพยางค์ Tyaelt
+D122: พยางค์อังกูล
+D123: อังกูลพยางค์ Tyaelh
+D124: พยางค์อังกูล
+D125: อังกูลพยางค์ Tyaeb
+D126: อังกูลพยางค์ Tyaebs
+D127: อังกูลพยางค์ Tyaes
+D128: พยางค์อังกูล
+D129: พยางค์อังกูล Tyaeng
+D12A: อังกูลพยางค์ Tyaej
+D12B: อังกูลพยางค์ Tyaec
+D12C: อังกูลพยางค์ Tyaek
+D12D: อังกูลพยางค์ Tyaet
+D12E: อังกูลพยางค์ Tyaep
+D12F: อังกูลพยางค์ Tyaeh
+D130: ฮันกึล Teo พยางค์
+D131: Teul พยางค์อังกูล
+D132: Teul อังกูลพยางค์
+D133: อังกูล Teogs พยางค์
+D134: พยางค์อังกูล
+D135: อังกูลพยางค์
+D136: อักษรฮันกึล Teonh
+D137: พยางค์อังกูล
+D138: Teul พยางค์อังกูล
+D139: ฮันกึล Teolg พยางค์
+D13A: Teulm พยางค์อังกูล
+D13B: ฮันกึล Teolb พยางค์
+D13C: ฮันกึล Teols พยางค์
+D13D: พยางค์อังกูล
+D13E: Teulp พยางค์อังกูล
+D13F: ฮันกึล Teolh พยางค์
+D140: พยางค์อังกูล
+D141: Teul พยางค์อังกูล
+D142: Teul พยางค์อังกูล
+D143: Teul พยางค์อังกูล
+D144: Teul พยางค์อังกูล
+D145: พยางค์ฮันกึล
+D146: Teul อังกูลพยางค์
+D147: Teul พยางค์อังกูล
+D148: อังกูลพยางค์
+D149: Teot พยางค์อังกูล
+D14A: Teul พยางค์อังกูล
+D14B: พยางค์อังกูล
+D14C: อักษรฮันกึล Te
+D14D: Tegul พยางค์อังกูล
+D14E: อังกูล Tegg พยางค์
+D14F: Tegul พยางค์อังกูล
+D150: อังกูลพยางค์สิบ
+D151: อังกูลพยางค์เทน
+D152: อังกูลพยางค์ Tenh
+D153: อังกูลพยางค์เทด
+D154: อังกูลพยางค์โทร
+D155: พยางค์อังกูล
+D156: โทรศัพท์อังกูลพยางค์
+D157: พยางค์อังกูล
+D158: พยางค์อังกูล
+D159: พยางค์อังกูล
+D15A: พยางค์อังกูล
+D15B: พยางค์อังกูล
+D15C: Tem พยางค์อังกูล
+D15D: อังกูลพยางค์
+D15E: Teul พยางค์อังกูล
+D15F: อังกูลพยางค์เทล
+D160: Tess พยางค์อังกูล
+D161: อังกูลพยางค์เต็ง
+D162: อังกูลพยางค์
+D163: Tec พยางค์อังกูล
+D164: อังกูลพยางค์เต็ก
+D165: Tet พยางค์อังกูล
+D166: อังกูลพยางค์ Tep
+D167: พยางค์อังกูล
+D168: Tyul อังกูลพยางค์
+D169: Tyulog พยางค์อังกูล
+D16A: อังกูลพยางค์ Tyeogg
+D16B: Tyulog พยางค์อังกูล
+D16C: Tyul อังกูลพยางค์
+D16D: พยางค์อังกูล
+D16E: Tyeonh พยางค์อังกูล
+D16F: พยางค์อังกูล
+D170: อังกูลพยางค์ Tyeol
+D171: อังกูลพยางค์ Tyeolg
+D172: Tyulol พยางค์อังกูล
+D173: อังกูลพยางค์ Tyeolb
+D174: Tyulols พยางค์อังกูล
+D175: Tyulol พยางค์อังกูล
+D176: อังกูลพยางค์ Tyeolp
+D177: อังกูลพยางค์ Tyeolh
+D178: พยางค์อังกูลพยางค์
+D179: อังกูลพยางค์ Tyeob
+D17A: Tyulobs พยางค์อังกูล
+D17B: Tyulos พยางค์อังกูล
+D17C: อังกูลพยางค์ Tyeoss
+D17D: พยุงอังกูล
+D17E: พยางค์อังกูล
+D17F: Tyuloc พยางค์อังกูล
+D180: พยุงอังกูลพยางค์
+D181: อังกูลพยางค์ Tyeot
+D182: Tyulop พยางค์อังกูล
+D183: อังกูลพยางค์ Tyeoh
+D184: อังกูลพยางค์ Tye
+D185: อังกูลพยางค์
+D186: อังกูลพยางค์
+D187: ภาษาอังกูลพยางค์
+D188: อังกูลพยางค์ Tyen
+D189: อังกูลพยางค์
+D18A: อังกูลพยางค์ Tyenh
+D18B: พยางค์อังกูล
+D18C: Tyul พยางค์อังกูล
+D18D: Tyulg พยางค์อังกูล
+D18E: Tyulm พยางค์อังกูล
+D18F: Tyulb พยางค์อังกูล
+D190: พยางค์อังกูล
+D191: พยางค์อังกูล
+D192: Tyulp พยางค์อังกูล
+D193: Tyelh พยางค์อังกูล
+D194: อังกูลพยางค์
+D195: อังกูลพยางค์ Tyul
+D196: อังกูลพยางค์ Tyul
+D197: อังกูลพยางค์
+D198: อังกูลพยางค์
+D199: อังกูลพยางค์ Tyeng
+D19A: อังกูลพยางค์
+D19B: Tyul อังกูลพยางค์
+D19C: อังกูลพยางค์ Tyek
+D19D: Tyul พยางค์อังกูล
+D19E: อังกูลพยางค์พิมพ์
+D19F: อังกูลพยางค์ Tyeh
+D1A0: พยางค์ฮันกึลถึง
+D1A1: Tog พยางค์อังกูล
+D1A2: อังกูลพยางค์ Togg
+D1A3: พยางค์อังกูล Togs
+D1A4: พยางค์อังกูลต้น
+D1A5: พยางค์อังกูล
+D1A6: Tonul พยางค์ฮันกึล
+D1A7: พยางค์อังกูลท็อด
+D1A8: อังกูลพยางค์
+D1A9: Tolul พยางค์อังกูล
+D1AA: Tolul พยางค์อังกูล
+D1AB: Tolul พยางค์อังกูล
+D1AC: โทลอังกูลพยางค์
+D1AD: อังกูลพยางค์อังกูล
+D1AE: Tolul พยางค์อังกูล
+D1AF: Tolul พยางค์อังกูล
+D1B0: Tom พยางค์อังกูล
+D1B1: พยางค์อังกูล
+D1B2: Tobs พยางค์อังกูล
+D1B3: Tosul พยางค์ฮันกึล
+D1B4: พยางค์ฮันกึล
+D1B5: ตองฮันพยางค์
+D1B6: อังกูลพยางค์
+D1B7: Toc พยางค์อังกูล
+D1B8: Tokul อังกูลพยางค์
+D1B9: โทลอังกูลพยางค์
+D1BA: พยางค์อังกูล
+D1BB: อังกูลพยางค์โทล
+D1BC: อังกูลพยางค์ Twa
+D1BD: อังกูลพยางค์ Twag
+D1BE: อังกูลพยางค์ Twagg
+D1BF: Twul พยางค์อังกูล
+D1C0: อังกูลพยางค์ Twan
+D1C1: อังกูลพยางค์ Twanj
+D1C2: อังกูลพยางค์ Twanh
+D1C3: อังกูลพยางค์ Twad
+D1C4: อังกูลพยางค์ Twal
+D1C5: อังกูลพยางค์
+D1C6: อังกูลพยางค์ Twalm
+D1C7: อังกูลพยางค์ Twalb
+D1C8: อังกูลพยางค์ทวีล
+D1C9: อังกูลพยางค์
+D1CA: อังกูลพยางค์ Twalp
+D1CB: อังกูลพยางค์ Twalh
+D1CC: อังกูลพยางค์ Twam
+D1CD: อังกูลพยางค์ Twab
+D1CE: Twul พยางค์อังกูล
+D1CF: อังกูลพยางค์ Twas
+D1D0: อังกูลพยางค์ Twass
+D1D1: อังกูลพยางค์ Twang
+D1D2: อังกูลพยางค์ Twaj
+D1D3: อังกูลพยางค์ Twac
+D1D4: อังกูลพยางค์ Twak
+D1D5: อังกูลพยางค์ Twat
+D1D6: อังกูลพยางค์ Twap
+D1D7: อังกูลพยางค์ Twah
+D1D8: อังกูลพยางค์ Twae
+D1D9: อังกูลพยางค์ Twaeg
+D1DA: อังกูลพยางค์ Twaegg
+D1DB: อังกูลพยางค์ Twaegs
+D1DC: อังกูลพยางค์ทวีล
+D1DD: อังกูลพยางค์ทวี
+D1DE: อังกูลพยางค์ Twaenh
+D1DF: อังกูลพยางค์ Twaed
+D1E0: Twul อังกูลพยางค์
+D1E1: อังกูลพยางค์ Twaelg
+D1E2: อังกูลพยางค์ Twaelm
+D1E3: อังกูลพยางค์ Twaelb
+D1E4: อังกูลพยางค์ Twaels
+D1E5: อังกูลพยางค์ Twaelt
+D1E6: อังกูลพยางค์ Twaelp
+D1E7: อังกูลพยางค์ Twaelh
+D1E8: อังกูลพยางค์ Twaem
+D1E9: อังกูลพยางค์ Twaeb
+D1EA: อังกูลพยางค์ Twaebs
+D1EB: อังกูลพยางค์ทวีล
+D1EC: อังกูลพยางค์ Twaess
+D1ED: อังกูลพยางค์ Twaeng
+D1EE: อังกูลพยางค์ Twaej
+D1EF: อังกูลพยางค์ Twaec
+D1F0: อังกูลพยางค์ Twaek
+D1F1: อังกูลพยางค์ Twaet
+D1F2: อังกูลพยางค์ Twaep
+D1F3: อังกูลพยางค์ Twaeh
+D1F4: พยางค์เท้าอังกูล
+D1F5: toeg พยางค์อังกูล
+D1F6: อังกูลพยางค์
+D1F7: toegs อังกูลพยางค์
+D1F8: โทนอังกูลพยางค์
+D1F9: อังกูลพยางค์โทนจ์
+D1FA: อังกูลพยางค์
+D1FB: อังกูลพยางค์
+D1FC: Toel พยางค์อังกูล
+D1FD: Toelg พยางค์อังกูล
+D1FE: Toelm พยางค์อังกูล
+D1FF: Toelb พยางค์อังกูล

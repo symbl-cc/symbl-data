@@ -1,0 +1,256 @@
+1D900: Pouce main-poing sous trois doigts
+1D901: Pouce main-poing sous quatre doigts
+1D902: Pouce main-poing sur quatre jointures surélevées
+1D903: Signer le poing-main
+1D904: Talon main-poing
+1D905: Signwriting Touch Single
+1D906: Écriture tactile multiple
+1D907: Signwriting Touch Between
+1D908: Signwriting Grasp Single
+1D909: Signature multiple
+1D90A: Saisir l'écriture entre
+1D90B: Signwriting Strike Single
+1D90C: Signature multiple
+1D90D: Grève de la signature
+1D90E: Pince à écrire unique
+1D90F: Pince à écrire multiple
+1D910: Signature pinceau entre
+1D911: Signwriting Rub Single
+1D912: Signwriting Rub Multiple
+1D913: Signwriting Rub Between
+1D914: Signalisation de surface
+1D915: Surface de signature entre
+1D916: Signer Squeeze Large Single
+1D917: Signer Squeeze Petit Single
+1D918: Signer Squeeze Large Multiple
+1D919: Signalisation Squeeze Small Multiple
+1D91A: Squeeze Séquentiel Signe
+1D91B: Signalisation Flick Large Single
+1D91C: Signalisation Flick Petit Single
+1D91D: Signalisation de Flick Large Multiple
+1D91E: Signalisation Flick Petit Multiple
+1D91F: Scintigraphique séquentielle
+1D920: Squeeze Flick en alternance
+1D921: Signwriting Movement-Charnière Haut Bas
+1D922: Mouvement d'écriture-charnière haut bas
+1D923: Mouvement d'écriture de signe - Charnière séquentielle
+1D924: Mouvement d'écriture de signe - Charnière bas séquentielle
+1D925: Mouvement d'écriture-charnière haut bas bas alternant grand
+1D926: Mouvement d'écriture-charnière haut bas bas alternant
+1D927: Ciseaux à mouvement latéral
+1D928: Signwriting Movement-Wallplane Finger Contact
+1D929: Signer le mouvement - Floorplane Finger Contact
+1D92A: Mouvement d'écriture-Wallplane Simple Droit Petit
+1D92B: Signwriting Movement-Wallplane Simple Droit, Moyen
+1D92C: Signwriting Movement-Wallplane Single Straight Large
+1D92D: Signwriting Movement-Wallplane Simple Droit Le plus grand
+1D92E: Signwriting Movement-Wallplane Single Wrist Flex
+1D92F: Signwriting Movement-Wallplane Double Straight
+1D930: Signwriting Movement-Wallplane Double Poignet Flex
+1D931: Signwriting Movement-Wallplane Double Alternating
+1D932: Signwriting Movement-Wallplane Double Poignet Alternant Flex
+1D933: Croix du mouvement et du wallplane
+1D934: Signwriting Movement-Wallplane Triple Straight Movement
+1D935: Signwriting Movement-Wallplane Triple Poignet Flex
+1D936: Signwriting Movement-Wallplane Triple Alternant
+1D937: Signwriting Movement-Wallplane Triple Poignet Alternant Flex
+1D938: Signwriting Movement-Wallplane Bend Small
+1D939: Signwriting Movement-Wallplane Bend Medium
+1D93A: Signwriting Movement-Wallplane Bend Large
+1D93B: Mouvement d'écriture-coin planeur petit
+1D93C: Signwriting Movement-Wallplane Corner Medium
+1D93D: Signwriting Movement-Wallplane Corner Large
+1D93E: Rotation des coins du mouvement de l'écriture des signes
+1D93F: Signwriting Movement-Wallplane Check Small
+1D940: Signwriting Movement-Wallplane Check Medium
+1D941: Signwriting Movement-Wallplane Check Large
+1D942: Signwriting Movement-Wallplane Box Small
+1D943: Signwriting Movement-Wallplane Box Medium
+1D944: Signwriting Movement-Wallplane Box Large
+1D945: Signwriting Movement-Wallplane Zigzag Petit
+1D946: Signwriting Movement-Wallplane Zigzag Medium
+1D947: Signwriting Movement-Wallplane Zigzag Large
+1D948: Signwriting Movement-Wallplane Peaks Petit
+1D949: Signwriting Movement-Wallplane Peaks Medium
+1D94A: Signwriting Movement-Wallplane Peaks Large
+1D94B: Signalisation Voyage-Wallplane Rotation-Wallplane Simple
+1D94C: Signalisation Voyage-Wallplane Rotation-Wallplane Double
+1D94D: Signalisation Voyage-Wallplane Rotation-Wallplane Alternance
+1D94E: Signalisation Voyage-Wallplane Rotation-Floorplane Simple
+1D94F: Signalisation Voyage-Wallplane Rotation-Floorplane Double
+1D950: Signalisation Voyage-Wallplane Rotation-Floorplane Alternance
+1D951: Signwriting Travel-Wallplane secouant
+1D952: Signalisation Voyage-Wallplane Bras Spirale Simple
+1D953: Double spirale de bras de voyage de Wallplane de Signwriting
+1D954: Signe de Voyage Voyage-Wallplane Wall Spiral Triple
+1D955: Mouvement d'écriture-diagonale loin petit
+1D956: Signalisation Mouvement-Diagonale Extérieur Moyen
+1D957: Mouvement d'écriture-Diagonale Extérieur Large
+1D958: Mouvement d'écriture-diagonale loin le plus grand
+1D959: Signalisation Mouvement-Diagonale Vers Petit
+1D95A: Signalisation Mouvement-Diagonale Vers Medium
+1D95B: Signalisation Mouvement-Diagonale Vers Grand
+1D95C: Mouvement d'écriture-diagonale vers le plus grand
+1D95D: Signalisation Mouvement-Diagonale Entre Petit Extérieur
+1D95E: Signalisation Mouvement-Diagonale Entre Extérieur Moyen
+1D95F: Signalisation Mouvement-Diagonale Entre Extérieur Large
+1D960: Signalisation Mouvement-Diagonale Entre Les Plus Grandes
+1D961: Signalisation Mouvement-Diagonale Entre Vers Petit
+1D962: Signalisation Mouvement-Diagonale Entre Vers Moyen
+1D963: Signalisation Mouvement-Diagonale Entre Vers Grand
+1D964: Signalisation Mouvement-Diagonale Entre Vers Le Plus Grand
+1D965: Signwriting Movement-Floorplane Single Straight Small
+1D966: Signwriting Movement-Floorplane Single Straight Medium
+1D967: Signwriting Movement-Floorplane Single Straight Large
+1D968: Signwriting Movement-Floorplane Single Straight Largest
+1D969: Signwriting Movement-Floorplane Single Wrist Flex
+1D96A: Signwriting Movement-Floorplane Double Straight
+1D96B: Signwriting Movement-Floorplane Double Poignet Flex
+1D96C: Signwriting Mouvement-Floorplane Double Alternant
+1D96D: Mouvement double de poignet alternatif
+1D96E: Croix du mouvement du plancher
+1D96F: Signwriting Movement-Floorplane Triple Straight Movement
+1D970: Signwriting Movement-Floorplane Triple poignet Flex
+1D971: Signwriting Movement-Floorplane Triple mouvement alternatif
+1D972: Mouvement alternatif de poignet à mouvement alternatif triple
+1D973: Courbe de mouvement de plancher
+1D974: Mouvement d'écriture-Plan de coin, petit
+1D975: Signwriting Movement-Floorplane Corner Medium
+1D976: Mouvement d'écriture-Plan de coin grand
+1D977: Signwriting Movement-Floorplane Check
+1D978: Signwriting Movement-Floorplane Box Small
+1D979: Signwriting Movement-Floorplane Box Medium
+1D97A: Signwriting Movement-Floorplane Box Large
+1D97B: Mouvement de signe-Floorplane Zigzag Small
+1D97C: Signwriting Movement-Floorplane Zigzag Medium
+1D97D: Mouvement d'écriture-Floorplane Zigzag Large
+1D97E: Signwriting Movement-Floorplane Peaks Petit
+1D97F: Signwriting Movement-Floorplane Peaks Medium
+1D980: Signwriting Movement-Floorplane Peaks Large
+1D981: Signalisation Voyage-Floorplane Rotation-Floorplane Simple
+1D982: Signalisation Voyage-Floorplane Rotation-Floorplane Double
+1D983: Signalisation Voyage-Floorplane Rotation-Floorplane Alternance
+1D984: Signalisation de voyage-Floorplane Rotation-Wallplane Single
+1D985: Signalisation Voyage-Floorplane Rotation-Wallplane Double
+1D986: Signalisation Voyage-Floorplane Rotation-Wallplane Alternance
+1D987: Signwriting Travel-Floorplane Shaking
+1D988: Quart de courbe de mouvement de signe-Wallplane
+1D989: Quart de courbe de mouvement d'écriture de signe-moyen
+1D98A: Quart de courbe de mouvement de signe-Wallplane grand
+1D98B: Le plus grand quartier de la courbe de wallplane
+1D98C: Mouvement de signe-courbe Wallplane Demi-cercle petit
+1D98D: Signalisation de mouvement-Wallplane courbe demi-cercle moyen
+1D98E: Mouvement d'écriture-courbe du fond de panier, demi-cercle, grand
+1D98F: Mouvement d'écriture-courbe du fond de panier, demi-cercle le plus grand
+1D990: Courbe de mouvement-Signalisation en fond de panier Trois quart
+1D991: Signwriting Movement-Wallplane Curve Trois quarts de cercle Medium
+1D992: Signwriting Movement-Wallplane Hump Small
+1D993: Signwriting Movement-Wallplane Hump Medium
+1D994: Signwriting Movement-Wallplane Hump Large
+1D995: Signwriting Movement-Wallplane Loop Small
+1D996: Signwriting Movement-Wallplane Loop Medium
+1D997: Signwriting Movement-Wallplane Loop Large
+1D998: Signwriting Movement-Wallplane Loop Petit Double
+1D999: Courbe d'onde du mouvement d'écriture-signe Wallplane Double Small
+1D99A: Signwriting Movement-Wallplane Wave Curve Double Medium
+1D99B: Signwriting Movement-Wallplane Wave Curve Double Large
+1D99C: Courbe d'onde du mouvement d'écriture-signe de Wallplane Triple Small
+1D99D: Signwriting Movement-Wallplane Wave Curve Triple Medium
+1D99E: Signwriting Movement-Wallplane Wave Curve Triple Large
+1D99F: Signwriting Movement-Wallplane Curve Puis tout droit
+1D9A0: Signwriting Movement-Wallplane Croix courbée Petit
+1D9A1: Signwriting Movement-Wallplane Croix Courbe Moyenne
+1D9A2: Rotation des signes-Wallplane Single
+1D9A3: Rotation de l'écriture des signes-Wallplane Double
+1D9A4: Rotation de l'écriture des signes-Wallplane
+1D9A5: Signwriting Movement-Wallplane secouant
+1D9A6: Signwriting Movement-Wallplane Curve frappant le mur avant
+1D9A7: Signwriting Movement-Wallplane Bosse heurtant le mur avant
+1D9A8: Une boucle de mouvement d'écriture-signe frappant le mur avant
+1D9A9: Signwriting Movement-Wallplane Wave frappant le mur avant
+1D9AA: Signalisation Rotation-Wallplane Simple Frapper Front Wall
+1D9AB: Signalisation Rotation-Wallplane Double Frapper Front Wall
+1D9AC: Rotation de l'écriture des signes-Wallplane en alternance, frappant le mur avant
+1D9AD: Signwriting Movement-Wallplane Curve Frapper la poitrine
+1D9AE: Signwriting Movement-Wallplane Hump Hitting Chest
+1D9AF: Signwriting Movement-Wallplane Loop Frapper la poitrine
+1D9B0: Signe, mouvement, wallplane, vague, frapper, poitrine
+1D9B1: Rotation simple: coffre fort
+1D9B2: Rotating Signwriting-Wallplane Double Frapper la poitrine
+1D9B3: Rotation du signe de rotation-Wallplane frappant alternativement la poitrine
+1D9B4: Signwriting Movement-Wallplane Wave, chemin diagonal, petit
+1D9B5: Signwriting Mouvement-Wallplane Vague Diagonale Moyen
+1D9B6: Signe diagonal de mouvement de mouvement-Wallplane Wave grand
+1D9B7: Signwriting Movement-Floorplane Curve Hitting Ceiling Small
+1D9B8: Signwriting Movement-Floorplane Curve Hitting Ceiling Large
+1D9B9: Signwriting Movement-Floorplane Hump Atteindre le plafond, petit double
+1D9BA: Signwriting Movement-Floorplane Hump Atteindre Le Plafond Grand Double
+1D9BB: Signwriting Movement-Floorplane Hump Toucher Le Plafond Petit Triple
+1D9BC: Signwriting Movement-Floorplane Hump Atteindre Le Plafond Grand Triple
+1D9BD: Signwriting Movement-Floorplane Loop Plafond Plafond Petit Simple
+1D9BE: Signwriting Movement-Floorplane Loop Hitting Ceiling Large Single
+1D9BF: Signwriting Movement-Floorplane Loop Hitting Ceiling Small Double
+1D9C0: Signwriting Movement-Floorplane Loop Hitting Ceiling Large Double
+1D9C1: Signwriting Movement-Floorplane Vague Plafond Petit
+1D9C2: Signwriting Movement-Floorplane Wave Hitting Ceiling Large
+1D9C3: Rotation-plancher
+1D9C4: Rotating Signalisation Plancher Double Frapper Le Plafond
+1D9C5: Rotation des signes au sol
+1D9C6: Courbe de mouvement de plan de sol
+1D9C7: Courbe de mouvement de plan de sol
+1D9C8: Signwriting Movement-Floorplane Hump Hit Floor Petit Double
+1D9C9: Signwriting Movement-Floorplane Hump Hit Floor Grand Double
+1D9CA: Signwriting Movement-Floorplane Hump Atteindre le sol Triple Petit Triple
+1D9CB: Signwriting Movement-Floorplane Hump Atteindre le sol Triple Grand Triple
+1D9CC: Signwriting Movement-Floorplane Loop Hit Floor Petit Simple
+1D9CD: Signwriting Movement-Floorplane Loop Hit Floor Grand Single
+1D9CE: Signwriting Movement-Floorplane Loop Hit Floor Petit Double
+1D9CF: Signwriting Movement-Floorplane Loop Hit Floor Grand Double
+1D9D0: Signwriting Movement-Floorplane Vague Frapper Le Plancher Petit
+1D9D1: Signwriting Movement-Floorplane Wave Frapper le sol grand
+1D9D2: Rotation de plan-plancher
+1D9D3: Signalisation de rotation-Floorplane Double Frapper le sol
+1D9D4: Rotation de plan-plancher
+1D9D5: Courbe de mouvement de plan de plancher
+1D9D6: Signwriting Movement-Floorplane Medium
+1D9D7: Courbe du mouvement du plancher
+1D9D8: Courbe de plancher-mouvement du plan d'écriture le plus grand
+1D9D9: Mouvement d'écriture-courbe au plan de plancher combiné
+1D9DA: Signwriting Movement-Floorplane Hump Small
+1D9DB: Signwriting Movement-Floorplane Loop Small
+1D9DC: Signalisation de mouvement-Floorplane Wave Snake
+1D9DD: Signwriting Movement-Floorplane Wave Small
+1D9DE: Signwriting Movement-Floorplane Wave Large
+1D9DF: Rotation des signes-Floorplane Single
+1D9E0: Signalisation Rotation-Floorplane Double
+1D9E1: Rotation des écriteaux au sol
+1D9E2: Signwriting Movement-Floorplane Secouant Parallèle
+1D9E3: Cercle de bras mouvement Wallplane-Wallplane petit simple
+1D9E4: Signwriting Movement-Wallplane Arm Circle Moyenne Simple
+1D9E5: Mouvement d'écriture-Wallplane Bras Cercle Petit Double
+1D9E6: Mouvement d'écriture-Wallplane Bras Cercle Moyen Double
+1D9E7: Cercle de bras mouvement mouvement-plancher signe de frappe petit simple
+1D9E8: Cercle de bras de mouvement de mouvement d'écriture-frappant le mur moyen unique
+1D9E9: Cercle de bras mouvement de plancher-signe signe le grand mur simple
+1D9EA: Cercle de bras mouvement mouvement-plancher signe de frappe petit double
+1D9EB: Cercle de bras mouvement mouvement-plancher plan de frappe mur moyen double
+1D9EC: Cercle de bras mouvement de plancher-signe signe le grand mur double
+1D9ED: Cercle de poignet avant mouvement mouvement-wallplane
+1D9EE: Cercle de poignet avant mouvement mouvement-signe Wallplane
+1D9EF: Cercle de poignet mouvement mouvement plancher
+1D9F0: Cercle de poignet mouvement mouvement-plancher plan de frappe double
+1D9F1: Cercles de doigt de mouvement d'écriture-Wallplane unique
+1D9F2: Signwriting Movement-Wallplane Finger Circles Double
+1D9F3: Cercles de doigts pour le mouvement d'écriture au sol
+1D9F4: Cercles de doigts de mouvement de plancher-signe de frapper le mur double
+1D9F5: Flèche de signe dynamique petite
+1D9F6: Flèche de signe dynamique grande
+1D9F7: Signature dynamique rapide
+1D9F8: Signalisation dynamique lente
+1D9F9: Signature dynamique
+1D9FA: Signwriting Dynamic Relaxed
+1D9FB: Signature dynamique simultanée
+1D9FC: Signature dynamique Alternance simultanée
+1D9FD: Signature dynamique à chaque fois
+1D9FE: Signalisation dynamique progressive
+1D9FF: Tête d'écriture

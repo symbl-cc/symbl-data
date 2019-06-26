@@ -1,0 +1,3 @@
+﻿The [BLOCK:basic-latin Latin]-1 Supplement (also called C1 Controls and Latin-1 Supplement) is the second Unicode block in the Unicode standard. It encodes the upper range of ISO 8859-1: 80 (U+0080) - FF (U+00FF). Controls C1 (0080–009F) are not graphic.
+
+The C1 Controls and Latin-1 Supplement block has been included in its present form, with the same character repertoire since version 1.0 of the Unicode Standard, where it was known as Latin 1

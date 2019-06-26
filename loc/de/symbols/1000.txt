@@ -1,256 +1,256 @@
-1000: Myanmar letter ka
-1001: Myanmar letter kha
-1002: Myanmar letter ga
-1003: Myanmar letter gha
-1004: Myanmar letter nga
-1005: Myanmar letter ca
-1006: Myanmar letter cha
-1007: Myanmar letter ja
-1008: Myanmar letter jha
-1009: Myanmar letter nya
-100A: Myanmar letter nnya
-100B: Myanmar letter tta
-100C: Myanmar letter ttha
-100D: Myanmar letter dda
-100E: Myanmar letter ddha
-100F: Myanmar letter nna
-1010: Myanmar letter ta
-1011: Myanmar letter tha
-1012: Myanmar letter da
-1013: Myanmar letter dha
-1014: Myanmar letter na
-1015: Myanmar letter pa
-1016: Myanmar letter pha
-1017: Myanmar letter ba
-1018: Myanmar letter bha
-1019: Myanmar letter ma
-101A: Myanmar letter ya
-101B: Myanmar letter ra
-101C: Myanmar letter la
-101D: Myanmar letter wa
-101E: Myanmar letter sa
-101F: Myanmar letter ha
-1020: Myanmar letter lla
-1021: Myanmar letter a
-1022: Myanmar letter shan a
-1023: Myanmar letter i
-1024: Myanmar letter ii
-1025: Myanmar letter u
-1026: Myanmar letter uu
-1027: Myanmar letter e
-1028: Myanmar letter mon e
-1029: Myanmar letter o
-102A: Myanmar letter au
-102B: Myanmar vowel sign tall aa
-102C: Myanmar vowel sign aa
-102D: Myanmar vowel sign i
-102E: Myanmar vowel sign ii
-102F: Myanmar vowel sign u
-1030: Myanmar vowel sign uu
-1031: Myanmar vowel sign e
-1032: Myanmar vowel sign ai
-1033: Myanmar vowel sign mon ii
-1034: Myanmar vowel sign mon o
-1035: Myanmar vowel sign e above
-1036: Myanmar sign anusvara
-1037: Myanmar sign dot below
-1038: Myanmar sign visarga
-1039: Myanmar sign virama
-103A: Myanmar sign asat
-103B: Myanmar consonant sign medial ya
-103C: Myanmar consonant sign medial ra
-103D: Myanmar consonant sign medial wa
-103E: Myanmar consonant sign medial ha
-103F: Myanmar letter great sa
-1040: Myanmar digit zero
-1041: Myanmar digit one
-1042: Myanmar digit two
-1043: Myanmar digit three
-1044: Myanmar digit four
-1045: Myanmar digit five
-1046: Myanmar digit six
-1047: Myanmar digit seven
-1048: Myanmar digit eight
-1049: Myanmar digit nine
-104A: Myanmar sign little section
-104B: Myanmar sign section
-104C: Myanmar symbol locative
-104D: Myanmar symbol completed
-104E: Myanmar symbol aforementioned
-104F: Myanmar symbol genitive
-1050: Myanmar letter sha
-1051: Myanmar letter ssa
-1052: Myanmar letter vocalic r
-1053: Myanmar letter vocalic rr
-1054: Myanmar letter vocalic l
-1055: Myanmar letter vocalic ll
-1056: Myanmar vowel sign vocalic r
-1057: Myanmar vowel sign vocalic rr
-1058: Myanmar vowel sign vocalic l
-1059: Myanmar vowel sign vocalic ll
-105A: Myanmar letter mon nga
-105B: Myanmar letter mon jha
-105C: Myanmar letter mon bba
-105D: Myanmar letter mon bbe
-105E: Myanmar consonant sign mon medial na
-105F: Myanmar consonant sign mon medial ma
-1060: Myanmar consonant sign mon medial la
-1061: Myanmar letter sgaw karen sha
-1062: Myanmar vowel sign sgaw karen eu
-1063: Myanmar tone mark sgaw karen hathi
-1064: Myanmar tone mark sgaw karen ke pho
-1065: Myanmar letter western pwo karen tha
-1066: Myanmar letter western pwo karen pwa
-1067: Myanmar vowel sign western pwo karen eu
-1068: Myanmar vowel sign western pwo karen ue
-1069: Myanmar sign western pwo karen tone-1
-106A: Myanmar sign western pwo karen tone-2
-106B: Myanmar sign western pwo karen tone-3
-106C: Myanmar sign western pwo karen tone-4
-106D: Myanmar sign western pwo karen tone-5
-106E: Myanmar letter eastern pwo karen nna
-106F: Myanmar letter eastern pwo karen ywa
-1070: Myanmar letter eastern pwo karen ghwa
-1071: Myanmar vowel sign geba karen i
-1072: Myanmar vowel sign kayah oe
-1073: Myanmar vowel sign kayah u
-1074: Myanmar vowel sign kayah ee
-1075: Myanmar letter shan ka
-1076: Myanmar letter shan kha
-1077: Myanmar letter shan ga
-1078: Myanmar letter shan ca
-1079: Myanmar letter shan za
-107A: Myanmar letter shan nya
-107B: Myanmar letter shan da
-107C: Myanmar letter shan na
-107D: Myanmar letter shan pha
-107E: Myanmar letter shan fa
-107F: Myanmar letter shan ba
-1080: Myanmar letter shan tha
-1081: Myanmar letter shan ha
-1082: Myanmar consonant sign shan medial wa
-1083: Myanmar vowel sign shan aa
-1084: Myanmar vowel sign shan e
-1085: Myanmar vowel sign shan e above
-1086: Myanmar vowel sign shan final y
-1087: Myanmar sign shan tone-2
-1088: Myanmar sign shan tone-3
-1089: Myanmar sign shan tone-5
-108A: Myanmar sign shan tone-6
-108B: Myanmar sign shan council tone-2
-108C: Myanmar sign shan council tone-3
-108D: Myanmar sign shan council emphatic tone
-108E: Myanmar letter rumai palaung fa
-108F: Myanmar sign rumai palaung tone-5
-1090: Myanmar shan digit zero
-1091: Myanmar shan digit one
-1092: Myanmar shan digit two
-1093: Myanmar shan digit three
-1094: Myanmar shan digit four
-1095: Myanmar shan digit five
-1096: Myanmar shan digit six
-1097: Myanmar shan digit seven
-1098: Myanmar shan digit eight
-1099: Myanmar shan digit nine
-109A: Myanmar sign khamti tone-1
-109B: Myanmar sign khamti tone-3
-109C: Myanmar vowel sign aiton a
-109D: Myanmar vowel sign aiton ai
-109E: Myanmar symbol shan one
-109F: Myanmar symbol shan exclamation
-10A0: Georgian capital letter an
-10A1: Georgian capital letter ban
-10A2: Georgian capital letter gan
-10A3: Georgian capital letter don
-10A4: Georgian capital letter en
-10A5: Georgian capital letter vin
-10A6: Georgian capital letter zen
-10A7: Georgian capital letter tan
-10A8: Georgian capital letter in
-10A9: Georgian capital letter kan
-10AA: Georgian capital letter las
-10AB: Georgian capital letter man
-10AC: Georgian capital letter nar
-10AD: Georgian capital letter on
-10AE: Georgian capital letter par
-10AF: Georgian capital letter zhar
-10B0: Georgian capital letter rae
-10B1: Georgian capital letter san
-10B2: Georgian capital letter tar
-10B3: Georgian capital letter un
-10B4: Georgian capital letter phar
-10B5: Georgian capital letter khar
-10B6: Georgian capital letter ghan
-10B7: Georgian capital letter qar
-10B8: Georgian capital letter shin
-10B9: Georgian capital letter chin
-10BA: Georgian capital letter can
-10BB: Georgian capital letter jil
-10BC: Georgian capital letter cil
-10BD: Georgian capital letter char
-10BE: Georgian capital letter xan
-10BF: Georgian capital letter jhan
-10C0: Georgian capital letter hae
-10C1: Georgian capital letter he
-10C2: Georgian capital letter hie
-10C3: Georgian capital letter we
-10C4: Georgian capital letter har
-10C5: Georgian capital letter hoe
+1000: Myanmar Brief Ka
+1001: Myanmar-Buchstabe Kha
+1002: Myanmar Brief Ga
+1003: Myanmar-Buchstabe Gha
+1004: Myanmar-Brief Nga
+1005: Myanmar Brief Ca
+1006: Myanmar-Buchstabe Cha
+1007: Myanmar-Brief Ja
+1008: Myanmar Brief Jha
+1009: Myanmar-Brief Nya
+100A: Myanmar-Brief Nnya
+100B: Myanmar Brief Tta
+100C: Myanmar-Brief Ttha
+100D: Myanmar Brief Dda
+100E: Myanmar Brief Ddha
+100F: Myanmar-Brief Nna
+1010: Myanmar-Buchstabe Ta
+1011: Myanmar-Brief Tha
+1012: Myanmar-Brief Da
+1013: Myanmar Brief Dha
+1014: Myanmar Brief Na
+1015: Myanmar Brief Pa
+1016: Myanmar Brief Pha
+1017: Myanmar Brief Ba
+1018: Myanmar Brief Bha
+1019: Myanmar Brief Ma
+101A: Myanmar-Buchstabe Ya
+101B: Myanmar Brief Ra
+101C: Myanmar-Brief La
+101D: Myanmar Brief Wa
+101E: Myanmar Brief Sa
+101F: Myanmar-Brief Ha
+1020: Myanmar Brief Lla
+1021: Myanmar-Buchstabe A
+1022: Myanmar-Brief Shan A
+1023: Myanmar Brief I
+1024: Myanmar-Brief Ii
+1025: Myanmar Buchstabe U
+1026: Myanmar-Brief Uu
+1027: Myanmar-Buchstabe E
+1028: Myanmar-Brief Mo E
+1029: Myanmar Buchstabe O
+102A: Myanmar Brief Au
+102B: Myanmar-Vokalzeichen hoch Aa
+102C: Myanmar Vokalzeichen Aa
+102D: Myanmar Vokalzeichen I
+102E: Myanmar Vokalzeichen Ii
+102F: Myanmar Vokalzeichen U
+1030: Myanmar Vokalzeichen Uu
+1031: Myanmar Vokalzeichen E
+1032: Myanmar Vokalzeichen Ai
+1033: Myanmar Vokalzeichen Mon Ii
+1034: Myanmar Vokalzeichen Mon O
+1035: Myanmar-Vokalzeichen E oben
+1036: Myanmar-Zeichen Anusvara
+1037: Myanmar-Zeichenpunkt unten : aukmyit
+1038: Myanmar-Zeichen Visarga
+1039: Myanmar-Zeichen Virama : Killer (wenn sichtbar sichtbar gemacht)
+103A: Myanmar-Zeichen Asat : Killer (immer sichtbar dargestellt)
+103B: Myanmar-Konsonantzeichen Medialer Ya
+103C: Myanmar-Konsonantenzeichen Medial Ra
+103D: Myanmar Konsonantenzeichen Medial Wa
+103E: Myanmar-Konsonantenzeichen Medial Ha
+103F: Myanmar Brief Großer Sa
+1040: Myanmar Ziffer Null
+1041: Myanmar Ziffer eins
+1042: Myanmar Ziffer zwei
+1043: Myanmar Ziffer drei
+1044: Myanmar Ziffer vier
+1045: Myanmar Ziffer fünf
+1046: Myanmar Ziffer sechs
+1047: Myanmar Ziffer sieben
+1048: Myanmar Ziffer Acht
+1049: Myanmar Ziffer neun
+104A: Myanmar Sign Little Section
+104B: Myanmar-Zeichenabschnitt
+104C: Myanmar Symbol Lokativ
+104D: Myanmar-Symbol abgeschlossen
+104E: Myanmar-Symbol
+104F: Myanmar-Symbol Genitiv
+1050: Myanmar Brief Sha
+1051: Myanmar Brief Ssa
+1052: Myanmar Brief Vocalic R
+1053: Myanmar Brief Gesang Rr
+1054: Myanmar Brief Gesang L
+1055: Myanmar Brief Vocalic Ll
+1056: Myanmar Vokalzeichen Vocalic R
+1057: Myanmar Vokalzeichen Vokal Rr
+1058: Myanmar Vokalzeichen Vocalic L
+1059: Myanmar Vokalzeichen Vocalic Ll
+105A: Myanmar-Brief Mon Nga
+105B: Myanmar Brief Mon Jha
+105C: Myanmar-Brief Mon Bba
+105D: Myanmar-Brief Mo Bbe
+105E: Myanmar-Konsonantenzeichen Mon Medial Na
+105F: Myanmar-Konsonantenzeichen Mo Medial Ma
+1060: Myanmar-Konsonantenzeichen Mo Medial La
+1061: Myanmar Brief Sgaw Karen Sha
+1062: Myanmar Vokalzeichen Sgaw Karen Eu
+1063: Myanmar-Ton Mark Sgaw Karen Hathi
+1064: Myanmar-Ton Mark Sgaw Karen Ke Pho
+1065: Myanmar-Brief Western Pwo Karen Tha
+1066: Myanmar-Brief Western Pwo Karen Pwa
+1067: Myanmar-Vokalzeichen Western Pwo Karen Eu
+1068: Myanmar-Vokalzeichen Western Pwo Karen Ue
+1069: Myanmar-Zeichen Western Pwo Karen Tone-1
+106A: Myanmar-Zeichen Western Pwo Karen Tone-2
+106B: Myanmar-Zeichen Western Pwo Karen Tone-3
+106C: Myanmar-Zeichen Western Pwo Karen Tone-4
+106D: Myanmar-Zeichen Western Pwo Karen Tone-5
+106E: Myanmar Brief Eastern Pwo Karen Nna
+106F: Myanmar Brief Eastern Pwo Karen Ywa
+1070: Myanmar Brief Eastern Pwo Karen Ghwa
+1071: Myanmar Vokalzeichen Geba Karen I
+1072: Myanmar-Vokalzeichen Kayah Oe
+1073: Myanmar Vokalzeichen Kayah U
+1074: Myanmar-Vokalzeichen Kayah Ee
+1075: Myanmar-Brief Shan Ka
+1076: Myanmar Brief Shan Kha
+1077: Myanmar Brief Shan Ga
+1078: Myanmar Brief Shan Ca
+1079: Myanmar Brief Shan Za
+107A: Myanmar-Brief Shan Nya
+107B: Myanmar Brief Shan Da
+107C: Myanmar Brief Shan Na
+107D: Myanmar-Brief Shan Pha
+107E: Myanmar Brief Shan Fa
+107F: Myanmar Brief Shan Ba
+1080: Myanmar-Brief Shan Tha
+1081: Myanmar Brief Shan Ha
+1082: Konsonant-Zeichen in Myanmar Shan Medial Wa
+1083: Myanmar-Vokalzeichen Shan Aa
+1084: Myanmar-Vokalzeichen Shan E
+1085: Myanmar-Vokalzeichen Shan E oben
+1086: Myanmar-Vokalzeichen Shan Final Y
+1087: Myanmar-Zeichen Shan Tone-2
+1088: Myanmar-Zeichen Shan Tone-3
+1089: Myanmar-Zeichen Shan Tone-5
+108A: Myanmar-Zeichen Shan Tone-6
+108B: Myanmar-Zeichen Shan Council Tone-2
+108C: Myanmar-Zeichen Shan Council Tone-3
+108D: Myanmar-Zeichen Shan-Rat, der Ton betont
+108E: Myanmar Brief Rumai Palaung Fa
+108F: Myanmar-Zeichen Rumai Palaung Tone-5
+1090: Myanmar Shan Ziffer Null
+1091: Myanmar Shan Ziffer Eins
+1092: Myanmar Shan Ziffer zwei
+1093: Myanmar Shan Ziffer Drei
+1094: Myanmar Shan Ziffer vier
+1095: Myanmar Shan Ziffer Fünf
+1096: Myanmar Shan Ziffer Sechs
+1097: Myanmar Shan Ziffer sieben
+1098: Myanmar Shan Ziffer Acht
+1099: Myanmar Shan Ziffer Neun
+109A: Myanmar-Zeichen Khamti Tone-1
+109B: Myanmar-Zeichen Khamti Tone-3
+109C: Myanmar Vokalzeichen Aiton A
+109D: Myanmar Vokalzeichen Aiton Ai
+109E: Myanmar-Symbol Shan Eins
+109F: Myanmar Symbol Shan Ausruf
+10A0: Georgischer Großbuchstabe ein
+10A1: Georgischer Großbuchstabenverbot
+10A2: Georgischer Großbuchstabe Gan
+10A3: Georgischer Großbuchstabe Don
+10A4: Georgianischer Großbuchstabe
+10A5: Georgischer Großbuchstabe Vin
+10A6: Georgischer Großbuchstabe Zen
+10A7: Georgischer Großbuchstabe Tan
+10A8: Georgischer Großbuchstabe in
+10A9: Georgischer Großbuchstabe Kan
+10AA: Georgischer Großbuchstabe Las
+10AB: Georgischer Großbuchstabe
+10AC: Georgischer Großbuchstabe Nar
+10AD: Georgianischer Großbuchstabe am
+10AE: Georgischer Großbuchstabe Par
+10AF: Georgischer Großbuchstabe Zhar
+10B0: Georgischer Großbuchstabe Rae
+10B1: Georgischer Großbuchstabe San
+10B2: Georgischer Großbuchstabe Tar
+10B3: Georgianischer Großbuchstabe Un
+10B4: Georgischer Großbuchstabe Phar
+10B5: Georgischer Großbuchstabe Khar
+10B6: Georgischer Großbuchstabe Ghan
+10B7: Georgischer Großbuchstabe Qar
+10B8: Georgischer Großbuchstabe Shin
+10B9: Georgischer Großbuchstabe Chin
+10BA: Georgianischer Großbuchstabe Can
+10BB: Georgischer Großbuchstabe Jil
+10BC: Georgischer Großbuchstabe Cil
+10BD: Georgischer Großbuchstabe Char
+10BE: Georgischer Großbuchstabe Xan
+10BF: Georgischer Großbuchstabe Jhan
+10C0: Georgischer Großbuchstabe Hae
+10C1: Georgischer Großbuchstabe He
+10C2: Georgischer Großbuchstabe Hie
+10C3: Georgischer Großbuchstabe Wir
+10C4: Georgischer Großbuchstabe Har
+10C5: Georgische Großbuchstabe Hacke
 10C6:
-10C7:
+10C7: Georgischer Großbuchstabe Yn
 10C8:
 10C9:
 10CA:
 10CB:
 10CC:
-10CD:
+10CD: Georgischer Großbuchstabe Aen
 10CE:
 10CF:
-10D0: Georgian letter an
-10D1: Georgian letter ban
-10D2: Georgian letter gan
-10D3: Georgian letter don
-10D4: Georgian letter en
-10D5: Georgian letter vin
-10D6: Georgian letter zen
-10D7: Georgian letter tan
-10D8: Georgian letter in
-10D9: Georgian letter kan
-10DA: Georgian letter las
-10DB: Georgian letter man
-10DC: Georgian letter nar
-10DD: Georgian letter on
-10DE: Georgian letter par
-10DF: Georgian letter zhar
-10E0: Georgian letter rae
-10E1: Georgian letter san
-10E2: Georgian letter tar
-10E3: Georgian letter un
-10E4: Georgian letter phar
-10E5: Georgian letter khar
-10E6: Georgian letter ghan
-10E7: Georgian letter qar
-10E8: Georgian letter shin
-10E9: Georgian letter chin
-10EA: Georgian letter can
-10EB: Georgian letter jil
-10EC: Georgian letter cil
-10ED: Georgian letter char
-10EE: Georgian letter xan
-10EF: Georgian letter jhan
-10F0: Georgian letter hae
-10F1: Georgian letter he
-10F2: Georgian letter hie
-10F3: Georgian letter we
-10F4: Georgian letter har
-10F5: Georgian letter hoe
-10F6: Georgian letter fi
-10F7: Georgian letter yn
-10F8: Georgian letter elifi
-10F9: Georgian letter turned gan
-10FA: Georgian letter ain
-10FB: Georgian paragraph separator
-10FC: Modifier letter georgian nar
-10FD:
-10FE:
-10FF:
+10D0: Georgischer Brief an
+10D1: Georgischer Briefverbot
+10D2: Georgischer Brief Gan
+10D3: Georgischer Brief Don
+10D4: Georgischer Brief En
+10D5: Georgischer Brief Vin
+10D6: Georgischer Brief Zen
+10D7: Georgischer Brief Tan
+10D8: Georgischer Brief in
+10D9: Georgischer Brief Kan
+10DA: Georgischer Brief Las
+10DB: Georgischer Brief Mann
+10DC: Georgischer Brief Nar
+10DD: Georgischer Brief am
+10DE: Georgischer Brief Par
+10DF: Georgischer Brief Zhar
+10E0: Georgischer Brief Rae
+10E1: Georgischer Brief San
+10E2: Georgischer Buchstabe Tar
+10E3: Georgischer Brief Un
+10E4: Georgischer Brief Phar
+10E5: Georgischer Brief Khar
+10E6: Georgischer Brief Ghan
+10E7: Georgischer Brief Qar
+10E8: Georgischer Brief Shin
+10E9: Georgischer Buchstabe Chin
+10EA: Georgischer Brief kann
+10EB: Georgischer Brief Jil
+10EC: Georgischer Brief Cil
+10ED: Georgischer Brief Char
+10EE: Georgischer Brief Xan
+10EF: Georgischer Brief Jhan
+10F0: Georgischer Brief Hae
+10F1: Georgischer Brief He
+10F2: Georgischer Brief Hie
+10F3: Georgischer Brief Wir
+10F4: Georgischer Brief Har
+10F5: Georgische Briefhacke
+10F6: Georgischer Brief Fi
+10F7: Georgischer Buchstabe Yn
+10F8: Georgischer Brief Elifi
+10F9: Georgischer Brief wurde Gan
+10FA: Georgischer Brief Ain
+10FB: Georgischer Paragraphen-Separator
+10FC: Zusatzbrief Georgian Nar
+10FD: Georgischer Brief Aen
+10FE: Georgischer Brief Harte Zeichen
+10FF: Georgian Letter Labial Sign

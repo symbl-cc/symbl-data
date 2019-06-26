@@ -1,256 +1,256 @@
-0200 : Latin capital letter a with double grave
-0201 : Latin small letter a with double grave
-0202 : Latin capital letter a with inverted breve
-0203 : Latin small letter a with inverted breve
-0204 : Latin capital letter e with double grave
-0205 : Latin small letter e with double grave
-0206 : Latin capital letter e with inverted breve
-0207 : Latin small letter e with inverted breve
-0208 : Latin capital letter i with double grave
-0209 : Latin small letter i with double grave
-020A : Latin capital letter i with inverted breve
-020B : Latin small letter i with inverted breve
-020C : Latin capital letter o with double grave
-020D : Latin small letter o with double grave
-020E : Latin capital letter o with inverted breve
-020F : Latin small letter o with inverted breve
-0210 : Latin capital letter r with double grave
-0211 : Latin small letter r with double grave
-0212 : Latin capital letter r with inverted breve
-0213 : Latin small letter r with inverted breve
-0214 : Latin capital letter u with double grave
-0215 : Latin small letter u with double grave
-0216 : Latin capital letter u with inverted breve
-0217 : Latin small letter u with inverted breve
-0218 : Latin capital letter s with comma below
-0219 : Latin small letter s with comma below
-021A : Latin capital letter t with comma below
-021B : Latin small letter t with comma below
-021C : Latin capital letter yogh
-021D : Latin small letter yogh
-021E : Latin capital letter h with caron
-021F : Latin small letter h with caron
-0220 : Latin capital letter n with long right leg
-0221 : Latin small letter d with curl
-0222 : Latin capital letter ou
-0223 : Latin small letter ou
-0224 : Latin capital letter z with hook
-0225 : Latin small letter z with hook
-0226 : Latin capital letter a with dot above
-0227 : Latin small letter a with dot above
-0228 : Latin capital letter e with cedilla
-0229 : Latin small letter e with cedilla
-022A : Latin capital letter o with diaeresis and macron
-022B : Latin small letter o with diaeresis and macron
-022C : Latin capital letter o with tilde and macron
-022D : Latin small letter o with tilde and macron
-022E : Latin capital letter o with dot above
-022F : Latin small letter o with dot above
-0230 : Latin capital letter o with dot above and macron
-0231 : Latin small letter o with dot above and macron
-0232 : Latin capital letter y with macron
-0233 : Latin small letter y with macron
-0234 : Latin small letter l with curl
-0235 : Latin small letter n with curl
-0236 : Latin small letter t with curl
-0237 : Latin small letter dotless j
-0238 : Latin small letter db digraph
-0239 : Latin small letter qp digraph
-023A : Latin capital letter a with stroke
-023B : Latin capital letter c with stroke
-023C : Latin small letter c with stroke
-023D : Latin capital letter l with bar
-023E : Latin capital letter t with diagonal stroke
-023F : Latin small letter s with swash tail
-0240 : Latin small letter z with swash tail
-0241 : Latin capital letter glottal stop
-0242 : Latin small letter glottal stop
-0243 : Latin capital letter b with stroke
-0244 : Latin capital letter u bar
-0245 : Latin capital letter turned v
-0246 : Latin capital letter e with stroke
-0247 : Latin small letter e with stroke
-0248 : Latin capital letter j with stroke
-0249 : Latin small letter j with stroke
-024A : Latin capital letter small q with hook tail
-024B : Latin small letter q with hook tail
-024C : Latin capital letter r with stroke
-024D : Latin small letter r with stroke
-024E : Latin capital letter y with stroke
-024F : Latin small letter y with stroke
-0250 : Latin small letter turned a
-0251 : Latin small letter alpha
-0252 : Latin small letter turned alpha
-0253 : Latin small letter b with hook
-0254 : Latin small letter open o
-0255 : Latin small letter c with curl
-0256 : Latin small letter d with tail
-0257 : Latin small letter d with hook
-0258 : Latin small letter reversed e
-0259 : Latin small letter schwa
-025A : Latin small letter schwa with hook
-025B : Latin small letter open e
-025C : Latin small letter reversed open e
-025D : Latin small letter reversed open e with hook
-025E : Latin small letter closed reversed open e
-025F : Latin small letter dotless j with stroke
-0260 : Latin small letter g with hook
-0261 : Latin small letter script g
-0262 : Latin letter small capital g
-0263 : Latin small letter gamma
-0264 : Latin small letter rams horn
-0265 : Latin small letter turned h
-0266 : Latin small letter h with hook
-0267 : Latin small letter heng with hook
-0268 : Latin small letter i with stroke
-0269 : Latin small letter iota
-026A : Latin letter small capital i
-026B : Latin small letter l with middle tilde
-026C : Latin small letter l with belt
-026D : Latin small letter l with retroflex hook
-026E : Latin small letter lezh
-026F : Latin small letter turned m
-0270 : Latin small letter turned m with long leg
-0271 : Latin small letter m with hook
-0272 : Latin small letter n with left hook
-0273 : Latin small letter n with retroflex hook
-0274 : Latin letter small capital n
-0275 : Latin small letter barred o
-0276 : Latin letter small capital oe
-0277 : Latin small letter closed omega
-0278 : Latin small letter phi
-0279 : Latin small letter turned r
-027A : Latin small letter turned r with long leg
-027B : Latin small letter turned r with hook
-027C : Latin small letter r with long leg
-027D : Latin small letter r with tail
-027E : Latin small letter r with fishhook
-027F : Latin small letter reversed r with fishhook
-0280 : Latin letter small capital r
-0281 : Latin letter small capital inverted r
-0282 : Latin small letter s with hook
-0283 : Latin small letter esh
-0284 : Latin small letter dotless j with stroke and hook
-0285 : Latin small letter squat reversed esh
-0286 : Latin small letter esh with curl
-0287 : Latin small letter turned t
-0288 : Latin small letter t with retroflex hook
-0289 : Latin small letter u bar
-028A : Latin small letter upsilon
-028B : Latin small letter v with hook
-028C : Latin small letter turned v
-028D : Latin small letter turned w
-028E : Latin small letter turned y
-028F : Latin letter small capital y
-0290 : Latin small letter z with retroflex hook
-0291 : Latin small letter z with curl
-0292 : Latin small letter ezh
-0293 : Latin small letter ezh with curl
-0294 : Latin letter glottal stop
-0295 : Latin letter pharyngeal voiced fricative
-0296 : Latin letter inverted glottal stop
-0297 : Latin letter stretched c
-0298 : Latin letter bilabial click
-0299 : Latin letter small capital b
-029A : Latin small letter closed open e
-029B : Latin letter small capital g with hook
-029C : Latin letter small capital h
-029D : Latin small letter j with crossed-tail
-029E : Latin small letter turned k
-029F : Latin letter small capital l
-02A0 : Latin small letter q with hook
-02A1 : Latin letter glottal stop with stroke
-02A2 : Latin letter reversed glottal stop with stroke
-02A3 : Latin small letter dz digraph
-02A4 : Latin small letter dezh digraph
-02A5 : Latin small letter dz digraph with curl
-02A6 : Latin small letter ts digraph
-02A7 : Latin small letter tesh digraph
-02A8 : Latin small letter tc digraph with curl
-02A9 : Latin small letter feng digraph
-02AA : Latin small letter ls digraph
-02AB : Latin small letter lz digraph
-02AC : Latin letter bilabial percussive
-02AD : Latin letter bidental percussive
-02AE : Latin small letter turned h with fishhook
-02AF : Latin small letter turned h with fishhook and tail
-02B0 : Modifier letter small h
-02B1 : Modifier letter small h with hook
-02B2 : Modifier letter small j
-02B3 : Modifier letter small r
-02B4 : Modifier letter small turned r
-02B5 : Modifier letter small turned r with hook
-02B6 : Modifier letter small capital inverted r
-02B7 : Modifier letter small w
-02B8 : Modifier letter small y
-02B9 : Modifier letter prime
-02BA : Modifier letter double prime
-02BB : Modifier letter turned comma
-02BC : Modifier letter apostrophe
-02BD : Modifier letter reversed comma
-02BE : Modifier letter right half ring
-02BF : Modifier letter left half ring
-02C0 : Modifier letter glottal stop
-02C1 : Modifier letter reversed glottal stop
-02C2 : Modifier letter left arrowhead
-02C3 : Modifier letter right arrowhead
-02C4 : Modifier letter up arrowhead
-02C5 : Modifier letter down arrowhead
-02C6 : Modifier letter circumflex accent
-02C7 : Caron
-02C8 : Modifier letter vertical line
-02C9 : Modifier letter macron
-02CA : Modifier letter acute accent
-02CB : Modifier letter grave accent
-02CC : Modifier letter low vertical line
-02CD : Modifier letter low macron
-02CE : Modifier letter low grave accent
-02CF : Modifier letter low acute accent
-02D0 : Modifier letter triangular colon
-02D1 : Modifier letter half triangular colon
-02D2 : Modifier letter centred right half ring
-02D3 : Modifier letter centred left half ring
-02D4 : Modifier letter up tack
-02D5 : Modifier letter down tack
-02D6 : Modifier letter plus sign
-02D7 : Modifier letter minus sign
-02D8 : Breve
-02D9 : Dot above
-02DA : Ring above
-02DB : Ogonek
-02DC : Small tilde
-02DD : Double acute accent
-02DE : Modifier letter rhotic hook
-02DF : Modifier letter cross accent
-02E0 : Modifier letter small gamma
-02E1 : Modifier letter small l
-02E2 : Modifier letter small s
-02E3 : Modifier letter small x
-02E4 : Modifier letter small reversed glottal stop
-02E5 : Modifier letter extra-high tone bar
-02E6 : Modifier letter high tone bar
-02E7 : Modifier letter mid tone bar
-02E8 : Modifier letter low tone bar
-02E9 : Modifier letter extra-low tone bar
-02EA : Modifier letter yin departing tone mark
-02EB : Modifier letter yang departing tone mark
-02EC : Modifier letter voicing
-02ED : Modifier letter unaspirated
-02EE : Modifier letter double apostrophe
-02EF : Modifier letter low down arrowhead
-02F0 : Modifier letter low up arrowhead
-02F1 : Modifier letter low left arrowhead
-02F2 : Modifier letter low right arrowhead
-02F3 : Modifier letter low ring
-02F4 : Modifier letter middle grave accent
-02F5 : Modifier letter middle double grave accent
-02F6 : Modifier letter middle double acute accent
-02F7 : Modifier letter low tilde
-02F8 : Modifier letter raised colon
-02F9 : Modifier letter begin high tone
-02FA : Modifier letter end high tone
-02FB : Modifier letter begin low tone
-02FC : Modifier letter end low tone
-02FD : Modifier letter shelf
-02FE : Modifier letter open shelf
-02FF : Modifier letter low left arrow
+0200: อักษรละตินตัวพิมพ์ใหญ่ a ที่มี Double Grave
+0201: อักษรตัวเล็กละติน a กับหลุมฝังศพที่สอง
+0202: ตัวอักษรละตินตัวพิมพ์ใหญ่ a ที่มี Inverted Breve
+0203: อักษรตัวเล็กละติน a กับ Breve Inverted
+0204: ตัวอักษรละตินตัวพิมพ์ใหญ่ E พร้อม Double Grave
+0205: อักษรตัวเล็กละติน E พร้อมหลุมฝังศพคู่
+0206: ตัวอักษรละตินตัวพิมพ์ใหญ่ E ที่มี Inverted Breve
+0207: อักษรตัวเล็กละติน E ที่มี Breve Inverted
+0208: อักษรละตินตัวพิมพ์ใหญ่ I ที่มี Double Grave
+0209: ตัวอักษรละตินตัวเล็ก I ที่มี Double Grave
+020A: อักษรละตินตัวพิมพ์ใหญ่ I ที่มี Inverted Breve
+020B: ตัวอักษรละตินตัวเล็ก I ที่มี Inverted Breve
+020C: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มี Double Grave
+020D: ตัวอักษรละตินตัวเล็ก O ตัวที่มี Double Grave
+020E: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มี Inverted Breve
+020F: ตัวอักษรละตินตัวเล็ก O ที่มี Breve Inverted
+0210: ตัวอักษรละตินตัวพิมพ์ใหญ่ R ที่มี Double Grave
+0211: อักษรตัวเล็กละติน R พร้อมหลุมฝังศพคู่
+0212: อักษรละตินตัวพิมพ์ใหญ่ R ที่มี Inverted Breve
+0213: อักษรตัวเล็กละติน R ที่มี Breve Inverted
+0214: ตัวอักษรละตินตัวพิมพ์ใหญ่ U ที่มี Double Grave
+0215: ตัวอักษรละตินตัวเล็ก U ที่มี Double Grave
+0216: อักษรละตินตัวพิมพ์ใหญ่ U ที่มี Inverted Breve
+0217: อักษรตัวเล็กละติน U ที่มี Breve Inverted
+0218: ตัวอักษรละตินตัวพิมพ์ใหญ่ S ที่มีจุลภาคด้านล่าง
+0219: ตัวอักษรละตินตัวเล็ก S ที่มีจุลภาคด้านล่าง
+021A: ตัวอักษรละตินตัวพิมพ์ใหญ่ T ที่มีจุลภาคด้านล่าง
+021B: ตัวอักษรละตินตัวเล็ก T พร้อมจุลภาคด้านล่าง
+021C: อักษรละตินตัวพิมพ์ใหญ่โยเกิร์ต
+021D: อักษรตัวเล็กละตินโยเกิร์ต
+021E: ตัวอักษรละตินตัวพิมพ์ใหญ่ H ที่มี Caron
+021F: อักษรตัวเล็กละติน H กับคารอน
+0220: อักษรละตินตัวพิมพ์ใหญ่ N ที่มีขายาวขวา
+0221: อักษรตัวเล็กละติน D ที่มี Curl
+0222: ตัวอักษรละตินตัวพิมพ์ใหญ่ Ou
+0223: ตัวอักษรละตินตัวเล็ก Ou
+0224: ตัวอักษรละตินตัวพิมพ์ใหญ่ Z ที่มีตะขอ
+0225: ตัวอักษรละตินตัวเล็ก Z พร้อมตะขอ
+0226: ตัวอักษรละตินตัวพิมพ์ใหญ่ a ที่มีจุดด้านบน
+0227: ตัวอักษรละตินตัวเล็ก a ที่มีจุดด้านบน
+0228: ตัวอักษรละตินตัวพิมพ์ใหญ่ E พร้อม Cedilla
+0229: อักษรตัวเล็กละติน E กับ Cedilla
+022A: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มี Diaeresis และ Macron
+022B: ตัวอักษรละตินตัวพิมพ์เล็ก O ที่มี Diaeresis และ Macron
+022C: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มี Tilde และ Macron
+022D: ตัวอักษรละตินตัวเล็ก O ที่มี Tilde และ Macron
+022E: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มีจุดด้านบน
+022F: ตัวอักษรละตินตัวเล็ก O ที่มีจุดด้านบน
+0230: ตัวอักษรละตินตัวพิมพ์ใหญ่ O ที่มี Dot Above และ Macron
+0231: ตัวอักษรละตินตัวเล็ก O ที่มี Dot Above และ Macron
+0232: ตัวอักษรละตินตัวพิมพ์ใหญ่ Y ที่มี Macron
+0233: ตัวอักษรละตินตัวเล็ก Y พร้อม Macron
+0234: อักษรตัวเล็กละติน L ที่มีขด
+0235: อักษรตัวเล็กละติน N ที่มี Curl
+0236: ตัวอักษรละตินตัวเล็ก T พร้อม Curl
+0237: อักษรตัวเล็กละติน Dotless J
+0238: อักษรตัวเล็ก Db ละติน
+0239: อักษรตัวเล็กละติน Qp Digraph
+023A: ตัวอักษรละตินตัวพิมพ์ใหญ่ a ที่มี Stroke
+023B: ตัวอักษรละตินตัวพิมพ์ใหญ่ C ที่มี Stroke
+023C: ตัวอักษรละตินตัวเล็ก C พร้อม Stroke
+023D: ตัวอักษรละตินตัวพิมพ์ใหญ่ L พร้อมบาร์
+023E: ตัวอักษรละตินตัวพิมพ์ใหญ่ T ที่มี Diagonal Stroke
+023F: ตัวอักษรละตินตัวเล็ก S พร้อมหาง Swash
+0240: ตัวอักษรละตินตัวเล็ก Z พร้อมหางหาง
+0241: อักษรละตินตัวพิมพ์ใหญ่ Glottal Stop
+0242: ตัวอักษรละตินตัวเล็ก Glottal Stop
+0243: ตัวอักษรละตินตัวพิมพ์ใหญ่ B พร้อม Stroke (Bitcoin)
+0244: อักษรละตินตัวพิมพ์ใหญ่ U Bar
+0245: ตัวอักษรละตินตัวพิมพ์ใหญ่หัน
+0246: ตัวอักษรละตินตัวพิมพ์ใหญ่ E ที่มี Stroke
+0247: อักษรตัวเล็กละติน E ที่มีจังหวะ
+0248: ตัวอักษรละตินตัวพิมพ์ใหญ่ J พร้อม Stroke
+0249: ตัวอักษรละตินตัวเล็ก J พร้อมขีดเขียน
+024A: ตัวอักษรละตินตัวพิมพ์เล็ก Q พร้อมตัวต่อท้าย
+024B: อักษรตัวเล็กละติน Q ที่มีตะขอหาง
+024C: อักษรละตินตัวพิมพ์ใหญ่ R พร้อม Stroke
+024D: ตัวอักษรละตินตัวพิมพ์เล็ก R พร้อม Stroke
+024E: ตัวอักษรละตินตัวพิมพ์ใหญ่ Y พร้อม Stroke
+024F: ตัวอักษรละตินตัวเล็ก Y พร้อมขีด
+0250: อักษรตัวเล็กละตินหัน
+0251: อักษรตัวเล็กละติน : สคริปต์อักษรตัวเล็กละติน
+0252: อักษรตัวเล็กละตินหันอัลฟ่า
+0253: ตัวอักษรละตินตัวเล็ก B พร้อมตะขอ
+0254: ตัวอักษรละตินตัวเล็กเปิด O
+0255: ตัวอักษรละตินตัวเล็ก C พร้อม Curl
+0256: ตัวอักษรละตินตัวเล็ก D พร้อมหาง : d retroflex ตะขอ
+0257: ตัวอักษรละตินตัวเล็ก D พร้อมตะขอ
+0258: ตัวอักษรละตินตัวเล็กกลับด้าน E
+0259: อักษรตัวเล็กละติน
+025A: อักษรตัวเล็กละติน Schwa กับตะขอ
+025B: ตัวอักษรละตินตัวเล็กเปิด E : พยัญชนะตัวที่ 5 ของกรีก
+025C: ตัวอักษรละตินตัวเล็กกลับด้านเปิด E
+025D: อักษรตัวเล็กละตินกลับ E เปิดด้วยตะขอ
+025E: ตัวอักษรละตินตัวเล็กปิดกลับรายการเปิด : เอปไซลอนกลับด้านปิด
+025F: ตัวอักษรละตินตัวเล็ก Dotless J พร้อม Stroke
+0260: ตัวอักษรละตินตัวเล็ก G พร้อมตะขอ
+0261: อักษรตัวเล็กละติน
+0262: ตัวอักษรละตินตัวพิมพ์เล็ก
+0263: แกมมาอักษรละตินขนาดเล็ก
+0264: อักษรตัวเล็กละติน Rams Horn : แกมมาอักษรตัวเล็กละติน
+0265: อักษรตัวเล็กละตินหัน H
+0266: ตัวอักษรละตินตัวเล็ก H พร้อมตะขอ
+0267: อักษรตัวเล็กเฮงพร้อมตะขอ
+0268: อักษรตัวเล็กละตินฉันกับโรคหลอดเลือดสมอง : ห้ามฉันฉันบาร์
+0269: ตัวอักษรละตินตัวเล็ก Iota
+026A: อักษรละตินตัวพิมพ์เล็ก 1
+026B: อักษรตัวเล็กละติน L ที่มีตัวหนอนกลาง
+026C: ตัวอักษรละตินตัวเล็ก L พร้อมเข็มขัด
+026D: ตัวอักษรละตินตัวเล็ก L พร้อมตะขอ Retroflex
+026E: อักษรตัวเล็กละติน Lezh
+026F: อักษรตัวเล็กละตินหัน M
+0270: อักษรตัวเล็กละตินหัน M ด้วยขายาว
+0271: ตัวอักษรละตินตัวเล็ก M พร้อมตะขอ
+0272: อักษรละตินตัวเล็ก N พร้อมตะขอซ้าย
+0273: อักษรตัวเล็กละติน N พร้อม Retroflex Hook
+0274: ตัวอักษรละตินตัวพิมพ์เล็ก
+0275: ตัวอักษรละตินขนาดเล็กห้ามใช้ O : o บาร์
+0276: ตัวอักษรละตินตัวพิมพ์เล็ก Oe
+0277: ตัวอักษรละตินตัวเล็กปิดโอเมก้า
+0278: อักษรตัวเล็กละตินพี
+0279: อักษรตัวเล็กละตินหัน
+027A: อักษรตัวเล็กละตินหัน R กับขายาว
+027B: อักษรตัวเล็กละตินหัน R พร้อมตะขอ
+027C: อักษรตัวเล็กละติน R ขายาว
+027D: อักษรตัวเล็กละติน R มีหาง
+027E: ตัวอักษรละตินตัวพิมพ์เล็ก R ที่มี Fishhook
+027F: ตัวอักษรละตินตัวเล็กกลับด้านพร้อมกับเบ็ดตกปลา : ขายาวหันเล็กน้อย (เรียกชื่อผิด)
+0280: อักษรละตินตัวพิมพ์เล็กเมืองหลวง R
+0281: อักษรละตินตัวพิมพ์เล็กที่กลับหัว R
+0282: ตัวอักษรละตินตัวเล็ก S พร้อมตะขอ
+0283: ตัวอักษรละตินตัวเล็ก Esh
+0284: ตัวอักษรละตินตัวพิมพ์เล็ก Dotless J พร้อม Stroke และ Hook
+0285: ตัวอักษรละตินตัวเล็ก Squat Reversed Esh
+0286: อักษรตัวเล็กภาษาละติน Esh กับ Curl
+0287: อักษรตัวเล็กละตินหัน
+0288: ตัวอักษรละตินตัวเล็ก T พร้อม Retroflex Hook
+0289: อักษรละตินตัวพิมพ์เล็ก U Bar
+028A: อักษรตัวเล็กละติน
+028B: ตัวอักษรละตินตัวเล็ก V พร้อมตะขอ : ตัวอักษรละตินตัวเล็ก v
+028C: อักษรตัวเล็กละตินหัน V : caret, wedge
+028D: อักษรตัวเล็กละตินหัน
+028E: อักษรตัวเล็กละตินหัน Y
+028F: อักษรละตินตัวพิมพ์เล็ก Y
+0290: ตัวอักษรละตินตัวเล็ก Z พร้อมตะขอ Retroflex
+0291: อักษรตัวเล็กละติน Z ที่มี Curl
+0292: อักษรตัวเล็กละติน Ezh : น้ำหนักหนึ่งแดรม
+0293: อักษรตัวเล็กละติน Ezh กับ Curl
+0294: ตัวอักษรละตินสายเสียงหยุด
+0295: ตัวอักษรละตินคอหอยเปล่งเสียงเสียดแทรก : กลับสายเสียงหยุด
+0296: ตัวอักษรละติน Inverted Glottal Stop
+0297: ตัวอักษรละติน
+0298: Bilabial ตัวอักษรละตินคลิก : เป้า
+0299: อักษรละตินตัวพิมพ์เล็ก
+029A: ตัวอักษรละตินตัวเล็กปิดเปิด E : เอปไซลอนปิด
+029B: ตัวอักษรละตินตัวพิมพ์เล็ก G พร้อมตะขอ
+029C: ตัวอักษรละตินตัวพิมพ์เล็ก
+029D: ตัวอักษรละตินตัวเล็ก J พร้อมไขว้ - หาง
+029E: อักษรตัวเล็กละตินหัน K
+029F: อักษรละตินตัวพิมพ์เล็ก
+02A0: ตัวอักษรละตินตัวเล็ก Q พร้อมตะขอ
+02A1: ตัวอักษรละตินสายเสียงหยุดด้วยโรคหลอดเลือดสมอง
+02A2: ตัวอักษรละตินย้อนกลับ Glottal Stop พร้อม Stroke
+02A3: อักษรตัวเล็กละติน Dz Digraph
+02A4: อักษรตัวเล็กละติน Dezh Digraph
+02A5: อักษรตัวเล็กละติน Dz Digraph กับ Curl
+02A6: อักษรตัวเล็กละติน Ts Digraph
+02A7: อักษรตัวเล็กละติน Tesh Digraph
+02A8: อักษรตัวเล็กละติน Tc Digraph พร้อม Curl
+02A9: อักษรตัวเล็กละติน Feng Digraph
+02AA: อักษรตัวเล็กละติน Ls Digraph
+02AB: อักษรตัวเล็กละติน Lz Digraph
+02AC: ตัวอักษรละตินกระทบ Bilabial
+02AD: ละตินจดหมาย Bidental กระทบ
+02AE: อักษรตัวเล็กละตินหัน H กับเบ็ดตกปลา
+02AF: อักษรตัวเล็กละตินหัน H กับเบ็ดตกปลาและหาง
+02B0: ปรับปรุงตัวอักษรขนาดเล็กเอช
+02B1: ตัวดัดแปลงตัวอักษรเล็ก H พร้อมตะขอ
+02B2: ปรับปรุงตัวอักษรเล็ก J
+02B3: ตัวดัดแปลงจดหมายขนาดเล็ก R
+02B4: ตัวปรับขนาดเล็ก Turned R
+02B5: ตัวปรับขนาดเล็ก Turned R พร้อมตะขอ
+02B6: ตัวแก้ไขตัวพิมพ์ใหญ่ตัวเล็ก Inverted R
+02B7: ปรับปรุงตัวอักษรขนาดเล็ก W
+02B8: ตัวดัดแปลงจดหมายขนาดเล็ก Y
+02B9: ตัวปรับเปลี่ยนจดหมาย Prime
+02BA: ตัวปรับเปลี่ยนจดหมาย Double Prime
+02BB: เครื่องหมายตัวปรับเปลี่ยนเป็นจุลภาค
+02BC: ตัวดัดแปลง Apostrophe : จุดลูกน้ำ
+02BD: จุลภาคกลับตัวปรับเปลี่ยนจดหมาย
+02BE: แหวนครึ่งตัวปรับเปลี่ยนตัวอักษร
+02BF: แหวนโมดิฟายเออร์ตัวอักษรครึ่งซ้าย
+02C0: Modifier Letter Glottal Stop
+02C1: จดหมายปรับปรุงแก้ไขย้อนกลับสายเสียงหยุด
+02C2: ตัวดัดแปลงจดหมายลูกศรซ้าย
+02C3: หัวลูกศรปรับเปลี่ยนจดหมายขวา
+02C4: จดหมายปรับปรุงหัวลูกศรขึ้น
+02C5: หัวจดหมายปรับเปลี่ยนหัวลูกศรลง
+02C6: ตัวปรับเปลี่ยนตัวอักษร Circumflex Accent
+02C7: รอน : hacek
+02C8: ตัวแก้ไขเส้นแนวตั้งจดหมาย
+02C9: ตัวดัดแปลงจดหมาย Macron
+02CA: สำเนียงเฉียบพลันจดหมายปรับปรุง
+02CB: สำเนียง Grave ตัวดัดแปลง
+02CC: ปรับปรุงตัวอักษรบรรทัดแนวตั้งต่ำ
+02CD: ปรับปรุงตัวอักษรต่ำ Macron
+02CE: สำเนียงปรับปรุงต่ำจดหมาย
+02CF: สำเนียงต่ำแก้ไขเฉียบพลันจดหมาย
+02D0: จดหมายปรับเปลี่ยนลำไส้ใหญ่สามเหลี่ยม
+02D1: ตัวดัดแปลงจดหมายทวิภาคลำไส้ใหญ่สามเหลี่ยม
+02D2: จดหมายครึ่งทางด้านขวาของตัวดัดแปลง
+02D3: จดหมายครึ่งตัวดัดแปลงที่กึ่งกลางวงแหวน
+02D4: จดหมายปรับปรุงแก้ไข
+02D5: ดัดแปลงจดหมายลงตะปู
+02D6: ตัวปรับเปลี่ยน Letter Plus Sign
+02D7: ตัวแก้ไขเครื่องหมายลบ
+02D8: Breve
+02D9: จุดด้านบน
+02DA: วงแหวนด้านบน
+02DB: ออกอแนก
+02DC: ตัวหนอนขนาดเล็ก
+02DD: สำเนียงเฉียบพลันสองเท่า
+02DE: Modifier Letter Rhotic Hook
+02DF: ตัวปรับแต่งการเน้นอักษรไขว้
+02E0: แกมมาตัวดัดแปลงขนาดเล็ก
+02E1: ปรับปรุงตัวอักษรขนาดเล็ก L
+02E2: ตัวปรับขนาดเล็กตัวอักษร S
+02E3: ปรับปรุงตัวอักษรเล็ก X
+02E4: ตัวแก้ไขตัวเล็กหยุดสายเสียงกลับ
+02E5: ตัวปรับเปลี่ยนจดหมายโทนเสียงสูงเป็นพิเศษ
+02E6: บาร์ดัดแปลงเสียงสูงจดหมาย
+02E7: ตัวปรับเปลี่ยนแถบตัวอักษรโทนกลาง
+02E8: แถบปรับค่าจดหมายโทนต่ำ
+02E9: Modifier Letter Extra-Low Tone Bar
+02EA: ตัวดัดแปลงสัญลักษณ์หยินออกจากโทนเสียง
+02EB: ตัวปรับเปลี่ยนตัวอักษร Yang ออกจากโทนเสียง
+02EC: จดหมายเสียงโมดิฟายเออร์
+02ED: แก้ไขจดหมาย Unaspirated
+02EE: จดหมายดัดแปลง Apostrophe คู่
+02EF: หัวลูกศรปรับค่าจดหมายต่ำ
+02F0: หัวจดหมายปรับปรุงต่ำหัวลูกศรขึ้น
+02F1: หัวลูกศรปรับเปลี่ยนจดหมายต่ำซ้าย
+02F2: ตัวปรับหัวจดหมายลูกศรขวาต่ำ
+02F3: แหวนโมเดอเรเตอร์ต่ำ
+02F4: ตัวดัดแปลงสำเนียง Middle Grave
+02F5: สำเนียงปรับปรุงตัวอักษรกลาง Double Grave
+02F6: ตัวปรับแต่งสำเนียงกลาง Double Acute จดหมาย
+02F7: Modifier Letter Low Tilde
+02F8: จดหมายปรับปรุงตัวอักษรยกลำไส้ใหญ่
+02F9: จดหมายปรับเปลี่ยนเริ่มเสียงสูง
+02FA: ตัวดัดแปลงจดหมายจบเสียงสูง
+02FB: จดหมายปรับเปลี่ยนเริ่มต้นเสียงต่ำ
+02FC: ตัวปรับเปลี่ยนเสียงต่ำสิ้นสุด
+02FD: ชั้นวางหนังสือปรับเปลี่ยน
+02FE: ตัวดัดแปลงจดหมายเปิดชั้นวาง
+02FF: ลูกศรตัวปรับเปลี่ยนต่ำลูกศรซ้าย

@@ -6,7 +6,7 @@ example-text: falce e martello;freccia;cuore;stella;triangolo;controllare;cerchi
 h1: Ricerca
 result: Risultato
 empty: Cerca frase è vuota
-total: Totale: %s
+total: Risultati di ricerca: %s
 limit: (mostra solo %s)
 none: Nessuna
 any: Ricerca per ogni parola
@@ -15,3 +15,10 @@ unicode-block: Blocco Unicode
 count-symbols: %s simboli
 sets: Impostato
 alphabet: Alfabeto
+
+[empty]
+no_results: Nessun risultato trovato per "{query}" in italiano.
+language: Prova a cambiare {lingua}.
+blocks: Esplora i {blocchi Unicode}.
+sets: Cercalo in {Imposta}.
+table: Guarda attraverso la {tabella dei caratteri} completa.

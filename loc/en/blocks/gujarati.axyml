@@ -1,0 +1,5 @@
+﻿Gujarati is a Unicode block containing characters for writing the Gujarati language. In its original incarnation, the code points U+0A81..U+0AD0 were a direct copy of the Gujarati characters A1-F0 from the 1988 ISCII standard. The [BLOCK:devanagari], [BLOCK:bengali], [BLOCK:gurmukhi], [BLOCK:oriya], [BLOCK:tamil], [BLOCK:telugu], [BLOCK:kannada], and [BLOCK:malayalam] blocks were similarly all based on their ISCII encodings.
+
+The Gujarati script, which like all Nāgarī writing systems is strictly speaking an abugida rather than an alphabet, is used to write the Gujarati and Kutchi languages. It is a variant of [BLOCK:devanagari Devanāgarī script] differentiated by the loss of the characteristic horizontal line running above the letters and by a small number of modifications in the remaining characters.
+With a few additional characters, added for this purpose, the Gujarati script is also often used to write Sanskrit and Hindi.
+Gujarati numerical digits are also different from their [BLOCK:devanagari Devanagari] counterparts.

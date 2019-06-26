@@ -1,0 +1,256 @@
+1DA00: 헤드 라인 엣지 필기구
+1DA01: 필기 헤드 운동 - 월 플레이트 Straight
+1DA02: 필기 헤드 운동 - 월 플레이트 경사
+1DA03: 헤드 라인 무브먼트 - Floorplane Straight
+1DA04: 서명 헤드 운동 - 월 평면 곡선
+1DA05: 헤드 라이팅 - 플로어 플레인 곡선
+1DA06: 간판 헤드 운동 서클
+1DA07: 필기구면 방향 위치 전방 기울임
+1DA08: Signwriting 얼굴 방향 위치 위로 또는 아래로
+1DA09: Signwriting 얼굴 방향 위치 코 올리기 또는 내리기 기울이기
+1DA0A: 필기 용 눈썹 스트레이트 업
+1DA0B: 필기구 눈썹 스트레이트 뉴트럴
+1DA0C: 필기구 눈썹 똑바로
+1DA0D: Dreamy Eyebrows 중립 다운 시그널 라이팅
+1DA0E: 꿈꾸는듯한 눈썹 필기구
+1DA0F: 꿈꾸는듯한 눈썹 필기 중립
+1DA10: 사인 꿈꾸는 눈썹 중립
+1DA11: 서명이 마 중립
+1DA12: 서명이 마술 연락처
+1DA13: 필기 이마가 주름진
+1DA14: Signwriting Eyes Open
+1DA15: 사인 눈 짜기
+1DA16: 서명 된 눈 폐쇄
+1DA17: 사인 눈 깜박임 Single
+1DA18: Signwriting 눈 깜박임 여러
+1DA19: Signwriting Eyes Half Open
+1DA1A: Signwriting Eyes 와이드 오픈
+1DA1B: 간판 작성자 반 폐쇄
+1DA1C: 사인 눈 확대 운동
+1DA1D: 서명 윙크
+1DA1E: 서명 속눈썹 업
+1DA1F: 속눈썹 아래 속눈썹
+1DA20: 속눈썹이 새는 속눈썹
+1DA21: 아이그레이즈 - 월 플레인 직판 간판
+1DA22: 더블 아이 라이드 - 월 플레인 스트레이트 더블
+1DA23: 간판 교판 Eyegaze-Wallplane
+1DA24: Eyegaze-Floorplane 직판 간판
+1DA25: 사인 아이 다이어 - 플로어 플레인 스트레이트 더블
+1DA26: Signatureing Eyegaze-Floorplane 직선 교대
+1DA27: 글씨가 새겨진 아이가 제이드 월 플레인
+1DA28: 아이그 제이 - 플로어 플레인 서명
+1DA29: 서명 글자 - 판벽 널 원판
+1DA2A: 서명 된 볼록한 뺨
+1DA2B: Signewing Cheeks Neutral
+1DA2C: 서명 된 볼은 빨려 들었습니다.
+1DA2D: Signwriting 시제 뺨 높음
+1DA2E: 서명 형 시제 뺨 중간
+1DA2F: 서명 형 시제 뺨
+1DA30: 서명 글자
+1DA31: 간판 작성 중립
+1DA32: 서명 코 연락처
+1DA33: 사인 코 주름
+1DA34: 시그널 라이징 코 흔들기
+1DA35: 사인 공기가 날아간다.
+1DA36: 서명 공기 흡입에
+1DA37: 작은 타원을 그린 서명 블로워
+1DA38: 작은 회전을 서명하는 공기 흡입
+1DA39: 서명 흡입 숨 흡입
+1DA3A: 서명 숨을 내쉬다
+1DA3B: 시그널 라이팅 구 클로즈 뉴트럴
+1DA3C: 서명 닫음 전달
+1DA3D: 사인 입 폐쇄 된 연락처
+1DA3E: 사인 미소
+1DA3F: 서명 주름살 주름살
+1DA40: 사인 입 스마일 열기
+1DA41: 서명 필 입 싫은 냄새
+1DA42: 서명 필 입 주름살
+1DA43: Signwriting 입 찡그린 열기
+1DA44: 서 명 입원 열기 서클
+1DA45: 사인 입 열기
+1DA46: 간판 입을 주름이 잡히다
+1DA47: 사인 입 타원형 타원형
+1DA48: 사인 입 타원형 주름살
+1DA49: 사인 입 타원형 하품
+1DA4A: 사인 입 열기 사각형
+1DA4B: 주름진 개구부 직사각형
+1DA4C: 사인 개구 직사각형 하품
+1DA4D: 사인 키스
+1DA4E: 사인 입 키스 전달
+1DA4F: 사인 입가 키스 주름
+1DA50: 서명 시제 시제
+1DA51: 서명 시제 전방 시제
+1DA52: 서명 된 입 시제가 빨려 들었어.
+1DA53: 함께 쓰여진 사인 입술
+1DA54: 서명 립 위턱 아래쪽
+1DA55: 시그너 라이팅 립 어퍼 위 하단
+1DA56: 서명 코너 구석
+1DA57: 시그널 라이팅 구강 주름
+1DA58: 사인 주름살 더블
+1DA59: 서명하는 혀가 멀리 튀어 나와있다.
+1DA5A: 서명 혀 핥는 입술
+1DA5B: 시그널 라이팅 혀 팁 사이의 입술
+1DA5C: Signwriting Tongue Tip 입안을 만지는 것
+1DA5D: 구강 안의 서명 혀 완화
+1DA5E: 서명 혀가 뺨에서 움직입니다.
+1DA5F: 서명하는 혀 센터 튀어 나와
+1DA60: 입 안의 서명 센터
+1DA61: 서명 이빨
+1DA62: 서명 이빨 운동
+1DA63: 혀에 서명하는 이빨
+1DA64: 혀 운동에 서명하는 이빨
+1DA65: 입술에 서명하는 치아
+1DA66: 입술 움직임에 서명하는 치아
+1DA67: 서명하는 치아 입술
+1DA68: 서명 운동 - Wallplane Jaw
+1DA69: 서명 운동 - Floorplane Jaw
+1DA6A: Signwriting Neck
+1DA6B: 서명 헤어
+1DA6C: 간판 흥분
+1DA6D: 서명 숄더 엉덩이 스파인
+1DA6E: 서명 숄더 엉덩이 자세
+1DA6F: 시그널 라이져 Wallplane Shoulder Hip Move
+1DA70: Signoring Floorplane Shoulder Hip Move
+1DA71: 허리에서 서명하는 어깨 틸팅
+1DA72: 필기구 Torso-Wallplane 스트레이트 스트레치
+1DA73: 필기구 Torso-Wallplane Curved Bend
+1DA74: 토큰 플로어 플라이 서명 트위스트 라이팅
+1DA75: 엉덩이 관절에서 위로 솟은 상반신 서명
+1DA76: 사인 사지의 조합
+1DA77: 서명 필기 길이 - 1
+1DA78: 서명 필기 길이 -2
+1DA79: 서명 필기 길이 -3
+1DA7A: 서명 필기 길이 - 4
+1DA7B: 서명 글 남기기 길이 -5
+1DA7C: 서명 필기 길이 - 6
+1DA7D: 서명 필기 길이 - 7
+1DA7E: 서명 필기구
+1DA7F: 서명 위치 - 월평균 공간
+1DA80: 서명 위치 - 평면 평면 공간
+1DA81: 서명 위치 높이
+1DA82: 서명 위치 너비
+1DA83: 서명 위치 깊이
+1DA84: 서명 위치 헤드 넥
+1DA85: 필기체 위치 몸통
+1DA86: 서명 위치 Limbs Digits
+1DA87: 서명 쉼표
+1DA88: 완전 서명의 서명
+1DA89: 세미콜론 서명
+1DA8A: 서명 콜론
+1DA8B: 서명 괄호
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: 서명 필 수정 자 -2
+1DA9C: 서명 필 수정 자 -3
+1DA9D: 서명 필 수정 자 -4
+1DA9E: 서명 필 수정 자 -5
+1DA9F: 필기 입력란 수정 자 -6
+1DAA0:
+1DAA1: Signwriting 회전 수정 자 -2
+1DAA2: Signwriting 회전 수정 자 -3
+1DAA3: Signwriting 회전 수정 자 -4
+1DAA4: Signwriting 회전 수정 자 -5
+1DAA5: Signwriting 회전 수정 자 -6
+1DAA6: Signwriting 회전 수정 자 -7
+1DAA7: Signwriting 회전 수정 자 -8
+1DAA8: Signwriting 회전 수정 자 -9
+1DAA9: Signwriting 회전 수정 자 - 10
+1DAAA: Signwriting 회전 수정 자 -11
+1DAAB: Signwriting 회전 수정 자 -12
+1DAAC: Signwriting 회전 수정 자 -13
+1DAAD: Signwriting 회전 수정 자 -14
+1DAAE: Signwriting 회전 수정 자 -15
+1DAAF: Signwriting 회전 수정 자 -16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:

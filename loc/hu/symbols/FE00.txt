@@ -22,7 +22,7 @@ FE14: Presentation Form for Vertical Semicolon
 FE15: Presentation Form for Vertical Exclamation Mark
 FE16: Presentation Form for Vertical Question Mark
 FE17: Presentation Form for Vertical Left White Lenticular Bracket
-FE18: Presentation Form for Vertical Right White Lenticular Brakcet
+FE18: Presentation Form for Vertical Right White Lenticular Bracket
 FE19: Presentation Form for Vertical Horizontal Ellipsis
 FE1A:
 FE1B:
@@ -126,123 +126,123 @@ FE7C: Arabic Shadda Isolated Form
 FE7D: Arabic Shadda Medial Form
 FE7E: Arabic Sukun Isolated Form
 FE7F: Arabic Sukun Medial Form
-FE80: Arabic Letter Hamza Isolated Form
-FE81: Arabic Letter Alef with Madda Above Isolated Form
-FE82: Arabic Letter Alef with Madda Above Final Form
-FE83: Arabic Letter Alef with Hamza Above Isolated Form
-FE84: Arabic Letter Alef with Hamza Above Final Form
-FE85: Arabic Letter Waw with Hamza Above Isolated Form
-FE86: Arabic Letter Waw with Hamza Above Final Form
-FE87: Arabic Letter Alef with Hamza Below Isolated Form
-FE88: Arabic Letter Alef with Hamza Below Final Form
-FE89: Arabic Letter Yeh with Hamza Above Isolated Form
-FE8A: Arabic Letter Yeh with Hamza Above Final Form
-FE8B: Arabic Letter Yeh with Hamza Above Initial Form
-FE8C: Arabic Letter Yeh with Hamza Above Medial Form
-FE8D: Arabic Letter Alef Isolated Form
-FE8E: Arabic Letter Alef Final Form
-FE8F: Arabic Letter Beh Isolated Form
-FE90: Arabic Letter Beh Final Form
-FE91: Arabic Letter Beh Initial Form
-FE92: Arabic Letter Beh Medial Form
-FE93: Arabic Letter Teh Marbuta Isolated Form
-FE94: Arabic Letter Teh Marbuta Final Form
-FE95: Arabic Letter Teh Isolated Form
-FE96: Arabic Letter Teh Final Form
-FE97: Arabic Letter Teh Initial Form
-FE98: Arabic Letter Teh Medial Form
-FE99: Arabic Letter Theh Isolated Form
-FE9A: Arabic Letter Theh Final Form
-FE9B: Arabic Letter Theh Initial Form
-FE9C: Arabic Letter Theh Medial Form
-FE9D: Arabic Letter Jeem Isolated Form
-FE9E: Arabic Letter Jeem Final Form
-FE9F: Arabic Letter Jeem Initial Form
-FEA0: Arabic Letter Jeem Medial Form
-FEA1: Arabic Letter Hah Isolated Form
-FEA2: Arabic Letter Hah Final Form
-FEA3: Arabic Letter Hah Initial Form
-FEA4: Arabic Letter Hah Medial Form
-FEA5: Arabic Letter Khah Isolated Form
-FEA6: Arabic Letter Khah Final Form
-FEA7: Arabic Letter Khah Initial Form
-FEA8: Arabic Letter Khah Medial Form
-FEA9: Arabic Letter Dal Isolated Form
-FEAA: Arabic Letter Dal Final Form
-FEAB: Arabic Letter Thal Isolated Form
-FEAC: Arabic Letter Thal Final Form
-FEAD: Arabic Letter Reh Isolated Form
-FEAE: Arabic Letter Reh Final Form
-FEAF: Arabic Letter Zain Isolated Form
-FEB0: Arabic Letter Zain Final Form
-FEB1: Arabic Letter Seen Isolated Form
-FEB2: Arabic Letter Seen Final Form
-FEB3: Arabic Letter Seen Initial Form
-FEB4: Arabic Letter Seen Medial Form
-FEB5: Arabic Letter Sheen Isolated Form
-FEB6: Arabic Letter Sheen Final Form
-FEB7: Arabic Letter Sheen Initial Form
-FEB8: Arabic Letter Sheen Medial Form
-FEB9: Arabic Letter Sad Isolated Form
-FEBA: Arabic Letter Sad Final Form
-FEBB: Arabic Letter Sad Initial Form
-FEBC: Arabic Letter Sad Medial Form
-FEBD: Arabic Letter Dad Isolated Form
-FEBE: Arabic Letter Dad Final Form
-FEBF: Arabic Letter Dad Initial Form
-FEC0: Arabic Letter Dad Medial Form
-FEC1: Arabic Letter Tah Isolated Form
-FEC2: Arabic Letter Tah Final Form
-FEC3: Arabic Letter Tah Initial Form
-FEC4: Arabic Letter Tah Medial Form
-FEC5: Arabic Letter Zah Isolated Form
-FEC6: Arabic Letter Zah Final Form
-FEC7: Arabic Letter Zah Initial Form
-FEC8: Arabic Letter Zah Medial Form
-FEC9: Arabic Letter Ain Isolated Form
-FECA: Arabic Letter Ain Final Form
-FECB: Arabic Letter Ain Initial Form
-FECC: Arabic Letter Ain Medial Form
-FECD: Arabic Letter Ghain Isolated Form
-FECE: Arabic Letter Ghain Final Form
-FECF: Arabic Letter Ghain Initial Form
-FED0: Arabic Letter Ghain Medial Form
-FED1: Arabic Letter Feh Isolated Form
-FED2: Arabic Letter Feh Final Form
-FED3: Arabic Letter Feh Initial Form
-FED4: Arabic Letter Feh Medial Form
-FED5: Arabic Letter Qaf Isolated Form
-FED6: Arabic Letter Qaf Final Form
-FED7: Arabic Letter Qaf Initial Form
-FED8: Arabic Letter Qaf Medial Form
-FED9: Arabic Letter Kaf Isolated Form
-FEDA: Arabic Letter Kaf Final Form
-FEDB: Arabic Letter Kaf Initial Form
-FEDC: Arabic Letter Kaf Medial Form
-FEDD: Arabic Letter Lam Isolated Form
-FEDE: Arabic Letter Lam Final Form
-FEDF: Arabic Letter Lam Initial Form
-FEE0: Arabic Letter Lam Medial Form
-FEE1: Arabic Letter Meem Isolated Form
-FEE2: Arabic Letter Meem Final Form
-FEE3: Arabic Letter Meem Initial Form
-FEE4: Arabic Letter Meem Medial Form
-FEE5: Arabic Letter Noon Isolated Form
-FEE6: Arabic Letter Noon Final Form
-FEE7: Arabic Letter Noon Initial Form
-FEE8: Arabic Letter Noon Medial Form
-FEE9: Arabic Letter Heh Isolated Form
-FEEA: Arabic Letter Heh Final Form
-FEEB: Arabic Letter Heh Initial Form
-FEEC: Arabic Letter Heh Medial Form
-FEED: Arabic Letter Waw Isolated Form
-FEEE: Arabic Letter Waw Final Form
-FEEF: Arabic Letter Alef Maksura Isolated Form
-FEF0: Arabic Letter Alef Maksura Final Form
-FEF1: Arabic Letter Yeh Isolated Form
-FEF2: Arabic Letter Yeh Final Form
-FEF3: Arabic Letter Yeh Initial Form
-FEF4: Arabic Letter Yeh Medial Form
+FE80: Arabic betű Hamza Isolated Form
+FE81: Arabic betű Alef with Madda Above Isolated Form
+FE82: Arabic betű Alef with Madda Above Final Form
+FE83: Arabic betű Alef with Hamza Above Isolated Form
+FE84: Arabic betű Alef with Hamza Above Final Form
+FE85: Arabic betű Waw with Hamza Above Isolated Form
+FE86: Arabic betű Waw with Hamza Above Final Form
+FE87: Arabic betű Alef with Hamza Below Isolated Form
+FE88: Arabic betű Alef with Hamza Below Final Form
+FE89: Arabic betű Yeh with Hamza Above Isolated Form
+FE8A: Arabic betű Yeh with Hamza Above Final Form
+FE8B: Arabic betű Yeh with Hamza Above Initial Form
+FE8C: Arabic betű Yeh with Hamza Above Medial Form
+FE8D: Arabic betű Alef Isolated Form
+FE8E: Arabic betű Alef Final Form
+FE8F: Arabic betű Beh Isolated Form
+FE90: Arabic betű Beh Final Form
+FE91: Arabic betű Beh Initial Form
+FE92: Arabic betű Beh Medial Form
+FE93: Arabic betű Teh Marbuta Isolated Form
+FE94: Arabic betű Teh Marbuta Final Form
+FE95: Arabic betű Teh Isolated Form
+FE96: Arabic betű Teh Final Form
+FE97: Arabic betű Teh Initial Form
+FE98: Arabic betű Teh Medial Form
+FE99: Arabic betű Theh Isolated Form
+FE9A: Arabic betű Theh Final Form
+FE9B: Arabic betű Theh Initial Form
+FE9C: Arabic betű Theh Medial Form
+FE9D: Arabic betű Jeem Isolated Form
+FE9E: Arabic betű Jeem Final Form
+FE9F: Arabic betű Jeem Initial Form
+FEA0: Arabic betű Jeem Medial Form
+FEA1: Arabic betű Hah Isolated Form
+FEA2: Arabic betű Hah Final Form
+FEA3: Arabic betű Hah Initial Form
+FEA4: Arabic betű Hah Medial Form
+FEA5: Arabic betű Khah Isolated Form
+FEA6: Arabic betű Khah Final Form
+FEA7: Arabic betű Khah Initial Form
+FEA8: Arabic betű Khah Medial Form
+FEA9: Arabic betű Dal Isolated Form
+FEAA: Arabic betű Dal Final Form
+FEAB: Arabic betű Thal Isolated Form
+FEAC: Arabic betű Thal Final Form
+FEAD: Arabic betű Reh Isolated Form
+FEAE: Arabic betű Reh Final Form
+FEAF: Arabic betű Zain Isolated Form
+FEB0: Arabic betű Zain Final Form
+FEB1: Arabic betű Seen Isolated Form
+FEB2: Arabic betű Seen Final Form
+FEB3: Arabic betű Seen Initial Form
+FEB4: Arabic betű Seen Medial Form
+FEB5: Arabic betű Sheen Isolated Form
+FEB6: Arabic betű Sheen Final Form
+FEB7: Arabic betű Sheen Initial Form
+FEB8: Arabic betű Sheen Medial Form
+FEB9: Arabic betű Sad Isolated Form
+FEBA: Arabic betű Sad Final Form
+FEBB: Arabic betű Sad Initial Form
+FEBC: Arabic betű Sad Medial Form
+FEBD: Arabic betű Dad Isolated Form
+FEBE: Arabic betű Dad Final Form
+FEBF: Arabic betű Dad Initial Form
+FEC0: Arabic betű Dad Medial Form
+FEC1: Arabic betű Tah Isolated Form
+FEC2: Arabic betű Tah Final Form
+FEC3: Arabic betű Tah Initial Form
+FEC4: Arabic betű Tah Medial Form
+FEC5: Arabic betű Zah Isolated Form
+FEC6: Arabic betű Zah Final Form
+FEC7: Arabic betű Zah Initial Form
+FEC8: Arabic betű Zah Medial Form
+FEC9: Arabic betű Ain Isolated Form
+FECA: Arabic betű Ain Final Form
+FECB: Arabic betű Ain Initial Form
+FECC: Arabic betű Ain Medial Form
+FECD: Arabic betű Ghain Isolated Form
+FECE: Arabic betű Ghain Final Form
+FECF: Arabic betű Ghain Initial Form
+FED0: Arabic betű Ghain Medial Form
+FED1: Arabic betű Feh Isolated Form
+FED2: Arabic betű Feh Final Form
+FED3: Arabic betű Feh Initial Form
+FED4: Arabic betű Feh Medial Form
+FED5: Arabic betű Qaf Isolated Form
+FED6: Arabic betű Qaf Final Form
+FED7: Arabic betű Qaf Initial Form
+FED8: Arabic betű Qaf Medial Form
+FED9: Arabic betű Kaf Isolated Form
+FEDA: Arabic betű Kaf Final Form
+FEDB: Arabic betű Kaf Initial Form
+FEDC: Arabic betű Kaf Medial Form
+FEDD: Arabic betű Lam Isolated Form
+FEDE: Arabic betű Lam Final Form
+FEDF: Arabic betű Lam Initial Form
+FEE0: Arabic betű Lam Medial Form
+FEE1: Arabic betű Meem Isolated Form
+FEE2: Arabic betű Meem Final Form
+FEE3: Arabic betű Meem Initial Form
+FEE4: Arabic betű Meem Medial Form
+FEE5: Arabic betű Noon Isolated Form
+FEE6: Arabic betű Noon Final Form
+FEE7: Arabic betű Noon Initial Form
+FEE8: Arabic betű Noon Medial Form
+FEE9: Arabic betű Heh Isolated Form
+FEEA: Arabic betű Heh Final Form
+FEEB: Arabic betű Heh Initial Form
+FEEC: Arabic betű Heh Medial Form
+FEED: Arabic betű Waw Isolated Form
+FEEE: Arabic betű Waw Final Form
+FEEF: Arabic betű Alef Maksura Isolated Form
+FEF0: Arabic betű Alef Maksura Final Form
+FEF1: Arabic betű Yeh Isolated Form
+FEF2: Arabic betű Yeh Final Form
+FEF3: Arabic betű Yeh Initial Form
+FEF4: Arabic betű Yeh Medial Form
 FEF5: Arabic Ligature Lam with Alef with Madda Above Isolated Form
 FEF6: Arabic Ligature Lam with Alef with Madda Above Final Form
 FEF7: Arabic Ligature Lam with Alef with Hamza Above Isolated Form

@@ -1,256 +1,256 @@
-BE00 : Hangul syllable byum
-BE01 : Hangul syllable byub
-BE02 : Hangul syllable byubs
-BE03 : Hangul syllable byus
-BE04 : Hangul syllable byuss
-BE05 : Hangul syllable byung
-BE06 : Hangul syllable byuj
-BE07 : Hangul syllable byuc
-BE08 : Hangul syllable byuk
-BE09 : Hangul syllable byut
-BE0A : Hangul syllable byup
-BE0B : Hangul syllable byuh
-BE0C : Hangul syllable beu
-BE0D : Hangul syllable beug
-BE0E : Hangul syllable beugg
-BE0F : Hangul syllable beugs
-BE10 : Hangul syllable beun
-BE11 : Hangul syllable beunj
-BE12 : Hangul syllable beunh
-BE13 : Hangul syllable beud
-BE14 : Hangul syllable beul
-BE15 : Hangul syllable beulg
-BE16 : Hangul syllable beulm
-BE17 : Hangul syllable beulb
-BE18 : Hangul syllable beuls
-BE19 : Hangul syllable beult
-BE1A : Hangul syllable beulp
-BE1B : Hangul syllable beulh
-BE1C : Hangul syllable beum
-BE1D : Hangul syllable beub
-BE1E : Hangul syllable beubs
-BE1F : Hangul syllable beus
-BE20 : Hangul syllable beuss
-BE21 : Hangul syllable beung
-BE22 : Hangul syllable beuj
-BE23 : Hangul syllable beuc
-BE24 : Hangul syllable beuk
-BE25 : Hangul syllable beut
-BE26 : Hangul syllable beup
-BE27 : Hangul syllable beuh
-BE28 : Hangul syllable byi
-BE29 : Hangul syllable byig
-BE2A : Hangul syllable byigg
-BE2B : Hangul syllable byigs
-BE2C : Hangul syllable byin
-BE2D : Hangul syllable byinj
-BE2E : Hangul syllable byinh
-BE2F : Hangul syllable byid
-BE30 : Hangul syllable byil
-BE31 : Hangul syllable byilg
-BE32 : Hangul syllable byilm
-BE33 : Hangul syllable byilb
-BE34 : Hangul syllable byils
-BE35 : Hangul syllable byilt
-BE36 : Hangul syllable byilp
-BE37 : Hangul syllable byilh
-BE38 : Hangul syllable byim
-BE39 : Hangul syllable byib
-BE3A : Hangul syllable byibs
-BE3B : Hangul syllable byis
-BE3C : Hangul syllable byiss
-BE3D : Hangul syllable bying
-BE3E : Hangul syllable byij
-BE3F : Hangul syllable byic
-BE40 : Hangul syllable byik
-BE41 : Hangul syllable byit
-BE42 : Hangul syllable byip
-BE43 : Hangul syllable byih
-BE44 : Hangul syllable bi
-BE45 : Hangul syllable big
-BE46 : Hangul syllable bigg
-BE47 : Hangul syllable bigs
-BE48 : Hangul syllable bin
-BE49 : Hangul syllable binj
-BE4A : Hangul syllable binh
-BE4B : Hangul syllable bid
-BE4C : Hangul syllable bil
-BE4D : Hangul syllable bilg
-BE4E : Hangul syllable bilm
-BE4F : Hangul syllable bilb
-BE50 : Hangul syllable bils
-BE51 : Hangul syllable bilt
-BE52 : Hangul syllable bilp
-BE53 : Hangul syllable bilh
-BE54 : Hangul syllable bim
-BE55 : Hangul syllable bib
-BE56 : Hangul syllable bibs
-BE57 : Hangul syllable bis
-BE58 : Hangul syllable biss
-BE59 : Hangul syllable bing
-BE5A : Hangul syllable bij
-BE5B : Hangul syllable bic
-BE5C : Hangul syllable bik
-BE5D : Hangul syllable bit
-BE5E : Hangul syllable bip
-BE5F : Hangul syllable bih
-BE60 : Hangul syllable bba
-BE61 : Hangul syllable bbag
-BE62 : Hangul syllable bbagg
-BE63 : Hangul syllable bbags
-BE64 : Hangul syllable bban
-BE65 : Hangul syllable bbanj
-BE66 : Hangul syllable bbanh
-BE67 : Hangul syllable bbad
-BE68 : Hangul syllable bbal
-BE69 : Hangul syllable bbalg
-BE6A : Hangul syllable bbalm
-BE6B : Hangul syllable bbalb
-BE6C : Hangul syllable bbals
-BE6D : Hangul syllable bbalt
-BE6E : Hangul syllable bbalp
-BE6F : Hangul syllable bbalh
-BE70 : Hangul syllable bbam
-BE71 : Hangul syllable bbab
-BE72 : Hangul syllable bbabs
-BE73 : Hangul syllable bbas
-BE74 : Hangul syllable bbass
-BE75 : Hangul syllable bbang
-BE76 : Hangul syllable bbaj
-BE77 : Hangul syllable bbac
-BE78 : Hangul syllable bbak
-BE79 : Hangul syllable bbat
-BE7A : Hangul syllable bbap
-BE7B : Hangul syllable bbah
-BE7C : Hangul syllable bbae
-BE7D : Hangul syllable bbaeg
-BE7E : Hangul syllable bbaegg
-BE7F : Hangul syllable bbaegs
-BE80 : Hangul syllable bbaen
-BE81 : Hangul syllable bbaenj
-BE82 : Hangul syllable bbaenh
-BE83 : Hangul syllable bbaed
-BE84 : Hangul syllable bbael
-BE85 : Hangul syllable bbaelg
-BE86 : Hangul syllable bbaelm
-BE87 : Hangul syllable bbaelb
-BE88 : Hangul syllable bbaels
-BE89 : Hangul syllable bbaelt
-BE8A : Hangul syllable bbaelp
-BE8B : Hangul syllable bbaelh
-BE8C : Hangul syllable bbaem
-BE8D : Hangul syllable bbaeb
-BE8E : Hangul syllable bbaebs
-BE8F : Hangul syllable bbaes
-BE90 : Hangul syllable bbaess
-BE91 : Hangul syllable bbaeng
-BE92 : Hangul syllable bbaej
-BE93 : Hangul syllable bbaec
-BE94 : Hangul syllable bbaek
-BE95 : Hangul syllable bbaet
-BE96 : Hangul syllable bbaep
-BE97 : Hangul syllable bbaeh
-BE98 : Hangul syllable bbya
-BE99 : Hangul syllable bbyag
-BE9A : Hangul syllable bbyagg
-BE9B : Hangul syllable bbyags
-BE9C : Hangul syllable bbyan
-BE9D : Hangul syllable bbyanj
-BE9E : Hangul syllable bbyanh
-BE9F : Hangul syllable bbyad
-BEA0 : Hangul syllable bbyal
-BEA1 : Hangul syllable bbyalg
-BEA2 : Hangul syllable bbyalm
-BEA3 : Hangul syllable bbyalb
-BEA4 : Hangul syllable bbyals
-BEA5 : Hangul syllable bbyalt
-BEA6 : Hangul syllable bbyalp
-BEA7 : Hangul syllable bbyalh
-BEA8 : Hangul syllable bbyam
-BEA9 : Hangul syllable bbyab
-BEAA : Hangul syllable bbyabs
-BEAB : Hangul syllable bbyas
-BEAC : Hangul syllable bbyass
-BEAD : Hangul syllable bbyang
-BEAE : Hangul syllable bbyaj
-BEAF : Hangul syllable bbyac
-BEB0 : Hangul syllable bbyak
-BEB1 : Hangul syllable bbyat
-BEB2 : Hangul syllable bbyap
-BEB3 : Hangul syllable bbyah
-BEB4 : Hangul syllable bbyae
-BEB5 : Hangul syllable bbyaeg
-BEB6 : Hangul syllable bbyaegg
-BEB7 : Hangul syllable bbyaegs
-BEB8 : Hangul syllable bbyaen
-BEB9 : Hangul syllable bbyaenj
-BEBA : Hangul syllable bbyaenh
-BEBB : Hangul syllable bbyaed
-BEBC : Hangul syllable bbyael
-BEBD : Hangul syllable bbyaelg
-BEBE : Hangul syllable bbyaelm
-BEBF : Hangul syllable bbyaelb
-BEC0 : Hangul syllable bbyaels
-BEC1 : Hangul syllable bbyaelt
-BEC2 : Hangul syllable bbyaelp
-BEC3 : Hangul syllable bbyaelh
-BEC4 : Hangul syllable bbyaem
-BEC5 : Hangul syllable bbyaeb
-BEC6 : Hangul syllable bbyaebs
-BEC7 : Hangul syllable bbyaes
-BEC8 : Hangul syllable bbyaess
-BEC9 : Hangul syllable bbyaeng
-BECA : Hangul syllable bbyaej
-BECB : Hangul syllable bbyaec
-BECC : Hangul syllable bbyaek
-BECD : Hangul syllable bbyaet
-BECE : Hangul syllable bbyaep
-BECF : Hangul syllable bbyaeh
-BED0 : Hangul syllable bbeo
-BED1 : Hangul syllable bbeog
-BED2 : Hangul syllable bbeogg
-BED3 : Hangul syllable bbeogs
-BED4 : Hangul syllable bbeon
-BED5 : Hangul syllable bbeonj
-BED6 : Hangul syllable bbeonh
-BED7 : Hangul syllable bbeod
-BED8 : Hangul syllable bbeol
-BED9 : Hangul syllable bbeolg
-BEDA : Hangul syllable bbeolm
-BEDB : Hangul syllable bbeolb
-BEDC : Hangul syllable bbeols
-BEDD : Hangul syllable bbeolt
-BEDE : Hangul syllable bbeolp
-BEDF : Hangul syllable bbeolh
-BEE0 : Hangul syllable bbeom
-BEE1 : Hangul syllable bbeob
-BEE2 : Hangul syllable bbeobs
-BEE3 : Hangul syllable bbeos
-BEE4 : Hangul syllable bbeoss
-BEE5 : Hangul syllable bbeong
-BEE6 : Hangul syllable bbeoj
-BEE7 : Hangul syllable bbeoc
-BEE8 : Hangul syllable bbeok
-BEE9 : Hangul syllable bbeot
-BEEA : Hangul syllable bbeop
-BEEB : Hangul syllable bbeoh
-BEEC : Hangul syllable bbe
-BEED : Hangul syllable bbeg
-BEEE : Hangul syllable bbegg
-BEEF : Hangul syllable bbegs
-BEF0 : Hangul syllable bben
-BEF1 : Hangul syllable bbenj
-BEF2 : Hangul syllable bbenh
-BEF3 : Hangul syllable bbed
-BEF4 : Hangul syllable bbel
-BEF5 : Hangul syllable bbelg
-BEF6 : Hangul syllable bbelm
-BEF7 : Hangul syllable bbelb
-BEF8 : Hangul syllable bbels
-BEF9 : Hangul syllable bbelt
-BEFA : Hangul syllable bbelp
-BEFB : Hangul syllable bbelh
-BEFC : Hangul syllable bbem
-BEFD : Hangul syllable bbeb
-BEFE : Hangul syllable bbebs
-BEFF : Hangul syllable bbes
+BE00: Byul อังกูลพยางค์
+BE01: Byul อังกูลพยางค์
+BE02: Byubs อังกูลพยางค์
+BE03: Byus อังกูลพยางค์
+BE04: Byul พยางค์ฮันกึล
+BE05: Byul พยางค์อังกูล
+BE06: Byul พยางค์ฮันกึล
+BE07: Byul พยางค์อังกูล
+BE08: อังกูลพยางค์ Byuk
+BE09: Byul อังกูลพยางค์
+BE0A: Byup พยางค์อังกูล
+BE0B: Byul พยางค์อังกูล
+BE0C: พยางค์ฮันกึล
+BE0D: Beug พยางค์อังกูล
+BE0E: อังกูล Beugg พยางค์
+BE0F: Beug พยางค์อังกูล
+BE10: อังกูลบุนน
+BE11: พยางค์ฮันกูล
+BE12: พยางค์ฮันกึล
+BE13: พยางค์ฮันกึล
+BE14: พยางค์ฮันกึล
+BE15: พยางค์ฮันกึล
+BE16: Beulm พยางค์อังกูล
+BE17: Beulb พยางค์อังกูล
+BE18: พยางค์ฮันกึล
+BE19: อังกูล Beult พยางค์
+BE1A: Beulp พยางค์อังกูล
+BE1B: พยางค์ฮันกึล
+BE1C: พยางค์ฮันกึล
+BE1D: Beul พยางค์ฮันกึล
+BE1E: Beul พยางค์อังกูล
+BE1F: พยางค์ฮันกึล
+BE20: Beuss พยางค์ฮันกึล
+BE21: พยุงอังกูล Beung
+BE22: อังกูลพยางค์ Beuj
+BE23: Beul พยางค์อังกูล
+BE24: อังกูลพยางค์ Beuk
+BE25: อังกูล Beut พยางค์
+BE26: Beup พยางค์อังกูล
+BE27: พยางค์ฮันกึล
+BE28: อังกูลพยางค์
+BE29: Byul อังกูลพยางค์
+BE2A: อังกูลพยางค์
+BE2B: Byigs พยางค์อังกูล
+BE2C: Byul พยางค์ฮันกึล
+BE2D: อังกูลพยางค์
+BE2E: อังกูลพยางค์
+BE2F: Byul พยางค์อังกูล
+BE30: Byul พยางค์อังกูล
+BE31: Byulg พยางค์ฮันกึล
+BE32: Byulm พยางค์อังกูล
+BE33: Byulb พยางค์อังกูล
+BE34: Byll พยางค์อังกูล
+BE35: Byll พยางค์อังกูล
+BE36: Byulp พยางค์อังกูล
+BE37: Byllh พยางค์ฮันกึล
+BE38: Byul พยางค์อังกูล
+BE39: Byul อังกูลพยางค์
+BE3A: Byuls พยางค์อังกูล
+BE3B: Byul อังกูลพยางค์
+BE3C: Byul อังกูลพยางค์
+BE3D: Byul พยางค์อังกูล
+BE3E: Byij อังกูลพยางค์
+BE3F: Byul พยางค์อังกูล
+BE40: อังกูลพยางค์ Byik
+BE41: Byul อังกูลพยางค์
+BE42: Byul พยางค์อังกูล
+BE43: Byul อังกูลพยางค์
+BE44: อังกูลพยางค์สอง
+BE45: พยางค์อังกูลบิ๊ก
+BE46: พยางค์อังกูล
+BE47: Big พยางค์อังกูล
+BE48: ถังพยางค์อังกูล
+BE49: อังกูลพยางค์ของอังกูล
+BE4A: พยางค์ฮันกึล
+BE4B: การเสนอราคาพยางค์อังกูล
+BE4C: Bilul Hangul พยางค์
+BE4D: Bilul Hangul พยางค์
+BE4E: Bilul Hangul พยางค์
+BE4F: Bilul อังกูลบิล
+BE50: พยางค์อังกูล
+BE51: พยางค์อังกูล Bilt
+BE52: พยางค์ภาษาอังกูล
+BE53: Bilul พยางค์ฮันกึล
+BE54: พยางค์อังกูลบิม
+BE55: Bib พยางค์อังกูล
+BE56: Bibul พยางค์อังกูล
+BE57: พยางค์อังกูล Bis
+BE58: อังกูลพยางค์ Biss
+BE59: Bing พยางค์อังกูล
+BE5A: อังกูลพยางค์ Bij
+BE5B: อังกูลพยางค์ Bic
+BE5C: พยางค์ฮันกึล
+BE5D: อังกูลบิตพยางค์
+BE5E: พยางค์อังกูล Bip
+BE5F: อังกูลพยางค์ Bih
+BE60: พยางค์อังกูล Bba
+BE61: Bbag พยางค์อังกูล
+BE62: พยุงอังกูล Bbagg
+BE63: กระเป๋าอังกูลพยางค์
+BE64: พยางค์อังกูล Bban
+BE65: พยางค์ฮันกึล
+BE66: พยางค์ภาษาอังกูล
+BE67: อังกูลพยางค์ Bbad
+BE68: อังกูล Bbal พยางค์
+BE69: อังกูลพยางค์บัลบัล
+BE6A: พยางค์อังกูลบาล์ม
+BE6B: อังกูล Bbalb พยางค์
+BE6C: อังกูลพยางค์ Bbals
+BE6D: พยางค์ฮันกึล
+BE6E: อังกูล Bbalp พยางค์
+BE6F: อังกูลบาลาห์พยางค์
+BE70: อังกูลพยางค์ Bbam
+BE71: อังกูลพยางค์ Bbab
+BE72: Bbul พยางค์อังกูล
+BE73: พยางค์อังกูล
+BE74: อังกูลพยางค์ Bbass
+BE75: อังกูลพยางค์ Bbang
+BE76: อังกูลพยางค์ Bbaj
+BE77: อังกูลพยางค์ Bbac
+BE78: อังกูลพยางค์ Bbak
+BE79: อังกูลพยางค์ Bbat
+BE7A: อังกูลพยางค์ Bbap
+BE7B: อังกูลพยางค์ Bbah
+BE7C: อังกูลพยางค์ Bbae
+BE7D: อังกูลพยางค์ Bbaeg
+BE7E: พยางค์ฮันกึล
+BE7F: อังกูลพยางค์ Bbaegs
+BE80: พยางค์ฮันกึล
+BE81: พยางค์ฮันกึล
+BE82: อังกูลพยางค์ Bbaenh
+BE83: พยางค์อังกูล Bbaed
+BE84: อังกูลพยางค์ Bbael
+BE85: พยางค์ฮันกึล
+BE86: พยางค์ฮันกึล
+BE87: พยางค์ฮันกึล
+BE88: อังกูล Bbaels พยางค์
+BE89: พยางค์ฮันกึล
+BE8A: พยางค์ฮันกึล
+BE8B: พยางค์ฮันกึล
+BE8C: อังกูลพยางค์ Bbaem
+BE8D: อังกูลพยางค์ Bbaeb
+BE8E: อังกูลพยางค์ Bbaebs
+BE8F: พยางค์อังกูล Bbaes
+BE90: พยางค์อังกูล Bbaess
+BE91: พยางค์ฮันกึล
+BE92: อังกูลพยางค์ Bbaej
+BE93: พยางค์อังกูล Bbaec
+BE94: อังกูลพยางค์ Bbaek
+BE95: พยางค์อังกูล Bbaet
+BE96: พยางค์อังกูล Bbaep
+BE97: อังกูลพยางค์ Bbaeh
+BE98: อังกูลพยางค์ Bbya
+BE99: อังกูลพยางค์ Bbyag
+BE9A: อังกูลพยางค์ Bbyagg
+BE9B: อังกูลพยางค์ Bbyags
+BE9C: อังกูลพยางค์ Bbyan
+BE9D: อังกูลพยางค์ Bbyanj
+BE9E: อังกูลพยางค์ Bbyanh
+BE9F: อังกูลพยางค์ Bbyad
+BEA0: อังกูลพยางค์ Bbyal
+BEA1: อังกูลพยางค์ Bbyalg
+BEA2: อังกูลพยางค์ Bbyalm
+BEA3: อังกูลพยางค์ Bbyalb
+BEA4: อังกูลพยางค์ Bbyals
+BEA5: อังกูลพยางค์ Bbyalt
+BEA6: อังกูลพยางค์ Bbyalp
+BEA7: อังกูลพยางค์ Bbyalh
+BEA8: อังกูลพยางค์ Bbyam
+BEA9: อังกูล Bbyab พยางค์
+BEAA: อังกูล Bbyabs พยางค์
+BEAB: อังกูล Bbyas พยางค์
+BEAC: อังกูลพยางค์ Bbyass
+BEAD: พยางค์ฮันกึล
+BEAE: อังกูลพยางค์ Bbyaj
+BEAF: อังกูลพยางค์ Bbyac
+BEB0: พยางค์ฮันกึล
+BEB1: อังกูลพยางค์ Bbyat
+BEB2: พยางค์อังกูล Bbyap
+BEB3: อังกูลพยางค์ Bbyah
+BEB4: อังกูลพยางค์ Bbyae
+BEB5: อังกูลพยางค์ Bbyaeg
+BEB6: พยางค์ฮันกึล
+BEB7: อังกูลพยางค์ Bbyaegs
+BEB8: อังกูลพยางค์ Bbyaen
+BEB9: พยางค์ฮันกึล
+BEBA: อังกูลพยางค์ Bbyaenh
+BEBB: พยางค์ฮันกึล
+BEBC: อังกูลพยางค์ Bbyael
+BEBD: อังกูลพยางค์ Bbyaelg
+BEBE: พยางค์อังกูล Bbyaelm
+BEBF: อังกูลพยางค์ Bbyaelb
+BEC0: อังกูล Bbyaels พยางค์
+BEC1: อังกูลพยางค์ Bbyaelt
+BEC2: พยางค์อังกูล Bbyaelp
+BEC3: อังกูลพยางค์ Bbyaelh
+BEC4: อังกูลพยางค์ Bbyaem
+BEC5: อังกูลพยางค์ Bbyaeb
+BEC6: อังกูลพยางค์ Bbyaebs
+BEC7: Hangul พยางค์ Bbyaes
+BEC8: อังกูลพยางค์ Bbyaess
+BEC9: พยางค์ฮันกึล
+BECA: อังกูลพยางค์ Bbyaej
+BECB: อังกูลพยางค์ Bbyaec
+BECC: พยางค์อังกูล Bbyaek
+BECD: พยางค์อังกูล Bbyaet
+BECE: พยางค์อังกูล Bbyaep
+BECF: อังกูลพยางค์ Bbyaeh
+BED0: พยางค์อังกูล Bbeo
+BED1: อังกูล Bbeog พยางค์
+BED2: อังกูล Bbeogg พยางค์
+BED3: อังกูล Bbeogs พยางค์
+BED4: พยางค์ฮันกึล
+BED5: พยางค์ฮันกึล
+BED6: พยางค์ฮันกึล
+BED7: พยางค์อังกูล
+BED8: พยางค์อังกูล Bbeol
+BED9: พยางค์ฮันกึล
+BEDA: พยางค์ฮันกึล
+BEDB: อังกูล Bbeolb พยางค์
+BEDC: อังกูล Bbeols พยางค์
+BEDD: อังกูล Bbeolt พยางค์
+BEDE: พยางค์อังกูล
+BEDF: อังกูล Bbeolh พยางค์
+BEE0: พยางค์อังกูล Bbeom
+BEE1: อังกูล Bbeob พยางค์
+BEE2: อังกูล Bbeobs พยางค์
+BEE3: อังกูล Bbeos พยางค์
+BEE4: อังกูล Bbeoss พยางค์
+BEE5: พยางค์อังกูล Bbeong
+BEE6: พยางค์ฮันกึล
+BEE7: อังกูล Bbeoc พยางค์
+BEE8: พยางค์ฮันกึล
+BEE9: อังกูล Bbeot พยางค์
+BEEA: พยางค์อังกูล Bbeop
+BEEB: พยางค์ฮันกึล
+BEEC: พยางค์ฮันกึล
+BEED: อังกูลพยางค์ Bbeg
+BEEE: อังกูลพยางค์ Bbegg
+BEEF: พยางค์อังกูล Bbegs
+BEF0: อังกูลพยางค์ Bben
+BEF1: อังกูลพยางค์ Bbenj
+BEF2: อังกูลพยางค์ Bbenh
+BEF3: พยางค์อังกูลเตียง
+BEF4: อังกูลเบลล์พยางค์
+BEF5: Bulg พยางค์อังกูล
+BEF6: เข็มขัดพยางค์อังกูล
+BEF7: Bulb พยางค์อังกูล
+BEF8: พยางค์อังกูล Bbels
+BEF9: อังกูลพยางค์ Bbelt
+BEFA: เข็มขัดพยางค์อังกูล
+BEFB: อังกูล Bbelh พยางค์
+BEFC: อังกูลพยางค์ Bbem
+BEFD: อังกูล Bbeb พยางค์
+BEFE: อังกูล Bbebs พยางค์
+BEFF: อังกูล Bbes พยางค์

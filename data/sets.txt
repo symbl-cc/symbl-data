@@ -49,8 +49,8 @@
 
 [chess-symbols]
     set: ♔,♕,♖,♗,♘,♙,♚,♛,♜,♝,♞,♟
-	icon: ♞
-	status: hidden
+	status: redirect
+	url: /ru/holidays/international-chess-day/
 
 [signs-of-the-zodiac]
     set: ♈, ♉, ♊, ♋, ♌, ♍, ♎, ♏, ♐, ♑, ♒, ♓, ⛎

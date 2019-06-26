@@ -1,0 +1,256 @@
+2900: Dwugłowa strzałka w prawo z pionowym skokiem : notacja częściowa z notacją z
+2901: Dwugłowa strzałka w prawo z podwójnym skokiem pionowym : notacja skończona notacja skończona
+2902: Podwójna strzałka z lewej strony z pionowym skokiem
+2903: Podwójna strzałka w prawo z pionowym skokiem
+2904: Lewa prawa podwójna strzałka z pionowym skokiem
+2905: Dwugłowa strzałka w prawo z paska : mapy do
+2906: Podwójne strzały od lewej strony : mapy z
+2907: Podwójna strzałka w prawo od paska : mapy do
+2908: Strzałka w dół ze skokiem poziomym
+2909: Strzałka w górę z obrysem poziomym
+290A: W górę Potrójna strzałka
+290B: W dół Triple Arrow
+290C: Podwójna strzałka z lewej strony
+290D: Strzałka w prawo w podwójną kreskę
+290E: Leftwards Triple Dash Arrow
+290F: Potrójna strzałka w prawo
+2910: Dwugłowy Potrójny Strzałka w prawo
+2911: Strzałka w prawo z kropkowanym trzonem
+2912: Strzałka w górę do paska
+2913: Strzałka w dół do paska
+2914: Strzałka w prawo z ogonem z pionowym skokiem : z notacja częściowa wtrysk
+2915: Strzałka w prawo z ogonem z podwójnym skokiem pionowym : notacja skończona z notacją
+2916: Dwugłowa strzałka w prawo z ogonem : mapowanie bijective : bije z notacji z
+2917: Dwugłowa strzałka w prawo z ogonem z pionowym skokiem : z notacja wtryskowa
+2918: Dwugłowa strzałka w prawo z ogonem z podwójnym pionowym skokiem : notacja z skończoną iniekcją przerywaną
+2919: Leftwards Arrow-Tail
+291A: Strzałka w prawo - ogon
+291B: Podwójne strzały z lewej strony
+291C: Podwójna strzałka w prawo
+291D: Leftwards Arrow To Black Diamond
+291E: Strzałka w prawo na czarny diament
+291F: Strzałka w lewo od baru do czarnego diamentu
+2920: Strzałka w prawo od baru do czarnego diamentu
+2921: Strzałka północno-zachodnia i południowo-wschodnia
+2922: Strzałka północno-wschodnia i południowo-zachodnia
+2923: North West Arrow with Hook
+2924: North East Arrow with Hook
+2925: South East Arrow with Hook
+2926: South West Arrow with Hook
+2927: North West Arrow i North East Arrow
+2928: North East Arrow i South East Arrow
+2929: South East Arrow i South West Arrow
+292A: South West Arrow i North West Arrow
+292B: Rosnące Przekątnej Przekraczania Przekątnej
+292C: Falling Diagonal Crossing Rising Diagonal
+292D: South East Arrow Crossing North East Arrow
+292E: North East Arrow Crossing South East Arrow
+292F: Falling Diagonal Crossing North East Arrow
+2930: Wznosząca się Przekątna Przekraczająca południowo-wschodnią strzałę
+2931: North East Arrow Crossing North West Arrow
+2932: North West Arrow Crossing North East Arrow
+2933: Strzałka skierowana bezpośrednio w prawo
+2934: Strzałka skierowana w prawo, a następnie zakrzywiona w górę
+2935: Strzałka skierowana w prawo, a następnie zakrzywiona w dół
+2936: Strzałka skierowana w dół, a następnie zakręcająca w lewo
+2937: Strzałka skierowana w dół, a następnie zakrzywiona w prawo
+2938: Łuk prawy Strzałka w prawo
+2939: Strzałka po lewej stronie Strzałka przeciwnie do ruchu wskazówek zegara
+293A: Top Arc Strzałka w lewo
+293B: Strzałka w dolnym łuku w lewo
+293C: Górny łuk Strzałka w prawo z minusem
+293D: Top Arc Strzałka w lewo z Plus
+293E: Dolna prawa półkolista strzałka w prawo
+293F: Dolna lewa półokrągła strzałka w lewo
+2940: Strzałka w zamkniętym kole przeciwnie do ruchu wskazówek zegara
+2941: Strzałka okrągła zamknięta zgodnie z ruchem wskazówek zegara
+2942: Strzałka w prawo nad krótką strzałą po lewej stronie
+2943: Lewa strona Strzałka nad krótką strzałką w prawo
+2944: Krótka strzałka w prawo nad strzałką po lewej stronie
+2945: Strzałka w prawo z Plus poniżej
+2946: Strzałka w lewo z Plus poniżej
+2947: Strzałka w prawo przez X
+2948: Strzałka w lewo w prawo przez mały okrąg
+2949: Dwugłowa strzałka w górę z małego okręgu
+294A: Left Barb Up Right Barb Down Harpoon
+294B: Left Barb Down Right Barb Up Harpoon
+294C: Up Barb Right Down Barb Left Harpoon
+294D: W górę Barb Lewo w dół Barb W prawo Harpun
+294E: Left Barb Up Right Barb Up Harpoon
+294F: W górę Barb Prawo w dół Barb W prawo Harpoon
+2950: Left Barb Down Right Barb Down Harpoon
+2951: Up Barb Left Down Barb Lewy Harpoon
+2952: Harpun Leftwards z Barb Up To Bar
+2953: Harpun w prawo z Barb Up To Bar
+2954: Harpun w górę z Barb Right To Bar
+2955: W dół Harpun z Barb Right To Bar
+2956: Harpun Leftwards z Barb Down To Bar
+2957: Harpun prawy z Barb Down To Bar
+2958: Harpun w górę z Barb Left To Bar
+2959: W dół Harpun z Barb Left To Bar
+295A: Harpun Leftwards z Barb Up from Bar
+295B: Harpun prawy z Barbem z baru
+295C: Harpun w górę z Barbem prosto z baru
+295D: W dół Harpun z Barbem prosto z Baru
+295E: Harpun Leftwards z Barbem z baru
+295F: Harpun prawy z haczykiem w dół od baru
+2960: W górę Harpun z Barbem w lewo od Baru
+2961: W dół Harpoon z Barbem w lewo od Baru
+2962: Harpun Leftwards z Barb Up Powyżej Harpoon Leftwards z Barb Down
+2963: Harpun w górę z Barbem w lewo Obok Harpun w górę z Barbem w prawo
+2964: Harpun w prawo z Barbem w górę Harpun w prawo z Barb w dół
+2965: Harpun w dół z Barbem W lewo w dół Harpun z Barb w prawo
+2966: Harpun Leftwards z Barb Up Powyżej Harpoon prawy z Barb Up
+2967: Harpun lewa strona z haczykiem Dół Harpoon prawy z hakiem Barb
+2968: Harpun prawy z Barb Up Powyżej harpun lewy z Barb Up
+2969: Harpun prawy z haczykiem w dół Powyżej harpun lewy z hakiem Barb
+296A: Harpun Leftwards z Barb Up Above Long Dash
+296B: Harpun leworęczny z haczykiem poniżej długiej kreski
+296C: Harpun prawy z Barb Up Above Long Dash
+296D: Harpun prawy z haczykiem w dół poniżej długiej kreski
+296E: Harpun w górę z Barbem W lewo w dół Harpun z Barb w prawo
+296F: Harpun w dół z Barbem w lewo obok Harpun w górę z Barbem w prawo
+2970: Prawa podwójna strzałka z zaokrągloną głową
+2971: Równy znak nad strzałką w prawo
+2972: Operator tyldy Powyżej strzałki w prawo
+2973: Leftwards Arrow Powyżej Tilde Operator
+2974: Strzałka w prawo Nad operatorem tyldy
+2975: Strzałka w prawo Nad prawie równym do
+2976: Mniej niż ponad strzałą w lewo
+2977: Strzałka w lewo przez mniej niż
+2978: Większa niż powyżej strzałki w prawo
+2979: Podzbiór powyżej strzałki w prawo
+297A: Leftwards Arrow Poprzez podzbiór
+297B: Superset Nad strzałą w lewo
+297C: Lewy ogon ryby
+297D: Prawy ogon ryby
+297E: Up Fish Tail
+297F: Down Fish Tail
+2980: Potrójny ogranicznik pionowego paska
+2981: Z Notation Spot
+2982: Z Notacja Typ Dwukropek
+2983: Lewy biały wspornik kręty
+2984: Prawy biały wspornik kręty
+2985: Lewy biały nawias
+2986: Prawy biały nawias
+2987: Z Notacja Lewy wspornik obrazu
+2988: Z Notacja Prawy wspornik obrazu
+2989: Z Notation Left Binding Bracket
+298A: Wspornik wiążący prawy Z Notation
+298B: Lewy wspornik kwadratowy z listwą dolną
+298C: Prawy wspornik kwadratowy z podkładką
+298D: Lewy wspornik kwadratowy ze znacznikiem w górnym rogu
+298E: Prawy kwadratowy wspornik z zaznaczeniem w dolnym rogu
+298F: Lewy wspornik kwadratowy z zaznaczeniem w dolnym rogu
+2990: Prawy kwadratowy wspornik z kleszczem w górnym rogu
+2991: Wspornik kątowy lewy z kropką
+2992: Wspornik kątowy z kropką
+2993: Lewy łuk mniejszy niż wspornik
+2994: Wspornik prawego łuku większego niż
+2995: Podwójny lewy łuk Większy niż wspornik
+2996: Podwójny prawy łuk mniej niż wspornik
+2997: Lewy wspornik skorupy czarnego żółwia
+2998: Prawy wspornik skorupy czarnego żółwia
+2999: Kropkowany Ogrodzenie
+299A: Pionowa linia zygzakowata
+299B: Mierzony kąt otwarcia w lewo
+299C: Wariant kąt prosty z kwadratem
+299D: Zmierzony kąt prosty z kropką
+299E: Kąt z S Inside
+299F: Kąt ostry
+29A0: Sferyczny kąt otwarcia w lewo
+29A1: Otwieranie sferycznego kąta
+29A2: Zwrócił kąt
+29A3: Odwrócony kąt
+29A4: Kąt z Underbar
+29A5: Odwrócony kąt z Underbar
+29A6: Otwieranie skośnego kąta
+29A7: Ukośny kąt otwarcia w dół
+29A8: Zmierzony kąt z otwartym zakończeniem ramienia w strzałce skierowany w górę i w prawo
+29A9: Zmierzony kąt z otwartym ramieniem zakończonym strzałką skierowaną w górę i w lewo
+29AA: Zmierzony kąt z otwartym ramieniem kończącym się strzałką skierowaną w dół i w prawo
+29AB: Zmierzony kąt z otwartym ramieniem kończącym się strzałką skierowaną w dół i w lewo
+29AC: Zmierzony kąt z otwartym zakończeniem ramienia w strzałce skierowany w prawo iw górę
+29AD: Zmierzony kąt z otwartym zakończeniem ramienia w strzałce skierowanym w lewo iw górę
+29AE: Zmierzony kąt z otwartym ramieniem kończącym się strzałką skierowaną w prawo i w dół
+29AF: Zmierzony kąt z otwartym ramieniem kończącym się strzałką skierowaną w lewo i w dół
+29B0: Odwrócony pusty zestaw
+29B1: Pusty zestaw z paskiem
+29B2: Pusty zestaw z małym kółkiem powyżej
+29B3: Pusty zestaw z strzałką w prawo powyżej
+29B4: Pusty zestaw z lewą strzałką powyżej
+29B5: Koło z poziomym paskiem
+29B6: Okrągły pasek pionowy
+29B7: Circled Parallel
+29B8: Circled Reverse Solidus
+29B9: Okrążony prostopadle
+29BA: Koło podzielone przez poziomy pasek i górną połowę podzielone przez pionowy pasek
+29BB: Okrąg z nałożonym X
+29BC: Okrążony znak podziałowy obrócony w lewo
+29BD: Strzałka w górę przez koło
+29BE: Okrągła Biała Kula
+29BF: Okrągła Kula
+29C0: Krążył mniej niż
+29C1: Okrążony Większy niż
+29C2: Okrąg z małym kółkiem w prawo
+29C3: Okrąg z dwoma poziomymi pociągnięciami w prawo
+29C4: Squared Rising Diagonal Slash
+29C5: Ukośne spadające ukośne cięcie
+29C6: Kwadratowa gwiazdka
+29C7: Kwadratowy mały okrąg
+29C8: Kwadratowy kwadrat
+29C9: Dwa połączone kwadraty
+29CA: Trójkąt z kropką powyżej
+29CB: Trójkąt z podkładką
+29CC: S W trójkącie
+29CD: Trójkąt z serifami na dole
+29CE: Prawy trójkąt powyżej lewego trójkąta
+29CF: Lewy trójkąt obok paska pionowego
+29D0: Pionowy pasek obok prawego trójkąta
+29D1: Muszka z lewą połową czerni
+29D2: Bowtie z Right Half Black
+29D3: Czarna muszka
+29D4: Czasy z lewą połową czerni
+29D5: Czasy z prawą połową czerni
+29D6: Biała klepsydra : pionowa muszka : biały framus
+29D7: Czarna klepsydra
+29D8: Opuścił Wiggly Fence
+29D9: Prawe Wiggly Fence
+29DA: Lewy podwójny Wiggly Fence
+29DB: Prawe podwójne Wiggly Fence
+29DC: Niekompletna nieskończoność : isotech entity & iinfin;
+29DD: Tie Over Infinity
+29DE: Nieskończoność zanegowana z pionowym paskiem
+29DF: Multimap podwójnie zakończony
+29E0: Kwadrat z konturowanym konturem : d'alembertian
+29E1: Zwiększa As
+29E2: Shuffle Product
+29E3: Równy znak i ukośny równoległy
+29E4: Równy znak i ukośny równoległy z Tilde Above
+29E5: Identyczne do i skośne równoległe
+29E6: Gleich Stark : ekwiwalent tautologiczny
+29E7: Termodynamiczny
+29E8: Trójkąt skierowany w dół z lewą połową czerni
+29E9: Trójkąt skierowany w dół z prawą połową czerni
+29EA: Czarny diament ze strzałką w dół
+29EB: Czarna pastylka do ssania
+29EC: Białe kółko ze strzałką w dół
+29ED: Czarny okrąg ze strzałką w dół
+29EE: Zakrwawiony biały kwadrat
+29EF: Czarny kwadrat z błędami
+29F0: Zakrwawiony Biały Diament
+29F1: Zakrwawiony Czarny Diament
+29F2: Zakreślony błędem biały okrąg
+29F3: Zakreślony błędem czarny krąg
+29F4: Opóźniona reguła : dwukropek prawa strzałka
+29F5: Reverse Solidus Operator
+29F6: Solidus z Overbar
+29F7: Odwrotny Solidus z poziomym skokiem
+29F8: Big Solidus
+29F9: Big Reverse Solidus : ukrywanie schematu notacji z
+29FA: Double Plus
+29FB: Triple Plus
+29FC: Zakrzywiony lewy wspornik kątowy
+29FD: Zakrzywiony kątowy wspornik z prawej strony
+29FE: Malutki
+29FF: Miny

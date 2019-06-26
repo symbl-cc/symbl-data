@@ -117,22 +117,22 @@ yijing-hexagram-symbols   : I Ching símbolos hexagrama
 cjk-unified-ideographs    : CJK: ideogramas unificados
 yi-syllables              : Nuosu sílabas
 yi-radicals               : Nuosu radicales
-old-lisu-alphabet         : Alfabeto Fraser
+old-lisu-alphabet         : Fraser
 ciryllic-extended-B       : Cirílico extendida B
 bamum                     : Escritura Bamum
 modifier-tone-letters     : Cartas de tono modificador
 latin-extended-d          : Latín extendida D
 syloty-nagri              : Syloty Nagri
 indian-numeric-character  : Carácter numérico indio
-phags-pa                  : Alfabeto de 'Phags-pa
+phags-pa                  : De'Phags-pa
 saurashtra                : Saurashtra
 devanagari-extended-characters : Devanagari caracteres extendidos
 kayah-li                  : Kayah Li
 rejang                    : Rejang
 hangul                    : Hangul
-javanese-alphabet         : Alfabeto javanese
-cham-alphabet             : Alfabeto cham
-burmese-alphabet-extention-a : Extensión alfabeto birmano A
+javanese-alphabet         : Javanese
+cham-alphabet             : Cham
+burmese-alphabet-extention-a : Extensión birmano A
 tai-viet-alphabet         : Tai Viet
 meitei-language-extensions : Meithei extensiones
 ethiopic-extended-a       : Etíope extendida A
@@ -167,23 +167,23 @@ gothic                    : Gótico
 old-permic                : Pérmica antiguo
 ugaritic                  : Ugarítico
 old-persian               : Persa antiguo
-deseret                   : Alfabeto Deseret
-shavian                   : Alfabeto shaviano
+deseret                   : Deseret
+shavian                   : Shaviano
 osmanya                   : Escritura osmanya
 elbasan                   : Elbasan
 caucasian-albanian        : Albania caucásica
 linear-a                  : Lineal A
 cypriot-syllabary         : Silabario chipriota
-imperial-aramaic          : Alfabeto arameo
+imperial-aramaic          : Arameo
 palmyrene                 : Palmira
-nabataean                 : Alfabeto nabateo
-phoenician                : Alfabeto fenicio
-lydian                    : Lydian alphabet
+nabataean                 : Nabateo
+phoenician                : Fenicio
+lydian                    : Lydian
 meroitic-hieroglyphs      : Meroitic (jeroglíficos) 
 meroitic-cursive          : Meroitic (cursiva)
 kharoshthi                : Karosti
 old-south-arabian         : Abecedario árabe meridional
-old-north-arabian         : Antiguo alfabeto árabe al norte
+old-north-arabian         : Antiguo árabe al norte
 manichaean                : 
 avestan                   :
 inscriptional-parthian    :
@@ -212,7 +212,7 @@ cuneiform-numbers-and-punctuation : Números cuneiformes y Puntuacion
 egyptian-hieroglyphs      : Jeroglíficos egipcios
 bamum-supplement          : Escritura Bamum suplemento
 mro                       : 
-bassa-vah                 : Alfabeto vah
+bassa-vah                 : Bassa-vah 
 pahawh-hmong              :
 miao                      :
 kana-supplement           :

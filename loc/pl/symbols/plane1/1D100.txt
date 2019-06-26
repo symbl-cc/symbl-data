@@ -1,0 +1,256 @@
+1D100: Pojedyncza linia symbolu muzycznego
+1D101: Podwójna linia symbolu muzycznego
+1D102: Ostateczna linia muzycznego symbolu
+1D103: Odwrotna linia końcowa symbolu muzycznego
+1D104: Musical Symbol Dashed Barline
+1D105: Krótki symbol muzyczny
+1D106: Symbol muzyczny Powtórz znak lewy
+1D107: Symbol muzyczny Powtórz znak
+1D108: Symbol muzyczny Powtórz kropki
+1D109: Symbol muzyczny Dal Segno
+1D10A: Symbol muzyczny Da Capo
+1D10B: Symbol muzyczny Segno
+1D10C: Symbol muzyczny Coda
+1D10D: Powtarzany symbol muzyczny Rysunek-1
+1D10E: Powtarzany symbol muzyczny Rysunek-2
+1D10F: Powtarzany symbol muzyczny Rysunek 3
+1D110: Symbol muzyczny Fermata
+1D111: Symbol muzyczny Fermata poniżej
+1D112: Musical Symbol Breath Mark
+1D113: Symbol muzyczny Caesura
+1D114: Klamra symbolu muzycznego
+1D115: Wspornik symbolu muzycznego
+1D116: Jednoliniowy symbol muzyczny
+1D117: Dwuliniowy symbol muzyczny
+1D118: Symbol muzyczny Trzyliniowy personel
+1D119: Czteroliniowy symbol muzyczny
+1D11A: Pięcioliniowy symbol muzyczny
+1D11B: Sześcioliniowy symbol muzyczny
+1D11C: Symbol muzyczny Gryf sześciostrunowy
+1D11D: Symbol muzyczny Gryf czterostrunowy
+1D11E: Musical Symbol G Clef
+1D11F: Symbol muzyczny G Clef Ottava Alta
+1D120: Symbol muzyczny G Clef Ottava Bassa
+1D121: Musical Symbol C Clef
+1D122: Musical Symbol F Clef
+1D123: Symbol muzyczny F Klucz wiolinowy Ottava Alta
+1D124: Symbol muzyczny F Clef Ottava Bassa
+1D125: Musical Symbol Drum Clef-1
+1D126: Musical Symbol Drum Clef-2
+1D127:
+1D128:
+1D129: Musical Symbol Multiple Measure Odpoczynek
+1D12A: Symbol muzyczny Double Sharp
+1D12B: Symbol muzyczny Double Flat
+1D12C: Płaski symbol muzyczny
+1D12D: Symbol muzyczny płaski w dół
+1D12E: Symbol muzyczny Natural Up
+1D12F: Symbol muzyczny Natural Down
+1D130: Ostry symbol muzyczny
+1D131: Ostry symbol muzyczny
+1D132: Dźwięk kwartału symbolu muzycznego ostry
+1D133: Kwartał muzyczny symbol kwadratu płaski
+1D134: Symbol muzyczny Wspólny czas
+1D135: Symbol muzyczny Wytnij czas
+1D136: Symbol muzyczny Ottava Alta
+1D137: Symbol muzyczny Ottava Bassa
+1D138: Symbol muzyczny Quindicesima Alta
+1D139: Symbol muzyczny Quindicesima Bassa
+1D13A: Symbol muzyczny Multi Rest : podwójny odpoczynek, odpoczynek breve
+1D13B: Cały symbol muzyczny : odpoczynek semibreve
+1D13C: Symbol muzyczny w połowie odpoczynku : odpoczynek minimalny
+1D13D: Kwartał symbolu muzycznego Odpoczynek : odpoczynek na szydełku
+1D13E: Symbol muzyczny ósmy odpoczynek : odpoczynek ósemki
+1D13F: Symbol muzyczny Szesnasty odpoczynek : reszta szesnastkowa
+1D140: Symbol muzyczny trzydzieści sekund odpoczynku : odpoczynek demisemiquaver
+1D141: Symbol muzyczny Sześćdziesiąty czwarty odpoczynek : odpoczynek hemidemisemiquaver, odpoczynek semidemisemiquaver
+1D142: Symbol muzyczny sto dwadzieścia osiem odpoczynku : półhemidemisemiquaver rest, quasihemidemisemiquaver rest
+1D143: Symbol muzyczny X Notehead
+1D144: Symbol muzyczny Plus Notehead
+1D145: Notatnik X Koło symboli muzycznych
+1D146: Musical Symbol Square Notehead White
+1D147: Musical Symbol Square Notehead Black
+1D148: Symbol muzyczny Trójkąt Notehead Up White
+1D149: Symbol muzyczny Trójkąt Notehead Up Black
+1D14A: Symbol muzyczny Triangle Notehead Left White
+1D14B: Symbol muzyczny Trójkąt Notehead Left Black
+1D14C: Symbol muzyczny Trójkąt Notehead Right White
+1D14D: Symbol muzyczny Trójkąt Notehead Right Black
+1D14E: Symbol muzyczny Trójkąt Notehead Down White
+1D14F: Symbol muzyczny Trójkąt Notehead Down Black
+1D150: Symbol muzyczny Trójkąt Notehead Up Right White
+1D151: Symbol muzyczny Trójkąt Notehead Up Right Black
+1D152: Symbol muzyczny Księżyc Notehead White
+1D153: Symbol muzyczny Moon Notehead Black
+1D154: Symbol muzyczny Triangle-Round Notehead Down White
+1D155: Symbol muzyczny Triangle-Round Notehead Down Black
+1D156: Nuta nagłówka symbolu muzycznego
+1D157: Symbol muzyczny Void Notehead
+1D158: Symbol muzyczny Notehead Black
+1D159: Symbol muzyczny Null Notehead
+1D15A: Klaster muzyczny Symbol Notehead White
+1D15B: Klaster muzyczny Symbol Notehead Black
+1D15C: Symbol muzyczny Breve
+1D15D: Cały symbol muzyczny : semibreve
+1D15E: Półnuta symbolu muzycznego : półnuta
+1D15F: Uwaga kwartału symbolu muzycznego : ćwierćnuta
+1D160: Symbol muzyczny ósma uwaga : ósemka
+1D161: Szesnastka symbol muzyczny : szesnastka
+1D162: Symbol muzyczny Trzydzieści sekund Uwaga : demisemiquaver
+1D163: Symbol muzyczny sześćdziesiątej czwartej notatki : Hemidemisemiquaver, Semidemisemiquaver
+1D164: Symbol muzyczny sto dwadzieścia osiem Uwaga : semihemidemisemiquaver, quasihemidemisemiquaver
+1D165: Symbol muzyczny łączący łodygę
+1D166: Symbol muzyczny łączący trzonek Sprechgesang
+1D167: Symbol muzyczny łączący Tremolo-1
+1D168: Symbol muzyczny łączący tremolo-2
+1D169: Symbol muzyczny łączący tremolo-3
+1D16A: Symbol muzyczny Fremered Tremolo-1
+1D16B: Symbol muzyczny Fremered Tremolo-2
+1D16C: Symbol muzyczny Fremered Tremolo-3
+1D16D: Symbol muzyczny łączący kropkę rozszerzającą
+1D16E: Muzyczny symbol łączący Flag-1
+1D16F: Symbol muzyczny łączący Flag-2
+1D170: Symbol muzyczny łączący Flag-3
+1D171: Muzyczny symbol łączący Flag-4
+1D172: Muzyczny symbol łączący Flag-5
+1D173: Symbol muzyczny zaczyna wiązkę
+1D174: Symbol końca muzycznego symbolu
+1D175: Symbol muzyczny zaczyna krawat
+1D176: Krawat na symbol muzyczny
+1D177: Symbol muzyczny zaczyna się slur
+1D178: Symbol muzyczny koniec slur
+1D179: Symbol muzyczny zaczyna frazę
+1D17A: Symbol końca muzycznego symbolu
+1D17B: Symbol muzyczny łączący akcent
+1D17C: Symbol muzyczny łączący Staccato
+1D17D: Symbol muzyczny łączący Tenuto
+1D17E: Symbol muzyczny łączący Staccatissimo
+1D17F: Symbol muzyczny łączący Marcato
+1D180: Symbol muzyczny łączący Marcato-Staccato
+1D181: Symbol muzyczny łączący Accent-Staccato
+1D182: Symbol muzyczny łączący Loure
+1D183: Symbol muzyczny Arpeggiato Up
+1D184: Symbol muzyczny Arpeggiato Down
+1D185: Muzyczny symbol łączący Doit
+1D186: Symbol muzyczny łączący rip
+1D187: Symbol muzyczny łączący Flip
+1D188: Symbol muzyczny łączący rozmaz
+1D189: Symbol muzyczny łączący zakręt
+1D18A: Symbol muzyczny łączący język podwójny
+1D18B: Symbol muzyczny łączący język potrójny
+1D18C: Symbol muzyczny Rinforzando
+1D18D: Symbol muzyczny Subito
+1D18E: Symbol muzyczny Z
+1D18F: Fortepian Symbol muzyczny
+1D190: Symbol muzyczny Mezzo
+1D191: Symbol muzyczny Forte
+1D192: Symbol muzyczny Crescendo
+1D193: Symbol muzyczny Decrescendo
+1D194: Musical Symbol Grace Note Slash
+1D195: Musical Symbol Grace Uwaga Brak cięcia
+1D196: Symbol muzyczny Tr
+1D197: Obrót symbolu muzycznego
+1D198: Odwrócony symbol muzyczny
+1D199: Symbol muzyczny Turn Slash
+1D19A: Symbol muzyczny Turn up
+1D19B: Musical Ornament Ornament Stroke-1
+1D19C: Musical Ornament Ornament Stroke-2
+1D19D: Musical Ornament Ornament Stroke-3
+1D19E: Musical Ornament Ornament Stroke-4
+1D19F: Musical Ornament Ornament Stroke-5
+1D1A0: Musical Ornament Ornament Stroke-6
+1D1A1: Musical Ornament Ornament Stroke-7
+1D1A2: Musical Ornament Ornament Stroke-8
+1D1A3: Musical Ornament Ornament Stroke-9
+1D1A4: Musical Ornament Ornament Stroke-10
+1D1A5: Musical Ornament Ornament Stroke-11
+1D1A6: Symbol muzyczny Hauptstimme
+1D1A7: Symbol muzyczny Nebenstimme
+1D1A8: Symbol muzyczny Koniec Stimme
+1D1A9: Stopień Musical Symbol Degree
+1D1AA: Symbol muzyczny łączący łuk
+1D1AB: Symbol muzyczny łączący łuk
+1D1AC: Symbol muzyczny łączący harmoniczne
+1D1AD: Symbol muzyczny łączący Snap Pizzicato
+1D1AE: Znak pedałowy symbolu muzycznego
+1D1AF: Znak muzyczny Pedal Up Mark
+1D1B0: Musical Symbol Half Pedal Mark
+1D1B1: Symbol muzyczny Glissando Up
+1D1B2: Symbol muzyczny Glissando Down
+1D1B3: Symbol muzyczny z paznokciami
+1D1B4: Symbol muzyczny wilgotny
+1D1B5: Symbol muzyczny Damp All
+1D1B6: Symbol muzyczny Maxima
+1D1B7: Symbol muzyczny Longa
+1D1B8: Symbol muzyczny Brevis
+1D1B9: Symbol muzyczny Semibrevis White
+1D1BA: Symbol muzyczny Semibrevis Black
+1D1BB: Minima symboli muzycznych
+1D1BC: Symbol muzyczny Minima Czarny
+1D1BD: Symbol muzyczny Semiminima biały
+1D1BE: Symbol muzyczny Semiminima Czarny
+1D1BF: Symbol muzyczny Fusa White
+1D1C0: Symbol muzyczny Fusa Black
+1D1C1: Symbol muzyczny Longa Perfecta Odpoczynek
+1D1C2: Symbol muzyczny Longa Imperfecta Odpoczynek
+1D1C3: Symbol muzyczny Brevis Reszta
+1D1C4: Symbol muzyczny Semibrevis Reszta
+1D1C5: Minima Symbol odpoczynku muzycznego
+1D1C6: Symbol muzyczny Semiminima Rest
+1D1C7: Symbol muzyczny Tempus Perfectum Cum Prolatione Perfecta
+1D1C8: Symbol muzyczny Tempus Perfectum Cum Prolatione Imperfecta
+1D1C9: Symbol muzyczny Tempus Perfectum Cum Prolatione Perfecta Zmniejszenie-1
+1D1CA: Symbol muzyczny Tempus Imperfectum Cum Prolatione Perfecta
+1D1CB: Symbol muzyczny Tempus Imperfectum Cum Prolatione Imperfecta
+1D1CC: Symbol muzyczny Tempus Imperfectum Cum Prolatione Imperfecta Diminution-1
+1D1CD: Symbol muzyczny Tempus Imperfectum Cum Prolatione Imperfecta Diminution-2
+1D1CE: Symbol muzyczny Tempus Imperfectum Cum Prolatione Imperfecta Diminution-3
+1D1CF: Symbol muzyczny Croix
+1D1D0: Musical Symbol Gregorian C Clef
+1D1D1: Musical Symbol Gregorian F Clef
+1D1D2: Plac symboli muzycznych B
+1D1D3: Symbol muzyczny Virga
+1D1D4: Symbol muzyczny
+1D1D5: Symbol muzyczny Clivis
+1D1D6: Symbol muzyczny Scandicus
+1D1D7: Symbol muzyczny Klimak
+1D1D8: Symbol muzyczny Torculus
+1D1D9: Symbol muzyczny Porrectus
+1D1DA: Symbol muzyczny Porrectus Flexus
+1D1DB: Symbol muzyczny Scandicus Flexus
+1D1DC: Symbol muzyczny Torculus Resupinus
+1D1DD: Symbol muzyczny Pes Subpunctis
+1D1DE: Symbol muzyczny Kievan C Clef
+1D1DF: Symbol muzyczny Kievan koniec utworu
+1D1E0: Symbol muzyczny Kijowska uwaga końcowa
+1D1E1: Symbol muzyczny Kijowski znak recytatywny
+1D1E2: Symbol muzyczny Kijowska cała uwaga
+1D1E3: Symbol muzyczny Kijowska połowa uwagi
+1D1E4: Symbol muzyczny Kievan Quarter Note Stem Down
+1D1E5: Symbol muzyczny Kwartał kijowski Uwaga Stem Up
+1D1E6: Symbol muzyczny Kijowska ósma uwaga Wynikają
+1D1E7: Symbol muzyczny Kijowska ósma uwaga macierzysta
+1D1E8: Symbol muzyczny Kijowski płaski znak
+1D1E9:
+1D1EA:
+1D1EB:
+1D1EC:
+1D1ED:
+1D1EE:
+1D1EF:
+1D1F0:
+1D1F1:
+1D1F2:
+1D1F3:
+1D1F4:
+1D1F5:
+1D1F6:
+1D1F7:
+1D1F8:
+1D1F9:
+1D1FA:
+1D1FB:
+1D1FC:
+1D1FD:
+1D1FE:
+1D1FF:

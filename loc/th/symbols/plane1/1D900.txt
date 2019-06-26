@@ -1,0 +1,256 @@
+1D900: Signwriting กำปั้นมือนิ้วหัวแม่มือภายใต้สามนิ้ว
+1D901: การลงลายมือชื่อนิ้วหัวแม่มือด้วยมือภายใต้สี่นิ้ว
+1D902: การลงลายมือชื่อนิ้วหัวแม่มือด้วยมือกว่าสี่ข้อนิ้ว
+1D903: ลายมือมือกำปั้น
+1D904: การเขียนด้วยมือส้นเท้า
+1D905: Signwriting Touch Single
+1D906: Signwriting Touch Multiple
+1D907: การเซ็นชื่อแตะระหว่าง
+1D908: Signwriting Grasp Single
+1D909: Signwriting Grasp Multiple
+1D90A: เข้าใจการลงนามระหว่าง
+1D90B: Signwriting Strike Single
+1D90C: Strike Strike หลายรายการ
+1D90D: Strike Strike การลงนามระหว่าง
+1D90E: Signwriting Brush Single
+1D90F: Signwriting Brush หลายรายการ
+1D910: แปรงเขียนระหว่าง
+1D911: การลงนามถูเดียว
+1D912: การเซ็นชื่อถูหลายรายการ
+1D913: การลงนามถูระหว่าง
+1D914: สัญลักษณ์ Surface Surface
+1D915: การเขียนบนพื้นผิวระหว่าง
+1D916: Signwriting Squeeze Large Single
+1D917: Signwriting Squeeze Small Single
+1D918: Signwriting Squeeze Large หลายรายการ
+1D919: Signwriting Squeeze Small หลาย ๆ
+1D91A: Signwriting Squeeze Sequential
+1D91B: Signwriting สะบัดใหญ่เดี่ยว
+1D91C: Signwriting สะบัดเดี่ยวขนาดเล็ก
+1D91D: Signwriting สะบัดใหญ่หลาย ๆ
+1D91E: Signwriting สะบัดตัวเล็กหลาย ๆ
+1D91F: Signwriting Flick Sequential
+1D920: Signwriting Squeeze สะบัดสลับ
+1D921: Signwriting Movement-Hinge Up Large ขนาดใหญ่
+1D922: Signwriting Movement-Hinge Up Down ขนาดเล็ก
+1D923: Signwriting การเคลื่อนไหว - บานพับขึ้นตามลำดับ
+1D924: Signwriting การเคลื่อนไหว - บานพับลงต่อเนื่อง
+1D925: Signwriting การเคลื่อนไหวบานพับขึ้นลงสลับขนาดใหญ่
+1D926: Signwriting การเคลื่อนไหวบานพับขึ้นลงสลับขนาดเล็ก
+1D927: กรรไกรการเคลื่อนไหวของลายมือเขียนจากด้านหนึ่งไปอีกด้าน
+1D928: ลายนิ้วมือการเคลื่อนไหว - Wallplane ติดต่อนิ้ว
+1D929: ลายนิ้วมือการเคลื่อนไหว -Linplane ติดต่อนิ้ว
+1D92A: Signwriting Movement-Wallplane Single Straight ขนาดเล็ก
+1D92B: Signwriting Movement - Wallplane Single Medium ขนาดกลาง
+1D92C: Signwriting Movement-Wallplane Single Large ขนาดใหญ่
+1D92D: Signwriting Movement-Wallplane Single ตรงที่ใหญ่ที่สุด
+1D92E: การเคลื่อนไหวของข้อมือ Sign-Wallplane Single Wrist Flex
+1D92F: Signwriting Movement-Wallplane Double Straight
+1D930: การเคลื่อนไหวของลายเซ็นข้อมือ Wallplane คู่ข้อมือ
+1D931: Signwriting Movement-Wallplane Double Alternating
+1D932: การเคลื่อนไหวการเขียนด้วยลายมือ - Wallplane Flex ข้อมือแบบสลับคู่
+1D933: Signwriting Movement-Wallplane Cross
+1D934: Signwriting Movement - Wallplane Triple Straight Movement
+1D935: การเคลื่อนไหวของลายเซ็นข้อมือทวอลลาเพลน - เครื่องบินแบบสามแฉก
+1D936: Signwriting Movement-Wallplane Triple Alternating
+1D937: การเคลื่อนไหวของข้อมือ Flex-Wallplane Flex Alternating Wrist Flex
+1D938: Signwriting Movement-Wallplane Bend เล็ก
+1D939: Signwriting Movement - Wallplane Bend Medium
+1D93A: Signwriting Movement-Wallplane Bend ใหญ่
+1D93B: Signwriting Movement - Wallplane Corner เล็ก
+1D93C: Signwriting Movement - Medium Medium Corner Corner
+1D93D: Signwriting Movement - Wallplane Corner Large
+1D93E: การหมุนวนมุมของการเคลื่อนไหวของ Wallplane
+1D93F: Signwriting Movement-Wallplane Check Small
+1D940: Signwriting Movement-Wallplane Check Medium
+1D941: Signwriting Movement-Wallplane Check Large
+1D942: Signwriting Movement-Wallplane Box เล็ก
+1D943: Signwriting Movement - Medium Medium Box Box
+1D944: Signwriting Movement-Wallplane Box ใหญ่
+1D945: Signwriting Movement-Wallplane Zigzag Small
+1D946: Signwriting Movement-Wallplane Zigzag Medium
+1D947: Signwriting Movement-Wallplane Zigzag Large
+1D948: Signwriting Movement-Wallplane Peaks Small
+1D949: Signwriting Movement - Wallplane Peaks Medium
+1D94A: Signwriting Movement-Wallplane Peaks Large
+1D94B: Signwriting Travel-Wallplane การหมุน - Wallplane เดียว
+1D94C: Signwriting Travel-Wallplane Rotation-Wallplane Double
+1D94D: Signwriting Travel-Wallplane การหมุน - Wallplane สลับกัน
+1D94E: Signwriting Travel-Wallplane Rotation-Floorplane Single
+1D94F: Signwriting Travel-Wallplane Rotation-Floorplane Double
+1D950: Signwriting Travel-Wallplane การหมุน - การสลับพื้นเครื่องบิน
+1D951: การเขย่าตัวอักษร Travel-Wallplane
+1D952: Travelwriting - Wallplane แขนหมุนวนเดี่ยว
+1D953: Travelwriting-Wallplane Arm Spiral Double
+1D954: Travelwriting - Wallplane แขนหมุนวนเกลียวสาม
+1D955: การเคลื่อนไหวของการเขียนในแนวทแยงออกไปเล็ก
+1D956: การเคลื่อนไหวของ Signwriting-Medium Away
+1D957: การเคลื่อนไหวของการเขียนในแนวทแยงออกไปใหญ่
+1D958: การเคลื่อนไหวของการเขียนในแนวทแยงที่ใหญ่ที่สุด
+1D959: การเคลื่อนไหวของลายมือเขียนในแนวทแยงไปทางเล็ก
+1D95A: การเคลื่อนไหวของการเขียนในแนวทแยงไปทางกลาง
+1D95B: การเคลื่อนไหวการเขียนในแนวทแยงไปทางใหญ่
+1D95C: การเคลื่อนไหวการเขียนในแนวทแยงไปสู่ทิศทางที่ใหญ่ที่สุด
+1D95D: การเคลื่อนไหวของการเขียนในแนวทแยงระหว่างเส้นเล็ก
+1D95E: การเคลื่อนไหวของการเขียนในแนวทแยงมุมระหว่างสื่อกลาง
+1D95F: การเคลื่อนไหวของการเขียนในแนวทแยงมุมระหว่างขนาดใหญ่
+1D960: Signwriting Movement แนวทแยงระหว่างที่ใหญ่ที่สุด
+1D961: การเคลื่อนไหวของลายมือเขียนแนวทแยงมุมระหว่างทางเล็ก
+1D962: การเคลื่อนไหวของการเขียนในแนวทแยงระหว่างทางกลาง
+1D963: การเคลื่อนไหวของการเขียนในแนวทแยงระหว่างทางที่มีขนาดใหญ่
+1D964: การเคลื่อนไหวของการเขียนในแนวทแยงระหว่างทางที่ใหญ่ที่สุด
+1D965: Signwriting Movement-Floorplane Single Straight ขนาดเล็ก
+1D966: Signwriting Movement- Floorplane Single Medium ขนาดกลาง
+1D967: การเคลื่อนไหวของลายมือชื่อ - พื้นราบเดี่ยวขนาดใหญ่ตรง
+1D968: การเคลื่อนไหวของลายเซ็น - พื้นราบเดียวที่ใหญ่ที่สุด
+1D969: การเคลื่อนไหวของข้อมือแบบยืดหยุ่นของพื้นข้อมือเดียว
+1D96A: การเคลื่อนไหวการเขียนคำนาม - Floorplane คู่ตรง
+1D96B: การเคลื่อนไหวของลายเซ็น - ข้อมือ Doubleplane Flex
+1D96C: Signwriting Movement-Floorplane การสลับคู่
+1D96D: การเคลื่อนไหวของข้อต่อการเคลื่อนไหวของลายพื้นข้อมือแบบสลับสองชั้น
+1D96E: Signwriting Movement-Floorplane Cross
+1D96F: Signwriting Movement-Floorplane Triple Straight Movement
+1D970: การเคลื่อนไหวของลายเซ็นข้อมือ Triple-Flex
+1D971: Signwriting Movement-Floorplane Triple Alternating Movement
+1D972: การเคลื่อนไหวของข้อต่อการเคลื่อนไหวของพื้น - ระนาบสลับข้อมือแบบยืดหยุ่น
+1D973: การโค้งงอเคลื่อนไหวของเครื่องบิน - พื้นโค้ง
+1D974: Signwriting การเคลื่อนไหวของพื้น - มุมเครื่องบินขนาดเล็ก
+1D975: Signwriting Movement- Medium-Corner Corner ขนาดกลาง
+1D976: การเคลื่อนไหวของลายเซ็น - พื้นมุมเครื่องบินขนาดใหญ่
+1D977: การตรวจสอบการเคลื่อนไหวของลายเซ็น - พื้นเครื่องบิน
+1D978: Signwriting Movement-Floorplane Box เล็ก
+1D979: Signwriting Movement-Floorplane กล่องขนาดกลาง
+1D97A: Signwriting Movement-Floorplane Box ใหญ่
+1D97B: Signwriting Movement-Floorplane Zigzag Small
+1D97C: Signwriting Movement-Floorplane Zigzag Medium
+1D97D: Signwriting Movement-Floorplane Zigzag Large
+1D97E: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบินขนาดเล็ก
+1D97F: การเคลื่อนที่ของลายเซ็น - พื้นกลางเครื่องบิน
+1D980: การเคลื่อนไหวการลงชื่อ - ยอดเครื่องบินขนาดใหญ่
+1D981: Signwriting Travel-Floorplane การหมุน - Floorplane Single
+1D982: Signwriting Travel-Floorplane การหมุน - Floorplane Double
+1D983: Signwriting Travel-Floorplane การหมุน - Floorplane สลับกัน
+1D984: Signwriting Travel-Floorplane การหมุน - Wallplane Single
+1D985: Signwriting Travel-Floorplane Rotation-Wallplane Double
+1D986: Signwriting Travel-Floorplane การหมุน - Wallplane
+1D987: การเขย่าตัวอักษรการเดินทางบนเครื่องบิน
+1D988: Signwriting Movement-Wallplane Curve Quarter เล็ก
+1D989: Signwriting Movement-Wallplane Curve ไตรมาสกลาง
+1D98A: Signwriting Movement-Wallplane Curve Quarter ใหญ่
+1D98B: Signwriting Movement-Wallplane Curve Curve ที่ใหญ่ที่สุดในไตรมาส
+1D98C: Signwriting Movement-Wallplane Curve แบบครึ่งวงกลมขนาดเล็ก
+1D98D: Signwriting Movement - Wallplane Curve ขนาดกลางครึ่งวงกลม
+1D98E: Signwriting Movement-Wallplane Curve แบบครึ่งวงกลมขนาดใหญ่
+1D98F: Signwriting Movement-Wallplane Curve เส้นโค้งครึ่งวงกลมใหญ่ที่สุด
+1D990: Signwriting Movement-Wallplane Curve สามไตรมาสวงกลมเล็ก
+1D991: Signwriting การเคลื่อนไหว - Wallplane โค้งกลางวงกลมสามในสี่
+1D992: Signwriting Movement-Wallplane Hump Small
+1D993: Signwriting Movement-Wallplane Hump Medium
+1D994: Signwriting Movement-Wallplane Hump Large
+1D995: Signwriting Movement-Wallplane Loop Small
+1D996: Signwriting ขบวนการเคลื่อนไหว - Wallplane Medium Medium
+1D997: Signwriting Movement-Wallplane Loop Large
+1D998: Signwriting Movement-Wallplane Loop Double Double
+1D999: Signwriting Movement - Wallplane Wave Curve Double Small ขนาดเล็ก
+1D99A: Signwriting การเคลื่อนไหวของคลื่น - Wallplane โค้งคู่กลาง
+1D99B: Signwriting Movement-Wallplane Wave Curve ดับเบิลใหญ่
+1D99C: Signwriting การเคลื่อนไหว - Wallplane Wave Curve Triple Small
+1D99D: Signwriting การเคลื่อนไหว - Wallplane คลื่นโค้งกลางสาม
+1D99E: Signwriting การเคลื่อนไหว - Wallplane Wave Curve สามใหญ่
+1D99F: การเคลื่อนที่ของเครื่องหมาย - Wallplane โค้งแล้วตรง
+1D9A0: Signwriting Movement - Wallplane โค้งข้ามเล็ก
+1D9A1: Signwriting Movement - Wallplane Curved Cross Medium
+1D9A2: Signwriting Rotation-Wallplane Single
+1D9A3: Signwriting Rotation-Wallplane Double
+1D9A4: Signwriting Rotation-Wallplane Alternate
+1D9A5: การสั่นไหวการเคลื่อนไหวของ Wallplane
+1D9A6: Signwriting Movement-Wallplane Curve Hitting ผนังด้านหน้า
+1D9A7: Signwriting Movement-Wallplane Hump Hitting ชนกำแพงด้านหน้า
+1D9A8: Signwriting Movement-Wallplane วนการกดปุ่มบนกำแพงด้านหน้า
+1D9A9: การเขียนด้วยการเคลื่อนไหว - Wallplane Wave Hitting Wall Front
+1D9AA: Signwriting Rotation-Wallplane Single Hitting ผนังด้านหน้า
+1D9AB: Signwriting Rotation-Wallplane Double Hitting กำแพงด้านหน้า
+1D9AC: Signwriting Rotation-Wallplane สลับการชนกำแพงด้านหน้า
+1D9AD: Signwriting Movement - Wallplane Curve Hitting Chest
+1D9AE: Signwriting Movement-Wallplane Hump Hitting Chest
+1D9AF: Signwriting Movement - Wallplane Loop Hitting Chest
+1D9B0: Signwriting Movement - Wallplane Wave Hitting Chest
+1D9B1: Signwriting Rotation-Wallplane Single Hitting Chest
+1D9B2: Signwriting Rotation-Wallplane Double Hitting Chest
+1D9B3: Signwriting Rotation-Wallplane Alternating Hitting Chest
+1D9B4: Signwriting Movement-Wallplane Wave Diagonal Path ขนาดเล็ก
+1D9B5: Signwriting Movement - Wallplane Wave Diagonal Path เส้นทางกลาง
+1D9B6: Signwriting Movement-Wallplane Wave Diagonal Path ขนาดใหญ่
+1D9B7: การเคลื่อนที่ของลายเส้น - พื้นโค้งการชนเพดานเล็ก
+1D9B8: การเคลื่อนที่ของลายเส้น - พื้นโค้งการชนเพดานใหญ่
+1D9B9: Signwriting Movement-Floorplane Hump Hitting Hitting Ceiling Double ตัวเล็ก
+1D9BA: Signwriting Movement-Floorplane Hump Hitting Hitting Double Large
+1D9BB: Signwriting Movement-Floorplane Hump Hitting Hitting เพดานทริปเปิลเล็ก
+1D9BC: Signwriting Movement-Floorplane Hump Hitting Hitting เพดานขนาดใหญ่ Triple
+1D9BD: Signwriting Movement-Floorplane Loop Hitting Ceiling Ceiling Single Single
+1D9BE: การเคลื่อนที่ของลายเซ็น - พื้นระนาบการกดปุ่มเดียวขนาดใหญ่
+1D9BF: Signwriting Movement-Floorplane วนการตีเพดานเล็กสองครั้ง
+1D9C0: การเคลื่อนไหวของลายเซ็น - พื้นระนาบการกดปุ่มขนาดใหญ่สองครั้ง
+1D9C1: การเคลื่อนย้ายคลื่นวิทยุเคลื่อนย้ายรูปคลื่นกระทบเพดานขนาดเล็ก
+1D9C2: การเคลื่อนย้ายคลื่นวิทยุการเคลื่อนย้ายพื้น - กระทบเพดานขนาดใหญ่
+1D9C3: Signwriting Rotation-Floorplane Single Hitting Ceiling
+1D9C4: Signwriting Rotation-Floorplane เพดานตีสองครั้ง
+1D9C5: Signwriting การหมุน - ปูพื้นสลับการกดปุ่มเพดาน
+1D9C6: Curve Hitting Floor การเคลื่อนไหวของ Signwriting
+1D9C7: Curve Hitting Floor การเคลื่อนไหวของ Signwriting
+1D9C8: การเคลื่อนย้าย Sign-Floorplane Hump Hitting Floor ขนาดเล็ก Double
+1D9C9: การเคลื่อนย้าย Sign-Floorplane Hump Hitting Floor ขนาดใหญ่ Double
+1D9CA: การเคลื่อนไหวของลายเซ็น - พื้นเครื่องบิน Hump Hitting Floor Triple Small Triple
+1D9CB: การเคลื่อนไหวของลายเซ็น - พื้นเครื่องบิน Hump Hitting Floor Triple Large Triple
+1D9CC: การเคลื่อนที่ของลายเซ็น - พื้นระนาบวนตัวบนพื้นเดี่ยวขนาดเล็ก
+1D9CD: การเคลื่อนที่ของลายเซ็น - พื้นระนาบการกดปุ่มบนพื้นขนาดใหญ่เดี่ยว
+1D9CE: การเคลื่อนที่ของลายเซ็น - พื้นระนาบการกดปุ่มบนพื้นคู่ขนาดเล็ก
+1D9CF: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบินวนเข้าหาพื้นขนาดใหญ่เป็นสองเท่า
+1D9D0: การเคลื่อนย้ายคลื่นวิทยุ - การเคลื่อนย้ายคลื่นพื้น
+1D9D1: การเคลื่อนย้ายคลื่น - พื้นระนาบการกดปุ่มพื้นขนาดใหญ่
+1D9D2: การหมุนลายมือ - การปูพื้นพื้นการกดปุ่มเพียงครั้งเดียว
+1D9D3: การหมุนลายมือหมุน - พื้นเครื่องบิน
+1D9D4: การหมุนลายมือ - พื้น - เครื่องบิน
+1D9D5: การเคลื่อนไหวของ Sign-Floorplane Curve เล็ก
+1D9D6: Curve การเคลื่อนย้าย Sign-Floorplane Medium
+1D9D7: การเคลื่อนไหวของ Sign-Floorplane Curve ขนาดใหญ่
+1D9D8: Curve การเคลื่อนย้าย - ปูพื้นโค้งที่ใหญ่ที่สุด
+1D9D9: Curve การเคลื่อนไหวของพื้น - เครื่องบินรวมกัน
+1D9DA: การเคลื่อนไหวของ Sign-Floorplane Hump Small
+1D9DB: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบินวนเล็ก ๆ
+1D9DC: การเคลื่อนที่ของลายเซ็น - คลื่นพื้นระนาบ
+1D9DD: Signwriting การเคลื่อนไหว - Floorplane Wave เล็ก
+1D9DE: การเคลื่อนไหวการเขียนแผ่นคลื่นพื้นขนาดใหญ่
+1D9DF: Signwriting Rotation-Floorplane Single
+1D9E0: Signwriting Rotation-Floorplane Double
+1D9E1: การหมุนลายมือสลับพื้น - เครื่องบิน
+1D9E2: การเคลื่อนไหวของลายเซ็น - พื้นระนาบการเขย่าขนานกัน
+1D9E3: Signwriting Movement - Wallplane Arm Circle Small ขนาดเล็ก
+1D9E4: การเคลื่อนที่ของ Signwriting-Wallplane Arm Circle Single ขนาดกลาง
+1D9E5: Signwriting Movement - Wallplane Arm Circle Small คู่
+1D9E6: Signwriting Movement - Wallplane Arm Circle คู่กลาง
+1D9E7: Signwriting Movement-Floorplane Arm Circle กดปุ่ม Wall ขนาดเล็ก Single
+1D9E8: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบิน, วงกลมบนผนังขนาดกลาง
+1D9E9: การเคลื่อนที่ของลายเซ็น - พื้นของเครื่องบินบนวงกลมตีผนังเดี่ยวขนาดใหญ่
+1D9EA: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบินวงกลมตีผนังขนาดเล็กคู่
+1D9EB: การเคลื่อนที่ของลายเซ็น - พื้นเครื่องบิน, วงกลมตีผนังขนาดกลาง
+1D9EC: การเคลื่อนไหวของลายเซ็น - พื้นของเครื่องบินบนวงกลมตีผนังขนาดใหญ่สองครั้ง
+1D9ED: Signwriting Movement - Wallplane Wrist Circle วงหน้าเดี่ยว
+1D9EE: Signwriting Movement - Wallplane Wrist Circle หน้าคู่
+1D9EF: การเคลื่อนไหวของลายเซ็นข้อมือ Floorplane วงกลมตีผนังเดียว
+1D9F0: Signwriting เคลื่อนไหว - Floorplane ข้อมือตีผนังสองครั้ง
+1D9F1: Signwriting ความเคลื่อนไหว - Wallplane นิ้ววงการเดี่ยว
+1D9F2: Signwriting ความเคลื่อนไหว - Wallplane นิ้ววงกลมสองครั้ง
+1D9F3: Signwriting การเคลื่อนไหว - Floorplane ลายนิ้วมือกดปุ่มกำแพงเดี่ยว
+1D9F4: Signwriting ความเคลื่อนไหว - Floorplane ลายนิ้วมือชนกำแพงสองครั้ง
+1D9F5: การเซ็นชื่อหัวลูกศรแบบไดนามิกขนาดเล็ก
+1D9F6: การเซ็นชื่อหัวลูกศรแบบไดนามิกขนาดใหญ่
+1D9F7: Signwriting Dynamic รวดเร็ว
+1D9F8: การเซ็นชื่อแบบไดนามิกช้า
+1D9F9: การเซ็นชื่อ Dynamic Tense
+1D9FA: Signwriting Dynamic Relaxed
+1D9FB: Signwriting Dynamic Sim พร้อมกัน
+1D9FC: Signwriting Dynamic Sim พร้อมกันสลับ
+1D9FD: การเซ็นชื่อแบบไดนามิกทุกครั้ง
+1D9FE: Signwriting Dynamic Gradual
+1D9FF: หัวหน้าฝ่ายการเขียน

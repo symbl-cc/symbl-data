@@ -56,15 +56,15 @@
 1D137: Symbole musical ottava bassa
 1D138: Symbole musical quindicesima alta
 1D139: Symbole musical quindicesima bassa
-1D13A: Symbole musical double pause (bâton) : bâton
-1D13B: Symbole musical pause
-1D13C: Symbole musical demi-pause
-1D13D: Symbole musical soupir
-1D13E: Symbole musical demi-soupir
-1D13F: Symbole musical quart de soupir
-1D140: Symbole musical huitième de soupir
-1D141: Symbole musical seizième de soupir
-1D142: Symbole musical trente-deuxième de soupir
+1D13A: Symbole musical double pause : bâton, : double repos complet, repos rapide
+1D13B: Symbole musical pause : repos semi-professionnel
+1D13C: Symbole musical demi-pause : reste minimum
+1D13D: Symbole musical soupir : crochet reste
+1D13E: Symbole musical demi-soupir : crottez le repos
+1D13F: Symbole musical quart de soupir : repos en double croche
+1D140: Symbole musical huitième de soupir : reste de demisemiquaver
+1D141: Symbole musical seizième de soupir : hemidemisemiquaver reste, reste semi-émera
+1D142: Symbole musical trente-deuxième de soupir : semihemidemisemiquaver rest, quasihemidemisemiquaver reste
 1D143: Symbole musical tête de note x
 1D144: Symbole musical tête de note plus
 1D145: Symbole musical tête de note x cerclé
@@ -91,14 +91,14 @@
 1D15A: Symbole musical tête de note bloc blanc
 1D15B: Symbole musical tête de note bloc noir
 1D15C: Symbole musical carrée : double ronde
-1D15D: Symbole musical ronde
-1D15E: Symbole musical blanche
-1D15F: Symbole musical noire
-1D160: Symbole musical croche
-1D161: Symbole musical double croche
-1D162: Symbole musical triple croche
-1D163: Symbole musical quadruple croche
-1D164: Symbole musical quintuple croche
+1D15D: Symbole musical ronde : semibreve
+1D15E: Symbole musical blanche : blanche
+1D15F: Symbole musical noire : noire
+1D160: Symbole musical croche : croche
+1D161: Symbole musical double croche : double croche
+1D162: Symbole musical triple croche : demisemiquaver
+1D163: Symbole musical quadruple croche : hemidemisemiquaver, semidemisemiquaver
+1D164: Symbole musical quintuple croche : semihemidemisemiquaver, quasihemidemisemiquaver
 1D165: Diacritique musical hampe
 1D166: Diacritique musical hampe sprechgesang : hampe chant parlé
 1D167: Diacritique musical trémolo-1
@@ -220,17 +220,17 @@
 1D1DB: Symbole musical scandicus flexus
 1D1DC: Symbole musical torculus resupinus
 1D1DD: Symbole musical pes subpunctis
-1D1DE: 
-1D1DF: 
-1D1E0: 
-1D1E1: 
-1D1E2: 
-1D1E3: 
-1D1E4: 
-1D1E5: 
-1D1E6: 
-1D1E7: 
-1D1E8: 
+1D1DE: Symbole musical Kievan C Clef
+1D1DF: Symbole musical Kievan Fin de morceau
+1D1E0: Symbole musical Kievan Note finale
+1D1E1: Symbole de musique Kievan Recitative Mark
+1D1E2: Symbole de musique Kievan Whole Note
+1D1E3: Symbole de musique Kievan Half Note
+1D1E4: Symbole de musique Kievan Quarter Note Stem Down
+1D1E5: Symbole de musique Kievan Quarter Note Stem Up
+1D1E6: Symbole de la musique Kievan croche note
+1D1E7: Symbole de la musique Kievan croche note tige
+1D1E8: Symbole musical signe de Kievan
 1D1E9: 
 1D1EA: 
 1D1EB: 

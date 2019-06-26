@@ -1,256 +1,256 @@
-1D800:
-1D801:
-1D802:
-1D803:
-1D804:
-1D805:
-1D806:
-1D807:
-1D808:
-1D809:
-1D80A:
-1D80B:
-1D80C:
-1D80D:
-1D80E:
-1D80F:
-1D810:
-1D811:
-1D812:
-1D813:
-1D814:
-1D815:
-1D816:
-1D817:
-1D818:
-1D819:
-1D81A:
-1D81B:
-1D81C:
-1D81D:
-1D81E:
-1D81F:
-1D820:
-1D821:
-1D822:
-1D823:
-1D824:
-1D825:
-1D826:
-1D827:
-1D828:
-1D829:
-1D82A:
-1D82B:
-1D82C:
-1D82D:
-1D82E:
-1D82F:
-1D830:
-1D831:
-1D832:
-1D833:
-1D834:
-1D835:
-1D836:
-1D837:
-1D838:
-1D839:
-1D83A:
-1D83B:
-1D83C:
-1D83D:
-1D83E:
-1D83F:
-1D840:
-1D841:
-1D842:
-1D843:
-1D844:
-1D845:
-1D846:
-1D847:
-1D848:
-1D849:
-1D84A:
-1D84B:
-1D84C:
-1D84D:
-1D84E:
-1D84F:
-1D850:
-1D851:
-1D852:
-1D853:
-1D854:
-1D855:
-1D856:
-1D857:
-1D858:
-1D859:
-1D85A:
-1D85B:
-1D85C:
-1D85D:
-1D85E:
-1D85F:
-1D860:
-1D861:
-1D862:
-1D863:
-1D864:
-1D865:
-1D866:
-1D867:
-1D868:
-1D869:
-1D86A:
-1D86B:
-1D86C:
-1D86D:
-1D86E:
-1D86F:
-1D870:
-1D871:
-1D872:
-1D873:
-1D874:
-1D875:
-1D876:
-1D877:
-1D878:
-1D879:
-1D87A:
-1D87B:
-1D87C:
-1D87D:
-1D87E:
-1D87F:
-1D880:
-1D881:
-1D882:
-1D883:
-1D884:
-1D885:
-1D886:
-1D887:
-1D888:
-1D889:
-1D88A:
-1D88B:
-1D88C:
-1D88D:
-1D88E:
-1D88F:
-1D890:
-1D891:
-1D892:
-1D893:
-1D894:
-1D895:
-1D896:
-1D897:
-1D898:
-1D899:
-1D89A:
-1D89B:
-1D89C:
-1D89D:
-1D89E:
-1D89F:
-1D8A0:
-1D8A1:
-1D8A2:
-1D8A3:
-1D8A4:
-1D8A5:
-1D8A6:
-1D8A7:
-1D8A8:
-1D8A9:
-1D8AA:
-1D8AB:
-1D8AC:
-1D8AD:
-1D8AE:
-1D8AF:
-1D8B0:
-1D8B1:
-1D8B2:
-1D8B3:
-1D8B4:
-1D8B5:
-1D8B6:
-1D8B7:
-1D8B8:
-1D8B9:
-1D8BA:
-1D8BB:
-1D8BC:
-1D8BD:
-1D8BE:
-1D8BF:
-1D8C0:
-1D8C1:
-1D8C2:
-1D8C3:
-1D8C4:
-1D8C5:
-1D8C6:
-1D8C7:
-1D8C8:
-1D8C9:
-1D8CA:
-1D8CB:
-1D8CC:
-1D8CD:
-1D8CE:
-1D8CF:
-1D8D0:
-1D8D1:
-1D8D2:
-1D8D3:
-1D8D4:
-1D8D5:
-1D8D6:
-1D8D7:
-1D8D8:
-1D8D9:
-1D8DA:
-1D8DB:
-1D8DC:
-1D8DD:
-1D8DE:
-1D8DF:
-1D8E0:
-1D8E1:
-1D8E2:
-1D8E3:
-1D8E4:
-1D8E5:
-1D8E6:
-1D8E7:
-1D8E8:
-1D8E9:
-1D8EA:
-1D8EB:
-1D8EC:
-1D8ED:
-1D8EE:
-1D8EF:
-1D8F0:
-1D8F1:
-1D8F2:
-1D8F3:
-1D8F4:
-1D8F5:
-1D8F6:
-1D8F7:
-1D8F8:
-1D8F9:
-1D8FA:
-1D8FB:
-1D8FC:
-1D8FD:
-1D8FE:
-1D8FF:
+1D800: Kézírásos ökölmutató
+1D801: Aláírási kézkör-index
+1D802: Aláírási kéz-kupa index
+1D803: Aláírási kézi ovális index
+1D804: Aláírási kéz-zsanér index
+1D805: Aláírási kéz-szög index
+1D806: Jelölés Kézfogás Index Bent
+1D807: Aláírási kéz körkörös index
+1D808: Aláíró kézfogás hüvelykujj az Index Bent alatt
+1D809: Feliratkozás Kézfogás Index Emelt emelő
+1D80A: Kézírásos ökölmutató-csatolás
+1D80B: Kézírásos ökölmutató aláírás
+1D80C: Aláírás kézírásos ökölmutató
+1D80D: Aláírás kéz körkörös index csuklópánt
+1D80E: Kézírásos ökölindex-jelzés írása középen
+1D80F: Aláírás kéz körkörös index Középső
+1D810: Aláírás Kézfogás Index középső hajlított
+1D811: Kézírásos ökölmutató, középső emelt karmok
+1D812: Kézírásos ökölmutató, középső csukló
+1D813: Feliratkozás kéz-ököl index felfelé középen
+1D814: Kézírásos ökölmutató indítása középen felfelé
+1D815: Kézírásos ökölmutató index középső összekapcsolása
+1D816: Aláírás Kézfogás Index Középre csatlakozó index Bent
+1D817: Aláíró kézfogás Index középső összekapcsolt középső bent
+1D818: Kézírásos ökölmutató index középső összekapcsolt csésze
+1D819: Kézírásos ökölmutató index középső összekapcsolt csuklópánt
+1D81A: Kézírásos ökölmutató, középső keresztbe
+1D81B: Aláírás kéz körkörös index középső keresztbe
+1D81C: Aláíró kéz ököl középső hajlított index
+1D81D: A kézírásos kézirattár-jelzés aláírása középen középen
+1D81E: Kézírásos ökölmutató, középső hüvelykujj
+1D81F: Feliratkozás Kéz körkörös index Középső hüvelykujj
+1D820: Kézírásos ökölmutató Index középső egyenes Thumb Bent
+1D821: Kézírásos ökölmutató Index Középső Bent Thumb Straight
+1D822: Kézírásos ökölmutató, középső hüvelykujj
+1D823: Aláírás Kézfogás Index Középső csuklópánt Spread Thumb Side
+1D824: Feliratkozás kéz ököllel Index fel középső csuklós hüvelykujj
+1D825: Feliratkozás kéz-ököl index felfelé középső csuklós hüvelykujj
+1D826: Aláírás Kézfogás Index Hinged Middle Up Thumb Side
+1D827: Aláírás Kézi ököl index Középső fel Támogatja a hüvelykujját előre
+1D828: Aláírás Kézfogás Index Középső Thumb Cupped
+1D829: Kézírásos ökölmutató, középső hüvelykujj körözött
+1D82A: Kézírásos ökölmutató, középső hüvely, akasztott
+1D82B: Kézírásos ökölmutató, középső hüvelykujj
+1D82C: A kézírásos kézfogás hüvelykujjával az Index Middle Straight között
+1D82D: Feliratkozás kéz-ököl index középső összekapcsolt hüvelykujj
+1D82E: Feliratkozás kézfogás index középső összekapcsolt hüvelykujjával összekapcsolva
+1D82F: Aláírás Kézi ököl mutató középső összekapcsolt hüvelykujjával
+1D830: Kézírásos ököl középső hüvelykujj felakasztott index felirat
+1D831: Kézírásos ökölmutató-index hüvelykujj felakasztva középre
+1D832: Feliratkozás kéz-ököl index középső összekapcsolt csuklópánt oldal
+1D833: Kézírásos ökölmutató index középső keresztezett hüvelykujj
+1D834: Kézírásos ökölmutató a középső összekapcsolt hüvelykujjával
+1D835: Aláírás Kézi ökölmutató középső összekapcsolt csésze hüvelykujj előre
+1D836: Írás kéz ököl középső hüvelykujjával feltöltött index fel
+1D837: Kézírásos ökölmutatós hüvelykujj hüvelykujj közepén
+1D838: Feliratkozás kézzel ököl középső hüvelykujjával felfelé mutató index
+1D839: Aláírás Kézi ököl középső hüvelykujjával körbeforgatott index
+1D83A: Kézírásos ökölmutató-index hüvelykujj szögben, középre
+1D83B: Kézírásos ökölmutató-mutatós hüvelykujj a középen felfelé
+1D83C: Kézírásos ökölmutató-index hüvelykujj körözött középre
+1D83D: Kézírásos ökölmutató, középső hüvelykujj összekapcsolva
+1D83E: Kézírásos ökölmutató indítása Közepes hüvelykujj szögben
+1D83F: Aláírás Kézfogás Index Középső hüvelyk szögben
+1D840: Feliratkozás kéz ököl középső hüvelykujjával felfelé mutató index
+1D841: Feliratok kézírásos középső hüvelykujjával áthúzott index
+1D842: Aláírás Kéz ököl középső hüvelykujjával felfelé mutató index
+1D843: Kézírásos ökölmutató-mutatós hüvely Hooked Middle Hinged
+1D844: Kézírásos lapos négy ujj aláírása
+1D845: Kézírásos lapos négy ujj aláírása
+1D846: Kézírásos lapos négy ujjak aláírása
+1D847: Kézírásos lapos négy ujj aláírás
+1D848: Aláírás Kézzel lapos négy ujjal összekapcsolva Split
+1D849: A kézírásos kézfogás négy ujjal összekapcsolva
+1D84A: Aláírás Kézi ököl Négy ujj összekapcsolva
+1D84B: A kézírásos kézírásos négy ujjal összekapcsolva
+1D84C: A kézírásos öt ujj aláírása
+1D84D: Kézi írás lapos sarok öt ujjak terjedését
+1D84E: A kézírásos öt ujj aláírása Négy hajlítás
+1D84F: Aláírás Kézi lapos lapos sarok Öt ujj terjeszkedni négy Bent
+1D850: Kézírásos lapos öt ujj aláírása Bent
+1D851: Aláírás Kézi lapos lapos sarok öt ujj elterjedt
+1D852: Kézírásos lapos öt ujj aláírása Thumb Forward
+1D853: Aláírás Kéz-Kupa Öt Ujj elterjedt
+1D854: Aláírás Kéz-Kupa Öt Ujj Spread Open
+1D855: Aláírás Kézi csuklópántok Öt ujj terjeszkedni
+1D856: Kézírásos kézírásos öt ujjjelzés
+1D857: Aláírás Kézzel lapos öt ujj elhajlik
+1D858: Aláírás kézzel lapos öt ujjal terített csuklós oldal
+1D859: Aláírás Kézzel lapos öt ujj elosztott csuklópánt nélkül
+1D85A: Kézírásos kézírás
+1D85B: Kézírásos kézírásos pálmafalak között
+1D85C: Aláírás kéz-lapos sarok
+1D85D: Kézírás lapos lapos hüvelykujj
+1D85E: Kézírásos lapos sarok hüvelykujj
+1D85F: Kézírásos lapos hüvelykujj aláírása
+1D860: Kézírás lapos kéz hüvelykujjával
+1D861: Aláírás kézzel lapos osztott index hüvelykujjával
+1D862: Aláírás kézzel lapos Split központ
+1D863: Aláírás kézzel lapos Split központ hüvelykujjával
+1D864: Aláírás kézzel lapos osztott középső hüvelykujjával
+1D865: Aláírás kézzel lapos Split kis
+1D866: Kézírásos kézírás
+1D867: Kézírásos kézfogás hüvelykujjával
+1D868: Aláírás Kézfogás Nem hüvelykujj
+1D869: Kézírás kézfogás hüvelykujjával előre
+1D86A: Kézírás Hook Curlicue aláírás
+1D86B: Feliratkozás kézi kampóval
+1D86C: Feliratkozás Hand-Cup Open
+1D86D: Signwriting kéz-kupa
+1D86E: Aláírási kéz-kupa Nyitott hüvelykujj
+1D86F: Aláíró kéz-kupa hüvelykujj
+1D870: Aláírási kéz-kupa Nyitott nincs hüvelykujj
+1D871: Aláíró kéz-kupa nem hüvelykujj
+1D872: Aláírási kéz-kupa Nyissa meg a hüvelykujját előre
+1D873: Feliratkozás Hand-Cup Thumb Forward
+1D874: Aláírás Hand-Curlicue Open
+1D875: Kézírásos kézírás
+1D876: Aláírás kéz kör
+1D877: Kézírásos kézírás
+1D878: Kézírásos kézírásos hüvelykujj
+1D879: Kézírásos ovális No Thumb
+1D87A: Kézírásos ovális Thumb Forward
+1D87B: Feliratkozás kéz-zsanér nyitott
+1D87C: Feliratkozás kézi csuklópánt megnyitása hüvelykujjával előre
+1D87D: Kézírás
+1D87E: Aláírás Kézi csuklópánt kis
+1D87F: Feliratkozás kézi csuklópánt megnyitott hüvelykujjával
+1D880: Feliratkozás kéz-csuklós hüvelykujj
+1D881: Aláírás Kézi csuklópánt Nyitva nincs hüvelykujj
+1D882: Aláírás Kéz-zsanér Nincs hüvelykujj
+1D883: Aláíró kéz-csuklós hüvelykujj-érintő index
+1D884: Aláírás kéz-csuklós hüvelykujj közepe között
+1D885: Kézi szög aláírás
+1D886: Kézírásos ökölmutató középső gyűrűje
+1D887: Aláírás kéz körkörös index középső gyűrű
+1D888: Aláíró kéz-zsanér index középső gyűrű
+1D889: Kézírásos szög index középső gyűrűje
+1D88A: Aláírás Kézi csuklópánt kis
+1D88B: Kézírásos ökölmutató a középső gyűrűvel
+1D88C: Kézírásos ökölmutató index középső gyűrűje
+1D88D: Feliratkozás kéz-zsanér index középső gyűrű össze
+1D88E: Aláírás Kéz ököl Kicsit le
+1D88F: Aláíró kéz ököl Kicsit lefelé hullámzik egyenesen
+1D890: Aláíró kéz ököl Kicsit lefelé hullámzó ívelt
+1D891: Kézírásos ököllel író aláírások Kicsinyítettek
+1D892: Feliratkozás kézi ököl kicsit fel
+1D893: Kézírásos ökölvívás hüvelykujj alatt
+1D894: Aláírás kéz körkörös kis fel
+1D895: Kézírásos ovális kisírás
+1D896: Aláírás Kézi szög kis fel
+1D897: Kézírásos ököl kis felemelt csukló
+1D898: Kézírásos ököllel írott aláírás
+1D899: Aláírás Kézi ököl kis érintések Thumb
+1D89A: Kézi írás ököllel
+1D89B: Aláírás Kézi csukló kis hüvelykujj
+1D89C: Aláírás Kéz ököl kis index hüvelykujj
+1D89D: Aláírás kézi csuklós kis index hüvelykujjával
+1D89E: Aláírás Kézi szög kis index hüvelykujj index Thumb Out
+1D89F: Aláírás Kézi szög kis index hüvelykujj index
+1D8A0: Aláíró kéz ököl kis index
+1D8A1: Aláírás kéz körkörös kis index
+1D8A2: Aláíró kéz-csuklós kis index
+1D8A3: Aláírás kézi szög kis index
+1D8A4: Kézírásos ökölmutató indítása Közép-kicsi
+1D8A5: Aláírás kéz körkörös index középső kis
+1D8A6: Aláírás kéz-zsanér index középső kis
+1D8A7: Kézírásos csuklópánt gyűrű
+1D8A8: Aláírás Kézi szög index középső kis
+1D8A9: Aláírás Kézi ököl Index Középkereszt Kis
+1D8AA: Aláírás kéz körkörös index középső kereszt Kis
+1D8AB: Aláíró kéz ököl gyűrű le
+1D8AC: Aláírás Kéz-csuklópánt gyűrű Le Index Thumb Hook Középső
+1D8AD: Kézírásos szögű gyűrű Leírás Közepes hüvelykujj index kereszt
+1D8AE: Feliratkozás kézfogás gyűrűvel felfelé
+1D8AF: Kézírásos ököllel ellátott gyűrű felemelt csukló
+1D8B0: Kézi írás ököl gyűrű kis
+1D8B1: Aláírás kéz körkörös gyűrű kis
+1D8B2: Kézírásos ovális gyűrű írása
+1D8B3: Aláírás Kézi szög kis gyűrű
+1D8B4: Kézírásos ökölgyűrű írása középen
+1D8B5: Kézírásos ökölgyűrű írása középen összekapcsolva
+1D8B6: Kézírásos ököl gyűrű középső emelése
+1D8B7: Kézírásos ököl gyűrű-index írása
+1D8B8: Kézírásos ökölgyűrű írása
+1D8B9: Feliratkozás kézfogókkal Hüvely
+1D8BA: Kézírásos ököl Index Gyűrű Kicsinye
+1D8BB: Aláírás-kéz körkörös indexgyűrű kis
+1D8BC: Aláírás Kéz-Curlicue Index Gyűrű Kis Be
+1D8BD: Aláírás Kézi Hook Index Gyűrű Kis Ki
+1D8BE: Aláírás Kézi Hook Index Gyűrű Kis In
+1D8BF: Aláírás kézírásos kampó Index gyűrű Kis Alul
+1D8C0: Aláírási kéz-kupa index gyűrű Kis
+1D8C1: Aláírás Kézi csuklópánt index gyűrű kis
+1D8C2: Aláírás Kézi szög indexgyűrű kis ki
+1D8C3: Aláírás Kézi szög indexgyűrű kis
+1D8C4: Kézírásos ököllel történő aláírás
+1D8C5: Aláírás kéz-zsanér középső
+1D8C6: Kézi írás ököl középre
+1D8C7: Aláírás kéz körkörös középen
+1D8C8: Kézírásos ököl középső emelt csukló
+1D8C9: Feliratkozás kéz-ököl középső hüvelykujjával
+1D8CA: Aláírás kézfogás középső hüvelykujj
+1D8CB: Aláírás Kéz ököl Középhosszú kis
+1D8CC: Írás kéz ököl Közép-kis
+1D8CD: Kézírásos ököl középső gyűrűje
+1D8CE: Aláírás kéz körkörös középső gyűrű kis
+1D8CF: Aláírás Hand-Curlicue középső gyűrű kis be
+1D8D0: Aláírás kéz-kupa középső gyűrű kis
+1D8D1: Aláírás Kézi csuklópánt középső gyűrűje
+1D8D2: Aláírás Kézi szög középső gyűrű kis ki
+1D8D3: Aláírás kéz-szög középső gyűrű kis be
+1D8D4: Aláírás kéz-szög középső gyűrű kis
+1D8D5: Aláírás Kéz körkörös középső gyűrű Kis hajlított
+1D8D6: Aláírás kéz-karom középső gyűrű kis összekapcsolt
+1D8D7: Aláírás kéz-karom középső gyűrű kis összekapcsolt oldalon
+1D8D8: Aláírás kézfogás középső gyűrű kis összejövetel
+1D8D9: Aláírás Kézi Hook Középső Gyűrű Kis Együtt
+1D8DA: Aláírás kézfogás középső gyűrű kis összejövetel
+1D8DB: Aláírás Kézi csuklópánt index csuklós
+1D8DC: Kézírásos ökölmutató-index hüvelykujj
+1D8DD: Aláírás kéziszerelő index hüvelykujjával
+1D8DE: Feliratkozás kéz-ököl Index hüvelykujj hüvelykujjával
+1D8DF: Kézírásos ökölmutató-index hüvelykujjával összekapcsolva
+1D8E0: Kézírásos ökölmutató-mutatós hüvelykujj oldala
+1D8E1: Aláírás Kézfogás Index hüvelykujj indexe Bent
+1D8E2: Aláírás Kézfogás Index hüvelykujj mindkét oldalirányú
+1D8E3: Aláírás Kéz ököllel Index hüvelykujj index index
+1D8E4: Kézírásos ökölmutató-mutatós hüvelykujj-előrejelzés egyenesen
+1D8E5: Aláírás Kézfogás Index Thumb Forward Index Bent
+1D8E6: Kézírásos ökölmutató-mutatós hüvelyhorog
+1D8E7: Kézírásos ökölmutató írása Thumb Curlicue
+1D8E8: Aláírás Kéz ököllel index Thumb Curve Thumb Inside
+1D8E9: Aláírás Kézfogás Index hüvelyk görbe Thumb Inside
+1D8EA: Aláírás Kézfogás Index Thumb Curve Thumb Under
+1D8EB: Kézírásos ökölmutató-index hüvelyk kör
+1D8EC: Aláírási kéz-kupa index Thumb
+1D8ED: Aláírási kéz-kupa index Thumb Open
+1D8EE: Aláírás Kéz-zsanér index Thumb Open
+1D8EF: Aláírás Kézi csuklópánt index Thumb Large
+1D8F0: Aláíró kézilabdázó index Thumb
+1D8F1: Aláírás Kézi csuklópánt index Thumb Small
+1D8F2: Aláírás kézfogás index Thumb Out
+1D8F3: Aláírás Kézi szög index Thumb In
+1D8F4: Kézírásos szög index írása
+1D8F5: Kézírásos kézfogás Thumb
+1D8F6: Kézírásos ököl Thumb Heel
+1D8F7: Kézírásos ököl hüvelykujj átlós
+1D8F8: A kézírásos kézfogás hüvelykujjával összekapcsolva
+1D8F9: Kézírásos kézfogás Thumb Side Bent
+1D8FA: Kézírásos kézfogás Thumb Forward
+1D8FB: Kézírásos kézfogás hüvelykujj index közepe között
+1D8FC: Kézírásos ökölhúzás a középső gyűrű között
+1D8FD: Kézírásos ököl hüvelykujj gyűrű kicsiny között
+1D8FE: Kézírásos kézfogás hüvelykujj két ujj alatt
+1D8FF: Kézírásos kézfogás hüvelykujj felett két ujj

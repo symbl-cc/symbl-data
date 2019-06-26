@@ -1,7 +1,5 @@
-meta-description: Todos los símbolos Unicode con nombres y descripciones en una sola página: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta-keywords: Unicode, signos, símbolos, caracteres unicode, table, juego de caracteres, la lista de caracteres Unicode, UTF-8, facebook caracteres, la codificación, símbolo del corazón, escritura, idiomas, jeroglíficos, runas, símbolos de flecha, cirílico, latino, símbolos de moneda
+meta-description: Servicio web de búsqueda de caracteres Unicode. Encuentra, copia y pega tus personajes favoritos: 😎 Emoji, ❤ Corazón, 💲 Monedas, → Flechas y más 🚩
 symbol-description: Símbolo: {{symbol}}, el nombre de los caracteres: {{name}}, número Unicode para el signo: {{code}}, el icono se incluye en el bloque: {{block}}.
-
 emoji: emoji
 copy: dupdo
 symbol: signo, icono

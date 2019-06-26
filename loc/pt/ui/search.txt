@@ -6,7 +6,7 @@ example-text: Martelo e foice;seta;coração, estrela;triângulo;cheque;círculo
 h1: Pesquisa
 result: Resultado
 empty: A frase de pesquisa está vazia
-total: Total: %s
+total: Procurar Resultados: %s
 limit: (apenas mostrar %s)
 none: Nenhum
 any: Pesquisa por palavras
@@ -15,3 +15,10 @@ unicode-block: Bloco Unicode
 count-symbols: %s símbolos
 sets: Conjunto
 alphabet: Alfabeto
+
+[empty]
+no_results: Não foram encontrados resultados para "{query}" em português.
+language: Tente mudar de {idioma}.
+blocks: Explore os {blocos Unicode}.
+sets: Procure em {Conjuntos}.
+table: Olhe através da {tabela completa de caracteres}.

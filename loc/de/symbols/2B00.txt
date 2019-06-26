@@ -1,256 +1,256 @@
-2B00: North east white arrow
-2B01: North west white arrow
-2B02: South east white arrow
-2B03: South west white arrow
-2B04: Left right white arrow
-2B05: Leftwards black arrow
-2B06: Upwards black arrow
-2B07: Downwards black arrow
-2B08: North east black arrow
-2B09: North west black arrow
-2B0A: South east black arrow
-2B0B: South west black arrow
-2B0C: Left right black arrow
-2B0D: Up down black arrow
-2B0E: Rightwards arrow with tip downwards
-2B0F: Rightwards arrow with tip upwards
-2B10: Leftwards arrow with tip downwards
-2B11: Leftwards arrow with tip upwards
-2B12: Square with top half black
-2B13: Square with bottom half black
-2B14: Square with upper right diagonal half black
-2B15: Square with lower left diagonal half black
-2B16: Diamond with left half black
-2B17: Diamond with right half black
-2B18: Diamond with top half black
-2B19: Diamond with bottom half black
-2B1A: Dotted square
-2B1B: Black large square
-2B1C: White large square
-2B1D: Black very small square
-2B1E: White very small square
-2B1F: Black pentagon
-2B20: White pentagon
-2B21: White hexagon
-2B22: Black hexagon
-2B23: Horizontal black hexagon
-2B24: Black large circle
-2B25: Black medium diamond
-2B26: White medium diamond
-2B27: Black medium lozenge
-2B28: White medium lozenge
-2B29: Black small diamond
-2B2A: Black small lozenge
-2B2B: White small lozenge
-2B2C: Black horizontal ellipse
-2B2D: White horizontal ellipse
-2B2E: Black vertical ellipse
-2B2F: White vertical ellipse
-2B30: Left arrow with small circle
-2B31: Three leftwards arrows
-2B32: Left arrow with circled plus
-2B33: Long leftwards squiggle arrow
-2B34: Leftwards two-headed arrow with vertical stroke
-2B35: Leftwards two-headed arrow with double vertical stroke
-2B36: Leftwards two-headed arrow from bar
-2B37: Leftwards two-headed triple dash arrow
-2B38: Leftwards arrow with dotted stem
-2B39: Leftwards arrow with tail with vertical stroke
-2B3A: Leftwards arrow with tail with double vertical stroke
-2B3B: Leftwards two-headed arrow with tail
-2B3C: Leftwards two-headed arrow with tail with vertical stroke
-2B3D: Leftwards two-headed arrow with tail with double vertical stroke
-2B3E: Leftwards arrow through x
-2B3F: Wave arrow pointing directly left
-2B40: Equals sign above leftwards arrow
-2B41: Reverse tilde operator above leftwards arrow
-2B42: Leftwards arrow above reverse almost equal to
-2B43: Rightwards arrow through greater-than
-2B44: Rightwards arrow through superset
-2B45: Leftwards quadruple arrow
-2B46: Rightwards quadruple arrow
-2B47: Reverse tilde operator above rightwards arrow
-2B48: Rightwards arrow above reverse almost equal to
-2B49: Tilde operator above leftwards arrow
-2B4A: Leftwards arrow above almost equal to
-2B4B: Leftwards arrow above reverse tilde operator
-2B4C: Rightwards arrow above reverse tilde operator
-2B4D:
-2B4E:
-2B4F:
-2B50: White medium star
-2B51: Black small star
-2B52: White small star
-2B53: Black right-pointing pentagon
-2B54: White right-pointing pentagon
-2B55: Heavy large circle
-2B56: Heavy oval with oval inside
-2B57: Heavy circle with circle inside
-2B58: Heavy circle
-2B59: Heavy circled saltire
-2B5A:
-2B5B:
-2B5C:
-2B5D:
-2B5E:
-2B5F:
-2B60:
-2B61:
-2B62:
-2B63:
-2B64:
-2B65:
-2B66:
-2B67:
-2B68:
-2B69:
-2B6A:
-2B6B:
-2B6C:
-2B6D:
-2B6E:
-2B6F:
-2B70:
-2B71:
-2B72:
-2B73:
+2B00: North East White Arrow
+2B01: Nordwestlicher weißer Pfeil
+2B02: Südostweißer Pfeil
+2B03: Südwestweißer Pfeil
+2B04: Linker rechter weißer Pfeil
+2B05: Schwarzer Pfeil nach links
+2B06: Aufwärts schwarzer Pfeil
+2B07: Abwärts schwarzer Pfeil
+2B08: Schwarzer Nordostpfeil
+2B09: Nordwestlicher schwarzer Pfeil
+2B0A: Schwarzer Südostpfeil
+2B0B: Südwestlicher schwarzer Pfeil
+2B0C: Linker rechter schwarzer Pfeil
+2B0D: Schwarzer Pfeil nach unten
+2B0E: Pfeil nach rechts mit Spitze nach unten
+2B0F: Pfeil nach rechts mit Spitze nach oben
+2B10: Pfeil nach links mit Spitze nach unten
+2B11: Pfeil nach links mit Spitze nach oben
+2B12: Quadrat mit oberer Hälfte schwarz
+2B13: Quadrat mit unterer Hälfte schwarz
+2B14: Quadrat mit oberer rechter diagonaler Hälfte schwarz
+2B15: Quadrat mit unterer linker diagonaler Hälfte schwarz
+2B16: Diamant mit linker Hälfte schwarz
+2B17: Diamant mit rechter Hälfte schwarz
+2B18: Diamant mit oberer Hälfte schwarz
+2B19: Diamant mit unterer Hälfte schwarz
+2B1A: Gepunktetes Quadrat
+2B1B: Schwarzes großes Quadrat
+2B1C: Weißes großes Quadrat
+2B1D: Schwarzes sehr kleines Quadrat
+2B1E: Weißes sehr kleines Quadrat
+2B1F: Schwarzes Pentagon
+2B20: Weißes Pentagon
+2B21: Weißes Sechseck
+2B22: Schwarzes Sechseck
+2B23: Horizontales schwarzes Sechseck
+2B24: Schwarzer großer Kreis
+2B25: Schwarzer mittlerer Diamant
+2B26: Weißer mittlerer Diamant
+2B27: Schwarze mittlere Raute
+2B28: Weiße mittlere Raute
+2B29: Schwarzer kleiner Diamant
+2B2A: Schwarze kleine Raute
+2B2B: Weiße kleine Raute
+2B2C: Schwarze horizontale Ellipse
+2B2D: Weiße horizontale Ellipse
+2B2E: Schwarze vertikale Ellipse
+2B2F: Weiße vertikale Ellipse
+2B30: Linker Pfeil mit kleinem Kreis
+2B31: Drei nach links gerichtete Pfeile
+2B32: Linker Pfeil mit Circled Plus
+2B33: Langer nach links gerichteter Squiggle-Pfeil
+2B34: Pfeil nach links mit senkrechtem Strich
+2B35: Doppelpfeil nach links mit doppeltem vertikalem Strich
+2B36: Doppelpfeil nach links von der Bar
+2B37: Pfeil nach links mit zwei Köpfen
+2B38: Pfeil nach links mit gepunktetem Stamm
+2B39: Pfeil nach links mit Schwanz mit vertikalem Strich
+2B3A: Pfeil nach links mit Schwanz mit doppeltem vertikalem Strich
+2B3B: Nach links gerichteter zweiköpfiger Pfeil mit Schwanz
+2B3C: Nach links gerichteter zweiköpfiger Pfeil mit Schwanz mit vertikalem Strich
+2B3D: Nach links gerichteter zweiköpfiger Pfeil mit Schwanz mit doppeltem vertikalem Strich
+2B3E: Pfeil nach links durch X
+2B3F: Wellenpfeil, der direkt nach links zeigt
+2B40: Gleichheitszeichen über dem Pfeil nach links
+2B41: Reverse-Tilde-Operator Über Linkspfeil
+2B42: Pfeil nach links über der Rückseite fast gleich
+2B43: Pfeil nach rechts durch mehr als
+2B44: Pfeil nach rechts durch Superset
+2B45: Vierfachpfeil nach links
+2B46: Vierfachpfeil nach rechts
+2B47: Reverse-Tilde-Operator über dem Pfeil nach rechts
+2B48: Pfeil nach rechts oben fast gleich
+2B49: Tilde-Operator über dem Pfeil nach links
+2B4A: Pfeil nach links oben fast gleich
+2B4B: Pfeil nach links über Reverse-Tilde-Operator
+2B4C: Pfeil nach rechts über Reverse-Tilde-Operator
+2B4D: Abwärts Dreieckköpfiger Zickzackpfeil
+2B4E: Kurzer geneigter Nordpfeil
+2B4F: Kurzer, nach hinten gerichteter Südpfeil
+2B50: Weißer mittlerer Stern : Gelber Stern
+2B51: Schwarzer kleiner Stern
+2B52: Weißer kleiner Stern
+2B53: Schwarzes nach rechts zeigendes Pentagon
+2B54: Weißes nach rechts zeigendes Pentagon
+2B55: Schwerer großer Kreis : Basissymbol für Geschwindigkeitsbegrenzung, Richtig, Roter Kreis, Kreismarkierung
+2B56: Schweres Oval mit innenliegendem Oval : Büro der Präfektur
+2B57: Schwerer Kreis mit Kreis nach innen : Gemeindeamt
+2B58: Schwerer Kreis : Stadt- oder Dorfamt
+2B59: Schwerer eingekreister Saltire : Polizeistation
+2B5A: Abgeschrägter Nordpfeil mit Hakenkopf
+2B5B: Abgeschrägter Südpfeil mit Hooked Tail
+2B5C: Abgeschrägter Nordpfeil mit horizontalem Heck
+2B5D: Nach hinten gerichteter Südpfeil mit horizontalem Heck
+2B5E: Gebogener Pfeil nach unten, dann nach Nordosten
+2B5F: Kurzer gebogener Pfeil, der nach unten und dann nach Nordosten zeigt
+2B60: Dreieckspfeil nach links
+2B61: Dreieckspfeil nach oben
+2B62: Dreieckspfeil nach rechts
+2B63: Abwärts Dreieckspfeil
+2B64: Linker rechter Dreieckspfeil
+2B65: Dreieckspfeil nach oben
+2B66: Nordwest-Dreieckspfeil
+2B67: Nordöstlicher Dreieckspfeil
+2B68: Südost-Dreieckspfeil
+2B69: Südwest-Dreieckköpfiger Pfeil
+2B6A: Dreieckköpfiger Pfeil nach links
+2B6B: Aufwärts dreieckköpfiger gestrichelter Pfeil
+2B6C: Dreieckspitziger Pfeil nach rechts
+2B6D: Abwärts dreieckköpfiger gestrichelter Pfeil
+2B6E: Dreieckköpfiger Pfeil im Uhrzeigersinn
+2B6F: Dreieckköpfiger offener Kreispfeil gegen den Uhrzeigersinn
+2B70: Dreieckspfeil nach links : linker Tab
+2B71: Aufwärts Dreieckköpfiger Pfeil zur Stange : Registerkarte hoch
+2B72: Dreieckspfeil nach rechts nach rechts : rechter Tab
+2B73: Abwärts Dreieckköpfiger Pfeil zur Stange : Tab unten
 2B74:
 2B75:
-2B76:
-2B77:
-2B78:
-2B79:
-2B7A:
-2B7B:
-2B7C:
-2B7D:
-2B7E:
-2B7F:
-2B80:
-2B81:
-2B82:
-2B83:
-2B84:
-2B85:
-2B86:
-2B87:
-2B88:
-2B89:
-2B8A:
-2B8B:
-2B8C:
-2B8D:
-2B8E:
-2B8F:
-2B90:
-2B91:
-2B92:
-2B93:
-2B94:
-2B95:
+2B76: Nordwest Dreieckköpfiger Pfeil zur Stange : Zuhause
+2B77: Nord-Ost-Dreieck-Pfeil nach rechts
+2B78: Südost-Dreieck-Pfeil nach rechts : Ende
+2B79: Südwest Dreieckköpfiger Pfeil zur Stange
+2B7A: Dreieckspfeil nach links mit doppeltem horizontalem Strich
+2B7B: Aufwärts Dreieckspfeil mit doppeltem horizontalem Strich : Seite nach oben
+2B7C: Dreieckspfeil nach rechts mit doppeltem horizontalem Strich
+2B7D: Abwärts Dreieckspfeil mit doppeltem horizontalem Strich : Seite nach unten
+2B7E: Horizontale Tabulatortaste
+2B7F: Vertikale Tabulatortaste
+2B80: Dreieckspfeil nach links über Dreieckspfeil nach rechts
+2B81: Aufwärts Dreieckspfeil Links von Abwärts Dreieckspfeil
+2B82: Dreieckspfeil nach rechts über Dreieckspfeil nach links
+2B83: Abwärtspfeil mit Dreieckspfeil nach links vom Aufwärtspfeil mit Dreieckspfeil
+2B84: Dreieckköpfige gepaarte Pfeile nach links
+2B85: Dreieckköpfige gepaarte Pfeile nach oben
+2B86: Dreieckköpfige gepaarte Pfeile nach rechts
+2B87: Abwärts Dreieckköpfige gepaarte Pfeile
+2B88: Links schwarzer eingekreister weißer Pfeil
+2B89: Aufwärts schwarzer eingekreister weißer Pfeil
+2B8A: Rechts schwarz eingekreister weißer Pfeil
+2B8B: Abwärts schwarzer eingekreister weißer Pfeil
+2B8C: Dreieckköpfiger rechter U-Pfeil im Gegenuhrzeigersinn
+2B8D: U-förmiger Pfeil gegen den Uhrzeigersinn mit dreieckigem Kopf
+2B8E: Dreieckköpfiger linker U-förmiger Pfeil gegen den Uhrzeigersinn
+2B8F: U-förmiger Pfeil gegen den Uhrzeigersinn mit dreieckigem Kopf
+2B90: Zurück nach links
+2B91: Zurück nach rechts
+2B92: Newline Left
+2B93: Newline Right
+2B94: Vier Eckpfeile, die gegen den Uhrzeigersinn kreisten : Schleife
+2B95: Schwarzer Pfeil nach rechts
 2B96:
 2B97:
-2B98:
-2B99:
-2B9A:
-2B9B:
-2B9C:
-2B9D:
-2B9E:
-2B9F:
-2BA0:
-2BA1:
-2BA2:
-2BA3:
-2BA4:
-2BA5:
-2BA6:
-2BA7:
-2BA8:
-2BA9:
-2BAA:
-2BAB:
-2BAC:
-2BAD:
-2BAE:
-2BAF:
-2BB0:
-2BB1:
-2BB2:
-2BB3:
-2BB4:
-2BB5:
-2BB6:
-2BB7:
-2BB8:
-2BB9:
-2BBA:
-2BBB:
-2BBC:
-2BBD:
-2BBE:
-2BBF:
-2BC0:
-2BC1:
-2BC2:
-2BC3:
-2BC4:
-2BC5:
-2BC6:
-2BC7:
-2BC8:
+2B98: Dreidimensionale linksgerichtete gleichseitige Pfeilspitze
+2B99: Dreidimensionale, nach rechts beleuchtete gleichseitige Pfeilspitze
+2B9A: Dreidimensionale oben beleuchtete gleichseitige Pfeilspitze
+2B9B: Dreidimensionale linksgerichtete gleichseitige Pfeilspitze
+2B9C: Schwarze gleichseitige Pfeilspitze nach links
+2B9D: Schwarze aufwärts gleichseitige Pfeilspitze
+2B9E: Schwarze gleichseitige Pfeilspitze nach rechts
+2B9F: Schwarze gleichseitige Pfeilspitze nach unten
+2BA0: Abwärts Dreieckspfeil mit langer Spitze nach links
+2BA1: Abwärts Dreieckspfeil mit langer Spitze nach rechts
+2BA2: Aufwärts Dreieckspfeil mit langer Spitze nach links
+2BA3: Aufwärts Dreieckspfeil mit langer Spitze nach rechts
+2BA4: Dreieckspfeil nach links mit langer Spitze nach oben
+2BA5: Dreieckspfeil nach rechts mit langer Spitze nach oben
+2BA6: Dreieckspfeil nach links mit langer Spitze nach unten
+2BA7: Dreieckspfeil nach rechts mit langer Spitze nach unten
+2BA8: Schwarzer Pfeil nach unten und links gebogen
+2BA9: Schwarzer Pfeil nach unten und rechts gebogen
+2BAA: Schwarzer nach oben und links gekrümmter Pfeil
+2BAB: Schwarzer Pfeil nach oben und rechts gebogen
+2BAC: Schwarzer Pfeil nach links und oben gebogen
+2BAD: Schwarzer Pfeil nach rechts und oben gebogen
+2BAE: Schwarzer Pfeil nach links und nach unten gebogen
+2BAF: Schwarzer Pfeil nach rechts und unten gebogen
+2BB0: Bandpfeil nach links unten
+2BB1: Pfeil nach rechts unten
+2BB2: Bandpfeil nach oben links
+2BB3: Multifunktionsleiste Pfeil nach rechts
+2BB4: Multifunktionsleiste Pfeil nach oben
+2BB5: Multifunktionsleiste Pfeil nach oben
+2BB6: Bandpfeil nach links unten
+2BB7: Multifunktionsleiste Pfeil nach unten
+2BB8: Aufwärts weißer Pfeil von der Stange mit der horizontalen Stange : Feststelltaste
+2BB9: Pfeil nach oben in einer Rechteckbox : Flucht
+2BBA: Überlappende weiße Quadrate
+2BBB: Überlappende weiße und schwarze Quadrate
+2BBC: Überlappende schwarze Quadrate
+2BBD: Wahlurne mit Licht X
+2BBE: Eingekreistes X
+2BBF: Eingekreistes Fett X
+2BC0: Schwarzes Quadrat zentriert
+2BC1: Schwarzer Diamant zentriert
+2BC2: Gedrehtes schwarzes Pentagon
+2BC3: Horizontales schwarzes Achteck
+2BC4: Schwarzes Achteck
+2BC5: Schwarzes mittleres nach oben zeigendes Dreieck zentriert
+2BC6: Schwarzes mittleres Abwärtsdreieck zentriert
+2BC7: Schwarzes mittleres nach links zeigendes Dreieck zentriert
+2BC8: Schwarzes mittleres rechtwinkliges Dreieck zentriert
 2BC9:
-2BCA:
-2BCB:
-2BCC:
-2BCD:
-2BCE:
-2BCF:
-2BD0:
-2BD1:
-2BD2:
-2BD3:
-2BD4:
-2BD5:
-2BD6:
-2BD7:
-2BD8:
-2BD9:
-2BDA:
-2BDB:
-2BDC:
-2BDD:
-2BDE:
-2BDF:
-2BE0:
-2BE1:
-2BE2:
-2BE3:
-2BE4:
-2BE5:
-2BE6:
-2BE7:
-2BE8:
-2BE9:
-2BEA:
-2BEB:
-2BEC:
-2BED:
-2BEE:
-2BEF:
-2BF0:
-2BF1:
-2BF2:
-2BF3:
-2BF4:
-2BF5:
-2BF6:
-2BF7:
-2BF8:
-2BF9:
-2BFA:
-2BFB:
-2BFC:
-2BFD:
-2BFE:
+2BCA: Top Half Black Circle
+2BCB: Bottom Half Black Circle
+2BCC: Leichte vierspitze schwarze Spitze
+2BCD: Rotiertes helles vierzackiges schwarzes Höckchen
+2BCE: Vierkantiger weißer Höcker
+2BCF: Gedrehte weiße vierspitze Spitze
+2BD0: Quadratische Positionsanzeige
+2BD1: Unsicherheitszeichen : Abfrage
+2BD2: Gruppenmarkierung
+2BD3: Pluto Form Zwei
+2BD4: Pluto Form Drei
+2BD5: Pluto Form Vier
+2BD6: Pluto Form Fünf
+2BD7: Transpluto
+2BD8: Proserpina
+2BD9: Astraea
+2BDA: Hygiea
+2BDB: Pholus
+2BDC: Nessus
+2BDD: Weißer Mond Selena
+2BDE: Schwarzer Diamant am Kreuz
+2BDF: True Light Moon Arta
+2BE0: Cupido
+2BE1: Hades
+2BE2: Zeus
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: Poseidon
+2BE8: Linke Hälfte schwarzer Stern
+2BE9: Rechte Hälfte schwarzer Stern
+2BEA: Stern mit linker Hälfte schwarz
+2BEB: Stern mit rechter Hälfte Schwarz
+2BEC: Doppelpfeil nach links mit Tringle-Pfeilspitzen : schneller Cursor nach links
+2BED: Aufwärts zweiköpfiger Pfeil mit Tringlepfeilspitzen : schneller Cursor nach oben
+2BEE: Pfeil nach rechts mit Pfeilspitzen : schneller Cursor nach rechts
+2BEF: Abwärtspfeil mit Pfeilspitzen : schneller Cursor runter
+2BF0: Eris Form Eins
+2BF1: Eris Formular Zwei
+2BF2: Sedna
+2BF3: Russisches astrologisches Symbol Vigintile
+2BF4: Russisches astrologisches Symbol Novile
+2BF5: Russisches astrologisches Symbol Quintil
+2BF6: Russisches astrologisches Symbol Binovile
+2BF7: Russisches astrologisches Symbol Sentagon
+2BF8: Russisches astrologisches Symbol Tredecile
+2BF9: Gleichheitszeichen mit unendlich unten
+2BFA: Vereinigtes Symbol
+2BFB: Getrenntes Symbol
+2BFC: Doppelte Symbol
+2BFD: Bestandenes Symbol
+2BFE: Umgekehrter rechter Winkel
 2BFF:

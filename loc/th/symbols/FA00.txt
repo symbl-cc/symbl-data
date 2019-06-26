@@ -1,256 +1,256 @@
-FA00 : 
-FA01 : 
-FA02 : 
-FA03 : 
-FA04 : 
-FA05 : 
-FA06 : 
-FA07 : 
-FA08 : 
-FA09 : 
-FA0A : 
-FA0B : 
-FA0C : 
-FA0D : 
-FA0E : 
-FA0F : 
-FA10 : 
-FA11 : 
-FA12 : 
-FA13 : 
-FA14 : 
-FA15 : 
-FA16 : 
-FA17 : 
-FA18 : 
-FA19 : 
-FA1A : 
-FA1B : 
-FA1C : 
-FA1D : 
-FA1E : 
-FA1F : 
-FA20 : 
-FA21 : 
-FA22 : 
-FA23 : 
-FA24 : 
-FA25 : 
-FA26 : 
-FA27 : 
-FA28 : 
-FA29 : 
-FA2A : 
-FA2B : 
-FA2C : 
-FA2D : 
-FA2E : 
-FA2F : 
-FA30 : 
-FA31 : 
-FA32 : 
-FA33 : 
-FA34 : 
-FA35 : 
-FA36 : 
-FA37 : 
-FA38 : 
-FA39 : 
-FA3A : 
-FA3B : 
-FA3C : 
-FA3D : 
-FA3E : 
-FA3F : 
-FA40 : 
-FA41 : 
-FA42 : 
-FA43 : 
-FA44 : 
-FA45 : 
-FA46 : 
-FA47 : 
-FA48 : 
-FA49 : 
-FA4A : 
-FA4B : 
-FA4C : 
-FA4D : 
-FA4E : 
-FA4F : 
-FA50 : 
-FA51 : 
-FA52 : 
-FA53 : 
-FA54 : 
-FA55 : 
-FA56 : 
-FA57 : 
-FA58 : 
-FA59 : 
-FA5A : 
-FA5B : 
-FA5C : 
-FA5D : 
-FA5E : 
-FA5F : 
-FA60 : 
-FA61 : 
-FA62 : 
-FA63 : 
-FA64 : 
-FA65 : 
-FA66 : 
-FA67 : 
-FA68 : 
-FA69 : 
-FA6A : 
-FA6B : 
-FA6C : 
-FA6D : 
-FA6E : 
-FA6F : 
-FA70 : 
-FA71 : 
-FA72 : 
-FA73 : 
-FA74 : 
-FA75 : 
-FA76 : 
-FA77 : 
-FA78 : 
-FA79 : 
-FA7A : 
-FA7B : 
-FA7C : 
-FA7D : 
-FA7E : 
-FA7F : 
-FA80 : 
-FA81 : 
-FA82 : 
-FA83 : 
-FA84 : 
-FA85 : 
-FA86 : 
-FA87 : 
-FA88 : 
-FA89 : 
-FA8A : 
-FA8B : 
-FA8C : 
-FA8D : 
-FA8E : 
-FA8F : 
-FA90 : 
-FA91 : 
-FA92 : 
-FA93 : 
-FA94 : 
-FA95 : 
-FA96 : 
-FA97 : 
-FA98 : 
-FA99 : 
-FA9A : 
-FA9B : 
-FA9C : 
-FA9D : 
-FA9E : 
-FA9F : 
-FAA0 : 
-FAA1 : 
-FAA2 : 
-FAA3 : 
-FAA4 : 
-FAA5 : 
-FAA6 : 
-FAA7 : 
-FAA8 : 
-FAA9 : 
-FAAA : 
-FAAB : 
-FAAC : 
-FAAD : 
-FAAE : 
-FAAF : 
-FAB0 : 
-FAB1 : 
-FAB2 : 
-FAB3 : 
-FAB4 : 
-FAB5 : 
-FAB6 : 
-FAB7 : 
-FAB8 : 
-FAB9 : 
-FABA : 
-FABB : 
-FABC : 
-FABD : 
-FABE : 
-FABF : 
-FAC0 : 
-FAC1 : 
-FAC2 : 
-FAC3 : 
-FAC4 : 
-FAC5 : 
-FAC6 : 
-FAC7 : 
-FAC8 : 
-FAC9 : 
-FACA : 
-FACB : 
-FACC : 
-FACD : 
-FACE : 
-FACF : 
-FAD0 : 
-FAD1 : 
-FAD2 : 
-FAD3 : 
-FAD4 : 
-FAD5 : 
-FAD6 : 
-FAD7 : 
-FAD8 : 
-FAD9 : 
-FADA : 
-FADB : 
-FADC : 
-FADD : 
-FADE : 
-FADF : 
-FAE0 : 
-FAE1 : 
-FAE2 : 
-FAE3 : 
-FAE4 : 
-FAE5 : 
-FAE6 : 
-FAE7 : 
-FAE8 : 
-FAE9 : 
-FAEA : 
-FAEB : 
-FAEC : 
-FAED : 
-FAEE : 
-FAEF : 
-FAF0 : 
-FAF1 : 
-FAF2 : 
-FAF3 : 
-FAF4 : 
-FAF5 : 
-FAF6 : 
-FAF7 : 
-FAF8 : 
-FAF9 : 
-FAFA : 
-FAFB : 
-FAFC : 
-FAFD : 
-FAFE : 
-FAFF : 
+FA00: การตัดแบบอักษร, การสับ, ชิ้น, แกะสลัก CJK
+FA01: การศึกษาระดับปริญญาอุดมคติระบบ ลักษณะ; เพื่อพิจารณา CJK
+FA02: การขยายตัวของอุดมคติ เปิดออก; สนับสนุนหรือผลักดัน CJK
+FA03: น้ำตาลในอุดมคติ ลูกอม; ของหวาน CJK
+FA04: บ้าน, บ้าน, บ้าน หลุมศพ CJK
+FA05: ถ้ำพิมพ์เขียวถ้ำ หุบ; หลุม CJK
+FA06: ความรุนแรง, การโหดร้าย, การกดขี่ข่มเหง CJK
+FA07: ล้อเฟล็กซี่ CJK
+FA08: อุดมการณ์ไป เดิน; ย้ายท่องเที่ยว หมุนเวียน CJK
+FA09: การวาดภาพลง, ตก, ตก; ต่ำลง CJK
+FA0A: มองเห็น, สังเกต, ดู; รับรู้ CJK
+FA0B: พิมพ์ใหญ่, กว้าง, เปิดกว้าง, ว่างเปล่า; ขยาย CJK
+FA0C: อักษรตัวพิมพ์ใหญ่ของ Big Five A461 CJK
+FA0D: Ideograph vomit CJK
+FA0E: ความเข้ากันได้ Cjk Ideograph-Fa0e
+FA0F: Cjk ความเข้ากันได้ Ideograph-Fa0f
+FA10: สุสานอุดมคติ CJK หลุมฝังศพ
+FA11: Cjk Compatibility Ideograph-Fa11
+FA12: สภาพอากาศแจ่มใส CJK
+FA13: Cjk Compatibility Ideograph-Fa13
+FA14: ความเข้ากันได้ Cjk Ideograph-Fa14
+FA15: CJK สว่าง
+FA16: CJK
+FA17: ผลกำไร Ideograph CJK : jik1
+FA18: การออกแบบทางสังคม มารยาท; CJK มารยาท
+FA19: CJK จิตวิญญาณแห่งการออกแบบ
+FA1A: ขอให้โชคดี CJK
+FA1B: ความสุขในอุดมคติ
+FA1C: Ideograph pacify เอาใจ; สงบ CJK
+FA1D: สาระสำคัญของอุดมการณ์ น้ำอสุจิ; จิตวิญญาณ CJK
+FA1E: ขนนก Ideograph CJK
+FA1F: Cjk Compatibility Ideograph-Fa1f
+FA20: Cjk Compatibility Ideograph-Fa20
+FA21: Cjk Compatibility Ideograph-Fa21
+FA22: Ideograph CJK หลายตัว
+FA23: ความเข้ากันได้ Cjk Ideograph-Fa23
+FA24: ความเข้ากันได้ Cjk Ideograph-Fa24
+FA25: Ideographs หนี CJK
+FA26: มหานคร Ideograph CJK
+FA27: Cjk Compatibility Ideograph-Fa27
+FA28: Cjk Compatibility Ideograph-Fa28
+FA29: ความเข้ากันได้ Cjk Ideograph-Fa29
+FA2A: ข้าวหุงต้ม อาหาร; มื้ออาหาร CJK
+FA2B: สัตว์เลี้ยง ฟีด; บำรุง CJK
+FA2C: อาคารสาธารณะ Ideograph CJK
+FA2D: Ideograph crane CJK
+FA2E: Cjk ความเข้ากันได้ Ideograph-Fa2e
+FA2F: ความเข้ากันได้ Cjk Ideograph-Fa2f
+FA30: ความเข้ากันได้ Cjk Ideograph-Fa30
+FA31: ความเข้ากันได้ Cjk Ideograph-Fa31
+FA32: Cjk Compatibility Ideograph-Fa32
+FA33: ความเข้ากันได้ Cjk Ideograph-Fa33
+FA34: ความเข้ากันได้ Cjk Ideograph-Fa34
+FA35: Cjk ความเข้ากันได้ Ideograph-Fa35
+FA36: ความเข้ากันได้ Cjk Ideograph-Fa36
+FA37: ความเข้ากันได้ Cjk Ideograph-Fa37
+FA38: ความเข้ากันได้ Cjk Ideograph-Fa38
+FA39: Cjk ความเข้ากันได้ Ideograph-Fa39
+FA3A: Cjk ความเข้ากันได้ Ideograph-Fa3a
+FA3B: Cjk ความเข้ากันได้ Ideograph-Fa3b
+FA3C: Cjk ความเข้ากันได้ Ideograph-Fa3c
+FA3D: Cjk Compatibility Ideograph-Fa3d
+FA3E: Cjk ความเข้ากันได้ Ideograph-Fa3e
+FA3F: Cjk Compatibility Ideograph-Fa3f
+FA40: Cjk Compatibility Ideograph-Fa40
+FA41: ความเข้ากันได้ Cjk Ideograph-Fa41
+FA42: ความเข้ากันได้ Cjk Ideograph-Fa42
+FA43: Cjk ความเข้ากันได้ Ideograph-Fa43
+FA44: Cjk Compatibility Ideograph-Fa44
+FA45: ความเข้ากันได้ Cjk Ideograph-Fa45
+FA46: Cjk ความเข้ากันได้ Ideograph-Fa46
+FA47: Cjk Compatibility Ideograph-Fa47
+FA48: Cjk ความเข้ากันได้ Ideograph-Fa48
+FA49: ความเข้ากันได้ Cjk Ideograph-Fa49
+FA4A: Cjk ความเข้ากันได้ Ideograph-Fa4a
+FA4B: ความเข้ากันได้ Cjk Ideograph-Fa4b
+FA4C: Cjk ความเข้ากันได้ Ideograph-Fa4c
+FA4D: Cjk ความเข้ากันได้ Ideograph-Fa4d
+FA4E: Cjk Compatibility Ideograph-Fa4e
+FA4F: Cjk ความเข้ากันได้ Ideograph-Fa4f
+FA50: Cjk Compatibility Ideograph-Fa50
+FA51: Cjk ความเข้ากันได้ Ideograph-Fa51
+FA52: ความเข้ากันได้ Cjk Ideograph-Fa52
+FA53: ความเข้ากันได้ Cjk Ideograph-Fa53
+FA54: Cjk Compatibility Ideograph-Fa54
+FA55: Cjk Compatibility Ideograph-Fa55
+FA56: ความเข้ากันได้ Cjk Ideograph-Fa56
+FA57: Cjk ความเข้ากันได้ Ideograph-Fa57
+FA58: ความเข้ากันได้ของ Cjk Ideograph-Fa58
+FA59: Cjk ความเข้ากันได้ Ideograph-Fa59
+FA5A: Cjk ความเข้ากันได้ Ideograph-Fa5a
+FA5B: Cjk ความเข้ากันได้ Ideograph-Fa5b
+FA5C: Cjk ความเข้ากันได้ Ideograph-Fa5c
+FA5D: Cjk Compatibility Ideograph-Fa5d
+FA5E: Cjk Compatibility Ideograph-Fa5e
+FA5F: Cjk Compatibility Ideograph-Fa5f
+FA60: Cjk Compatibility Ideograph-Fa60
+FA61: Cjk Compatibility Ideograph-Fa61
+FA62: Cjk ความเข้ากันได้ Ideograph-Fa62
+FA63: Cjk Compatibility Ideograph-Fa63
+FA64: Cjk Compatibility Ideograph-Fa64
+FA65: ความเข้ากันได้ Cjk Ideograph-Fa65
+FA66: Cjk Compatibility Ideograph-Fa66
+FA67: Cjk ความเข้ากันได้ Ideograph-Fa67
+FA68: ความเข้ากันได้ Cjk Ideograph-Fa68
+FA69: Cjk Compatibility Ideograph-Fa69
+FA6A: ความเข้ากันได้ Cjk Ideograph-Fa6a
+FA6B: Cjk ความเข้ากันได้ Ideograph-Fa6b
+FA6C: Cjk ความเข้ากันได้ Ideograph-Fa6c
+FA6D: Cjk ความเข้ากันได้ Ideograph-Fa6d
+FA6E:
+FA6F:
+FA70: ความเข้ากันได้ Cjk Ideograph-Fa70
+FA71: ความเข้ากันได้ Cjk Ideograph-Fa71
+FA72: Cjk ความเข้ากันได้ Ideograph-Fa72
+FA73: ความเข้ากันได้ Cjk Ideograph-Fa73
+FA74: ความเข้ากันได้ Cjk Ideograph-Fa74
+FA75: Cjk ความเข้ากันได้ Ideograph-Fa75
+FA76: Cjk ความเข้ากันได้ Ideograph-Fa76
+FA77: ความเข้ากันได้ Cjk Ideograph-Fa77
+FA78: ความเข้ากันได้ Cjk Ideograph-Fa78
+FA79: ความเข้ากันได้ Cjk Ideograph-Fa79
+FA7A: Cjk ความเข้ากันได้ Ideograph-Fa7a
+FA7B: ความเข้ากันได้ Cjk Ideograph-Fa7b
+FA7C: Cjk ความเข้ากันได้ Ideograph-Fa7c
+FA7D: Cjk Compatibility Ideograph-Fa7d
+FA7E: Cjk Compatibility Ideograph-Fa7e
+FA7F: Cjk Compatibility Ideograph-Fa7f
+FA80: Cjk ความเข้ากันได้ Ideograph-Fa80
+FA81: Cjk Compatibility-Ide81-Fa81
+FA82: Cjk ความเข้ากันได้ Ideograph-Fa82
+FA83: Cjk ความเข้ากันได้ Ideograph-Fa83
+FA84: ความเข้ากันได้ Cjk Ideograph-Fa84
+FA85: Cjk ความเข้ากันได้ Ideograph-Fa85
+FA86: Cjk ความเข้ากันได้ Ideograph-Fa86
+FA87: Cjk Compatibility Ideograph-Fa87
+FA88: ความเข้ากันได้ Cjk Ideograph-Fa88
+FA89: Cjk ความเข้ากันได้ Ideograph-Fa89
+FA8A: Cjk ความเข้ากันได้ Ideograph-Fa8a
+FA8B: ความเข้ากันได้ Cjk Ideograph-Fa8b
+FA8C: Cjk ความเข้ากันได้ Ideograph-Fa8c
+FA8D: Cjk Compatibility Ideograph-Fa8d
+FA8E: Cjk Compatibility Ideograph-Fa8e
+FA8F: Cjk Compatibility Ideograph-Fa8f
+FA90: Cjk Compatibility Ideograph-Fa90
+FA91: Cjk Compatibility Ideograph-Fa91
+FA92: ความเข้ากันได้ Cjk Ideograph-Fa92
+FA93: Cjk Compatibility Ideograph-Fa93
+FA94: Cjk ความเข้ากันได้ Ideograph-Fa94
+FA95: Cjk Compatibility Ideograph-Fa95
+FA96: Cjk ความเข้ากันได้ Ideograph-Fa96
+FA97: Cjk Compatibility Ideograph-Fa97
+FA98: Cjk ความเข้ากันได้ Ideograph-Fa98
+FA99: ความเข้ากันได้ Cjk Ideograph-Fa99
+FA9A: Cjk ความเข้ากันได้ Ideograph-Fa9a
+FA9B: ความเข้ากันได้ Cjk Ideograph-Fa9b
+FA9C: Cjk ความเข้ากันได้ Ideograph-Fa9c
+FA9D: Cjk ความเข้ากันได้ Ideograph-Fa9d
+FA9E: Cjk Compatibility Ideograph-Fa9e
+FA9F: Cjk Compatibility Ideograph-Fa9f
+FAA0: ความเข้ากันได้ Cjk Ideograph-Faa0
+FAA1: Cjk Compatibility-Idea-Faa1
+FAA2: Cjk Compatibility-Idea-Faa2
+FAA3: Cjk Compatibility-Idea-Faa3
+FAA4: Cjk Compatibility-Idea-Faa4
+FAA5: Cjk Compatibility-Idea-Faa5
+FAA6: Cjk Compatibility-Idea-Faa6
+FAA7: Cjk Compatibility-Idea-Faa7
+FAA8: ความเข้ากันได้ Cjk Ideograph-Faa8
+FAA9: Cjk Compatibility-Idea-Faa9
+FAAA: ความเข้ากันได้ Cjk Ideograph-Faaa
+FAAB: ความเข้ากันได้ Cjk Ideograph-Faab
+FAAC: ความเข้ากันได้ Cjk Ideograph-Faac
+FAAD: ความเข้ากันได้ Cjk Ideograph-Faad
+FAAE: ความเข้ากันได้ของ Cjk Ideograph-Faae
+FAAF: ความเข้ากันได้ Cjk Ideograph-Faaf
+FAB0: Cjk Compatibility Ideograph-Fab0
+FAB1: Cjk Compatibility Ideograph-Fab1
+FAB2: Cjk Compatibility Ideograph-Fab2
+FAB3: Cjk Compatibility Ideograph-Fab3
+FAB4: Cjk Compatibility Ideograph-Fab4
+FAB5: Cjk Compatibility Ideograph-Fab5
+FAB6: Cjk Compatibility Ideograph-Fab6
+FAB7: Cjk Compatibility Ideograph-Fab7
+FAB8: Cjk Compatibility Ideograph-Fab8
+FAB9: Cjk Compatibility Ideograph-Fab9
+FABA: ความเข้ากันได้ Cjk Ideograph-Faba
+FABB: ความเข้ากันได้ Cjk Ideograph-Fabb
+FABC: Cjk ความเข้ากันได้ Ideograph-Fabc
+FABD: ความเข้ากันได้ Cjk Ideograph-Fabd
+FABE: ความเข้ากันได้ Cjk Ideograph-Fabe
+FABF: ความเข้ากันได้ Cjk Ideograph-Fabf
+FAC0: Cjk ความเข้ากันได้ Ideograph-Fac0
+FAC1: Cjk ความเข้ากันได้ Ideograph-Fac1
+FAC2: Cjk ความเข้ากันได้ Ideograph-Fac2
+FAC3: Cjk ความเข้ากันได้ Ideograph-Fac3
+FAC4: Cjk ความเข้ากันได้ Ideograph-Fac4
+FAC5: Cjk ความเข้ากันได้ Ideograph-Fac5
+FAC6: Cjk ความเข้ากันได้ Ideograph-Fac6
+FAC7: Cjk ความเข้ากันได้ Ideograph-Fac7
+FAC8: Cjk ความเข้ากันได้ Ideograph-Fac8
+FAC9: Cjk ความเข้ากันได้ Ideograph-Fac9
+FACA: ความเข้ากันได้ Cjk Ideograph-Faca
+FACB: ความเข้ากันได้ Cjk Ideograph-Facb
+FACC: Cjk Ideograph-Facc Compatibility
+FACD: ความเข้ากันได้ Cjk Ideograph-Facd
+FACE: ความเข้ากันได้ Cjk Ideograph-Face
+FACF: ความเข้ากันได้ Cjk Ideograph-Facf
+FAD0: Cjk ความเข้ากันได้ Ideograph-Fad0
+FAD1: Cjk Compatibility Ideograph-Fad1
+FAD2: Cjk Compatibility Ideograph-Fad2
+FAD3: Cjk Compatibility Ideograph-Fad3
+FAD4: Cjk Compatibility Ideograph-Fad4
+FAD5: Cjk Compatibility Ideograph-Fad5
+FAD6: Cjk Compatibility Ideograph-Fad6
+FAD7: Cjk Compatibility Ideograph-Fad7
+FAD8: Cjk Compatibility Ideograph-Fad8
+FAD9: Cjk Compatibility Ideograph-Fad9
+FADA:
+FADB:
+FADC:
+FADD:
+FADE:
+FADF:
+FAE0:
+FAE1:
+FAE2:
+FAE3:
+FAE4:
+FAE5:
+FAE6:
+FAE7:
+FAE8:
+FAE9:
+FAEA:
+FAEB:
+FAEC:
+FAED:
+FAEE:
+FAEF:
+FAF0:
+FAF1:
+FAF2:
+FAF3:
+FAF4:
+FAF5:
+FAF6:
+FAF7:
+FAF8:
+FAF9:
+FAFA:
+FAFB:
+FAFC:
+FAFD:
+FAFE:
+FAFF:

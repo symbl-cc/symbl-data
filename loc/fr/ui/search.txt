@@ -6,7 +6,7 @@ example-text: marteau et la faucille;flèche;coeur;étoile;triangle;vérifier;ce
 h1: Recherche
 result: Résultat
 empty: Phrase de recherche est vide
-total: Total: %s
+total: Résultats de la recherche: %s
 limit: (montrer que %s)
 none: Aucun
 any: Recherche par les mots
@@ -15,3 +15,10 @@ unicode-block: Unicode bloc
 count-symbols: %s symboles
 sets: Fixé
 alphabet: Alphabet
+
+[empty]
+no_results: Aucun résultat trouvé pour "{query}" en français.
+language: Essayez de changer de {langue}.
+blocks: Explorez les {blocs Unicode}.
+sets: Regardez par Les {jeux} de caractères.
+table: Regardez à travers la {table de caractères} complète.

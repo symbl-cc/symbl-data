@@ -6,7 +6,7 @@ example-text: Hammer und Sichel;Pfeil;Herz;Leerzeichen;check;triangle
 h1: Zeichensuche
 result: Ergebnis
 empty: Suchephrase ist leer
-total: Insgesamt %s Ergebnisse
+total: Suchergebnisse: %s
 limit: (nur %s angezeigt)
 none: Es wurden keine Ergebnisse gefunden.
 any: Es wurde keine vollständige Übereinstimmung gefunden. Versuchen Sie, weniger Schlüsselwörter zu verwenden.
@@ -15,3 +15,10 @@ unicode-block: Unicode-Absätze
 count-symbols: %s symbole
 sets: Set
 alphabet: Alphabet
+
+[empty]
+no_results: Keine Ergebnisse für "{query}" auf Deutsch gefunden.
+language: Versuchen Sie, die {Sprache} zu ändern.
+blocks: Entdecken Sie die {Unicode-Blöcke}.
+sets: Schauen Sie in {Symbolgruppen} nach.
+table: Schauen Sie sich die vollständige {Zeichentabelle} an.

@@ -1,0 +1,256 @@
+1EC00:
+1EC01:
+1EC02:
+1EC03:
+1EC04:
+1EC05:
+1EC06:
+1EC07:
+1EC08:
+1EC09:
+1EC0A:
+1EC0B:
+1EC0C:
+1EC0D:
+1EC0E:
+1EC0F:
+1EC10:
+1EC11:
+1EC12:
+1EC13:
+1EC14:
+1EC15:
+1EC16:
+1EC17:
+1EC18:
+1EC19:
+1EC1A:
+1EC1B:
+1EC1C:
+1EC1D:
+1EC1E:
+1EC1F:
+1EC20:
+1EC21:
+1EC22:
+1EC23:
+1EC24:
+1EC25:
+1EC26:
+1EC27:
+1EC28:
+1EC29:
+1EC2A:
+1EC2B:
+1EC2C:
+1EC2D:
+1EC2E:
+1EC2F:
+1EC30:
+1EC31:
+1EC32:
+1EC33:
+1EC34:
+1EC35:
+1EC36:
+1EC37:
+1EC38:
+1EC39:
+1EC3A:
+1EC3B:
+1EC3C:
+1EC3D:
+1EC3E:
+1EC3F:
+1EC40:
+1EC41:
+1EC42:
+1EC43:
+1EC44:
+1EC45:
+1EC46:
+1EC47:
+1EC48:
+1EC49:
+1EC4A:
+1EC4B:
+1EC4C:
+1EC4D:
+1EC4E:
+1EC4F:
+1EC50:
+1EC51:
+1EC52:
+1EC53:
+1EC54:
+1EC55:
+1EC56:
+1EC57:
+1EC58:
+1EC59:
+1EC5A:
+1EC5B:
+1EC5C:
+1EC5D:
+1EC5E:
+1EC5F:
+1EC60:
+1EC61:
+1EC62:
+1EC63:
+1EC64:
+1EC65:
+1EC66:
+1EC67:
+1EC68:
+1EC69:
+1EC6A:
+1EC6B:
+1EC6C:
+1EC6D:
+1EC6E:
+1EC6F:
+1EC70:
+1EC71: Hint Siyaq Bir Numara
+1EC72: Hint Siyaq İki Numara
+1EC73: Hint Siyaq Sayı Üç
+1EC74: Hint Siyaq Sayı Dört
+1EC75: Hint Siyaq Sayısı Beş
+1EC76: Hint Siyaq Sayı Altı
+1EC77: Hint Siyaq Yedi Numara
+1EC78: Hint Siyaq Sayı Sekiz
+1EC79: Hint Siyaq Sayı Dokuz
+1EC7A: Hint Siyaq Sayı On
+1EC7B: Hint Siyaq Numarası Yirmi
+1EC7C: Hint Siyaq Sayısı Otuz
+1EC7D: Hint Siyaq Sayı Kırk
+1EC7E: Hint Siyaq Sayı Elli
+1EC7F: Hint Siyaq Numarası Altmış
+1EC80: Hint Siyaq Numarası Yetmiş
+1EC81: Hint Siyaq Sayı Seksen
+1EC82: Hint Siyaq Numarası Doksan
+1EC83: Hint Siyaq Sayı Yüz
+1EC84: Hint Siyaq Sayı İki Yüz
+1EC85: Hint Siyaq Sayı Üç Yüz
+1EC86: Hint Siyaq Sayısı Dört Yüz
+1EC87: Hint Siyaq Sayı Beş Yüz
+1EC88: Hint Siyaq Sayı Altı Yüz
+1EC89: Hint Siyaq Sayı Yedi Yüz
+1EC8A: Hint Siyaq Sayı Sekiz Yüz
+1EC8B: Hint Siyaq Sayısı Dokuz Yüz
+1EC8C: Hint Siyaq Sayısı
+1EC8D: Hint Siyaq Sayı İki bin
+1EC8E: Hint Siyaq Sayı Üç bin
+1EC8F: Hint Siyaq Sayısı Dört bin
+1EC90: Hint Siyaq Sayı Beş bin
+1EC91: Hint Siyaq Sayı Altı bin
+1EC92: Hint Siyaq Numarası Yedi bin
+1EC93: Hint Siyaq Sayı Sekiz bin
+1EC94: Hint Siyaq Sayı Dokuz bin
+1EC95: Hint Siyaq Sayısı On bin
+1EC96: Hint Siyaq Numarası Yirmi bin
+1EC97: Hint Siyaq Sayısı Otuz bin
+1EC98: Hint Siyaq Numarası Kırk bin
+1EC99: Hint Siyaq Numarası Elli bin
+1EC9A: Hint Siyaq Numarası Altmış bin
+1EC9B: Hint Siyaq Numarası Yetmiş bin
+1EC9C: Hint Siyaq Numarası Seksen bin
+1EC9D: Hint Siyaq Numarası Doksan bin
+1EC9E: Hint Siyaq Numarası Lakh
+1EC9F: Hint Siyaq Numarası Lakhan
+1ECA0: Hint Siyaq Lakh Mark
+1ECA1: Hint Siyaq Numarası Karor
+1ECA2: Hint Siyaq Numarası Karoran
+1ECA3: Hintçe Siyaq Numarası
+1ECA4: Hint Siyaq Numarası İkili Ekli
+1ECA5: Hintçe Siyaq Numarası Üçlü Ekli
+1ECA6: Hint Siyaq Numarası Önceden Eklenmiş Dört
+1ECA7: Hint Siyaq Numarası Önek Beş
+1ECA8: Hint Siyaq Numarası Altı Önekli
+1ECA9: Hint Siyaq Numarası Önceden Yedi
+1ECAA: Hintçe Siyaq Numarası Sekiz Numaralı
+1ECAB: Hint Siyaq Numarası Önceden Dokuz
+1ECAC: Hint Siyaq Placeholder
+1ECAD: Hint Siyaq Kesirinin Bir Çeyrek
+1ECAE: Hint Siyaq Kesirinin Yarım Yarısı
+1ECAF: Hint Siyaq Kesiri Üç Çeyrek
+1ECB0: Hint Siyaq Rupisi İşareti
+1ECB1: Hint Siyaq Numarası Alternatif Bir
+1ECB2: Hint Siyaq Numarası Alternatif İki
+1ECB3: Hint Siyaq Numarası Alternatif On Bin
+1ECB4: Hint Siyaq Alternatif Lakh Markası
+1ECB5:
+1ECB6:
+1ECB7:
+1ECB8:
+1ECB9:
+1ECBA:
+1ECBB:
+1ECBC:
+1ECBD:
+1ECBE:
+1ECBF:
+1ECC0:
+1ECC1:
+1ECC2:
+1ECC3:
+1ECC4:
+1ECC5:
+1ECC6:
+1ECC7:
+1ECC8:
+1ECC9:
+1ECCA:
+1ECCB:
+1ECCC:
+1ECCD:
+1ECCE:
+1ECCF:
+1ECD0:
+1ECD1:
+1ECD2:
+1ECD3:
+1ECD4:
+1ECD5:
+1ECD6:
+1ECD7:
+1ECD8:
+1ECD9:
+1ECDA:
+1ECDB:
+1ECDC:
+1ECDD:
+1ECDE:
+1ECDF:
+1ECE0:
+1ECE1:
+1ECE2:
+1ECE3:
+1ECE4:
+1ECE5:
+1ECE6:
+1ECE7:
+1ECE8:
+1ECE9:
+1ECEA:
+1ECEB:
+1ECEC:
+1ECED:
+1ECEE:
+1ECEF:
+1ECF0:
+1ECF1:
+1ECF2:
+1ECF3:
+1ECF4:
+1ECF5:
+1ECF6:
+1ECF7:
+1ECF8:
+1ECF9:
+1ECFA:
+1ECFB:
+1ECFC:
+1ECFD:
+1ECFE:
+1ECFF:

@@ -1,42 +1,42 @@
-2400: Symbol for Null
-2401: Symbol for Start of Heading
-2402: Symbol for Start of Text
-2403: Symbol for End of Text
-2404: Symbol for End of Transmission
-2405: Symbol for Enquiry
-2406: Symbol for Acknowledge
-2407: Symbol for Bell
-2408: Symbol for Backspace
-2409: Symbol for Horizontal Tabulation
-240A: Symbol for Line Feed
-240B: Symbol for Vertical Tabulation
-240C: Symbol for Form Feed
-240D: Symbol for Carriage Return
-240E: Symbol for Shift Out
-240F: Symbol for Shift In
-2410: Symbol for Data Link Escape
-2411: Symbol for Device Control One
-2412: Symbol for Device Control Two
-2413: Symbol for Device Control Three
-2414: Symbol for Device Control Four
-2415: Symbol for Negative Acknowledge
-2416: Symbol for Synchronous Idle
-2417: Symbol for End of Transmission Block
-2418: Symbol for Cancel
-2419: Symbol for End of Medium
-241A: Symbol for Substitute
-241B: Symbol for Escape
-241C: Symbol for File Separator
-241D: Symbol for Group Separator
-241E: Symbol for Record Separator
-241F: Symbol for Unit Separator
-2420: Symbol for Space
-2421: Symbol for Delete
-2422: Blank Symbol
-2423: Open Box
-2424: Symbol for Newline
-2425: Symbol for Delete Form Two
-2426: Symbol for Substitute Form Two
+2400: Null jelképe
+2401: Szimbólum a címsor kezdetéhez
+2402: Szimbólum a szöveg kezdetéhez
+2403: Szöveg vége
+2404: Szimbólum az átvitel végéhez
+2405: Vizsgálati szimbólum
+2406: Szimbólum a nyugtázáshoz
+2407: Bell szimbólum
+2408: Backspace szimbólum
+2409: A vízszintes táblázatok szimbóluma
+240A: Szimbólum a sorok betáplálásához
+240B: A függőleges táblázatos szimbólum
+240C: Szimbólum az űrlapadagoláshoz
+240D: Szimbólum a szállításhoz
+240E: A Shift Out szimbólum
+240F: A Shift In szimbólum
+2410: Szimbólum az adatcsatlakozás meneküléséhez
+2411: Szimbólum az Eszközvezérléshez
+2412: Az eszközvezérlő két szimbólum
+2413: Az eszközvezérlő három szimbólum
+2414: Az eszközvezérlő négyszimbólum
+2415: A negatív nyugtázás szimbóluma
+2416: Szinkron üresjárat szimbóluma
+2417: Szimbólum az átviteli blokk végéhez
+2418: A Cancel szimbólum törlése
+2419: Szimbólum a közeg végéhez
+241A: A helyettesítő szimbólum
+241B: Szimbólum a meneküléshez
+241C: A fájl szeparátor szimbóluma
+241D: A csoport elkülönítőjének szimbóluma
+241E: Szimbólum a rekord szeparátor számára
+241F: Szimbólum az egység elválasztójához
+2420: Szóköz szimbólum
+2421: Törlés szimbólum
+2422: Üres szimbólum
+2423: Nyitott doboz
+2424: Jelkép a Newline számára
+2425: Szimbólum a Törlés két űrlaphoz
+2426: A helyettesítő forma második szimbóluma
 2427:
 2428:
 2429:
@@ -63,15 +63,15 @@
 243E:
 243F:
 2440: Ocr Hook
-2441: Ocr Chair
+2441: Okr elnök
 2442: Ocr Fork
-2443: Ocr Inverted Fork
-2444: Ocr Belt Buckle
-2445: Ocr Bow Tie : unique asterisk
-2446: Ocr Branch Bank Identification : transit
-2447: Ocr Amount of Check : amount
-2448: Ocr Dash : on us
-2449: Ocr Customer Account Number : dash
+2443: Ocr fordított villás
+2444: Ocr övcsat
+2445: Ocr Bow Tie : egyedi csillag
+2446: Ocr Branch Bank azonosítása : tranzit
+2447: Ellenőrzés összege : összeg
+2448: Ocr Dash : nekünk
+2449: Ocr ügyfélszámlaszám : gondolatjel
 244A: Ocr Double Backslash
 244B:
 244C:
@@ -94,163 +94,163 @@
 245D:
 245E:
 245F:
-2460: Circled Digit One
-2461: Circled Digit Two
-2462: Circled Digit Three
-2463: Circled Digit Four
-2464: Circled Digit Five
-2465: Circled Digit Six
-2466: Circled Digit Seven
-2467: Circled Digit Eight
-2468: Circled Digit Nine
-2469: Circled Number Ten
-246A: Circled Number Eleven
-246B: Circled Number Twelve
-246C: Circled Number Thirteen
-246D: Circled Number Fourteen
-246E: Circled Number Fifteen
-246F: Circled Number Sixteen
-2470: Circled Number Seventeen
-2471: Circled Number Eighteen
-2472: Circled Number Nineteen
-2473: Circled Number Twenty
+2460: Körözött számjegy
+2461: Kerekített szám kettő
+2462: Harmadik számjegy
+2463: Négyszögletes kör
+2464: Öt ötödik kör
+2465: Hatszögű számjegy
+2466: Körülvágott szám hét
+2467: Körözött nyolcas számjegy
+2468: Kilenc számjegy
+2469: Körözött tíz
+246A: Körülbelül tizenegy
+246B: Körülbelül tizenkettő
+246C: Körülbelül tizenhárom
+246D: Körülbelül tizennégy
+246E: Körözött szám tizenöt
+246F: Körözött szám tizenhat
+2470: Körülbelül tizenhét
+2471: Körözött szám tizennyolc
+2472: Körözött szám tizenkilenc
+2473: Körülbelül húsz
 2474: Parenthesized Digit One
 2475: Parenthesized Digit Two
-2476: Parenthesized Digit Three
-2477: Parenthesized Digit Four
-2478: Parenthesized Digit Five
-2479: Parenthesized Digit Six
+2476: Háromszögletű számjegy
+2477: Négyes számjegy
+2478: Az ötödik számjegy
+2479: Hatodik számjegy
 247A: Parenthesized Digit Seven
-247B: Parenthesized Digit Eight
+247B: Nyolcas számjegy
 247C: Parenthesized Digit Nine
 247D: Parenthesized Number Ten
 247E: Parenthesized Number Eleven
-247F: Parenthesized Number Twelve
-2480: Parenthesized Number Thirteen
-2481: Parenthesized Number Fourteen
-2482: Parenthesized Number Fifteen
-2483: Parenthesized Number Sixteen
-2484: Parenthesized Number Seventeen
-2485: Parenthesized Number Eighteen
-2486: Parenthesized Number Nineteen
-2487: Parenthesized Number Twenty
+247F: Parenthesized Twelve szám
+2480: Tizenhárom Parenthesized Number
+2481: Tizennégy parenthesized szám
+2482: Tizenötödik parenthesized szám
+2483: Határozott szám tizenhat
+2484: Parenthesized szám tizenhét
+2485: Parenthesized szám Eighteen
+2486: Parenthesized Number Tizenkilenc
+2487: Parenthesized száma húsz
 2488: Digit One Full Stop
-2489: Digit Two Full Stop
-248A: Digit Three Full Stop
-248B: Digit Four Full Stop
-248C: Digit Five Full Stop
-248D: Digit Six Full Stop
+2489: Két számjegyű teljes megállás
+248A: A három teljes megállás számjegye
+248B: Négy teljes megállás
+248C: 5-ös számjegy
+248D: Hatodik teljes megállás
 248E: Digit Seven Full Stop
-248F: Digit Eight Full Stop
-2490: Digit Nine Full Stop
-2491: Number Ten Full Stop
-2492: Number Eleven Full Stop
-2493: Number Twelve Full Stop
-2494: Number Thirteen Full Stop
-2495: Number Fourteen Full Stop
-2496: Number Fifteen Full Stop
-2497: Number Sixteen Full Stop
-2498: Number Seventeen Full Stop
-2499: Number Eighteen Full Stop
-249A: Number Nineteen Full Stop
-249B: Number Twenty Full Stop
-249C: Parenthesized Latin Small Letter A
-249D: Parenthesized Latin Small Letter B
-249E: Parenthesized Latin Small Letter C
-249F: Parenthesized Latin Small Letter D
-24A0: Parenthesized Latin Small Letter E
-24A1: Parenthesized Latin Small Letter F
-24A2: Parenthesized Latin Small Letter G
-24A3: Parenthesized Latin Small Letter H
-24A4: Parenthesized Latin Small Letter I
-24A5: Parenthesized Latin Small Letter J
-24A6: Parenthesized Latin Small Letter K
-24A7: Parenthesized Latin Small Letter L
-24A8: Parenthesized Latin Small Letter M
-24A9: Parenthesized Latin Small Letter N
-24AA: Parenthesized Latin Small Letter O
-24AB: Parenthesized Latin Small Letter P
-24AC: Parenthesized Latin Small Letter Q
-24AD: Parenthesized Latin Small Letter R
-24AE: Parenthesized Latin Small Letter S
-24AF: Parenthesized Latin Small Letter T
-24B0: Parenthesized Latin Small Letter U
-24B1: Parenthesized Latin Small Letter V
-24B2: Parenthesized Latin Small Letter W
-24B3: Parenthesized Latin Small Letter X
-24B4: Parenthesized Latin Small Letter Y
-24B5: Parenthesized Latin Small Letter Z
-24B6: Circled Latin Capital Letter A
-24B7: Circled Latin Capital Letter B
-24B8: Circled Latin Capital Letter C
-24B9: Circled Latin Capital Letter D
-24BA: Circled Latin Capital Letter E
-24BB: Circled Latin Capital Letter F
-24BC: Circled Latin Capital Letter G
-24BD: Circled Latin Capital Letter H
-24BE: Circled Latin Capital Letter I
-24BF: Circled Latin Capital Letter J
-24C0: Circled Latin Capital Letter K
-24C1: Circled Latin Capital Letter L
-24C2: Circled Latin Capital Letter M
-24C3: Circled Latin Capital Letter N
-24C4: Circled Latin Capital Letter O
-24C5: Circled Latin Capital Letter P
-24C6: Circled Latin Capital Letter Q
-24C7: Circled Latin Capital Letter R
-24C8: Circled Latin Capital Letter S
-24C9: Circled Latin Capital Letter T
-24CA: Circled Latin Capital Letter U
-24CB: Circled Latin Capital Letter V
-24CC: Circled Latin Capital Letter W
-24CD: Circled Latin Capital Letter X
-24CE: Circled Latin Capital Letter Y
-24CF: Circled Latin Capital Letter Z
-24D0: Circled Latin Small Letter A
-24D1: Circled Latin Small Letter B
-24D2: Circled Latin Small Letter C
-24D3: Circled Latin Small Letter D
-24D4: Circled Latin Small Letter E
-24D5: Circled Latin Small Letter F
-24D6: Circled Latin Small Letter G
-24D7: Circled Latin Small Letter H
-24D8: Circled Latin Small Letter I
-24D9: Circled Latin Small Letter J
-24DA: Circled Latin Small Letter K
-24DB: Circled Latin Small Letter L
-24DC: Circled Latin Small Letter M
-24DD: Circled Latin Small Letter N
-24DE: Circled Latin Small Letter O
-24DF: Circled Latin Small Letter P
-24E0: Circled Latin Small Letter Q
-24E1: Circled Latin Small Letter R
-24E2: Circled Latin Small Letter S
-24E3: Circled Latin Small Letter T
-24E4: Circled Latin Small Letter U
-24E5: Circled Latin Small Letter V
-24E6: Circled Latin Small Letter W
-24E7: Circled Latin Small Letter X
-24E8: Circled Latin Small Letter Y
-24E9: Circled Latin Small Letter Z
-24EA: Circled Digit Zero
-24EB: Negative Circled Number Eleven
-24EC: Negative Circled Number Twelve
-24ED: Negative Circled Number Thirteen
-24EE: Negative Circled Number Fourteen
-24EF: Negative Circled Number Fifteen
-24F0: Negative Circled Number Sixteen
-24F1: Negative Circled Number Seventeen
-24F2: Negative Circled Number Eighteen
-24F3: Negative Circled Number Nineteen
-24F4: Negative Circled Number Twenty
-24F5: Double Circled Digit One
-24F6: Double Circled Digit Two
-24F7: Double Circled Digit Three
-24F8: Double Circled Digit Four
-24F9: Double Circled Digit Five
-24FA: Double Circled Digit Six
-24FB: Double Circled Digit Seven
-24FC: Double Circled Digit Eight
-24FD: Double Circled Digit Nine
-24FE: Double Circled Number Ten
-24FF: Negative Circled Digit Zero
+248F: Nyolc teljes számjegy
+2490: Kilenc teljes megállás
+2491: A tíz teljes állomás száma
+2492: Szám tizenegy teljes megállás
+2493: Tizenkét teljes megállás
+2494: Tizenhárom teljes megállás száma
+2495: Szám tizennégy teljes megállás
+2496: Szám Tizenöt Teljes Stop
+2497: Szám tizenhat teljes megállás
+2498: Szám tizenhét teljes megálló
+2499: Tizennyolc teljes megállási szám
+249A: Tizenkilenc teljes megállási szám
+249B: Húsz teljes megállási szám
+249C: Parenthesized latin kis levél A
+249D: Parenthesized latin kis levél B
+249E: Parenthesized latin kis C betű
+249F: Parenthesized latin kis levél D
+24A0: Parenthesized latin kis levél E
+24A1: Parenthesized latin kis levél F
+24A2: Parenthesized latin kis levél G
+24A3: Parenthesized latin kis levél H
+24A4: Parenthesized latin kis levél I
+24A5: Parenthesized latin kis levél J
+24A6: Parenthesized latin kis levél K
+24A7: Parenthesized latin kis L betű
+24A8: Parenthesized latin kis levél M
+24A9: Parenthesized latin kis levél N
+24AA: Parenthesized latin kis levél O
+24AB: Parenthesized latin kis levél P
+24AC: Parenthesized latin kis levél Q
+24AD: Parenthesized latin kis levél R
+24AE: Parenthesized latin kis levél S
+24AF: Parenthesized latin kis betű T
+24B0: Parenthesized latin kis levél U
+24B1: Parenthesized latin kis levél V
+24B2: Parenthesized latin kis levél W
+24B3: Parenthesized latin kis levél X
+24B4: Parenthesized latin kis betű Y
+24B5: Zárt latin kis levél Z
+24B6: Körözött latin főváros A betűje
+24B7: A latin főváros B betűje
+24B8: C körözött latin főváros levél
+24B9: A latin főváros D betűje
+24BA: Körülvett latin főváros E betűje
+24BB: Körözött latin főváros F betűje
+24BC: A latin főváros G betűje
+24BD: Körülvett latin főváros H betűje
+24BE: Körülvett latin főváros levél I
+24BF: Körülvett latin főváros J betűje
+24C0: Kerekített latin főváros K betűje
+24C1: L latin főváros L betűje
+24C2: Körülvett latin főváros M betűje
+24C3: Körülvett latin főváros N betűje
+24C4: Osztott O betű latin fővárosa
+24C5: A latin főváros P betűje
+24C6: Körözött latin nagybetűs Q betű
+24C7: Körülvett latin fővárosi betű R
+24C8: Körözött latin főváros S betűje
+24C9: Körülvett latin főváros T betűje
+24CA: U. Körözött latin főváros levél
+24CB: A latin főváros V betűje
+24CC: W körözött latin főváros betűje
+24CD: X körözött latin főváros levél
+24CE: Y körözött latin főváros betűje
+24CF: Körülvett latin főváros Z betűje
+24D0: A körkörös latin kis levél A
+24D1: B körözött latin kis levél
+24D2: C körözött latin kis levél
+24D3: Körülvett latin kis levél D
+24D4: Körözött latin kis levél E
+24D5: Körözött latin kis levél F
+24D6: Körülvett latin kis G betű
+24D7: Körülvett latin kis betű H
+24D8: Körözött latin kis levél I
+24D9: Jegyzett latin kis levél J
+24DA: Kerekített latin kis levél K
+24DB: Körülvett latin kis L betű
+24DC: Körülvett latin kis levél M
+24DD: Körülvett latin kis betű N
+24DE: Osztott latin kis levél O
+24DF: Körülvett latin kis levél P
+24E0: Körözött latin kis levél Q
+24E1: Körülvett latin kis levél R
+24E2: Körkörös latin kis levél S
+24E3: Körözött latin kis levél T
+24E4: A körkörös latin kis levél U
+24E5: Körülvett latin kis levél V
+24E6: Körülvett latin kis betű W
+24E7: X körözött latin kis levél
+24E8: Körülvett latin kis betű Y
+24E9: Zárt körkörös latin kis levél Z
+24EA: Körözött számjegy nulla
+24EB: Negatív körözött szám tizenegy
+24EC: Negatív körözött szám tizenkettő
+24ED: Tizenhárom negatív körözött szám
+24EE: Negyedik negatív körözött szám
+24EF: Negatív körözött szám tizenöt
+24F0: Negatív körözött szám tizenhat
+24F1: Negatív körözött szám tizenhét
+24F2: Negatív körözött szám tizennyolc
+24F3: Negatív körözött szám tizenkilenc
+24F4: Húszas negatív körözött szám
+24F5: Dupla körözött számjegy
+24F6: Kettős körkörös számjegy
+24F7: Kettős körözött háromszög
+24F8: Dupla körözött szám négy
+24F9: Kettős körözött számjegy öt
+24FA: Kettős körözött hatszög
+24FB: Dupla körözött számjegy hét
+24FC: Kettős körkörös számjegy
+24FD: Dupla körözött számjegy kilenc
+24FE: Dupla körözött szám tíz
+24FF: Negatív körözött számjegy nulla

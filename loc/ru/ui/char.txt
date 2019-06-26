@@ -5,6 +5,7 @@ char-desc: Описание символа
 unicode-name: Название в Юникоде
 unicode-number: Номер в Юникоде
 html-code: <span class="caps">HTML</span>-код
+css-code: CSS-код
 uppercase: Прописная
 lowercase: Строчная
 encoding: Кодировка

@@ -1,8 +1,7 @@
-meta-description: All Unicode Symbols with Names and Descriptions on One Page: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta-keywords: unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, utf-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
+meta-description: Unicode character search web service. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and more 🚩
 symbol-description: Symbol: {{symbol}}, the characters name: {{name}}, Unicode number for the sign: {{code}}, the icon is included in the block: {{block}}.
 symbol-title: {{symbol}} - {{name}} ({{code}})
 
-emoji: emoji
+emoji: Emoji
 copy: copy
 symbol: sign, icon

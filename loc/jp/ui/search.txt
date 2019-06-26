@@ -6,7 +6,7 @@ example-text: ハンマーと鎌;矢;ハート;
 h1: 検索
 result: 検索結果
 empty: 検索キーワードは空です
-total: 検索結果の合計：%s
+total: の検索結果：%s
 limit: （表示のみ %s）
 none: いいえ
 any: 任意のキーワードで検索
@@ -15,3 +15,10 @@ unicode-block: Unicode 文字列のリスト
 count-symbols: %s シンボル
 sets: グループ
 alphabet: 手紙
+
+[empty]
+no_results: "{query}"の日本語の検索結果はありません。
+language: {言語}を変えてみてください。
+blocks: {Unicodeブロック}を調べてください。
+sets: {セット}で調べてください。
+table: {全文字テーブル}を見てください。

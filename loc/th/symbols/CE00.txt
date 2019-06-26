@@ -1,256 +1,256 @@
-CE00 : Hangul syllable cwik
-CE01 : Hangul syllable cwit
-CE02 : Hangul syllable cwip
-CE03 : Hangul syllable cwih
-CE04 : Hangul syllable cyu
-CE05 : Hangul syllable cyug
-CE06 : Hangul syllable cyugg
-CE07 : Hangul syllable cyugs
-CE08 : Hangul syllable cyun
-CE09 : Hangul syllable cyunj
-CE0A : Hangul syllable cyunh
-CE0B : Hangul syllable cyud
-CE0C : Hangul syllable cyul
-CE0D : Hangul syllable cyulg
-CE0E : Hangul syllable cyulm
-CE0F : Hangul syllable cyulb
-CE10 : Hangul syllable cyuls
-CE11 : Hangul syllable cyult
-CE12 : Hangul syllable cyulp
-CE13 : Hangul syllable cyulh
-CE14 : Hangul syllable cyum
-CE15 : Hangul syllable cyub
-CE16 : Hangul syllable cyubs
-CE17 : Hangul syllable cyus
-CE18 : Hangul syllable cyuss
-CE19 : Hangul syllable cyung
-CE1A : Hangul syllable cyuj
-CE1B : Hangul syllable cyuc
-CE1C : Hangul syllable cyuk
-CE1D : Hangul syllable cyut
-CE1E : Hangul syllable cyup
-CE1F : Hangul syllable cyuh
-CE20 : Hangul syllable ceu
-CE21 : Hangul syllable ceug
-CE22 : Hangul syllable ceugg
-CE23 : Hangul syllable ceugs
-CE24 : Hangul syllable ceun
-CE25 : Hangul syllable ceunj
-CE26 : Hangul syllable ceunh
-CE27 : Hangul syllable ceud
-CE28 : Hangul syllable ceul
-CE29 : Hangul syllable ceulg
-CE2A : Hangul syllable ceulm
-CE2B : Hangul syllable ceulb
-CE2C : Hangul syllable ceuls
-CE2D : Hangul syllable ceult
-CE2E : Hangul syllable ceulp
-CE2F : Hangul syllable ceulh
-CE30 : Hangul syllable ceum
-CE31 : Hangul syllable ceub
-CE32 : Hangul syllable ceubs
-CE33 : Hangul syllable ceus
-CE34 : Hangul syllable ceuss
-CE35 : Hangul syllable ceung
-CE36 : Hangul syllable ceuj
-CE37 : Hangul syllable ceuc
-CE38 : Hangul syllable ceuk
-CE39 : Hangul syllable ceut
-CE3A : Hangul syllable ceup
-CE3B : Hangul syllable ceuh
-CE3C : Hangul syllable cyi
-CE3D : Hangul syllable cyig
-CE3E : Hangul syllable cyigg
-CE3F : Hangul syllable cyigs
-CE40 : Hangul syllable cyin
-CE41 : Hangul syllable cyinj
-CE42 : Hangul syllable cyinh
-CE43 : Hangul syllable cyid
-CE44 : Hangul syllable cyil
-CE45 : Hangul syllable cyilg
-CE46 : Hangul syllable cyilm
-CE47 : Hangul syllable cyilb
-CE48 : Hangul syllable cyils
-CE49 : Hangul syllable cyilt
-CE4A : Hangul syllable cyilp
-CE4B : Hangul syllable cyilh
-CE4C : Hangul syllable cyim
-CE4D : Hangul syllable cyib
-CE4E : Hangul syllable cyibs
-CE4F : Hangul syllable cyis
-CE50 : Hangul syllable cyiss
-CE51 : Hangul syllable cying
-CE52 : Hangul syllable cyij
-CE53 : Hangul syllable cyic
-CE54 : Hangul syllable cyik
-CE55 : Hangul syllable cyit
-CE56 : Hangul syllable cyip
-CE57 : Hangul syllable cyih
-CE58 : Hangul syllable ci
-CE59 : Hangul syllable cig
-CE5A : Hangul syllable cigg
-CE5B : Hangul syllable cigs
-CE5C : Hangul syllable cin
-CE5D : Hangul syllable cinj
-CE5E : Hangul syllable cinh
-CE5F : Hangul syllable cid
-CE60 : Hangul syllable cil
-CE61 : Hangul syllable cilg
-CE62 : Hangul syllable cilm
-CE63 : Hangul syllable cilb
-CE64 : Hangul syllable cils
-CE65 : Hangul syllable cilt
-CE66 : Hangul syllable cilp
-CE67 : Hangul syllable cilh
-CE68 : Hangul syllable cim
-CE69 : Hangul syllable cib
-CE6A : Hangul syllable cibs
-CE6B : Hangul syllable cis
-CE6C : Hangul syllable ciss
-CE6D : Hangul syllable cing
-CE6E : Hangul syllable cij
-CE6F : Hangul syllable cic
-CE70 : Hangul syllable cik
-CE71 : Hangul syllable cit
-CE72 : Hangul syllable cip
-CE73 : Hangul syllable cih
-CE74 : Hangul syllable ka
-CE75 : Hangul syllable kag
-CE76 : Hangul syllable kagg
-CE77 : Hangul syllable kags
-CE78 : Hangul syllable kan
-CE79 : Hangul syllable kanj
-CE7A : Hangul syllable kanh
-CE7B : Hangul syllable kad
-CE7C : Hangul syllable kal
-CE7D : Hangul syllable kalg
-CE7E : Hangul syllable kalm
-CE7F : Hangul syllable kalb
-CE80 : Hangul syllable kals
-CE81 : Hangul syllable kalt
-CE82 : Hangul syllable kalp
-CE83 : Hangul syllable kalh
-CE84 : Hangul syllable kam
-CE85 : Hangul syllable kab
-CE86 : Hangul syllable kabs
-CE87 : Hangul syllable kas
-CE88 : Hangul syllable kass
-CE89 : Hangul syllable kang
-CE8A : Hangul syllable kaj
-CE8B : Hangul syllable kac
-CE8C : Hangul syllable kak
-CE8D : Hangul syllable kat
-CE8E : Hangul syllable kap
-CE8F : Hangul syllable kah
-CE90 : Hangul syllable kae
-CE91 : Hangul syllable kaeg
-CE92 : Hangul syllable kaegg
-CE93 : Hangul syllable kaegs
-CE94 : Hangul syllable kaen
-CE95 : Hangul syllable kaenj
-CE96 : Hangul syllable kaenh
-CE97 : Hangul syllable kaed
-CE98 : Hangul syllable kael
-CE99 : Hangul syllable kaelg
-CE9A : Hangul syllable kaelm
-CE9B : Hangul syllable kaelb
-CE9C : Hangul syllable kaels
-CE9D : Hangul syllable kaelt
-CE9E : Hangul syllable kaelp
-CE9F : Hangul syllable kaelh
-CEA0 : Hangul syllable kaem
-CEA1 : Hangul syllable kaeb
-CEA2 : Hangul syllable kaebs
-CEA3 : Hangul syllable kaes
-CEA4 : Hangul syllable kaess
-CEA5 : Hangul syllable kaeng
-CEA6 : Hangul syllable kaej
-CEA7 : Hangul syllable kaec
-CEA8 : Hangul syllable kaek
-CEA9 : Hangul syllable kaet
-CEAA : Hangul syllable kaep
-CEAB : Hangul syllable kaeh
-CEAC : Hangul syllable kya
-CEAD : Hangul syllable kyag
-CEAE : Hangul syllable kyagg
-CEAF : Hangul syllable kyags
-CEB0 : Hangul syllable kyan
-CEB1 : Hangul syllable kyanj
-CEB2 : Hangul syllable kyanh
-CEB3 : Hangul syllable kyad
-CEB4 : Hangul syllable kyal
-CEB5 : Hangul syllable kyalg
-CEB6 : Hangul syllable kyalm
-CEB7 : Hangul syllable kyalb
-CEB8 : Hangul syllable kyals
-CEB9 : Hangul syllable kyalt
-CEBA : Hangul syllable kyalp
-CEBB : Hangul syllable kyalh
-CEBC : Hangul syllable kyam
-CEBD : Hangul syllable kyab
-CEBE : Hangul syllable kyabs
-CEBF : Hangul syllable kyas
-CEC0 : Hangul syllable kyass
-CEC1 : Hangul syllable kyang
-CEC2 : Hangul syllable kyaj
-CEC3 : Hangul syllable kyac
-CEC4 : Hangul syllable kyak
-CEC5 : Hangul syllable kyat
-CEC6 : Hangul syllable kyap
-CEC7 : Hangul syllable kyah
-CEC8 : Hangul syllable kyae
-CEC9 : Hangul syllable kyaeg
-CECA : Hangul syllable kyaegg
-CECB : Hangul syllable kyaegs
-CECC : Hangul syllable kyaen
-CECD : Hangul syllable kyaenj
-CECE : Hangul syllable kyaenh
-CECF : Hangul syllable kyaed
-CED0 : Hangul syllable kyael
-CED1 : Hangul syllable kyaelg
-CED2 : Hangul syllable kyaelm
-CED3 : Hangul syllable kyaelb
-CED4 : Hangul syllable kyaels
-CED5 : Hangul syllable kyaelt
-CED6 : Hangul syllable kyaelp
-CED7 : Hangul syllable kyaelh
-CED8 : Hangul syllable kyaem
-CED9 : Hangul syllable kyaeb
-CEDA : Hangul syllable kyaebs
-CEDB : Hangul syllable kyaes
-CEDC : Hangul syllable kyaess
-CEDD : Hangul syllable kyaeng
-CEDE : Hangul syllable kyaej
-CEDF : Hangul syllable kyaec
-CEE0 : Hangul syllable kyaek
-CEE1 : Hangul syllable kyaet
-CEE2 : Hangul syllable kyaep
-CEE3 : Hangul syllable kyaeh
-CEE4 : Hangul syllable keo
-CEE5 : Hangul syllable keog
-CEE6 : Hangul syllable keogg
-CEE7 : Hangul syllable keogs
-CEE8 : Hangul syllable keon
-CEE9 : Hangul syllable keonj
-CEEA : Hangul syllable keonh
-CEEB : Hangul syllable keod
-CEEC : Hangul syllable keol
-CEED : Hangul syllable keolg
-CEEE : Hangul syllable keolm
-CEEF : Hangul syllable keolb
-CEF0 : Hangul syllable keols
-CEF1 : Hangul syllable keolt
-CEF2 : Hangul syllable keolp
-CEF3 : Hangul syllable keolh
-CEF4 : Hangul syllable keom
-CEF5 : Hangul syllable keob
-CEF6 : Hangul syllable keobs
-CEF7 : Hangul syllable keos
-CEF8 : Hangul syllable keoss
-CEF9 : Hangul syllable keong
-CEFA : Hangul syllable keoj
-CEFB : Hangul syllable keoc
-CEFC : Hangul syllable keok
-CEFD : Hangul syllable keot
-CEFE : Hangul syllable keop
-CEFF : Hangul syllable keoh
+CE00: อังกูลพยางค์ Cwik
+CE01: พยางค์อังกูล
+CE02: อังกูลพยางค์ Cwip
+CE03: พยางค์อังกูล
+CE04: พยางค์อังกูล Cyu
+CE05: อังกูลพยางค์อังกูล
+CE06: Cyul อังกูลพยางค์
+CE07: Cyulable พยางค์อังกูล
+CE08: อังกูลพยางค์ Cyun
+CE09: อังกูลพยางค์ Cyunj
+CE0A: อังกูลพยางค์ Cyunh
+CE0B: อังกูลพยางค์ Cyud
+CE0C: พยางค์อังกูล
+CE0D: Cyulg พยางค์อังกูล
+CE0E: Cyulm พยางค์อังกูล
+CE0F: Cyulb พยางค์อังกูล
+CE10: พยางค์อังกูลพยางค์
+CE11: อังกูลพยางค์อังกูล
+CE12: Cyulp อังกูลพยางค์
+CE13: พยัญชนะอังกูล
+CE14: อังกูลพยางค์ Cyulable
+CE15: อังกูลพยางค์ Cyub
+CE16: Cyuls พยางค์อังกูล
+CE17: อังกูลพยางค์ไซล
+CE18: พยางค์อังกูลพยางค์
+CE19: พยางค์อังกูล
+CE1A: อังกูลพยางค์ Cyuj
+CE1B: พยางค์อังกูล
+CE1C: อังกูลพยางค์ Cyuk
+CE1D: Cyulable อังกูลพยางค์
+CE1E: Cyulable พยางค์อังกูล
+CE1F: อังกูลพยางค์ Cyuh
+CE20: พยางค์อังกูลเซว
+CE21: พยางค์อังกูล
+CE22: Ceul อังกูลพยางค์
+CE23: ตัวพยางค์อังกูล
+CE24: พยางค์อังกูลเซียน
+CE25: พยางค์อังกูล
+CE26: พยางค์อังกูล
+CE27: พยางค์ฮันกึล
+CE28: พยางค์อังกูล
+CE29: พยางค์อังกูล
+CE2A: พยางค์อังกูล
+CE2B: พยางค์อังกูล
+CE2C: พยางค์อังกูล
+CE2D: Ceulable พยางค์อังกูล
+CE2E: พยางค์อังกูล
+CE2F: พยางค์อังกูล
+CE30: พยางค์อังกูล
+CE31: Ceulable พยางค์อังกูล
+CE32: Ceuls พยางค์อังกูล
+CE33: พยางค์ฮันกึล
+CE34: Ceuss พยางค์อังกูล
+CE35: พยางค์ฮันกึล
+CE36: พยางค์อังกูลเซบู
+CE37: พยางค์อังกูล
+CE38: อังกูลพยางค์ Ceuk
+CE39: อังกูลพยางค์ Ceutable
+CE3A: Ceupable พยางค์อังกูล
+CE3B: พยางค์ฮันกึล
+CE3C: อังกูลพยางค์ไซย
+CE3D: พยางค์อังกูลพยางค์
+CE3E: พยางค์อังกูลพยางค์
+CE3F: พยางค์อังกูลพยางค์
+CE40: อังกูลพยางค์ Cyin
+CE41: อังกูลพยางค์ไซลิน
+CE42: อังกูลพยางค์ Cyinh
+CE43: อังกูลพยางค์ไซล
+CE44: อังกูลพยางค์ Cyil
+CE45: อังกูลพยางค์ Cyilg
+CE46: Cyulm พยางค์อังกูล
+CE47: Cyulb พยางค์อังกูล
+CE48: พยางค์พยางค์อังกูล
+CE49: พยางค์อังกูล
+CE4A: Cyulp พยางค์อังกูล
+CE4B: Cyulh พยางค์อังกูล
+CE4C: พยางค์พยางค์อังกูล
+CE4D: พยัญชนะอังกูล
+CE4E: Cyuls พยางค์อังกูล
+CE4F: อังกูลพยางค์ไซล
+CE50: อังกูลพยางค์ Cyiss
+CE51: พยางค์อังกูลพยางค์
+CE52: พยางค์อังกูล
+CE53: พยางค์อังกูลพยางค์
+CE54: อังกูลพยางค์ Cyik
+CE55: พยางค์อังกูล
+CE56: Cyul อังกูลพยางค์
+CE57: พยางค์อังกูล Cyih
+CE58: อังกูลพยางค์ Ci
+CE59: อังกูลพยางค์ Cig
+CE5A: อังกูลพยางค์ Cigg
+CE5B: พยางค์อังกูล
+CE5C: อังกูลพยางค์ซิน
+CE5D: อังกูลพยางค์ Cinj
+CE5E: พยางค์อังกูล
+CE5F: รหัสพยางค์อังกูล
+CE60: อักษรฮันกึล Cilable
+CE61: อักษรอังกูล
+CE62: Cilm พยางค์อังกูล
+CE63: Cilb พยางค์อังกูล
+CE64: พยางค์อังกูล
+CE65: พยางค์อังกูล
+CE66: Cilp พยางค์อังกูล
+CE67: พยางค์อังกูล
+CE68: พยางค์อังกูล
+CE69: Cib อังกูลพยางค์
+CE6A: Cibs อังกูลพยางค์
+CE6B: Cis อังกูลพยางค์
+CE6C: พยางค์อังกูล
+CE6D: พยางค์อังกูล Cing
+CE6E: พยางค์อังกูล
+CE6F: พยางค์อังกูล
+CE70: อังกูลพยางค์ Cik
+CE71: อังกูลพยางค์ซิตี้
+CE72: Cip อังกูลพยางค์
+CE73: พยางค์อังกูล
+CE74: อังกูลพยางค์กา
+CE75: อังกูลพยางค์ Kag
+CE76: อังกูลพยางค์ Kagg
+CE77: อังกูลพยางค์
+CE78: พยางค์อังกูล
+CE79: อังกูลพยางค์คันจล
+CE7A: อังกูลพยางค์ Kanh
+CE7B: พยางค์อังกูลกาด
+CE7C: กูลอังกูล
+CE7D: Kalul พยางค์อังกูล
+CE7E: Kalm พยางค์อังกูล
+CE7F: Kalul พยางค์อังกูล
+CE80: Kals พยางค์อังกูล
+CE81: พยางค์ฮันกึล
+CE82: Kalul พยางค์อังกูล
+CE83: อังกูลพยางค์คาล
+CE84: พยางค์อังกูล
+CE85: กูลอังกูลพยางค์
+CE86: Kul อังกูลพยางค์
+CE87: พยางค์อังกูล
+CE88: Kul อังกูลพยางค์
+CE89: อังกูลพยางค์กัง
+CE8A: อังกูลพยางค์คาจ
+CE8B: อังกูลพยางค์ Kac
+CE8C: อังกูลพยางค์ Kak
+CE8D: Kat พยางค์อังกูล
+CE8E: Kap พยางค์อังกูล
+CE8F: พยางค์อังกูล
+CE90: อังกูลพยางค์แก
+CE91: อังกูลพยางค์
+CE92: อังกูลพยางค์
+CE93: พยางค์อังกูล
+CE94: อังกูลพยางค์ขอนแก่น
+CE95: อังกูลพยางค์ขอนแก่น
+CE96: อังกูลพยางค์ Kaenh
+CE97: อังกูลพยางค์ Kaed
+CE98: อังกูลพยางค์คาล
+CE99: อังกูลพยางค์ Kaelg
+CE9A: พยางค์ฮันกึล
+CE9B: อังกูลพยางค์คาเอลบ
+CE9C: Kaul พยางค์อังกูล
+CE9D: อังกูลพยางค์ฮันกึล
+CE9E: อังกูลพยางค์ Kaelp
+CE9F: พยางค์ฮันกึล
+CEA0: พยางค์อังกูล
+CEA1: อังกูลพยางค์ Kaeb
+CEA2: อังกูลพยางค์ Kaebs
+CEA3: อังกูลพยางค์ Kaes
+CEA4: พยางค์ฮันกึล
+CEA5: อังกูลพยางค์แก่ง
+CEA6: อังกูลพยางค์ Kaej
+CEA7: อังกูลพยางค์
+CEA8: อังกูลพยางค์ Kaek
+CEA9: อังกูลพยางค์อังกูล
+CEAA: อังกูลพยางค์ Kaep
+CEAB: อังกูลพยางค์ Kaeh
+CEAC: อังกูลพยางค์ Kya
+CEAD: อังกูลพยางค์ Kyul
+CEAE: อังกูลพยางค์ Kyagg
+CEAF: Kyul พยางค์อังกูล
+CEB0: พยางค์ฮันกึล
+CEB1: พยางค์ฮันกึล
+CEB2: พยางค์ฮันกึล
+CEB3: พยางค์ฮันกึล
+CEB4: อังกูลพยางค์ Kyal
+CEB5: อังกูลพยางค์อังกูล
+CEB6: Kyul พยางค์อังกูล
+CEB7: อังกูลพยางค์ Kyalb
+CEB8: Kyul พยางค์อังกูล
+CEB9: Kyulable พยางค์ฮันกึล
+CEBA: อังกูลพยางค์ Kyalp
+CEBB: อังกูลพยางค์ Kyalh
+CEBC: อังกูลพยางค์ Kyam
+CEBD: Kyul พยางค์อังกูล
+CEBE: Kyul พยางค์อังกูล
+CEBF: Kyul พยางค์อังกูล
+CEC0: Kyul พยางค์อังกูล
+CEC1: พยางค์ฮันกึล
+CEC2: อังกูลพยางค์ Kyaj
+CEC3: Kyul พยางค์อังกูล
+CEC4: อังกูลพยางค์ Kyak
+CEC5: พยางค์ฮันกึล
+CEC6: อังกูลพยางค์อังกูล
+CEC7: พยางค์ฮันกึล
+CEC8: พยางค์ฮันกึล
+CEC9: อังกูลพยางค์
+CECA: อังกูลพยางค์
+CECB: อังกูลพยางค์
+CECC: พยางค์ฮันกึล
+CECD: พยางค์ฮันกึล
+CECE: อังกูลพยางค์ Kyaenh
+CECF: พยางค์ฮันกึล
+CED0: อังกูลพยางค์ Kyael
+CED1: อังกูลพยางค์
+CED2: พยางค์ฮันกึล
+CED3: พยางค์ฮันกึล
+CED4: Kyaels อังกูลพยางค์
+CED5: อังกูลพยางค์ Kyaelt
+CED6: พยางค์ฮันกึล
+CED7: พยางค์ฮันกึล
+CED8: อังกูลพยางค์เขมร
+CED9: อังกูลพยางค์ Kyaeb
+CEDA: Kyulbs พยางค์อังกูล
+CEDB: อังกูลพยางค์ Kyaes
+CEDC: พยางค์ฮันกึล
+CEDD: พยางค์ฮันกึล
+CEDE: อังกูลพยางค์ Kyaej
+CEDF: อังกูลพยางค์ Kyaec
+CEE0: อังกูลพยางค์
+CEE1: พยางค์ฮันกึล
+CEE2: พยางค์ฮันกึล
+CEE3: พยางค์ฮันกึล
+CEE4: พยางค์อังกูล
+CEE5: Keul พยางค์อังกูล
+CEE6: Keul พยางค์อังกูล
+CEE7: Keuls พยางค์อังกูล
+CEE8: Keulable พยางค์ฮันกึล
+CEE9: อังกูลพยางค์คีน
+CEEA: อังกูลพยางค์ Keonh
+CEEB: Keul พยางค์อังกูล
+CEEC: Keul พยางค์อังกูล
+CEED: อังกูลพยางค์คีล
+CEEE: Keulm พยางค์อังกูล
+CEEF: Keulb พยางค์อังกูล
+CEF0: Keul พยางค์อังกูล
+CEF1: Keult พยางค์อังกูล
+CEF2: Keulp พยางค์อังกูล
+CEF3: Keulh พยางค์อังกูล
+CEF4: อังกูลพยางค์อังกูล
+CEF5: Keul พยางค์อังกูล
+CEF6: Keul พยางค์อังกูล
+CEF7: Keos พยางค์อังกูล
+CEF8: Keul พยางค์อังกูล
+CEF9: อังกูลพยางค์ Keong
+CEFA: อังกูลพยางค์ Keoj
+CEFB: Keul พยางค์อังกูล
+CEFC: อังกูลพยางค์ Keulable
+CEFD: อังกูลพยางค์อังกูล
+CEFE: Keul พยางค์อังกูล
+CEFF: Keul พยางค์อังกูล

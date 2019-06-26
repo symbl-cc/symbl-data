@@ -1,0 +1,256 @@
+2A00: Operador de ponto circular N-Ary
+2A01: Operador N-Ary Circled Plus
+2A02: Operador N-Ary Circled Times
+2A03: Operador da União N-Ary com Dot
+2A04: Operador da União N-Ary com Plus
+2A05: Operador de interseção quadrada N-Ary
+2A06: Operador de Union Square N-Ary
+2A07: Dois lógicos e operadores : fundir
+2A08: Dois lógicos ou operadores
+2A09: Operador N-Ary Times
+2A0A: Módulo Dois Soma
+2A0B: Resumo com Integral
+2A0C: Operador Integral Quádruplo
+2A0D: Parte Integral Finita
+2A0E: Integral com duplo curso
+2A0F: Média Integral com Slash
+2A10: Função de Circulação
+2A11: Integração Anti-Horário
+2A12: Integração de linha com caminho retangular ao redor do pólo
+2A13: Integração de linha com caminho semicircular ao redor do pólo
+2A14: Integração de Linha Não Incluindo o Pólo
+2A15: Integral em torno de um operador pontual
+2A16: Operador Integral de Quaternion
+2A17: Integral com seta para a esquerda com gancho
+2A18: Integral com Times Sign
+2A19: Integral com interseção
+2A1A: Integral com a União
+2A1B: Integral com Overbar : integral superior
+2A1C: Integral com Underbar : integrante inferior
+2A1D: Junte-se : grande gravata borboleta
+2A1E: Operador Grande Triangular Esquerdo
+2A1F: Composição do Esquema de Notação Z
+2A20: Tubulação do Esquema de Notação Z
+2A21: Projeção de esquema de notação Z
+2A22: Sinal de mais com pequeno círculo acima
+2A23: Sinal de adição com acento circunflexo acima
+2A24: Sinal de adição com til acima : diferença positiva ou soma
+2A25: Sinal de mais com ponto abaixo
+2A26: Sinal de adição com til abaixo : soma ou diferença positiva
+2A27: Sinal Plus com Subscrito Dois : nim-addition
+2A28: Sinal de mais com triângulo preto
+2A29: Sinal negativo com vírgula acima
+2A2A: Sinal negativo com ponto abaixo
+2A2B: Sinal de menos com pontos de queda
+2A2C: Sinal negativo com pontos crescentes
+2A2D: Sinal de adição no meio círculo esquerdo
+2A2E: Sinal de adição no meio círculo
+2A2F: Vector ou Produto Cruzado
+2A30: Sinal de multiplicação com ponto acima
+2A31: Sinal de multiplicação com Underbar
+2A32: Produto Semidirect com Fundo Fechado
+2A33: Quebra de Produto
+2A34: Sinal de multiplicação no meio círculo esquerdo
+2A35: Sinal de multiplicação no meio círculo certo
+2A36: Sinal de multiplicação circular com acento circunflexo
+2A37: Sinal de multiplicação no duplo círculo
+2A38: Sinal de divisão em círculo
+2A39: Sinal de adição no triângulo
+2A3A: Sinal de menos no triângulo
+2A3B: Multiplicação, sinal, em, triangulo
+2A3C: Produto Interior
+2A3D: Produto Interno Direito
+2A3E: Composição Relacional da Notação Z
+2A3F: Amalgamação ou coproduto
+2A40: Intersecção com Dot
+2A41: União com sinal negativo : subtração do saco de anotação z
+2A42: União com Overbar
+2A43: Intersecção com Overbar
+2A44: Interseção com Logical And
+2A45: União com Logical Or
+2A46: União acima da intersecção
+2A47: Interseção Acima da União
+2A48: União acima da barra acima da interseção
+2A49: Interseção Acima da Barra Acima da União
+2A4A: União ao lado e juntou-se à União
+2A4B: Intersecção ao lado e unida à interseção
+2A4C: União Fechada com Serifs
+2A4D: Interseção Fechada com Serifas
+2A4E: Interseção Quadrada Dupla
+2A4F: União Quadrada Dupla
+2A50: União Fechada com Serifas e Smash Product
+2A51: Lógico e com Dot Above
+2A52: Lógico ou com Dot Above
+2A53: Duplo Lógico E
+2A54: Duplo Lógico Ou
+2A55: Dois Logical Interseção E
+2A56: Dois Logical Intersecting Ou
+2A57: Inclinada Grande Ou
+2A58: Inclinada grande e
+2A59: Logical ou sobreposição de lógica e
+2A5A: Lógico e com haste média
+2A5B: Lógico ou com haste média
+2A5C: Lógico e com traço horizontal
+2A5D: Lógico ou com traço horizontal
+2A5E: Lógico e com Double Overbar
+2A5F: Lógico e com Underbar
+2A60: Lógico e com Underbar duplo
+2A61: Pequeno Vee com Underbar
+2A62: Lógico ou com Double Overbar
+2A63: Lógico ou com Double Underbar
+2A64: Antivírus de Domínio de Notação Z
+2A65: Faixa de Notação Z Antirreção
+2A66: Sinal de igual com ponto abaixo
+2A67: Idêntico com Dot Above
+2A68: Barra Horizontal Tripla com Curso Vertical Duplo : idêntico e paralelo a
+2A69: Barra Horizontal Tripla com Curso Vertical Triplo
+2A6A: Operador de til com ponto acima
+2A6B: Operador de tilé com pontos em ascensão
+2A6C: Similar menos semelhante
+2A6D: Congruente com Dot Above
+2A6E: É igual a asterisco
+2A6F: Quase igual a com acento circunflexo
+2A70: Aproximadamente igual ou igual a
+2A71: Sinal de igual acima do sinal de mais
+2A72: Sinal de mais acima do sinal de igual
+2A73: Sinal de igual acima do operador de til
+2A74: Duplo cólon igual
+2A75: Dois sinais iguais consecutivos
+2A76: Três Sinais Consecutivos
+2A77: Sinal de igual com dois pontos acima e dois pontos abaixo
+2A78: Equivalente com quatro pontos acima
+2A79: Menos que com o círculo dentro
+2A7A: Maior que com círculo dentro
+2A7B: Menos que com o ponto de interrogação acima
+2A7C: Maior que com o ponto de interrogação acima
+2A7D: Menor ou inclinada igual a
+2A7E: Maior que ou inclinado igual a
+2A7F: Menos-que ou inclinado igual a com ponto dentro
+2A80: Maior-que ou inclinado igual a com ponto dentro
+2A81: Menos-que ou inclinado igual a com ponto acima
+2A82: Maior-que ou inclinado igual a com ponto acima
+2A83: Menos-que ou inclinado igual a com ponto acima à direita
+2A84: Maior-que ou inclinado igual a com ponto acima à esquerda
+2A85: Menos que ou Aproximado
+2A86: Maior que ou Aproximado
+2A87: Linha menor que e única não igual a
+2A88: Linha Superior e Única Não Igual a
+2A89: Menos que e não aproximado
+2A8A: Maior que e não aproximado
+2A8B: Menos do que acima da linha dupla Igual acima de maior que
+2A8C: Maior do que acima da linha dupla Igual acima de menos que
+2A8D: Menos que acima de similar ou igual
+2A8E: Maior que acima de igual ou igual
+2A8F: Menos que Acima Similar Acima Maior que
+2A90: Maior que Acima Similar Acima Menos que
+2A91: Menos que Acima Maior do que Acima da Linha Dupla
+2A92: Maior que Acima de Menos que Acima da Linha Dupla
+2A93: Menos do que inclinado igual acima Acima do que acima inclinado igual
+2A94: Maior do que acima do inclinado igual acima do menor do que inclinado igual
+2A95: Inclinado igual ou menor que
+2A96: Inclinado igual ou maior que
+2A97: Inclinado igual ou menor que com ponto dentro
+2A98: Inclinado igual ou maior que com ponto dentro
+2A99: Linha dupla igual ou menor que
+2A9A: Linha dupla igual ou maior que
+2A9B: Linha dupla inclinada igual ou menor que
+2A9C: Linha dupla inclinada igual ou maior que
+2A9D: Similar ou menor que
+2A9E: Semelhante ou Maior que
+2A9F: Similar acima de menos que acima é igual a sinal
+2AA0: Similar Acima Maior que Acima Igual a Sinal
+2AA1: Duplo aninhado menos que : continuidade absoluta
+2AA2: Duplo aninhado maior que
+2AA3: Duplo aninhado menos que com Underbar
+2AA4: Maior que sobrepor menos que
+2AA5: Maior que ao lado de menos que
+2AA6: Menos que fechado por curva
+2AA7: Maior que fechado pela curva
+2AA8: Menos que fechado por curva acima de igual inclinado
+2AA9: Maior que fechado por curva acima de igual inclinado
+2AAA: Menor que
+2AAB: Maior que
+2AAC: Menor ou igual a
+2AAD: Maior ou igual a
+2AAE: Sinal de igual com acidentado acima
+2AAF: Precede acima da linha única é igual a sinal
+2AB0: É bem-sucedido acima do sinal de linha única
+2AB1: Precede Acima de Linha Única Não Igual a
+2AB2: Obtém êxito acima da linha única não igual a
+2AB3: Precede acima igual sinal
+2AB4: Sucede Acima Sinal de Igual
+2AB5: Precede Acima Não Igual a
+2AB6: Sucede Acima Não Igual a
+2AB7: Precede Acima Quase Igual a
+2AB8: Sucede Acima Quase Quase Igual a
+2AB9: Precede Acima Não Quase Igual a
+2ABA: Sucede Acima Não Quase Igual a
+2ABB: Duplo precede
+2ABC: Duplo Sucesso
+2ABD: Subconjunto com Dot
+2ABE: Superconjunto com Dot
+2ABF: Subconjunto com sinal de adição abaixo
+2AC0: Superset com sinal de adição abaixo
+2AC1: Subconjunto com sinal de multiplicação abaixo
+2AC2: Superconjunto com sinal de multiplicação abaixo
+2AC3: Subconjunto de ou igual a com ponto acima
+2AC4: Superconjunto de ou igual a com ponto acima
+2AC5: Subconjunto de acima igual sinal
+2AC6: Superset of Above Equals Sign
+2AC7: Subconjunto do operador acima do til
+2AC8: Superset of Above Tilde Operator
+2AC9: Subconjunto de acima quase igual a
+2ACA: Superset de acima quase igual a
+2ACB: Subconjunto de acima não igual a
+2ACC: Superconjunto de Acima Não Igual a
+2ACD: Operador Open Box Quadrado Esquerdo
+2ACE: Operador de caixa quadrada direita aberta
+2ACF: Subconjunto Fechado
+2AD0: Superconjunto Fechado
+2AD1: Subconjunto Fechado ou Igual a
+2AD2: Superconjunto Fechado ou Igual a
+2AD3: Subconjunto Acima do Superset
+2AD4: Superconjunto Acima do Subconjunto
+2AD5: Subconjunto Acima do Subconjunto
+2AD6: Superconjunto Acima do Superconjunto
+2AD7: Superset ao lado do subconjunto
+2AD8: Superset ao lado e unidos por traço com subconjunto
+2AD9: Elemento de abertura para baixo
+2ADA: Forcado com parte superior do T
+2ADB: Interseção Transversal
+2ADC: Bifurcação : não independente
+2ADD: Nonforking : independente
+2ADE: Tack esquerdo curto
+2ADF: Tack curto para baixo
+2AE0: Short Up Tack
+2AE1: Perpendicular com S
+2AE2: Torniquete direito triplo da barra vertical : ordinariamente satisfaz
+2AE3: Torniquete esquerdo da barra vertical dobro
+2AE4: Torniquete esquerdo da barra vertical dobro
+2AE5: Torniquete esquerdo dobro da barra vertical dobro
+2AE6: Traço Longo do Membro Esquerdo do Duplo Vertical
+2AE7: Curto para baixo aderência com Overbar
+2AE8: Short Up Tack com Underbar
+2AE9: Short Up Tack Acima Curto Down Tack
+2AEA: Double Down Tack
+2AEB: Dobrar Tack : independência
+2AEC: Curso duplo não assinar
+2AED: Curso duplo invertido sem assinar
+2AEE: Não divide com barra de negação invertida
+2AEF: Linha Vertical com Círculo Acima
+2AF0: Linha Vertical com Círculo Abaixo
+2AF1: Para baixo aderência com círculo abaixo : necessariamente satisfaz
+2AF2: Paralelo com traço horizontal
+2AF3: Paralelo ao Operador de Til
+2AF4: Relação binária da barra vertical tripla : intercalar
+2AF5: Barra vertical tripla com curso horizontal
+2AF6: Operador de dois pontos
+2AF7: Triplo aninhado menos que
+2AF8: Triplo aninhado maior que
+2AF9: Linha dupla inclinada menos que ou igual a
+2AFA: Linha dupla inclinada maior que ou igual a
+2AFB: Relação binária de Triple Solidus
+2AFC: Operador triplo de barra vertical
+2AFD: Operador Duplo Solidus
+2AFE: Barra Vertical Branca : escolha dijkstra
+2AFF: Barra Vertical Branca N-Ary : n-ary dijkstra escolha

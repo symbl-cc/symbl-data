@@ -1,256 +1,256 @@
-B100 : Hangul syllable nyaess
-B101 : Hangul syllable nyaeng
-B102 : Hangul syllable nyaej
-B103 : Hangul syllable nyaec
-B104 : Hangul syllable nyaek
-B105 : Hangul syllable nyaet
-B106 : Hangul syllable nyaep
-B107 : Hangul syllable nyaeh
-B108 : Hangul syllable neo
-B109 : Hangul syllable neog
-B10A : Hangul syllable neogg
-B10B : Hangul syllable neogs
-B10C : Hangul syllable neon
-B10D : Hangul syllable neonj
-B10E : Hangul syllable neonh
-B10F : Hangul syllable neod
-B110 : Hangul syllable neol
-B111 : Hangul syllable neolg
-B112 : Hangul syllable neolm
-B113 : Hangul syllable neolb
-B114 : Hangul syllable neols
-B115 : Hangul syllable neolt
-B116 : Hangul syllable neolp
-B117 : Hangul syllable neolh
-B118 : Hangul syllable neom
-B119 : Hangul syllable neob
-B11A : Hangul syllable neobs
-B11B : Hangul syllable neos
-B11C : Hangul syllable neoss
-B11D : Hangul syllable neong
-B11E : Hangul syllable neoj
-B11F : Hangul syllable neoc
-B120 : Hangul syllable neok
-B121 : Hangul syllable neot
-B122 : Hangul syllable neop
-B123 : Hangul syllable neoh
-B124 : Hangul syllable ne
-B125 : Hangul syllable neg
-B126 : Hangul syllable negg
-B127 : Hangul syllable negs
-B128 : Hangul syllable nen
-B129 : Hangul syllable nenj
-B12A : Hangul syllable nenh
-B12B : Hangul syllable ned
-B12C : Hangul syllable nel
-B12D : Hangul syllable nelg
-B12E : Hangul syllable nelm
-B12F : Hangul syllable nelb
-B130 : Hangul syllable nels
-B131 : Hangul syllable nelt
-B132 : Hangul syllable nelp
-B133 : Hangul syllable nelh
-B134 : Hangul syllable nem
-B135 : Hangul syllable neb
-B136 : Hangul syllable nebs
-B137 : Hangul syllable nes
-B138 : Hangul syllable ness
-B139 : Hangul syllable neng
-B13A : Hangul syllable nej
-B13B : Hangul syllable nec
-B13C : Hangul syllable nek
-B13D : Hangul syllable net
-B13E : Hangul syllable nep
-B13F : Hangul syllable neh
-B140 : Hangul syllable nyeo
-B141 : Hangul syllable nyeog
-B142 : Hangul syllable nyeogg
-B143 : Hangul syllable nyeogs
-B144 : Hangul syllable nyeon
-B145 : Hangul syllable nyeonj
-B146 : Hangul syllable nyeonh
-B147 : Hangul syllable nyeod
-B148 : Hangul syllable nyeol
-B149 : Hangul syllable nyeolg
-B14A : Hangul syllable nyeolm
-B14B : Hangul syllable nyeolb
-B14C : Hangul syllable nyeols
-B14D : Hangul syllable nyeolt
-B14E : Hangul syllable nyeolp
-B14F : Hangul syllable nyeolh
-B150 : Hangul syllable nyeom
-B151 : Hangul syllable nyeob
-B152 : Hangul syllable nyeobs
-B153 : Hangul syllable nyeos
-B154 : Hangul syllable nyeoss
-B155 : Hangul syllable nyeong
-B156 : Hangul syllable nyeoj
-B157 : Hangul syllable nyeoc
-B158 : Hangul syllable nyeok
-B159 : Hangul syllable nyeot
-B15A : Hangul syllable nyeop
-B15B : Hangul syllable nyeoh
-B15C : Hangul syllable nye
-B15D : Hangul syllable nyeg
-B15E : Hangul syllable nyegg
-B15F : Hangul syllable nyegs
-B160 : Hangul syllable nyen
-B161 : Hangul syllable nyenj
-B162 : Hangul syllable nyenh
-B163 : Hangul syllable nyed
-B164 : Hangul syllable nyel
-B165 : Hangul syllable nyelg
-B166 : Hangul syllable nyelm
-B167 : Hangul syllable nyelb
-B168 : Hangul syllable nyels
-B169 : Hangul syllable nyelt
-B16A : Hangul syllable nyelp
-B16B : Hangul syllable nyelh
-B16C : Hangul syllable nyem
-B16D : Hangul syllable nyeb
-B16E : Hangul syllable nyebs
-B16F : Hangul syllable nyes
-B170 : Hangul syllable nyess
-B171 : Hangul syllable nyeng
-B172 : Hangul syllable nyej
-B173 : Hangul syllable nyec
-B174 : Hangul syllable nyek
-B175 : Hangul syllable nyet
-B176 : Hangul syllable nyep
-B177 : Hangul syllable nyeh
-B178 : Hangul syllable no
-B179 : Hangul syllable nog
-B17A : Hangul syllable nogg
-B17B : Hangul syllable nogs
-B17C : Hangul syllable non
-B17D : Hangul syllable nonj
-B17E : Hangul syllable nonh
-B17F : Hangul syllable nod
-B180 : Hangul syllable nol
-B181 : Hangul syllable nolg
-B182 : Hangul syllable nolm
-B183 : Hangul syllable nolb
-B184 : Hangul syllable nols
-B185 : Hangul syllable nolt
-B186 : Hangul syllable nolp
-B187 : Hangul syllable nolh
-B188 : Hangul syllable nom
-B189 : Hangul syllable nob
-B18A : Hangul syllable nobs
-B18B : Hangul syllable nos
-B18C : Hangul syllable noss
-B18D : Hangul syllable nong
-B18E : Hangul syllable noj
-B18F : Hangul syllable noc
-B190 : Hangul syllable nok
-B191 : Hangul syllable not
-B192 : Hangul syllable nop
-B193 : Hangul syllable noh
-B194 : Hangul syllable nwa
-B195 : Hangul syllable nwag
-B196 : Hangul syllable nwagg
-B197 : Hangul syllable nwags
-B198 : Hangul syllable nwan
-B199 : Hangul syllable nwanj
-B19A : Hangul syllable nwanh
-B19B : Hangul syllable nwad
-B19C : Hangul syllable nwal
-B19D : Hangul syllable nwalg
-B19E : Hangul syllable nwalm
-B19F : Hangul syllable nwalb
-B1A0 : Hangul syllable nwals
-B1A1 : Hangul syllable nwalt
-B1A2 : Hangul syllable nwalp
-B1A3 : Hangul syllable nwalh
-B1A4 : Hangul syllable nwam
-B1A5 : Hangul syllable nwab
-B1A6 : Hangul syllable nwabs
-B1A7 : Hangul syllable nwas
-B1A8 : Hangul syllable nwass
-B1A9 : Hangul syllable nwang
-B1AA : Hangul syllable nwaj
-B1AB : Hangul syllable nwac
-B1AC : Hangul syllable nwak
-B1AD : Hangul syllable nwat
-B1AE : Hangul syllable nwap
-B1AF : Hangul syllable nwah
-B1B0 : Hangul syllable nwae
-B1B1 : Hangul syllable nwaeg
-B1B2 : Hangul syllable nwaegg
-B1B3 : Hangul syllable nwaegs
-B1B4 : Hangul syllable nwaen
-B1B5 : Hangul syllable nwaenj
-B1B6 : Hangul syllable nwaenh
-B1B7 : Hangul syllable nwaed
-B1B8 : Hangul syllable nwael
-B1B9 : Hangul syllable nwaelg
-B1BA : Hangul syllable nwaelm
-B1BB : Hangul syllable nwaelb
-B1BC : Hangul syllable nwaels
-B1BD : Hangul syllable nwaelt
-B1BE : Hangul syllable nwaelp
-B1BF : Hangul syllable nwaelh
-B1C0 : Hangul syllable nwaem
-B1C1 : Hangul syllable nwaeb
-B1C2 : Hangul syllable nwaebs
-B1C3 : Hangul syllable nwaes
-B1C4 : Hangul syllable nwaess
-B1C5 : Hangul syllable nwaeng
-B1C6 : Hangul syllable nwaej
-B1C7 : Hangul syllable nwaec
-B1C8 : Hangul syllable nwaek
-B1C9 : Hangul syllable nwaet
-B1CA : Hangul syllable nwaep
-B1CB : Hangul syllable nwaeh
-B1CC : Hangul syllable noe
-B1CD : Hangul syllable noeg
-B1CE : Hangul syllable noegg
-B1CF : Hangul syllable noegs
-B1D0 : Hangul syllable noen
-B1D1 : Hangul syllable noenj
-B1D2 : Hangul syllable noenh
-B1D3 : Hangul syllable noed
-B1D4 : Hangul syllable noel
-B1D5 : Hangul syllable noelg
-B1D6 : Hangul syllable noelm
-B1D7 : Hangul syllable noelb
-B1D8 : Hangul syllable noels
-B1D9 : Hangul syllable noelt
-B1DA : Hangul syllable noelp
-B1DB : Hangul syllable noelh
-B1DC : Hangul syllable noem
-B1DD : Hangul syllable noeb
-B1DE : Hangul syllable noebs
-B1DF : Hangul syllable noes
-B1E0 : Hangul syllable noess
-B1E1 : Hangul syllable noeng
-B1E2 : Hangul syllable noej
-B1E3 : Hangul syllable noec
-B1E4 : Hangul syllable noek
-B1E5 : Hangul syllable noet
-B1E6 : Hangul syllable noep
-B1E7 : Hangul syllable noeh
-B1E8 : Hangul syllable nyo
-B1E9 : Hangul syllable nyog
-B1EA : Hangul syllable nyogg
-B1EB : Hangul syllable nyogs
-B1EC : Hangul syllable nyon
-B1ED : Hangul syllable nyonj
-B1EE : Hangul syllable nyonh
-B1EF : Hangul syllable nyod
-B1F0 : Hangul syllable nyol
-B1F1 : Hangul syllable nyolg
-B1F2 : Hangul syllable nyolm
-B1F3 : Hangul syllable nyolb
-B1F4 : Hangul syllable nyols
-B1F5 : Hangul syllable nyolt
-B1F6 : Hangul syllable nyolp
-B1F7 : Hangul syllable nyolh
-B1F8 : Hangul syllable nyom
-B1F9 : Hangul syllable nyob
-B1FA : Hangul syllable nyobs
-B1FB : Hangul syllable nyos
-B1FC : Hangul syllable nyoss
-B1FD : Hangul syllable nyong
-B1FE : Hangul syllable nyoj
-B1FF : Hangul syllable nyoc
+B100: อังกูลพยางค์ Nyaess
+B101: พยางค์อังกูลญาจาง
+B102: อังกูลพยางค์ Nyaej
+B103: อังกูลพยางค์ Nyaec
+B104: อังกูลพยางค์ Nyaek
+B105: อังกูลพยางค์ Nyaet
+B106: อังกูลพยางค์ Nyaep
+B107: อังกูลพยางค์ Nyaeh
+B108: อังกูลพยางค์ Neo
+B109: อังกูลพยางค์อังกูล
+B10A: อังกูลพยางค์ Neogg
+B10B: อังกูลพยางค์ Neogs
+B10C: อังกูลพยางค์นีออน
+B10D: พยางค์อังกูลนีออน
+B10E: พยางค์ฮันกึล
+B10F: พยางค์อังกูล
+B110: อังกูลพยางค์ Neol
+B111: อังกูลพยางค์ Neolg
+B112: พยางค์อังกูลพยางค์
+B113: อังกูลพยางค์อังกูล
+B114: อังกูลพยางค์ Neul
+B115: พยางค์อังกูล
+B116: อังกูลพยางค์ Neolp
+B117: พยางค์ฮันกึล
+B118: พยางค์อังกูล
+B119: อังกูลพยางค์ Neob
+B11A: อังกูลพยางค์ Neul
+B11B: อังกูลพยางค์ Neos
+B11C: พยางค์อังกูล
+B11D: พยางค์ฮันกึล
+B11E: อังกูลพยางค์ Neoj
+B11F: พยางค์อังกูล
+B120: อังกูลพยางค์ Neok
+B121: พยางค์อังกูล Neot
+B122: อังกูลพยางค์ Neop
+B123: อังกูลพยางค์ Neoh
+B124: อังกูลพยางค์เนล
+B125: พยางค์ฮันกึล
+B126: พยางค์อังกูล
+B127: Negul พยางค์ฮันกึล
+B128: อังกูลพยางค์
+B129: พยางค์อังกูล
+B12A: อังกูลพยางค์ Nenh
+B12B: พยางค์อังกูล
+B12C: พยางค์ฮันกึล
+B12D: พยางค์อังกูล
+B12E: Nulm พยางค์อังกูล
+B12F: พยางค์อังกูล
+B130: พยางค์อังกูล
+B131: อังกูลพยางค์ Nelt
+B132: พยางค์อังกูล
+B133: พยางค์ฮันกึล
+B134: พยางค์อังกูล
+B135: อังกูลพยางค์ Neb
+B136: อังกูลพยางค์
+B137: อังกูลพยางค์ Nes
+B138: พยางค์อังกูล
+B139: อังกูลพยางค์ Neng
+B13A: อังกูลพยางค์
+B13B: พยางค์อังกูล
+B13C: อังกูลพยางค์เนก
+B13D: อังกูลพยางค์สุทธิ
+B13E: พยางค์อังกูล Nep
+B13F: พยางค์อังกูล
+B140: อังกูลพยางค์ Nyeo
+B141: อังกูลพยางค์ Nyeog
+B142: อังกูลพยางค์ Nyeogg
+B143: Nyeogs อังกูลพยางค์
+B144: อังกูลพยางค์ Nyeon
+B145: พยางค์ฮันกึล
+B146: พยางค์ฮันกึล
+B147: พยางค์ฮันกึล
+B148: อังกูลพยางค์ Nyeol
+B149: พยางค์ฮันกึล
+B14A: พยางค์ฮันกึล
+B14B: อังกูลพยางค์ Nyeolb
+B14C: Nyeols พยางค์อังกูล
+B14D: พยางค์ฮันกึล
+B14E: พยางค์อังกูล
+B14F: พยางค์ฮันกึล
+B150: พยางค์ฮันกึล
+B151: อังกูลพยางค์ Nyeob
+B152: อังกูลพยางค์ Nyeobs
+B153: อังกูลพยางค์ Nyeos
+B154: อังกูลพยางค์ Nyeoss
+B155: พยางค์ฮันกึล
+B156: อังกูลพยางค์ Nyeoj
+B157: อังกูลพยางค์ Nyeoc
+B158: พยางค์ฮันกึล
+B159: อังกูลพยางค์ Nyeot
+B15A: อังกูลพยางค์ Nyeop
+B15B: พยางค์ฮันกึล Nyeoh
+B15C: อังกูลพยางค์ Nye
+B15D: อังกูลพยางค์ Nyeg
+B15E: พยางค์ฮันกึล
+B15F: อังกูลพยางค์ของอังกูล
+B160: อังกูลพยางค์ Nyen
+B161: อังกูลพยางค์ Nyenj
+B162: อังกูลพยางค์ Nyenh
+B163: พยางค์ฮันกึล
+B164: อังกูลพยางค์ Nyel
+B165: พยางค์ฮันกึล
+B166: พยางค์ฮันกึล
+B167: อังกูลพยางค์ Nyelb
+B168: อังกูลพยางค์ Nyels
+B169: อังกูลพยางค์ Nyelt
+B16A: อังกูลพยางค์ Nyelp
+B16B: พยางค์ฮันกึล
+B16C: พยางค์ฮันกึล
+B16D: อังกูลพยางค์ Nyeb
+B16E: Nyebs อังกูลพยางค์
+B16F: อังกูลพยางค์ Nyes
+B170: อังกูลพยางค์ Nyess
+B171: อังกูลพยางค์ Nyeng
+B172: อังกูลพยางค์ Nyej
+B173: อังกูลพยางค์ Nyec
+B174: อังกูลพยางค์ Nyek
+B175: อังกูลพยางค์ Nyet
+B176: อังกูลพยางค์ Nyep
+B177: อังกูลพยางค์ Nyeh
+B178: อังกูลพยางค์ไม่มี
+B179: พยางค์อังกูลพยางค์
+B17A: อังกูลพยางค์ Nogg
+B17B: พยางค์อังกูลพยางค์
+B17C: พยางค์อังกูล
+B17D: อังกูลพยางค์
+B17E: พยางค์อังกูล
+B17F: พยางค์อังกูลพยักหน้า
+B180: พยางค์ฮันกึล
+B181: พยางค์อังกูล
+B182: พยางค์ฮันกึล
+B183: อังกูลพยางค์ Nolb
+B184: อังกูลพยางค์ฮันกึล
+B185: พยางค์ฮันกึล
+B186: พยางค์อังกูลพยางค์
+B187: พยางค์อังกูลโนห์
+B188: นามพยางค์อังกูล
+B189: อังกูลพยางค์โนบ
+B18A: Nobs พยางค์อังกูล
+B18B: พยางค์อังกูล
+B18C: พยางค์ฮันกึล
+B18D: อังกูลพยางค์หนอง
+B18E: อังกูลพยางค์ Noj
+B18F: พยางค์อังกูล
+B190: อังกูลพยางค์นอก
+B191: พยางค์อังกูลไม่
+B192: พยางค์ฮันกึล
+B193: อังกูลพยางค์โนห์
+B194: อังกูลพยางค์ Nwa
+B195: อังกูลพยางค์ Nwag
+B196: อังกูลพยางค์ Nwagg
+B197: อังกูลพยางค์ Nwags
+B198: อังกูลพยางค์วรรณ
+B199: อังกูลพยางค์วรรณวัน
+B19A: อังกูลพยางค์วรรณวัน
+B19B: พยางค์อังกูล
+B19C: พยางค์ฮันกึล
+B19D: พยางค์อังกูล
+B19E: พยางค์ฮันกึล
+B19F: พยางค์ฮันกึล
+B1A0: อังกูลพยางค์ Nwals
+B1A1: พยางค์ฮันกึล
+B1A2: พยางค์อังกูล
+B1A3: พยางค์ฮันกึล
+B1A4: อังกูลพยางค์ Nwam
+B1A5: อังกูลพยางค์ Nwab
+B1A6: อังกูลพยางค์ Nwabs
+B1A7: พยางค์ฮันกึล
+B1A8: พยางค์อังกูล
+B1A9: พยางค์ฮันกึล
+B1AA: อังกูลพยางค์ Nwaj
+B1AB: อังกูลพยางค์ Nwac
+B1AC: พยางค์อังกูลวัก
+B1AD: พยางค์อังกูลวัฒน์
+B1AE: พยางค์ฮันกึล
+B1AF: พยางค์ฮันกึล
+B1B0: พยางค์ฮันกึล
+B1B1: พยางค์อังกูล
+B1B2: พยางค์อังกูล
+B1B3: พยางค์ฮันกึล
+B1B4: พยางค์ฮันกึล
+B1B5: พยางค์อังกูล
+B1B6: อังกูลพยางค์ Nwaenh
+B1B7: พยางค์ฮันกึล
+B1B8: อังกูลพยางค์ Nwael
+B1B9: พยางค์ฮันกึล
+B1BA: พยางค์ฮันกึล
+B1BB: พยางค์ฮันกึล
+B1BC: อังกูลพยางค์ Nwaels
+B1BD: พยางค์ฮันกึล
+B1BE: พยางค์ฮันกึล
+B1BF: พยางค์ฮันกึล
+B1C0: พยางค์อังกูล
+B1C1: พยางค์ฮันกึล
+B1C2: พยางค์ฮันกึล
+B1C3: อังกูลพยางค์ Nwaes
+B1C4: อังกูลพยางค์ Nwaess
+B1C5: พยางค์อังกูลหว่าง
+B1C6: พยางค์อังกูล
+B1C7: อังกูลพยางค์ Nwaec
+B1C8: พยางค์ฮันกึลแวก
+B1C9: อังกูลพยางค์ Nwaet
+B1CA: อังกูลพยางค์ Nwaep
+B1CB: พยางค์ฮันกึล
+B1CC: ภาษาอังกูลพยางค์
+B1CD: อังกูลพยางค์
+B1CE: อังกูลพยางค์
+B1CF: Noegs อังกูลพยางค์
+B1D0: พยางค์ฮันกึล
+B1D1: พยางค์ฮันกึล
+B1D2: อังกูลพยางค์ Noenh
+B1D3: อังกูลพยางค์ไม่มีเสียง
+B1D4: Noel พยางค์อังกูล
+B1D5: อังกูลพยางค์
+B1D6: Noelm พยางค์อังกูล
+B1D7: Noelb พยางค์อังกูล
+B1D8: พยางค์อังกูล
+B1D9: อังกูลพยางค์ Noelt
+B1DA: Noelp พยางค์อังกูล
+B1DB: พยางค์อังกูลโนเอล
+B1DC: พยางค์ฮันกึล
+B1DD: อังกูลพยางค์อังกูล
+B1DE: Noebs อังกูลพยางค์
+B1DF: เสียงพยางค์อังกูล
+B1E0: Hangul พยางค์ Noess
+B1E1: พยางค์ฮันกึล
+B1E2: อังกูลพยางค์ Noej
+B1E3: Noul พยางค์อังกูล
+B1E4: อังกูลพยางค์ Noek
+B1E5: อังกูลพยางค์ฮันกึล
+B1E6: พยางค์อังกูล
+B1E7: อังกูลพยางค์ Noeh
+B1E8: อังกูลพยางค์ Nyo
+B1E9: พยางค์ฮันกึล
+B1EA: อังกูลพยางค์ Nyogg
+B1EB: พยางค์อังกูลพยางค์
+B1EC: พยางค์ฮันกึล
+B1ED: พยางค์ฮันกึล
+B1EE: พยางค์ฮันกึล
+B1EF: พยางค์ฮันกึล
+B1F0: พยางค์ฮันกึล
+B1F1: พยางค์ฮันกึล
+B1F2: พยางค์ฮันกึล
+B1F3: พยางค์ฮันกึล
+B1F4: อังกูลพยางค์ Nyols
+B1F5: พยางค์ฮันกึล
+B1F6: พยางค์ฮันกึล
+B1F7: พยางค์ฮันกึล
+B1F8: พยางค์ฮันกึล
+B1F9: อังกูลพยางค์ Nyob
+B1FA: อังกูลพยางค์ Nyobs
+B1FB: พยางค์ฮันกึล
+B1FC: อังกูลพยางค์ Nyoss
+B1FD: พยางค์อังกูลยอง
+B1FE: พยางค์อังกูล
+B1FF: พยางค์อังกูล

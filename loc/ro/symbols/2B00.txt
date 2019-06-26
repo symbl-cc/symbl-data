@@ -1,0 +1,256 @@
+2B00: Șirul alb-nord-est
+2B01: Nord-Vest White Arrow
+2B02: Sud-Estul Alb Arrow
+2B03: South West White Arrow
+2B04: Săgeată stânga dreapta albă
+2B05: Săgeata neagră spre stânga
+2B06: Sus Săgeata Neagră
+2B07: Săgeată în jos negru
+2B08: Nord-Estul Negru Arrow
+2B09: Nord-Vest Black Arrow
+2B0A: Sud-Estul Negru Arrow
+2B0B: South West Black Arrow
+2B0C: Stânga dreapta Săgeată neagră
+2B0D: Sus Săgeată Neagră
+2B0E: Săgeată spre dreapta cu vârful în jos
+2B0F: Săgeată spre dreapta cu vârful în sus
+2B10: Săgeată spre stânga cu vârful în jos
+2B11: Săgeată spre stânga cu vârf în sus
+2B12: Pătrat cu Topul Negru
+2B13: Pătrat cu jumătatea inferioară negru
+2B14: Pătrat cu diagonală superioară jumătate negru
+2B15: Pătrat cu stânga inferioară diagonală jumătate negru
+2B16: Diamond cu stânga jumătate negru
+2B17: Diamant cu jumătate dreapta negru
+2B18: Diamond cu Top Half Black
+2B19: Diamond cu fundul inferior negru
+2B1A: Pătrat punctat
+2B1B: Piața neagră mare
+2B1C: Piața albă mare
+2B1D: Piața neagră foarte mică
+2B1E: Piața albă foarte mică
+2B1F: Pentagonul negru
+2B20: Pentagonul alb
+2B21: White hexagon
+2B22: Black Hexagon
+2B23: Hexagon orizontal negru
+2B24: Cercul mare negru
+2B25: Diamant mediu negru
+2B26: Diamantul alb mediu
+2B27: Mediu negru pastilă
+2B28: Pudră albă medie
+2B29: Black Diamond mic
+2B2A: Black Lozenge negru
+2B2B: Pudră albă albă
+2B2C: Elipsă orizontală neagră
+2B2D: Elipsă orizontală albă
+2B2E: Negru verticale negre
+2B2F: Elipsa verticală albă
+2B30: Săgeată în stânga cu cerc mic
+2B31: Trei săgeți spre stânga
+2B32: Săgeată stânga cu Circled Plus
+2B33: Săgeată lungă la stânga
+2B34: Săgeată cu două capete orientată spre stânga cu accident vascular cerebral vertical
+2B35: Săgeată cu două capete la stânga cu dublu verticale
+2B36: Săgeată cu două capete din stânga
+2B37: Left Arrow cu două capete Triple Dash Arrow
+2B38: Săgeată spre stânga cu tulpină dotată
+2B39: Săgeată spre stânga cu coadă și accident vascular cerebral vertical
+2B3A: Săgeată spre stânga cu coadă dublă verticală
+2B3B: Săgeată cu două capete în partea stângă
+2B3C: Săgeată cu două capete, cu coadă dublă, cu accident vascular cerebral vertical
+2B3D: Săgeată cu două capete cu coadă dublă și dublă verticală
+2B3E: Săgeată spre stânga prin X
+2B3F: Săgeata în Wave îndreptată direct spre stânga
+2B40: Este egal cu semnul deasupra săgeată spre stânga
+2B41: Operatorul Tilde inversat deasupra săgeții spre stânga
+2B42: Săgeată spre stânga deasupra inversă aproape egală cu
+2B43: Săgeată spre dreapta, prin intermediul unei spații mai mari
+2B44: Săgeată spre dreapta prin Superset
+2B45: Săgeata cvadruplu stânga
+2B46: Dreapta Săgeată cvadruplu
+2B47: Operatorul Tilde inversă deasupra săgeții spre dreapta
+2B48: Arrow dreapta deasupra capului invers aproape aproape egal
+2B49: Tilde Operator deasupra săgeții spre stânga
+2B4A: Săgeată spre stânga aproape egală cu
+2B4B: Săgeată spre stânga deasupra operatorului invers
+2B4C: Arrow dreapta peste operatorul invers
+2B4D: Săgeată în zigzag cu triunghi în șir
+2B4E: Săgeată nord nordică
+2B4F: Săgeată de Sud scurtată spre spate
+2B50: White Medium Star : Steaua galbenă
+2B51: Black Star Mic
+2B52: Stea albă albă
+2B53: Pentagonul negru din dreapta
+2B54: Pentagonul alb îndreptat spre dreapta
+2B55: Cercul mare mare : Simbolul de bază pentru limita de viteză, Corect, Cerc roșu, Marcaj de cerc
+2B56: Oval greu cu ovală interioară : birou prefectural
+2B57: Cercul greu cu interiorul cercului : biroul municipal
+2B58: Cercul greu : oraș sau sat
+2B59: Heavy Circle Saltire : secție de poliție
+2B5A: Săgeată de nord înclinată cu cap înțepenit
+2B5B: Săgeată sudică din spate cu coadă înțepenită
+2B5C: Săgeată de nord înclinată cu coadă orizontală
+2B5D: Săgeată sudică din spate cu coadă orizontală
+2B5E: Arrow îndoit în jos spre nord-est
+2B5F: Scurt îndoit în direcție descendentă spre nord-est
+2B60: Săgeată cu triunghi îndreptată spre stânga
+2B61: Sus Arrow cu triunghi
+2B62: Dreapta săgeată cu triunghi
+2B63: Săgeată în direcție triunghiă în jos
+2B64: Stânga dreaptă cu triunghi-îndreptat săgeată
+2B65: Sus Arrow cu șir cu triunghi în jos
+2B66: Nord-Vest Triunghiul-Arrow îndreptat
+2B67: Nord-Est Triangle-Arrow îndreptat
+2B68: Sud-estul triunghiului cu șir
+2B69: Sud-Vest Triangle-Arrow îndreptat
+2B6A: Șurubul cu șir în direcție triunghiulară stânga
+2B6B: Sus Aruncat cu spatele triunghiular
+2B6C: Dreapta cu săgeata cu șir triunghiular
+2B6D: Săgeată în spate cu triunghi în spate
+2B6E: Arrow cu cerc deschis în sensul acelor de ceasornic
+2B6F: În sensul invers acelor de ceasornic, cu arcul cu cerc deschis în triunghi
+2B70: Triunghi spre stânga : fila stânga
+2B71: Argintiu triunghi în sus spre bar : sus
+2B72: Dreapta săgeată în triunghi spre bar : dreapta
+2B73: Săgeată în triunghi spre spate : în jos
+2B74:
+2B75:
+2B76: Triunghiul Nord-Vest cu șirul spre bar : Acasă
+2B77: Triunghiul nord-est-îndreptat spre bar
+2B78: Sud-estul triunghiului cu șirul spre bar : Sfârșit
+2B79: Triunghiul Sud-Vest-îndreptat spre bar
+2B7A: Săgeată cu șir triunghi îndreptată spre stânga cu accident vascular cerebral orizontal dublu
+2B7B: Argintiu triunghi cu șurub dublu în sus : pagină sus
+2B7C: Dreapta cu săgeata cu triunghi cu șoc dublu orizontal
+2B7D: Săgeată în direcția triunghiului cu dublă orizontală dublă : in josul paginii
+2B7E: Tastă orizontală Tab
+2B7F: Tasta Vertical Tab
+2B80: Săgeată în direcția triunghi-stânga spre dreapta
+2B81: Arrow în sus cu triunghiul în stânga spre stânga săgeții cu triunghi în direcția descendentă
+2B82: Dreapta săgeată cu triunghi cu capul deasupra stânga în direcția triunghiului
+2B83: Săgeată cu înlăturare triunghi în direcția stânga a săgeții în sus cu triunghi
+2B84: Șuruburi asociate cu triunghi în stânga
+2B85: În sus, săgeți însoțite de triunghi
+2B86: Dreapta cu săgeți asociate cu triunghi
+2B87: Șuruburi asociate cu triunghi în jos
+2B88: Săgeată albă albă circulară pe stânga
+2B89: Sus Arrow alb negru circular
+2B8A: Dreapta săgeată albă circulară albă
+2B8B: Săgeată albă în jos negru circulară
+2B8C: În sensul invers acelor de ceasornic, în direcția triunghiulară dreapta, în formă de U
+2B8D: În sensul invers acelor de ceasornic, în partea inferioară cu arcul în formă de U
+2B8E: În sensul invers acelor de ceasornic, în stânga în formă de U în formă de stânga
+2B8F: În sens invers acelor de ceasornic, în sus, în formă de U în formă de triunghi
+2B90: Reveniți la stânga
+2B91: Reveniți dreapta
+2B92: Newline stânga
+2B93: Newline dreapta
+2B94: Patru săgeți de colț circulând în sensul invers acelor de ceasornic : buclă
+2B95: Dreapta săgeată neagră
+2B96:
+2B97:
+2B98: Trei-D arcuită stânga echilateral de stânga
+2B99: Trei-D dreapta luminat în sus Equilateral Arrowhead
+2B9A: Trei-D cu luminozitate stânga la dreapta
+2B9B: Trei-D stânga luminată în stânga Equilateral Arrowhead
+2B9C: Negru egal la stânga Equilateral Arrowhead
+2B9D: Negru în sus Equilateral Arrowhead
+2B9E: Negru Dreapta Equilateral Arrowhead
+2B9F: Negru în ordine descendentă
+2BA0: Săgeată în direcție triunghi în jos cu vârf lung spre stânga
+2BA1: Săgeată în direcția triunghiului în direcția spre dreapta
+2BA2: Argintiu în sus cu triunghi cu vârf lung spre stânga
+2BA3: Argintiu triunghiular cu vârful în sus spre dreapta
+2BA4: Săgeată cu triunghi îndreptată spre stânga cu vârful lung în sus
+2BA5: Dreapta săgeată cu triunghi cu vârf lung în sus
+2BA6: Săgeată cu triunghi îndreptată spre stânga cu vârful lung în jos
+2BA7: Dreapta cu săgeata cu triunghi îndreptat în jos
+2BA8: Negru curbat în jos și spre stânga săgeată
+2BA9: Negru curbat în jos și spre dreapta Arrow
+2BAA: Negru curbat în sus și în stânga săgeată
+2BAB: Negru curbat în sus și în dreapta Arrow
+2BAC: Negru curbat spre stânga și în sus
+2BAD: Negru curbat dreapta și săgeată în sus
+2BAE: Curbată în partea neagră spre stânga și spre săgeată în jos
+2BAF: Negru curbat dreapta și săgeată în jos
+2BB0: Panglica săgeată în jos
+2BB1: Panglica săgeată în jos dreapta
+2BB2: Panglica săgeată în sus
+2BB3: Panglica Arrow Up Right
+2BB4: Panglica săgeată stânga în sus
+2BB5: Panglica săgeată dreapta sus
+2BB6: Panglica săgeată stânga jos
+2BB7: Panglica săgeată în jos
+2BB8: Săgeată albă de sus de la bar cu bar orizontal : majuscule
+2BB9: Up Arrowhead într-o cutie dreptunghiulară : evadare
+2BBA: Suprapuneri de pătrate albe
+2BBB: Suprapuneri de pătrate albe și negre
+2BBC: Piața neagră suprapusă
+2BBD: Cutie de vot cu lumină X
+2BBE: Circled X
+2BBF: Circled Bold X
+2BC0: Piața neagră centrat
+2BC1: Black Diamond centrat
+2BC2: Pentagonul negru a fost transformat
+2BC3: Origonul orizontal negru
+2BC4: Negru octagon
+2BC5: Mediu triunghi de orientare neagră centrală centrat
+2BC6: Mediu triunghi cu orientare în jos
+2BC7: Mediu triunghi orientat spre stânga mediu centrat
+2BC8: Negru mediu triunghi orientat spre dreapta centrat
+2BC9:
+2BCA: Cercul Negru Negru
+2BCB: Cercul Negru al Cercului Negru
+2BCC: Lumina Patru Negru Vârf Cusp
+2BCD: Lumină rotativă Cusp de 4 culori negre
+2BCE: Cuspul alb al patrulea
+2BCF: Rotat White Four Cusp
+2BD0: Indicator de poziție pătrat
+2BD1: Conceptul de incertitudine : întrebare
+2BD2: Marcajul grupului
+2BD3: Pluto forma a doua
+2BD4: Pluto Forma Trei
+2BD5: Pluto Form Four
+2BD6: Pluto Form Five
+2BD7: Transpluto
+2BD8: Proserpina
+2BD9: Astraea
+2BDA: Hygiea
+2BDB: Pholus
+2BDC: Nessus
+2BDD: Luna alba Selena
+2BDE: Black Diamond pe cruce
+2BDF: Lumina adevărată a lunii Arta
+2BE0: Cupido
+2BE1: Hades
+2BE2: Zeus
+2BE3: Kronos
+2BE4: Apollon
+2BE5: Admetos
+2BE6: Vulcanus
+2BE7: Poseidon
+2BE8: Stânga neagră Stea neagră
+2BE9: Dreapta stele negre
+2BEA: Stea cu stânga jumătate negru
+2BEB: Stea cu dreapta jumătate negru
+2BEC: Săgeată cu două capete spre stânga, cu șuruburi Tringle : cursorul rapid stânga
+2BED: Sus Arrowhead cu două capete : cursorul rapid în sus
+2BEE: Dreapta Săgeată cu două capete cu arginte Tringle : rapid cursor dreapta
+2BEF: Săgeată cu două capete în jos, cu șorile din Tringle : cursorul rapid în jos
+2BF0: Eris Form One
+2BF1: Eris Forma a doua
+2BF2: Sedna
+2BF3: Simbolul rusesc astrologic Vigintile
+2BF4: Simbol astrologic rus Novile
+2BF5: Simbol astrologic rusesc Quintilă
+2BF6: Simbol astrologic rusesc Binovil
+2BF7: Simbolul astrologic rus Sentagon
+2BF8: Simbol astrologic rusesc Tredecile
+2BF9: Egal Semnul cu Infinity Below
+2BFA: United Symbol
+2BFB: Separat simbol
+2BFC: Simbol dublat
+2BFD: Simbolul trecut
+2BFE: Unghi drept inversat
+2BFF:

@@ -1,0 +1,256 @@
+1D100: 音乐符号单条线
+1D101: 音乐符号双条线
+1D102: 音乐符号最后的标语
+1D103: 音乐符号反向最终标准
+1D104: 音乐符号虚线条
+1D105: 音乐符号短杆
+1D106: 音乐符号左重复标志
+1D107: 音乐符号右重复标志
+1D108: 音乐符号重复点
+1D109: 音乐符号Dal Segno
+1D10A: 音乐符号Da Capo
+1D10B: 音乐符号Segno
+1D10C: 音乐符号Coda
+1D10D: 音乐符号重复图-1
+1D10E: 音乐符号重复图-2
+1D10F: 音乐符号重复图-3
+1D110: 音乐符号Fermata
+1D111: 下面的音乐符号Fermata
+1D112: 音乐符号呼吸标记
+1D113: 音乐符号Caesura
+1D114: 音乐符号支撑
+1D115: 音乐符号支架
+1D116: 音乐符号单行员工
+1D117: 音乐符号两线工作人员
+1D118: 音乐符号三线工作人员
+1D119: 音乐符号四线工作人员
+1D11A: 音乐符号五线工作人员
+1D11B: 音乐符号六线工作人员
+1D11C: 音乐符号六弦指板
+1D11D: 音乐符号四弦指板
+1D11E: 音乐符号G谱号
+1D11F: 音乐符号G Clef Ottava Alta
+1D120: 音乐符号G Clef Ottava Bassa
+1D121: 音乐符号C谱号
+1D122: 音乐符号F谱号
+1D123: 音乐符号F Clef Ottava Alta
+1D124: 音乐符号F Clef Ottava Bassa
+1D125: Musical Symbol Drum Clef-1
+1D126: Musical Symbol Drum Clef-2
+1D127:
+1D128:
+1D129: 音乐符号多重措施休息
+1D12A: 音乐符号双夏普
+1D12B: 音乐符号双平
+1D12C: 音乐符号平起来
+1D12D: 音乐符号平放下来
+1D12E: 音乐符号自然了
+1D12F: 音乐符号自然向下
+1D130: 音乐符号急剧上升
+1D131: 音乐符号急剧下降
+1D132: 音乐符号季音调夏普
+1D133: 音乐符号季音平
+1D134: 音乐符号共同时间
+1D135: 音乐符号削减时间
+1D136: 音乐符号Ottava Alta
+1D137: 音乐符号Ottava Bassa
+1D138: 音乐符号Quindicesima Alta
+1D139: 音乐符号Quindicesima Bassa
+1D13A: 音乐符号多休息 : 双重全休，短暂休息
+1D13B: 音乐符号整个休息 : 半精神休息
+1D13C: 音乐符号半休息 : 微量休息
+1D13D: 音乐符号季休息 : 钩针休息
+1D13E: 音乐符号第八休息 : 颤抖休息
+1D13F: 音乐符号第十六休息 : 半休息
+1D140: 音乐符号第三十二休息 : demisemiquaver休息
+1D141: 音乐符号第六十四休息 : hemidemisemiquaver休息，semidemisemiquaver休息
+1D142: 音乐符号第二百八十八休息 : semihemidemisemiquaver休息，quasihemidemisemiquaver休息
+1D143: 音乐符号X笔记本
+1D144: 音乐符号加笔记本
+1D145: 音乐符号圈X注意头
+1D146: 音乐符号广场笔记本白色
+1D147: 音乐符号广场Notehead黑色
+1D148: 白色的音乐符号三角笔记本
+1D149: 音乐符号三角笔记本黑色
+1D14A: 音乐符号三角形笔记本左白
+1D14B: 音乐符号三角形笔记本左黑色
+1D14C: 音乐符号三角笔记本右白
+1D14D: 音乐符号三角形笔记本右黑色
+1D14E: 音乐符号三角笔记本下白色
+1D14F: 音乐符号三角笔记本黑色
+1D150: 音乐符号三角笔记本右白
+1D151: 音乐符号三角笔记本右黑
+1D152: 音乐符号月亮笔记本白色
+1D153: 音乐符号月亮笔记本黑色
+1D154: 音乐符号三角形圆头笔记本白色
+1D155: 音乐符号三角圆形笔记本黑色
+1D156: 音乐符号括号注释
+1D157: 音乐符号虚空笔记本
+1D158: 音乐符号笔记本黑色
+1D159: 音乐符号空头笔记本
+1D15A: 音乐符号群注意白色
+1D15B: 音乐符号群注意黑色
+1D15C: 音乐符号Breve
+1D15D: 音乐符号整个音符 : semibreve
+1D15E: 音乐符号半音符 : 微量
+1D15F: 音乐符号季注 : 怪想
+1D160: 音乐符号八分音符 : 八分音符
+1D161: 音乐符号十六分音符 : 十六分音符
+1D162: 音乐符号第三十二注 : demisemiquaver
+1D163: 音乐符号第六十四注 : hemidemisemiquaver，semidemisemiquaver
+1D164: 音乐符号第一百二十八注 : semihemidemisemiquaver，quasihemidemisemiquaver
+1D165: 结合词根的音乐符号
+1D166: 结合Sprechgesang茎的音乐符号
+1D167: 结合Tremolo-1的音乐符号
+1D168: 结合Tremolo-2的音乐符号
+1D169: 结合Tremolo-3的音乐符号
+1D16A: 音乐符号手指Tremolo-1
+1D16B: 音乐符号手指颤音-2
+1D16C: 音乐符号手指颤音-3
+1D16D: 结合增强点的音乐符号
+1D16E: 结合旗帜1的音乐符号
+1D16F: 结合旗帜2的音乐符号
+1D170: 结合旗帜3的音乐符号
+1D171: 结合旗子4的音乐标志
+1D172: 结合旗帜5的音乐符号
+1D173: 音乐符号开始梁
+1D174: 音乐符号端梁
+1D175: 音乐符号开始结合
+1D176: 音乐符号结束领带
+1D177: 音乐符号开始Slur
+1D178: 音乐符号结束Slur
+1D179: 音乐符号开始短语
+1D17A: 音乐符号结束短语
+1D17B: 结合口音的音乐符号
+1D17C: 结合Staccato的音乐符号
+1D17D: 结合Tenuto的音乐符号
+1D17E: 结合Staccatissimo的音乐符号
+1D17F: 结合Marcato的音乐符号
+1D180: 结合Marcato-Staccato的音乐符号
+1D181: 结合口音 -  Staccato的音乐符号
+1D182: 结合Loure的音乐符号
+1D183: 音乐符号Arpeggiato了
+1D184: 音乐符号Arpeggiato下来
+1D185: 结合Doit的音乐符号
+1D186: 结合裂口的音乐符号
+1D187: 结合翻转的音乐符号
+1D188: 结合涂片的音乐符号
+1D189: 结合弯曲的音乐符号
+1D18A: 结合双舌的音乐符号
+1D18B: 结合三舌的音乐符号
+1D18C: 音乐符号Rinforzando
+1D18D: 音乐符号Subito
+1D18E: 音乐符号Z.
+1D18F: 音乐符号钢琴
+1D190: 音乐符号Mezzo
+1D191: 音乐符号复地
+1D192: 音乐符号Crescendo
+1D193: 音乐符号Decrescendo
+1D194: 音乐符号格雷斯注意斜线
+1D195: 音乐符号格雷斯注意没有斜线
+1D196: 音乐符号Tr
+1D197: 音乐符号转
+1D198: 音乐符号倒转
+1D199: 音乐符号变为斜线
+1D19A: 音乐符号转向
+1D19B: 音乐符号装饰品中风-1
+1D19C: 音乐符号装饰品中风-2
+1D19D: 音乐符号装饰品中风-3
+1D19E: 音乐符号装饰品中风-4
+1D19F: 音乐符号装饰品中风-5
+1D1A0: 音乐符号装饰品中风-6
+1D1A1: 音乐符号装饰品中风-7
+1D1A2: 音乐符号装饰品中风-8
+1D1A3: 音乐符号装饰品中风-9
+1D1A4: 音乐符号装饰品中风-10
+1D1A5: 音乐符号装饰品中风-11
+1D1A6: 音乐符号Hauptstimme
+1D1A7: 音乐符号Nebenstimme
+1D1A8: 音乐符号刺激结束
+1D1A9: 音乐符号度斜线
+1D1AA: 结合下来弓的音乐符号
+1D1AB: 结合弓的音乐符号
+1D1AC: 音乐符号结合谐波
+1D1AD: 结合Snap Pizzicato的音乐符号
+1D1AE: 音乐符号踏板标记
+1D1AF: 音乐符号踏板马克
+1D1B0: 音乐符号半踏板标记
+1D1B1: 音乐符号Glissando了
+1D1B2: 音乐符号Glissando下来
+1D1B3: 与指甲的音乐符号
+1D1B4: 音乐符号潮湿
+1D1B5: 音乐符号潮湿全部
+1D1B6: 音乐符号千里马
+1D1B7: 音乐符号龙格
+1D1B8: 音乐符号Brevis
+1D1B9: 音乐符号Semibrevis白色
+1D1BA: 音乐符号Semibrevis黑色
+1D1BB: 音乐符号极小
+1D1BC: 音乐符号Minima Black
+1D1BD: 音乐符号Semiminima白色
+1D1BE: 音乐符号Semiminima黑色
+1D1BF: 音乐符号Fusa白色
+1D1C0: 音乐符号Fusa黑色
+1D1C1: 音乐符号Longa Perfecta休息
+1D1C2: 音乐符号Longa Imperfecta休息
+1D1C3: 音乐符号Brevis休息
+1D1C4: 音乐符号Semibrevis休息
+1D1C5: 音乐符号最小休息
+1D1C6: 音乐符号Semiminima休息
+1D1C7: 音乐符号Tempus Perfectum Cum Prolatione Perfecta
+1D1C8: 音乐符号Tempus Perfectum Cum Prolatione Imperfecta
+1D1C9: 音乐符号Tempus Perfectum Cum Prolatione Perfecta Diminution-1
+1D1CA: 音乐符号Tempus Imperfectum Cum Prolatione Perfecta
+1D1CB: 音乐符号Tempus Imperfectum Cum Prolatione Imperfecta
+1D1CC: 音乐符号Tempus Imperfectum Cum Prolatione Imperfecta Diminution-1
+1D1CD: 音乐符号Tempus Imperfectum Cum Prolatione Imperfecta Diminution-2
+1D1CE: 音乐符号Tempus Imperfectum Cum Prolatione Imperfecta Diminution-3
+1D1CF: 音乐符号Croix
+1D1D0: 音乐符号格里高利C谱号
+1D1D1: 音乐符号格里高利F谱号
+1D1D2: 音乐符号广场B.
+1D1D3: 音乐符号Virga
+1D1D4: 音乐符号Podatus
+1D1D5: 音乐符号Clivis
+1D1D6: 音乐符号Scandicus
+1D1D7: 音乐符号Climacus
+1D1D8: 音乐符号Torculus
+1D1D9: 音乐符号Porrectus
+1D1DA: 音乐符号Porrectus Flexus
+1D1DB: 音乐符号Scandicus Flexus
+1D1DC: 音乐符号Torculus Resupinus
+1D1DD: 音乐符号Pes Subpunctis
+1D1DE: 音乐符号基辅C谱号
+1D1DF: 音乐符号基辅结束
+1D1E0: 音乐符号基辅最后的笔记
+1D1E1: 音乐符号基辅宣叙调标记
+1D1E2: 音乐符号基辅整个笔记
+1D1E3: 音乐符号基辅半音符
+1D1E4: 音乐符号基辅季度笔记下来
+1D1E5: 音乐符号基万季注意词干
+1D1E6: 音乐符号Kievan Eighth Note Stem Down
+1D1E7: 音乐符号基辅八分音符词干
+1D1E8: 音乐符号基辅平标志
+1D1E9:
+1D1EA:
+1D1EB:
+1D1EC:
+1D1ED:
+1D1EE:
+1D1EF:
+1D1F0:
+1D1F1:
+1D1F2:
+1D1F3:
+1D1F4:
+1D1F5:
+1D1F6:
+1D1F7:
+1D1F8:
+1D1F9:
+1D1FA:
+1D1FB:
+1D1FC:
+1D1FD:
+1D1FE:
+1D1FF:

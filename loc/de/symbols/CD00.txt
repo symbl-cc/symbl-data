@@ -1,256 +1,256 @@
-CD00: Hangul syllable cyess
-CD01: Hangul syllable cyeng
-CD02: Hangul syllable cyej
-CD03: Hangul syllable cyec
-CD04: Hangul syllable cyek
-CD05: Hangul syllable cyet
-CD06: Hangul syllable cyep
-CD07: Hangul syllable cyeh
-CD08: Hangul syllable co
-CD09: Hangul syllable cog
-CD0A: Hangul syllable cogg
-CD0B: Hangul syllable cogs
-CD0C: Hangul syllable con
-CD0D: Hangul syllable conj
-CD0E: Hangul syllable conh
-CD0F: Hangul syllable cod
-CD10: Hangul syllable col
-CD11: Hangul syllable colg
-CD12: Hangul syllable colm
-CD13: Hangul syllable colb
-CD14: Hangul syllable cols
-CD15: Hangul syllable colt
-CD16: Hangul syllable colp
-CD17: Hangul syllable colh
-CD18: Hangul syllable com
-CD19: Hangul syllable cob
-CD1A: Hangul syllable cobs
-CD1B: Hangul syllable cos
-CD1C: Hangul syllable coss
-CD1D: Hangul syllable cong
-CD1E: Hangul syllable coj
-CD1F: Hangul syllable coc
-CD20: Hangul syllable cok
-CD21: Hangul syllable cot
-CD22: Hangul syllable cop
-CD23: Hangul syllable coh
-CD24: Hangul syllable cwa
-CD25: Hangul syllable cwag
-CD26: Hangul syllable cwagg
-CD27: Hangul syllable cwags
-CD28: Hangul syllable cwan
-CD29: Hangul syllable cwanj
-CD2A: Hangul syllable cwanh
-CD2B: Hangul syllable cwad
-CD2C: Hangul syllable cwal
-CD2D: Hangul syllable cwalg
-CD2E: Hangul syllable cwalm
-CD2F: Hangul syllable cwalb
-CD30: Hangul syllable cwals
-CD31: Hangul syllable cwalt
-CD32: Hangul syllable cwalp
-CD33: Hangul syllable cwalh
-CD34: Hangul syllable cwam
-CD35: Hangul syllable cwab
-CD36: Hangul syllable cwabs
-CD37: Hangul syllable cwas
-CD38: Hangul syllable cwass
-CD39: Hangul syllable cwang
-CD3A: Hangul syllable cwaj
-CD3B: Hangul syllable cwac
-CD3C: Hangul syllable cwak
-CD3D: Hangul syllable cwat
-CD3E: Hangul syllable cwap
-CD3F: Hangul syllable cwah
-CD40: Hangul syllable cwae
-CD41: Hangul syllable cwaeg
-CD42: Hangul syllable cwaegg
-CD43: Hangul syllable cwaegs
-CD44: Hangul syllable cwaen
-CD45: Hangul syllable cwaenj
-CD46: Hangul syllable cwaenh
-CD47: Hangul syllable cwaed
-CD48: Hangul syllable cwael
-CD49: Hangul syllable cwaelg
-CD4A: Hangul syllable cwaelm
-CD4B: Hangul syllable cwaelb
-CD4C: Hangul syllable cwaels
-CD4D: Hangul syllable cwaelt
-CD4E: Hangul syllable cwaelp
-CD4F: Hangul syllable cwaelh
-CD50: Hangul syllable cwaem
-CD51: Hangul syllable cwaeb
-CD52: Hangul syllable cwaebs
-CD53: Hangul syllable cwaes
-CD54: Hangul syllable cwaess
-CD55: Hangul syllable cwaeng
-CD56: Hangul syllable cwaej
-CD57: Hangul syllable cwaec
-CD58: Hangul syllable cwaek
-CD59: Hangul syllable cwaet
-CD5A: Hangul syllable cwaep
-CD5B: Hangul syllable cwaeh
-CD5C: Hangul syllable coe
-CD5D: Hangul syllable coeg
-CD5E: Hangul syllable coegg
-CD5F: Hangul syllable coegs
-CD60: Hangul syllable coen
-CD61: Hangul syllable coenj
-CD62: Hangul syllable coenh
-CD63: Hangul syllable coed
-CD64: Hangul syllable coel
-CD65: Hangul syllable coelg
-CD66: Hangul syllable coelm
-CD67: Hangul syllable coelb
-CD68: Hangul syllable coels
-CD69: Hangul syllable coelt
-CD6A: Hangul syllable coelp
-CD6B: Hangul syllable coelh
-CD6C: Hangul syllable coem
-CD6D: Hangul syllable coeb
-CD6E: Hangul syllable coebs
-CD6F: Hangul syllable coes
-CD70: Hangul syllable coess
-CD71: Hangul syllable coeng
-CD72: Hangul syllable coej
-CD73: Hangul syllable coec
-CD74: Hangul syllable coek
-CD75: Hangul syllable coet
-CD76: Hangul syllable coep
-CD77: Hangul syllable coeh
-CD78: Hangul syllable cyo
-CD79: Hangul syllable cyog
-CD7A: Hangul syllable cyogg
-CD7B: Hangul syllable cyogs
-CD7C: Hangul syllable cyon
-CD7D: Hangul syllable cyonj
-CD7E: Hangul syllable cyonh
-CD7F: Hangul syllable cyod
-CD80: Hangul syllable cyol
-CD81: Hangul syllable cyolg
-CD82: Hangul syllable cyolm
-CD83: Hangul syllable cyolb
-CD84: Hangul syllable cyols
-CD85: Hangul syllable cyolt
-CD86: Hangul syllable cyolp
-CD87: Hangul syllable cyolh
-CD88: Hangul syllable cyom
-CD89: Hangul syllable cyob
-CD8A: Hangul syllable cyobs
-CD8B: Hangul syllable cyos
-CD8C: Hangul syllable cyoss
-CD8D: Hangul syllable cyong
-CD8E: Hangul syllable cyoj
-CD8F: Hangul syllable cyoc
-CD90: Hangul syllable cyok
-CD91: Hangul syllable cyot
-CD92: Hangul syllable cyop
-CD93: Hangul syllable cyoh
-CD94: Hangul syllable cu
-CD95: Hangul syllable cug
-CD96: Hangul syllable cugg
-CD97: Hangul syllable cugs
-CD98: Hangul syllable cun
-CD99: Hangul syllable cunj
-CD9A: Hangul syllable cunh
-CD9B: Hangul syllable cud
-CD9C: Hangul syllable cul
-CD9D: Hangul syllable culg
-CD9E: Hangul syllable culm
-CD9F: Hangul syllable culb
-CDA0: Hangul syllable culs
-CDA1: Hangul syllable cult
-CDA2: Hangul syllable culp
-CDA3: Hangul syllable culh
-CDA4: Hangul syllable cum
-CDA5: Hangul syllable cub
-CDA6: Hangul syllable cubs
-CDA7: Hangul syllable cus
-CDA8: Hangul syllable cuss
-CDA9: Hangul syllable cung
-CDAA: Hangul syllable cuj
-CDAB: Hangul syllable cuc
-CDAC: Hangul syllable cuk
-CDAD: Hangul syllable cut
-CDAE: Hangul syllable cup
-CDAF: Hangul syllable cuh
-CDB0: Hangul syllable cweo
-CDB1: Hangul syllable cweog
-CDB2: Hangul syllable cweogg
-CDB3: Hangul syllable cweogs
-CDB4: Hangul syllable cweon
-CDB5: Hangul syllable cweonj
-CDB6: Hangul syllable cweonh
-CDB7: Hangul syllable cweod
-CDB8: Hangul syllable cweol
-CDB9: Hangul syllable cweolg
-CDBA: Hangul syllable cweolm
-CDBB: Hangul syllable cweolb
-CDBC: Hangul syllable cweols
-CDBD: Hangul syllable cweolt
-CDBE: Hangul syllable cweolp
-CDBF: Hangul syllable cweolh
-CDC0: Hangul syllable cweom
-CDC1: Hangul syllable cweob
-CDC2: Hangul syllable cweobs
-CDC3: Hangul syllable cweos
-CDC4: Hangul syllable cweoss
-CDC5: Hangul syllable cweong
-CDC6: Hangul syllable cweoj
-CDC7: Hangul syllable cweoc
-CDC8: Hangul syllable cweok
-CDC9: Hangul syllable cweot
-CDCA: Hangul syllable cweop
-CDCB: Hangul syllable cweoh
-CDCC: Hangul syllable cwe
-CDCD: Hangul syllable cweg
-CDCE: Hangul syllable cwegg
-CDCF: Hangul syllable cwegs
-CDD0: Hangul syllable cwen
-CDD1: Hangul syllable cwenj
-CDD2: Hangul syllable cwenh
-CDD3: Hangul syllable cwed
-CDD4: Hangul syllable cwel
-CDD5: Hangul syllable cwelg
-CDD6: Hangul syllable cwelm
-CDD7: Hangul syllable cwelb
-CDD8: Hangul syllable cwels
-CDD9: Hangul syllable cwelt
-CDDA: Hangul syllable cwelp
-CDDB: Hangul syllable cwelh
-CDDC: Hangul syllable cwem
-CDDD: Hangul syllable cweb
-CDDE: Hangul syllable cwebs
-CDDF: Hangul syllable cwes
-CDE0: Hangul syllable cwess
-CDE1: Hangul syllable cweng
-CDE2: Hangul syllable cwej
-CDE3: Hangul syllable cwec
-CDE4: Hangul syllable cwek
-CDE5: Hangul syllable cwet
-CDE6: Hangul syllable cwep
-CDE7: Hangul syllable cweh
-CDE8: Hangul syllable cwi
-CDE9: Hangul syllable cwig
-CDEA: Hangul syllable cwigg
-CDEB: Hangul syllable cwigs
-CDEC: Hangul syllable cwin
-CDED: Hangul syllable cwinj
-CDEE: Hangul syllable cwinh
-CDEF: Hangul syllable cwid
-CDF0: Hangul syllable cwil
-CDF1: Hangul syllable cwilg
-CDF2: Hangul syllable cwilm
-CDF3: Hangul syllable cwilb
-CDF4: Hangul syllable cwils
-CDF5: Hangul syllable cwilt
-CDF6: Hangul syllable cwilp
-CDF7: Hangul syllable cwilh
-CDF8: Hangul syllable cwim
-CDF9: Hangul syllable cwib
-CDFA: Hangul syllable cwibs
-CDFB: Hangul syllable cwis
-CDFC: Hangul syllable cwiss
-CDFD: Hangul syllable cwing
-CDFE: Hangul syllable cwij
-CDFF: Hangul syllable cwic
+CD00: Hangul Silbe Cyess
+CD01: Hangul-Silbe Cyeng
+CD02: Hangul-Silbe Cyej
+CD03: Hangul-Silbe Cyec
+CD04: Hangul-Silbe Cyek
+CD05: Hangul Syllable Cyet
+CD06: Hangul Silbe Cyep
+CD07: Hangul Silbe Cyeh
+CD08: Hangul Syllable Co
+CD09: Hangul Syllable Cog
+CD0A: Hangul Silbe Cogg
+CD0B: Hangul Silbe Zahnräder
+CD0C: Hangul Silbe Con
+CD0D: Hangul Silbenkonj
+CD0E: Hangul Silbe Conh
+CD0F: Hangul Syllable Cod
+CD10: Hangul Silbe Col
+CD11: Hangul Silbe Colg
+CD12: Hangul Silbe Colm
+CD13: Hangul Syllable Colb
+CD14: Hangul Silbe Cols
+CD15: Hangul Syllable Colt
+CD16: Hangul Silben Colp
+CD17: Hangul Silbe Colh
+CD18: Hangul Syllable Com
+CD19: Hangul Silbe Cob
+CD1A: Hangul Silbe Maiskolben
+CD1B: Hangul Silbe Cos
+CD1C: Hangul Silbe Coss
+CD1D: Hangul Silbe Cong
+CD1E: Hangul Silbe Coj
+CD1F: Hangul Silbe Coc
+CD20: Hangul Silbe Cok
+CD21: Hangul Silbenbett
+CD22: Hangul Silbe Cop
+CD23: Hangul Silbe Coh
+CD24: Hangul-Silbe Cwa
+CD25: Hangul Silbe Cwag
+CD26: Hangul Silbe Cwagg
+CD27: Hangul Silbe Cwags
+CD28: Hangul Silbe Cwan
+CD29: Hangul-Silbe Cwanj
+CD2A: Hangul-Silbe Cwanh
+CD2B: Hangul Silbe Cwad
+CD2C: Hangul Silbe Cwal
+CD2D: Hangul-Silbe Cwalg
+CD2E: Hangul Silbe Cwalm
+CD2F: Hangul-Silbe Cwalb
+CD30: Hangul Silbe Cwals
+CD31: Hangul Silbe Cwalt
+CD32: Hangul Silbe Cwalp
+CD33: Hangul-Silbe Cwalh
+CD34: Hangul Silbe Cwam
+CD35: Hangul Silbe Cwab
+CD36: Hangul Silbe Cwabs
+CD37: Hangul Silbe Cwas
+CD38: Hangul Silbe Cwass
+CD39: Hangul Silbe Cwang
+CD3A: Hangul-Silbe Cwaj
+CD3B: Hangul Silbe Cwac
+CD3C: Hangul Silbe Cwak
+CD3D: Hangul Silbe Cwat
+CD3E: Hangul Syllable Cwap
+CD3F: Hangul Silbe Cwah
+CD40: Hangul Silbe Cwae
+CD41: Hangul-Silbe Cwaeg
+CD42: Hangul-Silbe Cwaegg
+CD43: Hangul Silbe Cwaegs
+CD44: Hangul-Silbe Cwaen
+CD45: Hangul-Silbe Cwaenj
+CD46: Hangul-Silbe Cwaenh
+CD47: Hangul-Silbe Cwaed
+CD48: Hangul Silbe Cwael
+CD49: Hangul-Silbe Cwaelg
+CD4A: Hangul Silbe Cwaelm
+CD4B: Hangul Silbe Cwaelb
+CD4C: Hangul Silbe Cwaels
+CD4D: Hangul-Silbe Cwaelt
+CD4E: Hangul Silbe Cwaelp
+CD4F: Hangul-Silbe Cwaelh
+CD50: Hangul-Silbe Cwaem
+CD51: Hangul-Silbe Cwaeb
+CD52: Hangul Syllable Cwaebs
+CD53: Hangul Silbe Cwaes
+CD54: Hangul Silbe Cwaess
+CD55: Hangul-Silbe Cwaeng
+CD56: Hangul-Silbe Cwaej
+CD57: Hangul-Silbe Cwaec
+CD58: Hangul-Silbe Cwaek
+CD59: Hangul-Silbe Cwaet
+CD5A: Hangul Silbe Cwaep
+CD5B: Hangul-Silbe Cwaeh
+CD5C: Hangul Silbe Coe
+CD5D: Hangul Silbe Coeg
+CD5E: Hangul Silbe Coegg
+CD5F: Hangul Silbe Coegs
+CD60: Hangul Silbe Coen
+CD61: Hangul-Silbe Coenj
+CD62: Hangul Silbe Coenh
+CD63: Hangul Syllable Coed
+CD64: Hangul Silbe Coel
+CD65: Hangul Silbe Coelg
+CD66: Hangul Silbe Coelm
+CD67: Hangul Silbe Coelb
+CD68: Hangul Silbe Coels
+CD69: Hangul Syllable Coelt
+CD6A: Hangul Syllable Coelp
+CD6B: Hangul Silbe Coelh
+CD6C: Hangul Silbe Coem
+CD6D: Hangul Silbe Coeb
+CD6E: Hangul Silbe Coebs
+CD6F: Hangul Silbe Coes
+CD70: Hangul Silbe Coess
+CD71: Hangul Silbe Coeng
+CD72: Hangul Silbe Coej
+CD73: Hangul Silbe Coec
+CD74: Hangul Silbe Coek
+CD75: Hangul Silbe Coet
+CD76: Hangul Silbe Coep
+CD77: Hangul Silbe Coeh
+CD78: Hangul Silbe Cyo
+CD79: Hangul Silbe Cyog
+CD7A: Hangul Silbe Cyogg
+CD7B: Hangul Silbe Cyogs
+CD7C: Hangul Silbe Cyon
+CD7D: Hangul-Silbe Cyonj
+CD7E: Hangul-Silbe Cyonh
+CD7F: Hangul Silbe Cyod
+CD80: Hangul-Silbe Cyol
+CD81: Hangul Silbe Cyolg
+CD82: Hangul-Silbe Cyolm
+CD83: Hangul Silbe Cyolb
+CD84: Hangul Silbe Cyols
+CD85: Hangul Syllable Cyolt
+CD86: Hangul-Silbe Cyolp
+CD87: Hangul-Silbe Cyolh
+CD88: Hangul Silbe Cyom
+CD89: Hangul Silbe Cyob
+CD8A: Hangul Syllable Cyobs
+CD8B: Hangul Silbe Cyos
+CD8C: Hangul-Silbe Cyoss
+CD8D: Hangul-Silbe Cyong
+CD8E: Hangul-Silbe Cyoj
+CD8F: Hangul-Silbe Cyoc
+CD90: Hangul-Silbe Cyok
+CD91: Hangul Silbe Cyot
+CD92: Hangul Silbe Cyop
+CD93: Hangul-Silbe Cyoh
+CD94: Hangul Silbe Cu
+CD95: Hangul Silbe Cug
+CD96: Hangul Silbe Cugg
+CD97: Hangul Silbe Cugs
+CD98: Hangul Silbe Cun
+CD99: Hangul Silbe Cunj
+CD9A: Hangul Silbe Cunh
+CD9B: Hangul Silbe Cud
+CD9C: Hangul Silbe Cul
+CD9D: Hangul Silbe Culg
+CD9E: Hangul Silbe Culm
+CD9F: Hangul Silbe Culb
+CDA0: Hangul Silbe Culs
+CDA1: Hangul Silbe Kult
+CDA2: Hangul Silbe Culp
+CDA3: Hangul Silbe Culh
+CDA4: Hangul Silbe Sperma
+CDA5: Hangul Silbenjunges
+CDA6: Hangul Syllable Cubs
+CDA7: Hangul Silbe Cus
+CDA8: Hangul Silbe Cuss
+CDA9: Hangul Silbe Cung
+CDAA: Hangul Silbe Cuj
+CDAB: Hangul Silbe Cuc
+CDAC: Hangul Silbe Cuk
+CDAD: Hangul Silbe geschnitten
+CDAE: Hangul Silbennapf
+CDAF: Hangul Silbe Cuh
+CDB0: Hangul Silbe Cweo
+CDB1: Hangul Silbe Cweog
+CDB2: Hangul Silbe Cweogg
+CDB3: Hangul Silbe Cweogs
+CDB4: Hangul Silbe Cweon
+CDB5: Hangul-Silbe Cweonj
+CDB6: Hangul-Silbe Cweonh
+CDB7: Hangul Silbe Cweod
+CDB8: Hangul Silbe Cweol
+CDB9: Hangul Silbe Cweolg
+CDBA: Hangul-Silbe Cweolm
+CDBB: Hangul Silbe Cweolb
+CDBC: Hangul Silbe Cweols
+CDBD: Hangul-Silbe Cweolt
+CDBE: Hangul Silbe Cweolp
+CDBF: Hangul Silbe Cweolh
+CDC0: Hangul Silbe Cweom
+CDC1: Hangul Silbe Cweob
+CDC2: Hangul Silbe Cweobs
+CDC3: Hangul Silbe Cweos
+CDC4: Hangul Silbe Cweoss
+CDC5: Hangul Silbe Cweong
+CDC6: Hangul-Silbe Cweoj
+CDC7: Hangul Silbe Cweoc
+CDC8: Hangul-Silbe Cweok
+CDC9: Hangul Silbe Cweot
+CDCA: Hangul Silbe Cweop
+CDCB: Hangul-Silbe Cweoh
+CDCC: Hangul Silbe Cwe
+CDCD: Hangul-Silbe Cweg
+CDCE: Hangul-Silbe Cwegg
+CDCF: Hangul Syllable Cwegs
+CDD0: Hangul Silbe Cwen
+CDD1: Hangul-Silbe Cwenj
+CDD2: Hangul-Silbe Cwenh
+CDD3: Hangul Silbe Cwed
+CDD4: Hangul Silbe Cwel
+CDD5: Hangul Silbe Cwelg
+CDD6: Hangul Silbe Cwelm
+CDD7: Hangul Silbe Cwelb
+CDD8: Hangul Silbe Cwels
+CDD9: Hangul Silbe Cwelt
+CDDA: Hangul Syllable Cwelp
+CDDB: Hangul Syllable Cwelh
+CDDC: Hangul Silbe Cwem
+CDDD: Hangul Silbe Cweb
+CDDE: Hangul-Silben-Cwebs
+CDDF: Hangul Silbe Cwes
+CDE0: Hangul Silbe Cwess
+CDE1: Hangul Silbe Cweng
+CDE2: Hangul Silbe Cwej
+CDE3: Hangul Silbe Cwec
+CDE4: Hangul Silbe Cwek
+CDE5: Hangul Silbe Cwet
+CDE6: Hangul Silbe Cwep
+CDE7: Hangul Silbe Cweh
+CDE8: Hangul Silbe Cwi
+CDE9: Hangul Silbe Cwig
+CDEA: Hangul-Silbe Cwigg
+CDEB: Hangul Silbe Cwigs
+CDEC: Hangul Silbe Cwin
+CDED: Hangul Silbe Cwinj
+CDEE: Hangul Silbe Cwinh
+CDEF: Hangul Silbe Cwid
+CDF0: Hangul-Silbe Cwil
+CDF1: Hangul-Silbe Cwilg
+CDF2: Hangul-Silbe Cwilm
+CDF3: Hangul-Silbe Cwilb
+CDF4: Hangul Silbe Cwils
+CDF5: Hangul Silbe Cwilt
+CDF6: Hangul-Silbe Cwilp
+CDF7: Hangul-Silbe Cwilh
+CDF8: Hangul Silbe Cwim
+CDF9: Hangul Silbe Cwib
+CDFA: Hangul Silbe Cwibs
+CDFB: Hangul Silbe Cwis
+CDFC: Hangul Silbe Cwiss
+CDFD: Hangul Silbe Cwing
+CDFE: Hangul Silbe Cwij
+CDFF: Hangul Silbe Cwic

@@ -1,0 +1,256 @@
+2400: Symbol dla wartości Null
+2401: Symbol początku kursu
+2402: Symbol początku tekstu
+2403: Symbol końca tekstu
+2404: Symbol końca transmisji
+2405: Symbol zapytania
+2406: Symbol potwierdzenia
+2407: Symbol dzwonka
+2408: Symbol dla Backspace
+2409: Symbol tabulacji poziomej
+240A: Symbol dla linii
+240B: Symbol tabulacji pionowej
+240C: Symbol dla formularzy
+240D: Symbol powrotu karetki
+240E: Symbol wyłączenia
+240F: Symbol Shift In
+2410: Symbol ucieczki łącza danych
+2411: Symbol kontroli urządzenia 1
+2412: Symbol kontroli urządzenia dwa
+2413: Symbol kontroli urządzeń Trzy
+2414: Symbol kontroli urządzenia cztery
+2415: Symbol potwierdzenia negatywnego
+2416: Symbol synchronicznego bezczynności
+2417: Symbol końca bloku transmisji
+2418: Symbol anulowania
+2419: Symbol końca nośnika
+241A: Symbol zastępczy
+241B: Symbol ucieczki
+241C: Symbol separatora plików
+241D: Symbol separatora grupy
+241E: Symbol separatora rekordów
+241F: Symbol separatora jednostek
+2420: Symbol przestrzeni
+2421: Symbol usuwania
+2422: Pusty symbol
+2423: Otwierać pudełko
+2424: Symbol dla Newline
+2425: Symbol usuwania formy drugiej
+2426: Symbol zastępczej formy drugiej
+2427:
+2428:
+2429:
+242A:
+242B:
+242C:
+242D:
+242E:
+242F:
+2430:
+2431:
+2432:
+2433:
+2434:
+2435:
+2436:
+2437:
+2438:
+2439:
+243A:
+243B:
+243C:
+243D:
+243E:
+243F:
+2440: Ocr Hook
+2441: Krzesło OCR
+2442: Widelec OCR
+2443: Ocr Inverted Fork
+2444: Klamra do paska OCR
+2445: Muszka OCR : wyjątkowa gwiazdka
+2446: Identyfikacja banku oddziału OCR : tranzyt
+2447: Kwota czeku OCR : ilość
+2448: Ocr Dash : odpowiedzialność
+2449: Numer konta klienta OCR : dziarskość
+244A: Ocr Double Backslash
+244B:
+244C:
+244D:
+244E:
+244F:
+2450:
+2451:
+2452:
+2453:
+2454:
+2455:
+2456:
+2457:
+2458:
+2459:
+245A:
+245B:
+245C:
+245D:
+245E:
+245F:
+2460: Zakreślona cyfra pierwsza
+2461: Cyfra druga
+2462: Zakreślona cyfra trzecia
+2463: Zakreślona cyfra czwarta
+2464: Zakreślona cyfra piąta
+2465: Zakreślona cyfra szósta
+2466: Cyfra siedem
+2467: Zakreślona cyfra ósma
+2468: Cyfra Dziewiątka
+2469: Zakreślił numer dziesięć
+246A: Zakreślono numer jedenaście
+246B: Zakreślono numer dwanaście
+246C: Zakreślono numer trzynasty
+246D: Krążył numer czternasty
+246E: Zakreślono numer piętnasty
+246F: Zakreślono numer szesnaście
+2470: Zakreślono numer siedemnaście
+2471: Zakreślono numer osiemnaście
+2472: Zakreślono numer dziewiętnaście
+2473: Zakreślono liczbę 20
+2474: Nawiasowana cyfra pierwsza
+2475: W nawiasach cyfra druga
+2476: Nawiasowana cyfra trzecia
+2477: Nawiasowana cyfra czwarta
+2478: W nawiasach cyfra piąta
+2479: Szesnastkowa cyfra w nawiasach
+247A: Cyfra 7 w nawiasach
+247B: Nawiasowana cyfra ósma
+247C: Dziewicza cyfra w nawiasach
+247D: Nawiasowany numer dziesięć
+247E: Liczba nawiasowana jedenaście
+247F: Nawiasowany numer dwanaście
+2480: Parenthesized Number Thirteen
+2481: Parenthesized Number Fourteen
+2482: Nawiasowany numer piętnasty
+2483: Parenthesized Number Sixteen
+2484: Nawiasowany numer siedemnaście
+2485: Numer nawiasowy osiemnaście
+2486: Nawiasowany numer Dziewiętnaście
+2487: Liczba w nawiasach - dwadzieścia
+2488: Cyfra Jeden pełny stop
+2489: Cyfra Dwa Pełny stop
+248A: Cyfra Trzy pełne zatrzymanie
+248B: Cyfra Cztery pełne zatrzymanie
+248C: Digit Five Full Stop
+248D: Cyfra Sześć Pełny Stop
+248E: Digit Seven Full Stop
+248F: Digit Eight Full Stop
+2490: Digit Nine Full Stop
+2491: Numer dziesięć Full Stop
+2492: Liczba jedenaście Full Stop
+2493: Liczba dwanaście Full Stop
+2494: Liczba trzynaście Pełny stop
+2495: Liczba czternaście Full Stop
+2496: Liczba piętnaście Full Stop
+2497: Numer szesnaście Full Stop
+2498: Numer siedemnaście Full Stop
+2499: Numer osiemnaście Full Stop
+249A: Numer Dziewiętnaście Full Stop
+249B: Liczba Dwadzieścia Full Stop
+249C: Nawiasowana łacińska mała litera A
+249D: Nawiasowana łacińska mała litera B
+249E: Nawiasowana łacińska mała litera C
+249F: Nawiasowana łacińska mała litera D
+24A0: Nawiasowana łacińska mała litera E
+24A1: Nawiasowana łacińska mała litera F
+24A2: Nawiasowana łacińska mała litera G
+24A3: Nawiasowana łacińska mała litera H
+24A4: Nawiasowany mały łaciński list I
+24A5: Nawiasowana łacińska mała litera J
+24A6: Nawiasowana łacińska mała litera K
+24A7: Nawiasowana łacińska mała litera L
+24A8: Nawiasowana łacińska mała litera M
+24A9: Nawiasowana łacińska mała litera N
+24AA: Nawiasowana łacińska mała litera O
+24AB: Nawiasowana łacińska mała litera P
+24AC: Nawiasowana łacińska mała litera Q
+24AD: Nawiasowana łacińska mała litera R
+24AE: Nawiasowana łacińska mała litera S
+24AF: Nawiasowana łacińska mała litera T
+24B0: Nawiasowana łacińska mała litera U
+24B1: Nawiasowana łacińska mała litera V
+24B2: Nawiasowana łacińska mała litera W
+24B3: Nawiasowana łacińska mała litera X
+24B4: Nawiasowana łacińska mała litera Y
+24B5: Nawiasowana łacińska mała litera Z
+24B6: Zakreślona łacińska litera A
+24B7: Zakreślona łacińska litera B
+24B8: Zakreślona łacińska litera C
+24B9: Zakreślona łacińska litera D
+24BA: Zakreślona łacińska litera E
+24BB: Zakreślona łacińska litera f
+24BC: Zakreślona łacińska litera G
+24BD: Zakreślona łacińska litera H
+24BE: Zakreślona łacińska litera I
+24BF: Zakreślona łacińska litera J
+24C0: Zakreślona łacińska litera K
+24C1: Zakreślona łacińska litera L
+24C2: Zakreślona łacińska litera M
+24C3: Zakreślona łacińska litera n
+24C4: Zakreślona łacińska litera O
+24C5: Zakreślona łacińska litera P
+24C6: Zakreślona łacińska litera Q
+24C7: Zakreślona łacińska litera R
+24C8: Zakreślona łacińska litera S
+24C9: Zakreślona łacińska litera T
+24CA: Zakreślona łacińska litera U
+24CB: Zakreślona łacińska litera V
+24CC: Zakreślona łacińska litera W
+24CD: Zakreślona łacińska litera X
+24CE: Zakreślona łacińska litera Y
+24CF: Zakreślona łacińska litera Z
+24D0: Zakreślona łacińska mała litera A
+24D1: Zakreślona łacińska mała litera B
+24D2: Zakreślona łacińska mała litera C
+24D3: Zakreślona łacińska mała litera D
+24D4: Zakreślona łacińska mała litera E
+24D5: Zakreślona łacińska mała litera F
+24D6: Zakreślona łacińska mała litera G
+24D7: Zakreślona łacińska mała litera H
+24D8: Zakreślony łaciński mały list I
+24D9: Zakreślona łacińska mała litera J
+24DA: Zakreślona łacińska mała litera K
+24DB: Zakreślona łacińska mała litera L
+24DC: Zakreślona łacińska mała litera M
+24DD: Zakreślona łacińska mała litera N
+24DE: Zakreślona łacińska mała litera O
+24DF: Zakreślona łacińska mała litera P
+24E0: Zakreślona łacińska mała litera Q
+24E1: Zakreślona łacińska mała litera R
+24E2: Zakreślona łacińska mała litera S
+24E3: Zakreślona łacińska mała litera T
+24E4: Zakreślona łacińska mała litera U
+24E5: Zakreślona łacińska mała litera V
+24E6: Zakreślona łacińska mała litera W
+24E7: Zakreślona łacińska mała litera X
+24E8: Zakreślona łacińska mała litera Y
+24E9: Zakreślona łacińska mała litera Z
+24EA: Cyfra Zero
+24EB: Liczba ujemna zakreślona jedenaście
+24EC: Liczba ujemna zakreślona liczbą dwunastą
+24ED: Negatywny zakreślony numer trzynasty
+24EE: Negative Circled Number Four
+24EF: Liczba ujemna zakreślona liczbą piętnastą
+24F0: Negative Circled Number Sixteen
+24F1: Liczba ujemna zakreślona na siedemnaście
+24F2: Negatywny zakreślony numer osiemnaście
+24F3: Liczba ujemna zakreślona dziewiętnaście
+24F4: Liczba ujemna w kręgu numer 20
+24F5: Cyfra podwójna z jednym kółkiem
+24F6: Cyfra podwójna z dwoma kółkami
+24F7: Cyfra z podwójnym kółkiem
+24F8: Cyfra z podwójnym kółkiem
+24F9: Cyfra podwójna z kółkiem piątym
+24FA: Cyfra z podwójnym kółkiem szóstym
+24FB: Dwucyfrowa cyfra siedem
+24FC: Podwójnie okrążona cyfra ósma
+24FD: Dwucyfrowa cyfra dziewięć
+24FE: Double Circled Number Ten
+24FF: Cyfra ujemna z kółkiem zero

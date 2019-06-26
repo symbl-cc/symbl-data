@@ -1,0 +1,33 @@
+The question mark is put at the end of the sentence to show the corresponding intonation. Ancient writers used it; However, the outline was different. In the [https://unicode-table.com/en/alphabets/syriac/ Syrian] texts, it looked like a colon and was placed at the beginning of a sentence, if it did not start with a question word. And in the Greek, it looked, approximately, as a point with a lightning gushing from right to left (·∼). The modern look, found in print from the 16th century, however, did not always express the question but was acknowledged in the 18th century. In the Spanish letter, the symbol of an [U:00BF  inverted question mark] is added at the beginning of the sentence. It is convenient to know in advance what intonation should be used.
+
+The image of the question mark is associated with the Latin word "quaestio" - which means a search for an answer. Over time, for shortness, they simply began to write q over o. Then the mark mutated into what we see today.
+
+Sometimes a question mark is used with an [https://unicode-table.com/en/0021/ exclamation mark]. According to the rules of Russian punctuation, it should be used as [U:2048], but not like that [U:2049].
+
+In Unicode, there are still [U:2E2E] and [U:2047]. 
+
+Other symbols are used to indicate interrogative intonation:
+
+[U:037E] Greek.
+
+[U:00BF] Optional Spanish. It is placed at the beginning of sentences.
+
+[U:061F] Arab.
+
+[U:055E] Artsakan nshan. Armenian.
+
+[U:0706] Old Syrian. It was used at the beginning of the sentence if it did not start with a question word.
+
+[U:1367] Ethiopian.
+
+[U:2CFA] [U:2CFB] Old Nubian.
+
+[U:A60F] Wai.
+
+[U:A6F7] Bamum.
+
+[U:11143] Chakma.
+
+[U:AAF1] Manipuri.
+
+[U:1945] Limbu.

@@ -1,0 +1,256 @@
+1F000: Mahjong Tile East Wind
+1F001: Mahjong Tile South Wind
+1F002: Mahjong Tile West Wind
+1F003: Mahjong Tile North Wind
+1F004: Mahjong Tile Red Dragon : Hongzhong,
+1F005: Mahjong Tile Green Dragon : qingfa
+1F006: Mahjong Tile White Dragon : Baiban
+1F007: Mahjong Tile Uno de los personajes : pálido
+1F008: Mahjong Tile dos de personajes
+1F009: Mahjong Tile Three of Characters
+1F00A: Mahjong Tile Cuatro de Personajes
+1F00B: Mahjong Tile Five of Characters
+1F00C: Mahjong Tile Six of Characters
+1F00D: Mahjong Tile Seven de Personajes
+1F00E: Mahjong Tile Ocho de Personajes
+1F00F: Mahjong Tile Nine of Characters
+1F010: Mahjong Tile One of Bamboos : tiao
+1F011: Mahjong Tile Two of Bamboos
+1F012: Azulejo Mahjong Tres De Bambúes
+1F013: Mahjong Tile Four de Bambúes
+1F014: Mahjong Tile Five de Bambúes
+1F015: Mahjong Tile Six de Bambúes
+1F016: Mahjong Tile Seven de Bambúes
+1F017: Azulejo de Mahjong Ocho de Bambúes
+1F018: Azulejo Mahjong Nueve De Bambúes
+1F019: Mahjong Tile One of Circles : bing
+1F01A: Mahjong Tile Two of Circles
+1F01B: Mahjong Tile Three of Circles
+1F01C: Mahjong Tile Four of Circles
+1F01D: Mahjong Tile Five of Circles
+1F01E: Mahjong Tile Six of Circles
+1F01F: Mahjong Tile Seven of Circles
+1F020: Azulejo Mahjong Ocho de Círculos
+1F021: Mahjong Tile Nine of Circles
+1F022: Mahjong Tile Plum : mei
+1F023: Orquídea del azulejo de Mahjong : lan
+1F024: Mahjong Tile Bamboo : zhu
+1F025: Crisantemo de la teja de Mahjong : ju
+1F026: Mahjong Tile Spring
+1F027: Mahjong Tile Summer
+1F028: Mahjong Tile Autumn
+1F029: Mahjong Tile Winter
+1F02A: Joker de azulejos de Mahjong : baida
+1F02B: Mahjong Tile Back
+1F02C:
+1F02D:
+1F02E:
+1F02F:
+1F030: Domino Tile Horizontal Back
+1F031: Azulejo Domino Horizontal-00-00
+1F032: Azulejo Domino Horizontal-00-01
+1F033: Azulejo Domino Horizontal-00-02
+1F034: Azulejo Domino Horizontal-00-03
+1F035: Azulejo Domino Horizontal-00-04
+1F036: Azulejo Domino Horizontal-00-05
+1F037: Azulejo Domino Horizontal-00-06
+1F038: Azulejo Domino Horizontal-01-00
+1F039: Azulejo Domino Horizontal-01-01
+1F03A: Azulejo Domino Horizontal-01-02
+1F03B: Azulejo Domino Horizontal-01-03
+1F03C: Azulejo Domino Horizontal-01-04
+1F03D: Azulejo Domino Horizontal-01-05
+1F03E: Azulejo Domino Horizontal-01-06
+1F03F: Azulejo Domino Horizontal-02-00
+1F040: Azulejo Domino Horizontal-02-01
+1F041: Azulejo Domino Horizontal-02-02
+1F042: Azulejo Domino Horizontal-02-03
+1F043: Azulejo Domino Horizontal-02-04
+1F044: Azulejo Domino Horizontal-02-05
+1F045: Azulejo Domino Horizontal-02-06
+1F046: Azulejo Domino Horizontal-03-00
+1F047: Azulejo Domino Horizontal-03-01
+1F048: Azulejo Domino Horizontal-03-02
+1F049: Azulejo Domino Horizontal-03-03
+1F04A: Azulejo Domino Horizontal-03-04
+1F04B: Azulejo Domino Horizontal-03-05
+1F04C: Azulejo Domino Horizontal-03-06
+1F04D: Azulejo Domino Horizontal-04-00
+1F04E: Azulejo Domino Horizontal-04-01
+1F04F: Azulejo Domino Horizontal-04-02
+1F050: Azulejo Domino Horizontal-04-03
+1F051: Azulejo Domino Horizontal-04-04
+1F052: Azulejo Domino Horizontal-04-05
+1F053: Azulejo Domino Horizontal-04-06
+1F054: Azulejo Domino Horizontal-05-00
+1F055: Azulejo Domino Horizontal-05-01
+1F056: Azulejo Domino Horizontal-05-02
+1F057: Azulejo Domino Horizontal-05-03
+1F058: Azulejo Domino Horizontal-05-04
+1F059: Azulejo Domino Horizontal-05-05
+1F05A: Azulejo Domino Horizontal-05-06
+1F05B: Azulejo Domino Horizontal-06-00
+1F05C: Azulejo Domino Horizontal-06-01
+1F05D: Azulejo Domino Horizontal-06-02
+1F05E: Azulejo Domino Horizontal-06-03
+1F05F: Azulejo Domino Horizontal-06-04
+1F060: Azulejo Domino Horizontal-06-05
+1F061: Azulejo Domino Horizontal-06-06
+1F062: Domino Tile Vertical Back
+1F063: Azulejo Domino Vertical-00-00
+1F064: Domino Tile Vertical-00-01
+1F065: Azulejo Domino Vertical-00-02
+1F066: Azulejo Domino Vertical-00-03
+1F067: Azulejo Domino Vertical-00-04
+1F068: Azulejo Domino Vertical-00-05
+1F069: Domino Tile Vertical-00-06
+1F06A: Azulejo Domino Vertical-01-00
+1F06B: Azulejo Domino Vertical-01-01
+1F06C: Azulejo Domino Vertical-01-02
+1F06D: Azulejo Domino Vertical-01-03
+1F06E: Azulejo Domino Vertical-01-04
+1F06F: Azulejo Domino Vertical-01-05
+1F070: Azulejo Domino Vertical-01-06
+1F071: Azulejo Domino Vertical-02-00
+1F072: Azulejo Domino Vertical-02-01
+1F073: Azulejo Domino Vertical-02-02
+1F074: Azulejo Domino Vertical-02-03
+1F075: Azulejo Domino Vertical-02-04
+1F076: Azulejo Domino Vertical-02-05
+1F077: Azulejo Domino Vertical-02-06
+1F078: Azulejo Domino Vertical-03-00
+1F079: Azulejo Domino Vertical-03-01
+1F07A: Azulejo Domino Vertical-03-02
+1F07B: Azulejo Domino Vertical-03-03
+1F07C: Azulejo Domino Vertical-03-04
+1F07D: Azulejo Domino Vertical-03-05
+1F07E: Azulejo Domino Vertical-03-06
+1F07F: Azulejo Domino Vertical-04-00
+1F080: Azulejo Domino Vertical-04-01
+1F081: Azulejo Domino Vertical-04-02
+1F082: Azulejo Domino Vertical-04-03
+1F083: Azulejo Domino Vertical-04-04
+1F084: Azulejo Domino Vertical-04-05
+1F085: Azulejo Domino Vertical-04-06
+1F086: Azulejo Domino Vertical-05-00
+1F087: Azulejo Domino Vertical-05-01
+1F088: Azulejo Domino Vertical-05-02
+1F089: Azulejo Domino Vertical-05-03
+1F08A: Azulejo Domino Vertical-05-04
+1F08B: Azulejo Domino Vertical-05-05
+1F08C: Azulejo Domino Vertical-05-06
+1F08D: Azulejo Domino Vertical-06-00
+1F08E: Azulejo Domino Vertical-06-01
+1F08F: Azulejo Domino Vertical-06-02
+1F090: Azulejo Domino Vertical-06-03
+1F091: Azulejo Domino Vertical-06-04
+1F092: Azulejo Domino Vertical-06-05
+1F093: Azulejo Domino Vertical-06-06
+1F094:
+1F095:
+1F096:
+1F097:
+1F098:
+1F099:
+1F09A:
+1F09B:
+1F09C:
+1F09D:
+1F09E:
+1F09F:
+1F0A0: Tarjeta de juego de vuelta
+1F0A1: Jugando a la carta Ace of Spades
+1F0A2: Jugando a la carta dos de espadas
+1F0A3: Naipes tres de espadas
+1F0A4: Jugando a la carta cuatro de espadas
+1F0A5: Jugando a la carta cinco de espadas
+1F0A6: Jugando a la carta seis de espadas
+1F0A7: Jugando a la carta siete de espadas
+1F0A8: Naipes ocho de espadas
+1F0A9: Naipes nueve de espadas
+1F0AA: Naipes diez de espadas
+1F0AB: Naipe Jack of Spades : valet, bube, unter, page, fante : página de espadas
+1F0AC: Naipes de cartas de caballero de espadas : caballero, ober, ritter, cavall, cavaliere : caballero de espadas
+1F0AD: Naipe reina de espadas : dama, dama, königin, regina : reina de espadas
+1F0AE: Naipe rey de espadas : roi, könig, re : rey de espadas
+1F0AF:
+1F0B0:
+1F0B1: Tarjeta de juego Ace of Hearts
+1F0B2: Naipes dos de corazones
+1F0B3: Naipes Tres de Corazones
+1F0B4: Naipes cuatro de corazones
+1F0B5: Naipes cinco de corazones
+1F0B6: Jugando a la carta seis de corazones
+1F0B7: Naipes Siete de Corazones
+1F0B8: Naipe Ocho de Corazones
+1F0B9: Naipes nueve de corazones
+1F0BA: Naipes diez de corazones
+1F0BB: Tarjeta de juego Jack of Hearts
+1F0BC: Naipes caballero de corazones
+1F0BD: Tarjeta de juego reina de corazones
+1F0BE: Naipe rey de corazones
+1F0BF: Naipes joker rojo
+1F0C0:
+1F0C1: Naipe Ace of Diamonds
+1F0C2: Naipes dos de diamantes
+1F0C3: Naipes tres de diamantes
+1F0C4: Naipe Cuatro de Diamantes
+1F0C5: Naipes cinco de diamantes
+1F0C6: Naipe Seis de Diamantes
+1F0C7: Naipes Siete de Diamantes
+1F0C8: Naipe Ocho de Diamantes
+1F0C9: Naipes nueve de diamantes
+1F0CA: Naipes diez de diamantes
+1F0CB: Naipe jack de diamantes
+1F0CC: Naipes caballero de diamantes
+1F0CD: Naipe reina de diamantes
+1F0CE: Naipe rey de diamantes
+1F0CF: Naipes joker negro
+1F0D0:
+1F0D1: Naipe Ace of Clubs
+1F0D2: Naipe dos de los clubes
+1F0D3: Naipes tres de los clubes
+1F0D4: Naipe cuatro de los clubes
+1F0D5: Naipe cinco de los clubes
+1F0D6: Jugando a la carta seis de los clubes
+1F0D7: Jugando a la carta siete de los clubes
+1F0D8: Naipes ocho de los clubes
+1F0D9: Naipes nueve de los clubes
+1F0DA: Naipes diez de los clubes
+1F0DB: Jugando al naipe Jack of Clubs
+1F0DC: Naipes de caballero de clubes
+1F0DD: Naipe, reina de los clubes
+1F0DE: Naipe rey de los clubes
+1F0DF: Naipe Joker Blanco
+1F0E0: Naipe de naipes
+1F0E1: Naipes Trump-1
+1F0E2: Naipes Trump-2
+1F0E3: Jugando a la carta Trump-3
+1F0E4: Naipes Trump-4
+1F0E5: Jugando a la carta Trump-5
+1F0E6: Jugando a la carta Trump-6
+1F0E7: Naipes Trump-7
+1F0E8: Jugando a las cartas Trump-8
+1F0E9: Naipes Trump-9
+1F0EA: Jugando a la Carta Trump-10
+1F0EB: Jugando a la Carta Trump-11
+1F0EC: Jugando a la Carta Trump-12
+1F0ED: Naipes Trump-13
+1F0EE: Naipes Trump-14
+1F0EF: Jugando a la Carta Trump-15
+1F0F0: Naipes Trump-16
+1F0F1: Naipes Trump-17
+1F0F2: Naipes trump-18
+1F0F3: Jugando a la carta Trump-19
+1F0F4: Naipes Trump-20
+1F0F5: Naipes Trump-21
+1F0F6:
+1F0F7:
+1F0F8:
+1F0F9:
+1F0FA:
+1F0FB:
+1F0FC:
+1F0FD:
+1F0FE:
+1F0FF:

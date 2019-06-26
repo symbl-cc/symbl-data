@@ -3,7 +3,7 @@ basic-latin               :  Latin de base
 latin-1-supplement        :  Supplément latin-1
 latin-extended-a          :  Latin étendu A
 latin-extended-b          :  Latin étendu B
-ipa-extensions            :  Alphabet phonétique international
+ipa-extensions            :  Alphabet phonétique international (IPA)
 spacing-modifier-letters  :  Lettres modificatives avec chasse
 combining-diacritical-marks  :  Diacritiques
 greek-coptic              :  Grec et copte

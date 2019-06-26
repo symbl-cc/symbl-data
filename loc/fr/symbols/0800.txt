@@ -46,32 +46,32 @@
 082D: Signe samaritain nequdaa
 082E: 
 082F: 
-0830: Ponctuation samaritaine nequdaa
-0831: Ponctuation samaritaine afsaaq
-0832: Ponctuation samaritaine anged
-0833: Ponctuation samaritaine bau
-0834: Ponctuation samaritaine atmaau
-0835: Ponctuation samaritaine shiyyaalaa
+0830: Ponctuation samaritaine nequdaa : séparateur de mots
+0831: Ponctuation samaritaine afsaaq : interruption
+0832: Ponctuation samaritaine anged : retenue
+0833: Ponctuation samaritaine bau : prière
+0834: Ponctuation samaritaine atmaau : surprise
+0835: Ponctuation samaritaine shiyyaalaa : question
 0836: Marque d’abréviation samaritaine
 0837: Ponctuation samaritaine qitsa mélodique
-0838: Ponctuation samaritaine ziqaa
-0839: Ponctuation samaritaine qitsa
-083A: Ponctuation samaritaine zaef
-083B: Ponctuation samaritaine turu
-083C: Ponctuation samaritaine arkaanu
-083D: Ponctuation samaritaine sof mashfaat
-083E: Ponctuation samaritaine annaau
+0838: Ponctuation samaritaine ziqaa : en criant
+0839: Ponctuation samaritaine qitsa : fin de section
+083A: Ponctuation samaritaine zaef : explosion
+083B: Ponctuation samaritaine turu : enseignement
+083C: Ponctuation samaritaine arkaanu : soumission
+083D: Ponctuation samaritaine sof mashfaat : arrêt complet
+083E: Ponctuation samaritaine annaau : du repos
 083F: 
-0840: Lettre mandéenne halqa
+0840: Lettre mandéenne halqa : une
 0841: Lettre mandéenne ab
 0842: Lettre mandéenne ag
 0843: Lettre mandéenne ad
 0844: Lettre mandéenne ah
-0845: Lettre mandéenne ushenna
+0845: Lettre mandéenne ushenna : vous
 0846: Lettre mandéenne az
 0847: Lettre mandéenne it
 0848: Lettre mandéenne att
-0849: Lettre mandéenne aksa
+0849: Lettre mandéenne aksa : je
 084A: Lettre mandéenne ak
 084B: Lettre mandéenne al
 084C: Lettre mandéenne am
@@ -84,7 +84,7 @@
 0853: Lettre mandéenne ar
 0854: Lettre mandéenne ash
 0855: Lettre mandéenne at
-0856: Lettre mandéenne dushenna
+0856: Lettre mandéenne dushenna : di
 0857: Lettre mandéenne kad
 0858: Lettre mandéenne ain
 0859: Diacritique mandéen d’affrication
@@ -94,17 +94,17 @@
 085D: 
 085E: Ponctuation mandéenne
 085F: 
-0860: 
-0861: 
-0862: 
-0863: 
-0864: 
-0865: 
-0866: 
-0867: 
-0868: 
-0869: 
-086A: 
+0860: Lettre en syriaque malayalam nga
+0861: Lettre en syriaque malayalam ja
+0862: Lettre syriaque Malayalam Nya
+0863: Lettre syriaque malayalam tta
+0864: Lettre syriaque malayalam nna
+0865: Lettre syriaque malayalam nnna
+0866: Lettre syriaque malayalam bha
+0867: Lettre syriaque Ra malayalam
+0868: Lettre syriaque malayalam lla
+0869: Lettre en syriaque malayalam llla
+086A: Lettre en syriaque malayalam ssa
 086B: 
 086C: 
 086D: 
@@ -177,17 +177,17 @@
 08B0: Lettre arabe gaf with renversée stroke
 08B1: Lettre arabe waw droit
 08B2: Lettre arabe zaïn v renversé suscrit
-08B3: 
-08B4: 
+08B3: Lettre arabe Ain avec trois points en dessous
+08B4: Lettre arabe Kaf avec point en bas
 08B5: 
-08B6: 
-08B7: 
-08B8: 
-08B9: 
-08BA: 
-08BB: 
-08BC: 
-08BD: 
+08B6: Lettre arabe Beh avec petit Meem en haut
+08B7: Lettre arabe Peh avec petit Meem en haut
+08B8: Lettre arabe teh avec petit teh ci-dessus
+08B9: Lettre arabe Reh avec petit midi en haut
+08BA: Lettre arabe Yeh avec deux points en bas et petit midi en haut
+08BB: Lettre arabe africaine Feh
+08BC: Lettre Arabe Africaine Qaf
+08BD: Lettre arabe midi africaine
 08BE: 
 08BF: 
 08C0: 
@@ -209,23 +209,23 @@
 08D0: 
 08D1: 
 08D2: 
-08D3: 
-08D4: 
-08D5: 
-08D6: 
-08D7: 
-08D8: 
-08D9: 
-08DA: 
-08DB: 
-08DC: 
-08DD: 
-08DE: 
-08DF: 
-08E0: 
-08E1: 
-08E2: 
-08E3: 
+08D3: Arabe petit bas waw
+08D4: Ar-Rub Arabe Petit Haut Mot
+08D5: Arabe petit haut triste
+08D6: Arabe Petit Haut Ain
+08D7: Petit Qaf arabe
+08D8: Petit midi arabe avec Kasra
+08D9: Petit déjeuner arabe bas avec Kasra
+08DA: Ath-Thalatha, petit mot arabe élevé
+08DB: Arabe petit haut mot as-sajda
+08DC: Arabe petit haut mot an-nisf
+08DD: Sakta arabe petit haut mot
+08DE: Petit mot arabe élevé Qif
+08DF: Waqfa petit mot arabe
+08E0: Petit marqueur de note en arabe, élevé
+08E1: Petite enseigne arabe Safha
+08E2: Fin arabe contestée d'Ayah
+08E3: Arabe transformé damma ci-dessous
 08E4: Arabe recourbé fatha
 08E5: Damma arabe recourbé
 08E6: Kasra arabe recourbé

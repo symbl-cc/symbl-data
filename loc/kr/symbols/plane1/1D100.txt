@@ -1,0 +1,256 @@
+1D100: 뮤지컬 심볼 싱글 바 라인
+1D101: 뮤지컬 상징 더블 바 라인
+1D102: 뮤지컬 상징 마지막 경계선
+1D103: 뮤지컬 상징 반전 최종 바 라인
+1D104: 뮤지컬 심볼 파선
+1D105: 뮤지컬 상징 짧은 바 라인
+1D106: 뮤지컬 기호 왼쪽 반복 기호
+1D107: 뮤지컬 기호 오른쪽 반복 기호
+1D108: 뮤지컬 기호 반복 점
+1D109: 뮤지컬 상징 Dal Segno
+1D10A: 뮤지컬 심볼 다 카포
+1D10B: 뮤지컬 상징 Segno
+1D10C: 뮤지컬 상징 코다
+1D10D: 뮤지컬 상징 반복 된 그림 -1
+1D10E: 뮤지컬 상징 반복 된 그림 -2
+1D10F: 뮤지컬 상징 반복 된 그림 -3
+1D110: 뮤지컬 심볼 페르마 아트
+1D111: 아래 음악 상징 Fermata
+1D112: 뮤지컬 기호 브레스 마크
+1D113: 뮤지컬 상징 Caesura
+1D114: 음악 기호 중괄호
+1D115: 음악 기호 대괄호
+1D116: 뮤지컬 상징 원 스탭
+1D117: 뮤지컬 상징 두 줄짜리 지팡이
+1D118: 뮤지컬 상징 세 줄짜리 지팡이
+1D119: 뮤지컬 상징 4 줄 직원
+1D11A: 뮤지컬 상징 5 인원
+1D11B: 뮤지컬 상징 6 인원
+1D11C: 뮤지컬 기호 식스 문자열 플레어 보드
+1D11D: 뮤지컬 심볼 4 현 프렛 보드
+1D11E: 뮤지컬 기호 G 음자리표
+1D11F: 뮤지컬 기호 G 음자리표 Ottava Alta
+1D120: 뮤지컬 기호 G 음자리표 Ottava Bassa
+1D121: 뮤지컬 기호 C 음자리표
+1D122: 뮤지컬 기호 F 음자리표
+1D123: 뮤지컬 심볼 F 음자리표 Ottava Alta
+1D124: 뮤지컬 기호 F 음자리표 Ottava Bassa
+1D125: 뮤지컬 기호 드럼 음자리표 -1
+1D126: 뮤지컬 심볼 드럼 음자리표 -2
+1D127:
+1D128:
+1D129: 뮤지컬 기호 다중 측정 나머지
+1D12A: 뮤지컬 심볼 더블 샤프
+1D12B: 뮤지컬 심볼 더블 플랫
+1D12C: 뮤지컬 심볼 플랫 업
+1D12D: 뮤지컬 심볼 플랫 다운
+1D12E: 뮤지컬 상징 자연 위로
+1D12F: 뮤지컬 상징 자연 다운
+1D130: 뮤지컬 심볼 샤프 업
+1D131: 뮤지컬 심볼 샤프 다운
+1D132: 뮤지컬 기호 쿼터 톤 샤프
+1D133: 뮤지컬 기호 4 분 음색 플랫
+1D134: 뮤지컬 상징 공통 시간
+1D135: 뮤지컬 심볼 컷 타임
+1D136: 뮤지컬 심볼 Ottava Alta
+1D137: 뮤지컬 상징 Ottava Bassa
+1D138: 뮤지컬 상징 Quindicesima Alta
+1D139: 뮤지컬 상징 Quindicesima Bassa
+1D13A: 뮤지컬 기호 멀티 레스트 : 이중 전체 휴식, breve rest
+1D13B: 뮤지컬 기호 전체 휴식 : 세미 브리프 레스트
+1D13C: 뮤지컬 기호 반 휴식 : 최소 휴식
+1D13D: 뮤지컬 기호 분기 나머지 : 크로 셰 뜨개질 레스트
+1D13E: 뮤지컬 기호 여덟 번째 휴식 : 떨림 받침대
+1D13F: 뮤지컬 상징 16 번째 휴식 : 반자동 휴식
+1D140: 뮤지컬 기호 30 초 나머지 : 비열한 휴식
+1D141: 뮤지컬 기호 64 위 ~ 4 위 : hemidemisemiquaver 휴식, semidemisemiquaver 휴식
+1D142: 뮤지컬 상징 1 백 20 번째 휴식 : 반 에너지 유출제 휴식, 준 메탐페르 잔 휴식
+1D143: 뮤지컬 심볼 X 노트 헤드
+1D144: 뮤지컬 심볼 플러스 노트 헤드
+1D145: 뮤지컬 기호 서클 X 노트 헤드
+1D146: 뮤지컬 심볼 스퀘어 노트 헤드 화이트
+1D147: 뮤지컬 심볼 스퀘어 Notehead Black
+1D148: 뮤지컬 기호 삼각형 노트 헤드 화이트
+1D149: 뮤지컬 기호 삼각형 노트 헤드 블랙
+1D14A: 뮤지컬 기호 삼각형 노트 헤드 왼쪽 흰색
+1D14B: 뮤지컬 상징 삼각형 노트 헤드 블랙
+1D14C: 뮤지컬 심볼 Triangle Notehead Right White
+1D14D: 뮤지컬 기호 삼각형 메모장 오른쪽 검정
+1D14E: 뮤지컬 상징 삼각형 노트 헤드 화이트
+1D14F: 뮤지컬 상징 삼각형 노트 헤드 블랙
+1D150: 뮤지컬 기호 삼각형 메모장 오른쪽 화이트
+1D151: 뮤지컬 상징 삼각형 노트 헤드 오른쪽 블랙
+1D152: 뮤지컬 심볼 달 노트 헤드 화이트
+1D153: 뮤지컬 상징 달 노트 헤드 블랙
+1D154: 뮤지컬 상징 삼각형 - 라운드 노트 헤드 화이트
+1D155: 뮤지컬 상징 삼각형 - 라운드 노트 헤드 블랙
+1D156: 뮤지컬 기호 괄호 Notehead
+1D157: 뮤지컬 상징 Void Notehead
+1D158: 뮤지컬 기호 Notehead Black
+1D159: 뮤지컬 상징 Null Notehead
+1D15A: 뮤지컬 심볼 클러스터 노트 헤드 화이트
+1D15B: 뮤지컬 심볼 클러스터 Notehead Black
+1D15C: 뮤지컬 심볼 Breve
+1D15D: 뮤지컬 기호 전체 메모 : 세미 브리프
+1D15E: 뮤지컬 기호 반 노트 : 미소
+1D15F: 뮤지컬 기호 4 분 음표 : 갈고리
+1D160: 뮤지컬 기호 8 번째 주 : 진음
+1D161: 뮤지컬 상징 16 번째 주 : 준결승
+1D162: 뮤지컬 기호 30 초 : 악마
+1D163: 뮤지컬 상징 64 번째 주 : 헤미 미메 시엠 유니버스, 세미 디스 메마이버
+1D164: 뮤지컬 상징 1 백 20 번째 노트 : 세미 물리 기적 추측 기, 준 물리기 기
+1D165: 줄기를 결합하는 뮤지컬 상징
+1D166: Sprechgesang 줄기를 결합하는 뮤지컬 상징
+1D167: 트레몰로 1을 결합한 뮤지컬 상징
+1D168: 트레몰로 2를 결합한 뮤지컬 상징
+1D169: 트레몰로 -3를 결합한 뮤지컬 상징
+1D16A: 뮤지컬 상징 핑거 드 트레몰로 -1
+1D16B: 뮤지컬 상징 핑거 드 트레몰로 -2
+1D16C: 뮤지컬 상징 핑거 드 트레몰로 -3
+1D16D: 증강 점을 결합한 뮤지컬 심볼
+1D16E: 플래그 -1 결합 뮤지컬 기호
+1D16F: 국기 -2 결합 뮤지컬 기호
+1D170: 플래그 -3 결합 뮤지컬 기호
+1D171: 플래그 -4를 결합하는 뮤지컬 상징
+1D172: 플래그 -5를 결합하는 뮤지컬 상징
+1D173: 뮤지컬 기호 시작 빔
+1D174: 뮤지컬 기호 엔드 빔
+1D175: 뮤지컬 상징 시작 넥타이
+1D176: 뮤지컬 기호 엔드 타이
+1D177: 뮤지컬 상징 시작 슬루
+1D178: 뮤지컬 심볼 엔드 슬러
+1D179: 뮤지컬 기호가 구를 시작합니다.
+1D17A: 뮤지컬 기호 마지막 구
+1D17B: 악센트를 결합하는 뮤지컬 상징
+1D17C: 스타카토를 결합한 뮤지컬 상징
+1D17D: Tenuto를 결합하는 뮤지컬 상징
+1D17E: Staccatissimo를 결합하는 뮤지컬 상징
+1D17F: Marcato를 결합한 뮤지컬 상징
+1D180: Marcato-Staccato를 결합한 뮤지컬 상징
+1D181: 악센트 - 스타카토를 결합한 뮤지컬 상징
+1D182: Loure를 결합하는 뮤지컬 상징
+1D183: 뮤지컬 상징 Arpeggiato
+1D184: 뮤지컬 상징 Arpeggiato Down
+1D185: Doit을 결합한 뮤지컬 심볼
+1D186: 립을 결합한 뮤지컬 심볼
+1D187: 플립을 결합한 뮤지컬 심볼
+1D188: 얼룩을 결합하는 뮤지컬 상징
+1D189: 음악 기호 결합 굴곡
+1D18A: 더블 혀를 결합한 뮤지컬 심볼
+1D18B: 트리플 혀를 결합한 뮤지컬 상징
+1D18C: 뮤지컬 상징 Rinforzando
+1D18D: 뮤지컬 심볼 Subito
+1D18E: 뮤지컬 기호 Z
+1D18F: 뮤지컬 기호 피아노
+1D190: 뮤지컬 상징 메조
+1D191: 뮤지컬 기호 포르테
+1D192: 뮤지컬 기호 크레센도
+1D193: 뮤지컬 상징 Decrescendo
+1D194: 뮤지컬 기호 그레이스 참고 슬래시
+1D195: 뮤지컬 상징 그레이스 노트 슬래시 없음
+1D196: 뮤지컬 심볼 Tr
+1D197: 뮤지컬 심볼 턴
+1D198: 뮤지컬 상징 반전 회전
+1D199: 뮤지컬 심볼 턴 슬래시
+1D19A: 뮤지컬 상징은 위로 돈다
+1D19B: 뮤지컬 심볼 장식 Stroke-1
+1D19C: 뮤지컬 심볼 장식 Stroke-2
+1D19D: 뮤지컬 심볼 장식 Stroke-3
+1D19E: 뮤지컬 심볼 장식 Stroke-4
+1D19F: 뮤지컬 심볼 장식 Stroke-5
+1D1A0: 뮤지컬 심볼 장식 Stroke-6
+1D1A1: 뮤지컬 심볼 장식 스트로크 -7
+1D1A2: 뮤지컬 심볼 장식 Stroke-8
+1D1A3: 뮤지컬 심볼 장식 Stroke-9
+1D1A4: 뮤지컬 심볼 장식 Stroke-10
+1D1A5: 뮤지컬 심볼 장식 Stroke-11
+1D1A6: 음악 기호 Hauptstimme
+1D1A7: 뮤지컬 상징 Nebenstimme
+1D1A8: 뮤지컬 상징의 끝 Stimme
+1D1A9: 뮤지컬 기호도 슬래시
+1D1AA: 활을 결합하는 뮤지컬 상징
+1D1AB: 활을 결합하는 뮤지컬 상징
+1D1AC: 고조파를 결합한 뮤지컬 심볼
+1D1AD: 스냅인 피치카토를 결합한 뮤지컬 상징
+1D1AE: 뮤지컬 심볼 페달 마크
+1D1AF: 뮤지컬 기호 페달 업 마크
+1D1B0: 뮤지컬 기호 하프 페달 마크
+1D1B1: 뮤지컬 상징 Glissando
+1D1B2: 뮤지컬 상징 Glissando Down
+1D1B3: 손톱이있는 뮤지컬 심볼
+1D1B4: 뮤지컬 심볼 댐프
+1D1B5: 뮤지컬 상징은 모두 감쇠합니다.
+1D1B6: 뮤지컬 심볼 맥시마
+1D1B7: 뮤지컬 심볼 론가
+1D1B8: 뮤지컬 상징 Brevis
+1D1B9: 뮤지컬 기호 Semibrevis 화이트
+1D1BA: 뮤지컬 기호 Semibrevis 블랙
+1D1BB: 음악 기호 미니 마
+1D1BC: 뮤지컬 상징 미니 마 블랙
+1D1BD: 뮤지컬 심볼 세미 미니 마 화이트
+1D1BE: 음악 기호 Semiminima 블랙
+1D1BF: 뮤지컬 상징 Fusa White
+1D1C0: 뮤지컬 상징 Fusa Black
+1D1C1: 뮤지컬 상징 Longa Perfecta Rest
+1D1C2: 뮤지컬 상징 Longa Imperfecta Rest
+1D1C3: 뮤지컬 기호 벌레 나머지
+1D1C4: 뮤지컬 기호 Semibrevis Rest
+1D1C5: 음악 기호 최소 나머지
+1D1C6: 음악 기호 Semiminima Rest
+1D1C7: 뮤지컬 상징 템퍼 퍼펙 툼 (Tempus Perfectum Cum Prolatione Perfecta)
+1D1C8: 뮤지컬 상징 템퍼 퍼펙 툼 (Tempus Perfectum Cum Prolatione Imperfecta)
+1D1C9: 음악 기호 Tempus Perfectum Cum Prolatione Perfecta Diminution-1
+1D1CA: 뮤지컬 상징 Tempus Imperfectum Cum Prolatione Perfecta
+1D1CB: 뮤지컬 상징 Tempus Imperfectum Cum Prolatione Imperfecta
+1D1CC: 뮤지컬 상징 Tempus Imperfectum Cum Prolatione Imperfecta Diminution-1
+1D1CD: 뮤지컬 상징 Tempus Imperfectum Cum Prolatione Imperfecta Diminution-2
+1D1CE: 뮤지컬 상징 Tempus Imperfectum Cum Prolatione Imperfecta Diminution-3
+1D1CF: 뮤지컬 심볼 크로
+1D1D0: 뮤지컬 기호 그레고리오 C 음자리표
+1D1D1: 뮤지컬 기호 그레고리오 F 음자리표
+1D1D2: 뮤지컬 기호 광장 B
+1D1D3: 뮤지컬 심볼 Virga
+1D1D4: 음악 기호 Podatus
+1D1D5: 뮤지컬 상징 Clivis
+1D1D6: 뮤지컬 상징 Scandicus
+1D1D7: 뮤지컬 상징 클라이맥스
+1D1D8: 뮤지컬 상징 Torculus
+1D1D9: 음악 기호 Porrectus
+1D1DA: 뮤지컬 상징 Porrectus Flexus
+1D1DB: 뮤지컬 심볼 Scandicus Flexus
+1D1DC: 뮤지컬 상징 Torculus Resupinus
+1D1DD: 음악 기호 Pes Subpunctis
+1D1DE: 뮤지컬 상징 Kievan C 음자리표
+1D1DF: 뮤지컬 상징 Kievan 조각의 끝
+1D1E0: 뮤지컬 상징 Kievan 최종 참고
+1D1E1: 뮤지컬 기호 Kievan Recitative Mark
+1D1E2: 뮤지컬 기호 Kievan 전체 메모
+1D1E3: 뮤지컬 기호 Kievan Half Note
+1D1E4: 뮤지컬 기호 Kievan Quarter Note 줄기
+1D1E5: 뮤지컬 기호 Kievan Quarter Note 줄기
+1D1E6: 뮤지컬 기호 Kievan 8 번째 줄기 줄기
+1D1E7: 뮤지컬 기호 Kievan 8 번째 메모 줄기
+1D1E8: 뮤지컬 기호 Kievan Flat Sign
+1D1E9:
+1D1EA:
+1D1EB:
+1D1EC:
+1D1ED:
+1D1EE:
+1D1EF:
+1D1F0:
+1D1F1:
+1D1F2:
+1D1F3:
+1D1F4:
+1D1F5:
+1D1F6:
+1D1F7:
+1D1F8:
+1D1F9:
+1D1FA:
+1D1FB:
+1D1FC:
+1D1FD:
+1D1FE:
+1D1FF:

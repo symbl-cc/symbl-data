@@ -6,7 +6,7 @@ example-text: arroba;a mayúscula con tilde;fracción vulgar de un cuarto
 h1: Buscar
 result: Resultado
 empty: Frase de búsqueda está vacía
-total: Total: %s
+total: Resultados de la búsqueda: %s
 limit: (mostrar sólo %s)
 none: Ninguno
 any: Buscar por cualquier palabra
@@ -15,3 +15,10 @@ unicode-block: Lista de Secciones Unicode
 count-symbols: %s símbolos
 sets: Conjunto
 alphabet: Alfabeto
+
+[empty]
+no_results: No se encontraron resultados para "{query}" en español.
+language: Intenta cambiar el {idioma}.
+blocks: Explora los {bloques de Unicode}.
+sets: Míralo en {Conjuntos}.
+table: Mira a través de la {tabla de caracteres} completa.

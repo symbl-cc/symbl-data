@@ -95,32 +95,32 @@
 005E: Circumflex Accent
 005F: Low Line : spacing underscore
 0060: Grave Accent
-0061: Latin Small Letter A
-0062: Latin Small Letter B
-0063: Latin Small Letter C
-0064: Latin Small Letter D
-0065: Latin Small Letter E
-0066: Latin Small Letter F
-0067: Latin Small Letter G
-0068: Latin Small Letter H
-0069: Latin Small Letter I
-006A: Latin Small Letter J
-006B: Latin Small Letter K
-006C: Latin Small Letter L
-006D: Latin Small Letter M
-006E: Latin Small Letter N
-006F: Latin Small Letter O
-0070: Latin Small Letter P
-0071: Latin Small Letter Q
-0072: Latin Small Letter R
-0073: Latin Small Letter S
-0074: Latin Small Letter T
-0075: Latin Small Letter U
-0076: Latin Small Letter V
-0077: Latin Small Letter W
-0078: Latin Small Letter X
-0079: Latin Small Letter Y
-007A: Latin Small Letter Z
+0061: Latin kis betű A
+0062: Latin kis betű B
+0063: Latin kis betű C
+0064: Latin kis betű D
+0065: Latin kis betű E
+0066: Latin kis betű F
+0067: Latin kis betű G
+0068: Latin kis betű H
+0069: Latin kis betű I
+006A: Latin kis betű J
+006B: Latin kis betű K
+006C: Latin kis betű L
+006D: Latin kis betű M
+006E: Latin kis betű N
+006F: Latin kis betű O
+0070: Latin kis betű P
+0071: Latin kis betű Q
+0072: Latin kis betű R
+0073: Latin kis betű S
+0074: Latin kis betű T
+0075: Latin kis betű U
+0076: Latin kis betű V
+0077: Latin kis betű W
+0078: Latin kis betű X
+0079: Latin kis betű Y
+007A: Latin kis betű Z
 007B: Left Curly Bracket : opening curly bracket : left brace
 007C: Vertical Line : vertical bar
 007D: Right Curly Bracket : closing curly bracket : right brace
@@ -181,7 +181,7 @@
 00B4: Acute Accent
 00B5: Micro Sign
 00B6: Pilcrow Sign : paragraph sign
-00B7: Middle Dot : midpoint : georgian comma : greek middle dot
+00B7: Middle Dot : midpoint : georgian comma : Görög middle dot
 00B8: Cedilla
 00B9: Superscript One
 00BA: Masculine Ordinal Indicator
@@ -190,67 +190,67 @@
 00BD: Vulgar Fraction One Half
 00BE: Vulgar Fraction Three Quarters
 00BF: Inverted Question Mark : turned question mark
-00C0: Latin Capital Letter a with Grave
-00C1: Latin Capital Letter a with Acute
-00C2: Latin Capital Letter a with Circumflex
-00C3: Latin Capital Letter a with Tilde
-00C4: Latin Capital Letter a with Diaeresis
-00C5: Latin Capital Letter a with Ring Above
-00C6: Latin Capital Letter Ae : latin capital ligature ae
-00C7: Latin Capital Letter C with Cedilla
-00C8: Latin Capital Letter E with Grave
-00C9: Latin Capital Letter E with Acute
-00CA: Latin Capital Letter E with Circumflex
-00CB: Latin Capital Letter E with Diaeresis
-00CC: Latin Capital Letter I with Grave
-00CD: Latin Capital Letter I with Acute
-00CE: Latin Capital Letter I with Circumflex
-00CF: Latin Capital Letter I with Diaeresis
-00D0: Latin Capital Letter Eth
-00D1: Latin Capital Letter N with Tilde
-00D2: Latin Capital Letter O with Grave
-00D3: Latin Capital Letter O with Acute
-00D4: Latin Capital Letter O with Circumflex
-00D5: Latin Capital Letter O with Tilde
-00D6: Latin Capital Letter O with Diaeresis
+00C0: Latin nagybetű a with Grave
+00C1: Latin nagybetű a with Acute
+00C2: Latin nagybetű a with Circumflex
+00C3: Latin nagybetű a with Tilde
+00C4: Latin nagybetű a with Diaeresis
+00C5: Latin nagybetű a with Ring Above
+00C6: Latin nagybetű Ae : latin capital ligature ae
+00C7: Latin nagybetű C with Cedilla
+00C8: Latin nagybetű E with Grave
+00C9: Latin nagybetű E with Acute
+00CA: Latin nagybetű E with Circumflex
+00CB: Latin nagybetű E with Diaeresis
+00CC: Latin nagybetű I with Grave
+00CD: Latin nagybetű I with Acute
+00CE: Latin nagybetű I with Circumflex
+00CF: Latin nagybetű I with Diaeresis
+00D0: Latin nagybetű Eth
+00D1: Latin nagybetű N with Tilde
+00D2: Latin nagybetű O with Grave
+00D3: Latin nagybetű O with Acute
+00D4: Latin nagybetű O with Circumflex
+00D5: Latin nagybetű O with Tilde
+00D6: Latin nagybetű O with Diaeresis
 00D7: Multiplication Sign : z notation cartesian product
-00D8: Latin Capital Letter O with Stroke : o slash
-00D9: Latin Capital Letter U with Grave
-00DA: Latin Capital Letter U with Acute
-00DB: Latin Capital Letter U with Circumflex
-00DC: Latin Capital Letter U with Diaeresis
-00DD: Latin Capital Letter Y with Acute
-00DE: Latin Capital Letter Thorn
-00DF: Latin Small Letter Sharp S : eszett
-00E0: Latin Small Letter a with Grave
-00E1: Latin Small Letter a with Acute
-00E2: Latin Small Letter a with Circumflex
-00E3: Latin Small Letter a with Tilde
-00E4: Latin Small Letter a with Diaeresis
-00E5: Latin Small Letter a with Ring Above
-00E6: Latin Small Letter Ae : latin small ligature ae : ash (from old english æsc)
-00E7: Latin Small Letter C with Cedilla
-00E8: Latin Small Letter E with Grave
-00E9: Latin Small Letter E with Acute
-00EA: Latin Small Letter E with Circumflex
-00EB: Latin Small Letter E with Diaeresis
-00EC: Latin Small Letter I with Grave
-00ED: Latin Small Letter I with Acute
-00EE: Latin Small Letter I with Circumflex
-00EF: Latin Small Letter I with Diaeresis
-00F0: Latin Small Letter Eth
-00F1: Latin Small Letter N with Tilde
-00F2: Latin Small Letter O with Grave
-00F3: Latin Small Letter O with Acute
-00F4: Latin Small Letter O with Circumflex
-00F5: Latin Small Letter O with Tilde
-00F6: Latin Small Letter O with Diaeresis
+00D8: Latin nagybetű O with Stroke : o slash
+00D9: Latin nagybetű U with Grave
+00DA: Latin nagybetű U with Acute
+00DB: Latin nagybetű U with Circumflex
+00DC: Latin nagybetű U with Diaeresis
+00DD: Latin nagybetű Y with Acute
+00DE: Latin nagybetű Thorn
+00DF: Latin kis betű Sharp S : eszett
+00E0: Latin kis betű a with Grave
+00E1: Latin kis betű a with Acute
+00E2: Latin kis betű a with Circumflex
+00E3: Latin kis betű a with Tilde
+00E4: Latin kis betű a with Diaeresis
+00E5: Latin kis betű a with Ring Above
+00E6: Latin kis betű Ae : latin small ligature ae : ash (from old english æsc)
+00E7: Latin kis betű C with Cedilla
+00E8: Latin kis betű E with Grave
+00E9: Latin kis betű E with Acute
+00EA: Latin kis betű E with Circumflex
+00EB: Latin kis betű E with Diaeresis
+00EC: Latin kis betű I with Grave
+00ED: Latin kis betű I with Acute
+00EE: Latin kis betű I with Circumflex
+00EF: Latin kis betű I with Diaeresis
+00F0: Latin kis betű Eth
+00F1: Latin kis betű N with Tilde
+00F2: Latin kis betű O with Grave
+00F3: Latin kis betű O with Acute
+00F4: Latin kis betű O with Circumflex
+00F5: Latin kis betű O with Tilde
+00F6: Latin kis betű O with Diaeresis
 00F7: Division Sign : obelus
-00F8: Latin Small Letter O with Stroke : o slash
-00F9: Latin Small Letter U with Grave
-00FA: Latin Small Letter U with Acute
-00FB: Latin Small Letter U with Circumflex
-00FC: Latin Small Letter U with Diaeresis
-00FD: Latin Small Letter Y with Acute
-00FE: Latin Small Letter Thorn
-00FF: Latin Small Letter Y with Diaeresis
+00F8: Latin kis betű O with Stroke : o slash
+00F9: Latin kis betű U with Grave
+00FA: Latin kis betű U with Acute
+00FB: Latin kis betű U with Circumflex
+00FC: Latin kis betű U with Diaeresis
+00FD: Latin kis betű Y with Acute
+00FE: Latin kis betű Thorn
+00FF: Latin kis betű Y with Diaeresis

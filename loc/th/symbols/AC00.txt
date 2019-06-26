@@ -1,256 +1,256 @@
-AC00 : Hangul syllable ga
-AC01 : Hangul syllable gag
-AC02 : Hangul syllable gagg
-AC03 : Hangul syllable gags
-AC04 : Hangul syllable gan
-AC05 : Hangul syllable ganj
-AC06 : Hangul syllable ganh
-AC07 : Hangul syllable gad
-AC08 : Hangul syllable gal
-AC09 : Hangul syllable galg
-AC0A : Hangul syllable galm
-AC0B : Hangul syllable galb
-AC0C : Hangul syllable gals
-AC0D : Hangul syllable galt
-AC0E : Hangul syllable galp
-AC0F : Hangul syllable galh
-AC10 : Hangul syllable gam
-AC11 : Hangul syllable gab
-AC12 : Hangul syllable gabs
-AC13 : Hangul syllable gas
-AC14 : Hangul syllable gass
-AC15 : Hangul syllable gang
-AC16 : Hangul syllable gaj
-AC17 : Hangul syllable gac
-AC18 : Hangul syllable gak
-AC19 : Hangul syllable gat
-AC1A : Hangul syllable gap
-AC1B : Hangul syllable gah
-AC1C : Hangul syllable gae
-AC1D : Hangul syllable gaeg
-AC1E : Hangul syllable gaegg
-AC1F : Hangul syllable gaegs
-AC20 : Hangul syllable gaen
-AC21 : Hangul syllable gaenj
-AC22 : Hangul syllable gaenh
-AC23 : Hangul syllable gaed
-AC24 : Hangul syllable gael
-AC25 : Hangul syllable gaelg
-AC26 : Hangul syllable gaelm
-AC27 : Hangul syllable gaelb
-AC28 : Hangul syllable gaels
-AC29 : Hangul syllable gaelt
-AC2A : Hangul syllable gaelp
-AC2B : Hangul syllable gaelh
-AC2C : Hangul syllable gaem
-AC2D : Hangul syllable gaeb
-AC2E : Hangul syllable gaebs
-AC2F : Hangul syllable gaes
-AC30 : Hangul syllable gaess
-AC31 : Hangul syllable gaeng
-AC32 : Hangul syllable gaej
-AC33 : Hangul syllable gaec
-AC34 : Hangul syllable gaek
-AC35 : Hangul syllable gaet
-AC36 : Hangul syllable gaep
-AC37 : Hangul syllable gaeh
-AC38 : Hangul syllable gya
-AC39 : Hangul syllable gyag
-AC3A : Hangul syllable gyagg
-AC3B : Hangul syllable gyags
-AC3C : Hangul syllable gyan
-AC3D : Hangul syllable gyanj
-AC3E : Hangul syllable gyanh
-AC3F : Hangul syllable gyad
-AC40 : Hangul syllable gyal
-AC41 : Hangul syllable gyalg
-AC42 : Hangul syllable gyalm
-AC43 : Hangul syllable gyalb
-AC44 : Hangul syllable gyals
-AC45 : Hangul syllable gyalt
-AC46 : Hangul syllable gyalp
-AC47 : Hangul syllable gyalh
-AC48 : Hangul syllable gyam
-AC49 : Hangul syllable gyab
-AC4A : Hangul syllable gyabs
-AC4B : Hangul syllable gyas
-AC4C : Hangul syllable gyass
-AC4D : Hangul syllable gyang
-AC4E : Hangul syllable gyaj
-AC4F : Hangul syllable gyac
-AC50 : Hangul syllable gyak
-AC51 : Hangul syllable gyat
-AC52 : Hangul syllable gyap
-AC53 : Hangul syllable gyah
-AC54 : Hangul syllable gyae
-AC55 : Hangul syllable gyaeg
-AC56 : Hangul syllable gyaegg
-AC57 : Hangul syllable gyaegs
-AC58 : Hangul syllable gyaen
-AC59 : Hangul syllable gyaenj
-AC5A : Hangul syllable gyaenh
-AC5B : Hangul syllable gyaed
-AC5C : Hangul syllable gyael
-AC5D : Hangul syllable gyaelg
-AC5E : Hangul syllable gyaelm
-AC5F : Hangul syllable gyaelb
-AC60 : Hangul syllable gyaels
-AC61 : Hangul syllable gyaelt
-AC62 : Hangul syllable gyaelp
-AC63 : Hangul syllable gyaelh
-AC64 : Hangul syllable gyaem
-AC65 : Hangul syllable gyaeb
-AC66 : Hangul syllable gyaebs
-AC67 : Hangul syllable gyaes
-AC68 : Hangul syllable gyaess
-AC69 : Hangul syllable gyaeng
-AC6A : Hangul syllable gyaej
-AC6B : Hangul syllable gyaec
-AC6C : Hangul syllable gyaek
-AC6D : Hangul syllable gyaet
-AC6E : Hangul syllable gyaep
-AC6F : Hangul syllable gyaeh
-AC70 : Hangul syllable geo
-AC71 : Hangul syllable geog
-AC72 : Hangul syllable geogg
-AC73 : Hangul syllable geogs
-AC74 : Hangul syllable geon
-AC75 : Hangul syllable geonj
-AC76 : Hangul syllable geonh
-AC77 : Hangul syllable geod
-AC78 : Hangul syllable geol
-AC79 : Hangul syllable geolg
-AC7A : Hangul syllable geolm
-AC7B : Hangul syllable geolb
-AC7C : Hangul syllable geols
-AC7D : Hangul syllable geolt
-AC7E : Hangul syllable geolp
-AC7F : Hangul syllable geolh
-AC80 : Hangul syllable geom
-AC81 : Hangul syllable geob
-AC82 : Hangul syllable geobs
-AC83 : Hangul syllable geos
-AC84 : Hangul syllable geoss
-AC85 : Hangul syllable geong
-AC86 : Hangul syllable geoj
-AC87 : Hangul syllable geoc
-AC88 : Hangul syllable geok
-AC89 : Hangul syllable geot
-AC8A : Hangul syllable geop
-AC8B : Hangul syllable geoh
-AC8C : Hangul syllable ge
-AC8D : Hangul syllable geg
-AC8E : Hangul syllable gegg
-AC8F : Hangul syllable gegs
-AC90 : Hangul syllable gen
-AC91 : Hangul syllable genj
-AC92 : Hangul syllable genh
-AC93 : Hangul syllable ged
-AC94 : Hangul syllable gel
-AC95 : Hangul syllable gelg
-AC96 : Hangul syllable gelm
-AC97 : Hangul syllable gelb
-AC98 : Hangul syllable gels
-AC99 : Hangul syllable gelt
-AC9A : Hangul syllable gelp
-AC9B : Hangul syllable gelh
-AC9C : Hangul syllable gem
-AC9D : Hangul syllable geb
-AC9E : Hangul syllable gebs
-AC9F : Hangul syllable ges
-ACA0 : Hangul syllable gess
-ACA1 : Hangul syllable geng
-ACA2 : Hangul syllable gej
-ACA3 : Hangul syllable gec
-ACA4 : Hangul syllable gek
-ACA5 : Hangul syllable get
-ACA6 : Hangul syllable gep
-ACA7 : Hangul syllable geh
-ACA8 : Hangul syllable gyeo
-ACA9 : Hangul syllable gyeog
-ACAA : Hangul syllable gyeogg
-ACAB : Hangul syllable gyeogs
-ACAC : Hangul syllable gyeon
-ACAD : Hangul syllable gyeonj
-ACAE : Hangul syllable gyeonh
-ACAF : Hangul syllable gyeod
-ACB0 : Hangul syllable gyeol
-ACB1 : Hangul syllable gyeolg
-ACB2 : Hangul syllable gyeolm
-ACB3 : Hangul syllable gyeolb
-ACB4 : Hangul syllable gyeols
-ACB5 : Hangul syllable gyeolt
-ACB6 : Hangul syllable gyeolp
-ACB7 : Hangul syllable gyeolh
-ACB8 : Hangul syllable gyeom
-ACB9 : Hangul syllable gyeob
-ACBA : Hangul syllable gyeobs
-ACBB : Hangul syllable gyeos
-ACBC : Hangul syllable gyeoss
-ACBD : Hangul syllable gyeong
-ACBE : Hangul syllable gyeoj
-ACBF : Hangul syllable gyeoc
-ACC0 : Hangul syllable gyeok
-ACC1 : Hangul syllable gyeot
-ACC2 : Hangul syllable gyeop
-ACC3 : Hangul syllable gyeoh
-ACC4 : Hangul syllable gye
-ACC5 : Hangul syllable gyeg
-ACC6 : Hangul syllable gyegg
-ACC7 : Hangul syllable gyegs
-ACC8 : Hangul syllable gyen
-ACC9 : Hangul syllable gyenj
-ACCA : Hangul syllable gyenh
-ACCB : Hangul syllable gyed
-ACCC : Hangul syllable gyel
-ACCD : Hangul syllable gyelg
-ACCE : Hangul syllable gyelm
-ACCF : Hangul syllable gyelb
-ACD0 : Hangul syllable gyels
-ACD1 : Hangul syllable gyelt
-ACD2 : Hangul syllable gyelp
-ACD3 : Hangul syllable gyelh
-ACD4 : Hangul syllable gyem
-ACD5 : Hangul syllable gyeb
-ACD6 : Hangul syllable gyebs
-ACD7 : Hangul syllable gyes
-ACD8 : Hangul syllable gyess
-ACD9 : Hangul syllable gyeng
-ACDA : Hangul syllable gyej
-ACDB : Hangul syllable gyec
-ACDC : Hangul syllable gyek
-ACDD : Hangul syllable gyet
-ACDE : Hangul syllable gyep
-ACDF : Hangul syllable gyeh
-ACE0 : Hangul syllable go
-ACE1 : Hangul syllable gog
-ACE2 : Hangul syllable gogg
-ACE3 : Hangul syllable gogs
-ACE4 : Hangul syllable gon
-ACE5 : Hangul syllable gonj
-ACE6 : Hangul syllable gonh
-ACE7 : Hangul syllable god
-ACE8 : Hangul syllable gol
-ACE9 : Hangul syllable golg
-ACEA : Hangul syllable golm
-ACEB : Hangul syllable golb
-ACEC : Hangul syllable gols
-ACED : Hangul syllable golt
-ACEE : Hangul syllable golp
-ACEF : Hangul syllable golh
-ACF0 : Hangul syllable gom
-ACF1 : Hangul syllable gob
-ACF2 : Hangul syllable gobs
-ACF3 : Hangul syllable gos
-ACF4 : Hangul syllable goss
-ACF5 : Hangul syllable gong
-ACF6 : Hangul syllable goj
-ACF7 : Hangul syllable goc
-ACF8 : Hangul syllable gok
-ACF9 : Hangul syllable got
-ACFA : Hangul syllable gop
-ACFB : Hangul syllable goh
-ACFC : Hangul syllable gwa
-ACFD : Hangul syllable gwag
-ACFE : Hangul syllable gwagg
-ACFF : Hangul syllable gwags
+AC00: อังกูลพยางค์อังกูล
+AC01: Gag อังกูล
+AC02: อังกูลพยางค์ GAGG
+AC03: Gags อังกูลพยางค์
+AC04: อังกูลพยางค์กาน
+AC05: อังกูลพยางค์อังกูล
+AC06: อังกูลพยางค์ Ganul
+AC07: กาดอังกูลพยางค์
+AC08: Gal พยางค์อังกูล
+AC09: Galg พยางค์อังกูล
+AC0A: Galm พยางค์อังกูล
+AC0B: Galul พยางค์อังกูล
+AC0C: Gals อังกูลพยางค์
+AC0D: Galul พยางค์อังกูล
+AC0E: Galp พยางค์อังกูล
+AC0F: อังกูลพยางค์กาฮัล
+AC10: เกมพยางค์อังกูล
+AC11: กาบอังกูล
+AC12: Gabs พยางค์อังกูล
+AC13: แก๊สพยางค์อังกูล
+AC14: แก๊สพยางค์อังกูล
+AC15: แก๊งพยางค์อังกูล
+AC16: อังกูลพยางค์ Gaj
+AC17: GAC อังกูล
+AC18: อังกูลพยางค์ Gak
+AC19: Gatul พยางค์ฮันกึล
+AC1A: ช่องว่างพยางค์ฮันกึล
+AC1B: อังกูลพยางค์ Gah
+AC1C: อังกูลพยางค์แก
+AC1D: อังกูลพยางค์อังกูล
+AC1E: อังกูลพยางค์
+AC1F: อังกูลพยางค์อังกูล
+AC20: อังกูลพยางค์อังกูล
+AC21: อังกูลพยางค์
+AC22: อังกูลพยางค์ Gaenh
+AC23: อังกูลพยางค์ Gaedable
+AC24: Gul อังกูลพยางค์
+AC25: อังกูลพยางค์ Gaelg
+AC26: Gulm พยางค์อังกูล
+AC27: อังกูลพยางค์ Gaelb
+AC28: Gaulable พยางค์อังกูล
+AC29: Gaulable พยางค์อังกูล
+AC2A: อังกูลพยางค์ Gaelp
+AC2B: อังกูลพยางค์ Gaelh
+AC2C: พยางค์อังกูล
+AC2D: อังกูลพยางค์ Gaeb
+AC2E: อังกูลพยางค์ Gaebs
+AC2F: อังกูลพยางค์อังกูล
+AC30: Gaulable พยางค์อังกูล
+AC31: พยางค์อังกูล
+AC32: พยางค์ฮันกึล
+AC33: อังกูลพยางค์อังกูล
+AC34: อังกูลพยางค์ Gaek
+AC35: Gaulable พยางค์อังกูล
+AC36: Gaulable พยางค์อังกูล
+AC37: อังกูลพยางค์ Gaeh
+AC38: อังกูลพยางค์ Gya
+AC39: Gyul พยางค์อังกูล
+AC3A: อังกูลพยางค์ Gyagg
+AC3B: Gyul พยางค์อังกูล
+AC3C: อังกูลพยางค์ Gyan
+AC3D: อังกูลพยางค์ Gyanj
+AC3E: อังกูลพยางค์ Gyanh
+AC3F: พยางค์อังกูล
+AC40: Gyul พยางค์อังกูล
+AC41: Gyulable พยางค์อังกูล
+AC42: Gyul พยางค์อังกูล
+AC43: Gyulb พยางค์อังกูล
+AC44: Gyul พยางค์อังกูล
+AC45: Gyul พยางค์อังกูล
+AC46: Gyulp พยางค์อังกูล
+AC47: Gyulh พยางค์อังกูล
+AC48: Gyul พยางค์อังกูล
+AC49: Gyul พยางค์อังกูล
+AC4A: Gyul พยางค์อังกูล
+AC4B: Gyul พยางค์อังกูล
+AC4C: Gyul พยางค์อังกูล
+AC4D: พยางค์ฮันกึล
+AC4E: Gyul อังกูลพยางค์
+AC4F: Gyul พยางค์อังกูล
+AC50: Gyul พยางค์อังกูล
+AC51: Gyul พยางค์อังกูล
+AC52: Gyul พยางค์อังกูล
+AC53: Gyul พยางค์อังกูล
+AC54: Gyul พยางค์อังกูล
+AC55: อังกูลพยางค์
+AC56: อังกูลพยางค์
+AC57: Gyaeg อังกูลพยางค์
+AC58: พยางค์ฮันกึล
+AC59: อังกูลพยางค์
+AC5A: อังกูลพยางค์ Gyaenh
+AC5B: อังกูลพยางค์ Gyaed
+AC5C: Gulel อังกูลอังกูล
+AC5D: พยางค์อังกูล
+AC5E: พยัคฆะอังกูล
+AC5F: พยางค์อังกูล
+AC60: Gyaels อังกูลพยางค์
+AC61: อังกูลพยางค์ Gyaelt
+AC62: พยางค์อังกูล
+AC63: พยางค์อังกูล
+AC64: อังกูลพยางค์ Gyaem
+AC65: Gyulb พยางค์อังกูล
+AC66: Gyulbs พยางค์อังกูล
+AC67: Gyaes อังกูลพยางค์
+AC68: อังกูลพยางค์ Gyaess
+AC69: พยางค์อังกูลเกียง
+AC6A: พยางค์ฮันกึล
+AC6B: อังกูลพยางค์ Gyaec
+AC6C: พยางค์ฮันกึล
+AC6D: พยางค์อังกูล
+AC6E: อังกูลพยางค์ Gyaep
+AC6F: พยางค์ฮันกึล
+AC70: ภูมิศาสตร์พยางค์อังกูล
+AC71: Geulable พยางค์อังกูล
+AC72: อังกูลพยางค์อังกูล
+AC73: Geogs พยางค์อังกูล
+AC74: อังกูลพยางค์ฮันกึล
+AC75: อังกูลพยางค์
+AC76: พยางค์ฮันกึล
+AC77: อังกูลพยางค์อังกูล
+AC78: Geulable พยางค์อังกูล
+AC79: อังกูลพยางค์ภาษาอังกูล
+AC7A: Geulm พยางค์อังกูล
+AC7B: Geulb พยางค์อังกูล
+AC7C: อังกูลพยางค์อังกูล
+AC7D: ตำแหน่งของพยางค์อังกูล
+AC7E: Geulp พยางค์อังกูล
+AC7F: อังกูลพยางค์ภาษาอังกูล
+AC80: อังกูลพยางค์อังกูล
+AC81: Geulable พยางค์อังกูล
+AC82: อังกูลพยางค์อังกูล
+AC83: ภูมิศาสตร์พยางค์อังกูล
+AC84: Geulable พยางค์อังกูล
+AC85: อังกูลพยางค์อังกูล
+AC86: เกจอังกูลพยางค์
+AC87: Geulable พยางค์อังกูล
+AC88: อังกูลพยางค์อังกูล
+AC89: ตำแหน่งของพยางค์อังกูล
+AC8A: อังกูลพยางค์อังกูล
+AC8B: Geulable พยางค์อังกูล
+AC8C: อังกูลพยางค์
+AC8D: Geg อังกูลพยางค์
+AC8E: อังกูลพยางค์ Gegg
+AC8F: Gegs อังกูลพยางค์
+AC90: อังกูลพยางค์
+AC91: อังกูลพยางค์
+AC92: อังกูลพยางค์อังกูล
+AC93: อังกูลพยางค์เก
+AC94: เจลอังกูลพยางค์
+AC95: อังกูลพยางค์เจล
+AC96: เจลอังกูลพยางค์
+AC97: อังกูลพยางค์เจล
+AC98: เจลพยางค์อังกูล
+AC99: พยางค์ฮันกึล
+AC9A: อังกูลพยางค์เจล
+AC9B: ฮันกึลเจลพยางค์
+AC9C: อัญมณีพยางค์อังกูล
+AC9D: อังกูลพยางค์อังกูล
+AC9E: อังกูลพยางค์อังกูล
+AC9F: Ges พยางค์อังกูล
+ACA0: Gess พยางค์อังกูล
+ACA1: อังกูลพยางค์เกิง
+ACA2: อังกูลพยางค์
+ACA3: Gec อังกูลพยางค์
+ACA4: อังกูลพยางค์อังกูล
+ACA5: พยางค์ฮันกึล
+ACA6: Gul อังกูลพยางค์
+ACA7: อังกูลพยางค์อังกูล
+ACA8: พยางค์ฮันกึล
+ACA9: Gyeog พยางค์ฮันกึล
+ACAA: อังกูลพยางค์ Gyeogg
+ACAB: Gyeogs พยางค์อังกูล
+ACAC: Gyeon อังกูลอังกูล
+ACAD: พยางค์ฮันกึล
+ACAE: พยางค์ฮันกึล
+ACAF: พยางค์ฮันกึล
+ACB0: อังกูลพยางค์ Gyeol
+ACB1: อังกูลพยางค์ Gyeolg
+ACB2: อังกูลพยางค์ Gyeolm
+ACB3: อังกูลพยางค์ Gyeolb
+ACB4: Gyeols อังกูลพยางค์
+ACB5: อังกูลพยางค์ Gyeolt
+ACB6: อังกูลพยางค์ Gyeolp
+ACB7: Gyeolh พยางค์อังกูล
+ACB8: พยางค์ฮันกึล
+ACB9: Gyeob อังกูลพยางค์
+ACBA: Gyeobs อังกูลพยางค์
+ACBB: Gyeos อังกูลพยางค์
+ACBC: Gyeoss อังกูลพยางค์
+ACBD: พยางค์ฮันกึล
+ACBE: Gyeoj อังกูลอังกูล
+ACBF: Gyeoc อังกูลอังกูล
+ACC0: พยางค์ฮันกึล
+ACC1: Gyeot อังกูลอังกูล
+ACC2: Gyeop อังกูล
+ACC3: พยางค์ฮันกึล
+ACC4: อังกูลพยางค์ Gye
+ACC5: Gyul พยางค์อังกูล
+ACC6: Gyulg พยางค์อังกูล
+ACC7: Gyuls พยางค์อังกูล
+ACC8: พยางค์ฮันกึล
+ACC9: อังกูลพยางค์ Gyenj
+ACCA: อังกูลพยางค์ Gyenh
+ACCB: อังกูลพยางค์ Gyed
+ACCC: Gyul พยางค์อังกูล
+ACCD: Gyulg พยางค์อังกูล
+ACCE: Gyulm พยางค์อังกูล
+ACCF: Gyulb พยางค์อังกูล
+ACD0: Gyul พยางค์อังกูล
+ACD1: อังกูลพยางค์ของอังกูล
+ACD2: Gyulp พยางค์อังกูล
+ACD3: Gyulh พยางค์อังกูล
+ACD4: Gyul พยางค์อังกูล
+ACD5: อังกูลพยางค์ Gyeb
+ACD6: Gyebs อังกูลพยางค์
+ACD7: Gyul พยางค์อังกูล
+ACD8: Gyul พยางค์อังกูล
+ACD9: อังกูลพยางค์ Gyeng
+ACDA: อังกูลพยางค์ Gyej
+ACDB: Gyul พยางค์อังกูล
+ACDC: อังกูลพยางค์ Gyek
+ACDD: Gyul พยางค์อังกูล
+ACDE: Gyul พยางค์อังกูล
+ACDF: อังกูลพยางค์ Gyeh
+ACE0: พยางค์อังกูล
+ACE1: อังกูลพยางค์ Gog
+ACE2: อังกูลพยางค์ Gogg
+ACE3: ฮันกึล Gogs พยางค์
+ACE4: พยางค์อังกูล
+ACE5: พยางค์อังกูล
+ACE6: อังกูลพยางค์กอน
+ACE7: อังกูลพยางค์พระเจ้า
+ACE8: อังกูลพยางค์กอล
+ACE9: อังกูลพยางค์กอล
+ACEA: Golul พยางค์อังกูล
+ACEB: Golul พยางค์อังกูล
+ACEC: Gols พยางค์อังกูล
+ACED: พยางค์อังกูล Golt
+ACEE: พยางค์อังกูล Golp
+ACEF: อังกูลพยางค์ Golh
+ACF0: Gom พยางค์อังกูล
+ACF1: ฮันกึล Gob พยางค์
+ACF2: Gobs อังกูลพยางค์
+ACF3: Gos อังกูลพยางค์
+ACF4: ฮันกึลพยางค์
+ACF5: กงพยางค์อังกูล
+ACF6: อังกูลพยางค์โกล
+ACF7: อังกูลพยางค์
+ACF8: Gok พยางค์อังกูล
+ACF9: พยางค์อังกูลได้
+ACFA: พยางค์อังกูล
+ACFB: อังกูลพยางค์โก
+ACFC: อังกูลพยางค์ Gwa
+ACFD: Gwag อังกูลพยางค์
+ACFE: อังกูลพยางค์ Gwagg
+ACFF: Gwags อังกูลพยางค์

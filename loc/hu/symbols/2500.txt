@@ -1,256 +1,256 @@
-2500: Box Drawings Light Horizontal : videotex mosaic dg 15
-2501: Box Drawings Heavy Horizontal
-2502: Box Drawings Light Vertical : videotex mosaic dg 14
-2503: Box Drawings Heavy Vertical
-2504: Box Drawings Light Triple Dash Horizontal
-2505: Box Drawings Heavy Triple Dash Horizontal
-2506: Box Drawings Light Triple Dash Vertical
-2507: Box Drawings Heavy Triple Dash Vertical
-2508: Box Drawings Light Quadruple Dash Horizontal
-2509: Box Drawings Heavy Quadruple Dash Horizontal
-250A: Box Drawings Light Quadruple Dash Vertical
-250B: Box Drawings Heavy Quadruple Dash Vertical
-250C: Box Drawings Light Down and Right : videotex mosaic dg 16
-250D: Box Drawings Down Light and Right Heavy
-250E: Box Drawings Down Heavy and Right Light
-250F: Box Drawings Heavy Down and Right
-2510: Box Drawings Light Down and Left : videotex mosaic dg 17
-2511: Box Drawings Down Light and Left Heavy
-2512: Box Drawings Down Heavy and Left Light
-2513: Box Drawings Heavy Down and Left
-2514: Box Drawings Light Up and Right : videotex mosaic dg 18
-2515: Box Drawings Up Light and Right Heavy
-2516: Box Drawings Up Heavy and Right Light
-2517: Box Drawings Heavy Up and Right
-2518: Box Drawings Light Up and Left : videotex mosaic dg 19
-2519: Box Drawings Up Light and Left Heavy
-251A: Box Drawings Up Heavy and Left Light
-251B: Box Drawings Heavy Up and Left
-251C: Box Drawings Light Vertical and Right : videotex mosaic dg 20
-251D: Box Drawings Vertical Light and Right Heavy : videotex mosaic dg 03
-251E: Box Drawings Up Heavy and Right Down Light
-251F: Box Drawings Down Heavy and Right Up Light
-2520: Box Drawings Vertical Heavy and Right Light
-2521: Box Drawings Down Light and Right Up Heavy
-2522: Box Drawings Up Light and Right Down Heavy
-2523: Box Drawings Heavy Vertical and Right
-2524: Box Drawings Light Vertical and Left : videotex mosaic dg 21
-2525: Box Drawings Vertical Light and Left Heavy : videotex mosaic dg 04
-2526: Box Drawings Up Heavy and Left Down Light
-2527: Box Drawings Down Heavy and Left Up Light
-2528: Box Drawings Vertical Heavy and Left Light
-2529: Box Drawings Down Light and Left Up Heavy
-252A: Box Drawings Up Light and Left Down Heavy
-252B: Box Drawings Heavy Vertical and Left
-252C: Box Drawings Light Down and Horizontal : videotex mosaic dg 22
-252D: Box Drawings Left Heavy and Right Down Light
-252E: Box Drawings Right Heavy and Left Down Light
-252F: Box Drawings Down Light and Horizontal Heavy : videotex mosaic dg 02
-2530: Box Drawings Down Heavy and Horizontal Light
-2531: Box Drawings Right Light and Left Down Heavy
-2532: Box Drawings Left Light and Right Down Heavy
-2533: Box Drawings Heavy Down and Horizontal
-2534: Box Drawings Light Up and Horizontal : videotex mosaic dg 23
-2535: Box Drawings Left Heavy and Right Up Light
-2536: Box Drawings Right Heavy and Left Up Light
-2537: Box Drawings Up Light and Horizontal Heavy : videotex mosaic dg 01
-2538: Box Drawings Up Heavy and Horizontal Light
-2539: Box Drawings Right Light and Left Up Heavy
-253A: Box Drawings Left Light and Right Up Heavy
-253B: Box Drawings Heavy Up and Horizontal
-253C: Box Drawings Light Vertical and Horizontal : videotex mosaic dg 24
-253D: Box Drawings Left Heavy and Right Vertical Light
-253E: Box Drawings Right Heavy and Left Vertical Light
-253F: Box Drawings Vertical Light and Horizontal Heavy : videotex mosaic dg 13
-2540: Box Drawings Up Heavy and Down Horizontal Light
-2541: Box Drawings Down Heavy and Up Horizontal Light
-2542: Box Drawings Vertical Heavy and Horizontal Light
-2543: Box Drawings Left Up Heavy and Right Down Light
-2544: Box Drawings Right Up Heavy and Left Down Light
-2545: Box Drawings Left Down Heavy and Right Up Light
-2546: Box Drawings Right Down Heavy and Left Up Light
-2547: Box Drawings Down Light and Up Horizontal Heavy
-2548: Box Drawings Up Light and Down Horizontal Heavy
-2549: Box Drawings Right Light and Left Vertical Heavy
-254A: Box Drawings Left Light and Right Vertical Heavy
-254B: Box Drawings Heavy Vertical and Horizontal
-254C: Box Drawings Light Double Dash Horizontal
-254D: Box Drawings Heavy Double Dash Horizontal
-254E: Box Drawings Light Double Dash Vertical
-254F: Box Drawings Heavy Double Dash Vertical
-2550: Box Drawings Double Horizontal
-2551: Box Drawings Double Vertical
-2552: Box Drawings Down Single and Right Double
-2553: Box Drawings Down Double and Right Single
-2554: Box Drawings Double Down and Right
-2555: Box Drawings Down Single and Left Double
-2556: Box Drawings Down Double and Left Single
-2557: Box Drawings Double Down and Left
-2558: Box Drawings Up Single and Right Double
-2559: Box Drawings Up Double and Right Single
-255A: Box Drawings Double Up and Right
-255B: Box Drawings Up Single and Left Double
-255C: Box Drawings Up Double and Left Single
-255D: Box Drawings Double Up and Left
-255E: Box Drawings Vertical Single and Right Double
-255F: Box Drawings Vertical Double and Right Single
-2560: Box Drawings Double Vertical and Right
-2561: Box Drawings Vertical Single and Left Double
-2562: Box Drawings Vertical Double and Left Single
-2563: Box Drawings Double Vertical and Left
-2564: Box Drawings Down Single and Horizontal Double
-2565: Box Drawings Down Double and Horizontal Single
-2566: Box Drawings Double Down and Horizontal
-2567: Box Drawings Up Single and Horizontal Double
-2568: Box Drawings Up Double and Horizontal Single
-2569: Box Drawings Double Up and Horizontal
-256A: Box Drawings Vertical Single and Horizontal Double
-256B: Box Drawings Vertical Double and Horizontal Single
-256C: Box Drawings Double Vertical and Horizontal
-256D: Box Drawings Light Arc Down and Right
-256E: Box Drawings Light Arc Down and Left
-256F: Box Drawings Light Arc Up and Left
-2570: Box Drawings Light Arc Up and Right
-2571: Box Drawings Light Diagonal Upper Right To Lower Left
-2572: Box Drawings Light Diagonal Upper Left To Lower Right
-2573: Box Drawings Light Diagonal Cross
-2574: Box Drawings Light Left
-2575: Box Drawings Light Up
-2576: Box Drawings Light Right
-2577: Box Drawings Light Down
-2578: Box Drawings Heavy Left
-2579: Box Drawings Heavy Up
-257A: Box Drawings Heavy Right
-257B: Box Drawings Heavy Down
-257C: Box Drawings Light Left and Heavy Right
-257D: Box Drawings Light Up and Heavy Down
-257E: Box Drawings Heavy Left and Light Right
-257F: Box Drawings Heavy Up and Light Down
-2580: Upper Half Block
-2581: Lower One Eighth Block
-2582: Lower One Quarter Block
-2583: Lower Three Eighths Block
-2584: Lower Half Block
-2585: Lower Five Eighths Block
-2586: Lower Three Quarters Block
-2587: Lower Seven Eighths Block
-2588: Full Block : solid
-2589: Left Seven Eighths Block
-258A: Left Three Quarters Block
-258B: Left Five Eighths Block
-258C: Left Half Block
-258D: Left Three Eighths Block
-258E: Left One Quarter Block
-258F: Left One Eighth Block
-2590: Right Half Block
-2591: Light Shade
-2592: Medium Shade : speckles fill, dotted fill
-2593: Dark Shade
-2594: Upper One Eighth Block
-2595: Right One Eighth Block
-2596: Quadrant Lower Left
-2597: Quadrant Lower Right
-2598: Quadrant Upper Left
-2599: Quadrant Upper Left and Lower Left and Lower Right
-259A: Quadrant Upper Left and Lower Right
-259B: Quadrant Upper Left and Upper Right and Lower Left
-259C: Quadrant Upper Left and Upper Right and Lower Right
+2500: Doboz rajzok Világos vízszintes : videotex mozaik dg 15
+2501: Doboz rajzok Nehéz vízszintes
+2502: Doboz rajzok Fény függőleges : videotex mozaik dg 14
+2503: Doboz rajzok Nehéz függőleges
+2504: Dobozrajzok Fényes háromszögű vízszintes kötőjel
+2505: Doboz rajzok Nehéz háromszögű kötőjel vízszintes
+2506: Dobozrajzok Fényes hármas kötőjel függőleges
+2507: Doboz rajzok Nehéz háromszögű kötőjel függőleges
+2508: Dobozrajzok Könnyű négyszögű kötőjel vízszintes
+2509: Dobozrajzok Nehéz négyszögletes kötőjel vízszintes
+250A: Dobozrajzok Könnyű négyszögű kötőjel függőleges
+250B: Dobozrajzok Nehéz négyszögű kötőjel függőleges
+250C: Dobozrajzok világítanak le és jobbra : videotex mozaik dg 16
+250D: Doboz rajzok lefelé fény és jobb nehéz
+250E: Doboz rajzok a nehéz és jobb fényben
+250F: Doboz rajzok Nehéz le és jobbra
+2510: Dobozrajzok világítanak le és balra : videotex mozaik dg 17
+2511: Doboz rajzok lefelé fény és bal nehéz
+2512: Dobozrajzok a nehéz és a bal fényben
+2513: Doboz rajzok Nehéz le és balra
+2514: Doboz rajzok világítanak és jobbra : videotex mozaik dg 18
+2515: Doboz rajzok felfelé és jobbra
+2516: Doboz rajzok a nehéz és a jobb fény felé
+2517: Doboz rajzok Nehéz fel és jobbra
+2518: Doboz rajzok világítanak és balra : videotex mozaik dg 19
+2519: Doboz rajzok fel a fény és a bal nehéz
+251A: Doboz rajzok a nehéz és a bal fény
+251B: Doboz rajzok Nehéz fel és balra
+251C: Doboz rajzok Fény függőleges és jobb : videotex mozaik dg 20
+251D: Doboz rajzok Függőleges fény és jobb nehéz : videotex mozaik dg 03
+251E: Doboz rajzok a nehéz és a jobb lefelé megvilágításhoz
+251F: Dobozrajzok a nehéz és jobb felfelé mutató fényben
+2520: Doboz rajzok Függőleges nehéz és jobb fény
+2521: Doboz rajzok lefelé és jobbra
+2522: Doboz rajzok felfelé és jobbra a nehézre
+2523: Doboz rajzok Nehéz függőleges és jobb
+2524: Doboz rajzok Fény függőleges és bal : videotex mozaik dg 21
+2525: Doboz rajzok Függőleges fény és bal nehéz : videotex mozaik dg 04
+2526: Doboz rajzok a nehéz és a bal lefelé
+2527: Dobozrajzok a nehéz és a bal felsõ fényben
+2528: Doboz rajzok Függőleges nehéz és bal fény
+2529: Doboz rajzok lefelé és balról felfelé
+252A: Dobozrajzok felfelé és balra lefelé
+252B: Doboz rajzok Nehéz függőleges és bal
+252C: Dobozrajzok világítanak és vízszintesek : videotex mozaik dg 22
+252D: Doboz rajzok bal és nehéz lefelé
+252E: Doboz rajzok Jobb nehéz és bal lefelé
+252F: Doboz rajzok lefelé fény és vízszintes nehéz : videotex mozaik dg 02
+2530: Doboz rajzok a nehéz és vízszintes fényben
+2531: Dobozrajzok Jobb fény és balra lent
+2532: Doboz rajzok balra és jobbra a nehézre
+2533: Doboz rajzok Nehéz és vízszintes
+2534: Dobozrajzok világítanak és vízszintesek : videotex mozaik dg 23
+2535: Doboz rajzok bal és nehéz felfelé
+2536: Doboz rajzok Jobb nehéz és bal felfelé fény
+2537: Doboz rajzok felfelé és vízszintes nehézre : videotex mozaik dg 01
+2538: Doboz rajzok a nehéz és a vízszintes fény felől
+2539: Dobozrajzok Jobb fény és balról felfelé
+253A: Doboz rajzok balra és jobbra
+253B: Doboz rajzok Nehéz fel és vízszintes
+253C: Dobozrajzok Fény függőleges és vízszintes : videotex mozaik dg 24
+253D: Doboz rajzok bal és nehéz függőleges fény
+253E: Doboz rajzok Jobb nehéz és bal függőleges fény
+253F: Doboz rajzok Függőleges fény és vízszintes nehéz : videotex mozaik dg 13
+2540: Doboz rajzok a nehéz és a lefelé vízszintes fényt
+2541: Doboz rajzok a nehéz és felfelé vízszintes fényben
+2542: Dobozrajzok Függőleges nehéz és vízszintes fény
+2543: Doboz rajzok balra és jobbra lefelé
+2544: Doboz rajzok jobbra a nehéz és a bal lefelé
+2545: Doboz rajzok balra és jobbra
+2546: Dobozrajzok jobbra a nehéz és a bal felsõ fény felé
+2547: Doboz rajzok lefelé fény és felfelé vízszintes nehéz
+2548: Doboz rajzok felfelé és lefelé vízszintes nehéz
+2549: Doboz rajzok Jobb fény és bal függőleges nehéz
+254A: Doboz rajzok balra és jobbra függőleges nehéz
+254B: Doboz rajzok Nehéz függőleges és vízszintes
+254C: Doboz rajzok Világos dupla kötőjel vízszintes
+254D: Doboz rajzok Nehéz dupla kötőjel vízszintes
+254E: Doboz rajzok Világos dupla kötőjel függőleges
+254F: Doboz rajzok Nehéz dupla kötőjel függőleges
+2550: Doboz rajzok Dupla vízszintes
+2551: Doboz rajzok Dupla függőleges
+2552: Dobozrajzok Egyetlen és jobb kettős
+2553: Dobozrajzok, dupla és jobb egyéni
+2554: Doboz rajzok Dupla le és jobbra
+2555: Dobozrajzok Egyetlen és balra dupla
+2556: Dobozrajzok, dupla és bal oldali egyetlen
+2557: Doboz rajzok Dupla le és balra
+2558: Dobozrajzok Egyetlen és jobb kettős
+2559: Dobozrajzok Dupla és jobb egyszemélyes
+255A: Doboz rajzok Dupla fel és jobbra
+255B: Dobozos rajzok Egyetlen és bal kettős
+255C: Doboz rajzok fel kétszer és balra egyetlen
+255D: Doboz rajzok dupla fel és balra
+255E: Dobozrajzok Függőleges egyetlen és jobb kettős
+255F: Doboz rajzok Függőleges dupla és jobb egyéni
+2560: Doboz rajzok Dupla függőleges és jobb
+2561: Dobozrajzok Függőleges egyetlen és bal kettős
+2562: Dobozrajzok Függőleges dupla és bal oldali
+2563: Doboz rajzok Dupla függőleges és bal
+2564: Doboz rajzok az egy- és a vízszintes kettős
+2565: Dobozrajzok, dupla és vízszintes egységek
+2566: Doboz rajzok dupla lefelé és vízszintes
+2567: Doboz rajzok egy és vízszintes kettős
+2568: Doboz rajzok dupla és vízszintes egyenként
+2569: Doboz rajzok dupla fel és vízszintes
+256A: Dobozrajzok Függőleges egyetlen és vízszintes dupla
+256B: Dobozrajzok Függőleges dupla és vízszintes egyetlen
+256C: Doboz rajzok Dupla függőleges és vízszintes
+256D: Dobozrajzok Fénysáv lefelé és jobbra
+256E: Dobozrajzok Könnyű ív lefelé és balra
+256F: Doboz rajzok Fényív felfelé és balra
+2570: Dobozrajzok Fénysáv felfelé és jobbra
+2571: Doboz rajzok Könnyű átlós felső jobb alsó balra
+2572: Doboz rajzok Könnyű átlós felső balról alul jobbra
+2573: Doboz rajzok Könnyű átlós kereszt
+2574: Doboz rajzok fény balra
+2575: Dobozrajzok világítanak
+2576: Doboz rajzok Fény Jobb
+2577: Doboz rajzok világítanak
+2578: Doboz rajzok Nehéz balra
+2579: Doboz rajzok Nehéz fel
+257A: Doboz rajzok Nehéz Jobb
+257B: Doboz rajzok Nehéz le
+257C: Doboz rajzok Fény bal és nehéz jobbra
+257D: Dobozrajzok világítanak és nehézek
+257E: Doboz rajzok Nehéz bal és könnyű jobbra
+257F: Doboz rajzok Nehéz fel és le
+2580: Felső blokk
+2581: Alsó egy nyolcadik blokk
+2582: Alsó egy negyed blokk
+2583: Alsó három nyolcadik blokk
+2584: Alsó félblokk
+2585: Alsó öt nyolcadik blokk
+2586: Alsó háromnegyed blokk
+2587: Alsó hét nyolcadik blokk
+2588: Teljes blokk : szilárd
+2589: Bal hét nyolcadik blokk
+258A: Bal három negyed blokk
+258B: Bal öt nyolcadik blokk
+258C: Bal fél blokk
+258D: Bal három nyolcadik blokk
+258E: Bal egy negyed blokk
+258F: Balra egy nyolcadik blokk
+2590: Jobb félblokk
+2591: Világos árnyalat
+2592: Közepes árnyalat : pontok kitöltése, pontozott kitöltés
+2593: Sötét árnyalat
+2594: Felső egy nyolcadik blokk
+2595: Jobb egy nyolcadik blokk
+2596: Alsó bal alsó rész
+2597: Quadrant alsó jobbra
+2598: Felső bal oldali kvadráns
+2599: Felső bal és alsó bal és alsó sarok
+259A: Felső bal és jobb oldali kvadráns
+259B: Quadrant felső bal és jobb felső és alsó bal
+259C: Felső bal és felső jobb és alsó sarok
 259D: Quadrant Upper Right
-259E: Quadrant Upper Right and Lower Left
-259F: Quadrant Upper Right and Lower Left and Lower Right
-25A0: Black Square : moding mark (in ideographic text)
-25A1: White Square : quadrature : alchemical symbol for salt
-25A2: White Square with Rounded Corners
-25A3: White Square Containing Black Small Square
-25A4: Square with Horizontal Fill
-25A5: Square with Vertical Fill
-25A6: Square with Orthogonal Crosshatch Fill
-25A7: Square with Upper Left To Lower Right Fill
-25A8: Square with Upper Right To Lower Left Fill
-25A9: Square with Diagonal Crosshatch Fill
-25AA: Black Small Square : square bullet
-25AB: White Small Square
-25AC: Black Rectangle
-25AD: White Rectangle
-25AE: Black Vertical Rectangle : histogram marker
-25AF: White Vertical Rectangle
-25B0: Black Parallelogram
-25B1: White Parallelogram
-25B2: Black Up-Pointing Triangle
-25B3: White Up-Pointing Triangle : trine
-25B4: Black Up-Pointing Small Triangle
-25B5: White Up-Pointing Small Triangle
-25B6: Black Right-Pointing Triangle
-25B7: White Right-Pointing Triangle : z notation range restriction
-25B8: Black Right-Pointing Small Triangle
-25B9: White Right-Pointing Small Triangle
-25BA: Black Right-Pointing Pointer
-25BB: White Right-Pointing Pointer : forward arrow indicator
-25BC: Black Down-Pointing Triangle
-25BD: White Down-Pointing Triangle : hamilton operator
-25BE: Black Down-Pointing Small Triangle
-25BF: White Down-Pointing Small Triangle
-25C0: Black Left-Pointing Triangle
-25C1: White Left-Pointing Triangle : z notation domain restriction
-25C2: Black Left-Pointing Small Triangle
-25C3: White Left-Pointing Small Triangle
-25C4: Black Left-Pointing Pointer
-25C5: White Left-Pointing Pointer : backward arrow indicator
-25C6: Black Diamond
-25C7: White Diamond
-25C8: White Diamond Containing Black Small Diamond
-25C9: Fisheye : tainome (japanese, a kind of bullet)
-25CA: Lozenge
-25CB: White Circle
-25CC: Dotted Circle
-25CD: Circle with Vertical Fill
+259E: Felső jobb és alsó sarok
+259F: Felső jobb és alsó sarok és jobb alsó sarok
+25A0: Fekete tér : módosító jel (ideográfiai szövegben)
+25A1: Fehér tér : négyszögesítés : alkilikus szimbólum a só
+25A2: Fehér négyzet, lekerekített sarkokkal
+25A3: Fehér négyzet, fekete kis tér
+25A4: Négyzet alakú vízszintes kitöltéssel
+25A5: Négyzet függőleges kitöltéssel
+25A6: Négyzet ortogonális keresztkeresztvel
+25A7: Négyzet a bal felső és jobb alsó sarokkal
+25A8: Négyzet, jobb felső és alsó bal oldali kitöltéssel
+25A9: Négyzet átlós keresztmetszettel
+25AA: Fekete kis tér : négyzet golyó
+25AB: Fehér kis tér
+25AC: Fekete téglalap
+25AD: Fehér téglalap
+25AE: Fekete függőleges téglalap : hisztogram marker
+25AF: Fehér függőleges téglalap
+25B0: Fekete párhuzamos program
+25B1: Fehér párhuzamos program
+25B2: Fekete felfelé mutató háromszög
+25B3: Fehér felfelé mutató háromszög : hármas
+25B4: Fekete felfelé mutató kis háromszög
+25B5: Fehér felfelé mutató kis háromszög
+25B6: Fekete jobbra mutató háromszög : játék
+25B7: Fehér jobbra mutató háromszög : z jelölési tartomány korlátozás
+25B8: Fekete jobbra mutató kis háromszög
+25B9: Fehér jobbra mutató kis háromszög
+25BA: Fekete jobbra mutató mutató
+25BB: Fehér jobbra mutató mutató : előre nyíl jelző
+25BC: Fekete lefelé mutató háromszög
+25BD: Fehér lefelé mutató háromszög : Hamilton üzemeltetője
+25BE: Fekete lefelé mutató kis háromszög
+25BF: Fehér lefelé mutató kis háromszög
+25C0: Fekete balra mutató háromszög
+25C1: Fehér balra mutató háromszög : z jelölés domain korlátozás
+25C2: Fekete balra mutató kis háromszög
+25C3: Fehér balra mutató kis háromszög
+25C4: Fekete balra mutató mutató
+25C5: Fehér balra mutató mutató : visszafelé mutató nyíl jelző
+25C6: Fekete gyémánt
+25C7: Fehér gyémánt
+25C8: Fehér gyémánt, fekete kis gyémánt
+25C9: Halszem : tainome (japán, egyfajta golyó)
+25CA: Rombusz
+25CB: Fehér kör
+25CC: Pontozott kör
+25CD: Kör függőleges kitöltéssel
 25CE: Bullseye
-25CF: Black Circle
-25D0: Circle with Left Half Black
-25D1: Circle with Right Half Black
-25D2: Circle with Lower Half Black
-25D3: Circle with Upper Half Black
-25D4: Circle with Upper Right Quadrant Black
-25D5: Circle with All But Upper Left Quadrant Black
-25D6: Left Half Black Circle
-25D7: Right Half Black Circle
+25CF: Fekete kör
+25D0: Kör bal félig fekete
+25D1: Jobb félig fekete kör
+25D2: Kör alsó félig fekete
+25D3: Kör felső fele fekete
+25D4: Kör jobb felső kvadráns fekete
+25D5: Kör az összes, de a bal felső sarokkal
+25D6: Bal félig fekete kör
+25D7: Jobb fél félkör
 25D8: Inverse Bullet
-25D9: Inverse White Circle
-25DA: Upper Half Inverse White Circle
-25DB: Lower Half Inverse White Circle
-25DC: Upper Left Quadrant Circular Arc
-25DD: Upper Right Quadrant Circular Arc
-25DE: Lower Right Quadrant Circular Arc
-25DF: Lower Left Quadrant Circular Arc
-25E0: Upper Half Circle
-25E1: Lower Half Circle
-25E2: Black Lower Right Triangle
-25E3: Black Lower Left Triangle
-25E4: Black Upper Left Triangle
-25E5: Black Upper Right Triangle
-25E6: White Bullet
-25E7: Square with Left Half Black
-25E8: Square with Right Half Black
-25E9: Square with Upper Left Diagonal Half Black
-25EA: Square with Lower Right Diagonal Half Black
-25EB: White Square with Vertical Bisecting Line
-25EC: White Up-Pointing Triangle with Dot
-25ED: Up-Pointing Triangle with Left Half Black
-25EE: Up-Pointing Triangle with Right Half Black
-25EF: Large Circle
-25F0: White Square with Upper Left Quadrant
-25F1: White Square with Lower Left Quadrant
-25F2: White Square with Lower Right Quadrant
-25F3: White Square with Upper Right Quadrant
-25F4: White Circle with Upper Left Quadrant
-25F5: White Circle with Lower Left Quadrant
-25F6: White Circle with Lower Right Quadrant
-25F7: White Circle with Upper Right Quadrant
-25F8: Upper Left Triangle
-25F9: Upper Right Triangle
-25FA: Lower Left Triangle
-25FB: White Medium Square : always (modal operator)
-25FC: Black Medium Square
-25FD: White Medium Small Square
-25FE: Black Medium Small Square
-25FF: Lower Right Triangle
+25D9: Fordított fehér kör
+25DA: Felső fél fordított fehér kör
+25DB: Alsó fél fordított fehér kör
+25DC: Felső bal negyedkör alakú körív
+25DD: Felső jobb oldali kör alakú körív
+25DE: Alsó jobb oldali kör alakú körív
+25DF: Alsó bal kvadráns körív
+25E0: Felső kör
+25E1: Alsó félkör
+25E2: Fekete jobb alsó háromszög
+25E3: Fekete alsó bal háromszög
+25E4: Fekete felső bal háromszög
+25E5: Fekete jobb felső háromszög
+25E6: Fehér golyó
+25E7: Négyzet a bal félig fekete
+25E8: Négyzet a jobb félig fekete
+25E9: Négyzet a felső bal oldali átlós félig fekete
+25EA: Alsó jobb oldali diagonál félig fekete négyzet
+25EB: Fehér négyzet, függőleges hasítóvonal
+25EC: Fehér felfelé mutató háromszög ponttal
+25ED: Felfelé mutató háromszög, bal félig fekete
+25EE: Felfelé mutató háromszög, jobb félig fekete
+25EF: Nagy kör
+25F0: Fehér négyzet, bal felső sarokkal
+25F1: Fehér négyzet, bal alsó sarokkal
+25F2: Fehér négyzet, jobb alsó sarokkal
+25F3: Fehér tér, jobb felső sarokkal
+25F4: Fehér kör, bal felső sarokkal
+25F5: Fehér kör alsó bal kvadráns
+25F6: Fehér kör, jobb alsó sarokkal
+25F7: Fehér kör, jobb felső sarokkal
+25F8: Bal felső háromszög
+25F9: Jobb felső háromszög
+25FA: Alsó bal háromszög
+25FB: Fehér közepes tér : mindig (modális üzemeltető)
+25FC: Fekete közepes tér
+25FD: Fehér közepes kis tér
+25FE: Fekete közepes kis tér
+25FF: Jobb alsó háromszög

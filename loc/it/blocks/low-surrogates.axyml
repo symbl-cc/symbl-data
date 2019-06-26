@@ -1,0 +1,5 @@
+UTF-16 (English Unicode Transformation Format) in informatica è un modo di codificare i caratteri da Unicode sotto forma di una sequenza di parole a 16 bit. Questa codifica consente di scrivere caratteri Unicode negli intervalli U + 0000..U + D7FF e U + E000..U + 10FFFF (per un totale di 1 112 064). In questo caso, ciascun simbolo è scritto in una o due parole (coppia surrogata).
+
+Ora che Unicode contiene più di 65536 caratteri, non può accoglierli tutti in 2 byte. Ciò significa che un'istanza della struttura Char non può accettare tutti i possibili caratteri. UTF-16 (e .NET) risolve questo problema utilizzando coppie surrogate: si tratta di due valori a 16 bit, in cui ogni valore varia da 0xD800 a 0xDFFF.
+
+Le coppie surrogate sono divise in due parti: [BLOCK:high-surrogates "top"] (D800-DBFF) e "lower" (DC00-DFFF).

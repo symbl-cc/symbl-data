@@ -1,0 +1,256 @@
+1F000: Mahjong Tile East Wind
+1F001: Mahjong Tile South Wind
+1F002: Mahjong Tile West Wind
+1F003: Mahjong Tile North Wind
+1F004: Mahjong Tile Red Dragon : Hongzhong, 中
+1F005: Mahjong Tile Green Dragon : qingfa
+1F006: Mahjong Tile White Dragon : baiban
+1F007: Mahjong Tile One of Characters : pallido
+1F008: Mahjong Tile Two of Characters
+1F009: Mahjong Tile Three of Characters
+1F00A: Mahjong Tile Four of Characters
+1F00B: Mahjong Tile Five of Characters
+1F00C: Mahjong Tile Six of Characters
+1F00D: Mahjong Tile Seven of Characters
+1F00E: Mahjong Tile Otto di personaggi
+1F00F: Mahjong Tile Nine of Characters
+1F010: Mahjong Tile Uno dei bambù : Tiao
+1F011: Mahjong Tile Two of Bamboos
+1F012: Mahjong Tile Three of Bamboos
+1F013: Mahjong Tile Four of Bamboos
+1F014: Mahjong Tile Five of Bamboos
+1F015: Mahjong Tile Six of Bamboos
+1F016: Mahjong Tile Seven of Bamboos
+1F017: Mahjong Tile Eight of Bamboos
+1F018: Mahjong Tile Nine of Bamboos
+1F019: Mahjong Tile One of Circles : bing
+1F01A: Mahjong Tile Two of Circles
+1F01B: Mahjong Tile Three of Circles
+1F01C: Mahjong Tile Four of Circles
+1F01D: Mahjong Tile Five of Circles
+1F01E: Mahjong Tile Six of Circles
+1F01F: Mahjong Tile Seven of Circles
+1F020: Mahjong Tile Eight of Circles
+1F021: Mahjong Tile Nove of Circles
+1F022: Mahjong Tile Plum : mei
+1F023: Mahjong Tile Orchid : lan
+1F024: Mahjong Tile Bamboo : zhu
+1F025: Mahjong Tile Chrysanthemum : ju
+1F026: Mahjong Tile Spring
+1F027: Estate delle mattonelle del Mahjong
+1F028: Autunno delle mattonelle del Mahjong
+1F029: Mahjong Tile Winter
+1F02A: Mahjong Tile Joker : Baida
+1F02B: Piastrella Mahjong indietro
+1F02C:
+1F02D:
+1F02E:
+1F02F:
+1F030: Posteriore orizzontale per piastrelle Domino
+1F031: Tegola Domino orizzontale-00-00
+1F032: Piastrella Domino orizzontale-00-01
+1F033: Piastrella Domino orizzontale-00-02
+1F034: Tessera del domino orizzontale-00-03
+1F035: Piastrella Domino orizzontale-00-04
+1F036: Tessera del domino orizzontale-00-05
+1F037: Piastrella Domino orizzontale-00-06
+1F038: Tegola Domino orizzontale-01-00
+1F039: Piastrella Domino orizzontale-01-01
+1F03A: Piastrella Domino orizzontale-01-02
+1F03B: Tessera di domino orizzontale-01-03
+1F03C: Piastrella Domino orizzontale-01-04
+1F03D: Tessera di domino orizzontale-01-05
+1F03E: Piastrella Domino orizzontale-01-06
+1F03F: Piastrella Domino orizzontale-02-00
+1F040: Piastrella Domino orizzontale-02-01
+1F041: Piastrella Domino orizzontale-02-02
+1F042: Piastrella Domino orizzontale-02-03
+1F043: Piastrella Domino orizzontale-02-04
+1F044: Piastrella Domino orizzontale-02-05
+1F045: Piastrella Domino orizzontale-02-06
+1F046: Tegola Domino orizzontale-03-00
+1F047: Piastrella Domino orizzontale-03-01
+1F048: Piastrella Domino orizzontale-03-02
+1F049: Piastrella Domino orizzontale-03-03
+1F04A: Piastrella Domino orizzontale-03-04
+1F04B: Tegola del domino orizzontale-03-05
+1F04C: Piastrella Domino orizzontale-03-06
+1F04D: Tegola Domino orizzontale-04-00
+1F04E: Piastrella Domino orizzontale-04-01
+1F04F: Piastrella Domino orizzontale-04-02
+1F050: Piastrella Domino orizzontale-04-03
+1F051: Piastrella Domino orizzontale-04-04
+1F052: Tegola del domino orizzontale-04-05
+1F053: Piastrella Domino orizzontale-04-06
+1F054: Piastrella Domino orizzontale-05-00
+1F055: Piastrella Domino orizzontale-05-01
+1F056: Piastrella Domino orizzontale-05-02
+1F057: Piastrella Domino orizzontale-05-03
+1F058: Piastrella Domino orizzontale-05-04
+1F059: Piastrella Domino orizzontale-05-05
+1F05A: Piastrella Domino orizzontale-05-06
+1F05B: Piastrella Domino orizzontale-06-00
+1F05C: Piastrella Domino orizzontale-06-01
+1F05D: Piastrella Domino orizzontale-06-02
+1F05E: Piastrella Domino orizzontale-06-03
+1F05F: Piastrella Domino orizzontale-06-04
+1F060: Piastrella Domino orizzontale-06-05
+1F061: Piastrella Domino orizzontale-06-06
+1F062: Tegola verticale Domino
+1F063: Tessera verticale Domino-00-00
+1F064: Tessera verticale Domino-00-01
+1F065: Tessera verticale Domino-00-02
+1F066: Tessera verticale Domino-00-03
+1F067: Tessera verticale Domino-00-04
+1F068: Tessera verticale Domino-00-05
+1F069: Tessera verticale Domino-00-06
+1F06A: Tegola Domino Vertical-01-00
+1F06B: Domino Tile Vertical-01-01
+1F06C: Tessera verticale Domino-01-02
+1F06D: Tessera verticale Domino-01-03
+1F06E: Piastrella Domino verticale-01-04
+1F06F: Tegola del domino verticale-01-05
+1F070: Tessera verticale Domino-01-06
+1F071: Piastrella Domino verticale-02-00
+1F072: Piastrella Domino verticale-02-01
+1F073: Piastrella Domino verticale-02-02
+1F074: Piastrella Domino verticale-02-03
+1F075: Piastrella Domino verticale-02-04
+1F076: Piastrella Domino verticale-02-05
+1F077: Piastrella Domino verticale-02-06
+1F078: Tegola Domino verticale-03-00
+1F079: Piastrella Domino verticale-03-01
+1F07A: Tessera verticale Domino-03-02
+1F07B: Piastrella Domino verticale-03-03
+1F07C: Piastrella Domino verticale-03-04
+1F07D: Tegola del domino verticale-03-05
+1F07E: Piastrella Domino verticale-03-06
+1F07F: Piastrella Domino verticale-04-00
+1F080: Piastrella Domino verticale-04-01
+1F081: Tessera verticale Domino-04-02
+1F082: Tessera verticale Domino-04-03
+1F083: Piastrella Domino verticale-04-04
+1F084: Tessera verticale Domino-04-05
+1F085: Piastrella Domino verticale-04-06
+1F086: Piastrella Domino verticale-05-00
+1F087: Piastrella Domino verticale-05-01
+1F088: Piastrella Domino verticale-05-02
+1F089: Piastrella Domino verticale-05-03
+1F08A: Piastrella Domino verticale-05-04
+1F08B: Piastrella Domino verticale-05-05
+1F08C: Piastrella Domino verticale-05-06
+1F08D: Piastrella Domino verticale-06-00
+1F08E: Piastrella Domino verticale-06-01
+1F08F: Piastrella Domino verticale-06-02
+1F090: Piastrella Domino verticale-06-03
+1F091: Piastrella Domino verticale-06-04
+1F092: Piastrella Domino verticale-06-05
+1F093: Piastrella Domino verticale-06-06
+1F094:
+1F095:
+1F096:
+1F097:
+1F098:
+1F099:
+1F09A:
+1F09B:
+1F09C:
+1F09D:
+1F09E:
+1F09F:
+1F0A0: Carta da gioco Indietro
+1F0A1: Carta da gioco Ace of Spades
+1F0A2: Carta da gioco Two of Spades
+1F0A3: Carta da gioco Three of Spades
+1F0A4: Giocare a carte Four of Spades
+1F0A5: Playing Card Five of Spades
+1F0A6: Giocare a carte Six of Spades
+1F0A7: Giocare a carte Seven of Spades
+1F0A8: Giocare a carte otto di picche
+1F0A9: Giocare a carte nove di picche
+1F0AA: Playing Card Ten of Spades
+1F0AB: Giocare a carte Jack of Spades : valet, bube, unter, page, fante : pagina di spade
+1F0AC: Giocare a carte Knight of Spades : chevalier, ober, ritter, cavall, cavaliere : cavaliere di spade
+1F0AD: Carta da gioco Queen of Spades : dama, dama, königin, regina : regina di spade
+1F0AE: Carta da gioco King of Spades : roi, könig, re : re di spade
+1F0AF:
+1F0B0:
+1F0B1: Carta da gioco asso di cuori
+1F0B2: Carta da gioco due di cuori
+1F0B3: Carta da gioco tre di cuori
+1F0B4: Carta da gioco Four of Hearts
+1F0B5: Carta da gioco Five of Hearts
+1F0B6: Carta da gioco Six of Hearts
+1F0B7: Carta da gioco Seven of Hearts
+1F0B8: Carta da gioco otto di cuori
+1F0B9: Carta da gioco Nove di cuori
+1F0BA: Carta da gioco Ten of Hearts
+1F0BB: Carta da gioco Jack of Hearts
+1F0BC: Carta da gioco Cavaliere di cuori
+1F0BD: Carta da gioco Queen of Hearts
+1F0BE: Carta da gioco King of Hearts
+1F0BF: Giocando a carte Red Joker
+1F0C0:
+1F0C1: Carta da gioco Asso di quadri
+1F0C2: Carta da gioco Two of Diamonds
+1F0C3: Carta da gioco Tre di quadri
+1F0C4: Playing Card Four of Diamonds
+1F0C5: Carta da gioco Five of Diamonds
+1F0C6: Carta da gioco Six of Diamonds
+1F0C7: Carta da gioco Seven of Diamonds
+1F0C8: Carta da gioco Otto di quadri
+1F0C9: Carta da gioco Nove di quadri
+1F0CA: Carta da gioco Ten of Diamonds
+1F0CB: Giocando a carte Jack of Diamonds
+1F0CC: Playing Card Knight of Diamonds
+1F0CD: Carta da gioco Queen of Diamonds
+1F0CE: Carta da gioco King of Diamonds
+1F0CF: Giocare a carte Black Joker
+1F0D0:
+1F0D1: Carta da gioco Asso di fiori
+1F0D2: Carta da gioco Due di fiori
+1F0D3: Carta da gioco Tre di fiori
+1F0D4: Carta da gioco Four of Clubs
+1F0D5: Playing Card Five of Clubs
+1F0D6: Carta da gioco Six of Clubs
+1F0D7: Playing Card Seven of Clubs
+1F0D8: Carta da gioco Otto di fiori
+1F0D9: Carta da gioco Nove di fiori
+1F0DA: Carta da gioco Dieci di fiori
+1F0DB: Giocare a carte Jack of Clubs
+1F0DC: Playing Card Knight of Clubs
+1F0DD: Carta da gioco Queen of Clubs
+1F0DE: Carta da gioco King of Clubs
+1F0DF: Gioco di carte White Joker
+1F0E0: Playing Card Fool
+1F0E1: Carta da gioco Trump-1
+1F0E2: Carta da gioco Trump-2
+1F0E3: Carta da gioco Trump-3
+1F0E4: Carta da gioco Trump-4
+1F0E5: Carta da gioco Trump-5
+1F0E6: Carta da gioco Trump-6
+1F0E7: Carta da gioco Trump-7
+1F0E8: Carta da gioco Trump-8
+1F0E9: Carta da gioco Trump-9
+1F0EA: Carta da gioco Trump-10
+1F0EB: Carta da gioco Trump-11
+1F0EC: Carta da gioco Trump-12
+1F0ED: Carta da gioco Trump-13
+1F0EE: Carta da gioco Trump-14
+1F0EF: Carta da gioco Trump-15
+1F0F0: Carta da gioco Trump-16
+1F0F1: Carta da gioco Trump-17
+1F0F2: Carta da gioco Trump-18
+1F0F3: Carta da gioco Trump-19
+1F0F4: Carta da gioco Trump-20
+1F0F5: Carta da gioco Trump-21
+1F0F6:
+1F0F7:
+1F0F8:
+1F0F9:
+1F0FA:
+1F0FB:
+1F0FC:
+1F0FD:
+1F0FE:
+1F0FF:

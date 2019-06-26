@@ -1,256 +1,256 @@
-C400 : Hangul syllable sswals
-C401 : Hangul syllable sswalt
-C402 : Hangul syllable sswalp
-C403 : Hangul syllable sswalh
-C404 : Hangul syllable sswam
-C405 : Hangul syllable sswab
-C406 : Hangul syllable sswabs
-C407 : Hangul syllable sswas
-C408 : Hangul syllable sswass
-C409 : Hangul syllable sswang
-C40A : Hangul syllable sswaj
-C40B : Hangul syllable sswac
-C40C : Hangul syllable sswak
-C40D : Hangul syllable sswat
-C40E : Hangul syllable sswap
-C40F : Hangul syllable sswah
-C410 : Hangul syllable sswae
-C411 : Hangul syllable sswaeg
-C412 : Hangul syllable sswaegg
-C413 : Hangul syllable sswaegs
-C414 : Hangul syllable sswaen
-C415 : Hangul syllable sswaenj
-C416 : Hangul syllable sswaenh
-C417 : Hangul syllable sswaed
-C418 : Hangul syllable sswael
-C419 : Hangul syllable sswaelg
-C41A : Hangul syllable sswaelm
-C41B : Hangul syllable sswaelb
-C41C : Hangul syllable sswaels
-C41D : Hangul syllable sswaelt
-C41E : Hangul syllable sswaelp
-C41F : Hangul syllable sswaelh
-C420 : Hangul syllable sswaem
-C421 : Hangul syllable sswaeb
-C422 : Hangul syllable sswaebs
-C423 : Hangul syllable sswaes
-C424 : Hangul syllable sswaess
-C425 : Hangul syllable sswaeng
-C426 : Hangul syllable sswaej
-C427 : Hangul syllable sswaec
-C428 : Hangul syllable sswaek
-C429 : Hangul syllable sswaet
-C42A : Hangul syllable sswaep
-C42B : Hangul syllable sswaeh
-C42C : Hangul syllable ssoe
-C42D : Hangul syllable ssoeg
-C42E : Hangul syllable ssoegg
-C42F : Hangul syllable ssoegs
-C430 : Hangul syllable ssoen
-C431 : Hangul syllable ssoenj
-C432 : Hangul syllable ssoenh
-C433 : Hangul syllable ssoed
-C434 : Hangul syllable ssoel
-C435 : Hangul syllable ssoelg
-C436 : Hangul syllable ssoelm
-C437 : Hangul syllable ssoelb
-C438 : Hangul syllable ssoels
-C439 : Hangul syllable ssoelt
-C43A : Hangul syllable ssoelp
-C43B : Hangul syllable ssoelh
-C43C : Hangul syllable ssoem
-C43D : Hangul syllable ssoeb
-C43E : Hangul syllable ssoebs
-C43F : Hangul syllable ssoes
-C440 : Hangul syllable ssoess
-C441 : Hangul syllable ssoeng
-C442 : Hangul syllable ssoej
-C443 : Hangul syllable ssoec
-C444 : Hangul syllable ssoek
-C445 : Hangul syllable ssoet
-C446 : Hangul syllable ssoep
-C447 : Hangul syllable ssoeh
-C448 : Hangul syllable ssyo
-C449 : Hangul syllable ssyog
-C44A : Hangul syllable ssyogg
-C44B : Hangul syllable ssyogs
-C44C : Hangul syllable ssyon
-C44D : Hangul syllable ssyonj
-C44E : Hangul syllable ssyonh
-C44F : Hangul syllable ssyod
-C450 : Hangul syllable ssyol
-C451 : Hangul syllable ssyolg
-C452 : Hangul syllable ssyolm
-C453 : Hangul syllable ssyolb
-C454 : Hangul syllable ssyols
-C455 : Hangul syllable ssyolt
-C456 : Hangul syllable ssyolp
-C457 : Hangul syllable ssyolh
-C458 : Hangul syllable ssyom
-C459 : Hangul syllable ssyob
-C45A : Hangul syllable ssyobs
-C45B : Hangul syllable ssyos
-C45C : Hangul syllable ssyoss
-C45D : Hangul syllable ssyong
-C45E : Hangul syllable ssyoj
-C45F : Hangul syllable ssyoc
-C460 : Hangul syllable ssyok
-C461 : Hangul syllable ssyot
-C462 : Hangul syllable ssyop
-C463 : Hangul syllable ssyoh
-C464 : Hangul syllable ssu
-C465 : Hangul syllable ssug
-C466 : Hangul syllable ssugg
-C467 : Hangul syllable ssugs
-C468 : Hangul syllable ssun
-C469 : Hangul syllable ssunj
-C46A : Hangul syllable ssunh
-C46B : Hangul syllable ssud
-C46C : Hangul syllable ssul
-C46D : Hangul syllable ssulg
-C46E : Hangul syllable ssulm
-C46F : Hangul syllable ssulb
-C470 : Hangul syllable ssuls
-C471 : Hangul syllable ssult
-C472 : Hangul syllable ssulp
-C473 : Hangul syllable ssulh
-C474 : Hangul syllable ssum
-C475 : Hangul syllable ssub
-C476 : Hangul syllable ssubs
-C477 : Hangul syllable ssus
-C478 : Hangul syllable ssuss
-C479 : Hangul syllable ssung
-C47A : Hangul syllable ssuj
-C47B : Hangul syllable ssuc
-C47C : Hangul syllable ssuk
-C47D : Hangul syllable ssut
-C47E : Hangul syllable ssup
-C47F : Hangul syllable ssuh
-C480 : Hangul syllable ssweo
-C481 : Hangul syllable ssweog
-C482 : Hangul syllable ssweogg
-C483 : Hangul syllable ssweogs
-C484 : Hangul syllable ssweon
-C485 : Hangul syllable ssweonj
-C486 : Hangul syllable ssweonh
-C487 : Hangul syllable ssweod
-C488 : Hangul syllable ssweol
-C489 : Hangul syllable ssweolg
-C48A : Hangul syllable ssweolm
-C48B : Hangul syllable ssweolb
-C48C : Hangul syllable ssweols
-C48D : Hangul syllable ssweolt
-C48E : Hangul syllable ssweolp
-C48F : Hangul syllable ssweolh
-C490 : Hangul syllable ssweom
-C491 : Hangul syllable ssweob
-C492 : Hangul syllable ssweobs
-C493 : Hangul syllable ssweos
-C494 : Hangul syllable ssweoss
-C495 : Hangul syllable ssweong
-C496 : Hangul syllable ssweoj
-C497 : Hangul syllable ssweoc
-C498 : Hangul syllable ssweok
-C499 : Hangul syllable ssweot
-C49A : Hangul syllable ssweop
-C49B : Hangul syllable ssweoh
-C49C : Hangul syllable sswe
-C49D : Hangul syllable ssweg
-C49E : Hangul syllable sswegg
-C49F : Hangul syllable sswegs
-C4A0 : Hangul syllable sswen
-C4A1 : Hangul syllable sswenj
-C4A2 : Hangul syllable sswenh
-C4A3 : Hangul syllable sswed
-C4A4 : Hangul syllable sswel
-C4A5 : Hangul syllable sswelg
-C4A6 : Hangul syllable sswelm
-C4A7 : Hangul syllable sswelb
-C4A8 : Hangul syllable sswels
-C4A9 : Hangul syllable sswelt
-C4AA : Hangul syllable sswelp
-C4AB : Hangul syllable sswelh
-C4AC : Hangul syllable sswem
-C4AD : Hangul syllable ssweb
-C4AE : Hangul syllable sswebs
-C4AF : Hangul syllable sswes
-C4B0 : Hangul syllable sswess
-C4B1 : Hangul syllable ssweng
-C4B2 : Hangul syllable sswej
-C4B3 : Hangul syllable sswec
-C4B4 : Hangul syllable sswek
-C4B5 : Hangul syllable sswet
-C4B6 : Hangul syllable sswep
-C4B7 : Hangul syllable ssweh
-C4B8 : Hangul syllable sswi
-C4B9 : Hangul syllable sswig
-C4BA : Hangul syllable sswigg
-C4BB : Hangul syllable sswigs
-C4BC : Hangul syllable sswin
-C4BD : Hangul syllable sswinj
-C4BE : Hangul syllable sswinh
-C4BF : Hangul syllable sswid
-C4C0 : Hangul syllable sswil
-C4C1 : Hangul syllable sswilg
-C4C2 : Hangul syllable sswilm
-C4C3 : Hangul syllable sswilb
-C4C4 : Hangul syllable sswils
-C4C5 : Hangul syllable sswilt
-C4C6 : Hangul syllable sswilp
-C4C7 : Hangul syllable sswilh
-C4C8 : Hangul syllable sswim
-C4C9 : Hangul syllable sswib
-C4CA : Hangul syllable sswibs
-C4CB : Hangul syllable sswis
-C4CC : Hangul syllable sswiss
-C4CD : Hangul syllable sswing
-C4CE : Hangul syllable sswij
-C4CF : Hangul syllable sswic
-C4D0 : Hangul syllable sswik
-C4D1 : Hangul syllable sswit
-C4D2 : Hangul syllable sswip
-C4D3 : Hangul syllable sswih
-C4D4 : Hangul syllable ssyu
-C4D5 : Hangul syllable ssyug
-C4D6 : Hangul syllable ssyugg
-C4D7 : Hangul syllable ssyugs
-C4D8 : Hangul syllable ssyun
-C4D9 : Hangul syllable ssyunj
-C4DA : Hangul syllable ssyunh
-C4DB : Hangul syllable ssyud
-C4DC : Hangul syllable ssyul
-C4DD : Hangul syllable ssyulg
-C4DE : Hangul syllable ssyulm
-C4DF : Hangul syllable ssyulb
-C4E0 : Hangul syllable ssyuls
-C4E1 : Hangul syllable ssyult
-C4E2 : Hangul syllable ssyulp
-C4E3 : Hangul syllable ssyulh
-C4E4 : Hangul syllable ssyum
-C4E5 : Hangul syllable ssyub
-C4E6 : Hangul syllable ssyubs
-C4E7 : Hangul syllable ssyus
-C4E8 : Hangul syllable ssyuss
-C4E9 : Hangul syllable ssyung
-C4EA : Hangul syllable ssyuj
-C4EB : Hangul syllable ssyuc
-C4EC : Hangul syllable ssyuk
-C4ED : Hangul syllable ssyut
-C4EE : Hangul syllable ssyup
-C4EF : Hangul syllable ssyuh
-C4F0 : Hangul syllable sseu
-C4F1 : Hangul syllable sseug
-C4F2 : Hangul syllable sseugg
-C4F3 : Hangul syllable sseugs
-C4F4 : Hangul syllable sseun
-C4F5 : Hangul syllable sseunj
-C4F6 : Hangul syllable sseunh
-C4F7 : Hangul syllable sseud
-C4F8 : Hangul syllable sseul
-C4F9 : Hangul syllable sseulg
-C4FA : Hangul syllable sseulm
-C4FB : Hangul syllable sseulb
-C4FC : Hangul syllable sseuls
-C4FD : Hangul syllable sseult
-C4FE : Hangul syllable sseulp
-C4FF : Hangul syllable sseulh
+C400: Sulals พยางค์อังกูล
+C401: อังกูลพยางค์ Sswalt
+C402: อักษรอังกูล Sswalp
+C403: อังกูลพยางค์สวาล
+C404: อังกูลพยางค์ Sswam
+C405: พยางค์อังกูล Sswab
+C406: Sswabs อังกูลพยางค์
+C407: Sswas อังกูลพยางค์
+C408: พยางค์อังกูล
+C409: พยางค์อังกูล
+C40A: Hangul พยางค์ Sswaj
+C40B: อังกูลพยางค์ Sswac
+C40C: อังกูลพยางค์สวัก
+C40D: อังกูลพยางค์ Sswat
+C40E: พยางค์อังกูล Sswap
+C40F: พยางค์อังกูล
+C410: พยางค์อังกูล
+C411: อังกูลพยางค์สวุก
+C412: พยางค์อังกูล
+C413: อังกูลพยางค์สวล
+C414: พยางค์อังกูล
+C415: พยางค์อังกูล
+C416: Hangul พยางค์ Sswaenh
+C417: พยางค์อังกูล
+C418: อังกูลพยางค์ Sswael
+C419: พยางค์อังกูล
+C41A: พยางค์อังกูล
+C41B: พยางค์อังกูล
+C41C: อักษรอังกูล Sswaels
+C41D: พยางค์อังกูล
+C41E: พยางค์อังกูล
+C41F: พยางค์อังกูล
+C420: พยางค์อังกูล
+C421: พยางค์อังกูล
+C422: พยางค์อังกูล
+C423: Sllaes พยางค์อังกูล
+C424: พยางค์อังกูล
+C425: พยางค์อังกูล
+C426: พยางค์อังกูล
+C427: Hangul พยางค์ Sswaec
+C428: พยางค์อังกูล
+C429: พยางค์อังกูล
+C42A: พยางค์อังกูล
+C42B: พยางค์อังกูล
+C42C: พยางค์ฮันกึล
+C42D: พยางค์ฮันกึล
+C42E: พยางค์อังกูล
+C42F: พยางค์อังกูล
+C430: พยางค์อังกูล
+C431: พยางค์อังกูล
+C432: อังกูลพยางค์ Ssoenh
+C433: พยางค์อังกูล Ssoed
+C434: พยางค์อังกูล Ssoel
+C435: พยางค์อังกูล
+C436: พยางค์ฮันกึล
+C437: พยางค์ฮันกึล
+C438: Ssoels อังกูล
+C439: พยางค์ฮันกึล
+C43A: พยางค์อังกูล
+C43B: พยางค์ฮันกึล
+C43C: พยางค์อังกูล
+C43D: พยางค์อังกูล
+C43E: พยางค์อังกูล
+C43F: พยางค์อังกูล
+C440: พยางค์อังกูล
+C441: พยางค์ฮันกึล
+C442: พยางค์อังกูล
+C443: พยางค์ฮันกึล
+C444: พยางค์อังกูล Ssoek
+C445: พยางค์อังกูล Ssoet
+C446: พยางค์อังกูล
+C447: พยางค์ฮันกึล
+C448: พยางค์ฮันกึล
+C449: พยางค์อังกูล Ssyog
+C44A: อังกูลพยางค์ Ssyogg
+C44B: พยางค์อังกูล
+C44C: พยางค์อังกูล
+C44D: พยางค์อังกูล
+C44E: พยางค์อังกูล
+C44F: พยางค์อังกูล
+C450: พยางค์อังกูล
+C451: พยางค์อังกูล
+C452: พยางค์อังกูล
+C453: พยางค์อังกูล
+C454: Ssyols พยางค์อังกูล
+C455: พยางค์อังกูล
+C456: พยางค์อังกูล
+C457: พยางค์อังกูล
+C458: พยางค์อังกูล
+C459: พยางค์อังกูล Ssyob
+C45A: Ssyobs พยางค์อังกูล
+C45B: Ssyos พยางค์อังกูล
+C45C: พยางค์อังกูล Ssyoss
+C45D: พยางค์อังกูล
+C45E: พยางค์ฮันกึล
+C45F: พยางค์อังกูล
+C460: พยางค์อังกูล Ssyok
+C461: พยางค์อังกูล
+C462: พยางค์อังกูล Ssyop
+C463: พยางค์อังกูล Ssyoh
+C464: พยางค์ฮันกึล
+C465: พยางค์อังกูล Ssug
+C466: พยางค์อังกูล
+C467: Ssugs อังกูลพยางค์
+C468: พยางค์อังกูล
+C469: พยางค์อังกูล
+C46A: พยางค์อังกูล
+C46B: พยางค์อังกูล
+C46C: พยางค์อังกูล
+C46D: พยางค์อังกูล
+C46E: พยางค์ฮันกึล
+C46F: พยางค์อังกูล
+C470: พยางค์อังกูล
+C471: พยางค์อังกูล
+C472: อักษรอังกูล
+C473: พยางค์ฮันกึล
+C474: พยางค์ฮันกึล
+C475: Ssub อังกูลพยางค์
+C476: Ssubs พยางค์อังกูล
+C477: พยางค์ฮันกึล
+C478: พยางค์ฮันกึล
+C479: พยางค์ฮันกึล
+C47A: พยางค์ฮันกึล
+C47B: พยางค์อังกูล Ssuc
+C47C: พยางค์อังกูล
+C47D: อังกูลพยางค์
+C47E: Ssup อังกูลพยางค์
+C47F: พยางค์อังกูลซู
+C480: พยางค์ฮันกึล
+C481: พยางค์อังกูล
+C482: Hangul พยางค์ Ssweogg
+C483: พยางค์อังกูล
+C484: พยางค์ฮันกึล
+C485: พยางค์อังกูล
+C486: Hangul พยางค์ Ssweonh
+C487: พยางค์อังกูล
+C488: อังกูลพยางค์ Ssweol
+C489: พยางค์อังกูล
+C48A: พยางค์อังกูล
+C48B: พยางค์อังกูล
+C48C: พยางค์อังกูล Ssweols
+C48D: พยางค์อังกูล
+C48E: พยางค์อังกูล
+C48F: พยางค์อังกูล
+C490: อังกูลพยางค์สวอน
+C491: Hangul พยางค์ Ssweob
+C492: อังกูลพยางค์ Ssweobs
+C493: พยางค์อังกูล
+C494: อังกูลพยางค์ Ssweoss
+C495: พยางค์อังกูล
+C496: พยางค์อังกูล
+C497: พยางค์อังกูล
+C498: พยางค์อังกูล
+C499: พยางค์อังกูล
+C49A: พยางค์อังกูล
+C49B: พยางค์อังกูล
+C49C: พยางค์อังกูล
+C49D: Hangul พยางค์ Ssweg
+C49E: พยางค์อังกูล
+C49F: Hangul พยางค์ Sswegs
+C4A0: พยางค์อังกูล
+C4A1: พยางค์อังกูล
+C4A2: อังกูลพยางค์ Sswenh
+C4A3: พยางค์อังกูล
+C4A4: อังกูลพยางค์ Sswel
+C4A5: พยางค์อังกูล
+C4A6: พยางค์อังกูล
+C4A7: อังกูลพยางค์ Sswelb
+C4A8: Sswels อังกูลพยางค์
+C4A9: พยางค์อังกูล
+C4AA: อังกูลพยางค์ Sswelp
+C4AB: พยางค์อังกูล
+C4AC: พยางค์อังกูล
+C4AD: พยางค์อังกูล
+C4AE: พยางค์อังกูล
+C4AF: Sswes อังกูล
+C4B0: พยางค์อังกูล
+C4B1: พยางค์อังกูล
+C4B2: พยางค์อังกูล
+C4B3: อักษรอังกูล Sswec
+C4B4: พยางค์อังกูล
+C4B5: Sllet อังกูล
+C4B6: พยางค์อังกูล
+C4B7: พยางค์อังกูล
+C4B8: พยางค์อังกูล Sswi
+C4B9: พยางค์อังกูล
+C4BA: อังกูลพยางค์ Sswigg
+C4BB: Hangul พยางค์ Sswigs
+C4BC: อังกูลพยางค์ Sswin
+C4BD: พยางค์อังกูล
+C4BE: พยางค์อังกูล
+C4BF: พยางค์อังกูล
+C4C0: อังกูลพยางค์ Sswil
+C4C1: พยางค์อังกูล
+C4C2: พยางค์อังกูล
+C4C3: พยางค์อังกูล
+C4C4: พยางค์อังกูล
+C4C5: พยางค์อังกูล
+C4C6: พยางค์อังกูล
+C4C7: พยางค์อังกูล
+C4C8: พยางค์อังกูล
+C4C9: Hangul พยางค์ Sswib
+C4CA: อังกูลพยางค์ Sswibs
+C4CB: อังกูลพยางค์ Sswis
+C4CC: อังกูลพยางค์ Sswiss
+C4CD: พยางค์อังกูล
+C4CE: พยางค์อังกูล
+C4CF: พยางค์อังกูล Sswic
+C4D0: อังกูลพยางค์ Sswik
+C4D1: พยางค์อังกูล
+C4D2: อังกูลพยางค์ Sswip
+C4D3: พยางค์อังกูล
+C4D4: พยางค์ฮันกึล
+C4D5: พยางค์อังกูล Ssyug
+C4D6: พยางค์อังกูล
+C4D7: Ssyugs พยางค์อังกูล
+C4D8: พยัญชนะอังกูล
+C4D9: พยางค์อังกูล
+C4DA: พยางค์ฮันกึล
+C4DB: พยางค์ฮันกึล
+C4DC: พยางค์อังกูล
+C4DD: พยางค์อังกูล
+C4DE: พยางค์อังกูล
+C4DF: พยางค์อังกูล
+C4E0: พยางค์อังกูล
+C4E1: พยางค์อังกูล Ssyult
+C4E2: พยางค์อังกูล
+C4E3: พยางค์อังกูล
+C4E4: พยางค์ฮันกึล
+C4E5: พยางค์อังกูล Ssyub
+C4E6: พยางค์อังกูล
+C4E7: พยางค์ฮันกึล
+C4E8: พยางค์ฮันกึล
+C4E9: พยางค์อังกูล Ssyung
+C4EA: พยางค์อังกูล Ssyuj
+C4EB: พยางค์อังกูล Ssyuc
+C4EC: พยางค์อังกูล Ssyuk
+C4ED: พยางค์อังกูล
+C4EE: พยางค์อังกูล Ssyup
+C4EF: พยางค์อังกูล Ssyuh
+C4F0: Sseu พยางค์อังกูล
+C4F1: Sseug พยางค์อังกูล
+C4F2: Sseugg อังกูลพยางค์
+C4F3: ชุดพยางค์อังกูล
+C4F4: Sseun พยางค์อังกูล
+C4F5: พยางค์อังกูล
+C4F6: Sseunh พยางค์อังกูล
+C4F7: พยางค์อังกูล
+C4F8: Sseul พยางค์อังกูล
+C4F9: Sseulg พยางค์อังกูล
+C4FA: Sseulm พยางค์อังกูล
+C4FB: Sseulb พยางค์อังกูล
+C4FC: พยางค์อังกูล
+C4FD: พยางค์อังกูล Sseult
+C4FE: Sseulp พยางค์อังกูล
+C4FF: Sseulh พยางค์อังกูล

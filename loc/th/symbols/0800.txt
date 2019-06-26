@@ -1,256 +1,256 @@
-0800 : Samaritan letter alaf
-0801 : Samaritan letter bit
-0802 : Samaritan letter gaman
-0803 : Samaritan letter dalat
-0804 : Samaritan letter iy
-0805 : Samaritan letter baa
-0806 : Samaritan letter zen
-0807 : Samaritan letter it
-0808 : Samaritan letter tit
-0809 : Samaritan letter yut
-080A : Samaritan letter kaaf
-080B : Samaritan letter labat
-080C : Samaritan letter mim
-080D : Samaritan letter nun
-080E : Samaritan letter singaat
-080F : Samaritan letter in
-0810 : Samaritan letter fi
-0811 : Samaritan letter tsaadiy
-0812 : Samaritan letter quf
-0813 : Samaritan letter rish
-0814 : Samaritan letter shan
-0815 : Samaritan letter taaf
-0816 : Samaritan mark in
-0817 : Samaritan mark in-alaf
-0818 : Samaritan mark occlusion
-0819 : Samaritan mark dagesh
-081A : Samaritan modifier letter epenthetic yut
-081B : Samaritan mark epenthetic yut
-081C : Samaritan vowel sign long e
-081D : Samaritan vowel sign e
-081E : Samaritan vowel sign overlong aa
-081F : Samaritan vowel sign long aa
-0820 : Samaritan vowel sign aa
-0821 : Samaritan vowel sign overlong a
-0822 : Samaritan vowel sign long a
-0823 : Samaritan vowel sign a
-0824 : Samaritan modifier letter short a
-0825 : Samaritan vowel sign short a
-0826 : Samaritan vowel sign long u
-0827 : Samaritan vowel sign u
-0828 : Samaritan modifier letter i
-0829 : Samaritan vowel sign long i
-082A : Samaritan vowel sign i
-082B : Samaritan vowel sign o
-082C : Samaritan vowel sign sukun
-082D : Samaritan mark nequdaa
-082E : 
-082F : 
-0830 : Samaritan punctuation nequdaa
-0831 : Samaritan punctuation afsaaq
-0832 : Samaritan punctuation anged
-0833 : Samaritan punctuation bau
-0834 : Samaritan punctuation atmaau
-0835 : Samaritan punctuation shiyyaalaa
-0836 : Samaritan abbreviation mark
-0837 : Samaritan punctuation melodic qitsa
-0838 : Samaritan punctuation ziqaa
-0839 : Samaritan punctuation qitsa
-083A : Samaritan punctuation zaef
-083B : Samaritan punctuation turu
-083C : Samaritan punctuation arkaanu
-083D : Samaritan punctuation sof mashfaat
-083E : Samaritan punctuation annaau
-083F : 
-0840 : 
-0841 : 
-0842 : 
-0843 : 
-0844 : 
-0845 : 
-0846 : 
-0847 : 
-0848 : 
-0849 : 
-084A : 
-084B : 
-084C : 
-084D : 
-084E : 
-084F : 
-0850 : 
-0851 : 
-0852 : 
-0853 : 
-0854 : 
-0855 : 
-0856 : 
-0857 : 
-0858 : 
-0859 : 
-085A : 
-085B : 
-085C : 
-085D : 
-085E : 
-085F : 
-0860 : 
-0861 : 
-0862 : 
-0863 : 
-0864 : 
-0865 : 
-0866 : 
-0867 : 
-0868 : 
-0869 : 
-086A : 
-086B : 
-086C : 
-086D : 
-086E : 
-086F : 
-0870 : 
-0871 : 
-0872 : 
-0873 : 
-0874 : 
-0875 : 
-0876 : 
-0877 : 
-0878 : 
-0879 : 
-087A : 
-087B : 
-087C : 
-087D : 
-087E : 
-087F : 
-0880 : 
-0881 : 
-0882 : 
-0883 : 
-0884 : 
-0885 : 
-0886 : 
-0887 : 
-0888 : 
-0889 : 
-088A : 
-088B : 
-088C : 
-088D : 
-088E : 
-088F : 
-0890 : 
-0891 : 
-0892 : 
-0893 : 
-0894 : 
-0895 : 
-0896 : 
-0897 : 
-0898 : 
-0899 : 
-089A : 
-089B : 
-089C : 
-089D : 
-089E : 
-089F : 
-08A0 : 
-08A1 : 
-08A2 : 
-08A3 : 
-08A4 : 
-08A5 : 
-08A6 : 
-08A7 : 
-08A8 : 
-08A9 : 
-08AA : 
-08AB : 
-08AC : 
-08AD : 
-08AE : 
-08AF : 
-08B0 : 
-08B1 : 
-08B2 : 
-08B3 : 
-08B4 : 
-08B5 : 
-08B6 : 
-08B7 : 
-08B8 : 
-08B9 : 
-08BA : 
-08BB : 
-08BC : 
-08BD : 
-08BE : 
-08BF : 
-08C0 : 
-08C1 : 
-08C2 : 
-08C3 : 
-08C4 : 
-08C5 : 
-08C6 : 
-08C7 : 
-08C8 : 
-08C9 : 
-08CA : 
-08CB : 
-08CC : 
-08CD : 
-08CE : 
-08CF : 
-08D0 : 
-08D1 : 
-08D2 : 
-08D3 : 
-08D4 : 
-08D5 : 
-08D6 : 
-08D7 : 
-08D8 : 
-08D9 : 
-08DA : 
-08DB : 
-08DC : 
-08DD : 
-08DE : 
-08DF : 
-08E0 : 
-08E1 : 
-08E2 : 
-08E3 : 
-08E4 : 
-08E5 : 
-08E6 : 
-08E7 : 
-08E8 : 
-08E9 : 
-08EA : 
-08EB : 
-08EC : 
-08ED : 
-08EE : 
-08EF : 
-08F0 : 
-08F1 : 
-08F2 : 
-08F3 : 
-08F4 : 
-08F5 : 
-08F6 : 
-08F7 : 
-08F8 : 
-08F9 : 
-08FA : 
-08FB : 
-08FC : 
-08FD : 
-08FE : 
-08FF : 
+0800: จดหมายชาวสะมาเรีย
+0801: Bit ตัวอักษรพลเมือง
+0802: Samaritan Letter Gaman
+0803: จดหมายพลเมืองดาลัด
+0804: Samaritan Letter Iy
+0805: Baar ซามาเรียจดหมาย
+0806: ชาวสะมาเรียจดหมายเซน
+0807: Samaritan Letter It
+0808: Samaritan Letter Tit
+0809: Yar Samaritan Letter
+080A: Samaritan Letter Kaaf
+080B: Labar จดหมาย Samaritan
+080C: Samaritan Letter Mim
+080D: จดหมายแม่ชีชาวสะมาเรีย
+080E: Samaritan Letter Singaat
+080F: จดหมายพลเมือง
+0810: Fiar Letter of Samaritan
+0811: Samaritan Letter Tsaadiy
+0812: Quf ตัวอักษรพลเมือง
+0813: Rish จดหมายพลเมือง
+0814: จดหมายชาวสะซาน
+0815: Samaritan Letter Taaf
+0816: Mark Samaritan
+0817: Samaritan Mark In-Alaf
+0818: การบดเคี้ยวมาร์คของชาวสะมาเรีย
+0819: Samaritan Mark Dagesh
+081A: Samaritan Modifier จดหมาย Epenthetic Yut
+081B: Samaritan Mark Epenthetic Yut
+081C: สระซามาเรีย : fatha al-nida
+081D: สระซามาเรีย
+081E: สระน้ำซามาเรีย : fatha al-ima
+081F: สระน้ำซามาเรีย
+0820: สระน้ำซามาเรีย
+0821: สระน้ำซามาเรีย : fatha al-iha
+0822: สระซามาเรีย
+0823: สระซามาเรีย
+0824: ตัวแก้ไขพลเมืองฉบับสั้น
+0825: สระสั้นซามาเรีย : fatha
+0826: สระซามาเรีย : Damma
+0827: สระน้ำซามาเรีย
+0828: จดหมายฉบับแก้ไข Samaritan I
+0829: สระซามาเรีย : kasra
+082A: สระซามาเรีย
+082B: สระซามาเรีย
+082C: สระน้ำซามาเรีย
+082D: Samaritan Mark Nequdaa
+082E:
+082F:
+0830: เครื่องหมายวรรคตอนสะมาเรีย : ตัวคั่นคำ
+0831: เครื่องหมายวรรคตอนของ Samaritan Afsaaq : การหยุดชะงัก
+0832: เครื่องหมายวรรคตอน Samaritan Anged : ความยับยั้งชั่งใจ
+0833: เครื่องหมายวรรคตอน Samaritan Bau : การอธิษฐาน
+0834: เครื่องหมายวรรคตอนของชาวสะมาเรีย : แปลกใจ
+0835: เครื่องหมายวรรคตอน Shiyyaalaa : คำถาม
+0836: เครื่องหมายคำย่อชาวสะมาเรีย
+0837: เครื่องหมายวรรคตอน Samaritan Melodic Qitsa
+0838: เครื่องหมายวรรคตอนของชาวซามาเรีย : การร้องตะโกน
+0839: เครื่องหมายวรรคตอน Samaritan Qitsa : จุดสิ้นสุดของส่วน
+083A: เครื่องหมายวรรคตอน Samaritan : การระเบิดออก
+083B: เครื่องหมายวรรคตอน Samaritan Turu : การสอน
+083C: เครื่องหมายวรรคตอนของชาวสะมาเรีย : ความอ่อนน้อม
+083D: เครื่องหมายวรรคตอนของ Samaritan Sof Mashfaat : หยุดเต็ม
+083E: เครื่องหมายวรรคตอน Samaritan : ส่วนที่เหลือ
+083F:
+0840: จดหมาย Mandaic Halqa
+0841:  : Mandaic จดหมาย Ab
+0842: Mandaic ตัวอักษร Ag
+0843: โฆษณาจดหมาย Mandaic
+0844: จดหมาย Mandaic อ่า
+0845: Mandaic Letter Ushenna : ยู
+0846: ตัวอักษร Mandaic Az
+0847: Mandaic ตัวอักษรมัน
+0848: Mandaic จดหมาย Att
+0849: Mandaic Letter Aksa : ผม
+084A: ตัวอักษร Mandaic Ak
+084B: Mandaic ตัวอักษรอัล
+084C: Mandaic ตัวอักษร Am
+084D: จดหมาย Mandaic
+084E: Mandaic ตัวอักษรเป็น
+084F: จดหมาย Mandaic
+0850: Mandaic จดหมาย Ap
+0851: จดหมาย Mandaic Asz
+0852: Mandaic Letter Aq
+0853: Mandaic ตัวอักษร Ar
+0854: จดหมาย Mandaic
+0855: จดหมาย Mandaic ที่
+0856: Mandaic Letter Dushenna : di
+0857: จดหมาย Mandaic Kad
+0858: Mandaic Letter Ain
+0859: Mandaic Affrication Mark
+085A: Mocalic Vocalization Mark
+085B: Mandaic Gemination Mark
+085C:
+085D:
+085E: เครื่องหมายวรรคตอน Mandaic
+085F:
+0860: Syriac Letter Malayalam Nga
+0861: จดหมาย Syriac มาลายาลัมจา
+0862: จดหมาย Syriac มาลายาลัม Nya
+0863: จดหมาย Syriac Malayalam Tta
+0864: จดหมาย Syriac มาลายาลัม Nna
+0865: จดหมาย Syriac Malayalam Nnna
+0866: จดหมาย Syriac มาลายาลัม Bha
+0867: จดหมาย Syriac มาลายาลัมรา
+0868: จดหมาย Syriac มาลายาลัม Lla
+0869: จดหมาย Syriac Malayalam Llla
+086A: จดหมาย Syriac มาลายาลัม Ssa
+086B:
+086C:
+086D:
+086E:
+086F:
+0870:
+0871:
+0872:
+0873:
+0874:
+0875:
+0876:
+0877:
+0878:
+0879:
+087A:
+087B:
+087C:
+087D:
+087E:
+087F:
+0880:
+0881:
+0882:
+0883:
+0884:
+0885:
+0886:
+0887:
+0888:
+0889:
+088A:
+088B:
+088C:
+088D:
+088E:
+088F:
+0890:
+0891:
+0892:
+0893:
+0894:
+0895:
+0896:
+0897:
+0898:
+0899:
+089A:
+089B:
+089C:
+089D:
+089E:
+089F:
+08A0: Beh อักษรอาหรับที่มีขนาดเล็ก V ด้านล่าง
+08A1: Beh อาหรับจดหมาย Beh กับ Hamza ข้างต้น
+08A2: ตัวอักษรภาษาอาหรับ Jeem ที่มีสองจุดด้านบน
+08A3: อักษรอาหรับ Tah ที่มีสองจุดด้านบน
+08A4: ตัวอักษรอาหรับ Feh ที่มีจุดด้านล่างและสามจุดด้านบน
+08A5: ตัวอักษรภาษาอาหรับ Qaf ที่มีจุดด้านล่าง
+08A6: ตัวอักษรอาหรับลำที่มีแถบคู่
+08A7: ตัวอักษรอาหรับ Meem ที่มีสามจุดด้านบน
+08A8: ตัวอักษรภาษาอาหรับ Yeh ที่มีสองจุดด้านล่างและ Hamza ด้านบน
+08A9: ตัวอักษรภาษาอาหรับ Yeh ที่มีสองจุดด้านล่างและจุดด้านบน
+08AA: ตัวอักษรอาหรับ Reh พร้อมลูป : bottya-Reh
+08AB: ตัวอักษรภาษาอาหรับว้าวมีจุดภายใน : Nota วา
+08AC: ตัวอักษรภาษาอาหรับ Rohingya Yeh : bottya-Yeh
+08AD: อารฟต่ำอาหรับอักษร
+08AE: ตัวอักษรภาษาอาหรับ Dal ที่มีสามจุดด้านล่าง
+08AF: ตัวอักษรภาษาอาหรับเศร้ามีจุดสามจุดด้านล่าง
+08B0: ตัวอักษรภาษาอาหรับ Gaf พร้อม Inverted Stroke
+08B1: ตัวอักษรภาษาอาหรับ Waw ตรง
+08B2: ตัวอักษรอาหรับ Zain พร้อม Inverted V Above
+08B3: อักษรอาหรับ Ain ที่มีสามจุดด้านล่าง
+08B4: ตัวอักษรภาษาอาหรับ Kaf ที่มีจุดด้านล่าง
+08B5:
+08B6: Beh อาหรับจดหมาย Beh กับ Meem ขนาดเล็กข้างต้น
+08B7: ตัวอักษรภาษาอาหรับ Peh ตัวเล็ก ๆ ข้างบน
+08B8: ตัวอักษรอาหรับ Teh กับ Teh ขนาดเล็กด้านบน
+08B9: ตัวอักษรอาหรับ Reh พร้อมตอนเที่ยงเล็กน้อยด้านบน
+08BA: ตัวอักษรภาษาอาหรับ Yeh ที่มีสองจุดด้านล่างและเที่ยงขนาดเล็กด้านบน
+08BB: ตัวอักษรภาษาอาหรับแอฟริกันเฟ
+08BC: ตัวอักษรภาษาอาหรับแอฟริกัน Qaf
+08BD: อักษรอาหรับแอฟริกันเที่ยง
+08BE:
+08BF:
+08C0:
+08C1:
+08C2:
+08C3:
+08C4:
+08C5:
+08C6:
+08C7:
+08C8:
+08C9:
+08CA:
+08CB:
+08CC:
+08CD:
+08CE:
+08CF:
+08D0:
+08D1:
+08D2:
+08D3: ภาษาอาหรับคำว่าต่ำขนาดเล็ก
+08D4: Ar-Rub คำภาษาอาหรับสูงขนาดเล็ก
+08D5: อาหรับซารายสูงต่ำ
+08D6: Ain อาหรับสูงเล็ก
+08D7: Qaf ขนาดเล็กสูงอาหรับ
+08D8: ภาษาอาหรับสูงเที่ยงเล็กกับ Kasra
+08D9: ภาษาอาหรับเที่ยงต่ำขนาดเล็กพร้อม Kasra
+08DA: คำขนาดเล็กภาษาอาหรับ Ath-Thalatha
+08DB: คำภาษาอาหรับสูงเล็กเล็ก As-Sajda
+08DC: คำเล็ก ๆ สูงอาหรับอาหรับ
+08DD: คำสูงเล็กภาษาอาหรับ Sakta
+08DE: คำศัพท์ภาษาอาหรับสูงเล็ก Qif
+08DF: ภาษาอาหรับคำสูงต่ำขนาดเล็ก
+08E0: เครื่องหมายเชิงอรรถสูงขนาดเล็กอาหรับ
+08E1: Safha ภาษาอาหรับขนาดเล็กเครื่องหมายสูง
+08E2: การยุติจุดจบของภาษาอารบิกอาหรับ
+08E3: ภาษาอาหรับเปลี่ยน Damma ด้านล่าง
+08E4: อาหรับหยิกฟาธา
+08E5: ภาษาอาหรับหยิกดามา
+08E6: Kasra หยิกอาหรับ
+08E7: อาหรับหยิกฟาธาทาน
+08E8: อาหรับหยิกดัมมาตัน
+08E9: ภาษาอาหรับหยิก Kasratan
+08EA: โทนอาหรับหนึ่งจุดด้านบน
+08EB: เสียงอาหรับสองจุดด้านบน
+08EC: Arabic Tone Loop ดังกล่าว
+08ED: โทนอาหรับหนึ่งจุดด้านล่าง
+08EE: เสียงอาหรับสองจุดด้านล่าง
+08EF: ลูปเสียงอาหรับด้านล่าง
+08F0: ภาษาอาหรับเปิด Fathatan : Fathatan ต่อเนื่อง
+08F1: ภาษาอาหรับเปิดดัมมาธา : dammatan ต่อเนื่อง
+08F2: ภาษาอาหรับเปิด Kasratan : kasratan ต่อเนื่อง
+08F3: ภาษาอาหรับสูงต่ำ Waw
+08F4: อาหรับ Fatha กับแหวน
+08F5: อาหรับฟาธากับดอทข้างบน
+08F6: ภาษาอาหรับ Kasra ด้วยจุดด้านล่าง
+08F7: หัวลูกศรซ้ายภาษาอาหรับด้านบน
+08F8: หัวลูกศรขวาอาหรับด้านบน
+08F9: หัวลูกศรซ้ายอาหรับด้านล่าง
+08FA: หัวลูกศรขวาอาหรับด้านล่าง
+08FB: หัวลูกศรขวาภาษาอาหรับคู่ข้างบน
+08FC: หัวลูกศรขวาภาษาอาหรับคู่ข้างบนพร้อม Dot
+08FD: หัวลูกศรขวาอาหรับด้านบนมีจุด
+08FE: ภาษาอาหรับ Damma ด้วย Dot
+08FF: Mark อาหรับข้างเที่ยง Ghunna

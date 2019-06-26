@@ -1,0 +1,256 @@
+16F00: Miao Letter Pa
+16F01: Miao Letter Ba
+16F02: Miao Brief Yi Pa
+16F03: Miao Letter Pla
+16F04: Miao Brief Ma
+16F05: Miao Brief Mha
+16F06: Miao Brief archaisch Ma
+16F07: Miao Brief Fa
+16F08: Miao Brief Va
+16F09: Miao Letter Vfa
+16F0A: Miao Buchstabe Ta
+16F0B: Miao Letter Da
+16F0C: Miao Buchstabe Yi Tta
+16F0D: Miao Buchstabe Yi Ta
+16F0E: Miao Letter Tta
+16F0F: Miao Letter Dda
+16F10: Miao Brief Na
+16F11: Miao Brief Nha
+16F12: Miao Buchstabe Yi Nna
+16F13: Miao Brief archaisch Na
+16F14: Miao Brief Nna
+16F15: Miao Brief Nnha
+16F16: Miao Brief La
+16F17: Miao-Brief Lya
+16F18: Miao Brief Lha
+16F19: Miao Brief Lhya
+16F1A: Miao Brief Tlha
+16F1B: Miao Brief Dlha
+16F1C: Miao-Buchstabe Tlhya
+16F1D: Miao Brief Dlhya
+16F1E: Miao Buchstabe Ka
+16F1F: Miao Letter Ga
+16F20: Miao Buchstabe Yi Ka
+16F21: Miao Buchstabe Qa
+16F22: Miao Brief Qga
+16F23: Miao Brief Nga
+16F24: Miao Brief Ngha
+16F25: Miao Brief archaischer Nga
+16F26: Miao Brief Ha
+16F27: Miao Brief Xa
+16F28: Miao Buchstabe Gha
+16F29: Miao Brief Ghha
+16F2A: Miao Buchstabe Tssa
+16F2B: Miao Brief Dzza
+16F2C: Miao-Brief Nya
+16F2D: Miao Buchstabe Nyha
+16F2E: Miao Brief Tsha
+16F2F: Miao Brief Dzha
+16F30: Miao-Brief Yi Tsha
+16F31: Miao-Buchstabe Yi Dzha
+16F32: Miao Brief reformierter Tsha
+16F33: Miao Brief Sha
+16F34: Miao Brief Ssa
+16F35: Miao Brief Zha
+16F36: Miao Buchstabe Zsha
+16F37: Miao Brief Tsa
+16F38: Miao Brief Dza
+16F39: Miao Brief Yi Tsa
+16F3A: Miao Brief Sa
+16F3B: Miao Brief Za
+16F3C: Miao Brief Zsa
+16F3D: Miao Brief Zza
+16F3E: Miao Buchstabe Zzsa
+16F3F: Miao Brief Archaic Zza
+16F40: Miao Brief Zzya
+16F41: Miao Buchstabe Zzsya
+16F42: Miao Brief Wa
+16F43: Miao Brief Ah
+16F44: Miao Brief Hha
+16F45:
+16F46:
+16F47:
+16F48:
+16F49:
+16F4A:
+16F4B:
+16F4C:
+16F4D:
+16F4E:
+16F4F:
+16F50: Miao Brief Nasalisierung
+16F51: Miao Sign Aspiration
+16F52: Miao Sign reformierte Intonation
+16F53: Miao-Zeichen reformierte Aspiration
+16F54: Miao Vokalzeichen A
+16F55: Miao Vokalzeichen Aa
+16F56: Miao Vokalzeichen Ahh
+16F57: Miao Vokalzeichen An
+16F58: Miao Vokalzeichen Ang
+16F59: Miao Vokalzeichen O
+16F5A: Miao Vokalzeichen Oo
+16F5B: Miao Vokalzeichen Wo
+16F5C: Miao Vokalzeichen W
+16F5D: Miao Vokalzeichen E
+16F5E: Miao Vokalzeichen En
+16F5F: Miao Vowel Sign Eng
+16F60: Miao Vokalzeichen Oey
+16F61: Miao Vokalzeichen I
+16F62: Miao Vokalzeichen Ia
+16F63: Miao Vokalzeichen Ian
+16F64: Miao Vokalzeichen Iang
+16F65: Miao Vokalzeichen Io
+16F66: Miao Vokalzeichen Ie
+16F67: Miao Vokalzeichen Ii
+16F68: Miao Vokalzeichen Iu
+16F69: Miao Vokalzeichen Ing
+16F6A: Miao Vokalzeichen U
+16F6B: Miao Vokalzeichen Ua
+16F6C: Miao Vokalzeichen Uan
+16F6D: Miao Vokalzeichen Uang
+16F6E: Miao Vokalzeichen Uu
+16F6F: Miao Vokalzeichen Uei
+16F70: Miao Vokalzeichen Ung
+16F71: Miao Vokalzeichen Y
+16F72: Miao Vokalzeichen Yi
+16F73: Miao Vokalzeichen Ae
+16F74: Miao Vokalzeichen Aee
+16F75: Miao Vokalzeichen Err
+16F76: Miao Vokalzeichen Abgerundete Err
+16F77: Miao Vokalzeichen Er
+16F78: Miao Vokalzeichen gerundet Er
+16F79: Miao Vokalzeichen Ai
+16F7A: Miao Vokalzeichen Ei
+16F7B: Miao Vokalzeichen Au
+16F7C: Miao Vokalzeichen Ou
+16F7D: Miao Vokalzeichen N
+16F7E: Miao Vokalzeichen Ng
+16F7F:
+16F80:
+16F81:
+16F82:
+16F83:
+16F84:
+16F85:
+16F86:
+16F87:
+16F88:
+16F89:
+16F8A:
+16F8B:
+16F8C:
+16F8D:
+16F8E:
+16F8F: Miao-Ton richtig
+16F90: Miao-Ton oben rechts
+16F91: Miao-Ton oben
+16F92: Miao Ton unten
+16F93: Miao Brief Ton-2
+16F94: Miao Brief Ton-3
+16F95: Miao Brief Ton-4
+16F96: Miao Letter Tone-5
+16F97: Miao-Brief-Ton-6
+16F98: Miao Letter Tone-7
+16F99: Miao Letter Tone-8
+16F9A: Miao-Brief verbesserter Ton-1
+16F9B: Miao Brief verbesserter Ton-2
+16F9C: Miao-Brief verbesserter Ton-4
+16F9D: Miao-Brief verbesserter Ton-5
+16F9E: Miao-Brief verbesserter Ton-6
+16F9F: Miao-Brief verbesserter Ton-8
+16FA0:
+16FA1:
+16FA2:
+16FA3:
+16FA4:
+16FA5:
+16FA6:
+16FA7:
+16FA8:
+16FA9:
+16FAA:
+16FAB:
+16FAC:
+16FAD:
+16FAE:
+16FAF:
+16FB0:
+16FB1:
+16FB2:
+16FB3:
+16FB4:
+16FB5:
+16FB6:
+16FB7:
+16FB8:
+16FB9:
+16FBA:
+16FBB:
+16FBC:
+16FBD:
+16FBE:
+16FBF:
+16FC0:
+16FC1:
+16FC2:
+16FC3:
+16FC4:
+16FC5:
+16FC6:
+16FC7:
+16FC8:
+16FC9:
+16FCA:
+16FCB:
+16FCC:
+16FCD:
+16FCE:
+16FCF:
+16FD0:
+16FD1:
+16FD2:
+16FD3:
+16FD4:
+16FD5:
+16FD6:
+16FD7:
+16FD8:
+16FD9:
+16FDA:
+16FDB:
+16FDC:
+16FDD:
+16FDE:
+16FDF:
+16FE0: Tangut-Iterationszeichen
+16FE1: Nushu Iterationszeichen
+16FE2:
+16FE3:
+16FE4:
+16FE5:
+16FE6:
+16FE7:
+16FE8:
+16FE9:
+16FEA:
+16FEB:
+16FEC:
+16FED:
+16FEE:
+16FEF:
+16FF0:
+16FF1:
+16FF2:
+16FF3:
+16FF4:
+16FF5:
+16FF6:
+16FF7:
+16FF8:
+16FF9:
+16FFA:
+16FFB:
+16FFC:
+16FFD:
+16FFE:
+16FFF:

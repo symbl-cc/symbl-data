@@ -1,256 +1,256 @@
-AF00: Hangul syllable ggyeols
-AF01: Hangul syllable ggyeolt
-AF02: Hangul syllable ggyeolp
-AF03: Hangul syllable ggyeolh
-AF04: Hangul syllable ggyeom
-AF05: Hangul syllable ggyeob
-AF06: Hangul syllable ggyeobs
-AF07: Hangul syllable ggyeos
-AF08: Hangul syllable ggyeoss
-AF09: Hangul syllable ggyeong
-AF0A: Hangul syllable ggyeoj
-AF0B: Hangul syllable ggyeoc
-AF0C: Hangul syllable ggyeok
-AF0D: Hangul syllable ggyeot
-AF0E: Hangul syllable ggyeop
-AF0F: Hangul syllable ggyeoh
-AF10: Hangul syllable ggye
-AF11: Hangul syllable ggyeg
-AF12: Hangul syllable ggyegg
-AF13: Hangul syllable ggyegs
-AF14: Hangul syllable ggyen
-AF15: Hangul syllable ggyenj
-AF16: Hangul syllable ggyenh
-AF17: Hangul syllable ggyed
-AF18: Hangul syllable ggyel
-AF19: Hangul syllable ggyelg
-AF1A: Hangul syllable ggyelm
-AF1B: Hangul syllable ggyelb
-AF1C: Hangul syllable ggyels
-AF1D: Hangul syllable ggyelt
-AF1E: Hangul syllable ggyelp
-AF1F: Hangul syllable ggyelh
-AF20: Hangul syllable ggyem
-AF21: Hangul syllable ggyeb
-AF22: Hangul syllable ggyebs
-AF23: Hangul syllable ggyes
-AF24: Hangul syllable ggyess
-AF25: Hangul syllable ggyeng
-AF26: Hangul syllable ggyej
-AF27: Hangul syllable ggyec
-AF28: Hangul syllable ggyek
-AF29: Hangul syllable ggyet
-AF2A: Hangul syllable ggyep
-AF2B: Hangul syllable ggyeh
-AF2C: Hangul syllable ggo
-AF2D: Hangul syllable ggog
-AF2E: Hangul syllable ggogg
-AF2F: Hangul syllable ggogs
-AF30: Hangul syllable ggon
-AF31: Hangul syllable ggonj
-AF32: Hangul syllable ggonh
-AF33: Hangul syllable ggod
-AF34: Hangul syllable ggol
-AF35: Hangul syllable ggolg
-AF36: Hangul syllable ggolm
-AF37: Hangul syllable ggolb
-AF38: Hangul syllable ggols
-AF39: Hangul syllable ggolt
-AF3A: Hangul syllable ggolp
-AF3B: Hangul syllable ggolh
-AF3C: Hangul syllable ggom
-AF3D: Hangul syllable ggob
-AF3E: Hangul syllable ggobs
-AF3F: Hangul syllable ggos
-AF40: Hangul syllable ggoss
-AF41: Hangul syllable ggong
-AF42: Hangul syllable ggoj
-AF43: Hangul syllable ggoc
-AF44: Hangul syllable ggok
-AF45: Hangul syllable ggot
-AF46: Hangul syllable ggop
-AF47: Hangul syllable ggoh
-AF48: Hangul syllable ggwa
-AF49: Hangul syllable ggwag
-AF4A: Hangul syllable ggwagg
-AF4B: Hangul syllable ggwags
-AF4C: Hangul syllable ggwan
-AF4D: Hangul syllable ggwanj
-AF4E: Hangul syllable ggwanh
-AF4F: Hangul syllable ggwad
-AF50: Hangul syllable ggwal
-AF51: Hangul syllable ggwalg
-AF52: Hangul syllable ggwalm
-AF53: Hangul syllable ggwalb
-AF54: Hangul syllable ggwals
-AF55: Hangul syllable ggwalt
-AF56: Hangul syllable ggwalp
-AF57: Hangul syllable ggwalh
-AF58: Hangul syllable ggwam
-AF59: Hangul syllable ggwab
-AF5A: Hangul syllable ggwabs
-AF5B: Hangul syllable ggwas
-AF5C: Hangul syllable ggwass
-AF5D: Hangul syllable ggwang
-AF5E: Hangul syllable ggwaj
-AF5F: Hangul syllable ggwac
-AF60: Hangul syllable ggwak
-AF61: Hangul syllable ggwat
-AF62: Hangul syllable ggwap
-AF63: Hangul syllable ggwah
-AF64: Hangul syllable ggwae
-AF65: Hangul syllable ggwaeg
-AF66: Hangul syllable ggwaegg
-AF67: Hangul syllable ggwaegs
-AF68: Hangul syllable ggwaen
-AF69: Hangul syllable ggwaenj
-AF6A: Hangul syllable ggwaenh
-AF6B: Hangul syllable ggwaed
-AF6C: Hangul syllable ggwael
-AF6D: Hangul syllable ggwaelg
-AF6E: Hangul syllable ggwaelm
-AF6F: Hangul syllable ggwaelb
-AF70: Hangul syllable ggwaels
-AF71: Hangul syllable ggwaelt
-AF72: Hangul syllable ggwaelp
-AF73: Hangul syllable ggwaelh
-AF74: Hangul syllable ggwaem
-AF75: Hangul syllable ggwaeb
-AF76: Hangul syllable ggwaebs
-AF77: Hangul syllable ggwaes
-AF78: Hangul syllable ggwaess
-AF79: Hangul syllable ggwaeng
-AF7A: Hangul syllable ggwaej
-AF7B: Hangul syllable ggwaec
-AF7C: Hangul syllable ggwaek
-AF7D: Hangul syllable ggwaet
-AF7E: Hangul syllable ggwaep
-AF7F: Hangul syllable ggwaeh
-AF80: Hangul syllable ggoe
-AF81: Hangul syllable ggoeg
-AF82: Hangul syllable ggoegg
-AF83: Hangul syllable ggoegs
-AF84: Hangul syllable ggoen
-AF85: Hangul syllable ggoenj
-AF86: Hangul syllable ggoenh
-AF87: Hangul syllable ggoed
-AF88: Hangul syllable ggoel
-AF89: Hangul syllable ggoelg
-AF8A: Hangul syllable ggoelm
-AF8B: Hangul syllable ggoelb
-AF8C: Hangul syllable ggoels
-AF8D: Hangul syllable ggoelt
-AF8E: Hangul syllable ggoelp
-AF8F: Hangul syllable ggoelh
-AF90: Hangul syllable ggoem
-AF91: Hangul syllable ggoeb
-AF92: Hangul syllable ggoebs
-AF93: Hangul syllable ggoes
-AF94: Hangul syllable ggoess
-AF95: Hangul syllable ggoeng
-AF96: Hangul syllable ggoej
-AF97: Hangul syllable ggoec
-AF98: Hangul syllable ggoek
-AF99: Hangul syllable ggoet
-AF9A: Hangul syllable ggoep
-AF9B: Hangul syllable ggoeh
-AF9C: Hangul syllable ggyo
-AF9D: Hangul syllable ggyog
-AF9E: Hangul syllable ggyogg
-AF9F: Hangul syllable ggyogs
-AFA0: Hangul syllable ggyon
-AFA1: Hangul syllable ggyonj
-AFA2: Hangul syllable ggyonh
-AFA3: Hangul syllable ggyod
-AFA4: Hangul syllable ggyol
-AFA5: Hangul syllable ggyolg
-AFA6: Hangul syllable ggyolm
-AFA7: Hangul syllable ggyolb
-AFA8: Hangul syllable ggyols
-AFA9: Hangul syllable ggyolt
-AFAA: Hangul syllable ggyolp
-AFAB: Hangul syllable ggyolh
-AFAC: Hangul syllable ggyom
-AFAD: Hangul syllable ggyob
-AFAE: Hangul syllable ggyobs
-AFAF: Hangul syllable ggyos
-AFB0: Hangul syllable ggyoss
-AFB1: Hangul syllable ggyong
-AFB2: Hangul syllable ggyoj
-AFB3: Hangul syllable ggyoc
-AFB4: Hangul syllable ggyok
-AFB5: Hangul syllable ggyot
-AFB6: Hangul syllable ggyop
-AFB7: Hangul syllable ggyoh
-AFB8: Hangul syllable ggu
-AFB9: Hangul syllable ggug
-AFBA: Hangul syllable ggugg
-AFBB: Hangul syllable ggugs
-AFBC: Hangul syllable ggun
-AFBD: Hangul syllable ggunj
-AFBE: Hangul syllable ggunh
-AFBF: Hangul syllable ggud
-AFC0: Hangul syllable ggul
-AFC1: Hangul syllable ggulg
-AFC2: Hangul syllable ggulm
-AFC3: Hangul syllable ggulb
-AFC4: Hangul syllable gguls
-AFC5: Hangul syllable ggult
-AFC6: Hangul syllable ggulp
-AFC7: Hangul syllable ggulh
-AFC8: Hangul syllable ggum
-AFC9: Hangul syllable ggub
-AFCA: Hangul syllable ggubs
-AFCB: Hangul syllable ggus
-AFCC: Hangul syllable gguss
-AFCD: Hangul syllable ggung
-AFCE: Hangul syllable gguj
-AFCF: Hangul syllable gguc
-AFD0: Hangul syllable gguk
-AFD1: Hangul syllable ggut
-AFD2: Hangul syllable ggup
-AFD3: Hangul syllable gguh
-AFD4: Hangul syllable ggweo
-AFD5: Hangul syllable ggweog
-AFD6: Hangul syllable ggweogg
-AFD7: Hangul syllable ggweogs
-AFD8: Hangul syllable ggweon
-AFD9: Hangul syllable ggweonj
-AFDA: Hangul syllable ggweonh
-AFDB: Hangul syllable ggweod
-AFDC: Hangul syllable ggweol
-AFDD: Hangul syllable ggweolg
-AFDE: Hangul syllable ggweolm
-AFDF: Hangul syllable ggweolb
-AFE0: Hangul syllable ggweols
-AFE1: Hangul syllable ggweolt
-AFE2: Hangul syllable ggweolp
-AFE3: Hangul syllable ggweolh
-AFE4: Hangul syllable ggweom
-AFE5: Hangul syllable ggweob
-AFE6: Hangul syllable ggweobs
-AFE7: Hangul syllable ggweos
-AFE8: Hangul syllable ggweoss
-AFE9: Hangul syllable ggweong
-AFEA: Hangul syllable ggweoj
-AFEB: Hangul syllable ggweoc
-AFEC: Hangul syllable ggweok
-AFED: Hangul syllable ggweot
-AFEE: Hangul syllable ggweop
-AFEF: Hangul syllable ggweoh
-AFF0: Hangul syllable ggwe
-AFF1: Hangul syllable ggweg
-AFF2: Hangul syllable ggwegg
-AFF3: Hangul syllable ggwegs
-AFF4: Hangul syllable ggwen
-AFF5: Hangul syllable ggwenj
-AFF6: Hangul syllable ggwenh
-AFF7: Hangul syllable ggwed
-AFF8: Hangul syllable ggwel
-AFF9: Hangul syllable ggwelg
-AFFA: Hangul syllable ggwelm
-AFFB: Hangul syllable ggwelb
-AFFC: Hangul syllable ggwels
-AFFD: Hangul syllable ggwelt
-AFFE: Hangul syllable ggwelp
-AFFF: Hangul syllable ggwelh
+AF00: Hangul Silbe Ggyeols
+AF01: Hangul Silbe Ggyeolt
+AF02: Hangul Silbe Ggyeolp
+AF03: Hangul-Silbe Ggyeolh
+AF04: Hangul Silbe Ggyeom
+AF05: Hangul Silbe Ggyeob
+AF06: Hangul Silbe Ggyeobs
+AF07: Hangul Silbe Ggyeos
+AF08: Hangul Silbe Ggyeoss
+AF09: Hangul-Silbe Ggyeong
+AF0A: Hangul-Silbe Ggyeoj
+AF0B: Hangul-Silbe Ggyeoc
+AF0C: Hangul-Silbe Ggyeok
+AF0D: Hangul-Silbe Ggyeot
+AF0E: Hangul-Silbe Ggyeop
+AF0F: Hangul-Silbe Ggyeoh
+AF10: Hangul Silbe Ggye
+AF11: Hangul Silbe Ggyeg
+AF12: Hangul Silbe Ggyegg
+AF13: Hangul Silbe Ggyegs
+AF14: Hangul Silbe Ggyen
+AF15: Hangul-Silbe Ggyenj
+AF16: Hangul-Silbe Ggyenh
+AF17: Hangul Silbe Ggyed
+AF18: Hangul Silbe Ggyel
+AF19: Hangul-Silbe Ggyelg
+AF1A: Hangul-Silbe Ggyelm
+AF1B: Hangul-Silbe Ggyelb
+AF1C: Hangul Silbe Ggyels
+AF1D: Hangul Silbe Ggyelt
+AF1E: Hangul Silbe Ggyelp
+AF1F: Hangul-Silbe Ggyelh
+AF20: Hangul Silbe Ggyem
+AF21: Hangul Silbe Ggyeb
+AF22: Hangul Silbe Ggyebs
+AF23: Hangul Silbe Ggyes
+AF24: Hangul Silbe Ggyess
+AF25: Hangul-Silbe Ggyeng
+AF26: Hangul-Silbe Ggyej
+AF27: Hangul-Silbe Ggyec
+AF28: Hangul-Silbe Ggyek
+AF29: Hangul-Silbe Ggyet
+AF2A: Hangul Silbe Ggyep
+AF2B: Hangul Silbe Ggyeh
+AF2C: Hangul Silbe Ggo
+AF2D: Hangul Silbe Ggog
+AF2E: Hangul-Silbe Ggogg
+AF2F: Hangul Silbe Ggogs
+AF30: Hangul Silbe Ggon
+AF31: Hangul-Silbe Ggonj
+AF32: Hangul Silbe Ggonh
+AF33: Hangul Silbe Ggod
+AF34: Hangul Silbe Ggol
+AF35: Hangul Silbe Ggolg
+AF36: Hangul-Silbe Ggolm
+AF37: Hangul Silbe Ggolb
+AF38: Hangul Syllable Ggols
+AF39: Hangul Silbe Ggolt
+AF3A: Hangul Silbe Ggolp
+AF3B: Hangul Silbe Ggolh
+AF3C: Hangul Silbe Ggom
+AF3D: Hangul Silbe Ggob
+AF3E: Hangul Silbe Ggobs
+AF3F: Hangul Silbe Ggos
+AF40: Hangul Silbe Ggoss
+AF41: Hangul Silbe Ggong
+AF42: Hangul-Silbe Ggoj
+AF43: Hangul Silbe Ggoc
+AF44: Hangul Silbe Ggok
+AF45: Hangul Silbe Ggot
+AF46: Hangul Silbe Ggop
+AF47: Hangul Silbe Ggoh
+AF48: Hangul Silbe Ggwa
+AF49: Hangul Silbe Ggwag
+AF4A: Hangul-Silbe Ggwagg
+AF4B: Hangul Silbe Ggwags
+AF4C: Hangul-Silbe Ggwan
+AF4D: Hangul-Silbe Ggwanj
+AF4E: Hangul-Silbe Ggwanh
+AF4F: Hangul-Silbe Ggwad
+AF50: Hangul Silbe Ggwal
+AF51: Hangul-Silbe Ggwalg
+AF52: Hangul-Silbe Ggwalm
+AF53: Hangul-Silbe Ggwalb
+AF54: Hangul Silbe Ggwals
+AF55: Hangul-Silbe Ggwalt
+AF56: Hangul Silbe Ggwalp
+AF57: Hangul-Silbe Ggwalh
+AF58: Hangul Silbe Ggwam
+AF59: Hangul Silbe Ggwab
+AF5A: Hangul Silbe Ggwabs
+AF5B: Hangul Silbe Ggwas
+AF5C: Hangul Silbe Ggwass
+AF5D: Hangul-Silbe Ggwang
+AF5E: Hangul-Silbe Ggwaj
+AF5F: Hangul Silbe Ggwac
+AF60: Hangul-Silbe Ggwak
+AF61: Hangul Silbe Ggwat
+AF62: Hangul Silbe Ggwap
+AF63: Hangul Silbe Ggwah
+AF64: Hangul Silbe Ggwae
+AF65: Hangul-Silbe Ggwaeg
+AF66: Hangul-Silbe Ggwaegg
+AF67: Hangul Silbe Ggwaegs
+AF68: Hangul-Silbe Ggwaen
+AF69: Hangul-Silbe Ggwaenj
+AF6A: Hangul-Silbe Ggwaenh
+AF6B: Hangul Silbe Ggwaed
+AF6C: Hangul-Silbe Ggwael
+AF6D: Hangul-Silbe Ggwaelg
+AF6E: Hangul-Silbe Ggwaelm
+AF6F: Hangul Silbe Ggwaelb
+AF70: Hangul Silbe Ggwaels
+AF71: Hangul Silbe Ggwaelt
+AF72: Hangul Silbe Ggwaelp
+AF73: Hangul-Silbe Ggwaelh
+AF74: Hangul-Silbe Ggwaem
+AF75: Hangul Silbe Ggwaeb
+AF76: Hangul Syllable Ggwaebs
+AF77: Hangul Silbe Ggwaes
+AF78: Hangul Silbe Ggwaess
+AF79: Hangul-Silbe Ggwaeng
+AF7A: Hangul-Silbe Ggwaej
+AF7B: Hangul-Silbe Ggwaec
+AF7C: Hangul-Silbe Ggwaek
+AF7D: Hangul-Silbe Ggwaet
+AF7E: Hangul-Silbe Ggwaep
+AF7F: Hangul-Silbe Ggwaeh
+AF80: Hangul Silbe Ggoe
+AF81: Hangul Silbe Ggoeg
+AF82: Hangul-Silbe Ggoegg
+AF83: Hangul Syllable Gogos
+AF84: Hangul-Silbe Ggoen
+AF85: Hangul-Silbe Ggoenj
+AF86: Hangul-Silbe Ggoenh
+AF87: Hangul Syllable Ggoed
+AF88: Hangul Silbe Ggoel
+AF89: Hangul-Silbe Ggoelg
+AF8A: Hangul-Silbe Ggoelm
+AF8B: Hangul Silbe Ggoelb
+AF8C: Hangul Syllable Ggoels
+AF8D: Hangul Silbe Ggoelt
+AF8E: Hangul Silbe Ggoelp
+AF8F: Hangul-Silbe Ggoelh
+AF90: Hangul Silbe Ggoem
+AF91: Hangul-Silbe Ggoeb
+AF92: Hangul Silbe Ggoebs
+AF93: Hangul Syllable Ggoes
+AF94: Hangul Syllable Ggoess
+AF95: Hangul-Silbe Ggoeng
+AF96: Hangul-Silbe Ggoej
+AF97: Hangul-Silbe Ggoec
+AF98: Hangul-Silbe Ggoek
+AF99: Hangul Syllable Ggoet
+AF9A: Hangul Syllable Ggoep
+AF9B: Hangul Silbe Ggoeh
+AF9C: Hangul Silbe Ggyo
+AF9D: Hangul Silbe Ggyog
+AF9E: Hangul-Silbe Ggyogg
+AF9F: Hangul Silbe Ggyogs
+AFA0: Hangul Silbe Ggyon
+AFA1: Hangul-Silbe Ggyonj
+AFA2: Hangul-Silbe Ggyonh
+AFA3: Hangul Silbe Ggyod
+AFA4: Hangul-Silbe Ggyol
+AFA5: Hangul Silbe Ggyolg
+AFA6: Hangul-Silbe Ggyolm
+AFA7: Hangul-Silbe Ggyolb
+AFA8: Hangul Silbe Ggyols
+AFA9: Hangul Silbe Ggyolt
+AFAA: Hangul-Silbe Ggyolp
+AFAB: Hangul-Silbe Ggyolh
+AFAC: Hangul Silbe Ggyom
+AFAD: Hangul Silbe Ggyob
+AFAE: Hangul Silbe Ggyobs
+AFAF: Hangul Silbe Ggyos
+AFB0: Hangul Silbe Ggyoss
+AFB1: Hangul-Silbe Ggyong
+AFB2: Hangul Silbe Ggyoj
+AFB3: Hangul-Silbe Ggyoc
+AFB4: Hangul-Silbe Ggyok
+AFB5: Hangul Silbe Ggyot
+AFB6: Hangul Silbe Ggyop
+AFB7: Hangul-Silbe Ggyoh
+AFB8: Hangul Silbe Ggu
+AFB9: Hangul Silbe Ggug
+AFBA: Hangul Silbe Ggugg
+AFBB: Hangul Silbe Ggugs
+AFBC: Hangul Silbengewehr
+AFBD: Hangul-Silbe Ggunj
+AFBE: Hangul-Silbe Ggunh
+AFBF: Hangul Silbe Ggud
+AFC0: Hangul Silbe Ggul
+AFC1: Hangul Silbe Ggulg
+AFC2: Hangul Silbe Ggulm
+AFC3: Hangul Silbe Ggulb
+AFC4: Hangul Silbe Gguls
+AFC5: Hangul-Silbe Ggult
+AFC6: Hangul Silbe Ggulp
+AFC7: Hangul Silbe Ggulh
+AFC8: Hangul Silbe Ggum
+AFC9: Hangul Syllable Ggub
+AFCA: Hangul Syllable Ggubs
+AFCB: Hangul Silbe Ggus
+AFCC: Hangul Silbe Gguss
+AFCD: Hangul Silbe Ggung
+AFCE: Hangul Silbe Gguj
+AFCF: Hangul Silbe Gguc
+AFD0: Hangul Silbe Gguk
+AFD1: Hangul Silbe Ggut
+AFD2: Hangul Silbe Ggup
+AFD3: Hangul Silbe Gguh
+AFD4: Hangul Silbe Ggweo
+AFD5: Hangul Silbe Ggweog
+AFD6: Hangul-Silbe Ggweogg
+AFD7: Hangul Silbe Ggweogs
+AFD8: Hangul Silbe Ggweon
+AFD9: Hangul-Silbe Ggweonj
+AFDA: Hangul-Silbe Ggweonh
+AFDB: Hangul Silbe Ggweod
+AFDC: Hangul-Silbe Ggweol
+AFDD: Hangul Silbe Ggweolg
+AFDE: Hangul Silbe Ggweolm
+AFDF: Hangul Silbe Ggweolb
+AFE0: Hangul Silbe Ggweols
+AFE1: Hangul Silbe Ggweolt
+AFE2: Hangul Silbe Ggweolp
+AFE3: Hangul-Silbe Ggweolh
+AFE4: Hangul Silbe Ggweom
+AFE5: Hangul Silbe Ggweob
+AFE6: Hangul Silbe Ggweobs
+AFE7: Hangul Silbe Ggweos
+AFE8: Hangul Silbe Ggweoss
+AFE9: Hangul Silbe Ggweong
+AFEA: Hangul-Silbe Ggweoj
+AFEB: Hangul Silbe Ggweoc
+AFEC: Hangul-Silbe Ggweok
+AFED: Hangul Silbe Ggweot
+AFEE: Hangul Silbe Ggweop
+AFEF: Hangul-Silbe Ggweoh
+AFF0: Hangul Silbe Ggwe
+AFF1: Hangul Silbe Ggweg
+AFF2: Hangul-Silbe Ggwegg
+AFF3: Hangul Syllable Ggwegs
+AFF4: Hangul Silbe Ggwen
+AFF5: Hangul-Silbe Ggwenj
+AFF6: Hangul Silbe Ggwenh
+AFF7: Hangul Silbe Ggwed
+AFF8: Hangul Silbe Ggwel
+AFF9: Hangul Silbe Ggwelg
+AFFA: Hangul Silbe Ggwelm
+AFFB: Hangul Silbe Ggwelb
+AFFC: Hangul Silbe Ggwels
+AFFD: Hangul Silbe Ggwelt
+AFFE: Hangul Silbe Ggwelp
+AFFF: Hangul Silbe Ggwelh

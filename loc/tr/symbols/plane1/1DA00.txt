@@ -1,0 +1,256 @@
+1DA00: İşaret Yazma Başlığı
+1DA01: Tabela Baş Hareketi-Duvar Düzlemi
+1DA02: Tabela Baş Hareketi-Duvar Düzlemi Eğimi
+1DA03: İşaret Yazısı Baş Hareketi-Düzlem Düz
+1DA04: Tabela Baş Hareketi-Duvar Düzlemi Eğrisi
+1DA05: Tabela Baş Hareketi-Zemin Düzlemi Eğrisi
+1DA06: İşaret Yazısı Baş Hareketi Çemberi
+1DA07: Tabela Yüz Yönü Pozisyon Burun İleri Eğme
+1DA08: Tabela Yüz Yönü Konumu Burun Yukarı veya Aşağı
+1DA09: Tabela Yüz Yönü Pozisyon Burun Yukarı veya Aşağı Devirme
+1DA0A: Tabela Yazma Kaşları Düz ​​Yukarı
+1DA0B: İmza Kaşları Düz ​​Tarafsız
+1DA0C: İşaretleme kaşları düz aşağı
+1DA0D: İmza rüya gibi kaşları boş aşağı
+1DA0E: İmza rüya gibi kaşları nötr aşağı
+1DA0F: Tabela Rüyası Nötr Kaşları
+1DA10: Tabela Rüyası Kaşlar Nötr Up
+1DA11: İmza Alınan Taraf Neutral
+1DA12: İmzalama Alınan İletişim
+1DA13: Signwriting Forehead Buruşuk
+1DA14: Tabela Yazma Gözleri Açık
+1DA15: İmzalayan gözler sıkılmış
+1DA16: Tabela Yazma Gözleri Kapalı
+1DA17: Tekli İşaret Göz Kırpma Tekli
+1DA18: İşaret Yazısı Birden Çok Yanıp Sönme
+1DA19: Tabela Yazma Gözler Yarı Açık
+1DA1A: Tabela Yazma Gözleri Geniş Açık
+1DA1B: Tabela Yazma Gözler Yarı Kapalı
+1DA1C: İmzalayan Gözler Hareketi Genişletiyor
+1DA1D: İmza Göz Kırpması
+1DA1E: İmzalayan Kirpikler Yukarı
+1DA1F: İmzalayan Kirpik Aşağı
+1DA20: Tabela Kirpikleri Çırpınan
+1DA21: Tabela gözü-düzlem düz
+1DA22: Tabela gözü-Wallplane düz çift
+1DA23: Tabela gözü-Wallplane düz alternatif
+1DA24: Tabelasını göze bakan düzlem düz
+1DA25: Tabela gözü-düzlem düz çift
+1DA26: İşaret Yazısı Göz Pisti-Düzlemsel Düz Dalgalı
+1DA27: Tabela gözü-Wallplane kavisli
+1DA28: İşaret Yazısı Eyegaze-Floorplane Kavisli
+1DA29: Tabela gözü-Wallplane çemberleme
+1DA2A: Tabela Yanakları Şişirilmiş
+1DA2B: Tabela Yanakları Nötr
+1DA2C: Tabela Yanakları Sucked
+1DA2D: İşaret Yazma Zaman Yanakları Yüksek
+1DA2E: İşaret Yazma Zaman Yanakları Orta
+1DA2F: İşaret Yazma Zamanı Yanakları Düşük
+1DA30: İmzalama Kulakları
+1DA31: İşaret Yazısı Burun Nötr
+1DA32: İmzalama Burun İletişim
+1DA33: Tabela Burun Kırışıklıkları
+1DA34: İşaretleme Burun Kıpır Kıpır
+1DA35: Signwriting Hava Üfleme
+1DA36: İşaret Emme Hava Emme
+1DA37: Tabela Hava Üfleme Küçük Rotasyonlar
+1DA38: Tabela Hava Emiş Küçük Rotasyonlar
+1DA39: Tabela nefes nefes
+1DA3A: İmza nefes nefese nefes verme
+1DA3B: İmzalama Ağız Kapalı Nötr
+1DA3C: Tabela Yazma Ağzı Kapalı İleri
+1DA3D: İmzalama Ağız Kapalı İletişim
+1DA3E: İmzalama Ağız Gülüşü
+1DA3F: Tabelalı Ağız Gülüşü Buruşuk
+1DA40: Tabela Mouth Smile Aç
+1DA41: Tabela ağzı kaşlarını
+1DA42: Signwriting Ağız Kaşık Buruşuk
+1DA43: Tabela ağzı kaşlarını aç
+1DA44: Tabela ağzı açık daire
+1DA45: İmzalama Ağzı Açık İleri
+1DA46: Tabela Ağzı Açık Buruşuk
+1DA47: İşaret Ağzı Açık Oval
+1DA48: Tabela Ağzı Açık Oval Buruşuk
+1DA49: İşaretleme Ağzı Açık Oval Yawn
+1DA4A: İşaretleme Ağzı Açık Dikdörtgen
+1DA4B: Tabela Ağzı Açık Dikdörtgen Buruşuk
+1DA4C: Tabela ağzı açık dikdörtgen esneme
+1DA4D: İmzalama Ağız Öpücüğü
+1DA4E: Tabela Ağzı Öpüşme İleri
+1DA4F: İşaret Ağzı Öpücük Buruşuk
+1DA50: İmzalama Ağız Gerginliği
+1DA51: İmzalama Ağız Zaman İlerlemesi
+1DA52: Tabela ağzı gergin sucked
+1DA53: İmzalama Dudakları Birlikte Basıldı
+1DA54: Tabela Dudak Üstü Aşağı
+1DA55: Tabela Dudak Üst Aşırı Alt
+1DA56: İşaretleme Ağız Köşeleri
+1DA57: Tek Tabelalı Ağız Kırışıklıkları
+1DA58: İşaret Ağzı Kırışıklıkları Çift
+1DA59: İşaret dili çok uzaklara yapışıyor
+1DA5A: Tabela Dilini Yalama Dudakları
+1DA5B: Dudaklar Arasında Dil Yazısı İşaret Yazımı
+1DA5C: Ağız İçine Dokunmak İçin İşaret Dilini Yazma
+1DA5D: Ağzının İçindeki İşaret Dili
+1DA5E: İşaret Dili, Yanağa Karşı Hareket Etti
+1DA5F: İşaretleme Dil Merkezi Yapışmasını
+1DA60: Ağız İçindeki Dil Merkezi
+1DA61: İmzalama Dişler
+1DA62: Yazma Diş Hareketi
+1DA63: Dil üzerine Tabela Dişi
+1DA64: Dil Hareketi Üzerine İmzalama Dişler
+1DA65: Dudaklarında Diş Yazma
+1DA66: Dudak Hareketi Üzerine İmzalama Dişler
+1DA67: İmzalama Dişler Bite Dudaklar
+1DA68: Tabela Hareketi-Wallplane Çenesi
+1DA69: Tabela Hareketi-Floorplane Çenesi
+1DA6A: İmza Boyun
+1DA6B: İmza Saç
+1DA6C: İmza Yazısı Heyecanı
+1DA6D: İmzalama Omuz Kalça Omurga
+1DA6E: Tabela Omuz Kalça Pozisyonları
+1DA6F: Tabela Wallplane Omuz Kalça Taşı
+1DA70: Tabela Düzlem Omuz Kalça Taşı
+1DA71: Belden Yatırma İşaretleme Omuz
+1DA72: Tabela-Duvar Düzlemi Düz Streç Yazısı
+1DA73: Tabela-Gövde Kavisli Viraj
+1DA74: Tabela-Zemin Düzlem Büküm
+1DA75: Kalça Eklemlerinden Üst Gövde Yatırma
+1DA76: İmzalama Bacak Kombinasyonu
+1DA77: İmzalama Bacak Uzunluğu-1
+1DA78: İmzalama Bacak Uzunluğu-2
+1DA79: İmzalama Bacak Uzunluğu-3
+1DA7A: İmzalama Bacak Uzunluğu-4
+1DA7B: İmza Uzuv Uzunluğu-5
+1DA7C: İmza Uzuv Uzunluğu-6
+1DA7D: İmza Uzuv Uzunluğu-7
+1DA7E: İşaret parmağı
+1DA7F: İmza yeri-duvar uçağı alanı
+1DA80: Yer İmkanı-Yer Düzlemi Alanı
+1DA81: İşaret Yazısı Konum Yüksekliği
+1DA82: İmza Konum Genişliği
+1DA83: İmza yeri derinliği
+1DA84: Tabela Konumu Baş Boyun
+1DA85: İşaret Yazısı Konumu
+1DA86: İmzalama Konum Bacaklar Rakamlar
+1DA87: İmza Virgülleri
+1DA88: Tam Duruşta İmza Yazma
+1DA89: İşaret Yazma Noktalı virgül
+1DA8A: İşaret yazısı iki nokta
+1DA8B: İşaret Yazarlığı Parantez
+1DA8C:
+1DA8D:
+1DA8E:
+1DA8F:
+1DA90:
+1DA91:
+1DA92:
+1DA93:
+1DA94:
+1DA95:
+1DA96:
+1DA97:
+1DA98:
+1DA99:
+1DA9A:
+1DA9B: İşaret Yazımı Doldurma Değiştiricisi-2
+1DA9C: İşaret Yazımı Doldurma Değiştiricisi-3
+1DA9D: Tabela Doldurma Değiştiricisi-4
+1DA9E: İşaret Yazımı Doldurma Değiştiricisi-5
+1DA9F: Tabela Doldurma Değiştiricisi-6
+1DAA0:
+1DAA1: İşaret Yazısı Rotasyon Değiştiricisi-2
+1DAA2: İşaret Yazısı Rotasyon Değiştiricisi-3
+1DAA3: İşaret Yazısı Rotasyon Değiştiricisi-4
+1DAA4: İşaret Yazısı Rotasyon Değiştirici-5
+1DAA5: İmza Döndürme Değiştirici-6
+1DAA6: İşaret Yazısı Rotasyon Değiştirici-7
+1DAA7: İşaret Yazısı Rotasyon Değiştirici-8
+1DAA8: İşaret Yazısı Rotasyon Değiştiricisi-9
+1DAA9: İşaret Yazısı Rotasyon Değiştirici-10
+1DAAA: İşaret Yazısı Rotasyon Değiştirici-11
+1DAAB: İşaret Yazısı Rotasyon Değiştirici-12
+1DAAC: İşaret Yazısı Rotasyon Değiştirici-13
+1DAAD: İşaret Yazısı Rotasyon Değiştirici-14
+1DAAE: İşaret Yazısı Rotasyon Değiştirici-15
+1DAAF: İmza Döndürme Düzenleyici-16
+1DAB0:
+1DAB1:
+1DAB2:
+1DAB3:
+1DAB4:
+1DAB5:
+1DAB6:
+1DAB7:
+1DAB8:
+1DAB9:
+1DABA:
+1DABB:
+1DABC:
+1DABD:
+1DABE:
+1DABF:
+1DAC0:
+1DAC1:
+1DAC2:
+1DAC3:
+1DAC4:
+1DAC5:
+1DAC6:
+1DAC7:
+1DAC8:
+1DAC9:
+1DACA:
+1DACB:
+1DACC:
+1DACD:
+1DACE:
+1DACF:
+1DAD0:
+1DAD1:
+1DAD2:
+1DAD3:
+1DAD4:
+1DAD5:
+1DAD6:
+1DAD7:
+1DAD8:
+1DAD9:
+1DADA:
+1DADB:
+1DADC:
+1DADD:
+1DADE:
+1DADF:
+1DAE0:
+1DAE1:
+1DAE2:
+1DAE3:
+1DAE4:
+1DAE5:
+1DAE6:
+1DAE7:
+1DAE8:
+1DAE9:
+1DAEA:
+1DAEB:
+1DAEC:
+1DAED:
+1DAEE:
+1DAEF:
+1DAF0:
+1DAF1:
+1DAF2:
+1DAF3:
+1DAF4:
+1DAF5:
+1DAF6:
+1DAF7:
+1DAF8:
+1DAF9:
+1DAFA:
+1DAFB:
+1DAFC:
+1DAFD:
+1DAFE:
+1DAFF:
