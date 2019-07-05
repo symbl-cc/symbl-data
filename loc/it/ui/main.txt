@@ -8,8 +8,8 @@ list	: Set di caratteri
 block	: Bloccare
 list	: Blocchi Unicode
 	
-[languages]	: Le lingue
-list	: Le lingue
+[languages]	: Lingue
+list	: Lingue
 blocks	: Blocchi di lingua
 	
 [countries]	: Paesi

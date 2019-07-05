@@ -1,4 +1,4 @@
-control-character 	: carattere di controllo
+control-character 	: Caratteri di controllo
 basic-latin     	: Latino di base
 latin-1-supplement 	: Latin-1 Supplemento
 latin-extended-a 	: Latino esteso-A
@@ -9,10 +9,10 @@ combining-diacritical-marks 	: La combinazione di segni diacritici
 greek-coptic    	: Greci e copti
 cyrillic        	: cirillico
 cyrillic-supplement 	: Supplemento cirillico
-armenian        	: armeno
-hebrew          	: ebraico
+armenian        	: Armeno
+hebrew          	: Ebraico
 arabic          	: Arabo
-syrian          	: siriaco
+syrian          	: Siriaco
 arabic-supplement 	: Supplemento arabo
 thaana          	: Thaana
 nko             	: NKO
