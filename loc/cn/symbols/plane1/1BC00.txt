@@ -160,8 +160,8 @@
 1BC9F: Duployan标点Chinook完全停止
 1BCA0: 速记格式字母重叠
 1BCA1: 速记格式持续重叠
-1BCA2: 速记格式向下步骤 : 罗马尼亚词缀 - 音乐 -  : 斯隆收缩结束oo / o + zwsp
-1BCA3: 速记格式化步骤 : 斯隆收缩了结尾uh / au / aui + zwsp
+1BCA2: 速记格式向下步骤: 罗马尼亚词缀 - 音乐 -  , 斯隆收缩结束oo / o + zwsp
+1BCA3: 速记格式化步骤: 斯隆收缩了结尾uh / au / aui + zwsp
 1BCA4:
 1BCA5:
 1BCA6:
@@ -253,4 +253,4 @@
 1BCFC:
 1BCFD:
 1BCFE:
-1BCFF:
+1BCFF:

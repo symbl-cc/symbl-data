@@ -19,9 +19,9 @@
 0512: Kyrillischer Großbuchstabe El mit Haken
 0513: Kyrillischer Kleinbuchstabe El mit Haken
 0514: Kyrillischer Großbuchstabe Lha
-0515: Kyrillischer Kleinbuchstabe Lha : stimmlos l
+0515: Kyrillischer Kleinbuchstabe Lha: stimmlos l
 0516: Kyrillischer Großbuchstabe Rha
-0517: Kyrillischer Kleinbuchstabe Rha : stimmlos r
+0517: Kyrillischer Kleinbuchstabe Rha: stimmlos r
 0518: Kyrillischer Großbuchstabe Yae
 0519: Kyrillischer Kleinbuchstabe Yae
 051A: Kyrillischer Großbuchstabe Qa
@@ -31,9 +31,9 @@
 051E: Kyrillischer Großbuchstabe Aleut Ka
 051F: Kyrillischer Kleinbuchstabe Aleut Ka
 0520: Kyrillischer Großbuchstabe El mit mittlerem Haken
-0521: Kyrillischer Kleinbuchstabe EL mit mittlerem Haken : palatalisiert l
+0521: Kyrillischer Kleinbuchstabe EL mit mittlerem Haken: palatalisiert l
 0522: Kyrillischer Großbuchstabe En mit mittlerem Haken
-0523: Kyrillischer Kleinbuchstabe En mit Mittelhaken : palatalisiert n
+0523: Kyrillischer Kleinbuchstabe En mit Mittelhaken: palatalisiert n
 0524: Kyrillischer Großbuchstabe Pe mit Descender
 0525: Kyrillischer Kleinbuchstabe Pe mit Descender
 0526: Kyrillischer Großbuchstabe Shha mit Descender
@@ -88,12 +88,12 @@
 0557:
 0558:
 0559: Armenischer Modifikationsbuchstabe Linker halber Ring
-055A: Armenischer Apostrophe : armenischer Modifizierer-Buchstabe, rechter Halbring
-055B: Armenisches Schwerpunktzeichen : shesht
-055C: Armenisches Ausrufezeichen : Batsaganchakan Nshan
-055D: Armenisches Komma : Bowt
-055E: Armenisches Fragezeichen : Hartsakan Nshan
-055F: Armenisches Abkürzungszeichen : Patiw
+055A: Armenischer Apostrophe: armenischer Modifizierer-Buchstabe, rechter Halbring
+055B: Armenisches Schwerpunktzeichen: shesht
+055C: Armenisches Ausrufezeichen: Batsaganchakan Nshan
+055D: Armenisches Komma: Bowt
+055E: Armenisches Fragezeichen: Hartsakan Nshan
+055F: Armenisches Abkürzungszeichen: Patiw
 0560: Armenischer Kleinbuchstabe gedrehtes Ayb
 0561: Armenischer Kleinbuchstabe Ayb
 0562: Armenischer Kleinbuchstabe Ben
@@ -135,44 +135,44 @@
 0586: Armenischer Kleinbuchstabe Feh
 0587: Armenische kleine Ligatur Ech Yiwn
 0588: Armenischer Kleinbuchstabe Yi mit Schlaganfall
-0589: Armenischer Stop : Vertsaket
-058A: Armenischer Bindestrich : Yentamna
+0589: Armenischer Stop: Vertsaket
+058A: Armenischer Bindestrich: Yentamna
 058B:
 058C:
 058D: Armenisches Ewigkeit-Zeichen der rechten Seite
 058E: Armenisches Ewigkeit-Zeichen der linken Seite
 058F: Armenisches Dram-Zeichen
 0590:
-0591: Hebräischer Akzent Etnahta : Atnah
-0592: Hebräischer Akzent Segol : Segolta
+0591: Hebräischer Akzent Etnahta: Atnah
+0592: Hebräischer Akzent Segol: Segolta
 0593: Hebräischer Akzent Shalshelet
 0594: Hebräischer Akzent Zaqef Qatan
 0595: Hebräischer Akzent Zaqef Gadol
-0596: Hebräischer Akzent Tipeha : tarha, me'ayla ~ mayla
+0596: Hebräischer Akzent Tipeha: tarha, me'ayla ~ mayla
 0597: Hebräischer Akzent Revia
-0598: Hebräischer Akzent Zarqa : Tsinorit, Zinkorit; Tsinor, Sinor
+0598: Hebräischer Akzent Zarqa: Tsinorit, Zinkorit, Tsinor, Sinor
 0599: Hebräischer Akzent Pashta
 059A: Hebräischer Akzent Yetiv
 059B: Hebräischer Akzent Tevir
-059C: Hebräischer Akzent Geresh : teres
+059C: Hebräischer Akzent Geresh: teres
 059D: Hebräischer Akzent Geresh Muqdam
 059E: Hebräischer Akzent Gershayim
-059F: Hebräischer Akzent Qarney Para : Pazer Gadol
+059F: Hebräischer Akzent Qarney Para: Pazer Gadol
 05A0: Hebräischer Akzent Telisha Gedola
-05A1: Hebräischer Akzent Pazer : Pazer Qatan
+05A1: Hebräischer Akzent Pazer: Pazer Qatan
 05A2: Hebräischer Akzent Atnah Hafukh
 05A3: Hebräischer Akzent Munah
 05A4: Hebräischer Akzent Mahapakh
-05A5: Hebräischer Akzent Merkha : yored
+05A5: Hebräischer Akzent Merkha: yored
 05A6: Hebräischer Akzent Merkha Kefula
 05A7: Hebräischer Akzent Darga
-05A8: Hebräischer Akzent Qadma : Azla
+05A8: Hebräischer Akzent Qadma: Azla
 05A9: Hebräischer Akzent Telisha Qetana
-05AA: Hebräischer Akzent Yerah Ben Yomo : Galgal
+05AA: Hebräischer Akzent Yerah Ben Yomo: Galgal
 05AB: Hebräischer Akzent Ole
 05AC: Hebräischer Akzent Iluy
 05AD: Hebräischer Akzent Dehi
-05AE: Hebräischer Akzent Zinor : Tsinor; Zarqa
+05AE: Hebräischer Akzent Zinor: Tsinor, Zarqa
 05AF: Hebräischer Mark Masora Circle
 05B0: Hebräischer Punkt Sheva
 05B1: Hebräischer Punkt Hataf Segol
@@ -186,11 +186,11 @@
 05B9: Hebräischer Punkt Holam
 05BA: Hebräischer Punkt Holam Haser für Vav
 05BB: Hebräische Punkt Qubuts
-05BC: Hebräischer Punkt Dagesh oder Mapiq : shuruq
-05BD: Hebräischer Punkt Meteg : Siluq
+05BC: Hebräischer Punkt Dagesh oder Mapiq: shuruq
+05BD: Hebräischer Punkt Meteg: Siluq
 05BE: Hebräisch Interpunktion Maqaf
 05BF: Hebräischer Punkt Rafe
-05C0: Hebräische Interpunktion Paseq : legarmeh
+05C0: Hebräische Interpunktion Paseq: legarmeh
 05C1: Hebräischer Punkt Shin Dot
 05C2: Hebräischer Punkt Sin Dot
 05C3: Hebräische Interpunktion Sof Pasuq
@@ -206,7 +206,7 @@
 05CD:
 05CE:
 05CF:
-05D0: Hebräischer Brief Alef : Aleph
+05D0: Hebräischer Brief Alef: Aleph
 05D1: Hebräische Buchstabenwette
 05D2: Hebräischer Buchstabe Gimel
 05D3: Hebräischer Brief Dalet
@@ -228,7 +228,7 @@
 05E3: Hebräischer Brief Final Pe
 05E4: Hebräischer Buchstabe Pe
 05E5: Hebräischer Brief Final Tsadi
-05E6: Hebräischer Buchstabe Tsadi : Zade
+05E6: Hebräischer Buchstabe Tsadi: Zade
 05E7: Hebräischer Brief Qof
 05E8: Hebräischer Brief Resh
 05E9: Hebräischer Buchstabe Shin
@@ -238,9 +238,9 @@
 05ED:
 05EE:
 05EF: Hebräisches Yod-Dreieck
-05F0: Hebräische Ligatur Jiddisch Double Vav : tsvey vovn
+05F0: Hebräische Ligatur Jiddisch Double Vav: tsvey vovn
 05F1: Hebräische Ligatur Jiddisch Vav Yod
-05F2: Hebräische Ligatur Jiddisch Double Yod : tsvey yudn
+05F2: Hebräische Ligatur Jiddisch Double Yod: tsvey yudn
 05F3: Hebräische Interpunktion Geresh
 05F4: Hebräische Interpunktion Gershayim
 05F5:
@@ -253,4 +253,4 @@
 05FC:
 05FD:
 05FE:
-05FF:
+05FF:

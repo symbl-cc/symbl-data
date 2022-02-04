@@ -24,8 +24,8 @@
 3017: Jobb fehér lentikuláris konzol
 3018: Bal fehér teknős Shell konzol
 3019: Jobb fehér teknős Shell konzol
-301A: Bal fehér négyzet zárójel : bal oldali absztrakt szintaxis zárójel
-301B: Jobb fehér négyzet zárójel : jobb absztrakt szintaxis-konzol
+301A: Bal fehér négyzet zárójel: bal oldali absztrakt szintaxis zárójel
+301B: Jobb fehér négyzet zárójel: jobb absztrakt szintaxis-konzol
 301C: Wave Dash
 301D: Megfordított kettős Prime idézőjel
 301E: Dupla Prime idézőjel
@@ -44,9 +44,9 @@
 302B: Ideográfiai emelkedő hangjelzés
 302C: Ideográfiai kimenő hangjelzés
 302D: Ideográfiai hangjelzés bevitele
-302E: Hangul Single Dot Tone Mark : egyetlen dot bangjeom
-302F: Hangul dupla pont hangjelzés : dupla dot bangjeom
-3030: Hullámos kötőjel : Hullám
+302E: Hangul Single Dot Tone Mark: egyetlen dot bangjeom
+302F: Hangul dupla pont hangjelzés: dupla dot bangjeom
+3030: Hullámos kötőjel: Hullám
 3031: Függőleges Kana ismétlés jel
 3032: Függőleges Kana ismétlés hangos hangjelzéssel
 3033: Függőleges Kana ismétlés Mark Upper Half
@@ -59,7 +59,7 @@
 303A: Hangzhou szám: harminc
 303B: Függőleges Ideográfiai Iterációs Jel
 303C: Masu Mark
-303D: Part Alternation Mark : M, McDonald's
+303D: Part Alternation Mark: M, McDonald's
 303E: Ideográfiai variációs indikátor
 303F: Ideográfiai féltöltő tér
 3040:
@@ -85,8 +85,8 @@
 3054: Hiragana Letter Go
 3055: Hiragana Letter Sa
 3056: Hiragana Za
-3057: Hiragana Letter Si : shi
-3058: Hiragana Zi : ji (nem egyedi)
+3057: Hiragana Letter Si: shi
+3058: Hiragana Zi: ji (nem egyedi)
 3059: Hiragana Letter Su
 305A: Hiragana Zu
 305B: Hiragana Letter Se
@@ -95,11 +95,11 @@
 305E: Hiragana Letter Zo
 305F: Hiragana Letter Ta
 3060: Hiragana Letter Da
-3061: Hiragana Letter Ti : chi
-3062: Hiragana Letter Di : ji (nem egyedi)
-3063: Hiragana Letter Small Tu : kis tsu
-3064: Hiragana levél Tu : tsu
-3065: Hiragana Letter Du : zu (nem egyedi)
+3061: Hiragana Letter Ti: chi
+3062: Hiragana Letter Di: ji (nem egyedi)
+3063: Hiragana Letter Small Tu: kis tsu
+3064: Hiragana levél Tu: tsu
+3065: Hiragana Letter Du: zu (nem egyedi)
 3066: Hiragana levél Te
 3067: Hiragana Letter De
 3068: Hiragana levél
@@ -115,7 +115,7 @@
 3072: Hiragana Letter Hi
 3073: Hiragana Letter Bi
 3074: Hiragana Letter Pi
-3075: Hiragana Letter Hu : fu
+3075: Hiragana Letter Hu: fu
 3076: Hiragana Letter Bu
 3077: Hiragana Letter Pu
 3078: Hiragana levele
@@ -181,8 +181,8 @@
 30B4: Katakana Letter Go
 30B5: Katakana Letter Sa
 30B6: Katakana Za
-30B7: Katakana Letter Si : shi
-30B8: Katakana Letter Zi : ji (nem egyedi)
+30B7: Katakana Letter Si: shi
+30B8: Katakana Letter Zi: ji (nem egyedi)
 30B9: Katakana Letter Su
 30BA: Katakana Zu
 30BB: Katakana Letter Se
@@ -191,11 +191,11 @@
 30BE: Katakana Letter Zo
 30BF: Katakana Letter Ta
 30C0: Katakana Letter Da
-30C1: Katakana Letter Ti : chi
-30C2: Katakana Letter Di : ji (nem egyedi)
-30C3: Katakana Letter Small Tu : kis tsu
-30C4: Katakana Letter Tu : tsu
-30C5: Katakana Letter Du : zu (nem egyedi)
+30C1: Katakana Letter Ti: chi
+30C2: Katakana Letter Di: ji (nem egyedi)
+30C3: Katakana Letter Small Tu: kis tsu
+30C4: Katakana Letter Tu: tsu
+30C5: Katakana Letter Du: zu (nem egyedi)
 30C6: Katakana levél Te
 30C7: Katakana Letter De
 30C8: Katakana levél
@@ -211,7 +211,7 @@
 30D2: Katakana Letter Hi
 30D3: Katakana Letter Bi
 30D4: Katakana Letter Pi
-30D5: Katakana Letter Hu : fu
+30D5: Katakana Letter Hu: fu
 30D6: Katakana Letter Bu
 30D7: Katakana Letter Pu
 30D8: Katakana levél

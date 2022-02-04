@@ -1,256 +1,256 @@
-1F500: Twisted Rightwards Arrows : shuffle
-1F501: Clockwise Rightwards and Leftwards Open Circle Arrows : repeat
-1F502: Clockwise Rightwards and Leftwards Open Circle Arrows with Circled One Overlay : repeat one item over
-1F503: Clockwise Downwards and Upwards Open Circle Arrows : reload
-1F504: Anticlockwise Downwards and Upwards Open Circle Arrows : reload
-1F505: Low Brightness Symbol
-1F506: High Brightness Symbol
-1F507: Speaker with Cancellation Stroke
-1F508: Speaker : left speaker
-1F509: Speaker with One Sound Wave
-1F50A: Speaker with Three Sound Waves : sound
-1F50B: Battery
-1F50C: Electric Plug
-1F50D: Left-Pointing Magnifying Glass : search : loupe
-1F50E: Right-Pointing Magnifying Glass : get more details : search : loupe
-1F50F: Lock with Ink Pen : privacy
-1F510: Closed Lock with Key : secure
-1F511: Key
-1F512: Lock : padlock in locked position
-1F513: Open Lock
-1F514: Bell
-1F515: Bell with Cancellation Stroke
-1F516: Bookmark
-1F517: Link Symbol
-1F518: Radio Button
-1F519: Back with Leftwards Arrow Above
-1F51A: End with Leftwards Arrow Above
-1F51B: On with Exclamation Mark with Left Right Arrow Above
-1F51C: Soon with Rightwards Arrow Above
-1F51D: Top with Upwards Arrow Above : top of page
-1F51E: No One Under Eighteen Symbol
-1F51F: Keycap Ten
-1F520: Input Symbol for Latin nagybetűs
-1F521: Input Symbol for Latin kis betűs
-1F522: Input Symbol for Numbers
-1F523: Input Symbol for Symbols
-1F524: Input Symbol for Latin betűs : english input (abc)
-1F525: Fire
-1F526: Electric Torch : flashlight
-1F527: Wrench
-1F528: Hammer
-1F529: Nut and Bolt
-1F52A: Hocho : japanese kitchen knife
-1F52B: Pistol
-1F52C: Microscope
-1F52D: Telescope
-1F52E: Crystal Ball
-1F52F: Six Pointed Star with Middle Dot
-1F530: Japanese Symbol for Beginner
-1F531: Trident Emblem
-1F532: Black Square Button
-1F533: White Square Button
-1F534: Large Red Circle
-1F535: Large Blue Circle
-1F536: Large Orange Diamond
-1F537: Large Blue Diamond
-1F538: Small Orange Diamond
-1F539: Small Blue Diamond
-1F53A: Up-Pointing Red Triangle
-1F53B: Down-Pointing Red Triangle
-1F53C: Up-Pointing Small Red Triangle : play arrow up
-1F53D: Down-Pointing Small Red Triangle : play arrow down
-1F53E: Lower Right Shadowed White Circle : circle shadow down
-1F53F: Upper Right Shadowed White Circle
-1F540: Circled Cross Pommee
-1F541: Cross Pommee with Half-Circle Below
-1F542: Cross Pommee
-1F543: Notched Left Semicircle with Three Dots
-1F544: Notched Right Semicircle with Three Dots
-1F545: Symbol for Marks Chapter
-1F546: White Latin Cross : cross outline
-1F547: Heavy Latin Cross
-1F548: Celtic Cross
-1F549: Om Symbol
-1F54A: Dove of Peace : peace
-1F54B:
-1F54C:
-1F54D:
-1F54E:
-1F54F:
-1F550: Clock Face One Oclock
-1F551: Clock Face Two Oclock
-1F552: Clock Face Three Oclock
-1F553: Clock Face Four Oclock
-1F554: Clock Face Five Oclock
-1F555: Clock Face Six Oclock
-1F556: Clock Face Seven Oclock
-1F557: Clock Face Eight Oclock
-1F558: Clock Face Nine Oclock
-1F559: Clock Face Ten Oclock
-1F55A: Clock Face Eleven Oclock
-1F55B: Clock Face Twelve Oclock
-1F55C: Clock Face One-Thirty
-1F55D: Clock Face Two-Thirty
-1F55E: Clock Face Three-Thirty
-1F55F: Clock Face Four-Thirty
-1F560: Clock Face Five-Thirty
-1F561: Clock Face Six-Thirty
-1F562: Clock Face Seven-Thirty
-1F563: Clock Face Eight-Thirty
-1F564: Clock Face Nine-Thirty
-1F565: Clock Face Ten-Thirty
-1F566: Clock Face Eleven-Thirty
-1F567: Clock Face Twelve-Thirty
-1F568: Right Speaker
-1F569: Right Speaker with One Sound Wave
-1F56A: Right Speaker with Three Sound Waves
-1F56B: Bullhorn : sound off
-1F56C: Bullhorn with Sound Waves : sound on
-1F56D: Ringing Bell
-1F56E: Book
-1F56F: Candle
-1F570: Mantelpiece Clock : clock
-1F571: Black Skull and Crossbones
-1F572: No Piracy
-1F573: Hole : portable hole
-1F574: Man In Business Suit Levitating : jump
-1F575: Sleuth or Spy : investigate
-1F576: Dark Sunglasses : cool
-1F577: Spider
-1F578: Spider Web
+1F500: Jobbra fordult nyilak: keverés
+1F501: Az óramutató járásával megegyezően jobbra és balra nyitott kör nyilak: ismétlés
+1F502: Az óramutató járásával megegyezően jobbra és balra nyitott kör nyilak egy körbefedéssel: ismételje meg az elemet többször
+1F503: Az óramutató járásával megegyezően lefelé és felfelé nyitott kör nyilak: reload
+1F504: Az óramutató járásával ellentétesen lefelé és felfelé nyitott kör nyilak: reload
+1F505: Alacsony fényerősségű szimbólum
+1F506: Nagy fényerő szimbólum
+1F507: Hangszóró törlési lökettel
+1F508: Hangszóró: bal hangszóró
+1F509: Egy hanghullámú hangszóró
+1F50A: Hangszóró három hanghullámmal: hang
+1F50B: Akkumulátor
+1F50C: Elektromos csatlakozó
+1F50D: Balra mutató nagyító: keresés, nagyító, nagyítás
+1F50E: Jobbra mutató nagyító: további részletek
+1F50F: Zárja le a tolltartót: adatvédelem, jelszó, https, SSL
+1F510: Zárt zár kulccsal: biztonságos, jelszó, https, SSL
+1F511: Kulcs: Jelszó
+1F512: Zár: lakat zárt helyzetben, jelszó, https, SSL
+1F513: Nyissa ki a zárat: jelszó, https, SSL
+1F514: Harang
+1F515: Csengő törlési sztrájkkal
+1F516: Könyvjelző
+1F517: Link szimbólum
+1F518: Rádiógomb
+1F519: Vissza balra mutató nyíllal fent
+1F51A: Vége a balra mutató nyíl felett
+1F51B: On felkiáltójellel balra jobbra nyíl felett
+1F51C: Hamarosan a jobbra mutató nyíl felett
+1F51D: Felül felfelé mutató nyíllal fent: lap teteje
+1F51E: Senki sem tizennyolc szimbólum alatt
+1F51F: Keycap tíz
+1F520: Bemeneti szimbólum a latin nagybetűkkel
+1F521: Bemeneti szimbólum latin kisbetűkkel
+1F522: A számok beviteli szimbóluma
+1F523: Bemeneti szimbólum
+1F524: Bemeneti szimbólum latin betűkhez: angol nyelv (abc)
+1F525: Tűz: láng, láng, égés, máglya, forró
+1F526: Elektromos fáklya: zseblámpa
+1F527: Csavarkulcs: llave
+1F528: Kalapács
+1F529: Anya és csavar
+1F52A: Japán kés: japán konyhai kés
+1F52B: Pisztoly
+1F52C: Mikroszkóp
+1F52D: Távcső
+1F52E: Kristálygömb
+1F52F: Hat hegyes csillag középső ponttal
+1F530: Japán szimbólum kezdőnek
+1F531: Hármas embléma: Poszeidón
+1F532: Fekete négyzet gomb
+1F533: Fehér négyzet gomb
+1F534: Nagy piros kör
+1F535: Nagy kék kör
+1F536: Nagy narancssárga gyémánt
+1F537: Nagy kék gyémánt
+1F538: Kis narancssárga gyémánt
+1F539: Kis kék gyémánt
+1F53A: Felfelé mutató piros háromszög
+1F53B: Lefelé mutató piros háromszög
+1F53C: Felfelé mutató kis piros háromszög: játék nyíl felfelé
+1F53D: Lefelé mutató kis piros háromszög: játék nyíl lefelé
+1F53E: Jobb alsó árnyékolt fehér kör: kör árnyék le
+1F53F: Jobb felső felső árnyékolt fehér kör
+1F540: Kör kereszt pommee
+1F541: Kereszt pommee félkör alatt
+1F542: Kereszt pommee
+1F543: Kivágott bal oldali félkör három ponttal
+1F544: Kivágott, jobb oldali félkör három ponttal
+1F545: Jelölések fejezet szimbóluma
+1F546: Fehér latin kereszt: keresztvázlat
+1F547: Nehéz latin kereszt
+1F548: Kelta kereszt
+1F549: Om szimbólum
+1F54A: A béke galambja: béke
+1F54B: Kába
+1F54C: Mecset
+1F54D: Zsinagóga
+1F54E: Menorah kilenc ággal: hanukiah
+1F54F: Tál higiénia
+1F550: Óra szemben egy órával
+1F551: Óra számlap két órával
+1F552: Óra számlap három óra
+1F553: Óra számlap négy óra
+1F554: Óra számlap öt óra
+1F555: Óra számlap hat óra
+1F556: Óra számlap hét óra
+1F557: Óra számlap nyolc óra
+1F558: Óraszám kilenc óra
+1F559: Óra számlap tíz óra
+1F55A: Óra számlap tizenegy óra
+1F55B: Óraszámlap tizenkét óra
+1F55C: Az óra arca harminc
+1F55D: Óra számlap harminc
+1F55E: Óraszám: harminc
+1F55F: Óra számlap harminc
+1F560: Óraszám öt-harminc
+1F561: Óraszám hat-harminc
+1F562: Óraszám hét-harminc óra
+1F563: Óra számlap nyolcvan harminc
+1F564: Óraszám kilenc harminc
+1F565: Óraszám tíz-harminc
+1F566: Óraszám tizenegy-harminc óra
+1F567: Óraszám tizenkét harminc
+1F568: Jobb hangszóró
+1F569: Jobb hangszóró egy hanghullámmal
+1F56A: Jobb hangszóró három hanghullámmal
+1F56B: bullhorn: Némítás
+1F56C: Hősugár hanghullámokkal: hangzik be
+1F56D: Csengő
+1F56E: Könyv
+1F56F: Gyertya
+1F570: Kandalló óra: óra
+1F571: Fekete koponya és keresztcsontok
+1F572: Nincs kalózkodás
+1F573: Lyuk: hordozható lyuk
+1F574: Férfi öltöny lebegő: ugrás
+1F575: Sleuth vagy kém: vizsgálja
+1F576: Sötét napszemüveg: menő
+1F577: Pók
+1F578: pókháló
 1F579: Joystick
-1F57A:
-1F57B: Left Hand Telephone Receiver
-1F57C: Telephone Receiver with Page : fax
-1F57D: Right Hand Telephone Receiver : telephone handset
-1F57E: White Touchtone Telephone
-1F57F: Black Touchtone Telephone
-1F580: Telephone On Top of Modem : modem
-1F581: Clamshell Mobile Phone : cellular phone
-1F582: Back of Envelope
-1F583: Stamped Envelope : mail
-1F584: Envelope with Lightning : e-mail
-1F585: Flying Envelope : send message
-1F586: Pen Over Stamped Envelope
-1F587: Linked Paperclips : links
-1F588: Black Pushpin : marker
-1F589: Lower Left Pencil : pencil
-1F58A: Lower Left Ballpoint Pen : ballpoint pen
-1F58B: Lower Left Fountain Pen : fountain pen
-1F58C: Lower Left Paintbrush : brush
-1F58D: Lower Left Crayon : crayon
-1F58E: Left Writing Hand
-1F58F: Turned Ok Hand Sign
-1F590: Raised Hand with Fingers Splayed : halt
-1F591: Reversed Raised Hand with Fingers Splayed
-1F592: Reversed Thumbs Up Sign : like
-1F593: Reversed Thumbs Down Sign : dislike
-1F594: Reversed Victory Hand
-1F595: Reversed Hand with Middle Finger Extended : fuck
-1F596: Raised Hand with Part Between Middle and Ring Fingers
-1F597: White Down Pointing Left Hand Index
-1F598: Sideways White Left Pointing Index
-1F599: Sideways White Right Pointing Index
-1F59A: Sideways Black Left Pointing Index
-1F59B: Sideways Black Right Pointing Index
-1F59C: Black Left Pointing Backhand Index
-1F59D: Black Right Pointing Backhand Index
-1F59E: Sideways White Up Pointing Index
-1F59F: Sideways White Down Pointing Index
-1F5A0: Sideways Black Up Pointing Index
-1F5A1: Sideways Black Down Pointing Index
-1F5A2: Black Up Pointing Backhand Index
-1F5A3: Black Down Pointing Backhand Index
-1F5A4:
-1F5A5: Desktop Computer : tower computer
-1F5A6: Keyboard and Mouse
-1F5A7: Three Networked Computers : computer network
-1F5A8: Printer
-1F5A9: Pocket Calculator : calculator
-1F5AA: Black Hard Shell Floppy Disk : disk
-1F5AB: White Hard Shell Floppy Disk
-1F5AC: Soft Shell Floppy Disk
-1F5AD: Tape Cartridge
-1F5AE: Wired Keyboard : keyboard
-1F5AF: One Button Mouse
-1F5B0: Two Button Mouse
-1F5B1: Three Button Mouse
-1F5B2: Trackball : ballpoint
-1F5B3: Old Personal Computer : personal computer
-1F5B4: Hard Disk
-1F5B5: Screen : monitor
-1F5B6: Printer Icon
-1F5B7: Fax Icon
-1F5B8: Optical Disc Icon : compact disc
-1F5B9: Document with Text
-1F5BA: Document with Text and Picture
-1F5BB: Document with Picture : graphic document
-1F5BC: Frame with Picture : art
-1F5BD: Frame with Tiles : frames
-1F5BE: Frame with an X : no frames, no picture
-1F5BF: Black Folder
-1F5C0: Folder : directory
-1F5C1: Open Folder
-1F5C2: Card Index Dividers : index
-1F5C3: Card File Box : archive
-1F5C4: File Cabinet
-1F5C5: Empty Note
-1F5C6: Empty Note Page
-1F5C7: Empty Note Pad
-1F5C8: Note
-1F5C9: Note Page
-1F5CA: Note Pad
-1F5CB: Empty Document
-1F5CC: Empty Page
-1F5CD: Empty Pages
-1F5CE: Document
-1F5CF: Page
-1F5D0: Pages
-1F5D1: Wastebasket : trashcan
-1F5D2: Spiral Note Pad : note, empty calendar
-1F5D3: Spiral Calendar Pad : calendar, day 1
-1F5D4: Desktop Window
-1F5D5: Minimize
-1F5D6: Maximize
-1F5D7: Overlap : overlapping offset windows
-1F5D8: Clockwise Right and Left Semicircle Arrows : refresh : reload
-1F5D9: Cancellation X : close
-1F5DA: Increase Font Size Symbol
-1F5DB: Decrease Font Size Symbol
-1F5DC: Compression
-1F5DD: Old Key : encryption
-1F5DE: Rolled-Up Newspaper : news
-1F5DF: Page with Circled Text : classified
-1F5E0: Stock Chart : finance
-1F5E1: Dagger Knife : rated for violence : hate
-1F5E2: Lips : rated for sex : kiss
-1F5E3: Speaking Head In Silhouette : rated for strong language
-1F5E4: Three Rays Above
-1F5E5: Three Rays Below
-1F5E6: Three Rays Left
-1F5E7: Three Rays Right
-1F5E8: Left Speech Bubble
-1F5E9: Right Speech Bubble
-1F5EA: Two Speech Bubbles : chat
-1F5EB: Three Speech Bubbles : conference
-1F5EC: Left Thought Bubble
-1F5ED: Right Thought Bubble
-1F5EE: Left Anger Bubble : shout left
-1F5EF: Right Anger Bubble : shout right
-1F5F0: Mood Bubble : new
-1F5F1: Lightning Mood Bubble : updated
-1F5F2: Lightning Mood : lightning bolt
-1F5F3: Ballot Box with Ballot : vote
-1F5F4: Ballot Script X : x mark
-1F5F5: Ballot Box with Script X
-1F5F6: Ballot Bold Script X
-1F5F7: Ballot Box with Bold Script X
-1F5F8: Light Check Mark : check
-1F5F9: Ballot Box with Bold Check
-1F5FA: World Map
-1F5FB: Mount Fuji
-1F5FC: Tokyo Tower
-1F5FD: Statue of Liberty
-1F5FE: Silhouette of Japan
-1F5FF: Moyai
+1F57A: Ember táncol
+1F57B: Bal oldali telefonvevő
+1F57C: Telefon vevő oldallal: fax
+1F57D: Jobb kézibeszélő: telefon kézibeszélő
+1F57E: Fehér tapintású telefon
+1F57F: Fekete érintőképernyős telefon
+1F580: Telefon a modem tetején: modem
+1F581: Kagyló mobiltelefon: mobiltelefon
+1F582: Boríték hátulja
+1F583: Bélyegzett boríték: levél
+1F584: Boríték villámmal: email
+1F585: Repülő boríték: üzenet küldése
+1F586: Toll a lepecsételt boríték felett
+1F587: Kapcsolt gemkapcsok: linkek
+1F588: Fekete toló: jelző
+1F589: Bal alsó ceruza: ceruza
+1F58A: Bal alsó golyóstoll: golyóstoll
+1F58B: Bal alsó töltőtoll: töltőtoll
+1F58C: Bal alsó ecset: kefe
+1F58D: Bal alsó zsírkréta: zsírkréta
+1F58E: Bal író kéz
+1F58F: Megfordult az ok kéz jel
+1F590: Felemelt kéz ujjai felpattantak: Állj
+1F591: Fordított emelt kéz ujjaival felpattanva
+1F592: Fordított remek-jel: mint
+1F593: Fordított hüvelykujját lefelé jel: ellenszenv
+1F594: Fordított győzelmi kéz
+1F595: Fordított kéz, meghosszabbított középső ujjal: fasz
+1F596: Emelt kéz, a középső és a gyűrűs ujjak között
+1F597: Fehér lefelé mutató bal oldali mutató
+1F598: Oldalra balra mutató bal oldali mutatószám
+1F599: Oldalirányban fehér jobbra mutató mutató
+1F59A: Oldalra fekete bal mutató mutató
+1F59B: Oldalirányban fekete jobbra mutató mutató
+1F59C: Fekete bal oldali mutató mutatószám
+1F59D: Fekete jobbra mutató backhand index
+1F59E: Oldalra balra felfelé mutató mutató
+1F59F: Oldalra mutató fehér lefelé mutató mutató
+1F5A0: Oldalra fekete felfelé mutató mutató
+1F5A1: Oldalra fekete lefelé mutató mutató
+1F5A2: Fekete felfelé mutató backhand index
+1F5A3: Fekete lefelé mutató backhand index
+1F5A4: Fekete szív
+1F5A5: Asztali számítógép: torony számítógép, cpu
+1F5A6: Billentyűzet és egér
+1F5A7: Három hálózati számítógép: számítógép hálózat
+1F5A8: Nyomtató
+1F5A9: Zsebszámológép: számológép
+1F5AA: Fekete merev héjú hajlékonylemez: korong
+1F5AB: Fehér merev héjú hajlékonylemez
+1F5AC: Puha héjú hajlékonylemez
+1F5AD: Szalagkazetta
+1F5AE: Vezetékes billentyűzet: billentyűzet
+1F5AF: Egygombos egér
+1F5B0: Két gomb egér
+1F5B1: Három gomb egér
+1F5B2: trackball: golyóstoll
+1F5B3: Régi személyi számítógép: személyi számítógép
+1F5B4: Merevlemez
+1F5B5: Képernyő: monitor
+1F5B6: Nyomtató ikonra
+1F5B7: Fax ikonra
+1F5B8: Optikai lemez ikonra: kompaktlemez
+1F5B9: Dokumentum szöveggel
+1F5BA: Dokumentum szöveggel és képpel
+1F5BB: Dokumentum képpel: grafikus dokumentum
+1F5BC: Keret képpel: Művészet
+1F5BD: Keret csempe: keretek
+1F5BE: Keret x-gyel: nincs keret, nincs kép
+1F5BF: Fekete mappa
+1F5C0: Folder: Könyvtár
+1F5C1: Nyitott mappa
+1F5C2: Kártyaindex elválasztók: index
+1F5C3: Kártya dosszié: archív
+1F5C4: Irattartó
+1F5C5: Üres jegyzet
+1F5C6: Üres jegyzék oldal
+1F5C7: Üres jegyzetfüzet
+1F5C8: jegyzet
+1F5C9: Megjegyzés oldal
+1F5CA: Jegyzettömb
+1F5CB: Üres dokumentum
+1F5CC: Üres oldal
+1F5CD: Üres oldalak
+1F5CE: Dokumentum
+1F5CF: oldal
+1F5D0: Oldalak
+1F5D1: Papírkosár: kuka
+1F5D2: Spirál jegyzetfüzet: Megjegyzésüres naptár
+1F5D3: Spirál naptár pad: naptár, 1. nap
+1F5D4: Asztali ablak
+1F5D5: Kis méret
+1F5D6: Teljes méret
+1F5D7: Átfedés: átfedő ofszet ablakok
+1F5D8: Az óramutató járásával megegyezően jobbra és balra félkör nyilak: Frissítés
+1F5D9: Lemondás x: Bezárás
+1F5DA: Növelje a betűméret szimbólumot
+1F5DB: Csökkentse a betűméret szimbólumát
+1F5DC: összenyomás
+1F5DD: Régi kulcs: Titkosítás
+1F5DE: Felvetített újság: hírek
+1F5DF: Oldal körözött szöveggel: osztályozott
+1F5E0: Készletdiagram: pénzügy
+1F5E1: Tőr kés: erőszakos besorolású
+1F5E2: Ajkak: szexre osztályozva
+1F5E3: Beszélő fej sziluettje: erős nyelvre értékelve
+1F5E4: Három sugarat fent
+1F5E5: Három sugarat alul
+1F5E6: Három sugara maradt
+1F5E7: Három sugarat jobbra
+1F5E8: Bal beszéd buborék
+1F5E9: Helyes beszéd buborék
+1F5EA: Két beszéd buborék: csevegés
+1F5EB: Három beszéd buborék: konferencia
+1F5EC: Bal oldali gondolat buborék
+1F5ED: Helyes gondolat buborék
+1F5EE: Bal düh buborék: kiáltani balra
+1F5EF: Jobb düh buborék: kiáltani
+1F5F0: Hangulat buborék: új
+1F5F1: Villám hangulat buborék: korszerűsített
+1F5F2: Villám hangulat: villám
+1F5F3: Szavazóurnákkal szavazóurnával: szavazás
+1F5F4: X szavazólap szkript: x jelölés
+1F5F5: Szavazóurnák x szkripttel
+1F5F6: Szavazólapú félkövér szkript x
+1F5F7: Szavazóurnák félkövér betűkészlettel x
+1F5F8: Világos pipa: jelölje be
+1F5F9: Szavazóurnák merész csekkel
+1F5FA: Világtérkép
+1F5FB: Fuji
+1F5FC: Tokiói torony
+1F5FD: Szabadságszobor
+1F5FE: Japán sziluettje
+1F5FF: Moyai

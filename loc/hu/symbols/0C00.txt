@@ -1,16 +1,16 @@
-0C00: Telugu Sign Combining Candrabindu Above
-0C01: Telugu Sign Candrabindu : arasunna
-0C02: Telugu Sign Anusvara : sunna
-0C03: Telugu Sign Visarga
-0C04:
+0C00: Telugu jel kombinálásával Candrabindu felett
+0C01: Telugu jel Candrabindu: arasunna
+0C02: Telugu jel Anusvara: sunna
+0C03: Telugu jel Visarga
+0C04: Telugu jel kombinálásával Anusvara felett
 0C05: Telugu betű A
 0C06: Telugu betű Aa
 0C07: Telugu betű I
 0C08: Telugu betű Ii
 0C09: Telugu betű U
 0C0A: Telugu betű Uu
-0C0B: Telugu betű Vocalic R
-0C0C: Telugu betű Vocalic L
+0C0B: Telugu betű magánhangzóban bővelkedő R
+0C0C: Telugu betű magánhangzóban bővelkedő L
 0C0D:
 0C0E: Telugu betű E
 0C0F: Telugu betű Ee
@@ -59,23 +59,23 @@
 0C3A:
 0C3B:
 0C3C:
-0C3D: Telugu Sign Avagraha
-0C3E: Telugu Vowel Sign Aa
-0C3F: Telugu Vowel Sign I
-0C40: Telugu Vowel Sign Ii
-0C41: Telugu Vowel Sign U
-0C42: Telugu Vowel Sign Uu
-0C43: Telugu Vowel Sign Vocalic R
-0C44: Telugu Vowel Sign Vocalic Rr
+0C3D: Telugu jel Avagraha
+0C3E: Telugu magánhangzó jel Aa
+0C3F: Telugu magánhangzó jel I
+0C40: Telugu magánhangzó jel Ii
+0C41: Telugu magánhangzó jel U
+0C42: Telugu magánhangzó jel Uu
+0C43: Telugu magánhangzó jel magánhangzóban bővelkedő R
+0C44: Telugu magánhangzó jel magánhangzóban bővelkedő Rr
 0C45:
-0C46: Telugu Vowel Sign E
-0C47: Telugu Vowel Sign Ee
-0C48: Telugu Vowel Sign Ai
+0C46: Telugu magánhangzó jel E
+0C47: Telugu magánhangzó jel Ee
+0C48: Telugu magánhangzó jel Ai
 0C49:
-0C4A: Telugu Vowel Sign O
-0C4B: Telugu Vowel Sign Oo
-0C4C: Telugu Vowel Sign Au
-0C4D: Telugu Sign Virama : halant (the preferred name)
+0C4A: Telugu magánhangzó jel O
+0C4B: Telugu magánhangzó jel Oo
+0C4C: Telugu magánhangzó jel Au
+0C4D: Telugu jel Virama: halant (the preferred name)
 0C4E:
 0C4F:
 0C50:
@@ -83,33 +83,33 @@
 0C52:
 0C53:
 0C54:
-0C55: Telugu Length Mark
-0C56: Telugu Ai Length Mark
+0C55: Telugu jelöld a hosszú hangot
+0C56: Telugu Ai jelöld a hosszú hangot
 0C57:
 0C58: Telugu betű Tsa
 0C59: Telugu betű Dza
-0C5A:
+0C5A: Telugu betű Rrra
 0C5B:
 0C5C:
 0C5D:
 0C5E:
 0C5F:
-0C60: Telugu betű Vocalic Rr
-0C61: Telugu betű Vocalic Ll
-0C62: Telugu Vowel Sign Vocalic L
-0C63: Telugu Vowel Sign Vocalic Ll
-0C64: <Reserved>
-0C65: <Reserved>
-0C66: Telugu Digit Zero
-0C67: Telugu Digit One
-0C68: Telugu Digit Two
-0C69: Telugu Digit Three
-0C6A: Telugu Digit Four
-0C6B: Telugu Digit Five
-0C6C: Telugu Digit Six
-0C6D: Telugu Digit Seven
-0C6E: Telugu Digit Eight
-0C6F: Telugu Digit Nine
+0C60: Telugu betű magánhangzóban bővelkedő Rr
+0C61: Telugu betű magánhangzóban bővelkedő Ll
+0C62: Telugu magánhangzó jel magánhangzóban bővelkedő L
+0C63: Telugu magánhangzó jel magánhangzóban bővelkedő Ll
+0C64:
+0C65:
+0C66: Telugu számjegy nulla
+0C67: Telugu számjegy egy
+0C68: Telugu számjegy kettő
+0C69: Telugu számjegy három
+0C6A: Telugu számjegy négy
+0C6B: Telugu számjegy öt
+0C6C: Telugu számjegy hat
+0C6D: Telugu számjegy hét
+0C6E: Telugu számjegy nyolc
+0C6F: Telugu számjegy kilenc
 0C70:
 0C71:
 0C72:
@@ -117,28 +117,28 @@
 0C74:
 0C75:
 0C76:
-0C77:
-0C78: Telugu Fraction Digit Zero for Odd Powers of Four
-0C79: Telugu Fraction Digit One for Odd Powers of Four
-0C7A: Telugu Fraction Digit Two for Odd Powers of Four
-0C7B: Telugu Fraction Digit Three for Odd Powers of Four
-0C7C: Telugu Fraction Digit One for Even Powers of Four
-0C7D: Telugu Fraction Digit Two for Even Powers of Four
-0C7E: Telugu Fraction Digit Three for Even Powers of Four
-0C7F: Telugu Sign Tuumu
-0C80:
-0C81: Kannada Sign Candrabindu
-0C82: Kannada Sign Anusvara
-0C83: Kannada Sign Visarga
-0C84:
+0C77: Telugu jel Siddham
+0C78: Telugu frakció, nulla számjegy négyes páratlan teljesítmény esetén
+0C79: A telugu frakció egy számjegyű, páratlan teljesítménye négy
+0C7A: A telugu frakció kétjegyű, páratlan teljesítménye négy
+0C7B: A telugu frakció háromjegyű, páratlan teljesítménye négy
+0C7C: A telugu frakció egy számjegyből áll, négy egyenlő teljesítményért
+0C7D: A telugu törzsrész két számjegyű, egyenlő teljesítményű négy
+0C7E: A telugu frakció háromjegyű, egyenlő teljesítményű négy
+0C7F: Telugu jel Tuumu
+0C80: Kannada jel Spacing Candrabindu
+0C81: Kannada jel Candrabindu
+0C82: Kannada jel Anusvara
+0C83: Kannada jel Visarga
+0C84: Kannada jel Siddham
 0C85: Kannada betű A
 0C86: Kannada betű Aa
 0C87: Kannada betű I
 0C88: Kannada betű Ii
 0C89: Kannada betű U
 0C8A: Kannada betű Uu
-0C8B: Kannada betű Vocalic R
-0C8C: Kannada betű Vocalic L
+0C8B: Kannada betű magánhangzóban bővelkedő R
+0C8C: Kannada betű magánhangzóban bővelkedő L
 0C8D:
 0C8E: Kannada betű E
 0C8F: Kannada betű Ee
@@ -186,24 +186,24 @@
 0CB9: Kannada betű Ha
 0CBA:
 0CBB:
-0CBC: Kannada Sign Nukta
-0CBD: Kannada Sign Avagraha
-0CBE: Kannada Vowel Sign Aa
-0CBF: Kannada Vowel Sign I
-0CC0: Kannada Vowel Sign Ii
-0CC1: Kannada Vowel Sign U
-0CC2: Kannada Vowel Sign Uu
-0CC3: Kannada Vowel Sign Vocalic R
-0CC4: Kannada Vowel Sign Vocalic Rr
+0CBC: Kannada jel Nukta
+0CBD: Kannada jel Avagraha
+0CBE: Kannada magánhangzó jel Aa
+0CBF: Kannada magánhangzó jel I
+0CC0: Kannada magánhangzó jel Ii
+0CC1: Kannada magánhangzó jel U
+0CC2: Kannada magánhangzó jel Uu
+0CC3: Kannada magánhangzó jel magánhangzóban bővelkedő R
+0CC4: Kannada magánhangzó jel magánhangzóban bővelkedő Rr
 0CC5:
-0CC6: Kannada Vowel Sign E
-0CC7: Kannada Vowel Sign Ee
-0CC8: Kannada Vowel Sign Ai
+0CC6: Kannada magánhangzó jel E
+0CC7: Kannada magánhangzó jel Ee
+0CC8: Kannada magánhangzó jel Ai
 0CC9:
-0CCA: Kannada Vowel Sign O
-0CCB: Kannada Vowel Sign Oo
-0CCC: Kannada Vowel Sign Au
-0CCD: Kannada Sign Virama
+0CCA: Kannada magánhangzó jel O
+0CCB: Kannada magánhangzó jel Oo
+0CCC: Kannada magánhangzó jel Au
+0CCD: Kannada jel Virama
 0CCE:
 0CCF:
 0CD0:
@@ -211,8 +211,8 @@
 0CD2:
 0CD3:
 0CD4:
-0CD5: Kannada Length Mark
-0CD6: Kannada Ai Length Mark
+0CD5: Kannada jelöld a hosszú hangot
+0CD6: Kannada Ai jelöld a hosszú hangot
 0CD7:
 0CD8:
 0CD9:
@@ -222,12 +222,12 @@
 0CDD:
 0CDE: Kannada betű Fa
 0CDF:
-0CE0: Kannada betű Vocalic Rr
-0CE1: Kannada betű Vocalic Ll
-0CE2: Kannada Vowel Sign Vocalic L
-0CE3: Kannada Vowel Sign Vocalic Ll
-0CE4: <Reserved>
-0CE5: <Reserved>
+0CE0: Kannada betű magánhangzóban bővelkedő Rr
+0CE1: Kannada betű magánhangzóban bővelkedő Ll
+0CE2: Kannada magánhangzó jel magánhangzóban bővelkedő L
+0CE3: Kannada magánhangzó jel magánhangzóban bővelkedő Ll
+0CE4:
+0CE5:
 0CE6: Kannada Digit Zero
 0CE7: Kannada Digit One
 0CE8: Kannada Digit Two
@@ -239,8 +239,8 @@
 0CEE: Kannada Digit Eight
 0CEF: Kannada Digit Nine
 0CF0:
-0CF1: Kannada Sign Jihvamuliya
-0CF2: Kannada Sign Upadhmaniya
+0CF1: Kannada jel Jihvamuliya
+0CF2: Kannada jel Upadhmaniya
 0CF3:
 0CF4:
 0CF5:

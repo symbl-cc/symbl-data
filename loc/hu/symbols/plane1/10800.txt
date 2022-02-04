@@ -86,14 +86,14 @@
 10855: Imperial Aramaic betű Taw
 10856:
 10857: Imperial Aramaic Section Sign
-10858: Imperial Aramaic Number One
-10859: Imperial Aramaic Number Two
-1085A: Imperial Aramaic Number Three
-1085B: Imperial Aramaic Number Ten
-1085C: Imperial Aramaic Number Twenty
-1085D: Imperial Aramaic Number One Hundred
-1085E: Imperial Aramaic Number One Thousand
-1085F: Imperial Aramaic Number Ten Thousand
+10858: Imperial Aramaic szám One
+10859: Imperial Aramaic szám Two
+1085A: Imperial Aramaic szám Three
+1085B: Imperial Aramaic szám Ten
+1085C: Imperial Aramaic szám Twenty
+1085D: Imperial Aramaic szám One Hundred
+1085E: Imperial Aramaic szám One Thousand
+1085F: Imperial Aramaic szám Ten Thousand
 10860: Palmyrene betű Aleph
 10861: Palmyrene betű Beth
 10862: Palmyrene betű Gimel
@@ -119,13 +119,13 @@
 10876: Palmyrene betű Taw
 10877: Palmyrene Left-Pointing Fleuron
 10878: Palmyrene Right-Pointing Fleuron
-10879: Palmyrene Number One
-1087A: Palmyrene Number Two
-1087B: Palmyrene Number Three
-1087C: Palmyrene Number Four
-1087D: Palmyrene Number Five
-1087E: Palmyrene Number Ten
-1087F: Palmyrene Number Twenty
+10879: Palmyrene szám One
+1087A: Palmyrene szám Two
+1087B: Palmyrene szám Three
+1087C: Palmyrene szám Four
+1087D: Palmyrene szám Five
+1087E: Palmyrene szám Ten
+1087F: Palmyrene szám Twenty
 10880: Nabataean betű Final Aleph
 10881: Nabataean betű Aleph
 10882: Nabataean betű Final Beth
@@ -165,15 +165,15 @@
 108A4:
 108A5:
 108A6:
-108A7: Nabataean Number One
-108A8: Nabataean Number Two
-108A9: Nabataean Number Three
-108AA: Nabataean Number Four
-108AB: Nabataean Cruciform Number Four
-108AC: Nabataean Number Five
-108AD: Nabataean Number Ten
-108AE: Nabataean Number Twenty
-108AF: Nabataean Number One Hundred
+108A7: Nabataean szám One
+108A8: Nabataean szám Two
+108A9: Nabataean szám Three
+108AA: Nabataean szám Four
+108AB: Nabataean Cruciform szám Four
+108AC: Nabataean szám Five
+108AD: Nabataean szám Ten
+108AE: Nabataean szám Twenty
+108AF: Nabataean szám One Hundred
 108B0:
 108B1:
 108B2:
@@ -222,35 +222,35 @@
 108DD:
 108DE:
 108DF:
-108E0:
-108E1:
-108E2:
-108E3:
-108E4:
-108E5:
-108E6:
-108E7:
-108E8:
-108E9:
-108EA:
-108EB:
-108EC:
-108ED:
-108EE:
-108EF:
-108F0:
-108F1:
-108F2:
+108E0: Hatran betű Aleph
+108E1: Hatran betű Beth
+108E2: Hatran betű Gimel
+108E3: Hatran betű Daleth-Resh
+108E4: Hatran betű He
+108E5: Hatran betű Waw
+108E6: Hatran betű Zayn
+108E7: Hatran betű Heth
+108E8: Hatran betű Teth
+108E9: Hatran betű Yodh
+108EA: Hatran betű Kaph
+108EB: Hatran betű Lamedh
+108EC: Hatran betű Mem
+108ED: Hatran betű Nun
+108EE: Hatran betű Samekh
+108EF: Hatran betű Ayn
+108F0: Hatran betű Pe
+108F1: Hatran betű Sadhe
+108F2: Hatran betű Qoph
 108F3:
-108F4:
-108F5:
+108F4: Hatran betű Shin
+108F5: Hatran betű Taw
 108F6:
 108F7:
 108F8:
 108F9:
 108FA:
-108FB:
-108FC:
-108FD:
-108FE:
-108FF:
+108FB: Hatran szám egy
+108FC: Hatran szám öt
+108FD: Hatran szám tíz
+108FE: Hatran szám húsz
+108FF: Hatran szám száz

@@ -1,86 +1,86 @@
-2E00: Right Angle Substitution Marker
-2E01: Right Angle Dotted Substitution Marker
-2E02: Left Substitution Bracket
-2E03: Right Substitution Bracket
-2E04: Left Dotted Substitution Bracket
-2E05: Right Dotted Substitution Bracket
-2E06: Raised Interpolation Marker
-2E07: Raised Dotted Interpolation Marker
-2E08: Dotted Transposition Marker
-2E09: Left Transposition Bracket
-2E0A: Right Transposition Bracket
-2E0B: Raised Square
-2E0C: Left Raised Omission Bracket
-2E0D: Right Raised Omission Bracket
-2E0E: Editorial Coronis
+2E00: Derékszögű helyettesítő marker
+2E01: Derékszögű pontozott helyettesítő marker
+2E02: Bal helyettesítő konzol
+2E03: Jobb helyettesítő konzol
+2E04: Balra pontozott helyettesítő konzol
+2E05: Jobb pontozott helyettesítő konzol
+2E06: Emelt interpolációs marker
+2E07: Emelt pontozott interpolációs marker
+2E08: Pontozott átültetési marker
+2E09: Baloldali konzol
+2E0A: Jobb átültetési konzol
+2E0B: Emelt négyzet
+2E0C: Balra emelt kihagyási konzol
+2E0D: Jobbra emelt kihagyási konzol
+2E0E: Szerkesztői koronisz
 2E0F: Paragraphos
-2E10: Forked Paragraphos
-2E11: Reversed Forked Paragraphos
-2E12: Hypodiastole : ypodiastoli
-2E13: Dotted Obelos
-2E14: Downwards Ancora
-2E15: Upwards Ancora
-2E16: Dotted Right-Pointing Angle : diple periestigmene
-2E17: Double Oblique Hyphen
-2E18: Inverted Interrobang : gnaborretni
-2E19: Palm Branch
-2E1A: Hyphen with Diaeresis
-2E1B: Tilde with Ring Above
-2E1C: Left Low Paraphrase Bracket
-2E1D: Right Low Paraphrase Bracket
-2E1E: Tilde with Dot Above
-2E1F: Tilde with Dot Below
-2E20: Left Vertical Bar with Quill
-2E21: Right Vertical Bar with Quill
-2E22: Top Left Half Bracket
-2E23: Top Right Half Bracket
-2E24: Bottom Left Half Bracket
-2E25: Bottom Right Half Bracket
-2E26: Left Sideways U Bracket
-2E27: Right Sideways U Bracket
-2E28: Left Double Parenthesis
-2E29: Right Double Parenthesis
-2E2A: Two Dots Over One Dot Punctuation
-2E2B: One Dot Over Two Dots Punctuation
-2E2C: Squared Four Dot Punctuation
-2E2D: Five Dot Mark
-2E2E: Reversed Question Mark : punctus percontativus : irony, sarcasm
-2E2F: Vertical Tilde
-2E30: Ring Point
-2E31: Word Separator Middle Dot
-2E32: Turned Comma
-2E33: Raised Dot
-2E34: Raised Comma
-2E35: Turned Semicolon
-2E36: Dagger with Left Guard
-2E37: Dagger with Right Guard
-2E38: Turned Dagger
-2E39: Top Half Section Sign
-2E3A: Two-Em Dash : omission dash
-2E3B: Three-Em Dash
-2E3C: Stenographic Full Stop
-2E3D: Vertical Six Dots
-2E3E: Wiggly Vertical Line
+2E10: Villás bekezdések
+2E11: Fordított villás bekezdések
+2E12: Hypodiastole: ypodiastoli
+2E13: Pontozott obelók
+2E14: Lefelé ancora
+2E15: Felfelé ancora
+2E16: Pontozott derékszög: diple periestigmene
+2E17: Dupla ferde kötőjel
+2E18: Fordított interrobang: gnaborretni
+2E19: Pálmaág
+2E1A: Kötőjel diaerezissel
+2E1B: Tilde gyűrűvel fent
+2E1C: Bal alsó parafázis konzol
+2E1D: Jobb alsó paraméter-konzol
+2E1E: Tilde pont felett
+2E1F: Tilde pont alatt
+2E20: Bal oldali függőleges sáv pengével
+2E21: Jobb függőleges sáv pengével
+2E22: Bal felső konzol
+2E23: A jobb felső saroktartó
+2E24: Bal alsó konzol
+2E25: A jobb alsó konzol
+2E26: Balra oldalra u konzol
+2E27: Jobb oldalra u konzol
+2E28: Bal kettős zárójel
+2E29: Jobb kettős zárójel
+2E2A: Két pont egy pont-központozás felett
+2E2B: Egy pont két pont elválasztása felett
+2E2C: Négyzet pont írásjelek
+2E2D: Öt pontjelzés
+2E2E: Fordított kérdőjel: punctus percontativus , irónia, szarkazmus
+2E2F: Függőleges tilde
+2E30: Csengetési pont
+2E31: Szó elválasztó középső pont
+2E32: Vessző fordult
+2E33: Emelt pont
+2E34: Emelt vessző
+2E35: Fordult pontosvessző
+2E36: Tőr bal oldali őrrel
+2E37: Tőr jobb védővel
+2E38: Tőr fordult
+2E39: Felső fele szakasz jel
+2E3A: Két embléma: mulasztási kötőjel
+2E3B: Három em kötőjel
+2E3C: Stenografikus pont
+2E3D: Függőleges hat pont
+2E3E: Kissé függőleges vonal
 2E3F: Capitulum
-2E40: Double Hyphen
-2E41: Reversed Comma
-2E42: Double Low-Reversed-9 Quotation Mark
-2E43:
-2E44:
-2E45:
-2E46:
-2E47:
-2E48:
-2E49:
-2E4A:
-2E4B:
-2E4C:
-2E4D:
-2E4E:
-2E4F:
-2E50:
-2E51:
-2E52:
+2E40: Kettős kötőjel
+2E41: Fordított vessző
+2E42: Dupla alacsony fordított-9 idézőjel
+2E43: Dash bal felfelé
+2E44: Kettős felfüggesztési jel
+2E45: Fordított alacsony kavyka
+2E46: Fordított alacsony kavyka a fenti kavyka felett
+2E47: Alacsony kavyka
+2E48: Alacsony kavyka ponttal
+2E49: Dupla halmozott vessző
+2E4A: Pontozott solidus
+2E4B: Hármas tőr
+2E4C: Középkori vessző
+2E4D: Bekezdés jel
+2E4E: Punctus elevatus jel
+2E4F: Korni vers elválasztó
+2E50: Cross patty jobb keresztrúddal
+2E51: Keresztmetszet a bal keresztrúddal
+2E52: Tironi jel főváros et
 2E53:
 2E54:
 2E55:

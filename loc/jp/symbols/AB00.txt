@@ -62,7 +62,7 @@ AB3C: 交差尾を持つラテン小文字Eng
 AB3D: ラテン小文字ブラックレターO
 AB3E: ストローク付きラテン小文字ブラックレターO
 AB3F: ストロークでラテン小文字オープンO
-AB40: ラテン小文字反転大江 : ラテン小文字o逆シュワ
+AB40: ラテン小文字反転大江: ラテン小文字o逆シュワ
 AB41: ラテン文字が大江さんを一筆書き
 AB42: 横書きのラテン文字
 AB43: ラテン語の小文字がO Open-Oになった
@@ -100,12 +100,12 @@ AB62: ラテン小文字オープン大江店
 AB63: ラテン小文字Uo
 AB64: ラテン小文字の逆アルファ
 AB65: ギリシャ文字スモールキャピタルオメガ
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: レトロフレックスフック付きラテン小文字Dzダイグラフ
+AB67: レトロフレックスフック付きラテン小文字Tsダイグラフ
+AB68: ラテン小文字はミドルチルダでRになりました
+AB69: モディファイア文字小W
+AB6A: 修飾文字左鋲
+AB6B: 修飾文字の右鋲
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: チェロキースモールレターWO
 ABBD: チェロキースモールレターWU
 ABBE: チェロキースモールレターWV
 ABBF: チェロキースモールレターYA
-ABC0: 名亭マイエックレターコック : ka
-ABC1: Meetei Mayek Letter Sam : sa
-ABC2: Meetei Mayek Letter Lai : ラ
-ABC3: Meetei Mayek Letter Mit : まー
+ABC0: 名亭マイエックレターコック: ka
+ABC1: Meetei Mayek Letter Sam: sa
+ABC2: Meetei Mayek Letter Lai: ラ
+ABC3: Meetei Mayek Letter Mit: まー
 ABC4: Meetei Mayek Letter Pa
 ABC5: Meetei Mayek Letter Na
-ABC6: Meetei Mayekレターチル : 約
-ABC7: Meetei Mayekレターティル : た
-ABC8: ミーテイマイクレターチョウ : カ
-ABC9: Meetei Mayek Letter Ngou : ンガ
-ABCA: Meetei Mayek Letter Thou : tha
-ABCB: Meetei Mayek Letter Wai : わ
-ABCC: Meetei Mayek Letter Yang : y A
-ABCD: 名亭マイエックレターフク : は
-ABCE: 名亭マイエックレターウン : う
+ABC6: Meetei Mayekレターチル: 約
+ABC7: Meetei Mayekレターティル: た
+ABC8: ミーテイマイクレターチョウ: カ
+ABC9: Meetei Mayek Letter Ngou: ンガ
+ABCA: Meetei Mayek Letter Thou: tha
+ABCB: Meetei Mayek Letter Wai: わ
+ABCC: Meetei Mayek Letter Yang: y A
+ABCD: 名亭マイエックレターフク: は
+ABCE: 名亭マイエックレターウン: う
 ABCF: 名亭マイエックレターI
-ABD0: ミーテイマイクレターファム : pha
-ABD1: 名亭マイエックレターアティヤ : ある
-ABD2: Meetei Mayek Letter Gok : が
-ABD3: Meetei Mayek Letter Jham : じゃ
-ABD4: Meetei Mayek Letter Rai : ラ
+ABD0: ミーテイマイクレターファム: pha
+ABD1: 名亭マイエックレターアティヤ: ある
+ABD2: Meetei Mayek Letter Gok: が
+ABD3: Meetei Mayek Letter Jham: じゃ
+ABD4: Meetei Mayek Letter Rai: ラ
 ABD5: Meetei Mayek Letter Ba
-ABD6: Meetei Mayekレタージル : ja
-ABD7: Meetei Mayekレターディル : ダ
-ABD8: ミーティメイメイクレターチョウ : ガー
-ABD9: ミーテイマイクレタードウ : ダ
-ABDA: Meetei Mayek Letter Bham : バー
-ABDB: ミーティメイメイクレターコックロンサム : k
-ABDC: Meetei Mayek Letterライ・ロンサム : l
-ABDD: ミーティメイメックレターミットロンサム : メートル
-ABDE: Meetei MayekレターPa Lonsum : p
-ABDF: Meetei Mayek手紙Na Lonsum : n
-ABE0: Meetei Mayekレターティルロンサム : トン
-ABE1: Meetei Mayek手紙Ngou Lonsum : ng
-ABE2: Meetei Mayek Letter Iロンサム : 私
-ABE3: Meetei Mayek母音サインオン : ○
-ABE4: Meetei Mayek母音サインイン : 私
-ABE5: Meetei Mayek母音サインアナップ : ああ
-ABE6: Meetei Mayek母音記号Yenap : e
-ABE7: Meetei Mayek母音記号Sounap : ou
-ABE8: Meetei Mayek母音記号Unap : う
-ABE9: Meetei Mayek母音記号チナップ : えい
-ABEA: Meetei Mayek母音記号Nung : アヌスヴァーラ
-ABEB: 名亭マイエックチェイヘイ : ダブルダンダ
-ABEC: Meetei Mayek Lum Iyek : ヘビートーン
-ABED: Meetei Mayek Apun Iyek : キラー
+ABD6: Meetei Mayekレタージル: ja
+ABD7: Meetei Mayekレターディル: ダ
+ABD8: ミーティメイメイクレターチョウ: ガー
+ABD9: ミーテイマイクレタードウ: ダ
+ABDA: Meetei Mayek Letter Bham: バー
+ABDB: ミーティメイメイクレターコックロンサム: k
+ABDC: Meetei Mayek Letterライ・ロンサム: l
+ABDD: ミーティメイメックレターミットロンサム: メートル
+ABDE: Meetei MayekレターPa Lonsum: p
+ABDF: Meetei Mayek手紙Na Lonsum: n
+ABE0: Meetei Mayekレターティルロンサム: トン
+ABE1: Meetei Mayek手紙Ngou Lonsum: ng
+ABE2: Meetei Mayek Letter Iロンサム: 私
+ABE3: Meetei Mayek母音サインオン: ○
+ABE4: Meetei Mayek母音サインイン: 私
+ABE5: Meetei Mayek母音サインアナップ: ああ
+ABE6: Meetei Mayek母音記号Yenap: e
+ABE7: Meetei Mayek母音記号Sounap: ou
+ABE8: Meetei Mayek母音記号Unap: う
+ABE9: Meetei Mayek母音記号チナップ: えい
+ABEA: Meetei Mayek母音記号Nung: アヌスヴァーラ
+ABEB: 名亭マイエックチェイヘイ: ダブルダンダ
+ABEC: Meetei Mayek Lum Iyek: ヘビートーン
+ABED: Meetei Mayek Apun Iyek: キラー
 ABEE:
 ABEF:
-ABF0: Meetei Mayekディジットゼロ : フン
-ABF1: ミーティメイメイクディジットワン : アマ
-ABF2: ミーティメイメイクディジットトゥー : アニ
-ABF3: ミーティメイメイクディジットスリー : アハム
-ABF4: ミーティメイメイクディジットフォー : まり
-ABF5: ミーティメイメイクディジットファイブ : マンガ
-ABF6: ミーテイマイエックディジットシックス : タルク
-ABF7: ミーティメイメイクディジットセブン : 風味
-ABF8: Meetei Mayek桁8 : 公の
-ABF9: Meetei Mayek数字9 : 地図の
+ABF0: Meetei Mayekディジットゼロ: フン
+ABF1: ミーティメイメイクディジットワン: アマ
+ABF2: ミーティメイメイクディジットトゥー: アニ
+ABF3: ミーティメイメイクディジットスリー: アハム
+ABF4: ミーティメイメイクディジットフォー: まり
+ABF5: ミーティメイメイクディジットファイブ: マンガ
+ABF6: ミーテイマイエックディジットシックス: タルク
+ABF7: ミーティメイメイクディジットセブン: 風味
+ABF8: Meetei Mayek桁8: 公の
+ABF9: Meetei Mayek数字9: 地図の
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

@@ -62,7 +62,7 @@ AB3C: Letra latina con letra pequeña y cola cruzada
 AB3D: Boletín latino letra pequeña O
 AB3E: Letra minúscula latina letra negra con trazo
 AB3F: Letra minúscula latina abierta O con trazo
-AB40: Letra minúscula latina invertida Oe : letra minúscula latina o revertido-schwa
+AB40: Letra minúscula latina invertida Oe: letra minúscula latina o revertido-schwa
 AB41: Letra latina minúscula vuelta Oe con trazo
 AB42: Letra latina minúscula vuelta Oe con trazo horizontal
 AB43: Letra minúscula latina vuelta O Open-O
@@ -100,12 +100,12 @@ AB62: Letra minúscula latina abierta oe
 AB63: Letra minúscula latina
 AB64: Alfa minúscula invertida latina
 AB65: Letra griega Omega mayúscula
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: Letra pequeña latina dz digraph con gancho retroflex
+AB67: Letra pequeña latina ts dígrafo con gancho retroflex
+AB68: Letra latina pequeña convertida r con tilde media
+AB69: Modificador de letra pequeña vuelta w
+AB6A: Modificador carta izquierda tachuela
+AB6B: Modificador de letra de tachuela derecha
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: Cherokee Letra Pequeña WO
 ABBD: Cherokee letra pequeña WU
 ABBE: Cherokee Letra Pequeña WV
 ABBF: Cherokee letra pequeña YA
-ABC0: Meetei Mayek letra Kok : ka
-ABC1: Meetei Mayek letra Sam : sa
-ABC2: Meetei Mayek Letra Lai : la
-ABC3: Meetei Mayek Letter Mit : mamá
+ABC0: Meetei Mayek letra Kok: ka
+ABC1: Meetei Mayek letra Sam: sa
+ABC2: Meetei Mayek Letra Lai: la
+ABC3: Meetei Mayek Letter Mit: mamá
 ABC4: Meetei Mayek Letra Pa
 ABC5: Meetei Mayek Letra Na
-ABC6: Meetei Mayek Letra Chil : California
-ABC7: Meetei Mayek Letra Til : ejército de reserva
-ABC8: Meetei Mayek letra Khou : kha
-ABC9: Meetei Mayek Letra Ngou : nga
-ABCA: Meetei Mayek letra tú : tha
-ABCB: Meetei Mayek Letra Wai : Washington
-ABCC: Meetei Mayek Letra Yang : ya
-ABCD: Meetei Mayek Letra Huk : decir ah
-ABCE: Meetei Mayek Letra Un : tu
+ABC6: Meetei Mayek Letra Chil: California
+ABC7: Meetei Mayek Letra Til: ejército de reserva
+ABC8: Meetei Mayek letra Khou: kha
+ABC9: Meetei Mayek Letra Ngou: nga
+ABCA: Meetei Mayek letra tú: tha
+ABCB: Meetei Mayek Letra Wai: Washington
+ABCC: Meetei Mayek Letra Yang: ya
+ABCD: Meetei Mayek Letra Huk: decir ah
+ABCE: Meetei Mayek Letra Un: tu
 ABCF: Meetei Mayek Letra I
-ABD0: Meetei Mayek Letra Pham : pha
-ABD1: Meetei Mayek letra Atiya : una
-ABD2: Meetei Mayek Letra Gok : Georgia
-ABD3: Meetei Mayek Letra Jham : jha
-ABD4: Meetei Mayek Letra Rai : real academia de bellas artes
+ABD0: Meetei Mayek Letra Pham: pha
+ABD1: Meetei Mayek letra Atiya: una
+ABD2: Meetei Mayek Letra Gok: Georgia
+ABD3: Meetei Mayek Letra Jham: jha
+ABD4: Meetei Mayek Letra Rai: real academia de bellas artes
 ABD5: Meetei Mayek letra Ba
-ABD6: Meetei Mayek Letra Jil : ja
-ABD7: Meetei Mayek Letra Dil : da
-ABD8: Meetei Mayek letra Ghou : gha
-ABD9: Meetei Mayek Letra Dhou : dha
-ABDA: Meetei Mayek letra Bham : bha
-ABDB: Meetei Mayek letra Kok Lonsum : k
-ABDC: Meetei Mayek Letra Lai Lonsum : l
-ABDD: Meetei Mayek Letra Mit Lonsum : metro
-ABDE: Meetei Mayek Letra Pa Lonsum : pag
-ABDF: Meetei Mayek Letra Na Lonsum : norte
-ABE0: Meetei Mayek Letra Til Lonsum : t
-ABE1: Meetei Mayek letra Ngou Lonsum : ng
-ABE2: Meetei Mayek Letra I Lonsum : yo
-ABE3: Signo de vocalización de Meetei Mayek en Onap : o
-ABE4: Meetei Mayek Vocal Sign Inap : yo
-ABE5: Signo de vocalista de Meetei Mayek Anap : Automóvil club británico
-ABE6: Meetei Mayek Signo Vocal Yenap : mi
-ABE7: Meetei Mayek Signo Vocal Sounap : UNED
-ABE8: Meetei Mayek Signo de vocales Unap : tu
-ABE9: Meetei Mayek Signo Vocal Cheinap : ei
-ABEA: Meetei Mayek Signo Vocal Nung : Anusvara
-ABEB: Meetei Mayek Cheikhei : doble danda
-ABEC: Meetei Mayek Lum Iyek : tono pesado
-ABED: Meetei Mayek Apun Iyek : asesino
+ABD6: Meetei Mayek Letra Jil: ja
+ABD7: Meetei Mayek Letra Dil: da
+ABD8: Meetei Mayek letra Ghou: gha
+ABD9: Meetei Mayek Letra Dhou: dha
+ABDA: Meetei Mayek letra Bham: bha
+ABDB: Meetei Mayek letra Kok Lonsum: k
+ABDC: Meetei Mayek Letra Lai Lonsum: l
+ABDD: Meetei Mayek Letra Mit Lonsum: metro
+ABDE: Meetei Mayek Letra Pa Lonsum: pag
+ABDF: Meetei Mayek Letra Na Lonsum: norte
+ABE0: Meetei Mayek Letra Til Lonsum: t
+ABE1: Meetei Mayek letra Ngou Lonsum: ng
+ABE2: Meetei Mayek Letra I Lonsum: yo
+ABE3: Signo de vocalización de Meetei Mayek en Onap: o
+ABE4: Meetei Mayek Vocal Sign Inap: yo
+ABE5: Signo de vocalista de Meetei Mayek Anap: Automóvil club británico
+ABE6: Meetei Mayek Signo Vocal Yenap: mi
+ABE7: Meetei Mayek Signo Vocal Sounap: UNED
+ABE8: Meetei Mayek Signo de vocales Unap: tu
+ABE9: Meetei Mayek Signo Vocal Cheinap: ei
+ABEA: Meetei Mayek Signo Vocal Nung: Anusvara
+ABEB: Meetei Mayek Cheikhei: doble danda
+ABEC: Meetei Mayek Lum Iyek: tono pesado
+ABED: Meetei Mayek Apun Iyek: asesino
 ABEE:
 ABEF:
-ABF0: Meetei Mayek Digit Zero : Phun
-ABF1: Meetei Mayek Digit One : ama
-ABF2: Meetei Mayek Dígito Dos : y yo
-ABF3: Meetei Mayek Dígito Tres : ahum
-ABF4: Meetei Mayek Digit Four : mari
-ABF5: Meetei Mayek Digit Five : manga
-ABF6: Meetei Mayek Digit Six : taruk
-ABF7: Meetei Mayek Digit Seven : taret
-ABF8: Meetei Mayek Dígito Ocho : nipal
-ABF9: Meetei Mayek Dígito Nueve : mapal
+ABF0: Meetei Mayek Digit Zero: Phun
+ABF1: Meetei Mayek Digit One: ama
+ABF2: Meetei Mayek Dígito Dos: y yo
+ABF3: Meetei Mayek Dígito Tres: ahum
+ABF4: Meetei Mayek Digit Four: mari
+ABF5: Meetei Mayek Digit Five: manga
+ABF6: Meetei Mayek Digit Six: taruk
+ABF7: Meetei Mayek Digit Seven: taret
+ABF8: Meetei Mayek Dígito Ocho: nipal
+ABF9: Meetei Mayek Dígito Nueve: mapal
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

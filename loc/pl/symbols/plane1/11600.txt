@@ -1,72 +1,72 @@
-11600: Modi Letter A
-11601: Modi Letter Aa
-11602: Modi List I
-11603: Modi Letter Ii
-11604: Modi Letter U
-11605: Modi Letter Uu
-11606: Modi Letter Vocalic R
-11607: Modi Letter Vocalic Rr
-11608: Modi Letter Vocalic L
-11609: Modi Letter Vocalic Ll
-1160A: Modi Letter E
-1160B: Modi Letter Ai
-1160C: Modi Letter O
-1160D: Modi Letter Au
-1160E: Modi Letter Ka
-1160F: Modi Letter Kha
-11610: Modi Letter Ga
-11611: Modi Letter Gha
-11612: Modi Letter Nga
-11613: Modi Letter Ca
-11614: Modi Letter Cha
-11615: Modi Letter Ja
-11616: Modi Letter Jha
-11617: Modi Letter Nya
-11618: Modi Letter Tta
-11619: List Modi Ttha
-1161A: Modi Letter Dda
-1161B: Modi Letter Ddha
-1161C: List Modi Nna
-1161D: Modi Letter Ta
-1161E: Modi Letter Tha
-1161F: Modi Letter Da
-11620: Modi Letter Dha
-11621: Modi Letter Na
-11622: Modi Letter Pa
-11623: Modi Letter Pha
-11624: Modi Letter Ba
-11625: Modi Letter Bha
-11626: Modi Letter Ma
-11627: Modi Letter Ya
-11628: Modi Letter Ra
-11629: Modi Letter La
-1162A: Modi Letter Va
-1162B: Modi Letter Sha
-1162C: Modi Letter Ssa
-1162D: Modi Letter Sa
-1162E: Modi Letter Ha
-1162F: Modi Letter Lla
-11630: Modi Vowel Sign Aa
-11631: Modi Vowel Sign I
-11632: Modi Vowel Sign Ii
-11633: Modi Vowel Sign U
-11634: Modi Vowel Sign Uu
-11635: Modi Vowel Sign Vocalic R
-11636: Modi Vowel Sign Vocalic Rr
-11637: Modi Vowel Sign Vocalic L
-11638: Modi Vowel Sign Vocalic Ll
-11639: Modi Vowel Sign E
-1163A: Modi Vowel Sign Ai
-1163B: Model Vowel Sign O
-1163C: Modi Vowel Sign Au
-1163D: Modi Sign Anusvara
-1163E: Modi Sign Visarga
-1163F: Modi Sign Virama : halant
-11640: Modi Sign Ardhacandra
+11600: Modi litera A
+11601: Modi litera Aa
+11602: Modi litera I
+11603: Modi litera Ii
+11604: Modi litera U
+11605: Modi litera Uu
+11606: Modi litera wokaliczny R
+11607: Modi litera wokaliczny Rr
+11608: Modi litera wokaliczny L
+11609: Modi litera wokaliczny Ll
+1160A: Modi litera E
+1160B: Modi litera Ai
+1160C: Modi litera O
+1160D: Modi litera Au
+1160E: Modi litera Ka
+1160F: Modi litera Kha
+11610: Modi litera Ga
+11611: Modi litera Gha
+11612: Modi litera Nga
+11613: Modi litera Ca
+11614: Modi litera Cha
+11615: Modi litera Ja
+11616: Modi litera Jha
+11617: Modi litera Nya
+11618: Modi litera Tta
+11619: litera Modi Ttha
+1161A: Modi litera Dda
+1161B: Modi litera Ddha
+1161C: litera Modi Nna
+1161D: Modi litera Ta
+1161E: Modi litera Tha
+1161F: Modi litera Da
+11620: Modi litera Dha
+11621: Modi litera Na
+11622: Modi litera Pa
+11623: Modi litera Pha
+11624: Modi litera Ba
+11625: Modi litera Bha
+11626: Modi litera Ma
+11627: Modi litera Ya
+11628: Modi litera Ra
+11629: Modi litera La
+1162A: Modi litera Va
+1162B: Modi litera Sha
+1162C: Modi litera Ssa
+1162D: Modi litera Sa
+1162E: Modi litera Ha
+1162F: Modi litera Lla
+11630: Modi samogłoska znak Aa
+11631: Modi samogłoska znak I
+11632: Modi samogłoska znak Ii
+11633: Modi samogłoska znak U
+11634: Modi samogłoska znak Uu
+11635: Modi samogłoska znak wokaliczny R
+11636: Modi samogłoska znak wokaliczny Rr
+11637: Modi samogłoska znak wokaliczny L
+11638: Modi samogłoska znak wokaliczny Ll
+11639: Modi samogłoska znak E
+1163A: Modi samogłoska znak Ai
+1163B: Modi samogłoska znak O
+1163C: Modi samogłoska znak Au
+1163D: Modi znak Anusvara
+1163E: Modi znak Visarga
+1163F: Modi znak Virama: halant
+11640: Modi znak Ardhacandra
 11641: Modi Danda
-11642: Modi Double Danda
+11642: Modi kettős Danda
 11643: Znak skrótu Modi
-11644: Modi Sign Huva
+11644: Modi znak Huva
 11645:
 11646:
 11647:
@@ -78,16 +78,16 @@
 1164D:
 1164E:
 1164F:
-11650: Cyfra Modi Zero
-11651: Modi Digit One
-11652: Modi Digit Two
-11653: Cyfra Modi Trzy
-11654: Modi Digit Four
-11655: Modi Digit Five
-11656: Modi Digit Six
-11657: Modi Digit Seven
-11658: Modi Digit Eight
-11659: Cyfra Modi Dziewięć
+11650: Modi cyfra zero
+11651: Modi cyfra jeden
+11652: Modi cyfra dwa
+11653: Modi cyfra trzy
+11654: Modi cyfra cztery
+11655: Modi cyfra pięć
+11656: Modi cyfra sześć
+11657: Modi cyfra siedem
+11658: Modi cyfra osiem
+11659: Modi cyfra dziewięć
 1165A:
 1165B:
 1165C:
@@ -127,62 +127,62 @@
 1167E:
 1167F:
 11680: Takri Litera A
-11681: Takri Letter Aa
-11682: Takri List I
-11683: Takri Letter Ii
+11681: Takri litera Aa
+11682: Takri litera I
+11683: Takri litera Ii
 11684: Takri Litera U
-11685: Takri Letter Uu
+11685: Takri litera Uu
 11686: Takri Litera E
-11687: Takri Letter Ai
+11687: Takri litera Ai
 11688: Takri Litera O
-11689: Takri Letter Au
+11689: Takri litera Au
 1168A: Takri Litera Ka
-1168B: Takri Letter Kha
-1168C: Takri Letter Ga
-1168D: Takri Letter Gha
-1168E: Takri Letter Nga
-1168F: Takri Letter Ca
-11690: Takri Letter Cha
-11691: Takri Letter Ja
-11692: Takri Letter Jha
-11693: Takri Letter Nya
-11694: Takri Letter Tta
-11695: Takri List Ttha
-11696: Takri Letter Dda
-11697: Takri Letter Ddha
-11698: Takri Letter Nna
-11699: Takri Letter Ta
-1169A: Takri Letter Tha
-1169B: List Takri
+1168B: Takri litera Kha
+1168C: Takri litera Ga
+1168D: Takri litera Gha
+1168E: Takri litera Nga
+1168F: Takri litera Ca
+11690: Takri litera Cha
+11691: Takri litera Ja
+11692: Takri litera Jha
+11693: Takri litera Nya
+11694: Takri litera Tta
+11695: Takri litera Ttha
+11696: Takri litera Dda
+11697: Takri litera Ddha
+11698: Takri litera Nna
+11699: Takri litera Ta
+1169A: Takri litera Tha
+1169B: litera Takri
 1169C: Takri Litera Dha
-1169D: Takri Letter Na
-1169E: Takri Letter Pa
-1169F: Takri Letter Pha
-116A0: Takri Letter Ba
+1169D: Takri litera Na
+1169E: Takri litera Pa
+1169F: Takri litera Pha
+116A0: Takri litera Ba
 116A1: Takri Litera Bha
 116A2: Takri Litera Ma
-116A3: Takri Letter Ya
-116A4: Takri List Ra
-116A5: Takri Letter La
-116A6: Takri Letter Va
-116A7: Takri Letter Sha
-116A8: Takri Letter Sa
-116A9: Takri Letter Ha
-116AA: Takri List Rra
+116A3: Takri litera Ya
+116A4: Takri litera Ra
+116A5: Takri litera La
+116A6: Takri litera Va
+116A7: Takri litera Sha
+116A8: Takri litera Sa
+116A9: Takri litera Ha
+116AA: Takri litera Rra
 116AB: Takri Podpisz Anusvara
-116AC: Takri Sign Visarga
-116AD: Takow Vowel Sign Aa
-116AE: Takow Vowel Sign I
-116AF: Takow Vowel Sign Ii
-116B0: Znak Takow Vowel U
-116B1: Takow Vowel Sign Uu
-116B2: Takow Vowel Sign E
-116B3: Takow Vowel Sign Ai
-116B4: Takow Vowel Sign O
-116B5: Znak Takow Vowel Au
+116AC: Takri znak Visarga
+116AD: Takow samogłoska znak Aa
+116AE: Takow samogłoska znak I
+116AF: Takow samogłoska znak Ii
+116B0: Znak Takow samogłoska U
+116B1: Takow samogłoska znak Uu
+116B2: Takow samogłoska znak E
+116B3: Takow samogłoska znak Ai
+116B4: Takow samogłoska znak O
+116B5: Znak Takow samogłoska Au
 116B6: Takri Zarejestruj Virama
 116B7: Takri Zaloguj się Nukta
-116B8:
+116B8: Takri litera archaiczny Kha
 116B9:
 116BA:
 116BB:
@@ -190,16 +190,16 @@
 116BD:
 116BE:
 116BF:
-116C0: Cyfra Takri Zero
-116C1: Takri Digit One
-116C2: Cyfra Takri Dwa
-116C3: Cyfra Takri Trzy
-116C4: Cyfra Takri Cztery
-116C5: Cyfra Takri Pięć
-116C6: Cyfra Takri Sześć
-116C7: Takri Digit Seven
-116C8: Takri Digit Eight
-116C9: Cyfra Takri Dziewięć
+116C0: Takri cyfra zero
+116C1: Takri cyfra jeden
+116C2: Takri cyfra dwa
+116C3: Takri cyfra trzy
+116C4: Takri cyfra cztery
+116C5: Takri cyfra pięć
+116C6: Takri cyfra sześć
+116C7: Takri cyfra siedem
+116C8: Takri cyfra osiem
+116C9: Takri cyfra dziewięć
 116CA:
 116CB:
 116CC:
@@ -253,4 +253,4 @@
 116FC:
 116FD:
 116FE:
-116FF:
+116FF:

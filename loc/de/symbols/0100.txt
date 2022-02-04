@@ -46,7 +46,7 @@
 012D: Lateinischer Kleinbuchstabe I mit Breve
 012E: Lateinischer Großbuchstabe I mit Ogonek
 012F: Lateinischer Kleinbuchstabe I mit Ogonek
-0130: Lateinischer Großbuchstabe I mit Punkt oben : Ich punkte
+0130: Lateinischer Großbuchstabe I mit Punkt oben: Ich punkte
 0131: Lateinischer Kleinbuchstabe Dotless I
 0132: Lateinische Hauptligatur Ij
 0133: Lateinische kleine Ligatur Ij
@@ -63,7 +63,7 @@
 013E: Lateinischer Kleinbuchstabe L mit Caron
 013F: Lateinischer Großbuchstabe L mit mittlerem Punkt
 0140: Lateinischer Kleinbuchstabe L mit mittlerem Punkt
-0141: Lateinischer Großbuchstabe L mit Schlaganfall : Litecoin
+0141: Lateinischer Großbuchstabe L mit Schlaganfall: Litecoin
 0142: Lateinischer Kleinbuchstabe L mit Strich
 0143: Lateinischer Großbuchstabe N mit Akut
 0144: Lateinischer Kleinbuchstabe N mit Akut
@@ -71,9 +71,9 @@
 0146: Lateinischer Kleinbuchstabe N mit Cedilla
 0147: Lateinischer Großbuchstabe N mit Caron
 0148: Lateinischer Kleinbuchstabe N mit Caron
-0149: Lateinischer Kleinbuchstabe N mit Apostroph vorangestellt : lateinischer Kleinbuchstabe Apostroph n
+0149: Lateinischer Kleinbuchstabe N mit Apostroph vorangestellt: lateinischer Kleinbuchstabe Apostroph n
 014A: Lateinischer Großbuchstabe Eng
-014B: Lateinischer Kleinbuchstabe Eng : engma, angma
+014B: Lateinischer Kleinbuchstabe Eng: engma, angma
 014C: Lateinischer Großbuchstabe O mit Macron
 014D: Lateinischer Kleinbuchstabe O mit Macron
 014E: Lateinischer Großbuchstabe O mit Breve
@@ -81,7 +81,7 @@
 0150: Lateinischer Großbuchstabe O mit doppeltem Akut
 0151: Lateinischer Kleinbuchstabe O mit doppeltem Akut
 0152: Lateinische Hauptligatur Oe
-0153: Lateinische kleine Ligatur Oe : ethel (aus dem alten englischen eðel)
+0153: Lateinische kleine Ligatur Oe: ethel (aus dem alten englischen eðel)
 0154: Lateinischer Großbuchstabe R mit Akut
 0155: Lateinischer Kleinbuchstabe R mit Akut
 0156: Lateinischer Großbuchstabe R mit Cedilla
@@ -139,25 +139,25 @@
 018A: Lateinischer Großbuchstabe D mit Haken
 018B: Lateinischer Großbuchstabe D mit Topbar
 018C: Lateinischer Kleinbuchstabe D mit Oberleiste
-018D: Lateinischer Kleinbuchstabe wurde Delta gedreht : umgekehrter Polierhaken o
-018E: Lateinischer Großbuchstabe aufgehoben E : drehte sich e
+018D: Lateinischer Kleinbuchstabe wurde Delta gedreht: umgekehrter Polierhaken o
+018E: Lateinischer Großbuchstabe aufgehoben E: drehte sich e
 018F: Lateinischer Großbuchstabe Schwa
-0190: Lateinischer Großbuchstabe offen E : Epsilon
+0190: Lateinischer Großbuchstabe offen E: Epsilon
 0191: Lateinischer Großbuchstabe F mit Haken
-0192: Lateinischer Kleinbuchstabe F mit Haken : Skript f : Florin-Währungssymbol (Niederlande) : Funktionssymbol
+0192: Lateinischer Kleinbuchstabe F mit Haken: Skript f , Florin-Währungssymbol (Niederlande) , Funktionssymbol
 0193: Lateinischer Großbuchstabe G mit Haken
 0194: Lateinischer Großbuchstabe Gamma
 0195: Lateinischer Kleinbuchstabe Hv
 0196: Lateinischer Großbuchstabe Iota
-0197: Lateinischer Großbuchstabe I mit Schlaganfall : gesperrt ich, ich bar
+0197: Lateinischer Großbuchstabe I mit Schlaganfall: gesperrt ich, ich bar
 0198: Lateinischer Großbuchstabe K mit Haken
 0199: Lateinischer Kleinbuchstabe K mit Haken
-019A: Lateinischer Kleinbuchstabe L mit Bar : abgehalten l
-019B: Lateinischer Kleinbuchstabe Lambda mit Schlaganfall : abgehaltenes Lambda, Lambda-Bar
+019A: Lateinischer Kleinbuchstabe L mit Bar: abgehalten l
+019B: Lateinischer Kleinbuchstabe Lambda mit Schlaganfall: abgehaltenes Lambda, Lambda-Bar
 019C: Lateinischer Großbuchstabe gedreht M
 019D: Lateinischer Großbuchstabe N mit linkem Haken
 019E: Lateinischer Kleinbuchstabe N mit langem rechtem Bein
-019F: Lateinischer Großbuchstabe O mit mittlerer Tilde : o, o bar gesperrt
+019F: Lateinischer Großbuchstabe O mit mittlerer Tilde: o, o bar gesperrt
 01A0: Lateinischer Großbuchstabe O mit Horn
 01A1: Lateinischer Kleinbuchstabe O mit Horn
 01A2: Lateinischer Großbuchstabe Oi
@@ -176,11 +176,11 @@
 01AF: Lateinischer Großbuchstabe U mit Horn
 01B0: Lateinischer Kleinbuchstabe U mit Horn
 01B1: Lateinischer Großbuchstabe Upsilon
-01B2: Lateinischer Großbuchstabe V mit Haken : Skript v
+01B2: Lateinischer Großbuchstabe V mit Haken: Skript v
 01B3: Lateinischer Großbuchstabe Y mit Haken
 01B4: Lateinischer Kleinbuchstabe Y mit Haken
 01B5: Lateinischer Großbuchstabe Z mit Strich
-01B6: Lateinischer Kleinbuchstabe Z mit Strich : gesperrt z, z bar
+01B6: Lateinischer Kleinbuchstabe Z mit Strich: gesperrt z, z bar
 01B7: Lateinischer Großbuchstabe Ezh
 01B8: Lateinischer Großbuchstabe Ezh aufgehoben
 01B9: Lateinischer Kleinbuchstabe Ezh rückgängig gemacht
@@ -189,11 +189,11 @@
 01BC: Lateinischer Großbuchstabe Tone Five
 01BD: Lateinischer Kleinbuchstabe Ton fünf
 01BE: Lateinischer Buchstabe invertiert Glottal mit Schlaganfall
-01BF: Lateinischer Buchstabe Wynn : wen
-01C0: Lateinischer Buchstabe Dental Click : Rohr
-01C1: Lateinischer Buchstabe seitlich klicken : Doppelrohr
-01C2: Lateinischer Buchstabe Alveolar Click : doppelt vergossenes Rohr : palatoalveolarer Klick (ipa)
-01C3: Lateinischer Buchstabe Retroflex Click : lateinischer Brief Ausrufezeichen : (post) alveolarklick (ipa)
+01BF: Lateinischer Buchstabe Wynn: wen
+01C0: Lateinischer Buchstabe Dental Click: Rohr
+01C1: Lateinischer Buchstabe seitlich klicken: Doppelrohr
+01C2: Lateinischer Buchstabe Alveolar Click: doppelt vergossenes Rohr , palatoalveolarer Klick (ipa)
+01C3: Lateinischer Buchstabe Retroflex Click: lateinischer Brief Ausrufezeichen , (post) alveolarklick (ipa)
 01C4: Lateinischer Großbuchstabe Dz mit Caron
 01C5: Lateinischer Großbuchstabe D mit Kleinbuchstabe Z mit Caron
 01C6: Lateinischer Kleinbuchstabe Dz mit Caron
@@ -245,7 +245,7 @@
 01F4: Lateinischer Großbuchstabe G mit Akut
 01F5: Lateinischer Kleinbuchstabe G mit Akut
 01F6: Lateinischer Großbuchstabe Hwair
-01F7: Lateinischer Großbuchstabe Wynn : wen
+01F7: Lateinischer Großbuchstabe Wynn: wen
 01F8: Lateinischer Großbuchstabe N mit Grab
 01F9: Lateinischer Kleinbuchstabe N mit Grab
 01FA: Lateinischer Großbuchstabe a mit Ring oben und akut

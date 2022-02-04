@@ -94,88 +94,88 @@
 10E5D:
 10E5E:
 10E5F:
-10E60: Rumi Digit One
-10E61: Rumi Digit Two
-10E62: Rumi Digit Three
-10E63: Rumi Digit Four
-10E64: Rumi Digit Five
-10E65: Rumi Digit Six
-10E66: Rumi Digit Seven
-10E67: Rumi Digit Eight
-10E68: Rumi Digit Nine
-10E69: Rumi Tíz
-10E6A: Rumi száma húsz
-10E6B: Rumi Number Thirty
-10E6C: Rumi száma negyven
-10E6D: Rumi szám ötven
-10E6E: Rumi Number Sixty
-10E6F: Rumi szám hetven
-10E70: Rumi száma nyolcvan
-10E71: Rumi száma kilencven
-10E72: Rumi szám száz
-10E73: Rumi szám kétszáz
-10E74: Rumi száma háromszáz
-10E75: Rumi száma négyszáz
-10E76: Rumi Number Five Hundred
-10E77: Rumi száma hatszáz
-10E78: Rumi szám hét száz
-10E79: Rumi száma nyolcszáz
-10E7A: Rumi száma kilencszáz
-10E7B: Rumi frakció egy fél
-10E7C: Rumi Fraction One negyed
-10E7D: Harmadik Rumi frakció
-10E7E: Rumi Fraction Two Thirds
+10E60: Rúmí számjegy nulla
+10E61: Rúmí számjegy egy
+10E62: Rúmí számjegy kettő
+10E63: Rúmí számjegy három
+10E64: Rúmí számjegy négy
+10E65: Rúmí számjegy öt
+10E66: Rúmí számjegy hat
+10E67: Rúmí számjegy hét
+10E68: Rúmí számjegy nyolc
+10E69: Rúmí Tíz
+10E6A: Rúmí száma húsz
+10E6B: Rúmí Number Thirty
+10E6C: Rúmí száma negyven
+10E6D: Rúmí szám ötven
+10E6E: Rúmí Number Sixty
+10E6F: Rúmí szám hetven
+10E70: Rúmí száma nyolcvan
+10E71: Rúmí száma kilencven
+10E72: Rúmí szám száz
+10E73: Rúmí szám kétszáz
+10E74: Rúmí száma háromszáz
+10E75: Rúmí száma négyszáz
+10E76: Rúmí Number Five Hundred
+10E77: Rúmí száma hatszáz
+10E78: Rúmí szám hét száz
+10E79: Rúmí száma nyolcszáz
+10E7A: Rúmí száma kilencszáz
+10E7B: Rúmí frakció egy fél
+10E7C: Rúmí Fraction One negyed
+10E7D: Harmadik Rúmí frakció
+10E7E: Rúmí Fraction Two Thirds
 10E7F:
-10E80:
-10E81:
-10E82:
-10E83:
-10E84:
-10E85:
-10E86:
-10E87:
-10E88:
-10E89:
-10E8A:
-10E8B:
-10E8C:
-10E8D:
-10E8E:
-10E8F:
-10E90:
-10E91:
-10E92:
-10E93:
-10E94:
-10E95:
-10E96:
-10E97:
-10E98:
-10E99:
-10E9A:
-10E9B:
-10E9C:
-10E9D:
-10E9E:
-10E9F:
-10EA0:
-10EA1:
-10EA2:
-10EA3:
-10EA4:
-10EA5:
-10EA6:
-10EA7:
-10EA8:
-10EA9:
+10E80: Yezidi betű Elif
+10E81: Yezidi betű Be
+10E82: Yezidi betű Pe
+10E83: Yezidi betű Phe
+10E84: Yezidi betű The
+10E85: Yezidi betű Se
+10E86: Yezidi betű Cim
+10E87: Yezidi betű Chim
+10E88: Yezidi betű Chhim
+10E89: Yezidi betű Hha
+10E8A: Yezidi betű Xa
+10E8B: Yezidi betű Dal
+10E8C: Yezidi betű Zal
+10E8D: Yezidi betű Ra
+10E8E: Yezidi betű Rha
+10E8F: Yezidi betű Za
+10E90: Yezidi betű Ja
+10E91: Yezidi betű Sin
+10E92: Yezidi betű Shin
+10E93: Yezidi betű Sad
+10E94: Yezidi betű Dad
+10E95: Yezidi betű Ta
+10E96: Yezidi betű Ze
+10E97: Yezidi betű Eyn
+10E98: Yezidi betű Xheyn
+10E99: Yezidi betű Fa
+10E9A: Yezidi betű Va
+10E9B: Yezidi betű Va Alternate Form
+10E9C: Yezidi betű Qaf
+10E9D: Yezidi betű Kaf
+10E9E: Yezidi betű Khaf
+10E9F: Yezidi betű Gaf
+10EA0: Yezidi betű Lam
+10EA1: Yezidi betű Mim
+10EA2: Yezidi betű Nun
+10EA3: Yezidi betű Um
+10EA4: Yezidi betű Waw
+10EA5: Yezidi betű Ow
+10EA6: Yezidi betű Ew
+10EA7: Yezidi betű Hay
+10EA8: Yezidi betű Yot
+10EA9: Yezidi betű Et
 10EAA:
-10EAB:
-10EAC:
-10EAD:
+10EAB: Yezidi kombinálásával Hamza osztályzat
+10EAC: Yezidi kombinálásával Madda osztályzat
+10EAD: Yezidi elválasztás osztályzat
 10EAE:
 10EAF:
-10EB0:
-10EB1:
+10EB0: Yezidi betű Lam pont felett
+10EB1: Yezidi betű Yot fent körül
 10EB2:
 10EB3:
 10EB4:
@@ -253,4 +253,4 @@
 10EFC:
 10EFD:
 10EFE:
-10EFF:
+10EFF:

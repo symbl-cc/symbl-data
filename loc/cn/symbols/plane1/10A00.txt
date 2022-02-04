@@ -25,9 +25,9 @@
 10A18:
 10A19: Kharoshthi字母Nya
 10A1A: Kharoshthi Letter Tta
-10A1B: Kharoshthi信Ttha
+10A1B: Kharoshthi字母Ttha
 10A1C: Kharoshthi Letter Dda
-10A1D: Kharoshthi信Ddha
+10A1D: Kharoshthi字母Ddha
 10A1E: Kharoshthi字母Nna
 10A1F: Kharoshthi Letter Ta
 10A20: Kharoshthi Letter Tha
@@ -48,7 +48,7 @@
 10A2F: Kharoshthi Letter Sa.
 10A30: Kharoshthi Letter Za
 10A31: Kharoshthi Letter Ha
-10A32: Kharoshthi信Kka
+10A32: Kharoshthi字母Kka
 10A33: Kharoshthi Letter Tttha
 10A34: Kharoshthi Letter Ttta
 10A35: Kharoshthi Letter Vha
@@ -61,7 +61,7 @@
 10A3C:
 10A3D:
 10A3E:
-10A3F: Kharoshthi Virama : halant
+10A3F: Kharoshthi Virama: halant
 10A40: Kharoshthi数字一
 10A41: Kharoshthi数字二
 10A42: Kharoshthi数字三
@@ -94,60 +94,60 @@
 10A5D:
 10A5E:
 10A5F:
-10A60: 老南阿拉伯字母他 : 嘿嘿
-10A61: 老南阿拉伯信Lamedh : 我是
-10A62: 老南阿拉伯字母Heth : 嘿
-10A63: 老南阿拉伯信件 : MEEM
-10A64: 老南阿拉伯字母Qoph : QAF
-10A65: 老南阿拉伯信件Waw : 瓦乌
-10A66: 老南阿拉伯字母Shin : 光泽
-10A67: 老南阿拉伯信件Resh : REH
-10A68: 老南阿拉伯信贝丝 : BEH
-10A69: 老南阿拉伯字母Taw : TEH
-10A6A: 老南阿拉伯信星期六
-10A6B: 老南阿拉伯信件Kaph : KAF
-10A6C: 老南阿拉伯字母尼姑 : 中午
-10A6D: 老南阿拉伯字母Kheth : khah
-10A6E: 老南阿拉伯字母Sadhe : 伤心
+10A60: 老南阿拉伯字母他: 嘿嘿
+10A61: 老南阿拉伯字母Lamedh: 我是
+10A62: 老南阿拉伯字母Heth: 嘿
+10A63: 老南阿拉伯字母件: MEEM
+10A64: 老南阿拉伯字母Qoph: QAF
+10A65: 老南阿拉伯字母件Waw: 瓦乌
+10A66: 老南阿拉伯字母Shin: 光泽
+10A67: 老南阿拉伯字母件Resh: REH
+10A68: 老南阿拉伯字母贝丝: BEH
+10A69: 老南阿拉伯字母Taw: TEH
+10A6A: 老南阿拉伯字母星期六
+10A6B: 老南阿拉伯字母件Kaph: KAF
+10A6C: 老南阿拉伯字母尼姑: 中午
+10A6D: 老南阿拉伯字母Kheth: khah
+10A6E: 老南阿拉伯字母Sadhe: 伤心
 10A6F: 老南阿拉伯字母Samekh
-10A70: 老南阿拉伯字母Fe : FEH
-10A71: 老南阿拉伯信Alef : ALEF
-10A72: 老南阿拉伯字母Ayn : 艾因
-10A73: 老南阿拉伯信Dhadhe : 爸
-10A74: 老南阿拉伯字母Gimel : jeem
-10A75: 老南阿拉伯信Daleth : DAL
-10A76: 老南阿拉伯字母Ghayn : ghain
-10A77: 老南阿拉伯字母Teth : 塔赫
-10A78: 老南阿拉伯字母Zayn : 扎因
-10A79: 老南阿拉伯字母Dhaleth : 塔尔
-10A7A: 老南阿拉伯信Yodh : 叶
-10A7B: 老南阿拉伯信解冻 : theh
-10A7C: 老南阿拉伯字母Theth : ZAH
+10A70: 老南阿拉伯字母Fe: FEH
+10A71: 老南阿拉伯字母Alef: ALEF
+10A72: 老南阿拉伯字母Ayn: 艾因
+10A73: 老南阿拉伯字母Dhadhe: 爸
+10A74: 老南阿拉伯字母Gimel: jeem
+10A75: 老南阿拉伯字母Daleth: DAL
+10A76: 老南阿拉伯字母Ghayn: ghain
+10A77: 老南阿拉伯字母Teth: 塔赫
+10A78: 老南阿拉伯字母Zayn: 扎因
+10A79: 老南阿拉伯字母Dhaleth: 塔尔
+10A7A: 老南阿拉伯字母Yodh: 叶
+10A7B: 老南阿拉伯字母解冻: theh
+10A7C: 老南阿拉伯字母Theth: ZAH
 10A7D: 老南阿拉伯第一
 10A7E: 老南阿拉伯数字五十
 10A7F: 老南阿拉伯数字指示器
 10A80: 老北阿拉伯字母嘿
-10A81: 老北阿拉伯信林
+10A81: 老北阿拉伯字母林
 10A82: 老北阿拉伯字母Hah
 10A83: 老北阿拉伯字母Meem
 10A84: 老北阿拉伯字母Qaf
-10A85: 老北阿拉伯信件Waw
+10A85: 老北阿拉伯字母件Waw
 10A86: 老北阿拉伯字母Es-2
 10A87: 老北阿拉伯字母Reh
 10A88: 老北阿拉伯字母Beh
-10A89: 老北阿拉伯信Teh
+10A89: 老北阿拉伯字母Teh
 10A8A: 老北阿拉伯字母Es-1
 10A8B: 老北阿拉伯字母Kaf
-10A8C: 老北阿拉伯信中午
-10A8D: 老北阿拉伯信Khah
-10A8E: 老北阿拉伯信悲伤
+10A8C: 老北阿拉伯字母中午
+10A8D: 老北阿拉伯字母Khah
+10A8E: 老北阿拉伯字母悲伤
 10A8F: 老北阿拉伯字母Es-3
 10A90: 老北阿拉伯字母Feh
-10A91: 老北阿拉伯信Alef
+10A91: 老北阿拉伯字母Alef
 10A92: 老北阿拉伯字母Ain
-10A93: 老北阿拉伯信爸爸
+10A93: 老北阿拉伯字母爸爸
 10A94: 老北阿拉伯字母Geem
-10A95: 老北阿拉伯信Dal
+10A95: 老北阿拉伯字母Dal
 10A96: 老北阿拉伯字母Ghain
 10A97: 老北阿拉伯字母Tah
 10A98: 老北阿拉伯字母Zain
@@ -207,7 +207,7 @@
 10ACE: Manichaean Letter Teth
 10ACF: Manichaean Letter Yodh
 10AD0: Manichaean Letter Kaph
-10AD1: Manichaean信Xaph
+10AD1: Manichaean字母Xaph
 10AD2: Manichaean Letter Khaph
 10AD3: Manichaean Letter Lamedh
 10AD4: Manichaean Letter Dhamedh
@@ -253,4 +253,4 @@
 10AFC:
 10AFD:
 10AFE:
-10AFF:
+10AFF:

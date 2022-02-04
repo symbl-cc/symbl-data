@@ -94,8 +94,8 @@ A65C : 西里尔文大写字母 Iotified Closed Little Yus
 A65D : 西里尔文小写字母 Iotified Closed Little Yus
 A65E : 西里尔文大写字母 Yn
 A65F : 西里尔文小写字母 Yn
-A660 : 
-A661 : 
+A660 : 西里爾字母大寫反轉 Tse
+A661 : 西里爾字母反寫 Tse 
 A662 : 西里尔文大写字母 Soft De
 A663 : 西里尔文小写字母 Soft De
 A664 : 西里尔文大写字母 Soft El
@@ -114,14 +114,14 @@ A670 : 组合用西里尔文 Ten Millions Sign
 A671 : 组合用西里尔文 Hundred Millions Sign
 A672 : 组合用西里尔文 Thousand Millions Sign
 A673 : Slavonic Asterisk
-A674 : 
-A675 : 
-A676 : 
-A677 : 
-A678 : 
-A679 : 
-A67A : 
-A67B : 
+A674 : 結合西里爾字母乌克兰语 Ie
+A675 : 結合西里爾字母 I
+A676 : 結合西里爾字母 Yi
+A677 : 結合西里爾字母 U
+A678 : 結合西里爾字母 Hard Sign
+A679 : 結合西里爾字母 Yeru
+A67A : 結合西里爾字母 Soft Sign
+A67B : 結合西里爾字母 Omega
 A67C : 组合用西里尔文 Kavyka
 A67D : 组合用西里尔文 Payerok
 A67E : 西里尔文 Kavyka
@@ -136,8 +136,8 @@ A686 : 西里尔文大写字母 Cche
 A687 : 西里尔文小写字母 Cche
 A688 : 西里尔文大写字母 Dzze
 A689 : 西里尔文小写字母 Dzze
-A68A : 西里尔文大写字母 Te With Middle Hook
-A68B : 西里尔文小写字母 Te With Middle Hook
+A68A : 西里尔文大写字母 Te 帶中間鉤
+A68B : 西里尔文小写字母 Te 帶中間鉤
 A68C : 西里尔文大写字母 Twe
 A68D : 西里尔文小写字母 Twe
 A68E : 西里尔文大写字母 Tswe
@@ -150,102 +150,102 @@ A694 : 西里尔文大写字母 Hwe
 A695 : 西里尔文小写字母 Hwe
 A696 : 西里尔文大写字母 Shwe
 A697 : 西里尔文小写字母 Shwe
-A698 : 
-A699 : 
-A69A : 
-A69B : 
-A69C : 
-A69D : 
-A69E : 
-A69F : 
-A6A0 : Bamum Letter A
-A6A1 : Bamum Letter Ka
-A6A2 : Bamum Letter U
-A6A3 : Bamum Letter Ku
-A6A4 : Bamum Letter Ee
-A6A5 : Bamum Letter Ree
-A6A6 : Bamum Letter Tae
-A6A7 : Bamum Letter O
-A6A8 : Bamum Letter Nyi
-A6A9 : Bamum Letter I
-A6AA : Bamum Letter La
-A6AB : Bamum Letter Pa
-A6AC : Bamum Letter Rii
-A6AD : Bamum Letter Riee
-A6AE : Bamum Letter Leeee
-A6AF : Bamum Letter Meeee
-A6B0 : Bamum Letter Taa
-A6B1 : Bamum Letter Ndaa
-A6B2 : Bamum Letter Njaem
-A6B3 : Bamum Letter M
-A6B4 : Bamum Letter Suu
-A6B5 : Bamum Letter Mu
-A6B6 : Bamum Letter Shii
-A6B7 : Bamum Letter Si
-A6B8 : Bamum Letter Sheux
-A6B9 : Bamum Letter Seux
-A6BA : Bamum Letter Kyee
-A6BB : Bamum Letter Ket
-A6BC : Bamum Letter Nuae
-A6BD : Bamum Letter Nu
-A6BE : Bamum Letter Njuae
-A6BF : Bamum Letter Yoq
-A6C0 : Bamum Letter Shu
-A6C1 : Bamum Letter Yuq
-A6C2 : Bamum Letter Ya
-A6C3 : Bamum Letter Nsha
-A6C4 : Bamum Letter Keux
-A6C5 : Bamum Letter Peux
-A6C6 : Bamum Letter Njee
-A6C7 : Bamum Letter Ntee
-A6C8 : Bamum Letter Pue
-A6C9 : Bamum Letter Wue
-A6CA : Bamum Letter Pee
-A6CB : Bamum Letter Fee
-A6CC : Bamum Letter Ru
-A6CD : Bamum Letter Lu
-A6CE : Bamum Letter Mi
-A6CF : Bamum Letter Ni
-A6D0 : Bamum Letter Reux
-A6D1 : Bamum Letter Rae
-A6D2 : Bamum Letter Ken
-A6D3 : Bamum Letter Ngkwaen
-A6D4 : Bamum Letter Ngga
-A6D5 : Bamum Letter Nga
-A6D6 : Bamum Letter Sho
-A6D7 : Bamum Letter Puae
-A6D8 : Bamum Letter Fu
-A6D9 : Bamum Letter Fom
-A6DA : Bamum Letter Wa
-A6DB : Bamum Letter Na
-A6DC : Bamum Letter Li
-A6DD : Bamum Letter Pi
-A6DE : Bamum Letter Loq
-A6DF : Bamum Letter Ko
-A6E0 : Bamum Letter Mben
-A6E1 : Bamum Letter Ren
-A6E2 : Bamum Letter Men
-A6E3 : Bamum Letter Ma
-A6E4 : Bamum Letter Ti
-A6E5 : Bamum Letter Ki
-A6E6 : Bamum Letter Mo
-A6E7 : Bamum Letter Mbaa
-A6E8 : Bamum Letter Tet
-A6E9 : Bamum Letter Kpa
-A6EA : Bamum Letter Ten
-A6EB : Bamum Letter Ntuu
-A6EC : Bamum Letter Samba
-A6ED : Bamum Letter Faamae
-A6EE : Bamum Letter Kovuu
-A6EF : Bamum Letter Koghom
-A6F0 : Bamum Combining Mark Koqndon
-A6F1 : Bamum Combining Mark Tukwentis
-A6F2 : Bamum Njaemli
-A6F3 : Bamum Full Stop
-A6F4 : Bamum Colon
-A6F5 : Bamum Comma
-A6F6 : Bamum Semicolon
-A6F7 : Bamum Question Mark
+A698 : 西里爾大寫字母雙O
+A699 : 西里爾文小寫字母雙O
+A69A : 西里爾字母大寫字母O
+A69B : 西里爾字母小寫字母O
+A69C : 修飾字母西里爾字母硬符號
+A69D : 修飾字母西里爾字母軟符號
+A69E : 結合西里爾字母Ef
+A69F : 結合西里爾字母加E
+A6A0 : 巴姆穆文字母 A
+A6A1 : 巴姆穆文字母 Ka
+A6A2 : 巴姆穆文字母 U
+A6A3 : 巴姆穆文字母 Ku
+A6A4 : 巴姆穆文字母 Ee
+A6A5 : 巴姆穆文字母 Ree
+A6A6 : 巴姆穆文字母 Tae
+A6A7 : 巴姆穆文字母 O
+A6A8 : 巴姆穆文字母 Nyi
+A6A9 : 巴姆穆文字母 I
+A6AA : 巴姆穆文字母 La
+A6AB : 巴姆穆文字母 Pa
+A6AC : 巴姆穆文字母 Rii
+A6AD : 巴姆穆文字母 Riee
+A6AE : 巴姆穆文字母 Leeee
+A6AF : 巴姆穆文字母 Meeee
+A6B0 : 巴姆穆文字母 Taa
+A6B1 : 巴姆穆文字母 Ndaa
+A6B2 : 巴姆穆文字母 Njaem
+A6B3 : 巴姆穆文字母 M
+A6B4 : 巴姆穆文字母 Suu
+A6B5 : 巴姆穆文字母 Mu
+A6B6 : 巴姆穆文字母 Shii
+A6B7 : 巴姆穆文字母 Si
+A6B8 : 巴姆穆文字母 Sheux
+A6B9 : 巴姆穆文字母 Seux
+A6BA : 巴姆穆文字母 Kyee
+A6BB : 巴姆穆文字母 Ket
+A6BC : 巴姆穆文字母 Nuae
+A6BD : 巴姆穆文字母 Nu
+A6BE : 巴姆穆文字母 Njuae
+A6BF : 巴姆穆文字母 Yoq
+A6C0 : 巴姆穆文字母 Shu
+A6C1 : 巴姆穆文字母 Yuq
+A6C2 : 巴姆穆文字母 Ya
+A6C3 : 巴姆穆文字母 Nsha
+A6C4 : 巴姆穆文字母 Keux
+A6C5 : 巴姆穆文字母 Peux
+A6C6 : 巴姆穆文字母 Njee
+A6C7 : 巴姆穆文字母 Ntee
+A6C8 : 巴姆穆文字母 Pue
+A6C9 : 巴姆穆文字母 Wue
+A6CA : 巴姆穆文字母 Pee
+A6CB : 巴姆穆文字母 Fee
+A6CC : 巴姆穆文字母 Ru
+A6CD : 巴姆穆文字母 Lu
+A6CE : 巴姆穆文字母 Mi
+A6CF : 巴姆穆文字母 Ni
+A6D0 : 巴姆穆文字母 Reux
+A6D1 : 巴姆穆文字母 Rae
+A6D2 : 巴姆穆文字母 Ken
+A6D3 : 巴姆穆文字母 Ngkwaen
+A6D4 : 巴姆穆文字母 Ngga
+A6D5 : 巴姆穆文字母 Nga
+A6D6 : 巴姆穆文字母 Sho
+A6D7 : 巴姆穆文字母 Puae
+A6D8 : 巴姆穆文字母 Fu
+A6D9 : 巴姆穆文字母 Fom
+A6DA : 巴姆穆文字母 Wa
+A6DB : 巴姆穆文字母 Na
+A6DC : 巴姆穆文字母 Li
+A6DD : 巴姆穆文字母 Pi
+A6DE : 巴姆穆文字母 Loq
+A6DF : 巴姆穆文字母 Ko
+A6E0 : 巴姆穆文字母 Mben
+A6E1 : 巴姆穆文字母 Ren
+A6E2 : 巴姆穆文字母 Men
+A6E3 : 巴姆穆文字母 Ma
+A6E4 : 巴姆穆文字母 Ti
+A6E5 : 巴姆穆文字母 Ki
+A6E6 : 巴姆穆文字母 Mo
+A6E7 : 巴姆穆文字母 Mbaa
+A6E8 : 巴姆穆文字母 Tet
+A6E9 : 巴姆穆文字母 Kpa
+A6EA : 巴姆穆文字母 Ten
+A6EB : 巴姆穆文字母 Ntuu
+A6EC : 巴姆穆文字母 Samba
+A6ED : 巴姆穆文字母 Faamae
+A6EE : 巴姆穆文字母 Kovuu
+A6EF : 巴姆穆文字母 Koghom
+A6F0 : 巴姆穆文結合馬克·科恩登
+A6F1 : 巴姆穆文結合馬克·圖克文蒂斯
+A6F2 : 巴姆穆文恩傑姆利
+A6F3 : 巴姆穆文句號
+A6F4 : 巴姆穆文結腸
+A6F5 : 巴姆穆文逗號
+A6F6 : 巴姆穆文分號
+A6F7 : 巴姆穆文問號
 A6F8 : 
 A6F9 : 
 A6FA : 
@@ -253,4 +253,4 @@ A6FB :
 A6FC : 
 A6FD : 
 A6FE : 
-A6FF : 
+A6FF : 

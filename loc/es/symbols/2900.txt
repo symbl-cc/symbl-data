@@ -1,11 +1,11 @@
-2900: Flecha de dos cabezas hacia la derecha con trazo vertical : notación parcial z
-2901: Flecha de dos cabezas hacia la derecha con doble movimiento vertical : notación finita z
+2900: Flecha de dos cabezas hacia la derecha con trazo vertical: notación parcial z
+2901: Flecha de dos cabezas hacia la derecha con doble movimiento vertical: notación finita z
 2902: Doble flecha hacia la izquierda con trazo vertical
 2903: Doble flecha hacia la derecha con trazo vertical
 2904: Izquierda Derecha Doble Flecha con Trazo Vertical
-2905: Flecha de dos cabezas hacia la derecha de la barra : mapas para
-2906: Doble flecha hacia la izquierda de la barra : mapas de
-2907: Flecha doble hacia la derecha de la barra : mapas para
+2905: Flecha de dos cabezas hacia la derecha de la barra: mapas para
+2906: Doble flecha hacia la izquierda de la barra: mapas de
+2907: Flecha doble hacia la derecha de la barra: mapas para
 2908: Flecha hacia abajo con trazo horizontal
 2909: Flecha hacia arriba con trazo horizontal
 290A: Flecha triple hacia arriba
@@ -18,11 +18,11 @@
 2911: Flecha hacia la derecha con tallo punteado
 2912: Flecha hacia arriba a la barra
 2913: Flecha hacia abajo a la barra
-2914: Flecha hacia la derecha con cola con trazo vertical : z notación parcial de inyección
-2915: Flecha hacia la derecha con la cola con doble trazo vertical : inyeccion finita de notación z
-2916: Flecha de dos cabezas hacia la derecha con cola : mapeo biyectivo : bijección de notación z
-2917: Flecha de dos cabezas hacia la derecha con cola con trazo vertical : inyeccion de inyección de notacion z
-2918: Flecha de dos cabezas hacia la derecha con cola con doble movimiento vertical : z notación finita inyectiva inyectiva
+2914: Flecha hacia la derecha con cola con trazo vertical: z notación parcial de inyección
+2915: Flecha hacia la derecha con la cola con doble trazo vertical: inyeccion finita de notación z
+2916: Flecha de dos cabezas hacia la derecha con cola: mapeo biyectivo , bijección de notación z
+2917: Flecha de dos cabezas hacia la derecha con cola con trazo vertical: inyeccion de inyección de notacion z
+2918: Flecha de dos cabezas hacia la derecha con cola con doble movimiento vertical: z notación finita inyectiva inyectiva
 2919: Flecha hacia la izquierda
 291A: Flecha hacia la derecha
 291B: Doble flecha hacia la izquierda
@@ -212,23 +212,23 @@
 29D3: Pajarita Negra
 29D4: Tiempos con Mitad Izquierda Negra
 29D5: Tiempos con la mitad derecha negra
-29D6: Reloj de arena blanco : corbatín vertical : marco blanco
+29D6: Reloj de arena blanco: corbatín vertical , marco blanco
 29D7: Reloj de arena negro
 29D8: Valla izquierda ondulada
 29D9: Valla derecha ondulada
 29DA: Doble valla izquierda izquierda
 29DB: Derecho doble valla ondulada
-29DC: Infinito incompleto : entidad isotécnica y iinfin;
+29DC: Infinito incompleto: entidad isotécnica y iinfin,
 29DD: Empate sobre el infinito
 29DE: Infinito negado con barra vertical
 29DF: Multimapa de doble extremo
-29E0: Cuadrado con contorno contorneado : d'alembertian
+29E0: Cuadrado con contorno contorneado: d'alembertian
 29E1: Aumenta como
 29E2: Shuffle Product
 29E3: Signo de igual y paralelo inclinado
 29E4: Signo de igual y paralelo inclinado con tilde arriba
 29E5: Idéntico a y paralelo inclinado
-29E6: Gleich Stark : equivalente tautológico
+29E6: Gleich Stark: equivalente tautológico
 29E7: Termodinamica
 29E8: Triángulo que apunta hacia abajo con la mitad izquierda negra
 29E9: Triángulo que apunta hacia abajo con la mitad derecha negra
@@ -242,12 +242,12 @@
 29F1: Error Black Barred Diamond
 29F2: Círculo blanco con error
 29F3: Círculo negro con barras de error
-29F4: Regla retrasada : flecha derecha del colon
+29F4: Regla retrasada: flecha derecha del colon
 29F5: Operador de Solidus Inverso
 29F6: Solidus con Overbar
 29F7: Solidus inverso con trazo horizontal
 29F8: Sólido grande
-29F9: Sólido inverso grande : ocultación del esquema de notación z
+29F9: Sólido inverso grande: ocultación del esquema de notación z
 29FA: Doble Plus
 29FB: Triple Plus
 29FC: Abrazadera de ángulo curvo a la izquierda

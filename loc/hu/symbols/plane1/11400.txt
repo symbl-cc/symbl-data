@@ -1,56 +1,56 @@
-11400: Newa A betű
-11401: Newa Aa
-11402: Newa I betű
-11403: Newa Ii
-11404: Newa U betű
-11405: Newa levél Uu
-11406: Newa Letter Vocalic R
-11407: Newa levél Vocalic Rr
-11408: Newa Loc Vocalic L
-11409: Newa Loc Vocalic Ll
-1140A: Newa E betű
-1140B: Newa Letter Ai
-1140C: Newa O betű
-1140D: Newa Letter Au
-1140E: Newa Letter Ka
-1140F: Newa levél Kha
-11410: Newa Letter Ga
-11411: Newa Letter Gha
-11412: Newa Letter Nga
-11413: Newa Letter Ngha
-11414: Newa levél Ca
-11415: Newa Letter Cha
-11416: Newa Letter Ja
-11417: Newa Letter Jha
-11418: Newa Letter Nya
-11419: Newa Letter Nyha
-1141A: Newa Letter Tta
-1141B: Newa Letter Ttha
-1141C: Newa Letter Dda
-1141D: Newa Letter Ddha
-1141E: Newa Letter Nna
-1141F: Newa Letter Ta
-11420: Newa levél Tha
-11421: Newa Letter Da
-11422: Newa Letter Dha
-11423: Newa Na Na
-11424: Newa Letter Nha
-11425: Newa levél Pa
-11426: Newa Letter Pha
-11427: Newa Letter Ba
-11428: Newa levél Bha
-11429: Newa Letter Ma
-1142A: Newa Letter Mha
-1142B: Newa Ya
-1142C: Newa Ra Ra
-1142D: Newa levél Rha
-1142E: Newa Letter La
-1142F: Newa Letter Lha
-11430: Newa Wa
-11431: Newa Letter Sha
-11432: Newa Letter Ssa
-11433: Newa Letter Sa
-11434: Newa Letter Ha
+11400: Newa betű A
+11401: Newa betű Aa
+11402: Newa betű I
+11403: Newa betű Ii
+11404: Newa betű U
+11405: Newa betű Uu
+11406: Newa betű vokális R
+11407: Newa betű vokális Rr
+11408: Newa betű vokális L
+11409: Newa betű vokális Ll
+1140A: Newa betű E
+1140B: Newa betű Ai
+1140C: Newa betű O
+1140D: Newa betű Au
+1140E: Newa betű Ka
+1140F: Newa betű Kha
+11410: Newa betű Ga
+11411: Newa betű Gha
+11412: Newa betű Nga
+11413: Newa betű Ngha
+11414: Newa betű Ca
+11415: Newa betű Cha
+11416: Newa betű Ja
+11417: Newa betű Jha
+11418: Newa betű Nya
+11419: Newa betű Nyha
+1141A: Newa betű Tta
+1141B: Newa betű Ttha
+1141C: Newa betű Dda
+1141D: Newa betű Ddha
+1141E: Newa betű Nna
+1141F: Newa betű Ta
+11420: Newa betű Tha
+11421: Newa betű Da
+11422: Newa betű Dha
+11423: Newa betű Na
+11424: Newa betű Nha
+11425: Newa betű Pa
+11426: Newa betű Pha
+11427: Newa betű Ba
+11428: Newa betű Bha
+11429: Newa betű Ma
+1142A: Newa betű Mha
+1142B: Newa betű Ya
+1142C: Newa betű Ra
+1142D: Newa betű Rha
+1142E: Newa betű La
+1142F: Newa betű Lha
+11430: Newa betű Wa
+11431: Newa betű Sha
+11432: Newa betű Ssa
+11433: Newa betű Sa
+11434: Newa betű Ha
 11435: Newa magánhangzó jel Aa
 11436: Newa magánhangzó jel I
 11437: Newa magánhangzó jel Ii
@@ -64,38 +64,38 @@
 1143F: Newa magánhangzó jel Ai
 11440: Newa magánhangzó jel O
 11441: Newa magánhangzó jel Au
-11442: Newa Sign Virama
+11442: Newa jel Virama
 11443: Newa jel Candrabindu
 11444: Új jelzés Anusvara
-11445: Newa Sign Visarga
-11446: Newa Sign Nukta
+11445: Newa jel Visarga
+11446: Newa jel Nukta
 11447: Newa jel Avagraha
-11448: Newa Sign Final Anusvara
+11448: Newa jel Final Anusvara
 11449: Newa Om
 1144A: Newa Siddhi
 1144B: Newa Danda
-1144C: Newa Double Danda
-1144D: Newa Comma
-1144E: Newa Gap Filler
+1144C: Newa kettős Danda
+1144D: Newa vessző
+1144E: Newa rés kitöltő
 1144F: Newa rövidítés jel
-11450: Newa Digit Zero
-11451: Newa Digit One
-11452: Newa Digit Two
-11453: Newa Digit Three
-11454: Newa Digit Four
+11450: Newa számjegy nulla
+11451: Newa számjegy egy
+11452: Newa számjegy kettő
+11453: Newa számjegy három
+11454: Newa számjegy négy
 11455: Newa számjegy öt
-11456: Newa Digit Six
-11457: Newa Digit Seven
-11458: Newa Digit Nyolc
-11459: Newa Digit kilenc
-1145A:
-1145B: Newa Placeholder Mark
+11456: Newa számjegy hat
+11457: Newa számjegy hét
+11458: Newa számjegy nyolc
+11459: Newa számjegy kilenc
+1145A: Newa kettős vessző
+1145B: Newa helyőrző jel
 1145C:
 1145D: Newa beillesztési jel
 1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+1145F: Newa levél vedik Anusvara
+11460: Newa jel Jihvamuliya
+11461: Newa jel Upadhmaniya
 11462:
 11463:
 11464:
@@ -133,55 +133,55 @@
 11484: Tirhuta levél Ii
 11485: U. Tirhuta levél
 11486: Tirhuta levél Uu
-11487: Tirhuta levél Vocalic R
-11488: Tirhuta levél Vocalic Rr
-11489: Tirhuta levél Vocalic L
-1148A: Tirhuta levél Vocalic Ll
+11487: Tirhuta levél vokális R
+11488: Tirhuta levél vokális Rr
+11489: Tirhuta levél vokális L
+1148A: Tirhuta levél vokális Ll
 1148B: Tirhuta E betű
-1148C: Tirhuta Letter Ai
+1148C: Tirhuta betű Ai
 1148D: Tirhuta levél O
 1148E: Tirhuta levél Au
-1148F: Tirhuta Letter Ka
+1148F: Tirhuta betű Ka
 11490: Tirhuta levél Kha
-11491: Tirhuta Letter Ga
+11491: Tirhuta betű Ga
 11492: Tirhuta levél Gha
 11493: Tirhuta levél Nga
 11494: Tirhuta levél Ca
-11495: Tirhuta Letter Cha
-11496: Tirhuta Letter Ja
+11495: Tirhuta betű Cha
+11496: Tirhuta betű Ja
 11497: Tirhuta levél Jha
 11498: Tirhuta levél Nya
 11499: Tirhuta levél Tta
 1149A: Tirhuta levél Ttha
-1149B: Tirhuta Letter Dda
-1149C: Tirhuta Letter Ddha
-1149D: Tirhuta Letter Nna
+1149B: Tirhuta betű Dda
+1149C: Tirhuta betű Ddha
+1149D: Tirhuta betű Nna
 1149E: Tirhuta levél Ta
 1149F: Tirhuta levél Tha
-114A0: Tirhuta Letter Da
+114A0: Tirhuta betű Da
 114A1: Tirhuta levél Dha
-114A2: Tirhuta Letter Na
-114A3: Tirhuta Letter Pa
+114A2: Tirhuta betű Na
+114A3: Tirhuta betű Pa
 114A4: Tirhuta levél Pha
-114A5: Tirhuta Letter Ba
+114A5: Tirhuta betű Ba
 114A6: Tirhuta levél Bha
-114A7: Tirhuta Letter Ma
+114A7: Tirhuta betű Ma
 114A8: Tirhuta Ya
-114A9: Tirhuta Letter Ra
-114AA: Tirhuta Letter La
+114A9: Tirhuta betű Ra
+114AA: Tirhuta betű La
 114AB: Tirhuta levél Va
 114AC: Tirhuta levél Sha
 114AD: Tirhuta László Ssa
-114AE: Tirhuta Letter Sa
-114AF: Tirhuta Letter Ha
+114AE: Tirhuta betű Sa
+114AF: Tirhuta betű Ha
 114B0: Tirhuta magánhangzó jel Aa
 114B1: Tirhuta magánhangzó jel I
 114B2: Tirhuta magánhangzó jel Ii
 114B3: Tirhuta magánhangzó jel U
 114B4: Tirhuta magánhangzó jel Uu
-114B5: Tirhuta magánhangzó jel Vocalic R
+114B5: Tirhuta magánhangzó jel vokális R
 114B6: Tirhuta magánhangzó jel vokális Rr
-114B7: Tirhuta magánhangzójel Vocalic L
+114B7: Tirhuta magánhangzójel vokális L
 114B8: Tirhuta magánhangzó jel vokális Ll
 114B9: Tirhuta magánhangzó jel E
 114BA: Tirhuta magánhangzó jel rövid E
@@ -189,13 +189,13 @@
 114BC: Tirhuta magánhangzó jel O
 114BD: Tirhuta magánhangzó jel rövid O
 114BE: Tirhuta magánhangzó jel Au
-114BF: Tirhuta Sign Candrabindu
+114BF: Tirhuta jel Candrabindu
 114C0: Tirhuta Jel Anusvara
-114C1: Tirhuta Sign Visarga
-114C2: Tirhuta Sign Virama : Halant
-114C3: Tirhuta Sign Nukta
+114C1: Tirhuta jel Visarga
+114C2: Tirhuta jel Virama: Halant
+114C3: Tirhuta jel Nukta
 114C4: Tirhuta jel Avagraha
-114C5: Tirhuta Gvang : vedic anusvara
+114C5: Tirhuta Gvang: vedic anusvara
 114C6: Tirhuta rövidítés jel
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

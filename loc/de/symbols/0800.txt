@@ -26,52 +26,52 @@
 0819: Samariter Mark Dagesh
 081A: Samaritan Modifier Letter Epenthetic Yut
 081B: Samaritan Mark Epenthetic Yut
-081C: Samaritan Vokalzeichen lang E : Fatha al-Nida
+081C: Samaritan Vokalzeichen lang E: Fatha al-Nida
 081D: Samaritan Vokalzeichen E
-081E: Samaritan Vokalzeichen überlänglich Aa : Fatha al-Ima
+081E: Samaritan Vokalzeichen überlänglich Aa: Fatha al-Ima
 081F: Samaritan Vokalzeichen lang Aa
 0820: Samaritan Vokalzeichen Aa
-0821: Samaritan Vokalzeichen überlang A : fatha al-iha
+0821: Samaritan Vokalzeichen überlang A: fatha al-iha
 0822: Samaritan Vokalzeichen lang A
 0823: Samaritan Vokalzeichen A
 0824: Samaritan Modifier Letter Kurz A
-0825: Samaritan Vowel Sign Short A : fatha
-0826: Samaritan Vokalzeichen Long U : damma
+0825: Samaritan Vowel Sign Short A: fatha
+0826: Samaritan Vokalzeichen Long U: damma
 0827: Samaritan Vokalzeichen U
 0828: Samaritan Modifier Buchstabe I
-0829: Samaritan Vokalzeichen lang ich : Kasra
+0829: Samaritan Vokalzeichen lang ich: Kasra
 082A: Samaritan Vokalzeichen I
 082B: Samaritan Vokalzeichen O
 082C: Samaritan Vokalzeichen Sukun
 082D: Samariter Mark Nequdaa
 082E:
 082F:
-0830: Samariter-Interpunktion Nequdaa : Worttrennzeichen
-0831: Samariter-Interpunktion Afsaaq : Unterbrechung
-0832: Samariter-Interpunktion : Zurückhaltung
-0833: Samaritan-Interpunktion Bau : Gebet
-0834: Samariter-Interpunktion Atmaau : Überraschung
-0835: Samariter-Interpunktion Shiyyaalaa : Frage
+0830: Samariter-Interpunktion Nequdaa: Worttrennzeichen
+0831: Samariter-Interpunktion Afsaaq: Unterbrechung
+0832: Samariter-Interpunktion: Zurückhaltung
+0833: Samaritan-Interpunktion Bau: Gebet
+0834: Samariter-Interpunktion Atmaau: Überraschung
+0835: Samariter-Interpunktion Shiyyaalaa: Frage
 0836: Samaritan Abkürzungszeichen
 0837: Samariter-Interpunktion Melodic Qitsa
-0838: Samariter-Interpunktion Ziqaa : schreien
-0839: Samariter-Interpunktion Qitsa : Ende des Abschnitts
-083A: Samariter-Interpunktion Zaef : Ausbruch
-083B: Samariter-Interpunktion Turu : Lehren
-083C: Samariter-Interpunktion Arkaanu : Unterwürfigkeit
-083D: Samaritan-Interpunktion Sof Mashfaat : Punkt
-083E: Samariter-Interpunktion Annaau : sich ausruhen
+0838: Samariter-Interpunktion Ziqaa: schreien
+0839: Samariter-Interpunktion Qitsa: Ende des Abschnitts
+083A: Samariter-Interpunktion Zaef: Ausbruch
+083B: Samariter-Interpunktion Turu: Lehren
+083C: Samariter-Interpunktion Arkaanu: Unterwürfigkeit
+083D: Samaritan-Interpunktion Sof Mashfaat: Punkt
+083E: Samariter-Interpunktion Annaau: sich ausruhen
 083F:
-0840: Mandaic Brief Halqa : ein
+0840: Mandaic Brief Halqa: ein
 0841: Mandaic Brief Ab
 0842: Mandaic Letter Ag
 0843: Mandaic Letter Ad
 0844: Mandaic Brief Ah
-0845: Mandaic Brief Ushenna : u
+0845: Mandaic Brief Ushenna: u
 0846: Mandaic Buchstabe Az
 0847: Mandaic-Brief
 0848: Mandaic Brief Att
-0849: Mandaic Brief Aksa : ich
+0849: Mandaic Brief Aksa: ich
 084A: Mandaic Brief Ak
 084B: Mandaic Brief Al
 084C: Mandaic Brief Am
@@ -84,7 +84,7 @@
 0853: Mandaic Brief Ar
 0854: Mandaic Brief Ash
 0855: Mandaic Brief bei
-0856: Mandaic Brief Dushenna : di
+0856: Mandaic Brief Dushenna: di
 0857: Mandaic Brief Kad
 0858: Mandaic Brief Ain
 0859: Mandaic-Affrikationszeichen
@@ -168,9 +168,9 @@
 08A7: Arabischer Buchstabe Meem mit drei Punkten oben
 08A8: Arabischer Buchstabe Yeh mit zwei Punkten unten und Hamza oben
 08A9: Arabischer Buchstabe Yeh mit zwei Punkten unten und Punkt oben
-08AA: Arabischer Buchstabe Reh mit Schleife : bottya-reh
-08AB: Arabischer Buchstabe Waw mit Punkt nach innen : nota-wa
-08AC: Arabischer Buchstabe Rohingya Yeh : Bottya-Yeh
+08AA: Arabischer Buchstabe Reh mit Schleife: bottya-reh
+08AB: Arabischer Buchstabe Waw mit Punkt nach innen: nota-wa
+08AC: Arabischer Buchstabe Rohingya Yeh: Bottya-Yeh
 08AD: Arabischer Buchstabe Low Alef
 08AE: Arabischer Buchstabe Dal mit drei Punkten
 08AF: Arabischer Buchstabe traurig mit drei Punkten unten
@@ -188,16 +188,16 @@
 08BB: Arabischer Buchstabe afrikanische Feh
 08BC: Arabischer Buchstabe Afrikanischer Qaf
 08BD: Arabischer Buchstabe Afrikanischer Mittag
-08BE:
-08BF:
-08C0:
-08C1:
-08C2:
-08C3:
-08C4:
-08C5:
-08C6:
-08C7:
+08BE: Arabischer Buchstabe peh mit kleinem v
+08BF: Arabischer Buchstabe teh mit kleinem v
+08C0: Arabischer Buchstabe tteh mit kleinem v
+08C1: Arabischer Buchstabe tcheh mit kleinem v
+08C2: Arabischer Buchstabe keheh mit kleinem v
+08C3: Arabischer Buchstabe Ghain mit drei Punkten oben
+08C4: Arabischer Buchstabe afrikanischer Qaf mit drei Punkten oben
+08C5: Arabischer Buchstabe Jeem mit drei Punkten oben
+08C6: Arabischer Buchstabe Jeem mit drei Punkten unten
+08C7: Arabischer Buchstabe lam mit kleinem arabischen Buchstaben tah oben
 08C8:
 08C9:
 08CA:
@@ -238,9 +238,9 @@
 08ED: Arabischer Ton ein Punkt unten
 08EE: Arabischer Ton zwei Punkte unten
 08EF: Arabische Tonschleife unten
-08F0: Arabic Open Fathatan : aufeinanderfolgendes Fathatan
-08F1: Arabisch Open Dammatan : aufeinanderfolgende Dammatan
-08F2: Arabisch Open Kasratan : aufeinanderfolgende Kasratan
+08F0: Arabic Open Fathatan: aufeinanderfolgendes Fathatan
+08F1: Arabisch Open Dammatan: aufeinanderfolgende Dammatan
+08F2: Arabisch Open Kasratan: aufeinanderfolgende Kasratan
 08F3: Arabischer kleiner hoher Waw
 08F4: Arabisch Fatha mit Ring
 08F5: Arabisch Fatha mit Punkt oben

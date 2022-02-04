@@ -16,13 +16,13 @@
 2E0F: Parágrafos
 2E10: Parada Bifurcada
 2E11: Parágos bifurcados invertidos
-2E12: Hipodiastole : ypodiastoli
+2E12: Hipodiastole: ypodiastoli
 2E13: Obelos pontilhados
 2E14: Para baixo Ancora
 2E15: Subir Ancora
-2E16: Ângulo pontiagudo à direita : periestigmene diple
+2E16: Ângulo pontiagudo à direita: periestigmene diple
 2E17: Hífen oblíquo duplo
-2E18: Interrobang invertido : gnaborretni
+2E18: Interrobang invertido: gnaborretni
 2E19: Ramo de Palma
 2E1A: Hífen com Diaeresis
 2E1B: Til com anel acima
@@ -44,7 +44,7 @@
 2E2B: Pontuação de um ponto sobre dois pontos
 2E2C: Pontuação quadrada de quatro pontos
 2E2D: Five Dot Mark
-2E2E: Ponto de interrogação invertido : puntus percontativus : ironia, sarcasmo
+2E2E: Ponto de interrogação invertido: puntus percontativus , ironia, sarcasmo
 2E2F: Tilde Vertical
 2E30: Ponto do anel
 2E31: Word Separator Middle Dot
@@ -56,7 +56,7 @@
 2E37: Adaga com Guarda Certa
 2E38: Adaga Virada
 2E39: Sinal de meia seção superior
-2E3A: Traço Dois Em : traço de omissão
+2E3A: Traço Dois Em: traço de omissão
 2E3B: Traço em três
 2E3C: Parada Completa Estenográfica
 2E3D: Vertical seis pontos
@@ -77,10 +77,10 @@
 2E4C: Vírgula Medieval
 2E4D: Parágrafo Mark
 2E4E: Marca do punctus elevatus
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Divisor de versos da Cornualha
+2E50: Rissol com cruzeta direita
+2E51: Rissol cruzado com trave esquerda
+2E52: Capital de signo tironiano Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

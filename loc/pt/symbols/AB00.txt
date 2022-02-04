@@ -62,7 +62,7 @@ AB3C: Letra latina pequena com cauda cruzada
 AB3D: Carta Latina de Carta Pequena O
 AB3E: Carta Latina de Carta Pequena O com Traçado
 AB3F: Carta Pequena Latina Aberta O com Curso
-AB40: Letra Pequena Latina Invertida Oe : latim letra pequena o invertido-schwa
+AB40: Letra Pequena Latina Invertida Oe: latim letra pequena o invertido-schwa
 AB41: Carta latina virou Oe com derrame
 AB42: Carta Pequena Latina Transformou Oe com Traçado Horizontal
 AB43: Letra latina pequena virou O Open-O
@@ -100,12 +100,12 @@ AB62: Carta Pequena Latina Aberta Oe
 AB63: Letra Pequena Latina Uo
 AB64: Letra Pequena Latina Invertida Alfa
 AB65: Letra grega pequena capital Omega
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: Dígrafo latino em letra minúscula dz com gancho retroflex
+AB67: Dígrafo em letra minúscula ts latino com gancho retroflex
+AB68: Letra minúscula latina virou r com til médio
+AB69: Letra modificadora pequena virou w
+AB6A: Letra modificadora esquerda tack
+AB6B: Carta modificadora aderência direita
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: Letra pequena Cherokee WO
 ABBD: Letra Pequena Cherokee WU
 ABBE: Letra pequena Cherokee WV
 ABBF: Letra pequena Cherokee YA
-ABC0: Meetei Mayek Carta Kok : ka
-ABC1: Meetei Mayek Letra Sam : sa
-ABC2: Meetei Mayek Carta Lai : la
-ABC3: Meetei Mayek Letter Mit : ma
+ABC0: Meetei Mayek Carta Kok: ka
+ABC1: Meetei Mayek Letra Sam: sa
+ABC2: Meetei Mayek Carta Lai: la
+ABC3: Meetei Mayek Letter Mit: ma
 ABC4: Letra Meetei Mayek Pa
 ABC5: Meetei Mayek Na Letter
-ABC6: Meetei Mayek Carta Chil : ca
-ABC7: Carta Meetei Mayek Até : ta
-ABC8: Meetei Mayek Carta Khou : kha
-ABC9: Meetei Mayek Carta Ngou : nga
-ABCA: Meetei Mayek Carta Tu : tha
-ABCB: Meetei Mayek Carta Wai : wa
-ABCC: Meetei Mayek Carta Yang : ya
-ABCD: Carta Meetei Mayek Huk : ha
-ABCE: Meetei Mayek letra Un : você
+ABC6: Meetei Mayek Carta Chil: ca
+ABC7: Carta Meetei Mayek Até: ta
+ABC8: Meetei Mayek Carta Khou: kha
+ABC9: Meetei Mayek Carta Ngou: nga
+ABCA: Meetei Mayek Carta Tu: tha
+ABCB: Meetei Mayek Carta Wai: wa
+ABCC: Meetei Mayek Carta Yang: ya
+ABCD: Carta Meetei Mayek Huk: ha
+ABCE: Meetei Mayek letra Un: você
 ABCF: Meetei Mayek Letra I
-ABD0: Meetei Mayek Carta Pham : pha
-ABD1: Meetei Mayek Carta Atiya : uma
-ABD2: Meetei Mayek Carta Gok : ga
-ABD3: Meetei Mayek Carta Jham : jha
-ABD4: Meetei Mayek Letra Rai : ra
+ABD0: Meetei Mayek Carta Pham: pha
+ABD1: Meetei Mayek Carta Atiya: uma
+ABD2: Meetei Mayek Carta Gok: ga
+ABD3: Meetei Mayek Carta Jham: jha
+ABD4: Meetei Mayek Letra Rai: ra
 ABD5: Meetei Mayek letra Ba
-ABD6: Meetei Mayek Carta Jil : ja
-ABD7: Meetei Mayek Carta Dil : da
-ABD8: Meetei Mayek Carta Ghou : gha
-ABD9: Meetei Mayek Carta Dhou : dha
-ABDA: Meetei Mayek Carta Bham : bha
-ABDB: Meetei Mayek Carta Kok Lonsum : k
-ABDC: Meetei Mayek Letra Lai Lonsum : eu
-ABDD: Meetei Mayek Letra Mit Lonsum : m
-ABDE: Meetei Mayek Letra Pa Lonsum : p
-ABDF: Meetei Mayek Letra Na Lonsum : n
-ABE0: Meetei Mayek Letter Til Lonsum : t
-ABE1: Meetei Mayek Carta Ngou Lonsum : ng
-ABE2: Meetei Mayek Letra I Lonsum : Eu
-ABE3: Sinal de Vogal Meetei Mayek Onap : o
-ABE4: Sinal de Vogal Meetei Mayek Inap : Eu
-ABE5: Sinal de Vogal Meetei Mayek Anap : aa
-ABE6: Sinal de Vogal Meetei Mayek Yenap : e
-ABE7: Meetei Mayek Vogal Sinal Sounap : ou
-ABE8: Meetei Mayek Vogel Sinal Unap : você
-ABE9: Sinal de Vogal Meetei Mayek Cheinap : ei
-ABEA: Meetei Mayek Vogal Sinal Nung : anusvara
-ABEB: Meetei Mayek Cheikhei : danda dupla
-ABEC: Meetei Mayek Lum Iyek : tom pesado
-ABED: Meetei Mayek Apun Iyek : assassino
+ABD6: Meetei Mayek Carta Jil: ja
+ABD7: Meetei Mayek Carta Dil: da
+ABD8: Meetei Mayek Carta Ghou: gha
+ABD9: Meetei Mayek Carta Dhou: dha
+ABDA: Meetei Mayek Carta Bham: bha
+ABDB: Meetei Mayek Carta Kok Lonsum: k
+ABDC: Meetei Mayek Letra Lai Lonsum: eu
+ABDD: Meetei Mayek Letra Mit Lonsum: m
+ABDE: Meetei Mayek Letra Pa Lonsum: p
+ABDF: Meetei Mayek Letra Na Lonsum: n
+ABE0: Meetei Mayek Letter Til Lonsum: t
+ABE1: Meetei Mayek Carta Ngou Lonsum: ng
+ABE2: Meetei Mayek Letra I Lonsum: Eu
+ABE3: Sinal de Vogal Meetei Mayek Onap: o
+ABE4: Sinal de Vogal Meetei Mayek Inap: Eu
+ABE5: Sinal de Vogal Meetei Mayek Anap: aa
+ABE6: Sinal de Vogal Meetei Mayek Yenap: e
+ABE7: Meetei Mayek Vogal Sinal Sounap: ou
+ABE8: Meetei Mayek Vogel Sinal Unap: você
+ABE9: Sinal de Vogal Meetei Mayek Cheinap: ei
+ABEA: Meetei Mayek Vogal Sinal Nung: anusvara
+ABEB: Meetei Mayek Cheikhei: danda dupla
+ABEC: Meetei Mayek Lum Iyek: tom pesado
+ABED: Meetei Mayek Apun Iyek: assassino
 ABEE:
 ABEF:
-ABF0: Dígito Meetei Mayek Zero : phun
-ABF1: Meetei Mayek Digit One : ama
-ABF2: Meetei Mayek Digit Two : ani
-ABF3: Meetei Mayek Digit Three : ahum
-ABF4: Meetei Mayek Digit Quatro : mari
-ABF5: Meetei Mayek Digit Five : mangá
-ABF6: Meetei Mayek Digit Six : Taruk
-ABF7: Meetei Mayek Digit Seven : taret
-ABF8: Meetei Mayek Digit Oito : nipal
-ABF9: Meetei Mayek Dígito Nove : mapal
+ABF0: Dígito Meetei Mayek Zero: phun
+ABF1: Meetei Mayek Digit One: ama
+ABF2: Meetei Mayek Digit Two: ani
+ABF3: Meetei Mayek Digit Three: ahum
+ABF4: Meetei Mayek Digit Quatro: mari
+ABF5: Meetei Mayek Digit Five: mangá
+ABF6: Meetei Mayek Digit Six: Taruk
+ABF7: Meetei Mayek Digit Seven: taret
+ABF8: Meetei Mayek Digit Oito: nipal
+ABF9: Meetei Mayek Dígito Nove: mapal
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

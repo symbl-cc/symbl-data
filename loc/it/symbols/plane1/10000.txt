@@ -12,7 +12,7 @@
 1000B: Linear B Sillaba B046 Je
 1000C:
 1000D: Linear B Syllable B036 Jo
-1000E: Linear B Sillaba B065 Ju : ideogramma b129 farina
+1000E: Linear B Sillaba B065 Ju: ideogramma b129 farina
 1000F: Linear B Sillaba B077 Ka
 10010: Linear B Sillaba B044 Ke
 10011: Linear B Sillaba B067 Ki
@@ -22,10 +22,10 @@
 10015: Linear B Sillaba B013 Me
 10016: Linear B Sillaba B073 Mi
 10017: Linear B Sillaba B015 Mo
-10018: Linear B Sillaba B023 Mu : ideogramma b109 bue
+10018: Linear B Sillaba B023 Mu: ideogramma b109 bue
 10019: Linear B Sillaba B006 Na
 1001A: Linear B Sillaba B024 Ne
-1001B: Linear B Sillaba B030 Ni : ideogramma b030 figs
+1001B: Linear B Sillaba B030 Ni: ideogramma b030 figs
 1001C: Linear B Sillaba B052 No
 1001D: Linear B Sillaba B055 Nu
 1001E: Linear B Sillaba B003 Pa
@@ -35,7 +35,7 @@
 10022: Linear B Sillaba B050 Pu
 10023: Linear B Syllable B016 Qa
 10024: Linear B Sillaba B078 Qe
-10025: Linear B Sillaba B021 Qi : ideogramma b106 pecore
+10025: Linear B Sillaba B021 Qi: ideogramma b106 pecore
 10026: Linear B Sillaba B032 Qo
 10027:
 10028: Linear B Sillaba B060 Ra
@@ -43,7 +43,7 @@
 1002A: Linear B Syllable B053 Ri
 1002B: Linear B Sillaba B002 Ro
 1002C: Linear B Sillaba B026 Ru
-1002D: Linear B Sillaba B031 Sa : ideogramma b031 lino
+1002D: Linear B Sillaba B031 Sa: ideogramma b031 lino
 1002E: Linear B Sillaba B009 Se
 1002F: Linear B Syllable B041 Si
 10030: Linear B Sillaba B012 So
@@ -64,14 +64,14 @@
 1003F: Linear B Sillaba B020 Zo
 10040: Linear B Sillaba B025 A2
 10041: Linear B Sillaba B043 A3
-10042: Linear B Sillaba B085 Au : ideogramma b108 maiale
+10042: Linear B Sillaba B085 Au: ideogramma b108 maiale
 10043: Linear B Sillaba B071 Dwe
 10044: Linear B Sillaba B090 Dwo
 10045: Linear B Syllable B048 Nwa
 10046: Linear B Sillaba B029 Pu2
 10047: Linear B Sillaba B062 Pte
 10048: Linear B Syllable B076 Ra2
-10049: Linear B Sillaba B033 Ra3 : ideogramma b144 zafferano
+10049: Linear B Sillaba B033 Ra3: ideogramma b144 zafferano
 1004A: Linear B Sillaba B068 Ro2
 1004B: Linear B Sillaba B066 Ta2
 1004C: Linear B Sillaba B087 Twe
@@ -80,7 +80,7 @@
 1004F:
 10050: Simbolo B lineare B018
 10051: Simbolo B lineare B019
-10052: Simbolo B lineare B022 : ideogramma b107 capra
+10052: Simbolo B lineare B022: ideogramma b107 capra
 10053: Simbolo B lineare B034
 10054: Simbolo B lineare B047
 10055: Simbolo B lineare B049
@@ -145,13 +145,13 @@
 10090: Ideogramma Linear B B122 Olive
 10091: Ideogramma B lineare B123 Spice
 10092: Ideogramma lineare B B125 Cyperus
-10093: Monogramma B lineare B127 Kapo : frutta
-10094: Monogramma B lineare B128 Kanako : zafferano
+10093: Monogramma B lineare B127 Kapo: frutta
+10094: Monogramma B lineare B128 Kanako: zafferano
 10095: Ideogramma B lineare B130 Olio
 10096: Ideogramma B lineare B131 vino
 10097: Ideogramma lineare B B132
-10098: Linear B Monogram B133 Arepa : unguento
-10099: Monogramma B lineare B135 Meri : miele
+10098: Linear B Monogram B133 Arepa: unguento
+10099: Monogramma B lineare B135 Meri: miele
 1009A: Ideogramma lineare B B140 Bronzo
 1009B: Ideogramma lineare B B141 oro
 1009C: Ideogramma B lineare B142
@@ -162,7 +162,7 @@
 100A1: Ideogramma B lineare B152
 100A2: Ideogramma B lineare B153
 100A3: Ideogramma B lineare B154
-100A4: Monogramma B lineare B156 Turo2 : formaggio
+100A4: Monogramma B lineare B156 Turo2: formaggio
 100A5: Ideogramma B lineare B157
 100A6: Ideogramma B lineare B158
 100A7: Ideogramma B lineare B159 tessuto
@@ -199,9 +199,9 @@
 100C6: Ideogramma lineare B B230 Spear
 100C7: Ideogramma lineare B B231 Arrow
 100C8: Ideogramma lineare B B232
-100C9: Ideogramma Linear B B233 Sword : pugio
+100C9: Ideogramma Linear B B233 Sword: pugio
 100CA: Ideogramma lineare B B234
-100CB: Ideogramma lineare B B236 : "gupio", spada rovesciata
+100CB: Ideogramma lineare B B236: "gupio", spada rovesciata
 100CC: Ideogramma lineare B B240 Carro a ruote
 100CD: Ideogramma B lineare B241 Chariot
 100CE: Ideogramma B lineare B242 Chariot Frame
@@ -253,4 +253,4 @@
 100FC:
 100FD:
 100FE:
-100FF:
+100FF:

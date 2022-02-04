@@ -1,11 +1,11 @@
-2900: Rightwards Two-Headed Arrow with Vertical Stroke : z notation partial surjection
-2901: Rightwards Two-Headed Arrow with Double Vertical Stroke : z notation finite surjection
+2900: Rightwards Two-Headed Arrow with Vertical Stroke: z notation partial surjection
+2901: Rightwards Two-Headed Arrow with Double Vertical Stroke: z notation finite surjection
 2902: Leftwards Double Arrow with Vertical Stroke
 2903: Rightwards Double Arrow with Vertical Stroke
 2904: Left Right Double Arrow with Vertical Stroke
-2905: Rightwards Two-Headed Arrow from Bar : maps to
-2906: Leftwards Double Arrow from Bar : maps from
-2907: Rightwards Double Arrow from Bar : maps to
+2905: Rightwards Two-Headed Arrow from Bar: maps to
+2906: Leftwards Double Arrow from Bar: maps from
+2907: Rightwards Double Arrow from Bar: maps to
 2908: Downwards Arrow with Horizontal Stroke
 2909: Upwards Arrow with Horizontal Stroke
 290A: Upwards Triple Arrow
@@ -16,13 +16,13 @@
 290F: Rightwards Triple Dash Arrow
 2910: Rightwards Two-Headed Triple Dash Arrow
 2911: Rightwards Arrow with Dotted Stem
-2912: Upwards Arrow To Bar
-2913: Downwards Arrow To Bar
-2914: Rightwards Arrow with Tail with Vertical Stroke : z notation partial injection
-2915: Rightwards Arrow with Tail with Double Vertical Stroke : z notation finite injection
-2916: Rightwards Two-Headed Arrow with Tail : bijective mapping : z notation bijection
-2917: Rightwards Two-Headed Arrow with Tail with Vertical Stroke : z notation surjective injection
-2918: Rightwards Two-Headed Arrow with Tail with Double Vertical Stroke : z notation finite surjective injection
+2912: Upwards Arrow To Bar: Upload
+2913: Downwards Arrow To Bar: download
+2914: Rightwards Arrow with Tail with Vertical Stroke: z notation partial injection
+2915: Rightwards Arrow with Tail with Double Vertical Stroke: z notation finite injection
+2916: Rightwards Two-Headed Arrow with Tail: bijective mapping , z notation bijection
+2917: Rightwards Two-Headed Arrow with Tail with Vertical Stroke: z notation surjective injection
+2918: Rightwards Two-Headed Arrow with Tail with Double Vertical Stroke: z notation finite surjective injection
 2919: Leftwards Arrow-Tail
 291A: Rightwards Arrow-Tail
 291B: Leftwards Double Arrow-Tail
@@ -62,7 +62,7 @@
 293D: Top Arc Anticlockwise Arrow with Plus
 293E: Lower Right Semicircular Clockwise Arrow
 293F: Lower Left Semicircular Anticlockwise Arrow
-2940: Anticlockwise Closed Circle Arrow
+2940: Anticlockwise Closed Circle Arrow: Reset
 2941: Clockwise Closed Circle Arrow
 2942: Rightwards Arrow Above Short Leftwards Arrow
 2943: Leftwards Arrow Above Short Rightwards Arrow
@@ -212,23 +212,23 @@
 29D3: Black Bowtie
 29D4: Times with Left Half Black
 29D5: Times with Right Half Black
-29D6: White Hourglass : vertical bowtie : white framus
+29D6: White Hourglass: vertical bowtie , white framus
 29D7: Black Hourglass
 29D8: Left Wiggly Fence
 29D9: Right Wiggly Fence
 29DA: Left Double Wiggly Fence
 29DB: Right Double Wiggly Fence
-29DC: Incomplete Infinity : isotech entity &iinfin;
+29DC: Incomplete Infinity: isotech entity &iinfin,
 29DD: Tie Over Infinity
 29DE: Infinity Negated with Vertical Bar
 29DF: Double-Ended Multimap
-29E0: Square with Contoured Outline : d'alembertian
+29E0: Square with Contoured Outline: d'alembertian
 29E1: Increases As
 29E2: Shuffle Product
 29E3: Equals Sign and Slanted Parallel
 29E4: Equals Sign and Slanted Parallel with Tilde Above
 29E5: Identical To and Slanted Parallel
-29E6: Gleich Stark : tautological equivalent
+29E6: Gleich Stark: tautological equivalent
 29E7: Thermodynamic
 29E8: Down-Pointing Triangle with Left Half Black
 29E9: Down-Pointing Triangle with Right Half Black
@@ -242,15 +242,15 @@
 29F1: Error-Barred Black Diamond
 29F2: Error-Barred White Circle
 29F3: Error-Barred Black Circle
-29F4: Rule-Delayed : colon right arrow
+29F4: Rule-Delayed: colon right arrow
 29F5: Reverse Solidus Operator
 29F6: Solidus with Overbar
 29F7: Reverse Solidus with Horizontal Stroke
 29F8: Big Solidus
-29F9: Big Reverse Solidus : z notation schema hiding
+29F9: Big Reverse Solidus: z notation schema hiding
 29FA: Double Plus
 29FB: Triple Plus
 29FC: Left-Pointing Curved Angle Bracket
 29FD: Right-Pointing Curved Angle Bracket
 29FE: Tiny
-29FF: Miny
+29FF: Miny

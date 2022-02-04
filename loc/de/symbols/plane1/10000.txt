@@ -12,7 +12,7 @@
 1000B: Linear B Silbe B046 Je
 1000C:
 1000D: Linear B Silbe B036 Jo
-1000E: Lineare B-Silbe B065 Ju : Ideogramm b129 Mehl
+1000E: Lineare B-Silbe B065 Ju: Ideogramm b129 Mehl
 1000F: Linear B Silbe B077 Ka
 10010: Linear B Silbe B044 Ke
 10011: Linear B Silbe B067 Ki
@@ -22,10 +22,10 @@
 10015: Linear B Silbe B013 Me
 10016: Linear B Silbe B073 Mi
 10017: Lineare B-Silbe B015 Mo
-10018: Linear B Silbe B023 Mu : Ideogramm b109 ox
+10018: Linear B Silbe B023 Mu: Ideogramm b109 ox
 10019: Lineare B-Silbe B006 Na
 1001A: Linear B Silbe B024 Ne
-1001B: Linear B Silbe B030 Ni : Ideogramm B030 Feigen
+1001B: Linear B Silbe B030 Ni: Ideogramm B030 Feigen
 1001C: Linear B Silbe B052 Nr
 1001D: Lineare B-Silbe B055 Nu
 1001E: Linear B Silbe B003 Pa
@@ -35,7 +35,7 @@
 10022: Linear B Silbe B050 Pu
 10023: Lineare B-Silbe B016 Qa
 10024: Lineare B-Silbe B078 Qe
-10025: Lineare B-Silbe B021 Qi : Ideogramm b106 Schafe
+10025: Lineare B-Silbe B021 Qi: Ideogramm b106 Schafe
 10026: Lineare B-Silbe B032 Qo
 10027:
 10028: Lineare B-Silbe B060 Ra
@@ -43,7 +43,7 @@
 1002A: Linear B Silbe B053 Ri
 1002B: Linear B Silbe B002 Ro
 1002C: Linear B Silbe B026 Ru
-1002D: Lineare B-Silbe B031 Sa : Ideogramm B031 Flachs
+1002D: Lineare B-Silbe B031 Sa: Ideogramm B031 Flachs
 1002E: Lineare B-Silbe B009 Se
 1002F: Lineare B-Silbe B041 Si
 10030: Linear B Silbe B012 So
@@ -64,14 +64,14 @@
 1003F: Linear B Silbe B020 Zo
 10040: Lineare B-Silbe B025 A2
 10041: Lineare B-Silbe B043 A3
-10042: Lineare B-Silbe B085 Au : Ideogramm B108 Schwein
+10042: Lineare B-Silbe B085 Au: Ideogramm B108 Schwein
 10043: Linear B Silbe B071 Dwe
 10044: Linear B Silbe B090 Dwo
 10045: Lineare B-Silbe B048 Nwa
 10046: Lineare B-Silbe B029 Pu2
 10047: Lineare B-Silbe B062 Pte
 10048: Lineare B-Silbe B076 Ra2
-10049: Lineare B-Silbe B033 Ra3 : Ideogramm b144 Safran
+10049: Lineare B-Silbe B033 Ra3: Ideogramm b144 Safran
 1004A: Lineare B-Silbe B068 Ro2
 1004B: Lineare B-Silbe B066 Ta2
 1004C: Linear B Silbe B087 Twe
@@ -80,7 +80,7 @@
 1004F:
 10050: Lineares B-Symbol B018
 10051: Lineares B-Symbol B019
-10052: Lineares B-Symbol B022 : Ideogramm B107 Ziege
+10052: Lineares B-Symbol B022: Ideogramm B107 Ziege
 10053: Lineares B-Symbol B034
 10054: Lineares B-Symbol B047
 10055: Lineares B-Symbol B049
@@ -145,13 +145,13 @@
 10090: Linear B Ideogramm B122 Olive
 10091: Linear B Ideogramm B123 Gewürz
 10092: Lineares B-Ideogramm B125 Cyperus
-10093: Lineares B-Monogramm B127 Kapo : Obst
-10094: Lineares B-Monogramm B128 Kanako : Safran
+10093: Lineares B-Monogramm B127 Kapo: Obst
+10094: Lineares B-Monogramm B128 Kanako: Safran
 10095: Linear B Ideogramm B130 Öl
 10096: Linear B Ideogramm B131 Wein
 10097: Lineares B-Ideogramm B132
-10098: Lineares B-Monogramm B133 Arepa : Salbe
-10099: Lineares B-Monogramm B135 Meri : Honig
+10098: Lineares B-Monogramm B133 Arepa: Salbe
+10099: Lineares B-Monogramm B135 Meri: Honig
 1009A: Linear B Ideogramm B140 Bronze
 1009B: Lineares B-Ideogramm B141 Gold
 1009C: Lineares B-Ideogramm B142
@@ -162,7 +162,7 @@
 100A1: Lineares B-Ideogramm B152
 100A2: Lineares B-Ideogramm B153
 100A3: Lineares B-Ideogramm B154
-100A4: Lineares B-Monogramm B156 Turo2 : Käse
+100A4: Lineares B-Monogramm B156 Turo2: Käse
 100A5: Lineares B-Ideogramm B157
 100A6: Lineares B-Ideogramm B158
 100A7: Linear B Ideogramm B159 Tuch
@@ -199,9 +199,9 @@
 100C6: Linear B Ideogramm B230 Speer
 100C7: Linearer B-Ideogramm B231-Pfeil
 100C8: Lineares B-Ideogramm B232
-100C9: Linear B Ideogramm B233 Schwert : Pugio
+100C9: Linear B Ideogramm B233 Schwert: Pugio
 100CA: Lineares B-Ideogramm B234
-100CB: Lineares B-Ideogramm B236 : "Gupio", umgekehrtes Schwert
+100CB: Lineares B-Ideogramm B236: "Gupio", umgekehrtes Schwert
 100CC: Lineares B-Ideogramm B240 Wagenwagen
 100CD: Linear B Ideogramm B241 Streitwagen
 100CE: Linear B Ideogramm B242 Streitwagenrahmen
@@ -253,4 +253,4 @@
 100FC:
 100FD:
 100FE:
-100FF:
+100FF:

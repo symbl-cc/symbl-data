@@ -4,7 +4,7 @@ A802: Syloti Nagri Înscrieți-vă în Dvisvara
 A803: Scrisoarea lui Syloti Nagri U
 A804: Syloti Nagri Scrisoarea E
 A805: Scrisoarea Syloti Nagri O
-A806: Syloti Nagri semnează Hasanta : halant, virama
+A806: Syloti Nagri semnează Hasanta: halant, virama
 A807: Scrisoarea Syloti Nagri Ko
 A808: Scrisoarea Syloti Nagri Kho
 A809: Scrisoarea Syloti Nagri Go
@@ -42,7 +42,7 @@ A828: Syloti Nagri Poezie Mark-1
 A829: Syloti Nagri Poezie Mark-2
 A82A: Syloti Nagri Poezie Mark-3
 A82B: Syloti Nagri Poezie Mark-4
-A82C:
+A82C: Syloti Nagri semn alternativ Hasanta
 A82D:
 A82E:
 A82F:
@@ -222,35 +222,35 @@ A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Combinând Devanagari Digit Zero : vaidika saamasvara anka shuunya
-A8E1: Combinând Devanagari Digit One : vaidika saamasvara anka eka udaatta
-A8E2: Combinând Devanagari Digit Two : vaidika saamasvara anka dvi svarita
-A8E3: Combinând Devanagari Digit Trei : vaidika saamasvara anka tri anudaatta
-A8E4: Combinând Devanagari Digit Four : vaidika saamasvara anka chatur
-A8E5: Combinând Devanagari Digit Five : vaidika saamasvara anka pancha
-A8E6: Combinând Devanagari Digit Six : vaidika saamasvara anka shatt
-A8E7: Combinând Devanagari Digit Seven : vaidika saamasvara anka sapta
-A8E8: Combinând Devanagari Digit Opt : vaidika saamasvara anka ashta
-A8E9: Combinând Devanagari Digit Nine : vaidika saamasvara anka nava
-A8EA: Combinând scrisoarea Devanagari A : vaidika saamasvara abhinihita
-A8EB: Combinând scrisoarea Devanagari U : vaidika saamasvara u
-A8EC: Combinând scrisoarea Devanagari Ka : vaidika saamasvara ka
-A8ED: Combinând scrisoarea Devanagari Na : vaidika saamasvara namana
-A8EE: Combinând scrisoarea Devanagari Pa : vaidika saamasvara prannatam
-A8EF: Combinând scrisoarea Devanagari Ra : vaidika saamasvara ra
-A8F0: Combinând scrisoarea Devanagari Vi : vaidika saamasvara vinata
-A8F1: Combinând Devanagari Sign Avagraha : vaidika saamasvara diirghiibhaava
-A8F2: Devanagari semnează spațiul Candrabindu : vaidika candrabindu
-A8F3: Devanagari semnează Candrabindu Virama : vaidika anusvaara candrabindu tiryak
-A8F4: Devanagari semnează dublu Candrabindu Virama : vaidika anusvaara dvi candrabindu tiryak
-A8F5: Devanagari semnează Candrabindu două : vaidika anusvaara candrabindu sa-dvi
-A8F6: Devanagari semnează Candrabindu trei : vaidika anusvaara candrabindu sa-tri
-A8F7: Devanagari semnează Candrabindu Avagraha : vaidika anusvaara candrabindu sa-avagraha
-A8F8: Devanagari semnează Pushpika : vaidika pushpikaa
+A8E0: Combinând Devanagari Digit Zero: vaidika saamasvara anka shuunya
+A8E1: Combinând Devanagari Digit One: vaidika saamasvara anka eka udaatta
+A8E2: Combinând Devanagari Digit Two: vaidika saamasvara anka dvi svarita
+A8E3: Combinând Devanagari Digit Trei: vaidika saamasvara anka tri anudaatta
+A8E4: Combinând Devanagari Digit Four: vaidika saamasvara anka chatur
+A8E5: Combinând Devanagari Digit Five: vaidika saamasvara anka pancha
+A8E6: Combinând Devanagari Digit Six: vaidika saamasvara anka shatt
+A8E7: Combinând Devanagari Digit Seven: vaidika saamasvara anka sapta
+A8E8: Combinând Devanagari Digit Opt: vaidika saamasvara anka ashta
+A8E9: Combinând Devanagari Digit Nine: vaidika saamasvara anka nava
+A8EA: Combinând scrisoarea Devanagari A: vaidika saamasvara abhinihita
+A8EB: Combinând scrisoarea Devanagari U: vaidika saamasvara u
+A8EC: Combinând scrisoarea Devanagari Ka: vaidika saamasvara ka
+A8ED: Combinând scrisoarea Devanagari Na: vaidika saamasvara namana
+A8EE: Combinând scrisoarea Devanagari Pa: vaidika saamasvara prannatam
+A8EF: Combinând scrisoarea Devanagari Ra: vaidika saamasvara ra
+A8F0: Combinând scrisoarea Devanagari Vi: vaidika saamasvara vinata
+A8F1: Combinând Devanagari Sign Avagraha: vaidika saamasvara diirghiibhaava
+A8F2: Devanagari semnează spațiul Candrabindu: vaidika candrabindu
+A8F3: Devanagari semnează Candrabindu Virama: vaidika anusvaara candrabindu tiryak
+A8F4: Devanagari semnează dublu Candrabindu Virama: vaidika anusvaara dvi candrabindu tiryak
+A8F5: Devanagari semnează Candrabindu două: vaidika anusvaara candrabindu sa-dvi
+A8F6: Devanagari semnează Candrabindu trei: vaidika anusvaara candrabindu sa-tri
+A8F7: Devanagari semnează Candrabindu Avagraha: vaidika anusvaara candrabindu sa-avagraha
+A8F8: Devanagari semnează Pushpika: vaidika pushpikaa
 A8F9: Devanagari Gap Filler
-A8FA: Devanagari Caret : vaidika trutikaa
-A8FB: Devanagari Headstroke : shirorekhaa
-A8FC: Devanagari semnează Siddham : siddhirastu
+A8FA: Devanagari Caret: vaidika trutikaa
+A8FB: Devanagari Headstroke: shirorekhaa
+A8FC: Devanagari semnează Siddham: siddhirastu
 A8FD: Devanagari Jain Om
 A8FE: Devanagari Letter Ay
 A8FF: Devanagari Vowel Sign Ay

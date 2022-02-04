@@ -12,7 +12,7 @@
 1000B: Doğrusal B Hece B046 Je
 1000C:
 1000D: Doğrusal B Hece B036 Jo
-1000E: Doğrusal B Hece B065 Ju : ideogram b129 un
+1000E: Doğrusal B Hece B065 Ju: ideogram b129 un
 1000F: Doğrusal B Hece B077 Ka
 10010: Doğrusal B Hece B044 Ke
 10011: Doğrusal B Hece B067 Ki
@@ -22,10 +22,10 @@
 10015: Doğrusal B Hece B013 Me
 10016: Doğrusal B Hece B073 Mi
 10017: Doğrusal B Hece B015 Mo
-10018: Doğrusal B Hece B023 Mu : ideogram b109 öküz
+10018: Doğrusal B Hece B023 Mu: ideogram b109 öküz
 10019: Doğrusal B Hece B006 Na
 1001A: Doğrusal B Hece B024 Ne
-1001B: Doğrusal B Hece B030 Ni : ideogram b030 incir
+1001B: Doğrusal B Hece B030 Ni: ideogram b030 incir
 1001C: Doğrusal B Hece B052 Hayır
 1001D: Doğrusal B Hece B055 Nu
 1001E: Doğrusal B Hece B003 Pa
@@ -35,7 +35,7 @@
 10022: Doğrusal B Hece B050 Pu
 10023: Doğrusal B Hece B016 Qa
 10024: Doğrusal B Hece B078 Qe
-10025: Doğrusal B Hece B021 Qi : ideogram b106 koyun
+10025: Doğrusal B Hece B021 Qi: ideogram b106 koyun
 10026: Doğrusal B Hece B032 Qo
 10027:
 10028: Doğrusal B Hece B060 Ra
@@ -43,7 +43,7 @@
 1002A: Doğrusal B Hece B053 Ri
 1002B: Doğrusal B Hece B002 Ro
 1002C: Doğrusal B Hece B026 Ru
-1002D: Doğrusal B Hece B031 Sa : ideogram b031 keten
+1002D: Doğrusal B Hece B031 Sa: ideogram b031 keten
 1002E: Doğrusal B Hece B009 Se
 1002F: Doğrusal B Hece B041 Si
 10030: Doğrusal B Hece B012 So
@@ -64,14 +64,14 @@
 1003F: Doğrusal B Hece B020 Zo
 10040: Doğrusal B Hece B025 A2
 10041: Doğrusal B Hece B043 A3
-10042: Doğrusal B Hece B085 Au : ideogram b108 domuz
+10042: Doğrusal B Hece B085 Au: ideogram b108 domuz
 10043: Doğrusal B Hece B071 Dwe
 10044: Doğrusal B Hece B090 Dwo
 10045: Doğrusal B Hece B048 Nwa
 10046: Doğrusal B Hece B029 Pu2
 10047: Doğrusal B Hece B062 Pte
 10048: Doğrusal B Hece B076 Ra2
-10049: Doğrusal B Hece B033 Ra3 : ideogram b144 safran
+10049: Doğrusal B Hece B033 Ra3: ideogram b144 safran
 1004A: Doğrusal B Hece B068 Ro2
 1004B: Doğrusal B Hece B066 Ta2
 1004C: Linear B Hece B087 Tweetler
@@ -80,7 +80,7 @@
 1004F:
 10050: Doğrusal B Sembolü B018
 10051: Doğrusal B Sembolü B019
-10052: Doğrusal B Sembolü B022 : ideogram b107 keçi
+10052: Doğrusal B Sembolü B022: ideogram b107 keçi
 10053: Doğrusal B Sembolü B034
 10054: Doğrusal B Sembolü B047
 10055: Doğrusal B Sembolü B049
@@ -145,13 +145,13 @@
 10090: Doğrusal B İdeogram B122 Zeytin
 10091: Doğrusal B İdeogram B123
 10092: Doğrusal B İdeogram B125 Cyperus
-10093: Doğrusal B Monogram B127 Kapo : meyve
-10094: Doğrusal B Monogram B128 Kanako : Safran
+10093: Doğrusal B Monogram B127 Kapo: meyve
+10094: Doğrusal B Monogram B128 Kanako: Safran
 10095: Lineer B İdeogram B130 Yağ
 10096: Doğrusal B Ideogram B131 Şarap
 10097: Doğrusal B İdeogram B132
-10098: Doğrusal B Monogram B133 Arepa : merhem
-10099: Doğrusal B Monogram B135 Meri : bal
+10098: Doğrusal B Monogram B133 Arepa: merhem
+10099: Doğrusal B Monogram B135 Meri: bal
 1009A: Doğrusal B İdeogram B140 Bronz
 1009B: Doğrusal B İdeogram B141 Altın
 1009C: Doğrusal B İdeogram B142
@@ -162,7 +162,7 @@
 100A1: Doğrusal B İdeogram B152
 100A2: Doğrusal B İdeogram B153
 100A3: Doğrusal B İdeogram B154
-100A4: Doğrusal B Monogram B156 Turo2 : peynir
+100A4: Doğrusal B Monogram B156 Turo2: peynir
 100A5: Doğrusal B İdeogram B157
 100A6: Doğrusal B İdeogram B158
 100A7: Doğrusal B İdeogram B159 Bezi
@@ -199,9 +199,9 @@
 100C6: Doğrusal B İdeogram B230 Mızrak
 100C7: Doğrusal B İdeogram B231 Ok
 100C8: Doğrusal B İdeogram B232
-100C9: Doğrusal B İdeogram B233 Kılıcı : pugio
+100C9: Doğrusal B İdeogram B233 Kılıcı: pugio
 100CA: Doğrusal B İdeogram B234
-100CB: Doğrusal B İdeogram B236 : "gupio", ters kılıç
+100CB: Doğrusal B İdeogram B236: "gupio", ters kılıç
 100CC: Lineer B İdeogram B240 Tekerlekli Araba
 100CD: Doğrusal B İdeogram B241 Chariot
 100CE: Doğrusal B İdeogram B242 Chariot Frame
@@ -253,4 +253,4 @@
 100FC:
 100FD:
 100FE:
-100FF:
+100FF:

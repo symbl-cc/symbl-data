@@ -78,16 +78,16 @@
 2B4D: Săgeată în zigzag cu triunghi în șir
 2B4E: Săgeată nord nordică
 2B4F: Săgeată de Sud scurtată spre spate
-2B50: White Medium Star : Steaua galbenă
+2B50: White Medium Star: Steaua galbenă
 2B51: Black Star Mic
 2B52: Stea albă albă
 2B53: Pentagonul negru din dreapta
 2B54: Pentagonul alb îndreptat spre dreapta
-2B55: Cercul mare mare : Simbolul de bază pentru limita de viteză, Corect, Cerc roșu, Marcaj de cerc
-2B56: Oval greu cu ovală interioară : birou prefectural
-2B57: Cercul greu cu interiorul cercului : biroul municipal
-2B58: Cercul greu : oraș sau sat
-2B59: Heavy Circle Saltire : secție de poliție
+2B55: Cercul mare mare: Simbolul de bază pentru limita de viteză, Corect, Cerc roșu, Marcaj de cerc
+2B56: Oval greu cu ovală interioară: birou prefectural
+2B57: Cercul greu cu interiorul cercului: biroul municipal
+2B58: Cercul greu: oraș sau sat
+2B59: Heavy Circle Saltire: secție de poliție
 2B5A: Săgeată de nord înclinată cu cap înțepenit
 2B5B: Săgeată sudică din spate cu coadă înțepenită
 2B5C: Săgeată de nord înclinată cu coadă orizontală
@@ -110,20 +110,20 @@
 2B6D: Săgeată în spate cu triunghi în spate
 2B6E: Arrow cu cerc deschis în sensul acelor de ceasornic
 2B6F: În sensul invers acelor de ceasornic, cu arcul cu cerc deschis în triunghi
-2B70: Triunghi spre stânga : fila stânga
-2B71: Argintiu triunghi în sus spre bar : sus
-2B72: Dreapta săgeată în triunghi spre bar : dreapta
-2B73: Săgeată în triunghi spre spate : în jos
+2B70: Triunghi spre stânga: fila stânga
+2B71: Argintiu triunghi în sus spre bar: sus
+2B72: Dreapta săgeată în triunghi spre bar: dreapta
+2B73: Săgeată în triunghi spre spate: în jos
 2B74:
 2B75:
-2B76: Triunghiul Nord-Vest cu șirul spre bar : Acasă
+2B76: Triunghiul Nord-Vest cu șirul spre bar: Acasă
 2B77: Triunghiul nord-est-îndreptat spre bar
-2B78: Sud-estul triunghiului cu șirul spre bar : Sfârșit
+2B78: Sud-estul triunghiului cu șirul spre bar: Sfârșit
 2B79: Triunghiul Sud-Vest-îndreptat spre bar
 2B7A: Săgeată cu șir triunghi îndreptată spre stânga cu accident vascular cerebral orizontal dublu
-2B7B: Argintiu triunghi cu șurub dublu în sus : pagină sus
+2B7B: Argintiu triunghi cu șurub dublu în sus: pagină sus
 2B7C: Dreapta cu săgeata cu triunghi cu șoc dublu orizontal
-2B7D: Săgeată în direcția triunghiului cu dublă orizontală dublă : in josul paginii
+2B7D: Săgeată în direcția triunghiului cu dublă orizontală dublă: in josul paginii
 2B7E: Tastă orizontală Tab
 2B7F: Tasta Vertical Tab
 2B80: Săgeată în direcția triunghi-stânga spre dreapta
@@ -146,10 +146,10 @@
 2B91: Reveniți dreapta
 2B92: Newline stânga
 2B93: Newline dreapta
-2B94: Patru săgeți de colț circulând în sensul invers acelor de ceasornic : buclă
+2B94: Patru săgeți de colț circulând în sensul invers acelor de ceasornic: buclă
 2B95: Dreapta săgeată neagră
 2B96:
-2B97:
+2B97: Simbol pentru electronica de tip A
 2B98: Trei-D arcuită stânga echilateral de stânga
 2B99: Trei-D dreapta luminat în sus Equilateral Arrowhead
 2B9A: Trei-D cu luminozitate stânga la dreapta
@@ -182,8 +182,8 @@
 2BB5: Panglica săgeată dreapta sus
 2BB6: Panglica săgeată stânga jos
 2BB7: Panglica săgeată în jos
-2BB8: Săgeată albă de sus de la bar cu bar orizontal : majuscule
-2BB9: Up Arrowhead într-o cutie dreptunghiulară : evadare
+2BB8: Săgeată albă de sus de la bar cu bar orizontal: majuscule
+2BB9: Up Arrowhead într-o cutie dreptunghiulară: evadare
 2BBA: Suprapuneri de pătrate albe
 2BBB: Suprapuneri de pătrate albe și negre
 2BBC: Piața neagră suprapusă
@@ -199,7 +199,7 @@
 2BC6: Mediu triunghi cu orientare în jos
 2BC7: Mediu triunghi orientat spre stânga mediu centrat
 2BC8: Negru mediu triunghi orientat spre dreapta centrat
-2BC9:
+2BC9: Neptun formează doi
 2BCA: Cercul Negru Negru
 2BCB: Cercul Negru al Cercului Negru
 2BCC: Lumina Patru Negru Vârf Cusp
@@ -207,7 +207,7 @@
 2BCE: Cuspul alb al patrulea
 2BCF: Rotat White Four Cusp
 2BD0: Indicator de poziție pătrat
-2BD1: Conceptul de incertitudine : întrebare
+2BD1: Conceptul de incertitudine: întrebare
 2BD2: Marcajul grupului
 2BD3: Pluto forma a doua
 2BD4: Pluto Forma Trei
@@ -234,10 +234,10 @@
 2BE9: Dreapta stele negre
 2BEA: Stea cu stânga jumătate negru
 2BEB: Stea cu dreapta jumătate negru
-2BEC: Săgeată cu două capete spre stânga, cu șuruburi Tringle : cursorul rapid stânga
-2BED: Sus Arrowhead cu două capete : cursorul rapid în sus
-2BEE: Dreapta Săgeată cu două capete cu arginte Tringle : rapid cursor dreapta
-2BEF: Săgeată cu două capete în jos, cu șorile din Tringle : cursorul rapid în jos
+2BEC: Săgeată cu două capete spre stânga, cu șuruburi Tringle: cursorul rapid stânga
+2BED: Sus Arrowhead cu două capete: cursorul rapid în sus
+2BEE: Dreapta Săgeată cu două capete cu arginte Tringle: rapid cursor dreapta
+2BEF: Săgeată cu două capete în jos, cu șorile din Tringle: cursorul rapid în jos
 2BF0: Eris Form One
 2BF1: Eris Forma a doua
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: Simbol dublat
 2BFD: Simbolul trecut
 2BFE: Unghi drept inversat
-2BFF:
+2BFF: Simbolul pauzei Hellschreiber

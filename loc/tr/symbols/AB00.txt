@@ -62,7 +62,7 @@ AB3C: Çapraz kuyruklu Latin küçük harf Eng
 AB3D: Latince Küçük Harfli Blackletter O
 AB3E: Latin Küçük Harf Blackletter O İnme ile
 AB3F: Latin Küçük Harf Açık O İnme ile
-AB40: Latince Küçük Harf Ters Oe : latin küçük harf o ters-schwa
+AB40: Latince Küçük Harf Ters Oe: latin küçük harf o ters-schwa
 AB41: Latin Küçük Harf İnme ile Oe Döndü
 AB42: Latin Küçük Harf Yatay İnme ile Oe Döndü
 AB43: Latin Küçük Harf Açık O Döndü
@@ -100,12 +100,12 @@ AB62: Latin Küçük Harf Açık Oe
 AB63: Latin Küçük Harf Uo
 AB64: Latin Küçük Harf Ters Alfa
 AB65: Yunan Harfli Küçük Sermaye Omega
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: Latin küçük harf Dz digraph retroflex kanca ile
+AB67: Latin küçük harf Ts digraph retroflex kanca ile
+AB68: Latince küçük harf R orta tilde ile döndü
+AB69: Değiştirici harf küçük W döndü
+AB6A: Değiştirici harf sol bağlantı
+AB6B: Değiştirici harf sağ tutturma
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: Cherokee Küçük Harfli WO
 ABBD: Cherokee Küçük Harfli WU
 ABBE: Cherokee Küçük Harf WV
 ABBF: Cherokee Küçük Harf YA
-ABC0: Meetei Mayek Mektubu Kok : ka
-ABC1: Meetei Mayek Mektubu Sam : sa
-ABC2: Meetei Mayek Mektubu Lai : la
-ABC3: Meetei Mayek Mektup Mit : anne
+ABC0: Meetei Mayek Mektubu Kok: ka
+ABC1: Meetei Mayek Mektubu Sam: sa
+ABC2: Meetei Mayek Mektubu Lai: la
+ABC3: Meetei Mayek Mektup Mit: anne
 ABC4: Meetei Mayek Mektup Pa
 ABC5: Meetei Mayek Harf Na
-ABC6: Meetei Mayek Mektup Chil : CA
-ABC7: Meetei Mayek Mektubu Til : ta
-ABC8: Meetei Mayek Mektup Khou : kha
-ABC9: Meetei Mayek Mektubu Ngou : nga
-ABCA: Meetei Mayek Mektubu Sen : tha
-ABCB: Meetei Mayek Mektubu Wai : WA
-ABCC: Meetei Mayek Mektubu Yang : ya
-ABCD: Meetei Mayek Mektubu Huk : Ha
-ABCE: Meetei Mayek Mektup Un : u
+ABC6: Meetei Mayek Mektup Chil: CA
+ABC7: Meetei Mayek Mektubu Til: ta
+ABC8: Meetei Mayek Mektup Khou: kha
+ABC9: Meetei Mayek Mektubu Ngou: nga
+ABCA: Meetei Mayek Mektubu Sen: tha
+ABCB: Meetei Mayek Mektubu Wai: WA
+ABCC: Meetei Mayek Mektubu Yang: ya
+ABCD: Meetei Mayek Mektubu Huk: Ha
+ABCE: Meetei Mayek Mektup Un: u
 ABCF: Meetei Mayek Mektubu I
-ABD0: Meetei Mayek Mektup Pham : pha
-ABD1: Meetei Mayek Mektubu Atiya : bir
-ABD2: Meetei Mayek Mektubu Gök : ga
-ABD3: Meetei Mayek Mektubu Jham : jha
-ABD4: Meetei Mayek Mektubu Rai : ra
+ABD0: Meetei Mayek Mektup Pham: pha
+ABD1: Meetei Mayek Mektubu Atiya: bir
+ABD2: Meetei Mayek Mektubu Gök: ga
+ABD3: Meetei Mayek Mektubu Jham: jha
+ABD4: Meetei Mayek Mektubu Rai: ra
 ABD5: Meetei Mayek Mektup Ba
-ABD6: Meetei Mayek Mektubu Jil : ja
-ABD7: Meetei Mayek Mektup Dil : da
-ABD8: Meetei Mayek Mektup Ghou : kha'ydı
-ABD9: Meetei Mayek Mektup Dhou : dha
-ABDA: Meetei Mayek Mektup Bham : bha
-ABDB: Meetei Mayek Mektubu Kok Lonsum : k
-ABDC: Meetei Mayek Mektubu Lai Lonsum : l
-ABDD: Meetei Mayek Mektubu Mit Lonsum : m
-ABDE: Meetei Mayek Mektup Pa Lonsum : p
-ABDF: Meetei Mayek Mektubu Na Lonsum : n
-ABE0: Meetei Mayek Mektubu Til Lonsum : t
-ABE1: Meetei Mayek Mektubu Ngou Lonsum : ng
-ABE2: Meetei Mayek Mektubu Ben Lonsum : ben
-ABE3: Meetei Mayek Vowel Sign Onap : O
-ABE4: Meetei Mayek Vowel Giriş Yap : ben
-ABE5: Meetei Mayek ünlü işareti Anap : aa
-ABE6: Meetei Mayek Ünlü Yenap İmzaladı : e
-ABE7: Meetei Mayek ünlü işareti Sounap : ou
-ABE8: Meetei Mayek ünlü işareti Unap : u
-ABE9: Meetei Mayek ünlü işaret Cheinap : ei
-ABEA: Meetei Mayek ünlü işareti Nung işareti : anusvara
-ABEB: Meetei Mayek Cheikhei : çift ​​danda
-ABEC: Meetei Mayek Lum Iyek : ağır ton
-ABED: Meetei Mayek Apun İyek : katil
+ABD6: Meetei Mayek Mektubu Jil: ja
+ABD7: Meetei Mayek Mektup Dil: da
+ABD8: Meetei Mayek Mektup Ghou: kha'ydı
+ABD9: Meetei Mayek Mektup Dhou: dha
+ABDA: Meetei Mayek Mektup Bham: bha
+ABDB: Meetei Mayek Mektubu Kok Lonsum: k
+ABDC: Meetei Mayek Mektubu Lai Lonsum: l
+ABDD: Meetei Mayek Mektubu Mit Lonsum: m
+ABDE: Meetei Mayek Mektup Pa Lonsum: p
+ABDF: Meetei Mayek Mektubu Na Lonsum: n
+ABE0: Meetei Mayek Mektubu Til Lonsum: t
+ABE1: Meetei Mayek Mektubu Ngou Lonsum: ng
+ABE2: Meetei Mayek Mektubu Ben Lonsum: ben
+ABE3: Meetei Mayek Vowel Sign Onap: O
+ABE4: Meetei Mayek Vowel Giriş Yap: ben
+ABE5: Meetei Mayek ünlü işareti Anap: aa
+ABE6: Meetei Mayek Ünlü Yenap İmzaladı: e
+ABE7: Meetei Mayek ünlü işareti Sounap: ou
+ABE8: Meetei Mayek ünlü işareti Unap: u
+ABE9: Meetei Mayek ünlü işaret Cheinap: ei
+ABEA: Meetei Mayek ünlü işareti Nung işareti: anusvara
+ABEB: Meetei Mayek Cheikhei: çift ​​danda
+ABEC: Meetei Mayek Lum Iyek: ağır ton
+ABED: Meetei Mayek Apun İyek: katil
 ABEE:
 ABEF:
-ABF0: Meetei Mayek Rakam Sıfır : phun
-ABF1: Meetei Mayek Rakam Bir : ama
-ABF2: Meetei Mayek Basamak İki : ani
-ABF3: Meetei Mayek Rakam Üç : ahum
-ABF4: Meetei Mayek Basamak Dört : mari
-ABF5: Meetei Mayek Rakam Beş : manga
-ABF6: Meetei Mayek Rakam Altı : taruk
-ABF7: Meetei Mayek Rakam Yedi : Taret
-ABF8: Meetei Mayek Rakam Sekiz : nipal
-ABF9: Meetei Mayek Rakam Dokuz : MAPAL
+ABF0: Meetei Mayek Rakam Sıfır: phun
+ABF1: Meetei Mayek Rakam Bir: ama
+ABF2: Meetei Mayek Basamak İki: ani
+ABF3: Meetei Mayek Rakam Üç: ahum
+ABF4: Meetei Mayek Basamak Dört: mari
+ABF5: Meetei Mayek Rakam Beş: manga
+ABF6: Meetei Mayek Rakam Altı: taruk
+ABF7: Meetei Mayek Rakam Yedi: Taret
+ABF8: Meetei Mayek Rakam Sekiz: nipal
+ABF9: Meetei Mayek Rakam Dokuz: MAPAL
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

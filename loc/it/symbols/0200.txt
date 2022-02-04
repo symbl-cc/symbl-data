@@ -79,30 +79,30 @@
 024E: Capitale latina Lettera Y con tratto
 024F: Latina piccola lettera Y con tratto
 0250: Lettere minuscole latine a
-0251: Lettera alfabetica latina alfa : script in caratteri latini a
+0251: Lettera alfabetica latina alfa: script in caratteri latini a
 0252: Lettera minuscola latina trasformata in alfa
 0253: Latina piccola lettera B con gancio
 0254: Lettera minuscola latina Open O
 0255: Latina piccola lettera C con arricciatura
-0256: Latina piccola lettera D con coda : d gancio retroflesso
+0256: Latina piccola lettera D con coda: d gancio retroflesso
 0257: Latina piccola lettera D con gancio
 0258: Lettere minuscole latine invertite E
 0259: Lettera minuscola latina Schwa
 025A: Piccola lettera latina Schwa con gancio
-025B: Lettera latina latina aperta E : epsilon
+025B: Lettera latina latina aperta E: epsilon
 025C: Lettere minuscole latine invertite aperte E
 025D: Lettere minuscole latine invertite E aperto con gancio
-025E: Lettera latina latina chiusa invertita aperta E : epsilon invertito chiuso
+025E: Lettera latina latina chiusa invertita aperta E: epsilon invertito chiuso
 025F: Lettera minuscola latina Dotless J con tratto
 0260: Latina piccola lettera G con gancio
 0261: Script in caratteri latini G
 0262: Lettera latina Small Capital G
 0263: Latin Small Letter Gamma
-0264: Corno latino Rams Horn : piccola lettera latino baby gamma
+0264: Corno latino Rams Horn: piccola lettera latino baby gamma
 0265: Lettere minuscole latine H
 0266: Carattere latino: lettera H con gancio
 0267: Piccola lettera latina Heng con gancio
-0268: Lettera latina piccola I con tratto : escluso io, io bar
+0268: Lettera latina piccola I con tratto: escluso io, io bar
 0269: Carattere latino: lettera Iota
 026A: Lettera latina, piccola capitale I
 026B: Carattere latino: lettera L con tilde centrale
@@ -115,7 +115,7 @@
 0272: Lettera minuscola latina N con gancio sinistro
 0273: Lettera minuscola latina N con gancio retroflesso
 0274: Lettera latina Small Capital N
-0275: Lettera minuscola latina barrata O : o bar
+0275: Lettera minuscola latina barrata O: o bar
 0276: Latin Letter Small Capital Oe
 0277: Lettera minuscola latina chiusa Omega
 0278: Carattere latino: lettera Phi
@@ -125,7 +125,7 @@
 027C: Latina piccola lettera R con gamba lunga
 027D: Carattere latino: lettera R con coda
 027E: Latin Small Letter R with Fishhook
-027F: Lettera latina latina rovesciata R con amo : gamba lunga trasformata in iota (un termine improprio)
+027F: Lettera latina latina rovesciata R con amo: gamba lunga trasformata in iota (un termine improprio)
 0280: Lettera latina Small Capital R
 0281: Lettera latina Capitale invertito R
 0282: Latina piccola lettera S con gancio
@@ -137,22 +137,22 @@
 0288: Latina piccola lettera T con gancio retroflesso
 0289: Carattere latino di caratteri cubitali
 028A: Carattere latino: lettera Upsilon
-028B: Latina piccola lettera V con gancio : latina piccola lettera script v
-028C: Lettere minuscole latine V : accento, cuneo
+028B: Latina piccola lettera V con gancio: latina piccola lettera script v
+028C: Lettere minuscole latine V: accento, cuneo
 028D: Lettera minuscola latina trasformata W
 028E: Lettere minuscole latine Y
 028F: Lettera latina Piccolo capitale Y
 0290: Latina piccola lettera Z con gancio Retroflex
 0291: Latina piccola lettera Z con arricciatura
-0292: Carattere latino: lettera Ezh : dramma
+0292: Carattere latino: lettera Ezh , dramma
 0293: Carattere latino: lettera Ezh con ricciolo
 0294: Lettera latina Stop glottale
-0295: Carattere alfabeto: lettera latina faringea fricativa : stop glottale invertito
+0295: Carattere alfabeto: lettera latina faringea fricativa , stop glottale invertito
 0296: Lettera latina invertita fermata glottale
 0297: Lettera latina allungata C
-0298: Clic della lettera latino Bilabial : bullseye
+0298: Clic della lettera latino Bilabial: bullseye
 0299: Lettera latina maiuscola B
-029A: Latino Piccolo Lettera Chiuso Aperto E : epsilon chiuso
+029A: Latino Piccolo Lettera Chiuso Aperto E: epsilon chiuso
 029B: Lettera latina piccola capitale G con gancio
 029C: Lettera latina maiuscola
 029D: Carattere latino: lettera J con croce a coda
@@ -186,7 +186,7 @@
 02B9: Modifier Letter Prime
 02BA: Modifier Letter Double Prime
 02BB: La lettera modificatore ha trasformato Virgola
-02BC: Modificatore Lettera Apostrofo : apostrofo
+02BC: Modificatore Lettera Apostrofo: apostrofo
 02BD: Modifier Letter Virgola invertita
 02BE: Modifier Letter Right Half Ring
 02BF: Modifier Letter Left Half Ring
@@ -197,7 +197,7 @@
 02C4: Freccia della freccia del modificatore
 02C5: Freccia della freccia del modificatore
 02C6: Modificatore Letter Accento Circumflex
-02C7: Caron : Hacek
+02C7: Caron: Hacek
 02C8: Modificatore Lettera Linea Verticale
 02C9: Modificatore Lettera Macron
 02CA: Modificatore Letter Accento acuto

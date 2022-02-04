@@ -1,7 +1,16 @@
+emoji_group: Emoji category
+emoji_subgroup: Emoji subcategory
+local-keyboard: English keyboard layout
+alt-code: Alt code
+name: Name
+symbol: Symbol
+html_code: HTML-code
 entity: Entity
 your-browser: Your browser
-font-view: Inscription of the character &quot;{{ name }}&quot; in different fonts
-char-desc: Character description
+font-view: Typeface of the character &quot;{{ name }}&quot; in different fonts
+char-desc: Symbol meaning
+emoji-desc: Emoji meaning
+ideograph-desc: Ideograph meaning
 unicode-name: Name
 unicode-number: Unicode number
 html-code: <span class="caps">HTML</span>-code
@@ -11,7 +20,13 @@ lowercase: Lowercase
 encoding: Encoding
 related: Related characters
 tech-info: Technical information
-copy: Copy and paste the symbol
+copy: Click to copy and paste symbol
+copy-code: Click to copy
 copy_button: Copy
 copy_done: Copied!
 version: Unicode version
+emoji_version: Emoji version
+sets-with-this-symbol: Sets with this symbol
+empty-symbol: Undefined in Unicode
+emoji_since_text: @title@ was approved as part of Unicode @unicode_version@ in @unicode_year@ and added to Emoji @emoji_version@ in @emoji_year@.
+symbol_since_text: @title@ was approved as part of Unicode @unicode_version@ in @unicode_year@.

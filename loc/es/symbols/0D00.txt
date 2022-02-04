@@ -2,7 +2,7 @@
 0D01: Malayalam Sign Candrabindu
 0D02: Malayalam Sign Anusvara
 0D03: Malayalam Sign Visarga
-0D04:
+0D04: Malayalam letra védico Anusvara
 0D05: Malayalam letra a
 0D06: Malayalam Letra Aa
 0D07: Malayalam Letra I
@@ -24,20 +24,20 @@
 0D17: Letra malayalam ga
 0D18: Malayalam letra gha
 0D19: Malayalam Letra Nga
-0D1A: Letra malayalam ca : cha
-0D1B: Letra malayalam cha : chha
+0D1A: Letra malayalam ca: cha
+0D1B: Letra malayalam cha: chha
 0D1C: Letra malayalam ja
 0D1D: Malayalam Letra Jha
-0D1E: Malayalam letra nya : nha
-0D1F: Malayalam Letra Tta : ejército de reserva
-0D20: Malayalam Letra Ttha : tta
-0D21: Malayalam letra dda : duro da
-0D22: Malayalam Letra Ddha : duro dda
-0D23: Letra malayalam nna : duro na
-0D24: Malayalam letra ta : tha
-0D25: Malayalam Letra Tha : ttha
-0D26: Letra malayalam da : da suave
-0D27: Malayalam letra dha : dda suave
+0D1E: Malayalam letra nya: nha
+0D1F: Malayalam Letra Tta: ejército de reserva
+0D20: Malayalam Letra Ttha: tta
+0D21: Malayalam letra dda: duro da
+0D22: Malayalam Letra Ddha: duro dda
+0D23: Letra malayalam nna: duro na
+0D24: Malayalam letra ta: tha
+0D25: Malayalam Letra Tha: ttha
+0D26: Letra malayalam da: da suave
+0D27: Malayalam letra dha: dda suave
 0D28: Letra malayalam na
 0D29: Malayalam letra nnna
 0D2A: Letra malayalam pa
@@ -50,16 +50,16 @@
 0D31: Letra malayalam rra
 0D32: Malayalam Letra La
 0D33: Malayalam Letra Lla
-0D34: Malayalam letra llla : zha
+0D34: Malayalam letra llla: zha
 0D35: Letra malayalam va
-0D36: Letra malayalam sha : sha suave
-0D37: Letra malayalam ssa : sha
+0D36: Letra malayalam sha: sha suave
+0D37: Letra malayalam ssa: sha
 0D38: Letra malayalam sa
 0D39: Malayalam Letra Ha
 0D3A: Malayalam Letra Ttta
 0D3B: Malayalam Sign Vertical Bar Virama
 0D3C: Malayalam Sign Circular Virama
-0D3D: Malayalam Sign Avagraha : Praslesham
+0D3D: Malayalam Sign Avagraha: Praslesham
 0D3E: Malayalam Vocal Signo Aa
 0D3F: Malayalam Vocal Signo I
 0D40: Malayalam Vocal Signo Ii
@@ -75,7 +75,7 @@
 0D4A: Malayalam Vocal Signo O
 0D4B: Malayalam Vocal Signo Oo
 0D4C: Malayalam Vowel Sign Au
-0D4D: Malayalam Sign Virama : Candrakkala (el nombre preferido) : vocal medio-u
+0D4D: Malayalam Sign Virama: Candrakkala (el nombre preferido) , vocal medio-u
 0D4E: Malayalam letra Dot Reph
 0D4F: Malayalam Sign Para
 0D50:
@@ -127,101 +127,101 @@
 0D7E: Malayalam Letra Chillu Ll
 0D7F: Malayalam Letra Chillu K
 0D80:
-0D81:
-0D82: Sinhala Sign Anusvaraya : Anusvara
-0D83: Sinhala Sign Visargaya : visarga
+0D81: Signo cingalés candrabindu
+0D82: Sinhala Sign Anusvaraya: Anusvara
+0D83: Sinhala Sign Visargaya: visarga
 0D84:
-0D85: Carta cingalés ayanna : sinhala letra a
-0D86: Sinhala letra aayanna : sinhala letra aa
-0D87: Sinhala letra aeyanna : letra del sinhala ae
-0D88: Sinhala letra aeeyanna : sinhala letra aae
-0D89: Letra de Sinhala Iyanna : sinhala letra i
-0D8A: Letra de Sinhala Iiyanna : sinhala letra ii
-0D8B: Sinhala letra uyanna : sinhala letra u
-0D8C: Sinhala letra uuyanna : letra sinhala uu
-0D8D: Sinhala letra iruyanna : sinhala letra vocalic
-0D8E: Sinhala letra iruuyanna : letra sinhala vocal rr
-0D8F: Iluyanna letra cingalés : sinhala letra vocalic
-0D90: Sinhala Letra Iluuyanna : sinhala letra vocalic ll
-0D91: Sinhala letra eyanna : letra sinhala e
-0D92: Sinhala letra eeyanna : letra del sinhala ee
-0D93: Sinhala letra aiyanna : carta del sinhala ai
-0D94: Sinhala letra oyanna : letra sinhala o
-0D95: Sinhala letra ooyanna : letra sinhala oo
-0D96: Sinhala letra auyanna : sinhala letra au
+0D85: Carta cingalés ayanna: sinhala letra a
+0D86: Sinhala letra aayanna: sinhala letra aa
+0D87: Sinhala letra aeyanna: letra del sinhala ae
+0D88: Sinhala letra aeeyanna: sinhala letra aae
+0D89: Letra de Sinhala Iyanna: sinhala letra i
+0D8A: Letra de Sinhala Iiyanna: sinhala letra ii
+0D8B: Sinhala letra uyanna: sinhala letra u
+0D8C: Sinhala letra uuyanna: letra sinhala uu
+0D8D: Sinhala letra iruyanna: sinhala letra vocalic
+0D8E: Sinhala letra iruuyanna: letra sinhala vocal rr
+0D8F: Iluyanna letra cingalés: sinhala letra vocalic
+0D90: Sinhala Letra Iluuyanna: sinhala letra vocalic ll
+0D91: Sinhala letra eyanna: letra sinhala e
+0D92: Sinhala letra eeyanna: letra del sinhala ee
+0D93: Sinhala letra aiyanna: carta del sinhala ai
+0D94: Sinhala letra oyanna: letra sinhala o
+0D95: Sinhala letra ooyanna: letra sinhala oo
+0D96: Sinhala letra auyanna: sinhala letra au
 0D97:
 0D98:
 0D99:
-0D9A: Sinhala Letter Alpapraana Kayanna : sinhala letra ka
-0D9B: Sinhala letra Mahaapraana Kayanna : sinhala letra kha
-0D9C: Sinhala Letter Alpapraana Gayanna : letra sinhala ga
-0D9D: Sinhala Letter Mahaapraana Gayanna : sinhala letra gha
-0D9E: Sinhala letra Kantaja Naasikyaya : sinhala letra nga
-0D9F: Sinhala Letra Sanyaka Gayanna : sinhala letra nnga
-0DA0: Sinhala Letter Alpapraana Cayanna : sinhala letra ca
-0DA1: Sinhala Letter Mahaapraana Cayanna : sinhala letra cha
-0DA2: Sinhala Letter Alpapraana Jayanna : sinhala letra ja
-0DA3: Sinhala Letter Mahaapraana Jayanna : sinhala letra jha
-0DA4: Sinhala Letra Taaluja Naasikyaya : sinhala letra nya
-0DA5: Sinhala Letra Taaluja Sanyooga Naaksikyaya : sinhala letra jnya
-0DA6: Sinhala letra Sanyaka Jayanna : sinhala letra nyja
-0DA7: Sinhala Letter Alpapraana Ttayanna : sinhala letra tta
-0DA8: Sinhala Letter Mahaapraana Ttayanna : sinhala letra ttha
-0DA9: Sinhala Letter Alpapraana Ddayanna : sinhala letra dda
-0DAA: Sinhala letra Mahaapraana Ddayanna : sinhala letra ddha
-0DAB: Sinhala letra Muurdhaja Nayanna : sinhala letra nna
-0DAC: Sinhala Letra Sanyaka Ddayanna : sinhala letra nndda
-0DAD: Sinhala Letter Alpapraana Tayanna : sinhala letra ta
-0DAE: Sinhala letra Mahaapraana Tayanna : sinhala letra tha
-0DAF: Sinhala letra Alpapraana Dayanna : sinhala letra da
-0DB0: Sinhala letra Mahaapraana Dayanna : sinhala letra dha
-0DB1: Sinhala letra Dantaja Nayanna : sinhala letra na
+0D9A: Sinhala Letter Alpapraana Kayanna: sinhala letra ka
+0D9B: Sinhala letra Mahaapraana Kayanna: sinhala letra kha
+0D9C: Sinhala Letter Alpapraana Gayanna: letra sinhala ga
+0D9D: Sinhala Letter Mahaapraana Gayanna: sinhala letra gha
+0D9E: Sinhala letra Kantaja Naasikyaya: sinhala letra nga
+0D9F: Sinhala Letra Sanyaka Gayanna: sinhala letra nnga
+0DA0: Sinhala Letter Alpapraana Cayanna: sinhala letra ca
+0DA1: Sinhala Letter Mahaapraana Cayanna: sinhala letra cha
+0DA2: Sinhala Letter Alpapraana Jayanna: sinhala letra ja
+0DA3: Sinhala Letter Mahaapraana Jayanna: sinhala letra jha
+0DA4: Sinhala Letra Taaluja Naasikyaya: sinhala letra nya
+0DA5: Sinhala Letra Taaluja Sanyooga Naaksikyaya: sinhala letra jnya
+0DA6: Sinhala letra Sanyaka Jayanna: sinhala letra nyja
+0DA7: Sinhala Letter Alpapraana Ttayanna: sinhala letra tta
+0DA8: Sinhala Letter Mahaapraana Ttayanna: sinhala letra ttha
+0DA9: Sinhala Letter Alpapraana Ddayanna: sinhala letra dda
+0DAA: Sinhala letra Mahaapraana Ddayanna: sinhala letra ddha
+0DAB: Sinhala letra Muurdhaja Nayanna: sinhala letra nna
+0DAC: Sinhala Letra Sanyaka Ddayanna: sinhala letra nndda
+0DAD: Sinhala Letter Alpapraana Tayanna: sinhala letra ta
+0DAE: Sinhala letra Mahaapraana Tayanna: sinhala letra tha
+0DAF: Sinhala letra Alpapraana Dayanna: sinhala letra da
+0DB0: Sinhala letra Mahaapraana Dayanna: sinhala letra dha
+0DB1: Sinhala letra Dantaja Nayanna: sinhala letra na
 0DB2:
-0DB3: Sinhala letra Sanyaka Dayanna : sinhala letra nda
-0DB4: Sinhala Letter Alpapraana Payanna : sinhala letra pa
-0DB5: Sinhala letra Mahaapraana Payanna : sinhala letra pha
-0DB6: Sinhala Letter Alpapraana Bayanna : sinhala letra ba
-0DB7: Sinhala letra Mahaapraana Bayanna : sinhala letra bha
-0DB8: Sinhala letra mayanna : sinhala letra ma
-0DB9: Sinhala letra Amba Bayanna : sinhala letra mba
-0DBA: Letra de Sinhala Yayanna : letra sinhala ya
-0DBB: Sinhala letra rayanna : sinhala letra ra
+0DB3: Sinhala letra Sanyaka Dayanna: sinhala letra nda
+0DB4: Sinhala Letter Alpapraana Payanna: sinhala letra pa
+0DB5: Sinhala letra Mahaapraana Payanna: sinhala letra pha
+0DB6: Sinhala Letter Alpapraana Bayanna: sinhala letra ba
+0DB7: Sinhala letra Mahaapraana Bayanna: sinhala letra bha
+0DB8: Sinhala letra mayanna: sinhala letra ma
+0DB9: Sinhala letra Amba Bayanna: sinhala letra mba
+0DBA: Letra de Sinhala Yayanna: letra sinhala ya
+0DBB: Sinhala letra rayanna: sinhala letra ra
 0DBC:
-0DBD: Sinhala letra Dantaja Layanna : sinhala letra la
+0DBD: Sinhala letra Dantaja Layanna: sinhala letra la
 0DBE:
 0DBF:
-0DC0: Sinhala letra vayanna : sinhala letra va
-0DC1: Sinhala letra Taaluja Sayanna : sinhala letra sha
-0DC2: Sinhala letra Muurdhaja Sayanna : sinhala letra ssa
-0DC3: Sinhala letra dantaja sayanna : sinhala letra sa
-0DC4: Sinhala Letter Hayanna : sinhala letra ha
-0DC5: Sinhala Letter Muurdhaja Layanna : sinhala letra lla
-0DC6: Sinhala letra fayanna : sinhala letra fa
+0DC0: Sinhala letra vayanna: sinhala letra va
+0DC1: Sinhala letra Taaluja Sayanna: sinhala letra sha
+0DC2: Sinhala letra Muurdhaja Sayanna: sinhala letra ssa
+0DC3: Sinhala letra dantaja sayanna: sinhala letra sa
+0DC4: Sinhala Letter Hayanna: sinhala letra ha
+0DC5: Sinhala Letter Muurdhaja Layanna: sinhala letra lla
+0DC6: Sinhala letra fayanna: sinhala letra fa
 0DC7:
 0DC8:
 0DC9:
-0DCA: Signo cingalés al-lakuna : virama
+0DCA: Signo cingalés al-lakuna: virama
 0DCB:
 0DCC:
 0DCD:
 0DCE:
-0DCF: Signo de la vocal del cingalés Aela-Pilla : signo de vocal del sinhala aa
-0DD0: Signo de la vocal del cingalés Ketti Aeda-Pilla : signo de vocal del sinhala ae
-0DD1: Signo de vocal del cingalés Diga Aeda-Pilla : signo de vocal del sinhala aae
-0DD2: Signo de la vocal del cingalés Ketti Is-Pilla : signo de vocal del sinhala i
-0DD3: Signo de vocal del cingalés Diga Is-Pilla : signo de vocal del sinhala ii
-0DD4: Signo de la vocal del cingalés Ketti Paa-Pilla : signo vocal sinhala u
+0DCF: Signo de la vocal del cingalés Aela-Pilla: signo de vocal del sinhala aa
+0DD0: Signo de la vocal del cingalés Ketti Aeda-Pilla: signo de vocal del sinhala ae
+0DD1: Signo de vocal del cingalés Diga Aeda-Pilla: signo de vocal del sinhala aae
+0DD2: Signo de la vocal del cingalés Ketti Is-Pilla: signo de vocal del sinhala i
+0DD3: Signo de vocal del cingalés Diga Is-Pilla: signo de vocal del sinhala ii
+0DD4: Signo de la vocal del cingalés Ketti Paa-Pilla: signo vocal sinhala u
 0DD5:
-0DD6: Signo de vocal del cingalés Diga Paa-Pilla : signo de vocal del sinhala uu
+0DD6: Signo de vocal del cingalés Diga Paa-Pilla: signo de vocal del sinhala uu
 0DD7:
-0DD8: Signo de la vocal del cingalés Gaetta-Pilla : signo vocal vocal del sinhala r
-0DD9: Signo de la vocal del cingalés Kombuva : signo de vocal del sinhala e
-0DDA: Signo de la vocal del cingalés Diga Kombuva : signo de vocal del sinhala ee
-0DDB: Signo de la vocal del Sinhala Kombu Deka : signo de vocal del sinhala ai
-0DDC: Signo de la vocal del cingalés Kombuva Haa Aela-Pilla : signo vocal sinhala o
-0DDD: Signo de vocales cingalesas Kombuva Haa Diga Aela-Pilla : signo de vocal del sinhala oo
-0DDE: Sinhala Vowel Sign Kombuva Haa Gayanukitta : signo de vocal del sinhala au
-0DDF: Sinhala Vowel Sign Gayanukitta : signo vocal vocal del sinhala l
+0DD8: Signo de la vocal del cingalés Gaetta-Pilla: signo vocal vocal del sinhala r
+0DD9: Signo de la vocal del cingalés Kombuva: signo de vocal del sinhala e
+0DDA: Signo de la vocal del cingalés Diga Kombuva: signo de vocal del sinhala ee
+0DDB: Signo de la vocal del Sinhala Kombu Deka: signo de vocal del sinhala ai
+0DDC: Signo de la vocal del cingalés Kombuva Haa Aela-Pilla: signo vocal sinhala o
+0DDD: Signo de vocales cingalesas Kombuva Haa Diga Aela-Pilla: signo de vocal del sinhala oo
+0DDE: Sinhala Vowel Sign Kombuva Haa Gayanukitta: signo de vocal del sinhala au
+0DDF: Sinhala Vowel Sign Gayanukitta: signo vocal vocal del sinhala l
 0DE0:
 0DE1:
 0DE2:
@@ -240,8 +240,8 @@
 0DEF: Sinhala Lith Digit Nine
 0DF0:
 0DF1:
-0DF2: Signo de la vocal del cingalés Diga Gaetta-Pilla : señal vocal del sinhala vocal rr
-0DF3: Sinhala Vowel Sign Diga Gayanukitta : vocal vocal del sinhala vocal ll
+0DF2: Signo de la vocal del cingalés Diga Gaetta-Pilla: señal vocal del sinhala vocal rr
+0DF3: Sinhala Vowel Sign Diga Gayanukitta: vocal vocal del sinhala vocal ll
 0DF4: Kunddaliya puntuacion del cinghala
 0DF5:
 0DF6:
@@ -253,4 +253,4 @@
 0DFC:
 0DFD:
 0DFE:
-0DFF:
+0DFF:

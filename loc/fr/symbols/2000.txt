@@ -5,20 +5,20 @@
 2004: Tiers de cadratin
 2005: Quart de cadratin
 2006: Sixième de cadratin
-2007: Espace tabulaire : espace-nombre
+2007: Espace tabulaire: espace-nombre
 2008: Espace ponctuation
 2009: Espace fine
 200A: Espace ultrafine
-200B: Espace sans chasse : espace à chasse nulle, abrégé en zwsp, espsc
-200C: Antiliant sans chasse : abrégé en alsc, zwnj
-200D: Liant sans chasse : abrégé en lsc, zwj
-200E: Marque gauche-à-droite : abrégé en mgad, lrm
-200F: Marque droite-à-gauche : abrégé en mdag, rlm
-2010: Trait d'union : division
+200B: Espace sans chasse: espace à chasse nulle, abrégé en zwsp, espsc
+200C: Antiliant sans chasse: abrégé en alsc, zwnj
+200D: Liant sans chasse: abrégé en lsc, zwj
+200E: Marque gauche-à-droite: abrégé en mgad, lrm
+200F: Marque droite-à-gauche: abrégé en mdag, rlm
+2010: Trait d'union: division
 2011: Trait d'union insécable
 2012: Tiret numérique
 2013: Tiret demi-cadratin
-2014: Tiret cadratin : tiret sur cadratin
+2014: Tiret cadratin: tiret sur cadratin
 2015: Barre horizontale
 2016: Double ligne verticale
 2017: Double trait souscrit
@@ -36,37 +36,37 @@
 2023: Puce triangulaire
 2024: Point de conduite simple
 2025: Point de conduite double
-2026: Points de suspension : point de conduite triple
+2026: Points de suspension: point de conduite triple
 2027: Point de coupure de mot
 2028: Séparateur de lignes
 2029: Séparateur de paragraphes
-202A: Enchâssement gauche-à-droite : abrégé en egad, lre
-202B: Enchâssement droite-à-gauche : abrégé en edag, rle
-202C: Dépilement de formatage directionnel : abrégé en dfd, pdf
-202D: Forçage gauche-à-droite : abrégé en fgad, lro
-202E: Forçage droite-à-gauche : abrégé en fdag, rlo
-202F: Espace insécable étroite : abrégé en nnbsp
+202A: Enchâssement gauche-à-droite: abrégé en egad, lre
+202B: Enchâssement droite-à-gauche: abrégé en edag, rle
+202C: Dépilement de formatage directionnel: abrégé en dfd, pdf
+202D: Forçage gauche-à-droite: abrégé en fgad, lro
+202E: Forçage droite-à-gauche: abrégé en fdag, rlo
+202F: Espace insécable étroite: abrégé en nnbsp
 2030: Symbole pour mille
-2031: Symbole pour dix mille : par myriade
-2032: Prime : minutes, pieds
-2033: Double prime : secondes, pouces
-2034: Triple prime : ligne (ancienne mesure, un douzième de pouce, utilisée par ex. en
+2031: Symbole pour dix mille: par myriade
+2032: Prime: minutes, pieds
+2033: Double prime: secondes, pouces
+2034: Triple prime: ligne (ancienne mesure, un douzième de pouce, utilisée par ex. en
 2035: Prime réfléchi
 2036: Double prime réfléchi
 2037: Triple prime réfléchi
 2038: Chevron d'insertion
 2039: Guillemet simple vers la gauche
 203A: Guillemet simple vers la droite
-203B: Marque de référence : komé japonais : séparateur de paragraphes ourdou
+203B: Marque de référence: komé japonais , séparateur de paragraphes ourdou
 203C: Double point d'exclamation
 203D: Point exclarrogatif
-203E: Tiret en chef : tiret suscrit avec chasse
-203F: Tirant souscrit (énotikon) : énotikon grec
-2040: Tirant en chef : concaténation d'une séquence en notation z : dos-d'âne suscrit
+203E: Tiret en chef: tiret suscrit avec chasse
+203F: Tirant souscrit (énotikon): énotikon grec
+2040: Tirant en chef: concaténation d'une séquence en notation z , dos-d'âne suscrit
 2041: Lambda d'insertion
 2042: Astérisme
 2043: Puce trait d'union
-2044: Barre de fraction : barre fractionnaire
+2044: Barre de fraction: barre fractionnaire
 2045: Crochet gauche avec pique
 2046: Crochet droit avec pique
 2047: Double point d'interrogation
@@ -83,21 +83,21 @@
 2052: Signe moins commercial
 2053: Tiret ondé
 2054: Dos-d'âne souscrit
-2055: Point-fleur : phoul, pouspika, phul
+2055: Point-fleur: phoul, pouspika, phul
 2056: Trois-points
 2057: Quadruple prime
 2058: Quatre-points en losange
-2059: Cinq-points en quinconce : pentonkion grec : quinconce
+2059: Cinq-points en quinconce: pentonkion grec , quinconce
 205A: Deux-points en capitale
 205B: Quatre-points en croix
 205C: Croix pointée
-205D: Trois-points vertical : symbole trois acrophonique épidaurien
+205D: Trois-points vertical: symbole trois acrophonique épidaurien
 205E: Quatre-points vertical
 205F: Espace moyenne mathématique
-2060: Gluon de mots : abrégé en gdm, wj
+2060: Gluon de mots: abrégé en gdm, wj
 2061: Application d'une fonction
 2062: Signe multiplier invisible
-2063: Séparateur invisible : virgule invisible
+2063: Séparateur invisible: virgule invisible
 2064: Plus invisible
 2065: 
 2066: Îlot de gauche à droite
@@ -173,8 +173,8 @@
 20AC: Symbole euro
 20AD: Symbole kip
 20AE: Symbole tougrik
-20AF: Symbole drachme : drakhmê
-20B0: Symbole pfennig : denier, pfennig allemand
+20AF: Symbole drachme: drakhmê
+20B0: Symbole pfennig: denier, pfennig allemand
 20B1: Symbole peso
 20B2: Symbole guarani
 20B3: Symbole austral
@@ -217,23 +217,23 @@
 20D8: Diacritique rond couvrant
 20D9: Diacritique rond en sens négatif couvrant
 20DA: Diacritique rond en sens positif couvrant
-20DB: Diacritique trois points en chef : troisième dérivée
-20DC: Diacritique quatre points en chef : quatrième dérivée
-20DD: Diacritique cercle englobant : cercle de composition jis : diacritique cyrillique myriade, diacritique cyrillique symbole dix mille
+20DB: Diacritique trois points en chef: troisième dérivée
+20DC: Diacritique quatre points en chef: quatrième dérivée
+20DD: Diacritique cercle englobant: cercle de composition jis , diacritique cyrillique myriade, diacritique cyrillique symbole dix mille
 20DE: Diacritique carré englobant
 20DF: Diacritique losange englobant
-20E0: Diacritique cercle englobant et barre oblique inversée : diacritique cercle englobant contre-coticé
+20E0: Diacritique cercle englobant et barre oblique inversée: diacritique cercle englobant contre-coticé
 20E1: Diacritique flèche bilatérale en chef
 20E2: Diacritique écran englobant
 20E3: Diacritique touche englobante
 20E4: Diacritique triangle englobant pointant vers le haut
-20E5: Diacritique barre oblique inversée couvrante : diacritique contre-cotice couvrante : diacritique contre-oblique couvrante
-20E6: Diacritique double barre verticale couvrante : diacritique fonction finie en notation z
-20E7: Diacritique symbole de rente : anglet actuariel
+20E5: Diacritique barre oblique inversée couvrante: diacritique contre-cotice couvrante , diacritique contre-oblique couvrante
+20E6: Diacritique double barre verticale couvrante: diacritique fonction finie en notation z
+20E7: Diacritique symbole de rente: anglet actuariel
 20E8: Diacritique trois points souscrits
-20E9: Diacritique pont en chef : opérateur de contraction
+20E9: Diacritique pont en chef: opérateur de contraction
 20EA: Diacritique flèche vers la gauche couvrante
-20EB: Diacritique double barre oblique longue couvrante : longue double cotice couvrante
+20EB: Diacritique double barre oblique longue couvrante: longue double cotice couvrante
 20EC: Diacritique harpon vers la droite avec dent vers le bas
 20ED: Diacritique harpon vers la gauche avec dent vers le bas
 20EE: Diacritique flèche vers la gauche souscrite

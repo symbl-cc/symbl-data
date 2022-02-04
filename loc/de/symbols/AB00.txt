@@ -62,7 +62,7 @@ AB3C: Lateinischer Kleinbuchstabe Eng mit gekreuztem Schwanz
 AB3D: Lateinischer Kleinbuchstabe Blackletter O
 AB3E: Lateinischer Kleinbuchstabe Blackletter O mit Strich
 AB3F: Lateinischer Kleinbuchstabe Offenes O mit Strich
-AB40: Lateinischer Kleinbuchstabe umgekehrt Oe : lateinischer Kleinbuchstabe o umgekehrt-schwa
+AB40: Lateinischer Kleinbuchstabe umgekehrt Oe: lateinischer Kleinbuchstabe o umgekehrt-schwa
 AB41: Lateinischer Kleinbuchstabe gedrehtes Oe mit Schlaganfall
 AB42: Lateinischer Kleinbuchstabe gedrehtes Oe mit horizontalem Strich
 AB43: Lateinischer Kleinbuchstabe gedreht O Open-O
@@ -100,12 +100,12 @@ AB62: Lateinischer Kleinbuchstabe Open Oe
 AB63: Lateinischer Kleinbuchstabe Uo
 AB64: Lateinischer Kleinbuchstabe invertiertes Alpha
 AB65: Griechischer Buchstabe Kleine Hauptstadt Omega
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: Lateinischer Kleinbuchstabe Dz Digraph mit Retroflexhaken
+AB67: Lateinischer Kleinbuchstabe Ts Digraph mit Retroflexhaken
+AB68: Lateinischer Kleinbuchstabe wurde R mit mittlerer Tilde
+AB69: Modifikatorbuchstabe klein gedreht W
+AB6A: Modifikatorbuchstabe links angeheftet
+AB6B: Modifikator Buchstabe rechts Tack
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: Cherokee Kleinbuchstabe WO
 ABBD: Cherokee Kleinbuchstabe WU
 ABBE: Cherokee Kleinbuchstabe WV
 ABBF: Cherokee Kleinbuchstabe YA
-ABC0: Meetei Mayek Brief Kok : ka
-ABC1: Meetei Mayek Brief Sam : sa
-ABC2: Meetei Mayek Brief Lai : la
-ABC3: Meetei Mayek Brief Mit : ma
+ABC0: Meetei Mayek Brief Kok: ka
+ABC1: Meetei Mayek Brief Sam: sa
+ABC2: Meetei Mayek Brief Lai: la
+ABC3: Meetei Mayek Brief Mit: ma
 ABC4: Meetei Mayek Brief Pa
 ABC5: Meetei Mayek Brief Na
-ABC6: Meetei Mayek Brief Chil : ca
-ABC7: Meetei Mayek-Schreiben Til : ta
-ABC8: Meetei Mayek Brief Khou : kha
-ABC9: Meetei Mayek-Brief Ngou : nga
-ABCA: Meetei Mayek Brief du : tha
-ABCB: Meetei Mayek Brief Wai : wa
-ABCC: Meetei Mayek Brief Yang : ya
-ABCD: Meetei Mayek Brief Huk : Ha
-ABCE: Meetei Mayek Brief Un : u
+ABC6: Meetei Mayek Brief Chil: ca
+ABC7: Meetei Mayek-Schreiben Til: ta
+ABC8: Meetei Mayek Brief Khou: kha
+ABC9: Meetei Mayek-Brief Ngou: nga
+ABCA: Meetei Mayek Brief du: tha
+ABCB: Meetei Mayek Brief Wai: wa
+ABCC: Meetei Mayek Brief Yang: ya
+ABCD: Meetei Mayek Brief Huk: Ha
+ABCE: Meetei Mayek Brief Un: u
 ABCF: Meetei Mayek Brief I
-ABD0: Meetei Mayek Brief Pham : pha
-ABD1: Meetei Mayek Brief Atiya : ein
-ABD2: Meetei Mayek Brief Gok : ga
-ABD3: Meetei Mayek Brief Jham : jha
-ABD4: Meetei Mayek Brief Rai : ra
+ABD0: Meetei Mayek Brief Pham: pha
+ABD1: Meetei Mayek Brief Atiya: ein
+ABD2: Meetei Mayek Brief Gok: ga
+ABD3: Meetei Mayek Brief Jham: jha
+ABD4: Meetei Mayek Brief Rai: ra
 ABD5: Meetei Mayek Brief Ba
-ABD6: Meetei Mayek-Brief Jil : ja
-ABD7: Meetei Mayek Brief Dil : da
-ABD8: Meetei Mayek Brief Ghou : gha
-ABD9: Meetei Mayek Brief Dhou : dha
-ABDA: Meetei Mayek Brief Bham : bha
-ABDB: Meetei Mayek Brief Kok Lonsum : k
-ABDC: Meetei Mayek Brief Lai Lonsum : l
-ABDD: Meetei Mayek-Brief Mit Lonsum : m
-ABDE: Meetei Mayek Brief Pa Lonsum : p
-ABDF: Meetei Mayek Brief Na Lonsum : n
-ABE0: Meetei Mayek Brief Til Lonsum : t
-ABE1: Meetei Mayek-Brief Ngou Lonsum : ng
-ABE2: Meetei Mayek-Brief I Lonsum : ich
-ABE3: Meetei Mayek Vokalzeichen Onap : O
-ABE4: Meetei Mayek Vowel Sign Inap : ich
-ABE5: Meetei Mayek Vokalzeichen Anap : aa
-ABE6: Meetei Mayek Vokalzeichen Yenap : e
-ABE7: Meetei Mayek Vowel Sign Sounap : oder
-ABE8: Meetei Mayek Vowel Sign Unap : u
-ABE9: Meetei Mayek Vokalzeichen Cheinap : ei
-ABEA: Meetei Mayek Vokalzeichen Nung : Anusvara
-ABEB: Treffen Sie Mayek Cheikhei : Doppel-Danda
-ABEC: Treffen Sie Mayek Lum Iyek : schwerer Ton
-ABED: Treffen Sie Mayek Apun Iyek : Mörder
+ABD6: Meetei Mayek-Brief Jil: ja
+ABD7: Meetei Mayek Brief Dil: da
+ABD8: Meetei Mayek Brief Ghou: gha
+ABD9: Meetei Mayek Brief Dhou: dha
+ABDA: Meetei Mayek Brief Bham: bha
+ABDB: Meetei Mayek Brief Kok Lonsum: k
+ABDC: Meetei Mayek Brief Lai Lonsum: l
+ABDD: Meetei Mayek-Brief Mit Lonsum: m
+ABDE: Meetei Mayek Brief Pa Lonsum: p
+ABDF: Meetei Mayek Brief Na Lonsum: n
+ABE0: Meetei Mayek Brief Til Lonsum: t
+ABE1: Meetei Mayek-Brief Ngou Lonsum: ng
+ABE2: Meetei Mayek-Brief I Lonsum: ich
+ABE3: Meetei Mayek Vokalzeichen Onap: O
+ABE4: Meetei Mayek Vowel Sign Inap: ich
+ABE5: Meetei Mayek Vokalzeichen Anap: aa
+ABE6: Meetei Mayek Vokalzeichen Yenap: e
+ABE7: Meetei Mayek Vowel Sign Sounap: oder
+ABE8: Meetei Mayek Vowel Sign Unap: u
+ABE9: Meetei Mayek Vokalzeichen Cheinap: ei
+ABEA: Meetei Mayek Vokalzeichen Nung: Anusvara
+ABEB: Treffen Sie Mayek Cheikhei: Doppel-Danda
+ABEC: Treffen Sie Mayek Lum Iyek: schwerer Ton
+ABED: Treffen Sie Mayek Apun Iyek: Mörder
 ABEE:
 ABEF:
-ABF0: Meetei Mayek Ziffer Null : Phun
-ABF1: Meetei Mayek Ziffer Eins : ama
-ABF2: Meetei Mayek Ziffer Zwei : ani
-ABF3: Meetei Mayek Ziffer Drei : ahum
-ABF4: Meetei Mayek Ziffer Vier : Mari
-ABF5: Meetei Mayek Ziffer Fünf : Manga
-ABF6: Meetei Mayek Ziffer Sechs : Taruk
-ABF7: Meetei Mayek Ziffer sieben : Taret
-ABF8: Meetei Mayek Ziffer Acht : nipal
-ABF9: Meetei Mayek Ziffer Neun : Mapal
+ABF0: Meetei Mayek Ziffer Null: Phun
+ABF1: Meetei Mayek Ziffer Eins: ama
+ABF2: Meetei Mayek Ziffer Zwei: ani
+ABF3: Meetei Mayek Ziffer Drei: ahum
+ABF4: Meetei Mayek Ziffer Vier: Mari
+ABF5: Meetei Mayek Ziffer Fünf: Manga
+ABF6: Meetei Mayek Ziffer Sechs: Taruk
+ABF7: Meetei Mayek Ziffer sieben: Taret
+ABF8: Meetei Mayek Ziffer Acht: nipal
+ABF9: Meetei Mayek Ziffer Neun: Mapal
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

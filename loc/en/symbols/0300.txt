@@ -1,24 +1,24 @@
-0300: Combining Grave Accent : greek varia
-0301: Combining Acute Accent : stress mark : greek oxia, tonos
-0302: Combining Circumflex Accent : hat
+0300: Combining Grave Accent: greek varia
+0301: Combining Acute Accent: stress mark , greek oxia, tonos
+0302: Combining Circumflex Accent: hat
 0303: Combining Tilde
-0304: Combining Macron : long
-0305: Combining Overline : overscore, vinculum
-0306: Combining Breve : short : greek vrachy
-0307: Combining Dot Above : derivative (newtonian notation)
-0308: Combining Diaeresis : double dot above, umlaut : greek dialytika : double derivative
-0309: Combining Hook Above : hoi
+0304: Combining Macron: long
+0305: Combining Overline: overscore, vinculum
+0306: Combining Breve: short , greek vrachy
+0307: Combining Dot Above: derivative (newtonian notation)
+0308: Combining Diaeresis: double dot above, umlaut , greek dialytika , double derivative
+0309: Combining Hook Above: hoi
 030A: Combining Ring Above
 030B: Combining Double Acute Accent
-030C: Combining Caron : hacek, v above
+030C: Combining Caron: hacek, v above
 030D: Combining Vertical Line Above
 030E: Combining Double Vertical Line Above
 030F: Combining Double Grave Accent
 0310: Combining Candrabindu
 0311: Combining Inverted Breve
-0312: Combining Turned Comma Above : cedilla above
-0313: Combining Comma Above : greek psili, smooth breathing mark
-0314: Combining Reversed Comma Above : greek dasia, rough breathing mark
+0312: Combining Turned Comma Above: cedilla above
+0313: Combining Comma Above: greek psili, smooth breathing mark
+0314: Combining Reversed Comma Above: greek dasia, rough breathing mark
 0315: Combining Comma Above Right
 0316: Combining Grave Accent Below
 0317: Combining Acute Accent Below
@@ -33,12 +33,12 @@
 0320: Combining Minus Sign Below
 0321: Combining Palatalized Hook Below
 0322: Combining Retroflex Hook Below
-0323: Combining Dot Below : nang
+0323: Combining Dot Below: nang
 0324: Combining Diaeresis Below
 0325: Combining Ring Below
 0326: Combining Comma Below
 0327: Combining Cedilla
-0328: Combining Ogonek : nasal hook
+0328: Combining Ogonek: nasal hook
 0329: Combining Vertical Line Below
 032A: Combining Bridge Below
 032B: Combining Inverted Double Arch Below
@@ -48,26 +48,26 @@
 032F: Combining Inverted Breve Below
 0330: Combining Tilde Below
 0331: Combining Macron Below
-0332: Combining Low Line : underline, underscore
-0333: Combining Double Low Line : double underline, double underscore
+0332: Combining Low Line: underline, underscore
+0333: Combining Double Low Line: double underline, double underscore
 0334: Combining Tilde Overlay
 0335: Combining Short Stroke Overlay
 0336: Combining Long Stroke Overlay
-0337: Combining Short Solidus Overlay : short slash overlay
-0338: Combining Long Solidus Overlay : long slash overlay
+0337: Combining Short Solidus Overlay: short slash overlay
+0338: Combining Long Solidus Overlay: long slash overlay
 0339: Combining Right Half Ring Below
 033A: Combining Inverted Bridge Below
 033B: Combining Square Below
 033C: Combining Seagull Below
 033D: Combining X Above
-033E: Combining Vertical Tilde : yerik
+033E: Combining Vertical Tilde: yerik
 033F: Combining Double Overline
 0340: Combining Grave Tone Mark
 0341: Combining Acute Tone Mark
 0342: Combining Greek Perispomeni
 0343: Combining Greek Koronis
 0344: Combining Greek Dialytika Tonos
-0345: Combining Greek Ypogegrammeni : greek non-spacing iota below : iota subscript
+0345: Combining Greek Ypogegrammeni: greek non-spacing iota below , iota subscript
 0346: Combining Bridge Above
 0347: Combining Equals Sign Below
 0348: Combining Double Vertical Line Below
@@ -90,12 +90,12 @@
 0359: Combining Asterisk Below
 035A: Combining Double Ring Below
 035B: Combining Zigzag Above
-035C: Combining Double Breve Below : ligature tie below, papyrological hyphen
+035C: Combining Double Breve Below: ligature tie below, papyrological hyphen
 035D: Combining Double Breve
 035E: Combining Double Macron
 035F: Combining Double Macron Below
 0360: Combining Double Tilde
-0361: Combining Double Inverted Breve : ligature tie
+0361: Combining Double Inverted Breve: ligature tie
 0362: Combining Double Rightwards Arrow Below
 0363: Combining Latin Small Letter A
 0364: Combining Latin Small Letter E
@@ -114,17 +114,17 @@
 0371: Greek Small Letter Heta
 0372: Greek Capital Letter Archaic Sampi
 0373: Greek Small Letter Archaic Sampi
-0374: Greek Numeral Sign : dexia keraia
-0375: Greek Lower Numeral Sign : aristeri keraia
+0374: Greek Numeral Sign: dexia keraia
+0375: Greek Lower Numeral Sign: aristeri keraia
 0376: Greek Capital Letter Pamphylian Digamma
 0377: Greek Small Letter Pamphylian Digamma
 0378:
 0379:
-037A: Greek Ypogegrammeni : iota subscript
+037A: Greek Ypogegrammeni: iota subscript
 037B: Greek Small Reversed Lunate Sigma Symbol
 037C: Greek Small Dotted Lunate Sigma Symbol
 037D: Greek Small Reversed Dotted Lunate Sigma Symbol
-037E: Greek Question Mark : erotimatiko
+037E: Greek Question Mark: erotimatiko
 037F: Greek Capital Letter Yot
 0380:
 0381:
@@ -145,13 +145,13 @@
 0390: Greek Small Letter Iota with Dialytika and Tonos
 0391: Greek Capital Letter Alpha
 0392: Greek Capital Letter Beta
-0393: Greek Capital Letter Gamma : gamma function
+0393: Greek Capital Letter Gamma: gamma function
 0394: Greek Capital Letter Delta
 0395: Greek Capital Letter Epsilon
 0396: Greek Capital Letter Zeta
 0397: Greek Capital Letter Eta
 0398: Greek Capital Letter Theta
-0399: Greek Capital Letter Iota : iota adscript
+0399: Greek Capital Letter Iota: iota adscript
 039A: Greek Capital Letter Kappa
 039B: Greek Capital Letter Lamda
 039C: Greek Capital Letter Mu
@@ -185,14 +185,14 @@
 03B8: Greek Small Letter Theta
 03B9: Greek Small Letter Iota
 03BA: Greek Small Letter Kappa
-03BB: Greek Small Letter Lamda : lambda
+03BB: Greek Small Letter Lamda: lambda
 03BC: Greek Small Letter Mu
 03BD: Greek Small Letter Nu
 03BE: Greek Small Letter Xi
 03BF: Greek Small Letter Omicron
 03C0: Greek Small Letter Pi
 03C1: Greek Small Letter Rho
-03C2: Greek Small Letter Final Sigma : stigma (the modern greek name for this letterform)
+03C2: Greek Small Letter Final Sigma: stigma (the modern greek name for this letterform)
 03C3: Greek Small Letter Sigma
 03C4: Greek Small Letter Tau
 03C5: Greek Small Letter Upsilon
@@ -206,13 +206,13 @@
 03CD: Greek Small Letter Upsilon with Tonos
 03CE: Greek Small Letter Omega with Tonos
 03CF: Greek Capital Kai Symbol
-03D0: Greek Beta Symbol : curled beta
-03D1: Greek Theta Symbol : script theta
+03D0: Greek Beta Symbol: curled beta
+03D1: Greek Theta Symbol: script theta
 03D2: Greek Upsilon with Hook Symbol
 03D3: Greek Upsilon with Acute and Hook Symbol
 03D4: Greek Upsilon with Diaeresis and Hook Symbol
 03D5: Greek Phi Symbol
-03D6: Greek Pi Symbol : omega pi
+03D6: Greek Pi Symbol: omega pi
 03D7: Greek Kai Symbol
 03D8: Greek Letter Archaic Koppa
 03D9: Greek Small Letter Archaic Koppa
@@ -238,19 +238,19 @@
 03ED: Coptic Small Letter Shima
 03EE: Coptic Capital Letter Dei
 03EF: Coptic Small Letter Dei
-03F0: Greek Kappa Symbol : script kappa
-03F1: Greek Rho Symbol : tailed rho
-03F2: Greek Lunate Sigma Symbol : greek small letter lunate sigma
+03F0: Greek Kappa Symbol: script kappa
+03F1: Greek Rho Symbol: tailed rho
+03F2: Greek Lunate Sigma Symbol: greek small letter lunate sigma
 03F3: Greek Letter Yot
 03F4: Greek Capital Theta Symbol
-03F5: Greek Lunate Epsilon Symbol : straight epsilon
-03F6: Greek Reversed Lunate Epsilon Symbol : reversed straight epsilon
+03F5: Greek Lunate Epsilon Symbol: straight epsilon
+03F6: Greek Reversed Lunate Epsilon Symbol: reversed straight epsilon
 03F7: Greek Capital Letter Sho
 03F8: Greek Small Letter Sho
 03F9: Greek Capital Lunate Sigma Symbol
 03FA: Greek Capital Letter San
 03FB: Greek Small Letter San
 03FC: Greek Rho with Stroke Symbol
-03FD: Greek Capital Reversed Lunate Sigma Symbol : antisigma
-03FE: Greek Capital Dotted Lunate Sigma Symbol : sigma periestigmenon
-03FF: Greek Capital Reversed Dotted Lunate Sigma Symbol : antisigma periestigmenon
+03FD: Greek Capital Reversed Lunate Sigma Symbol: antisigma
+03FE: Greek Capital Dotted Lunate Sigma Symbol: sigma periestigmenon
+03FF: Greek Capital Reversed Dotted Lunate Sigma Symbol: antisigma periestigmenon

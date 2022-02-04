@@ -19,9 +19,9 @@
 0512: Cyrylica Wielka litera El z hakiem
 0513: Cyrylica mała litera El z haczykiem
 0514: Cyrylica Litera Lha
-0515: Cyrylica mała litera Lha : bezdźwięczny l
+0515: Cyrylica mała litera Lha: bezdźwięczny l
 0516: Cyrylica Litera Rha
-0517: Cyrylica mała litera Rha : bezdźwięczny r
+0517: Cyrylica mała litera Rha: bezdźwięczny r
 0518: Cyrylica Wielka Litera Yae
 0519: Cyrylica Mała litera Yae
 051A: Cyrylica Litera Qa
@@ -31,9 +31,9 @@
 051E: Cyrylica, litera Aleut Ka
 051F: Cyrylica Mały list Aleut Ka
 0520: Cyrylica Wielka litera El ze środkowym hakiem
-0521: Cyrylica mała litera El z środkowym hakiem : palatalizowany l
+0521: Cyrylica mała litera El z środkowym hakiem: palatalizowany l
 0522: Cyrylica Wielka litera z środkowym hakiem
-0523: Cyrylica Mała litera En ze środkowym hakiem : palatalizowany n
+0523: Cyrylica Mała litera En ze środkowym hakiem: palatalizowany n
 0524: Cyrylica Wielka litera Pe z Descender
 0525: Cyrylica mała litera Pe z descender
 0526: Cyrylica Litera Shha z Descender
@@ -88,12 +88,12 @@
 0557:
 0558:
 0559: Armenian Modifier Letter Left Half Ring
-055A: Apostrof ormiański : ormiański list modyfikujący prawy pół pierścień
-055B: Armenian Emphasis Mark : shesht
-055C: Ormiański wykrzyknik : batsaganchakan nshan
-055D: Przecinek ormiański : bowt
-055E: Ormiański Znak Zapytania : hartsakan nshan
-055F: Znak skrótu ormiańskiego : patiw
+055A: Apostrof ormiański: ormiański list modyfikujący prawy pół pierścień
+055B: Armenian Emphasis Mark: shesht
+055C: Ormiański wykrzyknik: batsaganchakan nshan
+055D: Przecinek ormiański: bowt
+055E: Ormiański Znak Zapytania: hartsakan nshan
+055F: Znak skrótu ormiańskiego: patiw
 0560: Ormiański Mały List Zwrócił Ayb
 0561: Ormiańska Mała Litera Ayb
 0562: Ormiański Mały List Ben
@@ -135,44 +135,44 @@
 0586: Ormiańska Mała Litera Feh
 0587: Armeńska Mała Ligatura Ech Yiwn
 0588: Ormiańska Mała Litera Yi ze Skokiem
-0589: Ormiański pełny przystanek : vertsaket
-058A: Myślnik ormiański : yentamna
+0589: Ormiański pełny przystanek: vertsaket
+058A: Myślnik ormiański: yentamna
 058B:
 058C:
 058D: Ormiański znak wieczności z prawej strony
 058E: Ormiański znak wieczności skierowany w lewo
 058F: Ormiański znak Dram
 0590:
-0591: Hebrajski akcent Etnahta : atnah
-0592: Hebrajski Accent Segol : segolta
+0591: Hebrajski akcent Etnahta: atnah
+0592: Hebrajski Accent Segol: segolta
 0593: Hebrajski akcent Shalshelet
 0594: Hebrajski akcent Zaqef Qatan
 0595: Hebrajski akcent Zaqef Gadol
-0596: Hebrajski akcent Tipeha : tarha, me'ayla ~ mayla
+0596: Hebrajski akcent Tipeha: tarha, me'ayla ~ mayla
 0597: Hebrajski akcent Revia
-0598: Hebrajski akcent Zarqa : tsinorit, zinorit; tsinor, zinor
+0598: Hebrajski akcent Zarqa: tsinorit, zinorit, tsinor, zinor
 0599: Hebrajski akcent Pasztę
 059A: Hebrajski akcent Yetiv
 059B: Hebrajski akcent Tevir
-059C: Hebrajski akcent Geresh : Teres
+059C: Hebrajski akcent Geresh: Teres
 059D: Hebrajski akcent Geresh Muqdam
 059E: Hebrajski akcent Gershayim
-059F: Hebrajski akcent Qarney Para : pazer gadol
+059F: Hebrajski akcent Qarney Para: pazer gadol
 05A0: Hebrajski akcent Telisha Gedola
-05A1: Hebrajski akcent Pazer : pazer qatan
+05A1: Hebrajski akcent Pazer: pazer qatan
 05A2: Hebrajski akcent Atnah Hafukh
 05A3: Hebrajski akcent Munah
 05A4: Hebrajski akcent Mahapakh
-05A5: Hebrajski akcent Merkha : yored
+05A5: Hebrajski akcent Merkha: yored
 05A6: Hebrajski akcent Merkha Kefula
 05A7: Hebrajski akcent Darga
-05A8: Hebrajska Qadma akcentu : azla
+05A8: Hebrajska Qadma akcentu: azla
 05A9: Hebrajski akcent Telisha Qetana
-05AA: Hebrajski akcent Yerah Ben Yomo : galgal
+05AA: Hebrajski akcent Yerah Ben Yomo: galgal
 05AB: Hebrajski akcent Ole
 05AC: Hebrajski akcent Iluy
 05AD: Hebrajski akcent Dehi
-05AE: Hebrajski akcent Zinor : tsinor; zarqa
+05AE: Hebrajski akcent Zinor: tsinor, zarqa
 05AF: Hebrajski krąg Marka Masory
 05B0: Hebrajski punkt Sheva
 05B1: Hebrajski Point Hataf Segol
@@ -186,11 +186,11 @@
 05B9: Hebrajski punkt Holam
 05BA: Hebrajski Point Holam Haser dla Vav
 05BB: Hebrajski punkt Qubuts
-05BC: Hebrew Point Dagesh lub Mapiq : shuruq
-05BD: Hebrew Point Meteg : siluq
+05BC: Hebrew Point Dagesh lub Mapiq: shuruq
+05BD: Hebrew Point Meteg: siluq
 05BE: Hebrajska interpunkcja Maqaf
 05BF: Hebrajski Point Rafe
-05C0: Hebrajska interpunkcja Paseq : legarmeh
+05C0: Hebrajska interpunkcja Paseq: legarmeh
 05C1: Hebrajski punkt Shin Dot
 05C2: Hebrajski punkt grzechu Dot
 05C3: Hebrajska interpunkcja Sof Pasuq
@@ -206,7 +206,7 @@
 05CD:
 05CE:
 05CF:
-05D0: Hebrajska litera Alef : aleph
+05D0: Hebrajska litera Alef: aleph
 05D1: Hebrajski zakład listowy
 05D2: List hebrajski Gimel
 05D3: Hebrajska litera Dalet
@@ -228,7 +228,7 @@
 05E3: List hebrajski Final Pe
 05E4: Hebrajska litera Pe
 05E5: List hebrajski Final Tsadi
-05E6: Hebrajska litera Tsadi : zade
+05E6: Hebrajska litera Tsadi: zade
 05E7: Hebrajska litera Qof
 05E8: Hebrajska litera Resh
 05E9: Hebrajska litera Shin
@@ -238,9 +238,9 @@
 05ED:
 05EE:
 05EF: Hebrajski Trójkąt Yod
-05F0: Hebrajski Ligatura jidysz Podwójny Vav : tsvey vovn
+05F0: Hebrajski Ligatura jidysz Podwójny Vav: tsvey vovn
 05F1: Hebrajski ligatur jidysz Vav Yod
-05F2: Hebrajski ligatur jidysz Podwójny jod : tsvey yudn
+05F2: Hebrajski ligatur jidysz Podwójny jod: tsvey yudn
 05F3: Hebrajska interpunkcja Geresh
 05F4: Hebrajska interpunkcja Gershayim
 05F5:
@@ -253,4 +253,4 @@
 05FC:
 05FD:
 05FE:
-05FF:
+05FF:

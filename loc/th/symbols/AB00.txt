@@ -62,7 +62,7 @@ AB3C: ตัวอักษรละตินตัวเล็ก Eng กับ
 AB3D: จดหมายขนาดเล็กตัวอักษรละติน O
 AB3E: จดหมายขนาดเล็กละตินตัวอักษร O ที่มีจังหวะ
 AB3F: ตัวอักษรละตินตัวเล็กเปิดด้วยจังหวะ
-AB40: อักษรตัวเล็กละตินคว่ำ Oe : ตัวพิมพ์เล็กละติน o reverse-schwa
+AB40: อักษรตัวเล็กละตินคว่ำ Oe: ตัวพิมพ์เล็กละติน o reverse-schwa
 AB41: อักษรตัวเล็กละตินหัน Oe ด้วยโรคหลอดเลือดสมอง
 AB42: อักษรตัวเล็กละตินหัน Oe ด้วยโรคหลอดเลือดสมองแนวนอน
 AB43: อักษรตัวเล็กละตินเปิด O Open-O
@@ -89,7 +89,7 @@ AB57: อักษรตัวเล็กละติน X ขาซ้าย
 AB58: ตัวอักษรละตินตัวเล็ก X ที่มีขาซ้ายยาวและวงแหวนขวาล่าง
 AB59: อักษรตัวเล็กละติน X ขาซ้ายมี Serif
 AB5A: อักษรตัวเล็กละติน Y ที่มีขาขวาสั้น
-AB5B: Modifier Breve พร้อม Inverted Breve
+AB5B: ส่วนขยาย Breve พร้อม Inverted Breve
 AB5C: จดหมายปรับปรุงเล็กเฮง
 AB5D: ตัวปรับขนาดเล็ก L พร้อม Inverted Lazy S
 AB5E: ตัวปรับขนาดเล็ก L พร้อมตัวหนอนกลาง
@@ -100,12 +100,12 @@ AB62: ตัวอักษรละตินตัวเล็กเปิด O
 AB63: อักษรตัวเล็กละติน Uo
 AB64: อักษรตัวเล็กละตินคว่ำ Inverted
 AB65: อักษรกรีกตัวพิมพ์ใหญ่โอเมก้า
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: ละติน เล็ก ตัวอักษร Dz ทวิอักษร ด้วยตะขอ Retroflex
+AB67: ละติน เล็ก ตัวอักษร Ts ทวิอักษร ด้วยตะขอ Retroflex
+AB68: ละติน เล็ก ตัวอักษร หัน R With Middle Tilde
+AB69: ส่วนขยาย ตัวอักษร เล็ก หัน W
+AB6A: ส่วนขยาย ตัวอักษร แทคซ้าย
+AB6B: ส่วนขยาย ตัวอักษร ถูกต้องแทค
 AB6C:
 AB6D:
 AB6E:
@@ -115,7 +115,7 @@ AB71: เชโรกีจดหมายขนาดเล็ก E
 AB72: เชโรกีจดหมายขนาดเล็ก I
 AB73: เชโรกีอักษรตัวเล็ก O
 AB74: Cherokee อักษรตัวเล็ก U
-AB75: Cherokee Small Letter V
+AB75: Cherokee เล็ก ตัวอักษร V
 AB76: Cherokee อักษรตัวเล็ก GA
 AB77: อักษรตัวเล็กของ Cherokee KA
 AB78: Cherokee อักษรตัวเล็ก GE
@@ -170,7 +170,7 @@ ABA8: เชโรกีอักษรตัวเล็ก TI
 ABA9: เชโรกีอักษรตัวเล็ก DO
 ABAA: Cherokee อักษรตัวเล็ก DU
 ABAB: เชโรกีอักษรตัวเล็ก DV
-ABAC: Cherokee Small Letter DLA
+ABAC: Cherokee เล็ก ตัวอักษร DLA
 ABAD: อักษรตัวเล็กของเชโรกี TLA
 ABAE: เชโรกีอักษรตัวเล็ก TLE
 ABAF: อักษรตัวเล็กของเชโรกี TLI
@@ -190,67 +190,67 @@ ABBC: อักษรตัวเล็กของเชโรกี WO
 ABBD: Cherokee อักษรตัวเล็ก WU
 ABBE: Cherokee อักษรตัวเล็ก WV
 ABBF: อักษรตัวเล็กของ Cherokee YA
-ABC0: Meetei Mayek จดหมาย Kok : ลำลูกกา
-ABC1: Meetei Mayek จดหมายแซม : SA
-ABC2: Meetei Mayek Letter Lai : ลา
-ABC3: Meetei Mayek จดหมาย Mit : แม่
-ABC4: จดหมาย Meetei Mayek Pa
-ABC5: Meetei Mayek จดหมาย Na
-ABC6: Meetei Mayek Chil จดหมาย : CA
-ABC7: Meetei Mayek จดหมายสำหรับ : ขอบคุณ
-ABC8: จดหมาย Meetei Mayek Khou : คา
-ABC9: Meetei Mayek จดหมาย Ngou : พังงา
-ABCA: Meetei Mayek จดหมายของเจ้า : tha
-ABCB: จดหมาย Meetei Mayek ไหว : วา
-ABCC: Meetei Mayek จดหมาย Yang : ยา
-ABCD: Meetei Mayek Letter Huk : ฮ้า
-ABCE: Meetei Mayek จดหมาย Un : ยู
-ABCF: Meetei Mayek จดหมาย I
-ABD0: Meetei Mayek จดหมาย Pham : ผา
-ABD1: จดหมาย Meetei Mayek Atiya
-ABD2:  : Meetei Mayek จดหมาย Gok : GA
-ABD3: Meetei Mayek จดหมาย Jham : Jha
-ABD4: Meetei Mayek จดหมายเชียงราย : RA
-ABD5: Meetei Mayek จดหมาย Ba
-ABD6: จดหมาย Meetei Mayek Jil : ja
-ABD7: Meetei Mayek จดหมาย Dil : ดา
-ABD8: จดหมาย Meetei Mayek Ghou : GHA
-ABD9: Meetei Mayek จดหมาย Dhou : ดีเอชเอ
-ABDA: Meetei Mayek จดหมาย Bham : BHA
-ABDB: Meetei Mayek จดหมาย Kok Lonsum : k
-ABDC: Meetei Mayek Letter Lai Lonsum : ล.
-ABDD: จดหมาย Meetei Mayek มิตร Lonsum : ม.
-ABDE: จดหมาย Meetei Mayek Pa Lonsum : พี
-ABDF: Meetei Mayek จดหมาย Na Lonsum : n
-ABE0: จดหมาย Meetei Mayek ถึง Lonsum : เสื้อ
-ABE1: จดหมาย Meetei Mayek Ngou Lonsum : งะ
-ABE2: Meetei Mayek จดหมาย I Lonsum : ผม
-ABE3: Meetei Mayek สระเข้าสู่ระบบ Onap : โอ
-ABE4: Meetei Mayek Vowel ลงชื่อเข้าใช้ : ผม
-ABE5: สระลงชื่อ Meetei Mayek Anap : AA
-ABE6: สระ Meetei Mayek ลงชื่อ Yenap : อี
-ABE7: สระว่ายน้ำ Meetei Mayek Sounap : อู
-ABE8: สระ Meetei Mayek ลงชื่อ Unap : ยู
-ABE9: Meetei Mayek สระเข้าสู่ระบบ Cheinap : EI
-ABEA: Meetei Mayek Vowel Sign Nung : นิคหิต
-ABEB: Meetei Mayek Cheikhei : แพนด้าคู่
-ABEC: Meetei Mayek Lum Iyek : เสียงหนัก
-ABED: Meetei Mayek Apun Iyek : นักฆ่า
+ABC0: อักษรมณีปุระ Mayek จดหมาย Kok: ลำลูกกา
+ABC1: อักษรมณีปุระ Mayek จดหมายแซม: SA
+ABC2: อักษรมณีปุระ Mayek ตัวอักษร Lai: ลา
+ABC3: อักษรมณีปุระ Mayek จดหมาย Mit: แม่
+ABC4: จดหมาย อักษรมณีปุระ Mayek Pa
+ABC5: อักษรมณีปุระ Mayek จดหมาย Na
+ABC6: อักษรมณีปุระ Mayek Chil จดหมาย: CA
+ABC7: อักษรมณีปุระ Mayek จดหมายสำหรับ: ขอบคุณ
+ABC8: จดหมาย อักษรมณีปุระ Mayek Khou: คา
+ABC9: อักษรมณีปุระ Mayek จดหมาย Ngou: พังงา
+ABCA: อักษรมณีปุระ Mayek จดหมายของเจ้า: tha
+ABCB: จดหมาย อักษรมณีปุระ Mayek ไหว: วา
+ABCC: อักษรมณีปุระ Mayek จดหมาย Yang: ยา
+ABCD: อักษรมณีปุระ Mayek ตัวอักษร Huk: ฮ้า
+ABCE: อักษรมณีปุระ Mayek จดหมาย Un: ยู
+ABCF: อักษรมณีปุระ Mayek จดหมาย I
+ABD0: อักษรมณีปุระ Mayek จดหมาย Pham: ผา
+ABD1: จดหมาย อักษรมณีปุระ Mayek Atiya
+ABD2: อักษรมณีปุระ Mayek ตัวอักษร Gok: ga
+ABD3: อักษรมณีปุระ Mayek จดหมาย Jham: Jha
+ABD4: อักษรมณีปุระ Mayek จดหมายเชียงราย: RA
+ABD5: อักษรมณีปุระ Mayek จดหมาย Ba
+ABD6: จดหมาย อักษรมณีปุระ Mayek Jil: ja
+ABD7: อักษรมณีปุระ Mayek จดหมาย Dil: ดา
+ABD8: จดหมาย อักษรมณีปุระ Mayek Ghou: GHA
+ABD9: อักษรมณีปุระ Mayek จดหมาย Dhou: ดีเอชเอ
+ABDA: อักษรมณีปุระ Mayek จดหมาย Bham: BHA
+ABDB: อักษรมณีปุระ Mayek จดหมาย Kok Lonsum: k
+ABDC: อักษรมณีปุระ Mayek ตัวอักษร Lai Lonsum: ล.
+ABDD: จดหมาย อักษรมณีปุระ Mayek มิตร Lonsum: ม.
+ABDE: จดหมาย อักษรมณีปุระ Mayek Pa Lonsum: พี
+ABDF: อักษรมณีปุระ Mayek จดหมาย Na Lonsum: n
+ABE0: จดหมาย อักษรมณีปุระ Mayek ถึง Lonsum: เสื้อ
+ABE1: จดหมาย อักษรมณีปุระ Mayek Ngou Lonsum: งะ
+ABE2: อักษรมณีปุระ Mayek จดหมาย I Lonsum: ผม
+ABE3: อักษรมณีปุระ Mayek สระเข้าสู่ระบบ Onap: โอ
+ABE4: อักษรมณีปุระ Mayek Vowel ลงชื่อเข้าใช้: ผม
+ABE5: สระลงชื่อ อักษรมณีปุระ Mayek Anap: AA
+ABE6: สระ อักษรมณีปุระ Mayek ลงชื่อ Yenap: อี
+ABE7: สระว่ายน้ำ อักษรมณีปุระ Mayek Sounap: อู
+ABE8: สระ อักษรมณีปุระ Mayek ลงชื่อ Unap: ยู
+ABE9: อักษรมณีปุระ Mayek สระเข้าสู่ระบบ Cheinap: EI
+ABEA: อักษรมณีปุระ Mayek Vowel Sign Nung: นิคหิต
+ABEB: อักษรมณีปุระ Mayek Cheikhei: แพนด้าคู่
+ABEC: อักษรมณีปุระ Mayek Lum Iyek: เสียงหนัก
+ABED: อักษรมณีปุระ Mayek Apun Iyek: นักฆ่า
 ABEE:
 ABEF:
-ABF0: Meetei Mayek Digit Zero : พูน
-ABF1: Meetei Mayek Digit One : อะ
-ABF2: Meetei Mayek Digit Two : Ani
-ABF3: Meetei Mayek Digit Three : ahum
-ABF4: Meetei Mayek Digit Four : mari
-ABF5: Meetei Mayek Digit Five : มังงะ
-ABF6: Meetei Mayek Digit Six : taruk
-ABF7: Meetei Mayek Digit Seven : taret
-ABF8: Meetei Mayek Digit Eight : Nipal
-ABF9: Meetei Mayek Digit Nine : Mapal
+ABF0: อักษรมณีปุระ Mayek Digit Zero: พูน
+ABF1: อักษรมณีปุระ Mayek Digit One: อะ
+ABF2: อักษรมณีปุระ Mayek Digit Two: Ani
+ABF3: อักษรมณีปุระ Mayek Digit Three: ahum
+ABF4: อักษรมณีปุระ Mayek Digit Four: mari
+ABF5: อักษรมณีปุระ Mayek Digit Five: มังงะ
+ABF6: อักษรมณีปุระ Mayek Digit Six: taruk
+ABF7: อักษรมณีปุระ Mayek Digit Seven: taret
+ABF8: อักษรมณีปุระ Mayek Digit Eight: Nipal
+ABF9: อักษรมณีปุระ Mayek Digit Nine: Mapal
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

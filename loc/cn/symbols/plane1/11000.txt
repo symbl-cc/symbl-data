@@ -5,7 +5,7 @@
 11004: Brahmi Sign Upadhmaniya
 11005: 婆罗米字母A.
 11006: Brahmi Letter Aa
-11007: 婆罗米信我
+11007: 婆罗米字母我
 11008: Brahmi Letter Ii
 11009: Brahmi字母U.
 1100A: Brahmi字母Uu
@@ -14,12 +14,12 @@
 1100D: Brahmi Letter Vocalic L
 1100E: Brahmi Letter Vocalic Ll
 1100F: Brahmi Letter E.
-11010: 婆罗米信艾
+11010: 婆罗米字母艾
 11011: Brahmi Letter O.
 11012: Brahmi Letter Au
 11013: Brahmi Letter Ka
 11014: Brahmi Letter Kha
-11015: 婆罗米信嘎
+11015: 婆罗米字母嘎
 11016: Brahmi Letter Gha
 11017: Brahmi字母Nga
 11018: Brahmi Letter Ca.
@@ -38,12 +38,12 @@
 11025: Brahmi Letter Dha
 11026: Brahmi Letter Na
 11027: Brahmi Letter Pa
-11028: 婆罗米信Pha
+11028: 婆罗米字母Pha
 11029: Brahmi Letter Ba
 1102A: Brahmi Letter Bha
 1102B: Brahmi Letter Ma
 1102C: Brahmi Letter Ya
-1102D: 婆罗米信Ra
+1102D: 婆罗米字母Ra
 1102E: Brahmi Letter La
 1102F: Brahmi Letter Va
 11030: Brahmi Letter Sha
@@ -51,9 +51,9 @@
 11032: Brahmi Letter Sa.
 11033: Brahmi Letter Ha
 11034: Brahmi Letter Lla
-11035: 婆罗米信老泰米尔语Llla
-11036: 婆罗米信老泰米尔人拉
-11037: 婆罗米信老泰米尔语Nnna
+11035: 婆罗米字母老泰米尔语Llla
+11036: 婆罗米字母老泰米尔人拉
+11037: 婆罗米字母老泰米尔语Nnna
 11038: Brahmi Vowel签署Aa
 11039: Brahmi Vowel签署Bhattiprolu Aa
 1103A: Brahmi Vowel签名我
@@ -131,7 +131,7 @@
 11082: Kaithi Sign Visarga
 11083: Kaithi字母A.
 11084: Kaithi Letter Aa
-11085: 凯西信我
+11085: 凯西字母我
 11086: Kaithi Letter Ii
 11087: Kaithi Letter U.
 11088: Kaithi字母Uu
@@ -206,30 +206,30 @@
 110CD: 上面的Kaithi号码标志
 110CE:
 110CF:
-110D0: Sora Sompeng写信Sah
-110D1: Sora Sompeng写信给Tah
-110D2: Sora Sompeng信呸
-110D3: 索拉索姆信Cah
-110D4: Sora Sompeng信Dah
+110D0: Sora Sompeng写字母Sah
+110D1: Sora Sompeng写字母给Tah
+110D2: Sora Sompeng字母呸
+110D3: 索拉索姆字母Cah
+110D4: Sora Sompeng字母Dah
 110D5: Sora Sompeng Letter Gah
-110D6: Sora Sompeng致信Mah
+110D6: Sora Sompeng致字母Mah
 110D7: Sora Sompeng致Ngah
-110D8: 索拉Sompeng信Lah
+110D8: 索拉Sompeng字母Lah
 110D9: Sora Sompeng字母Nah
-110DA: Sora Sompeng写信Vah
+110DA: Sora Sompeng写字母Vah
 110DB: Sora Sompeng Letter Pah
-110DC: Sora Sompeng信呀
-110DD: Sora Sompeng信Rah
-110DE: Sora Sompeng写信Hah
-110DF: Sora Sompeng写信Kah
-110E0: Sora Sompeng来信Jah
-110E1: Sora Sompeng致信Nyah
-110E2: Sora Sompeng写信啊
-110E3: Sora Sompeng写信Eeh
-110E4: Sora Sompeng信I
-110E5: Sora Sompeng写信呃
-110E6: Sora Sompeng来信哦
-110E7: Sora Sompeng写信呃
+110DC: Sora Sompeng字母呀
+110DD: Sora Sompeng字母Rah
+110DE: Sora Sompeng写字母Hah
+110DF: Sora Sompeng写字母Kah
+110E0: Sora Sompeng来字母Jah
+110E1: Sora Sompeng致字母Nyah
+110E2: Sora Sompeng写字母啊
+110E3: Sora Sompeng写字母Eeh
+110E4: Sora Sompeng字母I
+110E5: Sora Sompeng写字母呃
+110E6: Sora Sompeng来字母哦
+110E7: Sora Sompeng写字母呃
 110E8: Sora Sompeng Letter Mae
 110E9:
 110EA:
@@ -253,4 +253,4 @@
 110FC:
 110FD:
 110FE:
-110FF:
+110FF:

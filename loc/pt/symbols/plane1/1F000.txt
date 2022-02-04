@@ -2,10 +2,10 @@
 1F001: Mahjong Tile South Wind
 1F002: Mahjong Tile West Wind
 1F003: Mahjong Tile North Wind
-1F004: Mahjong telha vermelha dragão : Hongzhong, 中
-1F005: Mahjong Tile Green Dragon : qingfa
-1F006: Mahjong telha branca dragão : Baiban
-1F007: Mahjong Tile Um dos Personagens : macilento
+1F004: Mahjong telha vermelha dragão: Hongzhong, 中
+1F005: Mahjong Tile Green Dragon: qingfa
+1F006: Mahjong telha branca dragão: Baiban
+1F007: Mahjong Tile Um dos Personagens: macilento
 1F008: Mahjong Tile Dois dos Personagens
 1F009: Telha de Mahjong Três Personagens
 1F00A: Mahjong Tile Quatro dos Personagens
@@ -14,7 +14,7 @@
 1F00D: Telha de Mahjong Sete de Personagens
 1F00E: Telha de Mahjong Oito de Personagens
 1F00F: Telha de Mahjong Nove de Personagens
-1F010: Telha de Mahjong Um dos Bambus : tiao
+1F010: Telha de Mahjong Um dos Bambus: tiao
 1F011: Telha de Mahjong Dois dos Bambus
 1F012: Telha de Mahjong Três dos Bambus
 1F013: Telha de Mahjong Quatro dos Bambus
@@ -23,7 +23,7 @@
 1F016: Telha de Mahjong Sete dos Bambus
 1F017: Telha de Mahjong Oito dos Bambus
 1F018: Telha de Mahjong Nine of Bamboos
-1F019: Mahjong Tile One of Circles : bing
+1F019: Mahjong Tile One of Circles: bing
 1F01A: Mahjong Tile Two of Circles
 1F01B: Telha de Mahjong Três dos Círculos
 1F01C: Telha de Mahjong Quatro dos Círculos
@@ -32,15 +32,15 @@
 1F01F: Telha de Mahjong Sete dos Círculos
 1F020: Telha de Mahjong Oito dos Círculos
 1F021: Telha de Mahjong Nine of Circles
-1F022: Ameixa De Telha De Mahjong : mei
-1F023: Orquídea da telha de Mahjong : lan
-1F024: Mahjong Tile Bamboo : zhu
-1F025: Crisântemo da telha de Mahjong : ju
+1F022: Ameixa De Telha De Mahjong: mei
+1F023: Orquídea da telha de Mahjong: lan
+1F024: Mahjong Tile Bamboo: zhu
+1F025: Crisântemo da telha de Mahjong: ju
 1F026: Mola da telha de Mahjong
 1F027: Mahjong Tile Summer
 1F028: Outono de telha de Mahjong
 1F029: Inverno de telha de Mahjong
-1F02A: Mahjong Tile Joker : baida
+1F02A: Mahjong Tile Joker: baida
 1F02B: Telha de Mahjong Voltar
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Carta de Baralho Oito de Espadas
 1F0A9: Carta de Baralho Nove de Espadas
 1F0AA: Cartão de Jogo Dez de Espadas
-1F0AB: Cartão de jogo Jack of Spades : com manobrista, bube, unter, page, fante : página de espadas
-1F0AC: Cartão de jogo cavaleiro de espadas : chevalier, ober, ritter, cavallere, cavaliere : cavaleiro de espadas
-1F0AD: Rainha das espadas do cartão de jogo : dama, senhora, rainha, regina : rainha das espadas
-1F0AE: Rei do baralho de espadas : roi, könig, re : rei das espadas
+1F0AB: Cartão de jogo Jack of Spades: com manobrista, bube, unter, page, fante , página de espadas
+1F0AC: Cartão de jogo cavaleiro de espadas: chevalier, ober, ritter, cavallere, cavaliere , cavaleiro de espadas
+1F0AD: Rainha das espadas do cartão de jogo: dama, senhora, rainha, regina , rainha das espadas
+1F0AE: Rei do baralho de espadas: roi, könig, re , rei das espadas
 1F0AF:
 1F0B0:
 1F0B1: Cartão de jogo ás de copas
@@ -253,4 +253,4 @@
 1F0FC:
 1F0FD:
 1F0FE:
-1F0FF:
+1F0FF:

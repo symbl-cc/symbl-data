@@ -1,12 +1,18 @@
-title	: Tabela znaków Unicode®
+title	: Tabela znaków Unicode 
+unicode: Unicode
+unicodeorg: Unicode® — zarejestrowanym znakiem handlowym Unicode Consortium w Stanach Zjednoczonych i innych krajach. Ta strona nie jest powiązana z Unicode Consortium. Oficjalna strona znajduje się na Unicode
+
+[mainpage]: Strona główna
 	
 [sets]	: Zestawy
 set	: Zestawy
-list	: Zestawy znaków
-	
+list	: Zestawy
+title: Zestawy znaków
+all: Widzieć wszystko
+
 [blocks]	: Sekcje
 block	: Sekcja
-list	: Sekcje Unicode
+list	: Unicode
 	
 [languages]	: Języki
 list	: Języki
@@ -17,9 +23,17 @@ list	: Kraje
 	
 [alphabets]	: Alfabetów
 list	: Alfabetów
+
+[holidays]: Święta
+list: Święta
 	
 [types]	: Rodzaje
 type	: Rodzaj
 list	: Rodzaje 
 
+[html-entities]: Znaki specjalne symbole HTML
+list: HTML znaki specjalne
 
+[alt-codes]: Kody ALT dla Windows
+list: Kody Alt
+en: Angielski układ klawiatury

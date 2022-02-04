@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Rozwidlone Paragraphos
 2E11: Odwrócone rozwidlone §
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Kropkowane Obelos
 2E14: W dół Ancora
 2E15: W górę Ancora
-2E16: Kropkowany kąt prostopadły : diple periestigmene
+2E16: Kropkowany kąt prostopadły: diple periestigmene
 2E17: Podwójny skośny łącznik
-2E18: Odwrócony Interrobang : gnaborretni
+2E18: Odwrócony Interrobang: gnaborretni
 2E19: Palmowa gałąź
 2E1A: Hyphen with Diaeresis
 2E1B: Tilde with Ring Above
@@ -44,7 +44,7 @@
 2E2B: Interpunkcja jednej kropki na dwie kropki
 2E2C: Kwadratowa interpunkcja czterech kropek
 2E2D: Znak pięć kropek
-2E2E: Odwrócony znak zapytania : punctus percontativus : ironia, sarkazm
+2E2E: Odwrócony znak zapytania: punctus percontativus , ironia, sarkazm
 2E2F: Pionowa tylda
 2E30: Punkt dzwonienia
 2E31: Separator słów Środkowa kropka
@@ -56,7 +56,7 @@
 2E37: Sztylet z prawą osłoną
 2E38: Zwrócił sztylet
 2E39: Górna połowa sekcji
-2E3A: Two-Em Dash : kreska pominięcia
+2E3A: Two-Em Dash: kreska pominięcia
 2E3B: Three-Em Dash
 2E3C: Stenographic Full Stop
 2E3D: Pionowe sześć kropek
@@ -77,10 +77,10 @@
 2E4C: Średniowieczny przecinek
 2E4D: Paragraphus Mark
 2E4E: Znak Punctus Elevatus
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Separator kornwalijski wersetów
+2E50: Kotlet krzyżowy z prawą poprzeczką
+2E51: Kotlet krzyżowy z lewą poprzeczką
+2E52: Znak Tironian, kapitał et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

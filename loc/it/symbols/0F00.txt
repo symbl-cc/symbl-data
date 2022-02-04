@@ -9,9 +9,9 @@
 0F08: Tibetan Mark Sbrul Shad
 0F09: Mg tibetano di Mark Bskur Yig
 0F0A: Meng tibetano Mark Bka- Shog Yig
-0F0B: Segno tibetano Intersillabico Tsheg : TSEK
+0F0B: Segno tibetano Intersillabico Tsheg: TSEK
 0F0C: Delimiter tibetano Mark Tsheg Bstar
-0F0D: Tibetano Mark Shad : shey
+0F0D: Tibetano Mark Shad: shey
 0F0E: Tibetano Mark Nyis Shad
 0F0F: Tibetano Mark Tsheg Shad
 0F10: Tibetano Mark Nyis Tsheg Shad
@@ -29,7 +29,7 @@
 0F1C: Segno tibetano Rdel Dkar Gsum
 0F1D: Segno tibetano Rdel Nag Gcig
 0F1E: Segno tibetano Rdel Nag Gnyis
-0F1F: Segno tibetano Rdel Dkar Rdel Nag : deka dena
+0F1F: Segno tibetano Rdel Dkar Rdel Nag: deka dena
 0F20: Cifra tibetana 0
 0F21: Cifra tibetana 1
 0F22: Cifra tibetana 2
@@ -99,7 +99,7 @@
 0F62: Lettera tibetana
 0F63: Lettera tibetana La
 0F64: Lettera tibetana sha
-0F65: Lettera tibetana Ssa : Sha invertito
+0F65: Lettera tibetana Ssa: Sha invertito
 0F66: Tibetan Letter Sa
 0F67: Lettera tibetana Ha
 0F68: Lettera tibetana A
@@ -111,7 +111,7 @@
 0F6E:
 0F6F:
 0F70:
-0F71: Segno vocale tibetano Aa : a-chung
+0F71: Segno vocale tibetano Aa: a-chung
 0F72: Segno vocale tibetano I
 0F73: Segno vocale tibetano Ii
 0F74: Segno di tibetana vocale U
@@ -124,13 +124,13 @@
 0F7B: Segno vocale tibetano Ee
 0F7C: Segno di tibetano vocale O
 0F7D: Segno vocale tibetano Oo
-0F7E: Segno tibetano Rjes Su Nga Ro : anusvara
-0F7F: Segno tibetano Rnam Bcad : visarga
+0F7E: Segno tibetano Rjes Su Nga Ro: anusvara
+0F7F: Segno tibetano Rnam Bcad: visarga
 0F80: Segno vocale tibetano rovesciato I
 0F81: Segno tibetano vocale invertito Ii
 0F82: Segno tibetano Nyi Zla Naa Da
 0F83: Segno tibetano Sna Ldan
-0F84: Tibetano Mark Halanta : srog med
+0F84: Tibetano Mark Halanta: srog med
 0F85: Mark Paluta tibetano
 0F86: Segno tibetano Lci Rtags
 0F87: Segno tibetano Yang Rtags
@@ -171,15 +171,15 @@
 0FAA: Lettera tibetana subordinata Tsha
 0FAB: Lettera tibetana tibetana
 0FAC: Lettera tibetana tibetana Dzha
-0FAD: Lettera tibetana sangallese : wa-zur, wa-btags (wa ta)
+0FAD: Lettera tibetana sangallese: wa-zur, wa-btags (wa ta)
 0FAE: Lettera tibetana subordinata Zha
 0FAF: Lettera tibetana sangata
-0FB0: Lettera tibetana subordinata -A : a-chung
-0FB1: Lettera tibetana sangallese Ya : ya-btags (ya ta)
-0FB2: Lettera tibetana sottomessa Ra : ra-btags (ra ta)
+0FB0: Lettera tibetana subordinata -A: a-chung
+0FB1: Lettera tibetana sangallese Ya: ya-btags (ya ta)
+0FB2: Lettera tibetana sottomessa Ra: ra-btags (ra ta)
 0FB3: Lettera tibetana sangallita La
 0FB4: Lettera tibetana sangata
-0FB5: Lettera tibetana sita : invertito subjoined sha
+0FB5: Lettera tibetana sita: invertito subjoined sha
 0FB6: Lettera tibetana sangalese
 0FB7: Lettera tibetana sangata
 0FB8: Lettera tibetana subordinata A
@@ -204,17 +204,17 @@
 0FCB: Simbolo tibetano né Bu Gsum-Khyil
 0FCC: Simbolo tibetano né Bu Bzhi-Khyil
 0FCD:
-0FCE: Segno tibetano Rdel Nag Rdel Dkar : dena deka
+0FCE: Segno tibetano Rdel Nag Rdel Dkar: dena deka
 0FCF: Segno tibetano Rdel Nag Gsum
 0FD0: Marchio tibetano Bska- Shog Gi Mgo Rgyan
 0FD1: Tibetano Mark Mnyam Yig Gi Mgo Rgyan
-0FD2: Tibetano Mark Nyis Tsheg : nyi tsek
-0FD3: Marchio tibetano iniziale Brda Rnying Yig Mgo Mdun Ma : da nying yik go dun ma
-0FD4: Marchio tibetano che chiude Brda Rnying Yig Mgo Sgab Ma : da nying yik go kab ma
-0FD5: Segno Svasti con la faccia destra : gyung drung nang -khor : svastica
-0FD6: Segno Svasti a sinistra : gyung drung phyi -khor : svastica
-0FD7: Segno Svasti con facce a destra : gyung drung nang -khor bzhi mig can : svastica
-0FD8: Segno Svasti a sinistra con punti : gyung drung phyi -khor bzhi mig can : svastica
+0FD2: Tibetano Mark Nyis Tsheg: nyi tsek
+0FD3: Marchio tibetano iniziale Brda Rnying Yig Mgo Mdun Ma: da nying yik go dun ma
+0FD4: Marchio tibetano che chiude Brda Rnying Yig Mgo Sgab Ma: da nying yik go kab ma
+0FD5: Segno Svasti con la faccia destra: gyung drung nang -khor , svastica
+0FD6: Segno Svasti a sinistra: gyung drung phyi -khor , svastica
+0FD7: Segno Svasti con facce a destra: gyung drung nang -khor bzhi mig can , svastica
+0FD8: Segno Svasti a sinistra con punti: gyung drung phyi -khor bzhi mig can , svastica
 0FD9: Mark tibetano che conduce Mchan Rtags
 0FDA: Mark tibetano Trailing Mchan Rtags
 0FDB:
@@ -253,4 +253,4 @@
 0FFC:
 0FFD:
 0FFE:
-0FFF:
+0FFF:

@@ -16,13 +16,13 @@
 2E0F: Párrafos
 2E10: Párrafos Bifurcados
 2E11: Párrafos Bifurcados Invertidos
-2E12: Hipodiastole : Ypodiastoli
+2E12: Hipodiastole: Ypodiastoli
 2E13: Obelos punteados
 2E14: Ancora hacia abajo
 2E15: Hacia arriba ancora
-2E16: Ángulo punteado hacia la derecha : diple periestigmene
+2E16: Ángulo punteado hacia la derecha: diple periestigmene
 2E17: Guión doble oblicuo
-2E18: Interrobang invertido : gnaborretni
+2E18: Interrobang invertido: gnaborretni
 2E19: Rama de palma
 2E1A: Guión con diéresis
 2E1B: Tilde con anillo arriba
@@ -44,7 +44,7 @@
 2E2B: Puntuación de un punto sobre dos puntos
 2E2C: Puntuación de cuatro puntos cuadrados
 2E2D: Marca de cinco puntos
-2E2E: Signo de interrogación invertido : Punctus percontativus : ironía, sarcasmo
+2E2E: Signo de interrogación invertido: Punctus percontativus , ironía, sarcasmo
 2E2F: Tilde vertical
 2E30: Punto de anillo
 2E31: Separador de palabras punto medio
@@ -56,7 +56,7 @@
 2E37: Daga con Guardia Derecha
 2E38: Daga girada
 2E39: Signo de media sección superior
-2E3A: Dash de dos em : guión de omisión
+2E3A: Dash de dos em: guión de omisión
 2E3B: Dash de tres em
 2E3C: Stenographic Full Stop
 2E3D: Seis puntos verticales
@@ -77,10 +77,10 @@
 2E4C: Coma medieval
 2E4D: Marca de párrafo
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Divisor de verso de Cornualles
+2E50: Empanada cruzada con barra transversal derecha
+2E51: Empanada cruzada con barra transversal izquierda
+2E52: Tironian signo mayúscula Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

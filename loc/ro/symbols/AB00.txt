@@ -62,7 +62,7 @@ AB3C: Latin Englez de scrisori cu coada încrucișată
 AB3D: Limbă latină Small Blackletter O
 AB3E: Limbă latină de mici dimensiuni Blackletter O cu accident vascular cerebral
 AB3F: Litera latină mică deschide O cu accident vascular cerebral
-AB40: Litere mici din latină inversată Oe : litera latină mică o inversată
+AB40: Litere mici din latină inversată Oe: litera latină mică o inversată
 AB41: Litera latină mică a întors Oe cu accident vascular cerebral
 AB42: Litera latină mică a întors Oe cu accident vascular cerebral orizontal
 AB43: Litera latină mică a întors O Open-O
@@ -100,12 +100,12 @@ AB62: Litera latină mică deschide Oe
 AB63: Latină Litere mici Uo
 AB64: Latină Litere mici Inverted Alpha
 AB65: Scrisoarea grecească Small Capital Omega
-AB66:
-AB67:
-AB68:
-AB69:
-AB6A:
-AB6B:
+AB66: Digrafă latină de literă mică Dz cu cârlig retroflex
+AB67: Digrafă latină mică Ts digraph cu cârlig retroflex
+AB68: Litera mică latină a transformat R cu tilde mijlocie
+AB69: Scrisoare modificatoare redusă W
+AB6A: Scrisoare modificatoare stânga
+AB6B: Modifică litera dreaptă
 AB6C:
 AB6D:
 AB6E:
@@ -190,67 +190,67 @@ ABBC: Cherokee Small Letter WO
 ABBD: Cherokee Small Letter WU
 ABBE: Cherokee Small Letter WV
 ABBF: Cherokee Small Letter YA
-ABC0: Meetei Mayek Letter Kok : ka
-ABC1: Metetei Mayek Scrisoarea Sam : SA
-ABC2: Meetei Mayek Scrisoarea Lai : la
-ABC3: Metetei Mayek Letter Mit : ma
+ABC0: Meetei Mayek Letter Kok: ka
+ABC1: Metetei Mayek Scrisoarea Sam: SA
+ABC2: Meetei Mayek Scrisoarea Lai: la
+ABC3: Metetei Mayek Letter Mit: ma
 ABC4: Metetei Mayek Scrisoarea Pa
 ABC5: Meetei Mayek Letter Na
-ABC6: Metetei Mayek Scrisoarea Chil : CA
-ABC7: Metetei Mayek Letter Til : TA
-ABC8: Meetei Mayek Scrisoarea Khou : kha
-ABC9: Metetei Mayek Scrisoarea Ngou : nga
-ABCA: Metetei Mayek Letter Thou : tha
-ABCB: Metetei Mayek Scrisoarea Wai : wa
-ABCC: Metetei Mayek Scrisoarea Yang : ya
-ABCD: Meetei Mayek Scrisoarea Huk : Ha
-ABCE: Metetei Mayek Letter Un : u
+ABC6: Metetei Mayek Scrisoarea Chil: CA
+ABC7: Metetei Mayek Letter Til: TA
+ABC8: Meetei Mayek Scrisoarea Khou: kha
+ABC9: Metetei Mayek Scrisoarea Ngou: nga
+ABCA: Metetei Mayek Letter Thou: tha
+ABCB: Metetei Mayek Scrisoarea Wai: wa
+ABCC: Metetei Mayek Scrisoarea Yang: ya
+ABCD: Meetei Mayek Scrisoarea Huk: Ha
+ABCE: Metetei Mayek Letter Un: u
 ABCF: Metetei Mayek Scrisoarea I
-ABD0: Meetei Mayek Letter Pham : PHA
-ABD1: Metetei Mayek Scrisoarea Atiya : A
-ABD2: Meetei Mayek Letter Gok : ga
-ABD3: Metetei Mayek Letter Jham : JHA
-ABD4: Metetei Mayek Scrisoarea Rai : ra
+ABD0: Meetei Mayek Letter Pham: PHA
+ABD1: Metetei Mayek Scrisoarea Atiya: A
+ABD2: Meetei Mayek Letter Gok: ga
+ABD3: Metetei Mayek Letter Jham: JHA
+ABD4: Metetei Mayek Scrisoarea Rai: ra
 ABD5: Metetei Mayek Scrisoarea Ba
-ABD6: Metetei Mayek Scrisoarea Jil : ja
-ABD7: Metetei Mayek Scrisoare Dil : da
-ABD8: Metetei Mayek Scrisoare Ghou : GHA
-ABD9: Metetei Mayek Scrisoare Dhou : ADH
-ABDA: Metetei Mayek Scrisoarea Bham : BHA
-ABDB: Metetei Mayek Scrisoarea Kok Lonsum : k
-ABDC: Metetei Mayek Scrisoarea Lai Lonsum : L
-ABDD: Metetei Mayek Scrisoarea Mit Lonsum : m
-ABDE: Metetei Mayek Letter Pa Lonsum : p
-ABDF: Metetei Mayek Scrisoarea Na Lonsum : n
-ABE0: Metetei Mayek Scrisoarea către Lonsum : T
-ABE1: Metetei Mayek Scrisoarea Ngou Lonsum : ng
-ABE2: Metetei Mayek Scrisoarea I Lonsum : eu
-ABE3: Meetei Mayek Sign Vocal Onap : o
-ABE4: Meetei Mayek Semnalizează vocalul : eu
-ABE5: Meetei Mayek Semnaliza vocală Anap : aa
-ABE6: Meetei Mayek Vocale semn Yenap : e
-ABE7: Meetei Mayek Vocal Sign Sounap : ou
-ABE8: Meetei Mayek Semnătură vocală semn : u
-ABE9: Meetei Mayek Semnificația semnelor vocale Cheinap : ei
-ABEA: Meetei Mayek Vowel Sign Nung : anusvara
-ABEB: Meetei Mayek Cheikhei : dublă danda
-ABEC: Meetei Mayek Lum Iyek : tonul greu
-ABED: Meetei Mayek Apun Ieek : ucigaş
+ABD6: Metetei Mayek Scrisoarea Jil: ja
+ABD7: Metetei Mayek Scrisoare Dil: da
+ABD8: Metetei Mayek Scrisoare Ghou: GHA
+ABD9: Metetei Mayek Scrisoare Dhou: ADH
+ABDA: Metetei Mayek Scrisoarea Bham: BHA
+ABDB: Metetei Mayek Scrisoarea Kok Lonsum: k
+ABDC: Metetei Mayek Scrisoarea Lai Lonsum: L
+ABDD: Metetei Mayek Scrisoarea Mit Lonsum: m
+ABDE: Metetei Mayek Letter Pa Lonsum: p
+ABDF: Metetei Mayek Scrisoarea Na Lonsum: n
+ABE0: Metetei Mayek Scrisoarea către Lonsum: T
+ABE1: Metetei Mayek Scrisoarea Ngou Lonsum: ng
+ABE2: Metetei Mayek Scrisoarea I Lonsum: eu
+ABE3: Meetei Mayek Sign Vocal Onap: o
+ABE4: Meetei Mayek Semnalizează vocalul: eu
+ABE5: Meetei Mayek Semnaliza vocală Anap: aa
+ABE6: Meetei Mayek Vocale semn Yenap: e
+ABE7: Meetei Mayek Vocal Sign Sounap: ou
+ABE8: Meetei Mayek Semnătură vocală semn: u
+ABE9: Meetei Mayek Semnificația semnelor vocale Cheinap: ei
+ABEA: Meetei Mayek Vowel Sign Nung: anusvara
+ABEB: Meetei Mayek Cheikhei: dublă danda
+ABEC: Meetei Mayek Lum Iyek: tonul greu
+ABED: Meetei Mayek Apun Ieek: ucigaş
 ABEE:
 ABEF:
-ABF0: Meetei Mayek Digit Zero : phun
-ABF1: Meetei Mayek Digit One : ama
-ABF2: Meetei Mayek Digit Two : ani
-ABF3: Meetei Mayek Digit Trei : ahum
-ABF4: Metetei Mayek Cifra Patru : Mari
-ABF5: Meetei Mayek Digit Cinci : manga
-ABF6: Meetei Mayek Digit Six : taruk
-ABF7: Meetei Mayek Digit Seven : taret
-ABF8: Metetei Mayek Cifra Opt : nipal
-ABF9: Metetei Mayek Digit Nine : MAPAL
+ABF0: Meetei Mayek Digit Zero: phun
+ABF1: Meetei Mayek Digit One: ama
+ABF2: Meetei Mayek Digit Two: ani
+ABF3: Meetei Mayek Digit Trei: ahum
+ABF4: Metetei Mayek Cifra Patru: Mari
+ABF5: Meetei Mayek Digit Cinci: manga
+ABF6: Meetei Mayek Digit Six: taruk
+ABF7: Meetei Mayek Digit Seven: taret
+ABF8: Metetei Mayek Cifra Opt: nipal
+ABF9: Metetei Mayek Digit Nine: MAPAL
 ABFA:
 ABFB:
 ABFC:
 ABFD:
 ABFE:
-ABFF:
+ABFF:

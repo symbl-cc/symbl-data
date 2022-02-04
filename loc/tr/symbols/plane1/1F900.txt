@@ -10,10 +10,10 @@
 1F909: Aşağıya Doğru Çentikli Kanca
 1F90A: Noktalı Aşağıya Bakacak Kanca
 1F90B: Noktalı Aşağıya Doğru Çentikli Kanca
-1F90C:
-1F90D:
-1F90E:
-1F90F:
+1F90C: Sıkışmış parmaklar
+1F90D: Beyaz Kalp
+1F90E: Kahverengi kalp
+1F90F: Sıkışan el
 1F910: Fermuar Ağız Yüz
 1F911: Para-Ağız Yüzü
 1F912: Termometre ile Yüz
@@ -36,8 +36,8 @@
 1F923: Gülen Katta Yuvarlanma
 1F924: Sallanan Yüz
 1F925: Yüz yalan
-1F926: Yüz hurma : hayal kırıklığı, inançsızlık
-1F927: Hapşırma yüz : gesundheit
+1F926: Yüz hurma: hayal kırıklığı, inançsızlık
+1F927: Hapşırma yüz: gesundheit
 1F928: Bir Kaş Yükseltilmiş Yüz
 1F929: Yıldız Gözleriyle Sırıtan Yüz
 1F92A: Bir Büyük Ve Bir Küçük Gözle Sırıtan Yüz
@@ -52,28 +52,28 @@
 1F933: Özçekim
 1F934: prens
 1F935: Smokin Adam
-1F936: Anne Noel : Bayan Claus
+1F936: Anne Noel: Bayan Claus
 1F937: omuz silkme
-1F938: Çember hareketi yapan kişi : Jimnastik
+1F938: Çember hareketi yapan kişi: Jimnastik
 1F939: jonglörlük
-1F93A: Eskrimci : eskrim
+1F93A: Eskrimci: eskrim
 1F93B: Modern Pentatlon
-1F93C: güreşçiler : güreş
+1F93C: güreşçiler: güreş
 1F93D: Su topu
 1F93E: Hentbol
-1F93F:
+1F93F: Dalma maskesi
 1F940: Solmuş çiçek
 1F941: Sopalarla Davul
-1F942: Bardakları : kutlama, resmi kızartma
-1F943: Bardak cam : viski
+1F942: Bardakları: kutlama, resmi kızartma
+1F943: Bardak cam: viski
 1F944: Kaşık
 1F945: Hedef Ağı
-1F946: tüfek : nişancılık, atış, avcılık
-1F947: İlk Yer Madalyası : altın madalya
-1F948: İkincilik Madalyası : gümüş madalya
-1F949: Üçüncülük Madalyası : bronz madalya
+1F946: tüfek: nişancılık, atış, avcılık
+1F947: İlk Yer Madalyası: altın madalya
+1F948: İkincilik Madalyası: gümüş madalya
+1F949: Üçüncülük Madalyası: bronz madalya
 1F94A: Boks eldiveni
-1F94B: Dövüş sanatları üniforma : judo, karate, tekvando
+1F94B: Dövüş sanatları üniforma: judo, karate, tekvando
 1F94C: Curling Taşı
 1F94D: Lakros Sopa ve Top
 1F94E: Softbol
@@ -84,26 +84,26 @@
 1F953: Domuz pastırması
 1F954: patates
 1F955: Havuç
-1F956: Baget Ekmeği : Fransız ekmeği
+1F956: Baget Ekmeği: Fransız ekmeği
 1F957: Yeşil salata
-1F958: Gıdaların Sığ Tenceresi : paella, güveç
-1F959: Dolması Gözleme : döner kebap, falafel, gyro, shawarma
-1F95A: Yumurta : tavuk yumurtası
-1F95B: Bir bardak süt : Süt
+1F958: Gıdaların Sığ Tenceresi: paella, güveç
+1F959: Dolması Gözleme: döner kebap, falafel, gyro, shawarma
+1F95A: Yumurta: tavuk yumurtası
+1F95B: Bir bardak süt: Süt
 1F95C: Yer fıstığı
 1F95D: Kivi meyvesi
-1F95E: Krep : kekler, krepler, blini
-1F95F: meyveli börek : potsticker, gyooza, jiaozi, pierogi, empanada
+1F95E: Krep: kekler, krepler, blini
+1F95F: meyveli börek: potsticker, gyooza, jiaozi, pierogi, empanada
 1F960: Şans kurabiyesi
-1F961: Paket Servisi : paket servis kutusu, istiridye kovası
-1F962: Çin yemek çubukları : kuaizi, hashi, jeotgarak
+1F961: Paket Servisi: paket servis kutusu, istiridye kovası
+1F962: Çin yemek çubukları: kuaizi, hashi, jeotgarak
 1F963: Kaşıklı Kase
 1F964: Samanlı Bardak
 1F965: Hindistan cevizi
 1F966: Brokoli
-1F967: Turta
+1F967: Turta: börek
 1F968: Çubuk kraker
-1F969: Et Kesimi : domuz eti, pirzola, biftek
+1F969: Et Kesimi: domuz eti, pirzola, biftek
 1F96A: Sandviç
 1F96B: Konserve
 1F96C: Yaprak yeşili
@@ -111,17 +111,17 @@
 1F96E: Ay çöreği
 1F96F: simit
 1F970: Gülen yüz ve üç kupa ile güler yüz
-1F971:
-1F972:
+1F971: Esneme yüzü
+1F972: Gözyaşı ile güler yüz
 1F973: Parti Boynuzu ve Parti Şapkası ile karşı karşıya
 1F974: Düzensiz Gözlü ve Dalgalı Ağızlı Yüz
 1F975: Aşırı ısınmış yüz
 1F976: Donma yüz
-1F977:
-1F978:
+1F977: Ninja
+1F978: Örtülü yüz
 1F979:
 1F97A: Yalvaran Gözlerle Yüz
-1F97B:
+1F97B: Sari
 1F97C: Laboratuvar önlüğü
 1F97D: Gözlük
 1F97E: Yürüyüş botu
@@ -129,7 +129,7 @@
 1F980: Yengeç
 1F981: Aslan yüz
 1F982: Akrep
-1F983: Türkiye
+1F983: Hindi
 1F984: Tek boynuzlu at yüz
 1F985: Kartal
 1F986: ördek
@@ -148,7 +148,7 @@
 1F993: Zebra Yüz
 1F994: Kirpi
 1F995: sauropod
-1F996: T-Rex : Tyrannosaurus rex
+1F996: T-Rex: Tyrannosaurus rex
 1F997: Kriket
 1F998: kanguru
 1F999: lama
@@ -161,19 +161,19 @@
 1F9A0: Mikrop
 1F9A1: Porsuk
 1F9A2: Kuğu
-1F9A3:
-1F9A4:
-1F9A5:
-1F9A6:
-1F9A7:
-1F9A8:
-1F9A9:
-1F9AA:
-1F9AB:
-1F9AC:
-1F9AD:
-1F9AE:
-1F9AF:
+1F9A3: Mamut
+1F9A4: Nesli tükenmiş bir kuş
+1F9A5: Tembellik
+1F9A6: Su samuru
+1F9A7: Orangutan
+1F9A8: Kokarca
+1F9A9: Flamingo
+1F9AA: Istiridye
+1F9AB: Kunduz
+1F9AC: Bizon
+1F9AD: Mühür
+1F9AE: Rehber köpek
+1F9AF: Prob bastonu
 1F9B0: Emoji CompOnent Kızıl Saç
 1F9B1: Emoji CompOnent Kıvırcık Saç
 1F9B2: Emoji CompOnent Bald
@@ -184,47 +184,47 @@
 1F9B7: Diş
 1F9B8: Süper kahraman
 1F9B9: supervillain
-1F9BA:
-1F9BB:
-1F9BC:
-1F9BD:
-1F9BE:
-1F9BF:
-1F9C0: Peynir Takozu
+1F9BA: Can yeleği
+1F9BB: İşitme cihazı ile kulak
+1F9BC: Motorlu tekerlekli sandalye
+1F9BD: Manuel tekerlekli sandalye
+1F9BE: Mekanik kol
+1F9BF: Mekanik ayak
+1F9C0: Peynir dilimi
 1F9C1: Cupcake
 1F9C2: Tuzluk
-1F9C3:
-1F9C4:
-1F9C5:
-1F9C6:
-1F9C7:
-1F9C8:
-1F9C9:
-1F9CA:
-1F9CB:
-1F9CC:
-1F9CD:
-1F9CE:
-1F9CF:
+1F9C3: İçecek kutusu
+1F9C4: Sarımsak
+1F9C5: Soğan
+1F9C6: Falafel
+1F9C7: Gözleme
+1F9C8: Tereyağı
+1F9C9: Mate içeceği
+1F9CA: Buz küpü
+1F9CB: Kabarcık çay
+1F9CC: 
+1F9CD: Ayakta duran kişi
+1F9CE: Diz çökmüş kişi
+1F9CF: Sağır kişi
 1F9D0: Monocle ile Yüz
 1F9D1: Yetişkin
 1F9D2: Çocuk
 1F9D3: Yaşlı Yetişkin
 1F9D4: Sakallı Kişi
-1F9D5: Başörtüsü Olan Kişi : kadının başörtüsü, türban
-1F9D6: Buharlı Odadaki Kişi : sauna, buhar odası
+1F9D5: Başörtüsü Olan Kişi: kadının başörtüsü, türban
+1F9D6: Buharlı Odadaki Kişi: sauna, buhar odası
 1F9D7: Tırmanma kişi
-1F9D8: Lotus Konumundaki Kişi : yoga, meditasyon
-1F9D9: sihirbaz : sihirbaz, cadı, büyücü, büyücü
+1F9D8: Lotus Konumundaki Kişi: yoga, meditasyon
+1F9D9: sihirbaz: sihirbaz, cadı, büyücü, büyücü
 1F9DA: Peri
 1F9DB: Vampir
-1F9DC: Merperson : deniz kızı
+1F9DC: Merperson: deniz kızı
 1F9DD: cin
 1F9DE: Cin
 1F9DF: Zombi
 1F9E0: Beyin
 1F9E1: Turuncu kalp
-1F9E2: Faturalandırılmış Kap : beyzbol şapkası
+1F9E2: Faturalandırılmış Kap: beyzbol şapkası
 1F9E3: Eşarp
 1F9E4: eldiven
 1F9E5: Ceket

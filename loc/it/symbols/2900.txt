@@ -1,11 +1,11 @@
-2900: Freccia a due punte a destra con tratto verticale : notazione parziale di notazione z
-2901: Freccia a due punte rivolta verso destra con doppio tratto verticale : notazione finita z notazione
+2900: Freccia a due punte a destra con tratto verticale: notazione parziale di notazione z
+2901: Freccia a due punte rivolta verso destra con doppio tratto verticale: notazione finita z notazione
 2902: Freccia sinistra a sinistra con tratto verticale
 2903: Doppia freccia a destra con tratto verticale
 2904: Freccia destra sinistra doppia con tratto verticale
-2905: Freccia a due punte destra dalla barra : mappe a
-2906: Freccia sinistra a sinistra di Bar : mappe da
-2907: A destra doppia freccia da bar : mappe a
+2905: Freccia a due punte destra dalla barra: mappe a
+2906: Freccia sinistra a sinistra di Bar: mappe da
+2907: A destra doppia freccia da bar: mappe a
 2908: Freccia verso il basso con tratto orizzontale
 2909: Freccia verso l'alto con tratto orizzontale
 290A: Tripla freccia verso l'alto
@@ -18,11 +18,11 @@
 2911: Freccia verso destra con stelo tratteggiato
 2912: Freccia verso l'alto da barrare
 2913: Freccia verso il basso verso il basso
-2914: Freccia verso destra con coda con tratto verticale : iniezione parziale di notazione z
-2915: Freccia destra con coda con doppio tratto verticale : iniezione di notazione z notation
-2916: Freccia a due punte destra con coda : mappatura biiettiva : z notazione biografica
-2917: Freccia a due punte a destra con coda con tratto verticale : iniezione suriezione notazione z
-2918: Freccia a due punte destra con coda con doppio tratto verticale : annotazione finite surjective di notazione di z
+2914: Freccia verso destra con coda con tratto verticale: iniezione parziale di notazione z
+2915: Freccia destra con coda con doppio tratto verticale: iniezione di notazione z notation
+2916: Freccia a due punte destra con coda: mappatura biiettiva , z notazione biografica
+2917: Freccia a due punte a destra con coda con tratto verticale: iniezione suriezione notazione z
+2918: Freccia a due punte destra con coda con doppio tratto verticale: annotazione finite surjective di notazione di z
 2919: Freccia a sinistra
 291A: Freccia a destra
 291B: Freccia a sinistra a doppia freccia
@@ -212,23 +212,23 @@
 29D3: Cravatta nera
 29D4: Tempi con metà sinistra nero
 29D5: Volte con Right Half Black
-29D6: Clessidra bianca : cravatta a farfalla verticale : framus bianco
+29D6: Clessidra bianca: cravatta a farfalla verticale , framus bianco
 29D7: Clessidra nera
 29D8: Left Wiggly Fence
 29D9: Destra Wiggly Fence
 29DA: Sinistra Double Wiggly Fence
 29DB: Destra Doppia Wiggly Fence
-29DC: Infinito incompleto : isotech entity & iinfin;
+29DC: Infinito incompleto: isotech entity & iinfin,
 29DD: Tie Over Infinity
 29DE: Infinito Negato con barra verticale
 29DF: Multimap a doppia estremità
-29E0: Quadrato con contorno sagomato : d'alembertian
+29E0: Quadrato con contorno sagomato: d'alembertian
 29E1: Aumenta come
 29E2: Prodotto Shuffle
 29E3: Segno uguale e parallelo inclinato
 29E4: Segno uguale e inclinato parallelo con Tilde qui sopra
 29E5: Parallelo identico a e inclinato
-29E6: Gleich Stark : equivalente tautologico
+29E6: Gleich Stark: equivalente tautologico
 29E7: Termodinamico
 29E8: Triangolo verso il basso con metà sinistra nero
 29E9: Triangolo verso il basso con metà nero a destra
@@ -242,12 +242,12 @@
 29F1: Black Diamond con blocco degli errori
 29F2: Cerchio bianco escluso l'errore
 29F3: Cerchio nero escluso l'errore
-29F4: Regola-ritardata : freccia destra due punti
+29F4: Regola-ritardata: freccia destra due punti
 29F5: Operatore di inverso solido
 29F6: Solidus con Overbar
 29F7: Solido inverso con tratto orizzontale
 29F8: Big Solidus
-29F9: Big Reverse Solidus : nascondiglio dello schema di notazione z
+29F9: Big Reverse Solidus: nascondiglio dello schema di notazione z
 29FA: Doppio Plus
 29FB: Triple Plus
 29FC: Staffa angolare curva a sinistra

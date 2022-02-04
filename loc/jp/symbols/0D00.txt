@@ -2,7 +2,7 @@
 0D01: マラヤーラム語記号Candrabindu
 0D02: マラヤーラム語サインAnusvara
 0D03: マラヤーラム語記号Visarga
-0D04:
+0D04: マラヤーラム語文字ヴェーダ Anusvara
 0D05: マラヤーラム文字A
 0D06: マラヤーラム文字Aa
 0D07: マラヤーラム語手紙I
@@ -24,20 +24,20 @@
 0D17: マラヤーラム文字Ga
 0D18: マラヤーラム語手紙Gha
 0D19: マラヤーラム文字Nga
-0D1A: マラヤーラム文字Ca : チャ
-0D1B: マラヤーラム文字Cha : チャ
+0D1A: マラヤーラム文字Ca: チャ
+0D1B: マラヤーラム文字Cha: チャ
 0D1C: マラヤーラム文字Ja
 0D1D: マラヤーラム語手紙Jha
-0D1E: マラヤーラム文字Nya : ニャ
-0D1F: マラヤーラム文字Tta : た
-0D20: マラヤーラム語レターTtha : って
-0D21: マラヤーラム語手紙Dda : ハードダ
-0D22: マラヤーラム語手紙Ddha : hard dda
-0D23: マラヤーラム文字Nna : ハードな
-0D24: マラヤーラム文字Ta : tha
-0D25: マラヤーラム文字Tha : ttha
-0D26: マラヤーラム文字Da : ソフトダ
-0D27: マラヤーラム語手紙Dha : ソフトdda
+0D1E: マラヤーラム文字Nya: ニャ
+0D1F: マラヤーラム文字Tta: た
+0D20: マラヤーラム語レターTtha: って
+0D21: マラヤーラム語手紙Dda: ハードダ
+0D22: マラヤーラム語手紙Ddha: hard dda
+0D23: マラヤーラム文字Nna: ハードな
+0D24: マラヤーラム文字Ta: tha
+0D25: マラヤーラム文字Tha: ttha
+0D26: マラヤーラム文字Da: ソフトダ
+0D27: マラヤーラム語手紙Dha: ソフトdda
 0D28: マラヤーラム語手紙Na
 0D29: マラヤーラム文字Nnna
 0D2A: マラヤーラム語手紙Pa
@@ -50,16 +50,16 @@
 0D31: マラヤーラム文字Rra
 0D32: マラヤーラム文字ラ
 0D33: マラヤーラム文字Lla
-0D34: マラヤーラム文字Llla : 趙
+0D34: マラヤーラム文字Llla: 趙
 0D35: マラヤーラム語手紙Va
-0D36: マラヤーラム書簡社 : 柔らかい沙
-0D37: マラヤーラム語手紙Ssa : しゃ
+0D36: マラヤーラム書簡社: 柔らかい沙
+0D37: マラヤーラム語手紙Ssa: しゃ
 0D38: マラヤーラム語手紙Sa
 0D39: マラヤーラム語手紙Ha
 0D3A: マラヤーラム語手紙Ttta
 0D3B: マラヤーラム語サイン縦棒ビラマ
 0D3C: マラヤーラムサイン円形ビラマ
-0D3D: マラヤーラム語記号Avagraha : プラレシャム
+0D3D: マラヤーラム語記号Avagraha: プラレシャム
 0D3E: マラヤーラム語母音記号Aa
 0D3F: マラヤーラム語母音記号I
 0D40: マラヤーラム語母音記号II
@@ -75,7 +75,7 @@
 0D4A: マラヤーラム語母音サインO
 0D4B: マラヤーラム語母音記号Oo
 0D4C: マラヤーラム語母音サインAu
-0D4D: マラヤーラム語サインビラマ : candrakkala（お好みの名前） : 母音ハーフ-U
+0D4D: マラヤーラム語サインビラマ: candrakkala（お好みの名前） , 母音ハーフ-U
 0D4E: マラヤーラム語手紙Dot Reph
 0D4F: マラヤーラム語記号Para
 0D50:
@@ -127,101 +127,101 @@
 0D7E: マラヤーラム語手紙Chillu Ll
 0D7F: マラヤーラム語手紙Chillu K
 0D80:
-0D81:
-0D82: シンハラサインAnusvaraya : アヌスヴァーラ
-0D83: シンハラサインVisargaya : ビサルガ
+0D81: シンハラサインCandrabindu
+0D82: シンハラサインAnusvaraya: アヌスヴァーラ
+0D83: シンハラサインVisargaya: ビサルガ
 0D84:
-0D85: シンハラ文字Ayanna : シンハラ語の手紙
-0D86: シンハラ語文字Aayanna : シンハラ語文字
-0D87: シンハラ語文字Aeyanna : シンハラ文字ae
-0D88: シンハラ語文字Aeeyanna : シンハラ語文字aae
-0D89: シンハラ文字Iyanna : シンハラ語の手紙私
-0D8A: シンハラ語手紙Iiyanna : シンハラ語の手紙ii
-0D8B: シンハラ文字Uyanna : シンハラ語の手紙u
-0D8C: シンハラ語文字Uuyanna : シンハラ語の手紙uu
-0D8D: シンハラ語文字Iruyanna : シンハラ語手紙ボーカルr
-0D8E: シンハラ語手紙Iuuuyanna : シンハラ語レターボーカル
-0D8F: シンハラ語文字Iluyanna : シンハラ語手紙ボーカルl
-0D90: シンハラ語文字Iluuyanna : シンハラ語手紙ボーカルll
-0D91: シンハラ文字Eyanna : シンハラ文字e
-0D92: シンハラ文字Eeyanna : シンハラ語の手紙ee
-0D93: シンハラ文字Aiyanna : シンハラ文字ai
-0D94: シンハラ語手紙Oyanna : シンハラ語文字o
-0D95: シンハラ語文字Ooyanna : シンハラ語手紙oo
-0D96: シンハラ語文字Auyanna : シンハラ語手紙au
+0D85: シンハラ文字Ayanna: シンハラ語の手紙
+0D86: シンハラ語文字Aayanna: シンハラ語文字
+0D87: シンハラ語文字Aeyanna: シンハラ文字ae
+0D88: シンハラ語文字Aeeyanna: シンハラ語文字aae
+0D89: シンハラ文字Iyanna: シンハラ語の手紙私
+0D8A: シンハラ語手紙Iiyanna: シンハラ語の手紙ii
+0D8B: シンハラ文字Uyanna: シンハラ語の手紙u
+0D8C: シンハラ語文字Uuyanna: シンハラ語の手紙uu
+0D8D: シンハラ語文字Iruyanna: シンハラ語手紙ボーカルr
+0D8E: シンハラ語手紙Iuuuyanna: シンハラ語レターボーカル
+0D8F: シンハラ語文字Iluyanna: シンハラ語手紙ボーカルl
+0D90: シンハラ語文字Iluuyanna: シンハラ語手紙ボーカルll
+0D91: シンハラ文字Eyanna: シンハラ文字e
+0D92: シンハラ文字Eeyanna: シンハラ語の手紙ee
+0D93: シンハラ文字Aiyanna: シンハラ文字ai
+0D94: シンハラ語手紙Oyanna: シンハラ語文字o
+0D95: シンハラ語文字Ooyanna: シンハラ語手紙oo
+0D96: シンハラ語文字Auyanna: シンハラ語手紙au
 0D97:
 0D98:
 0D99:
-0D9A: シンハラ語手紙Alpapraana Kayanna : シンハラ語の手紙ka
-0D9B: シンハラ語手紙Mahaapraana Kayanna : シンハラ語手紙kha
-0D9C: シンハラ語手紙Alpapraana Gayanna : シンハラ語の手紙ga
-0D9D: シンハラ語手紙Mahaapraana Gayanna : シンハラ語手紙gha
-0D9E: シンハラ文字カンタジャナシキヤヤ : シンハラ文字nga
-0D9F: シンハラ語の手紙Sanyaka Gayanna : シンハラ文字nnga
-0DA0: シンハラ語手紙Alpapraana Cayanna : シンハラ文字ca
-0DA1: シンハラ語手紙Mahaapraana Cayanna : シンハラ語チャ
-0DA2: シンハラ語手紙Alpapraana Jayanna : シンハラ語の手紙ja
-0DA3: シンハラ語手紙Mahaapraana Jayanna : シンハラ語手紙jha
-0DA4: シンハラ文字Taaluja Naasikyaya : シンハラ語手紙ニャ
-0DA5: シンハラ文字Taaluja Sanyooga Naaksikyaya : シンハラ語手紙jnya
-0DA6: シンハラ文字Sanyaka Jayanna : シンハラ語手紙ニジャ
-0DA7: シンハラ語手紙Alpapraana Ttayanna : シンハラ語手紙tta
-0DA8: シンハラ語手紙Mahaapraana Ttayanna : シンハラ語手紙ttha
-0DA9: シンハラ語手紙Alpapraana Ddayanna : シンハラ語手紙dda
-0DAA: シンハラ語手紙Mahaapraana Ddayanna : シンハラ語手紙ddha
-0DAB: シンハラ語手紙Muurdhaja Nayanna : シンハラ語手紙nna
-0DAC: シンハラ語の手紙Sanyaka Ddayanna : シンハラ文字nndda
-0DAD: シンハラ語手紙Alpapraana Tayanna : シンハラ語の手紙ta
-0DAE: シンハラ語手紙Mahaapraana Tayanna : シンハラ語手紙tha
-0DAF: シンハラ文字Alpapraana Dayanna : シンハラ文字ダ
-0DB0: シンハラ語手紙Mahaapraana Dayanna : シンハラ語手紙ダ
-0DB1: シンハラ文字Dantaja Nayanna : シンハラ文字na
+0D9A: シンハラ語手紙Alpapraana Kayanna: シンハラ語の手紙ka
+0D9B: シンハラ語手紙Mahaapraana Kayanna: シンハラ語手紙kha
+0D9C: シンハラ語手紙Alpapraana Gayanna: シンハラ語の手紙ga
+0D9D: シンハラ語手紙Mahaapraana Gayanna: シンハラ語手紙gha
+0D9E: シンハラ文字カンタジャナシキヤヤ: シンハラ文字nga
+0D9F: シンハラ語の手紙Sanyaka Gayanna: シンハラ文字nnga
+0DA0: シンハラ語手紙Alpapraana Cayanna: シンハラ文字ca
+0DA1: シンハラ語手紙Mahaapraana Cayanna: シンハラ語チャ
+0DA2: シンハラ語手紙Alpapraana Jayanna: シンハラ語の手紙ja
+0DA3: シンハラ語手紙Mahaapraana Jayanna: シンハラ語手紙jha
+0DA4: シンハラ文字Taaluja Naasikyaya: シンハラ語手紙ニャ
+0DA5: シンハラ文字Taaluja Sanyooga Naaksikyaya: シンハラ語手紙jnya
+0DA6: シンハラ文字Sanyaka Jayanna: シンハラ語手紙ニジャ
+0DA7: シンハラ語手紙Alpapraana Ttayanna: シンハラ語手紙tta
+0DA8: シンハラ語手紙Mahaapraana Ttayanna: シンハラ語手紙ttha
+0DA9: シンハラ語手紙Alpapraana Ddayanna: シンハラ語手紙dda
+0DAA: シンハラ語手紙Mahaapraana Ddayanna: シンハラ語手紙ddha
+0DAB: シンハラ語手紙Muurdhaja Nayanna: シンハラ語手紙nna
+0DAC: シンハラ語の手紙Sanyaka Ddayanna: シンハラ文字nndda
+0DAD: シンハラ語手紙Alpapraana Tayanna: シンハラ語の手紙ta
+0DAE: シンハラ語手紙Mahaapraana Tayanna: シンハラ語手紙tha
+0DAF: シンハラ文字Alpapraana Dayanna: シンハラ文字ダ
+0DB0: シンハラ語手紙Mahaapraana Dayanna: シンハラ語手紙ダ
+0DB1: シンハラ文字Dantaja Nayanna: シンハラ文字na
 0DB2:
-0DB3: シンハラ語の手紙Sanyaka Dayanna : シンハラ語nda
-0DB4: シンハラ語文字Alpapraana Payanna : シンハラ語pa
-0DB5: シンハラ語手紙Mahaapraana Payanna : シンハラ語手紙pha
-0DB6: シンハラ文字Alpapraana Bayanna : シンハラ語手紙ba
-0DB7: シンハラ語手紙Mahaapraana Bayanna : シンハラ文字バー
-0DB8: シンハラ文字マヤナ : シンハラ語手紙ma
-0DB9: シンハラ語手紙Amba Bayanna : シンハラ語手紙mba
-0DBA: シンハラ文字Yayanna : シンハラ文字屋
-0DBB: シンハラ文字ラヤナ : シンハラ語ラ
+0DB3: シンハラ語の手紙Sanyaka Dayanna: シンハラ語nda
+0DB4: シンハラ語文字Alpapraana Payanna: シンハラ語pa
+0DB5: シンハラ語手紙Mahaapraana Payanna: シンハラ語手紙pha
+0DB6: シンハラ文字Alpapraana Bayanna: シンハラ語手紙ba
+0DB7: シンハラ語手紙Mahaapraana Bayanna: シンハラ文字バー
+0DB8: シンハラ文字マヤナ: シンハラ語手紙ma
+0DB9: シンハラ語手紙Amba Bayanna: シンハラ語手紙mba
+0DBA: シンハラ文字Yayanna: シンハラ文字屋
+0DBB: シンハラ文字ラヤナ: シンハラ語ラ
 0DBC:
-0DBD: シンハラ文字Dantaja Layanna : シンハラ語ラ
+0DBD: シンハラ文字Dantaja Layanna: シンハラ語ラ
 0DBE:
 0DBF:
-0DC0: シンハラ語手紙Vayanna : シンハラ語文字VA
-0DC1: シンハラ語手紙Taaluja Sayanna : シンハラ語書社
-0DC2: シンハラ語手紙Muurdhaja Sayanna : シンハラ語文字ssa
-0DC3: シンハラ文字Dantaja Sayanna : シンハラ語の手紙sa
-0DC4: シンハラ文字ハヤナ : シンハラ語の手紙ha
-0DC5: シンハラ語手紙Muurdhaja Layanna : シンハラ語手紙lla
-0DC6: シンハラ語文字Fayanna : シンハラ文字fa
+0DC0: シンハラ語手紙Vayanna: シンハラ語文字VA
+0DC1: シンハラ語手紙Taaluja Sayanna: シンハラ語書社
+0DC2: シンハラ語手紙Muurdhaja Sayanna: シンハラ語文字ssa
+0DC3: シンハラ文字Dantaja Sayanna: シンハラ語の手紙sa
+0DC4: シンハラ文字ハヤナ: シンハラ語の手紙ha
+0DC5: シンハラ語手紙Muurdhaja Layanna: シンハラ語手紙lla
+0DC6: シンハラ語文字Fayanna: シンハラ文字fa
 0DC7:
 0DC8:
 0DC9:
-0DCA: シンハラサインAl-Lakuna : ビラマ
+0DCA: シンハラサインAl-Lakuna: ビラマ
 0DCB:
 0DCC:
 0DCD:
 0DCE:
-0DCF: シンハラ語母音記号Aela-Pilla : シンハラ語母音記号aa
-0DD0: シンハラ語母音サインKetti Aeda-Pilla : シンハラ語母音記号ae
-0DD1: シンハラ語母音サインDiga Aeda-Pilla : シンハラ語母音記号aae
-0DD2: シンハラ語母音サインKetti Is-Pilla : シンハラ語母音記号私
-0DD3: シンハラ語母音サインDiga Is-Pilla : シンハラ語母音記号ii
-0DD4: シンハラ語母音サインKetti Paa-Pilla : シンハラ語母音記号u
+0DCF: シンハラ語母音記号Aela-Pilla: シンハラ語母音記号aa
+0DD0: シンハラ語母音サインKetti Aeda-Pilla: シンハラ語母音記号ae
+0DD1: シンハラ語母音サインDiga Aeda-Pilla: シンハラ語母音記号aae
+0DD2: シンハラ語母音サインKetti Is-Pilla: シンハラ語母音記号私
+0DD3: シンハラ語母音サインDiga Is-Pilla: シンハラ語母音記号ii
+0DD4: シンハラ語母音サインKetti Paa-Pilla: シンハラ語母音記号u
 0DD5:
-0DD6: シンハラ語母音サインDiga Paa-Pilla : シンハラ語母音記号uu
+0DD6: シンハラ語母音サインDiga Paa-Pilla: シンハラ語母音記号uu
 0DD7:
-0DD8: シンハラ語母音サインGaetta-Pilla : シンハラ語母音記号ボーカルr
-0DD9: シンハラ語母音記号Kombuva : シンハラ語母音記号e
-0DDA: シンハラ語母音サインDiga Kombuva : シンハラ語母音記号ee
-0DDB: シンハラ語母音サインコンブデカ : シンハラ語母音記号ai
-0DDC: シンハラ語母音サインKombuva Haa Aela-Pilla : シンハラ語母音記号o
-0DDD: シンハラ語母音サインKombuva Haa Diga Aela-Pilla : シンハラ語母音記号oo
-0DDE: シンハラ語母音サインKombuva Haa Gayanukitta : シンハラ語母音記号au
-0DDF: シンハラ語母音サインGayanukitta : シンハラ語母音記号ボーカルl
+0DD8: シンハラ語母音サインGaetta-Pilla: シンハラ語母音記号ボーカルr
+0DD9: シンハラ語母音記号Kombuva: シンハラ語母音記号e
+0DDA: シンハラ語母音サインDiga Kombuva: シンハラ語母音記号ee
+0DDB: シンハラ語母音サインコンブデカ: シンハラ語母音記号ai
+0DDC: シンハラ語母音サインKombuva Haa Aela-Pilla: シンハラ語母音記号o
+0DDD: シンハラ語母音サインKombuva Haa Diga Aela-Pilla: シンハラ語母音記号oo
+0DDE: シンハラ語母音サインKombuva Haa Gayanukitta: シンハラ語母音記号au
+0DDF: シンハラ語母音サインGayanukitta: シンハラ語母音記号ボーカルl
 0DE0:
 0DE1:
 0DE2:
@@ -240,8 +240,8 @@
 0DEF: シンハラリスディジットナイン
 0DF0:
 0DF1:
-0DF2: シンハラ語母音サインDiga Gaetta-Pilla : シンハラ語母音記号ボーカルrr
-0DF3: シンハラ語母音サインDiga Gayanukitta : シンハラ語母音記号ボーカルll
+0DF2: シンハラ語母音サインDiga Gaetta-Pilla: シンハラ語母音記号ボーカルrr
+0DF3: シンハラ語母音サインDiga Gayanukitta: シンハラ語母音記号ボーカルll
 0DF4: シンハラ語句読点Kunddaliya
 0DF5:
 0DF6:
@@ -253,4 +253,4 @@
 0DFC:
 0DFD:
 0DFE:
-0DFF:
+0DFF:

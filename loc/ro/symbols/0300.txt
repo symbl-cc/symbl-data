@@ -1,24 +1,24 @@
-0300: Combinând accentul grav : variații grecești
-0301: Combinând accentul acut : marcaj de stres : greek oxia, tonos
-0302: Combinând Circumflex Accent : pălărie
+0300: Combinând accentul grav: variații grecești
+0301: Combinând accentul acut: marcaj de stres , greek oxia, tonos
+0302: Combinând Circumflex Accent: pălărie
 0303: Combinând Tilde
-0304: Combinând Macron : lung
-0305: Combinând Overline : overscore, vinculum
-0306: Combinând Breve : mic de statura : greacă vrachy
-0307: Combinând Dot de sus : derivat (notație newtoniană)
-0308: Combinarea diareezei : dublu punct deasupra, umlaut : dialytika grecească : derivat dublu
-0309: Combinând Hook deasupra : hoi
+0304: Combinând Macron: lung
+0305: Combinând Overline: overscore, vinculum
+0306: Combinând Breve: mic de statura , greacă vrachy
+0307: Combinând Dot de sus: derivat (notație newtoniană)
+0308: Combinarea diareezei: dublu punct deasupra, umlaut , dialytika grecească , derivat dublu
+0309: Combinând Hook deasupra: hoi
 030A: Combinând inelul de sus
 030B: Combinând Accent dublu Acut
-030C: Combinând Caron : hacek, v de mai sus
+030C: Combinând Caron: hacek, v de mai sus
 030D: Combinând linia verticală deasupra
 030E: Combinând linia dublă verticală deasupra
 030F: Combinarea accentului dublu de grave
 0310: Combinând Candrabindu
 0311: Combinând Breve inversat
-0312: Combinarea comenzii de mai sus : cedilla de mai sus
-0313: Combinând comanda de mai sus : greacă psili, marcaj fără respirație
-0314: Combinând comanda inversată deasupra : dasia greacă, marcajul dur de respirație
+0312: Combinarea comenzii de mai sus: cedilla de mai sus
+0313: Combinând comanda de mai sus: greacă psili, marcaj fără respirație
+0314: Combinând comanda inversată deasupra: dasia greacă, marcajul dur de respirație
 0315: Combinând comanda deasupra dreapta
 0316: Combinând accentul grav cu mai jos
 0317: Combinând accentul acut de mai jos
@@ -33,12 +33,12 @@
 0320: Combinând semnul minus de mai jos
 0321: Combinând cârligul palatalizat de mai jos
 0322: Combinând cârligul Retroflex de mai jos
-0323: Combinând Dotul de mai jos : nang
+0323: Combinând Dotul de mai jos: nang
 0324: Combinând diareea de mai jos
 0325: Combinând inelul de mai jos
 0326: Combinând comanda de mai jos
 0327: Combinând Cedilla
-0328: Combinând Ogonek : cârlig nazal
+0328: Combinând Ogonek: cârlig nazal
 0329: Combinând linia verticală de mai jos
 032A: Combinând Podul de mai jos
 032B: Combinând arcul dublu inversat de mai jos
@@ -48,26 +48,26 @@
 032F: Combinând Brevetul inversat de mai jos
 0330: Combinând Tilde de mai jos
 0331: Combinând Macron de mai jos
-0332: Combinând linia joasă : subliniați, subliniază
-0333: Combinând linia dublă scăzută : dublu subliniere, dublu subliniere
+0332: Combinând linia joasă: subliniați, subliniază
+0333: Combinând linia dublă scăzută: dublu subliniere, dublu subliniere
 0334: Combinarea suprapunerii Tilde
 0335: Combinarea suprapusului cu stroke scurte
 0336: Combinarea suprapunerii cu stroke lungi
-0337: Combinarea suprapunerii Shortus Solidus : slash suprapus scurt
-0338: Combinarea suprapunerii Long Solidus : slash suprapus lung
+0337: Combinarea suprapunerii Shortus Solidus: slash suprapus scurt
+0338: Combinarea suprapunerii Long Solidus: slash suprapus lung
 0339: Combinând inelul inferior drept în partea inferioară
 033A: Combinând podul inversat de mai jos
 033B: Combinând pătratul de mai jos
 033C: Combinând Pescărușul de mai jos
 033D: Combinând X deasupra
-033E: Combinând Tilda verticală : yerik
+033E: Combinând Tilda verticală: yerik
 033F: Combinând Double Overline
 0340: Combinarea marcajului tonului grav
 0341: Combinarea marcajului tonului acut
 0342: Combinând Perispomeni din Grecia
 0343: Combinarea grecescului Koronis
 0344: Combinând Dialytika Tonos grecească
-0345: Combinând limba greacă : iota de mai jos : iota subscript
+0345: Combinând limba greacă: iota de mai jos , iota subscript
 0346: Combinând podul de deasupra
 0347: Combinarea semnalului egal de mai jos
 0348: Combinând linia dublă verticală de mai jos
@@ -90,12 +90,12 @@
 0359: Combinând Asteriskul de mai jos
 035A: Combinând inelul dublu de mai jos
 035B: Combinând Zigzag deasupra
-035C: Combinând Double Breve Below : legătura de ligatură de mai jos, crapa papirologică
+035C: Combinând Double Breve Below: legătura de ligatură de mai jos, crapa papirologică
 035D: Combinând Double Breve
 035E: Combinând Double Macron
 035F: Combinând Double Macron de mai jos
 0360: Combinând Double Tilda
-0361: Combinând brevetul dublu inversat : ligatura cravată
+0361: Combinând brevetul dublu inversat: ligatura cravată
 0362: Combinând simbolul dublu spre dreapta jos
 0363: Combinând litera latină mică A
 0364: Combinând litera latină mică E
@@ -114,17 +114,17 @@
 0371: Litera greacă mică Heta
 0372: Scrisoarea de capital greacă Archaic Sampi
 0373: Litera greacă mică, Archaic Sampi
-0374: Codul numeric grecesc : dexia keraia
-0375: Numărul grecesc inferior din Grecia : aristeri keraia
+0374: Codul numeric grecesc: dexia keraia
+0375: Numărul grecesc inferior din Grecia: aristeri keraia
 0376: Capitolul grecesc de capital Pamphylian Digamma
 0377: Scrisoarea greacă mică Pamphylian Digamma
 0378:
 0379:
-037A: Greacă Ypogegrammeni : iota subscript
+037A: Greacă Ypogegrammeni: iota subscript
 037B: Simbolul lunar Sigma Lunar Grecesc inversat
 037C: Sigla lunară greacă mică Dotted Lunate Sigma
 037D: Liceul grecesc inversat cu litere mici Luna Sigma Sigma
-037E: Marca Întrebării Grecești : erotimatiko
+037E: Marca Întrebării Grecești: erotimatiko
 037F: Capitalul scris al Greciei Yot
 0380:
 0381:
@@ -145,13 +145,13 @@
 0390: Litera greacă mică Iota cu Dialytika și Tonos
 0391: Capitala Grecească Alpha
 0392: Grecia de Capital Letter Beta
-0393: Grecia de Capital Letter Gamma : funcția gamma
+0393: Grecia de Capital Letter Gamma: funcția gamma
 0394: Capitalul scris al Greciei
 0395: Grecia de capital Epsilon
 0396: Scrisoarea de capital greacă Zeta
 0397: Grecia de capital Eta
 0398: Scrisoarea de capital a Greciei Theta
-0399: Scrisoarea de capital din Grecia Iota : iota adscript
+0399: Scrisoarea de capital din Grecia Iota: iota adscript
 039A: Capelă de capital greacă Kappa
 039B: Grecia de capital grec Lamda
 039C: Grecia de Capital Letter Mu
@@ -185,14 +185,14 @@
 03B8: Scrisoarea greacă mică Theta
 03B9: Litera greacă mică Iota
 03BA: Litera grecească mică Kappa
-03BB: Litera greacă mică Lamda : lambda
+03BB: Litera greacă mică Lamda: lambda
 03BC: Greacă mică Letter Mu
 03BD: Litera greacă mică nr
 03BE: Grecia scrisoarea mică Xi
 03BF: Scrisoare mică din Grecia Omicron
 03C0: Scrisoarea greacă mică Pi
 03C1: Scrisoarea greacă mică Rho
-03C2: Greco-ul grecesc final Sigma : stigmatul (numele grecesc modern pentru această scrisoare)
+03C2: Greco-ul grecesc final Sigma: stigmatul (numele grecesc modern pentru această scrisoare)
 03C3: Sigla Grecească de mici dimensiuni
 03C4: Greacă mică Letter Tau
 03C5: Grecescul de litere grecești Upsilon
@@ -206,13 +206,13 @@
 03CD: Greșelile literare grecești mici cu Tonos
 03CE: Omega scrisoarea greacă mică cu Tonos
 03CF: Capitala Greciei Kai Simbol
-03D0: Simbolul Beta grecesc : curbat beta
-03D1: Simbolul grecesc Theta : scenariul theta
+03D0: Simbolul Beta grecesc: curbat beta
+03D1: Simbolul grecesc Theta: scenariul theta
 03D2: Greacă Upsilon cu simbol Hook
 03D3: Greacă Upsilon cu simbol acut și cârlig
 03D4: Greco-Upsilon cu Diareeze și simbol Hook
 03D5: Simbolul grecesc Phi
-03D6: Simbolul Pi din Grecia : omega pi
+03D6: Simbolul Pi din Grecia: omega pi
 03D7: Simbolul grec Kai
 03D8: Scrisoarea greacă Archaic Koppa
 03D9: Greacă mică scrisoare Archaic Koppa
@@ -238,19 +238,19 @@
 03ED: Copie Scrisoare mică Shima
 03EE: Coptic Capital Letter Dei
 03EF: Copie Scrisoare mică Dei
-03F0: Grecia Kappa Simbol : script kappa
-03F1: Simbolul grecesc Rho : cu rho
-03F2: Simbolul lunar Sigma din Grecia : greacă mică litere lunate sigma
+03F0: Grecia Kappa Simbol: script kappa
+03F1: Simbolul grecesc Rho: cu rho
+03F2: Simbolul lunar Sigma din Grecia: greacă mică litere lunate sigma
 03F3: Scrisoarea greacă Yot
 03F4: Capitalul grec Theta Symbol
-03F5: Lunat Epsilon Simbol din Grecia : drept epsilon
-03F6: Simbolul grecesc inversat Lunate Epsilon : inversat epsilon drept
+03F5: Lunat Epsilon Simbol din Grecia: drept epsilon
+03F6: Simbolul grecesc inversat Lunate Epsilon: inversat epsilon drept
 03F7: Capitala Greciei Sho
 03F8: Greacă Scrisoare mică Sho
 03F9: Capitala grecească Lunate Sigma Sigma
 03FA: Grecia de capital greacă San
 03FB: Grecia Scrisoare mică San
 03FC: Greco-Rho cu simbol Stroke
-03FD: Capitalul grecesc inversat Lunate Sigma Sigma : antisigma
-03FE: Capitalul grecesc punctat Lunate Sigma Sigma : sigma periestigmenon
-03FF: Capitalul grecesc inversat punctat Lunate Sigma Sigma : antisigma periestigmenon
+03FD: Capitalul grecesc inversat Lunate Sigma Sigma: antisigma
+03FE: Capitalul grecesc punctat Lunate Sigma Sigma: sigma periestigmenon
+03FF: Capitalul grecesc inversat punctat Lunate Sigma Sigma: antisigma periestigmenon

@@ -1,13 +1,28 @@
-entity: Suivant
+alt-code: Alt codes
+name: Nom
+symbol: Symbole
+html_code: HTML
+entity: Entité
 your-browser: Votre navigateur
 font-view: Inscription du caractère dans différentes polices
-char-desc: Description du caractère
-unicode-number: nombre Unicode
+char-desc: Signification du symbole
+emoji-desc: Signification de Emoji
+ideograph-desc: Signification de l'idéographe
+unicode-name: nom dans l'Unosode
+unicode-number: nombre dans l'Unicode
 html-code: <span class="caps">HTML</span>-code
+css-code: CSS
 uppercase: majuscule
 lowercase: minuscules
 encoding: Codage
+related: Symboles ressemblants
+tech-info: Information technique 
 copy: Copiez et collez le symbole
+copy-code: Cliquez pour copier
 copy_button: Copie
 copy_done: Copié!
 version: Version Unicode
+sets-with-this-symbol: Ensembles avec ce symbole
+empty-symbol: Non défini dans Unicode
+emoji_group: Catégorie d'Emoji
+emoji_version: Version d'Emoji

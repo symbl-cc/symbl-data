@@ -1,51 +1,51 @@
-0000: Nul : NUL
-0001: Début d'en-tête : SOH
-0002: Début de texte : STX
-0003: Fin de texte : ETX
-0004: Fin de transmission : EOT
-0005: Demande : ENQ
-0006: Accusé de réception, accusé de réception  positif : DEMANDER
-0007: Sonnerie : BEL
-0008: Espace arrière : BS
-0009: Tabulation horizontale : tab : ht : tabulation de caractères : LANGUETTE
-000A: Changement de ligne, passage à la ligne : saut de ligne (lf) : fin de ligne (eol) : LF
-000B: Tabulation verticale  : Vermont : tabulation de ligne : LANGUETTE
-000C: Saut de page, page suivante : FF
-000D: Retour de chariot  : CR
-000E: Hors code, remplacement verrouillé un : ALORS
-000F: En code, remplacement verrouillé zéro : SI
-0010: Échappement transmission : DLE
-0011: Commande de dispositif un (d'appareil un) : DC1
-0012: Commande de dispositif deux (d'appareil deux) : DC2
-0013: Commande de dispositif trois (commande d'appareil trois) : DC3
-0014: Commande de dispositif quatre (commande d'appareil quatre) : DC4
-0015: Accusé de réception négatif : NAK
-0016: Synchronisation : SYN
-0017: Fin de bloc de transmission : ETB
-0018: Annulation : POUVEZ
-0019: Fin de support : EM
-001A: Substitution : SOUS : Ctrl-Z
-001B: Échappement : ESC
-001C: Séparateur de fichiers : séparateur d'information quatre : FS
-001D: Séparateur de groupes : séparateur d'informations trois : GS
-001E: Séparateur d'enregistrements, séparateur d'articles : séparateur d'information deux : RS
-001F: Séparateur de sous-articles : séparateur d'information un : NOUS
+0000: Nul: NUL
+0001: Début d'en-tête: SOH
+0002: Début de texte: STX
+0003: Fin de texte: ETX
+0004: Fin de transmission: EOT
+0005: Demande: ENQ
+0006: Accusé de réception, accusé de réception  positif: DEMANDER
+0007: Sonnerie: BEL
+0008: Espace arrière: BS
+0009: Tabulation horizontale: tab , ht , tabulation de caractères , LANGUETTE
+000A: Changement de ligne, passage à la ligne: saut de ligne (lf) , fin de ligne (eol) , LF
+000B: Tabulation verticale: Vermont , tabulation de ligne , LANGUETTE
+000C: Saut de page, page suivante: FF
+000D: Retour de chariot: CR
+000E: Hors code, remplacement verrouillé un: ALORS
+000F: En code, remplacement verrouillé zéro: SI
+0010: Échappement transmission: DLE
+0011: Commande de dispositif un (d'appareil un): DC1
+0012: Commande de dispositif deux (d'appareil deux): DC2
+0013: Commande de dispositif trois (commande d'appareil trois): DC3
+0014: Commande de dispositif quatre (commande d'appareil quatre): DC4
+0015: Accusé de réception négatif: NAK
+0016: Synchronisation: SYN
+0017: Fin de bloc de transmission: ETB
+0018: Annulation: POUVEZ
+0019: Fin de support: EM
+001A: Substitution: SOUS , Ctrl-Z
+001B: Échappement: ESC
+001C: Séparateur de fichiers: séparateur d'information quatre , FS
+001D: Séparateur de groupes: séparateur d'informations trois , GS
+001E: Séparateur d'enregistrements, séparateur d'articles: séparateur d'information deux , RS
+001F: Séparateur de sous-articles: séparateur d'information un , NOUS
 0020: Espace
-0021: Point d'exclamation : factorielle : factoriel : coup
-0022: Guillement angais : guillemet APL, petit guillemet, guillemet dactylographique
-0023: Croisillon : chemin de fer, dièse, carré, octothorpe, ducat 
-0024: Symbole Dollar : milreis, escudo, piastre
+0021: Point d'exclamation: factorielle , factoriel , coup
+0022: Guillement angais: guillemet APL, petit guillemet, guillemet dactylographique
+0023: Croisillon: chemin de fer, dièse, carré, octothorpe, ducat
+0024: Symbole Dollar: milreis, escudo, piastre
 0025: Symbole Pour Cent
-0026: Perluéte : esperluète, esperluette, et
-0027: Apostrophe : guillemet APL : citation apostrophe : citation apl
-0028: Parenthése gauche : parenthèse ouvrante
-0029: Parenthése droite : parenthèse fermante
-002A: Astérisque : étoile (sur les claviers téléphoniques)
-002B: Signe plus : addition
-002C: Virgule : séparateur décimal
-002D: Trait d'union-signe moins : tiret, trait d'union, signe moins 
-002E: Point : point final : séparateur de milliers : point décimal anglo-saxon
-002F: Barre Oblique : cotice ^ oblique : slash : virgule
+0026: Perluéte: esperluète, esperluette, et
+0027: Apostrophe: guillemet APL , citation apostrophe , citation apl
+0028: Parenthése gauche: parenthèse ouvrante
+0029: Parenthése droite: parenthèse fermante
+002A: Astérisque: étoile (sur les claviers téléphoniques)
+002B: Signe plus: addition
+002C: Virgule: séparateur décimal
+002D: Trait d'union-signe moins: tiret, trait d'union, signe moins
+002E: Point: point final , séparateur de milliers , point décimal anglo-saxon
+002F: Barre Oblique: cotice ^ oblique , slash , virgule
 0030: Chiffre Zéro
 0031: Chiffre Un
 0032: Chiffre Deux
@@ -58,11 +58,11 @@
 0039: Chiffre Neuf
 003A: Deux-points
 003B: Point-virgule
-003C: Signe inféieur : crochet brisé ouvrant
-003D: Signe égal : égalité
-003E: Signe supérieur : crochet brisé fermant
+003C: Signe inféieur: crochet brisé ouvrant
+003D: Signe égal: égalité
+003E: Signe supérieur: crochet brisé fermant
 003F: Point d'interrogation
-0040: Arrobe : à commercial, arobas, arobase, arrobas, queue de singe, a crolle
+0040: Arrobe: à commercial, arobas, arobase, arrobas, queue de singe, a crolle
 0041: Lettre majuscule latine A
 0042: Lettre majuscule latine B
 0043: Lettre majuscule latine C
@@ -89,11 +89,11 @@
 0058: Lettre majuscule latine X
 0059: Lettre majuscule latine Y
 005A: Lettre majuscule latine Z
-005B: Crochet gauche : crochet ouvrant
-005C: Barre oblique inversée : contre-cotice, oblique inverse, contre-oblique
-005D: Crochet droit : crochet fermant
+005B: Crochet gauche: crochet ouvrant
+005C: Barre oblique inversée: contre-cotice, oblique inverse, contre-oblique
+005D: Crochet droit: crochet fermant
 005E: Accent circonflexe
-005F: Tiret bas : tiret de soulignement, souligné
+005F: Tiret bas: tiret de soulignement, souligné
 0060: Accent grave
 0061: Lettre minuscule latine A
 0062: Lettre minuscule latine B
@@ -121,9 +121,9 @@
 0078: Lettre minuscule latine X
 0079: Lettre minuscule latine Y
 007A: Lettre minuscule latine Z
-007B: Accolade gauche : accolade ouvrante
+007B: Accolade gauche: accolade ouvrante
 007C: Barre verticale
-007D: Accolade droite : accolade fermante
+007D: Accolade droite: accolade fermante
 007E: Tilde
 007F: Suppression
 0080: Caractère de bourre
@@ -158,45 +158,45 @@
 009D: Commande de système d'exploitation
 009E: Message privé
 009F: Commande de progiciel
-00A0: Espace insécable : espinc : espace imposée, espace sans coupure, espace liante
-00A1: Point d'exclamation renversé : point d'exclamation inversé
-00A2: Symbole Centime : symbole cent américain
-00A3: Symbole Livre : livre sterling, punt irlandaise, livre tournoi, lire italienne, livre
+00A0: Espace insécable: espinc , espace imposée, espace sans coupure, espace liante
+00A1: Point d'exclamation renversé: point d'exclamation inversé
+00A2: Symbole Centime: symbole cent américain
+00A3: Symbole Livre: livre sterling, punt irlandaise, livre tournoi, lire italienne, livre
 00A4: Symbole Monétaire
-00A5: Symbole Yen : symbole yuan
-00A6: Barre verticale discontinue : barre déjointe, barre à trou
-00A7: Paragraphe : alinéa
+00A5: Symbole Yen: symbole yuan
+00A6: Barre verticale discontinue: barre déjointe, barre à trou
+00A7: Paragraphe: alinéa
 00A8: Tréma
-00A9: Symbole Copyright : mention de réserve : copie : (c)
+00A9: Symbole Copyright: mention de réserve , copie , (c)
 00AA: Indicateur ordinal féminin
-00AB: Guillemet gauche : guillemet chevron pointant vers la gauche
-00AC: Signe négation : symbole non
-00AD: Trait d'union conditionnel : trait d'union virtuel
-00AE: Symbole marque déposée : signe de marque déposée
-00AF: Macron : barre supérieure APL
+00AB: Guillemet gauche: guillemet chevron pointant vers la gauche
+00AC: Signe négation: symbole non
+00AD: Trait d'union conditionnel: trait d'union virtuel
+00AE: Symbole marque déposée: signe de marque déposée
+00AF: Macron: barre supérieure APL
 00B0: Symbole Degré
 00B1: Signe plus-ou-moins
-00B2: Exposant deux : au carré
-00B3: Exposant trois : cube
+00B2: Exposant deux: au carré
+00B3: Exposant trois: cube
 00B4: Accent aigu
 00B5: Symbole micro
-00B6: Pied-de-mouche : fin de paragraphe
-00B7: Point Médian : point central, point au milieu : virgule géorgienne : point médian grec (ano teleia)
+00B6: Pied-de-mouche: fin de paragraphe
+00B7: Point Médian: point central, point au milieu , virgule géorgienne , point médian grec (ano teleia)
 00B8: Cédille
 00B9: Exposant un
 00BA: Indicateur ordinal masculin
-00BB: Guillemet droit : guillemet chevron pointant vers la droite
+00BB: Guillemet droit: guillemet chevron pointant vers la droite
 00BC: Fraction un quart
 00BD: Fraction un demi
 00BE: Fraction trois quarts
-00BF: Point d'interrogatin renversé : point d'interrogation inversé
+00BF: Point d'interrogatin renversé: point d'interrogation inversé
 00C0: Lettre majuscule latine A accent grave
 00C1: Lettre majuscule latine A accent aigu
 00C2: Lettre majuscule latine A accent circonflexe
 00C3: Lettre majuscule latine A tilde
 00C4: Lettre majuscule latine A tréma
 00C5: Lettre majuscule latine A rond en chef
-00C6: Lettre majuscule latine AE (ash) : digramme soudé ae, ash : e dans l'a majuscule
+00C6: Lettre majuscule latine AE (ash): digramme soudé ae, ash , e dans l'a majuscule
 00C7: Lettre majuscule latine C cédille
 00C8: Lettre majuscule latine E accent grave
 00C9: Lettre majuscule latine E accent aigu
@@ -206,29 +206,29 @@
 00CD: Lettre majuscule latine I accent aigu
 00CE: Lettre majuscule latine I accent circonflexe
 00CF: Lettre majuscule latine I tréma
-00D0: Lettre majuscule latine ED (islandais) : eth majuscule
+00D0: Lettre majuscule latine ED (islandais): eth majuscule
 00D1: Lettre majuscule latine N tilde
 00D2: Lettre majuscule latine O accent grave
 00D3: Lettre majuscule latine O accent aigu
 00D4: Lettre majuscule latine O accent circonflexe
 00D5: Lettre majuscule latine O tilde
 00D6: Lettre majuscule latine O tréma
-00D7: Signe multiplication : produit cartésien en notation z
-00D8: Lettre majuscule latine O BARRÉ OBLIQUEMENT : o coticé
+00D7: Signe multiplication: produit cartésien en notation z
+00D8: Lettre majuscule latine O BARRÉ OBLIQUEMENT: o coticé
 00D9: Lettre majuscule latine U accent grave
 00DA: Lettre majuscule latine U accent aigu
 00DB: Lettre majuscule latine U accent circonflexe
 00DC: Lettre majuscule latine U tréma
 00DD: Lettre majuscule latine Y accent aigu
 00DE: Lettre majuscule latine Thron (islandais)
-00DF: Lettre minuscule latine S dur (allemand) : eszett, s dur allemand
+00DF: Lettre minuscule latine S dur (allemand): eszett, s dur allemand
 00E0: Lettre minuscule latine A accent grave
 00E1: Lettre minuscule latine A accent aigu
 00E2: Lettre minuscule latine A accent circonflexe
 00E3: Lettre minuscule latine A tilde
 00E4: Lettre minuscule latine A tréma
 00E5: Lettre minuscule latine A rond en chef
-00E6: Lettre minuscule latine AE (ash) : digramme soudé ae, ash (de l'ancien anglais æsc) : e dans l'a minuscule
+00E6: Lettre minuscule latine AE (ash): digramme soudé ae, ash (de l'ancien anglais æsc) , e dans l'a minuscule
 00E7: Lettre minuscule latine C cédille
 00E8: Lettre minuscule latine E accent grave
 00E9: Lettre minuscule latine E accent aigu
@@ -238,7 +238,7 @@
 00ED: Lettre minuscule latine I accent aigu
 00EE: Lettre minuscule latine I accent circonflexe
 00EF: Lettre minuscule latine I tréma
-00F0: Lettre minuscule latine ED (islandais) : eth minuscule
+00F0: Lettre minuscule latine ED (islandais): eth minuscule
 00F1: Lettre minuscule latine N tilde
 00F2: Lettre minuscule latine O accent grave
 00F3: Lettre minuscule latine O accent aigu
@@ -246,7 +246,7 @@
 00F5: Lettre minuscule latine O tilde
 00F6: Lettre minuscule latine O tréma
 00F7: Signe division
-00F8: Lettre minuscule latine O berré obliquement : o coticé
+00F8: Lettre minuscule latine O berré obliquement: o coticé
 00F9: Lettre minuscule latine U accent grave
 00FA: Lettre minuscule latine U accent aigu
 00FB: Lettre minuscule latine U accent circonflexe

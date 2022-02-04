@@ -185,6 +185,8 @@
 1CB8: Georgian Mtavruli Capital Letter Elifi
 1CB9: Georgian Mtavruli Capital Letter Turned Gan
 1CBA: Georgian Mtavruli Capital Letter Ain
+1CBB: 
+1CBC: 
 1CBD: Georgian Mtavruli Capital Letter Aen
 1CBE: Georgian Mtavruli Capital Letter Hard Sign
 1CBF: Georgian Mtavruli Capital Letter Labial Sign
@@ -204,41 +206,41 @@
 1CCD:
 1CCE:
 1CCF:
-1CD0: Vedic Tone Karshana : vaidika saamasvara karshanna
-1CD1: Vedic Tone Shara : vaidika svarita uurdhva shara
-1CD2: Vedic Tone Prenkha : vaidika saamasvara prenkha
-1CD3: Vedic Sign Nihshvasa : vaidika saamagaana yogakaala
+1CD0: Vedic Tone Karshana: vaidika saamasvara karshanna
+1CD1: Vedic Tone Shara: vaidika svarita uurdhva shara
+1CD2: Vedic Tone Prenkha: vaidika saamasvara prenkha
+1CD3: Vedic Sign Nihshvasa: vaidika saamagaana yogakaala
 1CD4: Vedic Sign Yajurvedic Midline Svarita
-1CD5: Vedic Tone Yajurvedic Aggravated Independent Svarita : vaidika svarita adho nyubja
-1CD6: Vedic Tone Yajurvedic Independent Svarita : vaidika svarita adhah konna
-1CD7: Vedic Tone Yajurvedic Kathaka Independent Svarita : vaidika svarita adho vakra rekhaa
-1CD8: Vedic Tone Candra Below : vaidika svarita adho'rdha vakra
-1CD9: Vedic Tone Yajurvedic Kathaka Independent Svarita Schroeder : vaidika svarita adhah samyukta rekhaa
-1CDA: Vedic Tone Double Svarita : vaidika svarita uurdhva dvi rekhaa
-1CDB: Vedic Tone Triple Svarita : vaidika svarita uurdhva tri rekhaa
-1CDC: Vedic Tone Kathaka Anudatta : vaidika svarita adho rekhaa
-1CDD: Vedic Tone Dot Below : vaidika svarita adho bindu
-1CDE: Vedic Tone Two Dots Below : vaidika svarita adho dvi bindu
-1CDF: Vedic Tone Three Dots Below : vaidika svarita adhas tri bindu
-1CE0: Vedic Tone Rigvedic Kashmiri Independent Svarita : vaidika uurdhva vakra rekhaa
-1CE1: Vedic Tone Atharvavedic Independent Svarita : vaidika svarita dvi vakra khannda
-1CE2: Vedic Sign Visarga Svarita : vaidika madhyarekhaa
-1CE3: Vedic Sign Visarga Udatta : vaidika visarga dakshinnatah uurdhvaga
-1CE4: Vedic Sign Reversed Visarga Udatta : vaidika visarga vaamatah uurdhvaga
-1CE5: Vedic Sign Visarga Anudatta : vaidika visarga vaamatah adhoga
-1CE6: Vedic Sign Reversed Visarga Anudatta : vaidika visarga dakshinnatah adhoga
-1CE7: Vedic Sign Visarga Udatta with Tail : vaidika visarga dakshinnatah uurdhva vakra
-1CE8: Vedic Sign Visarga Anudatta with Tail : vaidika visarga vaamatah adho vakra
-1CE9: Vedic Sign Anusvara Antargomukha : vaidika anusvaara antarmukha
-1CEA: Vedic Sign Anusvara Bahirgomukha : vaidika anusvaara naagaphanna
-1CEB: Vedic Sign Anusvara Vamagomukha : vaidika anusvaara vaamagomukha
-1CEC: Vedic Sign Anusvara Vamagomukha with Tail : vaidika anusvaara vaamagomukha sa-vakra
-1CED: Vedic Sign Tiryak : vaidika tiryak
-1CEE: Vedic Sign Hexiform Long Anusvara : vaidika anusvaara anugaamii
-1CEF: Vedic Sign Long Anusvara : vaidika anusvaara dakshinnamukha
-1CF0: Vedic Sign Rthang Long Anusvara : vaidika anusvaara ttha-sadrisha
-1CF1: Vedic Sign Anusvara Ubhayato Mukha : vaidika anusvaara ubhayato mukha
-1CF2: Vedic Sign Ardhavisarga : vaidika jihvaamuuliiya upadhmaaniiya
+1CD5: Vedic Tone Yajurvedic Aggravated Independent Svarita: vaidika svarita adho nyubja
+1CD6: Vedic Tone Yajurvedic Independent Svarita: vaidika svarita adhah konna
+1CD7: Vedic Tone Yajurvedic Kathaka Independent Svarita: vaidika svarita adho vakra rekhaa
+1CD8: Vedic Tone Candra Below: vaidika svarita adho'rdha vakra
+1CD9: Vedic Tone Yajurvedic Kathaka Independent Svarita Schroeder: vaidika svarita adhah samyukta rekhaa
+1CDA: Vedic Tone Double Svarita: vaidika svarita uurdhva dvi rekhaa
+1CDB: Vedic Tone Triple Svarita: vaidika svarita uurdhva tri rekhaa
+1CDC: Vedic Tone Kathaka Anudatta: vaidika svarita adho rekhaa
+1CDD: Vedic Tone Dot Below: vaidika svarita adho bindu
+1CDE: Vedic Tone Two Dots Below: vaidika svarita adho dvi bindu, ..
+1CDF: Vedic Tone Three Dots Below: vaidika svarita adhas tri bindu
+1CE0: Vedic Tone Rigvedic Kashmiri Independent Svarita: vaidika uurdhva vakra rekhaa
+1CE1: Vedic Tone Atharvavedic Independent Svarita: vaidika svarita dvi vakra khannda
+1CE2: Vedic Sign Visarga Svarita: vaidika madhyarekhaa
+1CE3: Vedic Sign Visarga Udatta: vaidika visarga dakshinnatah uurdhvaga
+1CE4: Vedic Sign Reversed Visarga Udatta: vaidika visarga vaamatah uurdhvaga
+1CE5: Vedic Sign Visarga Anudatta: vaidika visarga vaamatah adhoga
+1CE6: Vedic Sign Reversed Visarga Anudatta: vaidika visarga dakshinnatah adhoga
+1CE7: Vedic Sign Visarga Udatta with Tail: vaidika visarga dakshinnatah uurdhva vakra
+1CE8: Vedic Sign Visarga Anudatta with Tail: vaidika visarga vaamatah adho vakra
+1CE9: Vedic Sign Anusvara Antargomukha: vaidika anusvaara antarmukha
+1CEA: Vedic Sign Anusvara Bahirgomukha: vaidika anusvaara naagaphanna
+1CEB: Vedic Sign Anusvara Vamagomukha: vaidika anusvaara vaamagomukha
+1CEC: Vedic Sign Anusvara Vamagomukha with Tail: vaidika anusvaara vaamagomukha sa-vakra
+1CED: Vedic Sign Tiryak: vaidika tiryak
+1CEE: Vedic Sign Hexiform Long Anusvara: vaidika anusvaara anugaamii
+1CEF: Vedic Sign Long Anusvara: vaidika anusvaara dakshinnamukha
+1CF0: Vedic Sign Rthang Long Anusvara: vaidika anusvaara ttha-sadrisha
+1CF1: Vedic Sign Anusvara Ubhayato Mukha: vaidika anusvaara ubhayato mukha
+1CF2: Vedic Sign Ardhavisarga: vaidika jihvaamuuliiya upadhmaaniiya
 1CF3: Vedic Sign Rotated Ardhavisarga
 1CF4: Vedic Tone Candra Above
 1CF5: Vedic Sign Jihvamuliya
@@ -246,7 +248,7 @@
 1CF7: Vedic Sign Atikrama: vaidika saamagaana atikrama
 1CF8: Vedic Tone Ring Above
 1CF9: Vedic Tone Double Ring Above
-1CFA:
+1CFA: Vedic Sign Double Anusvara Antargomukha
 1CFB:
 1CFC:
 1CFD:

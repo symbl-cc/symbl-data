@@ -1,3 +1,5 @@
+hide: Esconder
+show: Mostrar
 up: Acima
 range: Alcance
 loading: Carregando, por favor espere...
@@ -18,6 +20,14 @@ read-less: ocultar
 madeby: Feito por
 keepupdates: Siga-nos
 hint: Selecione e copie o caractere que você precisa
+
+copied: Copiado!
+see_also: Ver também
+page_content_menu: Sumário
+homepage: Pagina inicial
+cookie-message: Este site usa 🍪cookie para garantir que você obtenha a melhor experiência.
+accept: Aceitar
+empty-cell: Célula vazia
 
 [mobile]
 to-full: Ir para a versão completa

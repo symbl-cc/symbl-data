@@ -1,11 +1,11 @@
-2900: Dikey İnme ile Sağdan İki Başlı Ok : z notasyonu kısmi keşif
-2901: Çift Dikey Vurmalı Sağdan İki Başlı Ok : z notasyonlu sonlu denetim
+2900: Dikey İnme ile Sağdan İki Başlı Ok: z notasyonu kısmi keşif
+2901: Çift Dikey Vurmalı Sağdan İki Başlı Ok: z notasyonlu sonlu denetim
 2902: Dikey İnme ile Soldan Çift Ok
 2903: Dikey İnme ile Sağa Çift Ok
 2904: Dikey İnme ile Sol Sağ Çift Ok
-2905: Bar'dan sağa iki başlı ok : ile eşleşir
-2906: Bardan Sola Çift Ok : haritalar
-2907: Bardan Sağa Çift Ok : ile eşleşir
+2905: Bar'dan sağa iki başlı ok: ile eşleşir
+2906: Bardan Sola Çift Ok: haritalar
+2907: Bardan Sağa Çift Ok: ile eşleşir
 2908: Yatay İnme ile Aşağı Ok
 2909: Yatay İnme ile Yukarı Ok
 290A: Yukarı Üçlü Ok
@@ -18,11 +18,11 @@
 2911: Noktalı Kök ile Sağa Ok
 2912: Yukarı Ok Çubuğa
 2913: Çubuğa Aşağı Ok
-2914: Dikey Stroklu Kuyruklu Ok : z notasyonu kısmi enjeksiyon
-2915: Çift Dikey Stroklu Kuyruklu Sağ Ok : z notasyonlu sonlu enjeksiyon
-2916: Sağa Kuyruklu İki Başlı Ok : bijective eşleme : z gösterim bijection
-2917: Dikey Vurmalı Kuyruklu, İki Başlı Ok : z notasyonu sıyırma enjeksiyonu
-2918: Çift Dikey Vurmalı Kuyruklu, İki Başlı Ok : z notasyonlu sonlu sıyırma enjeksiyonu
+2914: Dikey Stroklu Kuyruklu Ok: z notasyonu kısmi enjeksiyon
+2915: Çift Dikey Stroklu Kuyruklu Sağ Ok: z notasyonlu sonlu enjeksiyon
+2916: Sağa Kuyruklu İki Başlı Ok: bijective eşleme , z gösterim bijection
+2917: Dikey Vurmalı Kuyruklu, İki Başlı Ok: z notasyonu sıyırma enjeksiyonu
+2918: Çift Dikey Vurmalı Kuyruklu, İki Başlı Ok: z notasyonlu sonlu sıyırma enjeksiyonu
 2919: Sol Ok Kuyruğu
 291A: Sağ Ok Kuyruğu
 291B: Soldan Çift Oklu Kuyruk
@@ -212,23 +212,23 @@
 29D3: Siyah Papyon
 29D4: Sol Yarı Siyahlı Kez
 29D5: Sağ Yarı Siyahlı Kez
-29D6: Beyaz Kum Saati : dikey papyon : beyaz çerçeve
+29D6: Beyaz Kum Saati: dikey papyon , beyaz çerçeve
 29D7: Siyah Kum Saati
 29D8: Sol Kıpır Kıpır Çit
 29D9: Doğru Wiggly Çit
 29DA: Sol Çift Wiggly Çiti
 29DB: Sağ Çift Wiggly Çit
-29DC: Eksik Sonsuzluk : izoteknik varlık & iinfin;
+29DC: Eksik Sonsuzluk: izoteknik varlık & iinfin,
 29DD: Sonsuzluğa Bağlan
 29DE: Dikey Çubuklu Negatif Sonsuzluk
 29DF: Çift Uçlu Multimap
-29E0: Konturlu Anahat Kare : d'alembertian
+29E0: Konturlu Anahat Kare: d'alembertian
 29E1: Artırır
 29E2: Shuffle Ürünü
 29E3: Eşittir İşaret ve Eğimli Paralel
 29E4: Tilde ile paralel işaretli ve eğimli eşittir
 29E5: Aynı ve Eğik Paralel
-29E6: Gleich Stark : tatolojik eşdeğer
+29E6: Gleich Stark: tatolojik eşdeğer
 29E7: Termodinamik
 29E8: Sol Yarım Siyah Aşağı Yönlü Üçgen
 29E9: Sağ Yarım Siyah Aşağı Yönlü Üçgen
@@ -242,12 +242,12 @@
 29F1: Hata Çubuklu Black Diamond
 29F2: Hata Çubuklu Beyaz Daire
 29F3: Hata Çubuklu Siyah Daire
-29F4: Kurala Gecikmeli : kolon sağ ok
+29F4: Kurala Gecikmeli: kolon sağ ok
 29F5: Ters Solidus Operatörü
 29F6: Üst Çubuklu Solidus
 29F7: Yatay İnme ile Ters Solidus
 29F8: Büyük Solidus
-29F9: Büyük Ters Solidus : z gösterim şeması gizleme
+29F9: Büyük Ters Solidus: z gösterim şeması gizleme
 29FA: Çift artı
 29FB: Üçlü Artı
 29FC: Sol İşaret Kavisli Açılı Braket

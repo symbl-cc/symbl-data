@@ -3,15 +3,15 @@
 2B02: Flecha blanca del sureste
 2B03: Sudoeste flecha blanca
 2B04: Izquierda derecha flecha blanca
-2B05: Flecha negra hacia la izquierda
-2B06: Flecha negra hacia arriba
-2B07: Flecha negra hacia abajo
-2B08: Flecha negra del noreste
-2B09: Flecha negra del noroeste
-2B0A: Flecha negra sur este
-2B0B: Sudoeste flecha negra
-2B0C: Izquierda derecha flecha negra
-2B0D: Arriba abajo flecha negra
+2B05: Flecha blanca hacia la izquierda
+2B06: Flecha blanca hacia arriba
+2B07: Flecha blanca hacia abajo
+2B08: Flecha blanca del noreste
+2B09: Flecha blanca del noroeste
+2B0A: Flecha blanca sur este
+2B0B: Sudoeste flecha blanca
+2B0C: Izquierda derecha flecha blanca
+2B0D: Arriba abajo flecha blanca
 2B0E: Flecha hacia la derecha con la punta hacia abajo
 2B0F: Flecha hacia la derecha con la punta hacia arriba
 2B10: Flecha hacia la izquierda con la punta hacia abajo
@@ -78,16 +78,16 @@
 2B4D: Flecha en zigzag de cabeza triangular hacia abajo
 2B4E: Flecha norte inclinada corta
 2B4F: Flecha sur inclinada hacia atrás corta
-2B50: Estrella mediana blanca : Estrella amarilla
+2B50: Estrella mediana blanca: Estrella amarilla
 2B51: Pequeña estrella negra
 2B52: Pequeña estrella blanca
 2B53: Pentágono negro que señala hacia la derecha
 2B54: Pentágono blanco que señala hacia la derecha
-2B55: Círculo grande pesado : Símbolo básico para el límite de velocidad, correcto, círculo rojo, marca de círculo
-2B56: Óvalo pesado con interior oval : oficina prefectural
-2B57: Círculo pesado con círculo dentro : oficina Municipal
-2B58: Círculo pesado : oficina de la ciudad o pueblo
-2B59: Saltire en círculo pesado : estación de policía
+2B55: Círculo grande pesado: Símbolo básico para el límite de velocidad, correcto, círculo rojo, marca de círculo
+2B56: Óvalo pesado con interior oval: oficina prefectural
+2B57: Círculo pesado con círculo dentro: oficina Municipal
+2B58: Círculo pesado: oficina de la ciudad o pueblo
+2B59: Saltire en círculo pesado: estación de policía
 2B5A: Flecha norte inclinada con cabeza enganchada
 2B5B: Flecha sur inclinada hacia atrás con cola enganchada
 2B5C: Flecha norte inclinada con cola horizontal
@@ -110,20 +110,20 @@
 2B6D: Flecha puntiaguda en forma de triángulo hacia abajo
 2B6E: Círculo abierto en el sentido de las agujas del reloj Círculo abierto
 2B6F: Círculo abierto en sentido contrario a las agujas del triángulo
-2B70: Flecha hacia la izquierda en forma de triángulo hacia la barra : pestaña izquierda
-2B71: Flecha hacia arriba en forma de triángulo hacia la barra : pestaña arriba
-2B72: Flecha hacia la derecha en forma de triángulo hacia la barra : pestaña derecha
-2B73: Flecha hacia abajo en forma de triángulo hacia la barra : pestaña hacia abajo
+2B70: Flecha hacia la izquierda en forma de triángulo hacia la barra: pestaña izquierda
+2B71: Flecha hacia arriba en forma de triángulo hacia la barra: pestaña arriba
+2B72: Flecha hacia la derecha en forma de triángulo hacia la barra: pestaña derecha
+2B73: Flecha hacia abajo en forma de triángulo hacia la barra: pestaña hacia abajo
 2B74:
 2B75:
-2B76: Flecha de cabeza de triángulo noroeste a barra : casa
+2B76: Flecha de cabeza de triángulo noroeste a barra: casa
 2B77: Flecha de cabeza de triángulo noreste a barra
-2B78: Flecha de cabeza de triángulo sur este a barra : fin
+2B78: Flecha de cabeza de triángulo sur este a barra: fin
 2B79: Flecha de cabeza de triángulo sudoeste a barra
 2B7A: Flecha hacia la izquierda en forma de triángulo con doble trazo horizontal
-2B7B: Flecha hacia arriba en forma de triángulo con doble trazo horizontal : página arriba
+2B7B: Flecha hacia arriba en forma de triángulo con doble trazo horizontal: página arriba
 2B7C: Flecha en forma de triángulo hacia la derecha con doble trazo horizontal
-2B7D: Flecha hacia abajo en forma de triángulo con doble trazo horizontal : Página abajo
+2B7D: Flecha hacia abajo en forma de triángulo con doble trazo horizontal: Página abajo
 2B7E: Tecla de tabulación horizontal
 2B7F: Tecla de tabulación vertical
 2B80: Flecha de cabeza triangular hacia la izquierda Flecha de cabeza triangular hacia la derecha
@@ -146,10 +146,10 @@
 2B91: Derecho de retorno
 2B92: Nueva linea izquierda
 2B93: Nueva linea derecha
-2B94: Cuatro flechas de esquina que giran en sentido antihorario : lazo
+2B94: Cuatro flechas de esquina que giran en sentido antihorario: lazo
 2B95: Flecha negra hacia la derecha
 2B96:
-2B97:
+2B97: Símbolo para electrónica tipo A
 2B98: Punta de flecha equilátera hacia la izquierda tridimensional hacia arriba
 2B99: Punta de flecha equilátera hacia arriba con luz derecha tridimensional
 2B9A: Punta de flecha equilátera hacia la derecha con iluminación superior tridimensional
@@ -182,8 +182,8 @@
 2BB5: Flecha de la cinta derecha arriba
 2BB6: Flecha de la cinta izquierda abajo
 2BB7: Flecha de la cinta derecha abajo
-2BB8: Flecha blanca hacia arriba de la barra con barra horizontal : Bloq Mayús
-2BB9: Encima de la punta de flecha en una caja rectangular : escapar
+2BB8: Flecha blanca hacia arriba de la barra con barra horizontal: Bloq Mayús
+2BB9: Encima de la punta de flecha en una caja rectangular: escapar
 2BBA: Superposición de cuadrados blancos
 2BBB: Superposición de cuadrados blancos y negros
 2BBC: Cuadros negros superpuestos
@@ -199,7 +199,7 @@
 2BC6: Triángulo mediano apuntando hacia abajo centrado
 2BC7: Triángulo mediano hacia la izquierda mediano centrado
 2BC8: Triángulo mediano apuntando hacia la derecha centrado
-2BC9:
+2BC9: Nettuno forma due
 2BCA: La mitad superior del círculo negro
 2BCB: Parte inferior del círculo negro
 2BCC: Luz cuatro cúspide negra en punta
@@ -207,7 +207,7 @@
 2BCE: Cúspide de cuatro puntas blancas
 2BCF: Cúspide de cuatro puntas rotada blanca
 2BD0: Indicador de posición cuadrada
-2BD1: Señal de incertidumbre : consulta
+2BD1: Señal de incertidumbre: consulta
 2BD2: Marca de grupo
 2BD3: Plutón forma dos
 2BD4: Plutón forma tres
@@ -234,10 +234,10 @@
 2BE9: Derecha media estrella negra
 2BEA: Estrella con Mitad Izquierda Negra
 2BEB: Estrella con mitad derecha negra
-2BEC: Flecha de dos cabezas hacia la izquierda con puntas de flecha Tringle : cursor rápido a la izquierda
-2BED: Flecha hacia arriba de dos cabezas con puntas de flecha tringle : cursor rápido hacia arriba
-2BEE: Flecha de dos cabezas hacia la derecha con puntas de flecha Tringle : cursor rápido hacia la derecha
-2BEF: Flecha hacia abajo de dos cabezas con puntas de flecha tringle : cursor rápido hacia abajo
+2BEC: Flecha de dos cabezas hacia la izquierda con puntas de flecha Tringle: cursor rápido a la izquierda
+2BED: Flecha hacia arriba de dos cabezas con puntas de flecha tringle: cursor rápido hacia arriba
+2BEE: Flecha de dos cabezas hacia la derecha con puntas de flecha Tringle: cursor rápido hacia la derecha
+2BEF: Flecha hacia abajo de dos cabezas con puntas de flecha tringle: cursor rápido hacia abajo
 2BF0: Eris Forma Uno
 2BF1: Eris Forma Dos
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: Simbolo doble
 2BFD: Símbolo pasado
 2BFE: Ángulo recto invertido
-2BFF:
+2BFF: Símbolo de pausa Hellschreiber

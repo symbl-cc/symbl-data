@@ -46,7 +46,7 @@
 012D: Piccola lettera latina I con breve
 012E: Capitale latina Lettera I con Ogonek
 012F: Piccola lettera latina I con Ogonek
-0130: Capitale latina Lettera I con punto sopra : punto
+0130: Capitale latina Lettera I con punto sopra: punto
 0131: Lettera latina piccola Dotless I
 0132: Legatura della capitale latina Ij
 0133: Piccola legatura latina Ij
@@ -63,7 +63,7 @@
 013E: Carattere latino: lettera L con caronte
 013F: Lettera maiuscola latina L con punto centrale
 0140: Carattere latino: lettera L con punto centrale
-0141: Latin Capital Lettera L con tratto : litecoin
+0141: Latin Capital Lettera L con tratto: litecoin
 0142: Latina Lettere minuscole con tratto
 0143: Capitale latina N con acuto
 0144: Carattere latino: lettera N con acuto
@@ -71,9 +71,9 @@
 0146: Carattere latino: lettera N con Cedilla
 0147: Carattere latino: lettera N con Caron
 0148: Carattere latino: lettera N con caronte
-0149: La piccola lettera latina N preceduta da Apostrophe : lettera latina apostrofo n
+0149: La piccola lettera latina N preceduta da Apostrophe: lettera latina apostrofo n
 014A: Lettera maiuscola latina
-014B: Lettera latina inglese : engma, angma
+014B: Lettera latina inglese: engma, angma
 014C: Lettera maiuscola latina O con Macron
 014D: Latina piccola lettera O con Macron
 014E: Lettera maiuscola latina O con Breve
@@ -81,7 +81,7 @@
 0150: Capitale latina Lettera O con doppio acuto
 0151: Lettera minuscola latina O con doppio acuto
 0152: Legatura capitale latina Oe
-0153: Piccola legatura latina Oe : ethel (dal vecchio inglese eðel)
+0153: Piccola legatura latina Oe: ethel (dal vecchio inglese eðel)
 0154: Latin Capital Letter R with Acute
 0155: Latin Small Letter R with Acute
 0156: Latin Capital Letter R with Cedilla
@@ -139,25 +139,25 @@
 018A: Lettera maiuscola latina D con gancio
 018B: Latin Capital Letter D with Topbar
 018C: Latin Small Letter D con Topbar
-018D: Delta di lettere minuscole latine : gancio smerigliato rovesciato o
-018E: Lettera maiuscola latina invertita E : trasformato e
+018D: Delta di lettere minuscole latine: gancio smerigliato rovesciato o
+018E: Lettera maiuscola latina invertita E: trasformato e
 018F: Lettera maiuscola latina Schwa
-0190: Latin Capital Letter Open E : epsilon
+0190: Latin Capital Letter Open E: epsilon
 0191: Lettera maiuscola latina F con gancio
-0192: Latina piccola lettera F con gancio : sceneggiatura f : simbolo di valuta del fiorino (paesi bassi) : simbolo di funzione
+0192: Latina piccola lettera F con gancio: sceneggiatura f , simbolo di valuta del fiorino (paesi bassi) , simbolo di funzione
 0193: Lettera maiuscola latina G con gancio
 0194: Lettera maiuscola latina Gamma
 0195: Carattere latino: lettera Hv
 0196: Carattere latino: lettera Iota
-0197: Lettera maiuscola latina I con tratto : escluso io, io bar
+0197: Lettera maiuscola latina I con tratto: escluso io, io bar
 0198: Capitale latina Lettera K con gancio
 0199: Lettera minuscola latina K con gancio
-019A: Latina Lettere minuscole con barra : escluso l
-019B: Carattere latino: lettera Lambda con tratto : lambda barrato, barra lambda
+019A: Latina Lettere minuscole con barra: escluso l
+019B: Carattere latino: lettera Lambda con tratto , lambda barrato, barra lambda
 019C: Lettera maiuscola latina trasformata m
 019D: Lettera maiuscola latina N con gancio sinistro
 019E: Latina piccola lettera N con lunga gamba destra
-019F: Capitale latina Lettera O con tilde centrale : escluso o, o bar
+019F: Capitale latina Lettera O con tilde centrale: escluso o, o bar
 01A0: Lettera maiuscola latina O con corno
 01A1: Carattere latino: lettera O con corno
 01A2: Lettera maiuscola latina Oi
@@ -176,11 +176,11 @@
 01AF: Capitale latina Lettera U con corno
 01B0: Carattere latino: lettera U con corno
 01B1: Lettera maiuscola latina Upsilon
-01B2: Lettera maiuscola latina V con gancio : script v
+01B2: Lettera maiuscola latina V con gancio: script v
 01B3: Capitale latina Lettera Y con gancio
 01B4: Piccola lettera latina Y con gancio
 01B5: Capitale latina Lettera Z con tratto
-01B6: Latina piccola lettera Z con tratto : barra barrata, z bar
+01B6: Latina piccola lettera Z con tratto: barra barrata, z bar
 01B7: Lettera maiuscola latina Ezh
 01B8: Lettera maiuscola latina Ezh rovesciata
 01B9: Piccola lettera latina Ezh rovesciata
@@ -189,11 +189,11 @@
 01BC: Latin Capital Letter Tone Five
 01BD: Latin Small Letter Tone Five
 01BE: Lettera latina invertita fermata glottale con ictus
-01BF: Lettera latina Wynn : natta
-01C0: Lettera latina clic dentale : tubo
-01C1: Clic latino lettera latina : doppio tubo
-01C2: Clic lettera alveolare latino : tubo a doppia sbarra : palatoalveolar click (ipa)
-01C3: Latino lettera Retroflex Click : lettera latina punto esclamativo : (post) click alveolare (ipa)
+01BF: Lettera latina Wynn: natta
+01C0: Lettera latina clic dentale: tubo
+01C1: Clic latino lettera latina: doppio tubo
+01C2: Clic lettera alveolare latino: tubo a doppia sbarra , palatoalveolar click (ipa)
+01C3: Latino lettera Retroflex Click: lettera latina punto esclamativo , (post) click alveolare (ipa)
 01C4: Lettera maiuscola latina Dz con Caron
 01C5: Capitale latina Lettera D con piccola lettera Z con Caron
 01C6: Lettera minuscola latina Dz con Caron
@@ -245,7 +245,7 @@
 01F4: Latin Capital Letter G with Acute
 01F5: Lettera minuscola latina G con acuta
 01F6: Capitale latina Hwair
-01F7: Lettera maiuscola latina Wynn : natta
+01F7: Lettera maiuscola latina Wynn: natta
 01F8: Lettera maiuscola latina con tomba
 01F9: Carattere latino: lettera N con tomba
 01FA: Lettera maiuscola latina a con anello sopra e acuto

@@ -1,12 +1,18 @@
-title: Unicode®-Zeichentabelle
+title: Unicode Zeichentabelle
+unicode: Unicode
+
+[mainpage]: Hauptseite
 
 [sets]: Symbolgruppen
 set: Set
 list: Symbolgruppen
+title: Beliebte Symbolgruppen
+all: Alles sehen
 
 [blocks]: Absätze
 block: Block
-blocks: Liste der Unicode-Absätze
+blocks: Liste der Unicodeblöcke
+list: Unicode
 
 [languages]: Sprachen
 list: Liste der Sprachen
@@ -19,6 +25,16 @@ blocks: Sektion der Sprachen
 # @todo list
 list: Alphabete
 
+[holidays]: Feiertage
+list: Feiertage
+
 [types]
 # @todo list
 # @todo type
+
+[html-entities]: HTML Entitäten, typografische Zeichen in HTML
+list: HTML Entitäten
+
+[alt-codes]: ALT-Codes für Windows
+list: Alt Сodes
+en: Englisches Tastaturlayout

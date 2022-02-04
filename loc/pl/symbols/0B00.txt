@@ -1,81 +1,81 @@
 0B00:
-0B01: Oriya Sign Candrabindu
-0B02: Oriya Sign Anusvara
-0B03: Oriya Sign Visarga
+0B01: Oriya znak Candrabindu
+0B02: Oriya znak Anusvara
+0B03: Oriya znak Visarga
 0B04:
-0B05: Oriya Letter A
-0B06: Oriya Letter Aa
-0B07: Oriya Letter I
-0B08: Oriya Letter Ii
-0B09: Oriya Letter U
-0B0A: Oriya Letter Uu
-0B0B: Oriya Letter Vocalic R
-0B0C: Oriya Letter Vocalic L
+0B05: Oriya litera A
+0B06: Oriya litera Aa
+0B07: Oriya litera I
+0B08: Oriya litera Ii
+0B09: Oriya litera U
+0B0A: Oriya litera Uu
+0B0B: Oriya litera wokaliczny R
+0B0C: Oriya litera wokaliczny L
 0B0D:
 0B0E:
 0B0F: Oriya Litera E
-0B10: Oriya Letter Ai
+0B10: Oriya litera Ai
 0B11:
 0B12:
-0B13: Oriya Letter O
-0B14: Oriya Letter Au
+0B13: Oriya litera O
+0B14: Oriya litera Au
 0B15: Oriya Litera Ka
-0B16: Oriya Letter Kha
-0B17: Oriya Letter Ga
-0B18: Oriya Letter Gha
-0B19: Oriya Letter Nga
-0B1A: Oriya Letter Ca
-0B1B: Oriya Letter Cha
-0B1C: Oriya Letter Ja
-0B1D: Oriya Letter Jha
-0B1E: Oriya Letter Nya
-0B1F: Oriya Letter Tta
+0B16: Oriya litera Kha
+0B17: Oriya litera Ga
+0B18: Oriya litera Gha
+0B19: Oriya litera Nga
+0B1A: Oriya litera Ca
+0B1B: Oriya litera Cha
+0B1C: Oriya litera Ja
+0B1D: Oriya litera Jha
+0B1E: Oriya litera Nya
+0B1F: Oriya litera Tta
 0B20: List Oriya Ttha
-0B21: Oriya Letter Dda
-0B22: Oriya Letter Ddha
+0B21: Oriya litera Dda
+0B22: Oriya litera Ddha
 0B23: List Oriya Nna
-0B24: Oriya Letter Ta
-0B25: Oriya Letter Tha
-0B26: Oriya Letter Da
-0B27: Oriya Letter Dha
-0B28: Oriya Letter Na
+0B24: Oriya litera Ta
+0B25: Oriya litera Tha
+0B26: Oriya litera Da
+0B27: Oriya litera Dha
+0B28: Oriya litera Na
 0B29:
-0B2A: Oriya Letter Pa
-0B2B: Oriya Letter Pha
-0B2C: Oriya Letter Ba
-0B2D: Oriya Letter Bha
-0B2E: Oriya Letter Ma
-0B2F: Oriya Letter Ya : ja
-0B30: Oriya Letter Ra
+0B2A: Oriya litera Pa
+0B2B: Oriya litera Pha
+0B2C: Oriya litera Ba
+0B2D: Oriya litera Bha
+0B2E: Oriya litera Ma
+0B2F: Oriya litera Ya: ja
+0B30: Oriya litera Ra
 0B31:
-0B32: Oriya Letter La
-0B33: Oriya Letter Lla
+0B32: Oriya litera La
+0B33: Oriya litera Lla
 0B34:
-0B35: Oriya Letter Va
-0B36: Oriya Letter Sha
-0B37: Oriya Letter Ssa
-0B38: Oriya Letter Sa
-0B39: Oriya Letter Ha
+0B35: Oriya litera Va
+0B36: Oriya litera Sha
+0B37: Oriya litera Ssa
+0B38: Oriya litera Sa
+0B39: Oriya litera Ha
 0B3A:
 0B3B:
-0B3C: Oriya Sign Nukta
-0B3D: Oriya Sign Avagraha
-0B3E: Oriya Vowel Sign Aa
-0B3F: Oriya Vowel Sign I
-0B40: Oriya Vowel Sign Ii
-0B41: Oriya Vowel Sign U
-0B42: Oriya Vowel Sign Uu
-0B43: Oriya Vowel Sign Vocalic R
-0B44: Oriya Vowel Sign Vocalic Rr
+0B3C: Oriya znak Nukta
+0B3D: Oriya znak Avagraha
+0B3E: Oriya samogłoska znak Aa
+0B3F: Oriya samogłoska znak I
+0B40: Oriya samogłoska znak Ii
+0B41: Oriya samogłoska znak U
+0B42: Oriya samogłoska znak Uu
+0B43: Oriya samogłoska znak wokaliczny R
+0B44: Oriya samogłoska znak wokaliczny Rr
 0B45:
 0B46:
-0B47: Oriya Vowel Sign E
-0B48: Oriya Vowel Sign Ai
+0B47: Oriya samogłoska znak E
+0B48: Oriya samogłoska znak Ai
 0B49:
 0B4A:
-0B4B: Oriya Vowel Sign O
-0B4C: Oriya Vowel Sign Au
-0B4D: Oriya Sign Virama
+0B4B: Oriya samogłoska znak O
+0B4C: Oriya samogłoska znak Au
+0B4D: Oriya znak Virama
 0B4E:
 0B4F:
 0B50:
@@ -83,21 +83,21 @@
 0B52:
 0B53:
 0B54:
-0B55:
+0B55: Oriya znak Overline
 0B56: Oriya Ai Length Mark
 0B57: Oriya Au Length Mark
 0B58:
 0B59:
 0B5A:
 0B5B:
-0B5C: Oriya Letter Rra : dda
-0B5D: Oriya Letter Rha : ddha
+0B5C: Oriya litera Rra: dda
+0B5D: Oriya litera Rha: ddha
 0B5E:
-0B5F: Oriya Letter Yya : tak
-0B60: Oriya Letter Vocalic Rr
-0B61: Oriya Letter Vocalic Ll
-0B62: Oriya Vowel Sign Vocalic L
-0B63: Oriya Vowel Sign Vocalic Ll
+0B5F: Oriya litera Yya: tak
+0B60: Oriya litera wokaliczny Rr
+0B61: Oriya litera wokaliczny Ll
+0B62: Oriya samogłoska znak wokaliczny L
+0B63: Oriya samogłoska znak wokaliczny Ll
 0B64: <Zarezerwowane>
 0B65: <Zarezerwowane>
 0B66: Oriya Digit Zero
@@ -111,7 +111,7 @@
 0B6E: Oriya Digit Eight
 0B6F: Oriya Digit Nine
 0B70: Oriya Isshar
-0B71: Oriya Letter Wa
+0B71: Oriya litera Wa
 0B72: Oriya Fraction One Quarter
 0B73: Oriya Fraction One Half
 0B74: Oriya Fraction Three Quarters
@@ -129,7 +129,7 @@
 0B80:
 0B81:
 0B82: Tamilski znak Anusvara
-0B83: Tamil Sign Visarga : aytham
+0B83: Tamil znak Visarga: aytham
 0B84:
 0B85: Tamilski list A
 0B86: Tamilski list Aa
@@ -182,7 +182,7 @@
 0BB5: Tamilska litera Va
 0BB6: Tamilski list Sha
 0BB7: Tamilski List Ssa
-0BB8: Tamil Letter Sa
+0BB8: Tamil litera Sa
 0BB9: Tamilski List Ha
 0BBA:
 0BBB:
@@ -192,7 +192,7 @@
 0BBF: Tamilski samogłoska I znak
 0BC0: Tamilski samogłoska Ii
 0BC1: Tamilski samogłoska U
-0BC2: Tamilski Vowel Sign Uu
+0BC2: Tamilski samogłoska znak Uu
 0BC3:
 0BC4:
 0BC5:
@@ -201,9 +201,9 @@
 0BC8: Tamilski samogłoska Ai
 0BC9:
 0BCA: Tamilski samogłoska O
-0BCB: Tamilski Vowel Sign Oo
-0BCC: Tamil Vowel Sign Au
-0BCD: Tamilski znak Virama : pulli
+0BCB: Tamilski samogłoska znak Oo
+0BCC: Tamil samogłoska znak Au
+0BCD: Tamilski znak Virama: pulli
 0BCE:
 0BCF:
 0BD0: Tamil Om
@@ -241,16 +241,16 @@
 0BF0: Tamilski numer dziesięć
 0BF1: Tamilski numer jeden sto
 0BF2: Tamilski numer jeden tysiąc
-0BF3: Znak Tamil Day : naal
-0BF4: Znak miesiąca tamilskiego : maatham
-0BF5: Tamilski znak roku : varudam
-0BF6: Tamilski znak debetowy : patru
-0BF7: Tamilski znak kredytowy : varavu
-0BF8: Tamil jako znak powyżej : merpadi
-0BF9: Znak tamilskiej rupii : rupai
-0BFA: Znak numeru tamilskiego : enn
+0BF3: Znak Tamil Day: naal
+0BF4: Znak miesiąca tamilskiego: maatham
+0BF5: Tamilski znak roku: varudam
+0BF6: Tamilski znak debetowy: patru
+0BF7: Tamilski znak kredytowy: varavu
+0BF8: Tamil jako znak powyżej: merpadi
+0BF9: Znak tamilskiej rupii: rupai
+0BFA: Znak numeru tamilskiego: enn
 0BFB:
 0BFC:
 0BFD:
 0BFE:
-0BFF:
+0BFF:

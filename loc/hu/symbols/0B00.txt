@@ -1,64 +1,64 @@
 0B00:
 0B01: Keleti jel Candrabindu
 0B02: Oriya Jel Anusvara
-0B03: Oriya Sign Visarga
+0B03: Oriya jel Visarga
 0B04:
-0B05: Oriya A betű
-0B06: Oriya levél Aa
-0B07: Oriya I. levél
-0B08: Oriya levél Ii
-0B09: U. U
-0B0A: Ura Uu
-0B0B: Oriya levél Vocalic R
-0B0C: Oriya levél Vocalic L
+0B05: Oriya betű A
+0B06: Oriya betű Aa
+0B07: Oriya betű I
+0B08: Oriya betű Ii
+0B09: Oriya betű U
+0B0A: Oriya betű Uu
+0B0B: Oriya betű Vocalic R
+0B0C: Oriya betű Vocalic L
 0B0D:
 0B0E:
-0B0F: Oriya E betű
-0B10: Oriya levél Ai
+0B0F: Oriya betű E
+0B10: Oriya betű Ai
 0B11:
 0B12:
-0B13: Oriya levél O
-0B14: Oriya levél Au
-0B15: Oriya Letter Ka
-0B16: Kha Kha
-0B17: Gaya Gaia
-0B18: Oriya levél Gha
-0B19: Oriya levél Nga
-0B1A: Oriya levél Ca
-0B1B: Oriya levél Cha
-0B1C: Oriya Letter Ja
-0B1D: Oriya levél Jha
-0B1E: Oriya levél Nya
-0B1F: Oriya levél Tta
-0B20: Oriya levél Ttha
-0B21: Oriya levél Dda
-0B22: Oriya levél Ddha
-0B23: Naya Nája
-0B24: Oriya levél Ta
-0B25: Oriya levél Tha
-0B26: Oriya levél Da
-0B27: Oriya levél Dha
-0B28: Oriya levél Na
+0B13: Oriya betű O
+0B14: Oriya betű Au
+0B15: Oriya betű Ka
+0B16: Oriya betű Kha
+0B17: Oriya betű Ga
+0B18: Oriya betű Gha
+0B19: Oriya betű Nga
+0B1A: Oriya betű Ca
+0B1B: Oriya betű Cha
+0B1C: Oriya betű Ja
+0B1D: Oriya betű Jha
+0B1E: Oriya betű Nya
+0B1F: Oriya betű Tta
+0B20: Oriya betű Ttha
+0B21: Oriya betű Dda
+0B22: Oriya betű Ddha
+0B23: Oriya betű Nna
+0B24: Oriya betű Ta
+0B25: Oriya betű Tha
+0B26: Oriya betű Da
+0B27: Oriya betű Dha
+0B28: Oriya betű Na
 0B29:
-0B2A: Oriya levél Pa
-0B2B: Oriya levél Pha
-0B2C: Baya Ba
-0B2D: Bya Bha
-0B2E: Oriya levél Ma
-0B2F: Ya Ya : ja
-0B30: Oriya levél Ra
+0B2A: Oriya betű Pa
+0B2B: Oriya betű Pha
+0B2C: Oriya betű Ba
+0B2D: Oriya betű Bha
+0B2E: Oriya betű Ma
+0B2F: Oriya betű Ya: ja
+0B30: Oriya betű Ra
 0B31:
-0B32: Oriya levél La
-0B33: Oriya Lla Lla
+0B32: Oriya betű La
+0B33: Oriya betű Lla
 0B34:
-0B35: Oriya levél Va
-0B36: Oriya levél Sha
-0B37: Sya Sya
-0B38: Oriya levél Sa
-0B39: Oriya levél Ha
+0B35: Oriya betű Va
+0B36: Oriya betű Sha
+0B37: Oriya betű Ssa
+0B38: Oriya betű Sa
+0B39: Oriya betű Ha
 0B3A:
 0B3B:
-0B3C: Oriya Sign Nukta
+0B3C: Oriya jel Nukta
 0B3D: Oriya jel Avagraha
 0B3E: Oriya magánhangzó jel Aa
 0B3F: Oriya magánhangzó jel I
@@ -75,7 +75,7 @@
 0B4A:
 0B4B: Oriya magánhangzó jel O
 0B4C: Oriya magánhangzó jel Au
-0B4D: Oriya Sign Virama
+0B4D: Oriya jel Virama
 0B4E:
 0B4F:
 0B50:
@@ -83,17 +83,17 @@
 0B52:
 0B53:
 0B54:
-0B55:
+0B55: Oriya jel Overline
 0B56: Oriya Ai hossza Mark
 0B57: Oriya Au hossza Mark
 0B58:
 0B59:
 0B5A:
 0B5B:
-0B5C: Oriya levél Rra : dda
-0B5D: Oriya levél Rha : ddha
+0B5C: Oriya levél Rra: dda
+0B5D: Oriya levél Rha: ddha
 0B5E:
-0B5F: Oriya levél Yya : ya
+0B5F: Oriya levél Yya: ya
 0B60: Oriya levél vokális Rr
 0B61: Oriya levél Vocalic Ll
 0B62: Oriya magánhangzó jel vokális L
@@ -129,7 +129,7 @@
 0B80:
 0B81:
 0B82: Tamil jel Anusvara
-0B83: Tamil jel Visarga : aytham
+0B83: Tamil jel Visarga: aytham
 0B84:
 0B85: Tamil levél A
 0B86: Tamil levél Aa
@@ -154,7 +154,7 @@
 0B99: Tamil levél Nga
 0B9A: Tamil levél Ca
 0B9B:
-0B9C: Tamil Letter Ja
+0B9C: Tamil betű Ja
 0B9D:
 0B9E: Tamil levél Nya
 0B9F: Tamil levél Tta
@@ -203,7 +203,7 @@
 0BCA: Tamil magánhangzó jel O
 0BCB: Tamil magánhangzó Oo
 0BCC: Tamil magánhangzó jel Au
-0BCD: Tamil Sign Virama : Pulli
+0BCD: Tamil jel Virama: Pulli
 0BCE:
 0BCF:
 0BD0: Tamil Om
@@ -241,16 +241,16 @@
 0BF0: Tamil szám tíz
 0BF1: Tamil szám száz
 0BF2: Tamil száma ezer
-0BF3: Tamil nap jel : NaAl
-0BF4: Tamil hónap jel : maatham
-0BF5: Tamil év jel : varudam
-0BF6: Tamil Debit Sign : patru
-0BF7: Tamil Credit Sign : varavu
-0BF8: Tamil, mint a fenti jel : merpadi
-0BF9: Tamil rúpia jel : rupai
-0BFA: Tamil szám jel : enn
+0BF3: Tamil nap jel: NaAl
+0BF4: Tamil hónap jel: maatham
+0BF5: Tamil év jel: varudam
+0BF6: Tamil Debit jel: patru
+0BF7: Tamil Credit jel: varavu
+0BF8: Tamil, mint a fenti jel: merpadi
+0BF9: Tamil rúpia jel: rupai
+0BFA: Tamil szám jel: enn
 0BFB:
 0BFC:
 0BFD:
 0BFE:
-0BFF:
+0BFF:

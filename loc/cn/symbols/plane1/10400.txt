@@ -41,7 +41,7 @@
 10428: Deseret Small Letter Long I
 10429: Deseret小写字母E
 1042A: Deseret小写字母A
-1042B: Deseret小信长啊
+1042B: Deseret小字母长啊
 1042C: Deseret小写字母长O.
 1042D: Deseret小写字母长Oo
 1042E: Deseret小写字母我
@@ -52,19 +52,19 @@
 10433: Deseret小写字母短Oo
 10434: Deseret小写字母Ay
 10435: Deseret小写字母Ow
-10436: Deseret小信吴
-10437: Deseret小信Yee
+10436: Deseret小字母吴
+10437: Deseret小字母Yee
 10438: Deseret小写字母H.
-10439: Deseret小信小便
-1043A: Deseret小信蜜蜂
+10439: Deseret小字母小便
+1043A: Deseret小字母蜜蜂
 1043B: Deseret小号字母T恤
-1043C: Deseret小信Dee
+1043C: Deseret小字母Dee
 1043D: Deseret Small Letter Chee
 1043E: Deseret小写字母Jee
-1043F: Deseret小信凯
+1043F: Deseret小字母凯
 10440: Deseret小写字母同性恋
 10441: Deseret小写字母Ef
-10442: Deseret小信Vee
+10442: Deseret小字母Vee
 10443: Deseret Small Letter Eth
 10444: Deseret小写字母Thee
 10445: Deseret Small Letter Es
@@ -81,49 +81,49 @@
 10450: Shavian Letter Peep
 10451: Shavian Letter Tot
 10452: Shavian Letter Kick
-10453: Shavian信费
-10454: Shavian信大腿
+10453: Shavian字母费
+10454: Shavian字母大腿
 10455: Shavian字母所以
-10456: Shavian的信肯定
-10457: Shavian信教堂
+10456: Shavian的字母肯定
+10457: Shavian字母教堂
 10458: Shavian Letter Yea
 10459: Shavian Letter Hung
 1045A: Shavian字母围兜
-1045B: Shavian信死了
+1045B: Shavian字母死了
 1045C: Shavian字母堵嘴
-1045D: Shavian信誓
-1045E: Shavian信他们
-1045F: Shavian信件动物园
-10460: Shavian信件措施
-10461: Shavian信法官
-10462: Shavian信祸
+1045D: Shavian字母誓
+1045E: Shavian字母他们
+1045F: Shavian字母件动物园
+10460: Shavian字母件措施
+10461: Shavian字母法官
+10462: Shavian字母祸
 10463: Shavian Letter Ha-Ha
 10464: Shavian Letter Loll
 10465: Shavian字母Mime
 10466: Shavian Letter如果
-10467: Shavian信蛋
+10467: Shavian字母蛋
 10468: Shavian Letter Ash
 10469: Shavian Letter Ado
-1046A: Shavian信
+1046A: Shavian字母
 1046B: Shavian字母羊毛
-1046C: Shavian信件
+1046C: Shavian字母件
 1046D: Shavian字母啊
 1046E: Shavian Letter Roar
 1046F: Shavian字母尼姑
-10470: Shavian信吃
-10471: Shavian信件时代
-10472: Shavian信冰
-10473: Shavian信件
-10474: Shavian信橡木
+10470: Shavian字母吃
+10471: Shavian字母件时代
+10472: Shavian字母冰
+10473: Shavian字母件
+10474: Shavian字母橡木
 10475: Shavian Letter Ooze
-10476: Shavian信件油
+10476: Shavian字母件油
 10477: Shavian字母敬畏
-10478: Shavian信是
-10479: Shavian信或
-1047A: Shavian信空气
+10478: Shavian字母是
+10479: Shavian字母或
+1047A: Shavian字母空气
 1047B: Shavian Letter Err
 1047C: Shavian字母数组
-1047D: Shavian信耳
+1047D: Shavian字母耳
 1047E: Shavian Letter Ian
 1047F: Shavian Letter Yew
 10480: Osmanya Letter Alef
@@ -150,7 +150,7 @@
 10495: Osmanya Letter Ya
 10496: 奥斯曼娅字母A.
 10497: Osmanya Letter E.
-10498: Osmanya写信给我
+10498: Osmanya写字母给我
 10499: Osmanya Letter O.
 1049A: Osmanya Letter U.
 1049B: Osmanya Letter Aa
@@ -176,7 +176,7 @@
 104AF:
 104B0: 欧塞奇资本字母A.
 104B1: 欧塞奇资本字母Ai
-104B2: 欧塞奇资本信艾因
+104B2: 欧塞奇资本字母艾因
 104B3: 欧塞奇资本字母啊
 104B4: Osage Capital Letter文胸
 104B5: Osage Capital Letter Cha
@@ -184,10 +184,10 @@
 104B7: Osage Capital Letter E.
 104B8: Osage Capital Letter Ein
 104B9: 欧塞奇资本字母Ha
-104BA: 欧塞奇资本信Hya
+104BA: 欧塞奇资本字母Hya
 104BB: Osage Capital Letter I.
 104BC: Osage Capital Letter Ka
-104BD: 欧塞奇资本信Ehka
+104BD: 欧塞奇资本字母Ehka
 104BE: 欧塞奇资本字母Kya
 104BF: Osage Capital Letter La
 104C0: Osage Capital Letter Ma
@@ -253,4 +253,4 @@
 104FC:
 104FD:
 104FE:
-104FF:
+104FF:

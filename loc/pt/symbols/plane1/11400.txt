@@ -88,14 +88,14 @@
 11457: Newa Digit Seven
 11458: Newa Digit Eight
 11459: Newa Digit Nine
-1145A:
-1145B: Newa Placeholder Mark
-1145C:
-1145D: Sinal de Inserção Newa
-1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+1145A: Newa vírgula dupla
+1145B: Newa marca de marcador de posição
+1145C: 
+1145D: Newa sinal de inserção
+1145E: Newa sandhi mark
+1145F: Newa letter vedic anusvara
+11460: Newa sign jihvamuliya
+11461: Newa sign upadhmaniya
 11462:
 11463:
 11464:
@@ -192,10 +192,10 @@
 114BF: Sinal de Tirhuta Candrabindu
 114C0: Sinal de Tirhuta Anusvara
 114C1: Sinal de Tirhuta Visarga
-114C2: Sinal de Tirhuta Virama : halant
+114C2: Sinal de Tirhuta Virama: halant
 114C3: Sinal de Tirhuta Nukta
 114C4: Sinal de Tirhuta Avagraha
-114C5: Tirhuta Gvang : anusvara védica
+114C5: Tirhuta Gvang: anusvara védica
 114C6: Sinal da abreviatura de Tirhuta
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

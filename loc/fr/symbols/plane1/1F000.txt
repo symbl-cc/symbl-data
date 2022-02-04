@@ -14,7 +14,7 @@
 1F00D: Tuile de majong sept de caractère
 1F00E: Tuile de majong huit de caractère
 1F00F: Tuile de majong neuf de caractère
-1F010: Tuile de majong un de bambou : tiao
+1F010: Tuile de majong un de bambou: tiao
 1F011: Tuile de majong deux de bambou
 1F012: Tuile de majong trois de bambou
 1F013: Tuile de majong quatre de bambou
@@ -23,7 +23,7 @@
 1F016: Tuile de majong sept de bambou
 1F017: Tuile de majong huit de bambou
 1F018: Tuile de majong neuf de bambou
-1F019: Tuile de majong un de cercle : bing
+1F019: Tuile de majong un de cercle: bing
 1F01A: Tuile de majong deux de cercle
 1F01B: Tuile de majong trois de cercle
 1F01C: Tuile de majong quatre de cercle
@@ -32,15 +32,15 @@
 1F01F: Tuile de majong sept de cercle
 1F020: Tuile de majong huit de cercle
 1F021: Tuile de majong neuf de cercle
-1F022: Tuile de majong fleur de prunier : mei
-1F023: Tuile de majong orchidée : lan
+1F022: Tuile de majong fleur de prunier: mei
+1F023: Tuile de majong orchidée: lan
 1F024: Tuile de majong fleur de bambou
-1F025: Tuile de majong chrysanthème : ju
+1F025: Tuile de majong chrysanthème: ju
 1F026: Tuile de majong printemps
 1F027: Tuile de majong été
 1F028: Tuile de majong automne
 1F029: Tuile de majong hiver
-1F02A: Tuile de majong joker  : baida
+1F02A: Tuile de majong joker: baida
 1F02B: Dos de tuile de majong
 1F02C: 
 1F02D: 
@@ -169,10 +169,10 @@
 1F0A8: Carte à jouer huit de pique
 1F0A9: Carte à jouer neuf de pique
 1F0AA: Carte à jouer dix de pique
-1F0AB: Carte à jouer valet de pique : valet, bube, unter, page, fante : page d'épées
-1F0AC: Carte à jouer chevalier de pique  : chevalier, ober, ritter, cavall, cavaliere : chevalier des épées
-1F0AD: Carte à jouer dame de pique : dame, königin, regina : reine des épées
-1F0AE: Carte à jouer roi de pique : roi, könig, re : roi des épées
+1F0AB: Carte à jouer valet de pique: valet, bube, unter, page, fante , page d'épées
+1F0AC: Carte à jouer chevalier de pique: chevalier, ober, ritter, cavall, cavaliere , chevalier des épées
+1F0AD: Carte à jouer dame de pique: dame, königin, regina , reine des épées
+1F0AE: Carte à jouer roi de pique: roi, könig, re , roi des épées
 1F0AF: 
 1F0B0: 
 1F0B1: Carte à jouer as de cœur

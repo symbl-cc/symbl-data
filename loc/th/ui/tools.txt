@@ -1,15 +1,17 @@
 : เครื่องมือ
 
-[encoder]: ตัวเข้ารหัส
+toolsListTitle: ลองเครื่องมืออื่นๆ ด้วย
+
+[encoder]: ตัวเข้ารหัส HTML
 
 desc: เข้ารหัสอักขระเป็นโค้ด HTML และย้อนกลับ
 plain: ข้อความล้วน
-full: เต็มรูปแบบ
-text: ข้อความ
+full: HTML
+text: HTML และข้อความ
 entities: เข้ารหัสอักขระด้วยเอนทิตี
 br: ตัวแบ่งบรรทัดการเข้ารหัส
 
-[decoder]: ตัวถอดรหัส
+[decoder]: ตัวถอดรหัส Unicode
 
 desc: เข้ารหัสอักขระเป็น Unicode หรือย้อนกลับไปถอดรหัส
 example: นี่คือตัวอย่าง
@@ -21,7 +23,100 @@ text: ข้อความ
 desc: พลิกอักษรซีริลลิกและอักษรละตินคว่ำหน้าหรือถอยหลัง
 plain: ข้อความล้วน
 flipped: ข้อความที่ถูกพลิก
-backed: ย้อนกลับไปยังข้อความด้านหน้า
+backed: กลับไปข้างต้น
+
+[strikethrough-text]: ขีดฆ่าข้อความ
+
+h1: ขีดฆ่าข้อความ
+desc: ขีดฆ่าข้อความ
+text: ข้อความ
+example: นี่คือตัวอย่าง
+
+strikethroughText: ขีดฆ่าข้อความ
+crossed: ขีดเส้นใต้
+dotted: เส้นประ
+slash: เฉือนกับสัญลักษณ์
+doubleunderline: ขีดเส้นใต้สอง
+waveline: คลื่นบรรทัด
+ciphertext: เข้ารหัสข้อความ
+fullyshaded: ข้อความที่เติม
+strikethroughSlash: สูงเฉือนกับสัญลักษณ์
+
+[register-converter]: ตัวแปลงข้อความ
+h1: ตัวแปลงข้อความ
+desc: แปลงทุกองจดหมายในคำพูด
+text: Text
+example: This is an example
+
+uppercase: UPPER CASE
+lowercase: lower case
+inversioncase: iNVERSION cASE
+randomcase: RAnDOM cAsE
+alternatingcase : aLtErNaTiNg cAsE
+capitalizedcase: Capitalized Case
+
+[word-counter]: คำที่เคาน์เตอร์และตัวอักษร
+h1: คำที่เคาน์เตอร์และตัวอักษร
+desc: นับจำนวนของตัวอักษรในข้อความ
+
+[braille]: ตัวถอดรหัสและตัวแปลงข้อความ
+h1: ตัวถอดรหัสและตัวแปลงข้อความ
+desc: แปลงข้อความและถอดรหัสอักษรเบรลล์
+
+[gothic]: ตัวแปลงข้อความแบบกอธิค
+h1: ตัวแปลงข้อความแบบกอธิค
+desc: เขียนข้อความในกอธิคแบบอักษร
+
+text: ข้อความ (ละติน)
+example: Gothic
+regularText: กอธิค
+boldText: กอธิคตัวหนา
+
+result: ผลลัพธ์
+
+[morse]: ตัวแปลงข้อความเป็นรหัสมอร์ส
+h1: ตัวแปลงข้อความเป็นรหัสมอร์ส
+desc: แปลงข้อความและถอดรหัสรหัสมอร์ส
+
+example: This is an example
+code: รหัสมอร์ส
+latin: ละติน
+numbers: ตัวเลข
+punctuation: เครื่องหมายวรรคตอน
+
+titleAlphabet: ตัวอักษรรหัสมอร์ส
+
+result: ผลลัพธ์
+
+
+[password-generator]: เครื่องกำเนิดรหัสผ่าน
+h1: เครื่องกำเนิดรหัสผ่าน
+desc: วิธีสร้างรหัสผ่านที่รัดกุม
+
+uppercase: อักษรตัวพิมพ์ใหญ่ (A-Z)
+lowercase: อักษรตัวพิมพ์เล็ก (a-z)
+numbers: ตัวเลข (0-9)
+special: สัญลักษณ์พิเศษ (!@#$%^&*)
+
+maxLength: ตัวอักษร (4-99)
+generate: สร้าง
+warning: โปรดเลือกชุดอักขระอย่างน้อยหนึ่งชุดเพื่อสร้างรหัสผ่านของคุณ
+
+
+[text-to-symbols]: ข้อความจากสัญลักษณ์
+h1: ข้อความจากสัญลักษณ์
+desc: เขียนข้อความโดยใช้สัญลักษณ์
+
+text: ข้อความ (ละติน)
+example: Example
+
+blank: ตัวอักษรเปล่า
+filled: ตัวอักษรทาสี
+background: ตัวอักษรที่มีพื้นหลัง
+symbol-dolar: ตัวอักษรจากสัญลักษณ์ $
+symbol-lattice: ตัวอักษรจากสัญลักษณ์ #
+symbol-paragraph: ตัวอักษรจากสัญลักษณ์ ¶
+
 
 # @todo [generator]
 

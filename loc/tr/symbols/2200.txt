@@ -1,30 +1,30 @@
-2200: Hepsi için : evrensel niceleyici
+2200: Hepsi için: evrensel niceleyici
 2201: Tamamlayıcı
 2202: Kısmi Diferansiyel
-2203: Var : varoluşsal niceleyici
+2203: Var: varoluşsal niceleyici
 2204: Var Değil
-2205: Boş küme : boş küme
-2206: artım : laplace operatörü : ileri fark : simetrik fark (küme teorisinde)
-2207: nabla : geriye fark : gradyan, del
+2205: Boş küme: boş küme
+2206: artım: laplace operatörü , ileri fark , simetrik fark (küme teorisinde)
+2207: nabla: geriye fark , gradyan, del
 2208: Elemanı
 2209: Bir Eleman Değil
 220A: Küçük Elementi
-220B: Üye olarak içerir : öyle ki
+220B: Üye olarak içerir: öyle ki
 220C: Üye Olarak İçermiyor
 220D: Küçük Üye Olarak İçeriyor
-220E: Kanıtın Sonu : quod erat demonstrandum
-220F: N-Ary Ürünü : ürün işareti
-2210: N-Ary Coproduct : kopya işareti
-2211: N-Ary Toplamı : toplama işareti
+220E: Kanıtın Sonu: quod erat demonstrandum
+220F: N-Ary Ürünü: ürün işareti
+2210: N-Ary Coproduct: kopya işareti
+2211: N-Ary Toplamı: toplama işareti
 2212: Eksi işareti
 2213: Eksi veya Artı işareti
 2214: Nokta Artı
 2215: Bölüm Slash
 2216: Eksi Ayarla
 2217: Yıldız Operatörü
-2218: Halka Operatörü : bileşik işlev : apl jot
+2218: Halka Operatörü: bileşik işlev , apl jot
 2219: Mermi Operatörü
-221A: Kare kök : kök işareti
+221A: Kare kök: kök işareti
 221B: Küp Kökü
 221C: Dördüncü Kök
 221D: Orantılı
@@ -32,15 +32,15 @@
 221F: Dik açı
 2220: Açı
 2221: Ölçülen açı
-2222: Küresel açı : açılı yay
-2223: Divides : öyle ki : apl stile
+2222: Küresel açı: açılı yay
+2223: Divides: öyle ki , apl stile
 2224: Bölmez
 2225: E paralel
 2226: Paralel Değil
-2227: Mantıksal ve : kama
-2228: Mantıksal Veya : vee, ayrılma
-2229: kesişim : şapka, şapka
-222A: Birlik : Fincan
+2227: Mantıksal ve: kama
+2228: Mantıksal Veya: vee, ayrılma
+2229: kesişim: şapka, şapka
+222A: Birlik: Fincan
 222B: integral
 222C: Çift katlı
 222D: Üçlü İntegral
@@ -54,14 +54,14 @@
 2235: Çünkü
 2236: oran
 2237: Oran
-2238: Nokta eksi : doyma çıkarma
+2238: Nokta eksi: doyma çıkarma
 2239: AŞIRI
 223A: Geometrik Oran
 223B: homotetik
-223C: Tilde Operatörü : ile değişir (ile orantılı) : arasındaki fark : benzer : değil : Çevrim : apl tilde
-223D: Tersine çevrilmiş Tilde : tembel s
-223E: Ters Tembel S : en olumlu
-223F: Sinüs dalgası : alternatif akım
+223C: Tilde Operatörü: ile değişir (ile orantılı) , arasındaki fark , benzer , değil , Çevrim , apl tilde
+223D: Tersine çevrilmiş Tilde: tembel s
+223E: Ters Tembel S: en olumlu
+223F: Sinüs dalgası: alternatif akım
 2240: Çelenk Ürünü
 2241: Tilde değil
 2242: Eksi Tilde
@@ -70,7 +70,7 @@
 2245: Yaklaşık Eşittir
 2246: Yaklaşık olarak ama aslında eşit değil
 2247: Ne Yaklaşık, ne de Aslında
-2248: Neredeyse Eşit : asimptotik
+2248: Neredeyse Eşit: asimptotik
 2249: Neredeyse Eşit Değil
 224A: Neredeyse Eşit veya Eşit
 224B: Üçlü Tilde
@@ -80,17 +80,17 @@
 224F: Arasındaki Fark
 2250: Sınıra Yaklaşır
 2251: Geometrik Olarak Eşit
-2252: Yaklaşık olarak Eşittir veya Görüntü : neredeyse eşittir
+2252: Yaklaşık olarak Eşittir veya Görüntü: neredeyse eşittir
 2253: Görüntü veya Yaklaşık olarak Eşittir
 2254: Kolon Eşittir
 2255: Kolon eşittir
 2256: Eşit Olarak Yüzük
-2257: Eşit Yüzük : yaklaşık olarak
+2257: Eşit Yüzük: yaklaşık olarak
 2258: Karşılık gelen
-2259: Tahminler : karşılık gelir
+2259: Tahminler: karşılık gelir
 225A: Eşit
 225B: Yıldız Eşittir
-225C: Delta Eşittir : eşit açılı : tanımı gereği
+225C: Delta Eşittir: eşit açılı , tanımı gereği
 225D: Tanıma Göre Eşit
 225E: Tarafından ölçüldü
 225F: Eşitliği Sorgulandı
@@ -106,7 +106,7 @@
 2269: Daha Büyük Ama Eşit Değil
 226A: Çok daha az
 226B: Çok daha büyük
-226C: Arasında : davacı
+226C: Arasında: davacı
 226D: Eşdeğer Değil
 226E: Daha az olmayan
 226F: Büyük Değil
@@ -120,16 +120,16 @@
 2277: Büyüktür veya Büyüktür
 2278: Ne Az, Ne Büyük
 2279: Ne Büyük Büyük Ne de Küçük Büyük
-227A: ilerlettiği : daha düşük rütbe
-227B: başarırsa : daha yüksek rütbe
+227A: ilerlettiği: daha düşük rütbe
+227B: başarırsa: daha yüksek rütbe
 227C: Öncesinde veya Eşittir
 227D: Başarılı veya Eşit
 227E: Öncesinde veya Eşdeğeri
 227F: Başarılı veya Eşdeğeri
 2280: Önceden Değil
 2281: Başarılı değil
-2282: Alt kümesi : sete dahil
-2283: Üst kümesi : sete dahil
+2282: Alt kümesi: sete dahil
+2283: Üst kümesi: sete dahil
 2284: Alt Küme Değil
 2285: Bir süperset değil
 2286: Alt Kümesi veya Eşit
@@ -140,33 +140,33 @@
 228B: İle Eşit Olmayan
 228C: multiset
 228D: Çoklu Ayar Çarpımı
-228E: Multiset Birliği : z notasyon çantası ekleme
+228E: Multiset Birliği: z notasyon çantası ekleme
 228F: Kare görüntü
 2290: Orijinal kare
 2291: Kare Görüntü veya Eşdeğeri
 2292: Asıl veya Eşit Kare
 2293: Kare kapağı
 2294: Kare Kupa
-2295: Dairesel Artı : doğrudan toplam : sayfaya işaret eden vektör
-2296: Daire eksi : simetrik fark
-2297: Daire içine alınmış zamanlar : tensör ürünü : sayfaya işaret eden vektör
-2298: Dairesel Bölme Slash : yasakla, devre dışı bırak
-2299: Dairesel Nokta Operatörü : doğrudan ürün : sayfadan işaret eden vektör
+2295: Dairesel Artı: doğrudan toplam , sayfaya işaret eden vektör
+2296: Daire eksi: simetrik fark
+2297: Daire içine alınmış zamanlar: tensör ürünü , sayfaya işaret eden vektör
+2298: Dairesel Bölme Slash: yasakla, devre dışı bırak
+2299: Dairesel Nokta Operatörü: doğrudan ürün , sayfadan işaret eden vektör
 229A: Dairesel Halka Operatörü
-229B: Dairesel Yıldız Operatörü : Yeni yıl, noel
+229B: Dairesel Yıldız Operatörü: Yeni yıl, noel
 229C: Dairesel Eşittir
 229D: Dairesel Çizgi
 229E: Kare artı
 229F: Kare eksi
 22A0: Squared Times
 22A1: Kare Nokta Operatörü
-22A2: Doğru Tack : turnike : kanıtlar, ima eder, verimler : indirilebilir
-22A3: Sol çakmak : ters turnike : teorem olmayan, verim vermez
-22A4: Aşağı Tack : üst
-22A5: Tack kadar : taban, alt
-22A6: iddia : azaltır
+22A2: Doğru Tack: turnike , kanıtlar, ima eder, verimler , indirilebilir
+22A3: Sol çakmak: ters turnike , teorem olmayan, verim vermez
+22A4: Aşağı Tack: üst
+22A5: Tack kadar: taban, alt
+22A6: iddia: azaltır
 22A7: Modeller
-22A8: Doğru : ifade doğru, geçerli : bir totoloji : tatmin : sonuçlanır
+22A8: Doğru: ifade doğru, geçerli , bir totoloji , tatmin , sonuçlanır
 22A9: güçler
 22AA: Üçlü Dikey Çubuk Sağ Turnike
 22AB: Çift Dikey Çubuk Çift Sağ Turnike
@@ -192,8 +192,8 @@
 22BF: Sağ üçgen
 22C0: N-Ary Mantıksal Ve
 22C1: N-Ary Mantıksal Veya
-22C2: N-Ary Kavşağı : z notasyonu genelleştirilmiş kesişme
-22C3: N-Ary Birliği : z notasyonu genelleştirilmiş birliği
+22C2: N-Ary Kavşağı: z notasyonu genelleştirilmiş kesişme
+22C3: N-Ary Birliği: z notasyonu genelleştirilmiş birliği
 22C4: Elmas Operatörü
 22C5: Nokta Operatörü
 22C6: Yıldız Operatörü
@@ -210,7 +210,7 @@
 22D1: Çifte Üst Ayar
 22D2: Çift kavşak
 22D3: Çift sendika
-22D4: dirgen : uygun kavşak
+22D4: dirgen: uygun kavşak
 22D5: Eşit ve Paralel
 22D6: Dot ile Daha Az
 22D7: Dot ile Büyük-Than

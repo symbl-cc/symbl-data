@@ -1,28 +1,42 @@
+hide: Cacher
+show: Représenter
 up: En haut
-range: Gamme
-loading: S'il vous plaît, attendez ...
-count: Nombre de caractères
+range: Bande
+loading: Chargement en cours, veuillez patienter... 
+count: La quantité de caractères
 sort-order: Par ordre
 sort-block: Par blocs
-copy-clipboard: Copier
-help-range: Cliquez pour mettre en évidence gamme
+copy-clipboard: Copier dans la presse-papiers
+help-range: Cliquez d'éclairer le bande
 more: Plus
 prev: Précédent
-next: Next
-separate-page: Open in page séparée
-share-link: Partager avec des amis
-# @todo recent
-# @todo recent-text
-read-more: En savoir plus
+next: Suivant
+separate-page: Ouvrir dans une page séparée
+share-link: Partager avec vos amis
+# @todo recent: Le récent usage
+# @todo recent-text: Rien. Il y a des symbols récents vués seront affichés. D'ici là, voyez les symbols populaires
+read-more: Apprenez-en plus
 read-less: Cacher
+madeby: Fait par
+keepupdates: Suivez-nous 
+hint: Selectez et copiez le character dont vous avez besoin
+symbols-count: symbols
+copied: Copié!
+see_also: Voiyez aussi
+page_content_menu: Contenu
+homepage: Accueil
+
+cookie-message: Ce site utilise des 🍪cookies afin d'améliorer votre expérience et optimiser nos sites et services. 
+accept: Accepter
+empty-cell: Cellule vide
 
 [mobile]
-to-full: Aller à la version complète
-# @todo to-mobile
+to-full: En version complète
+# @todo to-mobile: En version mobile
 
 [edit]: Modifier
-save: Record
+save: Sauvegarder
 submit: Soumettre
-undo: Annuler
-send-changes: Vos modifications seront envoyés aux développeurs de site Web. Êtes-vous sûr?
+undo: Défaire
+send-changes: Vos modifications seront envoyés aux développeurs du site Web. Êtes-vous sûr?
 thanks: Merci!

@@ -1,15 +1,17 @@
 : Araçlar
 
-[encoder]	: Kodlayıcı
+toolsListTitle: Diğer araçları da deneyin
+
+[encoder]	: HTML kodlayıcı
 	
 desc	: Karakterleri html koduna ve geri kodlar
 plain	: Düz metin
-full	: Tam
-text	: Metin
+full	: HTML
+text	: HTML ve metin
 entities	: Karakterleri varlıklarla kodlar
 br	: Satır sonlarını kodlar
 	
-[decoder]	: Kod çözücü
+[decoder]	: Unicode kod çözücü
 	
 desc	: Karakterleri Unicode'a kodlar veya geri çözer
 example	: Bu bir örnektir
@@ -32,4 +34,102 @@ info	: Mevcut: {symbol}, {dec}, {hex}, {html}
 generate	: Üret
 result	: Sonuç 
 
+[strikethrough-text]: Üstü çizili yazı
 
+h1: Çizgili Yazı
+desc: Üstü çizili yazı
+text: Metin
+example: Bu bir örnektir
+
+strikethroughText: Üstü çizili yazı
+crossed: Altı çizili
+dotted: Noktalı çizgi
+slash: Çizgi sembolü
+doubleunderline: Noktalı çizgi
+waveline: Dalgalı çizgi
+ciphertext: Şifreli metin
+fullyshaded: Boyalı metin
+strikethroughSlash: Yüksek çizgi sembolü
+
+[register-converter]: Metinler dönüştürücü
+h1: Metinler dönüştürücü
+desc: Her harfi dönüştürün
+text: Metin
+example: Bu bir örnektir
+
+uppercase: BÜYÜKHARF
+lowercase: küçükharf
+inversioncase: tERS çEVIRME
+randomcase: rAstgEle
+alternatingcase: aLtErNaTiF
+capitalizedcase: Büyük Harflerle
+
+[word-counter]: Karakter Sayacı
+h1: Karakter Sayacı
+desc: Metindeki karakter sayısını hesaplama
+
+placeholder: Insert text ...
+symbols: Toplam karakter
+without-spaces: Boşluksuz
+no-punctuation-marks: Noktalama işaretleri olmadan
+words: Toplam Kelime
+average-amount: Bir cümlede ortalama kelime sayısı
+long-word: En uzun kelime
+
+[braille]: Braille Tercümanı
+h1: Braille Tercümanı
+desc: Metni Braille'e dönüştürün
+
+[gothic]: Metin- Gotik tarzı dönüştürücü
+h1: Metin- Gotik tarzı dönüştürücü
+desc: Metni Gotik yazı tipiyle yazma
+
+text: Metin (latince)
+example: Gothic
+regularText: Gotik
+boldText: Gotik cesur
+
+result: Sonuç 
+
+[morse]: Mors Alfabesine Metin Dönüştürücü
+h1: Mors Alfabesine Metin Dönüştürücü
+desc: Metni dönüştürür ve Mors kodunu çözer
+
+example: Bu bir örnektir
+code: Mors kodu
+latin: Latince
+numbers: Sayılar
+punctuation: Noktalama
+
+titleAlphabet: Mors alfabesi
+
+result: Sonuç
+
+
+[password-generator]: Şifre üreticisi
+h1: Şifre üreticisi
+desc: Güçlü bir parola nasıl oluşturulur
+
+uppercase: Büyük harf (A-Z)
+lowercase: Küçük harf (a-z)
+numbers: Rakamlar (0-9)
+special: Özel karakterler (!@#$%^&*)
+
+maxLength: karakterler (4-99)
+generate: Oluşturmak
+warning: Lütfen şifrenizi oluşturmak için en az bir karakter seti seçin
+
+
+[text-to-symbols]: Sembollerden metin
+h1: Sembollerden metin
+desc: Metni sembollerle yaz
+
+text: Metin (Latince)
+example: Örnek
+
+blank: Boş harfler
+filled: Boyalı harfler
+background: Arka plan ile harfler
+symbol-dolar: $ sembolünden gelen harfler
+symbol-lattice: # sembolünden gelen harfler
+symbol-paragraph: ¶ sembolünden gelen harfler

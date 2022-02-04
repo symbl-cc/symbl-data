@@ -98,7 +98,7 @@
 3161: Hangul Lettera Eu
 3162: Lettera Hangul Yi
 3163: Hangul Lettera I
-3164: Hangul Filler : chaeum
+3164: Hangul Filler: chaeum
 3165: Hangul Letter Ssangnieun
 3166: Lettera di Hangul: Nieun-Tikeut
 3167: Lettera di Hangul Nieun-Sios
@@ -126,7 +126,7 @@
 317D: Lettera di Hangul Sios-Pieup
 317E: Lettera Hangul Sios-Cieuc
 317F: Lettera Hangan Pansios
-3180: Hangul Letter Ssangieung : ssangyesieung
+3180: Hangul Letter Ssangieung: ssangyesieung
 3181: Hangul Letter Yesieung
 3182: Lettera di Hangul: Sìieung-Sios
 3183: Lettera di Hangul: Yesieung-Pansios
@@ -142,8 +142,8 @@
 318D: Hangul Lettera Araea
 318E: Hangul Lettera Araeae
 318F:
-3190: Segno di collegamento annotativo ideografico : tateten
-3191: Segno inverso di annotazione ideografica : kaeriten re
+3190: Segno di collegamento annotativo ideografico: tateten
+3191: Segno inverso di annotazione ideografica: kaeriten re
 3192: Annotazione ideografica Un segno
 3193: Annotazione ideografica Due segni
 3194: Annotazione ideografica tre segni
@@ -185,11 +185,11 @@
 31B8: Lettera Bopomofo Gh
 31B9: Bopomofo Lettera Lh
 31BA: Bopomofo Letter Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31BB: Bopomofo final letter g
+31BC: Bopomofo letter gw
+31BD: Bopomofo lettera kw
+31BE: Bopomofo letter oe
+31BF: Ah lettera bopomofo
 31C0: Cjk Stroke T
 31C1: Cjk Stroke Wg
 31C2: Cjk Stroke Xg

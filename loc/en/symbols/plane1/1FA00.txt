@@ -1,87 +1,87 @@
-1FA00:
-1FA01:
-1FA02:
-1FA03:
-1FA04:
-1FA05:
-1FA06:
-1FA07:
-1FA08:
-1FA09:
-1FA0A:
-1FA0B:
-1FA0C:
-1FA0D:
-1FA0E:
-1FA0F:
-1FA10:
-1FA11:
-1FA12:
-1FA13:
-1FA14:
-1FA15:
-1FA16:
-1FA17:
-1FA18:
-1FA19:
-1FA1A:
-1FA1B:
-1FA1C:
-1FA1D:
-1FA1E:
-1FA1F:
-1FA20:
-1FA21:
-1FA22:
-1FA23:
-1FA24:
-1FA25:
-1FA26:
-1FA27:
-1FA28:
-1FA29:
-1FA2A:
-1FA2B:
-1FA2C:
-1FA2D:
-1FA2E:
-1FA2F:
-1FA30:
-1FA31:
-1FA32:
-1FA33:
-1FA34:
-1FA35:
-1FA36:
-1FA37:
-1FA38:
-1FA39:
-1FA3A:
-1FA3B:
-1FA3C:
-1FA3D:
-1FA3E:
-1FA3F:
-1FA40:
-1FA41:
-1FA42:
-1FA43:
-1FA44:
-1FA45:
-1FA46:
-1FA47:
-1FA48:
-1FA49:
-1FA4A:
-1FA4B:
-1FA4C:
-1FA4D:
-1FA4E:
-1FA4F:
-1FA50:
-1FA51:
-1FA52:
-1FA53:
+1FA00: Neutral Chess King
+1FA01: Neutral Chess Queen
+1FA02: Neutral Chess Rook
+1FA03: Neutral Chess Bishop
+1FA04: Neutral Chess Knight
+1FA05: Neutral Chess Pawn
+1FA06: White Chess Knight Rotated Forty-five Degrees
+1FA07: Black Chess Knight Rotated Forty-five Degrees
+1FA08: Neutral Chess Knight Rotated Forty-five Degrees
+1FA09: White Chess King Rotated Ninety Degrees
+1FA0A: White Chess Queen Rotated Ninety Degrees
+1FA0B: White Chess Rook Rotated Ninety Degrees
+1FA0C: White Chess Bishop Rotated Ninety Degrees
+1FA0D: White Chess Knight Rotated Ninety Degrees
+1FA0E: White Chess Pawn Rotated Ninety Degrees
+1FA0F: Black Chess King Rotated Ninety Degrees
+1FA10: Black Chess Queen Rotated Ninety Degrees
+1FA11: Black Chess Rook Rotated Ninety Degrees
+1FA12: Black Chess Bishop Rotated Ninety Degrees
+1FA13: Black Chess Knight Rotated Ninety Degrees
+1FA14: Black Chess Pawn Rotated Ninety Degrees
+1FA15: Neutral Chess King Rotated Ninety Degrees
+1FA16: Neutral Chess Queen Rotated Ninety Degrees
+1FA17: Neutral Chess Rook Rotated Ninety Degrees
+1FA18: Neutral Chess Bishop Rotated Ninety Degrees
+1FA19: Neutral Chess Knight Rotated Ninety Degrees
+1FA1A: Neutral Chess Pawn Rotated Ninety Degrees
+1FA1B: White Chess Knight Rotated One Hundred Thirty-five Degrees
+1FA1C: Black Chess Knight Rotated One Hundred Thirty-five Degrees
+1FA1D: Neutral Chess Knight Rotated One Hundred Thirty-five Degrees
+1FA1E: White Chess Turned King
+1FA1F: White Chess Turned Queen
+1FA20: White Chess Turned Rook
+1FA21: White Chess Turned Bishop
+1FA22: White Chess Turned Knight
+1FA23: White Chess Turned Pawn
+1FA24: Black Chess Turned King
+1FA25: Black Chess Turned Queen
+1FA26: Black Chess Turned Rook
+1FA27: Black Chess Turned Bishop
+1FA28: Black Chess Turned Knight
+1FA29: Black Chess Turned Pawn
+1FA2A: Neutral Chess Turned King
+1FA2B: Neutral Chess Turned Queen
+1FA2C: Neutral Chess Turned Rook
+1FA2D: Neutral Chess Turned Bishop
+1FA2E: Neutral Chess Turned Knight
+1FA2F: Neutral Chess Turned Pawn
+1FA30: White Chess Knight Rotated Two Hundred Twenty-five Degrees
+1FA31: Black Chess Knight Rotated Two Hundred Twenty-five Degrees
+1FA32: Neutral Chess Knight Rotated Two Hundred Twenty-five Degrees
+1FA33: White Chess King Rotated Two Hundred Seventy Degrees
+1FA34: White Chess Queen Rotated Two Hundred Seventy Degrees
+1FA35: White Chess Rook Rotated Two Hundred Seventy Degrees
+1FA36: White Chess Bishop Rotated Two Hundred Seventy Degrees
+1FA37: White Chess Knight Rotated Two Hundred Seventy Degrees
+1FA38: White Chess Pawn Rotated Two Hundred Seventy Degrees
+1FA39: Black Chess King Rotated Two Hundred Seventy Degrees
+1FA3A: Black Chess Queen Rotated Two Hundred Seventy Degrees
+1FA3B: Black Chess Rook Rotated Two Hundred Seventy Degrees
+1FA3C: Black Chess Bishop Rotated Two Hundred Seventy Degrees
+1FA3D: Black Chess Knight Rotated Two Hundred Seventy Degrees
+1FA3E: Black Chess Pawn Rotated Two Hundred Seventy Degrees
+1FA3F: Neutral Chess King Rotated Two Hundred Seventy Degrees
+1FA40: Neutral Chess Queen Rotated Two Hundred Seventy Degrees
+1FA41: Neutral Chess Rook Rotated Two Hundred Seventy Degrees
+1FA42: Neutral Chess Bishop Rotated Two Hundred Seventy Degrees
+1FA43: Neutral Chess Knight Rotated Two Hundred Seventy Degrees
+1FA44: Neutral Chess Pawn Rotated Two Hundred Seventy Degrees
+1FA45: White Chess Knight Rotated Three Hundred Fifteen Degrees
+1FA46: Black Chess Knight Rotated Three Hundred Fifteen Degrees
+1FA47: Neutral Chess Knight Rotated Three Hundred Fifteen Degrees
+1FA48: White Chess Equihopper
+1FA49: Black Chess Equihopper
+1FA4A: Neutral Chess Equihopper
+1FA4B: White Chess Equihopper Rotated Ninety Degrees
+1FA4C: Black Chess Equihopper Rotated Ninety Degrees
+1FA4D: Neutral Chess Equihopper Rotated Ninety Degrees
+1FA4E: White Chess Knight-queen
+1FA4F: White Chess Knight-rook
+1FA50: White Chess Knight-bishop
+1FA51: Black Chess Knight-queen
+1FA52: Black Chess Knight-rook
+1FA53: Black Chess Knight-bishop
 1FA54:
 1FA55:
 1FA56:
@@ -110,29 +110,29 @@
 1FA6D: Xiangqi Black Soldier
 1FA6E:
 1FA6F:
-1FA70:
-1FA71:
-1FA72:
-1FA73:
-1FA74:
+1FA70: Ballet Shoes: pointe shoe
+1FA71: One-piece Swimsuit
+1FA72: Briefs
+1FA73: Shorts
+1FA74: Thong Sandal: flip flops, jandals, thongs
 1FA75:
 1FA76:
 1FA77:
-1FA78:
-1FA79:
-1FA7A:
+1FA78: Drop Of Blood: blood donation, menstruation, period
+1FA79: Adhesive Bandage: band aid, plaster
+1FA7A: Stethoscope
 1FA7B:
 1FA7C:
 1FA7D:
 1FA7E:
 1FA7F:
-1FA80:
-1FA81:
-1FA82:
-1FA83:
-1FA84:
-1FA85:
-1FA86:
+1FA80: Yo-yo: yoyo
+1FA81: Kite
+1FA82: Parachute
+1FA83: Boomerang
+1FA84: Magic Wand
+1FA85: Pinata
+1FA86: Nesting Dolls: matryoshka
 1FA87:
 1FA88:
 1FA89:
@@ -142,31 +142,31 @@
 1FA8D:
 1FA8E:
 1FA8F:
-1FA90:
-1FA91:
-1FA92:
-1FA93:
-1FA94:
-1FA95:
-1FA96:
-1FA97:
-1FA98:
-1FA99:
-1FA9A:
-1FA9B:
-1FA9C:
-1FA9D:
-1FA9E:
-1FA9F:
-1FAA0:
-1FAA1:
-1FAA2:
-1FAA3:
-1FAA4:
-1FAA5:
-1FAA6:
-1FAA7:
-1FAA8:
+1FA90: Ringed Planet: saturn
+1FA91: Chair
+1FA92: Razor
+1FA93: Axe
+1FA94: Diya Lamp: oil lamp
+1FA95: Banjo
+1FA96: Military Helmet
+1FA97: Accordion
+1FA98: Long Drum
+1FA99: Coin
+1FA9A: Carpentry Saw
+1FA9B: Screwdriver
+1FA9C: Ladder
+1FA9D: Hook
+1FA9E: Mirror
+1FA9F: Window
+1FAA0: Plunger
+1FAA1: Sewing Needle
+1FAA2: Knot
+1FAA3: Bucket
+1FAA4: Mouse Trap
+1FAA5: Toothbrush
+1FAA6: Headstone
+1FAA7: Placard: lawn sign, protest sign, sign, sign on post
+1FAA8: Rock
 1FAA9:
 1FAAA:
 1FAAB:
@@ -174,13 +174,13 @@
 1FAAD:
 1FAAE:
 1FAAF:
-1FAB0:
-1FAB1:
-1FAB2:
-1FAB3:
-1FAB4:
-1FAB5:
-1FAB6:
+1FAB0: Fly
+1FAB1: Worm
+1FAB2: Beetle
+1FAB3: Cockroach
+1FAB4: Potted Plant: houseplant
+1FAB5: Wood
+1FAB6: Feather
 1FAB7:
 1FAB8:
 1FAB9:
@@ -190,9 +190,9 @@
 1FABD:
 1FABE:
 1FABF:
-1FAC0:
-1FAC1:
-1FAC2:
+1FAC0: Anatomical Heart
+1FAC1: Lungs
+1FAC2: People Hugging
 1FAC3:
 1FAC4:
 1FAC5:
@@ -206,13 +206,13 @@
 1FACD:
 1FACE:
 1FACF:
-1FAD0:
-1FAD1:
-1FAD2:
-1FAD3:
-1FAD4:
-1FAD5:
-1FAD6:
+1FAD0: Blueberries
+1FAD1: Bell Pepper
+1FAD2: Olive
+1FAD3: Flatbread: arepa
+1FAD4: Tamale: tamal
+1FAD5: Fondue
+1FAD6: Teapot
 1FAD7:
 1FAD8:
 1FAD9:

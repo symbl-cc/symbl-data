@@ -1,15 +1,18 @@
 : Herramientas
 
-[encoder]: Codificador
+toolsListTitle: Prueba también otras herramientas
+
+[encoder]: Codificador HTML
 
 desc: Codifica los caracteres en el código HTML y al revés
 plain: Texto sin formato
-full: Completo
-text: Texto
+full: HTML
+text: HTML y texto
 entities: Codifica los caracteres con entidades
 br: Codifica los saltos de línea
+result: Resultado
 
-[decoder]: Decodificador
+[decoder]: Decodificador Unicode
 
 desc: Codifica los caracteres en Unicode o al revés
 example: Este es un ejemplo
@@ -22,6 +25,9 @@ desc: Voltear los caracteres cirílicos y latinos o al revés
 plain: Texto sin formato
 flipped: Texto volteado
 backed: Volver al texto anterior
+result: Resultado
+example: este es un ejemplo
+exampleFlip: oldɯǝɾǝ un sǝ ǝʇsǝ
 
 [generator]: Generador de tabla de caracteres Unicode
 
@@ -32,3 +38,100 @@ info: Disponible: {symbol}, {dec}, {hex}, {html}
 generate: Generar
 result: Resultado
 
+[strikethrough-text]: Texto tachado
+h1: Texto tachado
+desc: Texto tachado
+text: Texto
+example: Este es un ejemplo
+
+strikethroughText: Texto tachado
+crossed: Texto subrayado
+dotted: Línea de puntos
+slash: Barra oblicua
+doubleunderline: Doble subrayado
+waveline: Línea de las olas
+ciphertext: Texto cifrado
+fullyshaded: Texto pintado
+strikethroughSlash: Barra inversa
+
+[register-converter]: Convertir texto
+h1: Convertir texto
+desc: Convierte cada letra
+text: Texto
+example: Este es un ejemplo
+
+uppercase: MAYÚSCULAS
+lowercase: minúsculas
+inversioncase: iNVERSO
+randomcase: AleAtoRIA
+alternatingcase : AlTeRnO
+capitalizedcase: Capitalizar Texto
+
+[word-counter]: Contar caracteres
+h1: Contar caracteres
+desc: Contar caracteres en el texto
+
+placeholder: Insert text ...
+symbols: Total de caracteres
+without-spaces: Sin barra espaciadora
+no-punctuation-marks: Sin signos de puntuación
+words: Total de palabras
+average-amount: Número medio de palabras en una oración
+long-word: La palabra más larga
+
+[braille]: Traductor en Braille
+h1: Traductor en Braille
+desc: Convertir texto en Braille
+
+[gothic]: Convertidor de texto al estilo gótico
+h1: Convertidor de texto al estilo gótico
+desc: Escribir texto en fuente gótica
+
+text: Text (latín)
+example: Gothic
+regularText: Gótico
+boldText: Negrita gótica
+
+result: Resultado
+
+[morse]: Convertidor de texto a código Morse
+h1: Convertidor de texto a código Morse
+desc: Convierte texto y decodifica código Morse
+
+example: Este es un ejemplo
+code: Сódigo Morse
+latin: Latín
+numbers: Números
+punctuation: Puntuación
+
+titleAlphabet: Alfabeto del código Morse
+
+result: Resultado
+
+
+[password-generator]: Generador de contraseñas
+h1: Generador de contraseñas
+desc: Cómo generar una contraseña segura
+
+uppercase: Letras mayúsculas (A-Z)
+lowercase: KlMinúscula (a-z)
+numbers: Números (0-9)
+special: Símbolos especiales (!@#$%^&*)
+
+maxLength: caracteres (4-99)
+generate: Generar
+warning: Seleccione al menos un juego de caracteres para generar su contraseña
+
+[text-to-symbols]: Texto de símbolos
+h1: Texto de símbolos
+desc: Escribir texto a partir de personajes
+
+text: Texto (latín)
+example: Ejemplo
+
+blank: Letras en blanco
+filled: Letras pintadas
+background: Letras con fondo
+symbol-dolar: Letras del símbolo $
+symbol-lattice: Letras del símbolo #
+symbol-paragraph: Letras del símbolo ¶

@@ -9,11 +9,11 @@
 0708: Deux-points syriaque supralinéaire penché à gauche
 0709: Deux-points syriaque sublinéaire penché à droite
 070A: Contraction syriaque
-070B: Obèle syriaque héracléen : obèle d'harqel
-070C: Métobèle syriaque héracléen : métobèle d'harqel
-070D: Astérisque syriaque héracléen : astérisque d'harqel
+070B: Obèle syriaque héracléen: obèle d'harqel
+070C: Métobèle syriaque héracléen: métobèle d'harqel
+070D: Astérisque syriaque héracléen: astérisque d'harqel
 070E: 
-070F: Symbole d'abréviation syriaque : sam
+070F: Symbole d'abréviation syriaque: sam
 0710: Lettre syriaque âlaph
 0711: Lettre syriaque âlaph en chef
 0712: Lettre syriaque bêth
@@ -38,7 +38,7 @@
 0725: Lettre syriaque 'ê
 0726: Lettre syriaque pê
 0727: Lettre syriaque pê réfléchi
-0728: Lettre syriaque ssâdhê : çâdhê
+0728: Lettre syriaque ssâdhê: çâdhê
 0729: Lettre syriaque qoûph
 072A: Lettre syriaque rîch
 072B: Lettre syriaque chîn
@@ -69,8 +69,8 @@
 0744: Deux points verticaux syriaques souscrits
 0745: Trois points syriaques en chef
 0746: Trois points syriaques souscrits
-0747: Ligne oblique syriaque en chef : trait occultant suscrit, abrogateur suscrit
-0748: Ligne oblique syriaque souscrite : trait occultant souscrit, abrogateur souscrit
+0747: Ligne oblique syriaque en chef: trait occultant suscrit, abrogateur suscrit
+0748: Ligne oblique syriaque souscrite: trait occultant souscrit, abrogateur souscrit
 0749: Musique syriaque
 074A: Barrekh syriaque
 074B: 
@@ -126,30 +126,30 @@
 077D: Lettre arabe sîn surmonté du chiffre arabe-hindi quatre étendu
 077E: Lettre arabe sîn pignon
 077F: Lettre arabe kaf surmonté de deux points
-0780: Lettre thâna hâ : lettre thâna h
-0781: Lettre thâna chaviyani : lettre thâna ch
-0782: Lettre thâna noûnou : lettre thâna n
-0783: Lettre thâna râ : lettre thâna r
-0784: Lettre thâna bâ : lettre thâna b
-0785: Lettre thâna lhaviyani : lettre thâna lh
-0786: Lettre thâna kâfou : lettre thâna k
+0780: Lettre thâna hâ: lettre thâna h
+0781: Lettre thâna chaviyani: lettre thâna ch
+0782: Lettre thâna noûnou: lettre thâna n
+0783: Lettre thâna râ: lettre thâna r
+0784: Lettre thâna bâ: lettre thâna b
+0785: Lettre thâna lhaviyani: lettre thâna lh
+0786: Lettre thâna kâfou: lettre thâna k
 0787: Lettre thâna alifou
-0788: Lettre thâna vâvou : lettre thâna v
-0789: Lettre thâna mîmou : lettre thâna m
-078A: Lettre thâna fâfou : lettre thâna f
-078B: Lettre thâna dhâlou : lettre thâna dh
-078C: Lettre thâna thâ : lettre thâna th
-078D: Lettre thâna lâmou : lettre thâna l
-078E: Lettre thâna gâfou : lettre thâna g
-078F: Lettre thâna gnaviyani : lettre thâna gn
-0790: Lettre thâna sînou : lettre thâna s
-0791: Lettre thâna daviyani : lettre thâna d
-0792: Lettre thâna zaviyani : lettre thâna z
-0793: Lettre thâna taviyani : lettre thâna t
-0794: Lettre thâna yâ : lettre thâna y
-0795: Lettre thâna paviyani : lettre thâna p
-0796: Lettre thâna djaviyani : lettre thâna dj
-0797: Lettre thâna tchaviyani : lettre thâna tch
+0788: Lettre thâna vâvou: lettre thâna v
+0789: Lettre thâna mîmou: lettre thâna m
+078A: Lettre thâna fâfou: lettre thâna f
+078B: Lettre thâna dhâlou: lettre thâna dh
+078C: Lettre thâna thâ: lettre thâna th
+078D: Lettre thâna lâmou: lettre thâna l
+078E: Lettre thâna gâfou: lettre thâna g
+078F: Lettre thâna gnaviyani: lettre thâna gn
+0790: Lettre thâna sînou: lettre thâna s
+0791: Lettre thâna daviyani: lettre thâna d
+0792: Lettre thâna zaviyani: lettre thâna z
+0793: Lettre thâna taviyani: lettre thâna t
+0794: Lettre thâna yâ: lettre thâna y
+0795: Lettre thâna paviyani: lettre thâna p
+0796: Lettre thâna djaviyani: lettre thâna dj
+0797: Lettre thâna tchaviyani: lettre thâna tch
 0798: Lettre thâna ttâ
 0799: Lettre thâna hhâ
 079A: Lettre thâna khâ
@@ -164,16 +164,16 @@
 07A3: Lettre thâna ghaïnou
 07A4: Lettre thâna qâfou
 07A5: Lettre thâna wâvou
-07A6: Thâna abafili : lettre thâna a
-07A7: Thâna âbâfili : lettre thâna â
-07A8: Thâna ibifili : lettre thâna i
-07A9: Thâna îbîfili : lettre thâna î
-07AA: Thâna ouboufili : lettre thâna ou
-07AB: Thâna oûboûfili : lettre thâna oû
-07AC: Thâna ébéfili : lettre thâna é
-07AD: Thâna êbêfili : lettre thâna ê
-07AE: Thâna obofili : lettre thâna o
-07AF: Thâna ôbôfili : lettre thâna ô
+07A6: Thâna abafili: lettre thâna a
+07A7: Thâna âbâfili: lettre thâna â
+07A8: Thâna ibifili: lettre thâna i
+07A9: Thâna îbîfili: lettre thâna î
+07AA: Thâna ouboufili: lettre thâna ou
+07AB: Thâna oûboûfili: lettre thâna oû
+07AC: Thâna ébéfili: lettre thâna é
+07AD: Thâna êbêfili: lettre thâna ê
+07AE: Thâna obofili: lettre thâna o
+07AF: Thâna ôbôfili: lettre thâna ô
 07B0: Thâna soukoun
 07B1: Lettre thâna nâ
 07B2: 
@@ -208,7 +208,7 @@
 07CF: Lettre n'ko ô
 07D0: Lettre n'ko o
 07D1: Lettre n'ko dagbasin'na
-07D2: Lettre n'ko n' : n syllabique
+07D2: Lettre n'ko n': n syllabique
 07D3: Lettre n'ko ba
 07D4: Lettre n'ko pa
 07D5: Lettre n'ko ta
@@ -224,15 +224,15 @@
 07DF: Lettre n'ko la
 07E0: Lettre n'ko na woloso
 07E1: Lettre n'ko ma
-07E2: Lettre n'ko gna : lettre n'ko nya
+07E2: Lettre n'ko gna: lettre n'ko nya
 07E3: Lettre n'ko na
 07E4: Lettre n'ko ha
 07E5: Lettre n'ko wa
 07E6: Lettre n'ko ya
-07E7: Lettre n'ko gna woloso : lettre n'ko nya woloso
-07E8: Lettre n'ko djona dja : lettre archaïque dja
-07E9: Lettre n'ko djona tcha : lettre archaïque tcha
-07EA: Lettre n'ko djona ra : lettre archaïque ra
+07E7: Lettre n'ko gna woloso: lettre n'ko nya woloso
+07E8: Lettre n'ko djona dja: lettre archaïque dja
+07E9: Lettre n'ko djona tcha: lettre archaïque tcha
+07EA: Lettre n'ko djona ra: lettre archaïque ra
 07EB: Diacritique n'ko bref ton haut
 07EC: Diacritique n'ko bref ton bas
 07ED: Diacritique n'ko bref ton montant

@@ -13,7 +13,7 @@ FF0B: Signe plus pleine chasse
 FF0C: Virgule pleine chasse
 FF0D: Tiret pleine chasse
 FF0E: Point pleine chasse
-FF0F: Barre oblique pleine chasse : cotice pleine chasse
+FF0F: Barre oblique pleine chasse: cotice pleine chasse
 FF10: Chiffre zéro pleine chasse
 FF11: Chiffre un pleine chasse
 FF12: Chiffre deux pleine chasse
@@ -30,7 +30,7 @@ FF1C: Signe inférieur à pleine chasse
 FF1D: Signe égal à pleine chasse
 FF1E: Signe supérieur à pleine chasse
 FF1F: Point d'interrogation pleine chasse
-FF20: Arrobe pleine chasse : à commercial, arobas, arobase, arrobas [pleine chasse]
+FF20: Arrobe pleine chasse: à commercial, arobas, arobase, arrobas [pleine chasse]
 FF21: Lettre majuscule latine a pleine chasse
 FF22: Lettre majuscule latine b pleine chasse
 FF23: Lettre majuscule latine c pleine chasse
@@ -58,7 +58,7 @@ FF38: Lettre majuscule latine x pleine chasse
 FF39: Lettre majuscule latine y pleine chasse
 FF3A: Lettre majuscule latine z pleine chasse
 FF3B: Crochet gauche pleine chasse
-FF3C: Barre oblique inversée pleine chasse : contre-cotice pleine chasse
+FF3C: Barre oblique inversée pleine chasse: contre-cotice pleine chasse
 FF3D: Crochet droit pleine chasse
 FF3E: Accent circonflexe pleine chasse
 FF3F: Tiret bas pleine chasse
@@ -156,8 +156,8 @@ FF9A: Syllabe katakana re demi-chasse
 FF9B: Syllabe katakana ro demi-chasse
 FF9C: Syllabe katakana wa demi-chasse
 FF9D: Syllabe katakana n demi-chasse
-FF9E: Marque katakana de son voisé demi-chasse (marque katakana-hiragana de son : marque katakana-hiragana de son voisé demi-chasse
-FF9F: Marque katakana de son semi-voisé demi-chasse (marque katakana-hiragana de : marque katakana-hiragana de son semi-voisé demi-chasse
+FF9E: Marque katakana de son voisé demi-chasse (marque katakana-hiragana de son: marque katakana-hiragana de son voisé demi-chasse
+FF9F: Marque katakana de son semi-voisé demi-chasse (marque katakana-hiragana de: marque katakana-hiragana de son semi-voisé demi-chasse
 FFA0: Bourre hangûl demi-chasse
 FFA1: Lettre hangûl kiyok demi-chasse
 FFA2: Lettre hangûl ssangkiyok demi-chasse

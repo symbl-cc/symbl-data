@@ -36,24 +36,24 @@
 1C23: Lepcha betű A
 1C24: Lepcha Subjoined betű Ya
 1C25: Lepcha Subjoined betű Ra
-1C26: Lepcha Vowel Sign Aa
-1C27: Lepcha Vowel Sign I
-1C28: Lepcha Vowel Sign O
-1C29: Lepcha Vowel Sign Oo
-1C2A: Lepcha Vowel Sign U
-1C2B: Lepcha Vowel Sign Uu
-1C2C: Lepcha Vowel Sign E
-1C2D: Lepcha Consonant Sign K
-1C2E: Lepcha Consonant Sign M
-1C2F: Lepcha Consonant Sign L
-1C30: Lepcha Consonant Sign N
-1C31: Lepcha Consonant Sign P
-1C32: Lepcha Consonant Sign R
-1C33: Lepcha Consonant Sign T
-1C34: Lepcha Consonant Sign Nyin-Do
-1C35: Lepcha Consonant Sign Kang
-1C36: Lepcha Sign Ran
-1C37: Lepcha Sign Nukta
+1C26: Lepcha Vowel jel Aa
+1C27: Lepcha Vowel jel I
+1C28: Lepcha Vowel jel O
+1C29: Lepcha Vowel jel Oo
+1C2A: Lepcha Vowel jel U
+1C2B: Lepcha Vowel jel Uu
+1C2C: Lepcha Vowel jel E
+1C2D: Lepcha Consonant jel K
+1C2E: Lepcha Consonant jel M
+1C2F: Lepcha Consonant jel L
+1C30: Lepcha Consonant jel N
+1C31: Lepcha Consonant jel P
+1C32: Lepcha Consonant jel R
+1C33: Lepcha Consonant jel T
+1C34: Lepcha Consonant jel Nyin-Do
+1C35: Lepcha Consonant jel Kang
+1C36: Lepcha jel Ran
+1C37: Lepcha jel Nukta
 1C38:
 1C39:
 1C3A:
@@ -125,16 +125,16 @@
 1C7C: Ol Chiki Phaarkaa
 1C7D: Ol Chiki Ahad
 1C7E: Ol Chiki Punctuation Mucaad
-1C7F: Ol Chiki Punctuation Double Mucaad
-1C80:
-1C81:
-1C82:
-1C83:
-1C84:
-1C85:
-1C86:
-1C87:
-1C88:
+1C7F: Ol Chiki Punctuation kettős Mucaad
+1C80: Cirill apró betű, lekerekített ve
+1C81: Cirill apró betű hosszú lábú de
+1C82: Cirill apró betű keskeny o
+1C83: Cirill apró betű széles es
+1C84: Cirill apró betű magas te
+1C85: Cirill apró betűvel három lábú te
+1C86: Cirill apró betű magas kemény jel
+1C87: Cirill apró betű magas yat
+1C88: Cirill apró betű nélküli, nem szivárogtatott
 1C89:
 1C8A:
 1C8B:
@@ -142,54 +142,54 @@
 1C8D:
 1C8E:
 1C8F:
-1C90:
-1C91:
-1C92:
-1C93:
-1C94:
-1C95:
-1C96:
-1C97:
-1C98:
-1C99:
-1C9A:
-1C9B:
-1C9C:
-1C9D:
-1C9E:
-1C9F:
-1CA0:
-1CA1:
-1CA2:
-1CA3:
-1CA4:
-1CA5:
-1CA6:
-1CA7:
-1CA8:
-1CA9:
-1CAA:
-1CAB:
-1CAC:
-1CAD:
-1CAE:
-1CAF:
-1CB0:
-1CB1:
-1CB2:
-1CB3:
-1CB4:
-1CB5:
-1CB6:
-1CB7:
-1CB8:
-1CB9:
-1CBA:
-1CBB:
-1CBC:
-1CBD:
-1CBE:
-1CBF:
+1C90: Grúz Mtavruli nagybetű An
+1C91: Grúz Mtavruli nagybetű Ban
+1C92: Grúz Mtavruli nagybetű Gan
+1C93: Grúz Mtavruli nagybetű Don
+1C94: Grúz Mtavruli nagybetű En
+1C95: Grúz Mtavruli nagybetű Vin
+1C96: Grúz Mtavruli nagybetű Zen
+1C97: Grúz Mtavruli nagybetű Tan
+1C98: Grúz Mtavruli nagybetű In
+1C99: Grúz Mtavruli nagybetű Kan
+1C9A: Grúz Mtavruli nagybetű Las
+1C9B: Grúz Mtavruli nagybetű Man
+1C9C: Grúz Mtavruli nagybetű Nar
+1C9D: Grúz Mtavruli nagybetű On
+1C9E: Grúz Mtavruli nagybetű Par
+1C9F: Grúz Mtavruli nagybetű Zhar
+1CA0: Grúz Mtavruli nagybetű Rae
+1CA1: Grúz Mtavruli nagybetű San
+1CA2: Grúz Mtavruli nagybetű Tar
+1CA3: Grúz Mtavruli nagybetű Un
+1CA4: Grúz Mtavruli nagybetű Phar
+1CA5: Grúz Mtavruli nagybetű Khar
+1CA6: Grúz Mtavruli nagybetű Ghan
+1CA7: Grúz Mtavruli nagybetű Qar
+1CA8: Grúz Mtavruli nagybetű Shin
+1CA9: Grúz Mtavruli nagybetű Chin
+1CAA: Grúz Mtavruli nagybetű Can
+1CAB: Grúz Mtavruli nagybetű Jil
+1CAC: Grúz Mtavruli nagybetű Cil
+1CAD: Grúz Mtavruli nagybetű Char
+1CAE: Grúz Mtavruli nagybetű Xan
+1CAF: Grúz Mtavruli nagybetű Jhan
+1CB0: Grúz Mtavruli nagybetű Hae
+1CB1: Grúz Mtavruli nagybetű He
+1CB2: Grúz Mtavruli nagybetű Hie
+1CB3: Grúz Mtavruli nagybetű We
+1CB4: Grúz Mtavruli nagybetű Har
+1CB5: Grúz Mtavruli nagybetű Hoe
+1CB6: Grúz Mtavruli nagybetű Fi
+1CB7: Grúz Mtavruli nagybetű Yn
+1CB8: Grúz Mtavruli nagybetű Elifi
+1CB9: Grúz Mtavruli nagybetű fordult Gan
+1CBA: Grúz Mtavruli nagybetű Ain
+1CBB: 
+1CBC: 
+1CBD: Grúz Mtavruli nagybetű Aen
+1CBE: Grúz Mtavruli nagybetű kemény jel
+1CBF: Grúz Mtavruli nagybetű labilis jel
 1CC0: Sundanese Punctuation Bindu Surya
 1CC1: Sundanese Punctuation Bindu Panglong
 1CC2: Sundanese Punctuation Bindu Purnama
@@ -206,49 +206,49 @@
 1CCD:
 1CCE:
 1CCF:
-1CD0: Vedic Tone Karshana : vaidika saamasvara karshanna
-1CD1: Vedic Tone Shara : vaidika svarita uurdhva shara
-1CD2: Vedic Tone Prenkha : vaidika saamasvara prenkha
-1CD3: Vedic Sign Nihshvasa : vaidika saamagaana yogakaala
-1CD4: Vedic Sign Yajurvedic Midline Svarita
-1CD5: Vedic Tone Yajurvedic Aggravated Independent Svarita : vaidika svarita adho nyubja
-1CD6: Vedic Tone Yajurvedic Independent Svarita : vaidika svarita adhah konna
-1CD7: Vedic Tone Yajurvedic Kathaka Independent Svarita : vaidika svarita adho vakra rekhaa
-1CD8: Vedic Tone Candra Below : vaidika svarita adho'rdha vakra
-1CD9: Vedic Tone Yajurvedic Kathaka Independent Svarita Schroeder : vaidika svarita adhah samyukta rekhaa
-1CDA: Vedic Tone Double Svarita : vaidika svarita uurdhva dvi rekhaa
-1CDB: Vedic Tone Triple Svarita : vaidika svarita uurdhva tri rekhaa
-1CDC: Vedic Tone Kathaka Anudatta : vaidika svarita adho rekhaa
-1CDD: Vedic Tone Dot Below : vaidika svarita adho bindu
-1CDE: Vedic Tone Two Dots Below : vaidika svarita adho dvi bindu
-1CDF: Vedic Tone Three Dots Below : vaidika svarita adhas tri bindu
-1CE0: Vedic Tone Rigvedic Kashmiri Independent Svarita : vaidika uurdhva vakra rekhaa
-1CE1: Vedic Tone Atharvavedic Independent Svarita : vaidika svarita dvi vakra khannda
-1CE2: Vedic Sign Visarga Svarita : vaidika madhyarekhaa
-1CE3: Vedic Sign Visarga Udatta : vaidika visarga dakshinnatah uurdhvaga
-1CE4: Vedic Sign Reversed Visarga Udatta : vaidika visarga vaamatah uurdhvaga
-1CE5: Vedic Sign Visarga Anudatta : vaidika visarga vaamatah adhoga
-1CE6: Vedic Sign Reversed Visarga Anudatta : vaidika visarga dakshinnatah adhoga
-1CE7: Vedic Sign Visarga Udatta with Tail : vaidika visarga dakshinnatah uurdhva vakra
-1CE8: Vedic Sign Visarga Anudatta with Tail : vaidika visarga vaamatah adho vakra
-1CE9: Vedic Sign Anusvara Antargomukha : vaidika anusvaara antarmukha
-1CEA: Vedic Sign Anusvara Bahirgomukha : vaidika anusvaara naagaphanna
-1CEB: Vedic Sign Anusvara Vamagomukha : vaidika anusvaara vaamagomukha
-1CEC: Vedic Sign Anusvara Vamagomukha with Tail : vaidika anusvaara vaamagomukha sa-vakra
-1CED: Vedic Sign Tiryak : vaidika tiryak
-1CEE: Vedic Sign Hexiform Long Anusvara : vaidika anusvaara anugaamii
-1CEF: Vedic Sign Long Anusvara : vaidika anusvaara dakshinnamukha
-1CF0: Vedic Sign Rthang Long Anusvara : vaidika anusvaara ttha-sadrisha
-1CF1: Vedic Sign Anusvara Ubhayato Mukha : vaidika anusvaara ubhayato mukha
-1CF2: Vedic Sign Ardhavisarga : vaidika jihvaamuuliiya upadhmaaniiya
-1CF3: Vedic Sign Rotated Ardhavisarga
-1CF4: Vedic Tone Candra Above
-1CF5: Vedic Sign Jihvamuliya
-1CF6: Vedic Sign Upadhmaniya
-1CF7:
-1CF8: Vedic Tone Ring Above
-1CF9: Vedic Tone Double Ring Above
-1CFA:
+1CD0: Vedic tónus Karshana: vaidika saamasvara karshanna
+1CD1: Vedic tónus Shara: vaidika svarita uurdhva shara
+1CD2: Vedic tónus Prenkha: vaidika saamasvara prenkha
+1CD3: Vedic jel Nihshvasa: vaidika saamagaana yogakaala
+1CD4: Vedic jel Yajurvedic Midline Svarita
+1CD5: Vedic tónus Yajurvedic Aggravated Independent Svarita: vaidika svarita adho nyubja
+1CD6: Vedic tónus Yajurvedic Independent Svarita: vaidika svarita adhah konna
+1CD7: Vedic tónus Yajurvedic Kathaka Independent Svarita: vaidika svarita adho vakra rekhaa
+1CD8: Vedic tónus Candra Below: vaidika svarita adho'rdha vakra
+1CD9: Vedic tónus Yajurvedic Kathaka Independent Svarita Schroeder: vaidika svarita adhah samyukta rekhaa
+1CDA: Vedic tónus kettős Svarita: vaidika svarita uurdhva dvi rekhaa
+1CDB: Vedic tónus Triple Svarita: vaidika svarita uurdhva tri rekhaa
+1CDC: Vedic tónus Kathaka Anudatta: vaidika svarita adho rekhaa
+1CDD: Vedic tónus Dot Below: vaidika svarita adho bindu
+1CDE: Vedic tónus Two Dots Below: vaidika svarita adho dvi bindu
+1CDF: Vedic tónus Three Dots Below: vaidika svarita adhas tri bindu
+1CE0: Vedic tónus Rigvedic Kashmiri Independent Svarita: vaidika uurdhva vakra rekhaa
+1CE1: Vedic tónus Atharvavedic Independent Svarita: vaidika svarita dvi vakra khannda
+1CE2: Vedic jel Visarga Svarita: vaidika madhyarekhaa
+1CE3: Vedic jel Visarga Udatta: vaidika visarga dakshinnatah uurdhvaga
+1CE4: Vedic jel Reversed Visarga Udatta: vaidika visarga vaamatah uurdhvaga
+1CE5: Vedic jel Visarga Anudatta: vaidika visarga vaamatah adhoga
+1CE6: Vedic jel Reversed Visarga Anudatta: vaidika visarga dakshinnatah adhoga
+1CE7: Vedic jel Visarga Udatta with Tail: vaidika visarga dakshinnatah uurdhva vakra
+1CE8: Vedic jel Visarga Anudatta with Tail: vaidika visarga vaamatah adho vakra
+1CE9: Vedic jel Anusvara Antargomukha: vaidika anusvaara antarmukha
+1CEA: Vedic jel Anusvara Bahirgomukha: vaidika anusvaara naagaphanna
+1CEB: Vedic jel Anusvara Vamagomukha: vaidika anusvaara vaamagomukha
+1CEC: Vedic jel Anusvara Vamagomukha with Tail: vaidika anusvaara vaamagomukha sa-vakra
+1CED: Vedic jel Tiryak: vaidika tiryak
+1CEE: Vedic jel Hexiform Long Anusvara: vaidika anusvaara anugaamii
+1CEF: Vedic jel Long Anusvara: vaidika anusvaara dakshinnamukha
+1CF0: Vedic jel Rthang Long Anusvara: vaidika anusvaara ttha-sadrisha
+1CF1: Vedic jel Anusvara Ubhayato Mukha: vaidika anusvaara ubhayato mukha
+1CF2: Vedic jel Ardhavisarga: vaidika jihvaamuuliiya upadhmaaniiya
+1CF3: Vedic jel Rotated Ardhavisarga
+1CF4: Vedic tónus Candra felett
+1CF5: Vedic jel Jihvamuliya
+1CF6: Vedic jel Upadhmaniya
+1CF7: Vedic jel Atikrama: vaidika saamagaana atikrama
+1CF8: Vedic tónus gyűrű felett
+1CF9: Vedic tónus kettős gyűrű felett
+1CFA: Vedic jel kettős Anusvara Antargomukha
 1CFB:
 1CFC:
 1CFD:

@@ -2,10 +2,10 @@
 1F001: Mahjong Çini Güney Rüzgar
 1F002: Mahjong Çini Batı Rüzgarı
 1F003: Mahjong Çini Kuzey Rüzgarı
-1F004: Mahjong Çini Kırmızı Ejderha : Hongzhong, 中
-1F005: Mahjong Çini Yeşil Ejderha : Qingfa
-1F006: Mahjong Çini Beyaz Ejderha : baiban
-1F007: Karakterlerden Mahjong Çini : bitik
+1F004: Mahjong Çini Kırmızı Ejderha: Hongzhong, 中
+1F005: Mahjong Çini Yeşil Ejderha: Qingfa
+1F006: Mahjong Çini Beyaz Ejderha: baiban
+1F007: Karakterlerden Mahjong Çini: bitik
 1F008: Mahjong çini iki karakter
 1F009: Mahjong çini karakter üç
 1F00A: Mahjong kiremit karakter dört
@@ -14,7 +14,7 @@
 1F00D: Mahjong çini karakter yedi
 1F00E: Mahjong kiremit karakter sekiz
 1F00F: Karakterlerin Dokuzuncu Mahjong Çini
-1F010: Bambu Bir Mahjong Çini : tiao
+1F010: Bambu Bir Mahjong Çini: tiao
 1F011: Bambu'nun Mahjong Çini İki
 1F012: Bambu'nun Mahjong Çini Üç
 1F013: Bambu'nun Mahjong Çini Dördüncü
@@ -23,7 +23,7 @@
 1F016: Bambu'nun Mahjong Çini Yedi
 1F017: Bambu Sekiz Mahjong Çini
 1F018: Bambu Hastası Dokuz Çini
-1F019: Mahjong Çini Çevrelerinden Biri : bing
+1F019: Mahjong Çini Çevrelerinden Biri: bing
 1F01A: Mahjong kiremit çember iki
 1F01B: Mahjong çini çemberlerin çini
 1F01C: Mahjong çini daire dört
@@ -32,15 +32,15 @@
 1F01F: Mahjong çini daire yedi
 1F020: Mahjong Çini Çemberlerin Sekizli
 1F021: Mahjong Çini Çemberlerin Dokuzuncu
-1F022: Mahjong Çini Erik : mei
-1F023: Mahjong Çini Orkide : lan
-1F024: Mahjong Çini Bambu : zhu
-1F025: Mahjong Çini Krizantem : ju
+1F022: Mahjong Çini Erik: mei
+1F023: Mahjong Çini Orkide: lan
+1F024: Mahjong Çini Bambu: zhu
+1F025: Mahjong Çini Krizantem: ju
 1F026: Mahjong Çini Yayı
 1F027: Mahjong Çini Yaz
 1F028: Mahjong Çini Sonbahar
 1F029: Mahjong Çini Kış
-1F02A: Mahjong Çini Joker : baida
+1F02A: Mahjong Çini Joker: baida
 1F02B: Mahjong Çini Geri
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Maça Sekizli Oyun Kartı
 1F0A9: Oyun kağıdı maça dokuz
 1F0AA: Maça Tenli Oyun Kartı
-1F0AB: Oyun kağıdı maça Jack : Vale, bube, unter, sayfa, fante : kılıç sayfası
-1F0AC: Maça Şövalyesi : chevalier, ayık, ritter, cavall, cavaliere : kılıç şövalyesi
-1F0AD: Maça Kızı Oyun Kartı : bayan, bayan, königin, regina : kılıç kraliçesi
-1F0AE: Maça kralı oyun kağıdı : roi, könig, yeniden : kılıç kralı
+1F0AB: Oyun kağıdı maça Jack: Vale, bube, unter, sayfa, fante , kılıç sayfası
+1F0AC: Maça Şövalyesi: chevalier, ayık, ritter, cavall, cavaliere , kılıç şövalyesi
+1F0AD: Maça Kızı Oyun Kartı: bayan, bayan, königin, regina , kılıç kraliçesi
+1F0AE: Maça kralı oyun kağıdı: roi, könig, yeniden , kılıç kralı
 1F0AF:
 1F0B0:
 1F0B1: Hearts oyun kağıdı ası
@@ -253,4 +253,4 @@
 1F0FC:
 1F0FD:
 1F0FE:
-1F0FF:
+1F0FF:

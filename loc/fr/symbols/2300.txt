@@ -6,42 +6,42 @@
 2305: Projective
 2306: Perspective
 2307: Ligne ondulée
-2308: Plafond à gauche : montant apl
+2308: Plafond à gauche: montant apl
 2309: Plafond à droite
-230A: Plancher à gauche : descendant apl
+230A: Plancher à gauche: descendant apl
 230B: Plancher à droite
-230C: Repère sud-est : hirondelle sud-est
-230D: Repère sud-ouest : hirondelle sud-ouest
-230E: Repère nord-est : hirondelle nord-est
+230C: Repère sud-est: hirondelle sud-est
+230D: Repère sud-ouest: hirondelle sud-ouest
+230E: Repère nord-est: hirondelle nord-est
 230F: Repère nord-ouest
-2310: Signe négation réfléchi : début de ligne
-2311: Pastille carrée : oreiller
+2310: Signe négation réfléchi: début de ligne
+2311: Pastille carrée: oreiller
 2312: Arc
 2313: Segment
 2314: Secteur
 2315: Enregistreur téléphonique
-2316: Repère de calage : croix de repérage
+2316: Repère de calage: croix de repérage
 2317: Carré de visualisation
-2318: Symbole de point d'intérêt : touche commande (1.0) : touche du système d'exploitation (iso 9995-7)
-2319: Signe négation culbuté : repère de ligne
+2318: Symbole de point d'intérêt: touche commande (1.0) , touche du système d'exploitation (iso 9995-7)
+2319: Signe négation culbuté: repère de ligne
 231A: Montre
 231B: Sablier
-231C: Coin nord-ouest : coin de quine, parenthèse à la gödel
-231D: Coin nord-est : coin de quine, parenthèse à la gödel
-231E: Coin sud-ouest : coin de quine, parenthèse à la gödel
+231C: Coin nord-ouest: coin de quine, parenthèse à la gödel
+231D: Coin nord-est: coin de quine, parenthèse à la gödel
+231E: Coin sud-ouest: coin de quine, parenthèse à la gödel
 231F: Coin sud-est
 2320: Moitié supérieure d'intégrale
 2321: Moitié inférieure d'intégrale
 2322: Moue
 2323: Sourire
-2324: Pointe de flèche vers le haut entre deux traits horizontaux : touche retour
+2324: Pointe de flèche vers le haut entre deux traits horizontaux: touche retour
 2325: Touche option
-2326: Effacement à droite : touche d'effacement à droite
-2327: X dans rectangle : touche effacer
+2326: Effacement à droite: touche d'effacement à droite
+2327: X dans rectangle: touche effacer
 2328: Clavier
 2329: Chevron vers la gauche
 232A: Chevron vers la droite
-232B: Effacement à gauche : touche d'effacement à gauche, suppression arrière
+232B: Effacement à gauche: touche d'effacement à gauche, suppression arrière
 232C: Anneau de benzène
 232D: Cylindricité
 232E: Profil hors-tout
@@ -52,9 +52,9 @@
 2333: Pente
 2334: Alésage
 2335: Fraisage
-2336: Symbole de fonction apl rail : poutre en i
+2336: Symbole de fonction apl rail: poutre en i
 2337: Symbole de fonction apl quadrat mince
-2338: Symbole de fonction apl étagère : baril
+2338: Symbole de fonction apl étagère: baril
 2339: Symbole de fonction apl domino
 233A: Symbole de fonction apl rideaux
 233B: Symbole de fonction apl as
@@ -73,7 +73,7 @@
 2348: Symbole de fonction apl quadrat conservateur
 2349: Symbole de fonction apl saturne
 234A: Symbole de fonction apl taquet vers le haut souligné
-234B: Symbole de fonction apl sapin : parapluie
+234B: Symbole de fonction apl sapin: parapluie
 234C: Symbole de fonction apl quadrat circonflexe renversé
 234D: Symbole de fonction apl quadrat delta
 234E: Symbole de fonction apl formatage
@@ -89,20 +89,20 @@
 2358: Symbole de fonction apl apostrophe souligné
 2359: Symbole de fonction apl delta souligné
 235A: Symbole de fonction apl losange souligné
-235B: Symbole de fonction apl petit rond souligné : pof
+235B: Symbole de fonction apl petit rond souligné: pof
 235C: Symbole de fonction apl rond souligné
 235D: Symbole de fonction apl abat-jour
 235E: Symbole de fonction apl apostrophe encadré
 235F: Symbole de fonction apl citron
 2360: Symbole de fonction apl bouton carré
 2361: Symbole de fonction apl sérieux
-2362: Symbole de fonction apl corbeau : cigogne
+2362: Symbole de fonction apl corbeau: cigogne
 2363: Symbole de fonction apl sûr
-2364: Symbole de fonction apl minnie : hululement
-2365: Symbole de fonction apl dingo : goofy, braillement
+2364: Symbole de fonction apl minnie: hululement
+2365: Symbole de fonction apl dingo: goofy, braillement
 2366: Symbole de fonction apl fourche
-2367: Symbole de fonction apl centime : cent
-2368: Symbole de fonction apl moue : sourire narquois
+2367: Symbole de fonction apl centime: cent
+2368: Symbole de fonction apl moue: sourire narquois
 2369: Symbole de fonction apl moineau
 236A: Symbole de fonction apl barbiche
 236B: Symbole de fonction apl verrou
@@ -123,22 +123,22 @@
 237A: Symbole de fonction apl alpha
 237B: Signe de non-vérification
 237C: Angle droit avec flèche en zigzag vers le bas
-237D: Caisse ouverte à épaulement : symbole espace insécable, espace liant
+237D: Caisse ouverte à épaulement: symbole espace insécable, espace liant
 237E: Symbole sonnette
 237F: Ligne verticale à point médian
 2380: Symbole d'insertion
 2381: Symbole de soulignement continu
 2382: Symbole de soulignement discontinu
-2383: Symbole d'insistance : mise en valeur
+2383: Symbole d'insistance: mise en valeur
 2384: Symbole de composition
-2385: Carré blanc traversé en son centre d'une ligne verticale : centrage
+2385: Carré blanc traversé en son centre d'une ligne verticale: centrage
 2386: Symbole d'entrée
-2387: Symbole alternative : touche alt
-2388: Symbole roue de bateau : contrôle
-2389: Barre horizontale encochée cerclée (pause) : pause
-238A: Triangle pointe vers le bas cerclé (arrêt) : arrêt
-238B: Cercle brisé à flèche nord-ouest (échappement) : échappement
-238C: Symbole défaire (renoncement) : renoncement
+2387: Symbole alternative: touche alt
+2388: Symbole roue de bateau: contrôle
+2389: Barre horizontale encochée cerclée (pause): pause
+238A: Triangle pointe vers le bas cerclé (arrêt): arrêt
+238B: Cercle brisé à flèche nord-ouest (échappement): échappement
+238C: Symbole défaire (renoncement): renoncement
 238D: Symbole monostable
 238E: Symbole hystérésis
 238F: Symbole sortie en circuit ouvert de type-h
@@ -174,8 +174,8 @@
 23AD: Arc inférieur d'accolade droite
 23AE: Rallonge d'intégrale
 23AF: Rallonge de ligne horizontale
-23B0: Moitié supérieure gauche ou inférieure droite d'accolade : moustache gauche
-23B1: Moitié supérieure droite ou inférieure gauche d'accolade : moustache droite
+23B0: Moitié supérieure gauche ou inférieure droite d'accolade: moustache gauche
+23B1: Moitié supérieure droite ou inférieure gauche d'accolade: moustache droite
 23B2: Haut du signe de somme
 23B3: Bas du signe de somme
 23B4: Crochet vertical supérieur
@@ -208,14 +208,14 @@
 23CF: Symbole éjection
 23D0: Rallonge de ligne verticale
 23D1: Brève métrique
-23D2: Longue surmontant brève métrique : habituellement brève
-23D3: Brève surmontant longue métrique : habituellement longue
-23D4: Longue surmontant deux brèves métrique : contraction
-23D5: Deux brèves surmontant longue métrique : résolution
-23D6: Deux brèves jointes métrique : long résolu
-23D7: Trisème longue-brève métrique : trois temps irrationnel
-23D8: Tétrasème métrique : quatre temps irrationnel
-23D9: Pentasème métrique : cinq temps irrationnel
+23D2: Longue surmontant brève métrique: habituellement brève
+23D3: Brève surmontant longue métrique: habituellement longue
+23D4: Longue surmontant deux brèves métrique: contraction
+23D5: Deux brèves surmontant longue métrique: résolution
+23D6: Deux brèves jointes métrique: long résolu
+23D7: Trisème longue-brève métrique: trois temps irrationnel
+23D8: Tétrasème métrique: quatre temps irrationnel
+23D9: Pentasème métrique: cinq temps irrationnel
 23DA: Mise à la terre
 23DB: Fusible
 23DC: Parenthèse supérieure (mathématiques)

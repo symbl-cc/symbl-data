@@ -1,0 +1,10 @@
+currency: 通貨
+punctuation: 句読記号
+quotes: 引用符
+fractions: 分数
+math: 数学記号
+symbols: その他の記号
+latinletters: ラテン文字
+arrows: 矢
+greekletters: ギリシャ文字
+top_text: 特殊文字コード表. HTMLで使用されるエンティティ参照（Entity References）の表記方法です。ブラウザの種類（バージョン）によって表示されないコードもあります。

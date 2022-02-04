@@ -1,12 +1,19 @@
-title: Unicode® karakter tábla
+title: Unicode karakter tábla
+unicode: Unicode
+copyright: Az Unicode® bejegyzett védjegye az Egyesült Államokban és más országokban. Ez a webhely semmilyen módon nem társul a Unicode, Inc. (más néven Unicode Consortium) vagy támogatja. A hivatalos Unicode weboldalán kérjük, menjen.
+
+[mainpage]: Kezdőlap
 
 [sets]: Készletek
 set: Beállítás
-list: Karakterkészlet
+list: Készlet
+title: Népszerű karakterkészletek
+all: Lásd az összeset
 
 [blocks]: Blokkok
 block: Blokk
 blocks: Unicode blokkok
+list: Unicode
 
 [languages]: Nyelvek
 list: Nyelv
@@ -15,10 +22,19 @@ blocks: Nyelvblokkok
 [countries]: Országok
 list: Országok
 
-[alphabets]: ábécé
-list: ábécé
+[alphabets]: Ábécé
+list: Ábécé
+
+[holidays]: Az ünnepek
+list: Az ünnepek
 
 [types]
 type: típus
 list: Típusok
 
+[html-entities]: HTML entitások
+list: HTML entitások
+
+[alt-codes]: ALT kódok a Windows számára
+list: lt kódok
+en: Angol billentyűzet elrendezése

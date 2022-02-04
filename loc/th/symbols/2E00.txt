@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: ย่อหน้า Forked
 2E11: ย้อนกลับย่อหน้าแยก
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Obelos ประ
 2E14: ลง Ancora
 2E15: Ancora ขึ้นไป
-2E16: จุดมุมขวาชี้ : peripleigmene diple
+2E16: จุดมุมขวาชี้: peripleigmene diple
 2E17: ยัติภังค์คู่เฉียง
-2E18: ฤInterษี Interrobang : gnaborretni
+2E18: ฤInterษี Interrobang: gnaborretni
 2E19: สาขาปาล์ม
 2E1A: ยัติภังค์กับ Diaeresis
 2E1B: Tilde พร้อมวงแหวนด้านบน
@@ -44,7 +44,7 @@
 2E2B: เครื่องหมายวรรคตอนหนึ่งจุดมากกว่าสองจุด
 2E2C: เครื่องหมายวรรคตอนสี่จุดกำลังสอง
 2E2D: เครื่องหมายห้าจุด
-2E2E: เครื่องหมายคำถามที่กลับด้าน : punctus percontativus : ประชดประชดประชัน
+2E2E: เครื่องหมายคำถามที่กลับด้าน: punctus percontativus , ประชดประชดประชัน
 2E2F: ตัวหนอนแนวตั้ง
 2E30: จุดวงแหวน
 2E31: ตัวแยกคำจุดกลาง
@@ -56,7 +56,7 @@
 2E37: กริชกับ Right Guard
 2E38: หันกริช
 2E39: เครื่องหมายส่วนบน
-2E3A: Two-Em Dash : เส้นประละเว้น
+2E3A: Two-Em Dash: เส้นประละเว้น
 2E3B: Three-Em Dash
 2E3C: เต็มหยุดชวเลข
 2E3D: แนวหกจุด
@@ -77,10 +77,10 @@
 2E4C: จุลภาคในยุคกลาง
 2E4D: เครื่องหมายย่อหน้า
 2E4E: เครื่องหมาย Punctus Elevatus
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: คอร์นวอลล์ กลอน เครื่องหมายแยกเลขหลัก
+2E50: ข้ามขนมพายด้วยคานขวางขวา
+2E51: ข้ามขนมพายกับคานซ้าย
+2E52: Tironian เครื่องหมาย เมืองหลวงจดหมาย Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

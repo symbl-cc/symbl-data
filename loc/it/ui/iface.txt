@@ -1,3 +1,5 @@
+hide: Sparire
+show: Mostrare
 up	: Su
 range	: Gamma
 loading	: Attendere il caricamento prego...
@@ -18,6 +20,14 @@ read-less	: Nascondere
 madeby	: Fatto da
 keepupdates	: Seguici
 hint	: Selezionare e copiare carattere desiderato
+
+copied: Copiato!
+see_also: Voci correlate
+page_content_menu: Sommario
+homepage: Pagina principale
+cookie-message: Questo sito utilizza 🍪cookie per assicurarti la migliore esperienza.
+accept: Accettare
+empty-cell: Cella vuota
 
 [mobile]
 to-full: Vai alla versione completa

@@ -11,7 +11,7 @@
 10F0A: 옛 Sogdian 편지 Yodh
 10F0B: 오래된 Sogdian 편지 Kaph
 10F0C: 오래된 Sogdian 편지 Lamedh
-10F0D: Old Sogdian Letter Mem
+10F0D: Old Sogdian 자모 Mem
 10F0E: 오래된 Sogdian 편지 수녀
 10F0F: 오래된 Sogdian 편지 마지막 수녀
 10F10: 세로 꼬리를 가진 오래된 Sogdian 편지 마지막 수녀
@@ -21,7 +21,7 @@
 10F14: 오래된 Sogdian 편지 Pe
 10F15: 오래된 Sogdian 편지 Sadhe
 10F16: 오래된 Sogdian 편지 마지막 Sadhe
-10F17: 세로 꼬리가 달려있는 오래된 Sogdian Letter 최종 사디
+10F17: 세로 꼬리가 달려있는 오래된 Sogdian 자모 최종 사디
 10F18: 오래된 Sogdian 편지 Resh-Ayin-Daleth
 10F19: 옛 소그드 문자 신
 10F1A: 오래된 Sogdian 편지 Taw
@@ -46,27 +46,27 @@
 10F2D:
 10F2E:
 10F2F:
-10F30: Sogdian Letter Aleph
+10F30: Sogdian 자모 Aleph
 10F31: 소그 디안 레터 베스
-10F32: Sogdian Letter Gimel
-10F33: Sogdian Letter He
-10F34: Sogdian Letter Waw
-10F35: Sogdian Letter Zayin
-10F36: Sogdian Letter Heth
+10F32: Sogdian 자모 Gimel
+10F33: Sogdian 자모 He
+10F34: Sogdian 자모 Waw
+10F35: Sogdian 자모 Zayin
+10F36: Sogdian 자모 Heth
 10F37: Sogdian 편지 Yodh
 10F38: Sogdian 편지 Kaph
-10F39: Sogdian Letter Lamedh
+10F39: Sogdian 자모 Lamedh
 10F3A: Sogdian 편지 Mem
-10F3B: Sogdian Letter Nun
+10F3B: Sogdian 자모 Nun
 10F3C: Sogdian 편지 Samekh
-10F3D: Sogdian Letter Ayin
+10F3D: Sogdian 자모 Ayin
 10F3E: Sogdian 편지 Pe
 10F3F: Sogdian 편지 Sadhe
 10F40: Sogdian 편지 Resh-Ayin
 10F41: Sogdian Let 신
-10F42: Sogdian Letter Taw
-10F43: Sogdian Letter Feth
-10F44: Sogdian Letter Lesh
+10F42: Sogdian 자모 Taw
+10F43: Sogdian 자모 Feth
+10F44: Sogdian 자모 Lesh
 10F45: Sogdian Independent 신
 10F46: 아래 Sogdian Combining Dot
 10F47: 아래 두 점을 결합하는 Sogdian
@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0: 코라 시안 문자 Aleph
+10FB1: 코라 시안 문자 작은 Aleph
+10FB2: 코라 시안 문자 Beth
+10FB3: 코라 시안 문자 Gimel
+10FB4: 코라 시안 문자 Daleth
+10FB5: 코라 시안 문자 He
+10FB6: 코라 시안 문자 Waw
+10FB7: 코라 시안 문자 웅크 리고 Waw
+10FB8: 코라 시안 문자 Zayin
+10FB9: 코라 시안 문자 Heth
+10FBA: 코라 시안 문자 Yodh
+10FBB: 코라 시안 문자 Kaph
+10FBC: 코라 시안 문자 Lamedh
+10FBD: 코라 시안 문자 Mem
+10FBE: 코라 시안 문자 Nun
+10FBF: 코라 시안 문자 Samekh
+10FC0: 코라 시안 문자 Ayin
+10FC1: 코라 시안 문자 Pe
+10FC2: 코라 시안 문자 Resh
+10FC3: 코라 시안 문자 Shin
+10FC4: 코라 시안 문자 Taw
+10FC5: 코라 시안 넘버원
+10FC6: 코라 시안 2 번
+10FC7: 코라 시안 3 번
+10FC8: 코라 시안 번호 4
+10FC9: 코라 시안 번호 10
+10FCA: 코라 시안 넘버 스물
+10FCB: 코라 시안 넘버 백
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaic 자모 Aleph
+10FE1: Elymaic 자모 Beth
+10FE2: Elymaic 자모 Gimel
+10FE3: Elymaic 자모 Daleth
+10FE4: Elymaic 자모 He
+10FE5: Elymaic 자모 Waw
+10FE6: Elymaic 자모 Zayin
+10FE7: Elymaic 자모 Heth
+10FE8: Elymaic 자모 Teth
+10FE9: Elymaic 자모 Yodh
+10FEA: Elymaic 자모 Kaph
+10FEB: Elymaic 자모 Lamedh
+10FEC: Elymaic 자모 Mem
+10FED: Elymaic 자모 Nun
+10FEE: Elymaic 자모 Samekh
+10FEF: Elymaic 자모 Ayin
+10FF0: Elymaic 자모 Pe
+10FF1: Elymaic 자모 Sadhe
+10FF2: Elymaic 자모 Qoph
+10FF3: Elymaic 자모 Resh
+10FF4: Elymaic 자모 Shin
+10FF5: Elymaic 자모 Taw
+10FF6: Elymaic 합자 Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

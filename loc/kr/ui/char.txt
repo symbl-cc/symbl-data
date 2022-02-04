@@ -1,14 +1,28 @@
+alt-code: Alt 코드
+name: 실재
+symbol: 기호
+html_code: HTML 코드
 entity: 유니 코드
 your-browser: 브라우저
 font-view: 문자의 다른 글꼴의 예
-char-desc: 문자 설명
+char-desc: 기호 의미
+emoji-desc: 이모티콘 의미
+ideograph-desc: 표의 문자 의미
+unicode-name: 유니 코드 이름
 unicode-number: 유니 코드 번호
 html-code: <span class="caps">HTML</span>코드
+css-code: CSS 코드
 uppercase: 자본
 lowercase: 小写
 encoding: 소문자
 related: 관련 문자
+tech-info: 기술 정보
 copy: 심볼 복사 및 붙여 넣기
+copy-code: 복사하려면 클릭
 copy_button: 부
 copy_done: 복사 됨!
 version: 유니 코드 버전
+sets-with-this-symbol: 이 기호로 설정
+empty-symbol: 유니 코드로 정의되지 않음
+emoji_group: 이모티콘 카테고리
+emoji_version: 이모티콘 버전

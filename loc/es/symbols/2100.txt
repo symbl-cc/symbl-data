@@ -1,60 +1,60 @@
 2100: Cuenta de
 2101: Dirigido al sujeto
-2102: Doble-Struck Capital C : el conjunto de números complejos
-2103: Grado Celsius : grados centígrados
-2104: Símbolo de la línea central : clon
+2102: Doble-Struck Capital C: el conjunto de números complejos
+2103: Grado Celsius: grados centígrados
+2104: Símbolo de la línea central: clon
 2105: Cuidado de
 2106: Cada Una
 2107: Constante de euler
 2108: Escrúpulo
 2109: Grado Fahrenheit
-210A: Script Small G : símbolo de número real
-210B: Script Capital H : operador hamiltoniano
-210C: Letra mayúscula negra h : espacio hilbert
+210A: Script Small G: símbolo de número real
+210B: Script Capital H: operador hamiltoniano
+210C: Letra mayúscula negra h: espacio hilbert
 210D: Doble H de Capital
-210E: Constante de planck : Altura, entalpía específica, ...
+210E: Constante de planck: Altura, entalpía específica, ...
 210F: Planck constante sobre dos pi
 2110: Script Capital I
-2111: Letra mayúscula negra : parte imaginaria
-2112: Script Capital L : laplace transform
-2113: Script Small L : símbolo matemático 'ell' : litro (símbolo tradicional)
-2114: L B Bar Symbol : libras
-2115: Doble-Struck Capital N : número natural
+2111: Letra mayúscula negra: parte imaginaria
+2112: Script Capital L: laplace transform
+2113: Script Small L: símbolo matemático 'ell' , litro (símbolo tradicional)
+2114: L B Bar Symbol: libras
+2115: Doble-Struck Capital N: número natural
 2116: Numero Signo
-2117: Derechos de autor de grabación de sonido : publicado : signo de fonocontrolador
+2117: Derechos de autor de grabación de sonido: publicado , signo de fonocontrolador
 2118: Script Capital P
 2119: Doble-Struck Capital P
-211A: Q doble capital : el conjunto de números racionales
-211B: Script Capital R : riemann integral
-211C: Letra mayúscula R negra : parte real
-211D: Doble-Struck Capital R : el conjunto de numeros reales
-211E: Toma de prescripción : receta : relación cruzada
+211A: Q doble capital: el conjunto de números racionales
+211B: Script Capital R: riemann integral
+211C: Letra mayúscula R negra: parte real
+211D: Doble-Struck Capital R: el conjunto de numeros reales
+211E: Toma de prescripción: receta , relación cruzada
 211F: Respuesta
 2120: Marca de servicio
 2121: Señal de telefono
-2122: Signo de marca : marca : tm
+2122: Signo de marca: marca , tm
 2123: Versículo
-2124: Double-Struck Capital Z : el conjunto de enteros
+2124: Double-Struck Capital Z: el conjunto de enteros
 2125: Signo de la onza
 2126: Ohm Sign
-2127: Signo de ohmio invertido : mho
+2127: Signo de ohmio invertido: mho
 2128: Letra mayúscula negra z
 2129: Se volvió griega letra minúscula Iota
 212A: Signo de Kelvin
 212B: Signo de angstrom
-212C: Script Capital B : función bernoulli
+212C: Script Capital B: función bernoulli
 212D: Mayúscula C mayúscula
 212E: Símbolo estimado
-212F: Script Pequeño E : error : exponente natural
-2130: Script Capital E : emf (fuerza electromotriz)
-2131: Script Capital F : Transformada de Fourier
-2132: Capital de turno F : claudian digamma inversum
-2133: Script Capital M : matriz-m (física) : símbolo de moneda de marca alemana, antes de wwii
-2134: Script Pequeño O : orden, de orden inferior a
-2135: Símbolo de Alef : primer cardenal transfinito (contable)
-2136: Símbolo de apuesta : segundo cardenal transfinito (el continuo)
-2137: Simbolo de gimel : Tercer cardenal transfinito (funciones de una variable real)
-2138: Símbolo dalet : cuarto cardenal transfinito
+212F: Script Pequeño E: error , exponente natural
+2130: Script Capital E: emf (fuerza electromotriz)
+2131: Script Capital F: Transformada de Fourier
+2132: Capital de turno F: claudian digamma inversum
+2133: Script Capital M: matriz-m (física) , símbolo de moneda de marca alemana, antes de wwii
+2134: Script Pequeño O: orden, de orden inferior a
+2135: Símbolo de Alef: primer cardenal transfinito (contable)
+2136: Símbolo de apuesta: segundo cardenal transfinito (el continuo)
+2137: Simbolo de gimel: Tercer cardenal transfinito (funciones de una variable real)
+2138: Símbolo dalet: cuarto cardenal transfinito
 2139: Fuente de información
 213A: Capital rotado Q
 213B: Signo de fax
@@ -63,7 +63,7 @@
 213E: Gamma capital de doble golpe
 213F: Pi doble capital
 2140: Suma de N-Ary de doble golpe
-2141: Convertido Sans-Serif Capital G : juego
+2141: Convertido Sans-Serif Capital G: juego
 2142: Convertido Sans-Serif Capital L
 2143: Invertido Sans-Serif Capital L
 2144: Convertido en Sans-Serif Capital Y
@@ -129,7 +129,7 @@
 2180: Numero romano mil cd
 2181: Número romano cinco mil
 2182: Numeral romano diez mil
-2183: Número romano invertido cien : apostrófica c : antisigma de claudian
+2183: Número romano invertido cien: apostrófica c , antisigma de claudian
 2184: Letra latina minúscula invertida C
 2185: Número romano seis formas tardías
 2186: Número romano cincuenta forma temprana
@@ -144,9 +144,9 @@
 218F:
 2190: Flecha hacia la izquierda
 2191: Flecha hacia arriba
-2192: Flecha hacia la derecha : función de notación z total
+2192: Flecha hacia la derecha: función de notación z total
 2193: Flecha hacia abajo
-2194: Flecha izquierda derecha : relación de notación z
+2194: Flecha izquierda derecha: relación de notación z
 2195: Arriba flecha abajo
 2196: Flecha del noroeste
 2197: Flecha del noreste
@@ -156,16 +156,16 @@
 219B: Flecha hacia la derecha con trazo
 219C: Flecha hacia la izquierda
 219D: Flecha hacia la derecha
-219E: Flecha de dos cabezas hacia la izquierda : cursor rápido a la izquierda
-219F: Flecha hacia arriba de dos cabezas : cursor rápido hacia arriba
-21A0: Flecha de dos cabezas hacia la derecha : notación total z : cursor rápido hacia la derecha
-21A1: Flecha hacia abajo de dos cabezas : form feed : cursor rápido hacia abajo
+219E: Flecha de dos cabezas hacia la izquierda: cursor rápido a la izquierda
+219F: Flecha hacia arriba de dos cabezas: cursor rápido hacia arriba
+21A0: Flecha de dos cabezas hacia la derecha: notación total z , cursor rápido hacia la derecha
+21A1: Flecha hacia abajo de dos cabezas: form feed , cursor rápido hacia abajo
 21A2: Flecha hacia la izquierda con cola
-21A3: Flecha hacia la derecha con cola : inyeccion total z
+21A3: Flecha hacia la derecha con cola: inyeccion total z
 21A4: Flecha hacia la izquierda de la barra
 21A5: Flecha hacia arriba de la barra
-21A6: Flecha hacia la derecha de la barra : maplet de notación z
-21A7: Flecha hacia abajo de la barra : símbolo de profundidad
+21A6: Flecha hacia la derecha de la barra: maplet de notación z
+21A7: Flecha hacia abajo de la barra: símbolo de profundidad
 21A8: Flecha arriba abajo con base
 21A9: Flecha hacia la izquierda con gancho
 21AA: Flecha hacia la derecha con gancho
@@ -173,17 +173,17 @@
 21AC: Flecha hacia la derecha con lazo
 21AD: Flecha izquierda ola derecha
 21AE: Flecha izquierda derecha con trazo
-21AF: Flecha hacia abajo en zigzag : electrólisis
+21AF: Flecha hacia abajo en zigzag: electrólisis
 21B0: Flecha hacia arriba con punta hacia la izquierda
 21B1: Flecha hacia arriba con punta hacia la derecha
 21B2: Flecha hacia abajo con punta hacia la izquierda
 21B3: Flecha hacia abajo con punta hacia la derecha
-21B4: Flecha hacia la derecha con la esquina hacia abajo : linea de alimentación
+21B4: Flecha hacia la derecha con la esquina hacia abajo: linea de alimentación
 21B5: Flecha hacia abajo con la esquina hacia la izquierda
 21B6: Flecha de semicírculo superior en sentido antihorario
 21B7: Flecha del semicírculo superior a la derecha
-21B8: North West Arrow To Long Bar : casa
-21B9: Flecha hacia la izquierda hacia la barra hacia arriba Flecha hacia la derecha hacia la barra : pestaña con la pestaña shift
+21B8: North West Arrow To Long Bar: casa
+21B9: Flecha hacia la izquierda hacia la barra hacia arriba Flecha hacia la derecha hacia la barra: pestaña con la pestaña shift
 21BA: Círculo abierto en sentido contrario a las agujas del reloj
 21BB: Círculo abierto en el sentido de las agujas del reloj
 21BC: Arpón a la izquierda con púa hacia arriba
@@ -220,37 +220,37 @@
 21DB: Flecha triple hacia la derecha
 21DC: Flecha de flecha hacia la izquierda
 21DD: Flecha de flecha hacia la derecha
-21DE: Flecha hacia arriba con doble trazo : página arriba
-21DF: Flecha hacia abajo con doble trazo : Página abajo
+21DE: Flecha hacia arriba con doble trazo: página arriba
+21DF: Flecha hacia abajo con doble trazo: Página abajo
 21E0: Flecha punteada hacia la izquierda
 21E1: Flecha punteada hacia arriba
 21E2: Flecha punteada hacia la derecha
 21E3: Flecha punteada hacia abajo
-21E4: Flecha hacia la izquierda hacia la barra : pestaña hacia la izquierda
-21E5: Flecha hacia la derecha hacia la barra : pestaña hacia la derecha
+21E4: Flecha hacia la izquierda hacia la barra: pestaña hacia la izquierda
+21E5: Flecha hacia la derecha hacia la barra: pestaña hacia la derecha
 21E6: Flecha blanca hacia la izquierda
-21E7: Flecha blanca hacia arriba : cambio : selección de nivel 2 (iso 9995-7)
-21E8: Flecha blanca hacia la derecha : selección de grupo (iso 9995-7)
+21E7: Flecha blanca hacia arriba: cambio , selección de nivel 2 (iso 9995-7)
+21E8: Flecha blanca hacia la derecha: selección de grupo (iso 9995-7)
 21E9: Flecha blanca hacia abajo
-21EA: Flecha blanca hacia arriba de la barra : Bloq Mayús
-21EB: Flecha blanca hacia arriba en el pedestal : bloqueo de nivel 2
-21EC: Flecha blanca hacia arriba sobre pedestal con barra horizontal : mayúsculas (mayúsculas) de bloqueo
-21ED: Flecha blanca hacia arriba sobre pedestal con barra vertical : bloqueo numérico
-21EE: Flecha doble hacia arriba blanca : nivel 3 seleccionar
-21EF: Flecha doble hacia arriba blanca en pedestal : nivel 3 bloqueo
-21F0: Flecha blanca hacia la derecha de la pared : bloqueo de grupo
-21F1: Flecha del noroeste a la esquina : casa
-21F2: Flecha del sudeste a la esquina : fin
-21F3: Arriba abajo flecha blanca : desplazamiento
+21EA: Flecha blanca hacia arriba de la barra: Bloq Mayús
+21EB: Flecha blanca hacia arriba en el pedestal: bloqueo de nivel 2
+21EC: Flecha blanca hacia arriba sobre pedestal con barra horizontal: mayúsculas (mayúsculas) de bloqueo
+21ED: Flecha blanca hacia arriba sobre pedestal con barra vertical: bloqueo numérico
+21EE: Flecha doble hacia arriba blanca: nivel 3 seleccionar
+21EF: Flecha doble hacia arriba blanca en pedestal: nivel 3 bloqueo
+21F0: Flecha blanca hacia la derecha de la pared: bloqueo de grupo
+21F1: Flecha del noroeste a la esquina: casa
+21F2: Flecha del sudeste a la esquina: fin
+21F3: Arriba abajo flecha blanca: desplazamiento
 21F4: Flecha derecha con círculo pequeño
 21F5: Flecha hacia abajo a la izquierda de flecha hacia arriba
 21F6: Tres flechas a la derecha
 21F7: Flecha hacia la izquierda con trazo vertical
-21F8: Flecha hacia la derecha con trazo vertical : función parcial de notación z
-21F9: Flecha izquierda derecha con trazo vertical : relación parcial de notación z
+21F8: Flecha hacia la derecha con trazo vertical: función parcial de notación z
+21F9: Flecha izquierda derecha con trazo vertical: relación parcial de notación z
 21FA: Flecha hacia la izquierda con doble trazo vertical
-21FB: Flecha hacia la derecha con doble trazo vertical : notación z función finita
-21FC: Flecha izquierda derecha con doble trazo vertical : notación z relación finita
+21FB: Flecha hacia la derecha con doble trazo vertical: notación z función finita
+21FC: Flecha izquierda derecha con doble trazo vertical: notación z relación finita
 21FD: Flecha abierta hacia la izquierda
 21FE: Flecha abierta hacia la derecha
 21FF: Izquierda derecha flecha abierta

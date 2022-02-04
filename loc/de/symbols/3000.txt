@@ -24,8 +24,8 @@
 3017: Rechte weiße linsenförmige Halterung
 3018: Linke weiße Schildpatt-Klammer
 3019: Rechte weiße Schildpatt-Klammer
-301A: Linke weiße eckige Klammer : linke abstrakte Syntaxklammer
-301B: Rechte weiße eckige Klammer : rechte abstrakte Syntaxklammer
+301A: Linke weiße eckige Klammer: linke abstrakte Syntaxklammer
+301B: Rechte weiße eckige Klammer: rechte abstrakte Syntaxklammer
 301C: Wave Dash
 301D: Doppelte Anführungszeichen in umgekehrter Reihenfolge
 301E: Doppelte Anführungszeichen
@@ -44,9 +44,9 @@
 302B: Ideographische aufsteigende Tonmarke
 302C: Ideografisches Tonzeichen
 302D: Ideographische Eingabe der Tonmarke
-302E: Hangul Single Dot Tone Mark : Einzelpunkt Bangjeom
-302F: Hangul Double Dot Tone Mark : Doppelpunkt Bangjeom
-3030: Wellenförmiger Gedankenstrich : Welle
+302E: Hangul Single Dot Tone Mark: Einzelpunkt Bangjeom
+302F: Hangul Double Dot Tone Mark: Doppelpunkt Bangjeom
+3030: Wellenförmiger Gedankenstrich: Welle
 3031: Vertikale Kana-Wiederholungsmarke
 3032: Vertikale Kana-Wiederholung mit stimmhafter Tonmarke
 3033: Vertikale Kana-Wiederholungsmarkierungsoberhälfte
@@ -59,7 +59,7 @@
 303A: Hangzhou-Nummer dreißig
 303B: Vertikale Ideografische Iterationsmarke
 303C: Masu Mark
-303D: Teilwechselzeichen : M, McDonald´s
+303D: Teilwechselzeichen: M, McDonald´s
 303E: Ideografische Variationsanzeige
 303F: Ideographischer halber Füllungsraum
 3040:
@@ -85,8 +85,8 @@
 3054: Hiragana Brief gehen
 3055: Hiragana Brief Sa
 3056: Hiragana Brief Za
-3057: Hiragana Brief Si : shi
-3058: Hiragana Brief Zi : ji (nicht eindeutig)
+3057: Hiragana Brief Si: shi
+3058: Hiragana Brief Zi: ji (nicht eindeutig)
 3059: Hiragana Brief Su
 305A: Hiragana Brief Zu
 305B: Hiragana Brief Se
@@ -95,11 +95,11 @@
 305E: Hiragana Brief Zo
 305F: Hiragana-Buchstabe Ta
 3060: Hiragana Brief Da
-3061: Hiragana-Buchstabe Ti : Chi
-3062: Hiragana Brief Di : ji (nicht eindeutig)
-3063: Hiragana Brief klein : kleine Tsu
-3064: Hiragana Brief Tu : Tsu
-3065: Hiragana Brief Du : zu (nicht eindeutig)
+3061: Hiragana-Buchstabe Ti: Chi
+3062: Hiragana Brief Di: ji (nicht eindeutig)
+3063: Hiragana Brief klein: kleine Tsu
+3064: Hiragana Brief Tu: Tsu
+3065: Hiragana Brief Du: zu (nicht eindeutig)
 3066: Hiragana-Buchstabe Te
 3067: Hiragana Brief De
 3068: Hiragana Brief an
@@ -115,7 +115,7 @@
 3072: Hiragana Brief Hallo
 3073: Hiragana Brief Bi
 3074: Hiragana Letter Pi
-3075: Hiragana Brief Hu : fu
+3075: Hiragana Brief Hu: fu
 3076: Hiragana Brief Bu
 3077: Hiragana Brief Pu
 3078: Hiragana Brief He
@@ -181,8 +181,8 @@
 30B4: Katakana Brief gehen
 30B5: Katakana Brief Sa
 30B6: Katakana Brief Za
-30B7: Katakana Brief Si : shi
-30B8: Katakana-Buchstabe Zi : ji (nicht eindeutig)
+30B7: Katakana Brief Si: shi
+30B8: Katakana-Buchstabe Zi: ji (nicht eindeutig)
 30B9: Katakana Brief Su
 30BA: Katakana Brief Zu
 30BB: Katakana Brief Se
@@ -191,11 +191,11 @@
 30BE: Katakana Brief Zo
 30BF: Katakana-Buchstabe Ta
 30C0: Katakana-Brief Da
-30C1: Katakana-Buchstabe Ti : Chi
-30C2: Katakana Brief Di : ji (nicht eindeutig)
-30C3: Katakana Brief klein : kleine Tsu
-30C4: Katakana Brief Tu : Tsu
-30C5: Katakana Brief Du : zu (nicht eindeutig)
+30C1: Katakana-Buchstabe Ti: Chi
+30C2: Katakana Brief Di: ji (nicht eindeutig)
+30C3: Katakana Brief klein: kleine Tsu
+30C4: Katakana Brief Tu: Tsu
+30C5: Katakana Brief Du: zu (nicht eindeutig)
 30C6: Katakana-Buchstabe Te
 30C7: Katakana Brief De
 30C8: Katakana Brief an
@@ -211,7 +211,7 @@
 30D2: Katakana Brief Hallo
 30D3: Katakana Brief Bi
 30D4: Katakana Brief Pi
-30D5: Katakana Brief Hu : fu
+30D5: Katakana Brief Hu: fu
 30D6: Katakana Brief Bu
 30D7: Katakana Brief Pu
 30D8: Katakana Brief He

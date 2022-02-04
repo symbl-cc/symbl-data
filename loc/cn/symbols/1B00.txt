@@ -169,9 +169,9 @@
 1BA8 : 巽他语元音标记 Pamepet
 1BA9 : 巽他语元音标记 Paneuleung
 1BAA : 巽他语标记 Pamaaeh
-1BAB : 
-1BAC : 
-1BAD : 
+1BAB : 巽他语标记 Virama
+1BAC: 巽他语标记辅音帕桑干 Ma: 次连接 ma
+1BAD: 巽他语标记辅音帕桑干 Wa: 次连接 wa
 1BAE : 巽他语字母 Kha
 1BAF : 巽他语字母 Sya
 1BB0 : 巽他语数字零
@@ -184,64 +184,64 @@
 1BB7 : 巽他语数字七
 1BB8 : 巽他语数字八
 1BB9 : 巽他语数字九
-1BBA : 
-1BBB : 
-1BBC : 
-1BBD : 
-1BBE : 
-1BBF : 
-1BC0 : 
-1BC1 : 
-1BC2 : 
-1BC3 : 
-1BC4 : 
-1BC5 : 
-1BC6 : 
-1BC7 : 
-1BC8 : 
-1BC9 : 
-1BCA : 
-1BCB : 
-1BCC : 
-1BCD : 
-1BCE : 
-1BCF : 
-1BD0 : 
-1BD1 : 
-1BD2 : 
-1BD3 : 
-1BD4 : 
-1BD5 : 
-1BD6 : 
-1BD7 : 
-1BD8 : 
-1BD9 : 
-1BDA : 
-1BDB : 
-1BDC : 
-1BDD : 
-1BDE : 
-1BDF : 
-1BE0 : 
-1BE1 : 
-1BE2 : 
-1BE3 : 
-1BE4 : 
-1BE5 : 
-1BE6 : 
-1BE7 : 
-1BE8 : 
-1BE9 : 
-1BEA : 
-1BEB : 
-1BEC : 
-1BED : 
-1BEE : 
-1BEF : 
-1BF0 : 
-1BF1 : 
-1BF2 : 
-1BF3 : 
+1BBA : 巽他语标记 Avagraha
+1BBB : 巽他语字母 Reu
+1BBC : 巽他语字母 Leu
+1BBD : 巽他语字母 Bha
+1BBE : 巽他语字母最后 K
+1BBF : 巽他语字母最后 M
+1BC0 : 巴塔克字母A
+1BC1 : 巴塔克字母Simalungun A
+1BC2 : 巴塔克字母哈
+1BC3 : 巴塔克字母Simalungun Ha
+1BC4 : 巴塔克字母曼达琳·哈
+1BC5 : 巴塔克字母Ba
+1BC6 : 巴塔克字母卡罗巴
+1BC7 : 巴塔克字母Pa
+1BC8 : 巴塔克字母Simalungun Pa
+1BC9 : 巴塔克字母Na
+1BCA : 巴塔克字母曼达琳娜
+1BCB : 巴塔克字母Wa
+1BCC : 巴塔克字母Simalungun Wa
+1BCD : 巴塔克字母帕帕瓦
+1BCE : 巴塔克字母嘎
+1BCF : 巴塔克字母Simalungun Ga
+1BD0 : 巴塔克字母Ja
+1BD1 : 巴塔克字母达
+1BD2 : 巴塔克字母Ra
+1BD3 : 巴塔克字母Simalungun Ra
+1BD4 : 巴塔克字母Ma
+1BD5 : 巴塔克字母Simalungun Ma
+1BD6 : 巴塔克字母南部塔
+1BD7 : 巴塔克字母北塔
+1BD8 : 巴塔克字母Sa
+1BD9 : 巴塔克字母Simalungun Sa
+1BDA : 巴塔克字母曼达林Sa
+1BDB : 巴塔克字母雅
+1BDC : 巴塔克字母Simalungun Ya
+1BDD : 巴塔克字母雅
+1BDE : 巴塔克字母La
+1BDF : 巴塔克字母Simalungun La
+1BE0 : 巴塔克字母Nya
+1BE1 : 巴塔克字母Ca
+1BE2 : 巴塔克字母Nda
+1BE3 : 巴塔克字母Mba
+1BE4 : 巴塔克字母I
+1BE5 : 巴塔克字母U
+1BE6 : 巴塔克标志汤皮
+1BE7 : 巴塔克元音标志E
+1BE8 : Batak元音标志Pakpak E
+1BE9 : 巴塔克元音标志Ee
+1BEA : 巴塔克元音标志I
+1BEB : 巴塔克元音标志Karo I
+1BEC : 巴塔克元音标志O
+1BED : 巴塔克元音标志Karo O
+1BEE : 巴塔克元音标志U
+1BEF : 巴塔克元音标志U对于Simalungun Sa
+1BF0 : 巴塔克辅音符号Ng
+1BF1 : 巴塔克辅音符号H
+1BF2 : 巴塔克Pangolat
+1BF3 : 巴塔克Panongonan
 1BF4 : 
 1BF5 : 
 1BF6 : 
@@ -249,8 +249,7 @@
 1BF8 : 
 1BF9 : 
 1BFA : 
-1BFB : 
-1BFC : 
-1BFD : 
-1BFE : 
-1BFF : 
+1BFC : 巴塔克符号 宾都 娜 梅特克
+1BFD : 巴塔克符号 宾都 皮纳博拉斯
+1BFE : 巴塔克符号 宾都 朱杜尔
+1BFF : 巴塔克符号 宾都 Pangolat

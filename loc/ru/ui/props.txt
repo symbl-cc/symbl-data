@@ -1,0 +1,1202 @@
+[cf]: Изменение регистра
+[scf]: Простое изменение регистра
+[bpb]: Парная зеркальная скобка (bidi)
+[AHex]
+	n: Нет
+	y: Да
+[age]: Версия
+	1.1: V1_1
+	2.0: V2_0
+	2.1: V2_1
+	3.0: V3_0
+	3.1: V3_1
+	3.2: V3_2
+	4.0: V4_0
+	4.1: V4_1
+	5.0: V5_0
+	5.1: V5_1
+	5.2: V5_2
+	6.0: V6_0
+	6.1: V6_1
+	6.2: V6_2
+	6.3: V6_3
+	7.0: V7_0
+	8.0: V8_0
+	9.0: V9_0
+	10.0: V10_0
+	11.0: V11_0
+	12.0: V12_0
+	12.1: V12_1
+	13.0: V13_0
+	na: Нет данных
+[Alpha]
+	n: Нет
+	y: Да
+[bc]
+	al: Арабское письмо
+	an: Арабское число
+	b: Разделитель абзацев
+	bn: Нейтральный границы
+	cs: Общий разделитель
+	en: Европейский числа
+	es: Разделитель европейский языков
+	et: Терминирующий символ европейских языков
+	fsi: Первый усиленный разделитель
+	l: Слева на право
+	lre: Вставка слева на право
+	lri: Разделитель слева направо
+	lro: Отмена слева на право
+	nsm: Без пробела
+	on: Другой нейтральный
+	pdf: Конец вставленного текста с другим направлением
+	pdi: Разделитель форматирования направления текста
+	r: Справа на лево
+	rle: Вставка справа налево
+	rli: Разделитель справа налево
+	rlo: Отмена справа налево
+	s: Сегментный разделитель
+	ws: Пробел
+[Bidi_C]
+	n: Нет
+	y: Да
+[Bidi_M]
+	n: Нет
+	y: Да
+[bpt]:Тип парной зеркальной скобки (bidi)
+	c: Закрывающая
+	n: Нет
+	o: Открывающая
+[blk]: Блок
+	adlam: Адлам
+	aegean_numbers: Эгейские цифры
+	ahom: Ахом
+	alchemical: Алхимические символы
+	alphabetic_pf: Алфавитные формы представления
+	anatolian_hieroglyphs: Анатолийские иероглифы
+	ancient_greek_music: Древнегреческие музыкальные символы
+	ancient_greek_numbers: Древнегреческие цифры
+	ancient_symbols: Древние символы
+	arabic: Арабское письмо
+	arabic_ext_a: Расширенное арабское письмо — A
+	arabic_math: Арабские математические алфавитные символы
+	arabic_pf_a: Арабские формы представления — A
+	arabic_pf_b: Арабские формы представления — B
+	arabic_sup: Дополнение к арабскому письму
+	armenian: Армянское письмо
+	arrows: Стрелки
+	ascii: Базовая латиница
+	avestan: Авестийское письмо
+	balinese: Балийское письмо
+	bamum: Бамум
+	bamum_sup: Дополнение к бамуму
+	bassa_vah: Письмо басса
+	batak: Батакское письмо
+	bengali: Бенгальское письмо
+	bhaiksuki: Бхайкшуки
+	block_elements: Блочные элементы
+	bopomofo: Чжуинь фухао. Бопомофо
+	bopomofo_ext: Расширенное чжуинь фухао, бопомофо
+	box_drawing: Символы для рисования рамок
+	brahmi: Брахми
+	braille: Шрифт Брайля
+	buginese: Бугийское письмо. Лонтара
+	buhid: Бухид
+	byzantine_music: Византийские музыкальные символы
+	carian: Карийское письмо
+	caucasian_albanian: Агванское письмо (Кавказская Албания)
+	chakma: Чакма
+	cham: Чамское письмо
+	cherokee: Чероки
+	cherokee_sup: Дополнение к Чероки
+	chess_symbols: Шахматные символы
+	chorasmian: Хорезмийское письмо
+	cjk: Унифицированные идеограммы ККЯ
+	cjk_compat: Совместимые элементы ККЯ
+	cjk_compat_forms: Совместимые формы ККЯ
+	cjk_compat_ideographs: Совместимые идеограммы ККЯ
+	cjk_compat_ideographs_sup: Дополнение к совместимым идеограммам ККЯ
+	cjk_ext_a: Унифицированные идеограммы ККЯ. Расширение А
+	cjk_ext_b: Унифицированные идеограммы ККЯ. Расширение B
+	cjk_ext_c: Унифицированные идеограммы ККЯ. Расширение C
+	cjk_ext_d: Унифицированные идеограммы ККЯ. Расширение D
+	cjk_ext_e: Унифицированные идеограммы ККЯ. Расширение E
+	cjk_ext_f: Унифицированные идеограммы ККЯ. Расширение F
+	cjk_ext_g: Унифицированные идеограммы ККЯ. Расширение G
+	cjk_radicals_sup: Дополнительные к ключам ККЯ
+	cjk_strokes: Черты ККЯ
+	cjk_symbols: Символы и пунктуация ККЯ
+	compat_jamo: Хангыль чамо
+	control_pictures: Пиктографммы управляющих символов
+	coptic: Коптское письмо
+	coptic_epact_numbers: Коптские цифры епакты
+	counting_rod: Цифры счётных палочек
+	cuneiform: Клинопись
+	cuneiform_numbers: Клинописные цифры и пунктуация
+	currency_symbols: Символы валют
+	cypriot_syllabary: Кипрское письмо
+	cyrillic: Кириллица
+	cyrillic_ext_a: Расширенная кириллица — A
+	cyrillic_ext_b: Расширенная кириллица — B
+	cyrillic_ext_c: Расширенная кириллица — C
+	cyrillic_sup: Дополнение к кириллице
+	deseret: Дезеретское письмо
+	devanagari: Деванагари
+	devanagari_ext: Расширенное деванагари
+	diacriticals: Комбинируемые диакритические знаки
+	diacriticals_ext: Расширенные комбинируемые диакритические знаки
+	diacriticals_for_symbols: Комбинируемые диакритические знаки для символов
+	diacriticals_sup: Дополнение к комбинируемым диакритическим знакам
+	dingbats: Дингбаты
+	dives_akuru: Дивес акуру
+	dogra: Догра
+	domino: Кости для домино
+	duployan: Стенография Дюплойе
+	early_dynastic_cuneiform: Раннединастическая клинопись
+	egyptian_hieroglyph_format_controls: Управляющие символы форматирования египетских иероглифов
+	egyptian_hieroglyphs: Египетские иероглифы
+	elbasan: Эльбасанское письмо
+	elymaic: Элимайское письмо
+	emoticons: Эмотиконы
+	enclosed_alphanum: Обрамлённые буквы и цифры
+	enclosed_alphanum_sup: Дополнение к обрамлённым буквам и цифрам
+	enclosed_cjk: Обрамлённые буквы и месяцы ККЯ
+	enclosed_ideographic_sup: Дополнение к обрамлённым идеографическим символам
+	ethiopic: Эфиопское письмо
+	ethiopic_ext: Расширенное эфиопское письмо
+	ethiopic_ext_a: Расширенное эфиопское письмо - A
+	ethiopic_sup: Дополнение к эфиопскому письмо
+	geometric_shapes: Геометрические фигуры
+	geometric_shapes_ext: Расширенные геометрические фигуры
+	georgian:  Грузинское письмо
+	georgian_ext: Расширенное грузинское письмо
+	georgian_sup: Дополнение к грузинскому письму
+	glagolitic: Глаголица
+	glagolitic_sup: Дополнение к глаголице
+	gothic: Готское письмо
+	grantha: Грантха
+	greek: Греческое и коптское письмо
+	greek_ext: Расширенное греческое письмо
+	gujarati: Гуджарати
+	gunjala_gondi: Гунджала гонди
+	gurmukhi: Гурмукхи
+	half_and_full_forms: Полуширинные и полноширинные формы
+	half_marks: Комбинируемые полузнаки
+	hangul: Слоговое письмо хангыля
+	hanifi_rohingya: Ханифи
+	hanunoo: Хануноо
+	hatran: Хатран
+	hebrew: Еврейское письмо (иврит)
+	high_pu_surrogates: Верхняя часть суррогатных пар для частного использования
+	high_surrogates: Верхняя часть суррогатных пар
+	hiragana: Хирагана
+	idc: Идеографические пояснительные символы
+	ideographic_symbols: Идеографические символы и пунктуация
+	imperial_aramaic: Имперское арамейское письмо
+	indic_number_forms: Общеиндийские числовые формы
+	indic_siyaq_numbers: Индийские цифры сийяк
+	inscriptional_pahlavi: Пахлевийское письмо
+	inscriptional_parthian: Парфянское письмо
+	ipa_ext: Расширения МФА
+	jamo: Хангыль чамо
+	jamo_ext_a: Расширенные элементы хангыля — A
+	jamo_ext_b: Расширенные элементы хангыля — B
+	javanese: Яванское письмо
+	kaithi: Кайтхи
+	kana_ext_a: Расширенная Кана — A
+	kana_sup: Дополнение к кане
+	kanbun: Камбун
+	kangxi: Ключи Канси
+	kannada: Каннада
+	katakana: Катакана
+	katakana_ext: Фонетические расширения катаканы
+	kayah_li: Кая Ли
+	kharoshthi: Кхароштхи
+	khitan_small_script: Малое киданьское письмо
+	khmer: Кхмерское письмо
+	khmer_symbols: Кхмерские символы
+	khojki: Ходжики
+	khudawadi: Худабади
+	lao: Лаосское письмо
+	latin_1_sup: Дополнение к латинице — 1
+	latin_ext_a: Расширенная латиница — A
+	latin_ext_additional: Дополнительная расширенная латиница
+	latin_ext_b: Расширенная латиница — B
+	latin_ext_c: Расширенная латиница — C
+	latin_ext_d: Расширенная латиница — D
+	latin_ext_e: Расширенная латиница — E
+	lepcha: Письмо лепча
+	letterlike_symbols: Буквоподобные символы
+	limbu: Лимбу
+	linear_a: Линейное письмо А
+	linear_b_ideograms: Слоги линейного письма Б
+	linear_b_syllabary: Идеограммы линейного письма Б
+	lisu: Лису
+	lisu_sup: Дополнение к лису
+	low_surrogates: Нижняя часть суррогатных пар
+	lycian: Ликийское письмо
+	lydian: Лидийское письмо
+	mahajani: Махаджани
+	mahjong: Кости для маджонга
+	makasar: Макасарское письмо
+	malayalam: Малаялам
+	mandaic: Мандейское письмо
+	manichaean: Манихейское письмо
+	marchen: Марчхен
+	masaram_gondi: Масарам гонди
+	math_alphanum: Математические буквы и цифры
+	math_operators: Математические операторы
+	mayan_numerals: Цифры майя
+	medefaidrin: Медефайдрин
+	meetei_mayek: Митей-майек (манипури)
+	meetei_mayek_ext: Митей-майек (манипури). Расширение.
+	mende_kikakui: Письмо кикакуи для языка менде
+	meroitic_cursive: Мероитский курсив
+	meroitic_hieroglyphs: Мероитское письмо
+	miao: Письмо Полларда (мяо)
+	misc_arrows: Разные символы и стрелки
+	misc_math_symbols_a: Разные математические символы — A
+	misc_math_symbols_b: Разные математические символы — B
+	misc_pictographs: Разные символы и пиктограммы
+	misc_symbols: Разные символы
+	misc_technical: Разнообразные технические символы
+	modi: Моди
+	modifier_letters: Модификаторы букв
+	modifier_tone_letters: Символы изменения тона
+	mongolian: Старомонгольское письмо
+	mongolian_sup: Дополнение к монгольскому письму
+	mro: Мру
+	multani: Мултани
+	music: Музыкальные символы
+	myanmar: Бирманское письмо
+	myanmar_ext_a: Расширенное бирманское письмо — A
+	myanmar_ext_b: Расширенное бирманское письмо — B
+	nabataean: Набатейское письмо
+	nandinagari: Нандинагари
+	nb: No_Block
+	new_tai_lue: Новый тай лы
+	newa: Неварское письмо
+	nko: Нко
+	number_forms: Числовые формы
+	nushu: Нюй-шу
+	nyiakeng_puachue_hmong: Ньиэкэнг пуэцым хмонг
+	ocr: Оптическое распознавание символов
+	ogham: Огамическое письмо
+	ol_chiki: Письмо ол-чики
+	old_hungarian: Венгерские руны
+	old_italic: Древнеиталийское письмо (этрусское)
+	old_north_arabian: Древнее североаравийское письмо
+	old_permic: Древнепермское письмо
+	old_persian: Древнеперсидское письмо
+	old_sogdian: Древнесогдийское письмо
+	old_south_arabian: Древнее южноаравийское письмо
+	old_turkic: Древнетюркское руническое письмо
+	oriya: Ория
+	ornamental_dingbats: Орнаментные символы
+	osage: Осейдж
+	osmanya: Османья (сомалийское письмо)
+	ottoman_siyaq_numbers: Османские цифры сийяк
+	pahawh_hmong: Пахау
+	palmyrene: Пальмирское письмо
+	pau_cin_hau: По чин хо
+	phags_pa: Монгольское квадратное письмо Пагба-ламы
+	phaistos: Фестский диск
+	phoenician: Финикийское письмо
+	phonetic_ext: Фонетические расширения
+	phonetic_ext_sup: Дополнения к фонетическим расширениям
+	playing_cards: Игральные карты
+	psalter_pahlavi: Псалтырь пахлеви
+	pua: Область для частного использования
+	punctuation: Основная пунктуация
+	rejang: Реджанг
+	rumi: Цифры системы руми
+	runic: Руны
+	samaritan: Самаритянское письмо
+	saurashtra: Саураштра
+	sharada: Шарада
+	shavian: Письмо Бернарда Шоу
+	shorthand_format_controls: Форматирующие символы стенографии
+	siddham: Сиддхаматрика
+	sinhala: Сингальское письмо
+	sinhala_archaic_numbers: Сингальские архаические цифры
+	small_forms: Малые вариантные формы
+	small_kana_ext: Расширение малой каны
+	sogdian: Согдийское письмо
+	sora_sompeng: Соранг-сомпенг
+	soyombo: Соёмбо
+	specials: Специальные символы
+	sundanese: Сунданское письмо
+	sundanese_sup: Дополнение к сунданскому письму
+	sup_arrows_a: Дополнительные стрелки — A
+	sup_arrows_b: Дополнительные стрелки — B
+	sup_arrows_c: Дополнительные стрелки — C
+	sup_math_operators: Дополнительные математические операторы
+	sup_pua_a: Дополнительная область для частного использования — A
+	sup_pua_b: Дополнительная область для частного использования — B
+	sup_punctuation: Дополнительная пунктуация
+	sup_symbols_and_pictographs: Дополнительные символы и пиктограммы
+	super_and_sub: Надстрочные и подстрочные знаки
+	sutton_signwriting: Жестовое письмо Саттон
+	syloti_nagri: Силхетское нагари
+	symbols_and_pictographs_ext_a: Расширенные символы и пиктограммы — A
+	symbols_for_legacy_computing: Символы для унаследованной вычислительной техники
+	syriac: Сирийское письмо
+	syriac_sup: Дополнение к сирийскому письму
+	tagalog: Тагальская письменность. Байбайин
+	tagbanwa: Тагбанва
+	tags: Тэги
+	tai_le: Тай лы
+	tai_tham: Тай Тхам
+	tai_viet: Тай-вьет
+	tai_xuan_jing: Символы «Канона великого сокровенного» (Тай Сюань Цзин)
+	takri: Такри
+	tamil: Тамильское письмо
+	tamil_sup: Дополнение к тамильскому письму
+	tangut: Тангутское письмо
+	tangut_components: Элементы тангутского письма
+	tangut_sup: Дополнение к тангутскому письму
+	telugu: Телугу
+	thaana: Тана
+	thai: Тайское письмо
+	tibetan: Тибетское письмо
+	tifinagh: Тифинаг (древнеливийское письмо)
+	tirhuta: Тирхута
+	transport_and_map: Транспортные и картографические символы
+	ucas: Канадское слоговое письмо
+	ucas_ext: Расширенное канадское слоговое письмо
+	ugaritic: Угаритское письмо
+	vai: Ваи
+	vedic_ext: Расширенные ведические символы
+	vertical_forms: Вертикальные формы
+	vs: Дополнение к селекторы вариантов начертания 
+	vs_sup: Селекторы вариантов начертания (дополнение)
+	wancho: Ванчо
+	warang_citi: Варанг-кшити
+	yezidi: Езидское письмо
+	yi_radicals: Ключи письма йи
+	yi_syllables: Слоги письма йи
+	yijing: Гексаграммы Книги Перемен И-Цзин
+	zanabazar_square: Квадратное письмо Дзанабадзара
+[ccc]
+	nr: Нет записи
+	ov: Переходит на первый план
+	hanr: Вариант хань
+	nk: Нукта
+	kv: Озвончение кана
+	vr: Вирама
+	ccc10: CCC10
+	ccc11: CCC11
+	ccc12: CCC12
+	ccc13: CCC13
+	ccc14: CCC14
+	ccc15: CCC15
+	ccc16: CCC16
+	ccc17: CCC17
+	ccc18: CCC18
+	ccc19: CCC19
+	ccc20: CCC20
+	ccc21: CCC21
+	ccc22: CCC22
+	ccc23: CCC23
+	ccc24: CCC24
+	ccc25: CCC25
+	ccc26: CCC26
+	ccc27: CCC27
+	ccc28: CCC28
+	ccc29: CCC29
+	ccc30: CCC30
+	ccc31: CCC31
+	ccc32: CCC32
+	ccc33: CCC33
+	ccc34: CCC34
+	ccc35: CCC35
+	ccc36: CCC36
+	ccc84: CCC84
+	ccc91: CCC91
+	ccc103: CCC103
+	ccc107: CCC107
+	ccc118: CCC118
+	ccc122: CCC122
+	ccc129: CCC129
+	ccc130: CCC130
+	ccc132: CCC132
+	ccc133: CCC133 # Зарезервированное место
+	atbl: Приписывается снизу слева
+	atb: Приписывается снизу
+	ata: Приписывается сверху
+	atar: Приписывается сверху справа
+	bl: Внизу слева
+	b: Снизу
+	br: Внизу справа
+	l: Слева
+	r: Справа
+	al: Сверху слева
+	a: Сверху
+	ar: Сверху снизу
+	db: Дважды снизу
+	da: Дважды сверху
+	is: Подстрочная йота
+[CI]
+	n: Нет
+	y: Да
+[Cased]
+	n: Нет
+	y: Да
+[CWCF]
+	n: Нет
+	y: Да
+[CWCM]
+	n: Нет
+	y: Да
+[CWL]
+	n: Нет
+	y: Да
+[CWKCF]
+	n: Нет
+	y: Да
+[CWT]
+	n: Нет
+	y: Да
+[CWU]
+	n: Нет
+	y: Да
+[CE]: Композиционное исключение
+	n: Нет
+	y: Да
+[Dash]
+	n: Нет
+	y: Да
+[dt]
+	can: Образцовый
+	com: Компактный
+	enc: Круг
+	fin: Финальный
+	font: Шрифт
+	fra: Дробь
+	init: Начальный
+	iso: Изолированный
+	med: Медиальный
+	nar: Узкий
+	nb: Без переноса
+	Нет: Нет
+	sml: Маленький
+	sqr: Квадрат
+	sub: Подстрочный
+	sup: Надстрочный
+	vert: Вертикальный
+	wide: Широкий
+[DI]
+	n: Нет
+	y: Да
+[Dep]
+	n: Нет
+	y: Да
+[Dia]
+	n: Нет
+	y: Да
+[ea]
+	a: Многознычный
+	f: В полную ширину
+	h: В половину ширины
+	n: Нейтральный
+	na: Узкий
+	w: Широкий
+[Emoji]
+	n: Нет
+	y: Да
+[EComp]
+	n: Нет
+	y: Да
+[EMod]
+	n: Нет
+	y: Да
+[EBase]
+	n: Нет
+	y: Да
+[EPres]
+	n: Нет
+	y: Да
+[XO_NFC]
+	n: Нет
+	y: Да
+[XO_NFD]
+	n: Нет
+	y: Да
+[XO_NFKC]
+	n: Нет
+	y: Да
+[XO_NFKD]
+	n: Нет
+	y: Да
+[ExtPict]
+	n: Нет
+	y: Да
+[Ext]
+	n: Нет
+	y: Да
+[Comp_Ex]
+	n: Нет
+	y: Да
+[gc]
+	c: Другое                            # Cc | Cf | Cn | Co | Cs
+	cc: Управляющий символ
+	cf: Форматирующий символ
+	cn: Неинициализированный
+	co: Частое использование
+	cs: Заменитель
+	l: Буква                           # Ll | Lm | Lo | Lt | Lu
+	lc: Обрамленная буква                     # Ll | Lt | Lu
+	ll: В нижнем регистре
+	lm: Модифицирующий символ
+	lo: Другая буква
+	lt: Капитализация
+	lu: В верхнем регистре
+	m: Знак
+	mc: Знак пробела
+	me: Внешний знак
+	mn: Неразделяющий знак
+	n: Число                           # Nd | Nl | No
+	nd: Дясятичено число
+	nl: Буквенноцифровое значение
+	no: Другое число
+	p: Знак препинания
+	pc: Соединяющий знак препинания
+	pd: Тире
+	pe: Закрывающий знак препинания
+	pf: Финальный знак препинания
+	pi: Начальный знак препинания
+	po: Другая пунктуация
+	ps: Открывающий знак пунктуации
+	s: Символ                           # Sc | Sk | Sm | So
+	sc: Символ валюты
+	sk: Модифицирующий символ
+	sm: Математический символ
+	so: Другой символ
+	z: Разделитель                        # Zl | Zp | Zs
+	zl: Разделитель строк
+	zp: Разделитель абзацев
+	zs: Разделитель пробелов
+[Gr_Base]
+	n: Нет
+	y: Да
+[GCB]
+	cn: Управляющий символ
+	cr: Возврат каретки
+	eb: E_Base
+	ebg: E_Base_GAZ
+	em: E_Modifier
+	ex: Расширение
+	gaz: Связует после соединителя нулевой ширины (ZWJ)
+	l: Нач.согл.
+	lf: Перевод строки
+	lv: Нач.согл. + глас.
+	lvt: Нач.согл. + глас. + конеч.согл.
+	pp: Добавляется к началу
+	ri: Региональный индикатор
+	sm: Знак пробела
+	t: T
+	v: V
+	xx: Другое
+	zwj: Соединитель нулевой ширины (ZWJ)
+[Gr_Ext]
+	n: Нет
+	y: Да
+[Gr_Link]
+	n: Нет
+	y: Да
+[hst]
+	l: Начальная согласная хангыля джамо
+	lv: Слог: нач.согл. + глас.
+	lvt: Слог: нач.согл. + глас. + конеч.согл.
+	na: Не применимо
+	t: Конечная согласная хангыля джамо
+	v: Гласная хангыля джамо
+[Hex]
+	n: Нет
+	y: Да
+[Hyphen]
+	n: Нет
+	y: Да
+[IDSB]
+	n: Нет
+	y: Да
+[IDST]
+	n: Нет
+	y: Да
+[IDC]
+	n: Нет
+	y: Да
+[IDS]
+	n: Нет
+	y: Да
+[Ideo]
+	n: Нет
+	y: Да
+[InPC]
+	bottom: Снизу
+	bottom_and_left: Снизу и слева
+	bottom_and_right: Снизу и справа
+	left: Слева
+	left_and_right: Слева и справа
+	na: NA
+	overstruck: Наложение знака
+	right: Справа
+	top: Сверху
+	top_and_bottom: Сверху и снизу
+	top_and_bottom_and_left: Сверху, снизу и слева
+	top_and_bottom_and_right: Сверху, снизу и справа
+	top_and_left: Сверху и снизу
+	top_and_left_and_right: Сверху, слева и справа
+	top_and_right: Сверху и справа
+	visual_order_left: Визуальный порядок по левому краю
+[InSC]
+	avagraha: Аваграха
+	bindu: Бинду
+	brahmi_joining_number: Соединяющее число брахми
+	cantillation_mark: Знак кантиляции
+	consonant: Согласная
+	consonant_dead: Глухая согласная
+	consonant_final: Финальная согласная
+	consonant_head_letter: Согласная заглавная буква
+	consonant_initial_postfixed: Постфиксная инициальная согласная
+	consonant_killer: Оглушение согласного
+	consonant_medial: Медиальная согласная
+	consonant_placeholder: Местозамещающая согласная
+	consonant_preceding_repha: Согласная, предшествующая репх
+	consonant_prefixed: Префиксная согласная
+	consonant_subjoined: Подписная согласная
+	consonant_succeeding_repha: Согласная, следующая за репх
+	consonant_with_stacker: Согласная со стекером
+	gemination_mark: Знак геминации
+	invisible_stacker: Невидимый абзетцер
+	joiner: Соединитель
+	modifying_letter: Модифицирующая буква
+	non_joiner: Не соединитель
+	nukta: Нукта
+	number: Число
+	number_joiner: Соединение чисел
+	other: Другое
+	pure_killer: Чистое оглушение
+	register_shifter: Индикатор регистра
+	syllable_modifier: Слоговый модификатор
+	tone_letter: Тоновое письмо
+	tone_mark: Обозначение тона на письме
+	virama: Вирама
+	visarga: Висарга
+	vowel: Гласная
+	vowel_dependent: Зависимая гласная
+	vowel_independent: Независимая гласная
+[JSN]
+	a: A
+	ae: AE
+	b: B
+	bb: BB
+	bs: BS
+	c: C
+	d: D
+	dd: DD
+	e: E
+	eo: EO
+	eu: EU
+	g: G
+	gg: GG
+	gs: GS
+	h: H
+	i: I
+	j: J
+	jj: JJ
+	k: K
+	l: L
+	lb: LB
+	lg: LG
+	lh: LH
+	lm: LM
+	lp: LP
+	ls: LS
+	lt: LT
+	m: M
+	n: N
+	ng: NG
+	nh: NH
+	nj: NJ
+	o: O
+	oe: OE
+	p: P
+	r: R
+	s: S
+	ss: SS
+	t: T
+	u: U
+	wa: WA
+	wae: WAE
+	we: WE
+	weo: WEO
+	wi: WI
+	ya: YA
+	yae: YAE
+	ye: YE
+	yeo: YEO
+	yi: YI
+	yo: YO
+	yu: YU
+[Join_C]
+	n: Нет
+	y: Да
+[jg]: Объединяющая группа
+	african_feh: AFRICAN FEH
+	african_noon: AFRICAN NOON
+	african_qaf: AFRICAN QAF
+	ain: Ain
+	alaph: Alaph
+	alef: Alef
+	beh: Beh
+	beth: Beth
+	burushaski_yeh_barree: BURUSHASKI YEH BARREE
+	dal: Dal
+	dalath_rish: DALATH RISH
+	e: E
+	farsi_yeh: FARSI YEH
+	fe: Fe
+	feh: Feh
+	final_semkath: FINAL SEMKATH
+	gaf: Gaf
+	gamal: Gamal
+	hah: Hah
+	hanifi_rohingya_kinna_ya: HANIFI ROHINGYA KINNA YA
+	hanifi_rohingya_pa: HANIFI ROHINGYA PA
+	he: He
+	heh: Heh
+	heh_goal: HEH GOAL
+	heth: Heth
+	kaf: Kaf
+	kaph: Kaph
+	khaph: Khaph
+	knotted_heh: KNOTTED HEH
+	lam: Lam
+	lamadh: Lamadh
+	malayalam_bha: MALAYALAM BHA
+	malayalam_ja: MALAYALAM JA
+	malayalam_lla: MALAYALAM LLA
+	malayalam_llla: MALAYALAM LLLA
+	malayalam_nga: MALAYALAM NGA
+	malayalam_nna: MALAYALAM NNA
+	malayalam_nnna: MALAYALAM NNNA
+	malayalam_nya: MALAYALAM NYA
+	malayalam_ra: MALAYALAM RA
+	malayalam_ssa: MALAYALAM SSA
+	malayalam_tta: MALAYALAM TTA
+	manichaean_aleph: MANICHAEAN ALEPH
+	manichaean_ayin: MANICHAEAN AYIN
+	manichaean_beth: MANICHAEAN BETH
+	manichaean_daleth: MANICHAEAN DALETH
+	manichaean_dhamedh: MANICHAEAN DHAMEDH
+	manichaean_five: MANICHAEAN FIVE
+	manichaean_gimel: MANICHAEAN GIMEL
+	manichaean_heth: MANICHAEAN HETH
+	manichaean_hundred: MANICHAEAN HUNDRED
+	manichaean_kaph: MANICHAEAN KAPH
+	manichaean_lamedh: MANICHAEAN LAMEDH
+	manichaean_mem: MANICHAEAN MEM
+	manichaean_nun: MANICHAEAN NUN
+	manichaean_one: MANICHAEAN ONE
+	manichaean_pe: MANICHAEAN PE
+	manichaean_qoph: MANICHAEAN QOPH
+	manichaean_resh: MANICHAEAN RESH
+	manichaean_sadhe: MANICHAEAN SADHE
+	manichaean_samekh: MANICHAEAN SAMEKH
+	manichaean_taw: MANICHAEAN TAW
+	manichaean_ten: MANICHAEAN TEN
+	manichaean_teth: MANICHAEAN TETH
+	manichaean_thamedh: MANICHAEAN THAMEDH
+	manichaean_twenty: MANICHAEAN TWENTY
+	manichaean_waw: MANICHAEAN WAW
+	manichaean_yodh: MANICHAEAN YODH
+	manichaean_zayin: MANICHAEAN ZAYIN
+	meem: Meem
+	mim: Mim
+	no_joining_group: Нет объединяющей группы
+	noon: Noon
+	nun: Nun
+	nya: Nya
+	pe: Pe
+	qaf: Qaf
+	qaph: Qaph
+	reh: Reh
+	reversed_pe: REVERSED PE
+	rohingya_yeh: ROHINGYA YEH
+	sad: Sad
+	sadhe: Sadhe
+	seen: Seen
+	semkath: Semkath
+	shin: Shin
+	straight_waw: STRAIGHT WAW
+	swash_kaf: SWASH KAF
+	syriac_waw: SYRIAC WAW
+	tah: Tah
+	taw: Taw
+	teh_marbuta: TEH MARBUTA
+	teh_marbuta_goal: TEH MARBUTA GOAL
+	teth: Teth
+	waw: Waw
+	yeh: Yeh
+	yeh_barree: YEH BARREE
+	yeh_with_tail: YEH WITH TAIL
+	yudh: Yudh
+	yudh_he: YUDH HE
+	zain: Zain
+	zhain: Zhain
+[jt]: Тип соединения
+	c: Требует соединения
+	d: Соединение слева и справа
+	l: Соединение слева
+	r: Соединение справа
+	t: Прозрачный
+	u: Нет соединения
+[lb]
+	ai: Многозначный
+	al: Буквенный
+	b2: Разрыв до и полсе
+	ba: Разрыв после
+	bb: Разрыв до
+	bk: Обязательный разрыв
+	cb: Возможный разрыв
+	cj: Условный начальный символ японского языка
+	cl: Закрывающий знак пунктуации
+	cm: Объединяющий знак
+	cp: Закрывающая скобка
+	cr: Возврат каретки
+	eb: E_Base
+	em: E_Modifier
+	ex: Восклицание
+	gl: Связующий элемент
+	h2: Cлог хангыли джамо: начюсогл. + гл.(H2)
+	h3: Cлог хангыли джамо: начюсогл. + гл. + конеч.согл. (H3)
+	hl: Иврит
+	hy: Дефис
+	id: Идеографический
+	in: Недилимый
+	is: Инфиксное число
+	jl: Начальная согласная хангыли джамо (JL)
+	jt: Конечная согласная хангыли джамо (JT)
+	jv: Гласная хангыль джамо (JV)
+	lf: Перевод строки
+	nl: Следующая строка
+	ns: Неначинающий
+	nu: Числовое значение
+	op: Открывающий знак препинания
+	po: Посфиксное числовое значение
+	pr: Префиксное числовое значение
+	qu: Цитирование
+	ri: Региональный индикатор
+	sa: Компелксный контекст
+	sg: Суррогатная пара
+	sp: Пробел
+	sy: Символ разрыва
+	wj: Соединитель слов
+	xx: Нет данных
+	zw: Пробел нулевой ширины
+	zwj: Соединитель нулевой ширины (ZWJ)
+[LOE]
+	n: Нет
+	y: Да
+[Lower]
+	n: Нет
+	y: Да
+[Math]
+	n: Нет
+	y: Да
+[NFC_QC]
+	m: Возможно
+	n: Нет
+	y: Да
+[NFD_QC]
+	n: Нет
+	y: Да
+[NFKC_QC]
+	m: Возможно
+	n: Нет
+	y: Да
+[NFKD_QC]
+	n: Нет
+	y: Да
+[NChar]
+	n: Нет
+	y: Да
+[nt]
+	de: Десятичная дробь
+	di: Цифра
+	Нет: Нет
+	nu: Числовое значение
+[OAlpha]
+	n: Нет
+	y: Да
+[ODI]
+	n: Нет
+	y: Да
+[OGr_Ext]
+	n: Нет
+	y: Да
+[OIDC]
+	n: Нет
+	y: Да
+[OIDS]
+	n: Нет
+	y: Да
+[OLower]
+	n: Нет
+	y: Да
+[OMath]
+	n: Нет
+	y: Да
+[OUpper]
+	n: Нет
+	y: Да
+[Pat_Syn]
+	n: Нет
+	y: Да
+[Pat_WS]
+	n: Нет
+	y: Да
+[PCM]
+	n: Нет
+	y: Да
+[QMark]
+	n: Нет
+	y: Да
+[Radical]
+	n: Нет
+	y: Да
+[RI]
+	n: Нет
+	y: Да
+[sc]
+	adlm: Адлам
+	aghb: Агванское письмо (Кавказская Албания)
+	ahom: Ахом
+	arab: Арабское письмо
+	armi: Имперское арамейское письмо
+	armn: Армянское письмо
+	avst: Авестийское письмо
+	bali: Балийское письмо
+	bamu: Бамум
+	bass: Письмо басса
+	batk: Батакское письмо
+	beng: Бенгальское письмо
+	bhks: Бхайкшуки
+	bopo: Чжуинь фухао. Бопомофо
+	brah: Брахми
+	brai: Шрифт Брайля
+	bugi: Бугийское письмо. Лонтара
+	buhd: Бухид
+	cakm: Чакма
+	cans: Канадское письмо
+	cari: Карийское письмо
+	cham: Чамское письмо
+	cher: Чероки
+	chrs: Хорезмийское письмо
+	copt: Коптское письмо
+	cprt: Кипрское письмо
+	cyrl: Кириллица
+	deva: Деванагари
+	diak: Дивес акуру
+	dogr: Догра
+	dsrt: Дезеретское письмо
+	dupl: Стенография Дюплойе
+	egyp: Египетские иероглифы
+	elba: Эльбасанское письмо
+	elym: Элимайское письмо
+	ethi: Эфиопское письмо
+	geor: Грузинское письмо
+	glag: Глаголица
+	gong: Гунджала гонди
+	gonm: Масарам гонди
+	goth: Готское письмо
+	gran: Грантха
+	grek: Греческое и коптское письмо
+	gujr: Гуджарати
+	guru: Гурмукхи
+	hang: Слоговое письмо хангыля
+	hani: Хань
+	hano: Хануноо
+	hatr: Хатран
+	hebr: Еврейское письмо (иврит)
+	hira: Хирагана
+	hluw: Анатолийские иероглифы
+	hmng: Пахау
+	hmnp: Ньиэкэнг пуэцым хмонг
+	hrkt: Катакана или хирагана
+	hung: Венгерские руны
+	ital: Древнеиталийское письмо (этрусское)
+	java: Яванское письмо
+	kali: Кая Ли
+	kana: Катакана
+	khar: Кхароштхи
+	khmr: Кхмерское письмо
+	khoj: Ходжики
+	kits: Малое киданьское письмо
+	knda: Каннада
+	kthi: Кайтхи
+	lana: Тай Тхам
+	laoo: Лаосское письмо
+	latn: Латиница
+	lepc: Письмо лепча
+	limb: Лимбу
+	lina: Линейное письмо А
+	linb: Линейное письмо B
+	lisu: Лису
+	lyci: Ликийское письмо
+	lydi: Лидийское письмо
+	mahj: Махаджани
+	maka: Макасарское письмо
+	mand: Мандейское письмо
+	mani: Манихейское письмо
+	marc: Марчхен
+	medf: Медефайдрин
+	mend: Письмо кикакуи для языка менде
+	merc: Мероитское письмо (курсив)
+	mero: Мероитские иероглифы
+	mlym: Малаялам
+	modi: Моди
+	mong: Старомонгольское письмо
+	mroo: Мру
+	mtei: Митей-майек (манипури)
+	mult: Мултани
+	mymr: Бирманское письмо
+	nand: Нандинагари
+	narb: Древнее североаравийское письмо
+	nbat: Набатейское письмо
+	newa: Неварское письмо
+	nkoo: Нко
+	nshu: Нюй-шу
+	ogam: Огамическое письмо
+	olck: Письмо ол-чики
+	orkh: Древнетюркское руническое письмо
+	orya: Ория
+	osge: Осейдж
+	osma: Османья (сомалийское письмо)
+	palm: Пальмирское письмо
+	pauc: По чин хо
+	perm: Древнепермское письмо
+	phag: Монгольское квадратное письмо Пагба-ламы
+	phli: Пахлевийское письмо
+	phlp: Псалтырь пахлеви
+	phnx: Финикийское письмо
+	plrd: Письмо Полларда (мяо)
+	prti: Парфянское письмо
+	rjng: Реджанг
+	rohg: Ханифи
+	runr: Руны
+	samr: Самаритянское письмо
+	sarb: Древнее южноаравийское письмо
+	saur: Саураштра
+	sgnw: Жестовое письмо
+	shaw: Письмо Бернарда Шоу
+	shrd: Шарада
+	sidd: Сиддхаматрика
+	sind: Худабади
+	sinh: Сингальское письмо
+	sogd: Согдийское письмо
+	sogo: Древнесогдийское письмо
+	sora: Соранг-сомпенг
+	soyo: Соёмбо
+	sund: Сунданское письмо
+	sylo: Силхетское нагари
+	syrc: Сирийское письмо
+	tagb: Тагбанва
+	takr: Такри
+	tale: Тай лы
+	talu: Новый тай лы
+	taml: Тамильское письмо
+	tang: Тангутское письмо
+	tavt: Тай-вьет
+	telu: Телугу
+	tfng: Тифинаг (древнеливийское письмо)
+	tglg: Тагальская письменность. Байбайин
+	thaa: Тана
+	thai: Тайское письмо
+	tibt: Тибетское письмо
+	tirh: Тирхута
+	ugar: Угаритское письмо
+	vaii: Ваи
+	wara: Варанг-кшити
+	wcho: Ванчо
+	xpeo: Древнеперсидское письмо
+	xsux: Клинопись
+	yezi: Езидское письмо
+	yiii: Письмо йи
+	zanb: Квадратное письмо Дзанабадзара
+	zinh: Наследуется
+	zyyy: Общий
+	zzzz: Нет данных
+[SB]
+	at: ATerm
+	cl: Завершение
+	cr: Возврат каретки
+	ex: Расширение
+	fo: Форматирование
+	le: OLetter
+	lf: Перевод строки
+	lo: Нижний регистр
+	nu: Числовое значение
+	sc: Продолжнеие предложения
+	se: Разделитель
+	sp: Sp
+	st: Граница предложения
+	up: Верхний регистр
+	xx: Другое
+[STerm]
+	n: Нет
+	y: Да
+[SD]
+	n: Нет
+	y: Да
+[Term]
+	n: Нет
+	y: Да
+[UIdeo]
+	n: Нет
+	y: Да
+[Upper]
+	n: Нет
+	y: Да
+[VS]
+	n: Нет
+	y: Да
+[vo]
+	r: Повернутый
+	tr: Измененный, повернутый
+	tu: Измененный, прямостоящий
+	u: Прямостоящий
+[WSpace]
+	n: Нет
+	y: Да
+[WB]
+	cr: Возврат каретки
+	dq: Двойная кавычка
+	eb: E_Base
+	ebg: E_Base_GAZ
+	em: E_Modifier
+	ex: Буквенночисловое расширение
+	extend: Расширение
+	fo: Форматирование
+	gaz: Соединитель после соединителя нулевой ширины (ZWJ)
+	hl: Иврит
+	ka: Катакана
+	le: ALetter
+	lf: Перевод строки
+	mb: MidNumLet
+	ml: MidLetter
+	mn: MidNum
+	nl: Новая строка
+	nu: Числовое значение
+	ri: Региональный индикатор
+	sq: Одинарная кавычка
+	wsegspace: Пробел сегментной ширины
+	xx: Другое
+	zwj: Соединитель нулевой ширины (ZWJ)
+[XIDC]
+	n: Нет
+	y: Да
+[XIDS]
+	n: Нет
+	y: Да
+

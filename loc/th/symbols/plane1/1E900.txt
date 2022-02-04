@@ -68,26 +68,26 @@
 1E943: Adlam อักษรตัวเล็ก Sha
 1E944: Adlam Alif Lengthener
 1E945: Adlam Vowel Lengthener
-1E946: Mark Gemination Mark
+1E946: Adlam Gemination เครื่องหมาย
 1E947: Adlam Hamza
 1E948: Adlam Consonant Modifier
 1E949: Adlam Geminate ตัวแก้ไขพยัญชนะ
 1E94A: Adlam Nukta
-1E94B:
+1E94B: Adlam การพูดขึ้นจมูก เครื่องหมาย
 1E94C:
 1E94D:
 1E94E:
 1E94F:
-1E950: Adlam Digit Zero
-1E951: Adlam Digit One
-1E952: Adlam Digit Two
-1E953: Adlam Digit Three
-1E954: Adlam Digit Four
-1E955: Adlam Digit Five
-1E956: Adlam Digit Six
-1E957: Adlam Digit Seven
-1E958: Adlam Digit Eight
-1E959: Adlam Digit Nine
+1E950: Adlam เลขโดด ศูนย์ 
+1E951: Adlam เลขโดด หนึ่ง 
+1E952: Adlam เลขโดด สอง 
+1E953: Adlam เลขโดด สาม 
+1E954: Adlam เลขโดด สี่ 
+1E955: Adlam เลขโดด ห้า 
+1E956: Adlam เลขโดด หก 
+1E957: Adlam เลขโดด เจ็ด 
+1E958: Adlam เลขโดด แปด 
+1E959: Adlam เลขโดด เก้า 
 1E95A:
 1E95B:
 1E95C:
@@ -253,4 +253,4 @@
 1E9FC:
 1E9FD:
 1E9FE:
-1E9FF:
+1E9FF:

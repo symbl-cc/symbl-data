@@ -1,12 +1,17 @@
-title: ตารางอักขระ Unicode®
+title: ตารางอักขระ Unicode
+unicode: Unicode
+
+[mainpage]: หน้าหลัก
 
 [sets]: ชุดอักขระ
 # @todo set
 list: ชุดอักขระ
+title: ชุดตัวละครยอดนิยม
+all: ดูทั้งหมด
 
 [blocks]: รายชื่อส่วน
 # @todo block
-list: รายชื่อส่วน Unicode
+list: Unicode
 
 [languages]: ภาษา
 list: รายชื่อภาษา
@@ -20,7 +25,16 @@ list: ตัวอักษร
 # @todo [alphabets]
 # @todo list
 
+[holidays]: วันหยุด
+list: วันหยุด
+
 [types]
 # @todo type
 list: รายชื่อชนิด
 
+[html-entities]: หน่วยงาน HTML
+list: หน่วยงาน HTML
+
+[alt-codes]: รหัส ALT สำหรับ WIndows
+list: รหัส ALT
+en: รูปแบบแป้นพิมพ์ภาษาอังกฤษ

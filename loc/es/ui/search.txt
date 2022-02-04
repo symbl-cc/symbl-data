@@ -1,4 +1,4 @@
-: Buscar caracter
+: Buscar carácter
 find: Encontrar
 example: Ejemplo
 # phrases separated by ";"
@@ -8,16 +8,16 @@ result: Resultado
 empty: Frase de búsqueda está vacía
 total: Resultados de la búsqueda: %s
 limit: (mostrar sólo %s)
-none: Ninguno
+none: Nada encontrado
 any: Buscar por cualquier palabra
-overflow: Lo sentimos, el símbolo U+% s está en construcción :)
-unicode-block: Lista de Secciones Unicode
+overflow: Lo sentimos, el símbolo U+% s está en desarrollo :)
+unicode-block: Lista de Secciones
 count-symbols: %s símbolos
-sets: Conjunto
+sets: Conjuntos
 alphabet: Alfabeto
 
 [empty]
-no_results: No se encontraron resultados para "{query}" en español.
+no_results: No hemos encontrado resultados para "{query}" en el español.
 language: Intenta cambiar el {idioma}.
 blocks: Explora los {bloques de Unicode}.
 sets: Míralo en {Conjuntos}.

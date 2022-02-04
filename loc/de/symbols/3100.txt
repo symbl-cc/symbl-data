@@ -98,7 +98,7 @@
 3161: Hangul Brief Eu
 3162: Hangul-Buchstabe Yi
 3163: Hangul Brief I
-3164: Hangul-Füller : Chaeum
+3164: Hangul-Füller: Chaeum
 3165: Hangul-Buchstabe Ssangnieun
 3166: Hangul-Brief Nieun-Tikeut
 3167: Hangul-Brief Nieun-Sios
@@ -126,7 +126,7 @@
 317D: Hangul-Brief Sios-Pieup
 317E: Hangul-Brief Sios-Cieuc
 317F: Hangul-Brief Pansios
-3180: Hangul Brief Ssangieung : ssangyesieung
+3180: Hangul Brief Ssangieung: ssangyesieung
 3181: Hangul Brief Yesieung
 3182: Hangul-Brief Yesieung-Sios
 3183: Hangul-Brief Yesieung-Pansios
@@ -142,8 +142,8 @@
 318D: Hangul-Brief Araea
 318E: Hangul-Brief Araeae
 318F:
-3190: Ideografische Anmerkungsmarkierung : tateten
-3191: Ideographische Anmerkungsumkehrmarke : kaeriten re
+3190: Ideografische Anmerkungsmarkierung: tateten
+3191: Ideographische Anmerkungsumkehrmarke: kaeriten re
 3192: Ideographische Anmerkung Eine Marke
 3193: Ideographische Anmerkung Zwei Zeichen
 3194: Ideographische Annotation Drei Punkte
@@ -185,11 +185,11 @@
 31B8: Bopomofo Buchstabe Gh
 31B9: Bopomofo Buchstabe Lh
 31BA: Bopomofo Brief Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31BB: Bopomofo Finale Buchstabe G
+31BC: Bopomofo Buchstabe Gw
+31BD: Bopomofo Buchstabe Kw
+31BE: Bopomofo Buchstabe Oe
+31BF: Bopomofo Buchstabe Ah
 31C0: Cjk Stroke T
 31C1: Cjk Stroke Wg
 31C2: Cjk Stroke Xg

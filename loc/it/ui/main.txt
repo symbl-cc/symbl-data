@@ -1,12 +1,18 @@
-title: Tabella di caratteri Unicode®
+title: Tabella di caratteri Unicode
+unicode: Unicode
+unicodeorg: Unicode® è un marchio registrato di Unicode, Inc. negli Stati Uniti e in altri paesi. Questo sito non è in alcun modo associato con o firmato o sponsorizzati da Unicode, Inc. (aka The Unicode Consortium). Per il sito ufficiale Unicode, visitare il sito
+
+[mainpage]: Pagina principale
 
 [sets]	: Imposta
 set	: Impostato
-list	: Set di caratteri
-	
+list	: Set
+title: Set di caratteri popolari
+all: Vedi tutto
+
 [blocks]	: Blocchi
 block	: Bloccare
-list	: Blocchi Unicode
+list	: Unicode
 	
 [languages]	: Le lingue
 list	: Le lingue
@@ -17,7 +23,17 @@ list	: Paesi
 	
 [alphabets]	: Alfabeti
 list	: Alfabeti
+
+[holidays]: Festivi
+list: Festivi
 	
 [types]	: Tipi
 type	: Tipo
 list	: Tipi
+
+[html-entities]: Entità HTML
+list: Entità HTML
+
+[alt-codes]: Codici ALT per Windows
+list: Codici Alt
+en: Layout tastiera inglese

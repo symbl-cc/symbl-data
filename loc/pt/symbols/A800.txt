@@ -4,7 +4,7 @@ A802: Syloti Nagri Sign Dvisvara
 A803: Syloti Nagri letra U
 A804: Syloti Nagri letra E
 A805: Syloti Nagri letra O
-A806: Syloti Nagri Assinar Hasanta : halogênito, virama
+A806: Syloti Nagri Assinar Hasanta: halogênito, virama
 A807: Syloti Nagri Letra Ko
 A808: Syloti Nagri Letra Kho
 A809: Carta Syloti Nagri Go
@@ -42,7 +42,7 @@ A828: Poesia de Nagri Syloti Mark-1
 A829: Poesia de Syloti Nagri Mark-2
 A82A: Poesia de Nagri Syloti Mark-3
 A82B: Poesia de Nagri Syloti Mark-4
-A82C:
+A82C: Syloti Nagri signo alternativo hasanta
 A82D:
 A82E:
 A82F:
@@ -222,35 +222,35 @@ A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Combinando o Devanagari Digit Zero : vaidika saamasvara anka shuunya
-A8E1: Combinando Devanagari Digit One : vaidika saamasvara anka eka udaatta
-A8E2: Combinando o Dígito Devanagari Dois : vaidika saamasvara anka dvi svarita
-A8E3: Combinando o Devanagari Digit Three : vaidika saamasvara anka tri anudaatta
-A8E4: Combinando o Dígito Devanagari Quatro : vaidika saamasvara anka chatur
-A8E5: Combinando o Devanagari Digit Five : vaidika saamasvara anka pancha
-A8E6: Combinando Devanagari Digit Six : vaidika saamasvara anka shatt
-A8E7: Combinando o Devanagari Digit Seven : vaidika saamasvara anka sapta
-A8E8: Combinando Devanagari Digit Eight : vaidika saamasvara anka ashta
-A8E9: Combinando Devanagari Digit Nine : vaidika saamasvara anka nava
-A8EA: Combinando a letra Devanagari A : vaidika saamasvara abhinihita
-A8EB: Combinando Devanagari Letra U : vaidika saamasvara u
-A8EC: Combinando Devanagari Letter Ka : vaidika saamasvara ka
-A8ED: Combinando Devanagari Letter Na : vaidika saamasvara namana
-A8EE: Combinando Devanagari Letter Pa : vaidika saamasvara prannatam
-A8EF: Combinando Devanagari Letra Ra : vaidika saamasvara ra
-A8F0: Combinando Devanagari Letter Vi : vaidika saamasvara vinata
-A8F1: Combinando Devanagari Sign Avagraha : vaidika saamasvara diirghiibhaava
-A8F2: Candrabindu do espaçamento do sinal de Devanagari : vaidika candrabindu
-A8F3: Devanagari Sign Candrabindu Virama : vaidika anusvaara candrabindu tiryak
-A8F4: Sinal Devanagari Duplo Candrabindu Virama : vaidika anusvaara dvi candrabindu tiryak
-A8F5: Sinal Devanagari Candrabindu Dois : vaidika anusvaara candrabindu sa-dvi
-A8F6: Devanagari Sign Candrabindu Três : vaidika anusvaara candrabindu sa-tri
-A8F7: Devanagari Sign Candrabindu Avagraha : vaidika anusvaara candrabindu sa-avagraha
-A8F8: Devanagari Sign Pushpika : vaidika pushpikaa
+A8E0: Combinando o Devanagari Digit Zero: vaidika saamasvara anka shuunya
+A8E1: Combinando Devanagari Digit One: vaidika saamasvara anka eka udaatta
+A8E2: Combinando o Dígito Devanagari Dois: vaidika saamasvara anka dvi svarita
+A8E3: Combinando o Devanagari Digit Three: vaidika saamasvara anka tri anudaatta
+A8E4: Combinando o Dígito Devanagari Quatro: vaidika saamasvara anka chatur
+A8E5: Combinando o Devanagari Digit Five: vaidika saamasvara anka pancha
+A8E6: Combinando Devanagari Digit Six: vaidika saamasvara anka shatt
+A8E7: Combinando o Devanagari Digit Seven: vaidika saamasvara anka sapta
+A8E8: Combinando Devanagari Digit Eight: vaidika saamasvara anka ashta
+A8E9: Combinando Devanagari Digit Nine: vaidika saamasvara anka nava
+A8EA: Combinando a letra Devanagari A: vaidika saamasvara abhinihita
+A8EB: Combinando Devanagari Letra U: vaidika saamasvara u
+A8EC: Combinando Devanagari Letter Ka: vaidika saamasvara ka
+A8ED: Combinando Devanagari Letter Na: vaidika saamasvara namana
+A8EE: Combinando Devanagari Letter Pa: vaidika saamasvara prannatam
+A8EF: Combinando Devanagari Letra Ra: vaidika saamasvara ra
+A8F0: Combinando Devanagari Letter Vi: vaidika saamasvara vinata
+A8F1: Combinando Devanagari Sign Avagraha: vaidika saamasvara diirghiibhaava
+A8F2: Candrabindu do espaçamento do sinal de Devanagari: vaidika candrabindu
+A8F3: Devanagari Sign Candrabindu Virama: vaidika anusvaara candrabindu tiryak
+A8F4: Sinal Devanagari Duplo Candrabindu Virama: vaidika anusvaara dvi candrabindu tiryak
+A8F5: Sinal Devanagari Candrabindu Dois: vaidika anusvaara candrabindu sa-dvi
+A8F6: Devanagari Sign Candrabindu Três: vaidika anusvaara candrabindu sa-tri
+A8F7: Devanagari Sign Candrabindu Avagraha: vaidika anusvaara candrabindu sa-avagraha
+A8F8: Devanagari Sign Pushpika: vaidika pushpikaa
 A8F9: Devanagari Gap Filler
-A8FA: Devanagari Caret : vaidika trutikaa
-A8FB: Devanagari Headstroke : shirorekhaa
-A8FC: Devanagari Sign Siddham : siddhirastu
+A8FA: Devanagari Caret: vaidika trutikaa
+A8FB: Devanagari Headstroke: shirorekhaa
+A8FC: Devanagari Sign Siddham: siddhirastu
 A8FD: Devanagari Jain Om
 A8FE: Devanagari Letra Ay
 A8FF: Devanagari Vowel Sign Ay

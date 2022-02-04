@@ -1,15 +1,18 @@
 : 工具
 
-[encoder]: 编码器
+toolsListTitle: 也可以尝试其他工具
+
+[encoder]: HTML編碼器
 
 desc: 将字符与HTML代码相互转换
 plain: 字符
-full: 全部转换
-text: 文本
+full: HTML
+text: HTML和文字
 entities: 按HTML实体编码
 br: 编码换行
+result: 结果
 
-[decoder]: 解码器
+[decoder]: Unicode解碼器
 
 desc: 将字符编码为Unicode转义文本或者反之
 example: 这是栗子
@@ -22,6 +25,7 @@ desc: 将英语字母或者西里尔语“倒”过来
 plain: 文本
 flipped: 倒过来！
 backed: 只调换顺序
+result: 结果
 
 [generator]: Unicode字符表生成
 
@@ -32,3 +36,93 @@ info: 可用： {symbol}, {dec}, {hex}, {html}
 generate: 生成
 result: 结果
 
+[strikethrough-text]: 刪除線文本
+
+h1: 刪除線文本
+desc: 刪除線文本
+text: 文本
+example: 这是栗子
+
+strikethroughText: 刪除線文本
+crossed: 底线
+dotted: 虚线
+slash: 正斜线
+doubleunderline: 双下划线
+waveline: 波浪线
+ciphertext: 加密文本
+fullyshaded: 阴影文本
+strikethroughSlash: 高斜线
+
+[register-converter]: 文本转换器
+h1: 文本转换器
+desc: 轉換每個字母
+text: Text
+example: This is an example
+
+uppercase: UPPER CASE
+lowercase: lower case
+inversioncase: iNVERSION cASE
+randomcase: RAnDOM cAsE
+alternatingcase : aLtErNaTiNg cAsE
+capitalizedcase: Capitalized Case
+
+[word-counter]: 字符数计算器
+h1: 字符数计算器
+desc: 计算文本中的字符数
+
+[braille]: 盲文翻译器
+h1: 盲文翻译器
+desc: 将文本转换为盲文
+
+[gothic]: 文本转换为哥特式风格
+h1: 文本转换为哥特式风格
+desc: 用哥特式字体书写文本
+
+text: 文字（拉丁文）
+example: Gothic
+regularText: 哥特
+boldText: 哥特式粗體
+
+result: 结果
+
+[morse]: 文本到莫尔斯电码转换器
+h1: 文本到莫尔斯电码转换器
+desc: 转换文本和解码莫尔斯电码
+
+example: This is an example
+code: 摩尔斯电码
+latin: 拉丁文
+numbers: 数字
+punctuation: 标点
+
+titleAlphabet: 莫尔斯电码字母表
+
+result: 结果
+
+[password-generator]: 密码生成器
+h1: 密码生成器
+desc: 如何生成强密码
+
+uppercase: 大写字母 (A-Z)
+lowercase: 小写字母 (a-z)
+numbers: 数字 (0-9)
+special: 特殊字符 (!@#$%^&*)
+
+maxLength: 个字符 (4-99)
+generate: 生成
+warning: 请至少选择一个字符集来创建您的密码
+
+
+[text-to-symbols]: 来自符号的文本
+h1: 来自符号的文本
+desc: 在符号中写入文本
+
+text: 文字（拉丁文）
+example: Example
+
+blank: 空白字母
+filled: 彩绘字母
+background: 带背景的字母
+symbol-dolar: 来自符号 $ 的字母
+symbol-lattice: 来自符号 # 的字母
+symbol-paragraph: 来自符号 ¶ 的字母

@@ -4,7 +4,7 @@ A802: 실로티 Nagri Sign Dvisvara
 A803: Syloti Nagri 편지 U
 A804: 실로 티 Nagri 편지 E
 A805: Syloti Nagri 편지 O
-A806: Syloti Nagri 로그인 Hasanta : 할라 마, 바이 라마
+A806: Syloti Nagri 로그인 Hasanta: 할라 마, 바이 라마
 A807: Syloti Nagri Letter Ko
 A808: 실로 티 Nagri 편지 Kho
 A809: Syloti Nagri 편지 이동
@@ -42,7 +42,7 @@ A828: Syloti Nagri시 Mark-1
 A829: Syloti Nagri시 Mark-2
 A82A: Syloti Nagri Poetry Mark-3
 A82B: Syloti Nagri시 마크 - 4
-A82C:
+A82C: Syloti Nagri 기호 번갈아 하는 Hasanta
 A82D:
 A82E:
 A82F:
@@ -222,35 +222,35 @@ A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Devanagari Digit Zero 결합 : vaidika saamasvara anka shuunya
-A8E1: 데바 나가리 데이트 원 결합 : vaidika saamasvara anka eka udaatta
-A8E2: 데바 나가리 디지트 2 결합 : vaidika saamasvara anka dvi svarita
-A8E3: Devanagari Digit Three 결합 : vaidika saamasvara anka tri anudaatta
-A8E4: Devanagari Digit Four 결합 : vaidika saamasvara anka chatur
-A8E5: Devanagari Digit Five 결합 : vaidika saamasvara anka pancha
-A8E6: 데바 나가리 6 자리 결합 : vaidika saamasvara anka shatt
-A8E7: Devanagari Digit Seven 결합 : vaidika saamasvara anka sapta
-A8E8: 데바 나가리 디지트 에이트 결합 : vaidika saamasvara anka ashta
-A8E9: Devanagari Digit Nine 결합 : vaidika saamasvara anka nava
-A8EA: Devanagari 편지 A 결합 : vaidika saamasvara abhinihita
-A8EB: Devanagari 편지 U 결합 : vaidika saamasvara u
-A8EC: Devanagari 편지 Ka 결합 : vaidika saamasvara 카
-A8ED: 데바 나가리 편지 결합 : vaidika saamasvara namana
-A8EE: 데바 나가리 편지 병합 : vaidika saamasvara prannatam
-A8EF: Devanagari 편지 라 결합 : 비이디카 사마 수박 라
-A8F0: 데바 나가리 편지 Vi 결합 : vaidika saamasvara vinata
-A8F1: 데바 나가리 서명 Avagraha 결합 : 니카라과
-A8F2: 데바 나가리 서명 간격 Candrabindu : 바이디 카 candrabindu
-A8F3: Devanagari Sign Candrabindu Virama : vaidika anusvaara candrabindu tiryak
-A8F4: Devanagari Sign Double Candrabindu Virama : vaidika anusvaara dvi candrabindu tiryak
-A8F5: 데바 나가리 서명 Candrabindu Two : vaidika anusvaara candrabindu sa-dvi
-A8F6: 데바 나가리 서명 Candrabindu Three : vaidika anusvaara candrabindu sa-tri
-A8F7: 데바 나가리 (Devanagari) 사인회 (Candanindu Avagraha) : vaidika anusvaara candrabindu sa-avagraha
-A8F8: 데바 나가리 사인 푸시 피카 : 바이 디카 푸스 피카
+A8E0: Devanagari Digit Zero 결합: vaidika saamasvara anka shuunya
+A8E1: 데바 나가리 데이트 원 결합: vaidika saamasvara anka eka udaatta
+A8E2: 데바 나가리 디지트 2 결합: vaidika saamasvara anka dvi svarita
+A8E3: Devanagari Digit Three 결합: vaidika saamasvara anka tri anudaatta
+A8E4: Devanagari Digit Four 결합: vaidika saamasvara anka chatur
+A8E5: Devanagari Digit Five 결합: vaidika saamasvara anka pancha
+A8E6: 데바 나가리 6 자리 결합: vaidika saamasvara anka shatt
+A8E7: Devanagari Digit Seven 결합: vaidika saamasvara anka sapta
+A8E8: 데바 나가리 디지트 에이트 결합: vaidika saamasvara anka ashta
+A8E9: Devanagari Digit Nine 결합: vaidika saamasvara anka nava
+A8EA: Devanagari 편지 A 결합: vaidika saamasvara abhinihita
+A8EB: Devanagari 편지 U 결합: vaidika saamasvara u
+A8EC: Devanagari 편지 Ka 결합: vaidika saamasvara 카
+A8ED: 데바 나가리 편지 결합: vaidika saamasvara namana
+A8EE: 데바 나가리 편지 병합: vaidika saamasvara prannatam
+A8EF: Devanagari 편지 라 결합: 비이디카 사마 수박 라
+A8F0: 데바 나가리 편지 Vi 결합: vaidika saamasvara vinata
+A8F1: 데바 나가리 서명 Avagraha 결합: 니카라과
+A8F2: 데바 나가리 서명 간격 Candrabindu: 바이디 카 candrabindu
+A8F3: Devanagari Sign Candrabindu Virama: vaidika anusvaara candrabindu tiryak
+A8F4: Devanagari Sign Double Candrabindu Virama: vaidika anusvaara dvi candrabindu tiryak
+A8F5: 데바 나가리 서명 Candrabindu Two: vaidika anusvaara candrabindu sa-dvi
+A8F6: 데바 나가리 서명 Candrabindu Three: vaidika anusvaara candrabindu sa-tri
+A8F7: 데바 나가리 (Devanagari) 사인회 (Candanindu Avagraha): vaidika anusvaara candrabindu sa-avagraha
+A8F8: 데바 나가리 사인 푸시 피카: 바이 디카 푸스 피카
 A8F9: 데바 나가리 갭 필러
-A8FA: 데바 나가리 캐럿 : 바 이디카 트루 티카
-A8FB: 데바 나가리 뇌졸중 : 시로 레카
-A8FC: 데바 나가리 서명 시담 : 시디 라 스타
+A8FA: 데바 나가리 캐럿: 바 이디카 트루 티카
+A8FB: 데바 나가리 뇌졸중: 시로 레카
+A8FC: 데바 나가리 서명 시담: 시디 라 스타
 A8FD: 데바 나가리자인 옴
 A8FE: 데바 나가리 편지
 A8FF: 데바 나가리 모음

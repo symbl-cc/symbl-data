@@ -1,30 +1,30 @@
-2200: For All : universal quantifier
+2200: For All: universal quantifier
 2201: Complement
 2202: Partial Differential
-2203: There Exists : existential quantifier
+2203: There Exists: existential quantifier
 2204: There Does Not Exist
-2205: Empty Set : null set
-2206: Increment : laplace operator : forward difference : symmetric difference (in set theory)
-2207: Nabla : backward difference : gradient, del
+2205: Empty Set: null set
+2206: Increment: laplace operator , forward difference , symmetric difference (in set theory)
+2207: Nabla: backward difference , gradient, del
 2208: Element Of
 2209: Not an Element Of
 220A: Small Element Of
-220B: Contains As Member : such that
+220B: Contains As Member: such that
 220C: Does Not Contain As Member
 220D: Small Contains As Member
-220E: End of Proof : q.e.d.
-220F: N-Ary Product : product sign
-2210: N-Ary Coproduct : coproduct sign
-2211: N-Ary Summation : summation sign
+220E: End of Proof: q.e.d.
+220F: N-Ary Product: product sign
+2210: N-Ary Coproduct: coproduct sign
+2211: N-Ary Summation: summation sign
 2212: Minus Sign
 2213: Minus-or-Plus Sign
 2214: Dot Plus
 2215: Division Slash
 2216: Set Minus
 2217: Asterisk Operator
-2218: Ring Operator : composite function : apl jot
+2218: Ring Operator: composite function , apl jot
 2219: Bullet Operator
-221A: Square Root : radical sign
+221A: Square Root: radical sign
 221B: Cube Root
 221C: Fourth Root
 221D: Proportional To
@@ -32,15 +32,15 @@
 221F: Right Angle
 2220: Angle
 2221: Measured Angle
-2222: Spherical Angle : angle arc
-2223: Divides : such that : apl stile
+2222: Spherical Angle: angle arc
+2223: Divides: such that , apl stile
 2224: Does Not Divide
 2225: Parallel To
 2226: Not Parallel To
-2227: Logical And : wedge, conjunction
-2228: Logical Or : vee, disjunction
-2229: Intersection : cap, hat
-222A: Union : cup
+2227: Logical And: wedge, conjunction
+2228: Logical Or: vee, disjunction
+2229: Intersection: cap, hat
+222A: Union: cup
 222B: Integral
 222C: Double Integral
 222D: Triple Integral
@@ -54,14 +54,14 @@
 2235: Because
 2236: Ratio
 2237: Proportion
-2238: Dot Minus : saturating subtraction
+2238: Dot Minus: saturating subtraction
 2239: Excess
 223A: Geometric Proportion
 223B: Homothetic
-223C: Tilde Operator : varies with (proportional to) : difference between : similar to : not : cycle : apl tilde
-223D: Reversed Tilde : lazy s
-223E: Inverted Lazy S : most positive
-223F: Sine Wave : alternating current
+223C: Tilde Operator: varies with (proportional to) , difference between , similar to , not , cycle , apl tilde
+223D: Reversed Tilde: lazy s
+223E: Inverted Lazy S: most positive
+223F: Sine Wave: alternating current
 2240: Wreath Product
 2241: Not Tilde
 2242: Minus Tilde
@@ -70,27 +70,27 @@
 2245: Approximately Equal To
 2246: Approximately But Not Actually Equal To
 2247: Neither Approximately nor Actually Equal To
-2248: Almost Equal To : asymptotic to
+2248: Almost Equal To: asymptotic to
 2249: Not Almost Equal To
 224A: Almost Equal or Equal To
-224B: Triple Tilde : Libra
+224B: Triple Tilde: Libra
 224C: All Equal To
 224D: Equivalent To
 224E: Geometrically Equivalent To
 224F: Difference Between
 2250: Approaches the Limit
 2251: Geometrically Equal To
-2252: Approximately Equal To or the Image Of : nearly equals
+2252: Approximately Equal To or the Image Of: nearly equals
 2253: Image of or Approximately Equal To
 2254: Colon Equals
 2255: Equals Colon
 2256: Ring In Equal To
-2257: Ring Equal To : approximately equal to
+2257: Ring Equal To: approximately equal to
 2258: Corresponds To
-2259: Estimates : corresponds to
+2259: Estimates: corresponds to
 225A: Equiangular To
 225B: Star Equals
-225C: Delta Equal To : equiangular : equal to by definition
+225C: Delta Equal To: equiangular , equal to by definition
 225D: Equal To By Definition
 225E: Measured By
 225F: Questioned Equal To
@@ -106,7 +106,7 @@
 2269: Greater-Than But Not Equal To
 226A: Much Less-Than
 226B: Much Greater-Than
-226C: Between : plaintiff, quantic
+226C: Between: plaintiff, quantic
 226D: Not Equivalent To
 226E: Not Less-Than
 226F: Not Greater-Than
@@ -120,16 +120,16 @@
 2277: Greater-Than or Less-Than
 2278: Neither Less-Than nor Greater-Than
 2279: Neither Greater-Than nor Less-Than
-227A: Precedes : lower rank than
-227B: Succeeds : higher rank than
+227A: Precedes: lower rank than
+227B: Succeeds: higher rank than
 227C: Precedes or Equal To
 227D: Succeeds or Equal To
 227E: Precedes or Equivalent To
 227F: Succeeds or Equivalent To
 2280: Does Not Precede
 2281: Does Not Succeed
-2282: Subset Of : included in set
-2283: Superset Of : includes in set
+2282: Subset Of: included in set
+2283: Superset Of: includes in set
 2284: Not a Subset Of
 2285: Not a Superset Of
 2286: Subset of or Equal To
@@ -140,33 +140,33 @@
 228B: Superset of with Not Equal To
 228C: Multiset
 228D: Multiset Multiplication
-228E: Multiset Union : z notation bag addition
+228E: Multiset Union: z notation bag addition
 228F: Square Image Of
 2290: Square Original Of
 2291: Square Image of or Equal To
 2292: Square Original of or Equal To
 2293: Square Cap
 2294: Square Cup
-2295: Circled Plus : direct sum : vector pointing into page
-2296: Circled Minus : symmetric difference
-2297: Circled Times : tensor product : vector pointing into page
-2298: Circled Division Slash : ban, disable
-2299: Circled Dot Operator : direct product : vector pointing out of page
+2295: Circled Plus: direct sum , vector pointing into page
+2296: Circled Minus: symmetric difference
+2297: Circled Times: tensor product , vector pointing into page
+2298: Circled Division Slash: ban, disable
+2299: Circled Dot Operator: direct product , vector pointing out of page
 229A: Circled Ring Operator
-229B: Circled Asterisk Operator : New Year, Christmas
+229B: Circled Asterisk Operator: New Year, Christmas
 229C: Circled Equals
 229D: Circled Dash
 229E: Squared Plus
 229F: Squared Minus
 22A0: Squared Times
 22A1: Squared Dot Operator
-22A2: Right Tack : turnstile : proves, implies, yields : reducible
-22A3: Left Tack : reverse turnstile : non-theorem, does not yield
-22A4: Down Tack : top
-22A5: Up Tack : base, bottom
-22A6: Assertion : reduces to
+22A2: Right Tack: turnstile , proves, implies, yields , reducible
+22A3: Left Tack: reverse turnstile , non-theorem, does not yield
+22A4: Down Tack: top
+22A5: Up Tack: base, bottom
+22A6: Assertion: reduces to
 22A7: Models
-22A8: True : statement is true, valid : is a tautology : satisfies : results in
+22A8: True: statement is true, valid , is a tautology , satisfies , results in
 22A9: Forces
 22AA: Triple Vertical Bar Right Turnstile
 22AB: Double Vertical Bar Double Right Turnstile
@@ -192,8 +192,8 @@
 22BF: Right Triangle
 22C0: N-Ary Logical And
 22C1: N-Ary Logical Or
-22C2: N-Ary Intersection : z notation generalised intersection
-22C3: N-Ary Union : z notation generalised union
+22C2: N-Ary Intersection: z notation generalised intersection
+22C3: N-Ary Union: z notation generalised union
 22C4: Diamond Operator
 22C5: Dot Operator
 22C6: Star Operator
@@ -210,7 +210,7 @@
 22D1: Double Superset
 22D2: Double Intersection
 22D3: Double Union
-22D4: Pitchfork : proper intersection
+22D4: Pitchfork: proper intersection
 22D5: Equal and Parallel To
 22D6: Less-Than with Dot
 22D7: Greater-Than with Dot

@@ -1,15 +1,28 @@
+alt-code: Kody Alt
+name: Tytuł
+symbol: Symbole
+html_code: HTML-kod
 entity: Mnemonika
 your-browser: Twoja przeglądarka
 font-view: Napis tego znaku w różnych czcionek
-char-desc: Opis symboli
+unicode-name: Nazwa Unicode
+char-desc: Znaczenie symbolu
+emoji-desc: Znaczenie Emoji
+ideograph-desc: Znaczenie ideogramu
 unicode-number: Ilość Unicode
 html-code: Kod <span class="caps">HTML</span>
+css-code: CSS-kod
 uppercase: Wielkie
 lowercase: Małe
 encoding: Kodowanie
 related: Podobne znaki
 tech-info: Informacje techniczne
 copy: Skopiuj i wklej symbol
+copy-code: Kliknij, aby skopiować
 copy_button: Kopiuj
 copy_done: Skopiowano!
 version: Wersja Unicode
+sets-with-this-symbol: Zestawy z tym symbolem
+empty-symbol: Niezdefiniowany w Unicode
+emoji_group: Kategoria Emoji
+emoji_version: Wersja Emoji

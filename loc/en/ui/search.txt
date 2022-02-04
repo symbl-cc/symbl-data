@@ -2,14 +2,14 @@
 find: Find
 example: Example
 # phrases separated by ";"
-example-text: hammer and sickle;arrow;heart;star;triangle;check;circle;cross;square;bullet
+example-text: hammer and sickle;triangle;arrow;heart;star;spacebar space;telephone;circle;check mark;dash
 h1: Search
-result: Result
-empty: Search phrase is empty
+result: Phrase search results
+empty: No phrase for searching
 total: Search results: %s
-limit: (show only %s)
-none: None
-any: Search by any words
+limit: (shown only %s)
+none: Nothing found
+any: Nothing was found. Let's search using all words 
 overflow: Sorry, symbol U+%s is under construction :)
 unicode-block: Unicode block
 count-symbols: %s symbols

@@ -1,51 +1,51 @@
-0000: Boş : NUL
-0001: Başlık Başlangıcı : SOH
-0002: Metnin Başlangıcı : STX
-0003: Metnin Sonu : ETX
-0004: İletimin Sonu : EOT
-0005: Soruşturma : ENQ
-0006: kabul : SOR
-0007: çan : BEL
-0008: geri tuşu : BS
-0009: Yatay Tablolama : ht : karakter tablosu : TAB
-000A: Yeni Hat (Nl) : satır besleme (lf) : satır sonu (eol) : LF
-000B: Dikey Tablolama : vt : çizgi tablolama : TAB
-000C: Form besleme : FF
-000D: Satırbaşı : CR
-000E: Dışarı Kaydır : YANİ
-000F: Vardiya : Sİ
-0010: Veri Bağlantısından Kaçış : DLE
-0011: Aygıt Kontrolü Bir : DC1
-0012: Cihaz Kontrolü İki : DC2
-0013: Üçlü Aygıt Kontrolü : DC3
-0014: Dörtlü Aygıt Kontrolü : DC4
-0015: Olumsuz Teşekkür : NAK
-0016: Senkron Boşta : SYN
-0017: İletim Bloğu Sonu : ETB
-0018: İptal etmek : CAN
-0019: Orta Sonu : EM
-001A: Vekil : ALT : Ctrl-Z
-001B: Kaçış : ESC
-001C: Dosya Ayırıcı : bilgi ayırıcı dört : FS
-001D: Grup Ayırıcı : bilgi ayırıcı üç : GS
-001E: Kayıt ayırıcı : bilgi ayırıcı iki : RS
-001F: Birim Ayırıcı : bir bilgi ayırıcı : BİZE
+0000: Boş: NUL
+0001: Başlık Başlangıcı: SOH
+0002: Metnin Başlangıcı: STX
+0003: Metnin Sonu: ETX
+0004: İletimin Sonu: EOT
+0005: Soruşturma: ENQ
+0006: kabul: SOR
+0007: çan: BEL
+0008: geri tuşu: BS
+0009: Yatay Tablolama: ht , karakter tablosu , TAB
+000A: Yeni Hat (Nl): satır besleme (lf) , satır sonu (eol) , LF
+000B: Dikey Tablolama: vt , çizgi tablolama , TAB
+000C: Form besleme: FF
+000D: Satırbaşı: CR
+000E: Dışarı Kaydır: YANİ
+000F: Vardiya: Sİ
+0010: Veri Bağlantısından Kaçış: DLE
+0011: Aygıt Kontrolü Bir: DC1
+0012: Cihaz Kontrolü İki: DC2
+0013: Üçlü Aygıt Kontrolü: DC3
+0014: Dörtlü Aygıt Kontrolü: DC4
+0015: Olumsuz Teşekkür: NAK
+0016: Senkron Boşta: SYN
+0017: İletim Bloğu Sonu: ETB
+0018: İptal etmek: CAN
+0019: Orta Sonu: EM
+001A: Vekil: ALT , Ctrl-Z
+001B: Kaçış: ESC
+001C: Dosya Ayırıcı: bilgi ayırıcı dört , FS
+001D: Grup Ayırıcı: bilgi ayırıcı üç , GS
+001E: Kayıt ayırıcı: bilgi ayırıcı iki , RS
+001F: Birim Ayırıcı: bir bilgi ayırıcı , BİZE
 0020: uzay
-0021: Ünlem işareti : faktöryel : patlama
+0021: Ünlem işareti: faktöryel , patlama
 0022: Tırnak işareti
-0023: Numara işareti : diyez işareti : esrar : crosshatch : octothorpe
-0024: Dolar işareti : milréis : escudosunun
+0023: Numara işareti: diyez işareti , esrar , crosshatch , octothorpe
+0024: Dolar işareti: milréis , escudosunun
 0025: Yüzde İşareti
 0026: işareti '&'
-0027: apostrof : kesme işareti tırnak : apl teklifi
-0028: Sol Parantez : açılış parantezi
-0029: Sağ Parantez : parantez kapanışı
-002A: yıldız işareti : star
+0027: apostrof: kesme işareti tırnak , apl teklifi
+0028: Sol Parantez: açılış parantezi
+0029: Sağ Parantez: parantez kapanışı
+002A: yıldız işareti: star
 002B: Artı işareti
-002C: Virgül : ondalık ayırıcı
-002D: Çizgi-Eksi : kısa çizgi veya eksi işareti
-002E: Tam durak : nokta, nokta, ondalık nokta
-002F: solidüs : eğik çizgi
+002C: Virgül: ondalık ayırıcı
+002D: Çizgi-Eksi: kısa çizgi veya eksi işareti
+002E: Tam durak: nokta, nokta, ondalık nokta
+002F: solidüs: eğik çizgi
 0030: Rakam Sıfır
 0031: Rakam Bir
 0032: Rakam İki
@@ -62,7 +62,7 @@
 003D: Eşittir işareti
 003E: Büyük işareti
 003F: Soru işareti
-0040: Ticari At : işaretini : E-posta : posta
+0040: Ticari At: işaretini , E-posta , posta
 0041: Latin Büyük Harf A
 0042: Latin Büyük Harf B
 0043: Latin Büyük Harf C
@@ -89,11 +89,11 @@
 0058: Latin Büyük Harf X
 0059: Latin Büyük Harf Y
 005A: Latin Büyük Harf Z
-005B: Sol köşeli ayraç : Açılı köşeli ayraç
-005C: Ters Solidus : Ters eğik çizgi
-005D: Sağ köşeli ayraç : kapanış köşeli ayraç
+005B: Sol köşeli ayraç: Açılı köşeli ayraç
+005C: Ters Solidus: Ters eğik çizgi
+005D: Sağ köşeli ayraç: kapanış köşeli ayraç
 005E: Circumflex Accent
-005F: Düşük hat : aralık altı çizili
+005F: Düşük hat: aralık altı çizili
 0060: Mezar Aksanı
 0061: Latince Küçük Harf A
 0062: Latince Küçük Harf B
@@ -121,11 +121,11 @@
 0078: Latince Küçük Harf X
 0079: Latince Küçük Harf Y
 007A: Latince Küçük Harf Z
-007B: Sol Kıvırcık Braket : açılış parantez : Sol ayraç
-007C: Dikey çizgi : dikey çubuk
-007D: Sağ Kıvırcık Braket : kıvrık parantez kapatma : sağ ayraç
+007B: Sol Kıvırcık Braket: açılış parantez , Sol ayraç
+007C: Dikey çizgi: dikey çubuk
+007D: Sağ Kıvırcık Braket: kıvrık parantez kapatma , sağ ayraç
 007E: Tilde
-007F: silmek : DEL
+007F: silmek: DEL
 0080: <Denetim>
 0081: <Denetim>
 0082: Burada İzin Verilen Mola
@@ -161,42 +161,42 @@
 00A0: Ayrılmaz Alan
 00A1: Ters ünlem işareti
 00A2: Yüzde işareti
-00A3: Diyez işareti : sterlin, irlandalı kumar, italyan Lirası, türk lirası
+00A3: Diyez işareti: sterlin, irlandalı kumar, italyan Lirası, türk lirası
 00A4: Para birimi işareti
-00A5: Yen işareti : yuan işareti
-00A6: Kırık çubuk : kırık dikey çubuk : bölümlenmiş kural (tipografide)
+00A5: Yen işareti: yuan işareti
+00A6: Kırık çubuk: kırık dikey çubuk , bölümlenmiş kural (tipografide)
 00A7: Bölüm işareti
 00A8: iki sesli harfin ayrılması
-00A9: Telif Hakkı İşareti : kopya : (C)
+00A9: Telif Hakkı İşareti: kopya , (C)
 00AA: Kadınsı Sıra Göstergesi
-00AB: Sola dönük çift açılı tırnak işareti : sol suçluluk : şevron
-00AC: İşaret değil : açılı çizgi (tipografide)
-00AD: Yumuşak Tire : isteğe bağlı tire
-00AE: Kayıtlı Üye : tescilli ticari marka işareti
-00AF: Uzatma işareti : overline, apl
+00AB: Sola dönük çift açılı tırnak işareti: sol suçluluk , şevron
+00AC: İşaret değil: açılı çizgi (tipografide)
+00AD: Yumuşak Tire: isteğe bağlı tire
+00AE: Kayıtlı Üye: tescilli ticari marka işareti
+00AF: Uzatma işareti: overline, apl
 00B0: Derece işareti
 00B1: Artı eksi sembolü
-00B2: Üst simge iki : karesi
-00B3: Üst simge Üç : kuşbaşı
+00B2: Üst simge iki: karesi
+00B3: Üst simge Üç: kuşbaşı
 00B4: Akut Aksan
 00B5: Mikro işareti
-00B6: Pilcrow işareti : paragraf işareti
-00B7: Orta nokta : orta nokta : Gürcü virgül : yunan orta nokta, nokta sembolü
+00B6: Pilcrow işareti: paragraf işareti
+00B7: Orta nokta: orta nokta , Gürcü virgül , yunan orta nokta, nokta sembolü
 00B8: çengel
 00B9: Üst simge bir
 00BA: Eril Ordinal Göstergesi
-00BB: Sağa dönük çift açılı tırnak işareti : sağ suçluluk
+00BB: Sağa dönük çift açılı tırnak işareti: sağ suçluluk
 00BC: Vulgar Kesir Bir Çeyrek
 00BD: Vulgar Fraksiyonu Bir Yarı
 00BE: Vulgar Fraksiyonu Üç Çeyrek
-00BF: Ters Soru İşareti : açık soru işareti
+00BF: Ters Soru İşareti: açık soru işareti
 00C0: Latin Büyük Harf a Mezar ile
 00C1: Akut ile Latin Büyük Harf
 00C2: Circumflex ile Latin büyük harf a
 00C3: Latin Büyük Harfi a Tilde ile
 00C4: Diaeresis ile Latin büyük harf a
 00C5: Latin Büyük Harf a Halkası Üstte
-00C6: Latin Büyük Harfli Ae : latin capital ligature ae
+00C6: Latin Büyük Harfli Ae: latin capital ligature ae
 00C7: Cedilla ile Latin Büyük Harf C
 00C8: Latin büyük harf mezarı ile e
 00C9: Akutlu Latin Harfleri E
@@ -213,22 +213,22 @@
 00D4: Circumflex ile Latin büyük harf O
 00D5: Tilde ile Latin büyük harf O
 00D6: Diaeresis ile Latin büyük harf O
-00D7: Çarpma işareti : z notasyon kartezyen ürün
-00D8: Latin Büyük Harfli O Harfi : o eğik çizgi
+00D7: Çarpma işareti: z notasyon kartezyen ürün
+00D8: Latin Büyük Harfli O Harfi: o eğik çizgi
 00D9: Latin büyük harf mezarlı U
 00DA: Akutlu Latin Harfli U Harfi
 00DB: Circumflex ile Latin büyük harf U
 00DC: Diaeresis ile Latin büyük harf U
 00DD: Akutlu Latin Büyük Harf Y
 00DE: Latin Büyük Harf Dikeni
-00DF: Latin Küçük Harfli Sharp S : eszett karakteri
+00DF: Latin Küçük Harfli Sharp S: eszett karakteri
 00E0: Latince Küçük Harf a Mezar ile
 00E1: Latince Küçük Harf a Akut ile
 00E2: Circumflex ile Latin Küçük Harf a
 00E3: Latince Küçük Harf a Tilde ile
 00E4: Diaeresis ile Latin Küçük Harf a
 00E5: Latin Küçük Harf a Yukarıda Yüzük
-00E6: Latince Küçük Harf Ae : Latin küçük ligature ae : dişbudak (eski ingiliz æsc)
+00E6: Latince Küçük Harf Ae: Latin küçük ligature ae , dişbudak (eski ingiliz æsc)
 00E7: Cedilla ile Latin Küçük Harf C
 00E8: Latin Küçük Harf E Mezar ile
 00E9: Akutlu Latince Küçük Harf E
@@ -245,12 +245,12 @@
 00F4: Circumflex ile Latin Küçük Harf O
 00F5: Tilde ile Latin Küçük Harf O
 00F6: Diaeresis ile Latin küçük harf O
-00F7: Bölme İşareti : başvurma işareti
-00F8: Latin küçük harf O inme ile : o eğik çizgi
+00F7: Bölme İşareti: başvurma işareti
+00F8: Latin küçük harf O inme ile: o eğik çizgi
 00F9: Latin küçük harf mezarlı U harfi
 00FA: Akut ile Latin Küçük Harf U
 00FB: Circumflex ile Latin Küçük Harf U
-00FC: İki Noktalı U : Latin Küçük Harf U Diaeresis ile, U trema ile, U umut ile
+00FC: İki Noktalı U: Latin Küçük Harf U Diaeresis ile, U trema ile, U umut ile
 00FD: Akutlu Latince Küçük Harf Y
 00FE: Latin Küçük Harf Dikeni
 00FF: Diaeresis ile Latin küçük harf Y

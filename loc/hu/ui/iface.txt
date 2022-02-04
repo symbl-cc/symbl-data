@@ -1,3 +1,5 @@
+hide: Elrejtése
+show: Mutat
 up: Fel
 range: Hatótávolság
 loading: Betöltés, kérlek, várj...
@@ -18,6 +20,14 @@ read-less: Elrejt
 madeby: Készítette
 keepupdates: Kövess minket
 hint: Jelölje ki és másolja a kívánt karaktert
+
+copied: Másolva!
+see_also: Lásd még
+page_content_menu: Tartalomjegyzék
+homepage: Kezdőlap
+cookie-message: Ez az oldal 🍪sütiket használ a legjobb élmény biztosítása érdekében.
+accept: Elfogad
+empty-cell: Üres cella
 
 [mobile]
 to-full: Teljes verzió

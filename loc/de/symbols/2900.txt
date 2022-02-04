@@ -1,11 +1,11 @@
-2900: Pfeil nach rechts mit senkrechtem Strich : z Notation partielle Surjektion
-2901: Zwei Pfeil nach rechts mit doppeltem vertikalem Strich : z Notation endliche Surjektion
+2900: Pfeil nach rechts mit senkrechtem Strich: z Notation partielle Surjektion
+2901: Zwei Pfeil nach rechts mit doppeltem vertikalem Strich: z Notation endliche Surjektion
 2902: Doppelpfeil nach links mit vertikalem Strich
 2903: Doppelpfeil nach rechts mit vertikalem Strich
 2904: Linker rechter Doppelpfeil mit vertikalem Strich
-2905: Zwei Pfeil nach rechts von der Bar : Karten zu
-2906: Doppelpfeil nach links von der Bar : Karten von
-2907: Doppelter Pfeil nach rechts von der Bar : Karten zu
+2905: Zwei Pfeil nach rechts von der Bar: Karten zu
+2906: Doppelpfeil nach links von der Bar: Karten von
+2907: Doppelter Pfeil nach rechts von der Bar: Karten zu
 2908: Abwärtspfeil mit horizontalem Strich
 2909: Aufwärtspfeil mit horizontalem Anschlag
 290A: Dreifachpfeil nach oben
@@ -18,11 +18,11 @@
 2911: Pfeil nach rechts mit gepunktetem Stamm
 2912: Aufwärtspfeil zur Bar
 2913: Abwärtspfeil zur Bar
-2914: Pfeil nach rechts mit Schwanz mit senkrechtem Anschlag : z Notation Teilinjektion
-2915: Pfeil nach rechts mit Schwanz mit doppeltem vertikalem Strich : z Notation endliche Injektion
-2916: Nach rechts gerichteter zweiköpfiger Pfeil mit Schwanz : bijektives Mapping : z notation bijection
-2917: Nach rechts gerichteter Doppelpfeil mit Schwanz mit senkrechtem Anschlag : z Notation surjektive Injektion
-2918: Nach rechts gerichteter Doppelpfeil mit Schwanz mit doppeltem vertikalem Strich : z Notation endliche surjektive Injektion
+2914: Pfeil nach rechts mit Schwanz mit senkrechtem Anschlag: z Notation Teilinjektion
+2915: Pfeil nach rechts mit Schwanz mit doppeltem vertikalem Strich: z Notation endliche Injektion
+2916: Nach rechts gerichteter zweiköpfiger Pfeil mit Schwanz: bijektives Mapping , z notation bijection
+2917: Nach rechts gerichteter Doppelpfeil mit Schwanz mit senkrechtem Anschlag: z Notation surjektive Injektion
+2918: Nach rechts gerichteter Doppelpfeil mit Schwanz mit doppeltem vertikalem Strich: z Notation endliche surjektive Injektion
 2919: Pfeil nach links nach links
 291A: Pfeil nach rechts nach rechts
 291B: Doppelter Pfeilschwanz nach links
@@ -212,23 +212,23 @@
 29D3: Schwarze Fliege
 29D4: Zeiten mit linker Hälfte schwarz
 29D5: Mal mit rechter Hälfte Schwarz
-29D6: Weiße Sanduhr : vertikale Fliege : weißer Framus
+29D6: Weiße Sanduhr: vertikale Fliege , weißer Framus
 29D7: Schwarze Sanduhr
 29D8: Linker wackeliger Zaun
 29D9: Rechter wackeliger Zaun
 29DA: Linker doppelter wackeliger Zaun
 29DB: Rechter doppelter wackeliger Zaun
-29DC: Unvollständige Unendlichkeit : Isotech-Einheit & iinfin;
+29DC: Unvollständige Unendlichkeit: Isotech-Einheit & iinfin,
 29DD: Krawatte über Unendlichkeit
 29DE: Unendlichkeit mit vertikaler Leiste negiert
 29DF: Doppelter Multimap
-29E0: Quadrat mit konturierter Kontur : d'alembertian
+29E0: Quadrat mit konturierter Kontur: d'alembertian
 29E1: Erhöht als
 29E2: Produkt mischen
 29E3: Gleichheitszeichen und geneigte Parallele
 29E4: Gleichheitszeichen und schräge Parallele zu Tilde oben
 29E5: Identisch und schräg parallel
-29E6: Gleich Stark : tautologisches Äquivalent
+29E6: Gleich Stark: tautologisches Äquivalent
 29E7: Thermodynamisch
 29E8: Abwärtszeigendes Dreieck mit linker Hälfte schwarz
 29E9: Abwärtsdreieck mit rechter Hälfte schwarz
@@ -242,12 +242,12 @@
 29F1: Error-Barred Black Diamond
 29F2: Fehlergesperrter weißer Kreis
 29F3: Fehlergesperrter schwarzer Kreis
-29F4: Regelverzögert : Doppelpunkt rechter Pfeil
+29F4: Regelverzögert: Doppelpunkt rechter Pfeil
 29F5: Reverse Solidus Operator
 29F6: Solidus mit Overbar
 29F7: Umgekehrter Solidus mit horizontalem Hub
 29F8: Großer Solidus
-29F9: Großer umgekehrter Solidus : z Notationsschema versteckt
+29F9: Großer umgekehrter Solidus: z Notationsschema versteckt
 29FA: Doppel plus
 29FB: Triple Plus
 29FC: Nach links zeigender gebogener Winkelhalter

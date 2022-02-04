@@ -1,5 +1,8 @@
 meta-description: Unicode karakter arama web servisi. En sevdiğiniz karakterleri bulun ve kopyalayın: 😎 Emoji, ▶ ️ Oklar, ✪ Yıldızlar, 💲 Para birimleri, 🈂️ Yazı sistemleri ve daha fazlası 🚩
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Sembolün adı: {{name}}, İşaret için Unicode numarası: {{code}}, simge bloğa dahil edilir: {{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
 
-emoji: emojisi
+
+emoji: emoji
 copy: kopya
 symbol: işaret, simge

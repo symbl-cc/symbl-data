@@ -1,11 +1,11 @@
-2900: Jobbra kétfejű nyíl függőleges lökettel : z jelölés részleges túlterhelés
-2901: Jobbra kétfejű nyíl dupla függőleges ütéssel : z jelölés véges túlterhelés
+2900: Jobbra kétfejű nyíl függőleges lökettel: z jelölés részleges túlterhelés
+2901: Jobbra kétfejű nyíl dupla függőleges ütéssel: z jelölés véges túlterhelés
 2902: Balra dupla nyíl függőleges lökettel
 2903: Jobbra dupla nyíl függőleges lökettel
 2904: Balra jobbra nyíl, függőleges lökettel
-2905: Jobbra kétfejű nyíl a bárból : térképek
-2906: Balra dupla nyíl a bárból : térképek
-2907: Jobbra dupla nyíl a bárból : térképek
+2905: Jobbra kétfejű nyíl a bárból: térképek
+2906: Balra dupla nyíl a bárból: térképek
+2907: Jobbra dupla nyíl a bárból: térképek
 2908: Lefelé nyíl vízszintes ütéssel
 2909: Felfelé nyíl vízszintes ütéssel
 290A: Felfelé Hármas nyíl
@@ -18,11 +18,11 @@
 2911: Jobbra nyíl a pontozott szárral
 2912: Felfelé nyíl-bár
 2913: Lefelé mutató nyíl bárra
-2914: Jobbra nyíl a farok függőleges lökettel : z jelölés részleges injekció
-2915: Jobbra nyíl a farok kettős függőleges ütéssel : z jelölés véges injekció
-2916: Jobbra kétfejű nyíl farokkal : bijektív térképezés : z jelölés bijection
-2917: Jobbra kétfejű nyíl farokkal függőleges ütéssel : z jelölés surjective injekció
-2918: Jobbra kétfejű nyíl farokkal kettős függőleges ütéssel : z jelölés véges jellegű injekció
+2914: Jobbra nyíl a farok függőleges lökettel: z jelölés részleges injekció
+2915: Jobbra nyíl a farok kettős függőleges ütéssel: z jelölés véges injekció
+2916: Jobbra kétfejű nyíl farokkal: bijektív térképezés , z jelölés bijection
+2917: Jobbra kétfejű nyíl farokkal függőleges ütéssel: z jelölés surjective injekció
+2918: Jobbra kétfejű nyíl farokkal kettős függőleges ütéssel: z jelölés véges jellegű injekció
 2919: Balra nyíl-farok
 291A: Jobbra nyíl-farok
 291B: Balra dupla nyíl-farok
@@ -212,23 +212,23 @@
 29D3: Fekete Bowtie
 29D4: Times bal félig fekete
 29D5: Times jobb félig fekete
-29D6: Fehér homokóra : függőleges értékesítés : fehér framus
+29D6: Fehér homokóra: függőleges értékesítés , fehér framus
 29D7: Fekete homokóra
 29D8: Bal Wiggly kerítés
 29D9: Jobb Wiggly kerítés
 29DA: Bal Double Wiggly kerítés
 29DB: Jobb dupla Wiggly kerítés
-29DC: Hiányos Infinity : izotech entitás & iinfin;
+29DC: Hiányos Infinity: izotech entitás & iinfin,
 29DD: Nyakkendő végtelen
 29DE: Infinity Negated a függőleges sávval
 29DF: Dupla végű multimap
-29E0: Négyzet alakú kontúrvázzal : d'alembertian
+29E0: Négyzet alakú kontúrvázzal: d'alembertian
 29E1: Növekszik As
 29E2: Vegyes termék
 29E3: Egyenlő jel és ferde párhuzamos
 29E4: Egyenlő jel és párhuzamos a Tilde-fel
 29E5: Azonos és ferde párhuzamos
-29E6: Gleich Stark : tautológiai egyenértékű
+29E6: Gleich Stark: tautológiai egyenértékű
 29E7: termodinamikai
 29E8: Lefelé mutató háromszög, bal félig fekete
 29E9: Lefelé mutató háromszög a jobb félig fekete
@@ -242,12 +242,12 @@
 29F1: Hiba-Barred Black Diamond
 29F2: Hiba-elutasított fehér kör
 29F3: Hiba-Barred Black Circle
-29F4: Szabály Késleltetett : vastagbél jobb nyíl
+29F4: Szabály Késleltetett: vastagbél jobb nyíl
 29F5: Fordított Solidus operátor
 29F6: Solidus a Overbar-al
 29F7: Fordított Solidus vízszintes ütéssel
 29F8: Big Solidus
-29F9: Nagy Reverse Solidus : z jelölési séma elrejtése
+29F9: Nagy Reverse Solidus: z jelölési séma elrejtése
 29FA: Double Plus
 29FB: Triple Plus
 29FC: Balra mutató görbe szögtartó

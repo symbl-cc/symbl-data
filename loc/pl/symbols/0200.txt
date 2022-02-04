@@ -79,30 +79,30 @@
 024E: Łacińska litera Y ze skokiem
 024F: Łacińska mała litera Y ze skokiem
 0250: Łacińska mała litera obrócona A
-0251: Łacińska mała litera alfa : łaciński skrypt małej litery a
+0251: Łacińska mała litera alfa: łaciński skrypt małej litery a
 0252: Łacińska mała litera Obrócona alfa
 0253: Łacińska mała litera B z hakiem
 0254: Łacińska mała litera Otwórz O
 0255: Łacińska mała litera C z curl
-0256: Łacińska mała litera D z ogonem : d hak retroflex
+0256: Łacińska mała litera D z ogonem: d hak retroflex
 0257: Łacińska mała litera D z hakiem
 0258: Łacińska mała litera odwrócona E
 0259: Łacińska mała litera Schwa
 025A: Łacińska mała litera Schwa z hakiem
-025B: Latin Small Letter Open E : epsilon
+025B: Latin Small Letter Open E: epsilon
 025C: Łacińska mała litera Odwrócona otwarta E
 025D: Łacińska mała litera Odwrócona otwarta E z hakiem
-025E: Łacińska mała litera Closed Odwrócona otwarta E : zamknięty odwrócony epsilon
+025E: Łacińska mała litera Closed Odwrócona otwarta E: zamknięty odwrócony epsilon
 025F: Łacińska mała litera Dotless J z udarem
 0260: Łacińska mała litera G z hakiem
 0261: Łaciński mały list napisowy G
 0262: Litera Łacińska Mała Stolica G
 0263: Łacińska mała litera Gamma
-0264: Łacińska mała litera Rams Horn : łacińska mała litera dziecka gamma
+0264: Łacińska mała litera Rams Horn: łacińska mała litera dziecka gamma
 0265: Łacińska mała litera zwrócona H
 0266: Łacińska mała litera H z hakiem
 0267: Łacińska mała litera Heng z hakiem
-0268: Łacińska mała litera I ze skokiem : zakazany i, i bar
+0268: Łacińska mała litera I ze skokiem: zakazany i, i bar
 0269: Łacińska mała litera Iota
 026A: Mała łacińska litera I
 026B: Łacińska mała litera L z środkową tyldą
@@ -115,7 +115,7 @@
 0272: Łacińska mała litera N z lewym hakiem
 0273: Łacińska mała litera N z hakiem Retroflex
 0274: Łacińska Mała Stolica N
-0275: Łaciński mały list zakazany O : o bar
+0275: Łaciński mały list zakazany O: o bar
 0276: Mała łacińska litera Oe
 0277: Łacińska mała litera Zamknięta omega
 0278: Łacińska mała litera Phi
@@ -125,7 +125,7 @@
 027C: Łacińska mała litera R z długimi nogami
 027D: Łacińska mała litera R z ogonem
 027E: Łacińska mała litera R z haczykiem
-027F: Łacińska mała litera odwrócona R z haczykiem : długa noga zamieniła się w jotę (błędna nazwa)
+027F: Łacińska mała litera odwrócona R z haczykiem: długa noga zamieniła się w jotę (błędna nazwa)
 0280: Litera Łacińska Mała Stolica R
 0281: Litera Łacińska Mały Kapitał Odwrócony R
 0282: Łacińska mała litera S z hakiem
@@ -137,22 +137,22 @@
 0288: Łacińska mała litera T z hakiem Retroflex
 0289: Łaciński mały list U Bar
 028A: Łacińska mała litera Upsilon
-028B: Łacińska mała litera V z hakiem : łaciński skrypt małej litery v
-028C: Łacińska mała litera Obrócona V : daszek, klin
+028B: Łacińska mała litera V z hakiem: łaciński skrypt małej litery v
+028C: Łacińska mała litera Obrócona V: daszek, klin
 028D: Łacińska mała litera zwrócona W
 028E: Łacińska mała litera Obrócona Y
 028F: Litera Łacińska Mała Stolica Y
 0290: Łacińska mała litera Z z hakiem Retroflex
 0291: Łacińska mała litera Z z curl
-0292: Łacińska mała litera Ezh : naparstek
+0292: Łacińska mała litera Ezh: naparstek
 0293: Łacińska mała litera Ezh z curl
 0294: Przerwa na list łaciński
-0295: Latin Letter Pharyngeal Voiced Fricative : odwrócone zatrzymanie głośni
+0295: Latin Letter Pharyngeal Voiced Fricative: odwrócone zatrzymanie głośni
 0296: Litera łacińska Odwrócony Glottal Stop
 0297: Rozciągnięta litera łacińska C
-0298: Łacińska litera Bilabial Click : strzał w dziesiątkę
+0298: Łacińska litera Bilabial Click: strzał w dziesiątkę
 0299: Łacińska Mała Stolica B
-029A: Latin Small Letter Closed Open E : zamknięty epsilon
+029A: Latin Small Letter Closed Open E: zamknięty epsilon
 029B: Mała łacińska litera G z hakiem
 029C: Litera Łacińska Mała Stolica H
 029D: Łacińska mała litera J z Crossed-Tail
@@ -186,7 +186,7 @@
 02B9: Prime Letter modyfikatora
 02BA: List modyfikujący Double Prime
 02BB: Litera modyfikatora Przekręcony przecinek
-02BC: List modyfikujący Apostrophe : apostrof
+02BC: List modyfikujący Apostrophe: apostrof
 02BD: List modyfikujący Odwrócony przecinek
 02BE: List modyfikujący Right Half Ring
 02BF: List modyfikujący Left Half Ring
@@ -197,7 +197,7 @@
 02C4: List modyfikujący Up Grot
 02C5: List modyfikujący Down Arrowhead
 02C6: List modyfikujący Circumflex Accent
-02C7: Caron : hacek
+02C7: Caron: hacek
 02C8: List modyfikujący Pionowa linia
 02C9: List modyfikujący Macron
 02CA: Modyfikator Letter Acute Accent

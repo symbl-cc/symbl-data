@@ -1,15 +1,28 @@
+alt-code: Alt kódok
+name: Név
+symbol: Szimbólum
+html_code: HTML-kód
 entity: Egység
 your-browser: A böngésző
 font-view: Felirat a karakter különböző betűtípusokat
-char-desc: karakter leírása
+char-desc: Jelkép jelentése
+emoji-desc: Emoji jelentése
+ideograph-desc: Ideográf jelentése
+unicode-name: Unicode név
 unicode-number: Unicode-szám
 html-code: <span class="caps">HTML</span>-kód
+css-code: CSS-kód
 uppercase: Nagybetűs
 lowercase: Kisbetűs
 encoding: Kódolás
 related: Kapcsolódó karakterek
 tech-info: Technikai információ
 copy: Másolja és illessze be a szimbólumot
+copy-code: Kattintson a másoláshoz
 copy_button: Másolat
 copy_done: Másolt!
 version: Unicode verzió
+sets-with-this-symbol: Beállítja ezt a szimbólumot
+empty-symbol: Unicode-ban nincs meghatározva
+emoji_group: Az Emoji kategóriája
+emoji_version: Az Emoji verziója

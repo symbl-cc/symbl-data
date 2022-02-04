@@ -79,30 +79,30 @@
 024E: Latin Capital Letter Y with Stroke
 024F: Latin Small Letter Y with Stroke
 0250: Latin Small Letter Turned A
-0251: Latin Small Letter Alpha : latin small letter script a
+0251: Latin Small Letter Alpha: latin small letter script a
 0252: Latin Small Letter Turned Alpha
 0253: Latin Small Letter B with Hook
 0254: Latin Small Letter Open O
 0255: Latin Small Letter C with Curl
-0256: Latin Small Letter D with Tail : d retroflex hook
+0256: Latin Small Letter D with Tail: d retroflex hook
 0257: Latin Small Letter D with Hook
 0258: Latin Small Letter Reversed E
 0259: Latin Small Letter Schwa
 025A: Latin Small Letter Schwa with Hook
-025B: Latin Small Letter Open E : epsilon
+025B: Latin Small Letter Open E: epsilon
 025C: Latin Small Letter Reversed Open E
 025D: Latin Small Letter Reversed Open E with Hook
-025E: Latin Small Letter Closed Reversed Open E : closed reversed epsilon
+025E: Latin Small Letter Closed Reversed Open E: closed reversed epsilon
 025F: Latin Small Letter Dotless J with Stroke
 0260: Latin Small Letter G with Hook
 0261: Latin Small Letter Script G
 0262: Latin Letter Small Capital G
 0263: Latin Small Letter Gamma
-0264: Latin Small Letter Rams Horn : latin small letter baby gamma
+0264: Latin Small Letter Rams Horn: latin small letter baby gamma
 0265: Latin Small Letter Turned H
 0266: Latin Small Letter H with Hook
 0267: Latin Small Letter Heng with Hook
-0268: Latin Small Letter I with Stroke : barred i, i bar
+0268: Latin Small Letter I with Stroke: barred i, i bar
 0269: Latin Small Letter Iota
 026A: Latin Letter Small Capital I
 026B: Latin Small Letter L with Middle Tilde
@@ -115,7 +115,7 @@
 0272: Latin Small Letter N with Left Hook
 0273: Latin Small Letter N with Retroflex Hook
 0274: Latin Letter Small Capital N
-0275: Latin Small Letter Barred O : o bar
+0275: Latin Small Letter Barred O: o bar
 0276: Latin Letter Small Capital Oe
 0277: Latin Small Letter Closed Omega
 0278: Latin Small Letter Phi
@@ -125,7 +125,7 @@
 027C: Latin Small Letter R with Long Leg
 027D: Latin Small Letter R with Tail
 027E: Latin Small Letter R with Fishhook
-027F: Latin Small Letter Reversed R with Fishhook : long leg turned iota (a misnomer)
+027F: Latin Small Letter Reversed R with Fishhook: long leg turned iota (a misnomer)
 0280: Latin Letter Small Capital R
 0281: Latin Letter Small Capital Inverted R
 0282: Latin Small Letter S with Hook
@@ -137,22 +137,22 @@
 0288: Latin Small Letter T with Retroflex Hook
 0289: Latin Small Letter U Bar
 028A: Latin Small Letter Upsilon
-028B: Latin Small Letter V with Hook : latin small letter script v
-028C: Latin Small Letter Turned V : caret, wedge
+028B: Latin Small Letter V with Hook: latin small letter script v
+028C: Latin Small Letter Turned V: caret, wedge
 028D: Latin Small Letter Turned W
 028E: Latin Small Letter Turned Y
 028F: Latin Letter Small Capital Y
 0290: Latin Small Letter Z with Retroflex Hook
 0291: Latin Small Letter Z with Curl
-0292: Latin Small Letter Ezh : dram
+0292: Latin Small Letter Ezh: dram
 0293: Latin Small Letter Ezh with Curl
 0294: Latin Letter Glottal Stop
-0295: Latin Letter Pharyngeal Voiced Fricative : reversed glottal stop
+0295: Latin Letter Pharyngeal Voiced Fricative: reversed glottal stop
 0296: Latin Letter Inverted Glottal Stop
 0297: Latin Letter Stretched C
-0298: Latin Letter Bilabial Click : bullseye
+0298: Latin Letter Bilabial Click: bullseye
 0299: Latin Letter Small Capital B
-029A: Latin Small Letter Closed Open E : closed epsilon
+029A: Latin Small Letter Closed Open E: closed epsilon
 029B: Latin Letter Small Capital G with Hook
 029C: Latin Letter Small Capital H
 029D: Latin Small Letter J with Crossed-Tail
@@ -186,7 +186,7 @@
 02B9: Modifier Letter Prime
 02BA: Modifier Letter Double Prime
 02BB: Modifier Letter Turned Comma
-02BC: Modifier Letter Apostrophe : apostrophe
+02BC: Modifier Letter Apostrophe: apostrophe
 02BD: Modifier Letter Reversed Comma
 02BE: Modifier Letter Right Half Ring
 02BF: Modifier Letter Left Half Ring
@@ -197,7 +197,7 @@
 02C4: Modifier Letter Up Arrowhead
 02C5: Modifier Letter Down Arrowhead
 02C6: Modifier Letter Circumflex Accent
-02C7: Caron : hacek
+02C7: Caron: hacek
 02C8: Modifier Letter Vertical Line
 02C9: Modifier Letter Macron
 02CA: Modifier Letter Acute Accent

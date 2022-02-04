@@ -1,13 +1,29 @@
+alt-code: Código Alt
+emoji_subgroup: Subcategoría de Emoji
+name: Nombre
+symbol: Símbolo
+html_code: Código HTML
 entity: Entidad
-your-browser: Su navegador
-font-view: Inscripción del caracter en diferentes tipos de letra
-char-desc: Descripción caracteres
-unicode-number: Número Unicode
+your-browser: Tu navegador
+font-view: Inscripción de carácter en diferentes tipos de letra
+char-desc: Significado de símbolo
+emoji-desc: Significado de Emoji
+ideograph-desc: Significado de ideógrafo
+unicode-name: Nombre en Unicode
+unicode-number: Número en Unicode
 html-code: Código <span class="caps">HTML</span>
+css-code: Código CSS
 uppercase: Mayúsculas
 lowercase: Minúsculas
 encoding: Codificación
+related: Símbolos relacionados
+tech-info: Información técnica
 copy: Copia y pega el símbolo
-copy_button: Dupdo
-copy_done: Copiado!
-version: Versión Unicode
+copy-code: Haz clic para copiar
+copy_button: Copiar
+copy_done: Copiado
+version: Versión de Unicode
+sets-with-this-symbol: Conjuntos con este símbolo
+empty-symbol: Indefinido en Unicode
+emoji_version: Versión de Emoji
+emoji_group: Categoría de Emoji

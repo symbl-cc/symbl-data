@@ -78,16 +78,16 @@
 2B4D: Seta em zigue-zague com ponta triangular
 2B4E: Seta Norte Curta e Inclinada
 2B4F: Flecha Sul Rebaixada Curta
-2B50: Estrela Média Branca : Estrela amarela
+2B50: Estrela Média Branca: Estrela amarela
 2B51: Estrela Pequena Preta
 2B52: Estrela pequena branca
 2B53: Pentágono negro de direita
 2B54: Pentágono Branco de Direção
-2B55: Círculo Grande Pesado : Símbolo básico para limite de velocidade, correto, círculo vermelho, marca de círculo
-2B56: Oval pesado com interior oval : escritório da prefeitura
-2B57: Círculo pesado com círculo dentro : Escritório municipal
-2B58: Círculo Pesado : escritório da cidade ou vila
-2B59: Saltire Circulado Pesado : Delegacia de polícia
+2B55: Círculo Grande Pesado: Símbolo básico para limite de velocidade, correto, círculo vermelho, marca de círculo
+2B56: Oval pesado com interior oval: escritório da prefeitura
+2B57: Círculo pesado com círculo dentro: Escritório municipal
+2B58: Círculo Pesado: escritório da cidade ou vila
+2B59: Saltire Circulado Pesado: Delegacia de polícia
 2B5A: Flecha Norte Inclinada com Cabeça Viciada
 2B5B: Flecha Sul Traseira com Cauda Viciada
 2B5C: Seta norte inclinada com cauda horizontal
@@ -110,20 +110,20 @@
 2B6D: Seta para baixo com cabeça triangular
 2B6E: Seta de círculo aberto com direção triangular no sentido horário
 2B6F: Seta de círculo aberto com cabeça triangular e direção anti-horária
-2B70: Seta Para A Frente De Triângulo Para A Barra : aba esquerda
-2B71: Para cima seta de cabeça triangular para bar : guia para cima
-2B72: Seta para a direita para a direita : aba direita
-2B73: Seta Triângulo Para Baixo Para Bar : aba para baixo
+2B70: Seta Para A Frente De Triângulo Para A Barra: aba esquerda
+2B71: Para cima seta de cabeça triangular para bar: guia para cima
+2B72: Seta para a direita para a direita: aba direita
+2B73: Seta Triângulo Para Baixo Para Bar: aba para baixo
 2B74:
 2B75:
-2B76: Seta para o Norte, Triângulo-Para-Direita Para Bar : casa
+2B76: Seta para o Norte, Triângulo-Para-Direita Para Bar: casa
 2B77: Seta Triângulo-Para Leste Do Nordeste Para A Barra
-2B78: Seta para o Sudeste de cabeça triangular para bar : fim
+2B78: Seta para o Sudeste de cabeça triangular para bar: fim
 2B79: Seta para o Sul-Triangular Para Bar
 2B7A: Seta de cabeça triangular para a esquerda com traçado horizontal duplo
-2B7B: Seta triangular para cima com curso horizontal duplo : subir página
+2B7B: Seta triangular para cima com curso horizontal duplo: subir página
 2B7C: Seta para a direita, de cabeça triangular, com traçado horizontal duplo
-2B7D: Seta triangular para baixo com curso horizontal duplo : página para baixo
+2B7D: Seta triangular para baixo com curso horizontal duplo: página para baixo
 2B7E: Tecla de tabulação horizontal
 2B7F: Chave de tabulação vertical
 2B80: Esquerda Seta Para Direita Triângulo Para Direita Seta Para Direita Triângulo
@@ -146,10 +146,10 @@
 2B91: Retornar à direita
 2B92: Newline saiu
 2B93: Newline Right
-2B94: Quatro setas de canto circulando no sentido anti-horário : laço
+2B94: Quatro setas de canto circulando no sentido anti-horário: laço
 2B95: Seta preta para a direita
 2B96:
-2B97:
+2B97: Símbolo para eletrônicos do tipo A
 2B98: Seta de ponta tridimensional esquerda superior iluminada
 2B99: Flecha Equilateral Ascendente à Direita Tri-D Direita
 2B9A: Seta de ponta tridimensional direita para cima
@@ -182,8 +182,8 @@
 2BB5: Seta da fita para cima
 2BB6: Seta da fita para baixo
 2BB7: Flecha de fita para baixo
-2BB8: Seta Branca para Cima da Barra com Barra Horizontal : Caps Lock
-2BB9: Acima da seta em uma caixa retangular : escapar
+2BB8: Seta Branca para Cima da Barra com Barra Horizontal: Caps Lock
+2BB9: Acima da seta em uma caixa retangular: escapar
 2BBA: Quadrados brancos sobrepostos
 2BBB: Quadrados brancos e pretos sobrepostos
 2BBC: Quadrados negros sobrepostos
@@ -199,7 +199,7 @@
 2BC6: Triângulo de Down-Pointing médio preto centrado
 2BC7: Triângulo Negro de Médio Esquerdo Médio Centrado
 2BC8: Preto Médio Direita Triângulo Centrado
-2BC9:
+2BC9: Netuno forma dois
 2BCA: Círculo Metade Preto
 2BCB: Círculo Metade Negra Inferior
 2BCC: Cúspide de luz negra de quatro pontas
@@ -207,7 +207,7 @@
 2BCE: Cúspide de quatro pontas brancas
 2BCF: Cúspide de quatro pontas branca girada
 2BD0: Indicador de posição quadrada
-2BD1: Sinal de incerteza : inquerir
+2BD1: Sinal de incerteza: inquerir
 2BD2: Marca do Grupo
 2BD3: Pluto Form Two
 2BD4: Pluto Forma Três
@@ -234,10 +234,10 @@
 2BE9: Meia Estrela Negra
 2BEA: Estrela com metade esquerda preta
 2BEB: Estrela com direito Meio preto
-2BEC: Seta para a esquerda de duas cabeças com pontas de flechas triplas : cursor rápido à esquerda
-2BED: Seta de duas cabeças para cima com pontas de flechas de Tringle : cursor rápido para cima
-2BEE: Para a direita seta de duas cabeças com pontas de flechas tringle : cursor rápido à direita
-2BEF: Seta para baixo de duas cabeças com pontas de flechas : cursor rápido para baixo
+2BEC: Seta para a esquerda de duas cabeças com pontas de flechas triplas: cursor rápido à esquerda
+2BED: Seta de duas cabeças para cima com pontas de flechas de Tringle: cursor rápido para cima
+2BEE: Para a direita seta de duas cabeças com pontas de flechas tringle: cursor rápido à direita
+2BEF: Seta para baixo de duas cabeças com pontas de flechas: cursor rápido para baixo
 2BF0: Eris Form One
 2BF1: Eris Form Two
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: Símbolo Duplicado
 2BFD: Símbolo passado
 2BFE: Ângulo reto invertido
-2BFF:
+2BFF: Símbolo de pausa Hellschreiber

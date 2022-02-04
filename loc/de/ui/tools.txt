@@ -1,15 +1,18 @@
 : Werkzeuge
 
-[encoder]: HTML-Kodierungswerkzeug
+toolsListTitle: Versuchen Sie auch andere Werkzeuge
+
+[encoder]: HTML-Encoder
 
 desc: Symbole in HTML-Code umwandeln, oder umgekehrt
 plain: Einfacher Text
-full: Alles
-# @todo text
+full: HTML
+text: HTML und Text
 entities: HTML-Entsprechungen verwenden, falls vorhanden
 br: Zeilenumbrüche beachten
+result: Ergebnis
 
-[decoder]: Unicode-Kodierungswerkzeug
+[decoder]: Unicode-Decoder
 
 desc: Symbole in Unicode-Codepoints umwandeln, oder umgekehrt
 example: Dies ist ein Beispieltext für Unicode-Kodierung
@@ -22,6 +25,9 @@ desc: Lateinische Symbole unter Verwendung von kyrillischen Symbolen umgekehrt d
 plain: Einfacher Text
 flipped: Kopfüber
 backed: Rückwärts
+result: Ergebnis
+example: dies ist ein beispieltext für unicode-kodierung
+exampleFlip: ƃunɹǝıpoʞ-ǝpoɔıun ɹüɟ ʇxǝʇlǝıdsıǝq uıǝ ʇsı sǝıp
 
 [generator]: Unicode-Zeichentabellengenerator
 
@@ -32,3 +38,100 @@ info: Verfügbar: {symbol}, {dec}, {hex}, {html}
 generate: Generieren
 result: Ergebnis
 
+[strikethrough-text]: Durchgestrichen text
+
+h1: Durchgestrichen text
+desc: Durchgestrichen schreiben
+text: Text
+example: Dies ist ein Beispieltext für Unicode-Kodierung
+
+strikethroughText: Durchgestrichen text
+crossed: Unterstreichen text
+dotted: Gepunktete Linie
+slash: Schrägstrich
+doubleunderline: Doppelte Unterstreichung
+waveline: Wellenlinie
+ciphertext: Geheimtext
+fullyshaded: Übermalt text
+strikethroughSlash: Hoher Schrägstrich 
+
+[register-converter]: Text-Konverter
+h1: Text-Konverter
+desc: Wandelt jeden Buchstaben innerhalb eines Wortes um
+text: Text
+example: Dies ist ein Beispieltext für Unicode-Kodierung
+
+uppercase: GROSSBUCHSTABEN
+lowercase: kleinbuchstaben
+inversioncase: kLEIN-/gROẞSCHREIBUNG uMKEHREN
+randomcase: ZUfälligE BuChstABEn
+alternatingcase : AlTeRnIeReNdEr BuChStAbEn
+capitalizedcase: Erster Buchstabe Großgeschrieben
+
+[word-counter]: Zeichenzähler
+h1: Zeichenzähler
+desc: Zählen der Anzahl der Zeichen im Text
+
+placeholder: Insert text ...
+symbols: Gesamtzahl der Zeichen
+without-spaces: Ohne Leertaste
+no-punctuation-marks: Keine Satzzeichen
+words: Gesamtzahl Wörter
+average-amount: Durchschnittliche Anzahl von Wörtern in einem Satz
+long-word: Das längste Wort
+
+[braille]: Blindenschrift Übersetzer
+h1: Blindenschrift Übersetzer
+desc: Text in Braille konvertieren
+
+[gothic]: Konvertieren von Text in einen gotischen Stil
+h1: Konvertieren von Text in einen gotischen Stil
+desc: Text in gotischer Schrift schreiben
+
+text: Text (latein)
+example: Gothic
+regularText: Gotisch
+boldText: Gotisch bold
+
+result: Ergebnis
+
+[morse]: Text-zu-Morse-Code-Konverter
+h1: Text-zu-Morse-Code-Konverter
+desc: Konvertiert Text und decodiert Morse-Code
+
+example: Dies ist ein Beispieltext für Unicode-Kodierung
+code: Morse-Code
+latin: Latein
+numbers: Zahlen
+punctuation: Interpunktion
+
+titleAlphabet: Morse-Code-Alphabet
+
+result: Ergebnis
+
+[password-generator]: Passwort Generator
+h1: Passwort Generator
+desc: Wie generiert man ein sicheres passwort
+
+uppercase: Großbuchstabe (A-Z)
+lowercase: Kleinbuchstaben (a-z)
+numbers: Zahlen (0-9)
+special: Sondersymbole (!@#$%^&*)
+
+maxLength: Symbole (4-99)
+generate: Generieren
+warning: Wählen Sie mindestens einen Zeichensatz aus, um Ihr Passwort zu generieren
+
+[text-to-symbols]: Text aus Zeichen
+h1: Text aus Zeichen
+desc: Schreiben Sie Text aus Zeichen
+
+text: Text (Latein)
+example: Beispiel
+
+blank: Leere Buchstaben
+filled: Gemalte Buchstaben
+background: Buchstaben mit Hintergrund
+symbol-dolar: Buchstaben aus dem Symbol $
+symbol-lattice: Buchstaben aus dem Symbol #
+symbol-paragraph: Buchstaben aus dem Symbol ¶

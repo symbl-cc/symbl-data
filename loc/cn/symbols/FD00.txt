@@ -206,38 +206,38 @@ FDCC :
 FDCD : 
 FDCE : 
 FDCF : 
-FDD0 : 
-FDD1 : 
-FDD2 : 
-FDD3 : 
-FDD4 : 
-FDD5 : 
-FDD6 : 
-FDD7 : 
-FDD8 : 
-FDD9 : 
-FDDA : 
-FDDB : 
-FDDC : 
-FDDD : 
-FDDE : 
-FDDF : 
-FDE0 : 
-FDE1 : 
-FDE2 : 
-FDE3 : 
-FDE4 : 
-FDE5 : 
-FDE6 : 
-FDE7 : 
-FDE8 : 
-FDE9 : 
-FDEA : 
-FDEB : 
-FDEC : 
-FDED : 
-FDEE : 
-FDEF : 
+FDD0 : <不是符号>
+FDD1 : <不是符号>
+FDD2 : <不是符号>
+FDD3 : <不是符号>
+FDD4 : <不是符号>
+FDD5 : <不是符号>
+FDD6 : <不是符号>
+FDD7 : <不是符号>
+FDD8 : <不是符号>
+FDD9 : <不是符号>
+FDDA : <不是符号>
+FDDB : <不是符号>
+FDDC : <不是符号>
+FDDD : <不是符号>
+FDDE : <不是符号>
+FDDF : <不是符号>
+FDE0 : <不是符号>
+FDE1 : <不是符号>
+FDE2 : <不是符号>
+FDE3 : <不是符号>
+FDE4 : <不是符号>
+FDE5 : <不是符号>
+FDE6 : <不是符号>
+FDE7 : <不是符号>
+FDE8 : <不是符号>
+FDE9 : <不是符号>
+FDEA : <不是符号>
+FDEB : <不是符号>
+FDEC : <不是符号>
+FDED : <不是符号>
+FDEE : <不是符号>
+FDEF : <不是符号>
 FDF0 : 阿拉伯文连字 Salla 用于可兰经的句号标记独立形式
 FDF1 : 阿拉伯文连字 Qala 用于可兰经的句号标记独立形式
 FDF2 : 阿拉伯文连字 Allah 独立形式
@@ -253,4 +253,4 @@ FDFB : 阿拉伯文连字 Jallajalalouhou
 FDFC : 里亚尔符号
 FDFD : 阿拉伯文连字 Bismillah Ar-Rahman Ar-Raheem
 FDFE : 
-FDFF : 
+FDFF : 

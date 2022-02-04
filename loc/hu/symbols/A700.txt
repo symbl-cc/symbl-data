@@ -141,10 +141,10 @@ A78B: Latin nagybetű Saltillo
 A78C: Latin kis betű Saltillo
 A78D: Latin nagybetű Turned H
 A78E: Latin kis betű L with Retroflex Hook and Belt
-A78F:
+A78F: Latin kis betű szinológiai pont
 A790: Latin nagybetű N with Descender
 A791: Latin kis betű N with Descender
-A792: Latin nagybetű C with Bar : cambrian symbol
+A792: Latin nagybetű C with Bar: cambrian symbol
 A793: Latin kis betű C with Bar
 A794: Latin kis betű C with Palatal Hook
 A795: Latin kis betű H with Palatal Hook
@@ -172,35 +172,35 @@ A7AA: Latin nagybetű H with Hook
 A7AB: Latin nagybetű Reversed Open E
 A7AC: Latin nagybetű Script G
 A7AD: Latin nagybetű L with Belt
-A7AE:
-A7AF:
-A7B0: Latin nagybetű Turned K
-A7B1: Latin nagybetű Turned T
-A7B2:
-A7B3:
-A7B4:
-A7B5:
-A7B6:
-A7B7:
-A7B8:
-A7B9:
-A7BA:
-A7BB:
-A7BC:
-A7BD:
-A7BE:
-A7BF:
-A7C0:
-A7C1:
-A7C2:
-A7C3:
-A7C4:
-A7C5:
-A7C6:
-A7C7:
-A7C8:
-A7C9:
-A7CA:
+A7AE: Latin nagybetűs kisbetű i
+A7AF: Latin betűs kisbetűs q
+A7B0: A latin nagybetű k-re fordult
+A7B1: Latin nagybetű fordítva t
+A7B2: Latin nagybetű j keresztezett farokkal
+A7B3: Latin nagybetűs chi
+A7B4: Latin nagybetűs béta
+A7B5: Latin kisbetűs béta
+A7B6: Latin nagybetűvel omega
+A7B7: Latin kisbetűs omega
+A7B8: Latin nagybetű u -val körvonallal
+A7B9: Latin kisbetű u, körvonallal
+A7BA: Latin nagybetűs glottal a
+A7BB: Latin kisbetűs glottal a
+A7BC: Latin nagybetűs glottal i
+A7BD: Latin kisbetűs glottal i
+A7BE: Latin nagybetűs glottal u
+A7BF: Latin kisbetűs glottal u
+A7C0: 
+A7C1: 
+A7C2: Latin nagybetű anglicana w
+A7C3: Latin kisbetűs anglicana w
+A7C4: Latin nagybetű c gombos horoggal
+A7C5: Latin nagybetű s horoggal
+A7C6: Latin latin nagybetű z gombbal
+A7C7: Latin nagybetű d rövid vonallal ellátott overlay-vel
+A7C8: Latin kisbetű d rövid vonalú overlay-vel
+A7C9: Latin nagybetűs s rövid vonalú átfedéssel
+A7CA: Latin kisbetűs s rövid vonallal ellátott overlay-vel
 A7CB:
 A7CC:
 A7CD:
@@ -243,8 +243,8 @@ A7F1:
 A7F2:
 A7F3:
 A7F4:
-A7F5:
-A7F6:
+A7F5: A latin nagybetű H fél órát fordított
+A7F6: A latin kicsi betű H megfordult fél órával
 A7F7: Latin Epigraphic betű Sideways I
 A7F8: Modifier betű Capital H with Stroke
 A7F9: Modifier betű Small Ligature Oe

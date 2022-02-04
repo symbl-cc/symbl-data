@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Gegabelte Paragraphos
 2E11: Umgekehrte gegabelte Paragraphos
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Gepunktete Obelos
 2E14: Abwärts Ancora
 2E15: Aufwärts Ancora
-2E16: Gepunkteter nach rechts zeigender Winkel : dreifach periestigmene
+2E16: Gepunkteter nach rechts zeigender Winkel: dreifach periestigmene
 2E17: Doppelter schiefer Bindestrich
-2E18: Invertiertes Interrobang : Gnaborretni
+2E18: Invertiertes Interrobang: Gnaborretni
 2E19: Palmenzweig
 2E1A: Bindestrich mit Diaeresis
 2E1B: Tilde mit Ring darüber
@@ -44,7 +44,7 @@
 2E2B: Ein Punkt über zwei Punkte Interpunktion
 2E2C: Quadratische Vierpunkt-Interpunktion
 2E2D: Fünf Punktmarkierung
-2E2E: Umgekehrtes Fragezeichen : punctus percontativus : Ironie, Sarkasmus
+2E2E: Umgekehrtes Fragezeichen: punctus percontativus , Ironie, Sarkasmus
 2E2F: Vertikale Tilde
 2E30: Ringpunkt
 2E31: Wortseparator mittlerer Punkt
@@ -56,7 +56,7 @@
 2E37: Dolch mit rechter Wache
 2E38: Gedrehter Dolch
 2E39: Top Half Section-Zeichen
-2E3A: Zwei-Em-Dash : Unterlassungsstrich
+2E3A: Zwei-Em-Dash: Unterlassungsstrich
 2E3B: Drei-Em-Dash
 2E3C: Stenographischer Punkt
 2E3D: Vertikale sechs Punkte
@@ -77,10 +77,10 @@
 2E4C: Mittelalterliches Komma
 2E4D: Paragraphus Mark
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Cornish Versteiler
+2E50: Kreuzpastetchen mit rechter Querlatte
+2E51: Kreuzpastetchen mit linker Querlatte
+2E52: Tironian Zeichen Hauptstadt Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

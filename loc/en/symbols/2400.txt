@@ -67,11 +67,11 @@
 2442: Ocr Fork
 2443: Ocr Inverted Fork
 2444: Ocr Belt Buckle
-2445: Ocr Bow Tie : unique asterisk
-2446: Ocr Branch Bank Identification : transit
-2447: Ocr Amount of Check : amount
-2448: Ocr Dash : on us
-2449: Ocr Customer Account Number : dash
+2445: Ocr Bow Tie: unique asterisk
+2446: Ocr Branch Bank Identification: transit
+2447: Ocr Amount of Check: amount
+2448: Ocr Dash: on us
+2449: Ocr Customer Account Number: dash
 244A: Ocr Double Backslash
 244B:
 244C:
@@ -192,7 +192,7 @@
 24BF: Circled Latin Capital Letter J
 24C0: Circled Latin Capital Letter K
 24C1: Circled Latin Capital Letter L
-24C2: Circled Latin Capital Letter M
+24C2: Circled Latin Capital Letter M : subway, underground,  tube,  metro,  bahn
 24C3: Circled Latin Capital Letter N
 24C4: Circled Latin Capital Letter O
 24C5: Circled Latin Capital Letter P
@@ -211,7 +211,7 @@
 24D2: Circled Latin Small Letter C
 24D3: Circled Latin Small Letter D
 24D4: Circled Latin Small Letter E
-24D5: Circled Latin Small Letter F
+24D5: Circled Latin Small Letter F: facebook
 24D6: Circled Latin Small Letter G
 24D7: Circled Latin Small Letter H
 24D8: Circled Latin Small Letter I
@@ -253,4 +253,4 @@
 24FC: Double Circled Digit Eight
 24FD: Double Circled Digit Nine
 24FE: Double Circled Number Ten
-24FF: Negative Circled Digit Zero
+24FF: Negative Circled Digit Zero

@@ -52,7 +52,7 @@
 1C33: Lepcha-Konsonantenzeichen T
 1C34: Lepcha-Konsonantenzeichen Nyin-Do
 1C35: Lepcha-Konsonantenzeichen Kang
-1C36: Lepcha Sign Ran
+1C36: Lepcha Zeichen Ran
 1C37: Lepcha-Zeichen Nukta
 1C38:
 1C39:
@@ -187,7 +187,7 @@
 1CBA: Georgischer Mtavruli Großbuchstabe Ain
 1CBD: Georgischer Mtavruli Großbuchstabe Aen
 1CBE: Georgisches Mtavruli-Großbuchstabe-hartes Zeichen
-1CBF: Georgisches Mtavruli Großbuchstabe Labial Sign
+1CBF: Georgisches Mtavruli Großbuchstabe Labial Zeichen
 1CC0: Sundanesische Interpunktion Bindu Surya
 1CC1: Sundanesische Interpunktion Bindu Panglong
 1CC2: Sundanesische Interpunktion Bindu Purnama
@@ -204,51 +204,51 @@
 1CCD:
 1CCE:
 1CCF:
-1CD0: Vedischer Ton Karshana : Vaidika Saamasvara Karshanna
-1CD1: Vedischer Ton Shara : Vaidika Svarita Uurdhva Shara
-1CD2: Vedischer Ton Prenkha : Vaidika Saamasvara Prenkha
-1CD3: Vedisches Zeichen Nihshvasa : Vaidika Saamagaana Yogakaala
-1CD4: Vedic Sign Yajurvedic Midline Svarita
-1CD5: Vedischer Ton Yajurvedic verschlimmerte den unabhängigen Svarita : vaidika svarita adho nyubja
-1CD6: Vedischer Ton Yajurvedic Unabhängiger Svarita : Vaidika Svarita Adhah Konna
-1CD7: Vedischer Ton Yajurvedic Kathaka Unabhängiger Svarita : vaidika svarita adho vakra rekhaa
-1CD8: Vedischer Ton Candra unten : vaidika svarita adho'rdha vakra
-1CD9: Vedischer Ton Yajurvedic Kathaka Unabhängige Svarita Schroeder : Vaidika Svarita Adhah Samyukta Rekhaa
-1CDA: Vedic Tone Double Svarita : vaidika svarita uurdhva dvi rekhaa
-1CDB: Vedischer Ton Triple Svarita : vaidika svarita uurdhva tri rekhaa
-1CDC: Vedischer Ton Kathaka Anudatta : Vaidika Svarita Adho Rekhaa
-1CDD: Vedischer Tonpunkt unten : vaidika svarita adho bindu
-1CDE: Vedischer Ton Zwei Punkte unten : vaidika svarita adho dvi bindu
-1CDF: Vedischer Ton Drei Punkte unten : vaidika svarita adhas tri bindu
-1CE0: Vedischer Ton Rigvedic Kashmiri Independent Svarita : vaidika uurdhva vakra rekhaa
-1CE1: Vedischer Ton Atharvavedic Unabhängiger Svarita : Vaidika Svarita Dvi Vakra Khannda
-1CE2: Vedisches Zeichen Visarga Svarita : Vaidika Madhyarekhaa
-1CE3: Vedisches Zeichen Visarga Udatta : vaidika visarga dakshinnatah uurdhvaga
-1CE4: Vedisches Zeichen umgekehrtes Visarga Udatta : vaidika visarga vaamatah uurdhvaga
-1CE5: Vedisches Zeichen Visarga Anudatta : vaidika visarga vaamatah adhoga
-1CE6: Vedisches Zeichen umgekehrte Visarga Anudatta : Vaidika Visarga Dakshinnatah Adhoga
-1CE7: Vedic Sign Visarga Udatta mit Schwanz : vaidika visarga dakshinnatah uurdhva vakra
-1CE8: Vedic Sign Visarga Anudatta mit Schwanz : vaidika visarga vaamatah adho vakra
-1CE9: Vedisches Zeichen Anusvara Antargomukha : Vaidika Anusvaara Antarmukha
-1CEA: Vedisches Zeichen Anusvara Bahirgomukha : Vaidika Anusvaara Naagaphanna
-1CEB: Vedisches Zeichen Anusvara Vamagomukha : Vaidika Anusvaara Vaamagomukha
-1CEC: Vedic Zeichen Anusvara Vamagomukha mit Schwanz : vaidika anusvaara vaamagomukha sa-vakra
-1CED: Vedisches Zeichen Tiryak : Vaidika Tiryak
-1CEE: Vedic Zeichen Hexiform Long Anusvara : vaidika anusvaara anugaamii
-1CEF: Vedisches Zeichen langes Anusvara : Vaidika Anusvaara Dakshinnamukha
-1CF0: Vedisches Zeichen Rthang Long Anusvara : vaidika anusvaara ttha-sadrisha
-1CF1: Vedisches Zeichen Anusvara Ubhayato Mukha : vaidika anusvaara ubhayato mukha
-1CF2: Vedisches Zeichen Ardhavisarga : vaidika jihvaamuuliiya upadhmaaniiya
+1CD0: Vedischer Ton Karshana: Vaidika Saamasvara Karshanna
+1CD1: Vedischer Ton Shara: Vaidika Svarita Uurdhva Shara
+1CD2: Vedischer Ton Prenkha: Vaidika Saamasvara Prenkha
+1CD3: Vedisches Zeichen Nihshvasa: Vaidika Saamagaana Yogakaala
+1CD4: Vedisches Zeichen YajurVedisches Midline Svarita
+1CD5: Vedischer Ton YajurVedisches verschlimmerte den unabhängigen Svarita: vaidika svarita adho nyubja
+1CD6: Vedischer Ton YajurVedisches Unabhängiger Svarita: Vaidika Svarita Adhah Konna
+1CD7: Vedischer Ton YajurVedisches Kathaka Unabhängiger Svarita: vaidika svarita adho vakra rekhaa
+1CD8: Vedischer Ton Candra unten: vaidika svarita adho'rdha vakra
+1CD9: Vedischer Ton YajurVedisches Kathaka Unabhängige Svarita Schroeder: Vaidika Svarita Adhah Samyukta Rekhaa
+1CDA: Vedisches Tone Double Svarita: vaidika svarita uurdhva dvi rekhaa
+1CDB: Vedischer Ton Triple Svarita: vaidika svarita uurdhva tri rekhaa
+1CDC: Vedischer Ton Kathaka Anudatta: Vaidika Svarita Adho Rekhaa
+1CDD: Vedischer Tonpunkt unten: vaidika svarita adho bindu
+1CDE: Vedischer Ton Zwei Punkte unten: vaidika svarita adho dvi bindu
+1CDF: Vedischer Ton Drei Punkte unten: vaidika svarita adhas tri bindu
+1CE0: Vedischer Ton RigVedisches Kashmiri Independent Svarita: vaidika uurdhva vakra rekhaa
+1CE1: Vedischer Ton AtharvaVedisches Unabhängiger Svarita: Vaidika Svarita Dvi Vakra Khannda
+1CE2: Vedisches Zeichen Visarga Svarita: Vaidika Madhyarekhaa
+1CE3: Vedisches Zeichen Visarga Udatta: vaidika visarga dakshinnatah uurdhvaga
+1CE4: Vedisches Zeichen umgekehrtes Visarga Udatta: vaidika visarga vaamatah uurdhvaga
+1CE5: Vedisches Zeichen Visarga Anudatta: vaidika visarga vaamatah adhoga
+1CE6: Vedisches Zeichen umgekehrte Visarga Anudatta: Vaidika Visarga Dakshinnatah Adhoga
+1CE7: Vedisches Zeichen Visarga Udatta mit Schwanz: vaidika visarga dakshinnatah uurdhva vakra
+1CE8: Vedisches Zeichen Visarga Anudatta mit Schwanz: vaidika visarga vaamatah adho vakra
+1CE9: Vedisches Zeichen Anusvara Antargomukha: Vaidika Anusvaara Antarmukha
+1CEA: Vedisches Zeichen Anusvara Bahirgomukha: Vaidika Anusvaara Naagaphanna
+1CEB: Vedisches Zeichen Anusvara Vamagomukha: Vaidika Anusvaara Vaamagomukha
+1CEC: Vedisches Zeichen Anusvara Vamagomukha mit Schwanz: vaidika anusvaara vaamagomukha sa-vakra
+1CED: Vedisches Zeichen Tiryak: Vaidika Tiryak
+1CEE: Vedisches Zeichen Hexiform Long Anusvara: vaidika anusvaara anugaamii
+1CEF: Vedisches Zeichen langes Anusvara: Vaidika Anusvaara Dakshinnamukha
+1CF0: Vedisches Zeichen Rthang Long Anusvara: vaidika anusvaara ttha-sadrisha
+1CF1: Vedisches Zeichen Anusvara Ubhayato Mukha: vaidika anusvaara ubhayato mukha
+1CF2: Vedisches Zeichen Ardhavisarga: vaidika jihvaamuuliiya upadhmaaniiya
 1CF3: Vedisches Zeichen drehte Ardhavisarga
 1CF4: Vedischer Ton Candra oben
 1CF5: Vedisches Zeichen Jihvamuliya
 1CF6: Vedisches Zeichen Upadhmaniya
-1CF7: Vedisches Zeichen Atikrama : Vaidika Saamagaana Atikrama
+1CF7: Vedisches Zeichen Atikrama: Vaidika Saamagaana Atikrama
 1CF8: Vedischer Tonring oben
 1CF9: Vedischer Ton Doppelring oben
-1CFA:
+1CFA: Vedischer Zeichen doppelt Anusvara Antargomukha
 1CFB:
 1CFC:
 1CFD:
 1CFE:
-1CFF:
+1CFF:

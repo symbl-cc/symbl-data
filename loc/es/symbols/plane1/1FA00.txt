@@ -1,87 +1,87 @@
-1FA00:
-1FA01:
-1FA02:
-1FA03:
-1FA04:
-1FA05:
-1FA06:
-1FA07:
-1FA08:
-1FA09:
-1FA0A:
-1FA0B:
-1FA0C:
-1FA0D:
-1FA0E:
-1FA0F:
-1FA10:
-1FA11:
-1FA12:
-1FA13:
-1FA14:
-1FA15:
-1FA16:
-1FA17:
-1FA18:
-1FA19:
-1FA1A:
-1FA1B:
-1FA1C:
-1FA1D:
-1FA1E:
-1FA1F:
-1FA20:
-1FA21:
-1FA22:
-1FA23:
-1FA24:
-1FA25:
-1FA26:
-1FA27:
-1FA28:
-1FA29:
-1FA2A:
-1FA2B:
-1FA2C:
-1FA2D:
-1FA2E:
-1FA2F:
-1FA30:
-1FA31:
-1FA32:
-1FA33:
-1FA34:
-1FA35:
-1FA36:
-1FA37:
-1FA38:
-1FA39:
-1FA3A:
-1FA3B:
-1FA3C:
-1FA3D:
-1FA3E:
-1FA3F:
-1FA40:
-1FA41:
-1FA42:
-1FA43:
-1FA44:
-1FA45:
-1FA46:
-1FA47:
-1FA48:
-1FA49:
-1FA4A:
-1FA4B:
-1FA4C:
-1FA4D:
-1FA4E:
-1FA4F:
-1FA50:
-1FA51:
-1FA52:
-1FA53:
+1FA00: Rey neutral del ajedrez
+1FA01: Reina de ajedrez neutral
+1FA02: Torre de ajedrez neutral
+1FA03: Obispo de ajedrez neutral
+1FA04: Caballero de ajedrez neutral
+1FA05: Peón de ajedrez neutral
+1FA06: Caballero de ajedrez blanco girado cuarenta y cinco grados
+1FA07: Caballero de ajedrez negro girado cuarenta y cinco grados
+1FA08: Caballero de ajedrez neutral girado cuarenta y cinco grados
+1FA09: El rey blanco del ajedrez giró noventa grados
+1FA0A: La reina blanca del ajedrez giró noventa grados
+1FA0B: Torre de ajedrez blanca girada noventa grados
+1FA0C: Obispo de ajedrez blanco rotó noventa grados
+1FA0D: Caballero de ajedrez blanco girado noventa grados
+1FA0E: Peón de ajedrez blanco girado noventa grados
+1FA0F: Rey del ajedrez negro rotó noventa grados
+1FA10: Reina de ajedrez negra rotada noventa grados
+1FA11: Torre de ajedrez negro girada noventa grados
+1FA12: Obispo de ajedrez negro rotó noventa grados
+1FA13: Caballero de ajedrez negro girado noventa grados
+1FA14: Peón de ajedrez negro girado noventa grados
+1FA15: El rey del ajedrez neutral giró noventa grados
+1FA16: Reina de ajedrez neutral rotada noventa grados
+1FA17: Torre de ajedrez neutral girada noventa grados
+1FA18: Obispo de ajedrez neutral rotó noventa grados
+1FA19: Caballero de ajedrez neutral girado noventa grados
+1FA1A: Peón de ajedrez neutral girado noventa grados
+1FA1B: Caballero de ajedrez blanco rotó ciento treinta y cinco grados
+1FA1C: Caballero de ajedrez negro rotó ciento treinta y cinco grados
+1FA1D: Caballero de ajedrez neutral girado ciento treinta y cinco grados
+1FA1E: Ajedrez blanco convertido en rey
+1FA1F: Ajedrez blanco convertido en reina
+1FA20: Ajedrez blanco convertido en torre
+1FA21: Ajedrez blanco convertido en obispo
+1FA22: Ajedrez blanco convertido en caballero
+1FA23: Ajedrez blanco convertido en peón
+1FA24: Ajedrez negro convertido en rey
+1FA25: Ajedrez negro convertido en reina
+1FA26: El ajedrez negro se convirtió en torre
+1FA27: Ajedrez negro convertido en obispo
+1FA28: Ajedrez negro convertido en caballero
+1FA29: Ajedrez negro convertido en peón
+1FA2A: Ajedrez neutral convertido en rey
+1FA2B: Ajedrez neutral convertido en reina
+1FA2C: Ajedrez neutral convertido en torre
+1FA2D: Ajedrez neutral convertido en obispo
+1FA2E: Ajedrez neutral convertido en caballero
+1FA2F: Ajedrez neutral convertido en peón
+1FA30: Caballero de ajedrez blanco rotó doscientos veinticinco grados
+1FA31: Caballero de ajedrez negro rotó doscientos veinticinco grados
+1FA32: Caballero de ajedrez neutral rotó doscientos veinticinco grados
+1FA33: El rey blanco del ajedrez giró doscientos setenta grados
+1FA34: La reina blanca del ajedrez giró doscientos setenta grados
+1FA35: La torre de ajedrez blanca rotó doscientos setenta grados
+1FA36: Obispo de ajedrez blanco rotó doscientos setenta grados
+1FA37: Caballero de ajedrez blanco girado doscientos setenta grados
+1FA38: Peón de ajedrez blanco girado doscientos setenta grados
+1FA39: Rey del ajedrez negro rotó doscientos setenta grados
+1FA3A: La reina del ajedrez negro rotó doscientos setenta grados
+1FA3B: Torre de ajedrez negro girada doscientos setenta grados
+1FA3C: Obispo de ajedrez negro rotó doscientos setenta grados
+1FA3D: Caballero de ajedrez negro rotó doscientos setenta grados
+1FA3E: Peón de ajedrez negro girado doscientos setenta grados
+1FA3F: El rey neutral del ajedrez giró doscientos setenta grados
+1FA40: Reina de ajedrez neutral rotada doscientos setenta grados
+1FA41: Torre de ajedrez neutral rotada doscientos setenta grados
+1FA42: Obispo de ajedrez neutral rotó doscientos setenta grados
+1FA43: Caballero de ajedrez neutral girado doscientos setenta grados
+1FA44: El peón de ajedrez neutral rotó doscientos setenta grados
+1FA45: Caballero de ajedrez blanco rotó trescientos quince grados
+1FA46: Caballero de ajedrez negro rotó trescientos quince grados
+1FA47: Caballero de ajedrez neutral rotó trescientos quince grados
+1FA48: Equihopper de ajedrez blanco
+1FA49: Equihopper de ajedrez negro
+1FA4A: Ajedrez neutral equihopper
+1FA4B: Ajedrez blanco equihopper rotó noventa grados
+1FA4C: Equihopper de ajedrez negro rotó noventa grados
+1FA4D: Ajedrez neutral equihopper girado noventa grados
+1FA4E: Ajedrez blanco caballero-reina
+1FA4F: Ajedrez blanco caballero
+1FA50: Ajedrez blanco caballero-obispo
+1FA51: Ajedrez negro caballero-reina
+1FA52: Ajedrez negro caballero
+1FA53: Ajedrez negro caballero-obispo
 1FA54:
 1FA55:
 1FA56:
@@ -110,109 +110,109 @@
 1FA6D: Soldado Negro Xiangqi
 1FA6E:
 1FA6F:
-1FA70:
-1FA71:
-1FA72:
-1FA73:
-1FA74:
-1FA75:
-1FA76:
-1FA77:
-1FA78:
-1FA79:
-1FA7A:
-1FA7B:
-1FA7C:
-1FA7D:
-1FA7E:
-1FA7F:
-1FA80:
-1FA81:
-1FA82:
-1FA83:
-1FA84:
-1FA85:
-1FA86:
-1FA87:
-1FA88:
-1FA89:
-1FA8A:
-1FA8B:
-1FA8C:
-1FA8D:
-1FA8E:
-1FA8F:
-1FA90:
-1FA91:
-1FA92:
-1FA93:
-1FA94:
-1FA95:
-1FA96:
-1FA97:
-1FA98:
-1FA99:
-1FA9A:
-1FA9B:
-1FA9C:
-1FA9D:
-1FA9E:
-1FA9F:
-1FAA0:
-1FAA1:
-1FAA2:
-1FAA3:
-1FAA4:
-1FAA5:
-1FAA6:
-1FAA7:
-1FAA8:
-1FAA9:
-1FAAA:
-1FAAB:
-1FAAC:
-1FAAD:
-1FAAE:
-1FAAF:
-1FAB0:
-1FAB1:
-1FAB2:
-1FAB3:
-1FAB4:
-1FAB5:
-1FAB6:
-1FAB7:
-1FAB8:
-1FAB9:
-1FABA:
-1FABB:
-1FABC:
-1FABD:
-1FABE:
-1FABF:
-1FAC0:
-1FAC1:
-1FAC2:
-1FAC3:
-1FAC4:
-1FAC5:
-1FAC6:
-1FAC7:
-1FAC8:
-1FAC9:
-1FACA:
-1FACB:
-1FACC:
-1FACD:
-1FACE:
-1FACF:
-1FAD0:
-1FAD1:
-1FAD2:
-1FAD3:
-1FAD4:
-1FAD5:
-1FAD6:
+1FA70: Zapatillas de ballet
+1FA71: Bañador de una pieza
+1FA72: Bragas
+1FA73: Pantalones cortos
+1FA74: Sandalia de tanga
+1FA75: 
+1FA76: 
+1FA77: 
+1FA78: Gota de sangre
+1FA79: Tirita
+1FA7A: Estetoscopio
+1FA7B: 
+1FA7C: 
+1FA7D: 
+1FA7E: 
+1FA7F: 
+1FA80: Yoyó
+1FA81: Cometa
+1FA82: Paracaídas
+1FA83: Bumerang
+1FA84: varita mágica
+1FA85: Piñata
+1FA86: Muñeca Rusa: símbolo de Rusia
+1FA87: 
+1FA88: 
+1FA89: 
+1FA8A: 
+1FA8B: 
+1FA8C: 
+1FA8D: 
+1FA8E: 
+1FA8F: 
+1FA90: Planeta anillado
+1FA91: Silla
+1FA92: Maquinilla de afeitar
+1FA93: Hacha
+1FA94: Lámpara Diya
+1FA95: Banjo
+1FA96: Casco militar
+1FA97: Acordeón
+1FA98: Tambor largo
+1FA99: Moneda
+1FA9A: Sierra de carpintería
+1FA9B: Destornillador
+1FA9C: Escalera
+1FA9D: Gancho
+1FA9E: Espejo
+1FA9F: Ventana
+1FAA0: Desatascador
+1FAA1: Aguja de coser
+1FAA2: Nudo
+1FAA3: Cubeta
+1FAA4: Trampa para ratones
+1FAA5: Cepillo de dientes
+1FAA6: Lápida mortuoria
+1FAA7: Cartel
+1FAA8: Piedra
+1FAA9: 
+1FAAA: 
+1FAAB: 
+1FAAC: 
+1FAAD: 
+1FAAE: 
+1FAAF: 
+1FAB0: Mosca
+1FAB1: Gusano
+1FAB2: Escarabajo
+1FAB3: Cucaracha
+1FAB4: Planta en maceta
+1FAB5: Madera
+1FAB6: Pluma
+1FAB7: 
+1FAB8: 
+1FAB9: 
+1FABA: 
+1FABB: 
+1FABC: 
+1FABD: 
+1FABE: 
+1FABF: 
+1FAC0: Corazón anatómico
+1FAC1: Livianos
+1FAC2: Gente abrazando
+1FAC3: 
+1FAC4: 
+1FAC5: 
+1FAC6: 
+1FAC7: 
+1FAC8: 
+1FAC9: 
+1FACA: 
+1FACB: 
+1FACC: 
+1FACD: 
+1FACE: 
+1FACF: 
+1FAD0: Arándanos
+1FAD1: Pimiento
+1FAD2: Aceituna
+1FAD3: Pan plano
+1FAD4: Tamal
+1FAD5: Fondue
+1FAD6: Tetera
 1FAD7:
 1FAD8:
 1FAD9:
@@ -253,4 +253,4 @@
 1FAFC:
 1FAFD:
 1FAFE:
-1FAFF:
+1FAFF:

@@ -1,0 +1,2401 @@
+0000-001F: C0-Steuerungen
+0020-002F: ASCII-Interpunktion und Symbole
+0030-0039: ASCII-Ziffern
+003A-0040: ASCII-Interpunktion und Symbole
+0041-005A: Lateinisches Großbuchstaben
+005B-0060: ASCII-Interpunktion und Symbole
+0061-007A: Lateinisches Kleinbuchstaben
+007B-007E: ASCII-Interpunktion und Symbole
+007F-007F: Steuerzeichen
+0080-009F: C1-Steuerungen
+00A0-00BB: Latin-1 Interpunktion und Symbole
+00BC-00BE: Vulgäre Fraktionen
+00BF-00BF: Interpunktion
+00C0-00D6: Briefe
+00D7-00D7: Mathematischer Operator
+00D8-00F6: Briefe
+00F7-00F7: Mathematischer Operator
+00F8-00FF: Briefe
+0100-0148: Europäisches Latein
+0149-0149: Veralteter Brief
+014A-017F: Europäisches Latein
+0180-01BF: Nichteuropäisches und historisches Latein
+01C0-01C3: Afrikanische Buchstaben für Klicks
+01C4-01CC: Lateinische Digraphen mit serbischen kyrillischen Buchstaben
+01CD-01DC: Pinyin diakritisch-Vokal-Kombinationen
+01DD-01FF: Phonetische und historische Buchstaben
+0200-0217: Ergänzungen für Slowenisch und Kroatisch
+0218-021B: Ergänzungen für Rumänisch
+021C-0229: Verschiedene Ergänzungen
+022A-0233: Ergänzungen für Livonian
+0234-0236: Ergänzungen für die Sinologie
+0237-0237: Sonstige Zugabe
+0238-0239: Ergänzungen für die afrikanistische Linguistik
+023A-023E: Ergänzungen für Sencoten
+023F-0240: Ergänzungen für die afrikanistische Linguistik
+0241-024F: Verschiedene Ergänzungen
+0250-02A8: IPA-Erweiterungen
+02A9-02AD: IPA-Zeichen für Sprachstörungen
+02AE-02AF: Ergänzungen für die Sinologie
+02B0-02B8: Lateinische hochgestellte Modifikatorbuchstaben
+02B9-02D7: Verschiedene phonetische Modifikatoren
+02D8-02DD: Abstand Klone von Diakritika
+02DE-02E4: Ergänzungen basierend auf IPA von 1989
+02E5-02E9: Tonbuchstaben
+02EA-02EB: Erweiterte Bopomofo-Tonmarken
+02EC-02ED: IPA-Modifikatoren
+02EE-02EE: Anderer Modifikatorbuchstabe
+02EF-02FF: UPA-Modifikatoren
+0300-0333: Gewöhnliche Diakritika
+0334-0338: Überstrichene Diakritiker
+0339-033F: Verschiedene Ergänzungen
+0340-0341: Vietnamesische Tonmarken
+0342-0345: Ergänzungen für Griechisch
+0346-034A: Ergänzungen für IPA
+034B-034E: IPA-Diakritika bei Sprachstörungen
+034F-034F: Grapheme Tischler
+0350-0357: Ergänzungen für das Uralic Phonetic Alphabet
+0358-035B: Verschiedene Ergänzungen
+035C-0362: Doppelte Diakritika
+0363-036F: Mittelalterliche hochgestellte diakritische Buchstaben
+0370-0373: Archaische Briefe
+0374-0375: Ziffernzeichen
+0376-0377: Archaische Briefe
+037A-037A: Iota-Index
+037B-037D: Kleinbuchstaben der redaktionellen Symbole
+037E-037E: Interpunktion
+037F-037F: Zusätzlicher Brief
+0384-0385: Abstand Akzentzeichen
+0386-0386: Brief
+0387-0387: Interpunktion
+0388-03CE: Briefe
+03CF-03D7: Variantenbriefformen
+03D8-03E1: Archaische Briefe
+03E2-03EF: Von Demotic abgeleitete koptische Buchstaben
+03F0-03F2: Variantenbriefformen
+03F3-03F3: Zusätzlicher Brief
+03F4-03F6: Varianten Buchstabenformen und Symbole
+03F7-03F8: Zusätzliche archaische Briefe für Bactrian
+03F9-03F9: Variante Briefform
+03FA-03FB: Archaische Briefe
+03FC-03FC: Symbol
+03FD-03FF: Redaktionelle Symbole
+0400-040F: Kyrillische Erweiterungen
+0410-044F: Grundlegendes russisches Alphabet
+0450-045F: Kyrillische Erweiterungen
+0460-0477: Historische Briefe
+0478-0479: Historische Digraphen
+047A-0481: Historische Briefe
+0482-0489: Historisches Verschiedenes
+048A-04F9: Erweitertes Kyrillisch
+04FA-04FF: Ergänzungen für Nivkh
+0500-050F: Komi Briefe
+0510-0511: Khanty Briefe
+0512-0513: Chukchi Briefe
+0514-0519: Mordvin Briefe
+051A-051D: Kurdische Briefe
+051E-051F: Aleutenbriefe
+0520-0523: Tschuwaschische Briefe
+0524-0525: Abchasische Briefe
+0526-0527: Aserbaidschanische Briefe
+0528-0529: Orok Briefe
+052A-052D: Komi Briefe
+052E-052F: Khanty Briefe
+0531-0556: Großbuchstaben
+0559-055F: Modifikatorbuchstaben
+0560-0588: Kleinbuchstaben
+0589-058A: Interpunktion
+058D-058E: Religiöse Symbole
+058F-058F: Währungszeichen
+0591-05AF: Cantillationszeichen
+05B0-05C3: Punkte und Interpunktion
+05C4-05C5: Puncta außerordentliche
+05C6-05C7: Punkte und Interpunktion
+05D0-05EA: Basierend auf ISO 8859-8
+05EF-05EF: Schild
+05F0-05F2: Jiddische Digraphen
+05F3-05F4: Zusätzliche Interpunktion
+0600-0604: Subtending Marks
+0605-0605: Supertending Mark
+0606-0607: Radix-Symbole
+0608-0608: Buchstabenartiges Symbol
+0609-060A: Interpunktion
+060B-060B: Währungszeichen
+060C-060D: Interpunktion
+060E-060F: Poetische Zeichen
+0610-0614: Ehrungen
+0615-0615: Koran Annotation Zeichen
+0616-0616: Erweiterte arabische Marke
+0617-061A: Koran Annotation Zeichen
+061B-061B: Interpunktion
+061C-061C: Zeichen formatieren
+061E-061F: Interpunktion
+0620-0620: Ergänzung für Kashmiri
+0621-063A: Basierend auf ISO 8859-6
+063B-063F: Ergänzungen für frühe Perser und Aserbaidschaner
+0640-064A: Basierend auf ISO 8859-6
+064B-0652: Taschkil von ISO 8859-6
+0653-0655: Maddah und Hamza kombinieren
+0656-065F: Andere Kombinationsmarken
+0660-0669: Arabisch-indische Ziffern
+066A-066D: Interpunktion
+066E-066F: Archaische Briefe
+0670-0670: Taschkil
+0671-0672: Erweiterte arabische Buchstaben
+0673-0673: Veralteter Brief
+0674-06D3: Erweiterte arabische Buchstaben
+06D4-06D4: Interpunktion
+06D5-06D5: Erweiterter arabischer Buchstabe
+06D6-06ED: Koran Annotation Zeichen
+06EE-06EF: Erweiterte arabische Buchstaben für Parkari
+06F0-06F9: Ostarabisch-indische Ziffern
+06FA-06FC: Erweiterte arabische Buchstaben
+06FD-06FE: Zeichen für Sindhi
+06FF-06FF: Erweiterter arabischer Brief für Parkari
+0700-070D: Syrische Interpunktion und Zeichen
+070F-070F: Steuerzeichen für das syrische Format
+0710-072C: Syrische Buchstaben
+072D-072F: Persische Buchstaben
+0730-073F: Syrische Punkte (Vokale)
+0740-074A: Syrische Zeichen
+074D-074F: Sogdische Briefe
+0750-076D: Erweiterte arabische Buchstaben
+076E-0771: Ergänzungen für Khowar
+0772-0772: Ergänzung für Torwali
+0773-077D: Ergänzungen für Burushaski
+077E-077F: Ergänzungen für frühes Persisch
+0780-0797: Grundkonsonanten
+0798-07A5: Erweiterungen für Arabisch
+07A6-07B0: Vokale
+07B1-07B1: Konsonant für Addu-Dialekt
+07C0-07C9: Ziffern
+07CA-07E7: Briefe
+07E8-07EA: Archaische Briefe
+07EB-07F1: Tonmarkierungen
+07F2-07F3: Andere Diakritika
+07F4-07F5: Tonale Apostrophe
+07F6-07F6: Symbol
+07F7-07F9: Interpunktion
+07FA-07FA: Letter Extender
+07FD-07FD: Abkürzungszeichen
+07FE-07FF: Währungssymbole
+0800-0815: Briefe
+0816-081B: Konsonantenmodifikatoren
+081C-082C: Vokalzeichen
+082D-082D: Variantenleseschild
+0830-083E: Interpunktion
+0840-0858: Briefe
+0859-085B: Diakritika
+085E-085E: Interpunktion
+0860-086A: Syrische Buchstaben
+08A0-08A9: Arabische Buchstaben für afrikanische Sprachen
+08AA-08AC: Abhängige Konsonanten für Rohingya
+08AD-08B1: Arabische Buchstaben für europäische und zentralasiatische Sprachen
+08B2-08B2: Arabischer Brief für Berber
+08B3-08B4: Arabische Buchstaben für Arwi
+08B6-08BA: Arabische Buchstaben für Bravanese
+08BB-08BD: Arabische Buchstaben für Warsh Rechtschreibung
+08BE-08C2: Arabische Buchstaben für Hindko
+08C3-08C6: Arabische Buchstaben für Hausa, Wolof und andere afrikanische Orthographien
+08C7-08C7: Arabischer Brief für Punjabi
+08D3-08E2: Koran Annotation Zeichen
+08E3-08E3: Erweitertes Vokalzeichen für Arwi
+08E4-08E9: Erweiterte Vokalzeichen für Rohingya
+08EA-08EF: Tonspuren für Rohingya
+08F0-08F3: Koran Annotation Zeichen
+08F4-08FD: Erweiterte Vokalzeichen für afrikanische Sprachen
+08FE-08FF: Erweiterte Vokalzeichen
+0900-0903: Verschiedene Zeichen
+0904-0914: Unabhängige Vokale
+0915-0939: Konsonanten
+093A-093B: Abhängige Vokalzeichen
+093C-093D: Verschiedene Zeichen
+093E-094C: Abhängige Vokalzeichen
+094D-094D: Virama
+094E-094F: Abhängige Vokalzeichen
+0950-0950: Schild
+0951-0952: Vedische Tonmarkierungen
+0953-0954: Akzentzeichen
+0955-0955: Abhängiges Vokalzeichen
+0956-0957: Abhängige Vokalzeichen für Kashmiri
+0958-095F: Zusätzliche Konsonanten
+0960-0963: Zusätzliche Vokale für Sanskrit
+0964-0965: Generische Interpunktion für Skripte von Indien
+0966-096F: Ziffern
+0970-0971: Zusätzliche Zeichen
+0972-0972: Unabhängiger Vokal für Marathi
+0973-0975: Unabhängige Vokale
+0976-0977: Unabhängige Vokale für Kashmiri
+0978-097A: Zusätzliche Konsonanten
+097B-097C: Sindhi Implosivstoffe
+097D-097D: Knacklaut
+097E-097F: Sindhi Implosivstoffe
+0980-0983: Verschiedene Zeichen
+0985-0994: Unabhängige Vokale
+0995-09B9: Konsonanten
+09BC-09BD: Verschiedene Zeichen
+09BE-09C8: Abhängige Vokalzeichen
+09CB-09CC: Zweiteilige abhängige Vokalzeichen
+09CD-09CD: Virama
+09CE-09CE: Zusätzlicher Konsonant
+09D7-09D7: Schild
+09DC-09DF: Zusätzliche Konsonanten
+09E0-09E3: Zusätzliche Vokale für Sanskrit
+09E4-09E5: Reserviert
+09E6-09EF: Ziffern
+09F0-09F1: Ergänzungen für Assamesisch
+09F2-09F3: Währungssymbole
+09F4-09F9: Historische Symbole für Bruchwerte
+09FA-09FA: Schild
+09FB-09FB: Historisches Währungszeichen
+09FC-09FE: Zeichen
+0A01-0A03: Verschiedene Zeichen
+0A05-0A14: Unabhängige Vokale
+0A15-0A39: Konsonanten
+0A3C-0A3C: Verschiedene Zeichen
+0A3E-0A4C: Abhängige Vokalzeichen
+0A4D-0A4D: Virama
+0A51-0A51: Schild
+0A59-0A5E: Zusätzliche Konsonanten
+0A64-0A65: Reserviert
+0A66-0A6F: Ziffern
+0A70-0A71: Zeichen
+0A72-0A73: Vokalbasen
+0A74-0A76: Zeichen
+0A81-0A83: Verschiedene Zeichen
+0A85-0A94: Unabhängige Vokale
+0A95-0AB9: Konsonanten
+0ABC-0ABD: Verschiedene Zeichen
+0ABE-0ACC: Abhängige Vokalzeichen
+0ACD-0ACD: Virama
+0AD0-0AD0: Verschiedene Zeichen
+0AE0-0AE3: Zusätzliche Vokale für Sanskrit
+0AE4-0AE5: Reserviert
+0AE6-0AEF: Ziffern
+0AF0-0AF0: Abkürzungszeichen
+0AF1-0AF1: Währungszeichen
+0AF9-0AF9: Zusätzlicher Konsonant
+0AFA-0AFF: Transliterationszeichen
+0B01-0B03: Verschiedene Zeichen
+0B05-0B14: Unabhängige Vokale
+0B15-0B39: Konsonanten
+0B3C-0B3D: Verschiedene Zeichen
+0B3E-0B48: Abhängige Vokalzeichen
+0B4B-0B4C: Zweiteilige abhängige Vokalzeichen
+0B4D-0B4D: Virama
+0B55-0B57: Verschiedene Zeichen
+0B5C-0B5F: Zusätzliche Konsonanten
+0B60-0B61: Zusätzliche Vokale für Sanskrit
+0B62-0B63: Abhängige Vokale
+0B64-0B65: Reserviert
+0B66-0B6F: Ziffern
+0B70-0B70: Schild
+0B71-0B71: Zusätzlicher Konsonant
+0B72-0B77: Bruchzeichen
+0B82-0B83: Verschiedene Zeichen
+0B85-0B94: Unabhängige Vokale
+0B95-0BB9: Konsonanten
+0BBE-0BC8: Abhängige Vokalzeichen
+0BCA-0BCC: Zweiteilige abhängige Vokalzeichen
+0BCD-0BCD: Virama
+0BD0-0BD7: Verschiedene Zeichen
+0BE4-0BE5: Reserviert
+0BE6-0BEF: Ziffern
+0BF0-0BF2: Tamilische Zahlen
+0BF3-0BF5: Tamilische Kalendersymbole
+0BF6-0BF8: Tamilische Geistliche Symbole
+0BF9-0BF9: Währungszeichen
+0BFA-0BFA: Tamilisches Klerikersymbol
+0C00-0C04: Verschiedene Zeichen
+0C05-0C14: Unabhängige Vokale
+0C15-0C39: Konsonanten
+0C3D-0C3D: Ergänzung für Sanskrit
+0C3E-0C4C: Abhängige Vokalzeichen
+0C4D-0C4D: Virama
+0C55-0C56: Verschiedene Zeichen
+0C58-0C5A: Historische phonetische Varianten
+0C60-0C61: Zusätzliche Vokale für Sanskrit
+0C62-0C63: Abhängige Vokale
+0C64-0C65: Reserviert
+0C66-0C6F: Ziffern
+0C77-0C77: Schild
+0C78-0C7F: Telugu-Fraktionen und Gewichte
+0C80-0C84: Verschiedene Zeichen
+0C85-0C94: Unabhängige Vokale
+0C95-0CB9: Konsonanten
+0CBC-0CBD: Verschiedene Zeichen
+0CBE-0CCC: Abhängige Vokalzeichen
+0CCD-0CCD: Virama
+0CD5-0CD6: Verschiedene Zeichen
+0CDE-0CDE: Zusätzliche Konsonanten
+0CE0-0CE1: Zusätzliche Vokale für Sanskrit
+0CE2-0CE3: Abhängige Vokale
+0CE4-0CE5: Reserviert
+0CE6-0CEF: Ziffern
+0CF1-0CF2: In Sanskrit verwendete Zeichen
+0D00-0D04: Verschiedene Zeichen
+0D05-0D14: Unabhängige Vokale
+0D15-0D3A: Konsonanten
+0D3B-0D3C: Viramas mit Variantenform
+0D3D-0D3D: Ergänzung für Sanskrit
+0D3E-0D48: Abhängige Vokalzeichen
+0D4A-0D4C: Zweiteilige abhängige Vokalzeichen
+0D4D-0D4D: Virama
+0D4E-0D4E: Punkt reph
+0D4F-0D4F: Messsymbol
+0D54-0D56: Zusätzliche historische Chillu-Buchstaben
+0D57-0D57: Abhängiges Vokalzeichen
+0D58-0D5E: Kleinere Brüche
+0D5F-0D5F: Zusätzlicher historischer Vokal
+0D60-0D61: Zusätzliche Vokale für Sanskrit
+0D62-0D63: Abhängige Vokale
+0D64-0D65: Reserviert
+0D66-0D6F: Ziffern
+0D70-0D72: Malayalam-Zahlen
+0D73-0D78: Brüche
+0D79-0D79: Datumsangabe
+0D7A-0D7F: Chillu Buchstaben
+0D81-0D83: Verschiedene Zeichen
+0D85-0D96: Unabhängige Vokale
+0D9A-0DC6: Konsonanten
+0DCA-0DCA: Schild
+0DCF-0DDB: Abhängige Vokalzeichen
+0DDC-0DDE: Zweiteilige abhängige Vokalzeichen
+0DDF-0DDF: Abhängiges Vokalzeichen
+0DE6-0DEF: Astrologische Ziffern
+0DF2-0DF3: Zusätzliche abhängige Vokalzeichen
+0DF4-0DF4: Interpunktion
+0E01-0E2E: Konsonanten
+0E2F-0E2F: Schild
+0E30-0E3A: Vokale
+0E3F-0E3F: Währungszeichen
+0E40-0E44: Vokale
+0E45-0E45: Vokallängenzeichen
+0E46-0E46: Wiederholungszeichen
+0E47-0E47: Vokal
+0E48-0E4B: Tonmarkierungen
+0E4C-0E4F: Zeichen
+0E50-0E59: Ziffern
+0E5A-0E5B: Zeichen
+0E81-0EAE: Konsonanten
+0EAF-0EAF: Schild
+0EB0-0EB9: Vokale
+0EBA-0EBA: Virama
+0EBB-0EBB: Vokal
+0EBC-0EBD: Zeichen
+0EC0-0EC4: Vokale
+0EC6-0EC6: Wiederholungszeichen
+0EC8-0ECB: Tonmarkierungen
+0ECC-0ECD: Zeichen
+0ED0-0ED9: Ziffern
+0EDC-0EDD: Digraphen
+0EDE-0EDF: Konsonanten für Khmu
+0F00-0F00: Silbe
+0F01-0F07: Kopfmarken
+0F08-0F14: Zeichen und Zeichen
+0F15-0F1F: Sternzeichen
+0F20-0F29: Ziffern
+0F2A-0F33: Ziffern minus die Hälfte
+0F34-0F39: Zeichen und Zeichen
+0F3A-0F3D: Gepaarte Interpunktion
+0F3E-0F3F: Sternzeichen
+0F40-0F6A: Konsonanten
+0F6B-0F6C: Erweiterungen für Balti
+0F71-0F7D: Abhängige Vokalzeichen
+0F7E-0F7F: Stimmliche Modifikation
+0F80-0F81: Abhängige Vokalzeichen
+0F82-0F87: Zeichen und Zeichen
+0F88-0F8C: Transliteration Kopfbuchstaben
+0F8D-0F8F: Transliteration unterzeichnete Zeichen
+0F90-0FB9: Untergeordnete Konsonanten
+0FBA-0FBC: Untergeordnete Konsonanten in fester Form
+0FBE-0FBF: Zeichen
+0FC0-0FC3: Cantillation Zeichen
+0FC4-0FCC: Symbole
+0FCE-0FCF: Sternzeichen
+0FD0-0FD2: Markierungen
+0FD3-0FD4: Kopfmarken
+0FD5-0FD8: Religiöse Symbole
+0FD9-0FDA: Anführungszeichen
+1000-1020: Konsonanten
+1021-102A: Unabhängige Vokale
+102B-1035: Abhängige Vokalzeichen
+1036-1038: Verschiedene Zeichen
+1039-103A: Virama und Mörder
+103B-103E: Abhängige Konsonantenzeichen
+103F-103F: Konsonant
+1040-1049: Ziffern
+104A-104B: Interpunktion
+104C-104F: Verschiedene Zeichen
+1050-1059: Pali- und Sanskrit-Erweiterungen
+105A-1060: Erweiterungen für Mo.
+1061-1064: Erweiterungen für S'gaw Karen
+1065-106D: Erweiterungen für Western Pwo Karen
+106E-1070: Erweiterungen für Eastern Pwo Karen
+1071-1071: Erweiterung für Geba Karen
+1072-1074: Erweiterungen für Kayah
+1075-108D: Erweiterungen für Shan
+108E-108F: Erweiterungen für Rumai Palaung
+1090-1099: Shan Ziffern
+109A-109B: Erweiterungen für Khamti Shan
+109C-109D: Erweiterungen für Aiton und Phake
+109E-109F: Shan-Symbole
+10A0-10C5: Großbuchstaben (Khutsuri)
+10C7-10C7: Zusätzlicher Brief
+10CD-10CD: Zusätzlicher Brief für Ossetian
+10D0-10F0: Mkhedruli
+10F1-10F6: Archaische Briefe
+10F7-10F8: Zusätzliche Briefe für Mingrelian und Svan
+10F9-10FA: Zusätzliche Briefe
+10FB-10FB: Interpunktion
+10FC-10FC: Modifikatorbuchstabe
+10FD-10FF: Zusätzliche Briefe für Osseten und Abchasien
+1100-1112: Anfangskonsonanten
+1113-115F: Alte Anfangskonsonanten
+1160-1175: Mediale Vokale
+1176-11A7: Alte Mittelvokale
+11A8-11C2: Endkonsonanten
+11C3-11FF: Alte Endkonsonanten
+1200-135A: Silben
+135D-135F: Markierungen kombinieren
+1360-1368: Interpunktion
+1369-1371: Ziffern
+1372-137C: Zahlen
+1380-138F: Silben für Sebatbeit
+1390-1399: Tonmarkierungen
+13A0-13F4: Silben in Großbuchstaben
+13F5-13F5: Archaische Silbe in Großbuchstaben
+13F8-13FC: Silben in Kleinbuchstaben
+13FD-13FD: Archaische Silbe in Kleinbuchstaben
+1400-1400: Interpunktion
+1401-166C: Silben
+166D-166D: Symbol
+166E-166E: Interpunktion
+166F-167F: Silben
+1680-1680: Raum
+1681-1694: Traditionelle Buchstaben
+1695-169A: Forfeda (ergänzende Briefe)
+169B-169C: Interpunktion
+16A0-16EA: Briefe
+16EB-16ED: Interpunktion
+16EE-16F0: Runen mit goldener Zahl
+16F1-16F3: Tolkienian Erweiterungen
+16F4-16F8: Kryptogrammbuchstaben
+1700-1702: Unabhängige Vokale
+1703-1711: Konsonanten
+1712-1713: Abhängige Vokalzeichen
+1714-1714: Virama
+1720-1722: Unabhängige Vokale
+1723-1731: Konsonanten
+1732-1733: Abhängige Vokalzeichen
+1734-1734: Virama
+1735-1736: Generische Interpunktion für philippinische Skripte
+1740-1742: Unabhängige Vokale
+1743-1751: Konsonanten
+1752-1753: Abhängige Vokalzeichen
+1760-1762: Unabhängige Vokale
+1763-1770: Konsonanten
+1772-1773: Abhängige Vokalzeichen
+1780-17A2: Konsonanten
+17A3-17A4: Veraltete unabhängige Vokale für die Transliteration
+17A5-17B3: Unabhängige Vokale
+17B4-17B5: Inhärente Vokale
+17B6-17BD: Abhängige Vokalzeichen
+17BE-17C0: Zweiteilige abhängige Vokalzeichen
+17C1-17C3: Abhängige Vokalzeichen
+17C4-17C5: Zweiteilige abhängige Vokalzeichen
+17C6-17C8: Verschiedene Zeichen
+17C9-17CA: Konsonantenschieber
+17CB-17D2: Verschiedene Zeichen
+17D3-17D3: Monddatum Zeichen
+17D4-17DA: Verschiedene Zeichen
+17DB-17DB: Währungszeichen
+17DC-17DD: Verschiedene Zeichen
+17E0-17E9: Ziffern
+17F0-17F9: Numerische Symbole für die Wahrsagerkunde
+1800-180A: Interpunktion
+180B-180E: Formatsteuerelemente
+1810-1819: Ziffern
+1820-1842: Grundbuchstaben
+1843-185C: Todo Briefe
+185D-1872: Sibe Briefe
+1873-1877: Mandschu-Buchstaben
+1878-1878: Burjatischer Brief
+1880-18AA: Erweiterungen für Sanskrit und Tibetisch
+18B0-18C5: Silben für Moose Cree
+18C6-18D3: Silben für Cree und Ojibway
+18D4-18DF: Finale für Cree und Ojibway
+18E0-18F2: Silben für Beaver Dene, Hare Dene und Chipewyan Dene
+18F3-18F5: Finale für Dene und Carrier
+1900-191E: Konsonanten
+1920-1928: Abhängige Vokalzeichen
+1929-192B: Untergeordnete Konsonanten
+1930-1938: Endkonsonanten
+1939-1945: Verschiedene Zeichen
+1946-194F: Ziffern
+1950-1962: Konsonanten
+1963-196D: Vokale
+1970-1974: Tonbuchstaben
+1980-19AB: Konsonanten
+19B0-19C0: Vokalzeichen
+19C1-19C7: Endkonsonanten
+19C8-19C9: Tonmarkierungen
+19D0-19DA: Ziffern
+19DE-19DF: Verschiedene Zeichen
+19E0-19FF: Monddatumsymbole
+1A00-1A16: Konsonanten
+1A17-1A1B: Vokale
+1A1E-1A1F: Verschiedene Zeichen
+1A20-1A4C: Konsonanten
+1A4D-1A52: Unabhängige Vokale
+1A53-1A54: Konsonanten
+1A55-1A5E: Konsonantenzeichen
+1A60-1A60: Schild
+1A61-1A74: Abhängige Vokalzeichen
+1A75-1A79: Tonmarkierungen
+1A7A-1A7C: Andere Marken
+1A7F-1A7F: Kryptogrammzeichen
+1A80-1A89: Hora Ziffern
+1A90-1A99: Tham Ziffern
+1AA0-1AA2: Logogramme
+1AA3-1AA6: Interpunktion
+1AA7-1AA7: Schild
+1AA8-1AAD: Interpunktion
+1AB0-1ABE: Wird für die deutsche Dialektologie verwendet
+1ABF-1AC0: Wird für die schottische Dialektologie verwendet
+1B00-1B04: Verschiedene Zeichen
+1B05-1B12: Unabhängige Vokale
+1B13-1B33: Konsonanten
+1B34-1B34: Schild
+1B35-1B43: Abhängige Vokalzeichen
+1B44-1B44: Schild
+1B45-1B4B: Zusätzliche Konsonanten
+1B50-1B59: Ziffern
+1B5A-1B60: Interpunktion
+1B61-1B6A: Musiksymbole für Noten
+1B6B-1B73: Diakritische Zeichen für musikalische Symbole
+1B74-1B7C: Musikalische Symbole
+1B80-1B82: Verschiedene Zeichen
+1B83-1B89: Vokale
+1B8A-1BA0: Konsonanten
+1BA1-1BA3: Konsonantenzeichen
+1BA4-1BA9: Vokalzeichen
+1BAA-1BAB: Viramas
+1BAC-1BAD: Konsonantenzeichen
+1BAE-1BAF: Zusätzliche Konsonanten
+1BB0-1BB9: Ziffern
+1BBA-1BBA: Schild
+1BBB-1BBF: Historische Briefe
+1BC0-1BE5: Briefe
+1BE6-1BE6: Schild
+1BE7-1BEF: Abhängige Vokalzeichen
+1BF0-1BF1: Abhängige Konsonantenzeichen
+1BF2-1BF3: Zeichen
+1BFC-1BFF: Interpunktion
+1C00-1C23: Konsonanten
+1C24-1C25: Untergeordnete Konsonanten
+1C26-1C2C: Abhängige Vokale
+1C2D-1C35: Konsonantenzeichen
+1C36-1C37: Verschiedene Zeichen
+1C3B-1C3F: Interpunktion
+1C40-1C49: Ziffern
+1C4D-1C4F: Zusätzliche Briefe
+1C50-1C59: Ziffern
+1C5A-1C77: Briefe
+1C78-1C7D: Modifikatorbuchstaben
+1C7E-1C7F: Interpunktion
+1C80-1C88: Historische Buchstabenvarianten
+1C90-1CB0: Großbuchstaben (Mtavruli)
+1CB1-1CB6: Archaische Briefe
+1CB7-1CB8: Zusätzliche Briefe für Mingrelian und Svan
+1CB9-1CBA: Zusätzliche Briefe
+1CBD-1CBF: Zusätzliche Briefe für Osseten und Abchasien
+1CC0-1CC7: Interpunktion
+1CD0-1CD2: Tonspuren für den Samaveda
+1CD3-1CD3: Atemzug für den Samaveda
+1CD4-1CDD: Zeichen für Yajurveda
+1CDE-1CDF: Tonspuren für das Satapathabrahmana
+1CE0-1CE0: Tonmarkierung für das Rigveda
+1CE1-1CE1: Tonzeichen für den Atharvaveda
+1CE2-1CE8: Diakritika für Visarga
+1CE9-1CF1: Nasalisierungszeichen
+1CF2-1CF3: Ardhavisarga
+1CF4-1CF4: Zeichen für Yajurvedic
+1CF5-1CF7: Zeichen
+1CF8-1CF9: Zeichen für Jaiminiya Sama Veda
+1CFA-1CFA: Nasalisierungszeichen
+1D00-1D25: lateinische Buchstaben
+1D26-1D2A: griechische Buchstaben
+1D2B-1D2B: Kyrillischer Brief
+1D2C-1D5C: Lateinische hochgestellte Modifikatorbuchstaben
+1D5D-1D61: Griechische hochgestellte Modifikatorbuchstaben
+1D62-1D65: Lateinische tiefgestellte Modifikatorbuchstaben
+1D66-1D6A: Griechische Indexmodifikatorbuchstaben
+1D6B-1D6B: Lateinischer Buchstabe
+1D6C-1D76: Lateinische Buchstaben mit mittlerer Tilde
+1D77-1D78: Kaukasische Sprachwissenschaft
+1D79-1D7F: Andere phonetische Symbole
+1D80-1D8E: Lateinische Buchstaben mit Gaumenhaken
+1D8F-1D9A: Lateinische Buchstaben mit Retroflexhaken
+1D9B-1DBF: Modifikatorbuchstaben
+1DC0-1DC1: Wird für Altgriechisch verwendet
+1DC2-1DC3: Verschiedene Marken
+1DC4-1DC9: Konturtonmarkierungen
+1DCA-1DCA: Sonstige Marke
+1DCB-1DCC: Konturtonmarkierungen
+1DCD-1DCD: Doppelt diakritisch
+1DCE-1DD2: Mittelalterliche Ergänzungen
+1DD3-1DE6: Mittelalterliche hochgestellte diakritische Buchstaben
+1DE7-1DF4: Hochgestellte diakritische Buchstaben für die deutsche Dialektologie
+1DF5-1DF5: Diakritisch für die amerikanische Lexikographie
+1DF6-1DF7: Typicon-Markierungen
+1DF8-1DFB: Verschiedene Marken
+1DFC-1DFC: Doppelte diakritische Markierung für UPA
+1DFD-1DFD: Sonstige Marke
+1DFE-1DFF: Zusätzliche Noten für UPA
+1E00-1E9B: Lateinische allgemeine Nutzungserweiterungen
+1E9C-1E9D: Mittelalterliche Ergänzungen
+1E9E-1E9E: Ergänzung für deutsche Typografie
+1E9F-1E9F: Mittelalterliche Ergänzung
+1EA0-1EF1: Lateinische Erweiterungen für Vietnamesen
+1EF2-1EF9: Lateinische allgemeine Erweiterungen
+1EFA-1EFF: Mittelalterliche Ergänzungen
+1F00-1FFE: Vorkomponiertes polytonisches Griechisch
+2000-200A: Räume
+200B-200F: Zeichen formatieren
+2010-2015: Striche
+2016-2017: Allgemeine Interpunktion
+2018-201F: Anführungszeichen und Apostroph
+2020-2027: Allgemeine Interpunktion
+2028-2029: Trennzeichen
+202A-202E: Zeichen formatieren
+202F-202F: Raum
+2030-2038: Allgemeine Interpunktion
+2039-203A: Anführungszeichen
+203B-203B: Allgemeine Interpunktion
+203C-203C: Doppelte Interpunktion für vertikalen Text
+203D-2044: Allgemeine Interpunktion
+2045-2046: Klammern
+2047-2049: Doppelte Interpunktion für vertikalen Text
+204A-2055: Allgemeine Interpunktion
+2056-2056: Archaische Interpunktion
+2057-2057: Allgemeine Interpunktion
+2058-205E: Archaische Interpunktion
+205F-205F: Raum
+2060-2060: Zeichen formatieren
+2061-2064: Unsichtbare Bediener
+2066-2069: Zeichen formatieren
+206A-206F: Veraltet
+2070-207F: Hochgestellte Zeichen
+2080-2094: Indizes
+2095-209C: Indizes für UPA
+20A0-20BF: Währungssymbole
+20D0-20DC: Kombinieren diakritischer Zeichen für Symbole
+20DD-20E0: Einschließende Diakritika
+20E1-20E1: Zusätzliche diakritische Markierung für Symbole
+20E2-20E4: Zusätzliche einschließende Diakritika
+20E5-20F0: Zusätzliche diakritische Zeichen für Symbole
+2100-2134: Buchstabenartige Symbole
+2135-2138: Hebräische buchstabenartige mathematische Symbole
+2139-213F: Zusätzliche buchstabenartige Symbole
+2140-2140: Doppelschlag großer Bediener
+2141-2144: Zusätzliche buchstabenartige Symbole
+2145-2149: Doppelte kursive mathematische Symbole
+214A-214D: Zusätzliche buchstabenartige Symbole
+214E-214E: Claudianischer Kleinbuchstabe
+214F-214F: Biblisches Redaktionssymbol
+2150-215F: Brüche
+2160-217F: römische Zahlen
+2180-2183: Archaische römische Ziffern
+2184-2184: Claudianischer Kleinbuchstabe
+2185-2188: Archaische römische Ziffern
+2189-2189: Fraktion
+218A-218B: Gedrehte Ziffern
+2190-2199: Einfache Pfeile
+219A-21AF: Pfeile mit Änderungen
+21B0-21B3: Pfeile mit gebogenen Spitzen
+21B4-21BB: Tastatursymbole und Kreispfeile
+21BC-21C3: Harpunen
+21C4-21CC: Gepaarte Pfeile und Harpunen
+21CD-21D9: Doppelpfeile
+21DA-21E5: Verschiedene Pfeile und Tastatursymbole
+21E6-21F3: Weiße Pfeile und Tastatursymbole
+21F4-21FF: Verschiedene Pfeile
+2200-2207: Verschiedene mathematische Symbole
+2208-220D: Mitgliedschaft festlegen
+220E-220E: Verschiedenes mathematisches Symbol
+220F-2211: N-ary Operatoren
+2212-221D: Betreiber
+221E-221E: Verschiedenes mathematisches Symbol
+221F-2222: Winkel
+2223-2226: Beziehungen
+2227-222A: Logische und eingestellte Operatoren
+222B-2233: Integrale
+2234-2235: Verschiedene mathematische Symbole
+2236-2237: Beziehungen
+2238-2238: Operator
+2239-2239: Beziehung
+223A-223A: Operator
+223B-223E: Beziehungen
+223F-223F: Verschiedenes mathematisches Symbol
+2240-2240: Operator
+2241-228B: Beziehungen
+228C-228E: Betreiber
+228F-2292: Beziehungen
+2293-22A3: Betreiber
+22A4-22A5: Verschiedene mathematische Symbole
+22A6-22B9: Beziehungen
+22BA-22BD: Betreiber
+22BE-22BF: Verschiedene mathematische Symbole
+22C0-22C3: N-ary Operatoren
+22C4-22C7: Betreiber
+22C8-22C8: Beziehung
+22C9-22CC: Betreiber
+22CD-22CD: Beziehung
+22CE-22CF: Logische Operatoren
+22D0-22D1: Beziehungen
+22D2-22D3: Betreiber
+22D4-22ED: Beziehungen
+22EE-22F1: Matrixellipsen
+22F2-22FF: Beziehungen
+2300-2307: Sonstiges technisch
+2308-230B: Decken und Böden
+230C-230F: Pflanzen
+2310-2319: Sonstiges technisch
+231A-231B: Symbole der Benutzeroberfläche
+231C-231F: Quine Ecken
+2320-2321: Integrale Stücke
+2322-2323: Stirnrunzeln und lächeln
+2324-2328: Tastatursymbole
+2329-232A: Veraltete spitze Klammern
+232B-232B: Tastatursymbol
+232C-232C: Chemie-Symbol
+232D-2335: Zeichensymbole
+2336-237A: APL
+237B-237B: Grafiken für Steuercodes
+237C-237C: Sonstiges technisch
+237D-237F: Grafiken für Steuercodes
+2380-238C: Tastatursymbole aus ISO 9995-7
+238D-2394: Elektrotechnische Symbole aus IR 181
+2395-2395: APL
+2396-239A: Tastatursymbole aus ISO 9995-7
+239B-23AD: Halterungsstücke
+23AE-23AF: Sonderzeichenerweiterungen
+23B0-23B1: Halterungsstücke
+23B2-23B3: Teile des Summationszeichens
+23B4-23B6: Horizontale Klammern
+23B7-23B9: Terminal grafische Zeichen
+23BA-23BD: Scannen Sie Linien nach Terminalgrafiken
+23BE-23CC: Notationssymbole für Zahnmedizin
+23CD-23CD: Sonstiges technisch
+23CE-23CF: Tastatur- und UI-Symbole
+23D0-23D0: Sonderzeichenerweiterung
+23D1-23D9: Metrische Symbole
+23DA-23DB: Elektrotechnische Symbole
+23DC-23E1: Horizontale Klammern
+23E2-23E2: Sonstiges technisch
+23E3-23E3: Chemie-Symbol
+23E4-23E8: Sonstiges technisch
+23E9-23FA: Symbole der Benutzeroberfläche
+23FB-23FD: Leistungssymbole aus ISO 7000:2012
+23FE-23FE: Leistungssymbol von IEEE 1621-2004
+23FF-23FF: Verschiedenes Symbol
+2400-2421: Grafikbilder für Steuercodes
+2422-2423: Spezifische Symbole für den Raum
+2424-2424: Grafik für Steuercode
+2425-2425: Tastatursymbol
+2426-2426: Spezifisches Symbol für den Steuercode
+2440-2445: OCR-A
+2446-2449: MICR
+244A-244A: OCR
+2460-2473: Eingekreiste Zahlen
+2474-2487: Zahlen in Klammern
+2488-249B: Zahlen Zeitraum
+249C-24B5: Lateinische Buchstaben in Klammern
+24B6-24E9: Eingekreiste lateinische Buchstaben
+24EA-24EA: Zusätzliche eingekreiste Nummer
+24EB-24F4: Weiß auf schwarz eingekreisten Zahlen
+24F5-24FE: Doppelt eingekreiste Zahlen
+24FF-24FF: Zusätzliche weiß auf schwarz eingekreiste Nummer
+2500-2503: Leichte und schwere durchgezogene Linien
+2504-250B: Leichte und schwere gestrichelte Linien
+250C-254B: Leichte und schwere Line-Box-Komponenten
+254C-254F: Leichte und schwere gestrichelte Linien
+2550-2551: Doppelte Linien
+2552-256C: Leichte und doppelte Line-Box-Komponenten
+256D-2570: Zeichenzellenbögen
+2571-2573: Zeichenzellendiagonalen
+2574-257B: Leichte und schwere halbe Linien
+257C-257F: Gemischte leichte und schwere Linien
+2580-2590: Blockelemente
+2591-2593: Schattenzeichen
+2594-2595: Blockelemente
+2596-259F: Terminal grafische Zeichen
+25A0-25EF: Geometrische Formen
+25F0-25F7: Steuercode-Grafiken
+25F8-25FF: Geometrische Formen
+2600-260D: Wetter und astrologische Symbole
+260E-2613: Verschiedene Symbole
+2614-2614: Wettersymbol
+2615-2615: Verschiedenes Symbol
+2616-2617: Japanische Schachsymbole
+2618-2619: Verschiedene Symbole
+261A-261F: Zeigehandsymbole
+2620-2623: Warnsignale
+2624-2625: Medizinische und heilende Symbole
+2626-262F: Religiöse und politische Symbole
+2630-2637: Yijing-Trigrammsymbole
+2638-2638: Verschiedenes Symbol
+2639-263B: Emoticons
+263C-263C: Verschiedenes Symbol
+263D-2647: Astrologische Symbole
+2648-2653: Tierkreiszeichen
+2654-265F: Schachsymbole
+2660-2667: Spielkartensymbole
+2668-2668: Verschiedenes Symbol
+2669-266F: Musikalische Symbole
+2670-2671: Syrische Kreuzsymbole
+2672-267D: Recycling-Symbole
+267E-267F: Verschiedene Symbole
+2680-2685: Würfel
+2686-2689: Markierungen gehen
+268A-268F: Yijing-Monogramm- und Digrammsymbole
+2690-269B: Wörterbuch- und Kartensymbole
+269C-269D: Verschiedene Symbole
+269E-269F: Symbole für Untertitel aus ARIB STD B24
+26A0-26A1: Verschiedene Symbole
+26A2-26A9: Geschlechtssymbole
+26AA-26AC: Kreise
+26AD-26B1: Genealogische Symbole
+26B2-26B2: Geschlechtssymbol
+26B3-26B8: Sternzeichen
+26B9-26BC: Astrologische Aspekte
+26BD-26BE: Sportsymbole
+26BF-26BF: Verschiedenes Symbol aus ARIB STD B24
+26C0-26C3: Symbole für Entwürfe und Kontrolleure
+26C4-26C8: Wettersymbole von ARIB STD B24
+26C9-26CB: Spielsymbole von ARIB STD B24
+26CC-26CD: Verkehrszeichen von ARIB STD B24
+26CE-26CE: Sternzeichen
+26CF-26E1: Verkehrszeichen von ARIB STD B24
+26E2-26E2: Astronomisches Symbol
+26E3-26E3: Kartensymbol von ARIB STD B24
+26E4-26E7: Pentagrammsymbole
+26E8-26FF: Kartensymbole von ARIB STD B24
+2700-2718: Sonstiges
+2719-2720: Kreuze
+2721-273D: Sterne und Sternchen
+273E-2741: Fleurons
+2742-274B: Sterne, Sternchen und Schneeflocken
+274C-275A: Sonstiges
+275B-2765: Satzzeichen Ornamente
+2766-2767: Fleurons
+2768-2775: Zierklammern
+2776-2793: Dingbat kreiste Ziffern ein
+2794-2794: Dingbat Pfeil
+2795-2797: Schwere Varianten von arithmetischen Symbolen
+2798-27AF: Dingbat-Pfeile
+27B0-27B0: Sonstiges
+27B1-27BE: Dingbat-Pfeile
+27BF-27BF: Sonstiges
+27C0-27C4: Verschiedene Symbole
+27C5-27C6: Gepaarte Interpunktion
+27C7-27C7: Operator
+27C8-27C9: Verschiedene Symbole
+27CA-27CA: Vertikaler Linienoperator
+27CB-27CB: Verschiedenes Symbol
+27CC-27CC: Abteilungsbetreiber
+27CD-27CD: Verschiedenes Symbol
+27CE-27CF: Betreiber
+27D0-27D0: Verschiedenes Symbol
+27D1-27D4: Betreiber
+27D5-27D7: Operatoren der Datenbanktheorie
+27D8-27DF: Reißnägel und Drehkreuze
+27E0-27E5: Modallogikoperatoren
+27E6-27EF: Mathematische Klammern
+27F0-27F4: Pfeile
+27F5-27FF: Lange Pfeile
+2800-28FF: Braille-Muster
+2900-2918: Verschiedene Pfeile
+2919-291C: Pfeilschwänze
+291D-2926: Verschiedene Pfeile
+2927-2932: Kreuzungspfeile für die Knotentheorie
+2933-2941: Verschiedene gekrümmte Pfeile
+2942-2949: Pfeile kombiniert mit Operatoren
+294A-2951: Doppelstachelharpunen
+2952-2961: Modifizierte Harpunen
+2962-296F: Gepaarte Harpunen
+2970-2970: Verschiedenes Pfeil
+2971-297B: Pfeile kombiniert mit Beziehungen
+297C-297F: Fischschwänze
+2980-2982: Verschiedene mathematische Symbole
+2983-298C: Klammern
+298D-2990: Klammern mit Zecken
+2991-2998: Klammern
+2999-299A: Zäune
+299B-29AF: Winkel
+29B0-29B4: Leere Sets
+29B5-29C3: Kreissymbole
+29C4-29C9: Quadratische Symbole
+29CA-29D0: Dreiecksymbole
+29D1-29D7: Bowtie-Symbole
+29D8-29DB: Zäune
+29DC-29E2: Verschiedene mathematische Symbole
+29E3-29E6: Beziehungen
+29E7-29ED: Verschiedene mathematische Symbole
+29EE-29F3: Fehlerbalkensymbole
+29F4-29F7: Verschiedene mathematische Symbole
+29F8-29F9: Große Betreiber
+29FA-29FB: Spezialisierte Pluszeichenbetreiber
+29FC-29FD: Klammern
+29FE-29FF: In der Spieltheorie verwendete Symbole
+2A00-2A09: N-ary Operatoren
+2A0A-2A1C: Summationen und Integrale
+2A1D-2A21: Verschiedene große Betreiber
+2A22-2A2E: Plus- und Minuszeichenoperatoren
+2A2F-2A38: Multiplikations- und Divisionszeichenoperatoren
+2A39-2A3F: Verschiedene mathematische Operatoren
+2A40-2A50: Kreuzungen und Gewerkschaften
+2A51-2A63: Logisches Ands und Ors
+2A64-2A65: Verschiedene mathematische Operatoren
+2A66-2ABC: Vergleichsoperatoren
+2ABD-2AD8: Teilmengen- und Obermengenbeziehungen
+2AD9-2ADD: Gabeln
+2ADE-2AED: Reißnägel und Drehkreuze
+2AEE-2AF5: Vertikale Linienoperatoren
+2AF6-2AF6: Verschiedenes mathematischer Operator
+2AF7-2AFB: Beziehungen
+2AFC-2AFF: Betreiber
+2B00-2B0D: Weiße und schwarze Pfeile
+2B0E-2B11: Pfeile mit gebogenen Spitzen
+2B12-2B15: Quadrate
+2B16-2B19: Diamanten
+2B1A-2B1E: Quadrate
+2B1F-2B20: Pentagone
+2B21-2B23: Sechsecke
+2B24-2B24: Kreis
+2B25-2B2B: Diamanten und Pastillen
+2B2C-2B2F: Ellipsen
+2B30-2B4C: Mathematische Pfeile
+2B4D-2B4D: Verschiedenes Pfeil
+2B4E-2B4F: Intonationszeichen für die litauische Dialektologie
+2B50-2B52: Sterne
+2B53-2B54: Pentagone
+2B55-2B55: Verkehrszeichen von ARIB STD B24
+2B56-2B59: Wörterbuch- und Kartensymbole aus ARIB STD B24
+2B5A-2B5F: Intonationszeichen für die litauische Dialektologie
+2B60-2B7D: Dreieckspfeile
+2B7E-2B7F: Tastatursymbole
+2B80-2B87: Gepaarte dreieckige Pfeile
+2B88-2B8B: Eingekreiste Pfeile
+2B8C-2B8F: Dreieckige U-förmige Pfeile
+2B90-2B93: Tastatursymbole
+2B94-2B94: Sonstiges Pfeilsymbol
+2B95-2B95: Schwarzer Pfeil
+2B97-2B97: Verschiedenes Symbol
+2B98-2B9F: Pfeilspitzen
+2BA0-2BA7: Dreieckspfeile mit gebogenen Spitzen
+2BA8-2BAF: Schwarze gebogene Pfeile
+2BB0-2BB7: Farbbandpfeile
+2BB8-2BB9: Tastatursymbole
+2BBA-2BBC: In der Schachnotation verwendete Symbole
+2BBD-2BBF: Geometrische Symbole
+2BC0-2BC8: Zentrierte geometrische Formen
+2BC9-2BC9: Astronomisches Symbol
+2BCA-2BCB: Halbkreise
+2BCC-2BCF: Höckerformen
+2BD0-2BD2: Verschiedene Symbole
+2BD3-2BD6: Astrologische Symbole für Pluto
+2BD7-2BDF: Verschiedene astrologische Symbole
+2BE0-2BE7: Uranische astrologische Symbole
+2BE8-2BEB: Halbsterncharaktere
+2BEC-2BEF: Zweiköpfige Pfeilsymbole
+2BF0-2BF2: Astrologische Symbole für Eris und Sedna
+2BF3-2BF8: Russische astrologische Aspekte
+2BF9-2BFE: In der Schachnotation verwendete Symbole
+2BFF-2BFF: Verschiedenes Symbol
+2C00-2C2E: Großbuchstaben
+2C30-2C5E: Kleine Buchstaben
+2C60-2C66: Orthographische lateinische Ergänzungen
+2C67-2C6C: Ergänzungen für Uiguren
+2C6D-2C74: Verschiedene Ergänzungen
+2C75-2C76: Claudianische Briefe
+2C77-2C7D: Ergänzungen für UPA
+2C7E-2C7F: Ergänzungen für Shona
+2C80-2CB1: Bohairische koptische Buchstaben
+2CB2-2CDB: Alte koptische und dialektische Buchstaben
+2CDC-2CE3: Alte nubische Buchstaben
+2CE4-2CEA: Symbole
+2CEB-2CEE: Kryptogrammbuchstaben
+2CEF-2CF1: Markierungen kombinieren
+2CF2-2CF3: Bohairische koptische Buchstaben
+2CF9-2CFC: Alte nubische Interpunktion
+2CFD-2CFD: Numerisches Zeichen
+2CFE-2CFF: Interpunktion
+2D00-2D25: Kleinbuchstaben (Khutsuri)
+2D27-2D27: Zusätzlicher Brief
+2D2D-2D2D: Zusätzlicher Brief für Ossetian
+2D30-2D67: Briefe
+2D6F-2D6F: Modifikatorbuchstabe
+2D70-2D70: Interpunktion
+2D7F-2D7F: Schild
+2D80-2D92: Silben für Me'en
+2D93-2D96: Silben für Blin
+2DA0-2DBE: Silben für Bank
+2DC0-2DDE: Silben für Sebatbeit
+2DE0-2DFF: Altkirchenslawisch, das Buchstaben kombiniert
+2E00-2E0D: Redaktionelle Symbole des Neuen Testaments
+2E0E-2E16: Altgriechische Textsymbole
+2E17-2E17: Altes nahöstliches Sprachsymbol
+2E18-2E19: Allgemeine Interpunktion
+2E1A-2E1B: Wörterbuch Interpunktion
+2E1C-2E1D: Klammern
+2E1E-2E1F: Wörterbuch Interpunktion
+2E20-2E21: Klammern
+2E22-2E25: Halbe Klammern
+2E26-2E29: Klammern
+2E2A-2E31: Historische Interpunktion
+2E32-2E32: Paläotyp-Transliterationssymbol
+2E33-2E34: Historische Interpunktion
+2E35-2E39: Paläotyp-Transliterationssymbole
+2E3A-2E3B: Striche
+2E3C-2E3E: Alternative Formen der Interpunktion
+2E3F-2E3F: Historische Interpunktion
+2E40-2E40: Doppelter Bindestrich
+2E41-2E42: Umgekehrte Interpunktion
+2E43-2E44: Verschiedene Interpunktion
+2E45-2E49: Typicon Interpunktion
+2E4A-2E52: Historische Interpunktion
+2E80-2EF3: CJK Radikale ergänzen
+2F00-2FD5: Kangxi-Radikale
+2FF0-2FFB: Ideografische Beschreibungszeichen
+3000-3007: CJK-Symbole und Interpunktion
+3008-300B: CJK spitze Klammern
+300C-300F: CJK Eckwinkel
+3010-3011: CJK-Klammern
+3012-3013: CJK-Symbole
+3014-301B: CJK-Klammern
+301C-301F: CJK-Interpunktion
+3020-3020: CJK-Symbol
+3021-3029: Suzhou Ziffern
+302A-302F: Tonmarken kombinieren
+3030-3030: Andere CJK-Interpunktion
+3031-3035: Kana-Wiederholungsmarken
+3036-3037: Andere CJK-Symbole
+3038-303A: Zusätzliche Suzhou-Ziffern
+303B-303D: Andere CJK-Interpunktion
+303E-303F: Spezielle CJK-Indikatoren
+3041-3094: Hiragana Briefe
+3095-3096: Kleine Buchstaben
+3099-309C: Sprachmarken
+309D-309E: Iterationszeichen
+309F-309F: Hiragana Digraph
+30A0-30A0: Katakana Interpunktion
+30A1-30FA: Katakana Briefe
+30FB-30FC: Konjunktions- und Längenmarkierungen
+30FD-30FE: Iterationszeichen
+30FF-30FF: Katakana Digraph
+3105-3129: Basierend auf GB 2312
+312A-312C: Dialektbuchstaben (nicht Mandarin)
+312D-312F: Verschiedene Ergänzungen
+3131-314E: Konsonantenbuchstaben
+314F-3163: Vokalbuchstaben
+3164-3164: Sonderzeichen
+3165-3186: Alte Konsonantenbuchstaben
+3187-318E: Alte Vokalbuchstaben
+3190-3190: Tateten
+3191-319F: Kaeriten
+31A0-31B7: Erweitertes Bopomofo für Minnan und Hakka
+31B8-31BA: Erweitertes Bopomofo für Hmu und Ge
+31BB-31BB: Erweitertes Bopomofo für Minnan und Hakka
+31BC-31BF: Erweitertes Bopomofo für Kantonesisch
+31C0-31E3: CJK streichelt
+31F0-31FF: Phonetische Erweiterungen für Ainu
+3200-320D: Hangul-Buchstaben in Klammern
+320E-321C: Hangul-Silben in Klammern
+321D-321E: Koreanische Wörter in Klammern
+3220-3243: Klammerideogramme
+3244-3247: Eingekreiste Ideogramme aus ARIB STD B24
+3248-324F: Eingekreiste Zahlen auf schwarzen Quadraten von ARIB STD B24
+3250-3250: Quadratische lateinische Abkürzung
+3251-325F: Eingekreiste Zahlen
+3260-326D: Eingekreiste Hangul-Briefe
+326E-327B: Eingekreiste Hangul-Silben
+327C-327D: Eingekreiste koreanische Wörter
+327E-327E: Eingekreiste Hangul-Silbe
+327F-327F: Symbol
+3280-32B0: Eingekreiste Ideogramme
+32B1-32BF: Eingekreiste Zahlen
+32C0-32CB: Telegraphen-Symbole seit Monaten
+32CC-32CF: Quadratische lateinische Abkürzungen
+32D0-32FE: Eingekreiste Katakana
+32FF-32FF: Name der japanischen Ära
+3300-3357: Quadratische Katakana-Wörter
+3358-3370: Telegraphen-Symbole für Stunden
+3371-337A: Quadratische lateinische Abkürzungen
+337B-337E: Namen der japanischen Ära
+337F-337F: Japanisches Unternehmen
+3380-3394: Quadratische lateinische Abkürzungen
+3395-3398: Abkürzungen für Liter-Symbole
+3399-33DF: Quadratische lateinische Abkürzungen
+33E0-33FE: Telegraphen-Symbole für Tage
+33FF-33FF: Quadratische lateinische Abkürzung
+4DC0-4DFF: Yijing Hexagrammsymbole
+A000-A014: Silben
+A015-A015: Silbeniterationszeichen
+A016-A48C: Silben
+A490-A4C6: Yi Radikale
+A4D0-A4ED: Konsonanten
+A4EE-A4F7: Vokale
+A4F8-A4FD: Töne
+A4FE-A4FF: Interpunktion
+A500-A523: Silben in -ee
+A524-A548: Silben in -i
+A549-A570: Silben in -a
+A571-A594: Silben in -oo
+A595-A5B9: Silben in -u
+A5BA-A5E0: Silben in -o
+A5E1-A60A: Silben in -e
+A60B-A60C: Silbenfinale
+A60D-A60F: Interpunktion
+A610-A612: Historische Silben
+A613-A61F: Logogramme
+A620-A629: Ziffern
+A62A-A62B: Historische Silben
+A640-A66E: Briefe für Altkyrillisch
+A66F-A66F: Abkürzungszeichen
+A670-A672: Zahlenzeichen kombinieren
+A673-A673: Satzzeichen
+A674-A67D: Kombinieren von Noten für Altkyrillisch
+A67E-A67E: Satzzeichen
+A67F-A67F: Modifikatorbuchstabe
+A680-A697: Briefe für die altabchasische Rechtschreibung
+A698-A69B: Briefe für Altkyrillisch
+A69C-A69D: Intonationszeichen für die litauische Dialektologie
+A69E-A69F: Kombinieren von Noten für Altkyrillisch
+A6A0-A6EF: Silben
+A6F0-A6F1: Markierungen kombinieren
+A6F2-A6F7: Interpunktion
+A700-A707: Ecktonmarkierungen für Chinesisch
+A708-A711: Gepunktete Buchstaben
+A712-A716: Linksstammtonbuchstaben
+A717-A71A: Chinantec-Tonspuren
+A71B-A71F: Africanist Ton Buchstaben
+A720-A721: Ergänzungen für UPA
+A722-A725: Ägyptologische Ergänzungen
+A726-A72F: Maya-Ergänzungen
+A730-A778: Mittelalterliche Ergänzungen
+A779-A787: Insel- und keltische Briefe
+A788-A78A: Modifikatorbuchstaben
+A78B-A78C: Orthographische Buchstaben für Stimmritzen
+A78D-A78D: Zusätzlicher Brief
+A78E-A78E: Phonetisches Symbol
+A78F-A78F: Transliterationsbrief
+A790-A793: Zusätzliche Briefe
+A794-A795: Ergänzungen für die litauische Dialektologie
+A796-A797: Briefe für Mittelvietnamesen
+A798-A799: Archaische Briefe für Ewe
+A79A-A79F: Archaische Briefe für Volapük
+A7A0-A7A9: Briefe für die lettische Rechtschreibung vor 1921
+A7AA-A7AD: Zusätzliche Briefe
+A7AE-A7AE: Brief für westafrikanische Sprachen
+A7AF-A7AF: Brief für japanische phonemische Transkription
+A7B0-A7B1: Briefe für amerikanistische Orthographien
+A7B2-A7B2: Brief für afrikanische Sprachen
+A7B3-A7B3: Brief für die deutsche Dialektologie
+A7B4-A7B7: Briefe für afrikanische Sprachen
+A7B8-A7B9: Briefe für Mazahua (Mexiko)
+A7BA-A7BF: Briefe für die ugaritische und ägyptologische Transliteration
+A7C2-A7C3: Zusätzliche Briefe
+A7C4-A7C6: Buchstaben, die in der frühen Pinyin-Romanisierung verwendet wurden
+A7C7-A7CA: Zusätzliche Briefe für Gallier
+A7F5-A7F7: Alte gallische und keltische epigraphische Buchstaben
+A7F8-A7F9: Ergänzungen für Extended IPA
+A7FA-A7FA: Ergänzung für UPA
+A7FB-A7FF: Antike römische epigraphische Buchstaben
+A800-A805: Unabhängige Vokale und Dvisvara
+A806-A806: Schild
+A807-A822: Konsonanten und Konsonantenzeichen
+A823-A827: Abhängige Vokalzeichen
+A828-A82B: Gedichtmarken
+A82C-A82C: Schild
+A830-A836: Zahlenformulare
+A837-A837: Verschiedenes Zeichen
+A838-A838: Währungszeichen
+A839-A839: Verschiedenes Zeichen
+A840-A85C: Konsonanten
+A85D-A85D: Buchstabe a
+A85E-A861: Vokale
+A862-A865: Konsonanten
+A866-A866: Vokal
+A867-A868: Untergeordnete Konsonanten
+A869-A86C: Konsonantenzusätze für Sanskrit
+A86D-A870: Alternative Konsonantenformen für Chinesisch
+A871-A871: Untergeordneter Konsonant
+A872-A872: Konsonantenzusatz für Tibeter
+A873-A873: Candrabindu
+A874-A875: Kopfmarken für Tibeter
+A876-A877: Zeichensetzung für Tibeter
+A880-A881: Verschiedene Zeichen
+A882-A891: Unabhängige Vokale
+A892-A8B4: Konsonanten
+A8B5-A8C3: Abhängige Vokalzeichen
+A8C4-A8C4: Virama
+A8C5-A8C5: Schild
+A8CE-A8CF: Interpunktion
+A8D0-A8D9: Ziffern
+A8E0-A8F1: Cantillation Marks (Svara) für den Samaveda
+A8F2-A8F7: Spuren der Nasalisierung
+A8F8-A8FB: Redaktionelle Noten
+A8FC-A8FD: Zeichen
+A8FE-A8FF: Zusätzlicher Vokal und Vokalzeichen
+A900-A909: Ziffern
+A90A-A925: Konsonanten
+A926-A92A: Vokale
+A92B-A92D: Tonmarkierungen
+A92E-A92F: Interpunktion
+A930-A946: Konsonanten
+A947-A94E: Vokalzeichen
+A94F-A952: Konsonantenzeichen
+A953-A953: Virama
+A95F-A95F: Interpunktion
+A960-A97C: Alte Anfangskonsonanten
+A980-A983: Verschiedene Zeichen
+A984-A9B2: Briefe
+A9B3-A9B3: Schild
+A9B4-A9BC: Abhängige Vokalzeichen
+A9BD-A9BF: Abhängige Konsonantenzeichen
+A9C0-A9C0: Schild
+A9C1-A9CD: Interpunktion
+A9CF-A9CF: Silbenreduplikator
+A9D0-A9D9: Ziffern
+A9DE-A9DF: Ellipsenmarkierungen
+A9E0-A9E5: Ergänzungen für Shan Pali
+A9E6-A9E6: Reduktionszeichen
+A9E7-A9EF: Tai Laing Konsonanten
+A9F0-A9F9: Tai Laing Ziffern
+A9FA-A9FE: Tai Laing Konsonanten
+AA00-AA05: Unabhängige Vokale
+AA06-AA28: Konsonanten
+AA29-AA32: Abhängige Vokalzeichen
+AA33-AA36: Konsonantenzeichen
+AA40-AA4D: Endkonsonanten
+AA50-AA59: Ziffern
+AA5C-AA5F: Interpunktion
+AA60-AA73: Khamti Shan Konsonanten
+AA74-AA76: Khamti Shan Logogramme
+AA77-AA7A: Aiton Symbole und Buchstaben
+AA7B-AA7B: Pa'o Karen Tonzeichen
+AA7C-AA7D: Tai Laing Tonmarken
+AA7E-AA7F: Shwe Palaung Briefe
+AA80-AAAF: Konsonanten
+AAB0-AABE: Vokale und Finale
+AABF-AAC2: Töne
+AADB-AADC: Wortligatursymbole
+AADD-AADD: Wiederholungszeichen
+AADE-AADF: Interpunktion
+AAE0-AAE1: Unabhängige Vokalzeichen
+AAE2-AAEA: Konsonanten
+AAEB-AAEF: Abhängige Vokalzeichen
+AAF0-AAF1: Interpunktion
+AAF2-AAF2: Schild
+AAF3-AAF4: Wiederholungszeichen
+AAF5-AAF5: Schild
+AAF6-AAF6: Virama
+AB01-AB0E: Gamo-Gofa-Dawro und Basketo
+AB11-AB16: Gamo-Gofa-Dawro
+AB20-AB2E: Gumuz
+AB30-AB5A: Briefe für die deutsche Dialektologie
+AB5B-AB5F: Modifikatorbuchstaben für die deutsche Dialektologie
+AB60-AB63: Historische Briefe für Sakha (Yakut)
+AB64-AB65: Briefe für amerikanistische Orthographien
+AB66-AB67: Briefe zur sinologischen Transkription
+AB68-AB6B: Briefe für die schottische Dialektologie
+AB70-ABBF: Silben in Kleinbuchstaben
+ABC0-ABDA: Briefe
+ABDB-ABE2: Endkonsonanten
+ABE3-ABEA: Abhängige Vokalzeichen
+ABEB-ABED: Interpunktion
+ABF0-ABF9: Ziffern
+D7B0-D7C6: Alte Mittelvokale
+D7CB-D7FB: Alte Endkonsonanten
+F900-FA0B: Aussprachevarianten von KS X 1001:1998
+FA0C-FA0D: Doppelte Zeichen aus Big 5
+FA0E-FA2D: Die IBM 32-Kompatibilitätsideogramme
+FA2E-FA2F: Koreanische Kompatibilitätsideogramme
+FA30-FA6A: Kompatibilitätsideogramme für JIS X 0213
+FA6B-FA6D: ARIB-Kompatibilitätsideogramme
+FA70-FAD9: Kompatibilitätsideogramme der DVRK
+FB00-FB06: Lateinische Ligaturen
+FB13-FB17: Armenische Ligaturen
+FB1D-FB4F: Hebräische Präsentationsformen
+FB50-FBB1: Glyphen für kontextbezogene Buchstabenformen für Persisch, Urdu, Sindhi usw.
+FBB2-FBC1: Arabische pädagogische Symbole
+FBD3-FBE9: Glyphen für kontextbezogene Buchstabenformen für zentralasiatische Sprachen
+FBEA-FD3D: Ligaturen (zwei Elemente)
+FD3E-FD3F: Interpunktion
+FD50-FDC7: Ligaturen (drei Elemente)
+FDD0-FDEF: Nicht-Zeichen
+FDF0-FDFB: Wortligaturen
+FDFC-FDFC: Währungszeichen
+FDFD-FDFD: Symbol
+FE00-FE0D: Variationsselektoren
+FE0E-FE0F: Emoji-spezifische Variationsselektoren
+FE10-FE19: Glyphen für vertikale Varianten
+FE20-FE23: Halbe Punkte kombinieren
+FE24-FE26: Kontinuierliche Makronen für koptische
+FE27-FE2D: Kombinieren Sie die halben Markierungen unten
+FE2E-FE2F: Halbe Punkte kombinieren
+FE30-FE44: Glyphen für vertikale Varianten
+FE45-FE46: Nebenbetonungsmarken
+FE47-FE48: Glyphen für vertikale Varianten
+FE49-FE4F: Über- und Unterstriche
+FE50-FE6B: Kleine Formvarianten
+FE70-FE72: Glyphen für Abstandsformen arabischer Punkte
+FE73-FE73: Glyphenanteil
+FE74-FE7F: Glyphen für Abstandsformen arabischer Punkte
+FE80-FEFC: Grundlegende Glyphen für Kontextformen in arabischer Sprache
+FEFF-FEFF: Besondere
+FF01-FF5E: ASCII-Varianten mit voller Breite
+FF5F-FF60: Klammern mit voller Breite
+FF61-FF64: CJK-Interpunktion mit halber Breite
+FF65-FF9F: Katakana-Varianten mit halber Breite
+FFA0-FFDC: Hangul-Varianten mit halber Breite
+FFE0-FFE6: Symbolvarianten mit voller Breite
+FFE8-FFEE: Symbolvarianten mit halber Breite
+FFF9-FFFB: Interlineare Annotation
+FFFC-FFFD: Ersatzzeichen
+FFFE-FFFF: Nicht-Zeichen
+10000-1003F: Grundsilben
+10040-1004D: Zusatzzeichen
+10050-1005D: Symbole
+10080-1008D: Menschen und Tiere
+1008E-10094: Getreide und Pflanzen
+10095-10099: Auszüge
+1009A-1009C: Metalle
+1009D-100DD: Andere Materialien
+100DE-100FA: Schiffe
+10100-10102: Interpunktion
+10107-10133: Zahlen
+10137-1013F: Maße
+10140-10174: Altgriechische akrophonische Ziffern
+10175-1018B: Altgriechische papyrologische Zahlen
+1018C-1018E: Altgriechische Symbole
+10190-10195: Römische Gewichte und Maße
+10196-1019A: Römische Münzsymbole
+1019B-1019C: Andere römische epigraphische Symbole
+101A0-101A0: Griechisches Symbol
+101D0-101FC: Zeichen
+101FD-101FD: Schlaganfall kombinieren
+10280-1029C: Briefe
+102A0-102D0: Briefe
+102E0-102E0: Schild
+102E1-102E9: Ziffern
+102EA-102FB: Zahlen
+10300-1031A: Briefe
+1031B-1031C: Umbrische Buchstaben
+1031D-1031E: Oscanische Buchstaben
+1031F-1031F: South Picene Brief
+10320-10323: Ziffern
+1032D-1032F: Nordkursive Buchstaben
+10330-1034A: Briefe
+10350-10375: Briefe
+10376-1037A: Buchstaben kombinieren
+10380-1039D: Briefe
+1039F-1039F: Interpunktion
+103A0-103A2: Unabhängige Vokale
+103A3-103C3: Konsonanten
+103C8-103CF: Verschiedene Zeichen
+103D0-103D0: Interpunktion
+103D1-103D5: Zahlen
+10400-10427: Großbuchstaben
+10428-1044F: Kleinbuchstaben
+10450-10463: Hohe und tiefe Buchstaben (Konsonanten)
+10464-10477: Kurzbriefe
+10478-1047F: Ligaturen
+10480-1049D: Briefe
+104A0-104A9: Ziffern
+104B0-104D3: Großbuchstaben
+104D8-104FB: Kleinbuchstaben
+10500-10527: Briefe
+10530-10563: Briefe
+1056F-1056F: Interpunktion
+10600-1069F: Einfache Zeichen
+106A0-106B2: Vasenformen
+106B3-10726: Komplexe Zeichen
+10727-10736: Komplexe Schilder mit Vasenformen
+10740-10755: Fraktionen und zusammengesetzte Fraktionen
+10760-10767: Zusätzliche Zeichen
+10800-1083F: Silben
+10840-10855: Briefe
+10857-10857: Interpunktion
+10858-1085F: Zahlen
+10860-10876: Briefe
+10877-10878: Symbole
+10879-1087F: Zahlen
+10880-1089E: Briefe
+108A7-108AF: Zahlen
+108E0-108F5: Briefe
+108FB-108FF: Zahlen
+10900-10915: Briefe
+10916-1091B: Zahlen
+1091F-1091F: Interpunktion
+10920-10939: Briefe
+1093F-1093F: Interpunktion
+10980-10983: Vokalbuchstaben
+10984-1099D: Konsonantenbuchstaben
+1099E-1099F: Symbole
+109A0-109A3: Vokalbuchstaben
+109A4-109B7: Konsonantenbuchstaben
+109BC-109BD: Brüche
+109BE-109BF: Logogramme
+109C0-109C8: Ziffern
+109C9-109CF: Zehn
+109D2-109DA: Hunderte
+109DB-109E3: Tausende
+109E4-109EC: Zehntausend
+109ED-109F5: Hundert tausende
+109F6-109FF: Brüche
+10A00-10A06: Vokale
+10A0C-10A0C: Längenmarkierung
+10A0D-10A0F: Verschiedene Zeichen
+10A10-10A35: Konsonanten
+10A38-10A3A: Verschiedene Zeichen
+10A3F-10A3F: Virama
+10A40-10A43: Ziffern
+10A44-10A48: Zahlen und Brüche
+10A50-10A58: Interpunktion
+10A60-10A7C: Briefe
+10A7D-10A7F: Zahlen
+10A80-10A9C: Briefe
+10A9D-10A9F: Zahlen
+10AC0-10AC7: Briefe
+10AC8-10AC8: Logogramm
+10AC9-10AE4: Briefe
+10AE5-10AE6: Markierungen kombinieren
+10AEB-10AEF: Zahlen
+10AF0-10AF6: Interpunktion
+10B00-10B0F: Vokale
+10B10-10B35: Konsonanten
+10B39-10B3F: Interpunktion
+10B40-10B55: Briefe
+10B58-10B5F: Zahlen
+10B60-10B72: Briefe
+10B78-10B7F: Zahlen
+10B80-10B91: Briefe
+10B99-10B9C: Interpunktion
+10BA9-10BAF: Zahlen
+10C00-10C08: Vokale
+10C09-10C48: Konsonanten
+10C80-10CB2: Großbuchstaben
+10CC0-10CF2: Kleinbuchstaben
+10CFA-10CFF: Zahlen
+10D00-10D1B: Briefe
+10D1C-10D1C: Zusätzlicher Brief
+10D1D-10D21: Vokale
+10D22-10D22: Vokalschalldämpfer
+10D23-10D23: Nasalisierungszeichen
+10D24-10D26: Tonzeichen
+10D27-10D27: Zwillingszeichen
+10D30-10D39: Ziffern
+10E60-10E68: Ziffern
+10E69-10E7A: Zahlen
+10E7B-10E7E: Brüche
+10E80-10EA9: Briefe
+10EAB-10EAC: Markierungen kombinieren
+10EAD-10EAD: Interpunktion
+10EB0-10EB1: Historische Briefe mit Diakritika
+10F00-10F1C: Briefe
+10F1D-10F26: Zahlen
+10F27-10F27: Ligatur
+10F30-10F44: Briefe
+10F45-10F45: Tonträger
+10F46-10F50: Markierungen kombinieren
+10F51-10F54: Zahlen
+10F55-10F59: Interpunktion
+10FB0-10FC4: Briefe
+10FC5-10FCB: Zahlen
+10FE0-10FF5: Briefe
+10FF6-10FF6: Ligatur
+11000-11004: Verschiedene Zeichen
+11005-11012: Unabhängige Vokale
+11013-11037: Konsonanten
+11038-11045: Abhängige Vokalzeichen
+11046-11046: Virama
+11047-1104D: Interpunktion
+11052-11065: Zahlen
+11066-1106F: Ziffern
+1107F-1107F: Nummer Tischler
+11080-11082: Verschiedene Zeichen
+11083-1108C: Unabhängige Vokale
+1108D-110AF: Konsonanten
+110B0-110B8: Abhängige Vokalzeichen
+110B9-110B9: Virama
+110BA-110BD: Verschiedene Zeichen
+110BE-110C1: Interpunktion
+110CD-110CD: Schild
+110D0-110E1: Konsonanten
+110E2-110E7: Vokale
+110E8-110E8: Anderer Brief
+110F0-110F9: Ziffern
+11100-11102: Verschiedene Zeichen
+11103-11106: Unabhängige Vokale
+11107-11126: Konsonanten
+11127-11132: Abhängige Vokalzeichen
+11133-11134: Verschiedene Zeichen
+11136-1113F: Ziffern
+11140-11143: Interpunktion
+11144-11144: Konsonant
+11145-11146: Abhängige Vokalzeichen
+11147-11147: Konsonant
+11150-11154: Vokale
+11155-11172: Konsonanten
+11173-11173: Schild
+11174-11175: Interpunktion
+11176-11176: Wortligatur
+11180-11182: Verschiedene Zeichen
+11183-11190: Unabhängige Vokale
+11191-111B2: Konsonanten
+111B3-111BF: Abhängige Vokalzeichen
+111C0-111C0: Virama
+111C1-111C4: Verschiedene Zeichen
+111C5-111C8: Interpunktion
+111C9-111C9: Schild
+111CA-111CC: Zeichen für Kashmiri
+111CD-111CD: Interpunktion
+111CE-111CE: Historisches Vokalzeichen
+111CF-111CF: Schild
+111D0-111D9: Ziffern
+111DA-111DD: Interpunktion
+111DE-111DF: Abschnittsmarkierungen
+111E1-111E9: Historische Ziffern
+111EA-111F4: Historische Zahlen
+11200-11207: Unabhängige Vokale
+11208-1122B: Konsonanten
+1122C-11233: Abhängige Vokalzeichen
+11234-11237: Verschiedene Zeichen
+11238-1123D: Interpunktion
+1123E-1123E: Schild
+11280-11283: Vokale
+11284-112A8: Konsonanten
+112A9-112A9: Interpunktion
+112B0-112B9: Unabhängige Vokale
+112BA-112DE: Konsonanten
+112DF-112DF: Schild
+112E0-112E8: Abhängige Vokalzeichen
+112E9-112EA: Verschiedene Zeichen
+112F0-112F9: Ziffern
+11300-11303: Verschiedene Zeichen
+11305-11314: Unabhängige Vokale
+11315-11339: Konsonanten
+1133B-1133D: Verschiedene Zeichen
+1133E-11348: Abhängige Vokalzeichen
+1134B-1134C: Zweiteilige abhängige Vokalzeichen
+1134D-1134D: Virama
+11350-11350: Schild
+11357-11357: Abhängiges Vokalzeichen
+1135D-1135D: Schild
+1135E-1135F: Anusvaras
+11360-11361: Unabhängige Vokale
+11362-11363: Abhängige Vokalzeichen
+11366-11374: Cantillation Marks (Svara) für den Samaveda
+11400-1140D: Unabhängige Vokale
+1140E-11434: Konsonanten
+11435-11441: Abhängige Vokalzeichen
+11442-11448: Verschiedene Zeichen
+11449-1144A: Anrufungszeichen
+1144B-1144F: Interpunktion
+11450-11459: Ziffern
+1145A-1145A: Interpunktion
+1145B-11461: Verschiedene Zeichen
+11480-11480: Schild
+11481-1148E: Unabhängige Vokale
+1148F-114AF: Konsonanten
+114B0-114BE: Abhängige Vokalzeichen
+114BF-114C7: Verschiedene Zeichen
+114D0-114D9: Ziffern
+11580-1158D: Unabhängige Vokale
+1158E-115AE: Konsonanten
+115AF-115BB: Abhängige Vokalzeichen
+115BC-115C0: Verschiedene Zeichen
+115C1-115C1: Kopfmarke
+115C2-115C5: Interpunktion
+115C6-115C8: Wiederholungszeichen
+115C9-115C9: Klemmenmarkierung
+115CA-115D7: Abschnittsmarkierungen
+115D8-115DB: Alternative Buchstaben
+115DC-115DD: Alternative Vokalzeichen
+11600-1160D: Unabhängige Vokale
+1160E-1162F: Konsonanten
+11630-1163C: Abhängige Vokalzeichen
+1163D-11640: Verschiedene Zeichen
+11641-11643: Interpunktion
+11644-11644: Schild
+11650-11659: Ziffern
+11660-1166C: Interpunktion
+11680-11689: Unabhängige Vokale
+1168A-116AA: Konsonanten
+116AB-116AC: Verschiedene Zeichen
+116AD-116B5: Abhängige Vokalzeichen
+116B6-116B6: Virama
+116B7-116B7: Nukta
+116B8-116B8: Konsonant
+116C0-116C9: Ziffern
+11700-1171A: Konsonanten
+1171D-1171F: Medials
+11720-1172B: Vokalzeichen
+11730-11739: Ziffern
+1173A-1173B: Zahlen
+1173C-1173F: Interpunktion
+11800-11809: Unabhängige Vokale
+1180A-1182B: Konsonanten
+1182C-11836: Abhängige Vokalzeichen
+11837-1183A: Verschiedene Zeichen
+1183B-1183B: Interpunktion
+118A0-118A9: Vokale in Großbuchstaben
+118AA-118BF: Konsonanten in Großbuchstaben
+118C0-118C9: Kleinbuchstaben Vokale
+118CA-118DF: Konsonanten in Kleinbuchstaben
+118E0-118E9: Ziffern
+118EA-118F2: Zahlen
+118FF-118FF: Schild
+11900-11909: Unabhängige Vokale
+1190C-1192F: Konsonanten
+11930-11938: Abhängige Vokalzeichen
+1193B-1193C: Nasalisierungszeichen
+1193D-1193F: Zeichen
+11940-11942: Konjunktionsspezifische Buchstaben
+11943-11943: Nukta
+11944-11946: Interpunktion
+11950-11959: Ziffern
+119A0-119AD: Unabhängige Vokale
+119AE-119D0: Konsonanten
+119D1-119DD: Abhängige Vokalzeichen
+119DE-119E2: Verschiedene Zeichen
+119E3-119E3: Interpunktion
+119E4-119E4: Abhängiges Vokalzeichen
+11A00-11A00: Vokalbuchstabe
+11A01-11A09: Vokalzeichen
+11A0A-11A0A: Vokallängenmarkierung
+11A0B-11A32: Konsonanten
+11A33-11A33: Endkonsonantenmarke
+11A34-11A34: Virama
+11A35-11A37: Candrabindu und Candra Ornamente
+11A38-11A39: Zeichen für Sanskrit
+11A3A-11A3A: Cluster-Anfangskonsonant
+11A3B-11A3E: Cluster-Endkonsonanten
+11A3F-11A40: Kopfmarken
+11A41-11A44: Interpunktion
+11A45-11A46: Kopfmarken
+11A47-11A47: Subjoiner
+11A50-11A50: Vokalbuchstabe
+11A51-11A5A: Vokalzeichen
+11A5B-11A5B: Vokallängenmarkierung
+11A5C-11A83: Konsonanten
+11A84-11A85: Alternative Visarga-Zeichen
+11A86-11A89: Cluster-Anfangsbuchstaben
+11A8A-11A95: Endkonsonantenzeichen
+11A96-11A97: Verschiedene Zeichen
+11A98-11A98: Zwillingszeichen
+11A99-11A99: Subjoiner
+11A9A-11A9C: Interpunktion
+11A9D-11A9D: Dehnungsmarkierung
+11A9E-11AA0: Kopfmarken
+11AA1-11AA2: Klemmenmarkierungen
+11AC0-11AD4: Konsonanten
+11AD5-11ADB: Vokale
+11ADC-11AE4: Endkonsonanten
+11AE5-11AF8: Tonmarkierungen
+11C00-11C0D: Unabhängige Vokale
+11C0E-11C2E: Konsonanten
+11C2F-11C3B: Abhängige Vokalzeichen
+11C3C-11C40: Verschiedene Zeichen
+11C41-11C43: Interpunktion
+11C44-11C45: Lückenfüller
+11C50-11C59: Ziffern
+11C5A-11C6C: Zahlen
+11C70-11C71: Interpunktion
+11C72-11C8F: Briefe
+11C92-11CAF: Untergeordnete Buchstaben
+11CB0-11CB4: Abhängige Vokalzeichen
+11CB5-11CB6: Verschiedene Zeichen
+11D00-11D0B: Vokale
+11D0C-11D2D: Konsonanten
+11D2E-11D30: Konjunkturbuchstaben
+11D31-11D3F: Abhängige Vokalzeichen
+11D40-11D44: Verschiedene Zeichen
+11D45-11D45: Virama
+11D46-11D47: Cluster-spezifische Konsonantenformen
+11D50-11D59: Ziffern
+11D60-11D6B: Unabhängige Vokale
+11D6C-11D89: Konsonanten
+11D8A-11D94: Abhängige Vokalzeichen
+11D95-11D96: Verschiedene Zeichen
+11D97-11D97: Virama
+11D98-11D98: Symbol
+11DA0-11DA9: Ziffern
+11EE0-11EF1: Konsonanten
+11EF2-11EF2: Konsonantenreduzierer
+11EF3-11EF6: Vokalzeichen
+11EF7-11EF8: Interpunktion
+11FB0-11FB0: Brief
+11FC0-11FD4: Brüche
+11FD5-11FDC: Maße von Getreide
+11FDD-11FE0: Alte Währungssymbole
+11FE1-11FE3: Symbole für Gewicht, Länge und Fläche
+11FE4-11FE7: Landwirtschaftliche Symbole
+11FE8-11FED: Geistliche Symbole
+11FEE-11FF1: Andere Symbole und Abkürzungen
+11FFF-11FFF: Interpunktion
+12000-1236E: Zeichen
+1236F-1236F: Elamite Zeichen
+12370-12399: Zeichen
+12400-12459: Numerische Zeichen
+1245A-12464: Brüche
+12465-12466: Elamitfraktionen
+12467-12468: Elamite numerische Zeichen
+12469-1246E: Numerische Zeichen
+12470-12474: Interpunktion
+12480-12543: Zeichen
+13000-1304F: A. Der Mensch und seine Berufe
+13050-13059: B. Frau und ihre Berufe
+1305A-13075: C. Anthropomorphe Gottheiten
+13076-130D1: D. Teile des menschlichen Körpers
+130D2-130FD: E. Säugetiere
+130FE-1313E: F. Teile von Säugetieren
+1313F-1317E: G. Vögel
+1317F-13187: H. Teile von Vögeln
+13188-1319A: I. Amphibientiere, Reptilien usw.
+1319B-131A2: K. Fische und Teile von Fischen
+131A3-131AC: L. Invertabrata und kleinere Tiere
+131AD-131EE: M. Bäume und Pflanzen
+131EF-1321F: N. Himmel, Erde, Wasser
+13220-13235: NL. Nomes von Unterägypten
+13236-1324F: NU. Nomes von Oberägypten
+13250-1329A: O. Gebäude, Gebäudeteile usw.
+1329B-132A7: P. Schiffe und Teile von Schiffen
+132A8-132AE: Q. Haushalts- und Grabmöbel
+132AF-132D0: R. Tempelmöbel und heilige Embleme
+132D1-13306: S. Kronen, Kleid, Dauben usw.
+13307-13332: T. Kriegsführung, Jagd, Metzgerei
+13333-13361: U. Landwirtschaft, Handwerk und Berufe
+13362-133AE: V. Seil, Faser, Körbe, Taschen usw.
+133AF-133CE: W. Gefäße aus Stein und Steingut
+133CF-133DA: X. Brote und Kuchen
+133DB-133E3: Y. Schriften, Spiele, Musik
+133E4-1340C: Z. Striche, Zeichen abgeleitet von hieratischen, geometrischen Figuren
+1340D-1342E: Aa. Nicht klassifiziert
+13430-13431: Tischler
+13432-13435: Steuerelemente zum Einfügen von Zeichen
+13436-13436: Stapelsteuerung für Schilder
+13437-13438: Segment-Scoping-Begrenzer
+14400-14469: A. Der menschliche Körper und die Kleidung
+1446A-144AF: B. Tiere
+144B0-144D0: C. Pflanzen
+144D1-14501: D. Natur
+14502-1452F: E. Gebäude
+14530-14576: F. Waffen, Werkzeuge, Möbel und andere Instrumente
+14577-14595: G. Vasen und Gefäße
+14596-145AC: H. Symbole
+145AD-145E5: J. Linien, Zahlen und geometrische Formen
+145E6-14628: K. Varia
+14629-14646: M. Zusätzliche Zeichen
+16800-16856: Charaktere, die in Phase A gefunden wurden
+16857-1688E: Charaktere, die in Phase B gefunden wurden
+1688F-168F0: Charaktere, die in Phase C gefunden wurden
+168F1-16965: Charaktere, die in Phase D gefunden wurden
+16966-16A02: Charaktere gefunden durch Phase E.
+16A03-16A38: Charaktere gefunden durch Phase F.
+16A40-16A5E: Briefe
+16A60-16A69: Ziffern
+16A6E-16A6F: Interpunktion
+16AD0-16AE6: Konsonantenbuchstaben
+16AE7-16AED: Vokalbuchstaben
+16AF0-16AF4: Tonmarken kombinieren
+16AF5-16AF5: Interpunktion
+16B00-16B1B: Vokal Reime
+16B1C-16B2F: Konsonantenbeginn
+16B30-16B36: Diakritische Zeichen kombinieren
+16B37-16B3B: Interpunktion
+16B3C-16B3F: Mathematische Operatoren
+16B40-16B43: Modifikatorbuchstaben
+16B44-16B45: Interpunktion
+16B50-16B59: Ziffern
+16B5B-16B61: Zahlen
+16B63-16B77: Logogramme
+16B7D-16B8F: Logogramme für Clannamen
+16E40-16E5F: Großbuchstaben
+16E60-16E7F: Kleinbuchstaben
+16E80-16E89: Ziffern
+16E8A-16E93: Zahlen
+16E94-16E96: Alternative Ziffern
+16E97-16E98: Interpunktion
+16E99-16E9A: Symbole
+16F00-16F4A: Konsonantenbeginn
+16F4F-16F53: Modifikatoren
+16F54-16F87: Vokale und Finale
+16F8F-16F92: Tonmarkierungen positionieren
+16F93-16F99: Grundtonmarkierungen
+16F9A-16F9F: Archaische Grundtonmarkierungen
+16FE0-16FE0: Tangut-Marke
+16FE1-16FE1: Nushu-Zeichen
+16FE2-16FE3: In alten chinesischen Texten verwendete Zeichen
+16FE4-16FE4: Kleines Zeichen im Khitan-Format
+16FF0-16FF1: Diakritika für CJK-Ideogramme kombinieren
+18800-18809: One-Stroke-Komponenten
+1880A-18825: Zweitaktkomponenten
+18826-1885F: Drei-Takt-Komponenten
+18860-188CB: Viertaktkomponenten
+188CC-18958: Fünftaktkomponenten
+18959-189DA: Sechs-Takt-Komponenten
+189DB-18A40: Sieben-Takt-Komponenten
+18A41-18A98: Acht-Takt-Komponenten
+18A99-18AC0: Neun-Takt-Komponenten
+18AC1-18AD4: Zehn-Takt-Komponenten
+18AD5-18AE2: Elf-Takt-Komponenten
+18AE3-18AEB: Zwölf-Takt-Komponenten
+18AEC-18AF1: Dreizehn-Takt-Komponenten
+18AF2-18AF2: Sechzehn-Takt-Komponente
+18AF3-18AFF: Zusätzliche Komponenten
+18B00-18B00: Iterationszeichen
+18B01-18B35: Radikal-01
+18B36-18B69: Radikal-02
+18B6A-18B93: Radikal-03
+18B94-18BAC: Radikal-04
+18BAD-18BD1: Radical-05
+18BD2-18C00: Radical-06
+18C01-18C12: Radical-07
+18C13-18C27: Radikal-08
+18C28-18C2E: Radical-09
+18C2F-18C36: Radikal-10
+18C37-18C4B: Radikal-11
+18C4C-18C51: Radikal-12
+18C52-18C63: Radikal-13
+18C64-18C7E: Radikal-14
+18C7F-18C8B: Radikal-15
+18C8C-18C94: Radikal-16
+18C95-18CBF: Radikal-17
+18CC0-18CCB: Radikal-18
+18CCC-18CD2: Radikal-19
+18CD3-18CD5: Radikal-20
+1B000-1B000: Historisches Katakana
+1B001-1B001: Historisches Hiragana und Hentaigana
+1B002-1B0FF: Hentaigana
+1B100-1B11E: Hentaigana
+1B150-1B152: Historische kleine Hiragana-Buchstaben
+1B164-1B167: Historische kleine Katakana-Buchstaben
+1B170-1B170: One-Stroke-Charakter
+1B171-1B177: Zweitaktzeichen
+1B178-1B18A: Drei-Takt-Zeichen
+1B18B-1B1A7: Viertaktzeichen
+1B1A8-1B1DD: Fünf-Takt-Zeichen
+1B1DE-1B215: Sechs-Takt-Zeichen
+1B216-1B243: Sieben-Takt-Zeichen
+1B244-1B283: Acht-Strich-Zeichen
+1B284-1B2AF: Neun-Strich-Zeichen
+1B2B0-1B2CD: Zehn-Strich-Zeichen
+1B2CE-1B2E0: Elf-Strich-Zeichen
+1B2E1-1B2ED: Zwölf-Strich-Zeichen
+1B2EE-1B2F3: Dreizehn-Strich-Zeichen
+1B2F4-1B2F6: Zeichen mit vierzehn Strichen
+1B2F7-1B2F9: Zeichen mit fünfzehn Strichen
+1B2FA-1B2FB: Sechzehn-Strich-Zeichen
+1BC00-1BC01: Nicht verbindende Konsonanten
+1BC02-1BC18: Linienkonsonanten
+1BC19-1BC31: Bogenkonsonanten
+1BC32-1BC3A: Viertelbogenkonsonanten nach unten geschrieben
+1BC3B-1BC40: Viertelbogenkonsonanten nach oben geschrieben
+1BC41-1BC45: Kreis Vokale
+1BC46-1BC4E: Halbkreisvokale
+1BC4F-1BC50: Diagonale Vokale
+1BC51-1BC54: Viertelkreisvokale
+1BC55-1BC59: Andere Vokale
+1BC5A-1BC5B: Punktierte Vokale
+1BC5C-1BC60: Zusammengesetzte Vokale
+1BC61-1BC64: Grundlegende Nasenvokale
+1BC65-1BC6A: Zusätzliche Nasenvokale
+1BC70-1BC7C: Angebrachte Anhänge
+1BC80-1BC88: Hohe Affixe
+1BC90-1BC99: Niedrige Affixe
+1BC9C-1BC9C: Verschiedenes Zeichen
+1BC9D-1BC9D: Sloan R-Form Selektor
+1BC9E-1BC9E: Kurzschrift Doppelmarke
+1BC9F-1BC9F: Chinook Interpunktion
+1BCA0-1BCA3: Steuerelemente für Kurzformate
+1D000-1D002: Prosodien (Prosodics)
+1D003-1D014: Ekfonetika
+1D015-1D045: Melodimata (Melodics)
+1D046-1D056: Fonitika (Gesang)
+1D057-1D07E: Afona oder Ypostaseis (Stummschaltungen oder Hypostasen)
+1D07F-1D089: Argies (Retards)
+1D08A-1D08E: Leimmata oder Siopes (Leimmas oder Schalldämpfer)
+1D08F-1D099: Synagmata oder Gorgotite (Synagmen oder Beschleuniger)
+1D09A-1D0A1: Agogika (Leitungen)
+1D0A2-1D0B5: Ichimata und Martyrika (Ichimas und Evidentials)
+1D0B6-1D0CA: Fthores (Zerstörer)
+1D0CB-1D0D9: Alloioseis (Unterscheidungsmerkmale)
+1D0DA-1D0E5: Rythmika (Rhythmik)
+1D0E6-1D0EF: Grammata (Buchstaben)
+1D0F0-1D0F5: Specials
+1D100-1D105: Riegel
+1D106-1D10C: Codas
+1D10D-1D10F: Figurenwiederholungen
+1D110-1D113: Hält und pausiert
+1D114-1D115: Stabklammern
+1D116-1D11B: Dauben
+1D11C-1D11D: Tabulatur
+1D11E-1D126: Notenschlüssel
+1D129-1D129: Sich ausruhen
+1D12A-1D133: Unfälle
+1D134-1D135: Taktarten
+1D136-1D139: Oktaven
+1D13A-1D142: Pausen
+1D143-1D15B: Notenköpfe
+1D15C-1D164: Anmerkungen
+1D165-1D166: Stängel
+1D167-1D16C: Tremolos
+1D16D-1D16D: Augmentationspunkt
+1D16E-1D172: Flaggen
+1D173-1D17A: Balken und Bögen
+1D17B-1D18E: Artikulation
+1D18F-1D193: Dynamik
+1D194-1D1A5: Ornamente
+1D1A6-1D1A9: Analytik
+1D1AA-1D1AD: Instrumentierung
+1D1AE-1D1B0: Pedale
+1D1B1-1D1B5: Verschiedene Symbole
+1D1B6-1D1C0: Mensurale Notizen
+1D1C1-1D1C6: Mensurale Pausen
+1D1C7-1D1CE: Mensurale Prolationen
+1D1CF-1D1CF: Verschiedenes Symbol
+1D1D0-1D1D1: Notenschlüssel
+1D1D2-1D1D2: Versehentlich
+1D1D3-1D1DD: Anmerkungen
+1D1DE-1D1DE: Notenschlüssel
+1D1DF-1D1DF: Ornamentik
+1D1E0-1D1E7: Anmerkungen
+1D1E8-1D1E8: Versehentlich
+1D200-1D21C: Altgriechische Vokalnotation
+1D21D-1D241: Altgriechische Instrumentalnotation
+1D242-1D245: Weitere griechische Notationssymbole
+1D2E0-1D2F3: Maya-Ziffern
+1D300-1D300: Monogramm
+1D301-1D305: Digrams
+1D306-1D356: Tetragramme
+1D360-1D371: Zählstabeinheiten
+1D372-1D376: Ideografische Zählmarken
+1D377-1D378: Western Tally Marks
+1D400-1D433: Fettgedruckte Symbole
+1D434-1D467: Kursive Symbole
+1D468-1D49B: Fett kursive Symbole
+1D49C-1D4CF: Skriptsymbole
+1D4D0-1D503: Fettgedruckte Skriptsymbole
+1D504-1D537: Fraktur-Symbole
+1D538-1D56B: Doppelte Symbole
+1D56C-1D59F: Fettgedruckte Fraktur-Symbole
+1D5A0-1D5D3: Serifenlose Symbole
+1D5D4-1D607: Serifenlose fette Symbole
+1D608-1D63B: Serifenlose kursive Symbole
+1D63C-1D66F: Serifenlose fett kursive Symbole
+1D670-1D6A3: Monospace-Symbole
+1D6A4-1D6A5: Punktlose Symbole
+1D6A8-1D6DA: Mutige griechische Symbole
+1D6DB-1D6E1: Zusätzliche fette griechische Symbole
+1D6E2-1D714: Kursive griechische Symbole
+1D715-1D71B: Zusätzliche kursive griechische Symbole
+1D71C-1D74E: Fett kursive griechische Symbole
+1D74F-1D755: Zusätzliche fett kursive griechische Symbole
+1D756-1D788: Serifenlose kühne griechische Symbole
+1D789-1D78F: Zusätzliche serifenlose fette griechische Symbole
+1D790-1D7C2: Serifenlose kühne kursive griechische Symbole
+1D7C3-1D7C9: Zusätzliche serifenlose fett kursive griechische Symbole
+1D7CA-1D7CB: Zusätzliche fette griechische Symbole
+1D7CE-1D7D7: Fettgedruckte Ziffern
+1D7D8-1D7E1: Doppelte Ziffern
+1D7E2-1D7EB: Serifenlose Ziffern
+1D7EC-1D7F5: Serifenlose fette Ziffern
+1D7F6-1D7FF: Monospace-Ziffern
+1D800-1D80D: Handformen mit Zeigefinger
+1D80E-1D81D: Handformen mit Zeige- und Mittelfinger
+1D81E-1D843: Handformen mit Zeige- und Mittelfinger und Daumen
+1D844-1D84B: Handformen mit vier Fingern
+1D84C-1D885: Handformen mit fünf Fingern
+1D886-1D8A3: Handformen mit kleinem Finger
+1D8A4-1D8B9: Handformen mit Ringfinger
+1D8BA-1D8CC: Handformen mit Mittelfinger
+1D8CD-1D8F4: Handformen mit Zeigefinger und Daumen
+1D8F5-1D904: Handformen mit Daumen
+1D905-1D915: Kontaktbewegungsanzeigen
+1D916-1D929: Fingerbewegungsanzeigen
+1D92A-1D9F4: Bewegungsindikatoren
+1D9F5-1D9FE: Dynamikindikatoren
+1D9FF-1DA6C: Kopfformen
+1DA6D-1DA7E: Körperformen
+1DA7F-1DA86: Standortbasen
+1DA87-1DA8B: Interpunktion
+1DA9B-1DA9F: Füllen Sie Modifikatoren
+1DAA1-1DAAF: Rotationsmodifikatoren
+1E000-1E02A: Buchstaben kombinieren
+1E100-1E123: Konsonantenbeginn
+1E124-1E12C: Vokal Reime
+1E130-1E136: Tonmarkierungen
+1E137-1E13B: Determinativen
+1E13C-1E13C: Wiederholungszeichen
+1E13D-1E13D: Silbenverlängerung
+1E140-1E149: Ziffern
+1E14E-1E14F: Symbole
+1E2C0-1E2EB: Briefe
+1E2EC-1E2EF: Tonmarkierungen
+1E2F0-1E2F9: Ziffern
+1E2FF-1E2FF: Währungszeichen
+1E800-1E807: Silben in k-
+1E808-1E810: Silben in w-
+1E811-1E813: Silben in wv-
+1E814-1E81A: Silben in m-
+1E81B-1E821: Silben in b-
+1E822-1E82D: Vokale
+1E82E-1E835: Silben in s-
+1E836-1E83D: Silben in l-
+1E83E-1E843: Silben in d-
+1E844-1E84A: Silben in t-
+1E84B-1E852: Silben in j-
+1E853-1E859: Silben in y-
+1E85A-1E862: Silben in f-
+1E863-1E867: Silben in n-
+1E868-1E876: Silben in h-
+1E877-1E882: Silben in ngg-
+1E883-1E888: Silben in g-
+1E889-1E88B: Silben in ng-
+1E88C-1E892: Silben in p-
+1E893-1E89E: Silben in mb-
+1E89F-1E8A5: Silben in kp-
+1E8A6-1E8AC: Silben in gb-
+1E8AD-1E8AD: Silbe in r-
+1E8AE-1E8B4: Silben in nd-
+1E8B5-1E8B8: Silben in nj-
+1E8B9-1E8BF: Silben in v-
+1E8C0-1E8C4: Silben in ny-
+1E8C7-1E8CF: Ziffern
+1E8D0-1E8D6: Zahlenbasen kombinieren
+1E900-1E91B: Großbuchstaben
+1E91C-1E921: Ergänzende Großbuchstaben
+1E922-1E93D: Kleine Buchstaben
+1E93E-1E943: Ergänzende Kleinbuchstaben
+1E944-1E94A: Diakritische Zeichen
+1E94B-1E94B: Modifikatorbuchstabe
+1E950-1E959: Ziffern
+1E95E-1E95F: Interpunktion
+1EC71-1EC79: Primärnummern
+1EC7A-1EC82: Zehn
+1EC83-1EC8B: Hunderte
+1EC8C-1EC94: Tausende
+1EC95-1EC9D: Zehntausend
+1EC9E-1ECA0: Lakhs
+1ECA1-1ECA2: Crores
+1ECA3-1ECAB: Präfixe Formen von Primärnummern
+1ECAC-1ECAC: Platzhalter
+1ECAD-1ECAF: Brüche
+1ECB0-1ECB0: Währungszeichen
+1ECB1-1ECB4: Alternative Formen
+1ED01-1ED09: Primärnummern
+1ED0A-1ED12: Zehn
+1ED13-1ED1B: Hunderte
+1ED1C-1ED24: Tausende
+1ED25-1ED2D: Zehntausend
+1ED2E-1ED2E: Multiplikator
+1ED2F-1ED3B: Alternative Formen
+1ED3C-1ED3D: Brüche
+1EE00-1EE1F: Isolierte Symbole
+1EE21-1EE3B: Anfangssymbole
+1EE42-1EE5F: Schwanzsymbole
+1EE61-1EE7E: Gestreckte Symbole
+1EE80-1EE9B: Geschlungene Symbole
+1EEA1-1EEBB: Doppelte Symbole
+1EEF0-1EEF1: Stretching-Operatoren
+1F000-1F003: Vorherrschende Windkacheln
+1F004-1F006: Drachenplättchen
+1F007-1F00F: Charakter Anzug Kacheln
+1F010-1F018: Bambus Anzug Fliesen
+1F019-1F021: Kreisanzug Fliesen
+1F022-1F025: Blumenfliesen
+1F026-1F029: Fliesen würzen
+1F02A-1F02B: Verschiedene Fliesen
+1F030-1F030: Horizontale Fliesen
+1F031-1F037: Nullen
+1F038-1F03E: Einsen
+1F03F-1F045: Zweien
+1F046-1F04C: Drei
+1F04D-1F053: Vier
+1F054-1F05A: Fünf
+1F05B-1F061: Sechser
+1F062-1F062: Vertikale Fliesen
+1F063-1F069: Nullen
+1F06A-1F070: Einsen
+1F071-1F077: Zweien
+1F078-1F07E: Drei
+1F07F-1F085: Vier
+1F086-1F08C: Fünf
+1F08D-1F093: Sechser
+1F0A0-1F0A0: Rückseite der Karte
+1F0A1-1F0AE: Spaten oder Schwerter
+1F0B1-1F0BE: Herzen oder Tassen
+1F0BF-1F0BF: Joker
+1F0C1-1F0CE: Diamanten oder Pentacles
+1F0CF-1F0CF: Joker
+1F0D1-1F0DE: Keulen oder Zauberstäbe
+1F0DF-1F0DF: Joker
+1F0E0-1F0F5: Trümpfe
+1F100-1F100: Nummer mit Punkt
+1F101-1F10A: Zahlen mit Komma
+1F10B-1F10C: Eingekreiste serifenlose Ziffern
+1F10D-1F10F: Creative Commons-Symbole
+1F110-1F129: Lateinische Buchstaben in Klammern
+1F12A-1F12A: Lateinischer Buchstabe mit Schildpattklammern
+1F12B-1F12C: Eingekreiste kursive lateinische Buchstaben
+1F12D-1F12F: Eingekreiste lateinische Buchstaben oder Buchstabenfolgen
+1F130-1F14F: Quadratische lateinische Buchstaben
+1F150-1F169: Weiß auf schwarz eingekreisten lateinischen Buchstaben
+1F16A-1F16C: Erhöhte quadratische lateinische Sequenzen
+1F16D-1F16F: Creative Commons-Symbole
+1F170-1F18F: Weiß auf schwarzen quadratischen lateinischen Buchstaben
+1F190-1F19A: Quadratische lateinische Buchstabenfolgen
+1F19B-1F1AC: Quadratische lateinische Buchstabenfolgen aus ARIB STD B62
+1F1AD-1F1AD: Verschiedenes Symbol
+1F1E6-1F1FF: Regionale Indikatorsymbole
+1F200-1F200: Quadratisches Hiragana von ARIB STD B24
+1F201-1F202: Quadratisches Katakana
+1F210-1F231: Quadratische Ideogramme und Kana von ARIB STD B24
+1F232-1F23B: Quadratische Ideogramme
+1F240-1F248: Ideogramme mit Schildpatthalterungen von ARIB STD B24
+1F250-1F251: Eingekreiste Ideogramme
+1F260-1F265: Symbole für die chinesische Volksreligion
+1F300-1F30C: Wetter-, Landschafts- und Himmelssymbole
+1F30D-1F310: Globus-Symbole
+1F311-1F320: Mond-, Sonnen- und Sternsymbole
+1F321-1F32C: Wettersymbole
+1F32D-1F32F: Lebensmittelsymbole
+1F330-1F344: Pflanzensymbole
+1F345-1F353: Obst- und Gemüsesymbole
+1F354-1F374: Lebensmittelsymbole
+1F375-1F37C: Getränkesymbole
+1F37D-1F37D: Unterkunftssymbol
+1F37E-1F37F: Getränke- und Lebensmittelsymbole
+1F380-1F397: Feier Symbole
+1F398-1F39D: Musikalische Symbole
+1F39E-1F3AD: Unterhaltungssymbole
+1F3AE-1F3B4: Spielsymbole
+1F3B5-1F3BC: Musikalische Symbole
+1F3BD-1F3D3: Sportsymbole
+1F3D4-1F3F0: Gebäude- und Kartensymbole
+1F3F1-1F3F4: Flaggensymbole
+1F3F5-1F3F6: Rosetten
+1F3F7-1F3F7: Verschiedenes Symbol
+1F3F8-1F3F9: Sportsymbole
+1F3FA-1F3FA: Verschiedenes Symbol
+1F3FB-1F3FF: Emoji-Modifikatoren
+1F400-1F42C: Tiersymbole
+1F42D-1F43D: Tiergesichter
+1F43E-1F43F: Tiersymbole
+1F440-1F445: Symbole für Gesichtsteile
+1F446-1F450: Handsymbole
+1F451-1F463: Kleidung und Accessoires
+1F464-1F477: Porträt- und Rollensymbole
+1F478-1F480: Märchensymbole
+1F481-1F483: Rollensymbole
+1F484-1F488: Symbole für die Körperpflege
+1F489-1F48A: Medizinische Symbole
+1F48B-1F492: Romantische Symbole
+1F493-1F49F: Herzsymbole
+1F4A0-1F4AD: Symbole im Comic-Stil
+1F4AE-1F4AF: Japanische Symbole für Schulklassen
+1F4B0-1F4B9: Geldsymbole
+1F4BA-1F4DC: Bürosymbole
+1F4DD-1F4F6: Kommunikationssymbole
+1F4F7-1F4FE: Audio- und Videosymbole
+1F4FF-1F4FF: Religiöses Symbol
+1F500-1F518: Symbole der Benutzeroberfläche
+1F519-1F51D: Wörter mit Pfeilen
+1F51E-1F51F: Beiliegende alphanumerische Symbole
+1F520-1F524: Eingabestatussymbole der Benutzeroberfläche
+1F525-1F52E: Werkzeugsymbole
+1F52F-1F531: Verschiedene Symbole
+1F532-1F539: Geometrische Formen
+1F53A-1F53D: Symbole der Benutzeroberfläche
+1F53E-1F53F: Beschattete geometrische Formen
+1F540-1F54E: Religiöse Symbole
+1F54F-1F54F: Verschiedenes Symbol
+1F550-1F567: Zifferblattsymbole
+1F568-1F56C: Kommunikationssymbole
+1F56D-1F576: Verschiedene Symbole
+1F577-1F578: Tiersymbole
+1F579-1F579: Spielsymbol
+1F57A-1F57A: Rollensymbol
+1F57B-1F58D: Kommunikationssymbole
+1F58E-1F5A3: Handsymbole
+1F5A4-1F5A4: Herz-Symbol
+1F5A5-1F5B8: Computersymbole
+1F5B9-1F5BE: Bürosymbole
+1F5BF-1F5DD: Symbole der Benutzeroberfläche
+1F5DE-1F5E0: Verschiedene Symbole
+1F5E1-1F5E3: Bewertungssymbole
+1F5E4-1F5E7: Tonsymbole
+1F5E8-1F5F2: Blasensymbole
+1F5F3-1F5F9: Wahlsymbole
+1F5FA-1F5FA: Kartensymbol
+1F5FB-1F5FF: Kulturelle Symbole
+1F600-1F637: Gesichter
+1F638-1F640: Katzengesichter
+1F641-1F644: Gesichter
+1F645-1F64F: Gestensymbole
+1F650-1F667: Fleurons
+1F668-1F66B: Quilt quadratische Ornamente
+1F66C-1F66F: Raketenschmuck
+1F670-1F675: Kaufmännisches Und und Ligatur und Ornamente
+1F676-1F67D: Satzzeichen Ornamente
+1F67E-1F67F: Verschiedene Symbole
+1F680-1F6A4: Fahrzeuge
+1F6A5-1F6A8: Verkehrsschilder
+1F6A9-1F6CA: Beschilderung und andere Symbole
+1F6CB-1F6CF: Unterkunftssymbole
+1F6D0-1F6D2: Beschilderung und andere Symbole
+1F6D3-1F6D7: Kartensymbole
+1F6E0-1F6E4: Verschiedene Symbole
+1F6E5-1F6FC: Fahrzeuge
+1F700-1F704: Symbole für aristotelische Elemente
+1F705-1F70C: Symbole für wichtige Lösungsmittel
+1F70D-1F713: Symbole für Schwefel und Quecksilber
+1F714-1F719: Symbole für Salz, Vitriol und Nitre
+1F71A-1F71B: Symbole für Gold und Silber
+1F71C-1F71F: Symbole für Eisen, Eisenerz und Derivate
+1F720-1F728: Symbole für Kupfer, Kupfererz und Derivate
+1F729-1F72A: Symbole für Zinn- und Bleierz
+1F72B-1F735: Symbole für Antimon, Antimonerz und Derivate
+1F736-1F75D: Symbole für andere Substanzen
+1F75E-1F764: Prozesse
+1F765-1F76D: Gerät
+1F76E-1F771: Zeit
+1F772-1F773: Maße
+1F780-1F783: Gleichschenklige rechtwinklige Dreiecke
+1F784-1F784: Schwarze Kreise
+1F785-1F789: Weiße Kreise
+1F78A-1F78A: Weiße Kreise mit einem weiteren schwarzen Kreis
+1F78B-1F78B: Zielsymbol
+1F78C-1F78D: Schwarze Quadrate
+1F78E-1F793: Weiße Quadrate
+1F794-1F795: Weiße Quadrate mit einem weiteren schwarzen Quadrat
+1F796-1F796: Zielsymbol
+1F797-1F799: Schwarze Diamanten
+1F79A-1F79B: Weiße Diamanten mit einem weiteren schwarzen Diamanten
+1F79C-1F79C: Zielsymbol
+1F79D-1F79F: Schwarze Lutschtabletten
+1F7A0-1F7A0: Weiße Raute mit einer weiteren schwarzen Pastille
+1F7A1-1F7A7: Griechische Kreuze
+1F7A8-1F7AE: Saltiers
+1F7AF-1F7B4: Fünf Sternchen mit Speichen
+1F7B5-1F7BA: Sechs Speichen-Sternchen
+1F7BB-1F7BF: Acht Speichen-Sternchen
+1F7C0-1F7C3: Drei spitze Sterne
+1F7C4-1F7C8: Vier spitze Sterne
+1F7C9-1F7CA: Fünf spitze Sterne
+1F7CB-1F7CD: Sechs spitze Sterne
+1F7CE-1F7D1: Acht spitze Sterne
+1F7D2-1F7D4: Zwölf spitze Sterne
+1F7D5-1F7D8: Gehen Sie Steinmarkierungen
+1F7E0-1F7E4: Farbige Kreise
+1F7E5-1F7EB: Farbige Quadrate
+1F800-1F80B: Pfeile mit Dreieckspfeilspitzen
+1F810-1F81F: Pfeile mit gleichseitigen Dreieckspfeilspitzen
+1F820-1F833: Dreieckspfeile mit unterschiedlichen Schaftgewichten
+1F834-1F837: Fingerpfostenpfeile
+1F838-1F83B: Quadratische Pfeile
+1F83C-1F843: Komprimierte Pfeile
+1F844-1F847: Schwere Pfeile
+1F850-1F859: Serifenlose Pfeile
+1F860-1F887: Breitköpfige Widerhakenpfeile
+1F890-1F897: Pfeilspitzen
+1F898-1F89B: Eingekerbte Pfeile
+1F89C-1F89F: Schwere Pfeilschäfte
+1F8A0-1F8AB: Schattierte weiße Pfeile
+1F8AC-1F8AD: Weiße Pfeilschäfte
+1F8B0-1F8B1: Pfeile für Legacy-Computing
+1F900-1F90B: Typikonsymbole
+1F90C-1F90C: Handsymbol
+1F90D-1F90E: Farbige Herzsymbole
+1F90F-1F90F: Handsymbol
+1F910-1F917: Emoticon Gesichter
+1F918-1F91F: Handsymbole
+1F920-1F92F: Emoticon Gesichter
+1F930-1F937: Porträt- und Rollensymbole
+1F938-1F93F: Sportsymbole
+1F940-1F94F: Verschiedene Symbole
+1F950-1F96F: Lebensmittelsymbole
+1F970-1F97A: Gesichter
+1F97B-1F97F: Kleidung
+1F980-1F9AD: Tiersymbole
+1F9AE-1F9AF: Symbole für Barrierefreiheit
+1F9B0-1F9B3: Emoji-Komponenten
+1F9B4-1F9B7: Körperteile
+1F9B8-1F9B9: Rollensymbole
+1F9BA-1F9BF: Symbole für Barrierefreiheit
+1F9C0-1F9CB: Lebensmittelsymbole
+1F9CD-1F9CF: Porträt- und Zugänglichkeitssymbole
+1F9D0-1F9D8: Porträt- und Rollensymbole
+1F9D9-1F9DF: Fantasiewesen
+1F9E0-1F9E6: Verschiedene Symbole
+1F9E7-1F9E9: Aktivitäten
+1F9EA-1F9FF: Objekte
+1FA00-1FA05: Neutrale Schachsymbole
+1FA06-1FA08: Schachsymbole um 45 Grad gedreht
+1FA09-1FA1A: Schachsymbole um 90 Grad gedreht
+1FA1B-1FA1D: Schachsymbole um 135 Grad gedreht
+1FA1E-1FA2F: Schachsymbole um 180 Grad gedreht (gedreht)
+1FA30-1FA32: Schachsymbole um 225 Grad gedreht
+1FA33-1FA44: Schachsymbole um 270 Grad gedreht
+1FA45-1FA47: Schachsymbole um 315 Grad gedreht
+1FA48-1FA4A: Schach-Equihopper
+1FA4B-1FA4D: Schach-Equihopper drehten sich um 90 Grad
+1FA4E-1FA53: Hybride Schachsymbole
+1FA60-1FA6D: Xiangqi-Symbole
+1FA70-1FA74: Kleidung
+1FA78-1FA7A: Medizinische Symbole
+1FA80-1FA86: Spielzeug und Sportsymbole
+1FA90-1FAA8: Verschiedene Objekte
+1FAB0-1FAB6: Tiere und Natur
+1FAC0-1FAC1: Körperteile
+1FAC2-1FAC2: Menschen
+1FAD0-1FAD6: Essen und Trinken
+1FB00-1FB3B: Blockieren Sie die grafischen Zeichen des Mosaik-Terminals
+1FB3C-1FB6F: Glatte Mosaik-Terminal-Grafikzeichen
+1FB70-1FB8B: Blockelemente
+1FB8C-1FB94: Rechteckige Schattenzeichen
+1FB95-1FB99: Füllen Sie Zeichen
+1FB9A-1FB9B: Glatte Mosaik-Terminal-Grafikzeichen
+1FB9C-1FB9F: Dreieckige Schattenzeichen
+1FBA0-1FBAE: Zeichenzellendiagonalen
+1FBAF-1FBAF: Leichte durchgezogene Linie mit Strich
+1FBB0-1FBB3: Terminal grafische Zeichen
+1FBB4-1FBB8: Pfeile
+1FBB9-1FBBC: Terminal grafische Zeichen
+1FBBD-1FBBF: Negative Terminalgrafikzeichen
+1FBC0-1FBCA: Terminal grafische Zeichen
+1FBF0-1FBF9: Segmentierte Ziffern
+1FFFE-1FFFF: Nicht-Zeichen
+2F800-2FA1D: Doppelte Zeichen aus CNS 11643-1992
+2FFFE-2FFFF: Nicht-Zeichen
+3FFFE-3FFFF: Nicht-Zeichen
+4FFFE-4FFFF: Nicht-Zeichen
+5FFFE-5FFFF: Nicht-Zeichen
+6FFFE-6FFFF: Nicht-Zeichen
+7FFFE-7FFFF: Nicht-Zeichen
+8FFFE-8FFFF: Nicht-Zeichen
+9FFFE-9FFFF: Nicht-Zeichen
+AFFFE-AFFFF: Nicht-Zeichen
+BFFFE-BFFFF: Nicht-Zeichen
+CFFFE-CFFFF: Nicht-Zeichen
+DFFFE-DFFFF: Nicht-Zeichen
+E0001-E0001: Tag-IDs
+E0020-E007E: Komponenten kennzeichnen
+E007F-E007F: Stateful Tag Terminator
+E0100-E01EF: Ideografiespezifische Variationsselektoren
+EFFFE-EFFFF: Nicht-Zeichen
+FFFFE-FFFFF: Nicht-Zeichen

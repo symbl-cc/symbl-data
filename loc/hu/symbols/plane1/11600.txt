@@ -4,10 +4,10 @@
 11603: Modi betű Ii
 11604: Modi betű U
 11605: Modi betű Uu
-11606: Modi betű Vocalic R
-11607: Modi betű Vocalic Rr
-11608: Modi betű Vocalic L
-11609: Modi betű Vocalic Ll
+11606: Modi betű magánhangzóban bővelkedő R
+11607: Modi betű magánhangzóban bővelkedő Rr
+11608: Modi betű magánhangzóban bővelkedő L
+11609: Modi betű magánhangzóban bővelkedő Ll
 1160A: Modi betű E
 1160B: Modi betű Ai
 1160C: Modi betű O
@@ -46,27 +46,27 @@
 1162D: Modi betű Sa
 1162E: Modi betű Ha
 1162F: Modi betű Lla
-11630: Modi Vowel Sign Aa
-11631: Modi Vowel Sign I
-11632: Modi Vowel Sign Ii
-11633: Modi Vowel Sign U
-11634: Modi Vowel Sign Uu
-11635: Modi Vowel Sign Vocalic R
-11636: Modi Vowel Sign Vocalic Rr
-11637: Modi Vowel Sign Vocalic L
-11638: Modi Vowel Sign Vocalic Ll
-11639: Modi Vowel Sign E
-1163A: Modi Vowel Sign Ai
-1163B: Modi Vowel Sign O
-1163C: Modi Vowel Sign Au
-1163D: Modi Sign Anusvara
-1163E: Modi Sign Visarga
-1163F: Modi Sign Virama : halant
-11640: Modi Sign Ardhacandra
+11630: Modi magánhangzó jel Aa
+11631: Modi magánhangzó jel I
+11632: Modi magánhangzó jel Ii
+11633: Modi magánhangzó jel U
+11634: Modi magánhangzó jel Uu
+11635: Modi magánhangzó jel magánhangzóban bővelkedő R
+11636: Modi magánhangzó jel magánhangzóban bővelkedő Rr
+11637: Modi magánhangzó jel magánhangzóban bővelkedő L
+11638: Modi magánhangzó jel magánhangzóban bővelkedő Ll
+11639: Modi magánhangzó jel E
+1163A: Modi magánhangzó jel Ai
+1163B: Modi magánhangzó jel O
+1163C: Modi magánhangzó jel Au
+1163D: Modi jel Anusvara
+1163E: Modi jel Visarga
+1163F: Modi jel Virama: halant
+11640: Modi jel Ardhacandra
 11641: Modi Danda
-11642: Modi Double Danda
-11643: Modi Abbreviation Sign
-11644: Modi Sign Huva
+11642: Modi kettős Danda
+11643: Modi rövidítés jel
+11644: Modi jel Huva
 11645:
 11646:
 11647:
@@ -78,35 +78,35 @@
 1164D:
 1164E:
 1164F:
-11650: Modi Digit Zero
-11651: Modi Digit One
-11652: Modi Digit Two
-11653: Modi Digit Three
-11654: Modi Digit Four
-11655: Modi Digit Five
-11656: Modi Digit Six
-11657: Modi Digit Seven
-11658: Modi Digit Eight
-11659: Modi Digit Nine
+11650: Modi számjegy nulla
+11651: Modi számjegy egy
+11652: Modi számjegy kettő
+11653: Modi számjegy három
+11654: Modi számjegy négy
+11655: Modi számjegy öt
+11656: Modi számjegy hat
+11657: Modi számjegy hét
+11658: Modi számjegy nyolc
+11659: Modi számjegy kilenc
 1165A:
 1165B:
 1165C:
 1165D:
 1165E:
 1165F:
-11660:
-11661:
-11662:
-11663:
-11664:
-11665:
-11666:
-11667:
-11668:
-11669:
-1166A:
-1166B:
-1166C:
+11660: Mongol birga díszítéssel
+11661: Mongol forgatott birga
+11662: Mongol dupla birga díszítéssel
+11663: Mongol hármas birga díszítéssel
+11664: Mongol birga dupla díszítéssel
+11665: Mongol forgatott birga díszítéssel
+11666: Mongol forgatott birga dupla díszítéssel
+11667: Mongol fordított birga
+11668: Mongol fordított birga dupla díszítéssel
+11669: Mongol örvény birga
+1166A: Mongol örvény birga díszítéssel
+1166B: Mongol örvény birga dupla díszítéssel
+1166C: Mongol örvényelt birga dupla díszítéssel
 1166D:
 1166E:
 1166F:
@@ -169,20 +169,20 @@
 116A8: Takri betű Sa
 116A9: Takri betű Ha
 116AA: Takri betű Rra
-116AB: Takri Sign Anusvara
-116AC: Takri Sign Visarga
-116AD: Takri Vowel Sign Aa
-116AE: Takri Vowel Sign I
-116AF: Takri Vowel Sign Ii
-116B0: Takri Vowel Sign U
-116B1: Takri Vowel Sign Uu
-116B2: Takri Vowel Sign E
-116B3: Takri Vowel Sign Ai
-116B4: Takri Vowel Sign O
-116B5: Takri Vowel Sign Au
-116B6: Takri Sign Virama
-116B7: Takri Sign Nukta
-116B8:
+116AB: Takri jel Anusvara
+116AC: Takri jel Visarga
+116AD: Takri magánhangzó jel Aa
+116AE: Takri magánhangzó jel I
+116AF: Takri magánhangzó jel Ii
+116B0: Takri magánhangzó jel U
+116B1: Takri magánhangzó jel Uu
+116B2: Takri magánhangzó jel E
+116B3: Takri magánhangzó jel Ai
+116B4: Takri magánhangzó jel O
+116B5: Takri magánhangzó jel Au
+116B6: Takri jel Virama
+116B7: Takri jel Nukta
+116B8: Takri betű régies Kha
 116B9:
 116BA:
 116BB:
@@ -190,16 +190,16 @@
 116BD:
 116BE:
 116BF:
-116C0: Takri Digit Zero
-116C1: Takri Digit One
-116C2: Takri Digit Two
-116C3: Takri Digit Three
-116C4: Takri Digit Four
-116C5: Takri Digit Five
-116C6: Takri Digit Six
-116C7: Takri Digit Seven
-116C8: Takri Digit Eight
-116C9: Takri Digit Nine
+116C0: Takri számjegy nulla
+116C1: Takri számjegy egy
+116C2: Takri számjegy kettő
+116C3: Takri számjegy három
+116C4: Takri számjegy négy
+116C5: Takri számjegy öt
+116C6: Takri számjegy hat
+116C7: Takri számjegy hét
+116C8: Takri számjegy nyolc
+116C9: Takri számjegy kilenc
 116CA:
 116CB:
 116CC:

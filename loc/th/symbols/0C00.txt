@@ -1,6 +1,6 @@
 0C00: เตลูกูเข้าสู่ระบบรวม Candrabindu ด้านบน
-0C01: เตลูกูลงชื่อ Candrabindu : arasunna
-0C02: เตลูกูลงชื่อ Anusvara : สุนัต
+0C01: เตลูกูลงชื่อ Candrabindu: arasunna
+0C02: เตลูกูลงชื่อ Anusvara: สุนัต
 0C03: Visarga ลงชื่อเข้าใช้เตลูกู
 0C04: ลงชื่อเตลูกูผสาน Anusvara Above
 0C05: เตลูกูตัวอักษร A
@@ -75,7 +75,7 @@
 0C4A: Telugu Vowel Sign O
 0C4B: Telugu Vowel Sign Oo
 0C4C: Telugu Vowel Sign Au
-0C4D: เตลูกู Virama เข้าสู่ระบบ : halant (ชื่อที่ต้องการ)
+0C4D: เตลูกู Virama เข้าสู่ระบบ: halant (ชื่อที่ต้องการ)
 0C4E:
 0C4F:
 0C50:
@@ -98,8 +98,8 @@
 0C61: Telugu Letter Vocalic Ll
 0C62: เสียงสระ Telugu Vocalic L
 0C63: เสียงสระ Telugu Vocalic Ll
-0C64: <Reserved>
-0C65: <Reserved>
+0C64:
+0C65:
 0C66: เตลูกูเลขศูนย์
 0C67: เตลูกู Digit One
 0C68: เตลูกูเลขสอง
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu เครื่องหมาย Siddham
 0C78: Telugu Fraction Digit Zero เพื่อพลังแปลก ๆ ของสี่
 0C79: ส่วนหนึ่งของพลังเตลูกูสำหรับพลังแปลกสี่
 0C7A: ส่วนภาษาเตลูกูเศษสองสำหรับพลังแปลกสี่
@@ -226,8 +226,8 @@
 0CE1: กั ณ ณาท Letter Vocalic Ll
 0CE2: กันนาดาสระลงชื่อ Vocalic L
 0CE3: กันนา Vowel Sign Vocalic Ll
-0CE4: <Reserved>
-0CE5: <Reserved>
+0CE4:
+0CE5:
 0CE6: กันนาดาดิจิตศูนย์
 0CE7: กันนาดาดิจิทวัน
 0CE8: กันนาดาดิจิตสอง
@@ -253,4 +253,4 @@
 0CFC:
 0CFD:
 0CFE:
-0CFF:
+0CFF:

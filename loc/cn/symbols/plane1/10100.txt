@@ -62,7 +62,7 @@
 1013D: 爱琴海液体测量第一亚基
 1013E: 爱琴海测量第二亚基
 1013F: 爱琴海测量第三亚基
-10140: 希腊Acrophonic Attic One Quarter
+10140: 希腊Acrophonic Attic 四分之一
 10141: 希腊语Acrophonic阁楼一半
 10142: 希腊语Acrophonic阁楼一德拉克马
 10143: 希腊Acrophonic阁楼五
@@ -70,9 +70,9 @@
 10145: 希腊Acrophonic阁楼五百
 10146: 希腊Acrophonic阁楼五千
 10147: 希腊语Acrophonic阁楼五十万
-10148: 希腊语Acrophonic Attic Five Talents
-10149: 希腊语Acrophonic Attic Ten Talents
-1014A: 希腊语Acrophonic阁楼五十人才
+10148: 希腊数字 Attic 五人才
+10149: 希腊数字 Attic 十人才
+1014A: 希腊语Acrophonic阁楼五十人才 截頭表音法
 1014B: 希腊Acrophonic Attic百人才
 1014C: 希腊Acrophonic阁楼五百人
 1014D: 希腊语Acrophonic阁楼一千个人才
@@ -84,37 +84,37 @@
 10153: 希腊Acrophonic阁楼五百名议员
 10154: 希腊语Acrophonic Attic一千名议员
 10155: 希腊Acrophonic阁楼一万名议员
-10156: 希腊语Acrophonic Attic五万名议员
-10157: 希腊Acrophonic Attic Ten Mnas
-10158: 希腊Acrophonic Heraeum One Plethron
-10159: 希腊语Acrophonic Thespian One
-1015A: 希腊语Acrophonic Hermionian One
-1015B: 希腊语Acrophonic Epidaurean Two
-1015C: 希腊语Acrophonic Thespian Two
+10156: 希腊数字 Attic五万名议员
+10157: 希腊数字 Attic 十个月
+10158: 希腊Acrophonic Heraeum 之一 Plethron
+10159: 希腊语Acrophonic Thespian 之一
+1015A: 希腊语Acrophonic Hermionian 之一
+1015B: 希腊语Acrophonic Epidaurean 二
+1015C: 希腊语Acrophonic Thespian 二
 1015D: 希腊语Acrophonic Cyrenaic两德拉克马
 1015E: 希腊Acrophonic Epidaurean两德拉克马
-1015F: 希腊语Acrophonic Troezenian Five
-10160: 希腊语Acrophonic Troezenian Ten
-10161: 希腊语Acrophonic Troezenian Ten Alternate Form
-10162: 希腊语Acrophonic Hermionian Ten
-10163: 希腊语Acrophonic Messenian Ten
-10164: 希腊语Acrophonic Thespian Ten
-10165: 希腊语Acrophonic Thespian Thirty
-10166: 希腊语Acrophonic Troezenian Fifty
-10167: 希腊语Acrophonic Troezenian Fifty Alternate Form
-10168: 希腊语Acrophonic Hermionian Fifty
-10169: 希腊语Acrophonic Thespian Fifty
-1016A: 希腊语Acrophonic Thespian One
+1015F: 希腊语Acrophonic Troezenian 五
+10160: 希腊语Acrophonic Troezenian 十
+10161: 希腊语Acrophonic Troezenian 十 Alternate Form
+10162: 希腊语Acrophonic Hermionian 十
+10163: 希腊语Acrophonic Messenian 十
+10164: 希腊语Acrophonic Thespian 十
+10165: 希腊语Acrophonic Thespian 三十
+10166: 希腊语Acrophonic Troezenian 五十
+10167: 希腊语Acrophonic Troezenian 五十 Alternate Form
+10168: 希腊语Acrophonic Hermionian 五十
+10169: 希腊语Acrophonic Thespian 五十
+1016A: 希腊语Acrophonic Thespian 之一
 1016B: 希腊语Acrophonic Thespian三百
 1016C: 希腊语Acrophonic Epidaurean五百
 1016D: 希腊Acrophonic Troezenian五百
-1016E: 希腊语Acrophonic Thespian Five Hundred
+1016E: 希腊语Acrophonic Thespian 五百
 1016F: 希腊Acrophonic Carystian五百
 10170: 希腊Ac Ac的纳仙五百
 10171: 希腊语Acrophonic Thespian一千
-10172: 希腊语Acrophonic Thespian Five Thousand
-10173: 希腊Acrophonic Delphic Five Mnas
-10174: 希腊Acrophonic Stratian Fifty Mnas
+10172: 希腊语Acrophonic Thespian 五千
+10173: 希腊Acrophonic Delphic 五 Mnas
+10174: 希腊Acrophonic Stratian 五十 Mnas
 10175: 希腊一半标志
 10176: 希腊一半标志替代形式
 10177: 希腊三分之二签署
@@ -154,11 +154,11 @@
 10199: 罗马Dupondius标志
 1019A: 罗马作为标志
 1019B: 罗马世纪标志
-1019C:
+1019C: 斧头符号
 1019D:
 1019E:
 1019F:
-101A0: 希腊符号Tau Rho : rho-cross，staurogram
+101A0: 希腊符号Tau Rho: rho-cross，staurogram
 101A1:
 101A2:
 101A3:
@@ -253,4 +253,4 @@
 101FC: Phaistos Disc Sign波浪带
 101FD: Phaistos圆盘标志结合倾斜冲程
 101FE:
-101FF:
+101FF:

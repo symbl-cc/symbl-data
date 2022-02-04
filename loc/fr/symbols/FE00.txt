@@ -68,7 +68,7 @@ FE42: Forme de présentation de crochet vertical droit en coin
 FE43: Forme de présentation de crochet blanc vertical gauche en coin
 FE44: Forme de présentation de crochet blanc vertical droit en coin
 FE45: Point sésame
-FE46: Point sésame ajouré : point sésame blanc
+FE46: Point sésame ajouré: point sésame blanc
 FE47: Forme de présentation de crochet gauche vertical
 FE48: Forme de présentation de crochet droit vertical
 FE49: Tiret haut en pointillés
@@ -102,10 +102,10 @@ FE64: Signe inférieur à minuscule
 FE65: Signe supérieur à minuscule
 FE66: Signe égal à minuscule
 FE67: 
-FE68: Barre oblique inversée minuscule : contre-cotice minuscule
+FE68: Barre oblique inversée minuscule: contre-cotice minuscule
 FE69: Symbole dollar minuscule
 FE6A: Symbole pour cent minuscule
-FE6B: Arrobe minuscule : à commercial, arobas, arobase, arrobas [minuscule]
+FE6B: Arrobe minuscule: à commercial, arobas, arobase, arrobas [minuscule]
 FE6C: 
 FE6D: 
 FE6E: 
@@ -253,4 +253,4 @@ FEFB: Ligature arabe lam alif isolé
 FEFC: Ligature arabe lam alif final
 FEFD: 
 FEFE: 
-FEFF: Indicateur d'ordre des octets : ioo, bom, espace insécable sans chasse : espinsc, zwnbsp
+FEFF: Indicateur d'ordre des octets: ioo, bom, espace insécable sans chasse , espinsc, zwnbsp

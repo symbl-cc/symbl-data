@@ -3,49 +3,49 @@
 3102:
 3103:
 3104:
-3105: Bopomofo ตัวอักษร B
-3106: Bopomofo ตัวอักษร P
-3107: Bopomofo ตัวอักษร M
-3108: Bopomofo ตัวอักษร F
-3109: Bopomofo ตัวอักษร D
-310A: Bopomofo ตัวอักษร T
-310B: Bopomofo ตัวอักษร N
-310C: Bopomofo ตัวอักษร L
-310D: Bopomofo ตัวอักษร G
-310E: Bopomofo ตัวอักษร K
-310F: Bopomofo ตัวอักษร H
-3110: Bopomofo ตัวอักษร J
-3111: Bopomofo จดหมาย Q
-3112: Bopomofo ตัวอักษร X
-3113: Bopomofo จดหมาย Zh
-3114: Bopomofo จดหมาย Ch
-3115: Bopomofo ตัวอักษร Sh
-3116: Bopomofo ตัวอักษร R
-3117: Bopomofo ตัวอักษร Z
-3118: Bopomofo ตัวอักษร C
-3119: Bopomofo ตัวอักษร S
-311A: Bopomofo ตัวอักษร A
-311B: Bopomofo จดหมาย O
-311C: Bopomofo จดหมาย E
-311D: จดหมาย Bopomofo เอ๊ะ
-311E: Bopomofo จดหมาย Ai
-311F: Bopomofo จดหมาย Ei
-3120: Bopomofo จดหมาย Au
-3121: Bopomofo จดหมาย Ou
-3122: จดหมาย Bopomofo
-3123: จดหมาย Bopomofo
-3124: Bopomofo จดหมายอ่างทอง
-3125: จดหมาย Bopomofo
-3126: Bopomofo จดหมาย Er
-3127: Bopomofo จดหมาย I
-3128: Bopomofo ตัวอักษร U
-3129: Bopomofo จดหมาย Iu
-312A: Bopomofo ตัวอักษร V
-312B: Bopomofo Letter Ng
-312C: จดหมาย Bopomofo Gn
-312D: Bopomofo จดหมาย Ih
-312E: Bopomofo ตัวอักษร O ที่มีจุดด้านบน
-312F: Bopomofo จดหมาย Nn
+3105: จู้อิน ตัวอักษร B
+3106: จู้อิน ตัวอักษร P
+3107: จู้อิน ตัวอักษร M
+3108: จู้อิน ตัวอักษร F
+3109: จู้อิน ตัวอักษร D
+310A: จู้อิน ตัวอักษร T
+310B: จู้อิน ตัวอักษร N
+310C: จู้อิน ตัวอักษร L
+310D: จู้อิน ตัวอักษร G
+310E: จู้อิน ตัวอักษร K
+310F: จู้อิน ตัวอักษร H
+3110: จู้อิน ตัวอักษร J
+3111: จู้อิน จดหมาย Q
+3112: จู้อิน ตัวอักษร X
+3113: จู้อิน จดหมาย Zh
+3114: จู้อิน จดหมาย Ch
+3115: จู้อิน ตัวอักษร Sh
+3116: จู้อิน ตัวอักษร R
+3117: จู้อิน ตัวอักษร Z
+3118: จู้อิน ตัวอักษร C
+3119: จู้อิน ตัวอักษร S
+311A: จู้อิน ตัวอักษร A
+311B: จู้อิน จดหมาย O
+311C: จู้อิน จดหมาย E
+311D: จดหมาย จู้อิน เอ๊ะ
+311E: จู้อิน จดหมาย Ai
+311F: จู้อิน จดหมาย Ei
+3120: จู้อิน จดหมาย Au
+3121: จู้อิน จดหมาย Ou
+3122: จดหมาย จู้อิน
+3123: จดหมาย จู้อิน
+3124: จู้อิน จดหมายอ่างทอง
+3125: จดหมาย จู้อิน
+3126: จู้อิน จดหมาย Er
+3127: จู้อิน จดหมาย I
+3128: จู้อิน ตัวอักษร U
+3129: จู้อิน จดหมาย Iu
+312A: จู้อิน ตัวอักษร V
+312B: จู้อิน ตัวอักษร Ng
+312C: จดหมาย จู้อิน Gn
+312D: จู้อิน จดหมาย Ih
+312E: จู้อิน ตัวอักษร O ที่มีจุดด้านบน
+312F: จู้อิน จดหมาย Nn
 3130:
 3131: อังกูลจดหมาย Kiyeok
 3132: อังกูลจดหมาย Ssangkiyeok
@@ -65,22 +65,22 @@
 3140: อังกูลจดหมาย Rieul-Hieuh
 3141: อังกูลจดหมาย Mieum
 3142: Pieul ตัวอักษรอังกูล
-3143: Hangul Letter Ssangpieup
-3144: Hangul Letter Pieup-Sios
+3143: Hangul ตัวอักษร Ssangpieup
+3144: Hangul ตัวอักษร Pieup-Sios
 3145: อังกูลจดหมาย Sios
-3146: Hangul Letter Ssangsios
+3146: Hangul ตัวอักษร Ssangsios
 3147: อังกูลจดหมาย Ieung
 3148: อังกูลจดหมาย Cieuc
-3149: Hangul Letter Ssangcieuc
+3149: Hangul ตัวอักษร Ssangcieuc
 314A: อังกูลจดหมาย Chieuch
 314B: อังกูลตัวอักษร Khieukh
 314C: อักษรอังกูล
 314D: อังกูลจดหมาย Phieuph
 314E: อังกูลจดหมาย Hieuh
 314F: อังกูลตัวอักษร A
-3150: อังกูล Letter Ae
+3150: อังกูล ตัวอักษร Ae
 3151: อังกูลจดหมาย
-3152: Hangul Letter Yae
+3152: Hangul ตัวอักษร Yae
 3153: อังกูลจดหมาย Eo
 3154: อังกูลตัวอักษร E
 3155: อังกูลตัวอักษรยีโอ
@@ -98,8 +98,8 @@
 3161: อังกูลจดหมายของสหภาพยุโรป
 3162: อังกูลจดหมายยี่
 3163: อังกูลตัวอักษร I
-3164: Hangul Filler : chaeum
-3165: Hangul Letter Ssangnieun
+3164: Hangul Filler: chaeum
+3165: Hangul ตัวอักษร Ssangnieun
 3166: อังกูลจดหมาย Nieun-Tikeut
 3167: อังกูลจดหมาย Nieun-Sios
 3168: อังกูลจดหมาย Nieun-Pansios
@@ -112,11 +112,11 @@
 316F: อังกูลจดหมาย Mieum-Sios
 3170: อังกูลจดหมาย Mieum-Pansios
 3171: อังกูลจดหมาย Kapyeounmieum
-3172: Hangul Letter Pieup-Kiyeok
-3173: Hangul Letter Pieup-Tikeut
-3174: Hangul Letter Pieup-Sios-Kiyeok
-3175: Hangul Letter Pieup-Sios-Tikeut
-3176: Hangul Letter Pieup-Cieuc
+3172: Hangul ตัวอักษร Pieup-Kiyeok
+3173: Hangul ตัวอักษร Pieup-Tikeut
+3174: Hangul ตัวอักษร Pieup-Sios-Kiyeok
+3175: Hangul ตัวอักษร Pieup-Sios-Tikeut
+3176: Hangul ตัวอักษร Pieup-Cieuc
 3177: อังกูลจดหมาย Pieup-Thieuth
 3178: อังกูลจดหมาย Kapyeounpieup
 3179: อังกูลจดหมาย Kapyeounssangpieup
@@ -125,25 +125,25 @@
 317C: อังกูลจดหมาย Sios-Tikeut
 317D: อังกูลจดหมาย Sios-Pieup
 317E: อังกูลจดหมาย Sios-Cieuc
-317F: Hangul Letter Pansios
-3180: Hangul Letter Ssangieung : ssangyesieung
+317F: Hangul ตัวอักษร Pansios
+3180: Hangul ตัวอักษร Ssangieung: ssangyesieung
 3181: อังกูลจดหมาย Yesieung
 3182: อังกูลจดหมาย Yesieung-Sios
 3183: อังกูลจดหมาย Yesieung-Pansios
 3184: อังกูลจดหมาย Kapyeounphieuph
 3185: อังกูลจดหมาย Ssanghieuh
-3186: Hangul Letter Yeorinhieuh
+3186: Hangul ตัวอักษร Yeorinhieuh
 3187: อังกูลตัวอักษร Yo-Ya
 3188: อังกูลจดหมาย Yo-Yae
 3189: อังกูลตัวอักษร Yo-I
-318A: Hangul Letter Yu-Yeo
+318A: Hangul ตัวอักษร Yu-Yeo
 318B: อังกูลตัวอักษร Yu-Ye
 318C: อังกูลตัวอักษร Yu-I
 318D: อังกูลจดหมาย Araea
 318E: อักษรอังกูล
 318F:
-3190: เครื่องหมายการเชื่อมโยงคำอธิบายประกอบอุดมการณ์ : tateten
-3191: เครื่องหมายคำอธิบายประกอบเชิงอุดมคติ : kaeriten อีกครั้ง
+3190: เครื่องหมายการเชื่อมโยงคำอธิบายประกอบอุดมการณ์: tateten
+3191: เครื่องหมายคำอธิบายประกอบเชิงอุดมคติ: kaeriten อีกครั้ง
 3192: คำอธิบายประกอบสัญลักษณ์แห่งอุดมคติหนึ่งเครื่องหมาย
 3193: คำอธิบายประกอบสัญลักษณ์สองมิติ
 3194: คำอธิบายประกอบอุดมการณ์สามเครื่องหมาย
@@ -158,38 +158,38 @@
 319D: เครื่องหมายคำอธิบายประกอบในเชิงอุดมคติ
 319E: Earth Mark Annotation
 319F: เครื่องหมายคำอธิบายประกอบเชิงอุดมคติ
-31A0: Bopomofo จดหมาย Bu
-31A1: Bopomofo Letter Zi
-31A2: Bopomofo จดหมาย Ji
-31A3: Bopomofo จดหมาย Gu
-31A4: Bopomofo จดหมาย Ee
-31A5: จดหมาย Bopomofo Enn
-31A6: Bopomofo จดหมาย Oo
-31A7: จดหมาย Bopomofo
-31A8: Bopomofo จดหมาย Ir
-31A9: จดหมาย Bopomofo แอน
-31AA: Bopomofo Letter Inn
-31AB: Bopomofo จดหมาย Unn
-31AC: จดหมาย Bopomofo
-31AD: Bopomofo จดหมาย Ngg
-31AE: Bopomofo จดหมาย Ainn
-31AF: Bopomofo Letter Aunn
-31B0: Bopomofo จดหมาย Am
-31B1: จดหมาย Bopomofo
-31B2: จดหมาย Bopomofo
-31B3: Bopomofo Letter Innn
-31B4: Bopomofo จดหมายฉบับสุดท้าย P
-31B5: Bopomofo ตัวอักษรสุดท้าย T
-31B6: Bopomofo จดหมายฉบับสุดท้าย K
-31B7: ตัวอักษรสุดท้าย Bopomofo H
-31B8: Bopomofo จดหมาย Gh
-31B9: จดหมาย Bopomofo Lh
-31BA: Bopomofo Letter Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31A0: จู้อิน จดหมาย Bu
+31A1: จู้อิน ตัวอักษร Zi
+31A2: จู้อิน จดหมาย Ji
+31A3: จู้อิน จดหมาย Gu
+31A4: จู้อิน จดหมาย Ee
+31A5: จดหมาย จู้อิน Enn
+31A6: จู้อิน จดหมาย Oo
+31A7: จดหมาย จู้อิน
+31A8: จู้อิน จดหมาย Ir
+31A9: จดหมาย จู้อิน แอน
+31AA: จู้อิน ตัวอักษร Inn
+31AB: จู้อิน จดหมาย Unn
+31AC: จดหมาย จู้อิน
+31AD: จู้อิน จดหมาย Ngg
+31AE: จู้อิน จดหมาย Ainn
+31AF: จู้อิน ตัวอักษร Aunn
+31B0: จู้อิน จดหมาย Am
+31B1: จดหมาย จู้อิน
+31B2: จดหมาย จู้อิน
+31B3: จู้อิน ตัวอักษร Innn
+31B4: จู้อิน จดหมายฉบับสุดท้าย P
+31B5: จู้อิน ตัวอักษรสุดท้าย T
+31B6: จู้อิน จดหมายฉบับสุดท้าย K
+31B7: ตัวอักษรสุดท้าย จู้อิน H
+31B8: จู้อิน จดหมาย Gh
+31B9: จดหมาย จู้อิน Lh
+31BA: จู้อิน ตัวอักษร Zy
+31BB: จู้อิน สุดท้าย ตัวอักษร G
+31BC: จู้อิน ตัวอักษร Gw
+31BD: จู้อิน ตัวอักษร Kw
+31BE: จู้อิน ตัวอักษร Oe
+31BF: จู้อิน ตัวอักษร Ah
 31C0: Cjk Stroke T
 31C1: Cjk Stroke Wg
 31C2: Cjk Stroke Xg

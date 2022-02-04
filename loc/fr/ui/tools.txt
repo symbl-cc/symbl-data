@@ -1,18 +1,21 @@
 : Outils
 
-[encoder]: Encoder
+toolsListTitle: Essayez également d'autres outils
+
+[encoder]: Encodeur HTML
 
 desc: Encode les caractères en code html et inversement
 plain: Texte brut
-full: Plein
-text: Texte
+full: HTML
+text: HTML et texte
 entities: Encode les caractères avec des entités
 br: Encode les sauts de ligne
+result: Résultat
 
-[decoder]: Décodeur
+[decoder]: Décodeur Unicode
 
 desc: Encode les caractères en Unicode ou décode retour
-example: Il s'agit, par exemple,
+example: C'est un example
 code: Unicode
 text: Texte
 
@@ -22,6 +25,7 @@ desc: Retournez les caractères cyrilliques et latins à l'envers
 plain: Texte brut
 flipped: Texte Flipped
 backed: Retour au texte avant
+result: Résultat
 
 [generator]: Caractère Unicode générateur de table
 
@@ -32,3 +36,100 @@ info: Disponible: {symbol}, {dec}, {hex}, {html}
 generate: Générer
 result: Résultat
 
+[strikethrough-text]: Texte barré
+
+h1: Texte barré
+desc: Texte barré
+text: Texte
+example: C'est un example
+
+strikethroughText: Texte barré
+crossed: Texte souligné
+dotted: Pointillé
+slash: Symbole de barre oblique
+doubleunderline: Double soulignement
+waveline: Ligne de vague
+ciphertext: Texte chiffré
+fullyshaded: Texte ombré
+strikethroughSlash: Symbole de barre oblique haute
+
+[register-converter]: Conversion de texte
+h1: Conversion de texte
+desc: Convertit chaque lettre d'un mot
+text: Texte
+example: C'est un example
+
+uppercase: EN MAJUSCULES
+lowercase: en minuscules
+inversioncase: iNVERSION
+randomcase: ALéaToiRE
+alternatingcase : aLtErNaNcE
+capitalizedcase: Lettre Majuscule
+
+[word-counter]: Compteur de caractères
+h1: Compteur de caractères
+desc: Compter les caractères dans le texte
+
+placeholder: Insert text ...
+symbols: Total des caractères
+without-spaces: Sans d'espaces
+no-punctuation-marks: Pas de signes de ponctuation
+words: Total des mots
+average-amount: Nombre moyen de mots dans une phrase
+long-word: Le mot le plus long
+
+[braille]: Traducteur Braille
+h1: Traducteur Braille
+desc: Convertir du texte en Braille
+
+[gothic]: Convertisseur de texte en style Gothique
+h1: Convertisseur de texte en style Gothique
+desc: Écriture de texte en police gothique
+
+text: Texte (latin)
+example: Gothic
+regularText: Gothique
+boldText: Gothique audacieux
+
+result: Résultat
+
+[morse]: Convertisseur de texte en code Morse
+h1: Convertisseur de texte en code Morse
+desc: Convertit le texte et décode le code Morse
+
+example: C'est un example
+code: Morse
+latin: Latin
+numbers: Nombres
+punctuation: Ponctuation
+
+titleAlphabet: Alphabet morse
+
+result: Résultat
+
+[password-generator]: Générateur de mot de passe
+h1: Générateur de mot de passe
+desc: Comment générer un mot de passe fort
+
+uppercase: Majuscules (A-Z)
+lowercase: Minuscule (a-z)
+numbers: Chiffres (0-9)
+special: Caractères spéciaux (!@#$%^&*)
+
+maxLength: symboles (4-99)
+generate: Générer
+warning: Sélectionnez au moins un jeu de caractères pour générer votre mot de passe
+
+[text-to-symbols]: Texte à partir de symboles
+h1: Texte à partir de symboles
+desc: Écrire du texte avec des symboles
+
+text: Texte (Latin)
+example: Exemple
+
+blank: Lettres vierges
+filled: Lettres peintes
+background: Lettres avec fond
+symbol-dolar: Lettres du symbole $
+symbol-lattice: Lettres du symbole #
+symbol-paragraph: Lettres du symbole ¶

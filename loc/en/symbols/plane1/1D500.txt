@@ -4,30 +4,30 @@
 1D503: Mathematical Bold Script Small Z
 1D504: Mathematical Fraktur Capital A
 1D505: Mathematical Fraktur Capital B
-1D506: <Reserved>
+1D506:
 1D507: Mathematical Fraktur Capital D
 1D508: Mathematical Fraktur Capital E
 1D509: Mathematical Fraktur Capital F
 1D50A: Mathematical Fraktur Capital G
-1D50B: <Reserved>
-1D50C: <Reserved>
+1D50B:
+1D50C:
 1D50D: Mathematical Fraktur Capital J
 1D50E: Mathematical Fraktur Capital K
 1D50F: Mathematical Fraktur Capital L
-1D510: Mathematical Fraktur Capital M : new testament majority text
+1D510: Mathematical Fraktur Capital M: new testament majority text
 1D511: Mathematical Fraktur Capital N
 1D512: Mathematical Fraktur Capital O
 1D513: Mathematical Fraktur Capital P
 1D514: Mathematical Fraktur Capital Q
-1D515: <Reserved>
-1D516: Mathematical Fraktur Capital S : septuagint, greek old testament
+1D515:
+1D516: Mathematical Fraktur Capital S: septuagint, greek old testament
 1D517: Mathematical Fraktur Capital T
 1D518: Mathematical Fraktur Capital U
 1D519: Mathematical Fraktur Capital V
 1D51A: Mathematical Fraktur Capital W
 1D51B: Mathematical Fraktur Capital X
 1D51C: Mathematical Fraktur Capital Y
-1D51D: <Reserved>
+1D51D:
 1D51E: Mathematical Fraktur Small A
 1D51F: Mathematical Fraktur Small B
 1D520: Mathematical Fraktur Small C
@@ -56,22 +56,22 @@
 1D537: Mathematical Fraktur Small Z
 1D538: Mathematical Double-Struck Capital A
 1D539: Mathematical Double-Struck Capital B
-1D53A: <Reserved>
+1D53A:
 1D53B: Mathematical Double-Struck Capital D
 1D53C: Mathematical Double-Struck Capital E
 1D53D: Mathematical Double-Struck Capital F
 1D53E: Mathematical Double-Struck Capital G
-1D53F: <Reserved>
+1D53F:
 1D540: Mathematical Double-Struck Capital I
 1D541: Mathematical Double-Struck Capital J
 1D542: Mathematical Double-Struck Capital K
 1D543: Mathematical Double-Struck Capital L
 1D544: Mathematical Double-Struck Capital M
-1D545: <Reserved>
+1D545:
 1D546: Mathematical Double-Struck Capital O
-1D547: <Reserved>
-1D548: <Reserved>
-1D549: <Reserved>
+1D547:
+1D548:
+1D549:
 1D54A: Mathematical Double-Struck Capital S
 1D54B: Mathematical Double-Struck Capital T
 1D54C: Mathematical Double-Struck Capital U
@@ -79,7 +79,7 @@
 1D54E: Mathematical Double-Struck Capital W
 1D54F: Mathematical Double-Struck Capital X
 1D550: Mathematical Double-Struck Capital Y
-1D551: <Reserved>
+1D551:
 1D552: Mathematical Double-Struck Small A
 1D553: Mathematical Double-Struck Small B
 1D554: Mathematical Double-Struck Small C
@@ -253,4 +253,4 @@
 1D5FC: Mathematical Sans-Serif Bold Small O
 1D5FD: Mathematical Sans-Serif Bold Small P
 1D5FE: Mathematical Sans-Serif Bold Small Q
-1D5FF: Mathematical Sans-Serif Bold Small R
+1D5FF: Mathematical Sans-Serif Bold Small R

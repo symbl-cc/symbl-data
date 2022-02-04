@@ -74,7 +74,7 @@
 1F649: Singe de la sagesse n’entendant rien de mal
 1F64A: Singe de la sagesse ne disant rien de mal
 1F64B: Personne heureuse une main en l’air
-1F64C: Personne en fête levant les deux mains : banzai!
+1F64C: Personne en fête levant les deux mains: banzai!
 1F64D: Personne fronçant les sourcils
 1F64E: Personne faisant la moue
 1F64F: Personne les mains jointes
@@ -104,18 +104,18 @@
 1F667: Bourgeonsud-est à trait fort
 1F668: Ornement carré de courtepointe creux
 1F669: Ornement carré de courtepointe creux inscrit dans un carré noir
-1F66A: Ornement carré de courtepointe plein : ornement à quatre nœuds
-1F66B: Ornement carré de courtepointe plein inscrit dans un carré noir : ornement de noeud quadruple inverse
+1F66A: Ornement carré de courtepointe plein: ornement à quatre nœuds
+1F66B: Ornement carré de courtepointe plein inscrit dans un carré noir: ornement de noeud quadruple inverse
 1F66C: Fusée vers la gauche
 1F66D: Fusée vers le haut
 1F66E: Fusée vers la droite
 1F66F: Fusée vers le bas
-1F670: Ornement ligature et cursif : esperluette italique minuscule
+1F670: Ornement ligature et cursif: esperluette italique minuscule
 1F671: Ornement ligature et cursif à trait fort
 1F672: Ornement ligature et ouvert
 1F673: Ornement ligature et ouvert à trait fort
 1F674: Ornement perluète à trait fort
-1F675: Ornement perluète à paraphe : esperluette italique
+1F675: Ornement perluète à paraphe: esperluette italique
 1F676: Guillemet de fantaisie en forme de grosse virgule double culbutée sans empattement
 1F677: Guillemet de fantaisie en forme de grosse virgule double sans empattement
 1F678: Guillemet inférieur de fantaisie en forme de grosse virgule double sans empattement
@@ -132,10 +132,10 @@
 1F683: Wagon de chemin de fer
 1F684: Train à grande vitesse
 1F685: Train à grande vitesse à nez en forme d’obus
-1F686: Train : train interurbain
-1F687: Métro : métro, train souterrain
+1F686: Train: train interurbain
+1F687: Métro: métro, train souterrain
 1F688: Rail léger
-1F689: Gare : train, station de métro
+1F689: Gare: train, station de métro
 1F68A: Tram
 1F68B: Wagon de tram
 1F68C: Autobus
@@ -160,14 +160,14 @@
 1F69F: Train suspendu
 1F6A0: Téléphérique
 1F6A1: Tramway aérien
-1F6A2: Navire : ligne de croisière
+1F6A2: Navire: ligne de croisière
 1F6A3: Chaloupe
 1F6A4: Hors-bord
 1F6A5: Feu de circulation horizontal
 1F6A6: Feu de circulation vertical
 1F6A7: Panneau indicateur de construction
-1F6A8: Gyrophare de voiture de police : gyrophare
-1F6A9: Fanion triangulaire de localisation : Information de Lieu
+1F6A8: Gyrophare de voiture de police: gyrophare
+1F6A9: Fanion triangulaire de localisation: Information de Lieu
 1F6AA: Porte
 1F6AB: Interdiction d’entrée
 1F6AC: Symbole fumeurs
@@ -180,13 +180,13 @@
 1F6B3: Bicyclettes interdites
 1F6B4: Cycliste
 1F6B5: Cycliste de montagne
-1F6B6: Piéton : en marchant
+1F6B6: Piéton: en marchant
 1F6B7: Piétons interdits
 1F6B8: Passage pour enfants
-1F6B9: Symbole homme : symbole de l'homme : toilettes pour hommes
-1F6BA: Symbole femme : symbole de la femme : toilettes des femmes
-1F6BB: Salle de toilettes : symbole homme et femme avec diviseur : toilettes unisexe
-1F6BC: Symbole bébé : bébé à bord, table à langer
+1F6B9: Symbole homme: symbole de l'homme , toilettes pour hommes
+1F6BA: Symbole femme: symbole de la femme , toilettes des femmes
+1F6BB: Salle de toilettes: symbole homme et femme avec diviseur , toilettes unisexe
+1F6BC: Symbole bébé: bébé à bord, table à langer
 1F6BD: Toilettes
 1F6BE: W-c
 1F6BF: Douche
@@ -196,24 +196,24 @@
 1F6C3: Douane
 1F6C4: Retrait des bagages
 1F6C5: Consigne de bagages
-1F6C6: Triangle aux coins arrondis : mise en garde
+1F6C6: Triangle aux coins arrondis: mise en garde
 1F6C7: Symbole d’interdiction
-1F6C8: Symbole source d’information cerclé : information
+1F6C8: Symbole source d’information cerclé: information
 1F6C9: Symbole des garçons
 1F6CA: Symbole des filles
-1F6CB: Divan et lampe : meubles, modes de vie
-1F6CC: Centre d’hébergement : hôtel, chambres
-1F6CD: Sacs à provisions : achats
-1F6CE: Cloche de table : accueil, services
+1F6CB: Divan et lampe: meubles, modes de vie
+1F6CC: Centre d’hébergement: hôtel, chambres
+1F6CD: Sacs à provisions: achats
+1F6CE: Cloche de table: accueil, services
 1F6CF: Lit
 1F6D0: Lieu de culte
 1F6D1: Signe octogonal
 1F6D2: Caddie
 1F6D3: Stupa
 1F6D4: Pagode 
-1F6D5: 
-1F6D6: 
-1F6D7: 
+1F6D5: Temple hindou (mandir)
+1F6D6: Hutte
+1F6D7: Ascenseur de personnes
 1F6D8: 
 1F6D9: 
 1F6DA: 
@@ -222,35 +222,35 @@
 1F6DD: 
 1F6DE: 
 1F6DF: 
-1F6E0: Marteau et clé à écrous : outils, atelier de réparation
-1F6E1: Bouclier : nous route autoroute
-1F6E2: Baril de pétrole : produits de base
+1F6E0: Marteau et clé à écrous: outils, atelier de réparation
+1F6E1: Bouclier: nous route autoroute
+1F6E2: Baril de pétrole: produits de base
 1F6E3: Autoroute
-1F6E4: Voie de chemin de fer : chemin de fer
-1F6E5: Bateau à moteur : bateau
-1F6E6: Avion militaire vers le haut : aéroport militaire
-1F6E7: Avion vers le haut : aéroport commercial
-1F6E8: Petit avion vers le haut : aérodrome
+1F6E4: Voie de chemin de fer: chemin de fer
+1F6E5: Bateau à moteur: bateau
+1F6E6: Avion militaire vers le haut: aéroport militaire
+1F6E7: Avion vers le haut: aéroport commercial
+1F6E8: Petit avion vers le haut: aérodrome
 1F6E9: Petit avion
 1F6EA: Avion vers le nord-est
-1F6EB: Avion au décollage : départs
-1F6EC: Avion à l’atterrissage : Arrivées
+1F6EB: Avion au décollage: départs
+1F6EC: Avion à l’atterrissage: Arrivées
 1F6ED: 
 1F6EE: 
 1F6EF: 
 1F6F0: Satellite
-1F6F1: Camion de pompier à l’approche : Feu
-1F6F2: Locomotive diesel : train
-1F6F3: Paquebot : ligne de croisière
+1F6F1: Camion de pompier à l’approche: Feu
+1F6F2: Locomotive diesel: train
+1F6F3: Paquebot: ligne de croisière
 1F6F4: Scooter
 1F6F5: Scooter de moteur
 1F6F6: Canoë
-1F6F7: Traîneau : traîneau, luge
-1F6F8: Soucoupe volante : OVNI
-1F6F9: planche à roulette
-1F6FA: 
-1F6FB: 
-1F6FC: 
+1F6F7: Traîneau: traîneau, luge
+1F6F8: Soucoupe volante: OVNI
+1F6F9: Planche à roulette
+1F6FA: Tuk-tuk
+1F6FB: Pick-up
+1F6FC: Patins à roulettes
 1F6FD: 
 1F6FE: 
-1F6FF: 
+1F6FF: 

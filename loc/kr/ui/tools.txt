@@ -1,15 +1,18 @@
 : 수단
 
-[encoder]	: 인코더
+toolsListTitle: 다른 도구도 사용해보십시오
+
+[encoder]	: HTML 인코더
 	
 desc	: HTML 코드 및 문자 변환
 plain	: 문자
-full	: 모든 전환
-text	: 본문
+full	: HTML
+text	: HTML 및 텍스트
 entities	: 는 HTML 엔티티 인코딩을 누릅니다
 br	: 코딩 랩
+result: 결과
 	
-[decoder]	: 디코더
+[decoder]	: 유니 코드 디코더
 	
 desc	: 유니 코드 문자 인코딩은 텍스트 또는 그 반대의 경우도 마찬가지 탈출
 example	: 이것은 밤이고
@@ -22,6 +25,7 @@ desc	: "반전"영어 알파벳 또는 키릴 문자가 와서
 plain	: 본문
 flipped	: 거꾸로!
 backed	: 그냥 순서를 반대로
+result: 결과
 
 [generator]: 유니 코드 문자 테이블 생성
 
@@ -32,3 +36,93 @@ info: 유효한： {symbol}, {dec}, {hex}, {html}
 generate: 생성
 result: 결과
 
+[strikethrough-text]: 취소선 텍스트
+
+h1: 취소선 텍스트
+desc: 취소선 텍스트
+text: 본문
+example: 이것은 밤이고
+
+strikethroughText: 취소선 텍스트
+crossed: 밑줄
+dotted: 점선
+slash: 슬래시 문자
+doubleunderline: 이중 밑줄
+waveline: 웨이브 라인
+ciphertext: 암호문
+fullyshaded: 암호문
+strikethroughSlash: 높은 슬래시 문자
+
+[register-converter]: 텍스트 레지스터 변환기
+h1: 텍스트 레지스터 변환기
+desc: 단어의 각 문자 변환
+text: Text
+example: This is an example
+
+uppercase: UPPER CASE
+lowercase: lower case
+inversioncase: iNVERSION cASE
+randomcase: RAnDOM cAsE
+alternatingcase: aLtErNaTiNg cAsE
+capitalizedcase: Capitalized Case
+
+[word-counter]: 글자수 계산기
+h1: 글자수 계산기
+desc: 텍스트의 문자 수 계산
+
+[braille]: 점자 번역기
+h1: 점자 번역기
+desc: 텍스트를 변환하고 점자를 디코딩합니다
+
+[gothic]: 고딕 스타일에 텍스트 변환기
+h1: 고딕 스타일에 텍스트 변환기
+desc: 고딕 글꼴로 텍스트 쓰기
+
+text: 텍스트(라틴 문자)
+example: Gothic
+regularText: 고딕
+boldText: 고딕체 볼드
+
+result: 결과
+
+[morse]: 텍스트-모스 부호 변환기
+h1: 텍스트-모스 부호 변환기
+desc: 텍스트를 변환하고 모스 부호를 디코딩합니다
+
+example: This is an example
+code: 모스 식 부호
+latin: 라틴 문자
+numbers: 숫자
+punctuation: 구두
+
+titleAlphabet: 모스 부호 알파벳
+
+result: 결과
+
+[password-generator]: 비밀번호 생성기
+h1: 비밀번호 생성기
+desc: 강력한 암호를 생성하는 방법
+
+uppercase: 대문자 (A-Z)
+lowercase: 소문자 (a-z)
+numbers: 숫자 (0-9)
+special: 특수 문자 (!@#$%^&*)
+
+maxLength: 문자 (4-99)
+generate: 생성하다
+warning: 암호를 만들려면 하나 이상의 문자 집합을 선택해야 합니다
+
+
+[text-to-symbols]: 문자의 텍스트
+h1: 문자의 텍스트
+desc: 문자에서 텍스트 쓰기
+
+text: 텍스트 (라틴 문자)
+example: Example
+
+blank: 빈 글자
+filled: 편지가 채워진다
+background: 배경이있는 편지
+symbol-dolar: 기호 $로 구성된 문자
+symbol-lattice: 기호 #로 구성된 문자
+symbol-paragraph: 기호 ¶로 구성된 문자

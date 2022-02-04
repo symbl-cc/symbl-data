@@ -1,5 +1,8 @@
 meta-description: Unicode文字検索Webサービス あなたのお気に入りのキャラクターを見つけてコピーしましょう：😎絵文字、▶️アロー、✪スター、💲通貨、🈂️ライティングシステムなど🚩
-symbol-description: シンボル: {{symbol}}, 名前: {{name}}, Unicode数: {{code}}, シート: {{block}}
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, キャラクターの名前： {{name}}, 記号のUnicode番号： {{code}}, アイコンはブロックに含まれています： {{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
+
+seo-symbol: シンボル
 
 emoji: 絵文字
 copy: コピー

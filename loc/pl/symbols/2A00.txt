@@ -5,7 +5,7 @@
 2A04: N-Ary Union Operator z Plus
 2A05: Operator skrzyżowania N-Ary Square
 2A06: N-Ary Square Union Operator
-2A07: Dwa logiczne i operator : łączyć
+2A07: Dwa logiczne i operator: łączyć
 2A08: Dwa logiczne lub operator
 2A09: Operator N-Ary Times
 2A0A: Modulo Two Sum
@@ -25,19 +25,19 @@
 2A18: Integralny ze znakiem czasu
 2A19: Integralna z przecięciem
 2A1A: Integralność z Unią
-2A1B: Integralna z Overbar : górna całka
-2A1C: Integralna z Underbar : dolna całka
-2A1D: Przystąpić : duża muszka
+2A1B: Integralna z Overbar: górna całka
+2A1C: Integralna z Underbar: dolna całka
+2A1D: Przystąpić: duża muszka
 2A1E: Operator dużego lewego trójkąta
 2A1F: Skład schematu Z notacji
 2A20: Rurociąg schematu Z notacji
 2A21: Rzutowanie schematu Z notacji
 2A22: Znak plus z małym kółkiem powyżej
 2A23: Znak plus z Circumflex Accent Above
-2A24: Plus Sign with Tilde Above : dodatnia różnica lub suma
+2A24: Plus Sign with Tilde Above: dodatnia różnica lub suma
 2A25: Znak plus z kropką poniżej
-2A26: Znak plus z Tilde poniżej : suma lub dodatnia różnica
-2A27: Znak plus z indeksem drugim : nim-dodatek
+2A26: Znak plus z Tilde poniżej: suma lub dodatnia różnica
+2A27: Znak plus z indeksem drugim: nim-dodatek
 2A28: Znak plus z czarnym trójkątem
 2A29: Znak minus z przecinkiem powyżej
 2A2A: Znak minus z kropką poniżej
@@ -63,7 +63,7 @@
 2A3E: Z Notation Relational Composition
 2A3F: Połączenie lub koprodukcja
 2A40: Skrzyżowanie z kropką
-2A41: Unia ze znakiem minus : z odejmowanie worka z notacją
+2A41: Unia ze znakiem minus: z odejmowanie worka z notacją
 2A42: Unia z paskiem
 2A43: Skrzyżowanie z paskiem
 2A44: Skrzyżowanie z logiką I
@@ -102,7 +102,7 @@
 2A65: Z Notation Range Antirestriction
 2A66: Równy znak z kropką poniżej
 2A67: Identyczny z Dot Above
-2A68: Potrójny pręt poziomy z podwójnym skokiem pionowym : identyczne i równoległe do
+2A68: Potrójny pręt poziomy z podwójnym skokiem pionowym: identyczne i równoległe do
 2A69: Potrójny poziomy pasek z potrójnym pionowym skokiem
 2A6A: Operator tyldy z kropką powyżej
 2A6B: Tilde Operator z Rising Dots
@@ -159,7 +159,7 @@
 2A9E: Podobne lub większe niż
 2A9F: Podobny znak powyżej mniej niż powyżej równości
 2AA0: Podobny znak powyżej wyższego niż powyżej równego
-2AA1: Double Nested Less-Than : absolutna ciągłość
+2AA1: Double Nested Less-Than: absolutna ciągłość
 2AA2: Double Nested Greater Than
 2AA3: Double Nested Less-Than with Underbar
 2AA4: Większy niż pokrywający się mniej niż
@@ -218,13 +218,13 @@
 2AD9: Element otwarcia w dół
 2ADA: Widły z Tee Top
 2ADB: Przecięcie poprzeczne
-2ADC: Widelec : nie niezależny
-2ADD: Nonforking : niezależny
+2ADC: Widelec: nie niezależny
+2ADD: Nonforking: niezależny
 2ADE: Krótki lewy hak
 2ADF: Short Down Tack
 2AE0: Short Up Tack
 2AE1: Prostopadle z S
-2AE2: Pionowy słupek Triple Right Turnstile : zwykle spełnia
+2AE2: Pionowy słupek Triple Right Turnstile: zwykle spełnia
 2AE3: Podwójny pionowy słupek Lewy słupek obrotowy
 2AE4: Pionowy słupek Podwójny lewy kołowrót
 2AE5: Podwójny pionowy pręt Podwójny lewy kołowrót
@@ -233,16 +233,16 @@
 2AE8: Short Up Tack z Underbar
 2AE9: Short Up Tack Powyżej Short Down Tack
 2AEA: Double Down Tack
-2AEB: Double Up Tack : niezależność
+2AEB: Double Up Tack: niezależność
 2AEC: Double Stroke Not Sign
 2AED: Odwrócony podwójny skok nie podpisuje się
 2AEE: Nie dzieli się z odwróconym ukośnikiem negacji
 2AEF: Linia pionowa z okręgiem powyżej
 2AF0: Linia pionowa z okręgiem poniżej
-2AF1: Dół z kółkiem poniżej : koniecznie spełnia
+2AF1: Dół z kółkiem poniżej: koniecznie spełnia
 2AF2: Równolegle ze skokiem poziomym
 2AF3: Równolegle z Tilde Operator
-2AF4: Binarna relacja z potrójnym pionowym paskiem : przekładać
+2AF4: Binarna relacja z potrójnym pionowym paskiem: przekładać
 2AF5: Potrójny pionowy pasek z poziomym skokiem
 2AF6: Operator potrójnego jelita grubego
 2AF7: Triple Nested Less-Than
@@ -252,5 +252,5 @@
 2AFB: Potrójna relacja binarna Solidus
 2AFC: Duży potrójny operator pionowego pręta
 2AFD: Double Solidus Operator
-2AFE: Biały pionowy pasek : wybór dijkstra
-2AFF: Pionowy pasek N-Ary White : wybór n-ary dijkstra
+2AFE: Biały pionowy pasek: wybór dijkstra
+2AFF: Pionowy pasek N-Ary White: wybór n-ary dijkstra

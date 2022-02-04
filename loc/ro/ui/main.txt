@@ -1,12 +1,18 @@
-title: Tabel de caractere Unicode®
+title: Tabel de caractere Unicode
+unicode: Unicode
+unicodeorg: Unicode® este marcă înregistrată a Unicode, Inc. în Statele Unite și alte țări. Acest site nu este în niciun fel asociat, aprobat sau sponsorizat de Unicode, Inc. (alias Unicode Consortium). Pentru site-ul oficial al Unicode, te rugăm să accesezi
+
+[mainpage]: Pagina principală
 
 [sets]: Seturi de caractere
 set: Set
-list: Seturi de caractere
+list: Seturi
+title: Seturi de caractere populare
+all: Vezi toate
 
 [blocks]: Blocuri unicode
 block: Bloc
-list: Blocuri unicode
+list: Unicode
 
 [languages]: Limbi
 list: Limbi
@@ -18,6 +24,16 @@ list: Țări
 [alphabets]: Alfabete
 list: Alfabete
 
+[holidays]: Concediu
+list: Concediu
+
 [types]: Tipuri
 type: Tip
 list: Tipuri
+
+[html-entities]: Entități HTML
+list: Entități HTML
+
+[alt-codes]: Coduri ALT pentru WIndows
+list: Coduri Alt
+en: Aspect tastatură engleză

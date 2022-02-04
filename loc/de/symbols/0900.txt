@@ -1,6 +1,6 @@
-0900: Devanagari-Zeichen invertiertes Candrabindu : Vaidika Adhomukha Candrabindu
-0901: Devanagari-Zeichen Candrabindu : anunasika
-0902: Devanagari-Zeichen Anusvara : bindu
+0900: Devanagari-Zeichen invertiertes Candrabindu: Vaidika Adhomukha Candrabindu
+0901: Devanagari-Zeichen Candrabindu: anunasika
+0902: Devanagari-Zeichen Anusvara: bindu
 0903: Devanagari-Zeichen Visarga
 0904: Devanagari Brief kurz A
 0905: Devanagari-Buchstabe A
@@ -67,7 +67,7 @@
 0942: Devanagari Vokalzeichen Uu
 0943: Devanagari Vokalzeichen Vocalic R
 0944: Devanagari Vokalzeichen Vocalic Rr
-0945: Devanagari Vokalzeichen Candra E : Candra
+0945: Devanagari Vokalzeichen Candra E: Candra
 0946: Devanagari Vokalzeichen kurz E
 0947: Devanagari Vokalzeichen E
 0948: Devanagari Vokalzeichen Ai
@@ -75,12 +75,12 @@
 094A: Devanagari Vokalzeichen kurz O
 094B: Devanagari Vokalzeichen O
 094C: Devanagari Vokalzeichen Au
-094D: Devanagari-Zeichen Virama : halant (der bevorzugte hindi name)
+094D: Devanagari-Zeichen Virama: halant (der bevorzugte hindi name)
 094E: Devanagari Vokalzeichen Prishthamatra E
 094F: Devanagari Vokalzeichen Aw
 0950: Devanagari Om
-0951: Devanagari Stress Zeichen Udatta : vedischer Ton svarita
-0952: Devanagari-Belastungszeichen Anudatta : vedischer Ton anudatta
+0951: Devanagari Stress Zeichen Udatta: vedischer Ton svarita
+0952: Devanagari-Belastungszeichen Anudatta: vedischer Ton anudatta
 0953: Devanagari-Grab-Akzent
 0954: Devanagari Akutakzent
 0955: Devanagari Vokalzeichen Candra Long E
@@ -98,8 +98,8 @@
 0961: Devanagari Letter Vocalic Ll
 0962: Devanagari Vokalzeichen Vocalic L
 0963: Devanagari Vokalzeichen Vocalic Ll
-0964: Devanagari Danda : Purna Viram
-0965: Devanagari Double Danda : Deergh Viram
+0964: Devanagari Danda: Purna Viram
+0965: Devanagari Double Danda: Deergh Viram
 0966: Devanagari Ziffer Null
 0967: Devanagari Ziffer Eins
 0968: Devanagari Ziffer zwei
@@ -126,7 +126,7 @@
 097D: Devanagari Brief Glottalhalt
 097E: Devanagari Brief Ddda
 097F: Devanagari Brief Bba
-0980: Bengali Anji : Siddham, Siddhirastu
+0980: Bengali Anji: Siddham, Siddhirastu
 0981: Bengali-Zeichen Candrabindu
 0982: Bengali-Zeichen Anusvara
 0983: Bengali Sign Visarga
@@ -170,7 +170,7 @@
 09A9:
 09AA: Bengali Letter Pa
 09AB: Bengali Brief Pha
-09AC: Bengalischer Buchstabe Ba : bengali va, wa
+09AC: Bengalischer Buchstabe Ba: bengali va, wa
 09AD: Bengali Brief Bha
 09AE: Bengalischer Brief Ma
 09AF: Bengalischer Buchstabe Ya
@@ -203,7 +203,7 @@
 09CA:
 09CB: Bengali Vokalzeichen O
 09CC: Bengali Vokalzeichen Au
-09CD: Bengali Sign Virama : Hasant (Bengali-Begriff für Halant)
+09CD: Bengali Sign Virama: Hasant (Bengali-Begriff für Halant)
 09CE: Bengalischer Brief Khanda Ta
 09CF:
 09D0:
@@ -238,19 +238,19 @@
 09ED: Bengalische Ziffer Sieben
 09EE: Bengali Ziffer Acht
 09EF: Bengali Ziffer Neun
-09F0: Bengalischer Buchstabe Ra mit mittlerer Diagonale : Assamese Brief ra
-09F1: Bengalischer Buchstabe Ra mit unterer Diagonale : assamesischer Brief wa : bengalischer Buchstabe va mit unterer Diagonale
-09F2: Bengali Rupee Mark : Taka
-09F3: Bengali Rupee Sign : Bangladeshi Taka
+09F0: Bengalischer Buchstabe Ra mit mittlerer Diagonale: Assamese Brief ra
+09F1: Bengalischer Buchstabe Ra mit unterer Diagonale: assamesischer Brief wa , bengalischer Buchstabe va mit unterer Diagonale
+09F2: Bengali Rupee Mark: Taka
+09F3: Bengali Rupee Sign: Bangladeshi Taka
 09F4: Bengali Währungszähler 1
 09F5: Bengali Währungszähler Zwei
 09F6: Bengali Währungszähler Drei
 09F7: Bengali Währungszähler Vier
 09F8: Bengali-Währungszähler Ein weniger als der Nenner
 09F9: Bengalischer Währungswert Sechzehn
-09FA: Bengali Isshar : ishvar : Svargiya
+09FA: Bengali Isshar: ishvar , Svargiya
 09FB: Bengali Ganda Mark
 09FC: Bengali Brief Vedic Anusvara
 09FD: Bengali Abkürzungszeichen
 09FE: Bengali Sandhi Mark
-09FF:
+09FF:

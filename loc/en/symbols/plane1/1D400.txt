@@ -83,7 +83,7 @@
 1D452: Mathematical Italic Small E
 1D453: Mathematical Italic Small F
 1D454: Mathematical Italic Small G
-1D455: <Reserved>
+1D455:
 1D456: Mathematical Italic Small I
 1D457: Mathematical Italic Small J
 1D458: Mathematical Italic Small K
@@ -155,23 +155,23 @@
 1D49A: Mathematical Bold Italic Small Y
 1D49B: Mathematical Bold Italic Small Z
 1D49C: Mathematical Script Capital A
-1D49D: <Reserved>
+1D49D:
 1D49E: Mathematical Script Capital C
 1D49F: Mathematical Script Capital D
-1D4A0: <Reserved>
-1D4A1: <Reserved>
+1D4A0:
+1D4A1:
 1D4A2: Mathematical Script Capital G
-1D4A3: <Reserved>
-1D4A4: <Reserved>
+1D4A3:
+1D4A4:
 1D4A5: Mathematical Script Capital J
 1D4A6: Mathematical Script Capital K
-1D4A7: <Reserved>
-1D4A8: <Reserved>
+1D4A7:
+1D4A8:
 1D4A9: Mathematical Script Capital N
 1D4AA: Mathematical Script Capital O
-1D4AB: Mathematical Script Capital P : power set
+1D4AB: Mathematical Script Capital P: power set
 1D4AC: Mathematical Script Capital Q
-1D4AD: <Reserved>
+1D4AD:
 1D4AE: Mathematical Script Capital S
 1D4AF: Mathematical Script Capital T
 1D4B0: Mathematical Script Capital U
@@ -184,9 +184,9 @@
 1D4B7: Mathematical Script Small B
 1D4B8: Mathematical Script Small C
 1D4B9: Mathematical Script Small D
-1D4BA: <Reserved>
+1D4BA:
 1D4BB: Mathematical Script Small F
-1D4BC: <Reserved>
+1D4BC:
 1D4BD: Mathematical Script Small H
 1D4BE: Mathematical Script Small I
 1D4BF: Mathematical Script Small J
@@ -194,7 +194,7 @@
 1D4C1: Mathematical Script Small L
 1D4C2: Mathematical Script Small M
 1D4C3: Mathematical Script Small N
-1D4C4: <Reserved>
+1D4C4:
 1D4C5: Mathematical Script Small P
 1D4C6: Mathematical Script Small Q
 1D4C7: Mathematical Script Small R
@@ -253,4 +253,4 @@
 1D4FC: Mathematical Bold Script Small S
 1D4FD: Mathematical Bold Script Small T
 1D4FE: Mathematical Bold Script Small U
-1D4FF: Mathematical Bold Script Small V
+1D4FF: Mathematical Bold Script Small V

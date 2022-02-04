@@ -1,30 +1,30 @@
-2200: Per tutti : quantificatore universale
+2200: Per tutti: quantificatore universale
 2201: Complemento
 2202: Differenziale parziale
-2203: Lì esiste : quantificatore esistenziale
+2203: Lì esiste: quantificatore esistenziale
 2204: Non esiste
-2205: Set vuoto : set nullo
-2206: Incremento : operatore di posto : differenza in avanti : differenza simmetrica (in teoria degli insiemi)
-2207: Nabla : differenza all'indietro : gradiente, del
+2205: Set vuoto: set nullo
+2206: Incremento: operatore di posto , differenza in avanti , differenza simmetrica (in teoria degli insiemi)
+2207: Nabla: differenza all'indietro , gradiente, del
 2208: Elemento di
 2209: Non un elemento di
 220A: Piccolo elemento di
-220B: Contiene come membro : così
+220B: Contiene come membro: così
 220C: Non contiene come membro
 220D: Piccolo contiene come membro
-220E: Fine della prova : come volevasi dimostrare
-220F: Prodotto N-Ary : segno del prodotto
-2210: N-Ary Coproduct : segno di coproduzione
-2211: N-Ary Summation : segno di somma
+220E: Fine della prova: come volevasi dimostrare
+220F: Prodotto N-Ary: segno del prodotto
+2210: N-Ary Coproduct: segno di coproduzione
+2211: N-Ary Summation: segno di somma
 2212: Segno meno
 2213: Segno meno-o-più
 2214: Dot Plus
 2215: Divisione Slash
 2216: Imposta meno
 2217: Operatore di asterisco
-2218: Ring Operator : funzione composita : apl jot
+2218: Ring Operator: funzione composita , apl jot
 2219: Operatore di pallottole
-221A: Radice quadrata : segno radicale
+221A: Radice quadrata: segno radicale
 221B: Radice cubica
 221C: Quarta radice
 221D: Proporzionale a
@@ -32,15 +32,15 @@
 221F: Angolo retto
 2220: Angolo
 2221: Angolo misurato
-2222: Angolo sferico : angolo d'arco
-2223: divide : così : apl stile
+2222: Angolo sferico: angolo d'arco
+2223: divide: così , apl stile
 2224: Non si divide
 2225: Parallelo a
 2226: Non parallelo a
-2227: Logico E : Cuneo, congiunzione
-2228: Logico Or : Vee, disgiunzione
-2229: Intersezione : berretto
-222A: Unione : tazza
+2227: Logico E: Cuneo, congiunzione
+2228: Logico Or: Vee, disgiunzione
+2229: Intersezione: berretto
+222A: Unione: tazza
 222B: Integrante
 222C: Doppio integrale
 222D: Triplo integrale
@@ -54,14 +54,14 @@
 2235: Perché
 2236: Rapporto
 2237: Proporzione
-2238: Dot Minus : sottrazione satura
+2238: Dot Minus: sottrazione satura
 2239: Eccesso
 223A: Proporzione geometrica
 223B: homothetic
-223C: Operatore Tilde : varia con (proporzionale a) : differenza tra : simile a : non : ciclo : apl tilde
-223D: Tilde invertita : pigro s
-223E: Inverted Lazy S : più positivo
-223F: Onda sinusoidale : corrente alternata
+223C: Operatore Tilde: varia con (proporzionale a) , differenza tra , simile a , non , ciclo , apl tilde
+223D: Tilde invertita: pigro s
+223E: Inverted Lazy S: più positivo
+223F: Onda sinusoidale: corrente alternata
 2240: Prodotto corona
 2241: Non Tilde
 2242: Minus Tilde
@@ -70,7 +70,7 @@
 2245: Approssimativamente uguale a
 2246: Approssimativamente ma non realmente uguale a
 2247: Né approssimativamente né realmente uguale a
-2248: Quasi uguale a : asintotico a
+2248: Quasi uguale a: asintotico a
 2249: Non quasi uguale a
 224A: Quasi uguale o uguale a
 224B: Triple Tilde
@@ -80,17 +80,17 @@
 224F: Differenza tra
 2250: Si avvicina al limite
 2251: Geometrically Equal To
-2252: Approssimativamente uguale a o l'immagine di : quasi uguale
+2252: Approssimativamente uguale a o l'immagine di: quasi uguale
 2253: Immagine di o approssimativamente uguale a
 2254: Colon Equals
 2255: Uguale a due punti
 2256: Ring In Equal To
-2257: Anello uguale a : approssimativamente uguale a
+2257: Anello uguale a: approssimativamente uguale a
 2258: Corrisponde a
-2259: Le stime : corrisponde a
+2259: Le stime: corrisponde a
 225A: Equiangular To
 225B: Stella uguale
-225C: Delta uguale a : equiangolo : uguale per definizione
+225C: Delta uguale a: equiangolo , uguale per definizione
 225D: Uguale alla definizione
 225E: Misurato da
 225F: Interrogato uguale a
@@ -106,7 +106,7 @@
 2269: Maggiore di ma non uguale a
 226A: Molto meno di
 226B: Molto più grande di
-226C: Fra : querelante, quantico
+226C: Fra: querelante, quantico
 226D: Non equivalente a
 226E: Non meno di
 226F: Non maggiore di
@@ -120,16 +120,16 @@
 2277: Maggiore di o minore di
 2278: Né Minore né Maggiore di
 2279: Né maggiore di quanto non inferiore di
-227A: precede : rango inferiore a
-227B: riesce : più alto di
+227A: precede: rango inferiore a
+227B: riesce: più alto di
 227C: Precede o Uguale a
 227D: Riesce o uguale a
 227E: Precede o Equivalente a
 227F: Riesce o Equivalente a
 2280: Non precede
 2281: Non riesce
-2282: Sottoinsieme : incluso nel set
-2283: Superset Of : include nel set
+2282: Sottoinsieme: incluso nel set
+2283: Superset Of: include nel set
 2284: Non un sottoinsieme di
 2285: Non un Superset di
 2286: Sottoinsieme di o uguale a
@@ -140,33 +140,33 @@
 228B: Superset con Non uguale a
 228C: Multiset
 228D: Multiplicazione multiset
-228E: Unione multiset : aggiunta del sacchetto di notazione z
+228E: Unione multiset: aggiunta del sacchetto di notazione z
 228F: Immagine quadrata di
 2290: Quadrato originale di
 2291: Immagine quadrata di o uguale a
 2292: Originale quadrato uguale o uguale a
 2293: Cappuccio quadrato
 2294: Coppa quadrata
-2295: Cerchiato Plus : somma diretta : vettore che punta nella pagina
-2296: Cerchia meno : differenza simmetrica
-2297: Cerchia tempi : prodotto tensoriale : vettore che punta nella pagina
-2298: Cerchia Divisione Cerchiata : divieto, disabilitare
-2299: Operatore a punti cerchiati : prodotto diretto : vettore che indica fuori pagina
+2295: Cerchiato Plus: somma diretta , vettore che punta nella pagina
+2296: Cerchia meno: differenza simmetrica
+2297: Cerchia tempi: prodotto tensoriale , vettore che punta nella pagina
+2298: Cerchia Divisione Cerchiata: divieto, disabilitare
+2299: Operatore a punti cerchiati: prodotto diretto , vettore che indica fuori pagina
 229A: Operatore ad anello cerchiato
-229B: Operatore di asterisco cerchiato : Capodanno, Natale
+229B: Operatore di asterisco cerchiato: Capodanno, Natale
 229C: Equipped cerchiato
 229D: Dash cerchiato
 229E: Squared Plus
 229F: Squared Minus
 22A0: Tempi al quadrato
 22A1: Operatore a punti quadrati
-22A2: Right Tack : tornello : dimostra, implica, produce : riducibile
-22A3: Tack sinistro : cancello girevole inverso : non teorema, non cede
-22A4: Giù Tack : superiore
-22A5: Up Tack : base, fondo
-22A6: Asserzione : riduce a
+22A2: Right Tack: tornello , dimostra, implica, produce , riducibile
+22A3: Tack sinistro: cancello girevole inverso , non teorema, non cede
+22A4: Giù Tack: superiore
+22A5: Up Tack: base, fondo
+22A6: Asserzione: riduce a
 22A7: Modelli
-22A8: Vero : la dichiarazione è vera, valida : è una tautologia : soddisfa : risultati in
+22A8: Vero: la dichiarazione è vera, valida , è una tautologia , soddisfa , risultati in
 22A9: forze
 22AA: Tornello verticale a tripla barra verticale
 22AB: Double Vertical Bar Double Right Turnstile
@@ -192,8 +192,8 @@
 22BF: Triangolo rettangolo
 22C0: N-Ary Logical And
 22C1: N-Ary Logical Or
-22C2: Intersezione N-Ary : intersezione generalizzata a notazione z
-22C3: N-Ary Union : unione generale notazione z
+22C2: Intersezione N-Ary: intersezione generalizzata a notazione z
+22C3: N-Ary Union: unione generale notazione z
 22C4: Operatore di diamanti
 22C5: Operatore di punti
 22C6: Star Operator
@@ -210,7 +210,7 @@
 22D1: Double Superset
 22D2: Doppia intersezione
 22D3: Doppia unione
-22D4: Forcone : intersezione corretta
+22D4: Forcone: intersezione corretta
 22D5: Uguale e parallelo a
 22D6: Minore di Dot
 22D7: Maggiore di rispetto a Punto

@@ -1,16 +1,21 @@
-title: Tabla de caracteres Unicode®
+title: Tabla de Caracteres Unicode
+unicode: Unicode
+[mainpage]: Página Principal
 
 [sets]: Conjuntos
-set: Conjunto
-list: Conjuntos de caracteres
+set: Conjuntos
+list: Conjuntos
+title: Conjuntos de caracteres populares
+all: Ver todo
 
-[blocks]: Secciones
+[blocks]: Bloques
 block: Bloque
-blocks: Lista de Secciones Unicode
+blocks: Lista de Secciones
+list: Unicode
 
 [languages]: Idiomas
-list: Lista de las Idiomas
-blocks: Bloques de idiomas
+list: Lista de Idiomas
+blocks: Puedes encontrar este idioma en los bloques siguientes
 
 [countries]: Países
 list: Lista de Países
@@ -19,7 +24,16 @@ list: Lista de Países
 # @todo list
 list: Alfabetos
 
+[holidays]: Fiestas
+list: Fiestas
+
 [types]
 # @todo type
 list: Lista de Tipos
 
+[html-entities]: Entidades HTML
+list: Entidades HTML
+
+[alt-codes]: Códigos Alt para Windows
+list: Códigos Alt
+en: Diseño de teclado en inglés

@@ -1,19 +1,19 @@
-16F00: Miao Letter Pa
-16F01: Miao Letter Ba
+16F00: Miao Buchstabe Pa
+16F01: Miao Buchstabe Ba
 16F02: Miao Brief Yi Pa
-16F03: Miao Letter Pla
+16F03: Miao Buchstabe Pla
 16F04: Miao Brief Ma
 16F05: Miao Brief Mha
 16F06: Miao Brief archaisch Ma
 16F07: Miao Brief Fa
 16F08: Miao Brief Va
-16F09: Miao Letter Vfa
+16F09: Miao Buchstabe Vfa
 16F0A: Miao Buchstabe Ta
-16F0B: Miao Letter Da
+16F0B: Miao Buchstabe Da
 16F0C: Miao Buchstabe Yi Tta
 16F0D: Miao Buchstabe Yi Ta
-16F0E: Miao Letter Tta
-16F0F: Miao Letter Dda
+16F0E: Miao Buchstabe Tta
+16F0F: Miao Buchstabe Dda
 16F10: Miao Brief Na
 16F11: Miao Brief Nha
 16F12: Miao Buchstabe Yi Nna
@@ -29,7 +29,7 @@
 16F1C: Miao-Buchstabe Tlhya
 16F1D: Miao Brief Dlhya
 16F1E: Miao Buchstabe Ka
-16F1F: Miao Letter Ga
+16F1F: Miao Buchstabe Ga
 16F20: Miao Buchstabe Yi Ka
 16F21: Miao Buchstabe Qa
 16F22: Miao Brief Qga
@@ -67,17 +67,17 @@
 16F42: Miao Brief Wa
 16F43: Miao Brief Ah
 16F44: Miao Brief Hha
-16F45:
-16F46:
-16F47:
-16F48:
-16F49:
-16F4A:
+16F45: Miao Buchstabe Bri
+16F46: Miao Buchstabe Syi
+16F47: Miao Buchstabe Dzyi
+16F48: Miao Buchstabe Te
+16F49: Miao Buchstabe Tse
+16F4A: Miao Buchstabe Rte
 16F4B:
 16F4C:
 16F4D:
 16F4E:
-16F4F:
+16F4F: Miao Zeichenkonsonanten-Modifikatorleiste
 16F50: Miao Brief Nasalisierung
 16F51: Miao Sign Aspiration
 16F52: Miao Sign reformierte Intonation
@@ -93,7 +93,7 @@
 16F5C: Miao Vokalzeichen W
 16F5D: Miao Vokalzeichen E
 16F5E: Miao Vokalzeichen En
-16F5F: Miao Vowel Sign Eng
+16F5F: Miao Vokalzeichen Eng
 16F60: Miao Vokalzeichen Oey
 16F61: Miao Vokalzeichen I
 16F62: Miao Vokalzeichen Ia
@@ -125,15 +125,15 @@
 16F7C: Miao Vokalzeichen Ou
 16F7D: Miao Vokalzeichen N
 16F7E: Miao Vokalzeichen Ng
-16F7F:
-16F80:
-16F81:
-16F82:
-16F83:
-16F84:
-16F85:
-16F86:
-16F87:
+16F7F: Miao Vokalzeichen Uog
+16F80: Miao Vokalzeichen Yui
+16F81: Miao Vokalzeichen Og
+16F82: Miao Vokalzeichen Oer
+16F83: Miao Vokalzeichen Vw
+16F84: Miao Vokalzeichen Ig
+16F85: Miao Vokalzeichen Ea
+16F86: Miao Vokalzeichen Iong
+16F87: Miao Vokalzeichen Ui
 16F88:
 16F89:
 16F8A:
@@ -148,10 +148,10 @@
 16F93: Miao Brief Ton-2
 16F94: Miao Brief Ton-3
 16F95: Miao Brief Ton-4
-16F96: Miao Letter Tone-5
+16F96: Miao Buchstabe Tone-5
 16F97: Miao-Brief-Ton-6
-16F98: Miao Letter Tone-7
-16F99: Miao Letter Tone-8
+16F98: Miao Buchstabe Tone-7
+16F99: Miao Buchstabe Tone-8
 16F9A: Miao-Brief verbesserter Ton-1
 16F9B: Miao Brief verbesserter Ton-2
 16F9C: Miao-Brief verbesserter Ton-4
@@ -224,22 +224,22 @@
 16FDF:
 16FE0: Tangut-Iterationszeichen
 16FE1: Nushu Iterationszeichen
-16FE2:
-16FE3:
-16FE4:
-16FE5:
-16FE6:
-16FE7:
-16FE8:
-16FE9:
-16FEA:
-16FEB:
-16FEC:
-16FED:
-16FEE:
-16FEF:
-16FF0:
-16FF1:
+16FE2: Alte chinesische Hakenmarke
+16FE3: Altes chinesisches Iterationszeichen
+16FE4: Khitan kleiner Skriptfüller
+16FE5: 
+16FE6: 
+16FE7: 
+16FE8: 
+16FE9: 
+16FEA: 
+16FEB: 
+16FEC: 
+16FED: 
+16FEE: 
+16FEF: 
+16FF0: Vietnamesische alternative Lesemarke ca.
+16FF1: Vietnamesische alternative Lesemarke nhay
 16FF2:
 16FF3:
 16FF4:
@@ -253,4 +253,4 @@
 16FFC:
 16FFD:
 16FFE:
-16FFF:
+16FFF:

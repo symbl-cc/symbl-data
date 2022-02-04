@@ -78,16 +78,16 @@
 2B4D: Abwärts Dreieckköpfiger Zickzackpfeil
 2B4E: Kurzer geneigter Nordpfeil
 2B4F: Kurzer, nach hinten gerichteter Südpfeil
-2B50: Weißer mittlerer Stern : Gelber Stern
+2B50: Weißer mittlerer Stern: Gelber Stern
 2B51: Schwarzer kleiner Stern
 2B52: Weißer kleiner Stern
 2B53: Schwarzes nach rechts zeigendes Pentagon
 2B54: Weißes nach rechts zeigendes Pentagon
-2B55: Schwerer großer Kreis : Basissymbol für Geschwindigkeitsbegrenzung, Richtig, Roter Kreis, Kreismarkierung
-2B56: Schweres Oval mit innenliegendem Oval : Büro der Präfektur
-2B57: Schwerer Kreis mit Kreis nach innen : Gemeindeamt
-2B58: Schwerer Kreis : Stadt- oder Dorfamt
-2B59: Schwerer eingekreister Saltire : Polizeistation
+2B55: Schwerer großer Kreis: Basissymbol für Geschwindigkeitsbegrenzung, Richtig, Roter Kreis, Kreismarkierung
+2B56: Schweres Oval mit innenliegendem Oval: Büro der Präfektur
+2B57: Schwerer Kreis mit Kreis nach innen: Gemeindeamt
+2B58: Schwerer Kreis: Stadt- oder Dorfamt
+2B59: Schwerer eingekreister Saltire: Polizeistation
 2B5A: Abgeschrägter Nordpfeil mit Hakenkopf
 2B5B: Abgeschrägter Südpfeil mit Hooked Tail
 2B5C: Abgeschrägter Nordpfeil mit horizontalem Heck
@@ -110,20 +110,20 @@
 2B6D: Abwärts dreieckköpfiger gestrichelter Pfeil
 2B6E: Dreieckköpfiger Pfeil im Uhrzeigersinn
 2B6F: Dreieckköpfiger offener Kreispfeil gegen den Uhrzeigersinn
-2B70: Dreieckspfeil nach links : linker Tab
-2B71: Aufwärts Dreieckköpfiger Pfeil zur Stange : Registerkarte hoch
-2B72: Dreieckspfeil nach rechts nach rechts : rechter Tab
-2B73: Abwärts Dreieckköpfiger Pfeil zur Stange : Tab unten
+2B70: Dreieckspfeil nach links: linker Tab
+2B71: Aufwärts Dreieckköpfiger Pfeil zur Stange: Registerkarte hoch
+2B72: Dreieckspfeil nach rechts nach rechts: rechter Tab
+2B73: Abwärts Dreieckköpfiger Pfeil zur Stange: Tab unten
 2B74:
 2B75:
-2B76: Nordwest Dreieckköpfiger Pfeil zur Stange : Zuhause
+2B76: Nordwest Dreieckköpfiger Pfeil zur Stange: Zuhause
 2B77: Nord-Ost-Dreieck-Pfeil nach rechts
-2B78: Südost-Dreieck-Pfeil nach rechts : Ende
+2B78: Südost-Dreieck-Pfeil nach rechts: Ende
 2B79: Südwest Dreieckköpfiger Pfeil zur Stange
 2B7A: Dreieckspfeil nach links mit doppeltem horizontalem Strich
-2B7B: Aufwärts Dreieckspfeil mit doppeltem horizontalem Strich : Seite nach oben
+2B7B: Aufwärts Dreieckspfeil mit doppeltem horizontalem Strich: Seite nach oben
 2B7C: Dreieckspfeil nach rechts mit doppeltem horizontalem Strich
-2B7D: Abwärts Dreieckspfeil mit doppeltem horizontalem Strich : Seite nach unten
+2B7D: Abwärts Dreieckspfeil mit doppeltem horizontalem Strich: Seite nach unten
 2B7E: Horizontale Tabulatortaste
 2B7F: Vertikale Tabulatortaste
 2B80: Dreieckspfeil nach links über Dreieckspfeil nach rechts
@@ -146,10 +146,10 @@
 2B91: Zurück nach rechts
 2B92: Newline Left
 2B93: Newline Right
-2B94: Vier Eckpfeile, die gegen den Uhrzeigersinn kreisten : Schleife
+2B94: Vier Eckpfeile, die gegen den Uhrzeigersinn kreisten: Schleife
 2B95: Schwarzer Pfeil nach rechts
 2B96:
-2B97:
+2B97: Symbol für Elektronik Typ A
 2B98: Dreidimensionale linksgerichtete gleichseitige Pfeilspitze
 2B99: Dreidimensionale, nach rechts beleuchtete gleichseitige Pfeilspitze
 2B9A: Dreidimensionale oben beleuchtete gleichseitige Pfeilspitze
@@ -182,8 +182,8 @@
 2BB5: Multifunktionsleiste Pfeil nach oben
 2BB6: Bandpfeil nach links unten
 2BB7: Multifunktionsleiste Pfeil nach unten
-2BB8: Aufwärts weißer Pfeil von der Stange mit der horizontalen Stange : Feststelltaste
-2BB9: Pfeil nach oben in einer Rechteckbox : Flucht
+2BB8: Aufwärts weißer Pfeil von der Stange mit der horizontalen Stange: Feststelltaste
+2BB9: Pfeil nach oben in einer Rechteckbox: Flucht
 2BBA: Überlappende weiße Quadrate
 2BBB: Überlappende weiße und schwarze Quadrate
 2BBC: Überlappende schwarze Quadrate
@@ -199,7 +199,7 @@
 2BC6: Schwarzes mittleres Abwärtsdreieck zentriert
 2BC7: Schwarzes mittleres nach links zeigendes Dreieck zentriert
 2BC8: Schwarzes mittleres rechtwinkliges Dreieck zentriert
-2BC9:
+2BC9: Neptun bilden zwei
 2BCA: Top Half Black Circle
 2BCB: Bottom Half Black Circle
 2BCC: Leichte vierspitze schwarze Spitze
@@ -207,7 +207,7 @@
 2BCE: Vierkantiger weißer Höcker
 2BCF: Gedrehte weiße vierspitze Spitze
 2BD0: Quadratische Positionsanzeige
-2BD1: Unsicherheitszeichen : Abfrage
+2BD1: Unsicherheitszeichen: Abfrage
 2BD2: Gruppenmarkierung
 2BD3: Pluto Form Zwei
 2BD4: Pluto Form Drei
@@ -234,10 +234,10 @@
 2BE9: Rechte Hälfte schwarzer Stern
 2BEA: Stern mit linker Hälfte schwarz
 2BEB: Stern mit rechter Hälfte Schwarz
-2BEC: Doppelpfeil nach links mit Tringle-Pfeilspitzen : schneller Cursor nach links
-2BED: Aufwärts zweiköpfiger Pfeil mit Tringlepfeilspitzen : schneller Cursor nach oben
-2BEE: Pfeil nach rechts mit Pfeilspitzen : schneller Cursor nach rechts
-2BEF: Abwärtspfeil mit Pfeilspitzen : schneller Cursor runter
+2BEC: Doppelpfeil nach links mit Tringle-Pfeilspitzen: schneller Cursor nach links
+2BED: Aufwärts zweiköpfiger Pfeil mit Tringlepfeilspitzen: schneller Cursor nach oben
+2BEE: Pfeil nach rechts mit Pfeilspitzen: schneller Cursor nach rechts
+2BEF: Abwärtspfeil mit Pfeilspitzen: schneller Cursor runter
 2BF0: Eris Form Eins
 2BF1: Eris Formular Zwei
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: Doppelte Symbol
 2BFD: Bestandenes Symbol
 2BFE: Umgekehrter rechter Winkel
-2BFF:
+2BFF: Hellschreiber Pausensymbol

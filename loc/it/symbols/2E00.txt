@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Forked Paragraphos
 2E11: Paragrafi a forcella rovesciati
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Obelos punteggiati
 2E14: Verso il basso Ancora
 2E15: Verso l'alto Ancora
-2E16: Angolo punteggiato a destra : abbastanza periestigmene
+2E16: Angolo punteggiato a destra: abbastanza periestigmene
 2E17: Doppio trattino obliquo
-2E18: Invertito Interrobang : gnaborretni
+2E18: Invertito Interrobang: gnaborretni
 2E19: Ramo di palma
 2E1A: Trattino con diaeresi
 2E1B: Tilde with Ring Above
@@ -44,7 +44,7 @@
 2E2B: Punteggiatura One Dot Over Two Dots
 2E2C: Punteggiatura quadrata a quattro punti
 2E2D: Five Dot Mark
-2E2E: Punto interrogativo invertito : punctus percontativus : ironia, sarcasmo
+2E2E: Punto interrogativo invertito: punctus percontativus , ironia, sarcasmo
 2E2F: Tilde verticale
 2E30: Anello
 2E31: Separatore di parole Punto centrale
@@ -56,7 +56,7 @@
 2E37: Pugnale con Guardia Destra
 2E38: Turned Dagger
 2E39: Segno di metà sezione superiore
-2E3A: Two-Em Dash : trattino di omissione
+2E3A: Two-Em Dash: trattino di omissione
 2E3B: Three-Em Dash
 2E3C: Stop completo stenografico
 2E3D: Vertical Six Dots
@@ -77,10 +77,10 @@
 2E4C: Virgola medievale
 2E4D: Paragrafo
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Divisore del verso della Cornovaglia
+2E50: Tortino incrociato con traversa destra
+2E51: Tortino trasversale con traversa sinistra
+2E52: Capitale del segno tironiano Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

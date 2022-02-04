@@ -1,6 +1,6 @@
 0C00: Telugu Sign Combining Candrabindu Above
-0C01: Telugu Sign Candrabindu : arasunna
-0C02: Telugu Sign Anusvara : sunna
+0C01: Telugu Sign Candrabindu: arasunna
+0C02: Telugu Sign Anusvara: sunna
 0C03: Telugu Sign Visarga
 0C04: Telugu Sign Combining Anusvara Above
 0C05: Telugu Letter A
@@ -75,7 +75,7 @@
 0C4A: Telugu Vowel Sign O
 0C4B: Telugu Vowel Sign Oo
 0C4C: Telugu Vowel Sign Au
-0C4D: Telugu Sign Virama : halant (the preferred name)
+0C4D: Telugu Sign Virama: halant (the preferred name)
 0C4E:
 0C4F:
 0C50:
@@ -98,8 +98,8 @@
 0C61: Telugu Letter Vocalic Ll
 0C62: Telugu Vowel Sign Vocalic L
 0C63: Telugu Vowel Sign Vocalic Ll
-0C64: <Reserved>
-0C65: <Reserved>
+0C64:
+0C65:
 0C66: Telugu Digit Zero
 0C67: Telugu Digit One
 0C68: Telugu Digit Two
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu Sign Siddham
 0C78: Telugu Fraction Digit Zero for Odd Powers of Four
 0C79: Telugu Fraction Digit One for Odd Powers of Four
 0C7A: Telugu Fraction Digit Two for Odd Powers of Four
@@ -226,8 +226,8 @@
 0CE1: Kannada Letter Vocalic Ll
 0CE2: Kannada Vowel Sign Vocalic L
 0CE3: Kannada Vowel Sign Vocalic Ll
-0CE4: <Reserved>
-0CE5: <Reserved>
+0CE4:
+0CE5:
 0CE6: Kannada Digit Zero
 0CE7: Kannada Digit One
 0CE8: Kannada Digit Two

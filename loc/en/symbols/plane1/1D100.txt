@@ -56,15 +56,15 @@
 1D137: Musical Symbol Ottava Bassa
 1D138: Musical Symbol Quindicesima Alta
 1D139: Musical Symbol Quindicesima Bassa
-1D13A: Musical Symbol Multi Rest : double whole-rest, breve rest
-1D13B: Musical Symbol Whole Rest : semibreve rest
-1D13C: Musical Symbol Half Rest : minim rest
-1D13D: Musical Symbol Quarter Rest : crochet rest
-1D13E: Musical Symbol Eighth Rest : quaver rest
-1D13F: Musical Symbol Sixteenth Rest : semiquaver rest
-1D140: Musical Symbol Thirty-Second Rest : demisemiquaver rest
-1D141: Musical Symbol Sixty-Fourth Rest : hemidemisemiquaver rest, semidemisemiquaver rest
-1D142: Musical Symbol One Hundred Twenty-Eighth Rest : semihemidemisemiquaver rest, quasihemidemisemiquaver rest
+1D13A: Musical Symbol Multi Rest: double whole-rest, breve rest
+1D13B: Musical Symbol Whole Rest: semibreve rest
+1D13C: Musical Symbol Half Rest: minim rest
+1D13D: Musical Symbol Quarter Rest: crochet rest
+1D13E: Musical Symbol Eighth Rest: quaver rest
+1D13F: Musical Symbol Sixteenth Rest: semiquaver rest
+1D140: Musical Symbol Thirty-Second Rest: demisemiquaver rest
+1D141: Musical Symbol Sixty-Fourth Rest: hemidemisemiquaver rest, semidemisemiquaver rest
+1D142: Musical Symbol One Hundred Twenty-Eighth Rest: semihemidemisemiquaver rest, quasihemidemisemiquaver rest
 1D143: Musical Symbol X Notehead
 1D144: Musical Symbol Plus Notehead
 1D145: Musical Symbol Circle X Notehead
@@ -91,14 +91,14 @@
 1D15A: Musical Symbol Cluster Notehead White
 1D15B: Musical Symbol Cluster Notehead Black
 1D15C: Musical Symbol Breve
-1D15D: Musical Symbol Whole Note : semibreve
-1D15E: Musical Symbol Half Note : minim
-1D15F: Musical Symbol Quarter Note : crotchet
-1D160: Musical Symbol Eighth Note : quaver
-1D161: Musical Symbol Sixteenth Note : semiquaver
-1D162: Musical Symbol Thirty-Second Note : demisemiquaver
-1D163: Musical Symbol Sixty-Fourth Note : hemidemisemiquaver, semidemisemiquaver
-1D164: Musical Symbol One Hundred Twenty-Eighth Note : semihemidemisemiquaver, quasihemidemisemiquaver
+1D15D: Musical Symbol Whole Note: semibreve
+1D15E: Musical Symbol Half Note: minim
+1D15F: Musical Symbol Quarter Note: crotchet
+1D160: Musical Symbol Eighth Note: quaver
+1D161: Musical Symbol Sixteenth Note: semiquaver
+1D162: Musical Symbol Thirty-Second Note: demisemiquaver
+1D163: Musical Symbol Sixty-Fourth Note: hemidemisemiquaver, semidemisemiquaver
+1D164: Musical Symbol One Hundred Twenty-Eighth Note: semihemidemisemiquaver, quasihemidemisemiquaver
 1D165: Musical Symbol Combining Stem
 1D166: Musical Symbol Combining Sprechgesang Stem
 1D167: Musical Symbol Combining Tremolo-1

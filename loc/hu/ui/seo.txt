@@ -1,6 +1,9 @@
-meta-description: Unicode karakterkeresési webszolgáltatás. A kedvenc karakterek keresése és másolása: 😎 Emoji, ▶ ️ Nyilak, ✪ Csillagok, 💲 Pénznemek, 🈂️ Írási rendszerek és több 🚩
-symbol-description: Szimbólum: {{symbol}}, Név: {{name}}, Unicode szám: {{code}}, Blokk: {{block}}
+meta-description: Unicode karakterkeresési webszolgáltatás. A kedvenc karakterek keresése és másolása: 😎 Emodzsi, ▶ ️ Nyilak, ✪ Csillagok, 💲 Pénznemek, 🈂️ Írási rendszerek és több 🚩
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, a szimbólum neve: {{name}}, a Unicode-beli bejegyzés száma: {{code}}, a jel szerepel a blokkban: {{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
 
-emoji: hangulatjel
+seo-symbol: szimbólum
+
+emoji: Emodzsi
 copy: másolat
 symbol: jel, ikon

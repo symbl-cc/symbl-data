@@ -46,7 +46,7 @@
 012D: Latin Küçük Harf Breve ile
 012E: Ogonek ile Latin Büyük Harf I
 012F: Ogonek ile Latin Küçük Harf I
-0130: Latin büyük harf ile yukarıda nokta : salak
+0130: Latin büyük harf ile yukarıda nokta: salak
 0131: Latin Küçük Harf Dotless I
 0132: Latin Başkent Ligatı Ij
 0133: Latin Küçük Ligatür Ij
@@ -63,7 +63,7 @@
 013E: Caron ile Latince Küçük Harf L
 013F: Orta nokta ile Latin büyük harf L
 0140: Orta nokta ile Latin küçük harf L
-0141: Latin Büyük Harfli L Harfi : litecoin
+0141: Latin Büyük Harfli L Harfi: litecoin
 0142: Latin Küçük Harf L Harfi
 0143: Akutlu Latin Büyük Harf N
 0144: Akut Latince Küçük Harf N
@@ -71,9 +71,9 @@
 0146: Cedilla ile Latin Küçük Harf N
 0147: Caron ile Latin Büyük Harf N
 0148: Caron ile Latince Küçük Harf N
-0149: Apostrophe'den Önce Latince Küçük Harf N : latince küçük harf kesme işareti n
+0149: Apostrophe'den Önce Latince Küçük Harf N: latince küçük harf kesme işareti n
 014A: Latin Büyük Harf Eng
-014B: Latince Küçük Harfli Müh : engma, angma
+014B: Latince Küçük Harfli Müh: engma, angma
 014C: Macron ile Latin Büyük Harf O
 014D: Macronlu Latin Küçük Harf O
 014E: Breve ile Latin büyük harf O
@@ -81,7 +81,7 @@
 0150: Çift Akutlu Latin Büyük Harf O
 0151: Çift Akutlu Latin Küçük Harf O
 0152: Latin Başkent Ligatı Oe
-0153: Latin Küçük Ligatüre Oe : ethel (eski ingilizce eðel'den)
+0153: Latin Küçük Ligatüre Oe: ethel (eski ingilizce eðel'den)
 0154: Akutlu Latin Büyük Harf R
 0155: Akutlu Latin Küçük Harf R
 0156: Cedilla ile Latin Büyük Harf R
@@ -139,25 +139,25 @@
 018A: Kancalı Latin Büyük Harf D
 018B: Topbar ile Latin Büyük Harf D
 018C: Topbarlı Latin Küçük Harf D
-018D: Latince Küçük Harf Çevirildi Delta : cilalı kanca o ters
-018E: Latin büyük harf ters E : e döndü
+018D: Latince Küçük Harf Çevirildi Delta: cilalı kanca o ters
+018E: Latin büyük harf ters E: e döndü
 018F: Latin Büyük Harfli Schwa
-0190: Latin Büyük Harf Açık E : epsilon
+0190: Latin Büyük Harf Açık E: epsilon
 0191: Kancalı Latin Büyük Harf F
-0192: Kancalı Latin Küçük Harf F : komut dosyası f : florin para birimi simgesi (hollanda) : işlev simgesi
+0192: Kancalı Latin Küçük Harf F: komut dosyası f , florin para birimi simgesi (hollanda) , işlev simgesi
 0193: Kancalı Latin Büyük Harf G
 0194: Latin Büyük Harf Gama
 0195: Latince Küçük Harf Hv
 0196: Latin Büyük Harf Iota
-0197: Latin Büyük Harfli İnmeli : ben çubukla
+0197: Latin Büyük Harfli İnmeli: ben çubukla
 0198: Kancalı Latin Büyük Harf K
 0199: Latin Küçük Kancalı K Harfi
-019A: Latin Küçük Harf L Bar : çubuklu l
-019B: Latin Küçük Harfli Lambda Konturu : çubuklu lambda, lambda bar
+019A: Latin Küçük Harf L Bar: çubuklu l
+019B: Latin Küçük Harfli Lambda Konturu: çubuklu lambda, lambda bar
 019C: Latin büyük harf m döndü
 019D: Sol Kancalı Latin Büyük Harf N
 019E: Uzun Sağ Bacak ile Latin Küçük Harf N
-019F: Orta Tildeli Latin Büyük Harf O : çubuklu o, o bar
+019F: Orta Tildeli Latin Büyük Harf O: çubuklu o, o bar
 01A0: Boynuzlu Latin Büyük Harf O
 01A1: Boynuzlu Latin Küçük Harf O
 01A2: Latin Büyük Harf Oi
@@ -176,11 +176,11 @@
 01AF: Boynuzlu Latin Büyük Harf U
 01B0: Boynuzlu Latin Küçük U Harfi
 01B1: Latin Büyük Harf Upsilon
-01B2: Kancalı Latin Büyük Harf V : senaryo v
+01B2: Kancalı Latin Büyük Harf V: senaryo v
 01B3: Kancalı Latin Büyük Harf Y
 01B4: Kancalı Latin Küçük Harf Y
 01B5: Latin Büyük Harf Z İnme ile
-01B6: Latin Küçük Harf Z Harfi : çubuklu z, z çubuğu
+01B6: Latin Küçük Harf Z Harfi: çubuklu z, z çubuğu
 01B7: Latin Büyük Harf Ezh
 01B8: Latin Büyük Harf Ezh Tersine Döndü
 01B9: Latin Küçük Harf Ezh Tersine Döndü
@@ -189,11 +189,11 @@
 01BC: Latin Büyük Harfli Ton Beşli
 01BD: Latin Küçük Harfli Ton Beş
 01BE: Latince Harf İnme ile Glottal Dur Ters
-01BF: Latince Harf Wynn : metropol
-01C0: Latince Mektubu Dental Tıkla : boru
-01C1: Latin Harfi Yanal Tıklama : çift ​​borulu
-01C2: Latin Harfi Alveolar Tıklayın : çift ​​çubuklu boru : palatoalveoler tıklama (ipa)
-01C3: Latin Mektubu Retroflex Tıklayın : latin harfli ünlem işareti : (post) alveolar klik (ipa)
+01BF: Latince Harf Wynn: metropol
+01C0: Latince Mektubu Dental Tıkla: boru
+01C1: Latin Harfi Yanal Tıklama: çift ​​borulu
+01C2: Latin Harfi Alveolar Tıklayın: çift ​​çubuklu boru , palatoalveoler tıklama (ipa)
+01C3: Latin Mektubu Retroflex Tıklayın: latin harfli ünlem işareti , (post) alveolar klik (ipa)
 01C4: Caron ile Latin büyük harf Dz
 01C5: Latince harf D ile küçük harf Z Caron ile
 01C6: Caron ile Latince Küçük Harf Dz
@@ -245,7 +245,7 @@
 01F4: Akutlu Latin Büyük Harf G
 01F5: Latince Küçük Harf G Akutlu
 01F6: Latin Büyük Harfli Hwair
-01F7: Latin Büyük Harf Wynn : metropol
+01F7: Latin Büyük Harf Wynn: metropol
 01F8: Latin Büyük Harf Mezarlı N
 01F9: Latin Küçük Harfli Mezar N
 01FA: Latin Büyük Harf a Üstü ve Akut Halkasıyla

@@ -1,9 +1,9 @@
 2000: En Quad
-2001: Em Quad : birka quad
-2002: En Space : dió
-2003: Em Space : ürühús
-2004: Három-per-Em tér : vastag tér
-2005: Négy per-em hely : középső tér
+2001: Em Quad: birka quad
+2002: En Space: dió
+2003: Em Space: ürühús
+2004: Három-per-Em tér: vastag tér
+2005: Négy per-em hely: középső tér
 2006: Hat-per-Em tér
 2007: Ábra tér
 2008: Írásjelek
@@ -19,24 +19,24 @@
 2012: Dash ábra
 2013: En Dash
 2014: Em Dash
-2015: Vízszintes sáv : idézet kötőjel
+2015: Vízszintes sáv: idézet kötőjel
 2016: Dupla függőleges vonal
 2017: Dupla alacsony vonal
-2018: Balra egyetlen idézőjel : egyetlen fordított vessző idézőjel
-2019: Jobb egyéni idézőjel : egyetlen vessző idézőjel
-201A: Egyetlen alacsony 9-es idézőjel : alacsony egy vessző-idézőjel
-201B: Egyetlen High-Reversed-9 idézőjel : egyetlen fordított vessző idézőjel
-201C: Bal kettős idézőjel : dupla fordított vessző idézőjel
-201D: Jobb dupla idézőjel : kettős vessző idézőjel
-201E: Double Low-9 idézési jel : alacsony kettős vessző idézőjel
-201F: Kettős High-Reversed-9 idézőjel : dupla megfordított vessző idézőjel
-2020: Tőr : obeliszk, hosszú kereszt, hosszúkás kereszt
-2021: Dupla tőr : diesis, kettős obeliszk
-2022: Golyó : fekete kis kör
+2018: Balra egyetlen idézőjel: egyetlen fordított vessző idézőjel
+2019: Jobb egyéni idézőjel: egyetlen vessző idézőjel
+201A: Egyetlen alacsony 9-es idézőjel: alacsony egy vessző-idézőjel
+201B: Egyetlen High-Reversed-9 idézőjel: egyetlen fordított vessző idézőjel
+201C: Bal kettős idézőjel: dupla fordított vessző idézőjel
+201D: Jobb dupla idézőjel: kettős vessző idézőjel
+201E: Double Low-9 idézési jel: alacsony kettős vessző idézőjel
+201F: Kettős High-Reversed-9 idézőjel: dupla megfordított vessző idézőjel
+2020: Tőr: obeliszk, hosszú kereszt, hosszúkás kereszt
+2021: Dupla tőr: diesis, kettős obeliszk
+2022: Golyó: fekete kis kör
 2023: Háromszög alakú golyó
 2024: Egy pontvezető
 2025: Két pontvezető
-2026: Vízszintes ellipszis : három pontvezető
+2026: Vízszintes ellipszis: három pontvezető
 2027: Jelölőpont
 2028: Vonalelválasztó
 2029: Bekezdés elválasztó
@@ -46,27 +46,27 @@
 202D: Balról jobbra felülírás
 202E: Jobbra-balra felülírás
 202F: Szűk No-Break tér
-2030: Per Mille Sign : permille, ezerre
-2031: Tízezer aláírás : permyriad
-2032: legfontosabb : perc, láb
-2033: Double Prime : másodperc, hüvelyk
-2034: Triple Prime : vonalak (régi intézkedés, 1/12 hüvelyk)
+2030: Per Mille Sign: permille, ezerre
+2031: Tízezer aláírás: permyriad
+2032: legfontosabb: perc, láb
+2033: Double Prime: másodperc, hüvelyk
+2034: Triple Prime: vonalak (régi intézkedés, 1/12 hüvelyk)
 2035: Fordított Prime
 2036: Fordított dupla próba
 2037: Megfordult Triple Prime
 2038: Hiányjel
-2039: Egyetlen balra mutató szög idézőjel : balra mutató egyetlen guillemet
-203A: Egyetlen jobbra mutató szög idézőjel : jobbra mutató egyetlen guillemet
-203B: Referenciajel : japán kome : urdu bekezdés elválasztó
+2039: Egyetlen balra mutató szög idézőjel: balra mutató egyetlen guillemet
+203A: Egyetlen jobbra mutató szög idézőjel: jobbra mutató egyetlen guillemet
+203B: Referenciajel: japán kome , urdu bekezdés elválasztó
 203C: Dupla felkiáltójel
 203D: Interrobang
-203E: overline : távolságtartomány
-203F: Undertie : görög enotikon
-2040: Karakter nyakkendő : z jelölési szekvencia összefűzése
+203E: overline: távolságtartomány
+203F: Undertie: görög enotikon
+2040: Karakter nyakkendő: z jelölési szekvencia összefűzése
 2041: Caret beillesztési pont
 2042: asterism
 2043: Jelölő golyó
-2044: Fraction Slash : solidus (tipográfia)
+2044: Fraction Slash: solidus (tipográfia)
 2045: Bal szögletes zárójel Quillrel
 2046: Jobb szögletes zárójel a Quillrel
 2047: Dupla kérdőjel
@@ -80,24 +80,24 @@
 204F: Fordított Semicolon
 2050: Bezár
 2051: Két csillag függőlegesen igazítva
-2052: Kereskedelmi mínusz jele : abzüglich (német), med avdrag av (svéd), piska (svéd, "ostor")
+2052: Kereskedelmi mínusz jele: abzüglich (német), med avdrag av (svéd), piska (svéd, "ostor")
 2053: Dash
 2054: Megfordított aláfutás
-2055: Virág írásjelek : phul, puspika
+2055: Virág írásjelek: phul, puspika
 2056: Három pont központozás
 2057: Quadruple Prime
 2058: Négy pont írásjelek
-2059: Öt pont írásjelek : görög pentonkion : quincunx
+2059: Öt pont írásjelek: görög pentonkion , quincunx
 205A: Két pont központozás
 205B: Négy pont jel
 205C: Pontozott kereszt
-205D: Tricolon : epidaurean acrophonic szimbólum három
+205D: Tricolon: epidaurean acrophonic szimbólum három
 205E: Függőleges négy pont
 205F: Közepes matematikai tér
 2060: Word asztalos
 2061: Funkció alkalmazás
 2062: Láthatatlan idők
-2063: Láthatatlan elválasztó : láthatatlan vessző
+2063: Láthatatlan elválasztó: láthatatlan vessző
 2064: Láthatatlan plusz
 2065:
 2066: Balról jobbra leválasztó
@@ -175,7 +175,7 @@
 20AE: Tugrik Jel
 20AF: Drachma jel
 20B0: Német Penny jel
-20B1: Peso jele : filipino peso jele
+20B1: Peso jele: filipino peso jele
 20B2: Guarani jel
 20B3: Austral Sign
 20B4: Hrivnya jel
@@ -187,7 +187,7 @@
 20BA: Török líra jel
 20BB: Nordic Mark Sign
 20BC: Manat jel
-20BD: Rubel szimbólum : Orosz rubel szimbólum, orosz valuta, rur, dörzsölje
+20BD: Rubel szimbólum: Orosz rubel szimbólum, orosz valuta, rur, dörzsölje
 20BE: Lari jel
 20BF: Bitcoin jel
 20C0:
@@ -217,23 +217,23 @@
 20D8: A gyűrűs átfedés kombinálása
 20D9: Az óramutató járásával megegyező gyűrű átfedése
 20DA: Az óramutató járásával ellentétes gyűrűburkolat kombinálása
-20DB: Három pontot kombinálva : harmadik származék
-20DC: Négy pontot kombinálva : negyedik származék
-20DD: Zárókör kombinálása : jis összetétele kör : tízezer jelet kombináló cirill
+20DB: Három pontot kombinálva: harmadik származék
+20DC: Négy pontot kombinálva: negyedik származék
+20DD: Zárókör kombinálása: jis összetétele kör , tízezer jelet kombináló cirill
 20DE: A zárt tér kombinálása
 20DF: Gyémántgyűrű kombinálása
-20E0: Összekötő kör visszafelé történő összekapcsolása : tiltsa, tiltsa le
+20E0: Összekötő kör visszafelé történő összekapcsolása: tiltsa, tiltsa le
 20E1: Balra jobbra mutató nyíl kombinálása
 20E2: A burkolat képernyő kombinálása
 20E3: A Keycap burkolat kombinálása
 20E4: Összekötő felfelé mutató háromszög kombinálása
 20E5: A Reverse Solidus Overlay kombinálása
-20E6: Dupla függőleges löketfedés kombinálása : z jelölés véges funkció diakritikus
-20E7: Annuitás szimbólum kombinálása : biztosításmatematikai kanyar
+20E6: Dupla függőleges löketfedés kombinálása: z jelölés véges funkció diakritikus
+20E7: Annuitás szimbólum kombinálása: biztosításmatematikai kanyar
 20E8: A Triple Underdot kombinálása
-20E9: Széles híd kombinálása : összehúzódási operátor
+20E9: Széles híd kombinálása: összehúzódási operátor
 20EA: A bal oldali nyílburkolat kombinálása
-20EB: A Long Double Solidus Overlay kombinálása : hosszú dupla slash overlay
+20EB: A Long Double Solidus Overlay kombinálása: hosszú dupla slash overlay
 20EC: A jobb oldali hárfán kombinálása Barb lefelé
 20ED: A balra hárfán kombinálása Barb lefelé
 20EE: Az alábbiakban a bal nyíl kombinálása
@@ -253,4 +253,4 @@
 20FC:
 20FD:
 20FE:
-20FF:
+20FF:

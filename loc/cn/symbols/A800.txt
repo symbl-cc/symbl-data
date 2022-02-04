@@ -42,20 +42,20 @@ A828 : 塞洛提纳格瑞文诗歌标记-1
 A829 : 塞洛提纳格瑞文诗歌标记-2
 A82A : 塞洛提纳格瑞文诗歌标记-3
 A82B : 塞洛提纳格瑞文诗歌标记-4
-A82C : 
+A82C : 塞洛提纳格瑞文備用符号 Hasanta
 A82D : 
 A82E : 
 A82F : 
-A830 : North Indic Fraction One Quarter
-A831 : North Indic Fraction One Half
-A832 : North Indic Fraction Three Quarters
-A833 : North Indic Fraction One Sixteenth
-A834 : North Indic Fraction One Eighth
-A835 : North Indic Fraction Three Sixteenths
-A836 : North Indic Quarter Mark
-A837 : North Indic Placeholder Mark
-A838 : North Indic Rupee Mark
-A839 : North Indic Quantity Mark
+A830 : 北印度分數四分之一
+A831 : 北印度分數一半
+A832 : 北印度分數四分之三
+A833 : 北印度分數十六分之一
+A834 : 北印度分數八分之一
+A835 : 北印度分數三分之二
+A836 : 北印度區馬克
+A837 : 北印度佔位符標記
+A838 : 北印度盧比馬克
+A839 : 北印度數量標記
 A83A : 
 A83B : 
 A83C : 
@@ -126,76 +126,76 @@ A87C :
 A87D : 
 A87E : 
 A87F : 
-A880 : Saurashtra Sign随韵
-A881 : Saurashtra Sign止韵
-A882 : Saurashtra Letter A
-A883 : Saurashtra Letter Aa
-A884 : Saurashtra Letter I
-A885 : Saurashtra Letter Ii
-A886 : Saurashtra Letter U
-A887 : Saurashtra Letter Uu
-A888 : Saurashtra Letter Vocalic R
-A889 : Saurashtra Letter Vocalic Rr
-A88A : Saurashtra Letter Vocalic L
-A88B : Saurashtra Letter Vocalic Ll
-A88C : Saurashtra Letter E
-A88D : Saurashtra Letter Ee
-A88E : Saurashtra Letter Ai
-A88F : Saurashtra Letter O
-A890 : Saurashtra Letter Oo
-A891 : Saurashtra Letter Au
-A892 : Saurashtra Letter Ka
-A893 : Saurashtra Letter Kha
-A894 : Saurashtra Letter Ga
-A895 : Saurashtra Letter Gha
-A896 : Saurashtra Letter Nga
-A897 : Saurashtra Letter Ca
-A898 : Saurashtra Letter Cha
-A899 : Saurashtra Letter Ja
-A89A : Saurashtra Letter Jha
-A89B : Saurashtra Letter Nya
-A89C : Saurashtra Letter Tta
-A89D : Saurashtra Letter Ttha
-A89E : Saurashtra Letter Dda
-A89F : Saurashtra Letter Ddha
-A8A0 : Saurashtra Letter Nna
-A8A1 : Saurashtra Letter Ta
-A8A2 : Saurashtra Letter Tha
-A8A3 : Saurashtra Letter Da
-A8A4 : Saurashtra Letter Dha
-A8A5 : Saurashtra Letter Na
-A8A6 : Saurashtra Letter Pa
-A8A7 : Saurashtra Letter Pha
-A8A8 : Saurashtra Letter Ba
-A8A9 : Saurashtra Letter Bha
-A8AA : Saurashtra Letter Ma
-A8AB : Saurashtra Letter Ya
-A8AC : Saurashtra Letter Ra
-A8AD : Saurashtra Letter La
-A8AE : Saurashtra Letter Va
-A8AF : Saurashtra Letter Sha
-A8B0 : Saurashtra Letter Ssa
-A8B1 : Saurashtra Letter Sa
-A8B2 : Saurashtra Letter Ha
-A8B3 : Saurashtra Letter Lla
-A8B4 : Saurashtra Consonant Sign Haaru
-A8B5 : Saurashtra Vowel Sign Aa
-A8B6 : Saurashtra Vowel Sign I
-A8B7 : Saurashtra Vowel Sign Ii
-A8B8 : Saurashtra Vowel Sign U
-A8B9 : Saurashtra Vowel Sign Uu
-A8BA : Saurashtra Vowel Sign Vocalic R
-A8BB : Saurashtra Vowel Sign Vocalic Rr
-A8BC : Saurashtra Vowel Sign Vocalic L
-A8BD : Saurashtra Vowel Sign Vocalic Ll
-A8BE : Saurashtra Vowel Sign E
-A8BF : Saurashtra Vowel Sign Ee
-A8C0 : Saurashtra Vowel Sign Ai
-A8C1 : Saurashtra Vowel Sign O
-A8C2 : Saurashtra Vowel Sign Oo
-A8C3 : Saurashtra Vowel Sign Au
-A8C4 : Saurashtra Sign Virama
-A8C5 : 
+A880 : 紹拉施特拉標誌随韵
+A881 : 紹拉施特拉標誌止韵
+A882 : 紹拉施特拉字母 A
+A883 : 紹拉施特拉字母 Aa
+A884 : 紹拉施特拉字母 I
+A885 : 紹拉施特拉字母 Ii
+A886 : 紹拉施特拉字母 U
+A887 : 紹拉施特拉字母 Uu
+A888 : 紹拉施特拉字母詞彙 R
+A889 : 紹拉施特拉字母詞彙 Rr
+A88A : 紹拉施特拉字母詞彙 L
+A88B : 紹拉施特拉字母詞彙 Ll
+A88C : 紹拉施特拉字母 E
+A88D : 紹拉施特拉字母 Ee
+A88E : 紹拉施特拉字母 Ai
+A88F : 紹拉施特拉字母 O
+A890 : 紹拉施特拉字母 Oo
+A891 : 紹拉施特拉字母 Au
+A892 : 紹拉施特拉字母 Ka
+A893 : 紹拉施特拉字母 Kha
+A894 : 紹拉施特拉字母 Ga
+A895 : 紹拉施特拉字母 Gha
+A896 : 紹拉施特拉字母 Nga
+A897 : 紹拉施特拉字母 Ca
+A898 : 紹拉施特拉字母 Cha
+A899 : 紹拉施特拉字母 Ja
+A89A : 紹拉施特拉字母 Jha
+A89B : 紹拉施特拉字母 Nya
+A89C : 紹拉施特拉字母 Tta
+A89D : 紹拉施特拉字母 Ttha
+A89E : 紹拉施特拉字母 Dda
+A89F : 紹拉施特拉字母 Ddha
+A8A0 : 紹拉施特拉字母 Nna
+A8A1 : 紹拉施特拉字母 Ta
+A8A2 : 紹拉施特拉字母 Tha
+A8A3 : 紹拉施特拉字母 Da
+A8A4 : 紹拉施特拉字母 Dha
+A8A5 : 紹拉施特拉字母 Na
+A8A6 : 紹拉施特拉字母 Pa
+A8A7 : 紹拉施特拉字母 Pha
+A8A8 : 紹拉施特拉字母 Ba
+A8A9 : 紹拉施特拉字母 Bha
+A8AA : 紹拉施特拉字母 Ma
+A8AB : 紹拉施特拉字母 Ya
+A8AC : 紹拉施特拉字母 Ra
+A8AD : 紹拉施特拉字母 La
+A8AE : 紹拉施特拉字母 Va
+A8AF : 紹拉施特拉字母 Sha
+A8B0 : 紹拉施特拉字母 Ssa
+A8B1 : 紹拉施特拉字母 Sa
+A8B2 : 紹拉施特拉字母 Ha
+A8B3 : 紹拉施特拉字母 Lla
+A8B4 : 紹拉施特拉輔音標誌 Haaru
+A8B5 : 紹拉施特拉元音標誌 Aa
+A8B6 : 紹拉施特拉元音標誌 I
+A8B7 : 紹拉施特拉元音標誌 Ii
+A8B8 : 紹拉施特拉元音標誌 U
+A8B9 : 紹拉施特拉元音標誌 Uu
+A8BA : 紹拉施特拉元音標誌詞彙 R
+A8BB : 紹拉施特拉元音標誌詞彙 Rr
+A8BC : 紹拉施特拉元音標誌詞彙 L
+A8BD : 紹拉施特拉元音標誌詞彙 Ll
+A8BE : 紹拉施特拉元音標誌 E
+A8BF : 紹拉施特拉元音標誌 Ee
+A8C0 : 紹拉施特拉元音標誌 Ai
+A8C1 : 紹拉施特拉元音標誌 O
+A8C2 : 紹拉施特拉元音標誌 Oo
+A8C3 : 紹拉施特拉元音標誌 Au
+A8C4 : 紹拉施特拉標誌怛達點畵
+A8C5 : 索拉什特拉標誌坎德拉賓杜
 A8C6 : 
 A8C7 : 
 A8C8 : 
@@ -204,53 +204,53 @@ A8CA :
 A8CB : 
 A8CC : 
 A8CD : 
-A8CE : Saurashtra Danda
-A8CF : Saurashtra Double Danda
-A8D0 : Saurashtra Digit Zero
-A8D1 : Saurashtra Digit One
-A8D2 : Saurashtra Digit Two
-A8D3 : Saurashtra Digit Three
-A8D4 : Saurashtra Digit Four
-A8D5 : Saurashtra Digit Five
-A8D6 : Saurashtra Digit Six
-A8D7 : Saurashtra Digit Seven
-A8D8 : Saurashtra Digit Eight
-A8D9 : Saurashtra Digit Nine
+A8CE : 紹拉施特拉 Danda
+A8CF : 紹拉施特拉雙 Danda
+A8D0 : 紹拉施特拉數字零
+A8D1 : 紹拉施特拉數字一
+A8D2 : 紹拉施特拉數字二
+A8D3 : 紹拉施特拉數字三
+A8D4 : 紹拉施特拉數字四
+A8D5 : 紹拉施特拉數字五
+A8D6 : 紹拉施特拉數字六
+A8D7 : 紹拉施特拉數字七
+A8D8 : 紹拉施特拉數字八
+A8D9 : 紹拉施特拉數字九
 A8DA : 
 A8DB : 
 A8DC : 
 A8DD : 
 A8DE : 
 A8DF : 
-A8E0 : Combining Devanagari Digit Zero
-A8E1 : Combining Devanagari Digit One
-A8E2 : Combining Devanagari Digit Two
-A8E3 : Combining Devanagari Digit Three
-A8E4 : Combining Devanagari Digit Four
-A8E5 : Combining Devanagari Digit Five
-A8E6 : Combining Devanagari Digit Six
-A8E7 : Combining Devanagari Digit Seven
-A8E8 : Combining Devanagari Digit Eight
-A8E9 : Combining Devanagari Digit Nine
-A8EA : Combining Devanagari Letter A
-A8EB : Combining Devanagari Letter U
-A8EC : Combining Devanagari Letter Ka
-A8ED : Combining Devanagari Letter Na
-A8EE : Combining Devanagari Letter Pa
-A8EF : Combining Devanagari Letter Ra
-A8F0 : Combining Devanagari Letter Vi
-A8F1 : Combining Devanagari Sign Avagraha
-A8F2 : Devanagari Sign Spacing仰月点
-A8F3 : Devanagari Sign仰月点 Virama
-A8F4 : Devanagari Sign 双仰月点 Virama
-A8F5 : Devanagari Sign仰月点 Two
-A8F6 : Devanagari Sign仰月点 Three
-A8F7 : Devanagari Sign仰月点 Avagraha
-A8F8 : Devanagari Sign Pushpika
-A8F9 : Devanagari Gap Filler
-A8FA : Devanagari Caret
-A8FB : Devanagari Headstroke
-A8FC : 
-A8FD : 
-A8FE : 
-A8FF : 
+A8E0 : 結合天城文數字零
+A8E1 : 結合天城文數字一
+A8E2 : 結合天城文數字二
+A8E3 : 結合天城文數字三
+A8E4 : 結合天城文數字四
+A8E5 : 結合天城文數字五
+A8E6 : 結合天城文數字六
+A8E7 : 結合天城文數字七
+A8E8 : 結合天城文數字八
+A8E9 : 結合天城文數字九
+A8EA : 結合天城文字母 A
+A8EB : 結合天城文字母 U
+A8EC : 結合天城文字母 Ka
+A8ED : 結合天城文字母 Na
+A8EE : 結合天城文字母 Pa
+A8EF : 結合天城文字母 Ra
+A8F0 : 結合天城文字母 Vi
+A8F1 : 結合天城文標誌阿瓦格拉哈
+A8F2 : 天城文標誌間距仰月点
+A8F3 : 天城文標誌仰月点怛達點畵
+A8F4 : 天城文標誌 双仰月点怛達點畵
+A8F5 : 天城文標誌仰月点二
+A8F6 : 天城文標誌仰月点三
+A8F7 : 天城文標誌仰月点阿瓦格拉哈
+A8F8 : 天城文標誌普斯皮卡
+A8F9 : 天城文間隙填充
+A8FA : 天城文插入符號
+A8FB : 天城文腦中風
+A8FC: 天城文標誌悉曇文: siddhirastu
+A8FD : 天城文 Jain Om
+A8FE : 天城文字母 Ay
+A8FF : 天城文元音標誌 Ay

@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0	Carta de Chorasmian aleph
+10FB1	Letra chorasmian pequeno aleph
+10FB2	Carta de Chorasmian beth
+10FB3	Letra Chorasmian gimel
+10FB4	Carta cororasiana daleth
+10FB5	Carta de Chorasmian ele
+10FB6	Carta de Chorasmian waw
+10FB7	Carta de Chorasmian enrolada waw
+10FB8	Carta cororasiana zayin
+10FB9	Carta de Chorasmian heth
+10FBA	Carta de Chorasmian yodh
+10FBB	Carta corasmiana kaph
+10FBC	Carta cororasiana lamedh
+10FBD	Carta corasmiana mem
+10FBE	Freira carta cororasiana
+10FBF	Letra Chorasmian samekh
+10FC0	Letra chorasmian ayin
+10FC1	Carta de Chorasmian pe
+10FC2	Carta corasmiana resh
+10FC3	Letra Chorasmian shin
+10FC4	Carta de Chorasmian taw
+10FC5	Número um de Chorasmian
+10FC6	Número dois Chorasmian
+10FC7	Número corosmiano três
+10FC8	Número quatro de Chorasmian
+10FC9	Número dezoramas
+10FCA	Número cormoriano vinte
+10FCB	Número Chorasmian cem
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaic letra Aleph
+10FE1: Elymaic letra Beth
+10FE2: Elymaic letra Gimel
+10FE3: Elymaic letra Daleth
+10FE4: Elymaic letra He
+10FE5: Elymaic letra Waw
+10FE6: Elymaic letra Zayin
+10FE7: Elymaic letra Heth
+10FE8: Elymaic letra Teth
+10FE9: Elymaic letra Yodh
+10FEA: Elymaic letra Kaph
+10FEB: Elymaic letra Lamedh
+10FEC: Elymaic letra Mem
+10FED: Elymaic letra Nun
+10FEE: Elymaic letra Samekh
+10FEF: Elymaic letra Ayin
+10FF0: Elymaic letra Pe
+10FF1: Elymaic letra Sadhe
+10FF2: Elymaic letra Qoph
+10FF3: Elymaic letra Resh
+10FF4: Elymaic letra Shin
+10FF5: Elymaic letra Taw
+10FF6: Elymaic ligadura Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

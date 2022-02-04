@@ -24,8 +24,8 @@
 3017: Sağ Beyaz Lentiküler Braket
 3018: Sol Beyaz Kaplumbağa Kabuğu Braketi
 3019: Sağ Beyaz Kaplumbağa Kabuğu Braketi
-301A: Sol Beyaz Kare Dirsek : sol soyut sözdizimi braketi
-301B: Sağ beyaz köşeli ayraç : sağ soyut sözdizimi braketi
+301A: Sol Beyaz Kare Dirsek: sol soyut sözdizimi braketi
+301B: Sağ beyaz köşeli ayraç: sağ soyut sözdizimi braketi
 301C: Dalga çizgi
 301D: Ters Çift Başbakan Tırnak işareti
 301E: Çift Başbakan Tırnak işareti
@@ -44,9 +44,9 @@
 302B: İdeografik Yükselen Ton Markası
 302C: İdeografik Çıkış Tonu İşareti
 302D: İdeografik Giren Ton İşareti
-302E: Hangul Tek Nokta Tonu Markası : tek nokta bangjeom
-302F: Hangul Çift Nokta Tonlu İşaret : çift ​​nokta bangjeom
-3030: Dalgalı Çizgi : Dalga
+302E: Hangul Tek Nokta Tonu Markası: tek nokta bangjeom
+302F: Hangul Çift Nokta Tonlu İşaret: çift ​​nokta bangjeom
+3030: Dalgalı Çizgi: Dalga
 3031: Dikey Kana Tekrar İşareti
 3032: Dikey Kana Sesli Ses İşaretiyle Tekrar
 3033: Dikey Kana Tekrar Mark Üst Yarı
@@ -59,7 +59,7 @@
 303A: Hangzhou Sayısal Otuz
 303B: Dikey İdeografik İterasyon İşareti
 303C: Masu Mark
-303D: Parça Değişim İşareti : M, McDonald’lar
+303D: Parça Değişim İşareti: M, McDonald’lar
 303E: İdeografik Varyasyon Göstergesi
 303F: İdeografik Yarım Dolgu Alanı
 3040:
@@ -85,8 +85,8 @@
 3054: Hiragana Mektup Git
 3055: Hiragana Harf Sa
 3056: Hiragana Mektubu Za
-3057: Hiragana Mektubu Si : shi
-3058: Hiragana Mektubu Zi : ji (benzersiz değil)
+3057: Hiragana Mektubu Si: shi
+3058: Hiragana Mektubu Zi: ji (benzersiz değil)
 3059: Hiragana Harf Su
 305A: Hiragana Mektubu Zu
 305B: Hiragana Mektubu Se
@@ -95,11 +95,11 @@
 305E: Hiragana Mektup Zo
 305F: Hiragana Mektubu Ta
 3060: Hiragana Mektubu Da
-3061: Hiragana Mektup Ti : ki
-3062: Hiragana Mektubu Di : ji (benzersiz değil)
-3063: Hiragana Mektubu Küçük Tu : küçük tsu
-3064: Hiragana Mektubu Tu : tsu
-3065: Hiragana Mektubu Du : zu (benzersiz değil)
+3061: Hiragana Mektup Ti: ki
+3062: Hiragana Mektubu Di: ji (benzersiz değil)
+3063: Hiragana Mektubu Küçük Tu: küçük tsu
+3064: Hiragana Mektubu Tu: tsu
+3065: Hiragana Mektubu Du: zu (benzersiz değil)
 3066: Hiragana Mektubu Te
 3067: Hiragana Mektubu De
 3068: Hiragana'ya mektup
@@ -115,7 +115,7 @@
 3072: Hiragana Mektubu Merhaba
 3073: Hiragana Mektup Bi
 3074: Hiragana Mektubu Pi
-3075: Hiragana Mektubu Hu : fu
+3075: Hiragana Mektubu Hu: fu
 3076: Hiragana Mektubu Bu
 3077: Hiragana Harf Pu
 3078: Hiragana Mektubu O
@@ -181,8 +181,8 @@
 30B4: Katakana Mektubu Git
 30B5: Katakana Mektubu Sa
 30B6: Katakana Mektubu Za
-30B7: Katakana Mektubu Si : shi
-30B8: Katakana Mektubu Zi : ji (benzersiz değil)
+30B7: Katakana Mektubu Si: shi
+30B8: Katakana Mektubu Zi: ji (benzersiz değil)
 30B9: Katakana Mektubu Su
 30BA: Katakana Mektubu Zu
 30BB: Katakana Mektubu Se
@@ -191,11 +191,11 @@
 30BE: Katakana Letter Zo
 30BF: Katakana Mektup Ta
 30C0: Katakana Mektubu Da
-30C1: Katakana Mektup Ti : ki
-30C2: Katakana Mektubu Di : ji (benzersiz değil)
-30C3: Katakana Mektubu Küçük Tu : küçük tsu
-30C4: Katakana Mektubu Tu : tsu
-30C5: Katakana Mektubu Du : zu (benzersiz değil)
+30C1: Katakana Mektup Ti: ki
+30C2: Katakana Mektubu Di: ji (benzersiz değil)
+30C3: Katakana Mektubu Küçük Tu: küçük tsu
+30C4: Katakana Mektubu Tu: tsu
+30C5: Katakana Mektubu Du: zu (benzersiz değil)
 30C6: Katakana Mektubu Te
 30C7: Katakana Mektubu De
 30C8: Katakana'ya Mektup
@@ -211,7 +211,7 @@
 30D2: Katakana Mektubu Merhaba
 30D3: Katakana Mektup Bi
 30D4: Katakana Mektup Pi
-30D5: Katakana Mektubu Hu : fu
+30D5: Katakana Mektubu Hu: fu
 30D6: Katakana Mektubu Bu
 30D7: Katakana Mektup Pu
 30D8: Katakana Mektubu O

@@ -48,25 +48,25 @@
 10F2F:
 10F30: ソグディアンレターアレフ
 10F31: ソグディアンレターベス
-10F32: Sogdian Letter Gimel
+10F32: Sogdian 字母 Gimel
 10F33: ソグディアンレター彼
-10F34: Sogdian Letter Waw
-10F35: Sogdian Letter Zayin
+10F34: Sogdian 字母 Waw
+10F35: Sogdian 字母 Zayin
 10F36: ソグディアンレターヘス
-10F37: Sogdian Letter Yodh
+10F37: Sogdian 字母 Yodh
 10F38: ソグディアンレターカフ
-10F39: Sogdian Letter Lamedh
+10F39: Sogdian 字母 Lamedh
 10F3A: ソグディアンレターメモ
 10F3B: ソグディアンレター修道女
-10F3C: Sogdian Letter Samekh
-10F3D: Sogdian Letter Ayin
-10F3E: Sogdian Letter Pe
-10F3F: Sogdian Letter Sadhe
+10F3C: Sogdian 字母 Samekh
+10F3D: Sogdian 字母 Ayin
+10F3E: Sogdian 字母 Pe
+10F3F: Sogdian 字母 Sadhe
 10F40: ソグド文字レシュアイン
 10F41: ソグディアンレターシン
 10F42: ソグディアンレタートー
 10F43: ソグディアンレターフェス
-10F44: Sogdian Letter Lesh
+10F44: Sogdian 字母 Lesh
 10F45: Sogdian Independent Shin
 10F46: 下のSogdian結合ドット
 10F47: 下の2つのドットを組み合わせたソグディアン
@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0: ホラズム字母 Aleph
+10FB1: ホラズム字母 小さい Aleph
+10FB2: ホラズム字母 Beth
+10FB3: ホラズム字母 Gimel
+10FB4: ホラズム字母 Daleth
+10FB5: ホラズム字母 He
+10FB6: ホラズム字母 Waw
+10FB7: ホラズム字母 カールした Waw
+10FB8: ホラズム字母 Zayin
+10FB9: ホラズム字母 Heth
+10FBA: ホラズム字母 Yodh
+10FBB: ホラズム字母 Kaph
+10FBC: ホラズム字母 Lamedh
+10FBD: ホラズム字母 Mem
+10FBE: ホラズム字母 Nun
+10FBF: ホラズム字母 Samekh
+10FC0: ホラズム字母 Ayin
+10FC1: ホラズム字母 Pe
+10FC2: ホラズム字母 Resh
+10FC3: ホラズム字母 Shin
+10FC4: ホラズム字母 Taw
+10FC5: ホラズムナンバーワン
+10FC6: ホラズム2番
+10FC7: ホラズム3番
+10FC8: ホラズム第四
+10FC9: ホラズムナンバー10
+10FCA: ホラズムナンバー20
+10FCB: ホラズムナンバー100
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaic 字母 Aleph
+10FE1: Elymaic 字母 Beth
+10FE2: Elymaic 字母 Gimel
+10FE3: Elymaic 字母 Daleth
+10FE4: Elymaic 字母 He
+10FE5: Elymaic 字母 Waw
+10FE6: Elymaic 字母 Zayin
+10FE7: Elymaic 字母 Heth
+10FE8: Elymaic 字母 Teth
+10FE9: Elymaic 字母 Yodh
+10FEA: Elymaic 字母 Kaph
+10FEB: Elymaic 字母 Lamedh
+10FEC: Elymaic 字母 Mem
+10FED: Elymaic 字母 Nun
+10FEE: Elymaic 字母 Samekh
+10FEF: Elymaic 字母 Ayin
+10FF0: Elymaic 字母 Pe
+10FF1: Elymaic 字母 Sadhe
+10FF2: Elymaic 字母 Qoph
+10FF3: Elymaic 字母 Resh
+10FF4: Elymaic 字母 Shin
+10FF5: Elymaic 字母 Taw
+10FF6: Elymaic 結紮 Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

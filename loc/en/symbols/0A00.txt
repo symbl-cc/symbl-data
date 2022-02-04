@@ -3,7 +3,7 @@
 0A02: Gurmukhi Sign Bindi
 0A03: Gurmukhi Sign Visarga
 0A04:
-0A05: Gurmukhi Letter A : aira
+0A05: Gurmukhi Letter A: aira
 0A06: Gurmukhi Letter Aa
 0A07: Gurmukhi Letter I
 0A08: Gurmukhi Letter Ii
@@ -58,23 +58,23 @@
 0A39: Gurmukhi Letter Ha
 0A3A:
 0A3B:
-0A3C: Gurmukhi Sign Nukta : pairin bindi
+0A3C: Gurmukhi Sign Nukta: pairin bindi
 0A3D:
-0A3E: Gurmukhi Vowel Sign Aa : kanna
-0A3F: Gurmukhi Vowel Sign I : sihari
-0A40: Gurmukhi Vowel Sign Ii : bihari
-0A41: Gurmukhi Vowel Sign U : aunkar
-0A42: Gurmukhi Vowel Sign Uu : dulainkar
+0A3E: Gurmukhi Vowel Sign Aa: kanna
+0A3F: Gurmukhi Vowel Sign I: sihari
+0A40: Gurmukhi Vowel Sign Ii: bihari
+0A41: Gurmukhi Vowel Sign U: aunkar
+0A42: Gurmukhi Vowel Sign Uu: dulainkar
 0A43:
 0A44:
 0A45:
 0A46:
-0A47: Gurmukhi Vowel Sign Ee : lanvan
-0A48: Gurmukhi Vowel Sign Ai : dulanvan
+0A47: Gurmukhi Vowel Sign Ee: lanvan
+0A48: Gurmukhi Vowel Sign Ai: dulanvan
 0A49:
 0A4A:
-0A4B: Gurmukhi Vowel Sign Oo : hora
-0A4C: Gurmukhi Vowel Sign Au : kanaura
+0A4B: Gurmukhi Vowel Sign Oo: hora
+0A4C: Gurmukhi Vowel Sign Au: kanaura
 0A4D: Gurmukhi Sign Virama
 0A4E:
 0A4F:
@@ -98,8 +98,8 @@
 0A61:
 0A62:
 0A63:
-0A64: <Reserved>
-0A65: <Reserved>
+0A64:
+0A65:
 0A66: Gurmukhi Digit Zero
 0A67: Gurmukhi Digit One
 0A68: Gurmukhi Digit Two
@@ -226,8 +226,8 @@
 0AE1: Gujarati Letter Vocalic Ll
 0AE2: Gujarati Vowel Sign Vocalic L
 0AE3: Gujarati Vowel Sign Vocalic Ll
-0AE4: <Reserved>
-0AE5: <Reserved>
+0AE4:
+0AE5:
 0AE6: Gujarati Digit Zero
 0AE7: Gujarati Digit One
 0AE8: Gujarati Digit Two
@@ -254,4 +254,4 @@
 0AFD: Gujarati Sign Three-Dot Nukta Above
 0AFE: Gujarati Sign Circle Nukta Above
 0AFF: Gujarati Sign Two-Circle Nukta Above
-
+

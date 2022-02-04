@@ -1,7 +1,7 @@
-11300:
-11301: Grantha Sign Candrabindu
-11302: Grantha Sign Anusvara
-11303: Grantha Sign Visarga
+11300: Grantha jel Kombinált Anusvara Above
+11301: Grantha jel Candrabindu
+11302: Grantha jel Anusvara
+11303: Grantha jel Visarga
 11304:
 11305: Grantha betű A
 11306: Grantha betű Aa
@@ -9,8 +9,8 @@
 11308: Grantha betű Ii
 11309: Grantha betű U
 1130A: Grantha betű Uu
-1130B: Grantha betű Vocalic R
-1130C: Grantha betű Vocalic L
+1130B: Grantha betű magánhangzóban bővelkedő R
+1130C: Grantha betű magánhangzóban bővelkedő L
 1130D:
 1130E:
 1130F: Grantha betű Ee
@@ -57,64 +57,64 @@
 11338: Grantha betű Sa
 11339: Grantha betű Ha
 1133A:
-1133B:
-1133C: Grantha Sign Nukta
-1133D: Grantha Sign Avagraha
-1133E: Grantha Vowel Sign Aa
-1133F: Grantha Vowel Sign I
-11340: Grantha Vowel Sign Ii
-11341: Grantha Vowel Sign U
-11342: Grantha Vowel Sign Uu
-11343: Grantha Vowel Sign Vocalic R
-11344: Grantha Vowel Sign Vocalic Rr
+1133B: Kombinált Bindu lent
+1133C: Grantha jel Nukta
+1133D: Grantha jel Avagraha
+1133E: Grantha magánhangzó jel Aa
+1133F: Grantha magánhangzó jel I
+11340: Grantha magánhangzó jel Ii
+11341: Grantha magánhangzó jel U
+11342: Grantha magánhangzó jel Uu
+11343: Grantha magánhangzó jel magánhangzóban bővelkedő R
+11344: Grantha magánhangzó jel magánhangzóban bővelkedő Rr
 11345:
 11346:
-11347: Grantha Vowel Sign Ee
-11348: Grantha Vowel Sign Ai
+11347: Grantha magánhangzó jel Ee
+11348: Grantha magánhangzó jel Ai
 11349:
 1134A:
-1134B: Grantha Vowel Sign Oo
-1134C: Grantha Vowel Sign Au
-1134D: Grantha Sign Virama
+1134B: Grantha magánhangzó jel Oo
+1134C: Grantha magánhangzó jel Au
+1134D: Grantha jel Virama
 1134E:
 1134F:
-11350:
+11350: Grantha Om
 11351:
 11352:
 11353:
 11354:
 11355:
 11356:
-11357: Grantha Au Length Mark
+11357: Grantha Au hosszjel
 11358:
 11359:
 1135A:
 1135B:
 1135C:
-1135D: Grantha Sign Pluta
-1135E: Grantha betű Vedic Anusvara
-1135F: Grantha betű Vedic Double Anusvara
-11360: Grantha betű Vocalic Rr
-11361: Grantha betű Vocalic Ll
-11362: Grantha Vowel Sign Vocalic L
-11363: Grantha Vowel Sign Vocalic Ll
+1135D: Grantha jel Pluta
+1135E: Grantha betű védikus Anusvara
+1135F: Grantha betű védikus kettős Anusvara
+11360: Grantha betű magánhangzóban bővelkedő Rr
+11361: Grantha betű magánhangzóban bővelkedő Ll
+11362: Grantha magánhangzó jel magánhangzóban bővelkedő L
+11363: Grantha magánhangzó jel magánhangzóban bővelkedő Ll
 11364:
 11365:
-11366: Combining Grantha Digit Zero
-11367: Combining Grantha Digit One
-11368: Combining Grantha Digit Two
-11369: Combining Grantha Digit Three
-1136A: Combining Grantha Digit Four
-1136B: Combining Grantha Digit Five
-1136C: Combining Grantha Digit Six
+11366: Kombinált Grantha számjegy nulla
+11367: Kombinált Grantha számjegy egy
+11368: Kombinált Grantha számjegy kettő
+11369: Kombinált Grantha számjegy három
+1136A: Kombinált Grantha számjegy négy
+1136B: Kombinált Grantha számjegy öt
+1136C: Kombinált Grantha számjegy hat
 1136D:
 1136E:
 1136F:
-11370: Combining Grantha betű A
-11371: Combining Grantha betű Ka
-11372: Combining Grantha betű Na
-11373: Combining Grantha betű Vi
-11374: Combining Grantha betű Pa
+11370: Kombinált Grantha betű A
+11371: Kombinált Grantha betű Ka
+11372: Kombinált Grantha betű Na
+11373: Kombinált Grantha betű Vi
+11374: Kombinált Grantha betű Pa
 11375:
 11376:
 11377:

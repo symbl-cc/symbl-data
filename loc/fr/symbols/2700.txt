@@ -8,10 +8,10 @@
 2707: Dérouleur de ruban
 2708: Avion
 2709: Enveloppe
-270A: Poing levé
+270A: Poing levé: Black lives matter
 270B: Main levée
 270C: Main de la victoire
-270D: Main en train d'écrire : lettre manuscrite
+270D: Main en train d'écrire: lettre manuscrite
 270E: Crayon vers le bas à droite
 270F: Crayon
 2710: Crayon vers le haut à droite
@@ -56,7 +56,7 @@
 2737: Étoile rectiligne à huit branches
 2738: Grosse étoile rectiligne à huit branches
 2739: Étoile noire à douze branches
-273A: Astérisque à seize branches : étoile rayonnante
+273A: Astérisque à seize branches: étoile rayonnante
 273B: Astérisque larmé
 273C: Astérisque larmé percé
 273D: Gros astérisque larmé
@@ -67,7 +67,7 @@
 2742: Étoile cerclée percée à huit branches
 2743: Gros astérisque rayonnant larmé
 2744: Flocon de neige
-2745: Flocon de neige à trois folioles transpercé : flocon trifolié resserré
+2745: Flocon de neige à trois folioles transpercé: flocon trifolié resserré
 2746: Gros flocon de neige à chevrons
 2747: Étincellement
 2748: Gros étincellement
@@ -98,10 +98,10 @@
 2761: Pied-de-mouche de fantaisie à jambage courbé
 2762: Gros point d'exclamation de fantaisie
 2763: Gros point d'exclamation de fantaisie en forme de cœur
-2764: Gros cœur noir
+2764: Gros cœur noir: coeur
 2765: Gros cœur noir couché
-2766: Cœur floral : feuille d'alde, feuille de lierre verticale
-2767: Cœur floral couché : feuille de lierre
+2766: Cœur floral: feuille d'alde, feuille de lierre verticale
+2767: Cœur floral couché: feuille de lierre
 2768: Parenthèse de fantaisie gauche demi-grasse
 2769: Parenthèse de fantaisie droite demi-grasse
 276A: Parenthèse de fantaisie gauche demi-grasse aplatie
@@ -192,14 +192,14 @@
 27BF: Double boucle recourbée
 27C0: Angle tridimensionnel
 27C1: Petit triangle blanc inscrit dans triangle blanc
-27C2: Perpendiculaire à : orthogonal à
+27C2: Perpendiculaire à: orthogonal à
 27C3: Sous-ensemble ouvert
 27C4: Sur-ensemble ouvert
 27C5: Délimiteur de sac en s gauche
 27C6: Délimiteur de sac en s droite
 27C7: Ou avec point inscrit
-27C8: Sous-ensemble précédé d'une barre oblique inversée : sous-ensemble précédé d'une contre-oblique
-27C9: Sur-ensemble suivi d'une barre oblique : sous-ensemble suivi d'une oblique
+27C8: Sous-ensemble précédé d'une barre oblique inversée: sous-ensemble précédé d'une contre-oblique
+27C9: Sur-ensemble suivi d'une barre oblique: sous-ensemble suivi d'une oblique
 27CA: Barre verticale à une traverse
 27CB: Diagonale mathématique ascendante
 27CC: Potence de division
@@ -209,31 +209,31 @@
 27D0: Losange blanc à point centré
 27D1: Et pointé
 27D2: Appartient à ouvert vers le haut
-27D3: Coin inférieur droit pointé : retrait
-27D4: Coin supérieur gauche pointé : refoulement
+27D3: Coin inférieur droit pointé: retrait
+27D4: Coin supérieur gauche pointé: refoulement
 27D5: Jointure externe gauche
 27D6: Jointure externe droite
 27D7: Jointure externe complète
 27D8: Grand taquet vers le haut
 27D9: Grand taquet vers le bas
 27DA: Double tourniquet bilatéral
-27DB: Tourniquet bilatéral : taquets vers la droite et la gauche
-27DC: Multijection gauche : multimap gauche
+27DB: Tourniquet bilatéral: taquets vers la droite et la gauche
+27DC: Multijection gauche: multimap gauche
 27DD: Long taquet droit
 27DE: Long taquet gauche
-27DF: Taquet vers le haut surmonté d'un cercle : élément radial
+27DF: Taquet vers le haut surmonté d'un cercle: élément radial
 27E0: Losange coupé
-27E1: Losange concave blanc : jamais (opérateur modal)
-27E2: Losange concave blanc avec trait à gauche : ne fut jamais (opérateur modal)
-27E3: Losange concave blanc avec trait à droite : ne sera jamais (opérateur modal)
-27E4: Carré blanc avec trait à gauche : fut toujours (opérateur modal)
-27E5: Carré blanc avec trait à droite : sera à jamais (opérateur modal)
-27E6: Crochet mathématique blanc gauche : crochet de sac gauche en notation z
-27E7: Crochet mathématique blanc droit : crochet de sac droit en notation z
-27E8: Chevron mathématique gauche : bra, cro : crochet de séquence gauche en notation z
-27E9: Chevron mathématique droit : ket, chet : crochet de séquence droit en notation z
-27EA: Double chevron mathématique gauche : chevron gauche en notation z
-27EB: Double chevron mathématique droit : chevron droit en notation z
+27E1: Losange concave blanc: jamais (opérateur modal)
+27E2: Losange concave blanc avec trait à gauche: ne fut jamais (opérateur modal)
+27E3: Losange concave blanc avec trait à droite: ne sera jamais (opérateur modal)
+27E4: Carré blanc avec trait à gauche: fut toujours (opérateur modal)
+27E5: Carré blanc avec trait à droite: sera à jamais (opérateur modal)
+27E6: Crochet mathématique blanc gauche: crochet de sac gauche en notation z
+27E7: Crochet mathématique blanc droit: crochet de sac droit en notation z
+27E8: Chevron mathématique gauche: bra, cro , crochet de séquence gauche en notation z
+27E9: Chevron mathématique droit: ket, chet , crochet de séquence droit en notation z
+27EA: Double chevron mathématique gauche: chevron gauche en notation z
+27EB: Double chevron mathématique droit: chevron droit en notation z
 27EC: Crochet en écaille mathématique blanc gauche
 27ED: Crochet en écaille mathématique blanc droit
 27EE: Parenthèse mathématique aplatie gauche
@@ -248,9 +248,9 @@
 27F7: Longue flèche bilatérale
 27F8: Longue double flèche vers la gauche
 27F9: Longue double flèche vers la droite
-27FA: Longue double flèche bilatérale : longue double flèche bilatérale
-27FB: Longue flèche d'un taquet vers la gauche : est l'image de : longue flèche à socle vers la gauche : longue flèche à béquillon vers la gauche
-27FC: Longue flèche d'un taquet vers la droite : a comme image
+27FA: Longue double flèche bilatérale: longue double flèche bilatérale
+27FB: Longue flèche d'un taquet vers la gauche: est l'image de , longue flèche à socle vers la gauche , longue flèche à béquillon vers la gauche
+27FC: Longue flèche d'un taquet vers la droite: a comme image
 27FD: Longue double flèche d'un taquet vers la gauche
 27FE: Longue double flèche d'un taquet vers la droite
-27FF: Longue flèche vers la droite en tire-bouchon : longue flèche droite dentée
+27FF: Longue flèche vers la droite en tire-bouchon: longue flèche droite dentée

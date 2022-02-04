@@ -6,8 +6,8 @@
 3005: Marque idéographique d'itération
 3006: Marque idéographique de fermeture
 3007: Zéro idéographique
-3008: Chevron gauche : cro
-3009: Chevron droit : chet
+3008: Chevron gauche: cro
+3009: Chevron droit: chet
 300A: Double chevron gauche
 300B: Double chevron droit
 300C: Anglet gauche
@@ -24,8 +24,8 @@
 3017: Crochet blanc lenticulaire droit
 3018: Crochet blanc gauche en écaille
 3019: Crochet blanc droit en écaille
-301A: Crochet blanc gauche : crochet gauche de syntaxe abstraite
-301B: Crochet blanc droit : crochet droit de syntaxe abstraite
+301A: Crochet blanc gauche: crochet gauche de syntaxe abstraite
+301B: Crochet blanc droit: crochet droit de syntaxe abstraite
 301C: Trait d'union en esse
 301D: Guillemet double prime réfléchi
 301E: Guillemet double prime
@@ -44,8 +44,8 @@
 302B: Marque idéographique de ton ascendant
 302C: Marque idéographique de ton sortant
 302D: Marque idéographique de ton entrant
-302E: Marque de ton hangûl point : pangdjom à un point
-302F: Marque de ton hangûl double point : pangdjom à double point
+302E: Marque de ton hangûl point: pangdjom à un point
+302F: Marque de ton hangûl double point: pangdjom à double point
 3030: Trait d'union ondulé
 3031: Marque verticale kana de répétition
 3032: Marque verticale kana de répétition avec son voisé
@@ -85,8 +85,8 @@
 3054: Syllabe hiragana go
 3055: Syllabe hiragana sa
 3056: Syllabe hiragana za
-3057: Syllabe hiragana si : chi
-3058: Syllabe hiragana zi : dji (pas unique)
+3057: Syllabe hiragana si: chi
+3058: Syllabe hiragana zi: dji (pas unique)
 3059: Syllabe hiragana su
 305A: Syllabe hiragana zu
 305B: Syllabe hiragana se
@@ -95,11 +95,11 @@
 305E: Syllabe hiragana zo
 305F: Syllabe hiragana ta
 3060: Syllabe hiragana da
-3061: Syllabe hiragana ti : tchi
-3062: Syllabe hiragana di : dji (pas unique)
-3063: Syllabe hiragana tu minuscule : petit tsou
-3064: Syllabe hiragana tu : tsou
-3065: Syllabe hiragana du : zou (pas unique)
+3061: Syllabe hiragana ti: tchi
+3062: Syllabe hiragana di: dji (pas unique)
+3063: Syllabe hiragana tu minuscule: petit tsou
+3064: Syllabe hiragana tu: tsou
+3065: Syllabe hiragana du: zou (pas unique)
 3066: Syllabe hiragana te
 3067: Syllabe hiragana de
 3068: Syllabe hiragana to
@@ -115,7 +115,7 @@
 3072: Syllabe hiragana hi
 3073: Syllabe hiragana bi
 3074: Syllabe hiragana pi
-3075: Syllabe hiragana hu : fu, fou
+3075: Syllabe hiragana hu: fu, fou
 3076: Syllabe hiragana bu
 3077: Syllabe hiragana pu
 3078: Syllabe hiragana he
@@ -181,8 +181,8 @@
 30B4: Syllabe katakana go
 30B5: Syllabe katakana sa
 30B6: Syllabe katakana za
-30B7: Syllabe katakana si : chi
-30B8: Syllabe katakana zi : dji (pas unique)
+30B7: Syllabe katakana si: chi
+30B8: Syllabe katakana zi: dji (pas unique)
 30B9: Syllabe katakana su
 30BA: Syllabe katakana zu
 30BB: Syllabe katakana se
@@ -191,11 +191,11 @@
 30BE: Syllabe katakana zo
 30BF: Syllabe katakana ta
 30C0: Syllabe katakana da
-30C1: Syllabe katakana ti : tchi
-30C2: Syllabe katakana di : dji (pas unique)
-30C3: Syllabe katakana tu minuscule : petit tsou
-30C4: Syllabe katakana tu : tsou
-30C5: Syllabe katakana du : zou (pas unique)
+30C1: Syllabe katakana ti: tchi
+30C2: Syllabe katakana di: dji (pas unique)
+30C3: Syllabe katakana tu minuscule: petit tsou
+30C4: Syllabe katakana tu: tsou
+30C5: Syllabe katakana du: zou (pas unique)
 30C6: Syllabe katakana te
 30C7: Syllabe katakana de
 30C8: Syllabe katakana to
@@ -211,7 +211,7 @@
 30D2: Syllabe katakana hi
 30D3: Syllabe katakana bi
 30D4: Syllabe katakana pi
-30D5: Syllabe katakana hu : fu, fou
+30D5: Syllabe katakana hu: fu, fou
 30D6: Syllabe katakana bu
 30D7: Syllabe katakana pu
 30D8: Syllabe katakana he

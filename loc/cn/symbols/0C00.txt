@@ -1,8 +1,8 @@
-0C00 : 
+0C00 : 泰卢固語標誌結合上面的Candrabindu
 0C01 : 泰卢固文标记仰月点
 0C02 : 泰卢固文标记随韵
 0C03 : 泰卢固文标记止韵
-0C04 : 
+0C04 : 泰卢固語符號結合上面的肛門
 0C05 : 泰卢固文字母 A
 0C06 : 泰卢固文字母 Aa
 0C07 : 泰卢固文字母 I
@@ -50,7 +50,7 @@
 0C31 : 泰卢固文字母 Rra
 0C32 : 泰卢固文字母 La
 0C33 : 泰卢固文字母 Lla
-0C34 : 
+0C34 : 泰卢固文字母 Llla
 0C35 : 泰卢固文字母 Va
 0C36 : 泰卢固文字母 Sha
 0C37 : 泰卢固文字母 Ssa
@@ -88,7 +88,7 @@
 0C57 : 
 0C58 : 泰卢固文字母 Tsa
 0C59 : 泰卢固文字母 Dza
-0C5A : 
+0C5A : 泰卢固文字母 Rrra
 0C5B : 
 0C5C : 
 0C5D : 
@@ -117,7 +117,7 @@
 0C74 : 
 0C75 : 
 0C76 : 
-0C77 : 
+0C77 : 泰卢固語符號Siddham
 0C78 : 泰卢固文分数数字 Zero For Odd Powers Of Four
 0C79 : 泰卢固文分数数字 One For Odd Powers Of Four
 0C7A : 泰卢固文分数数字 Two For Odd Powers Of Four
@@ -126,11 +126,11 @@
 0C7D : 泰卢固文分数数字 Two For Even Powers Of Four
 0C7E : 泰卢固文分数数字 Three For Even Powers Of Four
 0C7F : 泰卢固文标记 Tuumu
-0C80 : 
-0C81 : 
+0C80 : 卡納達語符號間距candrabindu
+0C81 : 卡納達語標誌candrabindu
 0C82 : 卡纳达文标记随韵
 0C83 : 卡纳达文标记止韵
-0C84 : 
+0C84 : 卡納達語符號siddham
 0C85 : 卡纳达文字母 A
 0C86 : 卡纳达文字母 Aa
 0C87 : 卡纳达文字母 I
@@ -253,4 +253,4 @@
 0CFC : 
 0CFD : 
 0CFE : 
-0CFF : 
+0CFF : 

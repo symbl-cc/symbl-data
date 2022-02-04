@@ -88,12 +88,12 @@
 0557: 
 0558: 
 0559: Lettre modificative arménienne demi-rond gauche
-055A: Apostrophe arménienne : lettre modificative arménienne demi-rond droite
-055B: Signe d'accentuation arménien : chèchte
-055C: Point d'exclamation arménien : batsagantchakane nchane
-055D: Virgule arménienne : booute
-055E: Point d'interrogation arménien : hartsakane nchane
-055F: Symbole d'abréviation arménien : patiou
+055A: Apostrophe arménienne: lettre modificative arménienne demi-rond droite
+055B: Signe d'accentuation arménien: chèchte
+055C: Point d'exclamation arménien: batsagantchakane nchane
+055D: Virgule arménienne: booute
+055E: Point d'interrogation arménien: hartsakane nchane
+055F: Symbole d'abréviation arménien: patiou
 0560: 
 0561: Lettre minuscule arménienne Aïp
 0562: Lettre minuscule arménienne Pèn
@@ -135,44 +135,44 @@
 0586: Lettre minuscule arménienne Fé
 0587: Ligature minuscule arménienne yètch hioun
 0588: 
-0589: Point arménien : vertsakète
-058A: Trait d'union arménien : yentamna
+0589: Point arménien: vertsakète
+058A: Trait d'union arménien: yentamna
 058B: 
 058C: 
 058D: Signe arménien d’éternité dextrogyre
 058E: Signe arménien d’éternité lévogyre
 058F: Symbole dram arménien
 0590: 
-0591: Accent hébreu Atnah : etnahta
-0592: Accent hébreu Segolta : segol
+0591: Accent hébreu Atnah: etnahta
+0592: Accent hébreu Segolta: segol
 0593: Accent hébreu Chalchelet
 0594: Accent hébreu Zaqef qaton
 0595: Accent hébreu Zaqef gadol
-0596: Accent hébreu Tarha (tipha) * : tipha : tarha, me'ayla ~mayla
-0597: Accent hébreu Ravia : revii
-0598: Accent hébreu Tsinorit * : zinorit ; tsinor, zinor, zarqa
+0596: Accent hébreu Tarha (tipha) *: tipha , tarha, me'ayla ~mayla
+0597: Accent hébreu Ravia: revii
+0598: Accent hébreu Tsinorit *: zinorit , tsinor, zinor, zarqa
 0599: Accent hébreu Pachta
 059A: Accent hébreu Yetiv
 059B: Accent hébreu Tevir
-059C: Accent hébreu Gerich : gerech, teres
-059D: Accent hébreu Gerich mouqdam : gerech mouqdam
-059E: Accent hébreu Chené grichine : gerchâïm
-059F: Accent hébreu Karné farah : pazer gadol
-05A0: Accent hébreu Talchah : telicha-gedolah
-05A1: Accent hébreu Pazer gadol : pazer qatan
+059C: Accent hébreu Gerich: gerech, teres
+059D: Accent hébreu Gerich mouqdam: gerech mouqdam
+059E: Accent hébreu Chené grichine: gerchâïm
+059F: Accent hébreu Karné farah: pazer gadol
+05A0: Accent hébreu Talchah: telicha-gedolah
+05A1: Accent hébreu Pazer gadol: pazer qatan
 05A2: Accent hébreu Atnah hafoukh
-05A3: Accent hébreu Chofar holekh : mounah
-05A4: Accent hébreu Chofar mehouppakh : mahpakh
-05A5: Accent hébreu Mârikh (merkha) * : merkha : yored
-05A6: Accent hébreu Teré tâmé : merkha khefoulah
+05A3: Accent hébreu Chofar holekh: mounah
+05A4: Accent hébreu Chofar mehouppakh: mahpakh
+05A5: Accent hébreu Mârikh (merkha) *: merkha , yored
+05A6: Accent hébreu Teré tâmé: merkha khefoulah
 05A7: Accent hébreu Darga
-05A8: Accent hébreu Qadma * : azla
-05A9: Accent hébreu Tarsa : telicha qetannah
-05AA: Accent hébreu Yaréah ben yomo * : galgal
+05A8: Accent hébreu Qadma *: azla
+05A9: Accent hébreu Tarsa: telicha qetannah
+05AA: Accent hébreu Yaréah ben yomo *: galgal
 05AB: Accent hébreu Oleh
 05AC: Accent hébreu Ilouz
 05AD: Accent hébreu Dehi
-05AE: Accent hébreu Zarqa : zinor ; tsinor; zarqa
+05AE: Accent hébreu Zarqa: zinor , tsinor, zarqa
 05AF: Cercle massorétique
 05B0: Point hébreu Cheva
 05B1: Point hébreu Hataf segol
@@ -186,11 +186,11 @@
 05B9: Point hébreu Holam
 05BA: Point hébreu Holam hasser pour waw
 05BB: Point hébreu Koubouts
-05BC: Point hébreu Daguèch ou mapiq (ou chourouk) : ou chourouk
-05BD: Point hébreu Meteg * : silouq
+05BC: Point hébreu Daguèch ou mapiq (ou chourouk): ou chourouk
+05BD: Point hébreu Meteg *: silouq
 05BE: Ponctuation hébraïque maqaf
 05BF: Point hébreu Rafe
-05C0: Ponctuation hébraïque paseq (pési) * : pési : légarméh
+05C0: Ponctuation hébraïque paseq (pési) *: pési , légarméh
 05C1: Point hébreu Chine
 05C2: Point hébreu Sine
 05C3: Ponctuation hébraïque sof pasouq *
@@ -206,10 +206,10 @@
 05CD: 
 05CE: 
 05CF: 
-05D0: Lettre hébraïque Alef : aleph
-05D1: Lettre hébraïque Bèt : beth
+05D0: Lettre hébraïque Alef: aleph
+05D1: Lettre hébraïque Bèt: beth
 05D2: Lettre hébraïque Guimel
-05D3: Lettre hébraïque Dalèt : daleth
+05D3: Lettre hébraïque Dalèt: daleth
 05D4: Lettre hébraïque Hè
 05D5: Lettre hébraïque Waw
 05D6: Lettre hébraïque Zaïn
@@ -228,7 +228,7 @@
 05E3: Lettre hébraïque Pé final
 05E4: Lettre hébraïque Pé
 05E5: Lettre hébraïque Tsadé final
-05E6: Lettre hébraïque Tsadé : zadé
+05E6: Lettre hébraïque Tsadé: zadé
 05E7: Lettre hébraïque Qouf
 05E8: Lettre hébraïque Rèch
 05E9: Lettre hébraïque Chine
@@ -238,10 +238,10 @@
 05ED: 
 05EE: 
 05EF: 
-05F0: Ligature hébraïque yidiche double waw : tsvey vovn
+05F0: Ligature hébraïque yidiche double waw: tsvey vovn
 05F1: Ligature hébraïque yidiche waw yod
-05F2: Ligature hébraïque yidiche double yod : tsvey youdn
-05F3: Ponctuation hébraïque gerich : gerech
+05F2: Ligature hébraïque yidiche double yod: tsvey youdn
+05F3: Ponctuation hébraïque gerich: gerech
 05F4: Ponctuation hébraïque gerchâïm
 05F5: 
 05F6: 

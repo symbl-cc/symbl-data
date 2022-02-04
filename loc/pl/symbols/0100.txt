@@ -46,7 +46,7 @@
 012D: Łacińska mała litera I z Breve
 012E: Łacińska litera I z Ogonkiem
 012F: Łaciński mały list I z Ogonkiem
-0130: Łacińska litera I z kropką powyżej : kropkuję
+0130: Łacińska litera I z kropką powyżej: kropkuję
 0131: Łacińska mała litera Dotless I
 0132: Latin Capital Ligature Ij
 0133: Łacińska mała ligatura Ij
@@ -63,7 +63,7 @@
 013E: Łacińska mała litera L z Caronem
 013F: Łacińska litera L z środkową kropką
 0140: Łacińska mała litera L z środkową kropką
-0141: Łacińska litera L ze skokiem : litecoin
+0141: Łacińska litera L ze skokiem: litecoin
 0142: Łacińska mała litera L z obrysem
 0143: Łacińska litera N z ostrą
 0144: Łacińska mała litera N z ostrą
@@ -71,9 +71,9 @@
 0146: Łacińska mała litera N z Cedillą
 0147: Łacińska litera N z Caronem
 0148: Łacińska mała litera N z Caronem
-0149: Łacińska mała litera N poprzedzona apostrofem : łacińska mała litera apostrof n
+0149: Łacińska mała litera N poprzedzona apostrofem: łacińska mała litera apostrof n
 014A: Łacińska litera inż
-014B: Łacińska mała litera Eng : engma, angma
+014B: Łacińska mała litera Eng: engma, angma
 014C: Łacińska litera O z Macronem
 014D: Łacińska mała litera O z Macronem
 014E: Łacińska litera O z Breve
@@ -81,7 +81,7 @@
 0150: Łacińska litera O z Double Acute
 0151: Łacińska mała litera O z podwójną ostrą
 0152: Latin Capital Ligature Oe
-0153: Łacińska mała ligatura Oe : ethel (ze starego angielskiego eðel)
+0153: Łacińska mała ligatura Oe: ethel (ze starego angielskiego eðel)
 0154: Łacińska litera R z ostrą
 0155: Łacińska mała litera R z ostrą
 0156: Łacińska litera R z Cedilla
@@ -139,25 +139,25 @@
 018A: Łacińska litera D z hakiem
 018B: Łacińska litera D z Topbar
 018C: Łacińska mała litera D z Topbar
-018D: Łacińska mała litera Zwróciła się Delta : odwrócony polski hak o
-018E: Łacińska litera odwrócona E : okazało e
+018D: Łacińska mała litera Zwróciła się Delta: odwrócony polski hak o
+018E: Łacińska litera odwrócona E: okazało e
 018F: Łacińska litera Schwa
-0190: Latin Capital Letter Open E : epsilon
+0190: Latin Capital Letter Open E: epsilon
 0191: Łacińska litera F z hakiem
-0192: Łacińska mała litera F z hakiem : skrypt f : symbol waluty florenckiej (Holandia) : symbol funkcji
+0192: Łacińska mała litera F z hakiem: skrypt f , symbol waluty florenckiej (Holandia) , symbol funkcji
 0193: Łacińska litera G z hakiem
 0194: Łacińska litera Gamma
 0195: Łacińska mała litera Hv
 0196: Łacińska litera Iota
-0197: Łacińska litera I ze skokiem : zakazany i, i bar
+0197: Łacińska litera I ze skokiem: zakazany i, i bar
 0198: Łacińska litera K z hakiem
 0199: Łacińska mała litera K z hakiem
-019A: Łacińska mała litera L z paskiem : zakazany l
-019B: Łacińska mała litera Lambda z udarem : barda lambda, barka lambda
+019A: Łacińska mała litera L z paskiem: zakazany l
+019B: Łacińska mała litera Lambda z udarem: barda lambda, barka lambda
 019C: Latin Capital Letter Turned M
 019D: Łacińska litera N z lewym hakiem
 019E: Łacińska mała litera N z długą prawą nogą
-019F: Łacińska litera O z środkową tyldą : barred o, o bar
+019F: Łacińska litera O z środkową tyldą: barred o, o bar
 01A0: Łacińska litera O z rogiem
 01A1: Łacińska mała litera O z rogiem
 01A2: Łacińska litera Oi
@@ -176,11 +176,11 @@
 01AF: Łacińska litera U z rogiem
 01B0: Łacińska mała litera U z rogiem
 01B1: Łacińska litera upsilon
-01B2: Łacińska litera V z hakiem : skrypt v
+01B2: Łacińska litera V z hakiem: skrypt v
 01B3: Łacińska litera Y z hakiem
 01B4: Łacińska mała litera Y z hakiem
 01B5: Łacińska litera Z z obrysem
-01B6: Łacińska mała litera Z z obrysem : barred z, z bar
+01B6: Łacińska mała litera Z z obrysem: barred z, z bar
 01B7: Łacińska litera Ezh
 01B8: Łacińska litera Ezh odwrócona
 01B9: Łacińska mała litera Ezh odwrócona
@@ -189,11 +189,11 @@
 01BC: Łacińska litera Tone Five
 01BD: Łacińska mała litera Tone Five
 01BE: Litera łacińska Odwrócony Glottal Stop z udarem
-01BF: Łaciński list Wynn : wen
-01C0: Latin Letter Dental Click : rura
-01C1: Łacińska litera boczna : podwójna rura
-01C2: Latin Letter Alveolar Click : podwójna rura : kliknięcie palatoalveolarne (ipa)
-01C3: Retroflex łaciński Kliknij : wykrzyknik w alfabecie łacińskim : (post) klik pęcherzykowy (ipa)
+01BF: Łaciński list Wynn: wen
+01C0: Latin Letter Dental Click: rura
+01C1: Łacińska litera boczna: podwójna rura
+01C2: Latin Letter Alveolar Click: podwójna rura , kliknięcie palatoalveolarne (ipa)
+01C3: Retroflex łaciński Kliknij: wykrzyknik w alfabecie łacińskim , (post) klik pęcherzykowy (ipa)
 01C4: Łacińska litera Dz z Caronem
 01C5: Łacińska litera D z małą literą Z z Caron
 01C6: Łacińska mała litera Dz z Caronem
@@ -245,7 +245,7 @@
 01F4: Łacińska litera G z ostrą
 01F5: Łacińska mała litera G z ostrą
 01F6: Łacińska litera Hwair
-01F7: Łacińska litera Wynn : wen
+01F7: Łacińska litera Wynn: wen
 01F8: Łacińska litera N z grobem
 01F9: Łacińska mała litera N z grobem
 01FA: Łacińska litera a z pierścieniem nad i ostrą

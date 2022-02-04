@@ -2,7 +2,7 @@
 0D01: Malayalam-Zeichen Candrabindu
 0D02: Malayalam-Zeichen Anusvara
 0D03: Malayalam-Zeichen Visarga
-0D04:
+0D04: Malayalam Buchstabe Vedisch Anusvara
 0D05: Malayalam-Buchstabe A
 0D06: Malayalam-Buchstabe Aa
 0D07: Malayalam-Buchstabe I
@@ -24,20 +24,20 @@
 0D17: Malayalam-Buchstabe Ga
 0D18: Malayalam-Buchstabe Gha
 0D19: Malayalam-Buchstabe Nga
-0D1A: Malayalam-Buchstabe Ca : cha
-0D1B: Malayalam-Buchstabe Cha : chha
+0D1A: Malayalam-Buchstabe Ca: cha
+0D1B: Malayalam-Buchstabe Cha: chha
 0D1C: Malayalam-Buchstabe Ja
 0D1D: Malayalam-Buchstabe Jha
-0D1E: Malayalam-Buchstabe Nya : nha
-0D1F: Malayalam-Buchstabe Tta : ta
-0D20: Malayalam-Buchstabe Ttha : tta
-0D21: Malayalam-Buchstabe Dda : schwer da
-0D22: Malayalam-Buchstabe Ddha : hart dda
-0D23: Malayalam-Buchstabe Nna : schwer na
-0D24: Malayalam-Buchstabe Ta : tha
-0D25: Malayalam-Buchstabe Tha : ttha
-0D26: Malayalam-Buchstabe Da : weich da
-0D27: Malayalam-Buchstabe Dha : weicher dda
+0D1E: Malayalam-Buchstabe Nya: nha
+0D1F: Malayalam-Buchstabe Tta: ta
+0D20: Malayalam-Buchstabe Ttha: tta
+0D21: Malayalam-Buchstabe Dda: schwer da
+0D22: Malayalam-Buchstabe Ddha: hart dda
+0D23: Malayalam-Buchstabe Nna: schwer na
+0D24: Malayalam-Buchstabe Ta: tha
+0D25: Malayalam-Buchstabe Tha: ttha
+0D26: Malayalam-Buchstabe Da: weich da
+0D27: Malayalam-Buchstabe Dha: weicher dda
 0D28: Malayalam-Buchstabe Na
 0D29: Malayalam-Buchstabe Nnna
 0D2A: Malayalam-Buchstabe Pa
@@ -50,16 +50,16 @@
 0D31: Malayalam-Buchstabe Rra
 0D32: Malayalam-Buchstabe La
 0D33: Malayalam-Buchstabe Lla
-0D34: Malayalam-Buchstabe Llla : zha
+0D34: Malayalam-Buchstabe Llla: zha
 0D35: Malayalam-Buchstabe Va
-0D36: Malayalam-Buchstabe Sha : weiches sha
-0D37: Malayalam-Buchstabe Ssa : sha
+0D36: Malayalam-Buchstabe Sha: weiches sha
+0D37: Malayalam-Buchstabe Ssa: sha
 0D38: Malayalam-Buchstabe Sa
 0D39: Malayalam-Buchstabe Ha
 0D3A: Malayalam-Buchstabe Ttta
 0D3B: Malayalam-Zeichen-Vertikalstange Virama
 0D3C: Malayalam-Zeichenkreis Virama
-0D3D: Malayalam-Zeichen Avagraha : Praslesham
+0D3D: Malayalam-Zeichen Avagraha: Praslesham
 0D3E: Malayalam-Vokalzeichen Aa
 0D3F: Malayalam-Vokalzeichen I
 0D40: Malayalam-Vokalzeichen Ii
@@ -75,9 +75,9 @@
 0D4A: Malayalam-Vokalzeichen O
 0D4B: Malayalam-Vokalzeichen Oo
 0D4C: Malayalam-Vokalzeichen Au
-0D4D: Malayalam-Zeichen Virama : Candrakkala (der bevorzugte Name) : Vokal halb-u
+0D4D: Malayalam-Zeichen Virama: Candrakkala (der bevorzugte Name) , Vokal halb-u
 0D4E: Malayalam-Buchstabe Punkt-Reph
-0D4F:
+0D4F: Malayalam Zeichen Para
 0D50:
 0D51:
 0D52:
@@ -127,101 +127,101 @@
 0D7E: Malayalam-Buchstabe Chillu-Ll
 0D7F: Malayalam-Buchstabe Chillu-K
 0D80:
-0D81:
-0D82: Singhalesisches Zeichen Anusvara : Anusvara
-0D83: Singhalesisches Zeichen Visargaya : Visarga
+0D81: Singhalesisch Zeichen Candrabindu
+0D82: Singhalesisches Zeichen Anusvara: Anusvara
+0D83: Singhalesisches Zeichen Visargaya: Visarga
 0D84:
-0D85: Singhalesischer Buchstabe A : Sinhala Buchstabe a
-0D86: Singhalesischer Buchstabe Aa : Sinhala Brief aa
-0D87: Singhalesischer Buchstabe Ä : Sinhala Brief ae
-0D88: Singhalesischer Buchstabe Ää : Sinhala Brief aae
-0D89: Singhalesischer Buchstabe I : Sinhala Brief i
-0D8A: Singhalesischer Buchstabe Ii : Sinhala Brief II
-0D8B: Singhalesischer Buchstabe U : Sinhala Buchstabe u
-0D8C: Singhalesischer Buchstabe Uu : Sinhala Brief uu
-0D8D: Singhalesischer Buchstabe vokalisches R : Sinhala Buchstabe Gesang r
-0D8E: Singhalesischer Buchstabe vokalisches Rr : Sinhala Brief Gesang rr
-0D8F: Singhalesischer Buchstabe vokalisches L : Sinhala Brief Gesang l
-0D90: Singhalesischer Buchstabe vokalisches Ll : Sinhala Brief Gesang ll
-0D91: Singhalesischer Buchstabe E : Sinhala Buchstabe e
-0D92: Singhalesischer Buchstabe Ee : Sinhala Brief ee
-0D93: Singhalesischer Buchstabe Ai : Sinhala Brief ai
-0D94: Singhalesischer Buchstabe O : Sinhala Brief o
-0D95: Singhalesischer Buchstabe Oo : Sinhala Brief oo
-0D96: Singhalesischer Buchstabe Au : Sinhala Brief au
+0D85: Singhalesischer Buchstabe A: Sinhala Buchstabe a
+0D86: Singhalesischer Buchstabe Aa: Sinhala Brief aa
+0D87: Singhalesischer Buchstabe Ä: Sinhala Brief ae
+0D88: Singhalesischer Buchstabe Ää: Sinhala Brief aae
+0D89: Singhalesischer Buchstabe I: Sinhala Brief i
+0D8A: Singhalesischer Buchstabe Ii: Sinhala Brief II
+0D8B: Singhalesischer Buchstabe U: Sinhala Buchstabe u
+0D8C: Singhalesischer Buchstabe Uu: Sinhala Brief uu
+0D8D: Singhalesischer Buchstabe vokalisches R: Sinhala Buchstabe Gesang r
+0D8E: Singhalesischer Buchstabe vokalisches Rr: Sinhala Brief Gesang rr
+0D8F: Singhalesischer Buchstabe vokalisches L: Sinhala Brief Gesang l
+0D90: Singhalesischer Buchstabe vokalisches Ll: Sinhala Brief Gesang ll
+0D91: Singhalesischer Buchstabe E: Sinhala Buchstabe e
+0D92: Singhalesischer Buchstabe Ee: Sinhala Brief ee
+0D93: Singhalesischer Buchstabe Ai: Sinhala Brief ai
+0D94: Singhalesischer Buchstabe O: Sinhala Brief o
+0D95: Singhalesischer Buchstabe Oo: Sinhala Brief oo
+0D96: Singhalesischer Buchstabe Au: Sinhala Brief au
 0D97:
 0D98:
 0D99:
-0D9A: Singhalesischer Buchstabe Ka : Sinhala Buchstabe Ka
-0D9B: Singhalesischer Buchstabe Kha : Sinhala Buchstabe Kha
-0D9C: Singhalesischer Buchstabe Ga : Sinhala Buchstabe ga
-0D9D: Singhalesischer Buchstabe Gha : Sinhala Buchstabe Gha
-0D9E: Singhalesischer Buchstabe Nga : Sinhala Brief Nga
-0D9F: Singhalesischer Buchstabe Nnga : Sinhala Buchstabe NNGA
-0DA0: Singhalesischer Buchstabe Ca : Sinhala Brief ca
-0DA1: Singhalesischer Buchstabe Cha : Sinhala Buchstabe Cha
-0DA2: Singhalesischer Buchstabe Ja : Sinhala Brief ja
-0DA3: Singhalesischer Buchstabe Jha : Sinhala Buchstabe Jha
-0DA4: Singhalesischer Buchstabe Nya : Sinhala Buchstabe Nya
-0DA5: Singhalesischer Buchstabe Jnya : Sinhala Buchstabe Jnya
-0DA6: Singhalesischer Buchstabe Nyja : Sinhala-Buchstabe Nyja
-0DA7: Singhalesischer Buchstabe Tta : Sinhala Brief tta
-0DA8: Singhalesischer Buchstabe Ttha : Sinhala Buchstabe Thta
-0DA9: Singhalesischer Buchstabe Dda : Sinhala Brief dda
-0DAA: Singhalesischer Buchstabe Ddha : Sinhala Brief ddha
-0DAB: Singhalesischer Buchstabe Nna : Sinhala Brief nna
-0DAC: Singhalesischer Buchstabe Nndda : Sinhala Brief nndda
-0DAD: Singhalesischer Buchstabe Ta : Sinhala Buchstabe ta
-0DAE: Singhalesischer Buchstabe Tha : Sinhala Brief tha
-0DAF: Singhalesischer Buchstabe Da : Sinhala Brief da
-0DB0: Singhalesischer Buchstabe Dha : Sinhala Buchstabe Dha
-0DB1: Singhalesischer Buchstabe Na : Sinhala Brief na
+0D9A: Singhalesischer Buchstabe Ka: Sinhala Buchstabe Ka
+0D9B: Singhalesischer Buchstabe Kha: Sinhala Buchstabe Kha
+0D9C: Singhalesischer Buchstabe Ga: Sinhala Buchstabe ga
+0D9D: Singhalesischer Buchstabe Gha: Sinhala Buchstabe Gha
+0D9E: Singhalesischer Buchstabe Nga: Sinhala Brief Nga
+0D9F: Singhalesischer Buchstabe Nnga: Sinhala Buchstabe NNGA
+0DA0: Singhalesischer Buchstabe Ca: Sinhala Brief ca
+0DA1: Singhalesischer Buchstabe Cha: Sinhala Buchstabe Cha
+0DA2: Singhalesischer Buchstabe Ja: Sinhala Brief ja
+0DA3: Singhalesischer Buchstabe Jha: Sinhala Buchstabe Jha
+0DA4: Singhalesischer Buchstabe Nya: Sinhala Buchstabe Nya
+0DA5: Singhalesischer Buchstabe Jnya: Sinhala Buchstabe Jnya
+0DA6: Singhalesischer Buchstabe Nyja: Sinhala-Buchstabe Nyja
+0DA7: Singhalesischer Buchstabe Tta: Sinhala Brief tta
+0DA8: Singhalesischer Buchstabe Ttha: Sinhala Buchstabe Thta
+0DA9: Singhalesischer Buchstabe Dda: Sinhala Brief dda
+0DAA: Singhalesischer Buchstabe Ddha: Sinhala Brief ddha
+0DAB: Singhalesischer Buchstabe Nna: Sinhala Brief nna
+0DAC: Singhalesischer Buchstabe Nndda: Sinhala Brief nndda
+0DAD: Singhalesischer Buchstabe Ta: Sinhala Buchstabe ta
+0DAE: Singhalesischer Buchstabe Tha: Sinhala Brief tha
+0DAF: Singhalesischer Buchstabe Da: Sinhala Brief da
+0DB0: Singhalesischer Buchstabe Dha: Sinhala Buchstabe Dha
+0DB1: Singhalesischer Buchstabe Na: Sinhala Brief na
 0DB2:
-0DB3: Singhalesischer Buchstabe Nda : Sinhala Brief nda
-0DB4: Singhalesischer Buchstabe Pa : Sinhala Brief pa
-0DB5: Singhalesischer Buchstabe Pha : Sinhala Brief Pha
-0DB6: Singhalesischer Buchstabe Ba : Sinhala Buchstabe Ba
-0DB7: Singhalesischer Buchstabe Bha : Sinhala Buchstabe Bha
-0DB8: Singhalesischer Buchstabe Ma : Sinhala Brief ma
-0DB9: Singhalesischer Buchstabe Mba : Sinhala Brief mba
-0DBA: Singhalesischer Buchstabe Ya : Sinhala Buchstabe ya
-0DBB: Singhalesischer Buchstabe Ra : Sinhala Brief ra
+0DB3: Singhalesischer Buchstabe Nda: Sinhala Brief nda
+0DB4: Singhalesischer Buchstabe Pa: Sinhala Brief pa
+0DB5: Singhalesischer Buchstabe Pha: Sinhala Brief Pha
+0DB6: Singhalesischer Buchstabe Ba: Sinhala Buchstabe Ba
+0DB7: Singhalesischer Buchstabe Bha: Sinhala Buchstabe Bha
+0DB8: Singhalesischer Buchstabe Ma: Sinhala Brief ma
+0DB9: Singhalesischer Buchstabe Mba: Sinhala Brief mba
+0DBA: Singhalesischer Buchstabe Ya: Sinhala Buchstabe ya
+0DBB: Singhalesischer Buchstabe Ra: Sinhala Brief ra
 0DBC:
-0DBD: Singhalesischer Buchstabe La : Sinhala Brief la
+0DBD: Singhalesischer Buchstabe La: Sinhala Brief la
 0DBE:
 0DBF:
-0DC0: Singhalesischer Buchstabe Va : Sinhala Brief va
-0DC1: Singhalesischer Buchstabe Sha : Sinhala Brief sha
-0DC2: Singhalesischer Buchstabe Ssa : Sinhala Brief ssa
-0DC3: Singhalesischer Buchstabe Sa : Sinhala Brief sa
-0DC4: Singhalesischer Buchstabe Ha : Sinhala Buchstabe ha
-0DC5: Singhalesischer Buchstabe Lla : Sinhala Brief lla
-0DC6: Singhalesischer Buchstabe Fa : Sinhala Buchstabe Fa
+0DC0: Singhalesischer Buchstabe Va: Sinhala Brief va
+0DC1: Singhalesischer Buchstabe Sha: Sinhala Brief sha
+0DC2: Singhalesischer Buchstabe Ssa: Sinhala Brief ssa
+0DC3: Singhalesischer Buchstabe Sa: Sinhala Brief sa
+0DC4: Singhalesischer Buchstabe Ha: Sinhala Buchstabe ha
+0DC5: Singhalesischer Buchstabe Lla: Sinhala Brief lla
+0DC6: Singhalesischer Buchstabe Fa: Sinhala Buchstabe Fa
 0DC7:
 0DC8:
 0DC9:
-0DCA: Singhalesisches Virama : Virama
+0DCA: Singhalesisches Virama: Virama
 0DCB:
 0DCC:
 0DCD:
 0DCE:
-0DCF: Singhalesisches Vokalzeichen Aa : Sinhala Vokalzeichen aa
-0DD0: Singhalesisches Vokalzeichen Ä : Sinhala Vokal Zeichen ae
-0DD1: Singhalesisches Vokalzeichen Ää : singhales vokal zeichen aae
-0DD2: Singhalesisches Vokalzeichen I : Sinhala Vokalzeichen i
-0DD3: Singhalesisches Vokalzeichen Ii : Sinhala Vokalzeichen II
-0DD4: Singhalesisches Vokalzeichen U : Sinhala Vokalzeichen u
+0DCF: Singhalesisches Vokalzeichen Aa: Sinhala Vokalzeichen aa
+0DD0: Singhalesisches Vokalzeichen Ä: Sinhala Vokal Zeichen ae
+0DD1: Singhalesisches Vokalzeichen Ää: singhales vokal zeichen aae
+0DD2: Singhalesisches Vokalzeichen I: Sinhala Vokalzeichen i
+0DD3: Singhalesisches Vokalzeichen Ii: Sinhala Vokalzeichen II
+0DD4: Singhalesisches Vokalzeichen U: Sinhala Vokalzeichen u
 0DD5:
-0DD6: Singhalesisches Vokalzeichen Uu : Sinhala Vokalzeichen uu
+0DD6: Singhalesisches Vokalzeichen Uu: Sinhala Vokalzeichen uu
 0DD7:
-0DD8: Singhalesisches Vokalzeichen vokalisches R : singhales vokalzeichen vokalisches r
-0DD9: Singhalesisches Vokalzeichen E : Sinhala-Vokalzeichen e
-0DDA: Singhalesisches Vokalzeichen Ee : Sinhala Vokalzeichen ee
-0DDB: Singhalesisches Vokalzeichen Ai : Sinhala Vokalzeichen ai
-0DDC: Singhalesisches Vokalzeichen O : Sinhala Vokalzeichen o
-0DDD: Singhalesisches Vokalzeichen Oo : Sinhala Vokalzeichen oo
-0DDE: Singhalesisches Vokalzeichen Au : Sinhala Vokalzeichen au
-0DDF: Singhalesisches Vokalzeichen vokalisches L : singhales vokal zeichen vokal l
+0DD8: Singhalesisches Vokalzeichen vokalisches R: singhales vokalzeichen vokalisches r
+0DD9: Singhalesisches Vokalzeichen E: Sinhala-Vokalzeichen e
+0DDA: Singhalesisches Vokalzeichen Ee: Sinhala Vokalzeichen ee
+0DDB: Singhalesisches Vokalzeichen Ai: Sinhala Vokalzeichen ai
+0DDC: Singhalesisches Vokalzeichen O: Sinhala Vokalzeichen o
+0DDD: Singhalesisches Vokalzeichen Oo: Sinhala Vokalzeichen oo
+0DDE: Singhalesisches Vokalzeichen Au: Sinhala Vokalzeichen au
+0DDF: Singhalesisches Vokalzeichen vokalisches L: singhales vokal zeichen vokal l
 0DE0:
 0DE1:
 0DE2:
@@ -240,8 +240,8 @@
 0DEF: Sinhala Lith Ziffer Neun
 0DF0:
 0DF1:
-0DF2: Singhalesisches Vokalzeichen vokalisches Rr : singhales vokalzeichen vokalisches rr
-0DF3: Singhalesisches Vokalzeichen vokalisches Ll : singhales vokalzeichen vokal ll
+0DF2: Singhalesisches Vokalzeichen vokalisches Rr: singhales vokalzeichen vokalisches rr
+0DF3: Singhalesisches Vokalzeichen vokalisches Ll: singhales vokalzeichen vokal ll
 0DF4: Singhalesisches Satzzeichen Kunddaliya
 0DF5:
 0DF6:

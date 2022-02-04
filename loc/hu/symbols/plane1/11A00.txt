@@ -1,7 +1,7 @@
 11A00: Zanabazar tér A betű
 11A01: Zanabazar téri magánhangzó jel I
 11A02: Zanabazar téri magánhangzó jel Ue
-11A03: Zanabazar Square Vowel Sign U
+11A03: Zanabazar Square Vowel jel U
 11A04: Zanabazar téri magánhangzó jel
 11A05: Zanabazar téri magánhangzó jel Oe
 11A06: Zanabazar téri magánhangzó jel O
@@ -78,89 +78,89 @@
 11A4D:
 11A4E:
 11A4F:
-11A50: Soyombo levél A
-11A51: Soyombo magánhangzó jel I
-11A52: Soyombo magánhangzó jel Ue
-11A53: Soyombo magánhangzó jel U
-11A54: Soyombo magánhangzó jel
-11A55: Soyombo magánhangzó jel O
-11A56: Soyombo magánhangzó jel Oe
-11A57: Soyombo magánhangzó jel Ai
-11A58: Soyombo magánhangzó jel Au
-11A59: Soyombo magánhangzó jel Vocalic R
-11A5A: Soyombo magánhangzó jel Vocalic L
-11A5B: Soyombo magánhangzó hossz
-11A5C: Soyombo Letter Ka
-11A5D: Soyombo levél Kha
-11A5E: Soyombo Letter Ga
-11A5F: Soyombo levél Gha
-11A60: Soyombo Letter Nga
-11A61: Soyombo levél Ca
-11A62: Soyombo levél Cha
-11A63: Soyombo Letter Ja
-11A64: Soyombo levél Jha
-11A65: Soyombo levél Nya
-11A66: Soyombo levél Tta
-11A67: Soyombo levél Ttha
-11A68: Soyombo Letter Dda
-11A69: Soyombo Letter Ddha
-11A6A: Soyombo Letter Nna
-11A6B: Soyombo Letter Ta
-11A6C: Soyombo levél Tha
-11A6D: Soyombo Letter Da
-11A6E: Soyombo levél Dha
-11A6F: Soyombo Letter Na
-11A70: Soyombo levél Pa
-11A71: Soyombo levél Pha
-11A72: Soyombo Letter Ba
-11A73: Soyombo levél Bha
-11A74: Soyombo Letter Ma
-11A75: Soyombo levél Tsa
-11A76: Soyombo levél Tsha
-11A77: Soyombo Letter Dza
-11A78: Soyombo levél Zha
-11A79: Soyombo Za
-11A7A: Soyombo Letter -A
-11A7B: Soyombo levél Ya
-11A7C: Soyombo Letter Ra
-11A7D: Soyombo Letter La
-11A7E: Soyombo Letter Va
-11A7F: Soyombo Letter Sha
-11A80: Soyombo Letter Ssa
-11A81: Soyombo Letter Sa
-11A82: Soyombo Letter Ha
-11A83: Soyombo levél Kssa11A84
-11A84:
-11A85:
-11A86: Soyombo klaszter-kezdeti levél Ra
-11A87: Soyombo klaszter-kezdeti levél La
-11A88: Soyombo klaszter-kezdeti levél Sha
-11A89: Soyombo Cluster-Initial Letter Sa
-11A8A: Soyombo Final Gondnok G
-11A8B: Soyombo utolsó kónusz jelző K
-11A8C: Soyombo Final Consonant Sign Ng
-11A8D: Doy Soyombo Final Consonant jele
-11A8E: Soyombo Végső Konsonáns Jele N
-11A8F: Soyombo végső gyászos jele B
-11A90: Soyombo Végső Konsonáns Jel M
-11A91: Soyombo Végső Konsonáns Jel R
-11A92: Soyombo Final Consonant jel L
-11A93: Soyombo Final Consonant Sign Sh
-11A94: Soyombo Final Consonant Sign S
-11A95: Soyombo Final Consonant Sign -A
-11A96: Soyombo Anusvara aláírása
-11A97: Soyombo jele Visarga
-11A98: Soyombo Gemination Mark
-11A99: Soyombo Subjoiner
-11A9A: Soyombo Mark Tsheg
-11A9B: Soyombo Mark Shad
-11A9C: Soyombo Mark Double Shad
-11A9D: Soyombo Mark Pluta
-11A9E: Soyombo fejjel a hold és a nap és a hármas láng
-11A9F: Soyombo fejjel a Hold és a Nap és a Láng
-11AA0: Soyombo fejjel a hold és a nap
-11AA1: Soyombo terminál Mark-1
-11AA2: Soyombo terminál Mark-2 : cintamani, candamani
+11A50: Szojombo levél A
+11A51: Szojombo magánhangzó jel I
+11A52: Szojombo magánhangzó jel Ue
+11A53: Szojombo magánhangzó jel U
+11A54: Szojombo magánhangzó jel
+11A55: Szojombo magánhangzó jel O
+11A56: Szojombo magánhangzó jel Oe
+11A57: Szojombo magánhangzó jel Ai
+11A58: Szojombo magánhangzó jel Au
+11A59: Szojombo magánhangzó jel Vocalic R
+11A5A: Szojombo magánhangzó jel Vocalic L
+11A5B: Szojombo magánhangzó hossz
+11A5C: Szojombo betű Ka
+11A5D: Szojombo levél Kha
+11A5E: Szojombo betű Ga
+11A5F: Szojombo levél Gha
+11A60: Szojombo betű Nga
+11A61: Szojombo levél Ca
+11A62: Szojombo levél Cha
+11A63: Szojombo betű Ja
+11A64: Szojombo levél Jha
+11A65: Szojombo levél Nya
+11A66: Szojombo levél Tta
+11A67: Szojombo levél Ttha
+11A68: Szojombo betű Dda
+11A69: Szojombo betű Ddha
+11A6A: Szojombo betű Nna
+11A6B: Szojombo betű Ta
+11A6C: Szojombo levél Tha
+11A6D: Szojombo betű Da
+11A6E: Szojombo levél Dha
+11A6F: Szojombo betű Na
+11A70: Szojombo levél Pa
+11A71: Szojombo levél Pha
+11A72: Szojombo betű Ba
+11A73: Szojombo levél Bha
+11A74: Szojombo betű Ma
+11A75: Szojombo levél Tsa
+11A76: Szojombo levél Tsha
+11A77: Szojombo betű Dza
+11A78: Szojombo levél Zha
+11A79: Szojombo Za
+11A7A: Szojombo betű -A
+11A7B: Szojombo levél Ya
+11A7C: Szojombo betű Ra
+11A7D: Szojombo betű La
+11A7E: Szojombo betű Va
+11A7F: Szojombo betű Sha
+11A80: Szojombo betű Ssa
+11A81: Szojombo betű Sa
+11A82: Szojombo betű Ha
+11A83: Szojombo levél Kssa11A84
+11A84: Szojombo jel Jihvamuliya
+11A85: Szojombo jel Upadhmaniya
+11A86: Szojombo klaszter-kezdeti levél Ra
+11A87: Szojombo klaszter-kezdeti levél La
+11A88: Szojombo klaszter-kezdeti levél Sha
+11A89: Szojombo Cluster-Initial betű Sa
+11A8A: Szojombo Final Gondnok G
+11A8B: Szojombo utolsó kónusz jelző K
+11A8C: Szojombo végső mássalhangzó jel Ng
+11A8D: Doy Szojombo végső mássalhangzó jele
+11A8E: Szojombo Végső Konsonáns Jele N
+11A8F: Szojombo végső gyászos jele B
+11A90: Szojombo Végső Konsonáns Jel M
+11A91: Szojombo Végső Konsonáns Jel R
+11A92: Szojombo végső mássalhangzó jel L
+11A93: Szojombo végső mássalhangzó jel Sh
+11A94: Szojombo végső mássalhangzó jel S
+11A95: Szojombo végső mássalhangzó jel -A
+11A96: Szojombo Anusvara aláírása
+11A97: Szojombo jele Visarga
+11A98: Szojombo Gemination Mark
+11A99: Szojombo Subjoiner
+11A9A: Szojombo Mark Tsheg
+11A9B: Szojombo Mark Shad
+11A9C: Szojombo Mark Double Shad
+11A9D: Szojombo Mark Pluta
+11A9E: Szojombo fejjel a hold és a nap és a hármas láng
+11A9F: Szojombo fejjel a Hold és a Nap és a Láng
+11AA0: Szojombo fejjel a hold és a nap
+11AA1: Szojombo terminál Mark-1
+11AA2: Szojombo terminál Mark-2: cintamani, candamani
 11AA3:
 11AA4:
 11AA5:
@@ -191,15 +191,15 @@
 11ABE:
 11ABF:
 11AC0: Pau Cin Hau betű Pa
-11AC1: Pau Cin Hau Letter Ka
-11AC2: Pau Cin Hau Letter La
+11AC1: Pau Cin Hau betű Ka
+11AC2: Pau Cin Hau betű La
 11AC3: Pau Cin Hau levél Ma
 11AC4: Pau Cin Hau levél Da
 11AC5: Pau Cin Hau Za
 11AC6: Pau Cin Hau Va
 11AC7: Pau Cin Hau levele Nga
 11AC8: Pau Cin Hau levél Ha
-11AC9: Pau Cin Hau Letter Ga
+11AC9: Pau Cin Hau betű Ga
 11ACA: Pau Cin Hau levél Kha
 11ACB: Pau Cin Hau Sa
 11ACC: Pau Cin Hau betű Ba
@@ -221,7 +221,7 @@
 11ADC: Pau Cin Hau levél végleges P
 11ADD: Pau Cin Hau levél végső K
 11ADE: Pau Cin Hau levél végleges T
-11ADF: Pau Cin Hau Letter Final M
+11ADF: Pau Cin Hau betű Final M
 11AE0: Pau Cin Hau levél végleges N
 11AE1: Pau Cin Hau levele L
 11AE2: Pau Cin Hau levele W
@@ -253,4 +253,4 @@
 11AFC:
 11AFD:
 11AFE:
-11AFF:
+11AFF:

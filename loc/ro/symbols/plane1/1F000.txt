@@ -2,10 +2,10 @@
 1F001: Mahjong Tilie de Sud de vânt
 1F002: Mahjong Tile West Wind
 1F003: Mahjong Tile North Wind
-1F004: Mahjong Placă Red Dragon : Hongzhong, 中
-1F005: Mahjong Placă Green Dragon : qingfa
-1F006: Mahjong Placă albă Dragon : baiban
-1F007: Tigla Mahjong Unul dintre personaje : spălăcit
+1F004: Mahjong Placă Red Dragon: Hongzhong, 中
+1F005: Mahjong Placă Green Dragon: qingfa
+1F006: Mahjong Placă albă Dragon: baiban
+1F007: Tigla Mahjong Unul dintre personaje: spălăcit
 1F008: Mahjong Tile Două Caractere
 1F009: Tigla Mahjong Trei dintre caractere
 1F00A: Tigla Mahjong Patru dintre caractere
@@ -14,7 +14,7 @@
 1F00D: Tigla Mahjong Șapte de caractere
 1F00E: Mahjong Tile Opt de caractere
 1F00F: Mahjong Tile Nine of Characters
-1F010: Tigla Mahjong Unul din bambus : Tiao
+1F010: Tigla Mahjong Unul din bambus: Tiao
 1F011: Mahjong Tile Două de bambus
 1F012: Mahjong Tile trei de bambus
 1F013: Tigla Mahjong Patru din bambus
@@ -23,7 +23,7 @@
 1F016: Tigla Mahjong Șapte din bambus
 1F017: Tigla Mahjong Opt din bambus
 1F018: Tigla Mahjong nouă din bambus
-1F019: Tigla Mahjong Unul din cercuri : bing
+1F019: Tigla Mahjong Unul din cercuri: bing
 1F01A: Tigla Mahjong Două din cercuri
 1F01B: Tigla Mahjong Trei dintre cercuri
 1F01C: Tigla Mahjong Patru dintre cercuri
@@ -32,15 +32,15 @@
 1F01F: Tigla Mahjong Șapte Cercuri
 1F020: Mahjong Tile Opt din Cercuri
 1F021: Mahjong Tile Nine of Circles
-1F022: Mahjong Placă de prune : Mei
-1F023: Mahjong Placi Orhidee : lan
-1F024: Mahjong Placi de bambus : zhu
-1F025: Mahjong Tiles Chrysanthemum : ju
+1F022: Mahjong Placă de prune: Mei
+1F023: Mahjong Placi Orhidee: lan
+1F024: Mahjong Placi de bambus: zhu
+1F025: Mahjong Tiles Chrysanthemum: ju
 1F026: Mahjong Tile Spring
 1F027: Mahjong Tile de vară
 1F028: Mahjong Tile de toamnă
 1F029: Mahjong Placă de iarnă
-1F02A: Mahjong Tigla Joker : Baida
+1F02A: Mahjong Tigla Joker: Baida
 1F02B: Mahjong Placi din spate
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Cartea de joc Opt de Picături
 1F0A9: Cardul de joc Nouă de spade
 1F0AA: Cardul de joc Ten de Spades
-1F0AB: Redarea cărții Jack of Spades : valet, bube, unter, pagina, fantana : pagina de săbii
-1F0AC: Cartea de joc Cavalerul de Spade : chevalier, ober, ritter, caval, cavaliere : cavaler de săbii
-1F0AD: Cardul de joc al regelui : dame, dame, königin, regina : regina săbilor
-1F0AE: Cardul de joc King of Spades : roi, könig, re : rege al săbilor
+1F0AB: Redarea cărții Jack of Spades: valet, bube, unter, pagina, fantana , pagina de săbii
+1F0AC: Cartea de joc Cavalerul de Spade: chevalier, ober, ritter, caval, cavaliere , cavaler de săbii
+1F0AD: Cardul de joc al regelui: dame, dame, königin, regina , regina săbilor
+1F0AE: Cardul de joc King of Spades: roi, könig, re , rege al săbilor
 1F0AF:
 1F0B0:
 1F0B1: Cardul de joc Ace of Hearts
@@ -253,4 +253,4 @@
 1F0FC:
 1F0FD:
 1F0FE:
-1F0FF:
+1F0FF:

@@ -1,6 +1,6 @@
 0C00: Segno di Telugu che unisce Candrabindu qui sopra
-0C01: Segno telugu Candrabindu : arasunna
-0C02: Segno di Telugu Anusvara : sunna
+0C01: Segno telugu Candrabindu: arasunna
+0C02: Segno di Telugu Anusvara: sunna
 0C03: Telugu Sign Visarga
 0C04: Segno Telugu che unisce Anusvara in alto
 0C05: Telugu Lettera A
@@ -75,7 +75,7 @@
 0C4A: Telugu Vowel Sign O
 0C4B: Telugu Vowel Sign Oo
 0C4C: Telugu Vowel Sign Au
-0C4D: Segno telugu Virama : halant (il nome preferito)
+0C4D: Segno telugu Virama: halant (il nome preferito)
 0C4E:
 0C4F:
 0C50:
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu segno siddham
 0C78: Telugu Frazione a cifre zero per Odd Powers of Four
 0C79: Telugu Fraction Digit One per Odd Powers of Four
 0C7A: Cifra a due cifre di Telugu per Poteri dispari di quattro
@@ -253,4 +253,4 @@
 0CFC:
 0CFD:
 0CFE:
-0CFF:
+0CFF:

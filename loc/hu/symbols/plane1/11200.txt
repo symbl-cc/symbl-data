@@ -42,25 +42,25 @@
 11229: Khojki betű Sa
 1122A: Khojki betű Ha
 1122B: Khojki betű Lla
-1122C: Khojki Vowel Sign Aa
-1122D: Khojki Vowel Sign I
-1122E: Khojki Vowel Sign Ii
-1122F: Khojki Vowel Sign U
-11230: Khojki Vowel Sign E
-11231: Khojki Vowel Sign Ai
-11232: Khojki Vowel Sign O
-11233: Khojki Vowel Sign Au
-11234: Khojki Sign Anusvara
-11235: Khojki Sign Virama
-11236: Khojki Sign Nukta
-11237: Khojki Sign Shadda
+1122C: Khojki magánhangzó jel Aa
+1122D: Khojki magánhangzó jel I
+1122E: Khojki magánhangzó jel Ii
+1122F: Khojki magánhangzó jel U
+11230: Khojki magánhangzó jel E
+11231: Khojki magánhangzó jel Ai
+11232: Khojki magánhangzó jel O
+11233: Khojki magánhangzó jel Au
+11234: Khojki jel Anusvara
+11235: Khojki jel Virama
+11236: Khojki jel Nukta
+11237: Khojki jel Shadda
 11238: Khojki Danda
-11239: Khojki Double Danda
-1123A: Khojki Word Separator
-1123B: Khojki Section Mark
-1123C: Khojki Double Section Mark
-1123D: Khojki Abbreviation Sign
-1123E:
+11239: Khojki kettős Danda
+1123A: Khojki szó elválasztó
+1123B: Khojki paragrafusjel
+1123C: Khojki kettős paragrafusjel
+1123D: Khojki Abbreviation jel
+1123E: Khojki jel Sukun
 1123F:
 11240:
 11241:
@@ -126,48 +126,48 @@
 1127D:
 1127E:
 1127F:
-11280:
-11281:
-11282:
-11283:
-11284:
-11285:
-11286:
+11280: Multani betű A
+11281: Multani betű I
+11282: Multani betű U
+11283: Multani betű E
+11284: Multani betű Ka
+11285: Multani betű Kha
+11286: Multani betű Ga
 11287:
-11288:
+11288: Multani betű Gha
 11289:
-1128A:
-1128B:
-1128C:
-1128D:
+1128A: Multani betű Ca
+1128B: Multani betű Cha
+1128C: Multani betű Ja
+1128D: Multani betű Jja
 1128E:
-1128F:
-11290:
-11291:
-11292:
-11293:
-11294:
-11295:
-11296:
-11297:
-11298:
-11299:
-1129A:
-1129B:
-1129C:
-1129D:
+1128F: Multani betű Nya
+11290: Multani betű Tta
+11291: Multani betű Ttha
+11292: Multani betű Dda
+11293: Multani betű Ddda: tra
+11294: Multani betű Ddha
+11295: Multani betű Nna
+11296: Multani betű Ta
+11297: Multani betű Tha
+11298: Multani betű Da
+11299: Multani betű Dha
+1129A: Multani betű Na
+1129B: Multani betű Pa
+1129C: Multani betű Pha
+1129D: Multani betű Ba
 1129E:
-1129F:
-112A0:
-112A1:
-112A2:
-112A3:
-112A4:
-112A5:
-112A6:
-112A7:
-112A8:
-112A9:
+1129F: Multani betű Bha
+112A0: Multani betű Ma
+112A1: Multani betű Ya
+112A2: Multani betű Ra
+112A3: Multani betű La
+112A4: Multani betű Va
+112A5: Multani betű Sa
+112A6: Multani betű Ha
+112A7: Multani betű Rra
+112A8: Multani betű Rha
+112A9: Multani paragrafusjel
 112AA:
 112AB:
 112AC:
@@ -221,18 +221,18 @@
 112DC: Khudawadi betű Sha
 112DD: Khudawadi betű Sa
 112DE: Khudawadi betű Ha
-112DF: Khudawadi Sign Anusvara
-112E0: Khudawadi Vowel Sign Aa
-112E1: Khudawadi Vowel Sign I
-112E2: Khudawadi Vowel Sign Ii
-112E3: Khudawadi Vowel Sign U
-112E4: Khudawadi Vowel Sign Uu
-112E5: Khudawadi Vowel Sign E
-112E6: Khudawadi Vowel Sign Ai
-112E7: Khudawadi Vowel Sign O
-112E8: Khudawadi Vowel Sign Au
-112E9: Khudawadi Sign Nukta
-112EA: Khudawadi Sign Virama
+112DF: Khudawadi jel Anusvara
+112E0: Khudawadi magánhangzó jel Aa
+112E1: Khudawadi magánhangzó jel I
+112E2: Khudawadi magánhangzó jel Ii
+112E3: Khudawadi magánhangzó jel U
+112E4: Khudawadi magánhangzó jel Uu
+112E5: Khudawadi magánhangzó jel E
+112E6: Khudawadi magánhangzó jel Ai
+112E7: Khudawadi magánhangzó jel O
+112E8: Khudawadi magánhangzó jel Au
+112E9: Khudawadi jel Nukta
+112EA: Khudawadi jel Virama
 112EB:
 112EC:
 112ED:

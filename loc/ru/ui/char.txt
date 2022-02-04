@@ -1,7 +1,16 @@
+emoji_group: Раздел Эмоджи
+emoji_subgroup: Подраздел Эмоджи
+local-keyboard: Русская раскладка
+alt-code: Alt-код
+name: Название
+symbol: Символ
+html_code: HTML-код
 entity: Мнемоника
 your-browser: Ваш браузер
 font-view: Начертание символа &laquo;{{ name }}&raquo; в&nbsp;разных шрифтах
-char-desc: Описание символа
+char-desc: Значение символа
+emoji-desc: Значение Эмоджи
+ideograph-desc: Значение идеограммы
 unicode-name: Название в Юникоде
 unicode-number: Номер в Юникоде
 html-code: <span class="caps">HTML</span>-код
@@ -9,9 +18,15 @@ css-code: CSS-код
 uppercase: Прописная
 lowercase: Строчная
 encoding: Кодировка
-related: Связанные символы
+related: Похожие символы
 tech-info: Техническая информация
-copy: Копировать и вставить этот символ
+copy: Нажмите, чтобы скопировать и вставить символ
+copy-code: Нажмите, чтобы скопировать
 copy_button: Копировать
 copy_done: Скопировано!
 version: Версия Юникода
+emoji_version: Версия Эмоджи
+sets-with-this-symbol: Наборы с этим символом
+empty-symbol: Не определён в Юникоде
+emoji_since_text: Символ «@title@» был утвержден как часть Юникода версии @unicode_version@ в @unicode_year@ г. и был добавлен в Эмоджи версии @emoji_version@ в @emoji_year@ г.
+symbol_since_text: Символ «@title@» был утвержден как часть Юникода версии @unicode_version@ в @unicode_year@ г.

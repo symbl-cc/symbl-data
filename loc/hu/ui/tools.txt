@@ -1,15 +1,18 @@
 : Eszközök
 
-[encoder]: Kódoló
+toolsListTitle: Próbáljon ki más eszközöket is
+
+[encoder]: HTML-kódoló
 
 desc: Karaktereket kódol HTML-kódra és vissza
 plain: Normál szöveg
-full: Teljes
-text: Szöveg
+full: HTML
+text: HTML és szöveg
 entities: Karakterkódolás egységekkel
 br: Sortörések kódolása
+result: Eredmény
 
-[decoder]: Dekódoló
+[decoder]: Unicode Dekódoló
 
 desc: Karaktereket kódól Unicode-ra és vissza
 example: Ez egy példa
@@ -22,6 +25,7 @@ desc: Megfordítja a Cirill és Latin betűket és vissza
 plain: Normál szöveg
 flipped: Fordított szöveg
 backed: Vissza az első szövegre
+result: Eredmény
 
 [generator]: Unicode-karaktertábla generátor
 
@@ -32,3 +36,101 @@ info: Elérhető: {symbol}, {dec}, {hex}, {html}
 generate: Generálás
 result: Eredmény
 
+[strikethrough-text]: Áthúzott szöveg
+
+h1: Áthúzott szöveg
+desc: Áthúzott szöveg írása
+text: Szöveg
+example: Ez egy példa
+
+strikethroughText: Áthúzott szöveg
+crossed: Álahúzott
+dotted: Szaggatott vonal
+slash: Perjel szimbólum
+doubleunderline: Dupla aláhúzás
+waveline: Hullámos vonal
+ciphertext: Cipher szöveg
+fullyshaded: Átfestve szöveg
+strikethroughSlash: Magas perjel szimbólum
+
+[register-converter]: Szöveg átalakító
+h1: Szöveg átalakító
+desc: Konvertálja a szó minden betűjét
+text: Szöveg
+example: Ez egy példa
+
+uppercase: NAGYBETŰS
+lowercase: kisbetűs
+inversioncase: iNVERZIÓ
+randomcase: VÉLETLen
+alternatingcase: vÁlTaKoZáS
+capitalizedcase: Nagybetűs eset
+
+[word-counter]: Karakterszámláló
+h1: Karakterszámláló
+desc: Számolja meg a karakterek számát A szövegben
+
+placeholder: Insert text ...
+symbols: Összes karakter
+without-spaces: Terek nélkül
+no-punctuation-marks: Nincs írásjel
+words: Összes szó
+average-amount: A szavak átlagos száma egy mondatban
+long-word: A leghosszabb szó
+
+[braille]: Braille-Fordító
+h1: Braille-Fordító
+desc: Szöveg konvertálása Braille írásra
+
+[gothic]: Szöveg konverter gótikus stílusban
+h1: Szöveg konverter gótikus stílusban
+desc: Szöveg írása gótikus betűtípussal
+
+text: Szöveg (latin)
+example: Gothic
+regularText: Gótikus
+boldText: Gótikus félkövér
+
+result: Eredmény
+
+[morse]: Szöveg Morse-kód konvertáló
+h1: Szöveg Morse-kód konvertáló
+desc: Konvertálja a szöveget és dekódolja a Morse-kódot
+
+example: Ez egy példa
+code: Morze kód
+latin: Latin
+numbers: Számok
+punctuation: Központozás
+
+titleAlphabet: Morse kód ábécé
+
+result: Eredmény
+
+[password-generator]: Jelszógenerátor
+h1: Jelszógenerátor
+desc: Hogyan generáljunk erős jelszót
+
+uppercase: Nagybetűk (A-Z)
+lowercase: Kisbetűk (a-z)
+numbers: Számok (0-9)
+special: Különleges karakterek (!@#$%^&*)
+
+maxLength: karakter (4-99)
+generate: Generálás
+warning: Jelszó létrehozásához válasszon legalább egy karakterkészletet
+
+
+[text-to-symbols]: Szöveg szimbólumokból
+h1: Szöveg szimbólumokból
+desc: Írj szöveget szimbólumokkal
+
+text: Szöveg (latin)
+example: Példa
+
+blank: Üres betűk
+filled: Festett betűk
+background: Háttér betűk
+symbol-dolar: A $ szimbólumból származó betűk
+symbol-lattice: A # szimbólumból származó betűk
+symbol-paragraph: A ¶ szimbólumból származó betűk

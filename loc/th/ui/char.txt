@@ -1,13 +1,28 @@
+alt-code: รหัส Alt
+name: ชื่อ
+symbol: สัญญลักษณ์
+html_code: รหัส HTML
 entity: เอนทิตี
 your-browser: เบราว์เซอร์ ของคุณ
 font-view: จารึก ของตัวละคร ในแบบอักษรที่ แตกต่างกัน
-char-desc: รายละเอียด ของตัวละคร
+char-desc: ความหมายสัญลักษณ์
+emoji-desc: ความหมายอิโมจิ
+ideograph-desc: ความหมายเชิงอุดมคติ
+unicode-name: ชื่อ Unicode
 unicode-number: หมายเลข Unicode
 html-code: <span class="caps">โค้ด HTML</span>
-# @todo uppercase
-# @todo lowercase
-# @todo encoding
+css-code: รหัส CSS
+# @todo uppercase: ตัวพิมพ์ใหญ่
+# @todo lowercase: ตัวพิมพ์เล็ก
+# @todo encoding: การเข้ารหัส
+related: ตัวละครที่เกี่ยวข้อง
+tech-info: ข้อมูลทางเทคนิค
 copy: คัดลอกและวางสัญลักษณ์
+copy-code: คลิกเพื่อคัดลอก
 copy_button: สำเนา
 copy_done: คัดลอก!
 version: เวอร์ชัน Unicode
+sets-with-this-symbol: ชุดที่มีสัญลักษณ์นี้
+empty-symbol: ไม่ได้กำหนดใน Unicode
+emoji_group: หมวดหมู่ของ Emoji
+emoji_version: เวอร์ชั่นของ Emoji

@@ -1,6 +1,6 @@
-0900: Devanagari işareti ters Candrabindu : Vaidika Adhomukha Candrabindu
-0901: Devanagari işareti Candrabindu : anunasika
-0902: Devanagari Anusvara işareti : Ve oluşacak
+0900: Devanagari işareti ters Candrabindu: Vaidika Adhomukha Candrabindu
+0901: Devanagari işareti Candrabindu: anunasika
+0902: Devanagari Anusvara işareti: Ve oluşacak
 0903: Devanagari işareti Visarga
 0904: Devanagari Mektubu Kısa A
 0905: Devanagari A Harfi
@@ -67,7 +67,7 @@
 0942: Devanagari ünlü işaret Uu
 0943: Devanagari ünlü işaret Vokal R
 0944: Devanagari Ünlü İşaretli Vokal İşareti
-0945: Devanagari ünlü işareti Candra E : Candra
+0945: Devanagari ünlü işareti Candra E: Candra
 0946: Devanagari Ünlü İşaret Kısa E
 0947: Devanagari ünlü işaret E
 0948: Devanagari ünlü işareti Ai
@@ -75,12 +75,12 @@
 094A: Devanagari Ünlü İşaret Kısa O
 094B: Devanagari ünlü o işareti
 094C: Devanagari ünlü işareti Au
-094D: Devanagari Burcu Virama : halant (tercih edilen Hintçe adı)
+094D: Devanagari Burcu Virama: halant (tercih edilen Hintçe adı)
 094E: Devanagari Ünlü İşaret Prishthamatra E
 094F: Devanagari ünlü işareti Aw
 0950: Devanagari Om
-0951: Devanagari Stres işareti Udatta : vedik ton svarita
-0952: Devanagari Stres işareti Anudatta : vedik ton anudatta
+0951: Devanagari Stres işareti Udatta: vedik ton svarita
+0952: Devanagari Stres işareti Anudatta: vedik ton anudatta
 0953: Devanagari Mezar Aksanı
 0954: Devanagari Akut Accent
 0955: Devanagari ünlü işareti Candra uzun E
@@ -98,8 +98,8 @@
 0961: Devanagari Mektubu Vocalic Ll
 0962: Devanagari Ünlü İşaretleri Vokal L
 0963: Devanagari ünlü işaret Vokal Ll
-0964: Devanagari Danda : purna viram
-0965: Devanagari Çifte Danda : geyik kıyafeti
+0964: Devanagari Danda: purna viram
+0965: Devanagari Çifte Danda: geyik kıyafeti
 0966: Devanagari Rakam Sıfır
 0967: Devanagari Rakam Bir
 0968: Devanagari Rakam İki
@@ -126,7 +126,7 @@
 097D: Devanagari Mektubu Glottal Durdurma
 097E: Devanagari Mektubu Ddda
 097F: Devanagari Mektup Bba
-0980: Bengalce Anji : Siddham, Siddhirastu
+0980: Bengalce Anji: Siddham, Siddhirastu
 0981: Bengalce işareti Candrabindu
 0982: Bengalce işaret Anusvara
 0983: Bengalce işaret Visarga
@@ -170,7 +170,7 @@
 09A9:
 09AA: Bengalce Mektup Pa
 09AB: Bengalce Mektup Pha
-09AC: Bengalce harf Ba : Bengalli va, wa
+09AC: Bengalce harf Ba: Bengalli va, wa
 09AD: Bengalce mektup bha
 09AE: Bengalce mektup ma
 09AF: Bengalce Mektup Ya
@@ -203,7 +203,7 @@
 09CA:
 09CB: Bengalce ünlü işaret o
 09CC: Bengalce ünlü işareti Au
-09CD: Bengalce Burcu Virama : hasant (benekli kelimesi)
+09CD: Bengalce Burcu Virama: hasant (benekli kelimesi)
 09CE: Bengalce mektup Khanda Ta
 09CF:
 09D0:
@@ -238,19 +238,19 @@
 09ED: Bengalce Rakam Yedi
 09EE: Bengalce Rakam Sekiz
 09EF: Bengalce Rakam Dokuz
-09F0: Orta diyagonal ile Bengalce mektup Ra : Assamca harf ra
-09F1: Alt diyagonal ile Bengalce mektup Ra : Assamca mektup wa : Bengalli harf va ile alt çapraz
-09F2: Bengalce Rupisi Markı : taka
-09F3: Bengalce Rupisi işareti : Bangladeşli taka
+09F0: Orta diyagonal ile Bengalce mektup Ra: Assamca harf ra
+09F1: Alt diyagonal ile Bengalce mektup Ra: Assamca mektup wa , Bengalli harf va ile alt çapraz
+09F2: Bengalce Rupisi Markı: taka
+09F3: Bengalce Rupisi işareti: Bangladeşli taka
 09F4: Bengalce Para Birimi Numaratör Bir
 09F5: Bengalce Para birimi Numaratör İki
 09F6: Bengalce Para birimi Numaratör Üç
 09F7: Bengalce para birimi numara dört
 09F8: Bengalce Para Birimi Payda Payda Bir Az
 09F9: Bengalce Para Birimi Payda Onaltı
-09FA: Bengalce Isshar : ishvar : svargiya
+09FA: Bengalce Isshar: ishvar , svargiya
 09FB: Bengalce Ganda Markı
 09FC: Bengalce Mektup Vedic Anusvara
 09FD: Bengalce kısaltma işareti
 09FE: Bengalce Sandhi Mark
-09FF:
+09FF:

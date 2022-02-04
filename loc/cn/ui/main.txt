@@ -1,12 +1,18 @@
-title: Unicode®字符百科
+title: Unicode 字符百科
+unicode: Unicode
+
+[mainpage]: 首页
 
 [sets]: 符号分类集汇
 # @todo set
-list: 符号分类集汇
+list: 组	
+title: 熱門字符集
+all: 看到所有
 
 [blocks]: 字符段列表
 # @todo block
-blocks: Unicode 字符段列表
+blocks: Unicode區段與包含的文字
+list: Unicode
 
 [languages]: 语言
 list: 语言列表
@@ -19,6 +25,16 @@ list: 国家地区列表
 # @todo list
 list: 字母表
 
+[holidays]: 假期
+list: 假期
+
 [types]: 字符类型列表
 # @todo type
 list: 字符类型列表
+
+[html-entities]: HTML字符实体引用列表
+list: HTML实体
+
+[alt-codes]: Windows的Alt码
+list: Alt码
+en: 英文键盘布局

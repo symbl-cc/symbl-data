@@ -4,7 +4,7 @@
 16F03: Miao betű Pla
 16F04: Miao betű Ma
 16F05: Miao betű Mha
-16F06: Miao betű Archaic Ma
+16F06: Miao betű régies Ma
 16F07: Miao betű Fa
 16F08: Miao betű Va
 16F09: Miao betű Vfa
@@ -17,7 +17,7 @@
 16F10: Miao betű Na
 16F11: Miao betű Nha
 16F12: Miao betű Yi Nna
-16F13: Miao betű Archaic Na
+16F13: Miao betű régies Na
 16F14: Miao betű Nna
 16F15: Miao betű Nnha
 16F16: Miao betű La
@@ -35,7 +35,7 @@
 16F22: Miao betű Qga
 16F23: Miao betű Nga
 16F24: Miao betű Ngha
-16F25: Miao betű Archaic Nga
+16F25: Miao betű régies Nga
 16F26: Miao betű Ha
 16F27: Miao betű Xa
 16F28: Miao betű Gha
@@ -48,7 +48,7 @@
 16F2F: Miao betű Dzha
 16F30: Miao betű Yi Tsha
 16F31: Miao betű Yi Dzha
-16F32: Miao betű Reformed Tsha
+16F32: Miao betű református Tsha
 16F33: Miao betű Sha
 16F34: Miao betű Ssa
 16F35: Miao betű Zha
@@ -61,79 +61,79 @@
 16F3C: Miao betű Zsa
 16F3D: Miao betű Zza
 16F3E: Miao betű Zzsa
-16F3F: Miao betű Archaic Zza
+16F3F: Miao betű régies Zza
 16F40: Miao betű Zzya
 16F41: Miao betű Zzsya
 16F42: Miao betű Wa
 16F43: Miao betű Ah
 16F44: Miao betű Hha
-16F45:
-16F46:
-16F47:
-16F48:
-16F49:
-16F4A:
+16F45: Miao betű Bri
+16F46: Miao betű Syi
+16F47: Miao betű Dzyi
+16F48: Miao betű Te
+16F49: Miao betű Tse
+16F4A: Miao betű Rte
 16F4B:
 16F4C:
 16F4D:
 16F4E:
-16F4F:
-16F50: Miao betű Nasalization
-16F51: Miao Sign Aspiration
-16F52: Miao Sign Reformed Voicing
-16F53: Miao Sign Reformed Aspiration
-16F54: Miao Vowel Sign A
-16F55: Miao Vowel Sign Aa
-16F56: Miao Vowel Sign Ahh
-16F57: Miao Vowel Sign An
-16F58: Miao Vowel Sign Ang
-16F59: Miao Vowel Sign O
-16F5A: Miao Vowel Sign Oo
-16F5B: Miao Vowel Sign Wo
-16F5C: Miao Vowel Sign W
-16F5D: Miao Vowel Sign E
-16F5E: Miao Vowel Sign En
-16F5F: Miao Vowel Sign Eng
-16F60: Miao Vowel Sign Oey
-16F61: Miao Vowel Sign I
-16F62: Miao Vowel Sign Ia
-16F63: Miao Vowel Sign Ian
-16F64: Miao Vowel Sign Iang
-16F65: Miao Vowel Sign Io
-16F66: Miao Vowel Sign Ie
-16F67: Miao Vowel Sign Ii
-16F68: Miao Vowel Sign Iu
-16F69: Miao Vowel Sign Ing
-16F6A: Miao Vowel Sign U
-16F6B: Miao Vowel Sign Ua
-16F6C: Miao Vowel Sign Uan
-16F6D: Miao Vowel Sign Uang
-16F6E: Miao Vowel Sign Uu
-16F6F: Miao Vowel Sign Uei
-16F70: Miao Vowel Sign Ung
-16F71: Miao Vowel Sign Y
-16F72: Miao Vowel Sign Yi
-16F73: Miao Vowel Sign Ae
-16F74: Miao Vowel Sign Aee
-16F75: Miao Vowel Sign Err
-16F76: Miao Vowel Sign Rounded Err
-16F77: Miao Vowel Sign Er
-16F78: Miao Vowel Sign Rounded Er
-16F79: Miao Vowel Sign Ai
-16F7A: Miao Vowel Sign Ei
-16F7B: Miao Vowel Sign Au
-16F7C: Miao Vowel Sign Ou
-16F7D: Miao Vowel Sign N
-16F7E: Miao Vowel Sign Ng
-16F7F:
-16F80:
-16F81:
-16F82:
-16F83:
-16F84:
-16F85:
-16F86:
-16F87:
+16F4F: Miao jel mássalhangzó módosító sáv
+16F50: Miao betű nazalizáció
+16F51: Miao jel törekvés
+16F52: Miao jel református voiceolására
+16F53: Miao jel református törekvés
+16F54: Miao magánhangzó jel A
+16F55: Miao magánhangzó jel Aa
+16F56: Miao magánhangzó jel Ahh
+16F57: Miao magánhangzó jel An
+16F58: Miao magánhangzó jel Ang
+16F59: Miao magánhangzó jel O
+16F5A: Miao magánhangzó jel Oo
+16F5B: Miao magánhangzó jel Wo
+16F5C: Miao magánhangzó jel W
+16F5D: Miao magánhangzó jel E
+16F5E: Miao magánhangzó jel En
+16F5F: Miao magánhangzó jel Eng
+16F60: Miao magánhangzó jel Oey
+16F61: Miao magánhangzó jel I
+16F62: Miao magánhangzó jel Ia
+16F63: Miao magánhangzó jel Ian
+16F64: Miao magánhangzó jel Iang
+16F65: Miao magánhangzó jel Io
+16F66: Miao magánhangzó jel Ie
+16F67: Miao magánhangzó jel Ii
+16F68: Miao magánhangzó jel Iu
+16F69: Miao magánhangzó jel Ing
+16F6A: Miao magánhangzó jel U
+16F6B: Miao magánhangzó jel Ua
+16F6C: Miao magánhangzó jel Uan
+16F6D: Miao magánhangzó jel Uang
+16F6E: Miao magánhangzó jel Uu
+16F6F: Miao magánhangzó jel Uei
+16F70: Miao magánhangzó jel Ung
+16F71: Miao magánhangzó jel Y
+16F72: Miao magánhangzó jel Yi
+16F73: Miao magánhangzó jel Ae
+16F74: Miao magánhangzó jel Aee
+16F75: Miao magánhangzó jel Err
+16F76: Miao magánhangzó jel lekerekített Err
+16F77: Miao magánhangzó jel Er
+16F78: Miao magánhangzó jel lekerekített Er
+16F79: Miao magánhangzó jel Ai
+16F7A: Miao magánhangzó jel Ei
+16F7B: Miao magánhangzó jel Au
+16F7C: Miao magánhangzó jel Ou
+16F7D: Miao magánhangzó jel N
+16F7E: Miao magánhangzó jel Ng
+16F7F: Miao magánhangzó jel Uog
+16F80: Miao magánhangzó jel Yui
+16F81: Miao magánhangzó jel Og
+16F82: Miao magánhangzó jel Oer
+16F83: Miao magánhangzó jel Vw
+16F84: Miao magánhangzó jel Ig
+16F85: Miao magánhangzó jel Ea
+16F86: Miao magánhangzó jel Iong
+16F87: Miao magánhangzó jel Ui
 16F88:
 16F89:
 16F8A:
@@ -141,23 +141,23 @@
 16F8C:
 16F8D:
 16F8E:
-16F8F: Miao Tone Right
-16F90: Miao Tone Top Right
-16F91: Miao Tone Above
-16F92: Miao Tone Below
-16F93: Miao betű Tone-2
-16F94: Miao betű Tone-3
-16F95: Miao betű Tone-4
-16F96: Miao betű Tone-5
-16F97: Miao betű Tone-6
-16F98: Miao betű Tone-7
-16F99: Miao betű Tone-8
-16F9A: Miao betű Reformed Tone-1
-16F9B: Miao betű Reformed Tone-2
-16F9C: Miao betű Reformed Tone-4
-16F9D: Miao betű Reformed Tone-5
-16F9E: Miao betű Reformed Tone-6
-16F9F: Miao betű Reformed Tone-8
+16F8F: Miao tónus jobb
+16F90: Miao tónus felső jobb
+16F91: Miao tónus felett
+16F92: Miao tónus lent
+16F93: Miao betű tónus-2
+16F94: Miao betű tónus-3
+16F95: Miao betű tónus-4
+16F96: Miao betű tónus-5
+16F97: Miao betű tónus-6
+16F98: Miao betű tónus-7
+16F99: Miao betű tónus-8
+16F9A: Miao betű református tónus-1
+16F9B: Miao betű református tónus-2
+16F9C: Miao betű református tónus-4
+16F9D: Miao betű református tónus-5
+16F9E: Miao betű református tónus-6
+16F9F: Miao betű református tónus-8
 16FA0:
 16FA1:
 16FA2:
@@ -222,24 +222,24 @@
 16FDD:
 16FDE:
 16FDF:
-16FE0:
-16FE1:
-16FE2:
-16FE3:
-16FE4:
-16FE5:
-16FE6:
-16FE7:
-16FE8:
-16FE9:
-16FEA:
-16FEB:
-16FEC:
-16FED:
-16FEE:
-16FEF:
-16FF0:
-16FF1:
+16FE0: Tangut iterációs jel
+16FE1: Nushu iterációs jel
+16FE2: Régi kínai horogjel
+16FE3: Régi kínai iterációs jel
+16FE4: Khitan kis forgatókönyv-töltő
+16FE5: 
+16FE6: 
+16FE7: 
+16FE8: 
+16FE9: 
+16FEA: 
+16FEB: 
+16FEC: 
+16FED: 
+16FEE: 
+16FEF: 
+16FF0: Ca vietnami alternatív olvasójel
+16FF1: Nhay vietnami alternatív olvasójel
 16FF2:
 16FF3:
 16FF4:

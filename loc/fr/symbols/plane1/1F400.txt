@@ -2,7 +2,7 @@
 1F401: Souris
 1F402: Bœuf
 1F403: Buffle des indes
-1F404: Vache : boeuf (sur les menus)
+1F404: Vache: boeuf (sur les menus)
 1F405: Tigre
 1F406: Léopard
 1F407: Lapin
@@ -18,7 +18,7 @@
 1F411: Mouton
 1F412: Singe
 1F413: Coq
-1F414: Poulet : poule : volaille (sur les menus)
+1F414: Poulet: poule , volaille (sur les menus)
 1F415: Chien
 1F416: Porc
 1F417: Sanglier
@@ -63,7 +63,7 @@
 1F43E: Empreintes de patte
 1F43F: Tamia
 1F440: Yeux
-1F441: Œil : vue
+1F441: Œil: vue
 1F442: Oreille
 1F443: Nez
 1F444: Bouche
@@ -72,7 +72,7 @@
 1F447: Index de revers de main blanc pointant vers le bas
 1F448: Index de revers de main blanc pointant vers la gauche
 1F449: Index de revers de main blanc pointant vers la droite
-1F44A: Signe du coup de poing : de la main poings
+1F44A: Signe du coup de poing: de la main poings
 1F44B: Salut de la main
 1F44C: Signe ok de la main
 1F44D: Signe du pouce vers le haut
@@ -93,13 +93,13 @@
 1F45C: Sac à main
 1F45D: Petit sac
 1F45E: Chaussure masculine
-1F45F: Chaussure athlétique : coureur, baskets, chaussures de tennis
+1F45F: Chaussure athlétique: coureur, baskets, chaussures de tennis
 1F460: Chaussure à talon haut
 1F461: Sandale féminine
 1F462: Bottes féminines
 1F463: Empreintes de pied
-1F464: Poitrine en silhouette : compte d'invité
-1F465: Poitrines en silhouette  : comptes
+1F464: Poitrine en silhouette: compte d'invité
+1F465: Poitrines en silhouette: comptes
 1F466: Garçon
 1F467: Fille
 1F468: Homme
@@ -109,7 +109,7 @@
 1F46C: Deux hommes se tenant par la main
 1F46D: Deux femmes se tenant par la main
 1F46E: Policier
-1F46F: Femme avec oreilles de lapin : Nouvel An, Noël
+1F46F: Femme avec oreilles de lapin: Nouvel An, Noël
 1F470: Mariée avec voile
 1F471: Personne aux cheveux blonds
 1F472: Homme avec calotte chinoise
@@ -131,20 +131,20 @@
 1F482: Garde
 1F483: Danseur
 1F484: Bâton de rouge à lèvres
-1F485: Vernis à ongles : manucure, soin des ongles
+1F485: Vernis à ongles: manucure, soin des ongles
 1F486: Massage facial
 1F487: Coupe de cheveux
 1F488: Enseigne de coiffeur
 1F489: Seringue
 1F48A: Pilule
-1F48B: Marque de baiser : lèvres
+1F48B: Marque de baiser: lèvres
 1F48C: Lettre d’amour
-1F48D: Anneau : bijoux
+1F48D: Anneau: bijoux
 1F48E: Pierre précieuse
-1F48F: Baiser  : deux personnes s'embrassant
+1F48F: Baiser: deux personnes s'embrassant
 1F490: Bouquet
 1F491: Couple avec cœur
-1F492: Mariage : chapelle de mariage
+1F492: Mariage: chapelle de mariage
 1F493: Cœur battant
 1F494: Cœur brisé
 1F495: Deux cœurs
@@ -157,23 +157,23 @@
 1F49C: Cœur pourpre
 1F49D: Cœur enrubanné
 1F49E: Cœurs tournant en cercle
-1F49F: Décoration avec cœur : kawaii, mignon
+1F49F: Décoration avec cœur: kawaii, mignon
 1F4A0: Forme de losange avec un point à l’intérieur
-1F4A1: Ampoule électrique : idée
+1F4A1: Ampoule électrique: idée
 1F4A2: Symbole de la colère
 1F4A3: Bombe
 1F4A4: Symbole du sommeil
 1F4A5: Symbole de la collision
-1F4A6: Symbole de gouttes de sueur  : monde
+1F4A6: Symbole de gouttes de sueur: monde
 1F4A7: Gouttelette
-1F4A8: Symbole d’une pincée  : course à pied, briffits
-1F4A9: Tas de crotte : chien en terre
-1F4AA: Biceps en flexion : fort, musclé
-1F4AB: Symbole du vertige : étoiles tournoyantes, squeans
-1F4AC: Phylactère de parole : bulle de conversation de bande dessinée
+1F4A8: Symbole d’une pincée: course à pied, briffits
+1F4A9: Tas de crotte: chien en terre
+1F4AA: Biceps en flexion: fort, musclé
+1F4AB: Symbole du vertige: étoiles tournoyantes, squeans
+1F4AC: Phylactère de parole: bulle de conversation de bande dessinée
 1F4AD: Phylactère de pensée
-1F4AE: Fleur blanche : devoirs brillants
-1F4AF: Symbole cent points : score parfait
+1F4AE: Fleur blanche: devoirs brillants
+1F4AF: Symbole cent points: score parfait
 1F4B0: Sac d’argent
 1F4B1: Change
 1F4B2: Gros symbole dollar
@@ -188,14 +188,14 @@
 1F4BB: Ordinateur personnel
 1F4BC: Porte-documents
 1F4BD: Minidisque
-1F4BE: Disquette  : cartouche de disque souple, disquette, disquette, disquette
+1F4BE: Disquette: cartouche de disque souple, disquette, disquette, disquette
 1F4BF: Disque optique
 1F4C0: Dvd
 1F4C1: Dossier
 1F4C2: Dossier ouvert
 1F4C3: Page bouclée
 1F4C4: Page au recto
-1F4C5: Calendrier : Nouvel An, Noël
+1F4C5: Calendrier: Nouvel An, Noël
 1F4C6: Éphéméride
 1F4C7: Fichier
 1F4C8: Courbe ascendante
@@ -212,7 +212,7 @@
 1F4D3: Carnet
 1F4D4: Carnet avec couverture décorative
 1F4D5: Livre fermé
-1F4D6: Livre ouvert : lire le manuel d'utilisation
+1F4D6: Livre ouvert: lire le manuel d'utilisation
 1F4D7: Livre vert
 1F4D8: Livre noir
 1F4D9: Livre orange
@@ -223,20 +223,20 @@
 1F4DE: Récepteur téléphonique
 1F4DF: Téléavertisseur
 1F4E0: Télécopieur
-1F4E1: Antenne satellite : indicateur de position, nouvelles
+1F4E1: Antenne satellite: indicateur de position, nouvelles
 1F4E2: Porte-voix
 1F4E3: Mégaphone en plastique
 1F4E4: Boîte d’envoi
 1F4E5: Boîte de réception
-1F4E6: Paquet-cadeau : Nouvel An, Noël
+1F4E6: Paquet-cadeau: Nouvel An, Noël
 1F4E7: Symbole du courriel
 1F4E8: Enveloppe de réception
 1F4E9: Enveloppe sous une flèche vers le bas
-1F4EA: Boîte aux lettres rurale fermée avec fanion baissé : boîte aux lettres, réception du courrier : boîte aux lettres vide
-1F4EB: Boîte aux lettres rurale fermée avec fanion levé : boîte aux lettres contenant du courrier
+1F4EA: Boîte aux lettres rurale fermée avec fanion baissé: boîte aux lettres, réception du courrier , boîte aux lettres vide
+1F4EB: Boîte aux lettres rurale fermée avec fanion levé: boîte aux lettres contenant du courrier
 1F4EC: Boîte aux lettres rurale ouverte avec fanion levé
 1F4ED: Boîte aux lettres rurale ouverte avec fanion baissé
-1F4EE: Boîte aux lettres publique  : boîte aux lettres pour l'envoi de courrier
+1F4EE: Boîte aux lettres publique: boîte aux lettres pour l'envoi de courrier
 1F4EF: Cor postal
 1F4F0: Journal
 1F4F1: Téléphone mobile
@@ -244,7 +244,7 @@
 1F4F3: Mode vibreur
 1F4F4: Téléphone mobile fermé
 1F4F5: Téléphones mobiles interdits
-1F4F6: Symbole d’antenne avec barres  : réception cellulaire
+1F4F6: Symbole d’antenne avec barres: réception cellulaire
 1F4F7: Appareil-photo
 1F4F8: Appareil-photo avec flash
 1F4F9: Caméra vidéo

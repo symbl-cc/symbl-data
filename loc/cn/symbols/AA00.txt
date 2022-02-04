@@ -1,58 +1,58 @@
-AA00 : Cham Letter A
-AA01 : Cham Letter I
-AA02 : Cham Letter U
-AA03 : Cham Letter E
-AA04 : Cham Letter Ai
-AA05 : Cham Letter O
-AA06 : Cham Letter Ka
-AA07 : Cham Letter Kha
-AA08 : Cham Letter Ga
-AA09 : Cham Letter Gha
-AA0A : Cham Letter Ngue
-AA0B : Cham Letter Nga
-AA0C : Cham Letter Cha
-AA0D : Cham Letter Chha
-AA0E : Cham Letter Ja
-AA0F : Cham Letter Jha
-AA10 : Cham Letter Nhue
-AA11 : Cham Letter Nha
-AA12 : Cham Letter Nhja
-AA13 : Cham Letter Ta
-AA14 : Cham Letter Tha
-AA15 : Cham Letter Da
-AA16 : Cham Letter Dha
-AA17 : Cham Letter Nue
-AA18 : Cham Letter Na
-AA19 : Cham Letter Dda
-AA1A : Cham Letter Pa
-AA1B : Cham Letter Ppa
-AA1C : Cham Letter Pha
-AA1D : Cham Letter Ba
-AA1E : Cham Letter Bha
-AA1F : Cham Letter Mue
-AA20 : Cham Letter Ma
-AA21 : Cham Letter Bba
-AA22 : Cham Letter Ya
-AA23 : Cham Letter Ra
-AA24 : Cham Letter La
-AA25 : Cham Letter Va
-AA26 : Cham Letter Ssa
-AA27 : Cham Letter Sa
-AA28 : Cham Letter Ha
-AA29 : Cham Vowel Sign Aa
-AA2A : Cham Vowel Sign I
-AA2B : Cham Vowel Sign Ii
-AA2C : Cham Vowel Sign Ei
-AA2D : Cham Vowel Sign U
-AA2E : Cham Vowel Sign Oe
-AA2F : Cham Vowel Sign O
-AA30 : Cham Vowel Sign Ai
-AA31 : Cham Vowel Sign Au
-AA32 : Cham Vowel Sign Ue
-AA33 : Cham Consonant Sign Ya
-AA34 : Cham Consonant Sign Ra
-AA35 : Cham Consonant Sign La
-AA36 : Cham Consonant Sign Wa
+AA00 : 占語 字母 A
+AA01 : 占語 字母 I
+AA02 : 占語 字母 U
+AA03 : 占語 字母 E
+AA04 : 占語 字母 Ai
+AA05 : 占語 字母 O
+AA06 : 占語 字母 Ka
+AA07 : 占語 字母 Kha
+AA08 : 占語 字母 Ga
+AA09 : 占語 字母 Gha
+AA0A : 占語 字母 Ngue
+AA0B : 占語 字母 Nga
+AA0C : 占語 字母 Cha
+AA0D : 占語 字母 Chha
+AA0E : 占語 字母 Ja
+AA0F : 占語 字母 Jha
+AA10 : 占語 字母 Nhue
+AA11 : 占語 字母 Nha
+AA12 : 占語 字母 Nhja
+AA13 : 占語 字母 Ta
+AA14 : 占語 字母 Tha
+AA15 : 占語 字母 Da
+AA16 : 占語 字母 Dha
+AA17 : 占語 字母 Nue
+AA18 : 占語 字母 Na
+AA19 : 占語 字母 Dda
+AA1A : 占語 字母 Pa
+AA1B : 占語 字母 Ppa
+AA1C : 占語 字母 Pha
+AA1D : 占語 字母 Ba
+AA1E : 占語 字母 Bha
+AA1F : 占語 字母 Mue
+AA20 : 占語 字母 Ma
+AA21 : 占語 字母 Bba
+AA22 : 占語 字母 Ya
+AA23 : 占語 字母 Ra
+AA24 : 占語 字母 La
+AA25 : 占語 字母 Va
+AA26 : 占語 字母 Ssa
+AA27 : 占語 字母 Sa
+AA28 : 占語 字母 Ha
+AA29 : 占語 元音 Aa
+AA2A : 占語 元音 I
+AA2B : 占語 元音 Ii
+AA2C : 占語 元音 Ei
+AA2D : 占語 元音 U
+AA2E : 占語 元音 Oe
+AA2F : 占語 元音 O
+AA30 : 占語 元音 Ai
+AA31 : 占語 元音 Au
+AA32 : 占語 元音 Ue
+AA33 : 占語 辅音 Ya
+AA34 : 占語 辅音 Ra
+AA35 : 占語 辅音 La
+AA36 : 占語 辅音 Wa
 AA37 : 
 AA38 : 
 AA39 : 
@@ -62,137 +62,137 @@ AA3C :
 AA3D : 
 AA3E : 
 AA3F : 
-AA40 : Cham Letter Final K
-AA41 : Cham Letter Final G
-AA42 : Cham Letter Final Ng
-AA43 : Cham Consonant Sign Final Ng
-AA44 : Cham Letter Final Ch
-AA45 : Cham Letter Final T
-AA46 : Cham Letter Final N
-AA47 : Cham Letter Final P
-AA48 : Cham Letter Final Y
-AA49 : Cham Letter Final R
-AA4A : Cham Letter Final L
-AA4B : Cham Letter Final Ss
-AA4C : Cham Consonant Sign Final M
-AA4D : Cham Consonant Sign Final H
+AA40 : 占語 字母 最后的迹象 K
+AA41 : 占語 字母 最后的迹象 G
+AA42 : 占語 字母 最后的迹象 Ng
+AA43 : 占語 辅音 最后的迹象 Ng
+AA44 : 占語 字母 最后的迹象 Ch
+AA45 : 占語 字母 最后的迹象 T
+AA46 : 占語 字母 最后的迹象 N
+AA47 : 占語 字母 最后的迹象 P
+AA48 : 占語 字母 最后的迹象 Y
+AA49 : 占語 字母 最后的迹象 R
+AA4A : 占語 字母 最后的迹象 L
+AA4B : 占語 字母 最后的迹象 Ss
+AA4C : 占語 辅音 最后的迹象 M
+AA4D : 占語 辅音 最后的迹象 H
 AA4E : 
 AA4F : 
-AA50 : Cham Digit Zero
-AA51 : Cham Digit One
-AA52 : Cham Digit Two
-AA53 : Cham Digit Three
-AA54 : Cham Digit Four
-AA55 : Cham Digit Five
-AA56 : Cham Digit Six
-AA57 : Cham Digit Seven
-AA58 : Cham Digit Eight
-AA59 : Cham Digit Nine
+AA50 : 占語 数字 零
+AA51 : 占語 数字 之一
+AA52 : 占語 数字 二
+AA53 : 占語 数字 三
+AA54 : 占語 数字 四个
+AA55 : 占語 数字 五
+AA56 : 占語 数字 六
+AA57 : 占語 数字 七
+AA58 : 占語 数字 八
+AA59 : 占語 数字 九
 AA5A : 
 AA5B : 
-AA5C : Cham Punctuation Spiral
-AA5D : Cham Punctuation Danda
-AA5E : Cham Punctuation Double Danda
-AA5F : Cham Punctuation Triple Danda
-AA60 : Myanmar Letter Khamti Ga
-AA61 : Myanmar Letter Khamti Ca
-AA62 : Myanmar Letter Khamti Cha
-AA63 : Myanmar Letter Khamti Ja
-AA64 : Myanmar Letter Khamti Jha
-AA65 : Myanmar Letter Khamti Nya
-AA66 : Myanmar Letter Khamti Tta
-AA67 : Myanmar Letter Khamti Ttha
-AA68 : Myanmar Letter Khamti Dda
-AA69 : Myanmar Letter Khamti Ddha
-AA6A : Myanmar Letter Khamti Dha
-AA6B : Myanmar Letter Khamti Na
-AA6C : Myanmar Letter Khamti Sa
-AA6D : Myanmar Letter Khamti Ha
-AA6E : Myanmar Letter Khamti Hha
-AA6F : Myanmar Letter Khamti Fa
-AA70 : Myanmar Modifier Letter Khamti Reduplication
-AA71 : Myanmar Letter Khamti Xa
-AA72 : Myanmar Letter Khamti Za
-AA73 : Myanmar Letter Khamti Ra
-AA74 : Myanmar Logogram Khamti Oay
-AA75 : Myanmar Logogram Khamti Qn
-AA76 : Myanmar Logogram Khamti Hm
-AA77 : Myanmar Symbol Aiton Exclamation
-AA78 : Myanmar Symbol Aiton One
-AA79 : Myanmar Symbol Aiton Two
-AA7A : Myanmar Letter Aiton Ra
-AA7B : Myanmar Sign Pao Karen Tone
-AA7C : 
-AA7D : 
-AA7E : 
-AA7F : 
-AA80 : Tai Viet Letter Low Ko
-AA81 : Tai Viet Letter High Ko
-AA82 : Tai Viet Letter Low Kho
-AA83 : Tai Viet Letter High Kho
-AA84 : Tai Viet Letter Low Khho
-AA85 : Tai Viet Letter High Khho
-AA86 : Tai Viet Letter Low Go
-AA87 : Tai Viet Letter High Go
-AA88 : Tai Viet Letter Low Ngo
-AA89 : Tai Viet Letter High Ngo
-AA8A : Tai Viet Letter Low Co
-AA8B : Tai Viet Letter High Co
-AA8C : Tai Viet Letter Low Cho
-AA8D : Tai Viet Letter High Cho
-AA8E : Tai Viet Letter Low So
-AA8F : Tai Viet Letter High So
-AA90 : Tai Viet Letter Low Nyo
-AA91 : Tai Viet Letter High Nyo
-AA92 : Tai Viet Letter Low Do
-AA93 : Tai Viet Letter High Do
-AA94 : Tai Viet Letter Low To
-AA95 : Tai Viet Letter High To
-AA96 : Tai Viet Letter Low Tho
-AA97 : Tai Viet Letter High Tho
-AA98 : Tai Viet Letter Low No
-AA99 : Tai Viet Letter High No
-AA9A : Tai Viet Letter Low Bo
-AA9B : Tai Viet Letter High Bo
-AA9C : Tai Viet Letter Low Po
-AA9D : Tai Viet Letter High Po
-AA9E : Tai Viet Letter Low Pho
-AA9F : Tai Viet Letter High Pho
-AAA0 : Tai Viet Letter Low Fo
-AAA1 : Tai Viet Letter High Fo
-AAA2 : Tai Viet Letter Low Mo
-AAA3 : Tai Viet Letter High Mo
-AAA4 : Tai Viet Letter Low Yo
-AAA5 : Tai Viet Letter High Yo
-AAA6 : Tai Viet Letter Low Ro
-AAA7 : Tai Viet Letter High Ro
-AAA8 : Tai Viet Letter Low Lo
-AAA9 : Tai Viet Letter High Lo
-AAAA : Tai Viet Letter Low Vo
-AAAB : Tai Viet Letter High Vo
-AAAC : Tai Viet Letter Low Ho
-AAAD : Tai Viet Letter High Ho
-AAAE : Tai Viet Letter Low O
-AAAF : Tai Viet Letter High O
-AAB0 : Tai Viet Mai Kang
-AAB1 : Tai Viet Vowel Aa
-AAB2 : Tai Viet Vowel I
-AAB3 : Tai Viet Vowel Ue
-AAB4 : Tai Viet Vowel U
-AAB5 : Tai Viet Vowel E
-AAB6 : Tai Viet Vowel O
-AAB7 : Tai Viet Mai Khit
-AAB8 : Tai Viet Vowel Ia
-AAB9 : Tai Viet Vowel Uea
-AABA : Tai Viet Vowel Ua
-AABB : Tai Viet Vowel Aue
-AABC : Tai Viet Vowel Ay
-AABD : Tai Viet Vowel An
-AABE : Tai Viet Vowel Am
-AABF : Tai Viet Tone Mai Ek
-AAC0 : Tai Viet Tone Mai Nueng
-AAC1 : Tai Viet Tone Mai Tho
-AAC2 : Tai Viet Tone Mai Song
+AA5C : 占語 标点 螺旋
+AA5D : 占語 标点 丹达
+AA5E : 占語 标点 双丹达
+AA5F : 占語 标点 三重丹达
+AA60 : 缅甸 字母 康迪 Ga
+AA61 : 缅甸 字母 康迪 Ca
+AA62 : 缅甸 字母 康迪 Cha
+AA63 : 缅甸 字母 康迪 Ja
+AA64 : 缅甸 字母 康迪 Jha
+AA65 : 缅甸 字母 康迪 Nya
+AA66 : 缅甸 字母 康迪 Tta
+AA67 : 缅甸 字母 康迪 Ttha
+AA68 : 缅甸 字母 康迪 Dda
+AA69 : 缅甸 字母 康迪 Ddha
+AA6A : 缅甸 字母 康迪 Dha
+AA6B : 缅甸 字母 康迪 Na
+AA6C : 缅甸 字母 康迪 Sa
+AA6D : 缅甸 字母 康迪 Ha
+AA6E : 缅甸 字母 康迪 Hha
+AA6F : 缅甸 字母 康迪 Fa
+AA70 : 缅甸 修饰符 字母 康迪 重覆
+AA71 : 缅甸 字母 康迪 Xa
+AA72 : 缅甸 字母 康迪 Za
+AA73 : 缅甸 字母 康迪 Ra
+AA74 : 缅甸 简写 康迪 Oay
+AA75 : 缅甸 简写 康迪 Qn
+AA76 : 缅甸 简写 康迪 Hm
+AA77 : 缅甸 符号 艾顿 感叹
+AA78 : 缅甸 符号 艾顿 之一
+AA79 : 缅甸 符号 艾顿 二
+AA7A : 缅甸 字母 艾顿 Ra
+AA7B : 缅甸 标志 Pao Karen 音
+AA7C : 缅甸标志大叻音2
+AA7D : 缅甸 标志 大叻音5
+AA7E : 缅甸 字母 瑞帕朗查
+AA7F : 缅甸 字母 瑞帕朗沙
+AA80 : 大越 字母 低 Ko
+AA81 : 大越 字母 高 Ko
+AA82 : 大越 字母 低 Kho
+AA83 : 大越 字母 高 Kho
+AA84 : 大越 字母 低 Khho
+AA85 : 大越 字母 高 Khho
+AA86 : 大越 字母 低 Go
+AA87 : 大越 字母 高 Go
+AA88 : 大越 字母 低 Ngo
+AA89 : 大越 字母 高 Ngo
+AA8A : 大越 字母 低 Co
+AA8B : 大越 字母 高 Co
+AA8C : 大越 字母 低 Cho
+AA8D : 大越 字母 高 Cho
+AA8E : 大越 字母 低 So
+AA8F : 大越 字母 高 So
+AA90 : 大越 字母 低 Nyo
+AA91 : 大越 字母 高 Nyo
+AA92 : 大越 字母 低 Do
+AA93 : 大越 字母 高 Do
+AA94 : 大越 字母 低 To
+AA95 : 大越 字母 高 To
+AA96 : 大越 字母 低 Tho
+AA97 : 大越 字母 高 Tho
+AA98 : 大越 字母 低 No
+AA99 : 大越 字母 高 No
+AA9A : 大越 字母 低 Bo
+AA9B : 大越 字母 高 Bo
+AA9C : 大越 字母 低 Po
+AA9D : 大越 字母 高 Po
+AA9E : 大越 字母 低 Pho
+AA9F : 大越 字母 高 Pho
+AAA0 : 大越 字母 低 Fo
+AAA1 : 大越 字母 高 Fo
+AAA2 : 大越 字母 低 Mo
+AAA3 : 大越 字母 高 Mo
+AAA4 : 大越 字母 低 Yo
+AAA5 : 大越 字母 高 Yo
+AAA6 : 大越 字母 低 Ro
+AAA7 : 大越 字母 高 Ro
+AAA8 : 大越 字母 低 Lo
+AAA9 : 大越 字母 高 Lo
+AAAA : 大越 字母 低 Vo
+AAAB : 大越 字母 高 Vo
+AAAC : 大越 字母 低 Ho
+AAAD : 大越 字母 高 Ho
+AAAE : 大越 字母 低 O
+AAAF : 大越 字母 高 O
+AAB0 : 大越 Mai Kang
+AAB1 : 大越 元音 Aa
+AAB2 : 大越 元音 I
+AAB3 : 大越 元音 Ue
+AAB4 : 大越 元音 U
+AAB5 : 大越 元音 E
+AAB6 : 大越 元音 O
+AAB7 : 大越 Mai Khit
+AAB8 : 大越 元音 Ia
+AAB9 : 大越 元音 Uea
+AABA : 大越 元音 Ua
+AABB : 大越 元音 Aue
+AABC : 大越 元音 Ay
+AABD : 大越 元音 An
+AABE : 大越 元音 Am
+AABF : 大越 音 Mai Ek
+AAC0 : 大越 音 Mai Nueng
+AAC1 : 大越 音 Mai Tho
+AAC2 : 大越 音 Mai Song
 AAC3 : 
 AAC4 : 
 AAC5 : 
@@ -217,34 +217,34 @@ AAD7 :
 AAD8 : 
 AAD9 : 
 AADA : 
-AADB : Tai Viet Symbol Kon
-AADC : Tai Viet Symbol Nueng
-AADD : Tai Viet Symbol Sam
-AADE : Tai Viet Symbol Ho Hoi
-AADF : Tai Viet Symbol Koi Koi
-AAE0 : 
-AAE1 : 
-AAE2 : 
-AAE3 : 
-AAE4 : 
-AAE5 : 
-AAE6 : 
-AAE7 : 
-AAE8 : 
-AAE9 : 
-AAEA : 
-AAEB : 
-AAEC : 
-AAED : 
-AAEE : 
-AAEF : 
-AAF0 : 
-AAF1 : 
-AAF2 : 
-AAF3 : 
-AAF4 : 
-AAF5 : 
-AAF6 : 
+AADB : 大越 符号 Kon
+AADC : 大越 符号 Nueng
+AADD : 大越 符号 Sam
+AADE : 大越 符号 Ho Hoi
+AADF : 大越 符号 Koi Koi
+AAE0 : 梅泰族 Mayek字母E
+AAE1 : 梅泰族 Mayek字母O
+AAE2 : 梅泰族 Mayek 字母 Cha
+AAE3 : 梅泰族 Mayek 字母 Nya
+AAE4 : 梅泰族 Mayek 字母 Tta
+AAE5 : 梅泰族 Mayek字母Ttha
+AAE6 : 梅泰族 Mayek 字母 Dda
+AAE7 : 梅泰族 Mayek字母Dha
+AAE8 : 梅泰族 Mayek 字母 Nna
+AAE9 : 梅泰族 Mayek字母Sha
+AAEA : 梅泰族 Mayek 字母 Ssa
+AAEB : 梅泰族 Mayek元音標誌II
+AAEC : 梅泰族 Mayek元音符號Uu
+AAED : 梅泰族 Mayek元音符號Aai
+AAEE : 梅泰族 Mayek元音符號Au
+AAEF : 梅泰族 Mayek元音符號Aau
+AAF0: 邁泰·梅耶克·謝赫汗: 丹達
+AAF1: 梅泰族 Mayek Ahang Khudam: 問號
+AAF2 : 梅泰族 Mayek Anji
+AAF3 : 梅泰族 Mayek音節重複標記
+AAF4 : 梅泰族 Mayek單詞重複標記
+AAF5 : 梅泰族 Mayek元音標誌Visarga
+AAF6 : 梅泰族 Mayek Virama
 AAF7 : 
 AAF8 : 
 AAF9 : 
@@ -253,4 +253,4 @@ AAFB :
 AAFC : 
 AAFD : 
 AAFE : 
-AAFF : 
+AAFF : 

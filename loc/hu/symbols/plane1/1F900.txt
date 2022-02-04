@@ -10,10 +10,10 @@
 1F909: Lefelé néző hornyos horog
 1F90A: Lefelé néző horog ponttal
 1F90B: Lefelé néző hornyos horog ponttal
-1F90C:
-1F90D:
-1F90E:
-1F90F:
+1F90C: Megcsípte az ujjait
+1F90D: Fehér szív
+1F90E: Barna szív
+1F90F: Megcsípte a kezét
 1F910: Cipzár-száj arc
 1F911: Pénz-száj arca
 1F912: Arc hőmérővel
@@ -36,8 +36,8 @@
 1F923: A padlón gurulva nevetni
 1F924: Drooling Face
 1F925: Fekvő arc
-1F926: Arc Palm : frusztráció, hitetlenség
-1F927: Tüsszögés : gesundheit
+1F926: Arc Palm: frusztráció, hitetlenség
+1F927: Tüsszögés: gesundheit
 1F928: Egy szemöldökkel szembe kell néznie
 1F929: Megcsillogó arc a szeme szemével
 1F92A: Vigyorgó arc egy nagy és egy kis szemmel
@@ -52,28 +52,28 @@
 1F933: szelfi
 1F934: Herceg
 1F935: Férfi Szmokingban
-1F936: Anya karácsony : Mrs. Claus
+1F936: Anya karácsony: Mrs. Claus
 1F937: Vállvonás
-1F938: Személy, aki a kerékkereket : gimnasztika
+1F938: Személy, aki a kerékkereket: gimnasztika
 1F939: Zsonglőrködés
-1F93A: Vívó : vívás
+1F93A: Vívó: vívás
 1F93B: Modern ötödik
-1F93C: birkózó : birkózás
+1F93C: birkózó: birkózás
 1F93D: Vízilabda
 1F93E: Kézilabda
-1F93F:
+1F93F: Búvármaszk
 1F940: Wilted Flower
 1F941: Dobdobokkal
-1F942: Csengő szemüveg : ünneplés, formális pirítás
-1F943: Üveg pohár : whisky
+1F942: Csengő szemüveg: ünneplés, formális pirítás
+1F943: Üveg pohár: whisky
 1F944: Kanál
 1F945: Célháló
-1F946: puska : vadászat, lövészet, vadászat
-1F947: Első helyen érem : aranyérem
-1F948: Második helyérem : ezüst érem
-1F949: Harmadik helyérem : bronz érem
+1F946: puska: vadászat, lövészet, vadászat
+1F947: Első helyen érem: aranyérem
+1F948: Második helyérem: ezüst érem
+1F949: Harmadik helyérem: bronz érem
 1F94A: Box kesztyű
-1F94B: Harcművészeti egyenruha : judo, karate, taekwondo
+1F94B: Harcművészeti egyenruha: judo, karate, taekwondo
 1F94C: Curling kő
 1F94D: Lacrosse Stick és Ball
 1F94E: Softball labdajáték
@@ -84,26 +84,26 @@
 1F953: Szalonna
 1F954: Burgonya
 1F955: Sárgarépa
-1F956: Baguette kenyér : francia kenyér
+1F956: Baguette kenyér: francia kenyér
 1F957: Zöldsaláta
-1F958: Sekély serpenyő : paella, rakott
-1F959: Töltött Flatbread : döner kebab, falafel, gyro, shawarma
-1F95A: Tojás : tyúk tojás
-1F95B: Pohár tej : tej
+1F958: Sekély serpenyő: paella, rakott
+1F959: Töltött Flatbread: döner kebab, falafel, gyro, shawarma
+1F95A: Tojás: tyúk tojás
+1F95B: Pohár tej: tej
 1F95C: földimogyoró
 1F95D: Kivi
-1F95E: palacsinta : hotcakes, crêpes, blini
-1F95F: Gombóc : potsticker, gyooza, jiaozi, pierogi, empanada
+1F95E: palacsinta: hotcakes, crêpes, blini
+1F95F: Gombóc: potsticker, gyooza, jiaozi, pierogi, empanada
 1F960: Szerencsesütit
-1F961: Kivezető doboz : felszedő doboz, osztriga vödör
-1F962: kínai evőpálcikák : kuaizi, hashi, jeotgarak
+1F961: Kivezető doboz: felszedő doboz, osztriga vödör
+1F962: kínai evőpálcikák: kuaizi, hashi, jeotgarak
 1F963: Tál kanállal
 1F964: Csésze szalmával
 1F965: Kókuszdió
 1F966: Brokkoli
 1F967: Pite
 1F968: Perec
-1F969: Vágott hús : porkchop, chop, steak
+1F969: Vágott hús: porkchop, chop, steak
 1F96A: Szendvics
 1F96B: Konzervek
 1F96C: Leveles zöld
@@ -111,17 +111,17 @@
 1F96E: Hold torta
 1F96F: Bécsi kifli
 1F970: Mosolygó arc mosolygó szemekkel és három szívvel
-1F971:
-1F972:
+1F970: Mosolygó arc mosolygó szemmel és három szív
+1F971: Ásító arc
 1F973: Arc a Party Horn és a Party Hat
 1F974: Arc egyenetlen szemekkel és hullámos szájjal
 1F975: Túlmelegedett arc
 1F976: Fagyasztó arc
-1F977:
-1F978:
+1F977: Nindzsa
+1F978: Rejtett arc
 1F979:
 1F97A: Szembesüljenek a beadványos szemekkel
-1F97B:
+1F97B: Sari
 1F97C: Laborköpenyt
 1F97D: Védőszemüveg
 1F97E: Túrabakancs
@@ -148,7 +148,7 @@
 1F993: Zebra arc
 1F994: Sündisznó
 1F995: sauropod
-1F996: t-Rex : Tyrannosaurus rex
+1F996: t-Rex: Tyrannosaurus rex
 1F997: Krikett
 1F998: Kenguru
 1F999: Láma
@@ -161,19 +161,19 @@
 1F9A0: Mikroba
 1F9A1: Borz
 1F9A2: Hattyú
-1F9A3:
-1F9A4:
-1F9A5:
-1F9A6:
-1F9A7:
-1F9A8:
-1F9A9:
-1F9AA:
-1F9AB:
-1F9AC:
-1F9AD:
-1F9AE:
-1F9AF:
+1F9A3: Mamut
+1F9A4: Dodó
+1F9A5: Lajhár
+1F9A6: Vidra
+1F9A7: Orangután
+1F9A8: Bűzös borz
+1F9A9: Flamingó
+1F9AA: Osztriga
+1F9AB: Hód
+1F9AC: Bölény
+1F9AD: Fóka
+1F9AE: Vakvezető kutya
+1F9AF: Nádszonda
 1F9B0: Emoji CompOnent vörös haj
 1F9B1: Emoji CompOnent göndör haj
 1F9B2: Emoji CompOnent Bald
@@ -184,47 +184,47 @@
 1F9B7: Fog
 1F9B8: Szuperhős
 1F9B9: supervillain
-1F9BA:
-1F9BB:
-1F9BC:
-1F9BD:
-1F9BE:
-1F9BF:
-1F9C0: Sajtok
+1F9BA: Biztonsági mellény
+1F9BB: Fül hallókészülékkel
+1F9BC: Motoros kerekes szék
+1F9BD: Kézi kerekes szék
+1F9BE: Mechanikus kar
+1F9BF: Mechanikus láb
+1F9C0: Sajt ék
 1F9C1: Muffin
 1F9C2: Sószóró
-1F9C3:
-1F9C4:
-1F9C5:
-1F9C6:
-1F9C7:
-1F9C8:
-1F9C9:
-1F9CA:
-1F9CB:
-1F9CC:
-1F9CD:
-1F9CE:
-1F9CF:
+1F9C3: Ital doboz
+1F9C4: Fokhagyma
+1F9C5: Hagyma
+1F9C6: falafel
+1F9C7: Waffle
+1F9C8: Vaj
+1F9C9: Társa ital
+1F9CA: Jégkocka
+1F9CB: Buborék tea
+1F9CC: 
+1F9CD: Állandó személy
+1F9CE: Térdelő személy
+1F9CF: Süket ember
 1F9D0: Arc a Monocle-szal
 1F9D1: Felnőtt
 1F9D2: Gyermek
 1F9D3: Régebbi felnőtt
 1F9D4: Szakállas személy
-1F9D5: Személy fejkendővel : női fejkendő, hijab
-1F9D6: Személy a gőzös szobában : szauna, gőzfürdő
+1F9D5: Személy fejkendővel: női fejkendő, hijab
+1F9D6: Személy a gőzös szobában: szauna, gőzfürdő
 1F9D7: Személymászás
-1F9D8: Személy a Lotus pozícióban : jóga, meditáció
-1F9D9: mágus : varázsló, boszorkány, varázsló, varázsló
+1F9D8: Személy a Lotus pozícióban: jóga, meditáció
+1F9D9: mágus: varázsló, boszorkány, varázsló, varázsló
 1F9DA: Tündér
 1F9DB: Vámpír
-1F9DC: Merperson : sellő, merman
+1F9DC: Merperson: sellő, merman
 1F9DD: Manó
 1F9DE: Dzsinn
 1F9DF: Zombi
 1F9E0: Agy
 1F9E1: Narancssárga szív
-1F9E2: Számlázott sapka : baseball sapka
+1F9E2: Számlázott sapka: baseball sapka
 1F9E3: Sál
 1F9E4: kesztyű
 1F9E5: Kabát

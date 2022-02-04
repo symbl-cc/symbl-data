@@ -1,87 +1,87 @@
-1FA00:
-1FA01:
-1FA02:
-1FA03:
-1FA04:
-1FA05:
-1FA06:
-1FA07:
-1FA08:
-1FA09:
-1FA0A:
-1FA0B:
-1FA0C:
-1FA0D:
-1FA0E:
-1FA0F:
-1FA10:
-1FA11:
-1FA12:
-1FA13:
-1FA14:
-1FA15:
-1FA16:
-1FA17:
-1FA18:
-1FA19:
-1FA1A:
-1FA1B:
-1FA1C:
-1FA1D:
-1FA1E:
-1FA1F:
-1FA20:
-1FA21:
-1FA22:
-1FA23:
-1FA24:
-1FA25:
-1FA26:
-1FA27:
-1FA28:
-1FA29:
-1FA2A:
-1FA2B:
-1FA2C:
-1FA2D:
-1FA2E:
-1FA2F:
-1FA30:
-1FA31:
-1FA32:
-1FA33:
-1FA34:
-1FA35:
-1FA36:
-1FA37:
-1FA38:
-1FA39:
-1FA3A:
-1FA3B:
-1FA3C:
-1FA3D:
-1FA3E:
-1FA3F:
-1FA40:
-1FA41:
-1FA42:
-1FA43:
-1FA44:
-1FA45:
-1FA46:
-1FA47:
-1FA48:
-1FA49:
-1FA4A:
-1FA4B:
-1FA4C:
-1FA4D:
-1FA4E:
-1FA4F:
-1FA50:
-1FA51:
-1FA52:
-1FA53:
+1FA00: Re degli scacchi neutrale
+1FA01: Regina di scacchi neutrale
+1FA02: Torre di scacchi neutrale
+1FA03: Vescovo di scacchi neutrale
+1FA04: Cavaliere di scacchi neutrale
+1FA05: Pedone di scacchi neutro
+1FA06: Il cavaliere di scacchi bianco ruotava di quarantacinque gradi
+1FA07: Il cavaliere di scacchi nero ruotava di quarantacinque gradi
+1FA08: Il cavaliere di scacchi neutrale ruotava di quarantacinque gradi
+1FA09: Il re degli scacchi bianco ruotava di novanta gradi
+1FA0A: La regina degli scacchi bianca ruotava di novanta gradi
+1FA0B: La torre degli scacchi bianca ruotava di novanta gradi
+1FA0C: Il vescovo degli scacchi bianco ruotava di novanta gradi
+1FA0D: Il cavaliere di scacchi bianco ruotava di novanta gradi
+1FA0E: Pedone degli scacchi bianco ruotato di novanta gradi
+1FA0F: Il re degli scacchi nero ruotava di novanta gradi
+1FA10: La regina degli scacchi nera ruotava di novanta gradi
+1FA11: La torre nera degli scacchi ruotava di novanta gradi
+1FA12: Il vescovo degli scacchi nero ruotava di novanta gradi
+1FA13: Il cavaliere di scacchi nero ruotava di novanta gradi
+1FA14: Pedone degli scacchi nero ruotato di novanta gradi
+1FA15: Il re neutrale degli scacchi ruotava di novanta gradi
+1FA16: La regina neutrale degli scacchi ruotava di novanta gradi
+1FA17: La torre neutrale degli scacchi ruotava di novanta gradi
+1FA18: Il vescovo di scacchi neutrale ruotava di novanta gradi
+1FA19: Il cavaliere di scacchi neutrale ruotava di novanta gradi
+1FA1A: Pedone degli scacchi neutro ruotato di novanta gradi
+1FA1B: Il cavaliere di scacchi bianco ruotava di centotrentacinque gradi
+1FA1C: Il cavaliere di scacchi nero ruotava di centotrentacinque gradi
+1FA1D: Il cavaliere di scacchi neutrale ruotava di centotrentacinque gradi
+1FA1E: Gli scacchi bianchi sono diventati re
+1FA1F: Gli scacchi bianchi sono diventati regina
+1FA20: Gli scacchi bianchi diventarono torre
+1FA21: Gli scacchi bianchi sono diventati vescovi
+1FA22: Gli scacchi bianchi divennero cavaliere
+1FA23: Scacchi bianchi trasformati in pedina
+1FA24: Gli scacchi neri sono diventati re
+1FA25: Gli scacchi neri sono diventati regina
+1FA26: Gli scacchi neri sono diventati torre
+1FA27: Gli scacchi neri sono diventati vescovi
+1FA28: Gli scacchi neri divennero cavaliere
+1FA29: Gli scacchi neri sono diventati pedone
+1FA2A: Gli scacchi neutrali diventarono re
+1FA2B: Gli scacchi neutrali sono diventati regina
+1FA2C: Gli scacchi neutrali sono diventati torre
+1FA2D: Gli scacchi neutrali sono diventati vescovi
+1FA2E: Gli scacchi neutrali divennero cavaliere
+1FA2F: Gli scacchi neutri sono diventati pedone
+1FA30: Il cavaliere di scacchi bianco ruotava di duecentoventicinque gradi
+1FA31: Il cavaliere di scacchi nero ruotava di duecentoventicinque gradi
+1FA32: Il cavaliere di scacchi neutrale ruotava di duecentoventicinque gradi
+1FA33: Il re degli scacchi bianco ruotava di duecentosettanta gradi
+1FA34: La regina degli scacchi bianca ruotava di duecentosettanta gradi
+1FA35: La torre bianca degli scacchi ruotava di duecentosettanta gradi
+1FA36: Il vescovo degli scacchi bianco ruotava di duecentosettanta gradi
+1FA37: Il cavaliere di scacchi bianco ruotava di duecentosettanta gradi
+1FA38: Il pedone degli scacchi bianco ruotava di duecentosettanta gradi
+1FA39: Il re degli scacchi nero ruotava di duecentosettanta gradi
+1FA3A: La regina degli scacchi nera ruotava di duecentosettanta gradi
+1FA3B: La torre nera degli scacchi ruotava di duecentosettanta gradi
+1FA3C: Il vescovo degli scacchi nero ruotava di duecentosettanta gradi
+1FA3D: Il cavaliere di scacchi nero ruotava di duecentosettanta gradi
+1FA3E: La pedina degli scacchi nera ruotava di duecentosettanta gradi
+1FA3F: Il re neutrale degli scacchi ruotava di duecentosettanta gradi
+1FA40: La regina neutrale degli scacchi ruotava di duecentosettanta gradi
+1FA41: La torre neutrale degli scacchi ruotava di duecentosettanta gradi
+1FA42: Il vescovo di scacchi neutrale ruotava di duecentosettanta gradi
+1FA43: Il cavaliere di scacchi neutrale ruotava di duecentosettanta gradi
+1FA44: La pedina neutrale degli scacchi ruotava di duecentosettanta gradi
+1FA45: Il cavaliere di scacchi bianco ruotava di trecentoquindici gradi
+1FA46: Il cavaliere di scacchi nero ruotava di trecentoquindici gradi
+1FA47: Il cavaliere di scacchi neutrale ruotava di trecentoquindici gradi
+1FA48: Equihopper di scacchi bianco
+1FA49: Equihopper di scacchi nero
+1FA4A: Equihopper di scacchi neutro
+1FA4B: Equihopper di scacchi bianco ruotato di novanta gradi
+1FA4C: L'equihopper di scacchi nero ruotava di novanta gradi
+1FA4D: L'equihopper di scacchi neutro ruotava di novanta gradi
+1FA4E: Cavaliere bianco regina degli scacchi
+1FA4F: Cavaliere bianco torre di scacchi
+1FA50: Cavaliere-vescovo di scacchi bianco
+1FA51: Cavaliere nero regina degli scacchi
+1FA52: Cavaliere nero torre di scacchi
+1FA53: Cavaliere-vescovo di scacchi nero
 1FA54:
 1FA55:
 1FA56:
@@ -110,109 +110,109 @@
 1FA6D: Xiangqi Black Soldier
 1FA6E:
 1FA6F:
-1FA70:
-1FA71:
-1FA72:
-1FA73:
-1FA74:
-1FA75:
-1FA76:
-1FA77:
-1FA78:
-1FA79:
-1FA7A:
-1FA7B:
-1FA7C:
-1FA7D:
-1FA7E:
-1FA7F:
-1FA80:
-1FA81:
-1FA82:
-1FA83:
-1FA84:
-1FA85:
-1FA86:
-1FA87:
-1FA88:
-1FA89:
-1FA8A:
-1FA8B:
-1FA8C:
-1FA8D:
-1FA8E:
-1FA8F:
-1FA90:
-1FA91:
-1FA92:
-1FA93:
-1FA94:
-1FA95:
-1FA96:
-1FA97:
-1FA98:
-1FA99:
-1FA9A:
-1FA9B:
-1FA9C:
-1FA9D:
-1FA9E:
-1FA9F:
-1FAA0:
-1FAA1:
-1FAA2:
-1FAA3:
-1FAA4:
-1FAA5:
-1FAA6:
-1FAA7:
-1FAA8:
-1FAA9:
-1FAAA:
-1FAAB:
-1FAAC:
-1FAAD:
-1FAAE:
-1FAAF:
-1FAB0:
-1FAB1:
-1FAB2:
-1FAB3:
-1FAB4:
-1FAB5:
-1FAB6:
-1FAB7:
-1FAB8:
-1FAB9:
-1FABA:
-1FABB:
-1FABC:
-1FABD:
-1FABE:
-1FABF:
-1FAC0:
-1FAC1:
-1FAC2:
-1FAC3:
-1FAC4:
-1FAC5:
-1FAC6:
-1FAC7:
-1FAC8:
-1FAC9:
-1FACA:
-1FACB:
-1FACC:
-1FACD:
-1FACE:
-1FACF:
-1FAD0:
-1FAD1:
-1FAD2:
-1FAD3:
-1FAD4:
-1FAD5:
-1FAD6:
+1FA70: Scarpe da balletto
+1FA71: Costume intero
+1FA72: Slip
+1FA73: Pantaloncini
+1FA74: Sandalo infradito
+1FA75: 
+1FA76: 
+1FA77: 
+1FA78: Goccia di sangue
+1FA79: Benda adesiva
+1FA7A: Stetoscopio
+1FA7B: 
+1FA7C: 
+1FA7D: 
+1FA7E: 
+1FA7F: 
+1FA80: Iò-iò
+1FA81: Aquilone
+1FA82: Paracadute
+1FA83: bumerang
+1FA84: bacchetta magica
+1FA85: Pinata
+1FA86: Bambole di nidificazione
+1FA87: 
+1FA88: 
+1FA89: 
+1FA8A: 
+1FA8B: 
+1FA8C: 
+1FA8D: 
+1FA8E: 
+1FA8F: 
+1FA90: Pianeta inanellato
+1FA91: Sedia
+1FA92: Rasoio
+1FA93: Ascia
+1FA94: Lampada Diya
+1FA95: bangio
+1FA96: Elmetto militare
+1FA97: Fisarmonica
+1FA98: Tamburo lungo
+1FA99: Moneta
+1FA9A: Sega per carpenteria
+1FA9B: Cacciavite
+1FA9C: Scala
+1FA9D: gancio
+1FA9E: Specchio
+1FA9F: Finestra
+1FAA0: tuffatore
+1FAA1: Ago da cucito
+1FAA2: Nodo
+1FAA3: Secchio
+1FAA4: Trappola per topi
+1FAA5: Spazzolino
+1FAA6: pietra tombale
+1FAA7: cartellone
+1FAA8: Roccia
+1FAA9: 
+1FAAA: 
+1FAAB: 
+1FAAC: 
+1FAAD: 
+1FAAE: 
+1FAAF: 
+1FAB0: Volare
+1FAB1: verme
+1FAB2: scarafaggio
+1FAB3: Scarafaggio
+1FAB4: Pianta in vaso
+1FAB5: Legna
+1FAB6: Piuma
+1FAB7: 
+1FAB8: 
+1FAB9: 
+1FABA: 
+1FABB: 
+1FABC: 
+1FABD: 
+1FABE: 
+1FABF: 
+1FAC0: Cuore anatomico
+1FAC1: polmoni
+1FAC2: La gente abbraccia
+1FAC3: 
+1FAC4: 
+1FAC5: 
+1FAC6: 
+1FAC7: 
+1FAC8: 
+1FAC9: 
+1FACA: 
+1FACB: 
+1FACC: 
+1FACD: 
+1FACE: 
+1FACF: 
+1FAD0: mirtilli
+1FAD1: Peperone
+1FAD2: Oliva
+1FAD3: Flatbread
+1FAD4: Tamale
+1FAD5: Fonduta
+1FAD6: Teiera
 1FAD7:
 1FAD8:
 1FAD9:
@@ -253,4 +253,4 @@
 1FAFC:
 1FAFD:
 1FAFE:
-1FAFF:
+1FAFF:

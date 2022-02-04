@@ -2,10 +2,10 @@
 1F001: Mahjong Tile South Wind
 1F002: Mahjong Tile West Wind
 1F003: Mahjong Tile North Wind
-1F004: Mahjong Tile Red Dragon : hongzhong
-1F005: Mahjong Tile Green Dragon : qingfa
-1F006: Mahjong Tile White Dragon : baiban
-1F007: Mahjong Tile One of Characters : wan
+1F004: Mahjong Tile Red Dragon: hongzhong
+1F005: Mahjong Tile Green Dragon: qingfa
+1F006: Mahjong Tile White Dragon: baiban
+1F007: Mahjong Tile One of Characters: wan
 1F008: Mahjong Tile Two of Characters
 1F009: Mahjong Tile Three of Characters
 1F00A: Mahjong Tile Four of Characters
@@ -14,7 +14,7 @@
 1F00D: Mahjong Tile Seven of Characters
 1F00E: Mahjong Tile Eight of Characters
 1F00F: Mahjong Tile Nine of Characters
-1F010: Mahjong Tile One of Bamboos : tiao
+1F010: Mahjong Tile One of Bamboos: tiao
 1F011: Mahjong Tile Two of Bamboos
 1F012: Mahjong Tile Three of Bamboos
 1F013: Mahjong Tile Four of Bamboos
@@ -23,7 +23,7 @@
 1F016: Mahjong Tile Seven of Bamboos
 1F017: Mahjong Tile Eight of Bamboos
 1F018: Mahjong Tile Nine of Bamboos
-1F019: Mahjong Tile One of Circles : bing
+1F019: Mahjong Tile One of Circles: bing
 1F01A: Mahjong Tile Two of Circles
 1F01B: Mahjong Tile Three of Circles
 1F01C: Mahjong Tile Four of Circles
@@ -32,15 +32,15 @@
 1F01F: Mahjong Tile Seven of Circles
 1F020: Mahjong Tile Eight of Circles
 1F021: Mahjong Tile Nine of Circles
-1F022: Mahjong Tile Plum : mei
-1F023: Mahjong Tile Orchid : lan
-1F024: Mahjong Tile Bamboo : zhu
-1F025: Mahjong Tile Chrysanthemum : ju
+1F022: Mahjong Tile Plum: mei
+1F023: Mahjong Tile Orchid: lan
+1F024: Mahjong Tile Bamboo: zhu
+1F025: Mahjong Tile Chrysanthemum: ju
 1F026: Mahjong Tile Spring
 1F027: Mahjong Tile Summer
 1F028: Mahjong Tile Autumn
 1F029: Mahjong Tile Winter
-1F02A: Mahjong Tile Joker : baida
+1F02A: Mahjong Tile Joker: baida
 1F02B: Mahjong Tile Back
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Playing Card Eight of Spades
 1F0A9: Playing Card Nine of Spades
 1F0AA: Playing Card Ten of Spades
-1F0AB: Playing Card Jack of Spades : valet, bube, unter, page, fante : page of swords
-1F0AC: Playing Card Knight of Spades : chevalier, ober, ritter, cavall, cavaliere : knight of swords
-1F0AD: Playing Card Queen of Spades : dame, dame, königin, regina : queen of swords
-1F0AE: Playing Card King of Spades : roi, könig, re : king of swords
+1F0AB: Playing Card Jack of Spades: valet, bube, unter, page, fante , page of swords
+1F0AC: Playing Card Knight of Spades: chevalier, ober, ritter, cavall, cavaliere , knight of swords
+1F0AD: Playing Card Queen of Spades: dame, dame, königin, regina , queen of swords
+1F0AE: Playing Card King of Spades: roi, könig, re , king of swords
 1F0AF:
 1F0B0:
 1F0B1: Playing Card Ace of Hearts

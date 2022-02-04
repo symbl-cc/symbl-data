@@ -35,7 +35,7 @@
 3122: Bopomofo levél An
 3123: Bopomofo levél En
 3124: Bopomofo levél Ang
-3125: Bopomofo Letter Eng
+3125: Bopomofo betű Eng
 3126: Bopomofo levél Er
 3127: Bopomofo levél I.
 3128: Bopomofo levél U
@@ -43,7 +43,7 @@
 312A: Bopomofo V betű
 312B: Bopomofo levél Ng
 312C: Bopomofo levél Gn
-312D: Bopomofo Letter Ih
+312D: Bopomofo betű Ih
 312E: Bopomofo betű O pont felett
 312F: Bopomofo levél Nn
 3130:
@@ -64,16 +64,16 @@
 313F: Hangul levél Rieul-Phieuph
 3140: Hangul levél Rieul-Hieuh
 3141: Hangul levél Mieum
-3142: Hangul Letter Pieup
+3142: Hangul betű Pieup
 3143: Hangul levél Ssangpieup
 3144: Hangul levél Pieup-Sios
-3145: Hangul Letter Sios
-3146: Hangul Letter Ssangsios
-3147: Hangul Letter Ieung
+3145: Hangul betű Sios
+3146: Hangul betű Ssangsios
+3147: Hangul betű Ieung
 3148: Hangul levél Cieuc
 3149: Hangul levél Ssangcieuc
 314A: Hangul levél Chieuch
-314B: Hangul Letter Khieukh
+314B: Hangul betű Khieukh
 314C: Hangul levél Thieuth
 314D: Hangul levél Phieuph
 314E: Hangul levél Hieuh
@@ -88,7 +88,7 @@
 3157: Hangul levél O
 3158: Hangul levél Wa
 3159: Hangul levél Wae
-315A: Hangul Letter Oe
+315A: Hangul betű Oe
 315B: Hangul levél Yo
 315C: Hangul L betű
 315D: Hangul levél Weo
@@ -98,7 +98,7 @@
 3161: Hangul levél Eu
 3162: Hangul levél Yi
 3163: Hangul I. levél
-3164: Hangul Filler : chaeum
+3164: Hangul Filler: chaeum
 3165: Hangul levél Ssangnieun
 3166: Hangul levél Nieun-Tikeut
 3167: Hangul levél Nieun-Sios
@@ -121,17 +121,17 @@
 3178: Hangul levél Kapyeounpieup
 3179: Hangul levél Kapyeounssangpieup
 317A: Hangul levél Sios-Kiyeok
-317B: Hangul Letter Sios-Nieun
+317B: Hangul betű Sios-Nieun
 317C: Hangul levél Sios-Tikeut
-317D: Hangul Letter Sios-Pieup
+317D: Hangul betű Sios-Pieup
 317E: Hangul levél Sios-Cieuc
-317F: Hangul Letter Pansios
-3180: Hangul Letter Ssangieung : ssangyesieung
+317F: Hangul betű Pansios
+3180: Hangul betű Ssangieung: ssangyesieung
 3181: Hangul levél Yesieung
 3182: Hangul levél Yesieung-Sios
 3183: Hangul levél Yesieung-Pansios
 3184: Hangul levél Kapyeounphieuph
-3185: Hangul Letter Ssanghieuh
+3185: Hangul betű Ssanghieuh
 3186: Hangul levél Yeorinhieuh
 3187: Hangul levél Yo-Ya
 3188: Hangul levél Yo-Yae
@@ -139,11 +139,11 @@
 318A: Hangul levél Yu-Yeo
 318B: Hangul levél Yu-Ye
 318C: Hangul levél Yu-I
-318D: Hangul Letter Araea
+318D: Hangul betű Araea
 318E: Hangul levél Araeae
 318F:
-3190: Ideográfiai megjegyzések összekötő jel : tateten
-3191: Ideográfiai megjegyzések Reverse Mark : kaeriten re
+3190: Ideográfiai megjegyzések összekötő jel: tateten
+3191: Ideográfiai megjegyzések Reverse Mark: kaeriten re
 3192: Ideográfiai megjegyzések Egy jel
 3193: Ideográfiai megjegyzések Két jel
 3194: Ideográfiai megjegyzések Három jel
@@ -160,15 +160,15 @@
 319F: Ideográfiai megjegyzések Man Mark
 31A0: Bopomofo levél Bu
 31A1: Bopomofo levél Zi
-31A2: Bopomofo Letter Ji
+31A2: Bopomofo betű Ji
 31A3: Bopomofo levél Gu
 31A4: Bopomofo levél Ee
 31A5: Bopomofo levél Enn
 31A6: Bopomofo levél Oo
-31A7: Bopomofo Letter Onn
+31A7: Bopomofo betű Onn
 31A8: Bopomofo levél Ir
-31A9: Bopomofo Letter Ann
-31AA: Bopomofo Letter Inn
+31A9: Bopomofo betű Ann
+31AA: Bopomofo betű Inn
 31AB: Bopomofo levél Unn
 31AC: Bopomofo levél Im
 31AD: Bopomofo levél Ngg
@@ -177,7 +177,7 @@
 31B0: Bopomofo levél Am
 31B1: Bopomofo levél Om
 31B2: Bopomofo levél Ong
-31B3: Bopomofo Letter Innn
+31B3: Bopomofo betű Innn
 31B4: Bopomofo végleges P betű
 31B5: Bopomofo végső levél T
 31B6: Bopomofo végső levele K
@@ -185,11 +185,11 @@
 31B8: Bopomofo levél Gh
 31B9: Bopomofo levél Lh
 31BA: Bopomofo levél Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31BB: Bopomofo végső betű G
+31BC: Bopomofo betű Gw
+31BD: Bopomofo betű Kw
+31BE: Bopomofo betű Oe
+31BF: Bopomofo betű Ah
 31C0: Cjk Stroke T
 31C1: Cjk Stroke Wg
 31C2: Cjk Stroke Xg
@@ -238,19 +238,19 @@
 31ED:
 31EE:
 31EF:
-31F0: Katakana Letter Small Ku
+31F0: Katakana betű Small Ku
 31F1: Katakana levél kis Si
 31F2: Katakana levél kis Su
 31F3: Katakana kis levél
 31F4: Katakana levél kis Nu
 31F5: Katakana levél kis ha
-31F6: Katakana Letter Small Hi
-31F7: Katakana Letter Small Hu
+31F6: Katakana betű Small Hi
+31F7: Katakana betű Small Hu
 31F8: Katakana kis levél
-31F9: Katakana Letter Small Ho
+31F9: Katakana betű Small Ho
 31FA: Katakana kis levél Mu
-31FB: Katakana Letter Small Ra
+31FB: Katakana betű Small Ra
 31FC: Katakana levél kis Ri
 31FD: Katakana levél kis Ru
-31FE: Katakana Letter Small Re
+31FE: Katakana betű Small Re
 31FF: Katakana levél kis Ro

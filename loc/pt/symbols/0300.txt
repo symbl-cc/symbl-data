@@ -1,24 +1,24 @@
-0300: Combinando sotaque grave : varia grego
-0301: Combinando acento agudo : marca de estresse : oxia grega, tonos
-0302: Combinando o acento circunflexo : chapéu
+0300: Combinando sotaque grave: varia grego
+0301: Combinando acento agudo: marca de estresse , oxia grega, tonos
+0302: Combinando o acento circunflexo: chapéu
 0303: Combinando Tilde
-0304: Combinando Macron : longo
-0305: Combinando Overline : overscore, vínculo
-0306: Combinando Breve : baixo : vrachy grego
-0307: Combinando Dot Acima : derivado (notação newtoniana)
-0308: Combinando Diaeresis : ponto duplo acima, trema : grego dialytika : derivado duplo
-0309: Combinando Gancho Acima : Hoi
+0304: Combinando Macron: longo
+0305: Combinando Overline: overscore, vínculo
+0306: Combinando Breve: baixo , vrachy grego
+0307: Combinando Dot Acima: derivado (notação newtoniana)
+0308: Combinando Diaeresis: ponto duplo acima, trema , grego dialytika , derivado duplo
+0309: Combinando Gancho Acima: Hoi
 030A: Combinando Anel Acima
 030B: Combinando Duplo Acento Agudo
-030C: Combinando Caron : hacek, v acima
+030C: Combinando Caron: hacek, v acima
 030D: Combinando Linha Vertical Acima
 030E: Combinando Linha Vertical Dupla Acima
 030F: Combinando sotaque de sepultura dupla
 0310: Combinando Candrabindu
 0311: Combinando Breve Invertido
-0312: Combinando Virada Virada Acima : cedilha acima
-0313: Combinando Comma Acima : psili grego, marca de respiração suave
-0314: Combinando a vírgula invertida acima : dasia grega, marca de respiração áspera
+0312: Combinando Virada Virada Acima: cedilha acima
+0313: Combinando Comma Acima: psili grego, marca de respiração suave
+0314: Combinando a vírgula invertida acima: dasia grega, marca de respiração áspera
 0315: Combinando Vírgula Acima Direita
 0316: Combinando sotaque grave abaixo
 0317: Combinando acento agudo abaixo
@@ -33,12 +33,12 @@
 0320: Combinando o sinal de menos abaixo
 0321: Combinando Gancho Palatinado Abaixo
 0322: Combinando Gancho Retroflex Abaixo
-0323: Combinando Dot Below : dentro
+0323: Combinando Dot Below: dentro
 0324: Combinando Diaeresis Abaixo
 0325: Combinando o Anel Abaixo
 0326: Combinando Comma Abaixo
 0327: Combinando Cedilla
-0328: Combinando Ogonek : gancho nasal
+0328: Combinando Ogonek: gancho nasal
 0329: Combinando Linha Vertical Abaixo
 032A: Combinando Ponte Abaixo
 032B: Combinando Arco Duplo Invertido Abaixo
@@ -48,26 +48,26 @@
 032F: Combinando Breve Invertido Abaixo
 0330: Combinando Tilde Abaixo
 0331: Combinando Macron Abaixo
-0332: Combinando Low Line : sublinhado, sublinhado
-0333: Combinando Double Low Line : sublinhado duplo, sublinhado duplo
+0332: Combinando Low Line: sublinhado, sublinhado
+0333: Combinando Double Low Line: sublinhado duplo, sublinhado duplo
 0334: Combinando Til Overlay
 0335: Combinando Overlay de Traçado Curto
 0336: Combinando Overlay de Longo Curso
-0337: Combinando Sobreposição Curta Solidus : sobreposição de barra curta
-0338: Combinando Long Overlay Solidus Overlay : sobreposição de barra longa
+0337: Combinando Sobreposição Curta Solidus: sobreposição de barra curta
+0338: Combinando Long Overlay Solidus Overlay: sobreposição de barra longa
 0339: Combinando o Anel Metade Direito Abaixo
 033A: Combinando Ponte Invertida Abaixo
 033B: Combinando Quadrado Abaixo
 033C: Combinando Gaivota Abaixo
 033D: Combinando X Acima
-033E: Combinando o Vertical Tilde : yerik
+033E: Combinando o Vertical Tilde: yerik
 033F: Combinando Double Overline
 0340: Combinando Grave Tone Mark
 0341: Combinação de marca de tom agudo
 0342: Combinando Perispomeni Grego
 0343: Combinando Koronis Gregos
 0344: Combinando Grego Dialytika Tonos
-0345: Combinando Ypogegrammeni grego : espaçamento iota grego não espaçante abaixo : iota subscrito
+0345: Combinando Ypogegrammeni grego: espaçamento iota grego não espaçante abaixo , iota subscrito
 0346: Combinando Ponte Acima
 0347: Combinando Equals Sign Below
 0348: Combinando Linha Vertical Dupla Abaixo
@@ -90,12 +90,12 @@
 0359: Combinando Asterisco Abaixo
 035A: Combinando Anel Duplo Abaixo
 035B: Combinando Zigzag Acima
-035C: Combinando Breve Duplo Abaixo : gravata de ligadura abaixo, hífen papirológico
+035C: Combinando Breve Duplo Abaixo: gravata de ligadura abaixo, hífen papirológico
 035D: Combinando Double Breve
 035E: Combinando Macron Duplo
 035F: Combinando Macron Duplo Abaixo
 0360: Combinando Duplo Til
-0361: Combinando Breve Duplo Invertido : laço de ligadura
+0361: Combinando Breve Duplo Invertido: laço de ligadura
 0362: Combinando a seta dupla para a direita abaixo
 0363: Combinando Latin Small Letter A
 0364: Combinando Latin Small Letter E
@@ -114,17 +114,17 @@
 0371: Letra pequena grego Heta
 0372: Letra maiúscula grega Sampi arcaico
 0373: Letra Pequena Grega Sampi Arcaico
-0374: Sinal numeral grego : dexia keraia
-0375: Sinal Numeral Inferior Grego : aristeri keraia
+0374: Sinal numeral grego: dexia keraia
+0375: Sinal Numeral Inferior Grego: aristeri keraia
 0376: Letra maiúscula grega Pamphylian Digamma
 0377: Letra Pequena Grega Pamphylian Digamma
 0378:
 0379:
-037A: Ypogegrammeni grego : iota subscrito
+037A: Ypogegrammeni grego: iota subscrito
 037B: Símbolo de Sigma Lunático Invertido Pequeno Grego
 037C: Símbolo de Sigma Lunate pontilhado pequeno grego
 037D: Símbolo Sigma Lunado Pontilhado Reverso Pequeno Grego
-037E: Ponto de interrogação grego : erotimatiko
+037E: Ponto de interrogação grego: erotimatiko
 037F: Letra maiúscula grega Yot
 0380:
 0381:
@@ -145,13 +145,13 @@
 0390: Carta Pequena Grega Iota com Dialytika e Tonos
 0391: Letra maiúscula grega alfa
 0392: Letra maiúscula grega beta
-0393: Carta grega da capital : função gama
+0393: Carta grega da capital: função gama
 0394: Delta da Carta da Grécia
 0395: Letra da capital grega Epsilon
 0396: Letra maiúscula grega Zeta
 0397: Letra maiúscula grega Eta
 0398: Letra maiúscula grega teta
-0399: Letra maiúscula grega Iota : iota adscript
+0399: Letra maiúscula grega Iota: iota adscript
 039A: Letra maiúscula grega Kappa
 039B: Letra maiúscula grega Lamda
 039C: Letra maiúscula grega Mu
@@ -185,14 +185,14 @@
 03B8: Letra pequena grega Theta
 03B9: Carta Pequena Grega Iota
 03BA: Letra pequena grega Kappa
-03BB: Letra Pequena Grega Lamda : lambda
+03BB: Letra Pequena Grega Lamda: lambda
 03BC: Letra Pequena Grega Mu
 03BD: Letra minúscula grega Nu
 03BE: Letra Pequena Grega Xi
 03BF: Letra Pequena Grega Omicron
 03C0: Carta Pequena Grega Pi
 03C1: Carta Pequena Grega Rho
-03C2: Letra Pequena Grega Final Sigma : estigma (o nome grego moderno para esta forma de letra)
+03C2: Letra Pequena Grega Final Sigma: estigma (o nome grego moderno para esta forma de letra)
 03C3: Letra pequena sigma grego
 03C4: Carta Pequena Grega Tau
 03C5: Letra Pequena Grega Upsilon
@@ -206,13 +206,13 @@
 03CD: Letra minúscula grega Upsilon com Tonos
 03CE: Carta Pequena Grega Omega com Tonos
 03CF: Símbolo grego Kai Capital
-03D0: Símbolo Beta Grego : beta enrolado
-03D1: Símbolo grego de teta : roteiro theta
+03D0: Símbolo Beta Grego: beta enrolado
+03D1: Símbolo grego de teta: roteiro theta
 03D2: Upsilon grego com símbolo de gancho
 03D3: Upsilon grego com símbolo agudo e gancho
 03D4: Upsilon grego com Diaeresis e símbolo de gancho
 03D5: Símbolo Phi Grego
-03D6: Símbolo grego pi : ômega pi
+03D6: Símbolo grego pi: ômega pi
 03D7: Símbolo grego Kai
 03D8: Letra grega Koppa arcaico
 03D9: Letra minúscula grega Koppa arcaico
@@ -238,19 +238,19 @@
 03ED: Letra pequena copta Shima
 03EE: Carta capital copta Dei
 03EF: Copta pequena letra Dei
-03F0: Símbolo Kappa Grego : roteiro kappa
-03F1: Símbolo grego de Rho : rho de cauda
-03F2: Símbolo Sigma Lunático Grego : letra pequena grega lunar sigma
+03F0: Símbolo Kappa Grego: roteiro kappa
+03F1: Símbolo grego de Rho: rho de cauda
+03F2: Símbolo Sigma Lunático Grego: letra pequena grega lunar sigma
 03F3: Letra grega Yot
 03F4: Símbolo Theta de capital grega
-03F5: Símbolo de Epsilon Lunar grego : epsilon reto
-03F6: Símbolo de Epsilon Lunar Invertido Grego : Epsilon reto invertido
+03F5: Símbolo de Epsilon Lunar grego: epsilon reto
+03F6: Símbolo de Epsilon Lunar Invertido Grego: Epsilon reto invertido
 03F7: Letra da capital grega
 03F8: Letra Pequena Grega Sho
 03F9: Símbolo Sigma Lunático Capital Grego
 03FA: Letra maiúscula grega San
 03FB: Letra pequena grego San
 03FC: Rho grego com símbolo de acidente vascular cerebral
-03FD: Capital grega inverteu símbolo Sigma Lunate : antissigma
-03FE: Símbolo do Sigma Lunático Pontilhado da Capital Grega : sigma periestigmenon
-03FF: Capital grega invertida pontilhada símbolo Sigma Lunate : antisigma periestigmenon
+03FD: Capital grega inverteu símbolo Sigma Lunate: antissigma
+03FE: Símbolo do Sigma Lunático Pontilhado da Capital Grega: sigma periestigmenon
+03FF: Capital grega invertida pontilhada símbolo Sigma Lunate: antisigma periestigmenon

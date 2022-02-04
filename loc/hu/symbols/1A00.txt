@@ -106,7 +106,7 @@
 1A69: Tai Tham Vowel Sign U
 1A6A: Tai Tham Vowel Sign Uu
 1A6B: Tai Tham Vowel Sign O
-1A6C: Tai Tham Vowel Sign Oa Below
+1A6C: Tai Tham Vowel Sign Oa lent
 1A6D: Tai Tham Vowel Sign Oy
 1A6E: Tai Tham Vowel Sign E
 1A6F: Tai Tham Vowel Sign Ae
@@ -125,7 +125,7 @@
 1A7C: Tai Tham Sign Khuen-Lue Karan
 1A7D:
 1A7E:
-1A7F: Tai Tham Combining Cryptogrammic Dot
+1A7F: Tai Tham Kombinált Cryptogrammic Dot
 1A80: Tai Tham Hora Digit Zero
 1A81: Tai Tham Hora Digit One
 1A82: Tai Tham Hora Digit Two
@@ -161,9 +161,9 @@
 1AA0: Tai Tham Sign Wiang
 1AA1: Tai Tham Sign Wiangwaak
 1AA2: Tai Tham Sign Sawan
-1AA3: Tai Tham Sign Keow : courtyard
-1AA4: Tai Tham Sign Hoy : oyster
-1AA5: Tai Tham Sign Dokmai : flower
+1AA3: Tai Tham Sign Keow: courtyard
+1AA4: Tai Tham Sign Hoy: oyster
+1AA5: Tai Tham Sign Dokmai: flower
 1AA6: Tai Tham Sign Reversed Rotated Rana
 1AA7: Tai Tham Sign Mai Yamok
 1AA8: Tai Tham Sign Kaan
@@ -174,23 +174,23 @@
 1AAD: Tai Tham Sign Caang
 1AAE:
 1AAF:
-1AB0: Combining Doubled Circumflex Accent
-1AB1: Combining Diaeresis-Ring
-1AB2: Combining Infinity
-1AB3: Combining Downwards Arrow
-1AB4: Combining Triple Dot
-1AB5: Combining X-X Below
-1AB6: Combining Wiggly Line Below
-1AB7: Combining Open Mark Below
-1AB8: Combining Double Open Mark Below
-1AB9: Combining Light Centralization Stroke Below
-1ABA: Combining Strong Centralization Stroke Below
-1ABB: Combining Parentheses Above
-1ABC: Combining Double Parentheses Above
-1ABD: Combining Parentheses Below
-1ABE: Combining Parentheses Overlay
-1ABF:
-1AC0:
+1AB0: Kombinált Doubled Circumflex Accent
+1AB1: Kombinált Diaeresis-Ring
+1AB2: Kombinált Infinity
+1AB3: Kombinált Downwards Arrow
+1AB4: Kombinált Triple Dot
+1AB5: Kombinált X-X lent
+1AB6: Kombinált Wiggly Line lent
+1AB7: Kombinált Open Mark lent
+1AB8: Kombinált Double Open Mark lent
+1AB9: Kombinált Light Centralization Stroke lent
+1ABA: Kombinált Strong Centralization Stroke lent
+1ABB: Kombinált Parentheses Above
+1ABC: Kombinált Double Parentheses Above
+1ABD: Kombinált Parentheses lent
+1ABE: Kombinált Parentheses Overlay
+1ABF: Kombinált latin kis betű W lent
+1AC0: Kombinált latin kis betű fordult W lent
 1AC1:
 1AC2:
 1AC3:

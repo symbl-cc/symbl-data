@@ -1,4 +1,9 @@
 meta-description: Servizio web di ricerca dei caratteri Unicode. Trova e copia i tuoi personaggi preferiti: 😎 Emoji, ▶ ️ Frecce, ✪ Stelle, 💲 Valute, 🈂️ Sistemi di scrittura e altro 🚩
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Nome del personaggio: {{name}}, Numero Unicode per il segno: {{code}}, l'icona è inclusa nel blocco: {{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
+
+
+seo-symbol: simbolo
 
 emoji: emoji
 copy: copia

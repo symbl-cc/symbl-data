@@ -1,15 +1,18 @@
 : Instrumente
 
-[encoder]: Codificare
+toolsListTitle: Încercați și alte instrumente
+
+[encoder]: Codificator HTML
 
 desc: Codificare caractere în cod HTML și invers
 plain: Text brut
-full: Complet
-text: Text
+full: HTML
+text: HTML și text
 entities: Codificarea caracterelor cu entități
 br: Codificare sfârșit de rând
+result: Rezultat
 
-[decoder]: Decodificare
+[decoder]: Decodor Unicode
 
 desc: Codificare caractere în format Unicode sau decodificare
 example: Acesta este un exemplu
@@ -22,6 +25,7 @@ desc: Inversare caractere chirilice si latine cu susul în jos sau invers
 plain: Text brut
 flipped: Text inversat
 backed: Înapoi la textul inițial
+result: Rezultat
 
 [generator]: Generator de tabel de caractere Unicode
 
@@ -31,3 +35,102 @@ format: Format
 info: Disponibil: {symbol}, {dec}, {hex}, {html}
 generate: Generează
 result: Rezultat
+
+[strikethrough-text]: Textul tăiat
+
+h1: Textul tăiat
+desc: Textul tăiat
+text: Text
+example: Acesta este un exemplu
+
+strikethroughText: Textul tăiat
+crossed: Subliniat
+dotted: Linie punctata
+slash: Simbol bară oblică
+doubleunderline: Subliniere dublă
+waveline: Linie val
+ciphertext: Text cifrat
+fullyshaded: Text umbrit
+strikethroughSlash: Simbol bară oblică mare
+
+[register-converter]: Convertor De Text
+h1: Convertor De Text
+desc: Conversia fiecare literă a cuvântului
+text: Text
+example: Acesta este un exemplu
+
+uppercase: MAJUSCULE
+lowercase: minuscule
+inversioncase: iNVERSIUNE
+randomcase: aLeaTORIe
+alternatingcase: aLtErNâNd
+capitalizedcase: Toate Cuvintele Cu Majusculă
+
+[word-counter]: Contor de caractere
+h1: Contor de caractere
+desc: Numărarea caracterelor în text
+
+placeholder: Insert text ...
+symbols: Total de caractere
+without-spaces: Fără spații
+no-punctuation-marks: Fără semne de punctuație
+words: Total cuvinte
+average-amount: Numărul mediu de cuvinte dintr-o propoziție
+long-word: Cel mai lung cuvânt
+
+[braille]: Translator Braille
+h1: Traducător Braille
+desc: Conversia textului în Braille
+
+[gothic]: Convertor de Text în stil gotic
+h1: Convertor de Text în stil gotic
+desc: Scrierea textului în font gotic
+
+text: Text (latină)
+example: Gothic
+regularText: Gotic
+boldText: Gotic bold
+
+result: Rezultat
+
+[morse]: Convertor text în cod Morse
+h1: Convertor text în cod Morse
+desc: Convertește textul și decodifică codul Morse
+
+example: Acesta este un exemplu
+code: Codul Morse
+latin: Latină
+numbers: Numerele
+punctuation: Punctuaţie
+
+titleAlphabet: Alfabetul cod morse
+
+result: Rezultat
+
+[password-generator]: Generator de parolă
+h1: Generator de parolă
+desc: Cum se generează o parolă puternică
+
+uppercase: Litere mari (A-Z)
+lowercase: Litere mici (a-z)
+numbers: Numere (0-9)
+special: Caractere speciale (!@#$%^&*)
+
+maxLength: сaractere (4-99)
+generate: Genera
+warning: Vă rugăm să selectați cel puțin un set de caractere pentru a vă crea parola
+
+
+[text-to-symbols]: Text din simboluri
+h1: Scrieți text cu simboluri
+desc: Как написать текст символами
+
+text: Text (latină)
+example: Exemplu
+
+blank: Litere goale
+filled: Litere pictate
+background: Litere cu fundal
+symbol-dolar: Litere din simbolul $
+symbol-lattice: Litere din simbolul #
+symbol-paragraph: Litere din simbolul ¶

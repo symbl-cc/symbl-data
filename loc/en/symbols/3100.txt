@@ -98,7 +98,7 @@
 3161: Hangul Letter Eu
 3162: Hangul Letter Yi
 3163: Hangul Letter I
-3164: Hangul Filler : chaeum
+3164: Hangul Filler: chaeum
 3165: Hangul Letter Ssangnieun
 3166: Hangul Letter Nieun-Tikeut
 3167: Hangul Letter Nieun-Sios
@@ -126,7 +126,7 @@
 317D: Hangul Letter Sios-Pieup
 317E: Hangul Letter Sios-Cieuc
 317F: Hangul Letter Pansios
-3180: Hangul Letter Ssangieung : ssangyesieung
+3180: Hangul Letter Ssangieung: ssangyesieung
 3181: Hangul Letter Yesieung
 3182: Hangul Letter Yesieung-Sios
 3183: Hangul Letter Yesieung-Pansios
@@ -142,8 +142,8 @@
 318D: Hangul Letter Araea
 318E: Hangul Letter Araeae
 318F:
-3190: Ideographic Annotation Linking Mark : tateten
-3191: Ideographic Annotation Reverse Mark : kaeriten re
+3190: Ideographic Annotation Linking Mark: tateten
+3191: Ideographic Annotation Reverse Mark: kaeriten re
 3192: Ideographic Annotation One Mark
 3193: Ideographic Annotation Two Mark
 3194: Ideographic Annotation Three Mark
@@ -185,47 +185,47 @@
 31B8: Bopomofo Letter Gh
 31B9: Bopomofo Letter Lh
 31BA: Bopomofo Letter Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
-31C0: Cjk Stroke T
-31C1: Cjk Stroke Wg
-31C2: Cjk Stroke Xg
-31C3: Cjk Stroke Bxg
-31C4: Cjk Stroke Sw
-31C5: Cjk Stroke Hzz
-31C6: Cjk Stroke Hzg
-31C7: Cjk Stroke Hp
-31C8: Cjk Stroke Hzwg
-31C9: Cjk Stroke Szwg
-31CA: Cjk Stroke Hzt
-31CB: Cjk Stroke Hzzp
-31CC: Cjk Stroke Hpwg
-31CD: Cjk Stroke Hzw
-31CE: Cjk Stroke Hzzz
-31CF: Cjk Stroke N
-31D0: Cjk Stroke H
-31D1: Cjk Stroke S
-31D2: Cjk Stroke P
-31D3: Cjk Stroke Sp
-31D4: Cjk Stroke D
-31D5: Cjk Stroke Hz
-31D6: Cjk Stroke Hg
-31D7: Cjk Stroke Sz
-31D8: Cjk Stroke Swz
-31D9: Cjk Stroke St
-31DA: Cjk Stroke Sg
-31DB: Cjk Stroke Pd
-31DC: Cjk Stroke Pz
-31DD: Cjk Stroke Tn
-31DE: Cjk Stroke Szz
-31DF: Cjk Stroke Swg
-31E0: Cjk Stroke Hxwg
-31E1: Cjk Stroke Hzzzg
-31E2: Cjk Stroke Pg
-31E3: Cjk Stroke Q
+31BB: Bopomofo Final Letter G
+31BC: Bopomofo Letter Gw
+31BD: Bopomofo Letter Kw
+31BE: Bopomofo Letter Oe
+31BF: Bopomofo Letter Ah
+31C0: CJK Stroke T
+31C1: CJK Stroke Wg
+31C2: CJK Stroke Xg
+31C3: CJK Stroke Bxg
+31C4: CJK Stroke Sw
+31C5: CJK Stroke Hzz
+31C6: CJK Stroke Hzg
+31C7: CJK Stroke Hp
+31C8: CJK Stroke Hzwg
+31C9: CJK Stroke Szwg
+31CA: CJK Stroke Hzt
+31CB: CJK Stroke Hzzp
+31CC: CJK Stroke Hpwg
+31CD: CJK Stroke Hzw
+31CE: CJK Stroke Hzzz
+31CF: CJK Stroke N
+31D0: CJK Stroke H
+31D1: CJK Stroke S
+31D2: CJK Stroke P
+31D3: CJK Stroke Sp
+31D4: CJK Stroke D
+31D5: CJK Stroke Hz
+31D6: CJK Stroke Hg
+31D7: CJK Stroke Sz
+31D8: CJK Stroke Swz
+31D9: CJK Stroke St
+31DA: CJK Stroke Sg
+31DB: CJK Stroke Pd
+31DC: CJK Stroke Pz
+31DD: CJK Stroke Tn
+31DE: CJK Stroke Szz
+31DF: CJK Stroke Swg
+31E0: CJK Stroke Hxwg
+31E1: CJK Stroke Hzzzg
+31E2: CJK Stroke Pg
+31E3: CJK Stroke Q
 31E4:
 31E5:
 31E6:

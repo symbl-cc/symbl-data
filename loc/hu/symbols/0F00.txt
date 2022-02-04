@@ -9,9 +9,9 @@
 0F08: Tibetan Mark Sbrul Shad
 0F09: Tibetan Mark Bskur Yig Mgo
 0F0A: Tibetan Mark Bka- Shog Yig Mgo
-0F0B: Tibetan Mark Intersyllabic Tsheg : tsek
+0F0B: Tibetan Mark Intersyllabic Tsheg: tsek
 0F0C: Tibetan Mark Delimiter Tsheg Bstar
-0F0D: Tibetan Mark Shad : shey
+0F0D: Tibetan Mark Shad: shey
 0F0E: Tibetan Mark Nyis Shad
 0F0F: Tibetan Mark Tsheg Shad
 0F10: Tibetan Mark Nyis Tsheg Shad
@@ -29,7 +29,7 @@
 0F1C: Tibetan Sign Rdel Dkar Gsum
 0F1D: Tibetan Sign Rdel Nag Gcig
 0F1E: Tibetan Sign Rdel Nag Gnyis
-0F1F: Tibetan Sign Rdel Dkar Rdel Nag : deka dena
+0F1F: Tibetan Sign Rdel Dkar Rdel Nag: deka dena
 0F20: Tibetan Digit 0
 0F21: Tibetan Digit 1
 0F22: Tibetan Digit 2
@@ -99,7 +99,7 @@
 0F62: Tibetan betű Ra
 0F63: Tibetan betű La
 0F64: Tibetan betű Sha
-0F65: Tibetan betű Ssa : reversed sha
+0F65: Tibetan betű Ssa: reversed sha
 0F66: Tibetan betű Sa
 0F67: Tibetan betű Ha
 0F68: Tibetan betű A
@@ -111,7 +111,7 @@
 0F6E:
 0F6F:
 0F70:
-0F71: Tibetan Vowel Sign Aa : a-chung
+0F71: Tibetan Vowel Sign Aa: a-chung
 0F72: Tibetan Vowel Sign I
 0F73: Tibetan Vowel Sign Ii
 0F74: Tibetan Vowel Sign U
@@ -124,13 +124,13 @@
 0F7B: Tibetan Vowel Sign Ee
 0F7C: Tibetan Vowel Sign O
 0F7D: Tibetan Vowel Sign Oo
-0F7E: Tibetan Sign Rjes Su Nga Ro : anusvara
-0F7F: Tibetan Sign Rnam Bcad : visarga
+0F7E: Tibetan Sign Rjes Su Nga Ro: anusvara
+0F7F: Tibetan Sign Rnam Bcad: visarga
 0F80: Tibetan Vowel Sign Reversed I
 0F81: Tibetan Vowel Sign Reversed Ii
 0F82: Tibetan Sign Nyi Zla Naa Da
 0F83: Tibetan Sign Sna Ldan
-0F84: Tibetan Mark Halanta : srog med
+0F84: Tibetan Mark Halanta: srog med
 0F85: Tibetan Mark Paluta
 0F86: Tibetan Sign Lci Rtags
 0F87: Tibetan Sign Yang Rtags
@@ -171,15 +171,15 @@
 0FAA: Tibetan Subjoined betű Tsha
 0FAB: Tibetan Subjoined betű Dza
 0FAC: Tibetan Subjoined betű Dzha
-0FAD: Tibetan Subjoined betű Wa : wa-zur, wa-btags (wa ta)
+0FAD: Tibetan Subjoined betű Wa: wa-zur, wa-btags (wa ta)
 0FAE: Tibetan Subjoined betű Zha
 0FAF: Tibetan Subjoined betű Za
-0FB0: Tibetan Subjoined betű -A : a-chung
-0FB1: Tibetan Subjoined betű Ya : ya-btags (ya ta)
-0FB2: Tibetan Subjoined betű Ra : ra-btags (ra ta)
+0FB0: Tibetan Subjoined betű -A: a-chung
+0FB1: Tibetan Subjoined betű Ya: ya-btags (ya ta)
+0FB2: Tibetan Subjoined betű Ra: ra-btags (ra ta)
 0FB3: Tibetan Subjoined betű La
 0FB4: Tibetan Subjoined betű Sha
-0FB5: Tibetan Subjoined betű Ssa : reversed subjoined sha
+0FB5: Tibetan Subjoined betű Ssa: reversed subjoined sha
 0FB6: Tibetan Subjoined betű Sa
 0FB7: Tibetan Subjoined betű Ha
 0FB8: Tibetan Subjoined betű A
@@ -204,17 +204,17 @@
 0FCB: Tibetan Symbol nor Bu Gsum -Khyil
 0FCC: Tibetan Symbol nor Bu Bzhi -Khyil
 0FCD:
-0FCE: Tibetan Sign Rdel Nag Rdel Dkar : dena deka
+0FCE: Tibetan Sign Rdel Nag Rdel Dkar: dena deka
 0FCF: Tibetan Sign Rdel Nag Gsum
 0FD0: Tibetan Mark Bska- Shog Gi Mgo Rgyan
 0FD1: Tibetan Mark Mnyam Yig Gi Mgo Rgyan
-0FD2: Tibetan Mark Nyis Tsheg : nyi tsek
-0FD3: Tibetan Mark Initial Brda Rnying Yig Mgo Mdun Ma : da nying yik go dun ma
-0FD4: Tibetan Mark Closing Brda Rnying Yig Mgo Sgab Ma : da nying yik go kab ma
-0FD5: Right-Facing Svasti Sign : gyung drung nang -khor
-0FD6: Left-Facing Svasti Sign : gyung drung phyi -khor
-0FD7: Right-Facing Svasti Sign with Dots : gyung drung nang -khor bzhi mig can
-0FD8: Left-Facing Svasti Sign with Dots : gyung drung phyi -khor bzhi mig can
+0FD2: Tibetan Mark Nyis Tsheg: nyi tsek
+0FD3: Tibetan Mark Initial Brda Rnying Yig Mgo Mdun Ma: da nying yik go dun ma
+0FD4: Tibetan Mark Closing Brda Rnying Yig Mgo Sgab Ma: da nying yik go kab ma
+0FD5: Right-Facing Svasti Sign: gyung drung nang -khor
+0FD6: Left-Facing Svasti Sign: gyung drung phyi -khor
+0FD7: Right-Facing Svasti Sign with Dots: gyung drung nang -khor bzhi mig can
+0FD8: Left-Facing Svasti Sign with Dots: gyung drung phyi -khor bzhi mig can
 0FD9: Tibetan Mark Leading Mchan Rtags
 0FDA: Tibetan Mark Trailing Mchan Rtags
 0FDB:

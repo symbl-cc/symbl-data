@@ -1,14 +1,28 @@
+alt-code: Altコード
+name: 称号
+symbol: 記号
+html_code: HTMLコード
 entity	: エンティティ
 your-browser	: お使いのブラウザ
 font-view	: 文字の異なるフォントの例
-char-desc	: 文字説明
+char-desc	: 記号の意味
+emoji-desc: 絵文字の意味
+ideograph-desc: 表意文字の意味
+unicode-name: Unicode称号
 unicode-number	: Unicode番号
 html-code	: <span class="caps">HTML</span>コード
+css-code: CSSコード
 uppercase	: 首都
 lowercase	: 小文字
 encoding	: コーディング
 related	: 関連文字
+tech-info: 技術的な案内
 copy: シンボルをコピー＆ペーストする
+copy-code: クリックしてコピー
 copy_button: コピー
 copy_done: コピーされた!
 version: Unicodeバージョン
+sets-with-this-symbol: この記号で設定
+empty-symbol: Unicodeで未定義
+emoji_group: 絵文字のカテゴリ
+emoji_version: 絵文字のバージョン

@@ -78,16 +78,16 @@
 2B4D: Freccia a zig-zag a testa triangolare verso il basso
 2B4E: Freccia Nord inclinata corta
 2B4F: Freccia Sud rivolta verso il basso corta
-2B50: Stella media bianca : Stella gialla
+2B50: Stella media bianca: Stella gialla
 2B51: Stella piccola nera
 2B52: Piccola stella bianca
 2B53: Pentagono nero a destra
 2B54: Pentagono bianco a destra
-2B55: Grande cerchio pesante : Simbolo di base per il limite di velocità, corretto, cerchio rosso, segno del cerchio
-2B56: Ovale pesante con interno ovale : ufficio prefettizio
-2B57: Heavy Circle con Circle Inside : ufficio comunale
-2B58: Heavy Circle : ufficio della città o del villaggio
-2B59: Heavy Circle Saltire : stazione di polizia
+2B55: Grande cerchio pesante: Simbolo di base per il limite di velocità, corretto, cerchio rosso, segno del cerchio
+2B56: Ovale pesante con interno ovale: ufficio prefettizio
+2B57: Heavy Circle con Circle Inside: ufficio comunale
+2B58: Heavy Circle: ufficio della città o del villaggio
+2B59: Heavy Circle Saltire: stazione di polizia
 2B5A: Freccia Nord inclinata con testa uncinata
 2B5B: Freccia Sud rovesciata con coda uncinata
 2B5C: Freccia Nord inclinata con coda orizzontale
@@ -110,20 +110,20 @@
 2B6D: Freccia tratteggiata verso il basso a forma di triangolo
 2B6E: Freccia a cerchio aperto a forma di triangolo
 2B6F: Freccia a cerchio aperto con la testa triangolare in senso antiorario
-2B70: Freccia verso sinistra con freccia a triangolo : scheda sinistra
-2B71: Freccia verso l'alto rivolta verso l'alto : su scheda
-2B72: Freccia a barra rivolta verso destra : scheda destra
-2B73: Freccia verso il basso con la freccia rivolta verso il basso : giù la scheda
+2B70: Freccia verso sinistra con freccia a triangolo: scheda sinistra
+2B71: Freccia verso l'alto rivolta verso l'alto: su scheda
+2B72: Freccia a barra rivolta verso destra: scheda destra
+2B73: Freccia verso il basso con la freccia rivolta verso il basso: giù la scheda
 2B74:
 2B75:
-2B76: Arrow-Bar da puntare a triangolo nord-occidentale : casa
+2B76: Arrow-Bar da puntare a triangolo nord-occidentale: casa
 2B77: Freccia a triangolo con testa a triangolo nord-orientale
-2B78: Freccia a triangolo rivolta a sud-est del triangolo : fine
+2B78: Freccia a triangolo rivolta a sud-est del triangolo: fine
 2B79: Freccia a triangolo rivolta a sud-ovest
 2B7A: Freccia a testa triangolare verso sinistra con doppio tratto orizzontale
-2B7B: Freccia a testa triangolare verso l'alto con doppio tratto orizzontale : pagina su
+2B7B: Freccia a testa triangolare verso l'alto con doppio tratto orizzontale: pagina su
 2B7C: Freccia a testa triangolare rivolta verso destra con doppio tratto orizzontale
-2B7D: Freccia a testa triangolare verso il basso con doppio tratto orizzontale : pagina giù
+2B7D: Freccia a testa triangolare verso il basso con doppio tratto orizzontale: pagina giù
 2B7E: Tasto Tab orizzontale
 2B7F: Tasto Tab verticale
 2B80: Freccia con la testa triangolare rivolta verso sinistra
@@ -146,10 +146,10 @@
 2B91: Ritorno a destra
 2B92: Newline Left
 2B93: Newline Right
-2B94: Quattro frecce d'angolo che circondano in senso antiorario : ciclo continuo
+2B94: Quattro frecce d'angolo che circondano in senso antiorario: ciclo continuo
 2B95: Freccia nera verso destra
 2B96:
-2B97:
+2B97: Simbolo per elettronica di tipo A
 2B98: Arrowhead equilatero sinistro a tre punte
 2B99: Arrowhead equilatero in alto a destra tridimensionale
 2B9A: Freccia a testa tridimensionale con testa a croce tridimensionale
@@ -182,8 +182,8 @@
 2BB5: Ribbon Arrow Right Up
 2BB6: Ribbon Arrow Left Down
 2BB7: Ribbon Arrow Right Down
-2BB8: Freccia bianca verso l'alto dalla barra con barra orizzontale : blocco maiuscole
-2BB9: Freccia in alto in una scatola rettangolare : fuga
+2BB8: Freccia bianca verso l'alto dalla barra con barra orizzontale: blocco maiuscole
+2BB9: Freccia in alto in una scatola rettangolare: fuga
 2BBA: Quadrati bianchi sovrapposti
 2BBB: Sovrapposizione di quadrati bianchi e neri
 2BBC: Quadrati neri sovrapposti
@@ -199,7 +199,7 @@
 2BC6: Triangolo verso il basso a forma di triangolo nero centrato
 2BC7: Triangolo a sinistra medio nero centrato
 2BC8: Triangolo a destra a forma di triangolo nero centrato
-2BC9:
+2BC9: Nettuno forma due
 2BCA: Cerchio nero mezzo superiore
 2BCB: Mezzo cerchio nero inferiore
 2BCC: Cuspide nera a quattro punte leggera
@@ -207,7 +207,7 @@
 2BCE: Cuspide a quattro punte bianca
 2BCF: Cuspide a quattro punte bianca ruotata
 2BD0: Indicatore di posizione quadrata
-2BD1: Segno di incertezza : domanda
+2BD1: Segno di incertezza: domanda
 2BD2: Segno di gruppo
 2BD3: Plutone Forma due
 2BD4: Plutone Forma Tre
@@ -234,10 +234,10 @@
 2BE9: Right Half black Star
 2BEA: Star con Left Half Black
 2BEB: Stella con giusto mezzo nero
-2BEC: Freccia a due punte a sinistra con punte di freccia tringle : cursore veloce a sinistra
-2BED: Freccia a due punte verso l'alto con punte di freccia tringle : cursore veloce verso l'alto
-2BEE: Freccia a due punte rivolta verso destra con punte di freccia tringle : cursore veloce a destra
-2BEF: Freccia a due punte verso il basso con punte di freccia tringle : cursore veloce verso il basso
+2BEC: Freccia a due punte a sinistra con punte di freccia tringle: cursore veloce a sinistra
+2BED: Freccia a due punte verso l'alto con punte di freccia tringle: cursore veloce verso l'alto
+2BEE: Freccia a due punte rivolta verso destra con punte di freccia tringle: cursore veloce a destra
+2BEF: Freccia a due punte verso il basso con punte di freccia tringle: cursore veloce verso il basso
 2BF0: Eris Form One
 2BF1: Eris Form Two
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: Simbolo raddoppiato
 2BFD: Simbolo passato
 2BFE: Angolo retto invertito
-2BFF:
+2BFF: Simbolo di pausa di Hellschreiber

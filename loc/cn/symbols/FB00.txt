@@ -176,22 +176,22 @@ FBAE : 阿拉伯文字母 Yeh Barree 独立形式
 FBAF : 阿拉伯文字母 Yeh Barree 词尾形式
 FBB0 : 带上喉塞音符独立形式的阿拉伯文字母 Yeh Barree
 FBB1 : 带上喉塞音符词尾形式的阿拉伯文字母 Yeh Barree
-FBB2 : 
-FBB3 : 
-FBB4 : 
-FBB5 : 
-FBB6 : 
-FBB7 : 
-FBB8 : 
-FBB9 : 
-FBBA : 
-FBBB : 
-FBBC : 
-FBBD : 
-FBBE : 
-FBBF : 
-FBC0 : 
-FBC1 : 
+FBB2 : 上面的阿拉伯文符号点
+FBB3 : 阿拉伯符号点到底部
+FBB4 : 阿拉伯文符号上面两个点
+FBB5 : 阿拉伯文符号下面两个点
+FBB6 : 阿拉伯文符号上面三个点
+FBB7 : 阿拉伯文符号下面的三个点
+FBB8 : 阿拉伯文符号向下指向上方的三个点
+FBB9 : ﮹阿拉伯文符号向下指向下方的三个点
+FBBA : 阿拉伯文符号上面四个点
+FBBB : 阿拉伯文符号以下四个点
+FBBC : 阿拉伯文符号双竖线下方
+FBBD : 垂直上方两个点的阿拉伯文符号
+FBBE : 垂直下方两个点的阿拉伯文符号
+FBBF : 阿拉伯符号环
+FBC0 : 上面的阿拉伯符号小塔
+FBC1 : 阿拉伯文符号小Tah下面
 FBC2 : 
 FBC3 : 
 FBC4 : 
@@ -253,4 +253,4 @@ FBFB : 带有上喉塞音符的阿拉伯文连字 Uighur 吉尔吉斯语 Yeh，�
 FBFC : 阿拉伯文字母波斯语 Yeh 独立形式
 FBFD : 阿拉伯文字母波斯语 Yeh 词尾形式
 FBFE : 阿拉伯文字母波斯语 Yeh 词首形式
-FBFF : 阿拉伯文字母波斯语 Yeh 词中形式
+FBFF : 阿拉伯文字母波斯语 Yeh 词中形式

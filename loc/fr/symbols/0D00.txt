@@ -24,20 +24,20 @@
 0D17: Lettre Malayalam ga
 0D18: Lettre Malayalam gha
 0D19: Lettre Malayalam nga
-0D1A: Lettre Malayalam tcha : cha
-0D1B: Lettre Malayalam tchha : chha
+0D1A: Lettre Malayalam tcha: cha
+0D1B: Lettre Malayalam tchha: chha
 0D1C: Lettre Malayalam dja
 0D1D: Lettre Malayalam djha
-0D1E: Lettre Malayalam ña : nha
-0D1F: Lettre Malayalam tta : ta
-0D20: Lettre Malayalam ttha : tta
-0D21: Lettre Malayalam dda : da dur
-0D22: Lettre Malayalam ddha : dda dur
-0D23: Lettre Malayalam nna : na dur
-0D24: Lettre Malayalam ta : tha
-0D25: Lettre Malayalam tha : ttha
-0D26: Lettre Malayalam da : da mou
-0D27: Lettre Malayalam dha : dda mou
+0D1E: Lettre Malayalam ña: nha
+0D1F: Lettre Malayalam tta: ta
+0D20: Lettre Malayalam ttha: tta
+0D21: Lettre Malayalam dda: da dur
+0D22: Lettre Malayalam ddha: dda dur
+0D23: Lettre Malayalam nna: na dur
+0D24: Lettre Malayalam ta: tha
+0D25: Lettre Malayalam tha: ttha
+0D26: Lettre Malayalam da: da mou
+0D27: Lettre Malayalam dha: dda mou
 0D28: Lettre Malayalam na
 0D29: Lettre Malayalam nnna
 0D2A: Lettre Malayalam pa
@@ -50,10 +50,10 @@
 0D31: Lettre Malayalam rra
 0D32: Lettre Malayalam la
 0D33: Lettre Malayalam lla
-0D34: Lettre Malayalam llla : ja
+0D34: Lettre Malayalam llla: ja
 0D35: Lettre Malayalam va
-0D36: Lettre Malayalam ça : cha mou
-0D37: Lettre Malayalam cha : sha
+0D36: Lettre Malayalam ça: cha mou
+0D37: Lettre Malayalam cha: sha
 0D38: Lettre Malayalam sa
 0D39: Lettre Malayalam ha
 0D3A: Lettre Malayalam ttta
@@ -75,7 +75,7 @@
 0D4A: Voyelle diacritique malayalam o
 0D4B: Voyelle diacritique malayalam ô
 0D4C: Voyelle diacritique malayalam aou
-0D4D: Symbole malayalam virâma : tchandrakkala (le nom recommandé) : e muet malayalam, schwa malayalam
+0D4D: Symbole malayalam virâma: tchandrakkala (le nom recommandé) , e muet malayalam, schwa malayalam
 0D4E: Lettre Malayalam repha point
 0D4F: Lettre Malayalam Para
 0D50: 
@@ -128,100 +128,100 @@
 0D7F: Lettre Malayalam k tchillou
 0D80: 
 0D81: 
-0D82: Symbole singhalais anousvâraya : anusvara
-0D83: Symbole singhalais visargaya : visarga
+0D82: Symbole singhalais anousvâraya: anusvara
+0D83: Symbole singhalais visargaya: visarga
 0D84: 
-0D85: Lettre singhalaise ayanna : lettre singhalaise a
-0D86: Lettre singhalaise âyanna : lettre singhalaise â
-0D87: Lettre singhalaise æyanna : lettre singhalaise æ
-0D88: Lettre singhalaise ææyanna : lettre singhalaise ææ
-0D89: Lettre singhalaise iyanna : lettre singhalaise i
-0D8A: Lettre singhalaise îyanna : lettre singhalaise î
-0D8B: Lettre singhalaise ouyanna : lettre singhalaise ou
-0D8C: Lettre singhalaise oûyanna : lettre singhalaise oû
-0D8D: Lettre singhalaise irouyanna : lettre singhalaise r vocalique
-0D8E: Lettre singhalaise iroûyanna : lettre singhalaise rr vocalique
-0D8F: Lettre singhalaise ilouyanna : lettre singhalaise l vocalique
-0D90: Lettre singhalaise iloûyanna : lettre singhalaise ll vocalique
-0D91: Lettre singhalaise éyanna : lettre singhalaise é
-0D92: Lettre singhalaise êyanna : lettre singhalaise ê
-0D93: Lettre singhalaise aïyanna : lettre singhalaise aï
-0D94: Lettre singhalaise oyanna : lettre singhalaise o
-0D95: Lettre singhalaise ôyanna : lettre singhalaise ô
-0D96: Lettre singhalaise aouyanna : lettre singhalaise aou
+0D85: Lettre singhalaise ayanna: lettre singhalaise a
+0D86: Lettre singhalaise âyanna: lettre singhalaise â
+0D87: Lettre singhalaise æyanna: lettre singhalaise æ
+0D88: Lettre singhalaise ææyanna: lettre singhalaise ææ
+0D89: Lettre singhalaise iyanna: lettre singhalaise i
+0D8A: Lettre singhalaise îyanna: lettre singhalaise î
+0D8B: Lettre singhalaise ouyanna: lettre singhalaise ou
+0D8C: Lettre singhalaise oûyanna: lettre singhalaise oû
+0D8D: Lettre singhalaise irouyanna: lettre singhalaise r vocalique
+0D8E: Lettre singhalaise iroûyanna: lettre singhalaise rr vocalique
+0D8F: Lettre singhalaise ilouyanna: lettre singhalaise l vocalique
+0D90: Lettre singhalaise iloûyanna: lettre singhalaise ll vocalique
+0D91: Lettre singhalaise éyanna: lettre singhalaise é
+0D92: Lettre singhalaise êyanna: lettre singhalaise ê
+0D93: Lettre singhalaise aïyanna: lettre singhalaise aï
+0D94: Lettre singhalaise oyanna: lettre singhalaise o
+0D95: Lettre singhalaise ôyanna: lettre singhalaise ô
+0D96: Lettre singhalaise aouyanna: lettre singhalaise aou
 0D97: 
 0D98: 
 0D99: 
-0D9A: Lettre singhalaise alpaprâna kayanna : lettre singhalaise ka
-0D9B: Lettre singhalaise mahâprâna kayanna : lettre singhalaise kha
-0D9C: Lettre singhalaise alpaprâna gayanna : lettre singhalaise ga
-0D9D: Lettre singhalaise mahâprâna gayanna : lettre singhalaise gha
-0D9E: Lettre singhalaise kantadja nâsikyaya : lettre singhalaise nna
-0D9F: Lettre singhalaise sañaka gayanna : lettre singhalaise nnga
-0DA0: Lettre singhalaise alpaprâna tchayanna : lettre singhalaise tcha
-0DA1: Lettre singhalaise mahâprâna tchayanna : lettre singhalaise tchha
-0DA2: Lettre singhalaise alpaprâna djayanna : lettre singhalaise dja
-0DA3: Lettre singhalaise mahâprâna djayanna : lettre singhalaise djha
-0DA4: Lettre singhalaise tâloudja nâsikyaya : lettre singhalaise ña
-0DA5: Lettre singhalaise tâloudja sanyôga nâksikyaya : lettre singhalaise djña
-0DA6: Lettre singhalaise sañaka djayanna : lettre singhalaise ñdja
-0DA7: Lettre singhalaise alpaprâna ttayanna : lettre singhalaise tta
-0DA8: Lettre singhalaise mahâprâna ttayanna : lettre singhalaise ttha
-0DA9: Lettre singhalaise alpaprâna ddayanna : lettre singhalaise dda
-0DAA: Lettre singhalaise mahâprâna ddayanna : lettre singhalaise ddha
-0DAB: Lettre singhalaise moûrdhadja nayanna : lettre singhalaise nna
-0DAC: Lettre singhalaise sañaka ddayanna : lettre singhalaise nndda
-0DAD: Lettre singhalaise alpaprâna tayanna : lettre singhalaise ta
-0DAE: Lettre singhalaise mahâprâna tayanna : lettre singhalaise tha
-0DAF: Lettre singhalaise alpaprâna dayanna : lettre singhalaise da
-0DB0: Lettre singhalaise mahâprâna dayanna : lettre singhalaise dha
-0DB1: Lettre singhalaise dantadja nayanna : lettre singhalaise na
+0D9A: Lettre singhalaise alpaprâna kayanna: lettre singhalaise ka
+0D9B: Lettre singhalaise mahâprâna kayanna: lettre singhalaise kha
+0D9C: Lettre singhalaise alpaprâna gayanna: lettre singhalaise ga
+0D9D: Lettre singhalaise mahâprâna gayanna: lettre singhalaise gha
+0D9E: Lettre singhalaise kantadja nâsikyaya: lettre singhalaise nna
+0D9F: Lettre singhalaise sañaka gayanna: lettre singhalaise nnga
+0DA0: Lettre singhalaise alpaprâna tchayanna: lettre singhalaise tcha
+0DA1: Lettre singhalaise mahâprâna tchayanna: lettre singhalaise tchha
+0DA2: Lettre singhalaise alpaprâna djayanna: lettre singhalaise dja
+0DA3: Lettre singhalaise mahâprâna djayanna: lettre singhalaise djha
+0DA4: Lettre singhalaise tâloudja nâsikyaya: lettre singhalaise ña
+0DA5: Lettre singhalaise tâloudja sanyôga nâksikyaya: lettre singhalaise djña
+0DA6: Lettre singhalaise sañaka djayanna: lettre singhalaise ñdja
+0DA7: Lettre singhalaise alpaprâna ttayanna: lettre singhalaise tta
+0DA8: Lettre singhalaise mahâprâna ttayanna: lettre singhalaise ttha
+0DA9: Lettre singhalaise alpaprâna ddayanna: lettre singhalaise dda
+0DAA: Lettre singhalaise mahâprâna ddayanna: lettre singhalaise ddha
+0DAB: Lettre singhalaise moûrdhadja nayanna: lettre singhalaise nna
+0DAC: Lettre singhalaise sañaka ddayanna: lettre singhalaise nndda
+0DAD: Lettre singhalaise alpaprâna tayanna: lettre singhalaise ta
+0DAE: Lettre singhalaise mahâprâna tayanna: lettre singhalaise tha
+0DAF: Lettre singhalaise alpaprâna dayanna: lettre singhalaise da
+0DB0: Lettre singhalaise mahâprâna dayanna: lettre singhalaise dha
+0DB1: Lettre singhalaise dantadja nayanna: lettre singhalaise na
 0DB2: 
-0DB3: Lettre singhalaise sañaka dayanna : lettre singhalaise nda
-0DB4: Lettre singhalaise alpaprâna payanna : lettre singhalaise pa
-0DB5: Lettre singhalaise mahâprâna payanna : lettre singhalaise pha
-0DB6: Lettre singhalaise alpaprâna bayanna : lettre singhalaise ba
-0DB7: Lettre singhalaise mahâprâna bayanna : lettre singhalaise bha
-0DB8: Lettre singhalaise mayanna : lettre singhalaise ma
-0DB9: Lettre singhalaise amba bayanna : lettre singhalaise mba
-0DBA: Lettre singhalaise yayanna : lettre singhalaise ya
-0DBB: Lettre singhalaise rayanna : lettre singhalaise ra
+0DB3: Lettre singhalaise sañaka dayanna: lettre singhalaise nda
+0DB4: Lettre singhalaise alpaprâna payanna: lettre singhalaise pa
+0DB5: Lettre singhalaise mahâprâna payanna: lettre singhalaise pha
+0DB6: Lettre singhalaise alpaprâna bayanna: lettre singhalaise ba
+0DB7: Lettre singhalaise mahâprâna bayanna: lettre singhalaise bha
+0DB8: Lettre singhalaise mayanna: lettre singhalaise ma
+0DB9: Lettre singhalaise amba bayanna: lettre singhalaise mba
+0DBA: Lettre singhalaise yayanna: lettre singhalaise ya
+0DBB: Lettre singhalaise rayanna: lettre singhalaise ra
 0DBC: 
-0DBD: Lettre singhalaise dantadja layanna : lettre singhalaise la
+0DBD: Lettre singhalaise dantadja layanna: lettre singhalaise la
 0DBE: 
 0DBF: 
-0DC0: Lettre singhalaise vayanna : lettre singhalaise va
-0DC1: Lettre singhalaise tâloudja çayanna : lettre singhalaise ça
-0DC2: Lettre singhalaise moûrdhadja chayanna : lettre singhalaise ssa
-0DC3: Lettre singhalaise dantadja sayanna : lettre singhalaise sa
-0DC4: Lettre singhalaise hayanna : lettre singhalaise ha
-0DC5: Lettre singhalaise moûrdhadja layanna : lettre singhalaise lla
-0DC6: Lettre singhalaise fayanna : lettre singhalaise fa
+0DC0: Lettre singhalaise vayanna: lettre singhalaise va
+0DC1: Lettre singhalaise tâloudja çayanna: lettre singhalaise ça
+0DC2: Lettre singhalaise moûrdhadja chayanna: lettre singhalaise ssa
+0DC3: Lettre singhalaise dantadja sayanna: lettre singhalaise sa
+0DC4: Lettre singhalaise hayanna: lettre singhalaise ha
+0DC5: Lettre singhalaise moûrdhadja layanna: lettre singhalaise lla
+0DC6: Lettre singhalaise fayanna: lettre singhalaise fa
 0DC7: 
 0DC8: 
 0DC9: 
-0DCA: Symbole singhalais al-lakouna : virâma
+0DCA: Symbole singhalais al-lakouna: virâma
 0DCB: 
 0DCC: 
 0DCD: 
 0DCE: 
-0DCF: Voyelle diacritique singhalaise æla-pilla : voyelle diacritique singhalaise â
-0DD0: Voyelle diacritique singhalaise kétti æda-pilla : voyelle diacritique singhalaise æ
-0DD1: Voyelle diacritique singhalaise diga æda-pilla : voyelle diacritique singhalaise æ
-0DD2: Voyelle diacritique singhalaise kétti is-pilla : voyelle diacritique singhalaise i
-0DD3: Voyelle diacritique singhalaise diga is-pilla : voyelle diacritique singhalaise î
-0DD4: Voyelle diacritique singhalaise kétti pâ-pilla : voyelle diacritique singhalaise ou
+0DCF: Voyelle diacritique singhalaise æla-pilla: voyelle diacritique singhalaise â
+0DD0: Voyelle diacritique singhalaise kétti æda-pilla: voyelle diacritique singhalaise æ
+0DD1: Voyelle diacritique singhalaise diga æda-pilla: voyelle diacritique singhalaise æ
+0DD2: Voyelle diacritique singhalaise kétti is-pilla: voyelle diacritique singhalaise i
+0DD3: Voyelle diacritique singhalaise diga is-pilla: voyelle diacritique singhalaise î
+0DD4: Voyelle diacritique singhalaise kétti pâ-pilla: voyelle diacritique singhalaise ou
 0DD5: 
-0DD6: Voyelle diacritique singhalaise diga pâ-pilla : voyelle diacritique singhalaise oû
+0DD6: Voyelle diacritique singhalaise diga pâ-pilla: voyelle diacritique singhalaise oû
 0DD7: 
-0DD8: Voyelle diacritique singhalaise gætta-pilla : voyelle diacritique singhalaise r vocalique
-0DD9: Voyelle diacritique singhalaise kombouva : voyelle diacritique singhalaise é
-0DDA: Voyelle diacritique singhalais diga kombouva : voyelle diacritique singhalaise ê
-0DDB: Voyelle diacritique singhalaise kombou deka : voyelle diacritique singhalaise aï
-0DDC: Voyelle diacritique singhalais kombouva haa æla-pilla : voyelle diacritique singhalaise o
-0DDD: Voyelle diacritique singhalaise kombouva haa diga æla-pilla : voyelle diacritique singhalaise ô
-0DDE: Voyelle diacritique singhalaise kombouva haa gayanoukitta : voyelle diacritique singhalaise aou
-0DDF: Voyelle diacritique singhalais gayanoukitta : voyelle diacritique singhalaise l vocalique
+0DD8: Voyelle diacritique singhalaise gætta-pilla: voyelle diacritique singhalaise r vocalique
+0DD9: Voyelle diacritique singhalaise kombouva: voyelle diacritique singhalaise é
+0DDA: Voyelle diacritique singhalais diga kombouva: voyelle diacritique singhalaise ê
+0DDB: Voyelle diacritique singhalaise kombou deka: voyelle diacritique singhalaise aï
+0DDC: Voyelle diacritique singhalais kombouva haa æla-pilla: voyelle diacritique singhalaise o
+0DDD: Voyelle diacritique singhalaise kombouva haa diga æla-pilla: voyelle diacritique singhalaise ô
+0DDE: Voyelle diacritique singhalaise kombouva haa gayanoukitta: voyelle diacritique singhalaise aou
+0DDF: Voyelle diacritique singhalais gayanoukitta: voyelle diacritique singhalaise l vocalique
 0DE0: 
 0DE1: 
 0DE2: 
@@ -240,8 +240,8 @@
 0DEF: Chiffre lith singhalais neuf
 0DF0: 
 0DF1: 
-0DF2: Voyelle diacritique singhalaise diga gætta-pilla : voyelle diacritique singhalaise rr vocalique
-0DF3: Voyelle diacritique singhalaise diga gayanoukitta : voyelle diacritique singhalaise ll vocalique
+0DF2: Voyelle diacritique singhalaise diga gætta-pilla: voyelle diacritique singhalaise rr vocalique
+0DF3: Voyelle diacritique singhalaise diga gayanoukitta: voyelle diacritique singhalaise ll vocalique
 0DF4: Ponctuation singhalaise kounddaliya
 0DF5: 
 0DF6: 

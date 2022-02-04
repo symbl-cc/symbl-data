@@ -79,30 +79,30 @@
 024E: İnme ile Latin büyük harf Y
 024F: Latince küçük harf Y inme
 0250: Latince Küçük Harf A Döndü
-0251: Latin Küçük Harfli Alfa : latin küçük harfli komut dosyası
+0251: Latin Küçük Harfli Alfa: latin küçük harfli komut dosyası
 0252: Latin Küçük Harf Döndü Alfa
 0253: Latin Küçük Kancalı B Harfi
 0254: Latin Küçük Harf Açık O
 0255: Curl ile Latin Küçük Harf C
-0256: Kuyruklu Latin Küçük Harf D : d retroflex kancası
+0256: Kuyruklu Latin Küçük Harf D: d retroflex kancası
 0257: Latin Küçük Kancalı D Harfi
 0258: Latin Küçük Harf Ters E
 0259: Latince Küçük Harf Schwa
 025A: Kancalı Latin Küçük Harf Schwa
-025B: Latince Küçük Harf Açık E : epsilon
+025B: Latince Küçük Harf Açık E: epsilon
 025C: Latince Küçük Harf Ters Açık E
 025D: Latin Küçük Harf Ters Kancalı Açık E
-025E: Latince Küçük Harf Kapalı Ters Açık E : kapalı ters epsilon
+025E: Latince Küçük Harf Kapalı Ters Açık E: kapalı ters epsilon
 025F: Latince küçük harf Dotless J inme
 0260: Latince Küçük Harf G Kancalı
 0261: Latince Küçük Harfli Komut Dosyası G
 0262: Latince Harf Küçük Sermaye G
 0263: Latin Küçük Harf Gama
-0264: Latin Küçük Harf Rams Horn : latin küçük harf bebek gama
+0264: Latin Küçük Harf Rams Horn: latin küçük harf bebek gama
 0265: Latince küçük harf h döndü
 0266: Latin Küçük Kancalı H Harfi
 0267: Kancalı Latin Küçük Harf Heng
-0268: Latince Küçük Harflerle İnme I : ben çubukla
+0268: Latince Küçük Harflerle İnme I: ben çubukla
 0269: Latince Küçük Harf Iota
 026A: Latince Harf Küçük Başkent I
 026B: Orta Tilde ile Latin Küçük Harf L
@@ -115,7 +115,7 @@
 0272: Sol Kancalı Latin Küçük Harf N
 0273: Retroflex Kancalı Latin Küçük Harf N
 0274: Latince Harf Küçük Sermaye N
-0275: Latin Küçük Harf Çubuklu O : o bar
+0275: Latin Küçük Harf Çubuklu O: o bar
 0276: Latince Harf Küçük Sermaye Oe
 0277: Latin Küçük Harfli Kapalı Omega
 0278: Latin Küçük Harf Phi
@@ -125,7 +125,7 @@
 027C: Uzun Bacaklı Latin Küçük Harf R
 027D: Kuyruklu Latin Küçük Harf R
 027E: Latin küçük harf r ile olta
-027F: Latin küçük harf ters olta ile balık kancası : uzun bacak iota döndü (yanlış isim)
+027F: Latin küçük harf ters olta ile balık kancası: uzun bacak iota döndü (yanlış isim)
 0280: Latince Harf Küçük Sermaye R
 0281: Latin Harf Küçük Büyük Harf Ters R
 0282: Kancalı Latin Küçük Harf S
@@ -137,22 +137,22 @@
 0288: Retroflex Kancalı Latin Küçük Harf T
 0289: Latin Küçük Harf U Bar
 028A: Latince Küçük Harf Upsilon
-028B: Kancalı Latin Küçük Harf V : latin küçük harfli komut dosyası v
-028C: Latince Küçük Harf Döndü V : şapka, kama
+028B: Kancalı Latin Küçük Harf V: latin küçük harfli komut dosyası v
+028C: Latince Küçük Harf Döndü V: şapka, kama
 028D: Latin küçük harf w döndü
 028E: Latince Küçük Harf Y Döndü
 028F: Latince Harf Küçük Başkent Y
 0290: Retroflex Kancalı Latin Küçük Harf Z
 0291: Latin Küçük Harf Z Harfi
-0292: Latince Küçük Harf Ezh : dirhem
+0292: Latince Küçük Harf Ezh: dirhem
 0293: Latin Küçük Harf Ezh ile Ezh
 0294: Latince Mektubu Glottal Durdurma
-0295: Latince Mektup Farengeal Sürtünmeli Seslendirdi : ters glottal stop
+0295: Latince Mektup Farengeal Sürtünmeli Seslendirdi: ters glottal stop
 0296: Latince Harf Ters Glottal Durdurma
 0297: Latince harf gerilmiş c
-0298: Latince Mektubu Bilabial Click : Hedef tahtası
+0298: Latince Mektubu Bilabial Click: Hedef tahtası
 0299: Latince Harf Küçük Başkent B
-029A: Latin Küçük Harf Kapalı Açık E : kapalı epsilon
+029A: Latin Küçük Harf Kapalı Açık E: kapalı epsilon
 029B: Latin Harfli Küçük Büyük Kanca
 029C: Latince Harf Küçük Başkent H
 029D: Çapraz kuyruklu Latin küçük harf J
@@ -186,7 +186,7 @@
 02B9: Değiştirici Mektup Prime
 02BA: Değiştirici Mektup Double Prime
 02BB: Değiştirici Mektup Döndü Virgül
-02BC: Değiştirici Mektup Kesme : apostrof
+02BC: Değiştirici Mektup Kesme: apostrof
 02BD: Değiştirici harf ters virgül
 02BE: Değiştirici Mektup Sağ Yarım Yüzük
 02BF: Değiştirici Mektup Sol Yarım Yüzük
@@ -197,7 +197,7 @@
 02C4: Değiştirici Letter Up Arrowhead
 02C5: Değiştirici Mektup Aşağı Ok Başı
 02C6: Değiştirici Harf Circumflex Accent
-02C7: Caron : HACEK
+02C7: Caron: HACEK
 02C8: Değiştirici Mektup Dikey Çizgi
 02C9: Değiştirici Mektup Macron
 02CA: Modifier Letter Acute Accent

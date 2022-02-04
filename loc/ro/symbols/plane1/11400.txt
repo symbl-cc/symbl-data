@@ -78,24 +78,24 @@
 1144D: Newa Comma
 1144E: Newa Gap Filler
 1144F: Newa abreviere semn
-11450: Newa Digit Zero
-11451: Newa Digit One
-11452: Newa Digit Two
-11453: Newa Digit Trei
-11454: Newa Digit Patru
-11455: Newa Digit Five
-11456: Newa Digit Six
-11457: Newa Digit Seven
-11458: Newa Digit Opt
-11459: Newa Digit Nine
-1145A:
-1145B: Newa Placeholder Mark
-1145C:
-1145D: Semnul de inserare Newa
-1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+11450: Newa cifră zero
+11451: Newa cifra unu
+11452: Newa cifra a doua
+11453: Newa cifra trei
+11454: Newa cifra patru
+11455: Newa cifra cinci
+11456: Newa cifra șase
+11457: Newa cifra șapte
+11458: Newa cifra opt
+11459: Newa cifra nouă
+1145A: Newa dublă virgulă
+1145B: Newa marcaj locativ
+1145C: 
+1145D: Newa semn de inserare
+1145E: Newa sandhi marca
+1145F: Newa scrisoare vedic anusvara
+11460: Newa semn jihvamuliya
+11461: Newa se înscrie înadhmaniya
 11462:
 11463:
 11464:
@@ -192,10 +192,10 @@
 114BF: Tirhuta semnează Candrabindu
 114C0: Tirhuta semnează Anusvara
 114C1: Tirhuta Semnează Visarga
-114C2: Tirhuta semnează Virama : Halant
+114C2: Tirhuta semnează Virama: Halant
 114C3: Tirhuta Semnează Nukta
 114C4: Tirhuta semnează Avagraha
-114C5: Tirhuta Gvang : vedic anusvara
+114C5: Tirhuta Gvang: vedic anusvara
 114C6: Tirhuta abreviere semn
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

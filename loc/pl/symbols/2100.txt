@@ -1,60 +1,60 @@
 2100: Konto
 2101: Adresowany do tematu
-2102: Double-Struck Capital C : zestaw liczb zespolonych
-2103: Stopień Celsjusza : stopni Celsjusza
-2104: Symbol linii środkowej : klon
+2102: Double-Struck Capital C: zestaw liczb zespolonych
+2103: Stopień Celsjusza: stopni Celsjusza
+2104: Symbol linii środkowej: klon
 2105: Opieka nad
 2106: Cada Una
 2107: Stała Eulera
 2108: Skrupuły
 2109: Stopień Fahrenheita
-210A: Skrypt Mały G : symbol liczby rzeczywistej
-210B: Script Capital H : operator hamiltonian
-210C: Stolica Czarnej Litery H : przestrzeń hilberta
+210A: Skrypt Mały G: symbol liczby rzeczywistej
+210B: Script Capital H: operator hamiltonian
+210C: Stolica Czarnej Litery H: przestrzeń hilberta
 210D: Double-Struck Capital H
-210E: Stała Plancka : wysokość, entalpia właściwa, ...
+210E: Stała Plancka: wysokość, entalpia właściwa, ...
 210F: Stała Plancka nad dwoma Pi
 2110: Kapitał skryptowy I
-2111: Stolica Czarnej Litery I : część wyobrażona
-2112: Skrypt Capital L : transformacja Laplace'a
-2113: Skrypt Mały L : symbol matematyczny „ell” : litr (tradycyjny symbol)
-2114: L Bar Symbol : funtów
-2115: Double-Struck Capital N : Liczba naturalna
+2111: Stolica Czarnej Litery I: część wyobrażona
+2112: Skrypt Capital L: transformacja Laplace'a
+2113: Skrypt Mały L: symbol matematyczny „ell” , litr (tradycyjny symbol)
+2114: L Bar Symbol: funtów
+2115: Double-Struck Capital N: Liczba naturalna
 2116: Numero Sign
-2117: Prawa autorskie do nagrywania dźwięku : opublikowany : znak fonorektora
+2117: Prawa autorskie do nagrywania dźwięku: opublikowany , znak fonorektora
 2118: Skrypt Kapitał P
 2119: Double-Struck Capital P
-211A: Double-Struck Capital Q : zbiór liczb wymiernych
-211B: Script Capital R : całka riemanna
-211C: Czarno-literowy kapitał R : prawdziwa część
-211D: Double-Struck Capital R : zestaw liczb rzeczywistych
-211E: Recepty Take : Przepis : stosunek krzyżowy
+211A: Double-Struck Capital Q: zbiór liczb wymiernych
+211B: Script Capital R: całka riemanna
+211C: Czarno-literowy kapitał R: prawdziwa część
+211D: Double-Struck Capital R: zestaw liczb rzeczywistych
+211E: Recepty Take: Przepis , stosunek krzyżowy
 211F: Odpowiedź
 2120: Znakiem usługowym
 2121: Znak telefoniczny
-2122: Znak towarowy : znak towarowy : tm
+2122: Znak towarowy: znak towarowy , tm
 2123: Versicle
-2124: Double-Struck Capital Z : zbiór liczb całkowitych
+2124: Double-Struck Capital Z: zbiór liczb całkowitych
 2125: Uncja znak
 2126: Ohm Sign
-2127: Odwrócony znak Ohma : mho
+2127: Odwrócony znak Ohma: mho
 2128: Stolica Czarnej Litery Z
 2129: Zwrócił się do greckiej małej litery Iota
 212A: Znak Kelvina
 212B: Znak Angstrom
-212C: Skrypt Kapitałowy B : funkcja Bernoulli
+212C: Skrypt Kapitałowy B: funkcja Bernoulli
 212D: Stolica Czarnego Listu C
 212E: Szacowany symbol
-212F: Skrypt Mały E : błąd : wykładnik naturalny
-2130: Skrypt Kapitałowy E : emf (siła elektromotoryczna)
-2131: Script Capital F : transformacja Fouriera
-2132: Zwrócił kapitał F : claudian digamma inversum
-2133: Skrypt Capital M : m-matrix (fizyka) : niemiecki symbol waluty znak przed wiwii
-2134: Skrypt Mały O : porządek, niższy porządek
-2135: Symbol Alef : pierwszy kardynał transfinite (policzalny)
-2136: Symbol zakładu : drugi kardynał nieskończony (kontinuum)
-2137: Symbol Gimel : trzeci kardynał nieskończony (funkcje zmiennej rzeczywistej)
-2138: Symbol Dalet : czwarty kardynał nieskończony
+212F: Skrypt Mały E: błąd , wykładnik naturalny
+2130: Skrypt Kapitałowy E: emf (siła elektromotoryczna)
+2131: Script Capital F: transformacja Fouriera
+2132: Zwrócił kapitał F: claudian digamma inversum
+2133: Skrypt Capital M: m-matrix (fizyka) , niemiecki symbol waluty znak przed wiwii
+2134: Skrypt Mały O: porządek, niższy porządek
+2135: Symbol Alef: pierwszy kardynał transfinite (policzalny)
+2136: Symbol zakładu: drugi kardynał nieskończony (kontinuum)
+2137: Symbol Gimel: trzeci kardynał nieskończony (funkcje zmiennej rzeczywistej)
+2138: Symbol Dalet: czwarty kardynał nieskończony
 2139: Źródło informacji
 213A: Obrót kapitału Q
 213B: Znak faksu
@@ -63,7 +63,7 @@
 213E: Double-Struck Capital Gamma
 213F: Double-Struck Capital Pi
 2140: Double-Struck N-Ary Summation
-2141: Zwrócił Sans-Serif Capital G : gra
+2141: Zwrócił Sans-Serif Capital G: gra
 2142: Zwrócił Sans-Serif Capital L
 2143: Odwrócony Sans-Serif Capital L
 2144: Zwrócił Sans-Serif Capital Y
@@ -129,7 +129,7 @@
 2180: Cyfra rzymska Tysiąc C D
 2181: Cyfra rzymska Pięć tysięcy
 2182: Cyfra rzymska Dziesięć tysięcy
-2183: Liczba rzymska odwrócona sto : apostroficzny c : claudian antisigma
+2183: Liczba rzymska odwrócona sto: apostroficzny c , claudian antisigma
 2184: Łacińska mała litera Odwrócona C
 2185: Rzymska cyfra Sześć późnych postaci
 2186: Rzymska liczba pięćdziesiąt wczesnych form
@@ -144,9 +144,9 @@
 218F:
 2190: Leftwards Arrow
 2191: Strzałka w górę
-2192: Strzałka w prawo : funkcja całkowita notacji z
+2192: Strzałka w prawo: funkcja całkowita notacji z
 2193: Strzałka w dół
-2194: Strzałka w lewo w prawo : relacja notacji z
+2194: Strzałka w lewo w prawo: relacja notacji z
 2195: Strzałka w górę
 2196: North West Arrow
 2197: North East Arrow
@@ -156,16 +156,16 @@
 219B: Strzałka w prawo ze skokiem
 219C: Strzałka w lewo
 219D: Strzałka w prawo
-219E: Dwie lewe strzały : szybki kursor w lewo
-219F: Strzałka w górę o dwie głowy : szybki kursor w górę
-21A0: Strzałka w prawo w dwie głowy : notacja całkowita z notacją : szybki kursor w prawo
-21A1: W dół Dwie strzały z głową : feed formularza : szybki kursor w dół
+219E: Dwie lewe strzały: szybki kursor w lewo
+219F: Strzałka w górę o dwie głowy: szybki kursor w górę
+21A0: Strzałka w prawo w dwie głowy: notacja całkowita z notacją , szybki kursor w prawo
+21A1: W dół Dwie strzały z głową: feed formularza , szybki kursor w dół
 21A2: Strzałka w lewo z ogonem
-21A3: Strzałka w prawo z ogonem : notacja całkowita z wtryskiem
+21A3: Strzałka w prawo z ogonem: notacja całkowita z wtryskiem
 21A4: Strzałka w lewo od Baru
 21A5: Strzałka w górę z paska
-21A6: Strzałka w prawo od paska : mapa notacji z
-21A7: Strzałka w dół od paska : symbol głębi
+21A6: Strzałka w prawo od paska: mapa notacji z
+21A7: Strzałka w dół od paska: symbol głębi
 21A8: Strzałka w górę z podstawą
 21A9: Leftwards Arrow with Hook
 21AA: Strzałka w prawo z hakiem
@@ -173,17 +173,17 @@
 21AC: Strzałka w prawo z pętlą
 21AD: Strzałka w lewo w prawo
 21AE: Strzałka w lewo w prawo ze skokiem
-21AF: Strzałka w dół Zygzak : elektroliza
+21AF: Strzałka w dół Zygzak: elektroliza
 21B0: Strzałka w górę z końcówkami lewymi
 21B1: Strzałka w górę z końcówką w prawo
 21B2: Strzałka w dół z końcówkami lewymi
 21B3: Strzałka w dół z końcówką w prawo
-21B4: Strzałka w prawo z narożnikiem w dół : feed line
+21B4: Strzałka w prawo z narożnikiem w dół: feed line
 21B5: Strzałka w dół z narożnikami lewymi
 21B6: Strzałka w półkole w kierunku przeciwnym do ruchu wskazówek zegara
 21B7: Strzałka w górę półkola zgodna z ruchem wskazówek zegara
-21B8: North West Arrow To Long Bar : Dom
-21B9: Leftwards Arrow To Bar Over Rightwards Arrow To Bar : karta z zakładką Shift
+21B8: North West Arrow To Long Bar: Dom
+21B9: Leftwards Arrow To Bar Over Rightwards Arrow To Bar: karta z zakładką Shift
 21BA: Strzałka okrągła otwarta przeciwnie do ruchu wskazówek zegara
 21BB: Strzałka okrągła otwarta w prawo
 21BC: Harpun Leftwards z Barbem w górę
@@ -220,37 +220,37 @@
 21DB: Potrójna strzałka w prawo
 21DC: Squiggle Arrow Leftwards
 21DD: Strzałka w prawo Squiggle
-21DE: Strzałka w górę z podwójnym uderzeniem : Strona w górę
-21DF: Strzałka w dół z podwójnym skokiem : Strona w dół
+21DE: Strzałka w górę z podwójnym uderzeniem: Strona w górę
+21DF: Strzałka w dół z podwójnym skokiem: Strona w dół
 21E0: Leftwards Dashed Arrow
 21E1: Strzałka w górę, przerywana
 21E2: Strzałka w prawo
 21E3: Strzałka w dół w dół
-21E4: Leftwards Arrow To Bar : w lewo
-21E5: Strzałka w prawo do paska : karta w prawo
+21E4: Leftwards Arrow To Bar: w lewo
+21E5: Strzałka w prawo do paska: karta w prawo
 21E6: Biała strzałka na lewo
-21E7: Biała strzałka w górę : przesunięcie : poziom 2 wybierz (iso 9995-7)
-21E8: Biała strzałka w prawo : wybór grupy (iso 9995-7)
+21E7: Biała strzałka w górę: przesunięcie , poziom 2 wybierz (iso 9995-7)
+21E8: Biała strzałka w prawo: wybór grupy (iso 9995-7)
 21E9: Biała strzałka w dół
-21EA: Biała strzałka w górę z paska : duże litery
-21EB: Biała strzałka w górę na cokole : blokada poziomu 2
-21EC: Biała strzałka w górę na cokole z poziomym paskiem : zamek kapitele (czapki)
-21ED: Biała strzałka w górę na cokole z pionowym paskiem : blokada numeryczna
-21EE: W górę Biała podwójna strzałka : poziom 3 wybierz
-21EF: Górna biała podwójna strzałka na cokole : blokada poziomu 3
-21F0: Biała strzałka w prawo od ściany : blokada grupy
-21F1: North West Arrow To Corner : Dom
-21F2: South East Arrow To Corner : koniec
-21F3: Biała strzałka w górę w dół : przewijanie
+21EA: Biała strzałka w górę z paska: duże litery
+21EB: Biała strzałka w górę na cokole: blokada poziomu 2
+21EC: Biała strzałka w górę na cokole z poziomym paskiem: zamek kapitele (czapki)
+21ED: Biała strzałka w górę na cokole z pionowym paskiem: blokada numeryczna
+21EE: W górę Biała podwójna strzałka: poziom 3 wybierz
+21EF: Górna biała podwójna strzałka na cokole: blokada poziomu 3
+21F0: Biała strzałka w prawo od ściany: blokada grupy
+21F1: North West Arrow To Corner: Dom
+21F2: South East Arrow To Corner: koniec
+21F3: Biała strzałka w górę w dół: przewijanie
 21F4: Strzałka w prawo z małym okręgiem
 21F5: W dół Strzałka po lewej stronie strzałki w górę
 21F6: Trzy strzałki w prawo
 21F7: Strzałka w lewo z obrysem pionowym
-21F8: Strzałka w prawo ze skokiem pionowym : Funkcja częściowa notacji z
-21F9: Strzałka w lewo w prawo ze skokiem pionowym : relacja częściowa notacji z
+21F8: Strzałka w prawo ze skokiem pionowym: Funkcja częściowa notacji z
+21F9: Strzałka w lewo w prawo ze skokiem pionowym: relacja częściowa notacji z
 21FA: Strzałka w lewo z podwójnym skokiem pionowym
-21FB: Strzałka w prawo z podwójnym skokiem pionowym : skończona funkcja notacji z
-21FC: Strzałka w lewo w prawo z podwójnym skokiem pionowym : skończona relacja notacji z
+21FB: Strzałka w prawo z podwójnym skokiem pionowym: skończona funkcja notacji z
+21FC: Strzałka w lewo w prawo z podwójnym skokiem pionowym: skończona relacja notacji z
 21FD: Strzałka w lewą stronę
 21FE: Strzałka w prawo z otwartą głową
 21FF: Strzałka w lewo po prawej stronie

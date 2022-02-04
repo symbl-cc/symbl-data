@@ -2,7 +2,7 @@
 0D01: 말라 얄 람 가입 Candrabindu
 0D02: 말라 얄 람의 서명 Anusvara
 0D03: 말라 얄 람 신고서 Visarga
-0D04:
+0D04: 말라 얄 람어 편지 베다 Anusvara
 0D05: 말라 얄 람어 A
 0D06: 말라 얄 람어 편지 Aa
 0D07: 말라 얄 람어 편지 I
@@ -24,20 +24,20 @@
 0D17: 말라 얄 람 문자 Ga
 0D18: 말라 얄 람어 편지 Gha
 0D19: 말라 얄람 편지 Nga
-0D1A: 말라 얄람 편지 Ca : 차
-0D1B: 말라 얄 람어 차 차 : 차
+0D1A: 말라 얄람 편지 Ca: 차
+0D1B: 말라 얄 람어 차 차: 차
 0D1C: 말라 얄 람어 편지
 0D1D: 말라 얄 람어 편지
-0D1E: 말라 얄 람어 편지 냐 : 나하
-0D1F: 말라 얄 람어 편지 : 고마워
-0D20: 말라 얄 람어 편지 Ttha : tta
-0D21: 말라 얄 람어 DDA : 하드 다
-0D22: 말라 얄 람어 편지 Ddha : 단단한 dda
-0D23: 말라 얄 람어 편지 나 : 단단한 na
-0D24: 말라 얄 람어 편지 : 그쪽으로
-0D25: 말라 얄 람어 편지 그쪽으로 : 티타
-0D26: 말라 얄 람어 편지 다 : 소프트 다
-0D27: 말라 얄 람어 Dha : 소프트 dda
+0D1E: 말라 얄 람어 편지 냐: 나하
+0D1F: 말라 얄 람어 편지: 고마워
+0D20: 말라 얄 람어 편지 Ttha: tta
+0D21: 말라 얄 람어 DDA: 하드 다
+0D22: 말라 얄 람어 편지 Ddha: 단단한 dda
+0D23: 말라 얄 람어 편지 나: 단단한 na
+0D24: 말라 얄 람어 편지: 그쪽으로
+0D25: 말라 얄 람어 편지 그쪽으로: 티타
+0D26: 말라 얄 람어 편지 다: 소프트 다
+0D27: 말라 얄 람어 Dha: 소프트 dda
 0D28: 말라 얄 람어 편지 Na
 0D29: 말라 얄 람어 편지 Nnna
 0D2A: 말라 얄람 편지 편지
@@ -50,16 +50,16 @@
 0D31: 말라 얄 람어 편지 Rra
 0D32: 말라 얄람 편지 라
 0D33: 말라 얄 람어 편지
-0D34: 말라 얄 람어 편지 렐라 : 자
+0D34: 말라 얄 람어 편지 렐라: 자
 0D35: 말라 얄 람어 편지
-0D36: 말라 얄 람어 편지 샤 : 소프트 샤
-0D37: 말라 얄 람어 편지 : 샤
+0D36: 말라 얄 람어 편지 샤: 소프트 샤
+0D37: 말라 얄 람어 편지: 샤
 0D38: 말라 얄 람어 편지 Sa
 0D39: 말라 얄 람어 편지 하
 0D3A: 말라 얄 람어 편지 Ttta
 0D3B: Malayalam 로그인 세로 막대 Virama
 0D3C: Malayalam Sign Circular Virama
-0D3D: 말라 얄 람 서명 Avagraha : 프라 사심
+0D3D: 말라 얄 람 서명 Avagraha: 프라 사심
 0D3E: 말라 얄람 어 모음 모음 Aa
 0D3F: 말라 얄람의 모음 모음 I
 0D40: 말라 얄람의 모음 모음 Ii
@@ -75,7 +75,7 @@
 0D4A: 말라 얄람의 모음 모음 O
 0D4B: 말라 얄람의 모음 모음 Oo
 0D4C: 말라 얄 람어 모음 Au
-0D4D: Malayalam Sign Virama : candrakkala (선호하는 이름) : 모음 절반 - 유
+0D4D: Malayalam Sign Virama: candrakkala (선호하는 이름) , 모음 절반 - 유
 0D4E: 말라 얄 람어 Letter Dot Reph
 0D4F: 말라 얄람 서명 파라
 0D50:
@@ -127,101 +127,101 @@
 0D7E: Malayalam Letter Chillu L1
 0D7F: 말라 얄 람어 편지 Chillu K
 0D80:
-0D81:
-0D82: 신 할라 서명 아 누스 바라 야 : 앵 v라
-0D83: 신 할라 서명 Visargaya : 비자
+0D81: 싱 할라 어 기호 Candrabindu
+0D82: 신 할라 서명 아 누스 바라 야: 앵 v라
+0D83: 신 할라 서명 Visargaya: 비자
 0D84:
-0D85: 신 할라 편지 Ayanna : 신 할라 문자 a
-0D86: 신 할라 레터 에이 야나 : 신 할라 문자 aa
-0D87: 신 할라 편지 Aeyanna : 신 할라 문자 ae
-0D88: 신 할라 편지 Aeeyanna : 신 할라 문자 aae
-0D89: 신 할라 레터 이얀 나는 : 신 할라 문자 나는
-0D8A: 신 할라 편지 이이 안나 : 신 할라 문자 ii
-0D8B: 신 할라 문자 우얀 나 : 신 할라 문자 u
-0D8C: 신 할라 문자 우얀 난 : 신 할라 문자 uu
-0D8D: 신 할라 편지 Iruyanna : 신 할라 문자 보컬 r
-0D8E: 신 할라 편지 이르 유 얀나 : sinhala 편지 보컬 rr
-0D8F: 신 할라 편지 Iluyanna : 신 할라 문자 보컬 l
-0D90: 신 할라 레터 Iluuyanna : sinhala 편지 보컬 ll
-0D91: 신 할라 레터 에이 난나 : 신 할라 문자 e
-0D92: 신 할라 편지 Eeyanna : 신 할라 문자 ee
-0D93: 신 할라 문자 Aiyanna : 신 할라 문자 ai
-0D94: 신 할라 레터 오 야나 : 신 할라 문자 o
-0D95: 신 할라 문자 Ooyanna : 신 할라 문자 oo
-0D96: 신 할라 레터 오 야나 : 신 할라 문자 au
+0D85: 신 할라 편지 Ayanna: 신 할라 문자 a
+0D86: 신 할라 레터 에이 야나: 신 할라 문자 aa
+0D87: 신 할라 편지 Aeyanna: 신 할라 문자 ae
+0D88: 신 할라 편지 Aeeyanna: 신 할라 문자 aae
+0D89: 신 할라 레터 이얀 나는: 신 할라 문자 나는
+0D8A: 신 할라 편지 이이 안나: 신 할라 문자 ii
+0D8B: 신 할라 문자 우얀 나: 신 할라 문자 u
+0D8C: 신 할라 문자 우얀 난: 신 할라 문자 uu
+0D8D: 신 할라 편지 Iruyanna: 신 할라 문자 보컬 r
+0D8E: 신 할라 편지 이르 유 얀나: sinhala 편지 보컬 rr
+0D8F: 신 할라 편지 Iluyanna: 신 할라 문자 보컬 l
+0D90: 신 할라 레터 Iluuyanna: sinhala 편지 보컬 ll
+0D91: 신 할라 레터 에이 난나: 신 할라 문자 e
+0D92: 신 할라 편지 Eeyanna: 신 할라 문자 ee
+0D93: 신 할라 문자 Aiyanna: 신 할라 문자 ai
+0D94: 신 할라 레터 오 야나: 신 할라 문자 o
+0D95: 신 할라 문자 Ooyanna: 신 할라 문자 oo
+0D96: 신 할라 레터 오 야나: 신 할라 문자 au
 0D97:
 0D98:
 0D99:
-0D9A: 신 할라 레터 Alpapraana Kayanna : 신 할라 문자 카
-0D9B: 신 할라 레터 마하 플라 야 카야 나 : 신 할라 문자 ㅎ
-0D9C: 신 할라 레터 Alpapraana Gayanna : 신 할라 문자 가사
-0D9D: 신 할라 레터 마하 플라 야나 가야나 : 신 할라 문자 gha
-0D9E: 신 할라 문자 Kantaja Naasikyaya : 신 할라 문자
-0D9F: 신 할라 편지 Sanyaka Gayanna : 신 할라 문자 nnga
-0DA0: 신 할라 문자 Alpapraana Cayanna : 신 할라 문자 ca
-0DA1: 신 할라 레터 마하 플라 야 카야 나 : 신 할라 문자 차
-0DA2: 신 할라 레터 Alpapraana Jayanna : 신 할라 편지
-0DA3: 신 할라 레터 마하 플라 야나 자야나 : 신 할라 문자 jha
-0DA4: 신 할라 레터 Taaluja Naasikyaya : 신 할라 문자 냐
-0DA5: 신 할라 레터 Taaluja Sanyooga Naaksikyaya : 신 할라 문자 jnya
-0DA6: 신 할라 편지 Sanyaka Jayanna : 신 할라 문자 냐
-0DA7: 신 할라 문자 Alpapraana Ttayanna : 신 할라 문자 tta
-0DA8: 신 할라 레터 마하 플라 야나 따 야야 : 신 할라 문자 ttha
-0DA9: 신 할라 레터 Alpapraana Ddayanna : 신 할라 문자 dda
-0DAA: 신 할라 레터 마하 플라 야나 대 야나 : 신 할라 문자 ddha
-0DAB: 신 할라 편지 Muurdhaja Nayanna : 신 할라 문자 나
-0DAC: 신 할라 편지 Sanyaka Ddayanna : 신 할라 문자 nndda
-0DAD: 신 할라 레터 Alpapraana Tayanna : 신 할라 문자 타
-0DAE: 신 할라 레터 마하 플라 야나 타야 나 : sinhala 편지 그쪽으로
-0DAF: 신 할라 문자 Alpapraana Dayanna : 신 할라 문자 다
-0DB0: 신 할라 레터 마하 플라 야나 데이 야나 : 신 할라 문자 dha
-0DB1: 신 할라 레터 Dantaja Nayanna : 신 할라 문자 na
+0D9A: 신 할라 레터 Alpapraana Kayanna: 신 할라 문자 카
+0D9B: 신 할라 레터 마하 플라 야 카야 나: 신 할라 문자 ㅎ
+0D9C: 신 할라 레터 Alpapraana Gayanna: 신 할라 문자 가사
+0D9D: 신 할라 레터 마하 플라 야나 가야나: 신 할라 문자 gha
+0D9E: 신 할라 문자 Kantaja Naasikyaya: 신 할라 문자
+0D9F: 신 할라 편지 Sanyaka Gayanna: 신 할라 문자 nnga
+0DA0: 신 할라 문자 Alpapraana Cayanna: 신 할라 문자 ca
+0DA1: 신 할라 레터 마하 플라 야 카야 나: 신 할라 문자 차
+0DA2: 신 할라 레터 Alpapraana Jayanna: 신 할라 편지
+0DA3: 신 할라 레터 마하 플라 야나 자야나: 신 할라 문자 jha
+0DA4: 신 할라 레터 Taaluja Naasikyaya: 신 할라 문자 냐
+0DA5: 신 할라 레터 Taaluja Sanyooga Naaksikyaya: 신 할라 문자 jnya
+0DA6: 신 할라 편지 Sanyaka Jayanna: 신 할라 문자 냐
+0DA7: 신 할라 문자 Alpapraana Ttayanna: 신 할라 문자 tta
+0DA8: 신 할라 레터 마하 플라 야나 따 야야: 신 할라 문자 ttha
+0DA9: 신 할라 레터 Alpapraana Ddayanna: 신 할라 문자 dda
+0DAA: 신 할라 레터 마하 플라 야나 대 야나: 신 할라 문자 ddha
+0DAB: 신 할라 편지 Muurdhaja Nayanna: 신 할라 문자 나
+0DAC: 신 할라 편지 Sanyaka Ddayanna: 신 할라 문자 nndda
+0DAD: 신 할라 레터 Alpapraana Tayanna: 신 할라 문자 타
+0DAE: 신 할라 레터 마하 플라 야나 타야 나: sinhala 편지 그쪽으로
+0DAF: 신 할라 문자 Alpapraana Dayanna: 신 할라 문자 다
+0DB0: 신 할라 레터 마하 플라 야나 데이 야나: 신 할라 문자 dha
+0DB1: 신 할라 레터 Dantaja Nayanna: 신 할라 문자 na
 0DB2:
-0DB3: 신 할라 문자 Sanyaka Dayanna : 신 할라 편지 nda
-0DB4: 신 할라 레터 Alpapraana Payanna : 신 할라 문자 파
-0DB5: 신 할라 레터 마하 플라 야나 파야 나 : 신 할라 문자 pha
-0DB6: 신 할라 레터 Alpapraana Bayanna : 신 할라 문자 바
-0DB7: 신 할라 레터 마하 플라 야나 바나나 : 신 할라 문자 bha
-0DB8: 신 할라 문자 마야 나 : 신 할라 문자 ma
-0DB9: 신 할라 레프 Amba Bayanna : 신 할라 문자 mba
-0DBA: 신 할라 문자 야야나 : sinhala 편지 나중에
-0DBB: 신 할라 레터 레이나 : 신 할라 편지 ra
+0DB3: 신 할라 문자 Sanyaka Dayanna: 신 할라 편지 nda
+0DB4: 신 할라 레터 Alpapraana Payanna: 신 할라 문자 파
+0DB5: 신 할라 레터 마하 플라 야나 파야 나: 신 할라 문자 pha
+0DB6: 신 할라 레터 Alpapraana Bayanna: 신 할라 문자 바
+0DB7: 신 할라 레터 마하 플라 야나 바나나: 신 할라 문자 bha
+0DB8: 신 할라 문자 마야 나: 신 할라 문자 ma
+0DB9: 신 할라 레프 Amba Bayanna: 신 할라 문자 mba
+0DBA: 신 할라 문자 야야나: sinhala 편지 나중에
+0DBB: 신 할라 레터 레이나: 신 할라 편지 ra
 0DBC:
-0DBD: 신 할라 레터 Dantaja Layanna : 신 할라 문자 라
+0DBD: 신 할라 레터 Dantaja Layanna: 신 할라 문자 라
 0DBE:
 0DBF:
-0DC0: 신 할라 레터 바얀 나 : 신 할라 문자 va
-0DC1: 신 할라 레터 타 알야 사야 나는 : 신 할라 문자 샤
-0DC2: 신 할라 편지 Muurdhaja Sayanna : sinhala 편지 ssa
-0DC3: 신 할라 레터 Dantaja Sayanna : 신 할라 문자 sa
-0DC4: 신 할라 레터 하야나 : 싱 할라 편지 하
-0DC5: 신 할라 편지 Muurdhaja Layanna : 신 할라 편지 lla
-0DC6: 신 할라 편지 파얀 나 : 신 할라 문자 fa
+0DC0: 신 할라 레터 바얀 나: 신 할라 문자 va
+0DC1: 신 할라 레터 타 알야 사야 나는: 신 할라 문자 샤
+0DC2: 신 할라 편지 Muurdhaja Sayanna: sinhala 편지 ssa
+0DC3: 신 할라 레터 Dantaja Sayanna: 신 할라 문자 sa
+0DC4: 신 할라 레터 하야나: 싱 할라 편지 하
+0DC5: 신 할라 편지 Muurdhaja Layanna: 신 할라 편지 lla
+0DC6: 신 할라 편지 파얀 나: 신 할라 문자 fa
 0DC7:
 0DC8:
 0DC9:
-0DCA: 신 할라 서명 알 - 라 쿠나 : 비 라마
+0DCA: 신 할라 서명 알 - 라 쿠나: 비 라마
 0DCB:
 0DCC:
 0DCD:
 0DCE:
-0DCF: 신 할라 모음 모음 Aela-Pilla : sinhala 모음 기호 aa
-0DD0: 신 할라 모음 모음 Ketti Aeda-Pilla : 신 할라 모음 기호 ae
-0DD1: 신 할라 모음 모음 Diga Aeda-Pilla : sinhala 모음 기호 aae
-0DD2: Sinhala 모음 모음 Ketti Is-Pilla : sinhala 모음 기호 나는
-0DD3: 신 할라 모음 모음 Diga Is-Pilla : 신 할라 모음 기호 ii
-0DD4: 신 할라 모음 모음 Ketti Paa-Pilla : sinhala 모음 서명 유
+0DCF: 신 할라 모음 모음 Aela-Pilla: sinhala 모음 기호 aa
+0DD0: 신 할라 모음 모음 Ketti Aeda-Pilla: 신 할라 모음 기호 ae
+0DD1: 신 할라 모음 모음 Diga Aeda-Pilla: sinhala 모음 기호 aae
+0DD2: Sinhala 모음 모음 Ketti Is-Pilla: sinhala 모음 기호 나는
+0DD3: 신 할라 모음 모음 Diga Is-Pilla: 신 할라 모음 기호 ii
+0DD4: 신 할라 모음 모음 Ketti Paa-Pilla: sinhala 모음 서명 유
 0DD5:
-0DD6: 신 할라 모음 모음 Diga Paa-Pilla : sinhala 모음 기호 uu
+0DD6: 신 할라 모음 모음 Diga Paa-Pilla: sinhala 모음 기호 uu
 0DD7:
-0DD8: 신 할라 모음 모음 Gaetta-Pilla : sinhala 모음의 vocalic r
-0DD9: 신 할라 모음 모음 Kombuva : 신 할라 모음 기호 e
-0DDA: 신 할라 모음 모음 Diga Kombuva : 신 할라 모음 기호 ee
-0DDB: 신 할라 모음 모음 Kombu Deka : sinhala 모음 기호 ai
-0DDC: 신 할라 모음 모음 Kombuva Haa Aela-Pilla : sinhala 모음 모음 o
-0DDD: 신 할라 모음 모음 Kombuva Haa Diga Aela-Pilla : sinhala 모음 모음
-0DDE: 신 할라 모음 모음 Kombuva Haa Gayanukitta : sinhala 모음 au
-0DDF: 신 할라 모음 모음 가야 누끼 타 : sinhala 모음의 vocalic l
+0DD8: 신 할라 모음 모음 Gaetta-Pilla: sinhala 모음의 vocalic r
+0DD9: 신 할라 모음 모음 Kombuva: 신 할라 모음 기호 e
+0DDA: 신 할라 모음 모음 Diga Kombuva: 신 할라 모음 기호 ee
+0DDB: 신 할라 모음 모음 Kombu Deka: sinhala 모음 기호 ai
+0DDC: 신 할라 모음 모음 Kombuva Haa Aela-Pilla: sinhala 모음 모음 o
+0DDD: 신 할라 모음 모음 Kombuva Haa Diga Aela-Pilla: sinhala 모음 모음
+0DDE: 신 할라 모음 모음 Kombuva Haa Gayanukitta: sinhala 모음 au
+0DDF: 신 할라 모음 모음 가야 누끼 타: sinhala 모음의 vocalic l
 0DE0:
 0DE1:
 0DE2:
@@ -240,8 +240,8 @@
 0DEF: 신 할라 자리 숫자 9
 0DF0:
 0DF1:
-0DF2: 신 할라 모음 모음 Diga Gaetta-Pilla : sinhala 모음의 vocalic rr
-0DF3: 신 할라 모음 모음 Diga Gayanukitta : sinhala 모음 목소리의 보컬 ll
+0DF2: 신 할라 모음 모음 Diga Gaetta-Pilla: sinhala 모음의 vocalic rr
+0DF3: 신 할라 모음 모음 Diga Gayanukitta: sinhala 모음 목소리의 보컬 ll
 0DF4: 신 할라 구두점 Kunddaliya
 0DF5:
 0DF6:
@@ -253,4 +253,4 @@
 0DFC:
 0DFD:
 0DFE:
-0DFF:
+0DFF:

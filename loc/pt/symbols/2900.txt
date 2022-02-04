@@ -1,11 +1,11 @@
-2900: Seta para a direita de duas cabeças com traçado vertical : notação parcial de z surção
-2901: Seta para a direita de duas cabeças com traçado vertical duplo : notação z surção finita
+2900: Seta para a direita de duas cabeças com traçado vertical: notação parcial de z surção
+2901: Seta para a direita de duas cabeças com traçado vertical duplo: notação z surção finita
 2902: Seta dupla para a esquerda com traço vertical
 2903: Seta dupla para a direita com traçado vertical
 2904: Esquerda Direita Flecha Dupla com Traçado Vertical
-2905: Seta para a direita de duas cabeças da barra : mapas para
-2906: Seta para a esquerda na barra dupla da barra : mapas de
-2907: Seta para a direita da barra dupla : mapas para
+2905: Seta para a direita de duas cabeças da barra: mapas para
+2906: Seta para a esquerda na barra dupla da barra: mapas de
+2907: Seta para a direita da barra dupla: mapas para
 2908: Seta para baixo com traço horizontal
 2909: Seta para cima com traço horizontal
 290A: Seta Tripla para Cima
@@ -18,11 +18,11 @@
 2911: Seta para a direita com haste pontilhada
 2912: Seta para cima para bar
 2913: Seta para baixo para bar
-2914: Seta para Direita com Cauda com Traçado Vertical : Injeção parcial de notação z
-2915: Seta para Direita com Cauda com Traçado Vertical Duplo : Injeção finita de notação z
-2916: Seta para a direita com duas cabeças e cauda : mapeamento bijetivo : bijeção de notação z
-2917: Seta para a direita de duas cabeças com cauda com traçado vertical : Injeção Sobressalente de Notação Z
-2918: Para a direita seta de duas cabeças com cauda com duplo traçado vertical : notação z injeção injetiva finita
+2914: Seta para Direita com Cauda com Traçado Vertical: Injeção parcial de notação z
+2915: Seta para Direita com Cauda com Traçado Vertical Duplo: Injeção finita de notação z
+2916: Seta para a direita com duas cabeças e cauda: mapeamento bijetivo , bijeção de notação z
+2917: Seta para a direita de duas cabeças com cauda com traçado vertical: Injeção Sobressalente de Notação Z
+2918: Para a direita seta de duas cabeças com cauda com duplo traçado vertical: notação z injeção injetiva finita
 2919: Seta para a esquerda para a esquerda
 291A: Seta para a direita
 291B: Seta para a esquerda
@@ -212,23 +212,23 @@
 29D3: Bowtie Preta
 29D4: Tempos com Metade Negra Esquerda
 29D5: Tempos com meio preto
-29D6: Ampulheta Branca : bowtie vertical : quadro branco
+29D6: Ampulheta Branca: bowtie vertical , quadro branco
 29D7: Ampulheta Preta
 29D8: Cerca Wiggly Esquerda
 29D9: Cerca direita Wiggly
 29DA: Cerca Wiggly Dupla Esquerda
 29DB: Cerca direita dupla Wiggly
-29DC: Infinito Incompleto : entidade isotécnica e iinfina;
+29DC: Infinito Incompleto: entidade isotécnica e iinfina,
 29DD: Tie Over Infinity
 29DE: Infinito Negado com Barra Vertical
 29DF: Multimap de duas extremidades
-29E0: Quadrado com contorno contornado : d'alembertian
+29E0: Quadrado com contorno contornado: d'alembertian
 29E1: Aumenta como
 29E2: Shuffle Product
 29E3: Sinal de igual e paralelo inclinado
 29E4: Sinal de igual e paralelo inclinado com til acima
 29E5: Paralelo idêntico e inclinado
-29E6: Gleich Stark : equivalente tautológico
+29E6: Gleich Stark: equivalente tautológico
 29E7: Termodinâmico
 29E8: Triângulo de baixo ponto com meio preto à esquerda
 29E9: Triângulo de baixo ponto com meio preto
@@ -242,12 +242,12 @@
 29F1: Diamante Negro com Erro
 29F2: Círculo branco com barras de erro
 29F3: Círculo preto com barras de erro
-29F4: Atraso na Regra : seta para a direita do cólon
+29F4: Atraso na Regra: seta para a direita do cólon
 29F5: Operador Solidus Reverso
 29F6: Solidus com Overbar
 29F7: Solidus Reverso com Traçado Horizontal
 29F8: Big Solidus
-29F9: Big Solidse reverso : ocultação do esquema de notação z
+29F9: Big Solidse reverso: ocultação do esquema de notação z
 29FA: Double Plus
 29FB: Triple Plus
 29FC: Suporte de Ângulo Curvo de Direção Esquerda

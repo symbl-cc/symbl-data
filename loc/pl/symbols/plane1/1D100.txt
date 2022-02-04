@@ -56,15 +56,15 @@
 1D137: Symbol muzyczny Ottava Bassa
 1D138: Symbol muzyczny Quindicesima Alta
 1D139: Symbol muzyczny Quindicesima Bassa
-1D13A: Symbol muzyczny Multi Rest : podwójny odpoczynek, odpoczynek breve
-1D13B: Cały symbol muzyczny : odpoczynek semibreve
-1D13C: Symbol muzyczny w połowie odpoczynku : odpoczynek minimalny
-1D13D: Kwartał symbolu muzycznego Odpoczynek : odpoczynek na szydełku
-1D13E: Symbol muzyczny ósmy odpoczynek : odpoczynek ósemki
-1D13F: Symbol muzyczny Szesnasty odpoczynek : reszta szesnastkowa
-1D140: Symbol muzyczny trzydzieści sekund odpoczynku : odpoczynek demisemiquaver
-1D141: Symbol muzyczny Sześćdziesiąty czwarty odpoczynek : odpoczynek hemidemisemiquaver, odpoczynek semidemisemiquaver
-1D142: Symbol muzyczny sto dwadzieścia osiem odpoczynku : półhemidemisemiquaver rest, quasihemidemisemiquaver rest
+1D13A: Symbol muzyczny Multi Rest: podwójny odpoczynek, odpoczynek breve
+1D13B: Cały symbol muzyczny: odpoczynek semibreve
+1D13C: Symbol muzyczny w połowie odpoczynku: odpoczynek minimalny
+1D13D: Kwartał symbolu muzycznego Odpoczynek: odpoczynek na szydełku
+1D13E: Symbol muzyczny ósmy odpoczynek: odpoczynek ósemki
+1D13F: Symbol muzyczny Szesnasty odpoczynek: reszta szesnastkowa
+1D140: Symbol muzyczny trzydzieści sekund odpoczynku: odpoczynek demisemiquaver
+1D141: Symbol muzyczny Sześćdziesiąty czwarty odpoczynek: odpoczynek hemidemisemiquaver, odpoczynek semidemisemiquaver
+1D142: Symbol muzyczny sto dwadzieścia osiem odpoczynku: półhemidemisemiquaver rest, quasihemidemisemiquaver rest
 1D143: Symbol muzyczny X Notehead
 1D144: Symbol muzyczny Plus Notehead
 1D145: Notatnik X Koło symboli muzycznych
@@ -91,14 +91,14 @@
 1D15A: Klaster muzyczny Symbol Notehead White
 1D15B: Klaster muzyczny Symbol Notehead Black
 1D15C: Symbol muzyczny Breve
-1D15D: Cały symbol muzyczny : semibreve
-1D15E: Półnuta symbolu muzycznego : półnuta
-1D15F: Uwaga kwartału symbolu muzycznego : ćwierćnuta
-1D160: Symbol muzyczny ósma uwaga : ósemka
-1D161: Szesnastka symbol muzyczny : szesnastka
-1D162: Symbol muzyczny Trzydzieści sekund Uwaga : demisemiquaver
-1D163: Symbol muzyczny sześćdziesiątej czwartej notatki : Hemidemisemiquaver, Semidemisemiquaver
-1D164: Symbol muzyczny sto dwadzieścia osiem Uwaga : semihemidemisemiquaver, quasihemidemisemiquaver
+1D15D: Cały symbol muzyczny: semibreve
+1D15E: Półnuta symbolu muzycznego: półnuta
+1D15F: Uwaga kwartału symbolu muzycznego: ćwierćnuta
+1D160: Symbol muzyczny ósma uwaga: ósemka
+1D161: Szesnastka symbol muzyczny: szesnastka
+1D162: Symbol muzyczny Trzydzieści sekund Uwaga: demisemiquaver
+1D163: Symbol muzyczny sześćdziesiątej czwartej notatki: Hemidemisemiquaver, Semidemisemiquaver
+1D164: Symbol muzyczny sto dwadzieścia osiem Uwaga: semihemidemisemiquaver, quasihemidemisemiquaver
 1D165: Symbol muzyczny łączący łodygę
 1D166: Symbol muzyczny łączący trzonek Sprechgesang
 1D167: Symbol muzyczny łączący Tremolo-1
@@ -253,4 +253,4 @@
 1D1FC:
 1D1FD:
 1D1FE:
-1D1FF:
+1D1FF:

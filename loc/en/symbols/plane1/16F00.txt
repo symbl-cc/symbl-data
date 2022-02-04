@@ -67,17 +67,17 @@
 16F42: Miao Letter Wa
 16F43: Miao Letter Ah
 16F44: Miao Letter Hha
-16F45:
-16F46:
-16F47:
-16F48:
-16F49:
-16F4A:
+16F45: Miao Letter Bri
+16F46: Miao Letter Syi
+16F47: Miao Letter Dzyi
+16F48: Miao Letter Te
+16F49: Miao Letter Tse
+16F4A: Miao Letter Rte
 16F4B:
 16F4C:
 16F4D:
 16F4E:
-16F4F:
+16F4F: Miao Sign Consonant Modifier Bar
 16F50: Miao Letter Nasalization
 16F51: Miao Sign Aspiration
 16F52: Miao Sign Reformed Voicing
@@ -125,15 +125,15 @@
 16F7C: Miao Vowel Sign Ou
 16F7D: Miao Vowel Sign N
 16F7E: Miao Vowel Sign Ng
-16F7F:
-16F80:
-16F81:
-16F82:
-16F83:
-16F84:
-16F85:
-16F86:
-16F87:
+16F7F: Miao Vowel Sign Uog
+16F80: Miao Vowel Sign Yui
+16F81: Miao Vowel Sign Og
+16F82: Miao Vowel Sign Oer
+16F83: Miao Vowel Sign Vw
+16F84: Miao Vowel Sign Ig
+16F85: Miao Vowel Sign Ea
+16F86: Miao Vowel Sign Iong
+16F87: Miao Vowel Sign Ui
 16F88:
 16F89:
 16F8A:
@@ -224,9 +224,9 @@
 16FDF:
 16FE0: Tangut Iteration Mark
 16FE1: Nushu Iteration Mark
-16FE2:
-16FE3:
-16FE4:
+16FE2: Old Chinese Hook Mark
+16FE3: Old Chinese Iteration Mark
+16FE4: Khitan Small Script Filler
 16FE5:
 16FE6:
 16FE7:
@@ -238,8 +238,8 @@
 16FED:
 16FEE:
 16FEF:
-16FF0:
-16FF1:
+16FF0: Vietnamese Alternate Reading Mark Ca
+16FF1: Vietnamese Alternate Reading Mark Nhay
 16FF2:
 16FF3:
 16FF4:

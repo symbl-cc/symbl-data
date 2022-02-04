@@ -1,24 +1,24 @@
-0300: Grave Accent kombinálása : görög varia
-0301: Akut akcentus kombinálása : stressz jel : görög oxia, tonos
-0302: A Circumflex Accent kombinálása : kalap
+0300: Grave Accent kombinálása: görög varia
+0301: Akut akcentus kombinálása: stressz jel , görög oxia, tonos
+0302: A Circumflex Accent kombinálása: kalap
 0303: Tilde kombinálása
-0304: Macron kombinálása : hosszú
-0305: Overline kombinálása : túlzás, vinculum
-0306: Breve kombinálása : rövid : görög vrachy
-0307: A fenti pontok kombinálása : származékos (newtoni jelölés)
-0308: A diazézis kombinálása : dupla pont fent, umlaut : görög dialytika : kettős származék
-0309: A Hook Above kombinálása : hoi
+0304: Macron kombinálása: hosszú
+0305: Overline kombinálása: túlzás, vinculum
+0306: Breve kombinálása: rövid , görög vrachy
+0307: A fenti pontok kombinálása: származékos (newtoni jelölés)
+0308: A diazézis kombinálása: dupla pont fent, umlaut , görög dialytika , kettős származék
+0309: A Hook Above kombinálása: hoi
 030A: A gyűrű feletti kombinálása
 030B: Dupla akut akcentus kombinálása
-030C: A Caron kombinálása : hacek, v
+030C: A Caron kombinálása: hacek, v
 030D: Függőleges vonal kombinálása
 030E: Dupla függőleges vonal kombinálása
 030F: Kettős sűrű akcentussal kombinálva
 0310: Candrabindu kombinálása
 0311: Fordított Breve kombinálása
-0312: Az esztergált vesszővel kombinálva : cedilla felett
-0313: Comma Above kombinálása : görög psili, sima légzési jel
-0314: A fordított vesszővel kombinálva : görög dasia, durva légzési jel
+0312: Az esztergált vesszővel kombinálva: cedilla felett
+0313: Comma Above kombinálása: görög psili, sima légzési jel
+0314: A fordított vesszővel kombinálva: görög dasia, durva légzési jel
 0315: A vessző fölött a jobb oldalon
 0316: Az alábbiakban a Grave Accent kombinálása
 0317: Az Akut Accent kombinációja az alábbiakban
@@ -33,12 +33,12 @@
 0320: Az alábbiakban a mínuszjel kombinálása
 0321: A Palatalized Hook kombinálása
 0322: Az Retroflex horog kombinálása
-0323: Az alábbi pontok kombinálása : Nang
+0323: Az alábbi pontok kombinálása: Nang
 0324: Az alábbiakban a Diaeresis kombinálása
 0325: Gyűrű kombinálása az alábbiakban
 0326: Az alábbiakban a vessző összekapcsolása
 0327: A Cedilla kombinálása
-0328: Ogonek kombinálása : orrhurok
+0328: Ogonek kombinálása: orrhurok
 0329: Az alábbi függőleges vonal kombinálása
 032A: A híd összekapcsolása
 032B: Az inverz kettős ív kombinálása az alábbiakban
@@ -48,26 +48,26 @@
 032F: Az invertált Breve kombinálása
 0330: Az alábbi Tilde kombinációja
 0331: Az alábbi Macron kombinálása
-0332: Alacsony vonal kombinálása : aláhúzás, aláhúzás
-0333: A kettős alacsony vonal kombinálása : dupla aláhúzás, dupla aláhúzás
+0332: Alacsony vonal kombinálása: aláhúzás, aláhúzás
+0333: A kettős alacsony vonal kombinálása: dupla aláhúzás, dupla aláhúzás
 0334: A Tilde Overlay kombinálása
 0335: A rövid löketfedő kombinálása
 0336: A Long Stroke Overlay kombinálása
-0337: A rövid Solidus Overlay kombinálása : rövid slash overlay
-0338: A Long Solidus Overlay kombinálása : hosszú slash overlay
+0337: A rövid Solidus Overlay kombinálása: rövid slash overlay
+0338: A Long Solidus Overlay kombinálása: hosszú slash overlay
 0339: A jobb oldali félgyűrű kombinálása az alábbiakban
 033A: Fordított híd kombinálása az alábbiakban
 033B: Az alábbi négyzet kombinálása
 033C: A Sirályok kombinálása
 033D: Az X feletti kombináció
-033E: Függőleges Tilde kombinálása : yerik
+033E: Függőleges Tilde kombinálása: yerik
 033F: A kettős felső vonal kombinálása
 0340: Grave Tone Mark kombinálása
 0341: Akut hangjelzés kombinálása
 0342: A görög Perispomeni kombinálása
 0343: A görög Koronist egyesítve
 0344: A görög Dialytika Tonos egyesítése
-0345: A görög Ypogegrammeni kombinálása : az alábbiakban a görög non-spacing iota : iota index
+0345: A görög Ypogegrammeni kombinálása: az alábbiakban a görög non-spacing iota , iota index
 0346: A híd felett
 0347: Az egyenlőségjelek kombinálása az alábbiakban
 0348: Az alábbi kettős függőleges vonal kombinálása
@@ -90,12 +90,12 @@
 0359: Az Asterisk kombinálása
 035A: Az alábbi kettős gyűrű kombinálása
 035B: A Zigzag kombinálása
-035C: Az alábbi kettős Breve kombinálása : a ligatúra nyakkendő, papirológiai kötőjel
+035C: Az alábbi kettős Breve kombinálása: a ligatúra nyakkendő, papirológiai kötőjel
 035D: A Double Breve kombinálása
 035E: A Double Macron kombinálása
 035F: Kettős makró kombinálása az alábbiakban
 0360: A Double Tilde kombinálása
-0361: A kettős invertált Breve kombinálása : ligatúra nyakkendő
+0361: A kettős invertált Breve kombinálása: ligatúra nyakkendő
 0362: Kettős jobbra mutató nyíl kombinálása
 0363: Latin kisbetű A kombinálása
 0364: Latin kis E betű kombinálása
@@ -114,17 +114,17 @@
 0371: Görög kis levél Heta
 0372: Görög főváros levél archaikus Sampi
 0373: Görög kis levél archaikus Sampi
-0374: Görög számjegy : dexia keraia
-0375: Görög alsó számjegy : aristeri keraia
+0374: Görög számjegy: dexia keraia
+0375: Görög alsó számjegy: aristeri keraia
 0376: Görög fővárosi levél Pamphylian Digamma
 0377: Görög kis levél Pamphylian Digamma
 0378:
 0379:
-037A: Görög Ypogegrammeni : iota index
+037A: Görög Ypogegrammeni: iota index
 037B: Görög kis fordított Lunate Sigma szimbólum
 037C: Görög kis pontozott lunate Sigma szimbólum
 037D: Görög kis fordított pontozott lunate Sigma szimbólum
-037E: Görög kérdőjel : erotimatiko
+037E: Görög kérdőjel: erotimatiko
 037F: Yot görög főváros levél
 0380:
 0381:
@@ -145,13 +145,13 @@
 0390: Görög kis levél Iota a Dialytika és Tonos
 0391: Görög fővárosi levél Alpha
 0392: Görög fővárosi levél Beta
-0393: Gamma görög főváros levél : gamma funkció
+0393: Gamma görög főváros levél: gamma funkció
 0394: Görög főváros Delta
 0395: Görög főváros Epsilon
 0396: Zeta görög főváros levél
 0397: Eta görög főváros levél
 0398: Görög tőke levél Theta
-0399: Görög főváros, Iota : iota adscript
+0399: Görög főváros, Iota: iota adscript
 039A: Kappa görög főváros levél
 039B: Lamda görög főváros levél
 039C: Mu görög főváros levél
@@ -185,14 +185,14 @@
 03B8: Görög kis levél Theta
 03B9: Görög kis levél Iota
 03BA: Görög kis levél Kappa
-03BB: Görög kis levél Lamda : lambda
+03BB: Görög kis levél Lamda: lambda
 03BC: Görög kis levél Mu
 03BD: Görög kis levél Nu
 03BE: Görög kis levél Xi
 03BF: Görög kis levél Omicron
 03C0: Görög kis betű Pi
 03C1: Görög kis levél Rho
-03C2: Görög kis levél Final Sigma : stigma (ennek a levélformának a modern görög neve)
+03C2: Görög kis levél Final Sigma: stigma (ennek a levélformának a modern görög neve)
 03C3: Görög kis levél Sigma
 03C4: Görög kis levél Tau
 03C5: Görög kis levél Upsilon
@@ -206,13 +206,13 @@
 03CD: Görög kis levél Upsilon a Tonosszal
 03CE: Görög kis levél Omega és Tonos
 03CF: Görög főváros Kai Symbol
-03D0: Görög béta szimbólum : hullámos béta
-03D1: Görög théta szimbólum : szkript theta
+03D0: Görög béta szimbólum: hullámos béta
+03D1: Görög théta szimbólum: szkript theta
 03D2: Görög Upsilon a Hook szimbólummal
 03D3: Görög Upsilon akut és horog szimbólummal
 03D4: Görög Upsilon Diaeresis és Hook szimbólummal
 03D5: Görög Phi szimbólum
-03D6: Görög Pi szimbólum : omega pi
+03D6: Görög Pi szimbólum: omega pi
 03D7: Görög Kai Symbol
 03D8: Görög levél archaikus Koppa
 03D9: Görög kis levél archaikus Koppa
@@ -238,19 +238,19 @@
 03ED: Kopt kis levél Shima
 03EE: Copti Capital Letter Dei
 03EF: Kopt kis levél Dei
-03F0: Görög Kappa szimbólum : kappa parancsfájl
-03F1: Görög Rho szimbólum : farkú rho
-03F2: Görög Lunate Sigma szimbólum : görög kis levél lunate sigma
+03F0: Görög Kappa szimbólum: kappa parancsfájl
+03F1: Görög Rho szimbólum: farkú rho
+03F2: Görög Lunate Sigma szimbólum: görög kis levél lunate sigma
 03F3: Görög levél Yot
 03F4: Görög főváros Theta szimbólum
-03F5: Görög Lunate Epsilon szimbólum : egyenes epsilon
-03F6: Görög fordított Lunate Epsilon szimbólum : fordított egyenes epsilon
+03F5: Görög Lunate Epsilon szimbólum: egyenes epsilon
+03F6: Görög fordított Lunate Epsilon szimbólum: fordított egyenes epsilon
 03F7: Sho görög főváros levél
 03F8: Görög kis levél Sho
 03F9: Görög Capital Lunate Sigma szimbólum
 03FA: Görög fővárosa, San
 03FB: Görög kis levél San
 03FC: Görög Rho stroke szimbólummal
-03FD: A görög tőke megfordította a Lunate Sigma szimbólumot : antisigma
-03FE: Görög tőke pontozott lunate Sigma szimbólum : sigma periestigmenon
-03FF: A görög tőke megfordította a pontozott Lunate Sigma szimbólumot : antisigma periestigmenon
+03FD: A görög tőke megfordította a Lunate Sigma szimbólumot: antisigma
+03FE: Görög tőke pontozott lunate Sigma szimbólum: sigma periestigmenon
+03FF: A görög tőke megfordította a pontozott Lunate Sigma szimbólumot: antisigma periestigmenon

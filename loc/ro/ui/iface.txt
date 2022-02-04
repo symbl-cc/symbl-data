@@ -1,3 +1,5 @@
+hide: Ascunde
+show: Spectacol
 up: Sus
 range: Interval
 loading: Se încarcă, te rugăm să aștepți...
@@ -15,6 +17,14 @@ recent: Recent
 recent-text: Aici se afișează simbolurile utilizate recent. Vezi simbolurile populare.
 read-more: Vezi mai mult
 read-less: Ascunde
+
+copied: Copiat!
+see_also: Vezi si
+page_content_menu: Conținutul
+homepage: Pagina principala
+cookie-message: Acest site utilizează 🍪cookie-uri pentru a vă asigura că veți obține cea mai bună experiență.
+accept: Accept
+empty-cell: Celula goală
 
 [mobile]
 to-full: Mergi la versiunea completă

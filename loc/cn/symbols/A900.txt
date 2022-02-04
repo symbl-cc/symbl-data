@@ -1,87 +1,87 @@
-A900 : Kayah Li Digit Zero
-A901 : Kayah Li Digit One
-A902 : Kayah Li Digit Two
-A903 : Kayah Li Digit Three
-A904 : Kayah Li Digit Four
-A905 : Kayah Li Digit Five
-A906 : Kayah Li Digit Six
-A907 : Kayah Li Digit Seven
-A908 : Kayah Li Digit Eight
-A909 : Kayah Li Digit Nine
-A90A : Kayah Li Letter Ka
-A90B : Kayah Li Letter Kha
-A90C : Kayah Li Letter Ga
-A90D : Kayah Li Letter Nga
-A90E : Kayah Li Letter Sa
-A90F : Kayah Li Letter Sha
-A910 : Kayah Li Letter Za
-A911 : Kayah Li Letter Nya
-A912 : Kayah Li Letter Ta
-A913 : Kayah Li Letter Hta
-A914 : Kayah Li Letter Na
-A915 : Kayah Li Letter Pa
-A916 : Kayah Li Letter Pha
-A917 : Kayah Li Letter Ma
-A918 : Kayah Li Letter Da
-A919 : Kayah Li Letter Ba
-A91A : Kayah Li Letter Ra
-A91B : Kayah Li Letter Ya
-A91C : Kayah Li Letter La
-A91D : Kayah Li Letter Wa
-A91E : Kayah Li Letter Tha
-A91F : Kayah Li Letter Ha
-A920 : Kayah Li Letter Va
-A921 : Kayah Li Letter Ca
-A922 : Kayah Li Letter A
-A923 : Kayah Li Letter Oe
-A924 : Kayah Li Letter I
-A925 : Kayah Li Letter Oo
-A926 : Kayah Li Vowel Ue
-A927 : Kayah Li Vowel E
-A928 : Kayah Li Vowel U
-A929 : Kayah Li Vowel Ee
-A92A : Kayah Li Vowel O
+A900 : 卡亞莉數字零
+A901 : 卡亞莉數碼一號
+A902 : 卡亞莉數字二
+A903 : 卡亞莉數字三
+A904 : 卡亞李四位數
+A905 : 卡亞李數字五
+A906 : 卡亞莉數字六
+A907 : 卡亞李數字七
+A908 : 卡亞莉數字八
+A909 : 卡亞莉數字九
+A90A : 李嘉欣（Kayah Li Letter Ka）
+A90B : 李嘉欣（Kayah Li Letter）
+A90C : 李嘉雅
+A90D : 李嘉雅
+A90E : 李嘉aya
+A90F : 李嘉雅
+A910 : 卡亞立字母雜
+A911 : 卡亞莉·李（Nya）
+A912 : 李嘉雅字母Ta
+A913 : 卡亞立字母Hta
+A914 : 卡亞莉·李娜
+A915 : 李嘉雅字母Pa
+A916 : 卡亞李·萊·帕
+A917 : 李嘉雅
+A918 : 李嘉雅字母大
+A919 : 李嘉欣
+A91A : 李嘉雅字母Ra
+A91B : 李嘉雅
+A91C : 李嘉雅
+A91D : 李嘉瓦
+A91E : 李嘉雅字母Tha
+A91F : 李嘉雅（Kayah Li）字母Ha
+A920 : 李嘉欣
+A921 : 卡亞莉（Kayah Li）字母Ca
+A922 : 李嘉雅字母A
+A923 : 李嘉耶李大江
+A924 : 李嘉雅字母I
+A925 : 李嘉欣字母Oo
+A926 : 卡耶·李·元音上
+A927 : 卡耶·李·元音E
+A928 : 卡亞·李·元音U
+A929 : 李嘉樂元音Ee
+A92A : Kayah Li元音O
 A92B : Kayah Li Tone Plophu
 A92C : Kayah Li Tone Calya
 A92D : Kayah Li Tone Calya Plophu
 A92E : Kayah Li Sign Cwi
 A92F : Kayah Li Sign Shya
-A930 : Rejang Letter Ka
-A931 : Rejang Letter Ga
-A932 : Rejang Letter Nga
-A933 : Rejang Letter Ta
-A934 : Rejang Letter Da
-A935 : Rejang Letter Na
-A936 : Rejang Letter Pa
-A937 : Rejang Letter Ba
-A938 : Rejang Letter Ma
-A939 : Rejang Letter Ca
-A93A : Rejang Letter Ja
-A93B : Rejang Letter Nya
-A93C : Rejang Letter Sa
-A93D : Rejang Letter Ra
-A93E : Rejang Letter La
-A93F : Rejang Letter Ya
-A940 : Rejang Letter Wa
-A941 : Rejang Letter Ha
-A942 : Rejang Letter Mba
-A943 : Rejang Letter Ngga
+A930 : 雷章字母加
+A931 : 雷讓字母嘎
+A932 : 雷讓萊雅
+A933 : 雷讓字母塔
+A934 : 雷讓字母達
+A935 : 雷讓字母娜
+A936 : 里昂字母Pa
+A937 : 里昂字母巴
+A938 : 雷章字母馬
+A939 : 雷讓字母Ca
+A93A : 雷讓字母賈
+A93B : 雷讓字母妮
+A93C : 雷讓字母Sa
+A93D : 雷讓字母Ra
+A93E : 雷讓字母La
+A93F : 雷章字母雅
+A940 : 雷章字母華
+A941 : 雷讓字母哈
+A942 : Rejang字母Mba
+A943 : 雷讓·萊卡
 A944 : Rejang Letter Nda
-A945 : Rejang Letter Nyja
-A946 : Rejang Letter A
-A947 : Rejang Vowel Sign I
-A948 : Rejang Vowel Sign U
-A949 : Rejang Vowel Sign E
-A94A : Rejang Vowel Sign Ai
-A94B : Rejang Vowel Sign O
-A94C : Rejang Vowel Sign Au
-A94D : Rejang Vowel Sign Eu
-A94E : Rejang Vowel Sign Ea
-A94F : Rejang Consonant Sign Ng
-A950 : Rejang Consonant Sign N
-A951 : Rejang Consonant Sign R
-A952 : Rejang Consonant Sign H
-A953 : Rejang Virama
+A945 : 禮讓字母尼迦
+A946 : 瑞章字母A
+A947 : Rejang元音標誌I
+A948 : Rejang元音符號U
+A949 : Rejang元音符號E
+A94A : Rejang元音符號Ai
+A94B : Rejang元音符號O
+A94C : Rejang元音符號Au
+A94D : Rejang元音符號Eu
+A94E : Rejang元音符號Ea
+A94F : 吳禮章輔音
+A950 : Rejang輔音符號N
+A951 : 裡讓輔音符號R
+A952 : Rejang輔音符號H
+A953 : 雷讓·維拉瑪
 A954 : 
 A955 : 
 A956 : 
@@ -93,164 +93,164 @@ A95B :
 A95C : 
 A95D : 
 A95E : 
-A95F : Rejang Section Mark
-A960 : Hangul Choseong Tikeut-mieum
-A961 : Hangul Choseong Tikeut-pieup
-A962 : Hangul Choseong Tikeut-sios
-A963 : Hangul Choseong Tikeut-cieuc
-A964 : Hangul Choseong Rieul-kiyeok
-A965 : Hangul Choseong Rieul-ssangkiyeok
-A966 : Hangul Choseong Rieul-tikeut
-A967 : Hangul Choseong Rieul-ssangtikeut
-A968 : Hangul Choseong Rieul-mieum
-A969 : Hangul Choseong Rieul-pieup
-A96A : Hangul Choseong Rieul-ssangpieup
-A96B : Hangul Choseong Rieul-kapyeounpieup
-A96C : Hangul Choseong Rieul-sios
-A96D : Hangul Choseong Rieul-cieuc
-A96E : Hangul Choseong Rieul-khieukh
-A96F : Hangul Choseong Mieum-kiyeok
-A970 : Hangul Choseong Mieum-tikeut
-A971 : Hangul Choseong Mieum-sios
-A972 : Hangul Choseong Pieup-sios-thieuth
-A973 : Hangul Choseong Pieup-khieukh
-A974 : Hangul Choseong Pieup-hieuh
-A975 : Hangul Choseong Ssangsios-pieup
-A976 : Hangul Choseong Ieung-rieul
-A977 : Hangul Choseong Ieung-hieuh
-A978 : Hangul Choseong Ssangcieuc-hieuh
-A979 : Hangul Choseong Ssangthieuth
-A97A : Hangul Choseong Phieuph-hieuh
-A97B : Hangul Choseong Hieuh-sios
-A97C : Hangul Choseong Ssangyeorinhieuh
+A95F : Rejang節標記
+A960 : 朝鮮文城城面
+A961 : 朝鮮韓城成吉餅
+A962 : 韓文成城提可蘇斯
+A963 : 朝鮮文成城教育學院
+A964 : 韓文成城烈ul
+A965 : ​​朝鮮文城城烈三國
+A966 : 韓文成城立Hang
+A967 : 朝鮮文成城烈酒
+A968 : 朝鮮文城城博物館
+A969 : 朝鮮文城城ie子
+A96A : 朝鮮韓城城ie相
+A96B : 韓文成城理ul-kapyeounpieup
+A96C : 韓城成城ose世
+A96D : 朝鮮韓城城ie
+A96E : 朝鮮文成城R琉
+A96F : 韓城成城面
+A970 : 朝鮮文城城面
+A971 : 韓文城城博物館
+A972 : 朝鮮文城城Pieup-sios-thieuth
+A973 : 朝鮮文（Hangul Choseong）Pieup-khieukh
+A974 : 朝鮮文城城Pieup-hieuh
+A975 : 韓文成城雙ang
+A976 : 韓城城城陵
+A977 : 韓城城城面
+A978 : 朝鮮文城城雙修
+A979 : 朝鮮文城城山
+A97A : 朝鮮文城城
+A97B : 韓文成城秀Hi
+A97C : 朝鮮文城城雙葉林hi
 A97D : 
 A97E : 
 A97F : 
-A980 : Javanese Sign Panyangga
-A981 : Javanese Sign Cecak
-A982 : Javanese Sign Layar
-A983 : Javanese Sign Wignyan
-A984 : Javanese Letter A
-A985 : Javanese Letter I Kawi
-A986 : Javanese Letter I
-A987 : Javanese Letter Ii
-A988 : Javanese Letter U
-A989 : Javanese Letter Pa Cerek
-A98A : Javanese Letter Nga Lelet
-A98B : Javanese Letter Nga Lelet Raswadi
-A98C : Javanese Letter E
-A98D : Javanese Letter Ai
-A98E : Javanese Letter O
-A98F : Javanese Letter Ka
-A990 : Javanese Letter Ka Sasak
-A991 : Javanese Letter Ka Murda
-A992 : Javanese Letter Ga
-A993 : Javanese Letter Ga Murda
-A994 : Javanese Letter Nga
-A995 : Javanese Letter Ca
-A996 : Javanese Letter Ca Murda
-A997 : Javanese Letter Ja
-A998 : Javanese Letter Nya Murda
-A999 : Javanese Letter Ja Mahaprana
-A99A : Javanese Letter Nya
-A99B : Javanese Letter Tta
-A99C : Javanese Letter Tta Mahaprana
-A99D : Javanese Letter Dda
-A99E : Javanese Letter Dda Mahaprana
-A99F : Javanese Letter Na Murda
-A9A0 : Javanese Letter Ta
-A9A1 : Javanese Letter Ta Murda
-A9A2 : Javanese Letter Da
-A9A3 : Javanese Letter Da Mahaprana
-A9A4 : Javanese Letter Na
-A9A5 : Javanese Letter Pa
-A9A6 : Javanese Letter Pa Murda
-A9A7 : Javanese Letter Ba
-A9A8 : Javanese Letter Ba Murda
-A9A9 : Javanese Letter Ma
-A9AA : Javanese Letter Ya
-A9AB : Javanese Letter Ra
-A9AC : Javanese Letter Ra Agung
-A9AD : Javanese Letter La
-A9AE : Javanese Letter Wa
-A9AF : Javanese Letter Sa Murda
-A9B0 : Javanese Letter Sa Mahaprana
-A9B1 : Javanese Letter Sa
-A9B2 : Javanese Letter Ha
-A9B3 : Javanese Sign Cecak Telu
-A9B4 : Javanese Vowel Sign Tarung
-A9B5 : Javanese Vowel Sign Tolong
-A9B6 : Javanese Vowel Sign Wulu
-A9B7 : Javanese Vowel Sign Wulu Melik
-A9B8 : Javanese Vowel Sign Suku
-A9B9 : Javanese Vowel Sign Suku Mendut
-A9BA : Javanese Vowel Sign Taling
-A9BB : Javanese Vowel Sign Dirga Mure
-A9BC : Javanese Vowel Sign Pepet
-A9BD : Javanese Consonant Sign Keret
-A9BE : Javanese Consonant Sign Pengkal
-A9BF : Javanese Consonant Sign Cakra
-A9C0 : Javanese Pangkon
-A9C1 : Javanese Left Rerenggan
-A9C2 : Javanese Right Rerenggan
-A9C3 : Javanese Pada Andap
-A9C4 : Javanese Pada Madya
-A9C5 : Javanese Pada Luhur
-A9C6 : Javanese Pada Windu
-A9C7 : Javanese Pada Pangkat
-A9C8 : Javanese Pada Lingsa
-A9C9 : Javanese Pada Lungsi
-A9CA : Javanese Pada Adeg
-A9CB : Javanese Pada Adeg Adeg
-A9CC : Javanese Pada Piseleh
-A9CD : Javanese Turned Pada Piseleh
+A980 : 爪哇星座Panyangga
+A981 : 爪哇木簽Cecak
+A982 : 爪哇標誌牌
+A983 : 爪哇標誌維尼揚
+A984 : 爪哇字母A
+A985 : 爪哇字母I卡維
+A986 : 爪哇字母I
+A987 : 爪哇字母Ii
+A988 : 爪哇字母U
+A989 : 爪哇字母Pa Cerek
+A98A : 爪哇字母Nga Lelet
+A98B : 爪哇字母Nga Lelet Raswadi
+A98C : 爪哇字母E
+A98D : 爪哇字母Ai
+A98E : 爪哇字母O
+A98F : 爪哇字母Ka
+A990 : 爪哇字母Ka Sasak
+A991 : 爪哇字母Ka Murda
+A992 : 爪哇字母Ga
+A993 : 爪哇字母Ga Murda
+A994 : 爪哇字母Nga
+A995 : 爪哇字母Ca
+A996 : 爪哇字母Ca Murda
+A997 : 爪哇字母Ja
+A998 : 爪哇字母Nya Murda
+A999 : 爪哇字母Ja Mahaprana
+A99A : 爪哇字母Nya
+A99B : 爪哇字母Tta
+A99C : 爪哇字母Tta Mahaprana
+A99D : 爪哇字母Dda
+A99E : 爪哇字母Dda Mahaprana
+A99F : 爪哇字母Na Murda
+A9A0 : 爪哇字母Ta
+A9A1 : 爪哇字母Ta Murda
+A9A2 : 爪哇字母Da
+A9A3 : 爪哇字母Da Mahaprana
+A9A4 : 爪哇字母Na
+A9A5 : 爪哇字母Pa
+A9A6 : 爪哇字母Pa Murda
+A9A7 : 爪哇字母Ba
+A9A8 : 爪哇字母Ba Murda
+A9A9 : 爪哇字母Ma
+A9AA : 爪哇字母Ya
+A9AB : 爪哇字母Ra
+A9AC : 爪哇字母Ra Agung
+A9AD : 爪哇字母La
+A9AE : 爪哇字母Wa
+A9AF : 爪哇字母Sa Murda
+A9B0 : 爪哇字母Sa Mahaprana
+A9B1 : 爪哇字母Sa
+A9B2 : 爪哇字母Ha
+A9B3 : 爪哇語Cecak Telu
+A9B4 : 爪哇元音符號Tarung
+A9B5 : 爪哇元音符號Tolong
+A9B6 : 爪哇元音符號烏魯
+A9B7 : 爪哇元音符號Wulu Melik
+A9B8 : 爪哇元音符號蘇古
+A9B9 : 爪哇元音符號Suku Mendut
+A9BA : 爪哇語元音符號結尾
+A9BB : 爪哇元音符號Dirga Mure
+A9BC : 爪哇元音符號Pepet
+A9BD : 爪哇輔音符號Keret
+A9BE : 爪哇輔音符號Pengkal
+A9BF : 爪哇輔音符號克拉
+A9C0 : 爪哇Pangkon
+A9C1 : 爪哇左Rerenggan
+A9C2 : 爪哇右Rerenggan
+A9C3 : 爪哇語Pada Andap
+A9C4 : 爪哇語Pada Madya
+A9C5 : 爪哇語Pada Luhur
+A9C6 : 爪哇帕達溫杜
+A9C7 : 爪哇語Pada Pangkat
+A9C8 : 爪哇語Pada Lingsa
+A9C9 : 爪哇帕達隆西
+A9CA : 爪哇帕達阿德
+A9CB : 爪哇Pada Adeg Adeg
+A9CC : 爪哇人Pada Piseleh
+A9CD : 爪哇人轉帕達·皮瑟列
 A9CE : 
-A9CF : Javanese Pangrangkep
-A9D0 : Javanese Digit Zero
-A9D1 : Javanese Digit One
-A9D2 : Javanese Digit Two
-A9D3 : Javanese Digit Three
-A9D4 : Javanese Digit Four
-A9D5 : Javanese Digit Five
-A9D6 : Javanese Digit Six
-A9D7 : Javanese Digit Seven
-A9D8 : Javanese Digit Eight
-A9D9 : Javanese Digit Nine
+A9CF : 爪哇語Pangrangkep
+A9D0 : 爪哇數字零
+A9D1 : 爪哇數字一
+A9D2 : 爪哇數字二
+A9D3 : 爪哇數字三
+A9D4 : 爪哇數字四
+A9D5 : 爪哇數字五
+A9D6 : 爪哇數字六
+A9D7 : 爪哇數字七
+A9D8 : 爪哇數字八
+A9D9 : 爪哇數字九
 A9DA : 
 A9DB : 
 A9DC : 
 A9DD : 
-A9DE : Javanese Pada Tirta Tumetes
-A9DF : Javanese Pada Isen-isen
-A9E0 : 
-A9E1 : 
-A9E2 : 
-A9E3 : 
-A9E4 : 
-A9E5 : 
-A9E6 : 
-A9E7 : 
-A9E8 : 
-A9E9 : 
-A9EA : 
-A9EB : 
-A9EC : 
-A9ED : 
-A9EE : 
-A9EF : 
-A9F0 : 
-A9F1 : 
-A9F2 : 
-A9F3 : 
-A9F4 : 
-A9F5 : 
-A9F6 : 
-A9F7 : 
-A9F8 : 
-A9F9 : 
-A9FA : 
-A9FB : 
-A9FC : 
-A9FD : 
-A9FE : 
-A9FF : 
+A9DE : 爪哇Pada Tirta Tumetes
+A9DF : 爪哇帕達（Isen-isen）
+A9E0 : 緬甸字母shan gha
+A9E1 : 緬甸字母山茶
+A9E2 : 緬甸字母山賈
+A9E3 : 緬甸字母珊娜
+A9E4 : 緬甸字母山巴
+A9E5 : 緬甸標誌山鋸
+A9E6 : 緬甸修飾語字母重複
+A9E7 : 緬甸大泰尼亞
+A9E8 : 緬甸文字母字母
+A9E9 : 緬甸字母大叻嘎
+A9EA : 緬甸字母泰來加
+A9EB : 緬甸字母泰來傑
+A9EC : 緬甸字母泰蘭賈
+A9ED : 緬甸大泰字母報
+A9EE : 緬甸大泰佛
+A9EF : 緬甸大泰字母
+A9F0 : 緬甸大叻數字零
+A9F1 : 緬甸大叻數字一
+A9F2 : 緬甸大叻數字二
+A9F3 : 緬甸大叻數字三
+A9F4 : 緬甸大叻數字四
+A9F5 : 緬甸大叻數字五
+A9F6 : 緬甸大叻數字六
+A9F7 : 緬甸大叻數字七
+A9F8 : 緬甸大叻數字八
+A9F9 : 緬甸大叻數字九
+A9FA : 緬甸字母大叻lla
+A9FB : 緬甸字母泰來達
+A9FC : 緬甸大泰字母
+A9FD : 緬甸字母泰來巴
+A9FE : 緬甸大泰字母
+A9FF : 

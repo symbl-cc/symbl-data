@@ -1,16 +1,22 @@
-title: Unicode® Character Table
+title: Unicode Character Table
+unicode: Unicode
+unicodeorg: Unicode® is a registered trademark of Unicode, Inc. in the United States and other countries. This site is not  affiliated, associated, authorized, endorsed by, or in any way officially connected with  Unicode, Inc. (aka The Unicode Consortium). For the official Unicode website, please go to www.unicode.org.
+
+[mainpage]: Homepage
 
 [sets]: Sets
-set: Set
-list: Character sets
+set: Sets
+list: Sets
+title: Popular character sets
+all: See all
 
 [blocks]: Blocks
 block: Block
-list: Unicode blocks
+list: Unicode
 
 [languages]: Languages
 list: Languages
-blocks: Blocks of language
+blocks: You can find this language in next blocks
 
 [countries]: Countries
 list: Countries
@@ -18,6 +24,24 @@ list: Countries
 [alphabets]: Alphabets
 list: Alphabets
 
+[holidays]: Holidays
+list: Holidays
+
 [types]: Types
 type: type
 list: Types
+
+[html-entities]: HTML Character Entity References
+list: HTML Entities
+
+[alt-codes]: ALT codes for Windows
+list: Alt codes
+en: English keyboard layout
+
+[emoji]: Emoji
+
+[text-art]: Text art
+list: Text art
+
+[kaomoji]: Kaomoji
+list: Kaomoji

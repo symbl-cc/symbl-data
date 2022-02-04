@@ -1,31 +1,31 @@
 2300: Átmérő jel
 2301: Elektromos nyíl
-2302: Ház : itthon
+2302: Ház: itthon
 2303: Felfelé mutató nyíl
 2304: Le nyílhegy
 2305: A projektív
 2306: távlati
 2307: Hullámos vonal
-2308: Bal felső mennyezet : apl upstile
+2308: Bal felső mennyezet: apl upstile
 2309: Jobb mennyezet
-230A: Bal padló : apl downstile
+230A: Bal padló: apl downstile
 230B: Jobb emelet
 230C: Alul jobbra
 230D: Alul balra
 230E: Jobb jobbra
 230F: A bal felső sarok
-2310: Fordított nem jel : sor kezdete
-2311: Square Lozenge : kissen (párna)
-2312: Ív : bármely vonal helyzete
-2313: szegmens : egy felület pozícióját
+2310: Fordított nem jel: sor kezdete
+2311: Square Lozenge: kissen (párna)
+2312: Ív: bármely vonal helyzete
+2313: szegmens: egy felület pozícióját
 2314: Ágazat
 2315: Telefon felvevő
-2316: Pozíció jelző : igaz pozíció
+2316: Pozíció jelző: igaz pozíció
 2317: Viewdata tér
-2318: Érdeklődési hely jel : parancsgomb : operációs rendszer kulcs (iso 9995-7)
-2319: Nem fordult elő : vonaljelző
+2318: Érdeklődési hely jel: parancsgomb , operációs rendszer kulcs (iso 9995-7)
+2319: Nem fordult elő: vonaljelző
 231A: Néz
-231B: Homokóra : alkímiai szimbólum az óra
+231B: Homokóra: alkímiai szimbólum az óra
 231C: Bal felső sarok
 231D: Jobb felső sarok
 231E: Alsó bal sarok
@@ -34,14 +34,14 @@
 2321: Alsó félig integrális
 2322: homlokát ráncolja
 2323: Mosoly
-2324: Felfelé mutató nyíl két vízszintes sáv között : Enter gomb
+2324: Felfelé mutató nyíl két vízszintes sáv között: Enter gomb
 2325: Opciógomb
-2326: Törlés a jobbra : törölje a jobb oldali gombot
-2327: X Egy téglalapdobozban : törölje a kulcsot
+2326: Törlés a jobbra: törölje a jobb oldali gombot
+2327: X Egy téglalapdobozban: törölje a kulcsot
 2328: Billentyűzet
 2329: Balra mutató szögtartó
 232A: Jobbra mutató szögtartó
-232B: Törlés a balra : törölje a bal gombot
+232B: Törlés a balra: törölje a bal gombot
 232C: Benzolgyűrű
 232D: hengeresség
 232E: Minden Around-profil
@@ -72,18 +72,18 @@
 2347: Apl Funkcionális szimbólum Négy balra nyíl
 2348: Apl Funkcionális szimbólum Quad Jobbra mutató nyíl
 2349: Apl Funkcionális Szimbólum Kör Backslash
-234A: Apl Funkcionális szimbólum Le Tack Underbar : felfelé tapintható
+234A: Apl Funkcionális szimbólum Le Tack Underbar: felfelé tapintható
 234B: Apl funkcionális szimbólum Delta Stile
 234C: Apl funkcionális szimbólum Quad Down Caret
 234D: Apl Funkcionális Szimbólum Quad Delta
-234E: Apl Funkable Symbol Down Tack Jot : megragadta a betűt
+234E: Apl Funkable Symbol Down Tack Jot: megragadta a betűt
 234F: Apl funkcionális szimbólum felfelé lapát
 2350: Apl Funkcionális szimbólum Quad Upward Arrow
-2351: Apl Funkcionális Szimbólum Fel Tack Overbar : lefelé
+2351: Apl Funkcionális Szimbólum Fel Tack Overbar: lefelé
 2352: Apl funkcionális szimbólum Del Stile
 2353: Apl funkcionális szimbólum Quad Up Caret
 2354: Apl funkcionális szimbólum Quad Del
-2355: Apl funkcionális szimbólum fel Tack Jot : lefelé tapintás
+2355: Apl funkcionális szimbólum fel Tack Jot: lefelé tapintás
 2356: Apl Funkcionális szimbólum Downward Vane
 2357: Apl Funkcionális szimbólum Quad Downward nyíl
 2358: Apl Funkcionális Szimbólum Idézet Underbar
@@ -93,16 +93,16 @@
 235C: Apl funkcionális szimbólum kör alsó
 235D: Apl funkcionális szimbólum a cipőre
 235E: Apl funkcionális szimbóluma Quad
-235F: Apl funkcionális szimbólum kör csillag : Új év, karácsony
+235F: Apl funkcionális szimbólum kör csillag: Új év, karácsony
 2360: Apl Funkcionális szimbólum Quad Colon
-2361: Apl Funkcionális szimbólum Up Tack Diaeresis : lefelé tapadó diazézis
+2361: Apl Funkcionális szimbólum Up Tack Diaeresis: lefelé tapadó diazézis
 2362: Apl funkcionális szimbólum Del Diaeresis
 2363: Apl Funkcionális Szimbólum Starézis
-2364: Apl Funkcionális Szimbólum Jot Diaeresis : huhogás
-2365: Apl Funkcionális Szimbólum Kör Diaézis : ordít
+2364: Apl Funkcionális Szimbólum Jot Diaeresis: huhogás
+2365: Apl Funkcionális Szimbólum Kör Diaézis: ordít
 2366: Apl Funkcionális Szimbólum Le cipőstílus
 2367: Apl funkcionális szimbólum bal cipőstílus
-2368: Apl funkcionális szimbólum Tilde Diaeresis : önelégült mosoly
+2368: Apl funkcionális szimbólum Tilde Diaeresis: önelégült mosoly
 2369: Apl Funkcionális szimbólum Nagyobb mint Diaeresis
 236A: Apl Funkcionális Szimbólum vesszősáv
 236B: Apl funkcionális szimbólum Del Tilde
@@ -131,13 +131,13 @@
 2382: Állandó aláhúzás szimbólum
 2383: Hangsúly Szimbólum
 2384: Összetétel szimbólum
-2385: Fehér tér és a középső függőleges vonal : központ
+2385: Fehér tér és a középső függőleges vonal: központ
 2386: Írja be a szimbólumot
 2387: Alternatív kulcs szimbólum
-2388: Helm Symbol : ellenőrzés
-2389: Kör alakú vízszintes sáv a Notch-rel : szünet
-238A: Körözött háromszög le : megszakítás, szünet
-238B: Törött kör északnyugati nyíl : menekülni
+2388: Helm Symbol: ellenőrzés
+2389: Kör alakú vízszintes sáv a Notch-rel: szünet
+238A: Körözött háromszög le: megszakítás, szünet
+238B: Törött kör északnyugati nyíl: menekülni
 238C: Szüntesse meg a szimbólumot
 238D: Monostable Symbol
 238E: Hiszterézis szimbólum
@@ -174,8 +174,8 @@
 23AD: Jobb göndör tartó alsó horog
 23AE: Integrál kiterjesztés
 23AF: Vízszintes vonalhosszabbítás
-23B0: Felső bal vagy alsó jobb göndör tartóelem : bal bajusz
-23B1: Felső jobb vagy alsó bal göndör tartóelem : jobb bajusz
+23B0: Felső bal vagy alsó jobb göndör tartóelem: bal bajusz
+23B1: Felső jobb vagy alsó bal göndör tartóelem: jobb bajusz
 23B2: Summation Top
 23B3: Summation Bottom
 23B4: Top Square Bracket
@@ -231,8 +231,8 @@
 23E6: Ac áram
 23E7: Elektromos kereszteződés
 23E8: Decimális exponens szimbólum
-23E9: Fekete jobbra mutató kettős háromszög : előrepörgetés
-23EA: Fekete balra mutató kettős háromszög : gyors visszatekerés
+23E9: Fekete jobbra mutató kettős háromszög: előrepörgetés
+23EA: Fekete balra mutató kettős háromszög: gyors visszatekerés
 23EB: Fekete felfelé mutató kettős háromszög
 23EC: Fekete lefelé mutató kettős háromszög
 23ED: Fekete jobbra mutató kettős háromszög, függőleges sávval
@@ -242,13 +242,13 @@
 23F1: Stopperóra
 23F2: Időzítő óra
 23F3: Homokóra áramló homokkal
-23F4: Fekete közepes balra mutató háromszög : hátra, hátra
-23F5: Fekete közepes jobbra mutató háromszög : előre
-23F6: Fekete közepes felfelé mutató háromszög : növekedés
-23F7: Fekete közepes lefelé mutató háromszög : csökken
-23F8: Dupla függőleges sáv : szünet
-23F9: Fekete négyzet a stophoz : állj meg
-23FA: Fekete kör a felvételhez : rekord
+23F4: Fekete közepes balra mutató háromszög: hátra, hátra
+23F5: Fekete közepes jobbra mutató háromszög: előre
+23F6: Fekete közepes felfelé mutató háromszög: növekedés
+23F7: Fekete közepes lefelé mutató háromszög: csökken
+23F8: Dupla függőleges sáv: szünet
+23F9: Fekete négyzet a stophoz: állj meg
+23FA: Fekete kör a felvételhez: rekord
 23FB: Teljesítmény szimbólum
 23FC: Bekapcsolási szimbólum
 23FD: Bekapcsolt szimbólum

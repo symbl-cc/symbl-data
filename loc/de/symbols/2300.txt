@@ -1,31 +1,31 @@
 2300: Durchmesser-Zeichen
 2301: Elektrischer Pfeil
-2302: Haus : Zuhause
+2302: Haus: Zuhause
 2303: Pfeil nach oben
 2304: Pfeil nach unten
 2305: Projektiv
 2306: Perspektive
 2307: Schlangenlinie
-2308: Linke Decke : apl upstile
+2308: Linke Decke: apl upstile
 2309: Rechte Decke
-230A: Linke Etage : apl downstile
+230A: Linke Etage: apl downstile
 230B: Rechter Boden
 230C: Unten rechts beschneiden
 230D: Unten links beschneiden
 230E: Oben rechts beschneiden
 230F: Oben links beschneiden
-2310: Umgekehrtes Nichtzeichen : Zeilenanfang
-2311: Quadratische Raute : kissen (kissen)
-2312: Bogen : Position einer beliebigen Linie
-2313: Segment : Position einer Oberfläche
+2310: Umgekehrtes Nichtzeichen: Zeilenanfang
+2311: Quadratische Raute: kissen (kissen)
+2312: Bogen: Position einer beliebigen Linie
+2313: Segment: Position einer Oberfläche
 2314: Sektor
 2315: Telefon Recorder
-2316: Positionsanzeiger : wahre Position
+2316: Positionsanzeiger: wahre Position
 2317: Viewdata Square
-2318: Ort des Interesses Zeichen : Befehlstaste : Betriebssystemschlüssel (ISO 9995-7)
-2319: Drehte sich nicht unterzeichnen : Linienmarkierung
+2318: Ort des Interesses Zeichen: Befehlstaste , Betriebssystemschlüssel (ISO 9995-7)
+2319: Drehte sich nicht unterzeichnen: Linienmarkierung
 231A: Sehen
-231B: Sanduhr : alchemistisches Symbol für Stunde
+231B: Sanduhr: alchemistisches Symbol für Stunde
 231C: Obere linke Ecke
 231D: Obere rechte Ecke
 231E: Untere linke Ecke
@@ -34,14 +34,14 @@
 2321: Untere Hälfte Integral
 2322: Stirnrunzeln
 2323: Lächeln
-2324: Pfeilspitze zwischen zwei horizontalen Balken : Enter-Taste
+2324: Pfeilspitze zwischen zwei horizontalen Balken: Enter-Taste
 2325: Wahltaste
-2326: Nach rechts löschen : Mit der rechten Taste löschen
-2327: X in einer Rechteckbox : Schlüssel löschen
+2326: Nach rechts löschen: Mit der rechten Taste löschen
+2327: X in einer Rechteckbox: Schlüssel löschen
 2328: Tastatur
 2329: Winkel nach links zeigenden Winkel
 232A: Winkel nach rechts zeigenden Winkeln
-232B: Nach links löschen : Mit der linken Taste löschen
+232B: Nach links löschen: Mit der linken Taste löschen
 232C: Benzolring
 232D: Zylindrizität
 232E: Alles rund ums Profil
@@ -72,18 +72,18 @@
 2347: Apl Funktionssymbol Vierfachpfeil nach links
 2348: Apl Funktionssymbol Quad Rechtspfeil
 2349: Apl Funktionssymbol Kreis Backslash
-234A: Apl Funktionssymbol Down Tack Underbar : Unter Riegel
+234A: Apl Funktionssymbol Down Tack Underbar: Unter Riegel
 234B: Apl Funktionssymbol Delta Stile
 234C: Apl Funktionssymbol Vierfach-Abwärtspfeil
 234D: Apl Funktionssymbol Quad Delta
-234E: Apl Funktionssymbol Down Tack Jot : tack jot
+234E: Apl Funktionssymbol Down Tack Jot: tack jot
 234F: Apl Funktionssymbol Aufwärtsflügel
 2350: Apl Funktionssymbol Quad Pfeil nach oben
-2351: Apl Funktionssymbol Up Tack Overbar : Riegel nach unten
+2351: Apl Funktionssymbol Up Tack Overbar: Riegel nach unten
 2352: Apl Funktionssymbol Del Stile
 2353: Apl Funktionssymbol Quad Up Caret
 2354: Apl Funktionssymbol Quad Del
-2355: Apl Funktionssymbol Up Tack Jot : Ruckgeld
+2355: Apl Funktionssymbol Up Tack Jot: Ruckgeld
 2356: Apl Funktionssymbol Abwärtsfahne
 2357: Apl Funktionssymbol Quad Abwärtspfeil
 2358: Apl Functional Symbol Quote Underbar
@@ -93,16 +93,16 @@
 235C: Apl Funktionssymbol Kreis Unterleiste
 235D: Apl Funktionssymbol Up Shoe Jot
 235E: Apl Funktionssymbol Zitat Quad
-235F: Apl Funktionssymbol Kreis Stern : Neues Jahr, Weihnachten
+235F: Apl Funktionssymbol Kreis Stern: Neues Jahr, Weihnachten
 2360: Apl Funktionssymbol Doppelpunkt
-2361: Apl Funktionssymbol Up Tack Diaeresis : Diaeresis nach unten
+2361: Apl Funktionssymbol Up Tack Diaeresis: Diaeresis nach unten
 2362: Apl Funktionelles Symbol Delia Diaeresis
 2363: Apl Funktionssymbol Sterndiaeresis
-2364: Apl Funktionssymbol Jot-Diaeresis : Schrei
-2365: Apl Funktionelles Symbol Kreisdurchmesser : brüllen
+2364: Apl Funktionssymbol Jot-Diaeresis: Schrei
+2365: Apl Funktionelles Symbol Kreisdurchmesser: brüllen
 2366: Apl Funktionssymbol Down Shoe Stile
 2367: Apl Funktionssymbol Left Shoe Stile
-2368: Apl Funktionssymbol Tilde Diaeresis : Grinsen
+2368: Apl Funktionssymbol Tilde Diaeresis: Grinsen
 2369: Apl Funktionelles Symbol Größer als Diaeresis
 236A: Apl Funktionssymbol Komma-Leiste
 236B: Apl Funktionelles Symbol Del Tilde
@@ -131,13 +131,13 @@
 2382: Diskontinuierliches Unterstreichungssymbol
 2383: Betonungssymbol
 2384: Kompositionssymbol
-2385: Weißes Quadrat mit vertikaler Mittellinie : Center
+2385: Weißes Quadrat mit vertikaler Mittellinie: Center
 2386: Symbol eingeben
 2387: Alternatives Schlüsselsymbol
-2388: Helm Symbol : Steuerung
-2389: Eingekreiste horizontale Leiste mit Kerbe : Pause
-238A: Eingekreistes Dreieck nach unten : unterbrechen, unterbrechen
-238B: Gebrochener Kreis mit Nordwestpfeil : Flucht
+2388: Helm Symbol: Steuerung
+2389: Eingekreiste horizontale Leiste mit Kerbe: Pause
+238A: Eingekreistes Dreieck nach unten: unterbrechen, unterbrechen
+238B: Gebrochener Kreis mit Nordwestpfeil: Flucht
 238C: Symbol rückgängig machen
 238D: Monostabiles Symbol
 238E: Hysterese-Symbol
@@ -174,8 +174,8 @@
 23AD: Unterer Haken der rechten geschweiften Klammer
 23AE: Integrale Erweiterung
 23AF: Horizontale Linienverlängerung
-23B0: Geschweifte Bracketsektion oben links oder rechts unten : linker Schnurrbart
-23B1: Obere rechte oder untere linke geschweifte Klammer : rechter Schnurrbart
+23B0: Geschweifte Bracketsektion oben links oder rechts unten: linker Schnurrbart
+23B1: Obere rechte oder untere linke geschweifte Klammer: rechter Schnurrbart
 23B2: Summation Top
 23B3: Summation Bottom
 23B4: Top eckige Klammer
@@ -231,8 +231,8 @@
 23E6: Wechselstrom
 23E7: Elektrische Kreuzung
 23E8: Dezimalexponentensymbol
-23E9: Schwarzes, nach rechts zeigendes, doppeltes Dreieck : Schneller Vorlauf
-23EA: Schwarzes nach links zeigendes doppeltes Dreieck : schneller Rücklauf
+23E9: Schwarzes, nach rechts zeigendes, doppeltes Dreieck: Schneller Vorlauf
+23EA: Schwarzes nach links zeigendes doppeltes Dreieck: schneller Rücklauf
 23EB: Schwarzes nach oben zeigendes doppeltes Dreieck
 23EC: Schwarzes nach unten zeigendes doppeltes Dreieck
 23ED: Schwarzes rechtwinkliges Doppel-Dreieck mit vertikaler Leiste
@@ -242,13 +242,13 @@
 23F1: Stoppuhr
 23F2: Timer-Uhr
 23F3: Sanduhr mit fließendem Sand
-23F4: Schwarzes mittleres nach links zeigendes Dreieck : umgekehrt, zurück
-23F5: Schwarzes mittleres nach rechts zeigendes Dreieck : nach vorne
-23F6: Schwarzes mittleres nach oben zeigendes Dreieck : erhöhen, ansteigen
-23F7: Schwarzes mittleres Abwärtsdreieck : verringern
-23F8: Doppelte vertikale Leiste : Pause
-23F9: Schwarzes Quadrat für Stop : halt
-23FA: Schwarzer Kreis für Rekord : Aufzeichnung
+23F4: Schwarzes mittleres nach links zeigendes Dreieck: umgekehrt, zurück
+23F5: Schwarzes mittleres nach rechts zeigendes Dreieck: nach vorne
+23F6: Schwarzes mittleres nach oben zeigendes Dreieck: erhöhen, ansteigen
+23F7: Schwarzes mittleres Abwärtsdreieck: verringern
+23F8: Doppelte vertikale Leiste: Pause
+23F9: Schwarzes Quadrat für Stop: halt
+23FA: Schwarzer Kreis für Rekord: Aufzeichnung
 23FB: Power-Symbol
 23FC: Ein-Aus-Symbol
 23FD: Einschaltsymbol

@@ -1,3 +1,5 @@
+hide: 隐藏
+show: 展示
 up: 回顶部
 range: 范围
 loading: 正在载入，请稍等
@@ -16,6 +18,13 @@ share-link: 分享
 read-more: 阅读更多
 read-less: 隐藏
 
+copied: 已复制！
+see_also: 参见
+homepage: 主頁
+cookie-message: 本网站使用 🍪cookie 来确保您获得最佳体验。
+accept: 接受
+empty-cell: 空单元格
+page_content_menu: 目录
 
 [mobile]
 to-full: 查看完整版

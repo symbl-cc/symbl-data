@@ -1,12 +1,19 @@
-title: Table de caractères Unicode®
+title: Table de caractères Unicode
+unicode: Unicode
+unicodeorg: Unicode® est une marque déposée d'Unicode, Inc. aux États-Unis et dans d'autres pays. Ce site n'est pas affilié, associé à, ou légalement autorisé, ou endossé par Unicode, Inc. (appelé également Consortium Unicode), et il en est totalement indépendant. Le site officiel d’Unicode: www.unicode.org.
+
+[mainpage]: Accueil
 
 [sets]: Les jeux de caractères
 set: Fixé
 list: Les jeux de caractères
+title: Jeux de caractères populaires
+all: Voir tout
 
 [blocks]: Unicode blocs
 block: Bloc
 blocks: Unicode blocs
+list: Unicode
 
 [languages]: Langues
 list: Langues
@@ -16,8 +23,18 @@ blocks: Blocs de langue
 list: Pays
 
 [alphabets]: Alphabets
-# @todo list
+list: Alphabets
+
+[holidays]: Jours fériés
+list: Jours fériés
 
 [types]
 # @todo type
 list: Types
+
+[html-entities]: Le langage HTML / Entités
+list: Entités HTML
+
+[alt-codes]: ALT codes pour Windows
+list: Alt codes
+en: Disposition du clavier en anglais

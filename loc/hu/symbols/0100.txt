@@ -46,7 +46,7 @@
 012D: Latin kis betű, Breve-vel
 012E: Latin főváros levél, az Ogonek
 012F: Latin kis levél, az Ogonek
-0130: Latin nagybetűvel írott I. betű a fenti ponttal : i pont
+0130: Latin nagybetűvel írott I. betű a fenti ponttal: i pont
 0131: Latin kis betű nélküli Dotless I
 0132: Latin Ij
 0133: Latin kis ligatúra Ij
@@ -63,7 +63,7 @@
 013E: Latin kis L betű Caronnal
 013F: Latin főnév L középső ponttal
 0140: Latin kis L betű középső ponttal
-0141: L-es latin főnév L stroke-tal : litecoin
+0141: L-es latin főnév L stroke-tal: litecoin
 0142: Latin kis betű L stroke-tal
 0143: N-es latin főnév, akut
 0144: Latin kis betű N, akut
@@ -71,9 +71,9 @@
 0146: Latin kis betű N Cedillával
 0147: Latin fővárosa N betűvel Caronnal
 0148: Latin kis betű N Caronnal
-0149: Latin kis betű N előzmények előtt : latin kis levél apostróf n
+0149: Latin kis betű N előzmények előtt: latin kis levél apostróf n
 014A: Latin Capital Letter Eng
-014B: Latin kis levél Eng : engma, angma
+014B: Latin kis levél Eng: engma, angma
 014C: O betű latin nagybetűvel Macronnal
 014D: Latin kis betű O Macronnal
 014E: O betű latin főnév, Breve
@@ -81,7 +81,7 @@
 0150: O betűs latin nagybetű kettős akut
 0151: Latin kis betű O dupla akut
 0152: Latin Capital Ligature Oe
-0153: Latin kis Ligature Oe : ethel (a régi angol nyelvtől)
+0153: Latin kis Ligature Oe: ethel (a régi angol nyelvtől)
 0154: Latin fővárosi levél, akut
 0155: Latin kis betű R akut
 0156: R latin főnév Cedillával
@@ -139,25 +139,25 @@
 018A: Latin fővárosa D betű horoggal
 018B: D betű latin nagybetűvel a Topbar segítségével
 018C: Latin kis D betű a Topbar-al
-018D: Latin kis betűvel fordított delta : fordított polírozó kampó o
-018E: Latin nagybetűs fordított E : megfordult e
+018D: Latin kis betűvel fordított delta: fordított polírozó kampó o
+018E: Latin nagybetűs fordított E: megfordult e
 018F: Latin Capital Letter Schwa
-0190: Nyitott latin főváros levél E : epszilon
+0190: Nyitott latin főváros levél E: epszilon
 0191: F betűvel rendelkező latin fővárosi betű
-0192: Latin kis F betű horoggal : f parancsfájl : florin pénznemszimbólum (Hollandia) : funkció szimbólum
+0192: Latin kis F betű horoggal: f parancsfájl , florin pénznemszimbólum (Hollandia) , funkció szimbólum
 0193: Latin fővárosa G betűvel
 0194: Gamma latin főnév
 0195: Latin kis betű Hv
 0196: Latin tőkeíró Iota
-0197: Latin nagybetűs betű, stroke-val : letiltott i, i bar
+0197: Latin nagybetűs betű, stroke-val: letiltott i, i bar
 0198: Latin fővárosa K betűvel
 0199: Latin kis betű K horoggal
-019A: Latin kis L betűs bárral : letiltva l
-019B: Latin kis levél Lambda stroke : lambda, lambda bár
+019A: Latin kis L betűs bárral: letiltva l
+019B: Latin kis levél Lambda stroke: lambda, lambda bár
 019C: Latin nagybetűvel fordult M
 019D: N-es latin nagybetűvel, bal kampóval
 019E: Latin kis betű N hosszú jobb lábával
-019F: O betű latin fővárosa Tilde közepén : o, o bar
+019F: O betű latin fővárosa Tilde közepén: o, o bar
 01A0: O betű latin nagybetűvel Horndal
 01A1: Latin kis betű O szarvával
 01A2: Oi latin főváros levél
@@ -176,11 +176,11 @@
 01AF: U. Latin főnév, Horn
 01B0: Latin kis betű U szarvával
 01B1: Latin Capital Letter Upsilon
-01B2: Latin fővárosa V betűvel : v
+01B2: Latin fővárosa V betűvel: v
 01B3: Y betűvel rendelkező latin nagybetűvel
 01B4: Latin kis betű Y horoggal
 01B5: Z betű latin fővárosi betűvel
-01B6: Latin kis betű Z stroke : z z, z bar
+01B6: Latin kis betű Z stroke: z z, z bar
 01B7: Latin nagybetű Ezh
 01B8: Ezh fordított latin főváros levél
 01B9: Latin kis levél Ezh megfordult
@@ -189,11 +189,11 @@
 01BC: Latin Capital Letter Tone öt
 01BD: Latin kis betűhang öt
 01BE: Latin betű fordított glottális megállás stroke
-01BF: Wynn latin betű : wen
-01C0: Latin Letter Dental Click : pipa
-01C1: Latin betűs oldalsó kattintás : kettős cső
-01C2: Latin betű Alveolar Click : dupla zárócső : palatoalveolar click (ipa)
-01C3: Latin betű Retroflex Click : latin levél felkiáltójel : (post) alveoláris kattintás (ipa)
+01BF: Wynn latin betű: wen
+01C0: Latin Letter Dental Click: pipa
+01C1: Latin betűs oldalsó kattintás: kettős cső
+01C2: Latin betű Alveolar Click: dupla zárócső , palatoalveolar click (ipa)
+01C3: Latin betű Retroflex Click: latin levél felkiáltójel , (post) alveoláris kattintás (ipa)
 01C4: Latin Capital Letter Dz és Caron
 01C5: Latin fővárosa D betű, kis betűvel, Caronnal
 01C6: Latin kis levél Dz és Caron
@@ -245,7 +245,7 @@
 01F4: A latin fővárosi G betű akut
 01F5: Latin kis G betű akut
 01F6: Latin Capital Letter Hwair
-01F7: Latin Capital Letter Wynn : wen
+01F7: Latin Capital Letter Wynn: wen
 01F8: Latin fővárosa N betűvel sírral
 01F9: Latin kis betű N sírral
 01FA: Latin tőke betű a gyűrű felett és akut

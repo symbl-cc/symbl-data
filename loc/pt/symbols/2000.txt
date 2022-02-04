@@ -1,9 +1,9 @@
 2000: En Quad
-2001: Em Quad : quadrângulo de carneiro
-2002: En Space : noz
-2003: Em Space : Carneiro
-2004: Espaço Três-Por-Em : espaço grosso
-2005: Quatro por espaço : meio espaço
+2001: Em Quad: quadrângulo de carneiro
+2002: En Space: noz
+2003: Em Space: Carneiro
+2004: Espaço Três-Por-Em: espaço grosso
+2005: Quatro por espaço: meio espaço
 2006: Espaço Six-Per-Em
 2007: Figura Espaço
 2008: Espaço de pontuação
@@ -19,24 +19,24 @@
 2012: Figura Dash
 2013: En Dash
 2014: Travessão
-2015: Barra horizontal : cotação de cotação
+2015: Barra horizontal: cotação de cotação
 2016: Linha Vertical Dupla
 2017: Linha Baixa Dupla
-2018: Marca de Cotação Única Esquerda : virada única vírgula
-2019: Marca de cotação única direita : aspas simples
-201A: Único ponto de aspas baixo-9 : baixa aspas simples
-201B: Marca de aspas simples com alta reversão de 9 : única aspa de vírgula invertida
-201C: Marca de Aspas Dupla Esquerda : dupla virada vírgula
-201D: Aspas duplas direitas : aspas duplas
-201E: Marca de aspas duplas em baixo 9 : marca de vírgula dupla baixa
-201F: Marca de aspas duplas com alta reversão de 9 : aspas duplas invertidas
-2020: Punhal : obelisco, cruz longa, cruz oblonga
-2021: Adaga Dupla : diesis, obelisco duplo
-2022: Bala : círculo pequeno preto
+2018: Marca de Cotação Única Esquerda: virada única vírgula
+2019: Marca de cotação única direita: aspas simples
+201A: Único ponto de aspas baixo-9: baixa aspas simples
+201B: Marca de aspas simples com alta reversão de 9: única aspa de vírgula invertida
+201C: Marca de Aspas Dupla Esquerda: dupla virada vírgula
+201D: Aspas duplas direitas: aspas duplas
+201E: Marca de aspas duplas em baixo 9: marca de vírgula dupla baixa
+201F: Marca de aspas duplas com alta reversão de 9: aspas duplas invertidas
+2020: Punhal: obelisco, cruz longa, cruz oblonga
+2021: Adaga Dupla: diesis, obelisco duplo
+2022: Bala: círculo pequeno preto
 2023: Bala Triangular
 2024: Um ponto líder
 2025: Líder de dois pontos
-2026: Elipses horizontais : líder de três pontos
+2026: Elipses horizontais: líder de três pontos
 2027: Ponto de hifenização
 2028: Separador de linha
 2029: Separador de Parágrafos
@@ -46,27 +46,27 @@
 202D: Substituição da Esquerda para a Direita
 202E: Sobreposição da direita para a esquerda
 202F: Espaço estreito sem quebra
-2030: Por Sinal De Mille : permilo, por mil
-2031: Por dez mil sinais : permyriad
-2032: Prime : minutos, pés
-2033: Duplo Prime : segundos, polegadas
-2034: Triple Prime : linhas (medida antiga, 1/12 de polegada)
+2030: Por Sinal De Mille: permilo, por mil
+2031: Por dez mil sinais: permyriad
+2032: Prime: minutos, pés
+2033: Duplo Prime: segundos, polegadas
+2034: Triple Prime: linhas (medida antiga, 1/12 de polegada)
 2035: Prime invertido
 2036: Prime duplo invertido
 2037: Triplo Prime Invertido
 2038: Cárter
-2039: Marca de Aspas de Ângulo Esquerdo Único : esquerda apontando guillemet único
-203A: Única marca de cotação de ângulo de apontar à direita : apontando para a direita guillemet único
-203B: Marca de referência : kome japonês : separador de parágrafo urdu
+2039: Marca de Aspas de Ângulo Esquerdo Único: esquerda apontando guillemet único
+203A: Única marca de cotação de ângulo de apontar à direita: apontando para a direita guillemet único
+203B: Marca de referência: kome japonês , separador de parágrafo urdu
 203C: Duplo ponto de exclamação
 203D: Interrobang
-203E: Overline : espaçamento overscore
-203F: Undertie : enotikon grego
-2040: Laço do caráter : concatenação da sequência de notação z
+203E: Overline: espaçamento overscore
+203F: Undertie: enotikon grego
+2040: Laço do caráter: concatenação da sequência de notação z
 2041: Ponto de Inserção do Caret
 2042: Asterismo
 2043: Bala do hífen
-2044: Fraction Slash : solidus (em tipografia)
+2044: Fraction Slash: solidus (em tipografia)
 2045: Suporte quadrado esquerdo com pena
 2046: Suporte quadrado direito com pena
 2047: Duplo ponto de interrogação
@@ -80,24 +80,24 @@
 204F: Ponto e vírgula invertido
 2050: Fechar-se
 2051: Dois asteriscos alinhados verticalmente
-2052: Sinal de menos comercial : abzüglich (alemão), avdrag med sueco (sueco), piska (sueco, "chicote")
+2052: Sinal de menos comercial: abzüglich (alemão), avdrag med sueco (sueco), piska (sueco, "chicote")
 2053: Swung Dash
 2054: Undertie invertido
-2055: Marca de Pontuação de Flores : phul, puspika
+2055: Marca de Pontuação de Flores: phul, puspika
 2056: Pontuação de três pontos
 2057: Quádruplo Prime
 2058: Pontuação de quatro pontos
-2059: Pontuação de cinco pontos : pentonkion grego : quincunx
+2059: Pontuação de cinco pontos: pentonkion grego , quincunx
 205A: Pontuação de dois pontos
 205B: Four Dot Mark
 205C: Cruz pontilhada
-205D: Tricolon : símbolo acrofónico epidaureano três
+205D: Tricolon: símbolo acrofónico epidaureano três
 205E: Quatro pontos verticais
 205F: Espaço Matemático Médio
 2060: Word Joiner
 2061: Função Aplicação
 2062: Tempos Invisíveis
-2063: Separador invisível : vírgula invisível
+2063: Separador invisível: vírgula invisível
 2064: Invisible Plus
 2065:
 2066: Isolar da esquerda para a direita
@@ -175,7 +175,7 @@
 20AE: Sinal de Tugrik
 20AF: Sinal de dracma
 20B0: Sinal de moeda de um centavo alemão
-20B1: Sinal do Peso : sinal de peso filipino
+20B1: Sinal do Peso: sinal de peso filipino
 20B2: Sinal Guarani
 20B3: Sinal Austral
 20B4: Sinal de Hryvnia
@@ -187,7 +187,7 @@
 20BA: Sinal de Lira Turca
 20BB: Sinal de marca nórdica
 20BC: Sinal de Manat
-20BD: Rublo, símbolo : Símbolo do rublo russo, moeda russa, rur, esfregue
+20BD: Rublo, símbolo: Símbolo do rublo russo, moeda russa, rur, esfregue
 20BE: Lari Sign
 20BF: Sinal Bitcoin
 20C0:
@@ -217,23 +217,23 @@
 20D8: Combinando Overlay de Anel
 20D9: Combinando Overlay de Anel no Sentido Horário
 20DA: Combinando Sobreposição de Anéllockwise Ring
-20DB: Combinando Três Pontos Acima : terceiro derivado
-20DC: Combinando Quatro Pontos Acima : quarto derivado
-20DD: Combinando Círculo Enclosing : círculo de composição jis : cirílico combinando dez milhares de sinal
+20DB: Combinando Três Pontos Acima: terceiro derivado
+20DC: Combinando Quatro Pontos Acima: quarto derivado
+20DD: Combinando Círculo Enclosing: círculo de composição jis , cirílico combinando dez milhares de sinal
 20DE: Combinando Praça Enclosing
 20DF: Combinando Diamond Enclosing
-20E0: Combinando Backslash Círculo Enclosing : banir, desabilitar
+20E0: Combinando Backslash Círculo Enclosing: banir, desabilitar
 20E1: Combinando a seta para a esquerda direita acima
 20E2: Combinando a tela de fechamento
 20E3: Combinando Keycap Enclosing
 20E4: Combinando Triângulo Apontando Para Cima
 20E5: Combinando Overlay Solidus Reverse
-20E6: Combinando Overlay Duplo Vertical : notação z função diacrítica função finita
-20E7: Combinando o Símbolo de Anuidade : curva atuarial
+20E6: Combinando Overlay Duplo Vertical: notação z função diacrítica função finita
+20E7: Combinando o Símbolo de Anuidade: curva atuarial
 20E8: Combinando Triple Underdot
-20E9: Combinando a ponte larga acima : operador de contração
+20E9: Combinando a ponte larga acima: operador de contração
 20EA: Combinando Overlay de seta para a esquerda
-20EB: Combinando Dupla Camada Longa Solidus : camada longa dupla
+20EB: Combinando Dupla Camada Longa Solidus: camada longa dupla
 20EC: Combinando Arpão Direito com Barb Downwards
 20ED: Combinando o Arpão Esquerdo com Barb Downwards
 20EE: Combinando a seta para a esquerda abaixo
@@ -253,4 +253,4 @@
 20FC:
 20FD:
 20FE:
-20FF:
+20FF:

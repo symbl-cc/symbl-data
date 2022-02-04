@@ -46,15 +46,15 @@
 1342D: Mısır Hiyeroglif Aa031
 1342E: Mısır Hiyeroglif Aa032
 1342F:
-13430:
-13431:
-13432:
-13433:
-13434:
-13435:
-13436:
-13437:
-13438:
+13430: Mısır hiyeroglif dikey marangoz
+13431: Mısır hiyeroglif yatay marangoz
+13432: Mısır hiyeroglif eklemek başlangıç
+13433: Mısır hiyeroglif alt başlangıç eklemek
+13434: Mısır hiyeroglif üst ucunda eklemek
+13435: Mısır hiyeroglif alt ucunda eklemek
+13436: Mısır hiyeroglif kaplama orta
+13437: Mısır hiyeroglif segmenti başlattı
+13438: Mısır hiyeroglif uç segmenti
 13439:
 1343A:
 1343B:
@@ -253,4 +253,4 @@
 134FC:
 134FD:
 134FE:
-134FF:
+134FF:

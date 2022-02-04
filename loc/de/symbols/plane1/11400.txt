@@ -88,14 +88,14 @@
 11457: Newa Ziffer sieben
 11458: Newa Ziffer Acht
 11459: Newa Ziffer Neun
-1145A:
-1145B: Newa Placeholder Mark
-1145C:
+1145A: Newa Doppelkomma
+1145B: Newa Platzhalterzeichen
+1145C: 
 1145D: Newa Einfügungszeichen
 1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+1145F: Newa Brief vedische Anusvara
+11460: Newa Zeichen jihvamuliya
+11461: Newa sign upadhmaniya
 11462:
 11463:
 11464:
@@ -192,10 +192,10 @@
 114BF: Tirhuta-Zeichen Candrabindu
 114C0: Tirhuta-Zeichen Anusvara
 114C1: Tirhuta-Zeichen Visarga
-114C2: Tirhuta-Zeichen Virama : halant
+114C2: Tirhuta-Zeichen Virama: halant
 114C3: Tirhuta-Zeichen Nukta
 114C4: Tirhuta-Zeichen Avagraha
-114C5: Tirhuta Gvang : vedische Anusvara
+114C5: Tirhuta Gvang: vedische Anusvara
 114C6: Tirhuta Abkürzungszeichen
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

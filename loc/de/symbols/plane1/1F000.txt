@@ -2,10 +2,10 @@
 1F001: Mahjong Fliese Südwind
 1F002: Mahjong-Fliese Westwind
 1F003: Mahjong-Fliese Nordwind
-1F004: Mahjong Fliese Roter Drache : Hongzhong, 中
-1F005: Mahjong Tile Green Dragon : Qingfa
-1F006: Mahjong Fliese weißer Drache : Baiban
-1F007: Mahjong-Fliese Eine der Figuren : wan
+1F004: Mahjong Fliese Roter Drache: Hongzhong, 中
+1F005: Mahjong Tile Green Dragon: Qingfa
+1F006: Mahjong Fliese weißer Drache: Baiban
+1F007: Mahjong-Fliese Eine der Figuren: wan
 1F008: Mahjong-Fliese Zwei der Charaktere
 1F009: Mahjong-Fliese Drei von Charakteren
 1F00A: Mahjong-Fliese Vier der Charaktere
@@ -14,7 +14,7 @@
 1F00D: Mahjong-Fliese Sieben von Charakteren
 1F00E: Mahjong-Fliese Acht der Charaktere
 1F00F: Mahjong-Fliese neun Charaktere
-1F010: Mahjong-Fliese Einer von Bambus : tiao
+1F010: Mahjong-Fliese Einer von Bambus: tiao
 1F011: Mahjong-Fliese Zwei von Bambus
 1F012: Mahjong-Fliese Drei von Bambus
 1F013: Mahjong-Fliese Vier von Bambus
@@ -23,7 +23,7 @@
 1F016: Mahjong-Fliese Sieben von Bambus
 1F017: Mahjong-Fliese Acht der Bambusse
 1F018: Mahjong Tile Nine von Bambus
-1F019: Mahjong-Fliese Eine der Kreise : bing
+1F019: Mahjong-Fliese Eine der Kreise: bing
 1F01A: Mahjong-Fliese Zwei der Kreise
 1F01B: Mahjong-Fliese Drei der Kreise
 1F01C: Mahjong-Fliese Vier der Kreise
@@ -32,15 +32,15 @@
 1F01F: Mahjong-Fliese Sieben der Kreise
 1F020: Mahjong-Fliese Acht der Kreise
 1F021: Mahjong Tile Nine of Circles
-1F022: Mahjong Fliese Pflaume : mei
-1F023: Mahjong Fliese Orchidee : lan
-1F024: Mahjong Fliese Bambus : zhu
-1F025: Mahjong-Fliese-Chrysantheme : Ju
+1F022: Mahjong Fliese Pflaume: mei
+1F023: Mahjong Fliese Orchidee: lan
+1F024: Mahjong Fliese Bambus: zhu
+1F025: Mahjong-Fliese-Chrysantheme: Ju
 1F026: Mahjong Fliese Frühling
 1F027: Mahjong Fliesensommer
 1F028: Mahjong Fliese Herbst
 1F029: Mahjong Fliese Winter
-1F02A: Mahjong Tile Joker : Baida
+1F02A: Mahjong Tile Joker: Baida
 1F02B: Mahjong-Fliese zurück
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Spielkarte Acht Pik
 1F0A9: Spielkarte Neun Pik
 1F0AA: Spielkarte Zehn Pik
-1F0AB: Spielkarte Jack of Spades : valet, bube, unter, seite, fante : Seite der Schwerter
-1F0AC: Spielkarten Pik Ritter : chevalier, ober, ritter, cavall, cavaliere : Schwertritter
-1F0AD: Spielkarte Pik Dame : dame, dame, königin, regina : Königin der Schwerter
-1F0AE: Spielkarte King of Spades : roi, könig, re : König der Schwerter
+1F0AB: Spielkarte Jack of Spades: valet, bube, unter, seite, fante , Seite der Schwerter
+1F0AC: Spielkarten Pik Ritter: chevalier, ober, ritter, cavall, cavaliere , Schwertritter
+1F0AD: Spielkarte Pik Dame: dame, dame, königin, regina , Königin der Schwerter
+1F0AE: Spielkarte King of Spades: roi, könig, re , König der Schwerter
 1F0AF:
 1F0B0:
 1F0B1: Spielkarte Herzass
@@ -253,4 +253,4 @@
 1F0FC:
 1F0FD:
 1F0FE:
-1F0FF:
+1F0FF:

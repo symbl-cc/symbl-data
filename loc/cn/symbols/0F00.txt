@@ -138,10 +138,10 @@
 0F89 : 藏语标记 Mchu Can
 0F8A : 藏语标记 Gru Can Rgyings
 0F8B : 藏语标记 Gru Med Rgyings
-0F8C : 
-0F8D : 
-0F8E : 
-0F8F : 
+0F8C : 藏族符號倒Mchu Can
+0F8D : 藏族次聯徵Lce Tsa Can
+0F8E : 藏族次要標誌姆丘坎
+0F8F : 藏族次要符號倒置Mchu Can
 0F90 : 藏语增补字母 Ka
 0F91 : 藏语增补字母 Kha
 0F92 : 藏语增补字母 Ga
@@ -215,8 +215,8 @@
 0FD6 : 向左的万字标记(卍)
 0FD7 : 带四点的向右的万字标记(卐)
 0FD8 : 带四点的向左的万字标记(卍)
-0FD9 : 
-0FDA : 
+0FD9 : 藏族標記領先的Mchan Rtags
+0FDA : 藏族標記尾隨Mchan Rtags
 0FDB : 
 0FDC : 
 0FDD : 
@@ -253,4 +253,4 @@
 0FFC : 
 0FFD : 
 0FFE : 
-0FFF : 
+0FFF : 

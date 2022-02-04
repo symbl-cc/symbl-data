@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Încălzit
 2E11: Inapoi
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Dotted Obelos
 2E14: Ancora în jos
 2E15: Ancora în sus
-2E16: Unghiul punctat de dreapta : diplexă periestigmene
+2E16: Unghiul punctat de dreapta: diplexă periestigmene
 2E17: Dubla oblică
-2E18: Inverted Interrobang : gnaborretni
+2E18: Inverted Interrobang: gnaborretni
 2E19: Palm Branch
 2E1A: Ipene cu diareeză
 2E1B: Tildă cu inel de sus
@@ -44,7 +44,7 @@
 2E2B: Un punctaj de două puncte Punctuație
 2E2C: Squared punct de patru puncte
 2E2D: Cinci puncte Dot
-2E2E: Marcaj de întrebare inversat : punctus percontativus : ironie, sarcasm
+2E2E: Marcaj de întrebare inversat: punctus percontativus , ironie, sarcasm
 2E2F: Tilde verticale
 2E30: Ring Point
 2E31: Word Separator Middle Dot
@@ -56,7 +56,7 @@
 2E37: Dagger cu Garda Dreapta
 2E38: Dagger întors
 2E39: Semnalul secțiunii semifinale superioare
-2E3A: Two-Em Dash : omisiune
+2E3A: Two-Em Dash: omisiune
 2E3B: Trei-Em Dash
 2E3C: Stenografică oprire completă
 2E3D: Șase puncte verticale
@@ -77,10 +77,10 @@
 2E4C: Mesajul medieval
 2E4D: Paragraphus Mark
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Împărțitor de versuri cornish
+2E50: Traversează piciorul cu bara dreaptă
+2E51: Traversează piciorul cu bara stângă
+2E52: Tironian semn capital Capital Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

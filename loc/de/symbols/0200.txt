@@ -79,30 +79,30 @@
 024E: Lateinischer Großbuchstabe Y mit Schlaganfall
 024F: Lateinischer Kleinbuchstabe Y mit Strich
 0250: Lateinischer Kleinbuchstabe gedreht A
-0251: Lateinischer Kleinbuchstabe Alpha : lateinisches Kleinbuchstaben-Skript a
+0251: Lateinischer Kleinbuchstabe Alpha: lateinisches Kleinbuchstaben-Skript a
 0252: Lateinischer Kleinbuchstabe gedrehtes Alpha
 0253: Lateinischer Kleinbuchstabe B mit Haken
 0254: Lateinischer Kleinbuchstabe Open O
 0255: Lateinischer Kleinbuchstabe C mit Locken
-0256: Lateinischer Kleinbuchstabe D mit Schwanz : d Retroflex-Haken
+0256: Lateinischer Kleinbuchstabe D mit Schwanz: d Retroflex-Haken
 0257: Lateinischer Kleinbuchstabe D mit Haken
 0258: Lateinischer Kleinbuchstabe umgedreht E
 0259: Lateinischer Kleinbuchstabe Schwa
 025A: Lateinischer Kleinbuchstabe Schwa mit Haken
-025B: Lateinischer Kleinbuchstabe offen E : Epsilon
+025B: Lateinischer Kleinbuchstabe offen E: Epsilon
 025C: Lateinischer Kleinbuchstabe umgedreht offen E
 025D: Lateinischer Kleinbuchstabe umgekehrtes E mit Haken
-025E: Lateinischer Kleinbuchstabe geschlossen aufgehoben E : geschlossenes epsilon geschlossen
+025E: Lateinischer Kleinbuchstabe geschlossen aufgehoben E: geschlossenes epsilon geschlossen
 025F: Lateinischer Kleinbuchstabe Dotless J mit Strich
 0260: Lateinischer Kleinbuchstabe G mit Haken
 0261: Lateinischer Kleinbuchstabe G
 0262: Lateinischer Buchstabe Kleine Hauptstadt G
 0263: Lateinischer Kleinbuchstabe Gamma
-0264: Lateinischer Kleinbuchstabe rammt Horn : lateinischer Kleinbuchstabe Baby Gamma
+0264: Lateinischer Kleinbuchstabe rammt Horn: lateinischer Kleinbuchstabe Baby Gamma
 0265: Lateinischer Kleinbuchstabe gedreht H
 0266: Lateinischer Kleinbuchstabe H mit Haken
 0267: Lateinischer Kleinbuchstabe Heng mit Haken
-0268: Lateinischer Kleinbuchstabe I mit Strich : gesperrt ich, ich bar
+0268: Lateinischer Kleinbuchstabe I mit Strich: gesperrt ich, ich bar
 0269: Lateinischer Kleinbuchstabe Iota
 026A: Lateinischer Buchstabe Kleines Kapital I
 026B: Lateinischer Kleinbuchstabe L mit mittlerer Tilde
@@ -115,7 +115,7 @@
 0272: Lateinischer Kleinbuchstabe N mit linkem Haken
 0273: Lateinischer Kleinbuchstabe N mit Retroflex-Haken
 0274: Lateinischer Buchstabe Kleine Hauptstadt N
-0275: Lateinischer Kleinbuchstabe gesperrt O : o bar
+0275: Lateinischer Kleinbuchstabe gesperrt O: o bar
 0276: Lateinischer Buchstabe Kleine Hauptstadt Oe
 0277: Lateinischer Kleinbuchstabe geschlossenes Omega
 0278: Lateinischer Kleinbuchstabe Phi
@@ -125,7 +125,7 @@
 027C: Lateinischer Kleinbuchstabe R mit langem Bein
 027D: Lateinischer Kleinbuchstabe R mit Endstück
 027E: Lateinischer Kleinbuchstabe R mit Angelhaken
-027F: Lateinischer Kleinbuchstabe umgedreht R mit Angelhaken : langes Bein wurde zu Iota (eine Fehlbezeichnung)
+027F: Lateinischer Kleinbuchstabe umgedreht R mit Angelhaken: langes Bein wurde zu Iota (eine Fehlbezeichnung)
 0280: Lateinischer Buchstabe Kleinkapital R
 0281: Lateinischer Buchstabe kleines Kapital invertiert R
 0282: Lateinischer Kleinbuchstabe S mit Haken
@@ -137,22 +137,22 @@
 0288: Lateinischer Kleinbuchstabe T mit Retroflex-Haken
 0289: Lateinischer Kleinbuchstabe U Bar
 028A: Lateinischer Kleinbuchstabe Upsilon
-028B: Lateinischer Kleinbuchstabe V mit Haken : lateinisches Kleinbuchstaben-Skript v
-028C: Lateinischer Kleinbuchstabe gedreht v : Caret, Keil
+028B: Lateinischer Kleinbuchstabe V mit Haken: lateinisches Kleinbuchstaben-Skript v
+028C: Lateinischer Kleinbuchstabe gedreht v: Caret, Keil
 028D: Lateinischer Kleinbuchstabe gedreht W
 028E: Lateinischer Kleinbuchstabe gedrehtes Y
 028F: Lateinischer Buchstabe Kleine Hauptstadt Y
 0290: Lateinischer Kleinbuchstabe Z mit Retroflex-Haken
 0291: Lateinischer Kleinbuchstabe Z mit Locken
-0292: Lateinischer Kleinbuchstabe Ezh : dram
+0292: Lateinischer Kleinbuchstabe Ezh: dram
 0293: Lateinischer Kleinbuchstabe Ezh mit Locken
 0294: Lateinischer Buchstabe Glottal Stop
-0295: Lateinischer Brief Pharyngeal stimmhaft Fricative : umgekehrter Stimmritzenanschlag
+0295: Lateinischer Brief Pharyngeal stimmhaft Fricative: umgekehrter Stimmritzenanschlag
 0296: Lateinischer Buchstabe invertiert Glottalanschlag
 0297: Lateinischer Buchstabe gestreckt C
-0298: Lateinischer Buchstabe Bilabial Click : Bullseye
+0298: Lateinischer Buchstabe Bilabial Click: Bullseye
 0299: Lateinischer Buchstabe Kleinkapital B
-029A: Lateinischer Kleinbuchstabe geschlossen offen E : geschlossene Epsilon
+029A: Lateinischer Kleinbuchstabe geschlossen offen E: geschlossene Epsilon
 029B: Lateinischer Buchstabe Kleine Hauptstadt G mit Haken
 029C: Lateinischer Buchstabe Kleine Hauptstadt H
 029D: Lateinischer Kleinbuchstabe J mit gekreuztem Schwanz
@@ -186,7 +186,7 @@
 02B9: Modifizierer Letter Prime
 02BA: Zusatzbuchstabe Double Prime
 02BB: Modifikatorbuchstabe aus Komma
-02BC: Modifizierer Brief Apostrophe : Apostroph
+02BC: Modifizierer Brief Apostrophe: Apostroph
 02BD: Umkehrbuchstabe Komma
 02BE: Modifier Letter rechter halber Ring
 02BF: Modifier Letter Linker halber Ring
@@ -197,7 +197,7 @@
 02C4: Modifikator-Buchstabe nach oben Pfeilspitze
 02C5: Modifikator-Buchstabe nach unten
 02C6: Modifier Letter Circumflex Akzent
-02C7: Caron : Hacek
+02C7: Caron: Hacek
 02C8: Modifizierer-Buchstabe vertikale Linie
 02C9: Zusatzbuchstabe Macron
 02CA: Zusatzbuchstabe Akuter Akzent

@@ -1,5 +1,7 @@
 meta-description: Unicode (萬國碼、國際碼、統一碼) 字符搜索Web服务。 查找并复制您最喜欢的角色：😎表情符号，▶Ar箭头，✪星星，💲货币，🈂️书写系统等🚩
-symbol-description: 符号: {{symbol}}, 名称: {{name}}, Unicode的数量: {{code}}, 座: {{block}}
+
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, 角色名称: {{name}}, 标牌的Unicode编号: {{code}}, 图标包含在块中：{{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
 
 emoji: 表情符号
 copy: 复制

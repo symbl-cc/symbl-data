@@ -1,11 +1,11 @@
-2900: Flèche à deux pointes vers la droite barrée verticalement : surjection partielle en notation z
-2901: Flèche à deux pointes vers la droite barrée deux fois verticalement : surjection finie en notation z
+2900: Flèche à deux pointes vers la droite barrée verticalement: surjection partielle en notation z
+2901: Flèche à deux pointes vers la droite barrée deux fois verticalement: surjection finie en notation z
 2902: Double flèche vers la gauche barrée verticalement
 2903: Double flèche vers la droite barrée verticalement
 2904: Flèche bilatérale double barrée verticalement
-2905: Flèche à deux têtes d'un taquet vers la droite : a comme image
-2906: Double flèche d'un taquet vers la gauche : est l'image de
-2907: Double flèche d'un taquet vers la droite : a comme image
+2905: Flèche à deux têtes d'un taquet vers la droite: a comme image
+2906: Double flèche d'un taquet vers la gauche: est l'image de
+2907: Double flèche d'un taquet vers la droite: a comme image
 2908: Flèche vers le bas barrée horizontalement
 2909: Flèche vers le haut barrée horizontalement
 290A: Triple flèche vers le haut
@@ -18,11 +18,11 @@
 2911: Flèche vers la droite à fût pointillé
 2912: Flèche jusqu'à taquet vers le haut
 2913: Flèche jusqu'à taquet vers le bas
-2914: Flèche empennée vers la droite barrée verticalement : injection partielle en notation z
-2915: Flèche empennée vers la droite barrée deux fois verticalement : injection finie en notation z
-2916: Flèche empennée à deux têtes vers la droite : bijection : bijection en notation z
-2917: Flèche empennée à deux têtes vers la droite barrée verticalement : injection surjective en notation z
-2918: Flèche empennée à deux têtes vers la droite barrée deux fois verticalement : injection surjective finie en notation z
+2914: Flèche empennée vers la droite barrée verticalement: injection partielle en notation z
+2915: Flèche empennée vers la droite barrée deux fois verticalement: injection finie en notation z
+2916: Flèche empennée à deux têtes vers la droite: bijection , bijection en notation z
+2917: Flèche empennée à deux têtes vers la droite barrée verticalement: injection surjective en notation z
+2918: Flèche empennée à deux têtes vers la droite barrée deux fois verticalement: injection surjective finie en notation z
 2919: Empenne vers la gauche
 291A: Empenne vers la droite
 291B: Double empenne vers la gauche
@@ -182,7 +182,7 @@
 29B5: Cercle à barre horizontale
 29B6: Barre verticale cerclée
 29B7: Parallèles cerclées
-29B8: Barre oblique inversée cerclée : contre-oblique cerclée, contre-cotice cerclée
+29B8: Barre oblique inversée cerclée: contre-oblique cerclée, contre-cotice cerclée
 29B9: Perpendiculaire cerclé
 29BA: Cercle divisé par une barre horizontale et une barre verticale dans la moitié supérieure
 29BB: Cercle superposé d'un x
@@ -194,11 +194,11 @@
 29C1: Supérieur à cerclé
 29C2: Cercle avec petit cercle à droite
 29C3: Cercle avec deux petits traits horizontaux à droite
-29C4: Oblique encadrée : cotice encadrée
-29C5: Oblique inversée encadrée : contre-oblique encadrée, contre-cotice encadrée
+29C4: Oblique encadrée: cotice encadrée
+29C5: Oblique inversée encadrée: contre-oblique encadrée, contre-cotice encadrée
 29C6: Astérisque encadré
 29C7: Petite cercle encadré
-29C8: Carré encadré : deux carrés concentriques
+29C8: Carré encadré: deux carrés concentriques
 29C9: Carrés se chevauchant
 29CA: Triangle pointé en chef
 29CB: Triangle à barre souscrite
@@ -212,23 +212,23 @@
 29D3: Nœud papillon noir
 29D4: Signe multiplication à moitié gauche noircie
 29D5: Signe multiplication à moitié droite noircie
-29D6: Sablier blanc : nœud papillon vertical
+29D6: Sablier blanc: nœud papillon vertical
 29D7: Sablier noir
 29D8: Clôture dentelée gauche
 29D9: Clôture dentelée droite
 29DA: Double clôture dentelée gauche
 29DB: Double clôture dentelée droite
-29DC: Infini incomplet : entité isotech &iinfin;
-29DD: Lorgnon : infini surmonté d'une boucle
+29DC: Infini incomplet: entité isotech &iinfin,
+29DD: Lorgnon: infini surmonté d'une boucle
 29DE: Infini nié par une barre verticale
 29DF: Multijection à deux têtes
-29E0: Carré ombré : d'alembertien
+29E0: Carré ombré: d'alembertien
 29E1: Augmente avec
 29E2: Produit de permutation
 29E3: Égal à et parallèle à incliné
 29E4: Égal à et parallèle à incliné surmontés d'un tilde
 29E5: Identique à et parallèle à incliné
-29E6: Gleich stark : équivalence tautologique
+29E6: Gleich stark: équivalence tautologique
 29E7: Thermodynamique
 29E8: Triangle pointe vers le bas à moitié gauche noire
 29E9: Triangle pointe vers le bas à moitié droite noire
@@ -242,15 +242,15 @@
 29F1: Barre d'erreur à losange noir
 29F2: Barre d'erreur à cercle blanc
 29F3: Barre d'erreur à cercle noir
-29F4: Règle différée : deux-points suivi d'une flèche
-29F5: Opérateur barre oblique inversée : opérateur contre-oblique, opérateur contre-cotice
-29F6: Barre oblique avec barre en chef : oblique barre en chef, cotice barre en chef
-29F7: Barre oblique inversée à traverse horizontale : contre-oblique à traverse horizontale, contre-cotice à traverse
+29F4: Règle différée: deux-points suivi d'une flèche
+29F5: Opérateur barre oblique inversée: opérateur contre-oblique, opérateur contre-cotice
+29F6: Barre oblique avec barre en chef: oblique barre en chef, cotice barre en chef
+29F7: Barre oblique inversée à traverse horizontale: contre-oblique à traverse horizontale, contre-cotice à traverse
 29F8: Grande barre oblique
-29F9: Grande barre oblique inversée : grande contre-oblique, grande contre-cotice : masquage de schémas en notation z
+29F9: Grande barre oblique inversée: grande contre-oblique, grande contre-cotice , masquage de schémas en notation z
 29FA: Double plus
 29FB: Triple plus
 29FC: Chevron vers la gauche courbé
 29FD: Chevron vers la droite courbé
 29FE: Tiny
-29FF: Miny
+29FF: Miny

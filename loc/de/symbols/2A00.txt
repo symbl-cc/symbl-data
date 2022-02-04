@@ -5,7 +5,7 @@
 2A04: N-Ary Union-Operator mit Plus
 2A05: N-Ary Square-Kreuzungsoperator
 2A06: N-Ary Square Union-Betreiber
-2A07: Zwei logische und Operator : verschmelzen
+2A07: Zwei logische und Operator: verschmelzen
 2A08: Zwei logisch oder Operator
 2A09: N-Ary Times-Operator
 2A0A: Modulo Zwei Summe
@@ -25,19 +25,19 @@
 2A18: Integriert mit Times Sign
 2A19: Integral mit der Kreuzung
 2A1A: Integral mit Union
-2A1B: Integral mit Overbar : oberes Integral
-2A1C: Integral mit Underbar : unteres Integral
-2A1D: Beitreten : große Fliege
+2A1B: Integral mit Overbar: oberes Integral
+2A1C: Integral mit Underbar: unteres Integral
+2A1D: Beitreten: große Fliege
 2A1E: Großes linkes Dreieckbediener
 2A1F: Z-Notationsschema-Zusammensetzung
 2A20: Z-Notationsschema-Piping
 2A21: Z-Notationsschema-Projektion
 2A22: Pluszeichen mit kleinem Kreis oben
 2A23: Pluszeichen mit Zirkumflex-Akzent oben
-2A24: Pluszeichen mit Tilde oben : positive Differenz oder Summe
+2A24: Pluszeichen mit Tilde oben: positive Differenz oder Summe
 2A25: Pluszeichen mit Punkt unten
-2A26: Pluszeichen mit Tilde unter : Summe oder positive Differenz
-2A27: Pluszeichen mit Index Zwei : Nim-Addition
+2A26: Pluszeichen mit Tilde unter: Summe oder positive Differenz
+2A27: Pluszeichen mit Index Zwei: Nim-Addition
 2A28: Pluszeichen mit schwarzem Dreieck
 2A29: Minuszeichen mit Komma oben
 2A2A: Minuszeichen mit Punkt unten
@@ -63,7 +63,7 @@
 2A3E: Z-Notation relationaler Aufbau
 2A3F: Verschmelzung oder Koprodukt
 2A40: Schnittpunkt mit Punkt
-2A41: Union mit Minuszeichen : z Notationssackabzug
+2A41: Union mit Minuszeichen: z Notationssackabzug
 2A42: Union mit Overbar
 2A43: Kreuzung mit Overbar
 2A44: Überschneidung mit logischem und
@@ -102,7 +102,7 @@
 2A65: Z Notationsbereich Antirestriction
 2A66: Gleichheitszeichen mit Punkt unten
 2A67: Identisch mit dem obigen Punkt
-2A68: Dreifacher Horizontalbalken mit doppeltem vertikalem Hub : identisch und parallel zu
+2A68: Dreifacher Horizontalbalken mit doppeltem vertikalem Hub: identisch und parallel zu
 2A69: Dreifacher Horizontalbalken mit dreifachem vertikalem Hub
 2A6A: Tilde-Operator mit Punkt oben
 2A6B: Tilde-Operator mit steigenden Punkten
@@ -159,7 +159,7 @@
 2A9E: Ähnlich oder größer als
 2A9F: Ähnlich oben Weniger als Gleiches Gleichheitszeichen
 2AA0: Ähnlich oben größer als oben Gleichheitszeichen
-2AA1: Doppelte verschachtelte weniger als : absolute Kontinuität
+2AA1: Doppelte verschachtelte weniger als: absolute Kontinuität
 2AA2: Doppelt verschachteltes Größeres als
 2AA3: Doppelt verschachtelt, weniger als mit Unterleiste
 2AA4: Größer als überlappend Weniger als
@@ -218,13 +218,13 @@
 2AD9: Element der Öffnung nach unten
 2ADA: Heugabel mit T-Stück
 2ADB: Transversalschnitt
-2ADC: Gabelung : nicht unabhängig
-2ADD: Nicht Gabeln : unabhängig
+2ADC: Gabelung: nicht unabhängig
+2ADD: Nicht Gabeln: unabhängig
 2ADE: Kurzer Linker Tack
 2ADF: Kurzer Down Tack
 2AE0: Short Up Tack
 2AE1: Rechtwinklig zu S
-2AE2: Vertikales Dreifach-Drehkreuz : normalerweise zufriedenstellend
+2AE2: Vertikales Dreifach-Drehkreuz: normalerweise zufriedenstellend
 2AE3: Doppelter vertikaler Balken linkes Drehkreuz
 2AE4: Vertikales doppeltes linkes Drehkreuz
 2AE5: Doppelter vertikaler Balken Doppelter linker Drehkreuz
@@ -233,16 +233,16 @@
 2AE8: Short Up Tack mit Underbar
 2AE9: Short Up Tack Über Short Down Tack
 2AEA: Double Down Tack
-2AEB: Verdoppeln Sie Tack : Unabhängigkeit
+2AEB: Verdoppeln Sie Tack: Unabhängigkeit
 2AEC: Doppelstrich nicht unterschreiben
 2AED: Umgekehrter Doppelstrich nicht unterschrieben
 2AEE: Teilt sich nicht mit umgekehrten Negationsschrägstrich
 2AEF: Vertikale Linie mit Kreis oben
 2AF0: Vertikale Linie mit Kreis unten
-2AF1: Down Tack mit Kreis unten : unbedingt erfüllt
+2AF1: Down Tack mit Kreis unten: unbedingt erfüllt
 2AF2: Parallel zum horizontalen Anschlag
 2AF3: Parallel zu Tilde Operator
-2AF4: Dreifache vertikale Balken-Binärbeziehung : verschachteln
+2AF4: Dreifache vertikale Balken-Binärbeziehung: verschachteln
 2AF5: Dreifacher vertikaler Strich mit horizontalem Hub
 2AF6: Triple Colon Operator
 2AF7: Dreifach verschachtelt weniger als
@@ -252,5 +252,5 @@
 2AFB: Dreifache Solidus-Binärbeziehung
 2AFC: Großer dreifacher vertikaler Barbediener
 2AFD: Doppelter Solidus-Operator
-2AFE: Weiße vertikale Leiste : dijkstra Wahl
-2AFF: N-Ary White Vertical Bar : n-ary dijkstra Wahl
+2AFE: Weiße vertikale Leiste: dijkstra Wahl
+2AFF: N-Ary White Vertical Bar: n-ary dijkstra Wahl

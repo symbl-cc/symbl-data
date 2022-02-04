@@ -1,0 +1,9 @@
+An invisible codepoint which specifies that the preceding character should be displayed with emoji presentation. Only required if the preceding character defaults to text presentation.
+
+Often used in Emoji ZWJ Sequences, where one or more characters in the sequence have text and emoji presentation, but otherwise default to text (black and white) display.
+
+##Examples
+
+Snowman as text: ☃. Snowman as Emoji: ☃️
+
+Black Heart as text: ❤. Black Heart as Emoji: ❤️ (not so black)

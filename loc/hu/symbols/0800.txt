@@ -26,52 +26,52 @@
 0819: Samaritan Mark Dagesh
 081A: Szamaritánus módosító levél Epetetikus Yut
 081B: Samaritan Mark Epenthetic Yut
-081C: Szamáriánus magánhangzó jel hosszú E : fatha al-nida
+081C: Szamáriánus magánhangzó jel hosszú E: fatha al-nida
 081D: Szamaritánus magánhangzó jel
-081E: Szamaritánus magánhangzó jel Overlong Aa : fatha al-ima
+081E: Szamaritánus magánhangzó jel Overlong Aa: fatha al-ima
 081F: Szamaritánus magánhangzó jel hosszú Aa
 0820: A szamaritánus magánhangzójel
-0821: Szamáriánus magánhangzó jel Overlong A : fatha al-iha
+0821: Szamáriánus magánhangzó jel Overlong A: fatha al-iha
 0822: Szamáriánus magánhangzójel hosszú A
 0823: A szamáriánus magánhangzó jel
 0824: Samaritan Modifier Letter Short A
-0825: Szamáriánus magánhangzó jel rövid A : fatha
-0826: Szamaritánus magánhangzó jel hosszú U : damma
+0825: Szamáriánus magánhangzó jel rövid A: fatha
+0826: Szamaritánus magánhangzó jel hosszú U: damma
 0827: Szamaritánus magánhangzójel U
 0828: Szamaritánus módosító levél I
-0829: Szamáriánus magánhangzó jel hosszú I : kasra
+0829: Szamáriánus magánhangzó jel hosszú I: kasra
 082A: Szamáriánus magánhangzó jel I
 082B: Szamaritánus magánhangzó jel O
 082C: Szamáriánus magánhangzó jel Sukun
 082D: Samaritan Mark Nequdaa
 082E:
 082F:
-0830: Szamaritánus írásjelek Nequdaa : szó elválasztó
-0831: Szamaritánus írásjelek Afsaaq : félbeszakítás
-0832: Szamaritánus írásjelek : korlátozás
-0833: Szamaritánus írásjelek Bau : ima
-0834: Szamaritánus írásjelek Atmaau : meglepetés
-0835: Szamaritánus írásjelek Shiyyaalaa : kérdés
+0830: Szamaritánus írásjelek Nequdaa: szó elválasztó
+0831: Szamaritánus írásjelek Afsaaq: félbeszakítás
+0832: Szamaritánus írásjelek: korlátozás
+0833: Szamaritánus írásjelek Bau: ima
+0834: Szamaritánus írásjelek Atmaau: meglepetés
+0835: Szamaritánus írásjelek Shiyyaalaa: kérdés
 0836: Szamaritánus rövidítés jel
 0837: Szamaritánus írásjelek Melodikus Qitsa
-0838: Szamaritánus írásjelek Ziqaa : kiabálás
-0839: Szamaritánus írásjelek Qitsa : szakasz végén
-083A: Szamaritánus írásjelek Zaef : kitörés
-083B: Szamaritánus írásjelek Turu : tanítás
-083C: Szamaritánus írásjelek Arkaanu : engedelmesség
-083D: Szamaritánus írásjelek Sof Mashfaat : pont
-083E: Szamaritánus írásjelek Annaau : pihenés
+0838: Szamaritánus írásjelek Ziqaa: kiabálás
+0839: Szamaritánus írásjelek Qitsa: szakasz végén
+083A: Szamaritánus írásjelek Zaef: kitörés
+083B: Szamaritánus írásjelek Turu: tanítás
+083C: Szamaritánus írásjelek Arkaanu: engedelmesség
+083D: Szamaritánus írásjelek Sof Mashfaat: pont
+083E: Szamaritánus írásjelek Annaau: pihenés
 083F:
-0840: Halandai Mandaic levél : egy
+0840: Halandai Mandaic levél: egy
 0841: Mandaic Letter Ab
 0842: Mandaikus levél Ag
 0843: Mandaikus levélhirdetés
 0844: Mandaikus levél Ah
-0845: Usanda levél Ushenna : u
+0845: Usanda levél Ushenna: u
 0846: Mandaikus levél Az
 0847: Mandaikus levél
 0848: Mandaic Letter Att
-0849: Mandaikus levél Aksa : én
+0849: Mandaikus levél Aksa: én
 084A: Akadémiai levél Ak
 084B: Mandaic Al Al
 084C: Mandaic Am
@@ -84,7 +84,7 @@
 0853: Mandaikus levél Ar
 0854: Mandaic Letter Ash
 0855: Mandaikus levél
-0856: Mandaikus levél Dushenna : di
+0856: Mandaikus levél Dushenna: di
 0857: Mandaikus levél Kad
 0858: Mandaikus levél Ain
 0859: Mandaic Affrication Mark
@@ -168,9 +168,9 @@
 08A7: Arab levél Meem három pont felett
 08A8: Yeh arab levél két ponttal és Hamza felett
 08A9: Yeh arab betű két ponttal és a pont felett
-08AA: Arab betű Reh a hurokkal : bottya-reh
-08AB: Arab levél Waw Dot belül : nota-wa
-08AC: Rohingya Yeh arab levél : bottya-Yeh
+08AA: Arab betű Reh a hurokkal: bottya-reh
+08AB: Arab levél Waw Dot belül: nota-wa
+08AC: Rohingya Yeh arab levél: bottya-Yeh
 08AD: Arab levél Low Alef
 08AE: Arab levél Dal és három pont alatt
 08AF: Arab levél szomorú három ponttal
@@ -188,16 +188,16 @@
 08BB: Arab levél afrikai Feh
 08BC: Arab levél afrikai Qaf
 08BD: Arab levél Afrikai Noon
-08BE:
-08BF:
-08C0:
-08C1:
-08C2:
-08C3:
-08C4:
-08C5:
-08C6:
-08C7:
+08BE: Arab betű Peh kicsi V-vel
+08BF: Arab betű Teh kicsi V-vel
+08C0: Arab betű Tteh kicsi V-vel
+08C1: Arab betű Tcheh kicsi V-vel
+08C2: Arab betű Keheh kicsi V-vel
+08C3: Arab betű Ghain három pont felett
+08C4: Arab betű afrikai Qaf három pont felett
+08C5: Arab betű Jeem három pont felett
+08C6: Arab betű Jeem három pont alatt
+08C7: Arab betű Lam kicsi Arab betű Tah felett
 08C8:
 08C9:
 08CA:
@@ -238,9 +238,9 @@
 08ED: Az arab hang egy pont alatt
 08EE: Arab hangszín két pont alatt
 08EF: Az arab hangszínhurok alább
-08F0: Arab nyitott Fathatan : egymást követő fathatán
-08F1: Arab Open Dammatan : egymást követő dammatan
-08F2: Arab nyitott Kasratan : egymást követő kasratán
+08F0: Arab nyitott Fathatan: egymást követő fathatán
+08F1: Arab Open Dammatan: egymást követő dammatan
+08F2: Arab nyitott Kasratan: egymást követő kasratán
 08F3: Arab kis magas hullám
 08F4: Arab Fatha gyűrűvel
 08F5: Arab Fatha a fenti ponttal

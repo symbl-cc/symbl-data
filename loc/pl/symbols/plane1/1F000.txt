@@ -2,10 +2,10 @@
 1F001: Mahjong Tile South Wind
 1F002: Mahjong Tile West Wind
 1F003: Mahjong Tile North Wind
-1F004: Mahjong Tile Red Dragon : Hongzhong, 中
-1F005: Mahjong Tile Green Dragon : qingfa
-1F006: Mahjong Tile White Dragon : baiban
-1F007: Mahjong Tile One of Characters : blady
+1F004: Mahjong Tile Red Dragon: Hongzhong, 中
+1F005: Mahjong Tile Green Dragon: qingfa
+1F006: Mahjong Tile White Dragon: baiban
+1F007: Mahjong Tile One of Characters: blady
 1F008: Mahjong Tile Two of Characters
 1F009: Mahjong Tile Three of Characters
 1F00A: Mahjong Tile Four of Characters
@@ -14,7 +14,7 @@
 1F00D: Mahjong Tile Seven of Characters
 1F00E: Mahjong Tile Eight of Characters
 1F00F: Mahjong Tile Nine of Characters
-1F010: Mahjong Tile One of Bamboos : tiao
+1F010: Mahjong Tile One of Bamboos: tiao
 1F011: Mahjong Tile Two Bamboo
 1F012: Mahjong Tile Three Bamboos
 1F013: Mahjong Tile Four Bamboo
@@ -23,7 +23,7 @@
 1F016: Mahjong Tile Seven Bamboo
 1F017: Mahjong Płytka Osiem Bambusów
 1F018: Mahjong Tile Nine of Bamboo
-1F019: Mahjong Tile One of Circles : bing
+1F019: Mahjong Tile One of Circles: bing
 1F01A: Mahjong Tile Two of Circles
 1F01B: Mahjong Tile of Three of Circles
 1F01C: Mahjong Tile Four of Circles
@@ -32,15 +32,15 @@
 1F01F: Mahjong Tile Seven of Circles
 1F020: Mahjong Tile Eight of Circles
 1F021: Mahjong Tile Nine of Circles
-1F022: Mahjong Tile Plum : mei
-1F023: Mahjong Tile Orchid : lan
-1F024: Mahjong Tile Bamboo : zhu
-1F025: Mahjong Tile Chrysanthemum : ju
+1F022: Mahjong Tile Plum: mei
+1F023: Mahjong Tile Orchid: lan
+1F024: Mahjong Tile Bamboo: zhu
+1F025: Mahjong Tile Chrysanthemum: ju
 1F026: Mahjong Tile Spring
 1F027: Mahjong Tile Summer
 1F028: Mahjong Tile Autumn
 1F029: Mahjong Tile Winter
-1F02A: Mahjong Tile Joker : baida
+1F02A: Mahjong Tile Joker: baida
 1F02B: Mahjong Tile Back
 1F02C:
 1F02D:
@@ -169,10 +169,10 @@
 1F0A8: Karta do gry Osiem pików
 1F0A9: Dziewięć pików kart do gry
 1F0AA: Karta do gry Dziesięć pików
-1F0AB: Karta do gry Jack of Spades : valet, bube, unter, page, fante : strona mieczy
-1F0AC: Rycerz kart pikowych : chevalier, ober, ritter, cavall, cavaliere : rycerz mieczy
-1F0AD: Gra w karty Królowa pików : dame, dame, königin, regina : królowa mieczy
-1F0AE: Król pik kart do gry : roi, könig, re : król mieczy
+1F0AB: Karta do gry Jack of Spades: valet, bube, unter, page, fante , strona mieczy
+1F0AC: Rycerz kart pikowych: chevalier, ober, ritter, cavall, cavaliere , rycerz mieczy
+1F0AD: Gra w karty Królowa pików: dame, dame, königin, regina , królowa mieczy
+1F0AE: Król pik kart do gry: roi, könig, re , król mieczy
 1F0AF:
 1F0B0:
 1F0B1: Karta do gry As kier
@@ -253,4 +253,4 @@
 1F0FC:
 1F0FD:
 1F0FE:
-1F0FF:
+1F0FF:

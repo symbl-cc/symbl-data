@@ -1,6 +1,6 @@
 0C00: Candrabindu yukarıda birleştiren Telugu işareti
-0C01: Telugu işareti Candrabindu : arasunna
-0C02: Telugu işareti Anusvara : sunna
+0C01: Telugu işareti Candrabindu: arasunna
+0C02: Telugu işareti Anusvara: sunna
 0C03: Telugu Burcu Visarga
 0C04: Anüsvara Yukarıdaki birleştiren Telugu işareti
 0C05: Telugu harfi A
@@ -75,7 +75,7 @@
 0C4A: Telugu Ünlüler O işareti
 0C4B: Telugu Vowel Sign Oo
 0C4C: Telugu Vowel işareti Au
-0C4D: Telugu Burcu Virama : halant (tercih edilen isim)
+0C4D: Telugu Burcu Virama: halant (tercih edilen isim)
 0C4E:
 0C4F:
 0C50:
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu işaret Siddham
 0C78: Dörtlü Tek Güçler İçin Sıfır Telugu Fraksiyonu Rakamı
 0C79: Dörtlü Tek Güçler İçin Telugu Fraksiyonu Rakam Bir
 0C7A: Dörtlü Tek Güç İçin Telugu Fraksiyonu İki Rakam
@@ -230,11 +230,11 @@
 0CE5: <Ayrılmış>
 0CE6: Kannada Rakam Sıfır
 0CE7: Kannada Rakam Bir
-0CE8: Kannada Basamak İki
-0CE9: Kannada Basamak Üç
-0CEA: Kannada Basamak Dört
-0CEB: Kannada Basamak Beş
-0CEC: Kannada Basamak Altı
+0CE8: Kannada Rakam İki
+0CE9: Kannada Rakam Üç
+0CEA: Kannada Rakam Dört
+0CEB: Kannada Rakam Beş
+0CEC: Kannada Rakam Altı
 0CED: Kannada Rakam Yedi
 0CEE: Kannada Rakam Sekiz
 0CEF: Kannada Rakam Dokuz
@@ -253,4 +253,4 @@
 0CFC:
 0CFD:
 0CFE:
-0CFF:
+0CFF:

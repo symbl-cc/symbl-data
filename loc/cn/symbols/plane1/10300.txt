@@ -48,8 +48,8 @@
 1032F: 旧斜体字母南部谢
 10330: 哥特字母Ahsa
 10331: 哥特式字母Bairkan
-10332: 哥特信吉巴
-10333: 哥特式信Dags
+10332: 哥特字母吉巴
+10333: 哥特式字母Dags
 10334: 哥特式字母Aihvus
 10335: 哥特字母Qairthra
 10336: 哥特字母Iuja
@@ -57,11 +57,11 @@
 10338: 哥特字母Thiuth
 10339: 哥特式字母Eis
 1033A: 哥特字母Kusma
-1033B: 哥特式信拉古斯
+1033B: 哥特式字母拉古斯
 1033C: 哥特式字母吗哪
 1033D: 哥特字母Nauths
 1033E: 哥特字母耶
-1033F: 哥特式信乌鲁斯
+1033F: 哥特式字母乌鲁斯
 10340: 哥特式字母Pairthra
 10341: 哥特字母九十
 10342: 哥特字母雷达
@@ -79,41 +79,41 @@
 1034E:
 1034F:
 10350: 老Permic字母
-10351: 老Permic信件Bur
-10352: 老Permic信Gai
-10353: 老Permic信Doi
+10351: 老Permic字母件Bur
+10352: 老Permic字母Gai
+10353: 老Permic字母Doi
 10354: 老Permic字母E.
-10355: 老Permic信Zhoi
-10356: 老Permic信件Dzhoi
-10357: 老Permic信件Zata
-10358: 老Permic信件Dzita
-10359: 老Permic信我
+10355: 老Permic字母Zhoi
+10356: 老Permic字母件Dzhoi
+10357: 老Permic字母件Zata
+10358: 老Permic字母件Dzita
+10359: 老Permic字母我
 1035A: 老Permic Letter Koke
-1035B: 老Permic信雷
-1035C: 老Permic信件Menoe
+1035B: 老Permic字母雷
+1035C: 老Permic字母件Menoe
 1035D: 老Permic字母Nenoe
-1035E: 老Permic信Vooi
-1035F: 老Permic信Peei
+1035E: 老Permic字母Vooi
+1035F: 老Permic字母Peei
 10360: 老Permic Letter Rei
 10361: 老Permic Letter Sii
 10362: 老Permic Letter Tai
 10363: 老Permic字母U.
-10364: 老Permic信奇瑞
-10365: 老Permic信Shooi
-10366: 老Permic信件Shchooi
-10367: 老Permic信Yry
-10368: 老Permic信Yeru
+10364: 老Permic字母奇瑞
+10365: 老Permic字母Shooi
+10366: 老Permic字母件Shchooi
+10367: 老Permic字母Yry
+10368: 老Permic字母Yeru
 10369: 老Permic字母O.
-1036A: 老Permic信件Oo
+1036A: 老Permic字母件Oo
 1036B: 老Permic Letter Ef
 1036C: 老Permic字母Ha
-1036D: 老Permic信Tsiu
+1036D: 老Permic字母Tsiu
 1036E: 老Permic Letter Ver
 1036F: 老Permic Letter Yer
-10370: 老Permic信Yeri
-10371: 老Permic信逸
+10370: 老Permic字母Yeri
+10371: 老Permic字母逸
 10372: 老Permic Letter即
-10373: 老Permic信Yu
+10373: 老Permic字母Yu
 10374: 老Permic Letter Ya
 10375: 老Permic Letter Ia
 10376: 结合旧的Permic字母
@@ -152,7 +152,7 @@
 10397: Ugaritic Letter Rasha
 10398: Ugaritic Letter Thanna
 10399: Ugaritic Letter Ghain
-1039A: Ugaritic致信
+1039A: Ugaritic致字母
 1039B: Ugaritic Letter I.
 1039C: Ugaritic字母U.
 1039D: Ugaritic Letter Ssu
@@ -253,4 +253,4 @@
 103FC:
 103FD:
 103FE:
-103FF:
+103FF:

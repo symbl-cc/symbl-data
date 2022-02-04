@@ -1,7 +1,12 @@
+properties: Properties
+property: Property
+value: Value
+hide: Hide
+show: Show
 up: Up
 range: Range
 loading: Loading, please wait...
-count: Number of characters
+count: Quantity of characters
 sort-order: By order
 sort-block: By blocks
 copy-clipboard: Copy to clipboard
@@ -9,19 +14,29 @@ help-range: Click to highlight range
 more: More
 prev: Prev
 next: Next
-separate-page: Open in separate page
+separate-page: Open in an individual page
 share-link: Share with friends
-recent: Recent
-recent-text: Here will display recently used symbols. So far, see the popular symbols
+recent: Recent usage
+recent-text: Empty :( Here will be displayed recently used symbols. Until that happend, see the popular symbols
 read-more: Read more
 read-less: Hide
 madeby: Made by
 keepupdates: Follow us
 hint: Select and copy character you need
+symbols-count: symbols
+copied: Copied!
+see_also: See also
+page_content_menu: Content menu 
+homepage: Homepage
+cookie-message: This site uses 🍪cookies to ensure that you get the best experience.
+accept: Accept
+empty-cell: Empty cell
+page_content_menu: Content
+holidays-list: Holidays list
 
 [mobile]
-to-full: Go to full version
-to-mobile: Mobile version
+to-full: To full version
+to-mobile: To mobile version
 
 [edit]: Edit
 save: Save

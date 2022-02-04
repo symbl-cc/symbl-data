@@ -79,30 +79,30 @@
 024E: Y betű latin fővárosi betűvel
 024F: Latin kis betű Y, stroke
 0250: Latin kis betű fordult A
-0251: Latin kis betű Alfa : latin kis levél script a
+0251: Latin kis betű Alfa: latin kis levél script a
 0252: Latin kis betű fordult alfa
 0253: Latin kis B betű horoggal
 0254: Latin kis levél nyitott O
 0255: Latin kis C betű és Curl
-0256: Latin kis D betű farokkal : d retroflex horog
+0256: Latin kis D betű farokkal: d retroflex horog
 0257: Latin kis D betű horoggal
 0258: Latin kis betű fordított E
 0259: Latin kis levél Schwa
 025A: Latin kis levél Schwa a horoggal
-025B: Latin kis levél nyitott E : epszilon
+025B: Latin kis levél nyitott E: epszilon
 025C: Latin kis betű fordított nyitott E
 025D: Latin kis betű fordított nyitva E a horoggal
-025E: Latin kis betű zárva Fordított nyitva E : zárt fordított epsilon
+025E: Latin kis betű zárva Fordított nyitva E: zárt fordított epsilon
 025F: Latin kis levél, pontatlan J stroke
 0260: Latin kis G betű horoggal
 0261: Latin kis betűszkript G
 0262: Latin Letter Small Capital G
 0263: Latin kis levél Gamma
-0264: Latin kis levél rams Horn : latin kis levél baba gamma
+0264: Latin kis levél rams Horn: latin kis levél baba gamma
 0265: Latin kis betű fordult H
 0266: Latin kis betű H horoggal
 0267: Latin kis levél Heng a horoggal
-0268: Latin kis levél I stroke-tal : letiltott i, i bar
+0268: Latin kis levél I stroke-tal: letiltott i, i bar
 0269: Latin kis levél Iota
 026A: Latin Letter Small Capital I
 026B: Latin kis L betű a középső Tildével
@@ -115,7 +115,7 @@
 0272: Latin kis betű N bal horoggal
 0273: Latin kis betű N Retroflex horoggal
 0274: Latin betű kis tőke N
-0275: Latin kis betűs Barred O : o bár
+0275: Latin kis betűs Barred O: o bár
 0276: Latin Letter Small Capital Oe
 0277: Latin kis levél zárva Omega
 0278: Latin kis levél Phi
@@ -125,7 +125,7 @@
 027C: Latin kis betű R hosszú lábú
 027D: Latin kis betű R farokkal
 027E: Latin kis betű R halakkal
-027F: Latin kis betű fordított R halakkal : hosszú lábfej iota lett (félrevezető)
+027F: Latin kis betű fordított R halakkal: hosszú lábfej iota lett (félrevezető)
 0280: Latin Letter Small Capital R
 0281: Latin betű kis tőke invertált R
 0282: Latin kis betű S horoggal
@@ -137,22 +137,22 @@
 0288: Latin kis betű T Retroflex horoggal
 0289: Latin kis levél U bár
 028A: Latin kis levél Upsilon
-028B: Latin kis betű V horoggal : latin kis betűszkript v
-028C: Latin kis betű fordult V : caret, ék
+028B: Latin kis betű V horoggal: latin kis betűszkript v
+028C: Latin kis betű fordult V: caret, ék
 028D: Latin kis betű fordult W
 028E: Latin kis betű fordult Y
 028F: Latin betű kis tőke Y
 0290: Latin kis betű Z Retroflex horoggal
 0291: Latin kis betű Z göndörítéssel
-0292: Latin kis levél Ezh : korty pálinka
+0292: Latin kis levél Ezh: korty pálinka
 0293: Latin kis levél Ezh, Curl
 0294: Glottal Stop latin betű
-0295: Latin betű Pharyngeal hangzású : fordított glottális megállás
+0295: Latin betű Pharyngeal hangzású: fordított glottális megállás
 0296: Latin betű fordított glottal stop
 0297: Nyújtott latin betű C
-0298: Latin levél Bilabial Click : telitalálat
+0298: Latin levél Bilabial Click: telitalálat
 0299: Latin Letter Small Capital B
-029A: Latin kis betű zárva nyitott E : zárt epsilon
+029A: Latin kis betű zárva nyitott E: zárt epsilon
 029B: Latin betű kis tőke G a horoggal
 029C: Latin Letter Small Capital H
 029D: Latin kis betű J keresztezett farokkal
@@ -186,7 +186,7 @@
 02B9: Módosító levél Prime
 02BA: A módosító levél Double Prime
 02BB: Módosító betűvel fordított vessző
-02BC: A módosító levél Apostrophe : aposztróf
+02BC: A módosító levél Apostrophe: aposztróf
 02BD: Módosító betű fordított vessző
 02BE: Módosító levél jobb félgyűrű
 02BF: Módosító levél bal félgyűrű
@@ -197,7 +197,7 @@
 02C4: Módosító levél felfelé mutató nyílfej
 02C5: A módosító levél lefelé mutató nyíl
 02C6: Módosító betű körkörös akcentus
-02C7: Caron : hacek
+02C7: Caron: hacek
 02C8: Módosító betű függőleges vonal
 02C9: Macron
 02CA: A módosító levél akut akcentusa

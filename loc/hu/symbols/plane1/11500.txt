@@ -132,10 +132,10 @@
 11583: Siddham betű Ii
 11584: Siddham betű U
 11585: Siddham betű Uu
-11586: Siddham betű Vocalic R
-11587: Siddham betű Vocalic Rr
-11588: Siddham betű Vocalic L
-11589: Siddham betű Vocalic Ll
+11586: Siddham betű vokális R
+11587: Siddham betű vokális Rr
+11588: Siddham betű vokális L
+11589: Siddham betű vokális Ll
 1158A: Siddham betű E
 1158B: Siddham betű Ai
 1158C: Siddham betű O
@@ -173,53 +173,53 @@
 115AC: Siddham betű Ssa
 115AD: Siddham betű Sa
 115AE: Siddham betű Ha
-115AF: Siddham Vowel Sign Aa
-115B0: Siddham Vowel Sign I
-115B1: Siddham Vowel Sign Ii
-115B2: Siddham Vowel Sign U
-115B3: Siddham Vowel Sign Uu
-115B4: Siddham Vowel Sign Vocalic R
-115B5: Siddham Vowel Sign Vocalic Rr
+115AF: Siddham magánhangzó jel Aa
+115B0: Siddham magánhangzó jel I
+115B1: Siddham magánhangzó jel Ii
+115B2: Siddham magánhangzó jel U
+115B3: Siddham magánhangzó jel Uu
+115B4: Siddham magánhangzó jel vokális R
+115B5: Siddham magánhangzó jel vokális Rr
 115B6:
 115B7:
-115B8: Siddham Vowel Sign E
-115B9: Siddham Vowel Sign Ai
-115BA: Siddham Vowel Sign O
-115BB: Siddham Vowel Sign Au
-115BC: Siddham Sign Candrabindu
-115BD: Siddham Sign Anusvara
-115BE: Siddham Sign Visarga
-115BF: Siddham Sign Virama
-115C0: Siddham Sign Nukta
-115C1: Siddham Sign Siddham : siddhirastu
-115C2: Siddham Danda
-115C3: Siddham Double Danda
-115C4: Siddham Separator Dot
-115C5: Siddham Separator Bar
-115C6: Siddham Repetition Mark-1
-115C7: Siddham Repetition Mark-2
-115C8: Siddham Repetition Mark-3
-115C9: Siddham End of Text Mark
-115CA:
-115CB:
-115CC:
-115CD:
-115CE:
-115CF:
-115D0:
-115D1:
-115D2:
-115D3:
-115D4:
-115D5:
-115D6:
-115D7:
-115D8:
-115D9:
-115DA:
-115DB:
-115DC:
-115DD:
+115B8: Siddham magánhangzó jel e
+115B9: Siddham magánhangzó jel ai
+115BA: Siddham magánhangzó jel o
+115BB: Siddham magánhangzó jel au
+115BC: Siddham jel candrabindu
+115BD: Siddham jel anusvara
+115BE: Siddham jel visarga
+115BF: Siddham jel virama
+115C0: Siddham jel nukta
+115C1: Siddham jel siddham
+115C2: Siddham danda
+115C3: Siddham kettős danda
+115C4: Siddham elválasztó pont
+115C5: Siddham elválasztó sáv
+115C6: Siddham ismétlési jel-1
+115C7: Siddham ismétlési jel-2
+115C8: Siddham ismétlődési jel-3
+115C9: Siddham szöveges jel vége
+115CA: Siddham metszeti jel háromlépcsős és u alakú díszekkel
+115CB: Siddham metszetjel háromoldalú és pontozott félholdokkal
+115CC: Siddham metszetjel sugarakkal és pontozott félholdokkal
+115CD: Siddham metszetjel sugarakkal és pontozott dupla félholdokkal
+115CE: Siddham metszetjel sugarakkal és pontozott háromszögű félholdokkal
+115CF: A Siddham szakasz jelölje meg a kettős gyűrűt
+115D0: A Siddham szakasz dupla gyűrűt jelöl sugarakkal
+115D1: Siddham metszeti jel dupla félholdokkal
+115D2: Siddham metszeti jel háromszoros félholdokkal
+115D3: Siddham metszetjel négyszer félholdokkal
+115D4: Siddham metszeti jel, félholdos félholdokkal
+115D5: Siddham metszetjel körökkel és sugarakkal
+115D6: Siddham metszetjel körökkel és két burkolattal
+115D7: Siddham szakaszjelölés körökkel és négy házlal
+115D8: Siddham betű három kör alternatívája i
+115D9: Siddham betű kétkörös póttag i
+115DA: Siddham betű kétkörös póttag ii
+115DB: Siddham betű póttag u
+115DC: Siddham magánhangzó jel póttag u
+115DD: Siddham magánhangzó jel póttag uu
 115DE:
 115DF:
 115E0:
@@ -253,4 +253,4 @@
 115FC:
 115FD:
 115FE:
-115FF:
+115FF:

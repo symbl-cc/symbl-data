@@ -31,7 +31,7 @@
 061E: Trois-points arabe
 061F: Point d'interrogation arabe
 0620: Lettre arabe cachemiri ya’
-0621: Lettre arabe hamza : hemza
+0621: Lettre arabe hamza: hemza
 0622: Lettre arabe alif madda en chef
 0623: Lettre arabe alif hamza en chef
 0624: Lettre arabe waw hamza en chef
@@ -39,9 +39,9 @@
 0626: Lettre arabe ya' hamza en chef
 0627: Lettre arabe alif
 0628: Lettre arabe ba'
-0629: Lettre arabe té' marbouta : tâ' marboûta, tâ' lié
-062A: Lettre arabe té' : tâ
-062B: Lettre arabe thé' : thâ'
+0629: Lettre arabe té' marbouta: tâ' marboûta, tâ' lié
+062A: Lettre arabe té': tâ
+062B: Lettre arabe thé': thâ'
 062C: Lettre arabe djîm
 062D: Lettre arabe ha'
 062E: Lettre arabe kha'
@@ -51,7 +51,7 @@
 0632: Lettre arabe zaïn
 0633: Lettre arabe sîn
 0634: Lettre arabe chîn
-0635: Lettre arabe çad : sad
+0635: Lettre arabe çad: sad
 0636: Lettre arabe dad
 0637: Lettre arabe ta'
 0638: Lettre arabe zza'
@@ -62,7 +62,7 @@
 063D: Lettre arabe farsi ya' à pignon
 063E: Lettre arabe farsi ya' surmonté de deux points
 063F: Lettre arabe farsi ya' surmonté de trois points
-0640: Tatouïl arabe : kachidé, allonge, tatwil
+0640: Tatouïl arabe: kachidé, allonge, tatwil
 0641: Lettre arabe fa'
 0642: Lettre arabe qaf
 0643: Lettre arabe kaf
@@ -71,19 +71,19 @@
 0646: Lettre arabe noûn
 0647: 0020 0648 0633 0644 0645
 0648: Lettre arabe waw
-0649: Lettre arabe alif maksoura : alif maqsoûra, alif bref
+0649: Lettre arabe alif maksoura: alif maqsoûra, alif bref
 064A: Lettre arabe ya'
-064B: Fathatan arabe : tanwîn, tenouyn
+064B: Fathatan arabe: tanwîn, tenouyn
 064C: Dammatan arabe
 064D: Kasratan arabe
-064E: Fatha arabe : nasbéh
-064F: Damma arabe : dhammah, roufa'h
-0650: Kasra arabe : khoufdah
-0651: Chadda arabe : tachdîd, chedda
-0652: Soukoun arabe : djezm, quiescence, soukoûn
-0653: Madda arabe en chef : medda suscrite
-0654: Hamza arabe en chef : hemza suscrite
-0655: Hamza arabe souscrite : hemza souscrite
+064E: Fatha arabe: nasbéh
+064F: Damma arabe: dhammah, roufa'h
+0650: Kasra arabe: khoufdah
+0651: Chadda arabe: tachdîd, chedda
+0652: Soukoun arabe: djezm, quiescence, soukoûn
+0653: Madda arabe en chef: medda suscrite
+0654: Hamza arabe en chef: hemza suscrite
+0655: Hamza arabe souscrite: hemza souscrite
 0656: Alif arabe souscrit
 0657: Damma arabe culbuté
 0658: Signe arabe noûn sans point
@@ -111,7 +111,7 @@
 066E: Lettre arabe ba' sans point
 066F: Lettre arabe qaf sans point
 0670: Voyelle diacritique arabe alif en chef
-0671: Lettre arabe alif wasla : alif ouasl
+0671: Lettre arabe alif wasla: alif ouasl
 0672: Lettre arabe alif hamza ondée en chef
 0673: Lettre arabe alif hamza ondée souscrite
 0674: Lettre arabe hamza élevée
@@ -156,7 +156,7 @@
 069B: Lettre arabe sîn trois points souscrits
 069C: Lettre arabe sîn trois points souscrits et trois points en chef
 069D: Lettre arabe çad deux points souscrits
-069E: Lettre arabe çad trois points en chef : çad
+069E: Lettre arabe çad trois points en chef: çad
 069F: Lettre arabe ta' trois points en chef
 06A0: Lettre arabe 'aïn trois points en chef
 06A1: Lettre arabe fa' sans point
@@ -168,7 +168,7 @@
 06A7: Lettre arabe qaf point en chef
 06A8: Lettre arabe qaf trois points en chef
 06A9: Lettre arabe keha'
-06AA: Lettre arabe kaf écrasé : kaf de l'impiété, kaf paraphe
+06AA: Lettre arabe kaf écrasé: kaf de l'impiété, kaf paraphe
 06AB: Lettre arabe kaf rond
 06AC: Lettre arabe kaf point en chef
 06AD: Lettre arabe ng
@@ -188,9 +188,9 @@
 06BB: Lettre arabe nnoûn rétroflexe
 06BC: Lettre arabe noûn rond
 06BD: Lettre arabe noûn trois points en chef
-06BE: Lettre arabe hé' doatchachmi : hé' noué
+06BE: Lettre arabe hé' doatchachmi: hé' noué
 06BF: Lettre arabe tchim' point en chef
-06C0: Ligature arabe hé' ya' en chef : lettre arabe hamza sur hé' : izafet
+06C0: Ligature arabe hé' ya' en chef: lettre arabe hamza sur hé' , izafet
 06C1: Lettre arabe hé' gôl
 06C2: Ligature arabe hé' gôl hamza en chef
 06C3: Marbouta gôl
@@ -223,7 +223,7 @@
 06DE: Début de roub el hizb arabe
 06DF: Zéro arrondi en chef arabe
 06E0: Zéro rectangulaire en chef arabe
-06E1: Partie haute de kha' sans point en chef arabe : djezm arabe
+06E1: Partie haute de kha' sans point en chef arabe: djezm arabe
 06E2: Lettre arabe minuscule mîm en chef isolé
 06E3: Lettre arabe minuscule sîn souscrit
 06E4: Lettre arabe minuscule madda en chef
@@ -231,7 +231,7 @@
 06E6: Lettre arabe minuscule ya'
 06E7: Lettre arabe minuscule ya' en chef
 06E8: Lettre arabe minuscule noûn en chef
-06E9: Signe de prosternation arabe : sajdah
+06E9: Signe de prosternation arabe: sajdah
 06EA: Point contour souscrit arabe
 06EB: Point contour en chef arabe
 06EC: Point plein souscrit arabe

@@ -5,46 +5,46 @@
 3104:
 3105: 보포 모포 문자 B
 3106: 보포 모포 문자 P
-3107: Bopomofo 편지 M
+3107: 보포모포 편지 M
 3108: 보포 모포 문자 F
-3109: Bopomofo 편지 D
+3109: 보포모포 편지 D
 310A: 보포 모포 문자 T
 310B: 보 포포 문자 N
 310C: 보 포포 문자 L
 310D: 보포 모포 문자 G
 310E: 보 포포 레터 K
 310F: 보포 모포 문자 H
-3110: Bopomofo 편지 J
-3111: 보 포포 (Bopomofo) 편지 Q
+3110: 보포모포 편지 J
+3111: 보 포포 (보포모포) 편지 Q
 3112: 보 포포 문자 X
 3113: 보포 모포 문자 Zh
-3114: Bopomofo 편지 채널
-3115: Bopomofo 편지 Sh
+3114: 보포모포 편지 채널
+3115: 보포모포 편지 Sh
 3116: 보 포포 문자 R
-3117: Bopomofo 편지 Z
+3117: 보포모포 편지 Z
 3118: 보포 모포 문자 C
 3119: 보포 모포 문자 S
 311A: 보 포포 A 편지
-311B: Bopomofo 편지 O
+311B: 보포모포 편지 O
 311C: 보 포포 문자 E
 311D: 보포 모 포 편지
 311E: 보포 모포 문자 Ai
 311F: 보포 모포 문자 Ei
-3120: Bopomofo 편지 Au
+3120: 보포모포 편지 Au
 3121: 보포 모포 레터 오우
-3122: Bopomofo 편지
-3123: Bopomofo Letter En
-3124: Bopomofo Letter Ang
-3125: Bopomofo Letter Eng
-3126: Bopomofo Letter Er
+3122: 보포모포 편지
+3123: 보포모포 자모 En
+3124: 보포모포 자모 Ang
+3125: 보포모포 자모 Eng
+3126: 보포모포 자모 Er
 3127: 보포 모 포 편지 I
 3128: 보 포포 U 자
 3129: 보포 모 포 편지 Iu
 312A: 보 포포 V 편지
 312B: 보포 모 포 편지
-312C: Bopomofo Letter Gn
+312C: 보포모포 자모 Gn
 312D: 보포 모 포 편지 Ih
-312E: Bopomofo 문자 O 위의 점
+312E: 보포모포 문자 O 위의 점
 312F: 보 포포 문자 Nn
 3130:
 3131: 한글 편지 키옹
@@ -98,7 +98,7 @@
 3161: 한글 편지 Eu
 3162: 한글 문자 이순신
 3163: 한글 편지 I
-3164: 한글 필러 : 매
+3164: 한글 필러: 매
 3165: 쌍 여울 한글 편지
 3166: 한글 서신 Nieun-Tikeut
 3167: 한글 서신 Nieun-Sios
@@ -126,7 +126,7 @@
 317D: 한글 문자 Sios-Pieup
 317E: 한글 문자 Sios-Cieuc
 317F: 한글 편지 Pansios
-3180: 쌍행 편지 : 쌍계
+3180: 쌍행 편지: 쌍계
 3181: 한글 서신 예성
 3182: 한글 서신예요 - 시아 스
 3183: 한글 서신 Yesieung-Pansios
@@ -142,8 +142,8 @@
 318D: 한글 편지 Araea
 318E: 한글 편지 Araeae
 318F:
-3190: 이데올로기 어노테이션 Linking Mark : 테이 테텐
-3191: 이데올로기 어노테이션 리버스 마크 : 재배치하다
+3190: 이데올로기 어노테이션 Linking Mark: 테이 테텐
+3191: 이데올로기 어노테이션 리버스 마크: 재배치하다
 3192: 표의 문자 주석 1 마크
 3193: 관념 주석 2 표
 3194: 관념 주석 3 표
@@ -159,37 +159,37 @@
 319E: 이데올로기 Annotation Earth Mark
 319F: 이데올로기 Annotation Man Mark
 31A0: 보 포모 레터 부
-31A1: Bopomofo 편지 Zi
+31A1: 보포모포 편지 Zi
 31A2: 보포 모포 문자 지
 31A3: 보포 모포 레터 구
 31A4: 보포 모 포 편지 Ee
-31A5: Bopomofo Letter Enn
-31A6: Bopomofo 편지 Oo
+31A5: 보포모포 자모 Enn
+31A6: 보포모포 편지 Oo
 31A7: 보포 모포 레터 온
 31A8: 보포 모 포자 편지
-31A9: Bopomofo Letter Ann
+31A9: 보포모포 자모 Ann
 31AA: 보포 모 포 편지 인
-31AB: Bopomofo Letn Unn
+31AB: 보포모포 Letn Unn
 31AC: 보포 모 포 편지
-31AD: Bopomofo 편지 Ngg
+31AD: 보포모포 편지 Ngg
 31AE: 보포 모 포 편지 Ainn
-31AF: Bopomofo Letter Aunn
-31B0: Bopomofo Letter Am
-31B1: Bopomofo 편지 옴
-31B2: Bopomofo 편지 옹이
+31AF: 보포모포 자모 Aunn
+31B0: 보포모포 자모 Am
+31B1: 보포모포 편지 옴
+31B2: 보포모포 편지 옹이
 31B3: 보포 모포 편지 인
-31B4: Bopomofo 최종 편지 P
+31B4: 보포모포 최종 편지 P
 31B5: 보포 모포 최종 편지 T
-31B6: Bopomofo 최종 편지 K
-31B7: Bopomofo 최종 편지 H
-31B8: Bopomofo 편지 Gh
-31B9: Bopomofo 편지 Lh
-31BA: Bopomofo 편지 Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31B6: 보포모포 최종 편지 K
+31B7: 보포모포 최종 편지 H
+31B8: 보포모포 편지 Gh
+31B9: 보포모포 편지 Lh
+31BA: 보포모포 편지 Zy
+31BB: 보포모포 결정적인 자모 G
+31BC: 보포모포 자모 Gw
+31BD: 보포모포 자모 Kw
+31BE: 보포모포 자모 Oe
+31BF: 보포모포 자모 Ah
 31C0: Cjk 스트로크 T
 31C1: Cjk Stroke Wg
 31C2: Cjk 스트로크 Xg

@@ -1,15 +1,18 @@
 : ツール
 
-[encoder]	: エンコーダ
+toolsListTitle: 他のツールも試してみてください
+
+[encoder]	: HTMLエンコーダー
 	
 desc	: HTMLコードや文字変換
 plain	: 文字
-full	: すべての変換
-text	: テキスト
+full	: HTML
+text	: HTMLとテキスト
 entities	: HTMLエンティティのエンコーディングを押してください
 br	: コーディングラップ
+result: 結果
 	
-[decoder]	: デコーダ
+[decoder]	: Unicodeデコーダー
 	
 desc	: Unicodeに文字エンコーディングは、テキスト、またはその逆をエスケープ
 example	: これは栗です
@@ -22,6 +25,7 @@ desc	: 英語のアルファベットやキリル文字が来て「反転しま�
 plain	: テキスト
 flipped	: 逆さまに！
 backed	: ただ、順序を逆にします
+result: 結果
 	
 [generator]	: Unicode文字テーブル生成
 	
@@ -32,3 +36,89 @@ info: 利用できます： {symbol}, {dec}, {hex}, {html}
 generate: 生成します
 result: 結果
 
+[strikethrough-text]: 取り消し線のテキスト
+
+h1: 取り消し線のテキスト
+desc: 取り消し線のテキスト
+text: テキスト
+example: これは栗です
+
+strikethroughText: 取り消し線のテキスト
+crossed: 下線
+dotted: 点線
+slash: スラッシュ文字
+doubleunderline: 二重下線
+waveline: ウェーブライン
+ciphertext: 暗号化されたテキスト
+fullyshaded: 影付きテキスト
+strikethroughSlash: ハイスラッシュキャラクター
+
+[register-converter]: テキストケースコンバーター
+h1: テキストケースコンバーター
+desc: 単語の各文字の変換
+text: Text
+example: This is an example
+
+uppercase: UPPER CASE
+lowercase: lower case
+inversioncase: iNVERSION cASE
+randomcase: RAnDOM cAsE
+alternatingcase: aLtErNaTiNg cAsE
+capitalizedcase: Capitalized Case
+
+[word-counter]: 文字数カウンタ
+h1: 文字数カウンタ
+desc: テキスト内の文字を数える
+
+[braille]: 点字翻訳者
+h1: 点字翻訳者
+desc: テキストを変換し、点字をデコードします
+
+[gothic]: ゴシック様式へのテキストコンバータ
+h1: ゴシック様式へのテキストコンバータ
+desc: ゴシックタイプでテキストを書く
+
+text: テキスト（ラテン語）
+example: Gothic
+regularText: ゴシック
+boldText: ゴシック太字
+
+result: 結果
+
+[morse]: テキストからモールス符号への変換
+h1: テキストからモールス符号への変換
+desc: テキストを変換し、モールス符号をデコードします
+
+example: This is an example
+code: モールス信号
+latin: ラテン語
+
+result: 結果
+
+[password-generator]: パスワードジェネレータ
+h1: パスワードジェネレータ
+desc: 強力なパスワードを生成する方法
+
+uppercase: 大文字 (A-Z)
+lowercase: 小文字 (a-z)
+numbers: 数字 (0-9)
+special: 特別な記号 (!@#$%^&*)
+
+maxLength: 登場人物 (4-99)
+generate: 生成する
+warning: パスワードを作成するには、少なくとも1つの文字セットを選択してください
+
+
+[text-to-symbols]: 文字で構成されるテキスト
+h1: 文字で構成されるテキスト
+desc: 記号でテキストを書く
+
+text: テキスト（ラテン語）
+example: Example
+
+blank: 空白の文字
+filled: 塗装文字
+background: 背景のある手紙
+symbol-dolar: 記号からの文字$
+symbol-lattice: 記号からの文字#
+symbol-paragraph: 記号からの文字¶

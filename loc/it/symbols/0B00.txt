@@ -45,7 +45,7 @@
 0B2C: Oriya Letter Ba
 0B2D: Oriya Letter Bha
 0B2E: Oriya Letter Ma
-0B2F: Oriya Letter Ya : ja
+0B2F: Oriya Letter Ya: ja
 0B30: Oriya Letter Ra
 0B31:
 0B32: Oriya Letter La
@@ -83,17 +83,17 @@
 0B52:
 0B53:
 0B54:
-0B55:
+0B55: Oriya segno overline
 0B56: Oriya Ai Length Mark
 0B57: Oriya Au lunghezza Mark
 0B58:
 0B59:
 0B5A:
 0B5B:
-0B5C: Oriya Letter Rra : dda
-0B5D: Oriya Letter Rha : ddha
+0B5C: Oriya Letter Rra: dda
+0B5D: Oriya Letter Rha: ddha
 0B5E:
-0B5F: Lettera Yya di Oriya : ya
+0B5F: Lettera Yya di Oriya: ya
 0B60: Lettera Oriya Vocalic Rr
 0B61: Lettera Oriya Vocalic Ll
 0B62: Oriya Vowel Sign Vocalic L
@@ -129,7 +129,7 @@
 0B80:
 0B81:
 0B82: Tamil Sign Anusvara
-0B83: Tamil Sign Visarga : aytham
+0B83: Tamil Sign Visarga: aytham
 0B84:
 0B85: Tamil Letter A
 0B86: Tamil Letter Aa
@@ -203,7 +203,7 @@
 0BCA: Tamil Vowel Sign O
 0BCB: Tamil Vowel Sign Oo
 0BCC: Tamil Vowel Sign Au
-0BCD: Tamil Sign Virama : Pulli
+0BCD: Tamil Sign Virama: Pulli
 0BCE:
 0BCF:
 0BD0: Tamil Om
@@ -241,16 +241,16 @@
 0BF0: Tamil Number Ten
 0BF1: Tamil Number One Hundred
 0BF2: Tamil Number One Thousand
-0BF3: Tamil Day Sign : Naal
-0BF4: Tamil Month Sign : maatham
-0BF5: Tamil Year Sign : varudam
-0BF6: Tamil Debit Sign : Patru
-0BF7: Tamil Credit Sign : varavu
-0BF8: Tamil As Above Sign : merpadi
-0BF9: Tamil Rupee Sign : rupai
-0BFA: Tamil Number Sign : enn
+0BF3: Tamil Day Sign: Naal
+0BF4: Tamil Month Sign: maatham
+0BF5: Tamil Year Sign: varudam
+0BF6: Tamil Debit Sign: Patru
+0BF7: Tamil Credit Sign: varavu
+0BF8: Tamil As Above Sign: merpadi
+0BF9: Tamil Rupee Sign: rupai
+0BFA: Tamil Number Sign: enn
 0BFB:
 0BFC:
 0BFD:
 0BFE:
-0BFF:
+0BFF:

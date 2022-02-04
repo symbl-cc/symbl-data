@@ -1,15 +1,18 @@
 : Instrumenty
 
-[encoder]: HTML-koder
+toolsListTitle: Wypróbuj także inne narzędzia
+
+[encoder]: Koder HTML
 
 desc: Kodowanie znaków w HTML-kodu i plecach
 plain: Zwykły tekst
-full: Wszystko
-text: Tekst
+full: HTML
+text: HTML i tekst
 entities: Kodowanie znaków, które mają mnemonicznych mnemoniki
 br: Rozważmy podziały wiersza
+result: Wynik
 
-[decoder]: Unicode ⇆ Tekst
+[decoder]: Dekoder Unicode
 
 desc: Koduje znaki Unicode lub dekoduje powrotem
 example: jest to przykład
@@ -21,7 +24,8 @@ text: Tekst
 desc: Odwraca znaki cyrylicy i alfabetu łacińskiego do góry nogami lub do tyłu
 plain: Prosty tekst
 flipped: Tekst odwrócony
-backed: Powrót do tekstu przednim
+backed: Od tyłu do przodu
+result: Wynik
 
 [generator]: Generator znaków Unicode tabele
 
@@ -32,3 +36,102 @@ info: Dostępny: {symbol}, {dec}, {hex}, {html}
 generate: Generowania
 result: Wynik
 
+[strikethrough-text]: Przekreślony tekst
+
+h1: Przekreślony tekst
+desc: Jak przekreślić tekst
+text: Tekst
+example: jest to przykład
+
+strikethroughText: Przekreślony tekst
+crossed: Podkreślenie
+dotted: Linia przerywana
+slash: Ukośnik symbol
+doubleunderline: Podwójne podkreślenie
+waveline: Linii fali
+ciphertext: Tekst zaszyfrowany 
+fullyshaded: Zamalowane tekst
+strikethroughSlash: Wysoki ukośnika symbol
+
+[register-converter]: Konwerter tekstu
+h1: Konwerter tekstu
+desc: Konwertuj każdą literę
+text: Tekst
+example: jest to przykład
+
+uppercase: WIELKIE LITERY
+lowercase: małe litery
+inversioncase: iNWERSJA
+randomcase: pRzYpAdKoWyCh lItEr
+alternatingcase: nApRzEmIeNnIe lItEr
+capitalizedcase: Pierwsza Litera Wszystkie Słowa
+
+[word-counter]: Zliczanie znaków
+h1: Zliczanie znaków
+desc: Policz liczbę znaków w tekście
+
+placeholder: Insert text ...
+symbols: Całkowita liczba znaków
+without-spaces: Bez spacji
+no-punctuation-marks: Bez znaków interpunkcyjnych
+words: Suma słów
+average-amount: Średnia liczba słów w zdaniu
+long-word: Najdłuższe słowo
+
+[braille]: Tłumacz Braille'a
+h1: Tłumacz Braille'a
+desc: Konwertuj tekst na alfabet Braille'a
+
+[gothic]: Konwerter tekstu na styl gotycki 
+h1: Konwerter tekstu na styl gotycki 
+desc: Pisanie tekstu gotycką czcionką
+
+text: Tekst (łacina)
+example: Gothic
+regularText: Gotyk
+boldText: Pogrubienie gotyckie
+
+result: Wynik
+
+[morse]: Konwerter tekstu na kod Morse'a
+h1: Konwerter tekstu na kod Morse'a
+desc: Konwertuje tekst i dekoduje kod Morse'a
+
+example: This is an example
+code: Kod Morse'a
+latin: Łacina
+numbers: Liczby
+punctuation: Interpunkcja
+
+titleAlphabet: Alfabet Morse'a
+
+result: Wynik
+
+
+[password-generator]: Generator hasła
+h1: Generator hasła
+desc: Jak wygenerować silne hasło
+
+uppercase: Wielkie litery (A-Z)
+lowercase: Małe litery (a-z)
+numbers: Cyfry (0-9)
+special: Symbole specjalne (!@#$%^&*)
+
+maxLength: symbole (4-99)
+generate: Generować
+warning: Wybierz co najmniej jeden zestaw znaków, aby wygenerować hasło
+
+
+[text-to-symbols]: Tekst z symboli
+h1: Tekst z symboli
+desc: Napisz tekst symbolami
+
+text: Tekst (łacina)
+example: Przykład
+
+blank: Puste litery
+filled: Malowane litery
+background: Litery z tłem
+symbol-dolar: Litery od symbolu $
+symbol-lattice: Litery od symbolu #
+symbol-paragraph: Litery od symbolu ¶

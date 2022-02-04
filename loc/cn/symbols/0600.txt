@@ -2,10 +2,10 @@
 0601 : 阿拉伯文标记 Sanah
 0602 : 阿拉伯文脚注标记
 0603 : 阿拉伯文标记 Safha
-0604 : 
-0605 : 
-0606 : 阿拉伯-印度文 Cube Root
-0607 : 阿拉伯-印度文 Fourth Root
+0604 : 阿拉伯文符号 Samvat
+0605 : 数字上的阿拉伯文标记
+0606 : 阿拉伯-印度文 立方根
+0607 : 阿拉伯-印度文 第四根
 0608 : 阿拉伯文 Ray
 0609 : 阿拉伯-印度文 Per Mille Sign
 060A : 阿拉伯-印度文 Per Ten Thousand Sign
@@ -26,11 +26,11 @@
 0619 : 阿拉伯文小型 Damma
 061A : 阿拉伯文小型 Kasra
 061B : 阿拉伯文分号
-061C : 
+061C : 阿拉伯字母标记
 061D : 
 061E : 阿拉伯文三点标点符号
 061F : 阿拉伯文问号
-0620 : 
+0620 : 阿拉伯字母 克什米尔语 Yeh
 0621 : 阿拉伯文字母喉塞音符
 0622 : 带上 Madda 的阿拉伯文字母 Alef
 0623 : 带上喉塞音符的阿拉伯文字母 Alef
@@ -57,11 +57,11 @@
 0638 : 阿拉伯文字母 Zah
 0639 : 阿拉伯文字母 Ain
 063A : 阿拉伯文字母 Ghain
-063B : 阿拉伯文字母 Keheh With Two Dots Above
-063C : 阿拉伯文字母 Keheh With Three Dots Below
-063D : 阿拉伯文字母 Farsi Yeh With Inverted V
-063E : 阿拉伯文字母 Farsi Yeh With Two Dots Above
-063F : 阿拉伯文字母 Farsi Yeh With Three Dots Above
+063B : 阿拉伯文字母 Keheh 上面有两个点
+063C : 阿拉伯文字母 Keheh 下面有三个点
+063D : 阿拉伯文字母 Farsi Yeh 带倒V
+063E : 阿拉伯文字母 Farsi Yeh 上面有两个点
+063F : 阿拉伯文字母 Farsi Yeh 上面有三个点
 0640 : 阿拉伯文 Tatweel
 0641 : 阿拉伯文字母 Feh
 0642 : 阿拉伯文字母 Qaf
@@ -93,7 +93,7 @@
 065C : 阿拉伯文元音标记下点
 065D : 阿拉伯文横翻 Damma
 065E : 带两点的阿拉伯文 Fatha
-065F : 
+065F : 下面的阿拉伯语波浪Hamza
 0660 : 阿拉伯-印度文数字零
 0661 : 阿拉伯-印度文数字一
 0662 : 阿拉伯-印度文数字二
@@ -253,4 +253,4 @@
 06FC : 下面带点的阿拉伯文字母 Ghain
 06FD : 阿拉伯文标记 Sindhi 和的符号
 06FE : 阿拉伯文标记 Sindhi 后置词人
-06FF : 带竖翻 V 的阿拉伯文字母 Heh
+06FF : 带竖翻 V 的阿拉伯文字母 Heh

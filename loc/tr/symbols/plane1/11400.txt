@@ -78,24 +78,24 @@
 1144D: Newa Virgül
 1144E: Newa Gap Filler
 1144F: Newa Kısaltma İşareti
-11450: Newa basamak sıfır
-11451: Newa basamak bir
-11452: Newa basamak iki
-11453: Newa Basamak Üç
-11454: Newa Basamak Dört
-11455: Newa basamak beş
+11450: Newa rakam sıfır
+11451: Newa rakam bir
+11452: Newa rakam iki
+11453: Newa rakam Üç
+11454: Newa rakam Dört
+11455: Newa rakam beş
 11456: Newa Rakam Altı
-11457: Newa basamak yedi
-11458: Newa Rakam Sekiz
+11457: Newa rakam yedi
+11458: Newa rakam Sekiz
 11459: Newa Rakam Dokuz
-1145A:
-1145B: Newa Yer Tutucu İşareti
-1145C:
-1145D: Newa Ekleme İşareti
+1145A: Newa çift virgül
+1145B: Newa yer tutucu işareti
+1145C: 
+1145D: Newa ekleme işareti
 1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+1145F: Newa mektup vedik anüsvara
+11460: Newa işareti jihvamuliya
+11461: Newa kayıt upadhmaniya
 11462:
 11463:
 11464:
@@ -192,10 +192,10 @@
 114BF: Tirhuta işareti Candrabindu
 114C0: Tirhuta Anusvara işareti
 114C1: Tirhuta işareti Visarga
-114C2: Tirhuta Burcu Virama : halant
+114C2: Tirhuta Burcu Virama: halant
 114C3: Tirhuta işareti Nukta
 114C4: Tirhuta işareti Avagraha
-114C5: Tirhuta Gvang : vedic anusvara
+114C5: Tirhuta Gvang: vedic anusvara
 114C6: Tirhuta Kısaltma İşareti
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

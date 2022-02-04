@@ -144,7 +144,7 @@ A78E: Carattere latino L con gancio e cintura Retroflex
 A78F: Latino lettera minuscola punto sinologico
 A790: Capitale latina N con discensore
 A791: Carattere latino: lettera N con discensore
-A792: Capitale latina Lettera C con barra : simbolo cambriano
+A792: Capitale latina Lettera C con barra: simbolo cambriano
 A793: Latina piccola lettera C con barra
 A794: Latina Piccola lettera C con gancio Palatal
 A795: Carattere latino: lettera H con gancio palatale
@@ -184,23 +184,23 @@ A7B6: Carattere latino: lettera Omega
 A7B7: Carattere latino: lettera Omega
 A7B8: Lettera maiuscola latina U con tratto
 A7B9: Latina piccola lettera U con tratto
-A7BA:
-A7BB:
-A7BC:
-A7BD:
-A7BE:
-A7BF:
-A7C0:
-A7C1:
-A7C2:
-A7C3:
-A7C4:
-A7C5:
-A7C6:
-A7C7:
-A7C8:
-A7C9:
-A7CA:
+A7BA: Maiuscola latina glottale a
+A7BB: Lettera latina glottale a
+A7BC: Maiuscola latina glottale i
+A7BD: Lettera latina glottale i
+A7BE: Maiuscola latina glottal u
+A7BF: Minuscola latina glottale u
+A7C0: 
+A7C1: 
+A7C2: Maiuscola lettera latina anglicana w
+A7C3: Minuscola lettera latina anglicana w
+A7C4: Lettera latina c maiuscola con gancio palatale
+A7C5: Maiuscola latina s con gancio
+A7C6: Lettera latina z maiuscola con gancio palatale
+A7C7: Lettera latina d maiuscola con sovrapposizione a tratto corto
+A7C8: Lettera latina d piccola con sovrapposizione a tratto corto
+A7C9: Lettera latina s maiuscola con overlay a tratto corto
+A7CA: Lettere latine s con overlay a tratto corto
 A7CB:
 A7CC:
 A7CD:
@@ -243,8 +243,8 @@ A7F1:
 A7F2:
 A7F3:
 A7F4:
-A7F5:
-A7F6:
+A7F5: Maiuscola lettera latina invertita mezza h
+A7F6: Minuscola lettera latina invertita mezza h
 A7F7: Lettera epigrafica latina lateralmente I
 A7F8: Carattere modificatore Maiuscolo con tratto
 A7F9: Modifier Letter Small Ligature Oe

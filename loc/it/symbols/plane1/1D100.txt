@@ -56,15 +56,15 @@
 1D137: Simbolo musicale Ottava Bassa
 1D138: Simbolo musicale Quindicesima Alta
 1D139: Simbolo musicale Quindicesima Bassa
-1D13A: Simbolo musicale Multi Riposo : doppio riposo completo, riposo breve
-1D13B: Simbolo musicale intero riposo : resto di semibreve
-1D13C: Simbolo musicale Riposo a metà : riposo minimo
-1D13D: Riposo Quartiere Simbolo Musicale : riposo all'uncinetto
-1D13E: Simbolo musicale Ottavo riposo : resto di crome
-1D13F: Simbolo musicale Sedicesimo riposo : riposo semiquaver
-1D140: Simbolo musicale Trentacinquesimo riposo : resto di demisemia
-1D141: Simbolo musicale sessantaquattresimo riposo : emidemisemiquaver riposo, riposo semidemisemiquaver
-1D142: Simbolo musicale Centoventisette Riposo : semihemidemisemiquaver resto, quasihemidemisemiquaver resto
+1D13A: Simbolo musicale Multi Riposo: doppio riposo completo, riposo breve
+1D13B: Simbolo musicale intero riposo: resto di semibreve
+1D13C: Simbolo musicale Riposo a metà: riposo minimo
+1D13D: Riposo Quartiere Simbolo Musicale: riposo all'uncinetto
+1D13E: Simbolo musicale Ottavo riposo: resto di crome
+1D13F: Simbolo musicale Sedicesimo riposo: riposo semiquaver
+1D140: Simbolo musicale Trentacinquesimo riposo: resto di demisemia
+1D141: Simbolo musicale sessantaquattresimo riposo: emidemisemiquaver riposo, riposo semidemisemiquaver
+1D142: Simbolo musicale Centoventisette Riposo: semihemidemisemiquaver resto, quasihemidemisemiquaver resto
 1D143: Simbolo musicale X Testa nota
 1D144: Simbolo musicale più testa nota
 1D145: Simbolo musicale Circle X Notehead
@@ -91,14 +91,14 @@
 1D15A: Testa bianca di simbolo musicale Cluster
 1D15B: Testa di nota del simbolo musicale Cluster nero
 1D15C: Simbolo musicale Breve
-1D15D: Nota intera di simbolo musicale : semibreve
-1D15E: Mezza nota del simbolo musicale : minima
-1D15F: Nota del quartiere dei simboli musicali : semiminima
-1D160: Simbolo musicale Ottava nota : croma
-1D161: Simbolo musicale. Sedicesima nota : semicroma
-1D162: Simbolo musicale Trentaduesima nota : biscroma
-1D163: Simbolo musicale sessantaquattresimo nota : hemidemisemiquaver, semidemisemiquaver
-1D164: Simbolo musicale Centoventisette : semiemidemisemiquaver, quasihemidemisemiquaver
+1D15D: Nota intera di simbolo musicale: semibreve
+1D15E: Mezza nota del simbolo musicale: minima
+1D15F: Nota del quartiere dei simboli musicali: semiminima
+1D160: Simbolo musicale Ottava nota: croma
+1D161: Simbolo musicale. Sedicesima nota: semicroma
+1D162: Simbolo musicale Trentaduesima nota: biscroma
+1D163: Simbolo musicale sessantaquattresimo nota: hemidemisemiquaver, semidemisemiquaver
+1D164: Simbolo musicale Centoventisette: semiemidemisemiquaver, quasihemidemisemiquaver
 1D165: Simbolo musicale che combina stelo
 1D166: Simbolo musicale che unisce il gambo di Sprechgesang
 1D167: Simbolo musicale che combina Tremolo-1
@@ -253,4 +253,4 @@
 1D1FC:
 1D1FD:
 1D1FE:
-1D1FF:
+1D1FF:

@@ -1,5 +1,8 @@
 meta-description: Usługa wyszukiwania znaków w Unicode. Znajdź i skopiuj swoje ulubione postacie: 😎 Emoji, ▶ ️ Strzałki, ✪ Gwiazdy, 💲 Waluty, 🈂️ Systemy pisania i więcej 🚩
-symbol-description: Symbol: {{symbol}}, Nazwa: {{name}}, Ilość Unicode: {{code}}, Sekcja: {{block}}
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Imię postaci: {{name}}, Numer Unicode dla znaku: {{code}}, ikona znajduje się w bloku: {{block}}.
+symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
+
+seo-symbol: symbol
 
 emoji: emoji
 copy: kopiuj

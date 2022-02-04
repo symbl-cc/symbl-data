@@ -160,8 +160,8 @@
 1BC9F: Duployan Punctuation Chinook Full Stop
 1BCA0: รูปแบบตัวอักษรชวเลขซ้อนทับกัน
 1BCA1: รูปแบบ Shorthand Overlap ต่อเนื่อง
-1BCA2: ฟอร์แมตชวเลขลง : คำต่อท้าย : คำขวัญสัญญาสิ้นสุดลง oo / o + zwsp
-1BCA3: ฟอร์แมต Shorthand Up : คำขวัญสัญญาสิ้นสุดด้วย uh / au / aui + zwsp
+1BCA2: ฟอร์แมตชวเลขลง: คำต่อท้าย , คำขวัญสัญญาสิ้นสุดลง oo / o + zwsp
+1BCA3: ฟอร์แมต Shorthand Up: คำขวัญสัญญาสิ้นสุดด้วย uh / au / aui + zwsp
 1BCA4:
 1BCA5:
 1BCA6:
@@ -253,4 +253,4 @@
 1BCFC:
 1BCFD:
 1BCFE:
-1BCFF:
+1BCFF:

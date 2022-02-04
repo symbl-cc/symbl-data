@@ -24,8 +24,8 @@
 3017: Staffa lenticolare bianca destra
 3018: Staffa di guscio di tartaruga sinistro bianco
 3019: Staffa di guscio di tartaruga bianca destra
-301A: Staffa sinistra bianca quadrata : parentesi di sintassi astratta a sinistra
-301B: Staffa destra quadrata bianca : retta parentesi di sintassi astratta
+301A: Staffa sinistra bianca quadrata: parentesi di sintassi astratta a sinistra
+301B: Staffa destra quadrata bianca: retta parentesi di sintassi astratta
 301C: Wave Dash
 301D: Virgolette doppie a due punte invertite
 301E: Doppia virgoletta Prime
@@ -44,9 +44,9 @@
 302B: Segno di tono aumentante ideografico
 302C: Tono Mark Ideographic partente
 302D: Segno ideografico che entra in tono
-302E: Contrassegno per timbro singolo punto Hangul : singolo punto bangjeom
-302F: Hangul Double Dot Tone Mark : doppio punto bangjeom
-3030: Dash ondulato : Onda
+302E: Contrassegno per timbro singolo punto Hangul: singolo punto bangjeom
+302F: Hangul Double Dot Tone Mark: doppio punto bangjeom
+3030: Dash ondulato: Onda
 3031: Segno di ripetizione verticale Kana
 3032: Ripetizione verticale Kana con suono sonoro
 3033: Segno di ripetizione verticale Kana Metà superiore
@@ -59,7 +59,7 @@
 303A: Numero di Hangzhou Trenta
 303B: Segno Iterografico Iterografico Verticale
 303C: Masu Mark
-303D: Segno di alternanza parziale : M, McDonald's
+303D: Segno di alternanza parziale: M, McDonald's
 303E: Indicatore di variazione ideografica
 303F: Mezzo spazio di riempimento ideografico
 3040:
@@ -85,8 +85,8 @@
 3054: Hiragana Letter Go
 3055: Hiragana Letter Sa
 3056: Hiragana Letter Za
-3057: Hiragana Letter Si : shi
-3058: Hiragana Letter Zi : ji (non unico)
+3057: Hiragana Letter Si: shi
+3058: Hiragana Letter Zi: ji (non unico)
 3059: Hiragana Letter Su
 305A: Hiragana Letter Zu
 305B: Hiragana Letter Se
@@ -95,11 +95,11 @@
 305E: Hiragana Letter Zo
 305F: Hiragana Letter Ta
 3060: Hiragana Letter Da
-3061: Hiragana Letter Ti : chi
-3062: Hiragana Letter Di : ji (non unico)
-3063: Hiragana Letter Small Tu : piccolo tsu
-3064: Hiragana Letter Tu : tsu
-3065: Hiragana Letter Du : zu (non unico)
+3061: Hiragana Letter Ti: chi
+3062: Hiragana Letter Di: ji (non unico)
+3063: Hiragana Letter Small Tu: piccolo tsu
+3064: Hiragana Letter Tu: tsu
+3065: Hiragana Letter Du: zu (non unico)
 3066: Hiragana Letter Te
 3067: Hiragana Letter De
 3068: Hiragana Letter To
@@ -115,7 +115,7 @@
 3072: Hiragana Letter Ciao
 3073: Hiragana Letter Bi
 3074: Hiragana Lettera Pi
-3075: Hiragana Letter Hu : fu
+3075: Hiragana Letter Hu: fu
 3076: Hiragana Letter Bu
 3077: Hiragana Letter Pu
 3078: Hiragana Letter He
@@ -181,8 +181,8 @@
 30B4: Katakana Letter Go
 30B5: Katakana Letter Sa
 30B6: Katakana Letter Za
-30B7: Lettera Katakana Si : shi
-30B8: Katakana Letter Zi : ji (non unico)
+30B7: Lettera Katakana Si: shi
+30B8: Katakana Letter Zi: ji (non unico)
 30B9: Katakana Letter Su
 30BA: Katakana Letter Zu
 30BB: Katakana Letter Se
@@ -191,11 +191,11 @@
 30BE: Katakana Letter Zo
 30BF: Katakana Letter Ta
 30C0: Katakana Letter Da
-30C1: Katakana Letter Ti : chi
-30C2: Lettera Katakana Di : ji (non unico)
-30C3: Katakana Letter Small Tu : piccolo tsu
-30C4: Katakana Letter Tu : tsu
-30C5: Katakana Letter Du : zu (non unico)
+30C1: Katakana Letter Ti: chi
+30C2: Lettera Katakana Di: ji (non unico)
+30C3: Katakana Letter Small Tu: piccolo tsu
+30C4: Katakana Letter Tu: tsu
+30C5: Katakana Letter Du: zu (non unico)
 30C6: Katakana Letter Te
 30C7: Katakana Letter De
 30C8: Katakana Lettera a
@@ -211,7 +211,7 @@
 30D2: Lettera Katakana Ciao
 30D3: Katakana Letter Bi
 30D4: Katakana Lettera Pi
-30D5: Katakana Lettera Hu : fu
+30D5: Katakana Lettera Hu: fu
 30D6: Katakana Letter Bu
 30D7: Katakana Letter Pu
 30D8: Katakana Letter He

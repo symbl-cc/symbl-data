@@ -45,7 +45,7 @@
 0B2C: Oriya Mektubu Ba
 0B2D: Oriya Letter Bha
 0B2E: Oriya Mektubu Ma
-0B2F: Oriya Mektubu Ya : ja
+0B2F: Oriya Mektubu Ya: ja
 0B30: Oriya Mektubu Ra
 0B31:
 0B32: Oriya Mektubu La
@@ -83,17 +83,17 @@
 0B52:
 0B53:
 0B54:
-0B55:
+0B55: Oriya işaret üstü çizgisi
 0B56: Oriya Ai Uzunluk İşareti
 0B57: Oriya Au Uzunluk İşareti
 0B58:
 0B59:
 0B5A:
 0B5B:
-0B5C: Oriya Mektubu Rra : dda
-0B5D: Oriya Mektubu Rha : ddha
+0B5C: Oriya Mektubu Rra: dda
+0B5D: Oriya Mektubu Rha: ddha
 0B5E:
-0B5F: Oriya Yya Yya : ya
+0B5F: Oriya Yya Yya: ya
 0B60: Oriya Mektubu Vokal Harfi
 0B61: Oriya Letter Vokal Harfi
 0B62: Oriya ünlü işareti vokal L
@@ -129,7 +129,7 @@
 0B80:
 0B81:
 0B82: Tamil işareti Anusvara
-0B83: Tamil işareti Visarga : aytham
+0B83: Tamil işareti Visarga: aytham
 0B84:
 0B85: Tamil A harfi
 0B86: Tamil Mektubu Aa
@@ -203,7 +203,7 @@
 0BCA: Tamil ünlü işaret o
 0BCB: Tamil ünlü işareti oo
 0BCC: Tamil ünlü işareti Au
-0BCD: Tamil Burcu Virama : pulli
+0BCD: Tamil Burcu Virama: pulli
 0BCE:
 0BCF:
 0BD0: Tamil Om
@@ -241,16 +241,16 @@
 0BF0: Tamil sayı on
 0BF1: Tamil sayısı yüz
 0BF2: Tamil sayısı bir bin
-0BF3: Tamil Günü işareti : Naal
-0BF4: Tamil Ay İşareti : maatham
-0BF5: Tamil yıl işareti : varudam
-0BF6: Tamil borç işareti : patru
-0BF7: Tamil Credit Sign : varavu
-0BF8: Tamil işareti olarak : merpadi
-0BF9: Tamil Rupisi Burcu : rupai
-0BFA: Tamil sayı işareti : enn
+0BF3: Tamil Günü işareti: Naal
+0BF4: Tamil Ay İşareti: maatham
+0BF5: Tamil yıl işareti: varudam
+0BF6: Tamil borç işareti: patru
+0BF7: Tamil Credit Sign: varavu
+0BF8: Tamil işareti olarak: merpadi
+0BF9: Tamil Rupisi Burcu: rupai
+0BFA: Tamil sayı işareti: enn
 0BFB:
 0BFC:
 0BFD:
 0BFE:
-0BFF:
+0BFF:

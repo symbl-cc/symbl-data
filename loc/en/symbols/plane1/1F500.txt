@@ -1,53 +1,53 @@
-1F500: Twisted Rightwards Arrows : shuffle
-1F501: Clockwise Rightwards and Leftwards Open Circle Arrows : repeat
-1F502: Clockwise Rightwards and Leftwards Open Circle Arrows with Circled One Overlay : repeat one item over
-1F503: Clockwise Downwards and Upwards Open Circle Arrows : reload
-1F504: Anticlockwise Downwards and Upwards Open Circle Arrows : reload
-1F505: Low Brightness Symbol
-1F506: High Brightness Symbol
-1F507: Speaker with Cancellation Stroke
-1F508: Speaker : left speaker
-1F509: Speaker with One Sound Wave
-1F50A: Speaker with Three Sound Waves : sound
-1F50B: Battery
-1F50C: Electric Plug
-1F50D: Left-Pointing Magnifying Glass : search : loupe
-1F50E: Right-Pointing Magnifying Glass : get more details : search : loupe
-1F50F: Lock with Ink Pen : privacy
-1F510: Closed Lock with Key : secure
-1F511: Key
-1F512: Lock : padlock in locked position
-1F513: Open Lock
-1F514: Bell
-1F515: Bell with Cancellation Stroke
-1F516: Bookmark
-1F517: Link Symbol
+1F500: Twisted Rightwards Arrows: shuffle
+1F501: Clockwise Rightwards and Leftwards Open Circle Arrows: repeat, loop symbol, retweet
+1F502: Clockwise Rightwards and Leftwards Open Circle Arrows with Circled One Overlay: repeat one item over, circle arrows with number 1, loop once symbol
+1F503: Clockwise Downwards and Upwards Open Circle Arrows: reload
+1F504: Anticlockwise Downwards and Upwards Open Circle Arrows: reload, refresh, rotate, switch
+1F505: Low Brightness Symbol: decrease brightness
+1F506: High Brightness Symbol: increase brightness
+1F507: Speaker with Cancellation Stroke: mute volume
+1F508: Speaker: left speaker, volume
+1F509: Speaker with One Sound Wave: reduce volume
+1F50A: Speaker with Three Sound Waves: sound, increase volume
+1F50B: Battery: aa battery, phone battery
+1F50C: Electric Plug: ac adaptor, power cable, power plug
+1F50D: Left-Pointing Magnifying Glass: search, loupe, zoom, magnifier, magnifying glass, search icon
+1F50E: Right-Pointing Magnifying Glass: get more details, search, loupe, zoom, magnifier, magnifying glass, search icon
+1F50F: Lock with Ink Pen: privacy, password, https, SSL, lock and pen
+1F510: Closed Lock with Key: secure, password, https, SSL, lock and key
+1F511: Key: password, gold key
+1F512: Lock: padlock in locked position, password, https, SSL, closed lock, padlock
+1F513: Open Lock: password, https, SSL, open padlock, unlock
+1F514: Bell: liberty bell, ringer, wedding bell
+1F515: Bell with Cancellation Stroke: notifications, ringer disabled
+1F516: Bookmark: price tag, tag
+1F517: Link Symbol: chain, hyperlink, linked chain
 1F518: Radio Button
-1F519: Back with Leftwards Arrow Above
-1F51A: End with Leftwards Arrow Above
-1F51B: On with Exclamation Mark with Left Right Arrow Above
-1F51C: Soon with Rightwards Arrow Above
-1F51D: Top with Upwards Arrow Above : top of page
-1F51E: No One Under Eighteen Symbol
+1F519: Back with Leftwards Arrow Above: back
+1F51A: End with Leftwards Arrow Above: end
+1F51B: On with Exclamation Mark with Left Right Arrow Above: on
+1F51C: Soon with Rightwards Arrow Above: soon
+1F51D: Top with Upwards Arrow Above: top of page, top
+1F51E: No One Under Eighteen Symbol: nsfw
 1F51F: Keycap Ten
-1F520: Input Symbol for Latin Capital Letters
-1F521: Input Symbol for Latin Small Letters
-1F522: Input Symbol for Numbers
-1F523: Input Symbol for Symbols
-1F524: Input Symbol for Latin Letters : english input (abc)
-1F525: Fire
-1F526: Electric Torch : flashlight
-1F527: Wrench
-1F528: Hammer
-1F529: Nut and Bolt
-1F52A: Hocho : japanese kitchen knife
-1F52B: Pistol
-1F52C: Microscope
-1F52D: Telescope
-1F52E: Crystal Ball
+1F520: Input Symbol for Latin Capital Letters: abcd, uppercase
+1F521: Input Symbol for Latin Small Letters: abcd, lowercase
+1F522: Input Symbol for Numbers: 1234, numbers, numeric input
+1F523: Input Symbol for Symbols: symbols
+1F524: Input Symbol for Latin Letters: english input (abc), abc, alphabet, letters
+1F525: Fire: flame, blaze, burn, bonfire, hot, lit, snapstreak
+1F526: Electric Torch: flashlight, torch
+1F527: Wrench: llave, spanner
+1F528: Hammer: claw hammer, handyman, tool
+1F529: Nut and Bolt: bolt, screw
+1F52A: Hocho: japanese kitchen knife, butchers knife, kitchen knife, knife
+1F52B: Pistol: gun, revolver, squirt gun, water gun, water pistol
+1F52C: Microscope: magnify, science
+1F52D: Telescope: stargazing
+1F52E: Crystal Ball: clairvoyant, fortune teller, psychic, purple crystal
 1F52F: Six Pointed Star with Middle Dot
-1F530: Japanese Symbol for Beginner
-1F531: Trident Emblem
+1F530: Japanese Symbol for Beginner: shoshinsha mark, yellow green shield
+1F531: Trident Emblem: poseidon, pitchfork, trident
 1F532: Black Square Button
 1F533: White Square Button
 1F534: Large Red Circle
@@ -58,9 +58,9 @@
 1F539: Small Blue Diamond
 1F53A: Up-Pointing Red Triangle
 1F53B: Down-Pointing Red Triangle
-1F53C: Up-Pointing Small Red Triangle : play arrow up
-1F53D: Down-Pointing Small Red Triangle : play arrow down
-1F53E: Lower Right Shadowed White Circle : circle shadow down
+1F53C: Up-Pointing Small Red Triangle: play arrow up, up triangle
+1F53D: Down-Pointing Small Red Triangle: play arrow down, down triangle
+1F53E: Lower Right Shadowed White Circle: circle shadow down
 1F53F: Upper Right Shadowed White Circle
 1F540: Circled Cross Pommee
 1F541: Cross Pommee with Half-Circle Below
@@ -68,15 +68,15 @@
 1F543: Notched Left Semicircle with Three Dots
 1F544: Notched Right Semicircle with Three Dots
 1F545: Symbol for Marks Chapter
-1F546: White Latin Cross : cross outline
+1F546: White Latin Cross: cross outline
 1F547: Heavy Latin Cross
 1F548: Celtic Cross
 1F549: Om Symbol
-1F54A: Dove of Peace : peace
-1F54B: Kaaba
-1F54C: Mosque
-1F54D: Synagogue
-1F54E: Menorah With Nine Branches : hanukiah
+1F54A: Dove of Peace: peace
+1F54B: Kaaba: mecca
+1F54C: Mosque: domed roof, minaret
+1F54D: Synagogue: jewish, synagog, temple
+1F54E: Menorah With Nine Branches: hanukiah, candelabrum, candles, chanukiah, menorah
 1F54F: Bowl of Hygieia
 1F550: Clock Face One Oclock
 1F551: Clock Face Two Oclock
@@ -105,50 +105,50 @@
 1F568: Right Speaker
 1F569: Right Speaker with One Sound Wave
 1F56A: Right Speaker with Three Sound Waves
-1F56B: Bullhorn : sound off
-1F56C: Bullhorn with Sound Waves : sound on
+1F56B: Bullhorn: sound off
+1F56C: Bullhorn with Sound Waves: sound on
 1F56D: Ringing Bell
 1F56E: Book
 1F56F: Candle
-1F570: Mantelpiece Clock : clock
+1F570: Mantelpiece Clock: clock
 1F571: Black Skull and Crossbones
 1F572: No Piracy
-1F573: Hole : portable hole
-1F574: Man In Business Suit Levitating : jump
-1F575: Sleuth or Spy : investigate
-1F576: Dark Sunglasses : cool
+1F573: Hole: portable hole
+1F574: Man In Business Suit Levitating: jump
+1F575: Sleuth or Spy: investigate
+1F576: Dark Sunglasses: cool
 1F577: Spider
 1F578: Spider Web
 1F579: Joystick
-1F57A: Man Dancing
+1F57A: Man Dancing: disco dancer, male dancer
 1F57B: Left Hand Telephone Receiver
-1F57C: Telephone Receiver with Page : fax
-1F57D: Right Hand Telephone Receiver : telephone handset
+1F57C: Telephone Receiver with Page: fax
+1F57D: Right Hand Telephone Receiver: telephone handset
 1F57E: White Touchtone Telephone
 1F57F: Black Touchtone Telephone
-1F580: Telephone On Top of Modem : modem
-1F581: Clamshell Mobile Phone : cellular phone
+1F580: Telephone On Top of Modem: modem
+1F581: Clamshell Mobile Phone: cellular phone
 1F582: Back of Envelope
-1F583: Stamped Envelope : mail
-1F584: Envelope with Lightning : e-mail
-1F585: Flying Envelope : send message
+1F583: Stamped Envelope: mail
+1F584: Envelope with Lightning: e-mail
+1F585: Flying Envelope: send message
 1F586: Pen Over Stamped Envelope
-1F587: Linked Paperclips : links
-1F588: Black Pushpin : marker
-1F589: Lower Left Pencil : pencil
-1F58A: Lower Left Ballpoint Pen : ballpoint pen
-1F58B: Lower Left Fountain Pen : fountain pen
-1F58C: Lower Left Paintbrush : brush
-1F58D: Lower Left Crayon : crayon
+1F587: Linked Paperclips: links
+1F588: Black Pushpin: marker
+1F589: Lower Left Pencil: pencil
+1F58A: Lower Left Ballpoint Pen: ballpoint pen
+1F58B: Lower Left Fountain Pen: fountain pen
+1F58C: Lower Left Paintbrush: brush
+1F58D: Lower Left Crayon: crayon
 1F58E: Left Writing Hand
 1F58F: Turned Ok Hand Sign
-1F590: Raised Hand with Fingers Splayed : halt
+1F590: Raised Hand with Fingers Splayed: halt
 1F591: Reversed Raised Hand with Fingers Splayed
-1F592: Reversed Thumbs Up Sign : like
-1F593: Reversed Thumbs Down Sign : dislike
+1F592: Reversed Thumbs Up Sign: like
+1F593: Reversed Thumbs Down Sign: dislike
 1F594: Reversed Victory Hand
-1F595: Reversed Hand with Middle Finger Extended : fuck
-1F596: Raised Hand with Part Between Middle and Ring Fingers
+1F595: Reversed Hand with Middle Finger Extended: fuck, dito medio, flipping the bird, rude finger
+1F596: Raised Hand with Part Between Middle and Ring Fingers: spock, star trek, vulcan salute
 1F597: White Down Pointing Left Hand Index
 1F598: Sideways White Left Pointing Index
 1F599: Sideways White Right Pointing Index
@@ -162,38 +162,38 @@
 1F5A1: Sideways Black Down Pointing Index
 1F5A2: Black Up Pointing Backhand Index
 1F5A3: Black Down Pointing Backhand Index
-1F5A4: Black Heart
-1F5A5: Desktop Computer : tower computer
+1F5A4: Black Heart: dark heart
+1F5A5: Desktop Computer: tower computer, cpu
 1F5A6: Keyboard and Mouse
-1F5A7: Three Networked Computers : computer network
+1F5A7: Three Networked Computers: computer network
 1F5A8: Printer
-1F5A9: Pocket Calculator : calculator
-1F5AA: Black Hard Shell Floppy Disk : disk
+1F5A9: Pocket Calculator: calculator
+1F5AA: Black Hard Shell Floppy Disk: disk
 1F5AB: White Hard Shell Floppy Disk
 1F5AC: Soft Shell Floppy Disk
 1F5AD: Tape Cartridge
-1F5AE: Wired Keyboard : keyboard
+1F5AE: Wired Keyboard: keyboard
 1F5AF: One Button Mouse
 1F5B0: Two Button Mouse
 1F5B1: Three Button Mouse
-1F5B2: Trackball : ballpoint
-1F5B3: Old Personal Computer : personal computer
+1F5B2: Trackball: ballpoint
+1F5B3: Old Personal Computer: personal computer
 1F5B4: Hard Disk
-1F5B5: Screen : monitor
+1F5B5: Screen: monitor
 1F5B6: Printer Icon
 1F5B7: Fax Icon
-1F5B8: Optical Disc Icon : compact disc
+1F5B8: Optical Disc Icon: compact disc
 1F5B9: Document with Text
 1F5BA: Document with Text and Picture
-1F5BB: Document with Picture : graphic document
-1F5BC: Frame with Picture : art
-1F5BD: Frame with Tiles : frames
-1F5BE: Frame with an X : no frames, no picture
+1F5BB: Document with Picture: graphic document
+1F5BC: Frame with Picture: art
+1F5BD: Frame with Tiles: frames
+1F5BE: Frame with an X: no frames, no picture
 1F5BF: Black Folder
-1F5C0: Folder : directory
+1F5C0: Folder: directory
 1F5C1: Open Folder
-1F5C2: Card Index Dividers : index
-1F5C3: Card File Box : archive
+1F5C2: Card Index Dividers: index
+1F5C3: Card File Box: archive
 1F5C4: File Cabinet
 1F5C5: Empty Note
 1F5C6: Empty Note Page
@@ -207,50 +207,50 @@
 1F5CE: Document
 1F5CF: Page
 1F5D0: Pages
-1F5D1: Wastebasket : trashcan
-1F5D2: Spiral Note Pad : note, empty calendar
-1F5D3: Spiral Calendar Pad : calendar, day 1
+1F5D1: Wastebasket: trashcan
+1F5D2: Spiral Note Pad: note, empty calendar
+1F5D3: Spiral Calendar Pad: calendar, day 1
 1F5D4: Desktop Window
 1F5D5: Minimize
 1F5D6: Maximize
-1F5D7: Overlap : overlapping offset windows
-1F5D8: Clockwise Right and Left Semicircle Arrows : refresh : reload
-1F5D9: Cancellation X : close
+1F5D7: Overlap: overlapping offset windows
+1F5D8: Clockwise Right and Left Semicircle Arrows: refresh, reload
+1F5D9: Cancellation X: close
 1F5DA: Increase Font Size Symbol
 1F5DB: Decrease Font Size Symbol
 1F5DC: Compression
-1F5DD: Old Key : encryption
-1F5DE: Rolled-Up Newspaper : news
-1F5DF: Page with Circled Text : classified
-1F5E0: Stock Chart : finance
-1F5E1: Dagger Knife : rated for violence : hate
-1F5E2: Lips : rated for sex : kiss
-1F5E3: Speaking Head In Silhouette : rated for strong language
+1F5DD: Old Key: encryption
+1F5DE: Rolled-Up Newspaper: news
+1F5DF: Page with Circled Text: classified
+1F5E0: Stock Chart: finance
+1F5E1: Dagger Knife: rated for violence, hate
+1F5E2: Lips: rated for sex, kiss
+1F5E3: Speaking Head In Silhouette: rated for strong language
 1F5E4: Three Rays Above
 1F5E5: Three Rays Below
 1F5E6: Three Rays Left
 1F5E7: Three Rays Right
 1F5E8: Left Speech Bubble
 1F5E9: Right Speech Bubble
-1F5EA: Two Speech Bubbles : chat
-1F5EB: Three Speech Bubbles : conference
+1F5EA: Two Speech Bubbles: chat
+1F5EB: Three Speech Bubbles: conference
 1F5EC: Left Thought Bubble
 1F5ED: Right Thought Bubble
-1F5EE: Left Anger Bubble : shout left
-1F5EF: Right Anger Bubble : shout right
-1F5F0: Mood Bubble : new
-1F5F1: Lightning Mood Bubble : updated
-1F5F2: Lightning Mood : lightning bolt
-1F5F3: Ballot Box with Ballot : vote
-1F5F4: Ballot Script X : x mark
+1F5EE: Left Anger Bubble: shout left
+1F5EF: Right Anger Bubble: shout right
+1F5F0: Mood Bubble: new
+1F5F1: Lightning Mood Bubble: updated
+1F5F2: Lightning Mood: lightning bolt
+1F5F3: Ballot Box with Ballot: vote
+1F5F4: Ballot Script X: x mark
 1F5F5: Ballot Box with Script X
 1F5F6: Ballot Bold Script X
 1F5F7: Ballot Box with Bold Script X
-1F5F8: Light Check Mark : check
+1F5F8: Light Check Mark: check
 1F5F9: Ballot Box with Bold Check
 1F5FA: World Map
-1F5FB: Mount Fuji
-1F5FC: Tokyo Tower
-1F5FD: Statue of Liberty
-1F5FE: Silhouette of Japan
-1F5FF: Moyai
+1F5FB: Mount Fuji: fuji-san, snow-capped mountain
+1F5FC: Tokyo Tower: eiffel tower, red tower
+1F5FD: Statue of Liberty: new york
+1F5FE: Silhouette of Japan: map of japan
+1F5FF: Moyai: easter island, human rock carving, moai, moyai statue

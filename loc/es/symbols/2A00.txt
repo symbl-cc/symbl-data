@@ -5,7 +5,7 @@
 2A04: N-Ary Union Operator con Plus
 2A05: Operador de intersecciones cuadradas N-Ary
 2A06: N-Ary Square Union Operator
-2A07: Dos lógico y operador : unir
+2A07: Dos lógico y operador: unir
 2A08: Dos lógico u operador
 2A09: Operador de N-Ary Times
 2A0A: Modulo dos sumas
@@ -25,19 +25,19 @@
 2A18: Integral con Times Sign
 2A19: Integral con Intersección
 2A1A: Integral con union
-2A1B: Integral con Overbar : integral superior
-2A1C: Integral con barra inferior : integral inferior
-2A1D: Unirse : pajarita grande
+2A1B: Integral con Overbar: integral superior
+2A1C: Integral con barra inferior: integral inferior
+2A1D: Unirse: pajarita grande
 2A1E: Operador de triángulo izquierdo grande
 2A1F: Composición de esquemas de notación Z
 2A20: Esquema de notación Z
 2A21: Proyección del esquema de notación Z
 2A22: Signo más con un pequeño círculo arriba
 2A23: Signo más con acento circunflejo arriba
-2A24: Signo más con tilde arriba : diferencia positiva o suma
+2A24: Signo más con tilde arriba: diferencia positiva o suma
 2A25: Signo más con el punto abajo
-2A26: Signo más con Tilde Abajo : suma o diferencia positiva
-2A27: Signo más con subíndice dos : adición de nim
+2A26: Signo más con Tilde Abajo: suma o diferencia positiva
+2A27: Signo más con subíndice dos: adición de nim
 2A28: Signo más con triángulo negro
 2A29: Signo menos con coma arriba
 2A2A: Signo menos con el punto abajo
@@ -63,7 +63,7 @@
 2A3E: Notación Z Composición Relacional
 2A3F: Amalgamación o Coproducto
 2A40: Intersección con Dot
-2A41: Unión con signo de menos : notación z bolsa resta
+2A41: Unión con signo de menos: notación z bolsa resta
 2A42: Unión con Overbar
 2A43: Intersección con Overbar
 2A44: Intersección con lógica y
@@ -102,7 +102,7 @@
 2A65: Rango de notación Z Antirestricción
 2A66: Signo de igual con punto abajo
 2A67: Idéntico con punto arriba
-2A68: Triple barra horizontal con doble movimiento vertical : idéntico y paralelo a
+2A68: Triple barra horizontal con doble movimiento vertical: idéntico y paralelo a
 2A69: Triple barra horizontal con triple movimiento vertical
 2A6A: Operador de tilde con punto arriba
 2A6B: Operador de tilde con puntos crecientes
@@ -159,7 +159,7 @@
 2A9E: Similar o mayor que
 2A9F: Similar por encima de signo de igual que por debajo
 2AA0: Similar por encima de mayor que arriba del signo igual
-2AA1: Doble anidada menos que : continuidad absoluta
+2AA1: Doble anidada menos que: continuidad absoluta
 2AA2: Doble anidado mayor que
 2AA3: Doble anidada menor que con barra inferior
 2AA4: Más que solapándose menos de
@@ -218,13 +218,13 @@
 2AD9: Elemento de apertura hacia abajo
 2ADA: Horquilla con camiseta
 2ADB: Intersección transversal
-2ADC: Bifurcación : no independiente
-2ADD: Nonforking : independiente
+2ADC: Bifurcación: no independiente
+2ADD: Nonforking: independiente
 2ADE: Tachuela Izquierda Corta
 2ADF: Tachuela corta hacia abajo
 2AE0: Short Up Tack
 2AE1: Perpendicular con s
-2AE2: Barra vertical Torniquete a la derecha : ordinariamente satisface
+2AE2: Barra vertical Torniquete a la derecha: ordinariamente satisface
 2AE3: Barra vertical doble Torniquete izquierdo
 2AE4: Barra Vertical Torniquete Doble Izquierdo
 2AE5: Doble barra vertical doble torniquete izquierdo
@@ -233,16 +233,16 @@
 2AE8: Short Up Tack con Underbar
 2AE9: Short Up Tack Above Short Down Tack
 2AEA: Tachuela doble
-2AEB: Doble Tack : independencia
+2AEB: Doble Tack: independencia
 2AEC: Doble Trazo No Firmar
 2AED: Invertido doble trazo no firme
 2AEE: No se divide con barra de negación invertida
 2AEF: Línea vertical con círculo arriba
 2AF0: Línea vertical con círculo abajo
-2AF1: Abajo Tack con Círculo Abajo : necesariamente satisface
+2AF1: Abajo Tack con Círculo Abajo: necesariamente satisface
 2AF2: Paralelo con trazo horizontal
 2AF3: Paralelamente con el operador de tilde
-2AF4: Relación binaria de barra vertical triple : entrelazar
+2AF4: Relación binaria de barra vertical triple: entrelazar
 2AF5: Barra vertical triple con trazo horizontal
 2AF6: Operador Triple Colon
 2AF7: Triple anidada menos que
@@ -252,5 +252,5 @@
 2AFB: Relación Binaria Triple Sólida
 2AFC: Operador de barra vertical triple grande
 2AFD: Operador Doble Sólido
-2AFE: Barra vertical blanca : elección dijkstra
-2AFF: Barra vertical blanca N-Ary : elección n-ary dijkstra
+2AFE: Barra vertical blanca: elección dijkstra
+2AFF: Barra vertical blanca N-Ary: elección n-ary dijkstra

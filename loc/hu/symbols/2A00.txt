@@ -5,7 +5,7 @@
 2A04: N-Ary uniós üzemeltető a Plus-val
 2A05: N-Ary tér kereszteződés-üzemeltető
 2A06: N-Ary Square Union Operator
-2A07: Két logikai és operátor : összeolvad
+2A07: Két logikai és operátor: összeolvad
 2A08: Két logikai vagy operátor
 2A09: N-Ary Times operátor
 2A0A: Modulo két összeg
@@ -25,19 +25,19 @@
 2A18: Integrált a Times Sign-tel
 2A19: Integrált a metszésponttal
 2A1A: Integrált az Unióval
-2A1B: Integrálható a Overbar-al : felső integrál
-2A1C: Integrálva az Alsó sávhoz : alsó integrál
-2A1D: Csatlakozik : nagy értékesítés
+2A1B: Integrálható a Overbar-al: felső integrál
+2A1C: Integrálva az Alsó sávhoz: alsó integrál
+2A1D: Csatlakozik: nagy értékesítés
 2A1E: Nagy bal háromszög kezelő
 2A1F: Z jelölési séma összetétele
 2A20: Z jelölési séma csővezeték
 2A21: Z jelölési séma vetítés
 2A22: Plusz jel a kis kör felett
 2A23: Plusz jel a Circumflex Accent-rel
-2A24: Plusz jel a Tilde-fel : pozitív különbség vagy összeg
+2A24: Plusz jel a Tilde-fel: pozitív különbség vagy összeg
 2A25: Plusz jel az alábbi ponttal
-2A26: Plusz jel Tilde alatt : összeg vagy pozitív különbség
-2A27: Plusz jel a második indexgel : NIM-túlmenően
+2A26: Plusz jel Tilde alatt: összeg vagy pozitív különbség
+2A27: Plusz jel a második indexgel: NIM-túlmenően
 2A28: Plusz jel fekete háromszöggel
 2A29: Mínuszjel a Comma Aba felett
 2A2A: Mínuszjel az alábbi ponttal
@@ -63,7 +63,7 @@
 2A3E: Z jelölés relációs összetétele
 2A3F: Összevonás vagy Coproduct
 2A40: Kereszteződés a ponttal
-2A41: Unió a mínusz jele : z jelölőzsák kivonása
+2A41: Unió a mínusz jele: z jelölőzsák kivonása
 2A42: Unió a Overbar-szal
 2A43: Kereszteződés az Overbar-szal
 2A44: Metszéspont a logikai és
@@ -102,7 +102,7 @@
 2A65: Z jelölési tartomány antirestricencia
 2A66: Egyenlő jel a pont alatt
 2A67: Ugyanaz, mint a fenti pont
-2A68: Háromágyas vízszintes sáv dupla függőleges ütéssel : azonos és párhuzamos
+2A68: Háromágyas vízszintes sáv dupla függőleges ütéssel: azonos és párhuzamos
 2A69: Háromszemélyes vízszintes sáv háromszoros függőleges lökettel
 2A6A: Tilde operátor Dot Above-el
 2A6B: Tilde operátor, emelkedő pontokkal
@@ -159,7 +159,7 @@
 2A9E: Hasonló vagy nagyobb mint
 2A9F: Hasonlóan az alatti egyenlőség feletti jel felett
 2AA0: Hasonlóan nagyobb, mint az egyenlőség feletti jel felett
-2AA1: Dupla beágyazott kevésbé : abszolút folytonosság
+2AA1: Dupla beágyazott kevésbé: abszolút folytonosság
 2AA2: Dupla beágyazott nagyobb mint
 2AA3: Dupla beágyazott kevésbé, mint az alsó
 2AA4: Nagyobb, mint az átfedések kevésbé
@@ -218,13 +218,13 @@
 2AD9: A lefelé nyitás eleme
 2ADA: Pitchfork a Tee Top-al
 2ADB: Keresztirányú metszéspont
-2ADC: elágazás : nem független
-2ADD: Nonforking : független
+2ADC: elágazás: nem független
+2ADD: Nonforking: független
 2ADE: Rövid bal oldal
 2ADF: Rövid leütés
 2AE0: Short Up Tack
 2AE1: S-re merőleges
-2AE2: Függőleges bár hármas jobb forduló : általában kielégíti
+2AE2: Függőleges bár hármas jobb forduló: általában kielégíti
 2AE3: Dupla függőleges sáv balra forduló
 2AE4: Függőleges sáv dupla balra forduló
 2AE5: Dupla függőleges sáv dupla balra forduló
@@ -233,16 +233,16 @@
 2AE8: Rövid ütés az alsó sávval
 2AE9: Rövid lövés a rövid lejtő felett
 2AEA: Duplázd le a hátat
-2AEB: Dupla fel Tack : függetlenség
+2AEB: Dupla fel Tack: függetlenség
 2AEC: Dupla ütés nem jelentkezik
 2AED: Fordított dupla ütés nem jelentkezik
 2AEE: Nem oszlik meg a fordított negatív slash-el
 2AEF: Függőleges vonal a kör felett
 2AF0: Függőleges vonal körrel
-2AF1: Alul lefelé haladó kör : szükségszerűen kielégíti
+2AF1: Alul lefelé haladó kör: szükségszerűen kielégíti
 2AF2: Párhuzamos a vízszintes lökettel
 2AF3: A Tilde Operatorral párhuzamosan
-2AF4: Hármas függőleges sávos bináris kapcsolat : betétlapokat illeszt be
+2AF4: Hármas függőleges sávos bináris kapcsolat: betétlapokat illeszt be
 2AF5: Hármas függőleges sáv vízszintes ütéssel
 2AF6: Hármas Colon operátor
 2AF7: Triple Nested kevesebb, mint a
@@ -252,5 +252,5 @@
 2AFB: Tripus Solidus bináris kapcsolat
 2AFC: Nagy háromszög függőleges sávvezérlő
 2AFD: Double Solidus operátor
-2AFE: Fehér függőleges sáv : dijkstra választás
-2AFF: N-Ary fehér függőleges sáv : n-ary dijkstra választás
+2AFE: Fehér függőleges sáv: dijkstra választás
+2AFF: N-Ary fehér függőleges sáv: n-ary dijkstra választás

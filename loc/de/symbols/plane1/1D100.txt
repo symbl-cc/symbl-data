@@ -56,15 +56,15 @@
 1D137: Musikalisches Symbol Ottava Bassa
 1D138: Musikalisches Symbol Quindicesima Alta
 1D139: Musikalisches Symbol Quindicesima Bassa
-1D13A: Musikalisches Symbol Multi Rest : doppelte ganze rest, breve rest
-1D13B: Musikalisches Symbol ganzer Rest : Halbpension
-1D13C: Musikalisches Symbol halbe Ruhe : Ruhezeit minimieren
-1D13D: Musikalisches Symbol Viertel Rest : Häkeln Sie Rest
-1D13E: Musikalisches Symbol Achte Pause : Achtelpause
-1D13F: Musikalisches Symbol Sechzehnter Rest : Semiquaver Rest
-1D140: Musikalisches Symbol Zweiunddreißigste Pause : demisemiquaver rest
-1D141: Musikalisches Symbol Vierundsechzigste Pause : Hemidemisemiquaver Rest, Semidemisemiquaver Rest
-1D142: Musikalisches Symbol Einhundertachtundzwanzigstel Rest : semihemidemisemiquaver rest, quasihemidemisemiquaver rest
+1D13A: Musikalisches Symbol Multi Rest: doppelte ganze rest, breve rest
+1D13B: Musikalisches Symbol ganzer Rest: Halbpension
+1D13C: Musikalisches Symbol halbe Ruhe: Ruhezeit minimieren
+1D13D: Musikalisches Symbol Viertel Rest: Häkeln Sie Rest
+1D13E: Musikalisches Symbol Achte Pause: Achtelpause
+1D13F: Musikalisches Symbol Sechzehnter Rest: Semiquaver Rest
+1D140: Musikalisches Symbol Zweiunddreißigste Pause: demisemiquaver rest
+1D141: Musikalisches Symbol Vierundsechzigste Pause: Hemidemisemiquaver Rest, Semidemisemiquaver Rest
+1D142: Musikalisches Symbol Einhundertachtundzwanzigstel Rest: semihemidemisemiquaver rest, quasihemidemisemiquaver rest
 1D143: Musikalisches Symbol X Notehead
 1D144: Musikalisches Symbol plus Notehead
 1D145: Notenkopf des musikalischen Symbolkreises X
@@ -91,14 +91,14 @@
 1D15A: Musikalisches Symbol Cluster Notehead Weiß
 1D15B: Musikalisches Symbol Cluster Notehead Schwarz
 1D15C: Musikalisches Symbol Breve
-1D15D: Musikalisches Symbol Ganze Anmerkung : ganze Note
-1D15E: Musikalische Symbol-halbe Note : minimieren
-1D15F: Musikalische Symbol-Viertel-Anmerkung : Viertelnote
-1D160: Musikalisches Symbol Achtelnote : Zittern
-1D161: Musikalisches Symbol Sechzehnte Note : Semiquaver
-1D162: Zweiunddreißigste Note : Demisemiquaver
-1D163: Musikalisches Symbol Vierundsechzigste Note : hemidemisemiquaver, semidemisemiquaver
-1D164: Musikalisches Symbol Hundert Achtundzwanzigste Note : semihemidemisemiquaver, quasihemidemisemiquaver
+1D15D: Musikalisches Symbol Ganze Anmerkung: ganze Note
+1D15E: Musikalische Symbol-halbe Note: minimieren
+1D15F: Musikalische Symbol-Viertel-Anmerkung: Viertelnote
+1D160: Musikalisches Symbol Achtelnote: Zittern
+1D161: Musikalisches Symbol Sechzehnte Note: Semiquaver
+1D162: Zweiunddreißigste Note: Demisemiquaver
+1D163: Musikalisches Symbol Vierundsechzigste Note: hemidemisemiquaver, semidemisemiquaver
+1D164: Musikalisches Symbol Hundert Achtundzwanzigste Note: semihemidemisemiquaver, quasihemidemisemiquaver
 1D165: Musikalisches Symbol, das Stamm kombiniert
 1D166: Musikalisches Symbol, das Sprechgesang-Stamm kombiniert
 1D167: Musikalisches Symbol, das Tremolo-1 kombiniert
@@ -253,4 +253,4 @@
 1D1FC:
 1D1FD:
 1D1FE:
-1D1FF:
+1D1FF:

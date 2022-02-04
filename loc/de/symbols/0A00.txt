@@ -3,7 +3,7 @@
 0A02: Gurmukhi-Zeichen Bindi
 0A03: Gurmukhi-Zeichen Visarga
 0A04: ?
-0A05: Gurmukhi-Buchstabe A : Aira
+0A05: Gurmukhi-Buchstabe A: Aira
 0A06: Gurmukhi-Buchstabe Aa
 0A07: Gurmukhi-Buchstabe I
 0A08: Gurmukhi-Buchstabe Ii
@@ -58,23 +58,23 @@
 0A39: Gurmukhi-Buchstabe Ha
 0A3A:
 0A3B:
-0A3C: Gurmukhi-Zeichen Nukta : pairin bindi
+0A3C: Gurmukhi-Zeichen Nukta: pairin bindi
 0A3D:
-0A3E: Gurmukhi-Vokalzeichen Aa : kanna
-0A3F: Gurmukhi-Vokalzeichen I : Sihari
-0A40: Gurmukhi-Vokalzeichen Ii : Bihari
-0A41: Gurmukhi-Vokalzeichen U : aunkar
-0A42: Gurmukhi-Vokalzeichen Uu : Dulainkar
+0A3E: Gurmukhi-Vokalzeichen Aa: kanna
+0A3F: Gurmukhi-Vokalzeichen I: Sihari
+0A40: Gurmukhi-Vokalzeichen Ii: Bihari
+0A41: Gurmukhi-Vokalzeichen U: aunkar
+0A42: Gurmukhi-Vokalzeichen Uu: Dulainkar
 0A43:
 0A44:
 0A45:
 0A46:
-0A47: Gurmukhi-Vokalzeichen Ee : Lanvan
-0A48: Gurmukhi-Vokalzeichen Ai : Dulanvan
+0A47: Gurmukhi-Vokalzeichen Ee: Lanvan
+0A48: Gurmukhi-Vokalzeichen Ai: Dulanvan
 0A49:
 0A4A:
-0A4B: Gurmukhi-Vokalzeichen Oo : hora
-0A4C: Gurmukhi-Vokalzeichen Au : Kanaura
+0A4B: Gurmukhi-Vokalzeichen Oo: hora
+0A4C: Gurmukhi-Vokalzeichen Au: Kanaura
 0A4D: Gurmukhi-Zeichen Virama
 0A4E:
 0A4F:
@@ -116,7 +116,7 @@
 0A73: Gurmukhi-Ura
 0A74: Gurmukhi-Ek Onkar
 0A75: Gurmukhi-Zeichen Yakasch
-0A76:
+0A76: Gurmukhi Abkürzungszeichen
 0A77:
 0A78:
 0A79:
@@ -247,10 +247,10 @@
 0AF6:
 0AF7:
 0AF8:
-0AF9:
-0AFA:
-0AFB:
-0AFC:
-0AFD:
-0AFE:
-0AFF:
+0AF9: Gujarati Buchstabe ZHA
+0AFA: Gujarati Zeichen Sukun
+0AFB: Gujarati Zeichen Shadda
+0AFC: Gujarati Zeichen Maddah
+0AFD: Gujarati Zeichen Dreipunkt Nukta Above
+0AFE: Gujarati Zeichen Kreis Nukta Above
+0AFF: Gujarati Zeichen Zweikreis Nukta Above

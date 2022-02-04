@@ -1,15 +1,15 @@
 A800: Syloti Nagri betű A
 A801: Syloti Nagri betű I
-A802: Syloti Nagri Sign Dvisvara
+A802: Syloti Nagri jel Dvisvara
 A803: Syloti Nagri betű U
 A804: Syloti Nagri betű E
 A805: Syloti Nagri betű O
-A806: Syloti Nagri Sign Hasanta : halant, virama
+A806: Syloti Nagri jel Hasanta: halant, virama
 A807: Syloti Nagri betű Ko
 A808: Syloti Nagri betű Kho
 A809: Syloti Nagri betű Go
 A80A: Syloti Nagri betű Gho
-A80B: Syloti Nagri Sign Anusvara
+A80B: Syloti Nagri jel Anusvara
 A80C: Syloti Nagri betű Co
 A80D: Syloti Nagri betű Cho
 A80E: Syloti Nagri betű Jo
@@ -33,16 +33,16 @@ A81F: Syloti Nagri betű Lo
 A820: Syloti Nagri betű Rro
 A821: Syloti Nagri betű So
 A822: Syloti Nagri betű Ho
-A823: Syloti Nagri Vowel Sign A
-A824: Syloti Nagri Vowel Sign I
-A825: Syloti Nagri Vowel Sign U
-A826: Syloti Nagri Vowel Sign E
-A827: Syloti Nagri Vowel Sign Oo
+A823: Syloti Nagri magánhangzó jel A
+A824: Syloti Nagri magánhangzó jel I
+A825: Syloti Nagri magánhangzó jel U
+A826: Syloti Nagri magánhangzó jel E
+A827: Syloti Nagri magánhangzó jel Oo
 A828: Syloti Nagri Poetry Mark-1
 A829: Syloti Nagri Poetry Mark-2
 A82A: Syloti Nagri Poetry Mark-3
 A82B: Syloti Nagri Poetry Mark-4
-A82C:
+A82C: Syloti Nagri jel váltakozó Hasanta
 A82D:
 A82E:
 A82F:
@@ -126,18 +126,18 @@ A87C:
 A87D:
 A87E:
 A87F:
-A880: Saurashtra Sign Anusvara
-A881: Saurashtra Sign Visarga
+A880: Saurashtra jel Anusvara
+A881: Saurashtra jel Visarga
 A882: Saurashtra betű A
 A883: Saurashtra betű Aa
 A884: Saurashtra betű I
 A885: Saurashtra betű Ii
 A886: Saurashtra betű U
 A887: Saurashtra betű Uu
-A888: Saurashtra betű Vocalic R
-A889: Saurashtra betű Vocalic Rr
-A88A: Saurashtra betű Vocalic L
-A88B: Saurashtra betű Vocalic Ll
+A888: Saurashtra betű vokális R
+A889: Saurashtra betű vokális Rr
+A88A: Saurashtra betű vokális L
+A88B: Saurashtra betű vokális Ll
 A88C: Saurashtra betű E
 A88D: Saurashtra betű Ee
 A88E: Saurashtra betű Ai
@@ -178,24 +178,24 @@ A8B0: Saurashtra betű Ssa
 A8B1: Saurashtra betű Sa
 A8B2: Saurashtra betű Ha
 A8B3: Saurashtra betű Lla
-A8B4: Saurashtra Consonant Sign Haaru
-A8B5: Saurashtra Vowel Sign Aa
-A8B6: Saurashtra Vowel Sign I
-A8B7: Saurashtra Vowel Sign Ii
-A8B8: Saurashtra Vowel Sign U
-A8B9: Saurashtra Vowel Sign Uu
-A8BA: Saurashtra Vowel Sign Vocalic R
-A8BB: Saurashtra Vowel Sign Vocalic Rr
-A8BC: Saurashtra Vowel Sign Vocalic L
-A8BD: Saurashtra Vowel Sign Vocalic Ll
-A8BE: Saurashtra Vowel Sign E
-A8BF: Saurashtra Vowel Sign Ee
-A8C0: Saurashtra Vowel Sign Ai
-A8C1: Saurashtra Vowel Sign O
-A8C2: Saurashtra Vowel Sign Oo
-A8C3: Saurashtra Vowel Sign Au
-A8C4: Saurashtra Sign Virama
-A8C5:
+A8B4: Saurashtra mássalhangzó jel Haaru
+A8B5: Saurashtra magánhangzó jel Aa
+A8B6: Saurashtra magánhangzó jel I
+A8B7: Saurashtra magánhangzó jel Ii
+A8B8: Saurashtra magánhangzó jel U
+A8B9: Saurashtra magánhangzó jel Uu
+A8BA: Saurashtra magánhangzó jel vokális R
+A8BB: Saurashtra magánhangzó jel vokális Rr
+A8BC: Saurashtra magánhangzó jel vokális L
+A8BD: Saurashtra magánhangzó jel vokális Ll
+A8BE: Saurashtra magánhangzó jel E
+A8BF: Saurashtra magánhangzó jel Ee
+A8C0: Saurashtra magánhangzó jel Ai
+A8C1: Saurashtra magánhangzó jel O
+A8C2: Saurashtra magánhangzó jel Oo
+A8C3: Saurashtra magánhangzó jel Au
+A8C4: Saurashtra jel Virama
+A8C5: Saurashtra jel Candrabindu
 A8C6:
 A8C7:
 A8C8:
@@ -206,51 +206,51 @@ A8CC:
 A8CD:
 A8CE: Saurashtra Danda
 A8CF: Saurashtra Double Danda
-A8D0: Saurashtra Digit Zero
-A8D1: Saurashtra Digit One
-A8D2: Saurashtra Digit Two
-A8D3: Saurashtra Digit Three
-A8D4: Saurashtra Digit Four
-A8D5: Saurashtra Digit Five
-A8D6: Saurashtra Digit Six
-A8D7: Saurashtra Digit Seven
-A8D8: Saurashtra Digit Eight
-A8D9: Saurashtra Digit Nine
+A8D0: Saurashtra számjegy nulla
+A8D1: Saurashtra számjegy egy
+A8D2: Saurashtra számjegy kettő
+A8D3: Saurashtra számjegy három
+A8D4: Saurashtra számjegy négy
+A8D5: Saurashtra számjegy öt
+A8D6: Saurashtra számjegy hat
+A8D7: Saurashtra számjegy hét
+A8D8: Saurashtra számjegy nyolc
+A8D9: Saurashtra számjegy kilenc
 A8DA:
 A8DB:
 A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Combining Devanagari Digit Zero : vaidika saamasvara anka shuunya
-A8E1: Combining Devanagari Digit One : vaidika saamasvara anka eka udaatta
-A8E2: Combining Devanagari Digit Two : vaidika saamasvara anka dvi svarita
-A8E3: Combining Devanagari Digit Three : vaidika saamasvara anka tri anudaatta
-A8E4: Combining Devanagari Digit Four : vaidika saamasvara anka chatur
-A8E5: Combining Devanagari Digit Five : vaidika saamasvara anka pancha
-A8E6: Combining Devanagari Digit Six : vaidika saamasvara anka shatt
-A8E7: Combining Devanagari Digit Seven : vaidika saamasvara anka sapta
-A8E8: Combining Devanagari Digit Eight : vaidika saamasvara anka ashta
-A8E9: Combining Devanagari Digit Nine : vaidika saamasvara anka nava
-A8EA: Combining Devanagari betű A : vaidika saamasvara abhinihita
-A8EB: Combining Devanagari betű U : vaidika saamasvara u
-A8EC: Combining Devanagari betű Ka : vaidika saamasvara ka
-A8ED: Combining Devanagari betű Na : vaidika saamasvara namana
-A8EE: Combining Devanagari betű Pa : vaidika saamasvara prannatam
-A8EF: Combining Devanagari betű Ra : vaidika saamasvara ra
-A8F0: Combining Devanagari betű Vi : vaidika saamasvara vinata
-A8F1: Combining Devanagari Sign Avagraha : vaidika saamasvara diirghiibhaava
-A8F2: Devanagari Sign Spacing Candrabindu : vaidika candrabindu
-A8F3: Devanagari Sign Candrabindu Virama : vaidika anusvaara candrabindu tiryak
-A8F4: Devanagari Sign Double Candrabindu Virama : vaidika anusvaara dvi candrabindu tiryak
-A8F5: Devanagari Sign Candrabindu Two : vaidika anusvaara candrabindu sa-dvi
-A8F6: Devanagari Sign Candrabindu Three : vaidika anusvaara candrabindu sa-tri
-A8F7: Devanagari Sign Candrabindu Avagraha : vaidika anusvaara candrabindu sa-avagraha
-A8F8: Devanagari Sign Pushpika : vaidika pushpikaa
-A8F9: Devanagari Gap Filler
-A8FA: Devanagari Caret : vaidika trutikaa
-A8FB: Devanagari Headstroke : shirorekhaa
-A8FC:
-A8FD:
-A8FE:
-A8FF:
+A8E0: Kombinált Dévanágari számjegy Zero: vaidika saamasvara anka shuunya
+A8E1: Kombinált Dévanágari számjegy One: vaidika saamasvara anka eka udaatta
+A8E2: Kombinált Dévanágari számjegy Two: vaidika saamasvara anka dvi svarita
+A8E3: Kombinált Dévanágari számjegy Three: vaidika saamasvara anka tri anudaatta
+A8E4: Kombinált Dévanágari számjegy Four: vaidika saamasvara anka chatur
+A8E5: Kombinált Dévanágari számjegy Five: vaidika saamasvara anka pancha
+A8E6: Kombinált Dévanágari számjegy Six: vaidika saamasvara anka shatt
+A8E7: Kombinált Dévanágari számjegy Seven: vaidika saamasvara anka sapta
+A8E8: Kombinált Dévanágari számjegy Eight: vaidika saamasvara anka ashta
+A8E9: Kombinált Dévanágari számjegy Nine: vaidika saamasvara anka nava
+A8EA: Kombinált Dévanágari betű A: vaidika saamasvara abhinihita
+A8EB: Kombinált Dévanágari betű U: vaidika saamasvara u
+A8EC: Kombinált Dévanágari betű Ka: vaidika saamasvara ka
+A8ED: Kombinált Dévanágari betű Na: vaidika saamasvara namana
+A8EE: Kombinált Dévanágari betű Pa: vaidika saamasvara prannatam
+A8EF: Kombinált Dévanágari betű Ra: vaidika saamasvara ra
+A8F0: Kombinált Dévanágari betű Vi: vaidika saamasvara vinata
+A8F1: Kombinált Dévanágari jel Avagraha: vaidika saamasvara diirghiibhaava
+A8F2: Dévanágari jel Spacing Candrabindu: vaidika candrabindu
+A8F3: Dévanágari jel Candrabindu Virama: vaidika anusvaara candrabindu tiryak
+A8F4: Dévanágari jel Double Candrabindu Virama: vaidika anusvaara dvi candrabindu tiryak
+A8F5: Dévanágari jel Candrabindu Two: vaidika anusvaara candrabindu sa-dvi
+A8F6: Dévanágari jel Candrabindu Three: vaidika anusvaara candrabindu sa-tri
+A8F7: Dévanágari jel Candrabindu Avagraha: vaidika anusvaara candrabindu sa-avagraha
+A8F8: Dévanágari jel Pushpika: vaidika pushpikaa
+A8F9: Dévanágari Gap Filler
+A8FA: Dévanágari Caret: vaidika trutikaa
+A8FB: Dévanágari Headstroke: shirorekhaa
+A8FC: Dévanágari jel Siddham: siddhirastu
+A8FD: Dévanágari Jain Om
+A8FE: Dévanágari betű Ay
+A8FF: Dévanágari magánhangzó jel Ay

@@ -1,32 +1,32 @@
 10F00: Old Sogdian Brief Aleph
-10F01: Old Sogdian Letter Final Aleph
+10F01: Old Sogdian Buchstabe Final Aleph
 10F02: Old Sogdian Brief Beth
-10F03: Old Sogdian Letter Final Beth
-10F04: Old Sogdian Letter Gimel
+10F03: Old Sogdian Buchstabe Final Beth
+10F04: Old Sogdian Buchstabe Gimel
 10F05: Old Sogdian Brief er
-10F06: Old Sogdian Letter Final Er
-10F07: Old Sogdian Letter Waw
+10F06: Old Sogdian Buchstabe Final Er
+10F07: Old Sogdian Buchstabe Waw
 10F08: Old Sogdian Brief Zayin
 10F09: Old Sogdian Buchstabe Heth
 10F0A: Old Sogdian Brief Yodh
 10F0B: Alter Sogdian Brief Kaph
 10F0C: Old Sogdian Brief Lamedh
-10F0D: Old Sogdian Letter Mem
+10F0D: Old Sogdian Buchstabe Mem
 10F0E: Old Sogdian Brief Nonne
-10F0F: Old Sogdian Letter Final Nonne
-10F10: Old Sogdian Letter Final Nonne mit vertikalem Schwanz
+10F0F: Old Sogdian Buchstabe Final Nonne
+10F10: Old Sogdian Buchstabe Final Nonne mit vertikalem Schwanz
 10F11: Old Sogdian Brief Samekh
 10F12: Alter Sogdian-Buchstabe Ayin
 10F13: Alter Sogdian-Buchstabe Ayin
-10F14: Old Sogdian Letter Pe
+10F14: Old Sogdian Buchstabe Pe
 10F15: Old Sogdian Brief Sadhe
-10F16: Old Sogdian Letter Final Sadhe
-10F17: Old Sogdian Letter Final Sadhe mit vertikalem Schwanz
+10F16: Old Sogdian Buchstabe Final Sadhe
+10F17: Old Sogdian Buchstabe Final Sadhe mit vertikalem Schwanz
 10F18: Old Sogdian Brief Resh-Ayin-Daleth
 10F19: Old Sogdian Brief Shin
 10F1A: Old Sogdian Buchstabe Taw
-10F1B: Old Sogdian Letter Final Taw
-10F1C: Old Sogdian Letter Final Taw mit vertikalem Schwanz
+10F1B: Old Sogdian Buchstabe Final Taw
+10F1C: Old Sogdian Buchstabe Final Taw mit vertikalem Schwanz
 10F1D: Old Sogdian Nummer Eins
 10F1E: Old Sogdian Nummer Zwei
 10F1F: Old Sogdian Nummer Drei
@@ -60,10 +60,10 @@
 10F3B: Sogdian Brief Nun
 10F3C: Sogdian Brief Samekh
 10F3D: Sogdian Brief Ayin
-10F3E: Sogdian Letter Pe
+10F3E: Sogdian Buchstabe Pe
 10F3F: Sogdian Brief Sadhe
 10F40: Sogdian Brief Resh-Ayin
-10F41: Sogdian Letter Shin
+10F41: Sogdian Buchstabe Shin
 10F42: Sogdian Buchstabe Taw
 10F43: Sogdian Brief Feth
 10F44: Sogdian Brief Lesh
@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0: Choresmische Buchstabe Aleph
+10FB1: Choresmische Buchstabe Small Aleph
+10FB2: Choresmische Buchstabe Beth
+10FB3: Choresmische Buchstabe Gimel
+10FB4: Choresmische Buchstabe Daleth
+10FB5: Choresmische Buchstabe He
+10FB6: Choresmische Buchstabe Waw
+10FB7: Choresmische Buchstabe Curled Waw
+10FB8: Choresmische Buchstabe Zayin
+10FB9: Choresmische Buchstabe Heth
+10FBA: Choresmische Buchstabe Yodh
+10FBB: Choresmische Buchstabe Kaph
+10FBC: Choresmische Buchstabe Lamedh
+10FBD: Choresmische Buchstabe Mem
+10FBE: Choresmische Buchstabe Nun
+10FBF: Choresmische Buchstabe Samekh
+10FC0: Choresmische Buchstabe Ayin
+10FC1: Choresmische Buchstabe Pe
+10FC2: Choresmische Buchstabe Resh
+10FC3: Choresmische Buchstabe Shin
+10FC4: Choresmische Buchstabe Taw
+10FC5: Choresmische Anzahl Eins
+10FC6: Choresmische Anzahl Zwei
+10FC7: Choresmische Anzahl Drei
+10FC8: Choresmische Anzahl Vier
+10FC9: Choresmische Anzahl Zehn
+10FCA: Choresmische Anzahl Zwanzig
+10FCB: Choresmische Anzahl Hundert
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaisch Buchstabe Aleph
+10FE1: Elymaisch Buchstabe Beth
+10FE2: Elymaisch Buchstabe Gimel
+10FE3: Elymaisch Buchstabe Daleth
+10FE4: Elymaisch Buchstabe He
+10FE5: Elymaisch Buchstabe Waw
+10FE6: Elymaisch Buchstabe Zayin
+10FE7: Elymaisch Buchstabe Heth
+10FE8: Elymaisch Buchstabe Teth
+10FE9: Elymaisch Buchstabe Yodh
+10FEA: Elymaisch Buchstabe Kaph
+10FEB: Elymaisch Buchstabe Lamedh
+10FEC: Elymaisch Buchstabe Mem
+10FED: Elymaisch Buchstabe Nun
+10FEE: Elymaisch Buchstabe Samekh
+10FEF: Elymaisch Buchstabe Ayin
+10FF0: Elymaisch Buchstabe Pe
+10FF1: Elymaisch Buchstabe Sadhe
+10FF2: Elymaisch Buchstabe Qoph
+10FF3: Elymaisch Buchstabe Resh
+10FF4: Elymaisch Buchstabe Shin
+10FF5: Elymaisch Buchstabe Taw
+10FF6: Elymaisch Ligatur Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

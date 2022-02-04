@@ -11,9 +11,9 @@
 1F10A: Rakam Dokuz Virgül
 1F10B: Dingbat Circled Sans-Serif Basamak Sıfır
 1F10C: Dingbat Negatif Daire İçinde Sans-Serif Basamak Sıfır
-1F10D:
-1F10E:
-1F10F:
+1F10D: Eğik çizgi ile daire içine alınmış sıfır
+1F10E: Saat yönünün tersine daire içine alınmış ok
+1F10F: Daire içinde dolar işareti overlaid backslash ile
 1F110: Parantez içindeki Latin Büyük Harf A
 1F111: Parantez içindeki Latin Büyük Harf B
 1F112: Parantez içindeki Latin büyük harf C
@@ -41,13 +41,13 @@
 1F128: Parantez içindeki Latin Büyük Harf Y
 1F129: Parantez içindeki Latin Büyük Harf Z
 1F12A: Kaplumbağa Kabuğu Parantezli Latin Büyük Harf S
-1F12B: Daire içinde italik Latin büyük harf C : CD, tek disk kaydı
-1F12C: Daire içine alınmış Italik Latin Büyük Harf R : disk kaydı
+1F12B: Daire içinde italik Latin büyük harf C: CD, tek disk kaydı
+1F12C: Daire içine alınmış Italik Latin Büyük Harf R: disk kaydı
 1F12D: Daire içine alınmış Cd
 1F12E: Daire içinde Wz
 1F12F: Copyleft Symbol
-1F130: Kare Latin Büyük Harf A : anreisetag (varış günü)
-1F131: Kare Latin Büyük Harf B : banka : b modu stereo sıkıştırma yayın servisi (arib std b24)
+1F130: Kare Latin Büyük Harf A: anreisetag (varış günü)
+1F131: Kare Latin Büyük Harf B: banka , b modu stereo sıkıştırma yayın servisi (arib std b24)
 1F132: Kare Latin Büyük Harf C
 1F133: Kare Latin Büyük Harf D
 1F134: Kare Latin Büyük Harf E
@@ -59,73 +59,73 @@
 1F13A: Kare Latin Büyük Harf K
 1F13B: Kare Latin Büyük Harf L
 1F13C: Kare Latin Büyük Harf M
-1F13D: Kare Latin Büyük Harf N : haberler (arib std b24)
+1F13D: Kare Latin Büyük Harf N: haberler (arib std b24)
 1F13E: Kare Latin Büyük Harf O
-1F13F: Kare Latin Büyük Harf P : ilerici yayın (arib std b24)
+1F13F: Kare Latin Büyük Harf P: ilerici yayın (arib std b24)
 1F140: Kare Latin Büyük Harf Q
 1F141: Kare Latin Büyük Harf R
-1F142: Kare Latin Büyük Harf S : stereo yayın servisi (arib std b24)
-1F143: Kare Latin Büyük Harf T : tütüncü
+1F142: Kare Latin Büyük Harf S: stereo yayın servisi (arib std b24)
+1F143: Kare Latin Büyük Harf T: tütüncü
 1F144: Kare Latin Büyük Harf U
 1F145: Kare Latin Büyük Harf V
-1F146: Kare Latin Büyük Harf W : geniş format 16 : 9 yayın hizmeti (arib std b24)
+1F146: Kare Latin Büyük Harf W: geniş format 16 , 9 yayın hizmeti (arib std b24)
 1F147: Kare Latin Büyük Harf X
 1F148: Kare Latin Büyük Harf Y
 1F149: Kare Latin Büyük Harf Z
-1F14A: Kare Hv : hdtv
-1F14B: Kare Mv : çok görüşlü televizyon
-1F14C: Kare Sd : SDTV
-1F14D: Kare Ss : surround stereo yayın servisi
-1F14E: Kare Ppv : görülme başına ödeme
-1F14F: Kare Wc : su dolabı, umumi tuvalet
-1F150: Negatif Dairesel Latin Büyük Harf A : havalimanı
+1F14A: Kare Hv: hdtv
+1F14B: Kare Mv: çok görüşlü televizyon
+1F14C: Kare Sd: SDTV
+1F14D: Kare Ss: surround stereo yayın servisi
+1F14E: Kare Ppv: görülme başına ödeme
+1F14F: Kare Wc: su dolabı, umumi tuvalet
+1F150: Negatif Dairesel Latin Büyük Harf A: havalimanı
 1F151: Negatif Dairesel Latin Büyük Harf B
 1F152: Negatif Dairesel Latin Büyük Harf C
 1F153: Negatif Dairesel Latin Büyük Harf D
 1F154: Negatif Daire içine alınmış Latin Büyük Harf E
-1F155: Negatif Dairesel Latin Büyük Harf F : feribot
+1F155: Negatif Dairesel Latin Büyük Harf F: feribot
 1F156: Negatif Dairesel Latin Büyük Harf G
-1F157: Negatif Daire içine alınmış Latin Büyük Harf H : otel (arib std b24)
+1F157: Negatif Daire içine alınmış Latin Büyük Harf H: otel (arib std b24)
 1F158: Negatif Daire içine alınmış Latin Büyük Harf I
 1F159: Negatif Daire içine alınmış Latin Büyük Harf J
-1F15A: Negatif Dairesel Latin Büyük Harf K : kurort (spa)
-1F15B: Negatif Dairesel Latin Büyük Harf L : hafif raylı
-1F15C: Negatif Daire içine alınmış Latin Büyük Harf M : metro
+1F15A: Negatif Dairesel Latin Büyük Harf K: kurort (spa)
+1F15B: Negatif Dairesel Latin Büyük Harf L: hafif raylı
+1F15C: Negatif Daire içine alınmış Latin Büyük Harf M: metro
 1F15D: Negatif Daire içine alınmış Latin Büyük Harf N
 1F15E: Negatif Dairesel Latin Büyük Harf O
-1F15F: Negatif Daire içine alınmış Latin Büyük Harf P : park alanı (arib std b24)
+1F15F: Negatif Daire içine alınmış Latin Büyük Harf P: park alanı (arib std b24)
 1F160: Negatif Daire içine alınmış Latin Büyük Harf Q
-1F161: Negatif Dairesel Latin Büyük Harf R : raststätte (dinlenme durağı)
-1F162: Negatif Dairesel Latin Büyük Harf S : stadtbahn (büyükşehir demiryolu)
-1F163: Negatif Dairesel Latin Büyük Harf T : tankstelle (benzin istasyonu)
-1F164: Negatif Dairesel Latin Büyük Harf U : yeraltı demiryolu
+1F161: Negatif Dairesel Latin Büyük Harf R: raststätte (dinlenme durağı)
+1F162: Negatif Dairesel Latin Büyük Harf S: stadtbahn (büyükşehir demiryolu)
+1F163: Negatif Dairesel Latin Büyük Harf T: tankstelle (benzin istasyonu)
+1F164: Negatif Dairesel Latin Büyük Harf U: yeraltı demiryolu
 1F165: Negatif Daire içine alınmış Latin Büyük Harf V
 1F166: Negatif Daire içine alınmış Latin Büyük Harf W
 1F167: Negatif Daire içine alınmış Latin Büyük Harf X
 1F168: Negatif Daire içine alınmış Latin Büyük Harf Y
 1F169: Negatif Dairesel Latin Büyük Harf Z
-1F16A: Yükseltilmiş Mc Burcu : marque de commerce
-1F16B: Yükseltilmiş Md İşareti : Marque d'Eposée
-1F16C:
-1F16D:
-1F16E:
-1F16F:
-1F170: Negatif Kareli Latin Büyük Harf A : Kan grubu A
-1F171: Negatif Kareli Latin Büyük Harf B : Kan grubu b
-1F172: Negatif Kareli Latin Büyük Harf C : merkez, şehir merkezi
+1F16A: Yükseltilmiş Mc Burcu: marque de commerce
+1F16B: Yükseltilmiş Md İşareti: Marque d'Eposée
+1F16C: Bay işareti kaldırdı
+1F16D: Daire içinde Cc
+1F16E: Üst üste bindirilmiş ters eğik çizgili C
+1F16F: Daire içinde insan figürü
+1F170: Negatif Kareli Latin Büyük Harf A: Kan grubu A
+1F171: Negatif Kareli Latin Büyük Harf B: Kan grubu b
+1F172: Negatif Kareli Latin Büyük Harf C: merkez, şehir merkezi
 1F173: Negatif Kareli Latin Büyük Harf D
 1F174: Negatif Kareli Latin Büyük Harf E
-1F175: Negatif Kareli Latin Büyük Harf F : feuerwache (itfaiye)
+1F175: Negatif Kareli Latin Büyük Harf F: feuerwache (itfaiye)
 1F176: Negatif Kareli Latin Büyük Harf G
-1F177: Negatif Kareli Latin Büyük Harf H : Haltestelle (otobüs durağı)
+1F177: Negatif Kareli Latin Büyük Harf H: Haltestelle (otobüs durağı)
 1F178: Negatif Kareli Latin Büyük Harf I
-1F179: Negatif Kareli Latin Büyük Harf J : kavşak (arib std b24)
+1F179: Negatif Kareli Latin Büyük Harf J: kavşak (arib std b24)
 1F17A: Negatif Kare Kareli Latin Büyük Harf K
-1F17B: Negatif Kareli Latin Büyük Harf L : eğlence merkezi (arib std b24)
-1F17C: Negatif Kareli Latin Büyük Harf M : müze, kültür merkezi (arib std b24)
+1F17B: Negatif Kareli Latin Büyük Harf L: eğlence merkezi (arib std b24)
+1F17C: Negatif Kareli Latin Büyük Harf M: müze, kültür merkezi (arib std b24)
 1F17D: Negatif Kareli Latin Büyük Harf N
-1F17E: Negatif Kareli Latin Büyük Harf O : Kan grubu O
-1F17F: Negatif Kareli Latin Büyük Harf P : Park alanı boş dolu (arib std b24)
+1F17E: Negatif Kareli Latin Büyük Harf O: Kan grubu O
+1F17F: Negatif Kareli Latin Büyük Harf P: Park alanı boş dolu (arib std b24)
 1F180: Negatif Kareli Latin Büyük Harf Q
 1F181: Negatif Kareli Latin Büyük Harf R
 1F182: Negatif Kareli Latin Büyük Harf S
@@ -136,23 +136,23 @@
 1F187: Negatif Kareli Latin Büyük Harf X
 1F188: Negatif Kareli Latin Büyük Harf Y
 1F189: Negatif Kareli Latin Büyük Harf Z
-1F18A: Çapraz negatif kare Latin büyük harf P geçti : Park alanı kapalı
-1F18B: Negatif Kareli Ic : kavşak, rampa
-1F18C: Negatif Kareli Pa : Park alanı
-1F18D: Negatif Kareli Sa : hizmet alanı
-1F18E: Negatif Kare Ab : Kan grubu AB
-1F18F: Olumsuz Kare Wc : su dolabı, umumi tuvalet
-1F190: Dj Meydanı : disk jokey
-1F191: Kare cl : açık
+1F18A: Çapraz negatif kare Latin büyük harf P geçti: Park alanı kapalı
+1F18B: Negatif Kareli Ic: kavşak, rampa
+1F18C: Negatif Kareli Pa: Park alanı
+1F18D: Negatif Kareli Sa: hizmet alanı
+1F18E: Negatif Kare Ab: Kan grubu AB
+1F18F: Olumsuz Kare Wc: su dolabı, umumi tuvalet
+1F190: Dj Meydanı: disk jokey
+1F191: Kare cl: açık
 1F192: Kare serin
-1F193: Kare ücretsiz : ücretsiz posta
-1F194: Kare id : kimlik, kimlik
+1F193: Kare ücretsiz: ücretsiz posta
+1F194: Kare id: kimlik, kimlik
 1F195: Yeni kare
-1F196: Kare Ng : iyi değil
+1F196: Kare Ng: iyi değil
 1F197: Squared Tamam
-1F198: Kare Sos : ara, kayıp kişiyi avla
-1F199: Ünlem işareti ile kare : yeni bilgi, güncelleme
-1F19A: Kare Vs : karşı
+1F198: Kare Sos: ara, kayıp kişiyi avla
+1F199: Ünlem işareti ile kare: yeni bilgi, güncelleme
+1F19A: Kare Vs: karşı
 1F19B: Kare Üç D
 1F19C: Kare İkinci Ekran
 1F19D: Kare iki k
@@ -171,7 +171,7 @@
 1F1AA: Kare Shv
 1F1AB: Kare Uhd
 1F1AC: Kare Vod
-1F1AD:
+1F1AD: Maske iş sembolü
 1F1AE:
 1F1AF:
 1F1B0:

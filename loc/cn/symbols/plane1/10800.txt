@@ -65,19 +65,19 @@
 10840: Imperial Aramaic Letter Aleph
 10841: 帝国阿拉姆语字母贝丝
 10842: Imperial Aramaic Letter Gimel
-10843: 帝国阿拉姆语信Daleth
+10843: 帝国阿拉姆语字母Daleth
 10844: 帝国阿拉姆语字母他
 10845: 帝国阿拉姆语字母Waw
 10846: 帝国阿拉姆语字母Zayin
 10847: 帝国阿拉姆语字母赫斯
 10848: 帝国阿拉姆语字母Teth
-10849: 帝国阿拉姆语信Yodh
+10849: 帝国阿拉姆语字母Yodh
 1084A: Imperial Aramaic Letter Kaph
 1084B: Imperial Aramaic Letter Lamedh
 1084C: Imperial Aramaic Letter Mem
 1084D: 帝国阿拉姆语字母尼姑
 1084E: Imperial Aramaic Letter Samekh
-1084F: 帝国阿拉姆语信Ayin
+1084F: 帝国阿拉姆语字母Ayin
 10850: 帝国阿拉姆语字母Pe
 10851: Imperial Aramaic Letter Sadhe
 10852: 帝国阿拉姆语字母Qoph
@@ -98,19 +98,19 @@
 10861: Palmyrene Letter Beth
 10862: Palmyrene字母Gimel
 10863: Palmyrene Letter Daleth
-10864: Palmyrene写信给他
+10864: Palmyrene写字母给他
 10865: Palmyrene字母Waw
 10866: Palmyrene字母Zayin
 10867: Palmyrene字母Heth
 10868: Palmyrene Letter Teth
-10869: Palmyrene写信Yodh
+10869: Palmyrene写字母Yodh
 1086A: Palmyrene Letter Kaph
 1086B: Palmyrene Letter Lamedh
 1086C: Palmyrene Letter Mem
 1086D: Palmyrene写的最后修女
 1086E: Palmyrene字母尼姑
 1086F: Palmyrene Letter Samekh
-10870: Palmyrene写信Ayin
+10870: Palmyrene写字母Ayin
 10871: Palmyrene Letter Pe
 10872: Palmyrene Letter Sadhe
 10873: Palmyrene Letter Qoph
@@ -132,8 +132,8 @@
 10883: Nabataean Letter Beth
 10884: Nabataean Letter Gimel
 10885: Nabataean Letter Daleth
-10886: Nabataean信最后他
-10887: Nabataean信他
+10886: Nabataean字母最后他
+10887: Nabataean字母他
 10888: Nabataean Letter Waw
 10889: Nabataean Letter Zayin
 1088A: Nabataean Letter Heth
@@ -223,13 +223,13 @@
 108DE:
 108DF:
 108E0: Hatran Letter Aleph
-108E1: 哈特兰信贝丝
+108E1: 哈特兰字母贝丝
 108E2: Hatran Letter Gimel
 108E3: Hatran Letter Daleth-Resh
-108E4: 哈特兰信他
+108E4: 哈特兰字母他
 108E5: Hatran Letter Waw
 108E6: Hatran Letter Zayn
-108E7: 哈特兰信赫斯
+108E7: 哈特兰字母赫斯
 108E8: Hatran Letter Teth
 108E9: Hatran Letter Yodh
 108EA: Hatran Letter Kaph

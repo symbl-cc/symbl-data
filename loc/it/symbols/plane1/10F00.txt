@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0: Lettera corasmatica aleph
+10FB1: Lettera corasmatica piccola aleph
+10FB2: Lettera corasmatica beth
+10FB3: Lettera coreana gimel
+10FB4: Lettera coreana daleth
+10FB5: Lettera corasmatica lui
+10FB6: Lettera coroplica waw
+10FB7: Lettera coreana arricciata waw
+10FB8: Zorina cororiana
+10FB9: Lettera corasmatica heth
+10FBA: Lettera corasmatica yodh
+10FBB: Lettera corasmana kaph
+10FBC: Lettera coramara lamedh
+10FBD: Lettera corasmatica mem
+10FBE: Lettera Suora Chorasmiana
+10FBF: Lettera coraziana samekh
+10FC0: Ayin lettera cororiana
+10FC1: Lettera corasmatica pe
+10FC2: Resh della lettera di Chorasmian
+10FC3: Stinco di cororoma
+10FC4: Lettera corasmana taw
+10FC5: Numero uno cororico
+10FC6: Numero due corasmatico
+10FC7: Numero tre cororico
+10FC8: Numero quattro di cororasm
+10FC9: Numero dieci cororasmatico
+10FCA: Numero cororiano venti
+10FCB: Numero corasmiano cento
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaic lettera Aleph
+10FE1: Elymaic lettera Beth
+10FE2: Elymaic lettera Gimel
+10FE3: Elymaic lettera Daleth
+10FE4: Elymaic lettera He
+10FE5: Elymaic lettera Waw
+10FE6: Elymaic lettera Zayin
+10FE7: Elymaic lettera Heth
+10FE8: Elymaic lettera Teth
+10FE9: Elymaic lettera Yodh
+10FEA: Elymaic lettera Kaph
+10FEB: Elymaic lettera Lamedh
+10FEC: Elymaic lettera Mem
+10FED: Elymaic lettera Nun
+10FEE: Elymaic lettera Samekh
+10FEF: Elymaic lettera Ayin
+10FF0: Elymaic lettera Pe
+10FF1: Elymaic lettera Sadhe
+10FF2: Elymaic lettera Qoph
+10FF3: Elymaic lettera Resh
+10FF4: Elymaic lettera Shin
+10FF5: Elymaic lettera Taw
+10FF6: Elymaic legatura Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

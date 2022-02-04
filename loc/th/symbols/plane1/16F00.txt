@@ -1,139 +1,139 @@
 16F00: แม้วจดหมายปา
 16F01: แม้วจดหมาย Ba
 16F02: แม้วจดหมาย Yi Pa
-16F03: ปลา Letter Miao
+16F03: ปลา ตัวอักษร Miao
 16F04: แม้วจดหมาย Ma
-16F05: Miao Letter Mha
+16F05: Miao ตัวอักษร Mha
 16F06: Miao จดหมายแม่โบราณ
 16F07: แม้วจดหมายฟ้า
-16F08: Miao Letter Va
-16F09: Miao Letter Vfa
+16F08: Miao ตัวอักษร Va
+16F09: Miao ตัวอักษร Vfa
 16F0A: แม้วจดหมาย Ta
 16F0B: แม้วจดหมายดา
 16F0C: แม้วจดหมาย Yi Tta
 16F0D: แม้วจดหมาย Yi Ta
 16F0E: แม้วจดหมาย Tta
-16F0F: Miao Letter Dda
+16F0F: Miao ตัวอักษร Dda
 16F10: แม้วจดหมายนา
 16F11: แม้วจดหมาย Nha
-16F12: Miao Letter Yi Nna
+16F12: Miao ตัวอักษร Yi Nna
 16F13: แม้วจดหมายสมัยโบราณนา
 16F14: แม้วจดหมาย Nna
-16F15: Miao Letter Nnha
+16F15: Miao ตัวอักษร Nnha
 16F16: Miao จดหมาย La
-16F17: Miao Letter Lya
+16F17: Miao ตัวอักษร Lya
 16F18: แม้วจดหมาย Lha
-16F19: Miao Letter Lhya
-16F1A: Miao Letter Tlha
-16F1B: Miao Letter Dlha
-16F1C: Miao Letter Tlhya
-16F1D: Miao Letter Dlhya
+16F19: Miao ตัวอักษร Lhya
+16F1A: Miao ตัวอักษร Tlha
+16F1B: Miao ตัวอักษร Dlha
+16F1C: Miao ตัวอักษร Tlhya
+16F1D: Miao ตัวอักษร Dlhya
 16F1E: แม้วจดหมายกะ
 16F1F: แม้วจดหมาย Ga
 16F20: แม้วจดหมาย Yi Ka
-16F21: Miao Letter Qa
-16F22: Miao Letter Qga
-16F23: Miao Letter Nga
-16F24: Miao Letter Ngha
+16F21: Miao ตัวอักษร Qa
+16F22: Miao ตัวอักษร Qga
+16F23: Miao ตัวอักษร Nga
+16F24: Miao ตัวอักษร Ngha
 16F25: แม้วจดหมายโบราณ
 16F26: แม้วจดหมายฮา
-16F27: Miao Letter Xa
+16F27: Miao ตัวอักษร Xa
 16F28: แม้วจดหมาย Gha
 16F29: แม้วจดหมาย Ghha
-16F2A: Miao Letter Tssa
-16F2B: Miao Letter Dzza
+16F2A: Miao ตัวอักษร Tssa
+16F2B: Miao ตัวอักษร Dzza
 16F2C: แม้วจดหมาย Nya
 16F2D: แม้วจดหมาย Nyha
 16F2E: แม้วจดหมาย Tsha
-16F2F: Miao Letter Dzha
+16F2F: Miao ตัวอักษร Dzha
 16F30: แม้วจดหมาย Yi Tsha
-16F31: Miao Letter Yi Dzha
+16F31: Miao ตัวอักษร Yi Dzha
 16F32: จดหมาย Miao ปฏิรูป Tsha
 16F33: แม้วจดหมาย Sha
-16F34: Miao Letter Ssa
-16F35: Miao Letter Zha
+16F34: Miao ตัวอักษร Ssa
+16F35: Miao ตัวอักษร Zha
 16F36: แม้วจดหมาย Zsha
 16F37: แม้วจดหมาย Tsa
-16F38: Miao Letter Dza
+16F38: Miao ตัวอักษร Dza
 16F39: แม้วจดหมาย Yi Tsa
-16F3A: Miao Letter Sa
-16F3B: Miao Letter Za
-16F3C: Miao Letter Zsa
-16F3D: Miao Letter Zza
-16F3E: Miao Letter Zzsa
-16F3F: Miao Letter Archaic Zza
-16F40: Miao Letter Zzya
-16F41: Miao Letter Zzsya
+16F3A: Miao ตัวอักษร Sa
+16F3B: Miao ตัวอักษร Za
+16F3C: Miao ตัวอักษร Zsa
+16F3D: Miao ตัวอักษร Zza
+16F3E: Miao ตัวอักษร Zzsa
+16F3F: Miao ตัวอักษร Archaic Zza
+16F40: Miao ตัวอักษร Zzya
+16F41: Miao ตัวอักษร Zzsya
 16F42: แม้วจดหมายหว้า
 16F43: แม้วจดหมายอา
 16F44: แม้วจดหมาย Hha
-16F45:
-16F46:
-16F47:
-16F48:
-16F49:
-16F4A:
+16F45: Miao ตัวอักษร Bri
+16F46: Miao ตัวอักษร Syi
+16F47: Miao ตัวอักษร Dzyi
+16F48: Miao ตัวอักษร Te
+16F49: Miao ตัวอักษร Tse
+16F4A: Miao ตัวอักษร Rte
 16F4B:
 16F4C:
 16F4D:
 16F4E:
-16F4F:
-16F50: Miao Letter Nasalization
-16F51: Miao Sign Aspiration
-16F52: Miao Sign Reformed Voicing
-16F53: Miao Sign Reformed Aspiration
-16F54: Miao Vowel Sign A
-16F55: Miao Vowel Sign Aa
-16F56: Miao Vowel Sign Ahh
-16F57: Miao Vowel Sign An
-16F58: Miao Vowel Sign Ang
-16F59: Miao Vowel Sign O
-16F5A: Miao Vowel Sign Oo
-16F5B: Miao Vowel Sign Wo
-16F5C: Miao Vowel Sign W
-16F5D: Miao Vowel Sign E
-16F5E: Miao Vowel Sign En
-16F5F: Miao Vowel Sign Eng
-16F60: Miao Vowel Sign Oey
-16F61: Miao Vowel Sign I
-16F62: Miao Vowel Sign Ia
-16F63: Miao Vowel Sign Ian
-16F64: Miao Vowel Sign Iang
-16F65: Miao Vowel Sign Io
-16F66: Miao Vowel Sign Ie
-16F67: Miao Vowel Sign Ii
-16F68: Miao Vowel Sign Iu
-16F69: Miao Vowel Sign Ing
-16F6A: Miao Vowel Sign U
-16F6B: Miao Vowel Sign Ua
-16F6C: Miao Vowel Sign Uan
-16F6D: Miao Vowel Sign Uang
-16F6E: Miao Vowel Sign Uu
-16F6F: Miao Vowel Sign Uei
-16F70: Miao Vowel Sign Ung
-16F71: Miao Vowel Sign Y
-16F72: Miao Vowel Sign Yi
-16F73: Miao Vowel Sign Ae
-16F74: Miao Vowel Sign Aee
-16F75: Miao Vowel Sign Err
-16F76: Miao Vowel Sign Rounded Err
-16F77: Miao Vowel Sign Er
-16F78: Miao Vowel Sign Rounded Er
-16F79: Miao Vowel Sign Ai
-16F7A: Miao Vowel Sign Ei
-16F7B: Miao Vowel Sign Au
-16F7C: Miao Vowel Sign Ou
-16F7D: Miao Vowel Sign N
-16F7E: Miao Vowel Sign Ng
-16F7F:
-16F80:
-16F81:
-16F82:
-16F83:
-16F84:
-16F85:
-16F86:
-16F87:
+16F4F: Miao เครื่องหมาย แถบโมดิฟายเออร์บาร์
+16F50: Miao ตัวอักษร การพูดขึ้นจมูก
+16F51: Miao เครื่องหมาย ความทะเยอทะยาน
+16F52: Miao เครื่องหมาย กลับเนื้อกลับตัว ออกเสียง
+16F53: Miao เครื่องหมาย กลับเนื้อกลับตัว ความทะเยอทะยาน
+16F54: Miao สระ เครื่องหมาย A
+16F55: Miao สระ เครื่องหมาย Aa
+16F56: Miao สระ เครื่องหมาย Ahh
+16F57: Miao สระ เครื่องหมาย An
+16F58: Miao สระ เครื่องหมาย Ang
+16F59: Miao สระ เครื่องหมาย O
+16F5A: Miao สระ เครื่องหมาย Oo
+16F5B: Miao สระ เครื่องหมาย Wo
+16F5C: Miao สระ เครื่องหมาย W
+16F5D: Miao สระ เครื่องหมาย E
+16F5E: Miao สระ เครื่องหมาย En
+16F5F: Miao สระ เครื่องหมาย Eng
+16F60: Miao สระ เครื่องหมาย Oey
+16F61: Miao สระ เครื่องหมาย I
+16F62: Miao สระ เครื่องหมาย Ia
+16F63: Miao สระ เครื่องหมาย Ian
+16F64: Miao สระ เครื่องหมาย Iang
+16F65: Miao สระ เครื่องหมาย Io
+16F66: Miao สระ เครื่องหมาย Ie
+16F67: Miao สระ เครื่องหมาย Ii
+16F68: Miao สระ เครื่องหมาย Iu
+16F69: Miao สระ เครื่องหมาย Ing
+16F6A: Miao สระ เครื่องหมาย U
+16F6B: Miao สระ เครื่องหมาย Ua
+16F6C: Miao สระ เครื่องหมาย Uan
+16F6D: Miao สระ เครื่องหมาย Uang
+16F6E: Miao สระ เครื่องหมาย Uu
+16F6F: Miao สระ เครื่องหมาย Uei
+16F70: Miao สระ เครื่องหมาย Ung
+16F71: Miao สระ เครื่องหมาย Y
+16F72: Miao สระ เครื่องหมาย Yi
+16F73: Miao สระ เครื่องหมาย Ae
+16F74: Miao สระ เครื่องหมาย Aee
+16F75: Miao สระ เครื่องหมาย Err
+16F76: Miao สระ เครื่องหมาย Rounded Err
+16F77: Miao สระ เครื่องหมาย Er
+16F78: Miao สระ เครื่องหมาย Rounded Er
+16F79: Miao สระ เครื่องหมาย Ai
+16F7A: Miao สระ เครื่องหมาย Ei
+16F7B: Miao สระ เครื่องหมาย Au
+16F7C: Miao สระ เครื่องหมาย Ou
+16F7D: Miao สระ เครื่องหมาย N
+16F7E: Miao สระ เครื่องหมาย Ng
+16F7F: Miao สระ เครื่องหมาย Uog
+16F80: Miao สระ เครื่องหมาย Yui
+16F81: Miao สระ เครื่องหมาย Og
+16F82: Miao สระ เครื่องหมาย Oer
+16F83: Miao สระ เครื่องหมาย Vw
+16F84: Miao สระ เครื่องหมาย Ig
+16F85: Miao สระ เครื่องหมาย Ea
+16F86: Miao สระ เครื่องหมาย Iong
+16F87: Miao สระ เครื่องหมาย Ui
 16F88:
 16F89:
 16F8A:
@@ -141,23 +141,23 @@
 16F8C:
 16F8D:
 16F8E:
-16F8F: Miao Tone Tone
-16F90: Miao Tone Top ขวา
-16F91: Miao Tone ข้างบน
-16F92: Miao Tone ด้านล่าง
-16F93: Miao Letter Tone-2
-16F94: Miao Letter Tone-3
-16F95: Miao Letter Tone-4
-16F96: Miao Letter Tone-5
-16F97: Miao Letter Tone-6
-16F98: Miao Letter Tone-7
-16F99: Miao Letter Tone-8
-16F9A: Miao Letter Reformed Tone-1
-16F9B: Miao Letter Reformed Tone-2
-16F9C: Miao Letter Reformed Tone-4
-16F9D: Miao Letter Reformed Tone-5
-16F9E: Miao Letter Reformed Tone-6
-16F9F: Miao Letter Reformed Tone-8
+16F8F: Miao โทน โทน
+16F90: Miao โทน ด้านบน ขวา
+16F91: Miao โทน ข้างบน
+16F92: Miao โทน ด้านล่าง
+16F93: Miao ตัวอักษร โทน-2
+16F94: Miao ตัวอักษร โทน-3
+16F95: Miao ตัวอักษร โทน-4
+16F96: Miao ตัวอักษร โทน-5
+16F97: Miao ตัวอักษร โทน-6
+16F98: Miao ตัวอักษร โทน-7
+16F99: Miao ตัวอักษร โทน-8
+16F9A: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-1
+16F9B: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-2
+16F9C: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-4
+16F9D: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-5
+16F9E: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-6
+16F9F: Miao ตัวอักษร กลับเนื้อกลับตัว โทน-8
 16FA0:
 16FA1:
 16FA2:
@@ -222,24 +222,24 @@
 16FDD:
 16FDE:
 16FDF:
-16FE0: ทำเครื่องหมายซ้ำ Tangut
-16FE1: Mark Iteration ของ Nushu
-16FE2:
-16FE3:
-16FE4:
-16FE5:
-16FE6:
-16FE7:
-16FE8:
-16FE9:
-16FEA:
-16FEB:
-16FEC:
-16FED:
-16FEE:
-16FEF:
-16FF0:
-16FF1:
+16FE0: ทำเครื่องหมายซ้ำ ตันกุต
+16FE1: เครื่องหมาย การย้ำ ของ อักษรหนี่ว์ซู
+16FE2: เครื่องหมายตะขอจีนโบราณ
+16FE3: เครื่องหมายการทำซ้ำจีนโบราณ
+16FE4: ฟิลเตอร์สคริปต์เล็กตาน
+16FE5: 
+16FE6: 
+16FE7: 
+16FE8: 
+16FE9: 
+16FEA: 
+16FEB: 
+16FEC: 
+16FED: 
+16FEE: 
+16FEF: 
+16FF0: เครื่องหมายการอ่านสำรองของเวียดนาม Ca
+16FF1: เครื่องหมายการอ่านสำรองของเวียดนาม Nhay
 16FF2:
 16FF3:
 16FF4:
@@ -253,4 +253,4 @@
 16FFC:
 16FFD:
 16FFE:
-16FFF:
+16FFF:

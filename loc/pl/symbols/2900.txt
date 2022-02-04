@@ -1,11 +1,11 @@
-2900: Dwugłowa strzałka w prawo z pionowym skokiem : notacja częściowa z notacją z
-2901: Dwugłowa strzałka w prawo z podwójnym skokiem pionowym : notacja skończona notacja skończona
+2900: Dwugłowa strzałka w prawo z pionowym skokiem: notacja częściowa z notacją z
+2901: Dwugłowa strzałka w prawo z podwójnym skokiem pionowym: notacja skończona notacja skończona
 2902: Podwójna strzałka z lewej strony z pionowym skokiem
 2903: Podwójna strzałka w prawo z pionowym skokiem
 2904: Lewa prawa podwójna strzałka z pionowym skokiem
-2905: Dwugłowa strzałka w prawo z paska : mapy do
-2906: Podwójne strzały od lewej strony : mapy z
-2907: Podwójna strzałka w prawo od paska : mapy do
+2905: Dwugłowa strzałka w prawo z paska: mapy do
+2906: Podwójne strzały od lewej strony: mapy z
+2907: Podwójna strzałka w prawo od paska: mapy do
 2908: Strzałka w dół ze skokiem poziomym
 2909: Strzałka w górę z obrysem poziomym
 290A: W górę Potrójna strzałka
@@ -18,11 +18,11 @@
 2911: Strzałka w prawo z kropkowanym trzonem
 2912: Strzałka w górę do paska
 2913: Strzałka w dół do paska
-2914: Strzałka w prawo z ogonem z pionowym skokiem : z notacja częściowa wtrysk
-2915: Strzałka w prawo z ogonem z podwójnym skokiem pionowym : notacja skończona z notacją
-2916: Dwugłowa strzałka w prawo z ogonem : mapowanie bijective : bije z notacji z
-2917: Dwugłowa strzałka w prawo z ogonem z pionowym skokiem : z notacja wtryskowa
-2918: Dwugłowa strzałka w prawo z ogonem z podwójnym pionowym skokiem : notacja z skończoną iniekcją przerywaną
+2914: Strzałka w prawo z ogonem z pionowym skokiem: z notacja częściowa wtrysk
+2915: Strzałka w prawo z ogonem z podwójnym skokiem pionowym: notacja skończona z notacją
+2916: Dwugłowa strzałka w prawo z ogonem: mapowanie bijective , bije z notacji z
+2917: Dwugłowa strzałka w prawo z ogonem z pionowym skokiem: z notacja wtryskowa
+2918: Dwugłowa strzałka w prawo z ogonem z podwójnym pionowym skokiem: notacja z skończoną iniekcją przerywaną
 2919: Leftwards Arrow-Tail
 291A: Strzałka w prawo - ogon
 291B: Podwójne strzały z lewej strony
@@ -212,23 +212,23 @@
 29D3: Czarna muszka
 29D4: Czasy z lewą połową czerni
 29D5: Czasy z prawą połową czerni
-29D6: Biała klepsydra : pionowa muszka : biały framus
+29D6: Biała klepsydra: pionowa muszka , biały framus
 29D7: Czarna klepsydra
 29D8: Opuścił Wiggly Fence
 29D9: Prawe Wiggly Fence
 29DA: Lewy podwójny Wiggly Fence
 29DB: Prawe podwójne Wiggly Fence
-29DC: Niekompletna nieskończoność : isotech entity & iinfin;
+29DC: Niekompletna nieskończoność: isotech entity & iinfin,
 29DD: Tie Over Infinity
 29DE: Nieskończoność zanegowana z pionowym paskiem
 29DF: Multimap podwójnie zakończony
-29E0: Kwadrat z konturowanym konturem : d'alembertian
+29E0: Kwadrat z konturowanym konturem: d'alembertian
 29E1: Zwiększa As
 29E2: Shuffle Product
 29E3: Równy znak i ukośny równoległy
 29E4: Równy znak i ukośny równoległy z Tilde Above
 29E5: Identyczne do i skośne równoległe
-29E6: Gleich Stark : ekwiwalent tautologiczny
+29E6: Gleich Stark: ekwiwalent tautologiczny
 29E7: Termodynamiczny
 29E8: Trójkąt skierowany w dół z lewą połową czerni
 29E9: Trójkąt skierowany w dół z prawą połową czerni
@@ -242,12 +242,12 @@
 29F1: Zakrwawiony Czarny Diament
 29F2: Zakreślony błędem biały okrąg
 29F3: Zakreślony błędem czarny krąg
-29F4: Opóźniona reguła : dwukropek prawa strzałka
+29F4: Opóźniona reguła: dwukropek prawa strzałka
 29F5: Reverse Solidus Operator
 29F6: Solidus z Overbar
 29F7: Odwrotny Solidus z poziomym skokiem
 29F8: Big Solidus
-29F9: Big Reverse Solidus : ukrywanie schematu notacji z
+29F9: Big Reverse Solidus: ukrywanie schematu notacji z
 29FA: Double Plus
 29FB: Triple Plus
 29FC: Zakrzywiony lewy wspornik kątowy

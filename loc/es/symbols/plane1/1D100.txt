@@ -56,15 +56,15 @@
 1D137: Símbolo musical Ottava Bassa
 1D138: Símbolo musical de quindicesima alta
 1D139: Símbolo musical de quindicesima bassa
-1D13A: Símbolo musical multi resto : Doble descanso completo, breve descanso.
-1D13B: Símbolo musical todo el descanso : descanso semibreve
-1D13C: Símbolo musical medio descanso : descanso mínimo
-1D13D: Símbolo musical cuarto descanso : resto de ganchillo
-1D13E: Símbolo musical Octavo Reposo : tembloroso descanso
-1D13F: Símbolo musical decimosexto resto : semicorchea descanso
-1D140: Símbolo musical del descanso treinta y segundo : demisemiquaver resto
-1D141: Símbolo musical sesenta y cuatro restos : hemidemisemiquaver resto, semidemisemiquaver resto
-1D142: Símbolo musical de ciento veintiocho restos : semihemidemisemiquaver resto, quasihemidemisemiquaver resto
+1D13A: Símbolo musical multi resto: Doble descanso completo, breve descanso.
+1D13B: Símbolo musical todo el descanso: descanso semibreve
+1D13C: Símbolo musical medio descanso: descanso mínimo
+1D13D: Símbolo musical cuarto descanso: resto de ganchillo
+1D13E: Símbolo musical Octavo Reposo: tembloroso descanso
+1D13F: Símbolo musical decimosexto resto: semicorchea descanso
+1D140: Símbolo musical del descanso treinta y segundo: demisemiquaver resto
+1D141: Símbolo musical sesenta y cuatro restos: hemidemisemiquaver resto, semidemisemiquaver resto
+1D142: Símbolo musical de ciento veintiocho restos: semihemidemisemiquaver resto, quasihemidemisemiquaver resto
 1D143: Símbolo musical X Notehead
 1D144: Símbolo musical más nota
 1D145: Círculo de símbolo musical X
@@ -91,14 +91,14 @@
 1D15A: Símbolo musical Cluster Bloc de notas Blanco
 1D15B: Símbolo musical Cluster Notehead Black
 1D15C: Símbolo musical Breve
-1D15D: Símbolo Musical Nota Entera : semibreve
-1D15E: Símbolo musical media nota : blanca
-1D15F: Símbolo musical cuarto nota : negra
-1D160: Símbolo musical octava nota : temblor
-1D161: Símbolo musical decimosexta nota : semicorchea
-1D162: Símbolo musical nota treinta y dos : demisemiquaver
-1D163: Símbolo musical sesenta y cuatro notas : hemidemisemiquaver, semidemisemiquaver
-1D164: Símbolo musical de ciento veintiocho notas : semihemidemisemiquaver, quasihemidemisemiquaver
+1D15D: Símbolo Musical Nota Entera: semibreve
+1D15E: Símbolo musical media nota: blanca
+1D15F: Símbolo musical cuarto nota: negra
+1D160: Símbolo musical octava nota: temblor
+1D161: Símbolo musical decimosexta nota: semicorchea
+1D162: Símbolo musical nota treinta y dos: demisemiquaver
+1D163: Símbolo musical sesenta y cuatro notas: hemidemisemiquaver, semidemisemiquaver
+1D164: Símbolo musical de ciento veintiocho notas: semihemidemisemiquaver, quasihemidemisemiquaver
 1D165: Símbolo musical combinando tallo
 1D166: Símbolo musical que combina el tallo de Sprechgesang
 1D167: Simbolo Musical Combinando Tremolo-1
@@ -253,4 +253,4 @@
 1D1FC:
 1D1FD:
 1D1FE:
-1D1FF:
+1D1FF:

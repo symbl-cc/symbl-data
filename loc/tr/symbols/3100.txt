@@ -98,7 +98,7 @@
 3161: Hangul Mektubu Eu
 3162: Hangul Mektubu Yi
 3163: Hangul Mektubu I
-3164: Hangul Filler : chaeum
+3164: Hangul Filler: chaeum
 3165: Hangul Mektubu Ssangnieun
 3166: Hangul Mektubu Nieun-Tikeut
 3167: Hangul Mektubu Nieun-Sios
@@ -126,7 +126,7 @@
 317D: Hangul Mektubu Sios-Pieup
 317E: Hangul Mektubu Sios-Cieuc
 317F: Hangul Mektup Pansios
-3180: Hangul Mektup Ssangieung : ssangyesieung
+3180: Hangul Mektup Ssangieung: ssangyesieung
 3181: Hangul Mektubu Yesieung
 3182: Hangul Mektubu Yesieung-Sios
 3183: Hangul Mektubu Yesieung-Pansios
@@ -142,8 +142,8 @@
 318D: Hangul Mektubu Araea
 318E: Hangul Mektubu Araeae
 318F:
-3190: İdeografik Açıklama Bağlama İşareti : tateten
-3191: İdeografik Ek Açıklama Ters Markası : Kaeriten yeniden
+3190: İdeografik Açıklama Bağlama İşareti: tateten
+3191: İdeografik Ek Açıklama Ters Markası: Kaeriten yeniden
 3192: İdeografik Ek Açıklama Bir İşaret
 3193: İdeografik Ek Açıklama İki Mark
 3194: İdeografik Ek Açıklama Üç Mark
@@ -178,18 +178,18 @@
 31B1: Bopomofo Mektup Om
 31B2: Bopomofo Mektup Ong
 31B3: Bopomofo Mektup Innn
-31B4: Bopomofo Son Harf P
+31B4: Bopomofo Son harf P
 31B5: Bopomofo Son Harf T
 31B6: Bopomofo Son Harf K
 31B7: Bopomofo Son Harf H
 31B8: Bopomofo Mektubu Gh
 31B9: Bopomofo Mektup Lh
 31BA: Bopomofo Mektup Zy
-31BB:
-31BC:
-31BD:
-31BE:
-31BF:
+31BB: Bopomofo final harf G
+31BC: Bopomofo harf Gw
+31BD: Bopomofo harf Kw
+31BE: Bopomofo harf Oe
+31BF: Bopomofo harf Ah
 31C0: Cjk İnme T
 31C1: Cjk İnme Wg
 31C2: Cjk İnme Xg

@@ -74,15 +74,15 @@
 10849: Cesarski list aramejski
 1084A: Cesarski list aramejski Kaph
 1084B: Imperialny aramejski list Lamedh
-1084C: Imperial Aramaic Letter Mem
+1084C: Imperial Aramaic litera Mem
 1084D: Cesarska Aramejska Listowa Zakonnica
 1084E: Cesarski list aramejski Samekh
 1084F: Cesarski list aramejski Ayin
 10850: Imperialna aramejska litera Pe
 10851: Cesarski list aramejski Sadhe
-10852: Imperial Aramaic Letter Qoph
+10852: Imperial Aramaic litera Qoph
 10853: Imperialna aramejska litera Resh
-10854: Imperial Aramaic Letter Shin
+10854: Imperial Aramaic litera Shin
 10855: Cesarski list aramejski Taw
 10856:
 10857: Znak sekcji aramejskiej
@@ -94,43 +94,43 @@
 1085D: Cesarska aramejska liczba sto
 1085E: Imperialny aramejski numer jeden tysiąc
 1085F: Imperialna liczba aramejska Dziesięć tysięcy
-10860: Palmyrene Letter Aleph
-10861: Palmyrene Letter Beth
-10862: Palmyrene Letter Gimel
-10863: Palmyrene Letter Daleth
+10860: Palmyrene litera Aleph
+10861: Palmyrene litera Beth
+10862: Palmyrene litera Gimel
+10863: Palmyrene litera Daleth
 10864: Palmyrene List On
-10865: Palmyrene Letter Waw
-10866: Palmyrene Letter Zayin
-10867: Palmyrene Letter Heth
-10868: Palmyrene Letter Teth
-10869: Palmyrene Letter Yodh
-1086A: Palmyrene Letter Kaph
-1086B: Palmyrene Letter Lamedh
-1086C: Palmyrene Letter Mem
-1086D: Palmyrene Letter Final Nun
-1086E: Palmyrene Letter Nun
+10865: Palmyrene litera Waw
+10866: Palmyrene litera Zayin
+10867: Palmyrene litera Heth
+10868: Palmyrene litera Teth
+10869: Palmyrene litera Yodh
+1086A: Palmyrene litera Kaph
+1086B: Palmyrene litera Lamedh
+1086C: Palmyrene litera Mem
+1086D: Palmyrene litera Final Nun
+1086E: Palmyrene litera Nun
 1086F: Palmyrene List Samekh
-10870: Palmyrene Letter Ayin
-10871: Palmyrene Letter Pe
-10872: Palmyrene Letter Sadhe
-10873: Palmyrene Letter Qoph
-10874: Palmyrene Letter Resh
-10875: Palmyrene Letter Shin
-10876: Palmyrene Letter Taw
+10870: Palmyrene litera Ayin
+10871: Palmyrene litera Pe
+10872: Palmyrene litera Sadhe
+10873: Palmyrene litera Qoph
+10874: Palmyrene litera Resh
+10875: Palmyrene litera Shin
+10876: Palmyrene litera Taw
 10877: Palmyrene Left-Pointing Fleuron
 10878: Palmyrene Right-Pointing Fleuron
-10879: Palmyrene Number One
-1087A: Palmyrene Number Two
+10879: Palmyrene numer One
+1087A: Palmyrene numer Two
 1087B: Palmyrene Numer Trzy
-1087C: Palmyrene Number Four
-1087D: Palmyrene Number Five
-1087E: Palmyrene Number Ten
-1087F: Palmyrene Number Twenty
-10880: Nabataean Letter Final Aleph
-10881: Nabataean Letter Aleph
+1087C: Palmyrene numer Four
+1087D: Palmyrene numer Five
+1087E: Palmyrene numer Ten
+1087F: Palmyrene numer Twenty
+10880: Nabataean litera Final Aleph
+10881: Nabataean litera Aleph
 10882: Nabataean List Final Beth
 10883: Nabataean List Beth
-10884: Nabataean Letter Gimel
+10884: Nabataean litera Gimel
 10885: Nabataean List Daleth
 10886: Nabataean List Final On
 10887: Nabataean List On
@@ -143,19 +143,19 @@
 1088E: Nabataean List Final Kaph
 1088F: Nabataean List Kaph
 10890: List Nabataean Final Lamedh
-10891: Nabataean Letter Lamedh
-10892: Nabataean Letter Final Mem
-10893: Nabataean Letter Mem
-10894: Nabataean Letter Final Nun
-10895: Nabataean Letter Nun
+10891: Nabataean litera Lamedh
+10892: Nabataean litera Final Mem
+10893: Nabataean litera Mem
+10894: Nabataean litera Final Nun
+10895: Nabataean litera Nun
 10896: Nabataean List Samekh
 10897: Nabatejski list Ayin
-10898: Nabataean Letter Pe
+10898: Nabataean litera Pe
 10899: Nabataean List Sadhe
-1089A: Nabataean Letter Qoph
-1089B: Nabataean Letter Resh
-1089C: Nabataean Letter Final Shin
-1089D: Nabataean Letter Shin
+1089A: Nabataean litera Qoph
+1089B: Nabataean litera Resh
+1089C: Nabataean litera Final Shin
+1089D: Nabataean litera Shin
 1089E: Nabataean List Taw
 1089F:
 108A0:
@@ -169,11 +169,11 @@
 108A8: Nabataean numer dwa
 108A9: Nabataean numer trzy
 108AA: Nabataean numer cztery
-108AB: Nabataean Cruciform Number Four
+108AB: Nabataean Cruciform numer Four
 108AC: Nabataean numer pięć
 108AD: Nabataean numer dziesięć
 108AE: Nabataean Numer 20
-108AF: Nabataean Number One Hundred
+108AF: Nabataean numer One Hundred
 108B0:
 108B1:
 108B2:
@@ -222,35 +222,35 @@
 108DD:
 108DE:
 108DF:
-108E0: Hatran Litera Aleph
-108E1: Hatran Letter Beth
-108E2: Hatran Letter Gimel
-108E3: Hatran List Daleth-Resh
-108E4: Hatran List On
-108E5: Hatran Letter Waw
-108E6: Hatran List Zayn
-108E7: Hatran List Heth
-108E8: Hatran Letter Teth
-108E9: Hatran List Yodh
-108EA: Hatran List Kaph
-108EB: Hatran Letter Lamedh
-108EC: Hatran Letter Mem
-108ED: Hatran Letter Nun
-108EE: Hatran List Samekh
-108EF: Hatran List Ayn
-108F0: Hatran Letter Pe
-108F1: Hatran List Sadhe
-108F2: Hatran Letter Qoph
+108E0: Hatran litera Aleph
+108E1: Hatran litera Beth
+108E2: Hatran litera Gimel
+108E3: Hatran litera Daleth-Resh
+108E4: Hatran litera He
+108E5: Hatran litera Waw
+108E6: Hatran litera Zayn
+108E7: Hatran litera Heth
+108E8: Hatran litera Teth
+108E9: Hatran litera Yodh
+108EA: Hatran litera Kaph
+108EB: Hatran litera Lamedh
+108EC: Hatran litera Mem
+108ED: Hatran litera Nun
+108EE: Hatran litera Samekh
+108EF: Hatran litera Ayn
+108F0: Hatran litera Pe
+108F1: Hatran litera Sadhe
+108F2: Hatran litera Qoph
 108F3:
-108F4: Hatran Letter Shin
-108F5: Hatran Letter Taw
+108F4: Hatran litera Shin
+108F5: Hatran litera Taw
 108F6:
 108F7:
 108F8:
 108F9:
 108FA:
-108FB: Hatran Number One
+108FB: Hatran numer jeden
 108FC: Hatran numer pięć
 108FD: Hatran numer dziesięć
-108FE: Hatran Numer 20
-108FF: Hatran Number One Hundred
+108FE: Hatran numer dwadzieścia
+108FF: Hatran numer sto

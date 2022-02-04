@@ -5,7 +5,7 @@
 2A04: Plus ile N-Ary Birliği Operatörü
 2A05: N-Ary Kare Kavşak Operatörü
 2A06: N-Ary Meydanı Birliği Operatörü
-2A07: İki Mantıksal ve Operatör : birleşmek
+2A07: İki Mantıksal ve Operatör: birleşmek
 2A08: İki Mantıksal veya Operatör
 2A09: N-Ary Times Operatörü
 2A0A: Modulo İki Toplamı
@@ -25,19 +25,19 @@
 2A18: Times Sign ile İntegral
 2A19: Kavşaklı İntegral
 2A1A: Birliği ile entegral
-2A1B: Üst Çubuklu İntegral : üst integral
-2A1C: Underbar ile İntegral : alt integral
-2A1D: Katılmak : büyük papyon
+2A1B: Üst Çubuklu İntegral: üst integral
+2A1C: Underbar ile İntegral: alt integral
+2A1D: Katılmak: büyük papyon
 2A1E: Büyük Sol Üçgen Operatörü
 2A1F: Z Notasyon Şeması Kompozisyonu
 2A20: Z Notasyon Şeması Borulaması
 2A21: Z Notasyonu Şema Projeksiyonu
 2A22: Küçük işareti üstündeki artı işareti
 2A23: Circumflex Accent yukarıdaki işaretiyle artı işareti
-2A24: Artı işareti ile Tilde yukarıda : olumlu fark veya toplam
+2A24: Artı işareti ile Tilde yukarıda: olumlu fark veya toplam
 2A25: Artı Nokta ile artı işareti
-2A26: Tilde ile artı işareti : toplam veya pozitif fark
-2A27: Abonelik 2 ile birlikte Artı İşareti : niml-ilaveli
+2A26: Tilde ile artı işareti: toplam veya pozitif fark
+2A27: Abonelik 2 ile birlikte Artı İşareti: niml-ilaveli
 2A28: Siyah Üçgen Artı işareti
 2A29: Yukarıdaki virgül eksi işareti
 2A2A: Nokta ile eksi işareti
@@ -63,7 +63,7 @@
 2A3E: Z Notasyonu İlişkisel Kompozisyonu
 2A3F: Amalgamation veya Coproduct
 2A40: Dot ile kesişme
-2A41: Eksi işareti ile Birliği : z notasyon torbası çıkarma
+2A41: Eksi işareti ile Birliği: z notasyon torbası çıkarma
 2A42: Overbarlı Birlik
 2A43: Overbar ile kesişme
 2A44: Mantıksal ve Kavşak
@@ -102,7 +102,7 @@
 2A65: Z Notasyon Aralığı Antirestriction
 2A66: Nokta ile eşittir işareti
 2A67: Yukarıdaki Nokta ile özdeş
-2A68: Çift Dikey Stroklu Üçlü Yatay Çubuk : özdeş ve paralel
+2A68: Çift Dikey Stroklu Üçlü Yatay Çubuk: özdeş ve paralel
 2A69: Üçlü Dikey Stroklu Üçlü Yatay Çubuk
 2A6A: Nokta Üstü ile Tilde Operatörü
 2A6B: Yükselen Noktalı Tilde Operatörü
@@ -159,7 +159,7 @@
 2A9E: Benzer veya Büyük
 2A9F: Yukarıdakilerden Daha Az Üstü Benzer
 2AA0: Üstü Üstü Üstü Üstüne Benzer İşaret
-2AA1: Çift İç içe Daha Az : mutlak süreklilik
+2AA1: Çift İç içe Daha Az: mutlak süreklilik
 2AA2: Çift İç içe Büyüktür
 2AA3: Underbarlı Çift İç içe Daha Az
 2AA4: Örtüşen Büyüktür
@@ -218,13 +218,13 @@
 2AD9: Aşağıya Açılma Elemanı
 2ADA: Tee Top ile dirgen
 2ADB: Enine Kavşak
-2ADC: çatallamak : bağımsız değil
-2ADD: Nonforking : bağımsız
+2ADC: çatallamak: bağımsız değil
+2ADD: Nonforking: bağımsız
 2ADE: Kısa Sol Tack
 2ADF: Kısa Aşağı Tack
 2AE0: Kısa Tack
 2AE1: S ile dikey
-2AE2: Dikey Çubuk Üçlü Sağ Turnike : normalde tatmin edici
+2AE2: Dikey Çubuk Üçlü Sağ Turnike: normalde tatmin edici
 2AE3: Çift Dikey Çubuk Sol Turnike
 2AE4: Dikey Çubuk Çift Sol Turnike
 2AE5: Çift Dikey Çubuk Çift Sol Turnike
@@ -233,16 +233,16 @@
 2AE8: Underbar ile Kısa Yukarı Tack
 2AE9: Kısa Tack Üstü Kısa Tack Üstü
 2AEA: Çift Aşağı Tack
-2AEB: İkiye Katlama : bağımsızlık
+2AEB: İkiye Katlama: bağımsızlık
 2AEC: Çift zamanlı değil işareti
 2AED: Tersine Dönmüş Çift İnme İşareti Değil
 2AEE: Ters Olumsuz Olumsuz Olma Payı İle Bölünmüyor
 2AEF: Yukarıdaki dairenin bulunduğu dikey çizgi
 2AF0: Aşağıdaki dairenin bulunduğu dikey çizgi
-2AF1: Aşağıdaki Daire ile Aşağı Tack : mutlaka tatmin eder
+2AF1: Aşağıdaki Daire ile Aşağı Tack: mutlaka tatmin eder
 2AF2: Yatay İnme ile Paralel
 2AF3: Tilde Operatörü ile Paralel
-2AF4: Üçlü Dikey Çubuk İkili İlişki : boş sayfa eklemek
+2AF4: Üçlü Dikey Çubuk İkili İlişki: boş sayfa eklemek
 2AF5: Yatay Stroklu Üçlü Dikey Çubuk
 2AF6: Üçlü Kolon Operatörü
 2AF7: Üçlü İç İçe Az
@@ -252,5 +252,5 @@
 2AFB: Üçlü Solidus İkili İlişki
 2AFC: Büyük Üçlü Dikey Çubuk Operatörü
 2AFD: Çift katı operatör
-2AFE: Beyaz Dikey Çubuk : dijkstra seçim
-2AFF: N-Ary Beyaz Dikey Çubuk : n-ary dijkstra seçim
+2AFE: Beyaz Dikey Çubuk: dijkstra seçim
+2AFF: N-Ary Beyaz Dikey Çubuk: n-ary dijkstra seçim

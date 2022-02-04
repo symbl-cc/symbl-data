@@ -1,3 +1,5 @@
+hide: Wegpacken
+show: Aufweisen
 up: Hinauf
 range: Bereich
 loading: Laden, bitte warten…
@@ -15,7 +17,14 @@ share-link: Teilen
 # @todo recent-text
 read-more: Weiterlesen
 read-less: Verbergen
+homepage: Startseite
 
+copied: Kopiert!
+see_also: Siehe auch
+cookie-message: Diese Seite verwendet 🍪cookie, um Ihnen die bestmögliche Erfahrung zu bieten.
+accept: Akzeptieren
+empty-cell: Leere Zelle
+page_content_menu: Ordnerverzeichnis
 [mobile]
 to-full: Zur Vollversion
 # @todo to-mobile

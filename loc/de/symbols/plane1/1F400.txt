@@ -2,7 +2,7 @@
 1F401: Maus
 1F402: Ochse
 1F403: Wasserbüffel
-1F404: Kuh : Rindfleisch (auf Menüs)
+1F404: Kuh: Rindfleisch (auf Menüs)
 1F405: Tiger
 1F406: Leopard
 1F407: Hase
@@ -17,10 +17,10 @@
 1F410: Ziege
 1F411: Schaf
 1F412: Affe
-1F413: Hahn : Schwanz
-1F414: Hähnchen : Henne : Geflügel (auf Menüs)
+1F413: Hahn: Schwanz
+1F414: Hähnchen: Henne , Geflügel (auf Menüs)
 1F415: Hund
-1F416: Schwein : Schweinefleisch (auf Menüs) : Neues Jahr-Symbol 2019, Tierkreistier 2019
+1F416: Schwein: Schweinefleisch (auf Menüs) , Neues Jahr-Symbol 2019, Tierkreistier 2019
 1F417: Eber
 1F418: Elefant
 1F419: Tintenfisch
@@ -28,7 +28,7 @@
 1F41B: Fehler
 1F41C: Ameise
 1F41D: Honigbiene
-1F41E: Marienkäfer : Marienkäfer, Marienkäfer, Coccinelliden
+1F41E: Marienkäfer: Marienkäfer, Marienkäfer, Coccinelliden
 1F41F: Fisch
 1F420: Tropischer Fisch
 1F421: Kugelfisch
@@ -53,17 +53,17 @@
 1F434: Pferdegesicht
 1F435: Affengesicht
 1F436: Hundegesicht
-1F437: Schweinegesicht : Neues Jahr-Symbol 2019, Tierkreistier 2019
+1F437: Schweinegesicht: Neues Jahr-Symbol 2019, Tierkreistier 2019
 1F438: Froschgesicht
 1F439: Hamstergesicht
 1F43A: Wolfsgesicht
 1F43B: Gesicht tragen
 1F43C: Panda-Gesicht
-1F43D: Schweinenase : Neues Jahr-Symbol 2019, Tierkreistier 2019
+1F43D: Schweinenase: Neues Jahr-Symbol 2019, Tierkreistier 2019
 1F43E: Pfotenabdrücke
-1F43F: Streifenhörnchen : Tier, Lebewesen
+1F43F: Streifenhörnchen: Tier, Lebewesen
 1F440: Augen
-1F441: Auge : Sicht
+1F441: Auge: Sicht
 1F442: Ohr
 1F443: Nase
 1F444: Mund
@@ -72,7 +72,7 @@
 1F447: Weißer nach unten zeigender Rückhandindex
 1F448: Weißer linker zeigender Rückhandindex
 1F449: Weißer rechter zeigender Rückhandindex
-1F44A: Faust-Handzeichen : schlagen
+1F44A: Faust-Handzeichen: schlagen
 1F44B: Handzeichen winken
 1F44C: Ok Handzeichen
 1F44D: Daumen hoch Zeichen
@@ -93,23 +93,23 @@
 1F45C: Handtasche
 1F45D: Beutel
 1F45E: Mans Schuh
-1F45F: Sportlicher Schuh : Läufer, Sneaker, Tennisschuh
+1F45F: Sportlicher Schuh: Läufer, Sneaker, Tennisschuh
 1F460: Hochhackige Schuhe
 1F461: Frauen Sandale
 1F462: Womans Stiefel
 1F463: Fußabdrücke
-1F464: Fehlschlag im Schattenbild : Gästekonto
-1F465: Büsten In Silhouette : Konten
+1F464: Fehlschlag im Schattenbild: Gästekonto
+1F465: Büsten In Silhouette: Konten
 1F466: Junge
 1F467: Mädchen
 1F468: Mann
 1F469: Frau
-1F46A: Familie : bewertet für familien
+1F46A: Familie: bewertet für familien
 1F46B: Mann und Frau, die Hände anhalten
 1F46C: Zwei Männer, die Hände anhalten
 1F46D: Zwei Frauen, die Hände anhalten
 1F46E: Polizist
-1F46F: Frau mit den Häschenohren : Neues Jahr, Weihnachten
+1F46F: Frau mit den Häschenohren: Neues Jahr, Weihnachten
 1F470: Braut mit Schleier
 1F471: Person mit blonden Haaren
 1F472: Mann mit Gua Pi Mao
@@ -131,20 +131,20 @@
 1F482: Gardist
 1F483: Tänzer
 1F484: Lippenstift
-1F485: Nagelpolitur : Maniküre, Nagelpflege
+1F485: Nagelpolitur: Maniküre, Nagelpflege
 1F486: Gesichtsmassage
 1F487: Haarschnitt
 1F488: Friseur Pole
 1F489: Spritze
 1F48A: Pille
-1F48B: Knutschfleck : Lippen
+1F48B: Knutschfleck: Lippen
 1F48C: Liebesbrief
-1F48D: Ring : Schmuck
+1F48D: Ring: Schmuck
 1F48E: Edelstein
-1F48F: Kuss : zwei Leute küssen sich
+1F48F: Kuss: zwei Leute küssen sich
 1F490: Strauß
 1F491: Paar mit Herz
-1F492: Hochzeit : Hochzeitskapelle
+1F492: Hochzeit: Hochzeitskapelle
 1F493: Schlagendes Herz
 1F494: Gebrochenes Herz
 1F495: Zwei Herzen
@@ -158,22 +158,22 @@
 1F49D: Herz mit Band
 1F49E: Drehende Herzen
 1F49F: Herz Dekoration
-1F4A0: Diamantform mit einem Punkt nach innen : Kawaii, süß
-1F4A1: Elektrische Glühbirne : Idee
+1F4A0: Diamantform mit einem Punkt nach innen: Kawaii, süß
+1F4A1: Elektrische Glühbirne: Idee
 1F4A2: Wut-Symbol
 1F4A3: Bombe
 1F4A4: Schlafendes Symbol
 1F4A5: Kollisionssymbol
-1F4A6: Spritzendes Schweißsymbol : Plewds
+1F4A6: Spritzendes Schweißsymbol: Plewds
 1F4A7: Tröpfchen
-1F4A8: Bindestrich-Symbol : Laufen Bindestrich, Briffits
-1F4A9: Haufen Poo : Hundedreck
-1F4AA: Bizeps gebeugt : stark, muskulös
-1F4AB: Schwindeliges Symbol : Sterne umkreisen, Squeans
-1F4AC: Sprechblase : Comic-Buch-Sprechblase
+1F4A8: Bindestrich-Symbol: Laufen Bindestrich, Briffits
+1F4A9: Haufen Poo: Hundedreck
+1F4AA: Bizeps gebeugt: stark, muskulös
+1F4AB: Schwindeliges Symbol: Sterne umkreisen, Squeans
+1F4AC: Sprechblase: Comic-Buch-Sprechblase
 1F4AD: Gedankenballon
-1F4AE: Weiße Blume : brillante Hausaufgaben
-1F4AF: Hundert Punkte-Symbol : perfektes Ergebnis
+1F4AE: Weiße Blume: brillante Hausaufgaben
+1F4AF: Hundert Punkte-Symbol: perfektes Ergebnis
 1F4B0: Geldtasche
 1F4B1: Geldwechsel
 1F4B2: Schweres Dollarzeichen
@@ -188,14 +188,14 @@
 1F4BB: Persönlicher Computer
 1F4BC: Aktentasche
 1F4BD: Minidisc
-1F4BE: Diskette : Diskette, Diskette, Diskette, Diskette
+1F4BE: Diskette: Diskette, Diskette, Diskette, Diskette
 1F4BF: Optische Disc
-1F4C0: DVD : Digital Video / vielseitige Discs
+1F4C0: DVD: Digital Video / vielseitige Discs
 1F4C1: Aktenordner
 1F4C2: Dateiordner öffnen
 1F4C3: Seite mit Curl
 1F4C4: Seite nach oben
-1F4C5: Kalender : Neues Jahr, Weihnachten
+1F4C5: Kalender: Neues Jahr, Weihnachten
 1F4C6: Abreißkalender
 1F4C7: Kartei
 1F4C8: Chart mit Aufwärtstrend
@@ -212,7 +212,7 @@
 1F4D3: Notizbuch
 1F4D4: Notizbuch mit dekorativer Abdeckung
 1F4D5: Geschlossenes Buch
-1F4D6: Offenes Buch : Bedienungsanleitung lesen
+1F4D6: Offenes Buch: Bedienungsanleitung lesen
 1F4D7: Grünes Buch
 1F4D8: Blaues Buch
 1F4D9: Orange Buch
@@ -223,20 +223,20 @@
 1F4DE: Telefonhörer
 1F4DF: Pager
 1F4E0: Faxgerät
-1F4E1: Satellitenantenne : Positionsanzeige, Nachrichten
+1F4E1: Satellitenantenne: Positionsanzeige, Nachrichten
 1F4E2: Beschallungslautsprecher
 1F4E3: Jubelndes Megaphon
 1F4E4: Postausgang
 1F4E5: Posteingang
-1F4E6: Paket : Neues Jahr, Weihnachten
+1F4E6: Paket: Neues Jahr, Weihnachten
 1F4E7: E-Mail-Symbol
 1F4E8: Eingehender Umschlag
 1F4E9: Umschlag mit nach oben zeigendem Pfeil
-1F4EA: Geschlossene Mailbox mit abgesenkter Flagge : Briefkasten, Postempfang : leeres Postfach
-1F4EB: Geschlossener Briefkasten mit erhöhter Flagge : Postfach mit Mail
+1F4EA: Geschlossene Mailbox mit abgesenkter Flagge: Briefkasten, Postempfang , leeres Postfach
+1F4EB: Geschlossener Briefkasten mit erhöhter Flagge: Postfach mit Mail
 1F4EC: Postfach mit erhöhter Flagge öffnen
 1F4ED: Postfach mit abgesenkter Flagge öffnen
-1F4EE: Briefkasten : Postfach zum Versenden von E-Mails
+1F4EE: Briefkasten: Postfach zum Versenden von E-Mails
 1F4EF: Posthorn
 1F4F0: Zeitung
 1F4F1: Mobiltelefon
@@ -244,13 +244,13 @@
 1F4F3: Vibrationsmodus
 1F4F4: Mobiltelefon aus
 1F4F5: Keine Handys
-1F4F6: Antenne mit Stäben : Mobilfunkempfang
+1F4F6: Antenne mit Stäben: Mobilfunkempfang
 1F4F7: Kamera
 1F4F8: Kamera mit Blitz
-1F4F9: Videokamera : Video
+1F4F9: Videokamera: Video
 1F4FA: Fernsehen
 1F4FB: Radio
 1F4FC: Video Kassette
-1F4FD: Filmprojektor : Filme
-1F4FE: Tragbares Stereo : Stereo
+1F4FD: Filmprojektor: Filme
+1F4FE: Tragbares Stereo: Stereo
 1F4FF: Gebetsperlen

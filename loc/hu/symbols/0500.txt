@@ -19,9 +19,9 @@
 0512: Cirill tőke betű El és horog
 0513: Cirill kis levél El és horog
 0514: Cirill fővárosa Lha
-0515: Cirill kis levél Lha : hangtalan l
+0515: Cirill kis levél Lha: hangtalan l
 0516: Cirill fővárosa Rha
-0517: Cirill kis levél Rha : hangtalan r
+0517: Cirill kis levél Rha: hangtalan r
 0518: Cirill tőke betű Yae
 0519: Cirill kis levél Yae
 051A: Cirill fővárosi levél Qa
@@ -31,9 +31,9 @@
 051E: Cirill tőke betű Aleut Ka
 051F: Cirill kis levél Aleut Ka
 0520: Cirill tőke betű El középső horoggal
-0521: Cirill kis levél El középső horoggal : palatalizált l
+0521: Cirill kis levél El középső horoggal: palatalizált l
 0522: A középső horoggal ellátott kirillikus nagybetű
-0523: Cirill kis betű a középső horoggal : palatalizált n
+0523: Cirill kis betű a középső horoggal: palatalizált n
 0524: A cirill tőke betűje a Descenderrel
 0525: Cirill kis levél Pe a leszármazóval
 0526: Cirill fővárosi levél Shha a leszármazóval
@@ -88,12 +88,12 @@
 0557:
 0558:
 0559: Örmény módosító levél bal félgyűrű
-055A: Örmény apostrófa : örmény módosító betű jobb félgyűrű
-055B: Örmény Hangsúly : shesht
-055C: Örmény felkiáltójel : batsaganchakan nshan
-055D: Örmény vessző : bowt
-055E: Örmény kérdőjel : hartsakan nshan
-055F: Örmény rövidítés jel : patiw
+055A: Örmény apostrófa: örmény módosító betű jobb félgyűrű
+055B: Örmény Hangsúly: shesht
+055C: Örmény felkiáltójel: batsaganchakan nshan
+055D: Örmény vessző: bowt
+055E: Örmény kérdőjel: hartsakan nshan
+055F: Örmény rövidítés jel: patiw
 0560: Örmény kis levél fordult Ayb
 0561: Örmény kis levél Ayb
 0562: Örmény kis levél Ben
@@ -135,44 +135,44 @@
 0586: Örmény kis levél Feh
 0587: Örményi kis ligatúra Ech Yiwn
 0588: Örmény kis levél Yi stroke
-0589: Örmény teljes megálló : vertsaket
-058A: Örmény kötőjel : yentamna
+0589: Örmény teljes megálló: vertsaket
+058A: Örmény kötőjel: yentamna
 058B:
 058C:
 058D: Jobboldali örmény örökkévalóság jele
 058E: Baloldali örmény örökkévalóság jele
 058F: Örmény Dram Sign
 0590:
-0591: Héber Accent Etnahta : atnah
-0592: Héber Accent Segol : segolta
+0591: Héber Accent Etnahta: atnah
+0592: Héber Accent Segol: segolta
 0593: Héber Accent Shalshelet
 0594: Héber Accent Zaqef Qatan
 0595: Héber Accent Zaqef Gadol
-0596: Héber Accent Tipeha : tarha, me'ayla ~ mayla
+0596: Héber Accent Tipeha: tarha, me'ayla ~ mayla
 0597: Héber Accent Revia
-0598: Héber Accent Zarqa : tsinorit, zinorit; tsinor, zinor
+0598: Héber Accent Zarqa: tsinorit, zinorit, tsinor, zinor
 0599: Héber Accent Pashta
 059A: Héber Accent Yetiv
 059B: Héber Accent Tevir
-059C: Héber Accent Geresh : teres
+059C: Héber Accent Geresh: teres
 059D: Héber Accent Geresh Muqdam
 059E: Héber Accent Gershayim
-059F: Héber Accent Qarney Para : pazer gadol
+059F: Héber Accent Qarney Para: pazer gadol
 05A0: Héber Accent Telisha Gedola
-05A1: Héber Accent Pazer : pazer qatan
+05A1: Héber Accent Pazer: pazer qatan
 05A2: Héber Accent Atnah Hafukh
 05A3: Héber Accent Munah
 05A4: Héber Accent Mahapakh
-05A5: Héber Accent Merkha : yored
+05A5: Héber Accent Merkha: yored
 05A6: Héber Accent Merkha Kefula
 05A7: Héber Accent Darga
-05A8: Héber Accent Qadma : azla
+05A8: Héber Accent Qadma: azla
 05A9: Héber Accent Telisha Qetana
-05AA: Héber Accent Yerah Ben Yomo : Gilgálba
+05AA: Héber Accent Yerah Ben Yomo: Gilgálba
 05AB: Héber Accent Ole
 05AC: Héber Accent Iluy
 05AD: Héber Accent Dehi
-05AE: Héber Accent Zinor : tsinor; Zarqa
+05AE: Héber Accent Zinor: tsinor, Zarqa
 05AF: Héber Mark Masora Circle
 05B0: Héber Point Sheva
 05B1: Héber Pont Hataf Segol
@@ -186,11 +186,11 @@
 05B9: Héber Point Holam
 05BA: Héber Point Holam Haser a Vavért
 05BB: Héber Point Qubuts
-05BC: Héber Point Dagesh vagy Mapiq : shuruq
-05BD: Héber Point Meteg : siluq
+05BC: Héber Point Dagesh vagy Mapiq: shuruq
+05BD: Héber Point Meteg: siluq
 05BE: Héber írásjelek Maqaf
 05BF: Héber Pont Rafe
-05C0: Héber írásjelek Paseq : legarmeh
+05C0: Héber írásjelek Paseq: legarmeh
 05C1: Héber Point Shin Dot
 05C2: Héber Point Sin Dot
 05C3: Héber írásjelek Sof Pasuq
@@ -206,7 +206,7 @@
 05CD:
 05CE:
 05CF:
-05D0: Héber levél Alef : aleph
+05D0: Héber levél Alef: aleph
 05D1: Héber betűfogadás
 05D2: Héber levél Gimel
 05D3: Héber levél Dalet
@@ -228,7 +228,7 @@
 05E3: Héber levél Végső Pe
 05E4: Héber levél Pe
 05E5: Héber levél Final Tsadi
-05E6: Héber levél Tsadi : zade
+05E6: Héber levél Tsadi: zade
 05E7: Héber levél Qof
 05E8: Héber levél Resh
 05E9: Héber levél Shin
@@ -238,9 +238,9 @@
 05ED:
 05EE:
 05EF: Héber Yod háromszög
-05F0: Héber Ligatúra Jiddis Double Vav : tsvey vovn
+05F0: Héber Ligatúra Jiddis Double Vav: tsvey vovn
 05F1: Héber Ligatúra Jiddis Vav Yod
-05F2: Héber Ligatúra Jiddis Double Yod : tsvey yudn
+05F2: Héber Ligatúra Jiddis Double Yod: tsvey yudn
 05F3: Héber írásjelek Geresh
 05F4: Héber írásjelek Gershayim
 05F5:
@@ -253,4 +253,4 @@
 05FC:
 05FD:
 05FE:
-05FF:
+05FF:

@@ -1,51 +1,51 @@
-0000: Nullzeichen : NUL
-0001: Überschriftanfang : SOH
-0002: Textanfang : STX
-0003: Textende : ETX
-0004: Übertragungsende : EOT
-0005: Abfrage : ENQ
-0006: Bestätigung : FRAGEN
-0007: Signalton : BEL
-0008: Rücktaste : BS
-0009: Horizontal Tabulator : ht : Zeichentabelle : TAB
-000A: Zeilenvorschub : Zeilenvorschub (lf) : Zeilenende (Eol) : LF : NL
-000B: Vertikaler Tabulator : vt : Linientabelle : TAB
-000C: Seitenumbruch : FF
-000D: Zeilenumbruch : CR
-000E: Umschalttaste aus : SO
-000F: Umschalttaste ein : SI
-0010: Datenübertragungsumschaltung : DLE
-0011: Gerätesteuerung 1 : DC1
-0012: Gerätesteuerung 2 : DC2
-0013: Gerätesteuerung 3 : DC3
-0014: Gerätesteuerung 4 : DC4
-0015: Ablehnung : NAK
-0016: Synchronleerlauf : SYN
-0017: Übertragungsblockende : ETB
-0018: Abbruch : KÖNNEN
-0019: Medienende : EM
-001A: Ersatz : SUB : Ctrl-Z
-001B: Escape : ESC
-001C: Dateitrennzeichen : Informationstrennzeichen vier : FS
-001D: Gruppentrennzeichen : Informationstrennzeichen drei : GS
-001E: Datensatztrennzeichen : Informationstrennzeichen zwei : RS
-001F: Einheitentrennzeichen : Informationstrennzeichen eins : UNS
+0000: Nullzeichen: NUL
+0001: Überschriftanfang: SOH
+0002: Textanfang: STX
+0003: Textende: ETX
+0004: Übertragungsende: EOT
+0005: Abfrage: ENQ
+0006: Bestätigung: FRAGEN
+0007: Signalton: BEL
+0008: Rücktaste: BS
+0009: Horizontal Tabulator: ht , Zeichentabelle , TAB
+000A: Zeilenvorschub: Zeilenvorschub (lf) , Zeilenende (Eol) , LF , NL
+000B: Vertikaler Tabulator: vt , Linientabelle , TAB
+000C: Seitenumbruch: FF
+000D: Zeilenumbruch: CR
+000E: Umschalttaste aus: SO
+000F: Umschalttaste ein: SI
+0010: Datenübertragungsumschaltung: DLE
+0011: Gerätesteuerung 1: DC1
+0012: Gerätesteuerung 2: DC2
+0013: Gerätesteuerung 3: DC3
+0014: Gerätesteuerung 4: DC4
+0015: Ablehnung: NAK
+0016: Synchronleerlauf: SYN
+0017: Übertragungsblockende: ETB
+0018: Abbruch: KÖNNEN
+0019: Medienende: EM
+001A: Ersatz: SUB , Ctrl-Z
+001B: Escape: ESC
+001C: Dateitrennzeichen: Informationstrennzeichen vier , FS
+001D: Gruppentrennzeichen: Informationstrennzeichen drei , GS
+001E: Datensatztrennzeichen: Informationstrennzeichen zwei , RS
+001F: Einheitentrennzeichen: Informationstrennzeichen eins , UNS
 0020: Leerzeichen
-0021: Ausrufezeichen : Fakultät : Knall
+0021: Ausrufezeichen: Fakultät , Knall
 0022: Anführungszeichen
-0023: Doppelkreuz : Pfund-Zeichen : hash : Schraffur : Oktothorpe
-0024: Dollarzeichen : Milréis : Escudo
+0023: Doppelkreuz: Pfund-Zeichen , hash , Schraffur , Oktothorpe
+0024: Dollarzeichen: Milréis , Escudo
 0025: Prozentzeichen
 0026: Et-Zeichen
-0027: Apostroph : Apostrophe-Zitat : Apl Zitat
-0028: Runde Klammer links : öffnende Klammer
-0029: Runde Klammer rechts : Schließende Klammer
-002A: Sternchen : Star
+0027: Apostroph: Apostrophe-Zitat , Apl Zitat
+0028: Runde Klammer links: öffnende Klammer
+0029: Runde Klammer rechts: Schließende Klammer
+002A: Sternchen: Star
 002B: Pluszeichen
-002C: Komma : Dezimaltrennzeichen
-002D: Bindestrich-Minuszeichen : Bindestrich oder Minuszeichen
-002E: Punkt : Punkt, Punkt, Dezimalpunkt
-002F: Schrägstrich : Schrägstrich, Virgule
+002C: Komma: Dezimaltrennzeichen
+002D: Bindestrich-Minuszeichen: Bindestrich oder Minuszeichen
+002E: Punkt: Punkt, Punkt, Dezimalpunkt
+002F: Schrägstrich: Schrägstrich, Virgule
 0030: Ziffer Null
 0031: Ziffer Eins
 0032: Ziffer Zwei
@@ -62,7 +62,7 @@
 003D: Gleichheitszeichen
 003E: Größer-als-Zeichen
 003F: Fragezeichen
-0040: At-Zeichen : am Zeichen : Email : mail
+0040: At-Zeichen: am Zeichen , Email , mail
 0041: Lateinischer Großbuchstabe A
 0042: Lateinischer Großbuchstabe B
 0043: Lateinischer Großbuchstabe C
@@ -89,11 +89,11 @@
 0058: Lateinischer Großbuchstabe X
 0059: Lateinischer Großbuchstabe Y
 005A: Lateinischer Großbuchstabe Z
-005B: Eckige Klammer links : eckige Klammer öffnen
-005C: Umgekehrter Schrägstrich : Backslash
-005D: Eckige Klammer rechts : schließende eckige Klammer
+005B: Eckige Klammer links: eckige Klammer öffnen
+005C: Umgekehrter Schrägstrich: Backslash
+005D: Eckige Klammer rechts: schließende eckige Klammer
 005E: Zirkumflex
-005F: Unterstrich : Abstand unterstrichen
+005F: Unterstrich: Abstand unterstrichen
 0060: Gravis
 0061: Lateinischer Kleinbuchstabe a
 0062: Lateinischer Kleinbuchstabe b
@@ -125,7 +125,7 @@
 007C: Senkrechter Strich
 007D: Geschweifte Klammer rechts
 007E: Tilde
-007F: Löschen : DEL
+007F: Löschen: DEL
 0080: <control>
 0081: <control>
 0082: Zeilenumbruch an dieser Stelle erlaubt
@@ -161,42 +161,42 @@
 00A0: Geschütztes Leerzeichen
 00A1: Umgekehrtes Ausrufezeichen
 00A2: Centzeichen
-00A3: Pfundzeichen : Pfund Sterling, Irish Punt, Italienische Lira, Türkische Lira
+00A3: Pfundzeichen: Pfund Sterling, Irish Punt, Italienische Lira, Türkische Lira
 00A4: Allgemeines Währungssymbol
-00A5: Yenzeichen : Yuan-Zeichen
-00A6: Unterbrochener Strich : gebrochene senkrechte Stange : Teilregel (in Typografie)
+00A5: Yenzeichen: Yuan-Zeichen
+00A6: Unterbrochener Strich: gebrochene senkrechte Stange , Teilregel (in Typografie)
 00A7: Paragraphenzeichen
 00A8: Trema
-00A9: Copyrightzeichen : Kopieren : (c)
+00A9: Copyrightzeichen: Kopieren , (c)
 00AA: Ordinal-a, feminines Ordinalzeichen
-00AB: Nach links zeigendes doppeltes spitzes Anführungszeichen : links guillemet : Sparren
-00AC: Nicht-Zeichen : Schrägstrich (in Typografie)
-00AD: Weiches Trennzeichen : beliebiger Bindestrich
-00AE: Zeichen für ein registriertes Warenzeichen : eingetragenes Markenzeichen
-00AF: Makron : overline, apl overbar
+00AB: Nach links zeigendes doppeltes spitzes Anführungszeichen: links guillemet , Sparren
+00AC: Nicht-Zeichen: Schrägstrich (in Typografie)
+00AD: Weiches Trennzeichen: beliebiger Bindestrich
+00AE: Zeichen für ein registriertes Warenzeichen: eingetragenes Markenzeichen
+00AF: Makron: overline, apl overbar
 00B0: Gradzeichen
 00B1: Plusminuszeichen
-00B2: Hochgestellte Zwei : kariert
-00B3: Hochgestellte Drei : gewürfelt
+00B2: Hochgestellte Zwei: kariert
+00B3: Hochgestellte Drei: gewürfelt
 00B4: Akut
 00B5: Mikro-Zeichen
-00B6: Absatzzeichen : Absatzzeichen
-00B7: Mittelpunkt : Mittelpunkt : georgisches Komma : griechischer mittlerer Punkt, Punktsymbol
+00B6: Absatzzeichen: Absatzzeichen
+00B7: Mittelpunkt: Mittelpunkt , georgisches Komma , griechischer mittlerer Punkt, Punktsymbol
 00B8: Cedille
 00B9: Hochgestellte Eins
 00BA: Ordinal-o, maskulines Ordinalzeichen
-00BB: Nach rechts zeigendes doppeltes spitzes Anführungszeichen : recht guillemet
+00BB: Nach rechts zeigendes doppeltes spitzes Anführungszeichen: recht guillemet
 00BC: Gewöhnlicher Bruch ein Viertel
 00BD: Gewöhnlicher Bruch einhalb
 00BE: Gewöhnlicher Bruch drei Viertel
-00BF: Umgekehrtes Fragezeichen : gedrehtes Fragezeichen
+00BF: Umgekehrtes Fragezeichen: gedrehtes Fragezeichen
 00C0: Lateinischer Großbuchstabe A mit Gravis
 00C1: Lateinischer Großbuchstabe A mit Akut
 00C2: Lateinischer Großbuchstabe A mit Zirkumflex
 00C3: Lateinischer Großbuchstabe A mit Tilde
 00C4: Lateinischer Großbuchstabe A mit Trema
 00C5: Lateinischer Großbuchstabe A mit Ring
-00C6: Lateinischer Großbuchstabe AE-Ligatur : lateinische Hauptligatur ae
+00C6: Lateinischer Großbuchstabe AE-Ligatur: lateinische Hauptligatur ae
 00C7: Lateinischer Großbuchstabe C mit Cedille
 00C8: Lateinischer Großbuchstabe E mit Gravis
 00C9: Lateinischer Großbuchstabe E mit Akut
@@ -213,22 +213,22 @@
 00D4: Lateinischer Großbuchstabe O mit Zirkumflex
 00D5: Lateinischer Großbuchstabe O mit Tilde
 00D6: Lateinischer Großbuchstabe O mit Trema
-00D7: Multiplikationskreuz : kreuz : z kartesisches Produkt
-00D8: Lateinischer Großbuchstabe durchgestrichenes O : o Schrägstrich
+00D7: Multiplikationskreuz: kreuz , z kartesisches Produkt
+00D8: Lateinischer Großbuchstabe durchgestrichenes O: o Schrägstrich
 00D9: Lateinischer Großbuchstabe U mit Gravis
 00DA: Lateinischer Großbuchstabe U mit Akut
 00DB: Lateinischer Großbuchstabe U mit Zirkumflex
 00DC: Lateinischer Großbuchstabe U mit Trema
 00DD: Lateinischer Großbuchstabe Y mit Akut
 00DE: Lateinischer Großbuchstabe Thorn
-00DF: Lateinischer Kleinbuchstabe Scharfes S : Eszett
+00DF: Lateinischer Kleinbuchstabe Scharfes S: Eszett
 00E0: Lateinischer Kleinbuchstabe a mit Gravis
 00E1: Lateinischer Kleinbuchstabe a mit Akut
 00E2: Lateinischer Kleinbuchstabe a mit Zirkumflex
 00E3: Lateinischer Kleinbuchstabe a mit Tilde
 00E4: Lateinischer Kleinbuchstabe a mit Trema
 00E5: Lateinischer Kleinbuchstabe a mit Ring
-00E6: Lateinischer Kleinbuchstabe ae-Ligatur : Lateinische kleine Ligatur ae : Esche (aus altem Englisch æsc)
+00E6: Lateinischer Kleinbuchstabe ae-Ligatur: Lateinische kleine Ligatur ae , Esche (aus altem Englisch æsc)
 00E7: Lateinischer Kleinbuchstabe c mit Cedille
 00E8: Lateinischer Kleinbuchstabe e mit Gravis
 00E9: Lateinischer Kleinbuchstabe e mit Akut
@@ -245,12 +245,12 @@
 00F4: Lateinischer Kleinbuchstabe o mit Zirkumflex
 00F5: Lateinischer Kleinbuchstabe o mit Tilde
 00F6: Lateinischer Kleinbuchstabe o mit Trema
-00F7: Divisionszeichen : Obelus
-00F8: Lateinischer Kleinbuchstabe o mit Strich : o Schrägstrich
+00F7: Divisionszeichen: Obelus
+00F8: Lateinischer Kleinbuchstabe o mit Strich: o Schrägstrich
 00F9: Lateinischer Kleinbuchstabe u mit Gravis
 00FA: Lateinischer Kleinbuchstabe u mit Akut
 00FB: Lateinischer Kleinbuchstabe u mit Zirkumflex
-00FC: Lateinischer Kleinbuchstabe u mit Trema : Lateinischer Kleinbuchstabe U mit Diärese, U mit Trema, U mit Umlaut
+00FC: Lateinischer Kleinbuchstabe u mit Trema: Lateinischer Kleinbuchstabe U mit Diärese, U mit Trema, U mit Umlaut
 00FD: Lateinischer Kleinbuchstabe y mit Akut
 00FE: Lateinischer Kleinbuchstabe Thorn
 00FF: Lateinischer Kleinbuchstabe y mit Trema

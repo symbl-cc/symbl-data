@@ -1,256 +1,256 @@
-FE00: Variation Selector-1
-FE01: Variation Selector-2
-FE02: Variation Selector-3
-FE03: Variation Selector-4
-FE04: Variation Selector-5
-FE05: Variation Selector-6
-FE06: Variation Selector-7
-FE07: Variation Selector-8
-FE08: Variation Selector-9
-FE09: Variation Selector-10
-FE0A: Variation Selector-11
-FE0B: Variation Selector-12
-FE0C: Variation Selector-13
-FE0D: Variation Selector-14
-FE0E: Variation Selector-15
-FE0F: Variation Selector-16
-FE10: Presentation Form for Vertical Comma
-FE11: Presentation Form for Vertical Ideographic Comma
-FE12: Presentation Form for Vertical Ideographic Full Stop
-FE13: Presentation Form for Vertical Colon
-FE14: Presentation Form for Vertical Semicolon
-FE15: Presentation Form for Vertical Exclamation Mark
-FE16: Presentation Form for Vertical Question Mark
-FE17: Presentation Form for Vertical Left White Lenticular Bracket
-FE18: Presentation Form for Vertical Right White Lenticular Bracket
-FE19: Presentation Form for Vertical Horizontal Ellipsis
+FE00: Változásválasztó-1
+FE01: Változásválasztó-2
+FE02: Változásválasztó-3
+FE03: Változásválasztó-4
+FE04: Változásválasztó-5
+FE05: Változásválasztó-6
+FE06: Változásválasztó-7
+FE07: Változásválasztó-8
+FE08: Változásválasztó-9
+FE09: Változásválasztó-10
+FE0A: Változásválasztó-11
+FE0B: Változásválasztó-12
+FE0C: Változásválasztó-13
+FE0D: Változásválasztó-14
+FE0E: Változásválasztó-15
+FE0F: Változásválasztó-16
+FE10: Bemutató forma függőleges vesszőhöz
+FE11: Bemutató forma függőleges ideográfiai vesszőhöz
+FE12: Bemutató forma a vertikális ideográfiai pont számára
+FE13: Bemutató forma függőleges vastagbélhez
+FE14: Bemutató forma függőleges pontosvesszőhöz
+FE15: A függőleges felkiáltójel bemutató formája
+FE16: A függőleges kérdőjel bemutató formája
+FE17: Bemutató forma függőleges bal oldali fehér lencse konzolhoz
+FE18: Bemutató forma a függőleges jobb fehér lencse konzolhoz
+FE19: Bemutató forma függőleges vízszintes ellipszishez
 FE1A:
 FE1B:
 FE1C:
 FE1D:
 FE1E:
 FE1F:
-FE20: Combining Ligature Left Half
-FE21: Combining Ligature Right Half
-FE22: Combining Double Tilde Left Half
-FE23: Combining Double Tilde Right Half
-FE24: Combining Macron Left Half
-FE25: Combining Macron Right Half
-FE26: Combining Conjoining Macron
-FE27: Combining Ligature Left Half Below
-FE28: Combining Ligature Right Half Below
-FE29: Combining Tilde Left Half Below
-FE2A: Combining Tilde Right Half Below
-FE2B: Combining Macron Left Half Below
-FE2C: Combining Macron Right Half Below
-FE2D: Combining Conjoining Macron Below
-FE2E:
-FE2F:
-FE30: Presentation Form for Vertical Two Dot Leader
-FE31: Presentation Form for Vertical Em Dash
-FE32: Presentation Form for Vertical En Dash
-FE33: Presentation Form for Vertical Low Line
-FE34: Presentation Form for Vertical Wavy Low Line
-FE35: Presentation Form for Vertical Left Parenthesis
-FE36: Presentation Form for Vertical Right Parenthesis
-FE37: Presentation Form for Vertical Left Curly Bracket
-FE38: Presentation Form for Vertical Right Curly Bracket
-FE39: Presentation Form for Vertical Left Tortoise Shell Bracket
-FE3A: Presentation Form for Vertical Right Tortoise Shell Bracket
-FE3B: Presentation Form for Vertical Left Black Lenticular Bracket
-FE3C: Presentation Form for Vertical Right Black Lenticular Bracket
-FE3D: Presentation Form for Vertical Left Double Angle Bracket
-FE3E: Presentation Form for Vertical Right Double Angle Bracket
-FE3F: Presentation Form for Vertical Left Angle Bracket
-FE40: Presentation Form for Vertical Right Angle Bracket
-FE41: Presentation Form for Vertical Left Corner Bracket
-FE42: Presentation Form for Vertical Right Corner Bracket
-FE43: Presentation Form for Vertical Left White Corner Bracket
-FE44: Presentation Form for Vertical Right White Corner Bracket
-FE45: Sesame Dot
-FE46: White Sesame Dot
-FE47: Presentation Form for Vertical Left Square Bracket
-FE48: Presentation Form for Vertical Right Square Bracket
-FE49: Dashed Overline
-FE4A: Centreline Overline
-FE4B: Wavy Overline
-FE4C: Double Wavy Overline
-FE4D: Dashed Low Line
-FE4E: Centreline Low Line
-FE4F: Wavy Low Line
-FE50: Small Comma
-FE51: Small Ideographic Comma
-FE52: Small Full Stop
+FE20: A ligatúra kombinálása a bal felét
+FE21: A jobb oldali ligatúra kombinálása
+FE22: Kettős tilde kombinálásával a bal felét
+FE23: Kettős tilde jobb oldali kombinációja
+FE24: A makró kombinálása a bal felére
+FE25: A makró jobb oldalának kombinálása
+FE26: Összekapcsoló makró kombinálása
+FE27: A ligatúra kombinációja a bal felén maradt
+FE28: A ligatúra kombinációja jobbra alatta
+FE29: A tilde ötvözésével balra alatta marad
+FE2A: A tilde kombinációja jobbra lent
+FE2B: A makró ötvözése a bal alatt
+FE2C: A makró kombinálása jobbra lent
+FE2D: Az alábbiakban összekapcsoló makró kombinálása
+FE2E: Kirillikus titlokat kombinálva a bal felét
+FE2F: Cirill titlo jobb oldal kombinációja
+FE30: Bemutató forma függőleges két pontvezetőhöz
+FE31: Bemutató forma függőleges em dash-hoz
+FE32: Bemutató forma függőleges kötőjelhez
+FE33: Bemutató forma függőleges alacsony vonalhoz
+FE34: Bemutató forma függőleges hullámos alsó vonalhoz
+FE35: A bal oldali függőleges zárójel bemutató formája
+FE36: Bemutató forma a jobb oldali függőleges zárójelhez
+FE37: A függőleges bal göndör tartó bemutató formája
+FE38: A függőleges jobb göndör tartó bemutató formája
+FE39: A függőleges bal teknős héjakonzol bemutató formája
+FE3A: A függőleges jobb teknős héjakonzol bemutató formája
+FE3B: Bemutató forma függőleges bal oldali fekete lencse konzolhoz
+FE3C: A függőleges jobb fekete lencse konzol bemutató formája
+FE3D: Bemutató forma függőleges bal szögletes konzolhoz
+FE3E: A függőleges derékszögű konzol bemutató formája
+FE3F: Bemutató forma a függőleges bal szögtartóhoz
+FE40: Bemutató forma függőleges derékszögű konzolhoz
+FE41: A bal oldali függőleges konzol bemutató formája
+FE42: A függőleges jobb sarok konzol bemutató formája
+FE43: Bemutató forma a bal oldali függőleges bal sarokkonzolhoz
+FE44: Bemutató forma a függőleges jobb fehér sarokkonzolhoz
+FE45: Szezám pont
+FE46: Fehér szezám pont
+FE47: A függőleges bal oldali szögletes zárójel bemutató formája
+FE48: A függőleges jobb oldali szögletes zárójel bemutató formája
+FE49: Szaggatott felülnézet
+FE4A: Középvonal átfedés
+FE4B: Hullámos felülnézet
+FE4C: Kettős hullámos felülnézet
+FE4D: Szaggatott alacsony vonal
+FE4E: Középvonal alacsony vonal
+FE4F: Hullámos alacsony vonal
+FE50: Kis vessző
+FE51: Kis ideográfiai vessző
+FE52: Kis teljes megálló
 FE53:
-FE54: Small Semicolon
-FE55: Small Colon
-FE56: Small Question Mark
-FE57: Small Exclamation Mark
-FE58: Small Em Dash
-FE59: Small Left Parenthesis
-FE5A: Small Right Parenthesis
-FE5B: Small Left Curly Bracket
-FE5C: Small Right Curly Bracket
-FE5D: Small Left Tortoise Shell Bracket
-FE5E: Small Right Tortoise Shell Bracket
-FE5F: Small Number Sign
-FE60: Small Ampersand
-FE61: Small Asterisk
-FE62: Small Plus Sign
-FE63: Small Hyphen-Minus
-FE64: Small Less-Than Sign
-FE65: Small Greater-Than Sign
-FE66: Small Equals Sign
-FE67:
-FE68: Small Reverse Solidus
-FE69: Small Dollar Sign
-FE6A: Small Percent Sign
-FE6B: Small Commercial At
+FE54: Kis pontosvessző
+FE55: Kis vastagbél
+FE56: Kis kérdőjel
+FE57: Kis felkiáltójel
+FE58: Kis em kötőjel
+FE59: Kis bal zárójel
+FE5A: Kicsi jobb zárójel
+FE5B: Kis bal göndör tartó
+FE5C: Kicsi jobb göndör tartó
+FE5D: Kis bal teknőshéja-tartó
+FE5E: Kicsi jobb teknős héjakonzol
+FE5F: Kis szám jel
+FE60: Kicsi és nagy
+FE61: Kis csillag
+FE62: Kis plusz jel
+FE63: Kis kötőjel-mínusz
+FE64: Kicsi, mint jel
+FE65: Kicsi, mint jel
+FE66: Kis egyenlőségjel
+FE67: 
+FE68: Kis fordított szolidus
+FE69: Kis dollár jel
+FE6A: Kis százalékjelet
+FE6B: Kis üzlet a
 FE6C:
 FE6D:
 FE6E:
 FE6F:
-FE70: Arabic Fathatan Isolated Form
-FE71: Arabic Tatweel with Fathatan Above
-FE72: Arabic Dammatan Isolated Form
-FE73: Arabic Tail Fragment
-FE74: Arabic Kasratan Isolated Form
+FE70: Arab Fathatan elszigetelt forma
+FE71: Arab Tatweel with Fathatan felett
+FE72: Arab Dammatan elszigetelt forma
+FE73: Arab Tail Fragment
+FE74: Arab Kasratan elszigetelt forma
 FE75:
-FE76: Arabic Fatha Isolated Form
-FE77: Arabic Fatha Medial Form
-FE78: Arabic Damma Isolated Form
-FE79: Arabic Damma Medial Form
-FE7A: Arabic Kasra Isolated Form
-FE7B: Arabic Kasra Medial Form
-FE7C: Arabic Shadda Isolated Form
-FE7D: Arabic Shadda Medial Form
-FE7E: Arabic Sukun Isolated Form
-FE7F: Arabic Sukun Medial Form
-FE80: Arabic betű Hamza Isolated Form
-FE81: Arabic betű Alef with Madda Above Isolated Form
-FE82: Arabic betű Alef with Madda Above Final Form
-FE83: Arabic betű Alef with Hamza Above Isolated Form
-FE84: Arabic betű Alef with Hamza Above Final Form
-FE85: Arabic betű Waw with Hamza Above Isolated Form
-FE86: Arabic betű Waw with Hamza Above Final Form
-FE87: Arabic betű Alef with Hamza Below Isolated Form
-FE88: Arabic betű Alef with Hamza Below Final Form
-FE89: Arabic betű Yeh with Hamza Above Isolated Form
-FE8A: Arabic betű Yeh with Hamza Above Final Form
-FE8B: Arabic betű Yeh with Hamza Above Initial Form
-FE8C: Arabic betű Yeh with Hamza Above Medial Form
-FE8D: Arabic betű Alef Isolated Form
-FE8E: Arabic betű Alef Final Form
-FE8F: Arabic betű Beh Isolated Form
-FE90: Arabic betű Beh Final Form
-FE91: Arabic betű Beh Initial Form
-FE92: Arabic betű Beh Medial Form
-FE93: Arabic betű Teh Marbuta Isolated Form
-FE94: Arabic betű Teh Marbuta Final Form
-FE95: Arabic betű Teh Isolated Form
-FE96: Arabic betű Teh Final Form
-FE97: Arabic betű Teh Initial Form
-FE98: Arabic betű Teh Medial Form
-FE99: Arabic betű Theh Isolated Form
-FE9A: Arabic betű Theh Final Form
-FE9B: Arabic betű Theh Initial Form
-FE9C: Arabic betű Theh Medial Form
-FE9D: Arabic betű Jeem Isolated Form
-FE9E: Arabic betű Jeem Final Form
-FE9F: Arabic betű Jeem Initial Form
-FEA0: Arabic betű Jeem Medial Form
-FEA1: Arabic betű Hah Isolated Form
-FEA2: Arabic betű Hah Final Form
-FEA3: Arabic betű Hah Initial Form
-FEA4: Arabic betű Hah Medial Form
-FEA5: Arabic betű Khah Isolated Form
-FEA6: Arabic betű Khah Final Form
-FEA7: Arabic betű Khah Initial Form
-FEA8: Arabic betű Khah Medial Form
-FEA9: Arabic betű Dal Isolated Form
-FEAA: Arabic betű Dal Final Form
-FEAB: Arabic betű Thal Isolated Form
-FEAC: Arabic betű Thal Final Form
-FEAD: Arabic betű Reh Isolated Form
-FEAE: Arabic betű Reh Final Form
-FEAF: Arabic betű Zain Isolated Form
-FEB0: Arabic betű Zain Final Form
-FEB1: Arabic betű Seen Isolated Form
-FEB2: Arabic betű Seen Final Form
-FEB3: Arabic betű Seen Initial Form
-FEB4: Arabic betű Seen Medial Form
-FEB5: Arabic betű Sheen Isolated Form
-FEB6: Arabic betű Sheen Final Form
-FEB7: Arabic betű Sheen Initial Form
-FEB8: Arabic betű Sheen Medial Form
-FEB9: Arabic betű Sad Isolated Form
-FEBA: Arabic betű Sad Final Form
-FEBB: Arabic betű Sad Initial Form
-FEBC: Arabic betű Sad Medial Form
-FEBD: Arabic betű Dad Isolated Form
-FEBE: Arabic betű Dad Final Form
-FEBF: Arabic betű Dad Initial Form
-FEC0: Arabic betű Dad Medial Form
-FEC1: Arabic betű Tah Isolated Form
-FEC2: Arabic betű Tah Final Form
-FEC3: Arabic betű Tah Initial Form
-FEC4: Arabic betű Tah Medial Form
-FEC5: Arabic betű Zah Isolated Form
-FEC6: Arabic betű Zah Final Form
-FEC7: Arabic betű Zah Initial Form
-FEC8: Arabic betű Zah Medial Form
-FEC9: Arabic betű Ain Isolated Form
-FECA: Arabic betű Ain Final Form
-FECB: Arabic betű Ain Initial Form
-FECC: Arabic betű Ain Medial Form
-FECD: Arabic betű Ghain Isolated Form
-FECE: Arabic betű Ghain Final Form
-FECF: Arabic betű Ghain Initial Form
-FED0: Arabic betű Ghain Medial Form
-FED1: Arabic betű Feh Isolated Form
-FED2: Arabic betű Feh Final Form
-FED3: Arabic betű Feh Initial Form
-FED4: Arabic betű Feh Medial Form
-FED5: Arabic betű Qaf Isolated Form
-FED6: Arabic betű Qaf Final Form
-FED7: Arabic betű Qaf Initial Form
-FED8: Arabic betű Qaf Medial Form
-FED9: Arabic betű Kaf Isolated Form
-FEDA: Arabic betű Kaf Final Form
-FEDB: Arabic betű Kaf Initial Form
-FEDC: Arabic betű Kaf Medial Form
-FEDD: Arabic betű Lam Isolated Form
-FEDE: Arabic betű Lam Final Form
-FEDF: Arabic betű Lam Initial Form
-FEE0: Arabic betű Lam Medial Form
-FEE1: Arabic betű Meem Isolated Form
-FEE2: Arabic betű Meem Final Form
-FEE3: Arabic betű Meem Initial Form
-FEE4: Arabic betű Meem Medial Form
-FEE5: Arabic betű Noon Isolated Form
-FEE6: Arabic betű Noon Final Form
-FEE7: Arabic betű Noon Initial Form
-FEE8: Arabic betű Noon Medial Form
-FEE9: Arabic betű Heh Isolated Form
-FEEA: Arabic betű Heh Final Form
-FEEB: Arabic betű Heh Initial Form
-FEEC: Arabic betű Heh Medial Form
-FEED: Arabic betű Waw Isolated Form
-FEEE: Arabic betű Waw Final Form
-FEEF: Arabic betű Alef Maksura Isolated Form
-FEF0: Arabic betű Alef Maksura Final Form
-FEF1: Arabic betű Yeh Isolated Form
-FEF2: Arabic betű Yeh Final Form
-FEF3: Arabic betű Yeh Initial Form
-FEF4: Arabic betű Yeh Medial Form
-FEF5: Arabic Ligature Lam with Alef with Madda Above Isolated Form
-FEF6: Arabic Ligature Lam with Alef with Madda Above Final Form
-FEF7: Arabic Ligature Lam with Alef with Hamza Above Isolated Form
-FEF8: Arabic Ligature Lam with Alef with Hamza Above Final Form
-FEF9: Arabic Ligature Lam with Alef with Hamza Below Isolated Form
-FEFA: Arabic Ligature Lam with Alef with Hamza Below Final Form
-FEFB: Arabic Ligature Lam with Alef Isolated Form
-FEFC: Arabic Ligature Lam with Alef Final Form
+FE76: Arab Fatha elszigetelt forma
+FE77: Arab Fatha mediális forma
+FE78: Arab Damma elszigetelt forma
+FE79: Arab Damma mediális forma
+FE7A: Arab Kasra elszigetelt forma
+FE7B: Arab Kasra mediális forma
+FE7C: Arab Shadda elszigetelt forma
+FE7D: Arab Shadda mediális forma
+FE7E: Arab Sukun elszigetelt forma
+FE7F: Arab Sukun mediális forma
+FE80: Arab betű Hamza elszigetelt forma
+FE81: Arab betű Alef with Madda felett elszigetelt forma
+FE82: Arab betű Alef with Madda felett végleges forma
+FE83: Arab betű Alef with Hamza felett elszigetelt forma
+FE84: Arab betű Alef with Hamza felett végleges forma
+FE85: Arab betű Waw with Hamza felett elszigetelt forma
+FE86: Arab betű Waw with Hamza felett végleges forma
+FE87: Arab betű Alef with Hamza lent elszigetelt forma
+FE88: Arab betű Alef with Hamza lent végleges forma
+FE89: Arab betű Yeh with Hamza felett elszigetelt forma
+FE8A: Arab betű Yeh with Hamza felett végleges forma
+FE8B: Arab betű Yeh with Hamza felett Initial Form
+FE8C: Arab betű Yeh with Hamza felett mediális forma
+FE8D: Arab betű Alef elszigetelt forma
+FE8E: Arab betű Alef végleges forma
+FE8F: Arab betű Beh elszigetelt forma
+FE90: Arab betű Beh végleges forma
+FE91: Arab betű Beh Initial Form
+FE92: Arab betű Beh mediális forma
+FE93: Arab betű Teh Marbuta elszigetelt forma
+FE94: Arab betű Teh Marbuta végleges forma
+FE95: Arab betű Teh elszigetelt forma
+FE96: Arab betű Teh végleges forma
+FE97: Arab betű Teh Initial Form
+FE98: Arab betű Teh mediális forma
+FE99: Arab betű Theh elszigetelt forma
+FE9A: Arab betű Theh végleges forma
+FE9B: Arab betű Theh Initial Form
+FE9C: Arab betű Theh mediális forma
+FE9D: Arab betű Jeem elszigetelt forma
+FE9E: Arab betű Jeem végleges forma
+FE9F: Arab betű Jeem Initial Form
+FEA0: Arab betű Jeem mediális forma
+FEA1: Arab betű Hah elszigetelt forma
+FEA2: Arab betű Hah végleges forma
+FEA3: Arab betű Hah Initial Form
+FEA4: Arab betű Hah mediális forma
+FEA5: Arab betű Khah elszigetelt forma
+FEA6: Arab betű Khah végleges forma
+FEA7: Arab betű Khah Initial Form
+FEA8: Arab betű Khah mediális forma
+FEA9: Arab betű Dal elszigetelt forma
+FEAA: Arab betű Dal végleges forma
+FEAB: Arab betű Thal elszigetelt forma
+FEAC: Arab betű Thal végleges forma
+FEAD: Arab betű Reh elszigetelt forma
+FEAE: Arab betű Reh végleges forma
+FEAF: Arab betű Zain elszigetelt forma
+FEB0: Arab betű Zain végleges forma
+FEB1: Arab betű Seen elszigetelt forma
+FEB2: Arab betű Seen végleges forma
+FEB3: Arab betű Seen Initial Form
+FEB4: Arab betű Seen mediális forma
+FEB5: Arab betű Sheen elszigetelt forma
+FEB6: Arab betű Sheen végleges forma
+FEB7: Arab betű Sheen Initial Form
+FEB8: Arab betű Sheen mediális forma
+FEB9: Arab betű Sad elszigetelt forma
+FEBA: Arab betű Sad végleges forma
+FEBB: Arab betű Sad Initial Form
+FEBC: Arab betű Sad mediális forma
+FEBD: Arab betű Dad elszigetelt forma
+FEBE: Arab betű Dad végleges forma
+FEBF: Arab betű Dad Initial Form
+FEC0: Arab betű Dad mediális forma
+FEC1: Arab betű Tah elszigetelt forma
+FEC2: Arab betű Tah végleges forma
+FEC3: Arab betű Tah Initial Form
+FEC4: Arab betű Tah mediális forma
+FEC5: Arab betű Zah elszigetelt forma
+FEC6: Arab betű Zah végleges forma
+FEC7: Arab betű Zah Initial Form
+FEC8: Arab betű Zah mediális forma
+FEC9: Arab betű Ain elszigetelt forma
+FECA: Arab betű Ain végleges forma
+FECB: Arab betű Ain Initial Form
+FECC: Arab betű Ain mediális forma
+FECD: Arab betű Ghain elszigetelt forma
+FECE: Arab betű Ghain végleges forma
+FECF: Arab betű Ghain Initial Form
+FED0: Arab betű Ghain mediális forma
+FED1: Arab betű Feh elszigetelt forma
+FED2: Arab betű Feh végleges forma
+FED3: Arab betű Feh Initial Form
+FED4: Arab betű Feh mediális forma
+FED5: Arab betű Qaf elszigetelt forma
+FED6: Arab betű Qaf végleges forma
+FED7: Arab betű Qaf Initial Form
+FED8: Arab betű Qaf mediális forma
+FED9: Arab betű Kaf elszigetelt forma
+FEDA: Arab betű Kaf végleges forma
+FEDB: Arab betű Kaf Initial Form
+FEDC: Arab betű Kaf mediális forma
+FEDD: Arab betű Lam elszigetelt forma
+FEDE: Arab betű Lam végleges forma
+FEDF: Arab betű Lam Initial Form
+FEE0: Arab betű Lam mediális forma
+FEE1: Arab betű Meem elszigetelt forma
+FEE2: Arab betű Meem végleges forma
+FEE3: Arab betű Meem Initial Form
+FEE4: Arab betű Meem mediális forma
+FEE5: Arab betű Noon elszigetelt forma
+FEE6: Arab betű Noon végleges forma
+FEE7: Arab betű Noon Initial Form
+FEE8: Arab betű Noon mediális forma
+FEE9: Arab betű Heh elszigetelt forma
+FEEA: Arab betű Heh végleges forma
+FEEB: Arab betű Heh Initial Form
+FEEC: Arab betű Heh mediális forma
+FEED: Arab betű Waw elszigetelt forma
+FEEE: Arab betű Waw végleges forma
+FEEF: Arab betű Alef Maksura elszigetelt forma
+FEF0: Arab betű Alef Maksura végleges forma
+FEF1: Arab betű Yeh elszigetelt forma
+FEF2: Arab betű Yeh végleges forma
+FEF3: Arab betű Yeh Initial Form
+FEF4: Arab betű Yeh mediális forma
+FEF5: Arab elkötés Lam with Alef with Madda felett elszigetelt forma
+FEF6: Arab elkötés Lam with Alef with Madda felett végleges forma
+FEF7: Arab elkötés Lam with Alef with Hamza felett elszigetelt forma
+FEF8: Arab elkötés Lam with Alef with Hamza felett végleges forma
+FEF9: Arab elkötés Lam with Alef with Hamza lent elszigetelt forma
+FEFA: Arab elkötés Lam with Alef with Hamza lent végleges forma
+FEFB: Arab elkötés Lam with Alef elszigetelt forma
+FEFC: Arab elkötés Lam with Alef végleges forma
 FEFD:
 FEFE:
-FEFF: Zero Width No-Break Space : bom, zwnbsp
+FEFF: Zero Width No-Break Space: bom, zwnbsp

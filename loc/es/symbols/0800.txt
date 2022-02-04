@@ -26,52 +26,52 @@
 0819: Samaritan Mark Dagesh
 081A: Modificador Samaritano Letra Epenthetic Yut
 081B: Samaritan Mark Epenthetic Yut
-081C: Samaritan Vowel Sign Long E : Fatha Al-Nida
+081C: Samaritan Vowel Sign Long E: Fatha Al-Nida
 081D: Samaritan Vowel Sign E
-081E: Samaritan Vowel Sign Over A Long : fatha al-ima
+081E: Samaritan Vowel Sign Over A Long: fatha al-ima
 081F: Samaritan Vowel Sign Long Aa
 0820: Signo de Vocal Samaritano Aa
-0821: Samaritan Vowel Sign Overlong A : fatha al-iha
+0821: Samaritan Vowel Sign Overlong A: fatha al-iha
 0822: Samaritan Vowel Sign Long A
 0823: Samaritan Vowel Sign A
 0824: Samaritan Modifier Letter A Short
-0825: Samaritan Vowel Sign Short A : Fatha
-0826: Samaritan Vowel Sign Long U : damma
+0825: Samaritan Vowel Sign Short A: Fatha
+0826: Samaritan Vowel Sign Long U: damma
 0827: Samaritan Vowel Sign U
 0828: Modificador Samaritano Letra I
-0829: Samaritan Vowel Sign Long I : kasra
+0829: Samaritan Vowel Sign Long I: kasra
 082A: Samaritan Vowel Sign I
 082B: Samaritan Vowel Sign O
 082C: Signo Vocal Samaritano Sukun
 082D: Samaritano Mark Nequdaa
 082E:
 082F:
-0830: Puntuación Samaritana Nequdaa : separador de palabras
-0831: Puntuación Samaritana Afsaaq : interrupción
-0832: Puntuación del samaritano : restricción
-0833: Samaritan puntuación Bau : oración
-0834: Samaritan puntuación Atmaau : sorpresa
-0835: Puntuación Samaritano Shiyyaalaa : pregunta
+0830: Puntuación Samaritana Nequdaa: separador de palabras
+0831: Puntuación Samaritana Afsaaq: interrupción
+0832: Puntuación del samaritano: restricción
+0833: Samaritan puntuación Bau: oración
+0834: Samaritan puntuación Atmaau: sorpresa
+0835: Puntuación Samaritano Shiyyaalaa: pregunta
 0836: Marca de abreviatura samaritana
 0837: Puntuación Samaritana Melodic Qitsa
-0838: Puntuación samaritana Ziqaa : gritos
-0839: Puntuación Samaritano Qitsa : fin de sección
-083A: Samaritan puntuación Zaef : explosión
-083B: Puntuación Samaritano Turu : enseñando
-083C: Puntuación Samaritano Arkaanu : sumisión
-083D: Puntuación samaritana Sof Mashfaat : parada completa
-083E: Puntuación samaritana Annaau : descanso
+0838: Puntuación samaritana Ziqaa: gritos
+0839: Puntuación Samaritano Qitsa: fin de sección
+083A: Samaritan puntuación Zaef: explosión
+083B: Puntuación Samaritano Turu: enseñando
+083C: Puntuación Samaritano Arkaanu: sumisión
+083D: Puntuación samaritana Sof Mashfaat: parada completa
+083E: Puntuación samaritana Annaau: descanso
 083F:
-0840: Letra mandaica halqa : una
+0840: Letra mandaica halqa: una
 0841: Letra mandaica ab
 0842: Letra mandaica ag
 0843: Anuncio de la letra mandaica
 0844: Letra mandaica ah
-0845: Letra mandaica ushenna : tu
+0845: Letra mandaica ushenna: tu
 0846: Letra mandaica az
 0847: Letra mandaica
 0848: Carta mandaica att
-0849: Letra mandaica aksa : yo
+0849: Letra mandaica aksa: yo
 084A: Letra mandaica ak
 084B: Letra mandaica al
 084C: Letra mandaica soy
@@ -84,7 +84,7 @@
 0853: Letra mandaica ar
 0854: Letra mandaica ceniza
 0855: Carta mandaica en
-0856: Letra mandaica dushenna : di
+0856: Letra mandaica dushenna: di
 0857: Letra mandaica kad
 0858: Letra mandaica ain
 0859: Marca de Afirmación Mandaica
@@ -168,9 +168,9 @@
 08A7: Letra árabe Meem con tres puntos arriba
 08A8: Letra árabe Yeh con dos puntos abajo y Hamza arriba
 08A9: Letra árabe Yeh con dos puntos abajo y punto arriba
-08AA: Letra árabe Reh con Loop : bottya-reh
-08AB: Letra árabe Waw con punto dentro : nota-wa
-08AC: Letra árabe Rohingya Yeh : Bottya-yeh
+08AA: Letra árabe Reh con Loop: bottya-reh
+08AB: Letra árabe Waw con punto dentro: nota-wa
+08AC: Letra árabe Rohingya Yeh: Bottya-yeh
 08AD: Letra árabe Low Alef
 08AE: Letra árabe Dal con tres puntos abajo
 08AF: Letra árabe triste con tres puntos abajo
@@ -188,16 +188,16 @@
 08BB: Letra arabe africano feh
 08BC: Letra árabe Qaf africano
 08BD: Letra árabe del mediodía africano
-08BE:
-08BF:
-08C0:
-08C1:
-08C2:
-08C3:
-08C4:
-08C5:
-08C6:
-08C7:
+08BE: letra árabe peh con pequeña v
+08BF: letra árabe con pequeño v
+08C0: letra árabe tteh con v pequeña
+08C1: letra árabe tcheh con v pequeña
+08C2: letra árabe keheh con v pequeña
+08C3: letra árabe ghain con tres puntos arriba
+08C4: letra árabe qaf africano con tres puntos arriba
+08C5: letra árabe jeem con tres puntos arriba
+08C6: letra árabe jeem con tres puntos a continuación
+08C7: letra árabe lam con letra minúscula árabe tah arriba
 08C8:
 08C9:
 08CA:
@@ -238,9 +238,9 @@
 08ED: Tono árabe un punto debajo
 08EE: Tono árabe dos puntos abajo
 08EF: Bucle de tono árabe debajo
-08F0: Árabe abierto Fathatan : Fathatan sucesivo
-08F1: Árabe abierto dammatan : dammatan sucesivo
-08F2: Árabe abierto kasratan : kasratan sucesivo
+08F0: Árabe abierto Fathatan: Fathatan sucesivo
+08F1: Árabe abierto dammatan: dammatan sucesivo
+08F2: Árabe abierto kasratan: kasratan sucesivo
 08F3: Árabe pequeño alto Waw
 08F4: Fatha árabe con anillo
 08F5: Fatha árabe con punto arriba

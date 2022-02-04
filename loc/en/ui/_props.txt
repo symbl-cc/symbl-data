@@ -1,0 +1,112 @@
+# See ftp://ftp.unicode.org/Public/3.0-Update/UnicodeData-3.0.0.html
+
+[gc]: General Category
+
+L: Letter
+M: Mark
+N: Number
+Z: Separator
+C: Other
+P: Punctuation
+S: Symbol
+Lu: Uppercase
+Ll: Lowercase
+Lt: Titlecase
+Mn: Non-Spacing
+Mc: Spacing Combining
+Me: Enclosing
+Nd: Decimal Digit
+Nl: Letter
+No: Other
+Zs: Space
+Zl: Line
+Zp: Paragraph
+Cc: Control
+Cf: Format
+Cs: Surrogate
+Co: Private Use
+Cn: Not Assigned (no characters in the file have this property)
+Lm: Modifier
+Lo: Other
+Pc: Connector
+Pd: Dash
+Ps: Open
+Pe: Close
+Pi: Initial quote (may behave like Ps or Pe depending on usage)
+Pf: Final quote (may behave like Ps or Pe depending on usage)
+Po: Other
+Sm: Math
+Sc: Currency
+Sk: Modifier
+So: Other
+
+[bc]: Bidirectional Category
+
+L: Left-to-Right
+LRE: Left-to-Right Embedding
+LRO: Left-to-Right Override
+R: Right-to-Left
+AL: Right-to-Left Arabic
+RLE: Right-to-Left Embedding
+RLO: Right-to-Left Override
+PDF: Pop Directional Format
+EN: European Number
+ES: European Number Separator
+ET: European Number Terminator
+AN: Arabic Number
+CS: Common Number Separator
+NSM: Non-Spacing Mark
+BN: Boundary Neutral
+B: Paragraph Separator
+S: Segment Separator
+WS: Whitespace
+ON: Other Neutrals
+
+[cdm]: Character Decomposition Mapping
+
+font: A font variant (e.g. a blackletter form)
+noBreak: A no-break version of a space or hyphen
+initial: An initial presentation form (Arabic)
+medial: A medial presentation form (Arabic)
+final: A final presentation form (Arabic)
+isolated: An isolated presentation form (Arabic)
+circle: An encircled form
+super: A superscript form
+sub: A subscript form
+vertical: A vertical layout presentation form
+wide: A wide (or zenkaku) compatibility character
+narrow: A narrow (or hankaku) compatibility character
+small: A small variant form (CNS compatibility)
+square: A CJK squared font variant
+fraction: A vulgar fraction form
+compat: Otherwise unspecified compatibility character
+
+[ccc]: Canonical Combining Classes
+
+0: Spacing, split, enclosing, reordrant, and Tibetan subjoined
+1: Overlays and interior
+7: Nuktas
+8: Hiragana/Katakana voicing marks
+9: Viramas
+10: Start of fixed position classes
+199: End of fixed position classes
+200: Below left attached
+202: Below attached
+204: Below right attached
+208: Left attached (reordrant around single base character)
+210: Right attached
+212: Above left attached
+214: Above attached
+216: Above right attached
+218: Below left
+220: Below
+222: Below right
+224: Left (reordrant around single base character)
+226: Right
+228: Above left
+230: Above
+232: Above right
+233: Double below
+234: Double above
+240: Below (iota subscript)
+

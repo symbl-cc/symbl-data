@@ -27,17 +27,17 @@
 10F1A: จดหมายเก่าแก่ของ Sogdian
 10F1B: จดหมายเก่า Sogdian สุดท้าย Taw
 10F1C: จดหมายฉบับสุดท้าย Sogdian ตัวสุดท้าย Taw พร้อม Vertical Tail
-10F1D: Old Sogdian Number One
+10F1D: Old Sogdian จำนวน One
 10F1E: Sogdian หมายเลขสองเก่า
 10F1F: Sogdian หมายเลขสามเก่า
 10F20: Sogdian หมายเลขสี่เก่า
-10F21: Old Sogdian Number Five
+10F21: Old Sogdian จำนวน Five
 10F22: Sogdian หมายเลขสิบเก่า
 10F23: อายุ Sogdian หมายเลขยี่สิบ
 10F24: อายุ Sogdian หมายเลขสามสิบ
 10F25: Sogdian เก่าหมายเลขหนึ่งร้อย
 10F26: เศษส่วน Sogdian เก่าครึ่งหนึ่ง
-10F27: Sogdian Ligature Ayin-Daleth เก่า
+10F27: Sogdian การรัด Ayin-Daleth เก่า
 10F28:
 10F29:
 10F2A:
@@ -48,7 +48,7 @@
 10F2F:
 10F30: จดหมาย Sogdian Aleph
 10F31: จดหมาย Sogdian Beth
-10F32: Sogdian Letter Gimel
+10F32: Sogdian ตัวอักษร Gimel
 10F33: จดหมาย Sogdian เขา
 10F34: จดหมายของ Sogdian
 10F35: จดหมาย Sogdian Zayin
@@ -63,7 +63,7 @@
 10F3E: จดหมาย Sogdian Pe
 10F3F: จดหมาย Sogdian Sadhe
 10F40: จดหมาย Sogdian Resh-Ayin
-10F41: Sogdian Letter Shin
+10F41: Sogdian ตัวอักษร Shin
 10F42: จดหมายของ Sogdian Taw
 10F43: จดหมาย Sogdian Feth
 10F44: จดหมาย Sogdian Lesh
@@ -79,10 +79,10 @@
 10F4E: Sogdian การรวมเบ็ดยาวด้านล่าง
 10F4F: Sogdian รวม Resh ด้านล่าง
 10F50: Sogdian Combining Stroke ด้านล่าง
-10F51: Sogdian Number One
-10F52: Sogdian Number Ten
-10F53: Sogdian Number ยี่สิบ
-10F54: Sogdian Number One ร้อย
+10F51: Sogdian จำนวน One
+10F52: Sogdian จำนวน Ten
+10F53: Sogdian จำนวน ยี่สิบ
+10F54: Sogdian จำนวน One ร้อย
 10F55: เครื่องหมายวรรคตอน Sogdian สองแท่งแนวตั้ง
 10F56: เครื่องหมายวรรคตอน Sogdian สองแท่งแนวตั้งที่มีจุด
 10F57: วงกลมเครื่องหมายวรรคตอน Sogdian พร้อม Dot
@@ -174,34 +174,34 @@
 10FAD:
 10FAE:
 10FAF:
-10FB0:
-10FB1:
-10FB2:
-10FB3:
-10FB4:
-10FB5:
-10FB6:
-10FB7:
-10FB8:
-10FB9:
-10FBA:
-10FBB:
-10FBC:
-10FBD:
-10FBE:
-10FBF:
-10FC0:
-10FC1:
-10FC2:
-10FC3:
-10FC4:
-10FC5:
-10FC6:
-10FC7:
-10FC8:
-10FC9:
-10FCA:
-10FCB:
+10FB0: Chorasmian ตัวอักษร Aleph
+10FB1: Chorasmian ตัวอักษร เล็ก Aleph
+10FB2: Chorasmian ตัวอักษร Beth
+10FB3: Chorasmian ตัวอักษร Gimel
+10FB4: Chorasmian ตัวอักษร Daleth
+10FB5: Chorasmian ตัวอักษร He
+10FB6: Chorasmian ตัวอักษร Waw
+10FB7: Chorasmian ตัวอักษร ขด Waw
+10FB8: Chorasmian ตัวอักษร Zayin
+10FB9: Chorasmian ตัวอักษร Heth
+10FBA: Chorasmian ตัวอักษร Yodh
+10FBB: Chorasmian ตัวอักษร Kaph
+10FBC: Chorasmian ตัวอักษร Lamedh
+10FBD: Chorasmian ตัวอักษร Mem
+10FBE: Chorasmian ตัวอักษร Nun
+10FBF: Chorasmian ตัวอักษร Samekh
+10FC0: Chorasmian ตัวอักษร Ayin
+10FC1: Chorasmian ตัวอักษร Pe
+10FC2: Chorasmian ตัวอักษร Resh
+10FC3: Chorasmian ตัวอักษร Shin
+10FC4: Chorasmian ตัวอักษร Taw
+10FC5: Chorasmian จำนวน หนึ่ง
+10FC6: Chorasmian จำนวน สอง
+10FC7: Chorasmian จำนวน สาม
+10FC8: Chorasmian จำนวน สี่
+10FC9: Chorasmian จำนวน สิบ
+10FCA: Chorasmian จำนวน ยี่สิบ
+10FCB: Chorasmian จำนวน หนึ่ง ร้อย
 10FCC:
 10FCD:
 10FCE:
@@ -222,29 +222,29 @@
 10FDD:
 10FDE:
 10FDF:
-10FE0:
-10FE1:
-10FE2:
-10FE3:
-10FE4:
-10FE5:
-10FE6:
-10FE7:
-10FE8:
-10FE9:
-10FEA:
-10FEB:
-10FEC:
-10FED:
-10FEE:
-10FEF:
-10FF0:
-10FF1:
-10FF2:
-10FF3:
-10FF4:
-10FF5:
-10FF6:
+10FE0: Elymaic ตัวอักษร Aleph
+10FE1: Elymaic ตัวอักษร Beth
+10FE2: Elymaic ตัวอักษร Gimel
+10FE3: Elymaic ตัวอักษร Daleth
+10FE4: Elymaic ตัวอักษร He
+10FE5: Elymaic ตัวอักษร Waw
+10FE6: Elymaic ตัวอักษร Zayin
+10FE7: Elymaic ตัวอักษร Heth
+10FE8: Elymaic ตัวอักษร Teth
+10FE9: Elymaic ตัวอักษร Yodh
+10FEA: Elymaic ตัวอักษร Kaph
+10FEB: Elymaic ตัวอักษร Lamedh
+10FEC: Elymaic ตัวอักษร Mem
+10FED: Elymaic ตัวอักษร Nun
+10FEE: Elymaic ตัวอักษร Samekh
+10FEF: Elymaic ตัวอักษร Ayin
+10FF0: Elymaic ตัวอักษร Pe
+10FF1: Elymaic ตัวอักษร Sadhe
+10FF2: Elymaic ตัวอักษร Qoph
+10FF3: Elymaic ตัวอักษร Resh
+10FF4: Elymaic ตัวอักษร Shin
+10FF5: Elymaic ตัวอักษร Taw
+10FF6: Elymaic การรัด Zayin-yodh
 10FF7:
 10FF8:
 10FF9:
@@ -253,4 +253,4 @@
 10FFC:
 10FFD:
 10FFE:
-10FFF:
+10FFF:

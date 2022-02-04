@@ -1,30 +1,30 @@
-2200: Dla wszystkich : uniwersalny kwantyfikator
+2200: Dla wszystkich: uniwersalny kwantyfikator
 2201: Komplement
 2202: Częściowe różnicowanie
-2203: Tam istnieje : kwantyfikator egzystencjalny
+2203: Tam istnieje: kwantyfikator egzystencjalny
 2204: Nie istnieje
-2205: Pusty zestaw : zestaw zerowy
-2206: Przyrost : operator laplace : różnica do przodu : różnica symetryczna (w teorii mnogości)
-2207: Nabla : różnica wsteczna : gradient, del
+2205: Pusty zestaw: zestaw zerowy
+2206: Przyrost: operator laplace , różnica do przodu , różnica symetryczna (w teorii mnogości)
+2207: Nabla: różnica wsteczna , gradient, del
 2208: Element
 2209: Nie element
 220A: Mały Element
-220B: Zawiera jako członek : takie
+220B: Zawiera jako członek: takie
 220C: Nie zawiera jako członek
 220D: Mały zawiera jako członek
-220E: Koniec dowodu : co było do okazania.
-220F: Produkt N-Ary : znak produktu
-2210: N-Ary Coproduct : znak produktu
-2211: Podsumowanie N-Ary : znak sumowania
+220E: Koniec dowodu: co było do okazania.
+220F: Produkt N-Ary: znak produktu
+2210: N-Ary Coproduct: znak produktu
+2211: Podsumowanie N-Ary: znak sumowania
 2212: Minus
 2213: Znak minus lub plus
 2214: Dot Plus
 2215: Division Slash
 2216: Ustaw Minus
 2217: Operator gwiazdki
-2218: Operator pierścienia : funkcja złożona : apl jot
+2218: Operator pierścienia: funkcja złożona , apl jot
 2219: Operator kul
-221A: Pierwiastek kwadratowy : radykalny znak
+221A: Pierwiastek kwadratowy: radykalny znak
 221B: Pierwiastek sześcienny
 221C: Czwarty korzeń
 221D: Proporcjonalnie do
@@ -32,15 +32,15 @@
 221F: Prosty kąt
 2220: Kąt
 2221: Zmierzony kąt
-2222: Kąt sferyczny : łuk kątowy
-2223: Dzieli : takie : stile
+2222: Kąt sferyczny: łuk kątowy
+2223: Dzieli: takie , stile
 2224: Nie dzieli się
 2225: Równoległy do
 2226: Nie równoległy do
-2227: Logiczne I : klin, koniunkcja
-2228: Logiczny Or : vee, rozłączenie
-2229: Skrzyżowanie : czapka, kapelusz
-222A: Unia : Puchar
+2227: Logiczne I: klin, koniunkcja
+2228: Logiczny Or: vee, rozłączenie
+2229: Skrzyżowanie: czapka, kapelusz
+222A: Unia: Puchar
 222B: Całka
 222C: Double Integral
 222D: Potrójna integralność
@@ -54,14 +54,14 @@
 2235: Bo
 2236: Stosunek
 2237: Proporcja
-2238: Dot Minus : odejmowanie nasycające
+2238: Dot Minus: odejmowanie nasycające
 2239: Nadmiar
 223A: Proporcja geometryczna
 223B: Homotetyczny
-223C: Tilde Operator : różni się (proporcjonalnie do) : różnica pomiędzy : podobny do : nie : cykl : apl tylda
-223D: Odwrócona tylda : leniwy
-223E: Odwrócony Leniwy S : najbardziej pozytywne
-223F: Sinusoida : prąd przemienny
+223C: Tilde Operator: różni się (proporcjonalnie do) , różnica pomiędzy , podobny do , nie , cykl , apl tylda
+223D: Odwrócona tylda: leniwy
+223E: Odwrócony Leniwy S: najbardziej pozytywne
+223F: Sinusoida: prąd przemienny
 2240: Produkt wieniec
 2241: Nie Tilde
 2242: Minus Tilde
@@ -70,7 +70,7 @@
 2245: W przybliżeniu równe
 2246: W przybliżeniu ale nie tak naprawdę równy
 2247: Ani w przybliżeniu, ani w rzeczywistości równe
-2248: Prawie równy : asymptotyczny do
+2248: Prawie równy: asymptotyczny do
 2249: Nie prawie tak samo
 224A: Prawie równe lub równe
 224B: Potrójna tylda
@@ -80,17 +80,17 @@
 224F: Różnica pomiędzy
 2250: Zbliża się do limitu
 2251: Geometrically Equal To
-2252: W przybliżeniu równy lub obraz : prawie równa się
+2252: W przybliżeniu równy lub obraz: prawie równa się
 2253: Obraz lub przybliżony do równego
 2254: Okrężnica równa się
 2255: Równa się dwukropek
 2256: Ring In Equal To
-2257: Pierścień równy do : w przybliżeniu równa
+2257: Pierścień równy do: w przybliżeniu równa
 2258: Koresponduje z
-2259: Szacunki : koresponduje z
+2259: Szacunki: koresponduje z
 225A: Equiangular To
 225B: Gwiazda równa się
-225C: Delta równa się : równokątny : równy z definicji
+225C: Delta równa się: równokątny , równy z definicji
 225D: Równa by definiować
 225E: Mierzony przez
 225F: Pytany Równy do
@@ -106,7 +106,7 @@
 2269: Większy niż ale nie równy
 226A: Znacznie mniej niż
 226B: Znacznie większy niż
-226C: pomiędzy : powód, kwantowy
+226C: pomiędzy: powód, kwantowy
 226D: Nie jest równoważny z
 226E: Nie mniej niż
 226F: Nie większy niż
@@ -120,16 +120,16 @@
 2277: Większy niż lub mniejszy niż
 2278: Ani mniej niż, ani więcej niż
 2279: Ani więcej niż, ani mniej niż
-227A: Poprzedza : niższa ranga niż
-227B: Udaje się : wyższa niż
+227A: Poprzedza: niższa ranga niż
+227B: Udaje się: wyższa niż
 227C: Poprzedza lub równy
 227D: Udaje się lub jest równy
 227E: Poprzedza lub ekwiwalentny do
 227F: Udane lub ekwiwalentne do
 2280: Nie poprzedza
 2281: Nie udaje się
-2282: Podzbiór : zawarte w zestawie
-2283: Superset Of : zawiera w zestawie
+2282: Podzbiór: zawarte w zestawie
+2283: Superset Of: zawiera w zestawie
 2284: Nie jest podzbiorem
 2285: Nie Superset Of
 2286: Podzbiór lub Równy do
@@ -140,33 +140,33 @@
 228B: Superset z Nie równa się
 228C: Multiset
 228D: Mnożenie wielokrotne
-228E: Multiset Union : z dodatkiem torby z notacją
+228E: Multiset Union: z dodatkiem torby z notacją
 228F: Kwadratowy obraz
 2290: Kwadratowy oryginał
 2291: Kwadratowy obraz lub równy do
 2292: Kwadratowy oryginał lub równy do
 2293: Kwadratowa czapka
 2294: Square Cup
-2295: Zakreślony Plus : suma bezpośrednia : wektor wskazujący na stronę
-2296: Zakręcony Minus : symetryczna różnica
-2297: Krążyły czasy : produkt tensorowy : wektor wskazujący na stronę
-2298: Circled Division Slash : zakaz, wyłącz
-2299: Operator kropkowany : bezpośredni produkt : wektor wskazujący na stronie
+2295: Zakreślony Plus: suma bezpośrednia , wektor wskazujący na stronę
+2296: Zakręcony Minus: symetryczna różnica
+2297: Krążyły czasy: produkt tensorowy , wektor wskazujący na stronę
+2298: Circled Division Slash: zakaz, wyłącz
+2299: Operator kropkowany: bezpośredni produkt , wektor wskazujący na stronie
 229A: Circled Ring Operator
-229B: Krążył operator gwiazdki : Nowy Rok, Boże Narodzenie
+229B: Krążył operator gwiazdki: Nowy Rok, Boże Narodzenie
 229C: Okrągły Równy
 229D: Okrągła kreska
 229E: Squared Plus
 229F: Squared Minus
 22A0: Squared Times
 22A1: Operator kwadratu punktowego
-22A2: Right Tack : bramka : udowadnia, sugeruje, plony : dający się zredukować
-22A3: Lewy hak : kołowrót zwrotny : non-theorem, nie daje
-22A4: Down Tack : Top
-22A5: Up Tack : podstawa, dół
-22A6: Twierdzenie : zmniejsza się do
+22A2: Right Tack: bramka , udowadnia, sugeruje, plony , dający się zredukować
+22A3: Lewy hak: kołowrót zwrotny , non-theorem, nie daje
+22A4: Down Tack: Top
+22A5: Up Tack: podstawa, dół
+22A6: Twierdzenie: zmniejsza się do
 22A7: Modele
-22A8: Prawdziwe : oświadczenie jest prawdziwe, ważne : jest tautologią : spełnia : prowadzi do
+22A8: Prawdziwe: oświadczenie jest prawdziwe, ważne , jest tautologią , spełnia , prowadzi do
 22A9: Siły
 22AA: Potrójny pionowy słupek prawego kołowrotka
 22AB: Podwójny pionowy pręt Podwójny prawy kołowrót
@@ -192,8 +192,8 @@
 22BF: Trójkąt prostokątny
 22C0: N-Ary Logiczne I
 22C1: N-Ary Logical Or
-22C2: Skrzyżowanie N-Ary : notacja z uogólnione przecięcie
-22C3: N-Ary Union : notacja z unia uogólniona
+22C2: Skrzyżowanie N-Ary: notacja z uogólnione przecięcie
+22C3: N-Ary Union: notacja z unia uogólniona
 22C4: Diamentowy operator
 22C5: Dot Operator
 22C6: Gwiezdny operator
@@ -210,7 +210,7 @@
 22D1: Podwójny Superset
 22D2: Podwójne przecięcie
 22D3: Podwójna Unia
-22D4: Widły : właściwe skrzyżowanie
+22D4: Widły: właściwe skrzyżowanie
 22D5: Równe i równoległe do
 22D6: Mniej niż z kropką
 22D7: Większy niż z kropką

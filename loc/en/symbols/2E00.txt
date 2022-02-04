@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Forked Paragraphos
 2E11: Reversed Forked Paragraphos
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Dotted Obelos
 2E14: Downwards Ancora
 2E15: Upwards Ancora
-2E16: Dotted Right-Pointing Angle : diple periestigmene
+2E16: Dotted Right-Pointing Angle: diple periestigmene
 2E17: Double Oblique Hyphen
-2E18: Inverted Interrobang : gnaborretni
+2E18: Inverted Interrobang: gnaborretni
 2E19: Palm Branch
 2E1A: Hyphen with Diaeresis
 2E1B: Tilde with Ring Above
@@ -44,7 +44,7 @@
 2E2B: One Dot Over Two Dots Punctuation
 2E2C: Squared Four Dot Punctuation
 2E2D: Five Dot Mark
-2E2E: Reversed Question Mark : punctus percontativus : irony, sarcasm
+2E2E: Reversed Question Mark: punctus percontativus , irony, sarcasm
 2E2F: Vertical Tilde
 2E30: Ring Point
 2E31: Word Separator Middle Dot
@@ -56,7 +56,7 @@
 2E37: Dagger with Right Guard
 2E38: Turned Dagger
 2E39: Top Half Section Sign
-2E3A: Two-Em Dash : omission dash
+2E3A: Two-Em Dash: omission dash
 2E3B: Three-Em Dash
 2E3C: Stenographic Full Stop
 2E3D: Vertical Six Dots
@@ -77,10 +77,10 @@
 2E4C: Medieval Comma
 2E4D: Paragraphus Mark
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Cornish Verse Divider
+2E50: Cross Patty With Right Crossbar
+2E51: Cross Patty With Left Crossbar
+2E52: Tironian Sign Capital Et
 2E53:
 2E54:
 2E55:
@@ -126,122 +126,122 @@
 2E7D:
 2E7E:
 2E7F:
-2E80: Cjk Radical Repeat
-2E81: Cjk Radical Cliff
-2E82: Cjk Radical Second One
-2E83: Cjk Radical Second Two
-2E84: Cjk Radical Second Three
-2E85: Cjk Radical Person
-2E86: Cjk Radical Box
-2E87: Cjk Radical Table
-2E88: Cjk Radical Knife One
-2E89: Cjk Radical Knife Two
-2E8A: Cjk Radical Divination
-2E8B: Cjk Radical Seal
-2E8C: Cjk Radical Small One
-2E8D: Cjk Radical Small Two
-2E8E: Cjk Radical Lame One
-2E8F: Cjk Radical Lame Two
-2E90: Cjk Radical Lame Three
-2E91: Cjk Radical Lame Four
-2E92: Cjk Radical Snake
-2E93: Cjk Radical Thread
-2E94: Cjk Radical Snout One
-2E95: Cjk Radical Snout Two
-2E96: Cjk Radical Heart One
-2E97: Cjk Radical Heart Two
-2E98: Cjk Radical Hand
-2E99: Cjk Radical Rap
+2E80: CJK Radical Repeat
+2E81: CJK Radical Cliff
+2E82: CJK Radical Second One
+2E83: CJK Radical Second Two
+2E84: CJK Radical Second Three
+2E85: CJK Radical Person
+2E86: CJK Radical Box
+2E87: CJK Radical Table
+2E88: CJK Radical Knife One
+2E89: CJK Radical Knife Two
+2E8A: CJK Radical Divination
+2E8B: CJK Radical Seal
+2E8C: CJK Radical Small One
+2E8D: CJK Radical Small Two
+2E8E: CJK Radical Lame One
+2E8F: CJK Radical Lame Two
+2E90: CJK Radical Lame Three
+2E91: CJK Radical Lame Four
+2E92: CJK Radical Snake
+2E93: CJK Radical Thread
+2E94: CJK Radical Snout One
+2E95: CJK Radical Snout Two
+2E96: CJK Radical Heart One
+2E97: CJK Radical Heart Two
+2E98: CJK Radical Hand
+2E99: CJK Radical Rap
 2E9A:
-2E9B: Cjk Radical Choke
-2E9C: Cjk Radical Sun
-2E9D: Cjk Radical Moon
-2E9E: Cjk Radical Death
-2E9F: Cjk Radical Mother
-2EA0: Cjk Radical Civilian
-2EA1: Cjk Radical Water One
-2EA2: Cjk Radical Water Two
-2EA3: Cjk Radical Fire
-2EA4: Cjk Radical Paw One
-2EA5: Cjk Radical Paw Two
-2EA6: Cjk Radical Simplified Half Tree Trunk
-2EA7: Cjk Radical Cow
-2EA8: Cjk Radical Dog
-2EA9: Cjk Radical Jade
-2EAA: Cjk Radical Bolt of Cloth
-2EAB: Cjk Radical Eye
-2EAC: Cjk Radical Spirit One
-2EAD: Cjk Radical Spirit Two
-2EAE: Cjk Radical Bamboo
-2EAF: Cjk Radical Silk
-2EB0: Cjk Radical C-Simplified Silk
-2EB1: Cjk Radical Net One
-2EB2: Cjk Radical Net Two
-2EB3: Cjk Radical Net Three
-2EB4: Cjk Radical Net Four
-2EB5: Cjk Radical Mesh
-2EB6: Cjk Radical Sheep
-2EB7: Cjk Radical Ram
-2EB8: Cjk Radical Ewe
-2EB9: Cjk Radical Old
-2EBA: Cjk Radical Brush One
-2EBB: Cjk Radical Brush Two
-2EBC: Cjk Radical Meat
-2EBD: Cjk Radical Mortar
-2EBE: Cjk Radical Grass One
-2EBF: Cjk Radical Grass Two
-2EC0: Cjk Radical Grass Three
-2EC1: Cjk Radical Tiger
-2EC2: Cjk Radical Clothes
-2EC3: Cjk Radical West One
-2EC4: Cjk Radical West Two
-2EC5: Cjk Radical C-Simplified See
-2EC6: Cjk Radical Simplified Horn
-2EC7: Cjk Radical Horn
-2EC8: Cjk Radical C-Simplified Speech
-2EC9: Cjk Radical C-Simplified Shell
-2ECA: Cjk Radical Foot
-2ECB: Cjk Radical C-Simplified Cart
-2ECC: Cjk Radical Simplified Walk
-2ECD: Cjk Radical Walk One
-2ECE: Cjk Radical Walk Two
-2ECF: Cjk Radical City
-2ED0: Cjk Radical C-Simplified Gold
-2ED1: Cjk Radical Long One
-2ED2: Cjk Radical Long Two
-2ED3: Cjk Radical C-Simplified Long
-2ED4: Cjk Radical C-Simplified Gate
-2ED5: Cjk Radical Mound One
-2ED6: Cjk Radical Mound Two
-2ED7: Cjk Radical Rain
-2ED8: Cjk Radical Blue
-2ED9: Cjk Radical C-Simplified Tanned Leather
-2EDA: Cjk Radical C-Simplified Leaf
-2EDB: Cjk Radical C-Simplified Wind
-2EDC: Cjk Radical C-Simplified Fly
-2EDD: Cjk Radical Eat One
-2EDE: Cjk Radical Eat Two
-2EDF: Cjk Radical Eat Three
-2EE0: Cjk Radical C-Simplified Eat
-2EE1: Cjk Radical Head
-2EE2: Cjk Radical C-Simplified Horse
-2EE3: Cjk Radical Bone
-2EE4: Cjk Radical Ghost
-2EE5: Cjk Radical C-Simplified Fish
-2EE6: Cjk Radical C-Simplified Bird
-2EE7: Cjk Radical C-Simplified Salt
-2EE8: Cjk Radical Simplified Wheat
-2EE9: Cjk Radical Simplified Yellow
-2EEA: Cjk Radical C-Simplified Frog
-2EEB: Cjk Radical J-Simplified Even
-2EEC: Cjk Radical C-Simplified Even
-2EED: Cjk Radical J-Simplified Tooth
-2EEE: Cjk Radical C-Simplified Tooth
-2EEF: Cjk Radical J-Simplified Dragon
-2EF0: Cjk Radical C-Simplified Dragon
-2EF1: Cjk Radical Turtle
-2EF2: Cjk Radical J-Simplified Turtle
-2EF3: Cjk Radical C-Simplified Turtle
+2E9B: CJK Radical Choke
+2E9C: CJK Radical Sun
+2E9D: CJK Radical Moon
+2E9E: CJK Radical Death
+2E9F: CJK Radical Mother
+2EA0: CJK Radical Civilian
+2EA1: CJK Radical Water One
+2EA2: CJK Radical Water Two
+2EA3: CJK Radical Fire
+2EA4: CJK Radical Paw One
+2EA5: CJK Radical Paw Two
+2EA6: CJK Radical Simplified Half Tree Trunk
+2EA7: CJK Radical Cow
+2EA8: CJK Radical Dog
+2EA9: CJK Radical Jade
+2EAA: CJK Radical Bolt of Cloth
+2EAB: CJK Radical Eye
+2EAC: CJK Radical Spirit One
+2EAD: CJK Radical Spirit Two
+2EAE: CJK Radical Bamboo
+2EAF: CJK Radical Silk
+2EB0: CJK Radical C-Simplified Silk
+2EB1: CJK Radical Net One
+2EB2: CJK Radical Net Two
+2EB3: CJK Radical Net Three
+2EB4: CJK Radical Net Four
+2EB5: CJK Radical Mesh
+2EB6: CJK Radical Sheep
+2EB7: CJK Radical Ram
+2EB8: CJK Radical Ewe
+2EB9: CJK Radical Old
+2EBA: CJK Radical Brush One
+2EBB: CJK Radical Brush Two
+2EBC: CJK Radical Meat
+2EBD: CJK Radical Mortar
+2EBE: CJK Radical Grass One
+2EBF: CJK Radical Grass Two
+2EC0: CJK Radical Grass Three
+2EC1: CJK Radical Tiger
+2EC2: CJK Radical Clothes
+2EC3: CJK Radical West One
+2EC4: CJK Radical West Two
+2EC5: CJK Radical C-Simplified See
+2EC6: CJK Radical Simplified Horn
+2EC7: CJK Radical Horn
+2EC8: CJK Radical C-Simplified Speech
+2EC9: CJK Radical C-Simplified Shell
+2ECA: CJK Radical Foot
+2ECB: CJK Radical C-Simplified Cart
+2ECC: CJK Radical Simplified Walk
+2ECD: CJK Radical Walk One
+2ECE: CJK Radical Walk Two
+2ECF: CJK Radical City
+2ED0: CJK Radical C-Simplified Gold
+2ED1: CJK Radical Long One
+2ED2: CJK Radical Long Two
+2ED3: CJK Radical C-Simplified Long
+2ED4: CJK Radical C-Simplified Gate
+2ED5: CJK Radical Mound One
+2ED6: CJK Radical Mound Two
+2ED7: CJK Radical Rain
+2ED8: CJK Radical Blue
+2ED9: CJK Radical C-Simplified Tanned Leather
+2EDA: CJK Radical C-Simplified Leaf
+2EDB: CJK Radical C-Simplified Wind
+2EDC: CJK Radical C-Simplified Fly
+2EDD: CJK Radical Eat One
+2EDE: CJK Radical Eat Two
+2EDF: CJK Radical Eat Three
+2EE0: CJK Radical C-Simplified Eat
+2EE1: CJK Radical Head
+2EE2: CJK Radical C-Simplified Horse
+2EE3: CJK Radical Bone
+2EE4: CJK Radical Ghost
+2EE5: CJK Radical C-Simplified Fish
+2EE6: CJK Radical C-Simplified Bird
+2EE7: CJK Radical C-Simplified Salt
+2EE8: CJK Radical Simplified Wheat
+2EE9: CJK Radical Simplified Yellow
+2EEA: CJK Radical C-Simplified Frog
+2EEB: CJK Radical J-Simplified Even
+2EEC: CJK Radical C-Simplified Even
+2EED: CJK Radical J-Simplified Tooth
+2EEE: CJK Radical C-Simplified Tooth
+2EEF: CJK Radical J-Simplified Dragon
+2EF0: CJK Radical C-Simplified Dragon
+2EF1: CJK Radical Turtle
+2EF2: CJK Radical J-Simplified Turtle
+2EF3: CJK Radical C-Simplified Turtle
 2EF4:
 2EF5:
 2EF6:

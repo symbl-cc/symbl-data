@@ -1,24 +1,40 @@
-title: Unicode®キャラクター図鑑
+title: Unicode キャラクター図鑑
+unicode: Unicode
+unicodeorg: は、米国およびその他の国におけるUnicode®の登録商標です。 このサイトは、Unicode、Inc（Unicode Consortiumとも呼ばれます）にいかなる形でも関連付けられておらず、また支持されていません。 公式のUnicode Webサイトについては、
+
+[mainpage]: メインページ
 
 [sets]	: 記号分類シンク
 # @todo set	
 list	: 記号分類シンク
-	
+title: 人気のキャラクターセット
+all: すべてを見る
+
 [blocks]	: リストセグメントの文字
 # @todo block	
-blocks	: Unicode文字リストセクション
+blocks	: Unicodeのブロックと含まれる用字 
+list: Unicode
 	
 [languages]	: 言語
 list	: 言語のリスト
 blocks	: 文字の範囲で使用される言語
 	
 [countries]	: カントリー
-list	: 国リスト
+list: 国リスト
 	
 [alphabets]	: アルファベット
-# @todo list	
-	
+list: アルファベット
+
+[holidays]: 休日
+list: 休日
+
 [types]	: タイプ文字リスト
 # @todo type	
 list	: タイプ文字リスト 
 
+[html-entities]: HTMLエンティティ
+list: HTMLエンティティ
+
+[alt-codes]: WindowsのALTコード
+list: ALTコード
+en: 英語キーボードのレイアウト

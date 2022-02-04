@@ -1,6 +1,6 @@
 0C00: Semnul Telugu combinând Candrabindu deasupra
-0C01: Telugu Semnează Candrabindu : arasunna
-0C02: Telugu semnează Anusvara : Sunna
+0C01: Telugu Semnează Candrabindu: arasunna
+0C02: Telugu semnează Anusvara: Sunna
 0C03: Telugu Semnează Visarga
 0C04: Semnul Telugu combinând Anusvara deasupra
 0C05: Telugu Scrisoarea A
@@ -75,7 +75,7 @@
 0C4A: Telugu Vowel Sign O
 0C4B: Telugu Vowel Sign Oo
 0C4C: Telugu Vowel Sign Au
-0C4D: Telugu semnează Virama : halant (numele preferat)
+0C4D: Telugu semnează Virama: halant (numele preferat)
 0C4E:
 0C4F:
 0C50:
@@ -100,16 +100,16 @@
 0C63: Telugu Vowel Sign Vocalic Ll
 0C64: <Rezervat>
 0C65: <Rezervat>
-0C66: Telugu Digit Zero
-0C67: Telugu Digit One
-0C68: Telugu Digit Two
-0C69: Telugu Digit Trei
-0C6A: Telugu Digit Patru
-0C6B: Telugu Digit Five
-0C6C: Telugu Digit Six
-0C6D: Telugu Digit Seven
-0C6E: Telugu Cifra opt
-0C6F: Telugu Digit Nine
+0C66: Telugu cifră zero
+0C67: Telugu cifra unu
+0C68: Telugu cifra a doua
+0C69: Telugu cifra trei
+0C6A: Telugu cifra patru
+0C6B: Telugu cifra cinci
+0C6C: Telugu cifra șase
+0C6D: Telugu cifra șapte
+0C6E: Telugu cifra opt
+0C6F: Telugu cifra nouă
 0C70:
 0C71:
 0C72:
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu semn Siddham
 0C78: Telugu Fraction Digit Zero pentru puteri ciudate de patru
 0C79: Telugu Fraction Digit One pentru puteri ciudate de patru
 0C7A: Telugu Fraction Digit Două pentru puteri ciudate de patru
@@ -253,4 +253,4 @@
 0CFC:
 0CFD:
 0CFE:
-0CFF:
+0CFF:

@@ -144,7 +144,7 @@ A78E: Letra minúscula latina L con gancho y cinturón retroflex
 A78F: Punto sinológico de letra pequeña latina
 A790: Latin Mayúscula N con Descendente
 A791: Letra minúscula latina N con descendente
-A792: Letra mayúscula latina con barra : símbolo cámbrico
+A792: Letra mayúscula latina con barra: símbolo cámbrico
 A793: Letra minúscula latina con barra
 A794: Letra minúscula latina C con gancho palatal
 A795: Letra minúscula latina H con gancho palatal
@@ -184,23 +184,23 @@ A7B6: Mayúscula latina omega
 A7B7: Letra latina pequeña omega
 A7B8: Letra mayúscula latina U con trazo
 A7B9: Letra minúscula latina U con trazo
-A7BA:
-A7BB:
-A7BC:
-A7BD:
-A7BE:
-A7BF:
-A7C0:
-A7C1:
-A7C2:
-A7C3:
-A7C4:
-A7C5:
-A7C6:
-A7C7:
-A7C8:
-A7C9:
-A7CA:
+A7BA: Letra mayúscula latina glotal a
+A7BB: Letra latina minúscula glótica a
+A7BC: Letra mayúscula latina glotal i
+A7BD: Letra latina minúscula glótica i
+A7BE: Letra mayúscula latina glottal u
+A7BF: Letra latina minúscula glottal u
+A7C0: 
+A7C1: 
+A7C2: Letra mayúscula latina anglicana w
+A7C3: Letra latina minúscula anglicana w
+A7C4: Letra mayúscula latina c con gancho palatino
+A7C5: Letra mayúscula latina s con gancho
+A7C6: Letra mayúscula latina z con gancho palatino
+A7C7: Letra mayúscula latina d con superposición de trazo corto
+A7C8: Letra latina minúscula d con superposición de trazo corto
+A7C9: Letra mayúscula latina s con superposición de trazo corto
+A7CA: Letra minúscula latina s con superposición de trazo corto
 A7CB:
 A7CC:
 A7CD:
@@ -243,8 +243,8 @@ A7F1:
 A7F2:
 A7F3:
 A7F4:
-A7F5:
-A7F6:
+A7F5: Letra mayúscula latina invertida media h
+A7F6: Letra latina pequeña invertida media h
 A7F7: Letra Epigráfica Latina De Lado I
 A7F8: Modificador de letras mayúsculas H con trazo
 A7F9: Letra modificadora pequeña ligadura Oe

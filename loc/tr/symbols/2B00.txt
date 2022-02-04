@@ -78,16 +78,16 @@
 2B4D: Aşağı doğru Üçgen Başlı Zikzak Ok
 2B4E: Kısa Eğimli Kuzey Ok
 2B4F: Kısa Eğimli Güney Ok
-2B50: Beyaz Orta Yıldız : Sarı yıldız
+2B50: Beyaz Orta Yıldız: Sarı yıldız
 2B51: Siyah Küçük Yıldız
 2B52: Beyaz Küçük Yıldız
 2B53: Siyah sağ işaret pentagon
 2B54: Beyaz sağ işaret pentagon
-2B55: Ağır Büyük Daire : Hız sınırı için temel sembol, Doğru, Red Circle, Circle Mark
-2B56: Oval İç İçi Ağır Oval : valilik bürosu
-2B57: İçinde Daire Olan Ağır Daire : belediye dairesi
-2B58: Ağır Çember : kasaba veya köy bürosu
-2B59: Ağır Dairesel Saltire : karakol
+2B55: Ağır Büyük Daire: Hız sınırı için temel sembol, Doğru, Red Circle, Circle Mark
+2B56: Oval İç İçi Ağır Oval: valilik bürosu
+2B57: İçinde Daire Olan Ağır Daire: belediye dairesi
+2B58: Ağır Çember: kasaba veya köy bürosu
+2B59: Ağır Dairesel Saltire: karakol
 2B5A: Kancalı Başlı Eğimli Kuzey Ok
 2B5B: Kancalı Kuyruklu Eğimli Güney Ok
 2B5C: Yatay Kuyruklu Eğimli Kuzey Ok
@@ -110,20 +110,20 @@
 2B6D: Aşağıya Üçgen Başlı Kesik Ok
 2B6E: Saat yönünde üçgen başlı açık daire ok
 2B6F: Saat yönünün tersine üçgen başlı açık daire ok
-2B70: Sola Üçgen Başlı Ok Çubuğa : sol sekme
-2B71: Çubuğa Yukarı Üçgen Başlı Ok : yukarı sekmesi
-2B72: Çubuğa Dik Üçgen Başlı Ok : sağ sekme
-2B73: Aşağıya doğru Üçgen Başlı Ok : aşağı sekme
+2B70: Sola Üçgen Başlı Ok Çubuğa: sol sekme
+2B71: Çubuğa Yukarı Üçgen Başlı Ok: yukarı sekmesi
+2B72: Çubuğa Dik Üçgen Başlı Ok: sağ sekme
+2B73: Aşağıya doğru Üçgen Başlı Ok: aşağı sekme
 2B74:
 2B75:
-2B76: Kuzey Batı Üçgenseli Başlı Ok : ev
+2B76: Kuzey Batı Üçgenseli Başlı Ok: ev
 2B77: Kuzey Doğu Üçgen Başlı Ok Çıtası
-2B78: Güney Doğu Üçgen Başlı Ok Çıtası : son
+2B78: Güney Doğu Üçgen Başlı Ok Çıtası: son
 2B79: Güney Batı Üçgen Başlı Ok Bar
 2B7A: Çift Yatay Vuruşlu Soldan Üçgen Başlı Ok
-2B7B: Çift Yatay İnme ile Yukarı Üçgen Başlı Ok : sayfa yukarı
+2B7B: Çift Yatay İnme ile Yukarı Üçgen Başlı Ok: sayfa yukarı
 2B7C: Çift Yatay İnme ile Sağdan Üçgen Başlı Ok
-2B7D: Çift Yatay İnme ile Aşağı Üçgen Başlı Ok : sayfa aşağı
+2B7D: Çift Yatay İnme ile Aşağı Üçgen Başlı Ok: sayfa aşağı
 2B7E: Yatay Sekme Tuşu
 2B7F: Dikey Sekme Tuşu
 2B80: Sola Üçgen Başlı Ok Üzerine Sağa Üçgen Başlı Ok Üzerine
@@ -146,10 +146,10 @@
 2B91: Sağa Dön
 2B92: Newline Left
 2B93: Newline Right
-2B94: Saat Yönünün Tersine Dönen Dört Köşe Ok : döngü
+2B94: Saat Yönünün Tersine Dönen Dört Köşe Ok: döngü
 2B95: Sağa siyah ok
 2B96:
-2B97:
+2B97: A tipi elektronik sembolü
 2B98: Üç Boyutlu En Işıklı Sol
 2B99: Üç Boyutlu Sağ ışıklı Yukarı Eşkenar Ok Ucu
 2B9A: Üç Boyutlu Top-Lighted Rightwards Eşkenar Ok
@@ -182,8 +182,8 @@
 2BB5: Şerit ok sağ yukarı
 2BB6: Şerit ok aşağı sol
 2BB7: Şerit ok sağ aşağı
-2BB8: Yatay Çubuklu Çubuğa Yukarıdan Beyaz Ok : Caps Lock
-2BB9: Dikdörtgen Bir Kutuda Yukarı Ok Başı : kaçış
+2BB8: Yatay Çubuklu Çubuğa Yukarıdan Beyaz Ok: Caps Lock
+2BB9: Dikdörtgen Bir Kutuda Yukarı Ok Başı: kaçış
 2BBA: Örtüşen Beyaz Kareler
 2BBB: Örtüşen Beyaz ve Siyah Kareler
 2BBC: Örtüşen Siyah Kareler
@@ -199,7 +199,7 @@
 2BC6: Siyah Orta Aşağı Yönlü Üçgen Merkezli
 2BC7: Siyah Orta Sol İşaret Üçgeni Merkezli
 2BC8: Siyah Orta Sağ İşaret Üçgeni Merkezli
-2BC9:
+2BC9: Neptün form iki
 2BCA: Üst Yarım Siyah Daire
 2BCB: Alt Yarım Siyah Daire
 2BCC: Açık dört sivri siyah doruk
@@ -207,7 +207,7 @@
 2BCE: Beyaz Dört Sivri Uçlu
 2BCF: Döndürülmüş Beyaz Dört Sivri Uçlu
 2BD0: Kare Konum Göstergesi
-2BD1: Belirsizlik işareti : sorgu
+2BD1: Belirsizlik işareti: sorgu
 2BD2: Grup İşareti
 2BD3: Pluto Form İki
 2BD4: Pluto Formu Üç
@@ -234,10 +234,10 @@
 2BE9: Sağ yarı siyah yıldız
 2BEA: Sol Yarım Siyah Yıldız
 2BEB: Sağ Yarı Siyah ile Yıldız
-2BEC: Sol başlı, üç başlı ok uçlu iki başlı ok : hızlı imleç sola
-2BED: Üç Başlı Ok Başları ile Yukarı İki Başlı Ok : hızlı imleç yukarı
-2BEE: Üç başlı ok başları ile sağa iki başlı ok : hızlı imleç sağ
-2BEF: Üç Başlı Ok Başları ile Aşağıya İki Başlı Ok : hızlı imleç aşağı
+2BEC: Sol başlı, üç başlı ok uçlu iki başlı ok: hızlı imleç sola
+2BED: Üç Başlı Ok Başları ile Yukarı İki Başlı Ok: hızlı imleç yukarı
+2BEE: Üç başlı ok başları ile sağa iki başlı ok: hızlı imleç sağ
+2BEF: Üç Başlı Ok Başları ile Aşağıya İki Başlı Ok: hızlı imleç aşağı
 2BF0: Eris Form Bir
 2BF1: Eris Form İki
 2BF2: Sedna
@@ -253,4 +253,4 @@
 2BFC: İki Katlı Sembol
 2BFD: Geçti Sembolü
 2BFE: Ters dik açı
-2BFF:
+2BFF: Hellschreiber duraklatma sembolü

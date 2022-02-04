@@ -1,32 +1,32 @@
 11400: Newa Letra A
 11401: Newa Letra Aa
 11402: Newa Letra I
-11403: Newa Letter Ii
+11403: Newa letra Ii
 11404: Newa Letra U
 11405: Newa Letra Uu
 11406: Newa Letra Vocalic R
-11407: Newa Letter Vocalic Rr
+11407: Newa letra Vocalic Rr
 11408: Newa Letra Vocalic L
 11409: Letra Newa Vocalic Ll
 1140A: Newa Letra E
-1140B: Newa Letter Ai
+1140B: Newa letra Ai
 1140C: Newa Letra O
-1140D: Newa Letter Au
+1140D: Newa letra Au
 1140E: Newa Letra Ka
 1140F: Nueva letra kha
-11410: Newa Letter Ga
+11410: Newa letra Ga
 11411: Newa Letra Gha
 11412: Newa Letra Nga
-11413: Newa Letter Ngha
+11413: Newa letra Ngha
 11414: Newa Letra Ca
-11415: Newa Letter Cha
+11415: Newa letra Cha
 11416: Letra newa ja
 11417: Newa Letra Jha
 11418: Newa Letra Nya
 11419: Letra de Newa Nyha
 1141A: Newa Letra Tta
 1141B: Newa Letra Ttha
-1141C: Newa Letter Dda
+1141C: Newa letra Dda
 1141D: Letra Newa Ddha
 1141E: Newa Letra Nna
 1141F: Letra ta newa
@@ -37,19 +37,19 @@
 11424: Newa Letra Nha
 11425: Newa letra pa
 11426: Newa Letra Pha
-11427: Newa Letter Ba
+11427: Newa letra Ba
 11428: Newa letra bha
 11429: Newa Letra Ma
 1142A: Newa Letra Mha
-1142B: Newa Letter Ya
+1142B: Newa letra Ya
 1142C: Newa letra ra
 1142D: Newa Letra Rha
-1142E: Newa Letter La
+1142E: Newa letra La
 1142F: Newa Letra Lha
 11430: Letra newa wa
-11431: Newa Letter Sha
-11432: Newa Letter Ssa
-11433: Newa Letter Sa
+11431: Newa letra Sha
+11432: Newa letra Ssa
+11433: Newa letra Sa
 11434: Newa Letra Ha
 11435: Newa Vowel Sign Aa
 11436: Newa Vowel Sign I
@@ -88,14 +88,14 @@
 11457: Newa Digit Seven
 11458: Newa Dígito Ocho
 11459: Newa Dígito Nueve
-1145A:
-1145B: Marca de marcador de posición de Newa
-1145C:
-1145D: Signo de Inserción Newa
-1145E: Newa Sandhi Mark
-1145F:
-11460:
-11461:
+1145A: Newa doble coma
+1145B: Newa marca de marcador de posición
+1145C: 
+1145D: Newa letrero de inserción
+1145E: Newa sandhi mark
+1145F: Newa carta vedic anusvara
+11460: Newa sign jihvamuliya
+11461: Newa sign upadhmaniya
 11462:
 11463:
 11464:
@@ -192,10 +192,10 @@
 114BF: Tirhuta Sign Candrabindu
 114C0: Tirhuta Sign Anusvara
 114C1: Tirhuta Sign Visarga
-114C2: Tirhuta Sign Virama : Halant
+114C2: Tirhuta Sign Virama: Halant
 114C3: Tirhuta Sign Nukta
 114C4: Signo de Tirhuta Avagraha
-114C5: Tirhuta Gvang : anusvara védica
+114C5: Tirhuta Gvang: anusvara védica
 114C6: Signo de la abreviatura de Tirhuta
 114C7: Tirhuta Om
 114C8:
@@ -253,4 +253,4 @@
 114FC:
 114FD:
 114FE:
-114FF:
+114FF:

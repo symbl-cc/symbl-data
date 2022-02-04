@@ -19,9 +19,9 @@
 0512: Cyrillic Capital Letter El cu cârlig
 0513: Chirilică cu litere mici cu cârlig
 0514: Scrisoarea de capital chirilă Lha
-0515: Literele chirilici mici Lha : fără voce
+0515: Literele chirilici mici Lha: fără voce
 0516: Scrisoarea de capital chirilă Rha
-0517: Chiar scrisă chirilică Rha : fără voce r
+0517: Chiar scrisă chirilică Rha: fără voce r
 0518: Chiar scrisă de capital chirilă Yae
 0519: Chiar scrisă chirilică Yae
 051A: Scrisoarea de capital chirilă Qa
@@ -31,9 +31,9 @@
 051E: Scrisoarea de capital chirilică Aleut Ka
 051F: Chiar scrisă chirilică Aleut Ka
 0520: Cyrillic Capital Letter El cu cârligul mijlociu
-0521: Chirilică cu litere mici, cu cârlig de mijloc : palatalizat l
+0521: Chirilică cu litere mici, cu cârlig de mijloc: palatalizat l
 0522: Scrisoarea de capital chirilă En cu cârligul mijlociu
-0523: Scrimă chirilică mică En cu cârlig de mijloc : palatalizat n
+0523: Scrimă chirilică mică En cu cârlig de mijloc: palatalizat n
 0524: Chirilic Capital Letter Pe cu Descender
 0525: Chirilică cu litere mici cu Descender
 0526: Scrisoarea de capital chirilă Shha cu Descender
@@ -88,12 +88,12 @@
 0557:
 0558:
 0559: Armenian Modifier Letter Inferior Half Ring
-055A: Armeanul Apostrophe : armenian modifier scrisoare inel jumătate dreapta
-055B: Armean Mark accent : shesht
-055C: Armean Mark de exclamare : batsaganchakan nshan
-055D: Comanda armeană : bowt
-055E: Armenian Question Mark : hartsakan nshan
-055F: Armenian Abbreviation Mark : patiw
+055A: Armeanul Apostrophe: armenian modifier scrisoare inel jumătate dreapta
+055B: Armean Mark accent: shesht
+055C: Armean Mark de exclamare: batsaganchakan nshan
+055D: Comanda armeană: bowt
+055E: Armenian Question Mark: hartsakan nshan
+055F: Armenian Abbreviation Mark: patiw
 0560: Scrisoarea de armeană mică a transformat Ayb
 0561: Armenian Small Letter Ayb
 0562: Armenian Small Letter Ben
@@ -135,44 +135,44 @@
 0586: Armenian Small Letter Feh
 0587: Ligatura armeană mică Ech Yiwn
 0588: Armenianul mic scrisoare Yi cu accident vascular cerebral
-0589: Armean Full Stop : vertsaket
-058A: Armean Hyphen : yentamna
+0589: Armean Full Stop: vertsaket
+058A: Armean Hyphen: yentamna
 058B:
 058C:
 058D: Semnul armean de eternitate cu fața în față
 058E: Semnul armean de eternitate stânga
 058F: Armean Dram Sign
 0590:
-0591: Hebrew Accent Etnahta : atnah
-0592: Hebrew Accent Segol : segolta
+0591: Hebrew Accent Etnahta: atnah
+0592: Hebrew Accent Segol: segolta
 0593: Hebrew Accent Shalshelet
 0594: Evreiesc Accent Zaqef Qatan
 0595: Evreiesc Accent Zaqef Gadol
-0596: Evreiesc Accent Tipeha : tarha, me'ayla ~ mayla
+0596: Evreiesc Accent Tipeha: tarha, me'ayla ~ mayla
 0597: Evreiesc Accent Revia
-0598: Evreiesc Accent Zarqa : tsinorit, zinorit; tsinor, zinor
+0598: Evreiesc Accent Zarqa: tsinorit, zinorit, tsinor, zinor
 0599: Hebrew Accent Pashta
 059A: Hebrew Accent Yetiv
 059B: Hebrew Accent Tevir
-059C: Evreiesc Accent Geresh : teres
+059C: Evreiesc Accent Geresh: teres
 059D: Evreiesc Accent Geresh Muqdam
 059E: Evreiesc Accent Gershayim
-059F: Evrei Accent Qarney Para : pazer gadol
+059F: Evrei Accent Qarney Para: pazer gadol
 05A0: Evrei Accent Telisha Gedola
-05A1: Evreiesc Accent Pazer : pazer qatan
+05A1: Evreiesc Accent Pazer: pazer qatan
 05A2: Evrei Accent Atnah Hafukh
 05A3: Ebraică Accent Munah
 05A4: Evreiesc Accent Mahapakh
-05A5: Evrei Accent Merkha : yored
+05A5: Evrei Accent Merkha: yored
 05A6: Evrei Accent Merkha Kefula
 05A7: Evrei Accent Darga
-05A8: Evrei Accent Qadma : azla
+05A8: Evrei Accent Qadma: azla
 05A9: Evreiesc Accent Telisha Qetana
-05AA: Evreiesc Accent Yerah Ben Yomo : Ghilgal
+05AA: Evreiesc Accent Yerah Ben Yomo: Ghilgal
 05AB: Hebrew Accent Ole
 05AC: Hebrew Accent Iluy
 05AD: Hebrew Accent Dehi
-05AE: Evreiesc Accent Zinor : tsinor; Zarqa
+05AE: Evreiesc Accent Zinor: tsinor, Zarqa
 05AF: Ebraică Mark Masora Circle
 05B0: Evreiesc Point Sheva
 05B1: Punctul evreiesc Hataf Segol
@@ -186,11 +186,11 @@
 05B9: Ebraică Point Holam
 05BA: Punctul evreiesc Holam Haser pentru Vav
 05BB: Ebraică Point Qubuts
-05BC: Ebraică Point Dagesh sau Mapiq : shuruq
-05BD: Evreiesc Point Meteg : siluq
+05BC: Ebraică Point Dagesh sau Mapiq: shuruq
+05BD: Evreiesc Point Meteg: siluq
 05BE: Ebraică Punctuation Maqaf
 05BF: Evrei Point Rafe
-05C0: Punctuația ebraică Paseq : legarmeh
+05C0: Punctuația ebraică Paseq: legarmeh
 05C1: Punctul evreiesc Shin Dot
 05C2: Punctul evreiesc Sin Dot
 05C3: Punctuația ebraică Sof Pasuq
@@ -206,7 +206,7 @@
 05CD:
 05CE:
 05CF:
-05D0: Ebraică Letter Alef : Aleph
+05D0: Ebraică Letter Alef: Aleph
 05D1: Purtătorul de scrisori evreiesc
 05D2: Ebraica Gimel
 05D3: Litera evreiască Dalet
@@ -228,7 +228,7 @@
 05E3: Ebraică Scrisoare finală Pe
 05E4: Scrisoarea ebraică Pe
 05E5: Ediția finală a episcopului Tsadi
-05E6: Scrisoarea ebraică Tsadi : Zade
+05E6: Scrisoarea ebraică Tsadi: Zade
 05E7: Scrisoarea evreiască Qof
 05E8: Ebraica Letter Resh
 05E9: Scrisoarea ebraică Shin
@@ -238,9 +238,9 @@
 05ED:
 05EE:
 05EF: Ebraic Yod Triangle
-05F0: Ligature ebraică dublă Vav : tsvey vovn
+05F0: Ligature ebraică dublă Vav: tsvey vovn
 05F1: Ligatura ebraică Yiddish Vav Yod
-05F2: Ligatura evreiască Yiddish Double Yod : tsvey yudn
+05F2: Ligatura evreiască Yiddish Double Yod: tsvey yudn
 05F3: Punctuația ebraică Geresh
 05F4: Ebraica Punctuație Gershayim
 05F5:
@@ -253,4 +253,4 @@
 05FC:
 05FD:
 05FE:
-05FF:
+05FF:

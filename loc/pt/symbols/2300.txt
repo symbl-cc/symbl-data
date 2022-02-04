@@ -1,31 +1,31 @@
 2300: Sinal de diâmetro
 2301: Flecha Elétrica
-2302: casa : Casa
+2302: casa: Casa
 2303: Acima da seta
 2304: Seta para baixo
 2305: Projetivo
 2306: Perspectiva
 2307: Linha Ondulada
-2308: Teto Esquerdo : aplatile upstile
+2308: Teto Esquerdo: aplatile upstile
 2309: Teto Direito
-230A: Chão esquerdo : apliltro downstile
+230A: Chão esquerdo: apliltro downstile
 230B: Chão direito
 230C: Colheita Inferior Direita
 230D: Colheita Inferior Esquerda
 230E: Colheita Superior Direita
 230F: Colheita Superior Esquerda
-2310: Invertido Não Assinar : começo da linha
-2311: Losango quadrado : kissen (travesseiro)
-2312: Arco : posição de qualquer linha
-2313: Segmento : posição de uma superfície
+2310: Invertido Não Assinar: começo da linha
+2311: Losango quadrado: kissen (travesseiro)
+2312: Arco: posição de qualquer linha
+2313: Segmento: posição de uma superfície
 2314: Setor
 2315: Gravador de telefone
-2316: Indicador de posição : posição verdadeira
+2316: Indicador de posição: posição verdadeira
 2317: Praça Viewdata
-2318: Sinal de lugar de interesse : tecla de comando : chave do sistema operacional (iso 9995-7)
-2319: Virou não assinar : marcador de linha
+2318: Sinal de lugar de interesse: tecla de comando , chave do sistema operacional (iso 9995-7)
+2319: Virou não assinar: marcador de linha
 231A: Ver
-231B: Ampulheta : símbolo alquímico por hora
+231B: Ampulheta: símbolo alquímico por hora
 231C: Canto superior esquerdo
 231D: Canto superior direito
 231E: Canto inferior esquerdo
@@ -34,14 +34,14 @@
 2321: Metade Integral Inferior
 2322: Olhar severo
 2323: Sorriso
-2324: Seta acima entre duas barras horizontais : tecla Enter
+2324: Seta acima entre duas barras horizontais: tecla Enter
 2325: Chave de Opção
-2326: Apagar para a direita : delete para a tecla direita
-2327: X em uma caixa retangular : tecla clara
+2326: Apagar para a direita: delete para a tecla direita
+2327: X em uma caixa retangular: tecla clara
 2328: Teclado
 2329: Suporte de Ângulo Esquerdo
 232A: Suporte de ângulo direito
-232B: Apagar para a esquerda : excluir para a tecla esquerda
+232B: Apagar para a esquerda: excluir para a tecla esquerda
 232C: Anel de benzeno
 232D: Cilindricidade
 232E: Todo o perfil
@@ -72,18 +72,18 @@
 2347: Apl Functional Symbol Quad Seta para a esquerda
 2348: Apl Símbolo Funcional Quad Seta para Direita
 2349: Apl Barra Funcional Símbolo Backslash Circle
-234A: Apl Functional Symbol Down Tack Underbar : em cima de underbar de aderência
+234A: Apl Functional Symbol Down Tack Underbar: em cima de underbar de aderência
 234B: Apl Símbolo Funcional Delta Stile
 234C: Apl Símbolo Funcional Quad Down Caret
 234D: Apl Functional Symbol Quad Delta
-234E: Apl Functional Symbol Down Tack Jota : up tack jot
+234E: Apl Functional Symbol Down Tack Jota: up tack jot
 234F: Apl paleta funcional para cima
 2350: Apl Functional Symbol Quad Seta para Cima
-2351: Apl Functional Symbol Up Aderência Overbar : down over tackbar
+2351: Apl Functional Symbol Up Aderência Overbar: down over tackbar
 2352: Apl Símbolo Funcional Del Stile
 2353: Apl Símbolo Funcional Quad Up Caret
 2354: Apl Símbolo Funcional Quad Del
-2355: Apl Símbolo funcional Up Tack Jot : jota para baixo jot
+2355: Apl Símbolo funcional Up Tack Jot: jota para baixo jot
 2356: Apl Paleta funcional para baixo para baixo
 2357: Apl Símbolo Funcional Quad Quad Downwards
 2358: Palavras-chave: Apl Functional Symbol Underbar
@@ -93,16 +93,16 @@
 235C: Barra de Instrumentos Circular com Símbolo Apl
 235D: Apl Functional Symbol Up Sapato Jota
 235E: Apl Quad Símbolo Funcional Quad Citação
-235F: Apl estrela de círculo de símbolo funcional : Ano novo, natal
+235F: Apl estrela de círculo de símbolo funcional: Ano novo, natal
 2360: Apl Funcional Símbolo Quad Colon
-2361: Apl Functional Symbol Up Aderência Diaeresis : down diaeresis tack
+2361: Apl Functional Symbol Up Aderência Diaeresis: down diaeresis tack
 2362: Apl Símbolo Funcional da Diaerese
 2363: Apl Functional Symbol Diaeresis Estrela
-2364: Apl Functional Symbol Jot Diaeresis : pio
-2365: Apl Diary Functional Symbol Circle : holler
+2364: Apl Functional Symbol Jot Diaeresis: pio
+2365: Apl Diary Functional Symbol Circle: holler
 2366: Apl Símbolo Funcional para Baixo Stile de Sapato
 2367: Apl Estêncil Funcional Esquerdo Sapato Esquerdo
-2368: Apl Símbolo Funcional Diacil Tilde : sorriso
+2368: Apl Símbolo Funcional Diacil Tilde: sorriso
 2369: Apl Símbolo Funcional Maior que Diaerese
 236A: Barra Comma de Símbolo Funcional Apl
 236B: Apl Símbolo Funcional do Til
@@ -131,13 +131,13 @@
 2382: Símbolo de sublinhado descontínuo
 2383: Símbolo de ênfase
 2384: Símbolo de composição
-2385: Quadrado Branco com Linha Vertical Central : Centro
+2385: Quadrado Branco com Linha Vertical Central: Centro
 2386: Digite o símbolo
 2387: Símbolo alternativo de chave
-2388: Símbolo do leme : ao controle
-2389: Barra Horizontal Circulada com Entalhe : pausa
-238A: Triângulo Circulado Para Baixo : interromper, quebrar
-238B: Círculo Quebrado com a Seta Noroeste : escapar
+2388: Símbolo do leme: ao controle
+2389: Barra Horizontal Circulada com Entalhe: pausa
+238A: Triângulo Circulado Para Baixo: interromper, quebrar
+238B: Círculo Quebrado com a Seta Noroeste: escapar
 238C: Desfazer Símbolo
 238D: Símbolo Monostável
 238E: Símbolo de histerese
@@ -174,8 +174,8 @@
 23AD: Gancho direito do suporte encaracolado inferior
 23AE: Extensão Integral
 23AF: Extensão de linha horizontal
-23B0: Seção de Suporte Enrolado Superior Esquerdo ou Inferior Direito : bigode esquerdo
-23B1: Seção de Suporte Enrolado Superior Direito ou Inferior Esquerdo : bigode certo
+23B0: Seção de Suporte Enrolado Superior Esquerdo ou Inferior Direito: bigode esquerdo
+23B1: Seção de Suporte Enrolado Superior Direito ou Inferior Esquerdo: bigode certo
 23B2: Top de Somação
 23B3: Summa Inferior
 23B4: Suporte Quadrado Superior
@@ -231,8 +231,8 @@
 23E6: Corrente alternada
 23E7: Interseção Elétrica
 23E8: Símbolo Decimal Decimal
-23E9: Triângulo duplo preto apontando para a direita : avanço rápido
-23EA: Triângulo duplo preto à esquerda : retrocesso rápido
+23E9: Triângulo duplo preto apontando para a direita: avanço rápido
+23EA: Triângulo duplo preto à esquerda: retrocesso rápido
 23EB: Triângulo duplo preto apontando para cima
 23EC: Triângulo Duplo Negativo
 23ED: Triângulo duplo preto à direita com barra vertical
@@ -242,13 +242,13 @@
 23F1: Cronômetro
 23F2: Relógio temporizador
 23F3: Ampulheta com areia a escoar
-23F4: Triângulo Médio Esquerdo Médio Preto : inverter de volta
-23F5: Triângulo preto médio de apontar para a direita : frente
-23F6: Triângulo preto médio apontando para cima : aumentar
-23F7: Triângulo preto médio de baixo para baixo : diminuir
-23F8: Barra Vertical Dupla : pausa
-23F9: Praça Preta para Parar : Pare
-23FA: Círculo Negro para Record : registro
+23F4: Triângulo Médio Esquerdo Médio Preto: inverter de volta
+23F5: Triângulo preto médio de apontar para a direita: frente
+23F6: Triângulo preto médio apontando para cima: aumentar
+23F7: Triângulo preto médio de baixo para baixo: diminuir
+23F8: Barra Vertical Dupla: pausa
+23F9: Praça Preta para Parar: Pare
+23FA: Círculo Negro para Record: registro
 23FB: Símbolo de poder
 23FC: Símbolo liga / desliga
 23FD: Poder, ligado, símbolo

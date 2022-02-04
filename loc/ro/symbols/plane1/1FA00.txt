@@ -1,87 +1,87 @@
-1FA00:
-1FA01:
-1FA02:
-1FA03:
-1FA04:
-1FA05:
-1FA06:
-1FA07:
-1FA08:
-1FA09:
-1FA0A:
-1FA0B:
-1FA0C:
-1FA0D:
-1FA0E:
-1FA0F:
-1FA10:
-1FA11:
-1FA12:
-1FA13:
-1FA14:
-1FA15:
-1FA16:
-1FA17:
-1FA18:
-1FA19:
-1FA1A:
-1FA1B:
-1FA1C:
-1FA1D:
-1FA1E:
-1FA1F:
-1FA20:
-1FA21:
-1FA22:
-1FA23:
-1FA24:
-1FA25:
-1FA26:
-1FA27:
-1FA28:
-1FA29:
-1FA2A:
-1FA2B:
-1FA2C:
-1FA2D:
-1FA2E:
-1FA2F:
-1FA30:
-1FA31:
-1FA32:
-1FA33:
-1FA34:
-1FA35:
-1FA36:
-1FA37:
-1FA38:
-1FA39:
-1FA3A:
-1FA3B:
-1FA3C:
-1FA3D:
-1FA3E:
-1FA3F:
-1FA40:
-1FA41:
-1FA42:
-1FA43:
-1FA44:
-1FA45:
-1FA46:
-1FA47:
-1FA48:
-1FA49:
-1FA4A:
-1FA4B:
-1FA4C:
-1FA4D:
-1FA4E:
-1FA4F:
-1FA50:
-1FA51:
-1FA52:
-1FA53:
+1FA00: Regele șahului neutru
+1FA01: Regina șahului neutru
+1FA02: Râul neutru al șahului
+1FA03: Episcop de șah neutru
+1FA04: Cavaler de șah neutru
+1FA05: Pion de șah neutru
+1FA06: Cavalerul alb de șah a rotit patruzeci și cinci de grade
+1FA07: Cavalerul de șah negru a rotit patruzeci și cinci de grade
+1FA08: Cavalerul neutru de șah a rotit patruzeci și cinci de grade
+1FA09: Regele șahului alb a rotit nouăzeci de grade
+1FA0A: Regina de șah alb a rotit nouăzeci de grade
+1FA0B: Râul alb de șah a rotit nouăzeci de grade
+1FA0C: Episcopul de șah alb a rotit nouăzeci de grade
+1FA0D: Cavalerul alb de șah a rotit nouăzeci de grade
+1FA0E: Pionul de șah alb a rotit nouăzeci de grade
+1FA0F: Regele șahului negru a rotit nouăzeci de grade
+1FA10: Regina de șah negru a rotit nouăzeci de grade
+1FA11: Roch negru șah a rotit nouăzeci de grade
+1FA12: Episcopul de șah negru a rotit nouăzeci de grade
+1FA13: Cavalerul de șah negru a rotit nouăzeci de grade
+1FA14: Pionul de șah negru a rotit nouăzeci de grade
+1FA15: Regele șahului neutru a rotit nouăzeci de grade
+1FA16: Regina șahului neutru a rotit nouăzeci de grade
+1FA17: Șirul neutru de șah a rotit nouăzeci de grade
+1FA18: Episcopul de șah neutru a rotit nouăzeci de grade
+1FA19: Cavalerul de șah neutru a rotit nouăzeci de grade
+1FA1A: Pionul de șah neutru a rotit nouăzeci de grade
+1FA1B: Cavalerul alb de șah a rotit o sută treizeci și cinci de grade
+1FA1C: Cavalerul de șah negru a rotit o sută treizeci și cinci de grade
+1FA1D: Cavalerul de șah neutru a rotit o sută treizeci și cinci de grade
+1FA1E: Șahul alb a devenit rege
+1FA1F: Șahul alb a devenit regină
+1FA20: Șahul alb s-a transformat
+1FA21: Șahul alb a devenit episcop
+1FA22: Șahul alb a transformat cavalerul
+1FA23: Șah alb transformat pion
+1FA24: Șahul negru a devenit rege
+1FA25: Șahul negru a devenit regină
+1FA26: Șahul negru s-a transformat
+1FA27: Șahul negru a devenit episcop
+1FA28: Șahul negru a devenit cavaler
+1FA29: Șahul negru a făcut pion
+1FA2A: Șahul neutru a devenit rege
+1FA2B: Șahul neutru a devenit regină
+1FA2C: Șahul neutru s-a transformat
+1FA2D: Șahul neutru a devenit episcop
+1FA2E: Șahul neutru a devenit cavaler
+1FA2F: Șah neutru transformat în pion
+1FA30: Cavalerul de șah alb a rotit două sute douăzeci și cinci de grade
+1FA31: Cavalerul de șah negru a rotit două sute douăzeci și cinci de grade
+1FA32: Cavalerul de șah neutru a rotit două sute douăzeci și cinci de grade
+1FA33: Regele șahului alb a rotit două sute șaptezeci de grade
+1FA34: Regina de șah alb a rotit două sute șaptezeci de grade
+1FA35: Râul alb de șah a rotit două sute șaptezeci de grade
+1FA36: Episcopul de șah alb a rotit două sute șaptezeci de grade
+1FA37: Cavalerul alb de șah a rotit două sute șaptezeci de grade
+1FA38: Pionul de șah alb a rotit două sute șaptezeci de grade
+1FA39: Regele șahului negru a rotit două sute șaptezeci de grade
+1FA3A: Regina de șah negru a rotit două sute șaptezeci de grade
+1FA3B: Râul negru de șah a rotit două sute șaptezeci de grade
+1FA3C: Episcopul de șah negru a rotit două sute șaptezeci de grade
+1FA3D: Cavalerul de șah negru a rotit două sute șaptezeci de grade
+1FA3E: Pionul de șah negru a rotit două sute șaptezeci de grade
+1FA3F: Regele șahului neutru a rotit două sute șaptezeci de grade
+1FA40: Regina de șah neutru a rotit două sute șaptezeci de grade
+1FA41: Râul neutru de șah a rotit două sute șaptezeci de grade
+1FA42: Episcopul de șah neutru a rotit două sute șaptezeci de grade
+1FA43: Cavalerul de șah neutru a rotit două sute șaptezeci de grade
+1FA44: Pionul de șah neutru s-a rotit cu două sute șaptezeci de grade
+1FA45: Cavalerul de șah alb a rotit trei sute cincisprezece grade
+1FA46: Cavalerul de șah negru a rotit trei sute cincisprezece grade
+1FA47: Cavalerul de șah neutru a rotit trei sute cincisprezece grade
+1FA48: Echipaj de șah alb
+1FA49: Echipaj de șah negru
+1FA4A: Echipaj de șah neutru
+1FA4B: Echiparul alb de șah a rotit nouăzeci de grade
+1FA4C: Echipajul de șah negru a rotit nouăzeci de grade
+1FA4D: Echipajul de șah neutru a rotit nouăzeci de grade
+1FA4E: Cavaler de șah alb-regină
+1FA4F: Cavaler de șah alb
+1FA50: Cavaler alb de șah
+1FA51: Cavaler-regizor de șah negru
+1FA52: Cavaler de șah negru
+1FA53: Cavaler-șef negru
 1FA54:
 1FA55:
 1FA56:
@@ -110,109 +110,109 @@
 1FA6D: Soldierul negru Xiangqi
 1FA6E:
 1FA6F:
-1FA70:
-1FA71:
-1FA72:
-1FA73:
-1FA74:
-1FA75:
-1FA76:
-1FA77:
-1FA78:
-1FA79:
-1FA7A:
-1FA7B:
-1FA7C:
-1FA7D:
-1FA7E:
-1FA7F:
-1FA80:
-1FA81:
-1FA82:
-1FA83:
-1FA84:
-1FA85:
-1FA86:
-1FA87:
-1FA88:
-1FA89:
-1FA8A:
-1FA8B:
-1FA8C:
-1FA8D:
-1FA8E:
-1FA8F:
-1FA90:
-1FA91:
-1FA92:
-1FA93:
-1FA94:
-1FA95:
-1FA96:
-1FA97:
-1FA98:
-1FA99:
-1FA9A:
-1FA9B:
-1FA9C:
-1FA9D:
-1FA9E:
-1FA9F:
-1FAA0:
-1FAA1:
-1FAA2:
-1FAA3:
-1FAA4:
-1FAA5:
-1FAA6:
-1FAA7:
-1FAA8:
-1FAA9:
-1FAAA:
-1FAAB:
-1FAAC:
-1FAAD:
-1FAAE:
-1FAAF:
-1FAB0:
-1FAB1:
-1FAB2:
-1FAB3:
-1FAB4:
-1FAB5:
-1FAB6:
-1FAB7:
-1FAB8:
-1FAB9:
-1FABA:
-1FABB:
-1FABC:
-1FABD:
-1FABE:
-1FABF:
-1FAC0:
-1FAC1:
-1FAC2:
-1FAC3:
-1FAC4:
-1FAC5:
-1FAC6:
-1FAC7:
-1FAC8:
-1FAC9:
-1FACA:
-1FACB:
-1FACC:
-1FACD:
-1FACE:
-1FACF:
-1FAD0:
-1FAD1:
-1FAD2:
-1FAD3:
-1FAD4:
-1FAD5:
-1FAD6:
+1FA70: Papuci de balet
+1FA71: Costum de baie dintr-o bucată
+1FA72: chiloți bărbătești
+1FA73: Pantaloni scurti
+1FA74: Sandală pernoasă
+1FA75: 
+1FA76: 
+1FA77: 
+1FA78: Picătură de sânge
+1FA79: Bandaj adeziv
+1FA7A: Stetoscop
+1FA7B: 
+1FA7C: 
+1FA7D: 
+1FA7E: 
+1FA7F: 
+1FA80: Yo-Yo
+1FA81: Zmeu
+1FA82: Paraşuta
+1FA83: Bumerang
+1FA84: Bagheta magica
+1FA85: Pinata
+1FA86: Păpuși cuibăritoare
+1FA87: 
+1FA88: 
+1FA89: 
+1FA8A: 
+1FA8B: 
+1FA8C: 
+1FA8D: 
+1FA8E: 
+1FA8F: 
+1FA90: Planeta inelată
+1FA91: Scaun
+1FA92: aparat de ras
+1FA93: Topor
+1FA94: Lampa Diya
+1FA95: Banjo
+1FA96: Casca militara
+1FA97: Acordeon
+1FA98: Tambur lung
+1FA99: Monedă
+1FA9A: Fierastrau de tâmplărie
+1FA9B: Şurubelniţă
+1FA9C: Scară
+1FA9D: Cârlig
+1FA9E: Oglindă
+1FA9F: Fereastră
+1FAA0: Pompă de WC
+1FAA1: Ac de cusut
+1FAA2: Nod
+1FAA3: Găleată
+1FAA4: Capcana mouse-ului
+1FAA5: Periuta de dinti
+1FAA6: Piatră de mormânt
+1FAA7: Pancartă
+1FAA8: Stâncă
+1FAA9: 
+1FAAA: 
+1FAAB: 
+1FAAC: 
+1FAAD: 
+1FAAE: 
+1FAAF: 
+1FAB0: A zbura
+1FAB1: Vierme
+1FAB2: Gândac
+1FAB3: Gândac de bucătărie
+1FAB4: Planta in ghiveci
+1FAB5: Lemn
+1FAB6: Pană
+1FAB7: 
+1FAB8: 
+1FAB9: 
+1FABA: 
+1FABB: 
+1FABC: 
+1FABD: 
+1FABE: 
+1FABF: 
+1FAC0: Inima anatomică
+1FAC1: plămânii
+1FAC2: Oameni care se îmbrățișează
+1FAC3: 
+1FAC4: 
+1FAC5: 
+1FAC6: 
+1FAC7: 
+1FAC8: 
+1FAC9: 
+1FACA: 
+1FACB: 
+1FACC: 
+1FACD: 
+1FACE: 
+1FACF: 
+1FAD0: Afine
+1FAD1: Ardei gras
+1FAD2: Oliv
+1FAD3: Flatbread
+1FAD4: Tamale
+1FAD5: Fondue
+1FAD6: Ceainic
 1FAD7:
 1FAD8:
 1FAD9:
@@ -253,4 +253,4 @@
 1FAFC:
 1FAFD:
 1FAFE:
-1FAFF:
+1FAFF:

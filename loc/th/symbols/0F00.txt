@@ -9,9 +9,9 @@
 0F08: เครื่องหมายทิเบต Sbrul Shad
 0F09: เครื่องหมายทิเบต Bskur Yig Mgo
 0F0A: เครื่องหมายทิเบต Bka- Shog Yig Mgo
-0F0B: Tsheg ทิเบตมาร์ค Intersyllabic : tsek
+0F0B: Tsheg ทิเบตมาร์ค Intersyllabic: tsek
 0F0C: ตัวคั่นเครื่องหมายทิเบต Tsheg Bstar
-0F0D: ทิเบต Mark Shad : Shey
+0F0D: ทิเบต Mark Shad: Shey
 0F0E: ธิเบตมาร์ค Nyis เก๋ง
 0F0F: ทิเบต Mark Tsheg Shad
 0F10: ธิเบตมาร์ค Nyis Tsheg เก๋ง
@@ -29,7 +29,7 @@
 0F1C: ทิเบตเข้าสู่ระบบ Rdel Dkar Gsum
 0F1D: ทิเบตเข้าสู่ระบบ Rdel Nag Gcig
 0F1E: ทิเบตเข้าสู่ระบบ Rdel Nag Gnyis
-0F1F: ถ. ทิเบตเข้าสู่ระบบ Dkar Rdel Nag : deka dena
+0F1F: ถ. ทิเบตเข้าสู่ระบบ Dkar Rdel Nag: deka dena
 0F20: ตัวเลขทิเบต 0
 0F21: ตัวเลขทิเบต 1
 0F22: ตัวเลขทิเบต 2
@@ -99,7 +99,7 @@
 0F62: อักษรทิเบตระ
 0F63: La อักษรทิเบต
 0F64: อักษรทิเบต Sha
-0F65: อักษรทิเบต Ssa : ชากลับ
+0F65: อักษรทิเบต Ssa: ชากลับ
 0F66: ตัวอักษรธิเบต
 0F67: อักษรทิเบตฮา
 0F68: อักษรทิเบต
@@ -111,7 +111,7 @@
 0F6E:
 0F6F:
 0F70:
-0F71: สระเสียงทิเบต : A-chung
+0F71: สระเสียงทิเบต: A-chung
 0F72: สระเสียงทิเบต
 0F73: เข้าสู่ระบบสระเสียงทิเบต
 0F74: สระเสียงทิเบต
@@ -124,13 +124,13 @@
 0F7B: เข้าสู่ระบบสระเสียงทิเบต
 0F7C: เข้าสู่ระบบสระเสียงทิเบต
 0F7D: เสียงสระของทิเบต
-0F7E: ทิเบตลงชื่อ Rjes Su Nga Ro : นิคหิต
-0F7F: ป้ายทิเบต Rnam Bcad : วิสรรชนีย์
+0F7E: ทิเบตลงชื่อ Rjes Su Nga Ro: นิคหิต
+0F7F: ป้ายทิเบต Rnam Bcad: วิสรรชนีย์
 0F80: สระเสียงทิเบต
 0F81: สระเสียงทิเบต
 0F82: เครื่องหมายทิเบต Nyi Zla Naa Da
 0F83: ป้าย Sna Ldan ของทิเบต
-0F84: เครื่องหมายทิเบต Halanta : srog med
+0F84: เครื่องหมายทิเบต Halanta: srog med
 0F85: Paluta ของทิเบต
 0F86: ทิเบตลงชื่อ Lci Rtags
 0F87: ทิเบตลงชื่อ Yang Rtags
@@ -171,15 +171,15 @@
 0FAA: Tsha จดหมาย Subjoined ทิเบต
 0FAB: ตัวอักษร Subzained ของทิเบต Dza
 0FAC: ตัวอักษร SubZined ของทิเบต Dzha
-0FAD: ตัวอักษร Subjoined ของทิเบต : wa-zur, wa-btags (wa ta)
+0FAD: ตัวอักษร Subjoined ของทิเบต: wa-zur, wa-btags (wa ta)
 0FAE: ตัวอักษร Subhained ทิเบต Zha
 0FAF: ตัวอักษร Subained ของทิเบต
-0FB0: จดหมาย Subjoined ของทิเบต - : A-chung
-0FB1: ตัวอักษร Subjoined ของทิเบต : ya-btags (ยาทา)
-0FB2: ตัวอักษร Subjoined ของทิเบต : ra-btags (ra ta)
+0FB0: จดหมาย Subjoined ของทิเบต -: A-chung
+0FB1: ตัวอักษร Subjoined ของทิเบต: ya-btags (ยาทา)
+0FB2: ตัวอักษร Subjoined ของทิเบต: ra-btags (ra ta)
 0FB3: La Subjoined ตัวอักษร La
 0FB4: ตัวอักษร Subjoined ในทิเบต Sha
-0FB5: Ssa จดหมาย Subjoined ทิเบต : กลับไปยัง subjoined sha
+0FB5: Ssa จดหมาย Subjoined ทิเบต: กลับไปยัง subjoined sha
 0FB6: ตัวอักษร Subjoined ของทิเบต
 0FB7: ตัวอักษร Subjoined ของทิเบต
 0FB8: ตัวอักษร Subjoined ของทิเบต
@@ -204,17 +204,17 @@
 0FCB: สัญลักษณ์ทิเบตหรือ Bu Gsum -Khyil
 0FCC: สัญลักษณ์ทิเบตหรือ Bu Bzhi -Khyil
 0FCD:
-0FCE: ธิเบตลงชื่อ Rdel Nag Rdel Dkar : Dena Deka
+0FCE: ธิเบตลงชื่อ Rdel Nag Rdel Dkar: Dena Deka
 0FCF: ทิเบตเข้าสู่ระบบ Rdel Nag Gsum
 0FD0: เครื่องหมายทิเบต Bska- Shog Gi Mgo Rgyan
 0FD1: เครื่องหมายทิเบต Mnyam Yig Gi Mgo Rgyan
-0FD2: Tsheg ทิเบตมาร์ค Nyis : สิ่งที่ต้องการ
-0FD3: เครื่องหมายทิเบต Initial Brda Rnying Yig Mgo Mdun Ma : da nying yik go dun ma
-0FD4: การปิดเครื่องหมายของทิเบต Brda Rnying Yig Mgo Sgab Ma : da nying yik go kab ma
-0FD5: ป้าย Svasti ที่หันไปทางขวา : gyung drung nang -khor : เครื่องหมายโชคดี
-0FD6: ป้าย Svasti ที่หันไปทางซ้าย : gyung drung phyi -khor : เครื่องหมายโชคดี
-0FD7: ป้าย Svasti ที่หันเข้าหาด้านขวาด้วย Dots : gyung drung nang -khor bzhi mig can : เครื่องหมายโชคดี
-0FD8: ป้าย Svasti ที่หันไปทางซ้ายพร้อม Dots : gyung drung phyi -khor bzhi mig can : เครื่องหมายโชคดี
+0FD2: Tsheg ทิเบตมาร์ค Nyis: สิ่งที่ต้องการ
+0FD3: เครื่องหมายทิเบต Initial Brda Rnying Yig Mgo Mdun Ma: da nying yik go dun ma
+0FD4: การปิดเครื่องหมายของทิเบต Brda Rnying Yig Mgo Sgab Ma: da nying yik go kab ma
+0FD5: ป้าย Svasti ที่หันไปทางขวา: gyung drung nang -khor , เครื่องหมายโชคดี
+0FD6: ป้าย Svasti ที่หันไปทางซ้าย: gyung drung phyi -khor , เครื่องหมายโชคดี
+0FD7: ป้าย Svasti ที่หันเข้าหาด้านขวาด้วย Dots: gyung drung nang -khor bzhi mig can , เครื่องหมายโชคดี
+0FD8: ป้าย Svasti ที่หันไปทางซ้ายพร้อม Dots: gyung drung phyi -khor bzhi mig can , เครื่องหมายโชคดี
 0FD9: เครื่องหมายของทิเบตชั้นนำ Mchan Rtags
 0FDA: เครื่องหมายของทิเบตต่อท้าย Mchan Rtags
 0FDB:
@@ -253,4 +253,4 @@
 0FFC:
 0FFD:
 0FFE:
-0FFF:
+0FFF:

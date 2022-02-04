@@ -1,51 +1,51 @@
-0000: Zero : NUL
-0001: Początek kursu : SOH
-0002: Początek tekstu : STX
-0003: Koniec tekstu : ETX
-0004: Koniec transmisji : EOT
-0005: Zapytanie ofertowe : ENQ
-0006: Uznać : ZAPYTAĆ
-0007: dzwon : BEL
-0008: Backspace : BS
-0009: Tabulacja pozioma : ht : zestawienie znaków : PATKA
-000A: Nowa linia (Nl) : wysuw wiersza (lf) : koniec linii (eol) : LF
-000B: Tabulacja pionowa : vt : tabulacja : PATKA
-000C: Form Feed : FF
-000D: Powrót karetki : CR
-000E: Shift Out : WIĘC
-000F: Shift In : SI
-0010: Ucieczka łącza danych : DLE
-0011: Kontrola urządzeń pierwsza : DC1
-0012: Kontrola urządzeń dwa : DC2
-0013: Kontrola urządzeń trzy : DC3
-0014: Kontrola urządzeń cztery : DC4
-0015: Potwierdzenie negatywne : NAK
-0016: Synchroniczny bieg jałowy : SYN
-0017: Koniec bloku transmisji : ETB
-0018: Anuluj : MOGĄ
-0019: Koniec medium : EM
-001A: Zastąpić : POD : Ctrl-Z
-001B: Ucieczka : WYJŚCIE
-001C: Separator plików : separator informacji cztery : FS
-001D: Separator grupy : separator informacji trzy : GS
-001E: Separator rekordów : separator informacji dwa : RS
-001F: Separator jednostek : separator informacji jeden : NAS
+0000: Zero: NUL
+0001: Początek kursu: SOH
+0002: Początek tekstu: STX
+0003: Koniec tekstu: ETX
+0004: Koniec transmisji: EOT
+0005: Zapytanie ofertowe: ENQ
+0006: Uznać: ZAPYTAĆ
+0007: dzwon: BEL
+0008: Backspace: BS
+0009: Tabulacja pozioma: ht , zestawienie znaków , PATKA
+000A: Nowa linia (Nl): wysuw wiersza (lf) , koniec linii (eol) , LF
+000B: Tabulacja pionowa: vt , tabulacja , PATKA
+000C: Form Feed: FF
+000D: Powrót karetki: CR
+000E: Shift Out: WIĘC
+000F: Shift In: SI
+0010: Ucieczka łącza danych: DLE
+0011: Kontrola urządzeń pierwsza: DC1
+0012: Kontrola urządzeń dwa: DC2
+0013: Kontrola urządzeń trzy: DC3
+0014: Kontrola urządzeń cztery: DC4
+0015: Potwierdzenie negatywne: NAK
+0016: Synchroniczny bieg jałowy: SYN
+0017: Koniec bloku transmisji: ETB
+0018: Anuluj: MOGĄ
+0019: Koniec medium: EM
+001A: Zastąpić: POD , Ctrl-Z
+001B: Ucieczka: WYJŚCIE
+001C: Separator plików: separator informacji cztery , FS
+001D: Separator grupy: separator informacji trzy , GS
+001E: Separator rekordów: separator informacji dwa , RS
+001F: Separator jednostek: separator informacji jeden , NAS
 0020: Przestrzeń
-0021: Wykrzyknik : Factorial : huk
+0021: Wykrzyknik: Factorial , huk
 0022: Cudzysłów
-0023: Znak liczbowy : znak funta : haszysz : kreskowanie : octothorpe
-0024: Znak dolara : milréis : escudo
+0023: Znak liczbowy: znak funta , haszysz , kreskowanie , octothorpe
+0024: Znak dolara: milréis , escudo
 0025: Znak procentu
 0026: Ampersand
-0027: Apostrof : apostrof-cytat : cytat apl
-0028: Lewy nawias : otwierający nawias
-0029: Prawy nawias : nawias zamykający
-002A: Gwiazdka : gwiazda
+0027: Apostrof: apostrof-cytat , cytat apl
+0028: Lewy nawias: otwierający nawias
+0029: Prawy nawias: nawias zamykający
+002A: Gwiazdka: gwiazda
 002B: Znak plus
-002C: Przecinek : separator liczb dziesiętnych
-002D: Hyphen-Minus : łącznik lub znak minus
-002E: Kropka : kropka, kropka, kropka dziesiętna
-002F: Solidus : slash, virgule
+002C: Przecinek: separator liczb dziesiętnych
+002D: Hyphen-Minus: łącznik lub znak minus
+002E: Kropka: kropka, kropka, kropka dziesiętna
+002F: Solidus: slash, virgule
 0030: Cyfra zero
 0031: Cyfra pierwsza
 0032: Cyfra druga
@@ -62,7 +62,7 @@
 003D: Równa się znak
 003E: Znak większy niż
 003F: Znak zapytania
-0040: Komercyjne : Na znaku : e-mail : Poczta
+0040: Komercyjne: Na znaku , e-mail , Poczta
 0041: Łacińska litera A
 0042: Łacińska litera B
 0043: Łacińska litera C
@@ -89,11 +89,11 @@
 0058: Łacińska litera X
 0059: Łacińska litera Y
 005A: Łacińska litera Z
-005B: Lewy wspornik kwadratowy : otwarcie wspornika kwadratowego
-005C: Reverse Solidus : ukośnik wsteczny
-005D: Prawy kwadratowy wspornik : zamknięcie wspornika kwadratowego
+005B: Lewy wspornik kwadratowy: otwarcie wspornika kwadratowego
+005C: Reverse Solidus: ukośnik wsteczny
+005D: Prawy kwadratowy wspornik: zamknięcie wspornika kwadratowego
 005E: Circumflex Accent
-005F: Niska linia : podkreślenie odstępów
+005F: Niska linia: podkreślenie odstępów
 0060: Grave Accent
 0061: Łacińska mała litera A
 0062: Łacińska mała litera B
@@ -121,11 +121,11 @@
 0078: Łacińska mała litera X
 0079: Łacińska mała litera Y
 007A: Łacińska mała litera Z
-007B: Lewy wspornik kręty : otwarcie nawiasu klamrowego : lewy klamra
-007C: Pionowa linia : pionowy pasek
-007D: Prawy nawias klamrowy : zamykanie nawiasu klamrowego : prawy nawias
+007B: Lewy wspornik kręty: otwarcie nawiasu klamrowego , lewy klamra
+007C: Pionowa linia: pionowy pasek
+007D: Prawy nawias klamrowy: zamykanie nawiasu klamrowego , prawy nawias
 007E: Tylda
-007F: Kasować : DEL
+007F: Kasować: DEL
 0080: <Kontrola>
 0081: <Kontrola>
 0082: Przerwij dozwolone tutaj
@@ -161,42 +161,42 @@
 00A0: Przestrzeń bez przerwy
 00A1: Odwrócony wykrzyknik
 00A2: Znak Cent
-00A3: Znak funta : funt szterling, irlandzki punt, włoska lira, turecka lira
+00A3: Znak funta: funt szterling, irlandzki punt, włoska lira, turecka lira
 00A4: Znak waluty
-00A5: Znak jena : znak juana
-00A6: Zepsuty bar : złamany pionowy pasek : reguła rozstana (w typografii)
+00A5: Znak jena: znak juana
+00A6: Zepsuty bar: złamany pionowy pasek , reguła rozstana (w typografii)
 00A7: Znak sekcji
 00A8: Diaeresis
-00A9: Znak praw autorskich : Kopiuj : (do)
+00A9: Znak praw autorskich: Kopiuj , (do)
 00AA: Kobiecy wskaźnik porządkowy
-00AB: Znak cudzysłowu po lewej stronie z podwójnym kątem : lewy guillemet : szewrony
-00AC: Nie podpisuj : kreska pod kątem (w typografii)
-00AD: Miękki dywiz : łącznik uznaniowy
-00AE: Zarejestrowany znak : zarejestrowany znak towarowy
-00AF: Macron : overline, apl overbar
+00AB: Znak cudzysłowu po lewej stronie z podwójnym kątem: lewy guillemet , szewrony
+00AC: Nie podpisuj: kreska pod kątem (w typografii)
+00AD: Miękki dywiz: łącznik uznaniowy
+00AE: Zarejestrowany znak: zarejestrowany znak towarowy
+00AF: Macron: overline, apl overbar
 00B0: Znak stopnia
 00B1: Plus minus symbol
-00B2: Indeks górny Dwa : do kwadratu
-00B3: Indeks górny Trzy : pokrojone w kostkę
+00B2: Indeks górny Dwa: do kwadratu
+00B3: Indeks górny Trzy: pokrojone w kostkę
 00B4: Ostry akcent
 00B5: Mikro znak
-00B6: Znak Pilcrow : znak akapitu
-00B7: Środkowa kropka : Punkt środkowy : przecinek georgiański : grecka środkowa kropka, symbol kropki
+00B6: Znak Pilcrow: znak akapitu
+00B7: Środkowa kropka: Punkt środkowy , przecinek georgiański , grecka środkowa kropka, symbol kropki
 00B8: Cedilla
 00B9: Indeks górny Jeden
 00BA: Męski wskaźnik porządkowy
-00BB: Znak cudzysłowu po prawej stronie z podwójnym kątem : prawy guillemet
+00BB: Znak cudzysłowu po prawej stronie z podwójnym kątem: prawy guillemet
 00BC: Vulgar Fraction One Quarter
 00BD: Vulgar Fraction One Half
 00BE: Wulgarna frakcja Trzy czwarte
-00BF: Odwrócony znak zapytania : włączony znak zapytania
+00BF: Odwrócony znak zapytania: włączony znak zapytania
 00C0: Łacińska litera a z Grave
 00C1: Łacińska litera a ostra
 00C2: Łacińska litera a z Circumflex
 00C3: Łacińska litera a z Tilde
 00C4: Łacińska litera a z diaeresis
 00C5: Łacińska litera a z pierścieniem powyżej
-00C6: Łacińska litera Ae : kapitał łaciński ligature ae
+00C6: Łacińska litera Ae: kapitał łaciński ligature ae
 00C7: Łacińska litera C z Cedilla
 00C8: Łacińska litera E z grobem
 00C9: Łacińska litera E z ostrą
@@ -213,22 +213,22 @@
 00D4: Łacińska litera O z Circumflex
 00D5: Łacińska litera O z Tilde
 00D6: Łacińska litera O z Diaeresis
-00D7: Znak mnożenia : notacja kartezjańska z z notacji
-00D8: Łacińska litera O ze skokiem : o slash
+00D7: Znak mnożenia: notacja kartezjańska z z notacji
+00D8: Łacińska litera O ze skokiem: o slash
 00D9: Łacińska litera U z grobem
 00DA: Łacińska litera U z ostrą
 00DB: Łacińska litera U z Circumflex
 00DC: Łacińska litera U z Diaeresis
 00DD: Łacińska litera Y z ostrą
 00DE: Łacińska litera Thorn
-00DF: Łacińska mała litera Sharp S : eszett
+00DF: Łacińska mała litera Sharp S: eszett
 00E0: Łacińska mała litera a z grobem
 00E1: Łacińska mała litera a ostra
 00E2: Łacińska mała litera a z Circumflex
 00E3: Łacińska mała litera a z Tilde
 00E4: Łacińska mała litera a z diurezą
 00E5: Łacińska mała litera a z pierścieniem powyżej
-00E6: Łacińska mała litera Ae : Łacińska mała ligatura ae : popiół (ze starego języka angielskiego)
+00E6: Łacińska mała litera Ae: Łacińska mała ligatura ae , popiół (ze starego języka angielskiego)
 00E7: Łacińska mała litera C z Cedillą
 00E8: Łacińska mała litera E z grobem
 00E9: Łacińska mała litera E z ostrą
@@ -245,12 +245,12 @@
 00F4: Łacińska mała litera O z Circumflex
 00F5: Łacińska mała litera O z Tilde
 00F6: Łacińska mała litera O z diaeresis
-00F7: Znak podziału : obelus
-00F8: Łacińska mała litera O z obrysem : o slash
+00F7: Znak podziału: obelus
+00F8: Łacińska mała litera O z obrysem: o slash
 00F9: Łacińska mała litera U z grobem
 00FA: Łacińska mała litera U z ostrą
 00FB: Łacińska mała litera U z Circumflex
-00FC: U z dwiema kropkami : Łacińska mała litera U z Diaeresis, U z trema, U z umlaut
+00FC: U z dwiema kropkami: Łacińska mała litera U z Diaeresis, U z trema, U z umlaut
 00FD: Łacińska mała litera Y z ostrą
 00FE: Łacińska mała litera Cierń
 00FF: Łacińska mała litera Y z diaeresis

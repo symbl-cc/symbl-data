@@ -63,7 +63,7 @@
 013E : Letra latina minúscula L con acento
 013F : Letra latina mayúscula L con middle dot
 0140 : Letra latina minúscula L con middle dot
-0141 : Letra latina mayúscula L con línea : litecoin
+0141: Letra latina mayúscula L con línea: litecoin
 0142 : Letra latina minúscula L con línea
 0143 : Letra latina mayúscula N con acento agudo
 0144 : Letra latina minúscula N con acento agudo
@@ -71,9 +71,9 @@
 0146 : Letra latina minúscula N con cedilla
 0147 : Letra latina mayúscula N con acento
 0148 : Letra latina minúscula N con acento
-0149 : Letra latina minúscula N preceded by apostrophe : letra pequeña latina apóstrofe n
+0149: Letra latina minúscula N preceded by apostrophe: letra pequeña latina apóstrofe n
 014A : Letra latina mayúscula Eng
-014B : Letra latina minúscula Eng : engma angma
+014B: Letra latina minúscula Eng: engma angma
 014C : Letra latina mayúscula O con macron
 014D : Letra latina minúscula O con macron
 014E : Letra latina mayúscula O con breve
@@ -81,7 +81,7 @@
 0150 : Letra latina mayúscula O con double acento agudo
 0151 : Letra latina minúscula O con double acento agudo
 0152 : Ligadura mayúscula latina OE
-0153 : Ligadura minúscula latina OE : ethel (del inglés antiguo eðel)
+0153: Ligadura minúscula latina OE: ethel (del inglés antiguo eðel)
 0154 : Letra latina mayúscula R con acento agudo
 0155 : Letra latina minúscula R con acento agudo
 0156 : Letra latina mayúscula R con cedilla
@@ -139,25 +139,25 @@
 018A : Letra latina mayúscula D con gancho
 018B : Letra latina mayúscula D con barra encima
 018C : Letra latina minúscula D con barra encima
-018D : Letra latina minúscula Delta convertido : pulido invertido o gancho
-018E : Letra latina mayúscula E invertido : convertido e
+018D: Letra latina minúscula Delta convertido: pulido invertido o gancho
+018E: Letra latina mayúscula E invertido: convertido e
 018F : Letra latina mayúscula Schwa
-0190 : Letra latina mayúscula E abierta : épsilon
+0190: Letra latina mayúscula E abierta: épsilon
 0191 : Letra latina mayúscula F con gancho
-0192 : Letra latina minúscula F con gancho : guión f : símbolo de moneda florin (países bajos) : símbolo de función
+0192: Letra latina minúscula F con gancho: guión f , símbolo de moneda florin (países bajos) , símbolo de función
 0193 : Letra latina mayúscula G con gancho
 0194 : Letra latina mayúscula Gamma
 0195 : Letra latina minúscula Hv
 0196 : Letra latina mayúscula Iota
-0197 : Letra latina mayúscula I con línea : bloqueado yo, yo bar
+0197: Letra latina mayúscula I con línea: bloqueado yo, yo bar
 0198 : Letra latina mayúscula K con gancho
 0199 : Letra latina minúscula K con gancho
-019A : Letra latina minúscula L con barra : bloqueado l
-019B : Letra latina minúscula Lambda con línea : lambda barrada, lambda bar
+019A: Letra latina minúscula L con barra: bloqueado l
+019B: Letra latina minúscula Lambda con línea: lambda barrada, lambda bar
 019C : Letra latina mayúscula M convertido
 019D : Letra latina mayúscula N con gancho de izquierda
 019E : Letra latina minúscula N con pierna derecha larga
-019F : Letra latina mayúscula O con tilde medio : barrado o, o bar
+019F: Letra latina mayúscula O con tilde medio: barrado o, o bar
 01A0 : Letra latina mayúscula O con cuerno
 01A1 : Letra latina minúscula O con cuerno
 01A2 : Letra latina mayúscula Oi
@@ -176,11 +176,11 @@
 01AF : Letra latina mayúscula U con horn
 01B0 : Letra latina minúscula U con horn
 01B1 : Letra latina mayúscula Upsilon
-01B2 : Letra latina mayúscula v con gancho : guión v
+01B2: Letra latina mayúscula v con gancho: guión v
 01B3 : Letra latina mayúscula Y con gancho
 01B4 : Letra latina minúscula Y con gancho
 01B5 : Letra latina mayúscula Z con línea
-01B6 : Letra latina minúscula Z con línea : barrado z, z bar
+01B6: Letra latina minúscula Z con línea: barrado z, z bar
 01B7 : Letra latina mayúscula ezh
 01B8 : Letra latina mayúscula ezh invertido
 01B9 : Letra latina minúscula ezh invertido
@@ -189,11 +189,11 @@
 01BC : Letra latina mayúscula tono cinco
 01BD : Letra latina minúscula tono cinco
 01BE : Latin letter parada glotal invertida con línea
-01BF : Latin letter Wynn : wen
-01C0 : Latin letter clic dental : tubo
-01C1 : Latin letter clic lateral : doble tubo
-01C2 : Latin letter clic alveolar : tubo de doble vástago : clic palatoalveolar (ipa)
-01C3 : Latin letter clic retroflex : letra latina del signo de exclamación : (publicar) clic alveolar (ipa)
+01BF: Latin letter Wynn: wen
+01C0: Latin letter clic dental: tubo
+01C1: Latin letter clic lateral: doble tubo
+01C2: Latin letter clic alveolar: tubo de doble vástago , clic palatoalveolar (ipa)
+01C3: Latin letter clic retroflex: letra latina del signo de exclamación , (publicar) clic alveolar (ipa)
 01C4 : Letra latina mayúscula Dz con acento
 01C5 : Letra latina mayúscula D con small letter Z con acento
 01C6 : Letra latina minúscula Dz con acento
@@ -245,7 +245,7 @@
 01F4 : Letra latina mayúscula G con acento agudo
 01F5 : Letra latina minúscula G con acento agudo
 01F6 : Letra latina mayúscula Hwair
-01F7 : Letra latina mayúscula Wynn : wen
+01F7: Letra latina mayúscula Wynn: wen
 01F8 : Letra latina mayúscula N con grave
 01F9 : Letra latina minúscula N con grave
 01FA : Letra latina mayúscula A con ring above y acento agudo

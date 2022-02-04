@@ -16,13 +16,13 @@
 2E0F: Paragraphos
 2E10: Çatallı Paragraphos
 2E11: Ters Çatallı Paragraphos
-2E12: Hypodiastole : ypodiastoli
+2E12: Hypodiastole: ypodiastoli
 2E13: Noktalı Obelos
 2E14: Aşağı Ancora
 2E15: Yukarı Ancora
-2E16: Noktalı Dik Açı : periestigmene dalgası
+2E16: Noktalı Dik Açı: periestigmene dalgası
 2E17: Çift eğik kısa çizgi
-2E18: Ters Interrobang : gnaborretni
+2E18: Ters Interrobang: gnaborretni
 2E19: Hurma dalı
 2E1A: Diyaterezli Tire
 2E1B: Yüzük yukarıda olan Tilde
@@ -44,7 +44,7 @@
 2E2B: İki Nokta Üzerinden Bir Nokta Noktalama Noktalama
 2E2C: Kare Dört Nokta Noktalama
 2E2D: Beş nokta işareti
-2E2E: Tersine Dönmüş Soru İşareti : punctus percontativus : ironi, alay
+2E2E: Tersine Dönmüş Soru İşareti: punctus percontativus , ironi, alay
 2E2F: Dikey Tilde
 2E30: Halka noktası
 2E31: Kelime Ayırıcı Orta Nokta
@@ -56,7 +56,7 @@
 2E37: Sağ Bekçi Hançer
 2E38: Döndü hançer
 2E39: Üst yarım bölüm işareti
-2E3A: İki Em Çizgi : ihmali
+2E3A: İki Em Çizgi: ihmali
 2E3B: Üçlü Çizgi
 2E3C: Stenografik Tam Durdurma
 2E3D: Dikey Altı Nokta
@@ -77,10 +77,10 @@
 2E4C: Ortaçağ virgül
 2E4D: Paragraf işareti
 2E4E: Punctus Elevatus Mark
-2E4F:
-2E50:
-2E51:
-2E52:
+2E4F: Korniş ayet bölücü
+2E50: Sağ kiriş ile çapraz patty
+2E51: Sol bağlantı çubuğu ile çapraz patty
+2E52: Tiron işareti başkenti Et
 2E53:
 2E54:
 2E55:
@@ -253,4 +253,4 @@
 2EFC:
 2EFD:
 2EFE:
-2EFF:
+2EFF:

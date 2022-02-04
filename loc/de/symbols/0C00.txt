@@ -1,8 +1,8 @@
-0C00:
+0C00: Telugu Zeichen kombinieren Candrabindu über
 0C01: Telugu-Zeichen Candrabindu
-0C02: Telugu-Zeichen Anusvara : Arasunna
-0C03: Telugu-Zeichen Visarga : Sunna
-0C04:
+0C02: Telugu-Zeichen Anusvara: Arasunna
+0C03: Telugu-Zeichen Visarga: Sunna
+0C04: Telugu Zeichen kombinieren Anusvara über
 0C05: Telugu-Buchstabe A
 0C06: Telugu-Buchstabe Aa
 0C07: Telugu-Buchstabe I
@@ -50,7 +50,7 @@
 0C31: Telugu-Buchstabe Rra
 0C32: Telugu-Buchstabe La
 0C33: Telugu-Buchstabe Lla
-0C34:
+0C34: Telugu-Buchstabe Llla
 0C35: Telugu-Buchstabe Va
 0C36: Telugu-Buchstabe Sha
 0C37: Telugu-Buchstabe Ssa
@@ -75,7 +75,7 @@
 0C4A: Telugu-Vokalzeichen O
 0C4B: Telugu-Vokalzeichen Oo
 0C4C: Telugu-Vokalzeichen Au
-0C4D: Telugu-Zeichen Virama : halant (der bevorzugte Name)
+0C4D: Telugu-Zeichen Virama: halant (der bevorzugte Name)
 0C4E:
 0C4F:
 0C50:
@@ -88,7 +88,7 @@
 0C57:
 0C58: Telugu-Buchstabe Tsa
 0C59: Telugu-Buchstabe Dza
-0C5A:
+0C5A: Telugu-Buchstabe Rrra
 0C5B:
 0C5C:
 0C5D:
@@ -117,7 +117,7 @@
 0C74:
 0C75:
 0C76:
-0C77:
+0C77: Telugu Zeichen Siddham
 0C78: Telugu-Ziffer Null (ungerade Exponenten)
 0C79: Telugu-Ziffer Eins (ungerade Exponenten)
 0C7A: Telugu-Ziffer Zwei (ungerade Exponenten)
@@ -126,11 +126,11 @@
 0C7D: Telugu-Ziffer Zwei (gerade Exponenten)
 0C7E: Telugu-Ziffer Drei (gerade Exponenten)
 0C7F: Telugu-Zeichen Tuumu
-0C80:
-0C81:
+0C80: Kannada Zeichen Abstand Candrabindu
+0C81: Kannada Zeichen Candrabindu
 0C82: Kannada-Zeichen Anusvara
 0C83: Kannada-Zeichen Visarga
-0C84:
+0C84: Kannada Zeichen Siddham
 0C85: Kannada-Buchstabe A
 0C86: Kannada-Buchstabe Aa
 0C87: Kannada-Buchstabe I

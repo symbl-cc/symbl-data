@@ -56,15 +56,15 @@
 1D137: 音乐符号Ottava Bassa
 1D138: 音乐符号Quindicesima Alta
 1D139: 音乐符号Quindicesima Bassa
-1D13A: 音乐符号多休息 : 双重全休，短暂休息
-1D13B: 音乐符号整个休息 : 半精神休息
-1D13C: 音乐符号半休息 : 微量休息
-1D13D: 音乐符号季休息 : 钩针休息
-1D13E: 音乐符号第八休息 : 颤抖休息
-1D13F: 音乐符号第十六休息 : 半休息
-1D140: 音乐符号第三十二休息 : demisemiquaver休息
-1D141: 音乐符号第六十四休息 : hemidemisemiquaver休息，semidemisemiquaver休息
-1D142: 音乐符号第二百八十八休息 : semihemidemisemiquaver休息，quasihemidemisemiquaver休息
+1D13A: 音乐符号多休息: 双重全休，短暂休息
+1D13B: 音乐符号整个休息: 半精神休息
+1D13C: 音乐符号半休息: 微量休息
+1D13D: 音乐符号季休息: 钩针休息
+1D13E: 音乐符号第八休息: 颤抖休息
+1D13F: 音乐符号第十六休息: 半休息
+1D140: 音乐符号第三十二休息: demisemiquaver休息
+1D141: 音乐符号第六十四休息: hemidemisemiquaver休息，semidemisemiquaver休息
+1D142: 音乐符号第二百八十八休息: semihemidemisemiquaver休息，quasihemidemisemiquaver休息
 1D143: 音乐符号X笔记本
 1D144: 音乐符号加笔记本
 1D145: 音乐符号圈X注意头
@@ -91,14 +91,14 @@
 1D15A: 音乐符号群注意白色
 1D15B: 音乐符号群注意黑色
 1D15C: 音乐符号Breve
-1D15D: 音乐符号整个音符 : semibreve
-1D15E: 音乐符号半音符 : 微量
-1D15F: 音乐符号季注 : 怪想
-1D160: 音乐符号八分音符 : 八分音符
-1D161: 音乐符号十六分音符 : 十六分音符
-1D162: 音乐符号第三十二注 : demisemiquaver
-1D163: 音乐符号第六十四注 : hemidemisemiquaver，semidemisemiquaver
-1D164: 音乐符号第一百二十八注 : semihemidemisemiquaver，quasihemidemisemiquaver
+1D15D: 音乐符号整个音符: semibreve
+1D15E: 音乐符号半音符: 微量
+1D15F: 音乐符号季注: 怪想
+1D160: 音乐符号八分音符: 八分音符
+1D161: 音乐符号十六分音符: 十六分音符
+1D162: 音乐符号第三十二注: demisemiquaver
+1D163: 音乐符号第六十四注: hemidemisemiquaver，semidemisemiquaver
+1D164: 音乐符号第一百二十八注: semihemidemisemiquaver，quasihemidemisemiquaver
 1D165: 结合词根的音乐符号
 1D166: 结合Sprechgesang茎的音乐符号
 1D167: 结合Tremolo-1的音乐符号
@@ -253,4 +253,4 @@
 1D1FC:
 1D1FD:
 1D1FE:
-1D1FF:
+1D1FF:

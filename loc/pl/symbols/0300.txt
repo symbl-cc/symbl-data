@@ -1,24 +1,24 @@
-0300: Łączenie Grave Accent : grecki varia
-0301: Łączenie ostrego akcentu : znak stresu : grecka oxia, tonos
-0302: Łączenie Circumflex Accent : kapelusz
+0300: Łączenie Grave Accent: grecki varia
+0301: Łączenie ostrego akcentu: znak stresu , grecka oxia, tonos
+0302: Łączenie Circumflex Accent: kapelusz
 0303: Łączenie Tilde
-0304: Łączenie Macrona : długie
-0305: Łączenie Overline : overscore, vinculum
-0306: Łącząc Breve : krótki : grecki vrachy
-0307: Łączenie kropki powyżej : pochodna (notacja newtonowska)
-0308: Łączenie diurezy : podwójna kropka powyżej, umlaut : grecki dialytika : podwójna pochodna
-0309: Łączenie haka powyżej : hoi
+0304: Łączenie Macrona: długie
+0305: Łączenie Overline: overscore, vinculum
+0306: Łącząc Breve: krótki , grecki vrachy
+0307: Łączenie kropki powyżej: pochodna (notacja newtonowska)
+0308: Łączenie diurezy: podwójna kropka powyżej, umlaut , grecki dialytika , podwójna pochodna
+0309: Łączenie haka powyżej: hoi
 030A: Łączenie pierścienia powyżej
 030B: Łączenie Double Acute Accent
-030C: Łączenie Caron : hacek, v powyżej
+030C: Łączenie Caron: hacek, v powyżej
 030D: Łączenie linii pionowej powyżej
 030E: Łączenie podwójnej linii pionowej powyżej
 030F: Łączenie akcentu Double Grave
 0310: Łączenie Candrabindu
 0311: Łączenie Inverted Breve
-0312: Łączenie Obróconego Przecinka Powyżej : cedilla powyżej
-0313: Łączenie przecinka powyżej : greckie psili, gładki oddech
-0314: Łączenie odwróconego przecinka powyżej : grecka dasia, szorstki znak oddechu
+0312: Łączenie Obróconego Przecinka Powyżej: cedilla powyżej
+0313: Łączenie przecinka powyżej: greckie psili, gładki oddech
+0314: Łączenie odwróconego przecinka powyżej: grecka dasia, szorstki znak oddechu
 0315: Łączenie przecinka powyżej prawej
 0316: Łączenie Grave Accent Below
 0317: Łączenie ostrego akcentu poniżej
@@ -33,12 +33,12 @@
 0320: Łączenie znaku minus poniżej
 0321: Łączenie palatalizowanego haka poniżej
 0322: Łączenie haka Retroflex poniżej
-0323: Łączenie kropki poniżej : nang
+0323: Łączenie kropki poniżej: nang
 0324: Łączenie diurezy poniżej
 0325: Łączenie pierścienia poniżej
 0326: Łączenie przecinka poniżej
 0327: Łączenie Cedilla
-0328: Łączenie Ogonka : hak do nosa
+0328: Łączenie Ogonka: hak do nosa
 0329: Łączenie linii pionowej poniżej
 032A: Łączenie mostu poniżej
 032B: Łączenie odwróconego podwójnego łuku poniżej
@@ -48,26 +48,26 @@
 032F: Łączenie Inverted Breve poniżej
 0330: Łączenie tyldy poniżej
 0331: Łączenie Macrona poniżej
-0332: Łączenie niskiej linii : podkreślenie, podkreślenie
-0333: Łączenie podwójnej linii niskiej : podwójne podkreślenie, podwójne podkreślenie
+0332: Łączenie niskiej linii: podkreślenie, podkreślenie
+0333: Łączenie podwójnej linii niskiej: podwójne podkreślenie, podwójne podkreślenie
 0334: Łączenie nakładki tyldy
 0335: Łączenie nakładki Short Stroke
 0336: Łączenie nakładki o długim skoku
-0337: Łączenie nakładki Short Solidus : nakładka z krótkim cięciem
-0338: Łączenie nakładki Long Solidus : długa nakładka ukośnika
+0337: Łączenie nakładki Short Solidus: nakładka z krótkim cięciem
+0338: Łączenie nakładki Long Solidus: długa nakładka ukośnika
 0339: Łączenie prawego półkola poniżej
 033A: Łączenie odwróconego mostu poniżej
 033B: Łączenie kwadratu poniżej
 033C: Łączenie mewa poniżej
 033D: Łączenie X powyżej
-033E: Łączenie pionowej tyldy : yerik
+033E: Łączenie pionowej tyldy: yerik
 033F: Łączenie Double Overline
 0340: Łączenie znaku tonu grobu
 0341: Łączenie ostrego znaku dźwiękowego
 0342: Łączenie greckiego perispomeni
 0343: Łączenie greckiego Koronisa
 0344: Łączenie greckiej Dialytika Tonos
-0345: Łączenie greckiego Ypogegrammeni : grecki non-spacing iota poniżej : indeks jota
+0345: Łączenie greckiego Ypogegrammeni: grecki non-spacing iota poniżej , indeks jota
 0346: Łączenie mostu powyżej
 0347: Łączenie znaku równości poniżej
 0348: Łączenie podwójnej linii pionowej poniżej
@@ -90,12 +90,12 @@
 0359: Łączenie gwiazdki poniżej
 035A: Łączenie podwójnego pierścienia poniżej
 035B: Łączenie zygzaka powyżej
-035C: Łączenie Double Breve poniżej : podwiązanie poniżej, papirusowy łącznik
+035C: Łączenie Double Breve poniżej: podwiązanie poniżej, papirusowy łącznik
 035D: Łączenie Double Breve
 035E: Łączenie Double Macron
 035F: Łączenie Double Macron Below
 0360: Łączenie Double Tilde
-0361: Łączenie podwójnie odwróconej szczęki : krawat ligaturowy
+0361: Łączenie podwójnie odwróconej szczęki: krawat ligaturowy
 0362: Łączenie podwójnej strzałki w prawo poniżej
 0363: Łączenie łacińskiej małej litery A
 0364: Łączenie łacińskiej małej litery E
@@ -114,17 +114,17 @@
 0371: Grecka mała litera Heta
 0372: Grecka litera archaiczna Sampi
 0373: Grecki Mały List Archaiczny Sampi
-0374: Grecki znak liczbowy : dexia keraia
-0375: Grecki znak niższej liczby : aristeri keraia
+0374: Grecki znak liczbowy: dexia keraia
+0375: Grecki znak niższej liczby: aristeri keraia
 0376: Grecka litera Pamphylian Digamma
 0377: Grecki Mały List Pamphylian Digamma
 0378:
 0379:
-037A: Grecki Ypogegrammeni : indeks jota
+037A: Grecki Ypogegrammeni: indeks jota
 037B: Grecki mały odwrócony symbol Lunate Sigma
 037C: Symbol Lunate Sigma greckiego małego kropkowanego
 037D: Grecki mały odwrócony kropkowany symbol Lunate Sigma
-037E: Grecki znak zapytania : erotimatiko
+037E: Grecki znak zapytania: erotimatiko
 037F: Grecka litera Yot
 0380:
 0381:
@@ -145,13 +145,13 @@
 0390: Grecka mała litera Iota z Dialytika i Tonos
 0391: Grecka litera alfa
 0392: Grecka litera Beta
-0393: Grecka litera Gamma : funkcja gamma
+0393: Grecka litera Gamma: funkcja gamma
 0394: Grecka litera delta
 0395: Grecka litera Epsilon
 0396: Grecka litera Zeta
 0397: Grecka litera Eta
 0398: Grecka litera Theta
-0399: Grecka litera Iota : adnotacja jota
+0399: Grecka litera Iota: adnotacja jota
 039A: Grecka litera Kappa
 039B: Grecka litera Lamda
 039C: Grecka litera Mu
@@ -185,14 +185,14 @@
 03B8: Grecka mała litera Theta
 03B9: Grecka mała litera Iota
 03BA: Grecka mała litera Kappa
-03BB: Grecka mała litera Lamda : lambda
+03BB: Grecka mała litera Lamda: lambda
 03BC: Grecka mała litera Mu
 03BD: Grecka mała litera Nu
 03BE: Grecka mała litera Xi
 03BF: Grecka mała litera Omicron
 03C0: Grecka mała litera Pi
 03C1: Grecka mała litera Rho
-03C2: Greek Small Letter Final Sigma : piętno (nowoczesna nazwa grecka dla tej formy literowej)
+03C2: Greek Small Letter Final Sigma: piętno (nowoczesna nazwa grecka dla tej formy literowej)
 03C3: Sigma greckiej małej litery
 03C4: Grecka mała litera Tau
 03C5: Grecki mały list Upsilon
@@ -206,13 +206,13 @@
 03CD: Grecki mały list Upsilon z Tonos
 03CE: Grecka mała litera Omega z Tonos
 03CF: Symbol greckiego kapitału Kai
-03D0: Grecki symbol beta : zwinięta beta
-03D1: Grecki symbol Theta : skrypt theta
+03D0: Grecki symbol beta: zwinięta beta
+03D1: Grecki symbol Theta: skrypt theta
 03D2: Grecki Upsilon z symbolem haka
 03D3: Grecki Upsilon z symbolem ostrego i hakowego
 03D4: Grecki Upsilon z Diaeresis i symbolem haka
 03D5: Grecki symbol Phi
-03D6: Grecki symbol Pi : omega pi
+03D6: Grecki symbol Pi: omega pi
 03D7: Grecki Kai Symbol
 03D8: Grecka litera Archaiczna Koppa
 03D9: Archaiczny grecki mały list Koppa
@@ -238,19 +238,19 @@
 03ED: Koptyjska mała litera Shima
 03EE: Koptyjska litera Dei
 03EF: Koptyjska mała litera Dei
-03F0: Grecki symbol Kappa : skrypt kappa
-03F1: Grecki symbol Rho : ogoniasty rho
-03F2: Grecki symbol Lunate Sigma : grecka mała litera sigma
+03F0: Grecki symbol Kappa: skrypt kappa
+03F1: Grecki symbol Rho: ogoniasty rho
+03F2: Grecki symbol Lunate Sigma: grecka mała litera sigma
 03F3: Grecka litera Yot
 03F4: Symbol greckiej stolicy Theta
-03F5: Grecki symbol Lunate Epsilon : prosto epsilon
-03F6: Symbol odwróconego grejpfruta Epsilon w języku greckim : odwrócony prosty epsilon
+03F5: Grecki symbol Lunate Epsilon: prosto epsilon
+03F6: Symbol odwróconego grejpfruta Epsilon w języku greckim: odwrócony prosty epsilon
 03F7: Grecka litera Sho
 03F8: Grecka mała litera Sho
 03F9: Symbol greckiego kapitału Lunate Sigma
 03FA: Grecka litera San
 03FB: Grecki Mały List San
 03FC: Grecki Rho z symbolem uderzenia
-03FD: Grecki kapitał odwrócił symbol Lunate Sigma : antyigma
-03FE: Symbol greckiej stolicy przerywanej Lunate Sigma : sigma periestigmenon
-03FF: Symbol greckiej stolicy odwrócony kropkowany Lunate Sigma : antisigma periestigmenon
+03FD: Grecki kapitał odwrócił symbol Lunate Sigma: antyigma
+03FE: Symbol greckiej stolicy przerywanej Lunate Sigma: sigma periestigmenon
+03FF: Symbol greckiej stolicy odwrócony kropkowany Lunate Sigma: antisigma periestigmenon

@@ -1,15 +1,18 @@
 : Tools
 
-[encoder]: Encoder
+toolsListTitle: Try other tools as well
 
-desc: Encodes characters into html-code and back
+[encoder]: HTML-encoder
+
+desc: Encodes characters into html-code and the reverse
 plain: Plain text
-full: Full
-text: Text
-entities: Encodes characters with entities
-br: Encodes line breaks
+full: HTML
+text: HTML and Text
+entities: Encode characters with mnemonics
+br: Consider line breaks
+result: Result
 
-[decoder]: Decoder
+[decoder]: Unicode Decoder
 
 desc: Encodes characters into Unicode or decodes back
 example: This is an example
@@ -21,7 +24,10 @@ text: Text
 desc: Flip the Cyrillic and Latin characters upside down or backwards
 plain: Plain text
 flipped: Flipped text
-backed: Back to front text
+backed: Back-to-front text
+result: Result
+example: this is an example
+exampleFlip: ǝldɯɐxǝ uɐ sı sıɥʇ
 
 [generator]: Unicode character table generator
 
@@ -32,3 +38,109 @@ info: Available: {symbol}, {dec}, {hex}, {html}
 generate: Generate
 result: Result
 
+[strikethrough-text]: Strikethrough text
+h1: Strikethrough text
+desc: How to strikethrough
+text: Text
+example: This is an example
+
+strikethroughText: Strikethrough text
+crossed: Underlined text
+dotted: Dotted line
+slash: Slash symbol
+doubleunderline: Double underline
+waveline: Wave line
+ciphertext: Cipher text
+fullyshaded: Shaded text
+strikethroughSlash: High slash symbol
+
+[register-converter]: Case Converter
+h1: Case Converter
+desc: Changes the case of each letter
+text: Text
+example: This is an example
+
+uppercase: UPPER CASE
+lowercase: lower case
+inversioncase: iNVERSION cASE
+randomcase: RAnDOM cAsE
+alternatingcase: aLtErNaTiNg cAsE
+capitalizedcase: Capitalized Case
+
+[word-counter]: Character Calculator
+h1: Character Calculator
+desc: Character Count Tool
+
+placeholder: Insert text ...
+symbols: Total characters
+without-spaces: Excluding spaces
+no-punctuation-marks: Without punctuation marks
+words: Total words
+average-amount: Average number of words in a sentence
+long-word: The longest word
+
+
+[braille]: Braille Translator
+h1: Braille Translator
+desc: Convert text to Braille
+
+text: Text
+example: This is an example
+code: Braille
+lang-ru: Russian
+lang-en: English
+
+result: Result
+
+[gothic]: Text converter to Gothic style
+h1: Text converter to Gothic style
+desc: Writing text in Gothic font
+
+text: Text (latin)
+example: Gothic
+regularText: Gothic
+boldText: Gothic bold
+
+result: Result
+
+[morse]: Text to Morse Code Converter
+h1: Text to Morse Code Converter
+desc: Converts text and decodes Morse Code
+
+example: This is an example
+code: Morse code
+latin: Latin
+numbers: Numbers
+punctuation: Punctuation
+
+titleAlphabet: Morse code alphabet
+
+result: Result
+
+[password-generator]: Password generator
+h1: Password generator
+desc: How to generate a strong password
+
+uppercase: Uppercase letters (A-Z)
+lowercase: Lowercase letters (a-z)
+numbers: Numbers (0-9)
+special: Special symbols (!@#$%^&*)
+
+maxLength: symbols (4-99)
+generate: Generate
+warning: Select at least one character set to generate your password
+
+
+[text-to-symbols]: Symbol text
+h1: Symbol text
+desc: Write text symbols
+
+text: Text (Latin)
+example: Example
+
+blank: Blank letters
+filled: Painted letters
+background: Letters with background
+symbol-dolar: Letters from the symbol $
+symbol-lattice: Letters from the symbol #
+symbol-paragraph: Letters from the symbol ¶

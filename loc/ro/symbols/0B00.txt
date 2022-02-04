@@ -45,7 +45,7 @@
 0B2C: Oriya Scrisoarea Ba
 0B2D: Oriya Letter Bha
 0B2E: Oriya Letter Ma
-0B2F: Oriya Letter Ya : ja
+0B2F: Oriya Letter Ya: ja
 0B30: Oriya Letter Ra
 0B31:
 0B32: Oriya Letter La
@@ -83,17 +83,17 @@
 0B52:
 0B53:
 0B54:
-0B55:
+0B55: Oriya semn overline
 0B56: Oriya Ai lungime Mark
 0B57: Oriya Au lungime Mark
 0B58:
 0B59:
 0B5A:
 0B5B:
-0B5C: Oriya Letter Rra : DDA
-0B5D: Oriya Scrisoare Rha : ddha
+0B5C: Oriya Letter Rra: DDA
+0B5D: Oriya Scrisoare Rha: ddha
 0B5E:
-0B5F: Oriya Letter Yya : ya
+0B5F: Oriya Letter Yya: ya
 0B60: Oriya Letter Vocalic Rr
 0B61: Oriya Letter Vocalic Ll
 0B62: Oriya Vowel Înregistrați Vocalic L
@@ -129,7 +129,7 @@
 0B80:
 0B81:
 0B82: Semn Tamil Anusvara
-0B83: Tamil Sign Visarga : aytham
+0B83: Tamil Sign Visarga: aytham
 0B84:
 0B85: Tamil Scrisoarea A
 0B86: Tamil Letter Aa
@@ -203,7 +203,7 @@
 0BCA: Tamil Vowel Sign O
 0BCB: Tamil Vowel Semnează Oo
 0BCC: Tamil Vowel Sign Au
-0BCD: Semn Tamila Virama : Pulli
+0BCD: Semn Tamila Virama: Pulli
 0BCE:
 0BCF:
 0BD0: Tamil Om
@@ -241,16 +241,16 @@
 0BF0: Tamil Numărul Zece
 0BF1: Tamil Numărul o sută
 0BF2: Tamil Numărul o mie
-0BF3: Semnul Zilei Tamilului : naal
-0BF4: Semnul lunii Tamil : maatham
-0BF5: Anul semn Tamil : varudam
-0BF6: Tamil Sign Debit : Patru
-0BF7: Tamil semn de credit : varavu
-0BF8: Tamil ca semnul de mai sus : merpadi
-0BF9: Tamil Rupee Sign : rupai
-0BFA: Tamil Sign Number : Enn
+0BF3: Semnul Zilei Tamilului: naal
+0BF4: Semnul lunii Tamil: maatham
+0BF5: Anul semn Tamil: varudam
+0BF6: Tamil Sign Debit: Patru
+0BF7: Tamil semn de credit: varavu
+0BF8: Tamil ca semnul de mai sus: merpadi
+0BF9: Tamil Rupee Sign: rupai
+0BFA: Tamil Sign Number: Enn
 0BFB:
 0BFC:
 0BFD:
 0BFE:
-0BFF:
+0BFF:

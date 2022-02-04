@@ -161,9 +161,9 @@
 1AA0: Tai Tham Sign Wiang
 1AA1: Tai Tham Sign Wiangwaak
 1AA2: Tai Tham Sign Sawan
-1AA3: Tai Tham Sign Keow : dziedziniec
-1AA4: Tai Tham Sign Hoy : Ostryga
-1AA5: Tai Tham Sign Dokmai : kwiat
+1AA3: Tai Tham Sign Keow: dziedziniec
+1AA4: Tai Tham Sign Hoy: Ostryga
+1AA5: Tai Tham Sign Dokmai: kwiat
 1AA6: Odwrócony znak Tai Tham Obrócona Rana
 1AA7: Tai Tham Sign Mai Yamok
 1AA8: Tai Tham Sign Kaan
@@ -189,8 +189,8 @@
 1ABC: Łączenie podwójnych nawiasów powyżej
 1ABD: Łączenie nawiasów poniżej
 1ABE: Łączenie nakładki nawiasów
-1ABF:
-1AC0:
+1ABF: Łączenie łacińska mała litera W poniżej
+1AC0: Łączenie łacińska mała litera obrócony W poniżej
 1AC1:
 1AC2:
 1AC3:
@@ -253,4 +253,4 @@
 1AFC:
 1AFD:
 1AFE:
-1AFF:
+1AFF:

@@ -1,51 +1,51 @@
-﻿0000: Nulla : NUL
-0001: Fejléc Kezdése : SOH
-0002: Szöveg Kezdése : STX
-0003: Szöveg Vége : ETX
-0004: Átvitel Vége : EOT
-0005: Érdeklődés : ENQ
-0006: Elismerés : ASK
-0007: Harang : BEL
-0008: Backspace : BS
-0009: Vízszintes Tabulátor : ht : character tabulation : TAB
-000A: Új sor (Nl) : soremelés (lf) : sor vége (eol) : LF
-000B: Függőleges Tabulátor : vt : line tabulation : TAB
-000C: Lapemelés : FF
-000D: Kocsi Vissza : CR
-000E: Shift Ki : SO
-000F: Shift Be : SI
-0010: Adatkapcsolat Elkerülés : DLE
-0011: Eszközvezérlés Egy : DC1
-0012: Eszközvezérlés Kettő : DC2
-0013: Eszközvezérlés Három : DC3
-0014: Eszközvezérlés Négy : DC4
-0015: Negatív Elismerés : NAK
-0016: Szinkronizált Tétlenség : SYN
-0017: Vége az Átviteli Blokknak : ETB
-0018: Mégse : CAN
-0019: End of Medium : EM
-001A: Helyettesítés : SUB : Ctrl-Z
-001B: Escape : ESC
-001C: Fájlválasztó : információválasztó négy : FS
-001D: Csoportválasztó : információválasztó három : GS
-001E: Felvételválasztó : információválasztó kettő : RS
-001F: Egységválasztó : információválasztó egy : US
+﻿0000: Nulla: NUL
+0001: Fejléc Kezdése: SOH
+0002: Szöveg Kezdése: STX
+0003: Szöveg Vége: ETX
+0004: Átvitel Vége: EOT
+0005: Érdeklődés: ENQ
+0006: Elismerés: ASK
+0007: Harang: BEL
+0008: Backspace: BS
+0009: Vízszintes Tabulátor: ht , character tabulation , TAB
+000A: Új sor (Nl): soremelés (lf) , sor vége (eol) , LF
+000B: Függőleges Tabulátor: vt , line tabulation , TAB
+000C: Lapemelés: FF
+000D: Kocsi Vissza: CR
+000E: Shift Ki: SO
+000F: Shift Be: SI
+0010: Adatkapcsolat Elkerülés: DLE
+0011: Eszközvezérlés Egy: DC1
+0012: Eszközvezérlés Kettő: DC2
+0013: Eszközvezérlés Három: DC3
+0014: Eszközvezérlés Négy: DC4
+0015: Negatív Elismerés: NAK
+0016: Szinkronizált Tétlenség: SYN
+0017: Vége az Átviteli Blokknak: ETB
+0018: Mégse: CAN
+0019: End of Medium: EM
+001A: Helyettesítés: SUB , Ctrl-Z
+001B: Escape: ESC
+001C: Fájlválasztó: információválasztó négy , FS
+001D: Csoportválasztó: információválasztó három , GS
+001E: Felvételválasztó: információválasztó kettő , RS
+001F: Egységválasztó: információválasztó egy , US
 0020: Space
-0021: Felkiáltójel : faktoriális : bang
+0021: Felkiáltójel: faktoriális , bang
 0022: Kérdőjel
-0023: Számjel : font jel : hash : crosshatch : octothorpe
-0024: Dollárjel : milréis : escudo
+0023: Számjel: font jel , hash , crosshatch , octothorpe
+0024: Dollárjel: milréis , escudo
 0025: Százalékjel
 0026: Ésjel
-0027: Aposztróf : aposztróf-idézet : apl quote
-0028: Bal Zárójel : nyitott zárójel
-0029: Jobb Zárójel : csukott zárójel
-002A: Csillag : aszteriszk
+0027: Aposztróf: aposztróf-idézet , apl quote
+0028: Bal Zárójel: nyitott zárójel
+0029: Jobb Zárójel: csukott zárójel
+002A: Csillag: aszteriszk
 002B: Pluszjel
-002C: Vessző : tizedesvessző
-002D: Kötőjel/Mínusz : kötőjel vagy mínuszjel
-002E: Pont : ezresválasztó
-002F: Perjel : per
+002C: Vessző: tizedesvessző
+002D: Kötőjel/Mínusz: kötőjel vagy mínuszjel
+002E: Pont: ezresválasztó
+002F: Perjel: per
 0030: Nulla
 0031: Egy
 0032: Kettő
@@ -62,7 +62,7 @@
 003D: Egyenlőségjel
 003E: Nagyobb, mint
 003F: Kérdőjel
-0040: Kukac : at sign : email
+0040: Kukac: at sign , email
 0041: A betű
 0042: B betű
 0043: C betű
@@ -89,11 +89,11 @@
 0058: X betű
 0059: Y betű
 005A: Z betű
-005B: Left Square Bracket : opening square bracket
-005C: Reverse Solidus : backslash
-005D: Right Square Bracket : closing square bracket
+005B: Left Square Bracket: opening square bracket
+005C: Reverse Solidus: backslash
+005D: Right Square Bracket: closing square bracket
 005E: Circumflex Accent
-005F: Low Line : spacing underscore
+005F: Low Line: spacing underscore
 0060: Grave Accent
 0061: Latin kis betű A
 0062: Latin kis betű B
@@ -121,11 +121,11 @@
 0078: Latin kis betű X
 0079: Latin kis betű Y
 007A: Latin kis betű Z
-007B: Left Curly Bracket : opening curly bracket : left brace
-007C: Vertical Line : vertical bar
-007D: Right Curly Bracket : closing curly bracket : right brace
+007B: Left Curly Bracket: opening curly bracket , left brace
+007C: Vertical Line: vertical bar
+007D: Right Curly Bracket: closing curly bracket , right brace
 007E: Tilde
-007F: Delete : DEL
+007F: Delete: DEL
 0080: <Control>
 0081: <Control>
 0082: Break Permitted Here
@@ -161,42 +161,42 @@
 00A0: No-Break Space
 00A1: Inverted Exclamation Mark
 00A2: Cent Sign
-00A3: Pound Sign : pound sterling, irish punt, italian lira, turkish lira
+00A3: Pound Sign: pound sterling, irish punt, italian lira, turkish lira
 00A4: Currency Sign
-00A5: Yen Sign : yuan sign
-00A6: Broken Bar : broken vertical bar : parted rule (in typography)
+00A5: Yen Sign: yuan sign
+00A6: Broken Bar: broken vertical bar , parted rule (in typography)
 00A7: Section Sign
 00A8: Diaeresis
-00A9: Copyright Sign : copy : (c)
+00A9: Copyright Sign: copy , (c)
 00AA: Feminine Ordinal Indicator
-00AB: Left-Pointing Double Angle Quotation Mark : left guillemet : chevrons
-00AC: Not Sign : angled dash (in typography)
-00AD: Soft Hyphen : discretionary hyphen
-00AE: Registered Sign : registered trade mark sign
-00AF: Macron : overline, apl overbar
+00AB: Left-Pointing Double Angle Quotation Mark: left guillemet , chevrons
+00AC: Not Sign: angled dash (in typography)
+00AD: Soft Hyphen: discretionary hyphen
+00AE: Registered Sign: registered trade mark sign
+00AF: Macron: overline, apl overbar
 00B0: Degree Sign
 00B1: Plus-Minus Sign
-00B2: Superscript Two : squared
-00B3: Superscript Three : cubed
+00B2: Superscript Two: squared
+00B3: Superscript Three: cubed
 00B4: Acute Accent
 00B5: Micro Sign
-00B6: Pilcrow Sign : paragraph sign
-00B7: Middle Dot : midpoint : georgian comma : Görög middle dot
+00B6: Pilcrow Sign: paragraph sign
+00B7: Middle Dot: midpoint , georgian comma , Görög middle dot
 00B8: Cedilla
 00B9: Superscript One
 00BA: Masculine Ordinal Indicator
-00BB: Right-Pointing Double Angle Quotation Mark : right guillemet
+00BB: Right-Pointing Double Angle Quotation Mark: right guillemet
 00BC: Vulgar Fraction One Quarter
 00BD: Vulgar Fraction One Half
 00BE: Vulgar Fraction Three Quarters
-00BF: Inverted Question Mark : turned question mark
+00BF: Inverted Question Mark: turned question mark
 00C0: Latin nagybetű a with Grave
 00C1: Latin nagybetű a with Acute
 00C2: Latin nagybetű a with Circumflex
 00C3: Latin nagybetű a with Tilde
 00C4: Latin nagybetű a with Diaeresis
 00C5: Latin nagybetű a with Ring Above
-00C6: Latin nagybetű Ae : latin capital ligature ae
+00C6: Latin nagybetű Ae: latin capital ligature ae
 00C7: Latin nagybetű C with Cedilla
 00C8: Latin nagybetű E with Grave
 00C9: Latin nagybetű E with Acute
@@ -213,22 +213,22 @@
 00D4: Latin nagybetű O with Circumflex
 00D5: Latin nagybetű O with Tilde
 00D6: Latin nagybetű O with Diaeresis
-00D7: Multiplication Sign : z notation cartesian product
-00D8: Latin nagybetű O with Stroke : o slash
+00D7: Multiplication Sign: z notation cartesian product
+00D8: Latin nagybetű O with Stroke: o slash
 00D9: Latin nagybetű U with Grave
 00DA: Latin nagybetű U with Acute
 00DB: Latin nagybetű U with Circumflex
 00DC: Latin nagybetű U with Diaeresis
 00DD: Latin nagybetű Y with Acute
 00DE: Latin nagybetű Thorn
-00DF: Latin kis betű Sharp S : eszett
+00DF: Latin kis betű Sharp S: eszett
 00E0: Latin kis betű a with Grave
 00E1: Latin kis betű a with Acute
 00E2: Latin kis betű a with Circumflex
 00E3: Latin kis betű a with Tilde
 00E4: Latin kis betű a with Diaeresis
 00E5: Latin kis betű a with Ring Above
-00E6: Latin kis betű Ae : latin small ligature ae : ash (from old english æsc)
+00E6: Latin kis betű Ae: latin small ligature ae , ash (from old english æsc)
 00E7: Latin kis betű C with Cedilla
 00E8: Latin kis betű E with Grave
 00E9: Latin kis betű E with Acute
@@ -245,8 +245,8 @@
 00F4: Latin kis betű O with Circumflex
 00F5: Latin kis betű O with Tilde
 00F6: Latin kis betű O with Diaeresis
-00F7: Division Sign : obelus
-00F8: Latin kis betű O with Stroke : o slash
+00F7: Division Sign: obelus
+00F8: Latin kis betű O with Stroke: o slash
 00F9: Latin kis betű U with Grave
 00FA: Latin kis betű U with Acute
 00FB: Latin kis betű U with Circumflex

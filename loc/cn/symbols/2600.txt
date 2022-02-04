@@ -155,9 +155,9 @@
 269A : 赫尔墨斯支柱
 269B : 原子符号
 269C : 百合花饰
-269D : Outlined White Star
-269E : Three Lines Converging Right
-269F : Three Lines Converging Left
+269D : 概述白星
+269E : 三行匯聚權
+269F : 三條線向左匯合
 26A0 : 警告符号
 26A1 : 高压符号
 26A2 : 双雌性标记
@@ -177,80 +177,80 @@
 26B0 : 棺材
 26B1 : 骨灰
 26B2 : 中性
-26B3 : Ceres
-26B4 : Pallas
-26B5 : Juno
-26B6 : Vesta
-26B7 : Chiron
-26B8 : Black Moon Lilith
-26B9 : Sextile
-26BA : Semisextile
-26BB : Quincunx
-26BC : Sesquiquadrate
-26BD : Soccer Ball
-26BE : Baseball
-26BF : Squared Key
-26C0 : White Draughts Man
-26C1 : White Draughts King
-26C2 : Black Draughts Man
-26C3 : Black Draughts King
-26C4 : Snowman Without Snow
-26C5 : Sun Behind Cloud
-26C6 : Rain
-26C7 : Black Snowman
-26C8 : Thunder Cloud And Rain
-26C9 : Turned White Shogi Piece
-26CA : Turned Black Shogi Piece
-26CB : White Diamond In Square
-26CC : Crossing Lanes
-26CD : Disabled Car
-26CE : 
-26CF : Pick
-26D0 : Car Sliding
-26D1 : Helmet With White Cross
-26D2 : Circled Crossing Lanes
-26D3 : Chains
-26D4 : No Entry
-26D5 : Alternate One-way Left Way Traffic
-26D6 : Black Two-way Left Way Traffic
-26D7 : White Two-way Left Way Traffic
-26D8 : Black Left Lane Merge
-26D9 : White Left Lane Merge
-26DA : Drive Slow Sign
-26DB : Heavy White Down-pointing Triangle
-26DC : Left Closed Entry
-26DD : Squared Saltire
-26DE : Falling Diagonal In White Circle In Black Square
-26DF : Black Truck
-26E0 : Restricted Left Entry-1
-26E1 : Restricted Left Entry-2
-26E2 : 
-26E3 : Heavy Circle With Stroke And Two Dots Above
-26E4 : 
-26E5 : 
-26E6 : 
-26E7 : 
-26E8 : Black Cross On Shield
-26E9 : Shinto Shrine
-26EA : Church
-26EB : Castle
-26EC : Historic Site
-26ED : Gear Without Hub
-26EE : Gear With Handles
-26EF : Map Symbol For Lighthouse
-26F0 : Mountain
-26F1 : Umbrella On Ground
-26F2 : Fountain
-26F3 : Flag In Hole
-26F4 : Ferry
-26F5 : Sailboat
-26F6 : Square Four Corners
-26F7 : Skier
-26F8 : Ice Skate
-26F9 : Person With Ball
-26FA : Tent
-26FB : Japanese Bank Symbol
-26FC : Headstone Graveyard Symbol
-26FD : Fuel Pump
-26FE : Cup On Black Square
-26FF : White Flag With Horizontal Middle Black Stripe
+26B3 : 穀神星
+26B4 : 帕拉斯
+26B5 : 朱諾
+26B6 : 維斯塔
+26B7 : 凱龍
+26B8 : 黑月莉莉絲
+26B9: 六分相: 新年，聖誕節
+26BA : 半變性
+26BB : 梅花形
+26BC : 七葉皂酮
+26BD: 足球: 足球
+26BE : 棒球
+26BF: 平方鍵: 父母鎖
+26C0 : 白色吃水的人
+26C1 : 白色吃水國王
+26C2 : 黑色吃水男子
+26C3 : 黑吃水王
+26C4: 沒有雪的雪人: 結霜的雪人，olaf，小雪
+26C5: 雲後的陽光: 部分多雲，部分晴天
+26C6: 雨: 陰雨天氣
+26C7: 黑色雪人: 大雪
+26C8: 雷雨雲: 雷暴
+26C9 : 白色的象棋棋子
+26CA : 黑色將棋棋子
+26CB : 方形白色鑽石
+26CC: 過馬路: 事故
+26CD : 殘疾人專用車
+26CE : 蛇夫座
+26CF: 鎬: 正在施工，鎬
+26D0: 汽車滑行: 冰冷的道路
+26D1: 帶白十字的頭盔: 維護
+26D2: 環形交叉道: 道路封閉
+26D3: 鏈條: 需要輪胎鏈條
+26D4 : 禁止進入
+26D5 : 備用單向左路交通
+26D6 : 黑色雙向兩路交通
+26D7 : 白色兩路向左交通
+26D8 : 黑色左車道合併
+26D9 : 白色左車道合併
+26DA : 慢速行駛標誌
+26DB: 白色重點指向下方的三角形: 驅動緩慢
+26DC : 左封閉入口
+26DD: Saltire平方: 封閉式入口
+26DE: 在黑色正方形的白色圓圈處掉落的對角線: 禁止大型車輛
+26DF: 黑色卡車: 黑色卡車 , 封閉於大型車輛，備用
+26E0 : 限制進入左路1
+26E1 : 限制左進入2
+26E2 : 天王星的天文符號
+26E3: 帶有筆劃和兩個點的重圓: 公共辦公室
+26E4: 五角星: pentalpha，pentangle
+26E5 : 右手交錯的五角星形
+26E6 : 左手交錯五角星形
+26E7 : 倒置五角星形
+26E8: 盾牌上的黑十字: 醫院
+26E9: 神道聖地: 神之道鳥居
+26EA : 教堂
+26EB : 城堡
+26EC : 古蹟
+26ED: 不帶輪轂的齒輪: 工廠
+26EE: 帶把手的齒輪: 發電廠，變電站
+26EF : 燈塔的地圖符號
+26F0: 山脈: 岩石
+26F1: 地面上的雨傘: 沐浴海灘
+26F2: 噴泉: 公園，水景
+26F3: 標誌洞: 高爾夫球場
+26F4: 渡輪: 渡輪碼頭
+26F5: 帆船: 碼頭或遊艇港
+26F6: 方形四個角: 交叉點
+26F7: 滑雪者: 滑雪勝地
+26F8: 滑冰場: 溜冰場
+26F9: 有球人士: 田徑，體育館，籃球
+26FA: 帳篷: 露營地
+26FB : 日本銀行符號
+26FC: 墓石墓地符號: 墓地，紀念公園，公墓
+26FD: 燃油泵: 加油站，加油站
+26FE: 黑色廣場上的杯子: 自助餐廳
+26FF: 帶有水平中間黑色條紋的白旗: 日本自衛隊部隊站點

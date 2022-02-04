@@ -4,7 +4,7 @@ A802: Syloti Nagri Dvisvara işareti
 A803: Syloti Nagri U harfi
 A804: Syloti Nagri E harfi
 A805: Syloti Nagri Mektubu O
-A806: Syloti Nagri Hasanta işareti : aceleci
+A806: Syloti Nagri Hasanta işareti: aceleci
 A807: Syloti Nagri Ko Mektup
 A808: Syloti Nagri Mektubu Kho
 A809: Syloti Nagri Mektubu Git
@@ -42,7 +42,7 @@ A828: Syloti Nagri Şiir İşareti-1
 A829: Syloti Nagri Şiir Markası-2
 A82A: Syloti Nagri Şiir Markası-3
 A82B: Syloti Nagri Şiir Mark-4
-A82C:
+A82C: Syloti Nagri alternatif işaret Hasanta
 A82D:
 A82E:
 A82F:
@@ -222,35 +222,35 @@ A8DC:
 A8DD:
 A8DE:
 A8DF:
-A8E0: Devanagari Rakamını Sıfırla : Vaidika Saamasvara Anka Shuunya
-A8E1: Devanagari Rakam Bir'i birleştirmek : Vaidika Saamasvara Anka Eka Udaatta
-A8E2: Devanagari Rakam İkiyi Birleştirmek : Vaidika Saamasvara Anka Dvi Svarita
-A8E3: Devanagari Rakam Üçü Birleştiriyor : Vaidika Saamasvara Anka Tri Anudaatta
-A8E4: Devanagari Basamak Dört : Vaidika Saamasvara Anka Chatur
-A8E5: Devanagari Rakam Beşini Birleştirmek : Vaidika Saamasvara Anka Pancha
-A8E6: Devanagari Rakam Altı'yı birleştiriyor : Vaidika Saamasvara Anka Shatt
-A8E7: Devanagari Rakam Yedi'i birleştiriyor : Vaidika Saamasvara Anka Sapta
-A8E8: Devanagari Rakam Sekiz'i birleştiriyor : Vaidika Saamasvara Anka Ashta
-A8E9: Devanagari Rakam Dokuzunu Birleştirmek : Vaidika Saamasvara Anka Nava
-A8EA: Devanagari Mektubu A'nın birleştirilmesi : Vaidika Saamasvara Abhinihita
-A8EB: Devanagari U Harfi : Vaidika Saamasvara u
-A8EC: Devanagari Mektubu Ka birleştirilmesi : Vaidika Saamasvara Ka
-A8ED: Devanagari Mektubu Na birleştirilmesi : Vaidika Saamasvara Namana
-A8EE: Devanagari Mektubu Pa birleştirilmesi : Vaidika Saamasvara Prannatam
-A8EF: Devanagari Letter Ra'nın birleştirilmesi : Vaidika Saamasvara Ra
-A8F0: Devanagari Mektubu Vi'nin birleştirilmesi : Vaidika Saamasvara Vinata
-A8F1: Devanagari Sign Avagraha'nın birleştirilmesi : Vaidika Saamasvara Diirghiibhaava
-A8F2: Devanagari işaret aralığı Candrabindu : Vaidika Candrabindu
-A8F3: Devanagari işareti Candrabindu Virama : vaidika anusvaara candrabindu tiryak
-A8F4: Devanagari işareti çift Candrabindu Virama : vaidika anusvaara dvi candrabindu tiryak
-A8F5: Devanagari işareti Candrabindu iki : vaidika anusvaara candrabindu sa-dvi
-A8F6: Devanagari işareti Candrabindu üç : vaidika anusvaara candrabindu sa-tri
-A8F7: Devanagari işareti Candrabindu Avagraha : Vaidika Anusvaara Candrabindu Sa-Avagraha
-A8F8: Devanagari işareti Pushpika : Vaidika Pushpikaa
+A8E0: Devanagari Rakamını Sıfırla: Vaidika Saamasvara Anka Shuunya
+A8E1: Devanagari Rakam Bir'i birleştirmek: Vaidika Saamasvara Anka Eka Udaatta
+A8E2: Devanagari Rakam İkiyi Birleştirmek: Vaidika Saamasvara Anka Dvi Svarita
+A8E3: Devanagari Rakam Üçü Birleştiriyor: Vaidika Saamasvara Anka Tri Anudaatta
+A8E4: Devanagari Basamak Dört: Vaidika Saamasvara Anka Chatur
+A8E5: Devanagari Rakam Beşini Birleştirmek: Vaidika Saamasvara Anka Pancha
+A8E6: Devanagari Rakam Altı'yı birleştiriyor: Vaidika Saamasvara Anka Shatt
+A8E7: Devanagari Rakam Yedi'i birleştiriyor: Vaidika Saamasvara Anka Sapta
+A8E8: Devanagari Rakam Sekiz'i birleştiriyor: Vaidika Saamasvara Anka Ashta
+A8E9: Devanagari Rakam Dokuzunu Birleştirmek: Vaidika Saamasvara Anka Nava
+A8EA: Devanagari Mektubu A'nın birleştirilmesi: Vaidika Saamasvara Abhinihita
+A8EB: Devanagari U Harfi: Vaidika Saamasvara u
+A8EC: Devanagari Mektubu Ka birleştirilmesi: Vaidika Saamasvara Ka
+A8ED: Devanagari Mektubu Na birleştirilmesi: Vaidika Saamasvara Namana
+A8EE: Devanagari Mektubu Pa birleştirilmesi: Vaidika Saamasvara Prannatam
+A8EF: Devanagari Letter Ra'nın birleştirilmesi: Vaidika Saamasvara Ra
+A8F0: Devanagari Mektubu Vi'nin birleştirilmesi: Vaidika Saamasvara Vinata
+A8F1: Devanagari Sign Avagraha'nın birleştirilmesi: Vaidika Saamasvara Diirghiibhaava
+A8F2: Devanagari işaret aralığı Candrabindu: Vaidika Candrabindu
+A8F3: Devanagari işareti Candrabindu Virama: vaidika anusvaara candrabindu tiryak
+A8F4: Devanagari işareti çift Candrabindu Virama: vaidika anusvaara dvi candrabindu tiryak
+A8F5: Devanagari işareti Candrabindu iki: vaidika anusvaara candrabindu sa-dvi
+A8F6: Devanagari işareti Candrabindu üç: vaidika anusvaara candrabindu sa-tri
+A8F7: Devanagari işareti Candrabindu Avagraha: Vaidika Anusvaara Candrabindu Sa-Avagraha
+A8F8: Devanagari işareti Pushpika: Vaidika Pushpikaa
 A8F9: Devanağarı Boşluk Dolgusu
-A8FA: Devanağarı Karesi : Vaidika Trutikaa
-A8FB: Devanagari Headstroke : shirorekhaa
-A8FC: Devanagari işareti Siddham : siddhirastu
+A8FA: Devanağarı Karesi: Vaidika Trutikaa
+A8FB: Devanagari Headstroke: shirorekhaa
+A8FC: Devanagari işareti Siddham: siddhirastu
 A8FD: Devanagari Jain Om
 A8FE: Devanagari Mektubu Ay
 A8FF: Devanagari Ünlü Burcu Ay

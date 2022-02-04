@@ -1,9 +1,9 @@
 0A00:
-0A01: Gurmukhi Sign Adak Bindi
-0A02: Gurmukhi Sign Bindi
-0A03: Gurmukhi Sign Visarga
+0A01: Gurmukhi jel Adak Bindi
+0A02: Gurmukhi jel Bindi
+0A03: Gurmukhi jel Visarga
 0A04:
-0A05: Gurmukhi betű A : aira
+0A05: Gurmukhi betű A: aira
 0A06: Gurmukhi betű Aa
 0A07: Gurmukhi betű I
 0A08: Gurmukhi betű Ii
@@ -58,28 +58,28 @@
 0A39: Gurmukhi betű Ha
 0A3A:
 0A3B:
-0A3C: Gurmukhi Sign Nukta : pairin bindi
+0A3C: Gurmukhi jel Nukta: pairin bindi
 0A3D:
-0A3E: Gurmukhi Vowel Sign Aa : kanna
-0A3F: Gurmukhi Vowel Sign I : sihari
-0A40: Gurmukhi Vowel Sign Ii : bihari
-0A41: Gurmukhi Vowel Sign U : aunkar
-0A42: Gurmukhi Vowel Sign Uu : dulainkar
+0A3E: Gurmukhi magánhangzó jel Aa: kanna
+0A3F: Gurmukhi magánhangzó jel I: sihari
+0A40: Gurmukhi magánhangzó jel Ii: bihari
+0A41: Gurmukhi magánhangzó jel U: aunkar
+0A42: Gurmukhi magánhangzó jel Uu: dulainkar
 0A43:
 0A44:
 0A45:
 0A46:
-0A47: Gurmukhi Vowel Sign Ee : lanvan
-0A48: Gurmukhi Vowel Sign Ai : dulanvan
+0A47: Gurmukhi magánhangzó jel Ee: lanvan
+0A48: Gurmukhi magánhangzó jel Ai: dulanvan
 0A49:
 0A4A:
-0A4B: Gurmukhi Vowel Sign Oo : hora
-0A4C: Gurmukhi Vowel Sign Au : kanaura
-0A4D: Gurmukhi Sign Virama
+0A4B: Gurmukhi magánhangzó jel Oo: hora
+0A4C: Gurmukhi magánhangzó jel Au: kanaura
+0A4D: Gurmukhi jel Virama
 0A4E:
 0A4F:
 0A50:
-0A51: Gurmukhi Sign Udaat
+0A51: Gurmukhi jel Udaat
 0A52:
 0A53:
 0A54:
@@ -98,25 +98,25 @@
 0A61:
 0A62:
 0A63:
-0A64: <Reserved>
-0A65: <Reserved>
-0A66: Gurmukhi Digit Zero
-0A67: Gurmukhi Digit One
-0A68: Gurmukhi Digit Two
-0A69: Gurmukhi Digit Three
-0A6A: Gurmukhi Digit Four
-0A6B: Gurmukhi Digit Five
-0A6C: Gurmukhi Digit Six
-0A6D: Gurmukhi Digit Seven
-0A6E: Gurmukhi Digit Eight
-0A6F: Gurmukhi Digit Nine
+0A64:
+0A65:
+0A66: Gurmukhi cyfra zero
+0A67: Gurmukhi cyfra jeden
+0A68: Gurmukhi cyfra dwa
+0A69: Gurmukhi cyfra trzy
+0A6A: Gurmukhi cyfra cztery
+0A6B: Gurmukhi cyfra pięć
+0A6C: Gurmukhi cyfra sześć
+0A6D: Gurmukhi cyfra siedem
+0A6E: Gurmukhi cyfra osiem
+0A6F: Gurmukhi cyfra dziewięć
 0A70: Gurmukhi Tippi
 0A71: Gurmukhi Addak
 0A72: Gurmukhi Iri
 0A73: Gurmukhi Ura
 0A74: Gurmukhi Ek Onkar
-0A75: Gurmukhi Sign Yakash
-0A76:
+0A75: Gurmukhi jel Yakash
+0A76: Gurmukhi rövidítés jel
 0A77:
 0A78:
 0A79:
@@ -127,86 +127,86 @@
 0A7E:
 0A7F:
 0A80:
-0A81: Gujarati Sign Candrabindu
-0A82: Gujarati Sign Anusvara
-0A83: Gujarati Sign Visarga
+0A81: Gudzsaráti jel Candrabindu
+0A82: Gudzsaráti jel Anusvara
+0A83: Gudzsaráti jel Visarga
 0A84:
-0A85: Gujarati betű A
-0A86: Gujarati betű Aa
-0A87: Gujarati betű I
-0A88: Gujarati betű Ii
-0A89: Gujarati betű U
-0A8A: Gujarati betű Uu
-0A8B: Gujarati betű Vocalic R
-0A8C: Gujarati betű Vocalic L
-0A8D: Gujarati Vowel Candra E
+0A85: Gudzsaráti betű A
+0A86: Gudzsaráti betű Aa
+0A87: Gudzsaráti betű I
+0A88: Gudzsaráti betű Ii
+0A89: Gudzsaráti betű U
+0A8A: Gudzsaráti betű Uu
+0A8B: Gudzsaráti betű magánhangzóban bővelkedő R
+0A8C: Gudzsaráti betű magánhangzóban bővelkedő L
+0A8D: Gudzsaráti magánhangzó Candra E
 0A8E:
-0A8F: Gujarati betű E
-0A90: Gujarati betű Ai
-0A91: Gujarati Vowel Candra O
+0A8F: Gudzsaráti betű E
+0A90: Gudzsaráti betű Ai
+0A91: Gudzsaráti magánhangzó Candra O
 0A92:
-0A93: Gujarati betű O
-0A94: Gujarati betű Au
-0A95: Gujarati betű Ka
-0A96: Gujarati betű Kha
-0A97: Gujarati betű Ga
-0A98: Gujarati betű Gha
-0A99: Gujarati betű Nga
-0A9A: Gujarati betű Ca
-0A9B: Gujarati betű Cha
-0A9C: Gujarati betű Ja
-0A9D: Gujarati betű Jha
-0A9E: Gujarati betű Nya
-0A9F: Gujarati betű Tta
-0AA0: Gujarati betű Ttha
-0AA1: Gujarati betű Dda
-0AA2: Gujarati betű Ddha
-0AA3: Gujarati betű Nna
-0AA4: Gujarati betű Ta
-0AA5: Gujarati betű Tha
-0AA6: Gujarati betű Da
-0AA7: Gujarati betű Dha
-0AA8: Gujarati betű Na
+0A93: Gudzsaráti betű O
+0A94: Gudzsaráti betű Au
+0A95: Gudzsaráti betű Ka
+0A96: Gudzsaráti betű Kha
+0A97: Gudzsaráti betű Ga
+0A98: Gudzsaráti betű Gha
+0A99: Gudzsaráti betű Nga
+0A9A: Gudzsaráti betű Ca
+0A9B: Gudzsaráti betű Cha
+0A9C: Gudzsaráti betű Ja
+0A9D: Gudzsaráti betű Jha
+0A9E: Gudzsaráti betű Nya
+0A9F: Gudzsaráti betű Tta
+0AA0: Gudzsaráti betű Ttha
+0AA1: Gudzsaráti betű Dda
+0AA2: Gudzsaráti betű Ddha
+0AA3: Gudzsaráti betű Nna
+0AA4: Gudzsaráti betű Ta
+0AA5: Gudzsaráti betű Tha
+0AA6: Gudzsaráti betű Da
+0AA7: Gudzsaráti betű Dha
+0AA8: Gudzsaráti betű Na
 0AA9:
-0AAA: Gujarati betű Pa
-0AAB: Gujarati betű Pha
-0AAC: Gujarati betű Ba
-0AAD: Gujarati betű Bha
-0AAE: Gujarati betű Ma
-0AAF: Gujarati betű Ya
-0AB0: Gujarati betű Ra
+0AAA: Gudzsaráti betű Pa
+0AAB: Gudzsaráti betű Pha
+0AAC: Gudzsaráti betű Ba
+0AAD: Gudzsaráti betű Bha
+0AAE: Gudzsaráti betű Ma
+0AAF: Gudzsaráti betű Ya
+0AB0: Gudzsaráti betű Ra
 0AB1:
-0AB2: Gujarati betű La
-0AB3: Gujarati betű Lla
+0AB2: Gudzsaráti betű La
+0AB3: Gudzsaráti betű Lla
 0AB4:
-0AB5: Gujarati betű Va
-0AB6: Gujarati betű Sha
-0AB7: Gujarati betű Ssa
-0AB8: Gujarati betű Sa
-0AB9: Gujarati betű Ha
+0AB5: Gudzsaráti betű Va
+0AB6: Gudzsaráti betű Sha
+0AB7: Gudzsaráti betű Ssa
+0AB8: Gudzsaráti betű Sa
+0AB9: Gudzsaráti betű Ha
 0ABA:
 0ABB:
-0ABC: Gujarati Sign Nukta
-0ABD: Gujarati Sign Avagraha
-0ABE: Gujarati Vowel Sign Aa
-0ABF: Gujarati Vowel Sign I
-0AC0: Gujarati Vowel Sign Ii
-0AC1: Gujarati Vowel Sign U
-0AC2: Gujarati Vowel Sign Uu
-0AC3: Gujarati Vowel Sign Vocalic R
-0AC4: Gujarati Vowel Sign Vocalic Rr
-0AC5: Gujarati Vowel Sign Candra E
+0ABC: Gudzsaráti jel Nukta
+0ABD: Gudzsaráti jel Avagraha
+0ABE: Gudzsaráti magánhangzó jel Aa
+0ABF: Gudzsaráti magánhangzó jel I
+0AC0: Gudzsaráti magánhangzó jel Ii
+0AC1: Gudzsaráti magánhangzó jel U
+0AC2: Gudzsaráti magánhangzó jel Uu
+0AC3: Gudzsaráti magánhangzó jel magánhangzóban bővelkedő R
+0AC4: Gudzsaráti magánhangzó jel magánhangzóban bővelkedő Rr
+0AC5: Gudzsaráti magánhangzó jel Candra E
 0AC6:
-0AC7: Gujarati Vowel Sign E
-0AC8: Gujarati Vowel Sign Ai
-0AC9: Gujarati Vowel Sign Candra O
+0AC7: Gudzsaráti magánhangzó jel E
+0AC8: Gudzsaráti magánhangzó jel Ai
+0AC9: Gudzsaráti magánhangzó jel Candra O
 0ACA:
-0ACB: Gujarati Vowel Sign O
-0ACC: Gujarati Vowel Sign Au
-0ACD: Gujarati Sign Virama
+0ACB: Gudzsaráti magánhangzó jel O
+0ACC: Gudzsaráti magánhangzó jel Au
+0ACD: Gudzsaráti jel Virama
 0ACE:
 0ACF:
-0AD0: Gujarati Om
+0AD0: Gudzsaráti Om
 0AD1:
 0AD2:
 0AD3:
@@ -222,24 +222,24 @@
 0ADD:
 0ADE:
 0ADF:
-0AE0: Gujarati betű Vocalic Rr
-0AE1: Gujarati betű Vocalic Ll
-0AE2: Gujarati Vowel Sign Vocalic L
-0AE3: Gujarati Vowel Sign Vocalic Ll
-0AE4: <Reserved>
-0AE5: <Reserved>
-0AE6: Gujarati Digit Zero
-0AE7: Gujarati Digit One
-0AE8: Gujarati Digit Two
-0AE9: Gujarati Digit Three
-0AEA: Gujarati Digit Four
-0AEB: Gujarati Digit Five
-0AEC: Gujarati Digit Six
-0AED: Gujarati Digit Seven
-0AEE: Gujarati Digit Eight
-0AEF: Gujarati Digit Nine
-0AF0: Gujarati Abbreviation Sign
-0AF1: Gujarati Rupee Sign
+0AE0: Gudzsaráti betű magánhangzóban bővelkedő Rr
+0AE1: Gudzsaráti betű magánhangzóban bővelkedő Ll
+0AE2: Gudzsaráti magánhangzó jel magánhangzóban bővelkedő L
+0AE3: Gudzsaráti magánhangzó jel magánhangzóban bővelkedő Ll
+0AE4:
+0AE5:
+0AE6: Gudzsaráti számjegy nulla
+0AE7: Gudzsaráti számjegy egy
+0AE8: Gudzsaráti számjegy kettő
+0AE9: Gudzsaráti számjegy három
+0AEA: Gudzsaráti számjegy négy
+0AEB: Gudzsaráti számjegy öt
+0AEC: Gudzsaráti számjegy hat
+0AED: Gudzsaráti számjegy hét
+0AEE: Gudzsaráti számjegy nyolc
+0AEF: Gudzsaráti számjegy kilenc
+0AF0: Gudzsaráti Abbreviation jel
+0AF1: Gudzsaráti Rupee jel
 0AF2:
 0AF3:
 0AF4:
@@ -247,10 +247,10 @@
 0AF6:
 0AF7:
 0AF8:
-0AF9:
-0AFA:
-0AFB:
-0AFC:
-0AFD:
-0AFE:
-0AFF:
+0AF9: Gudzsaráti levél zha
+0AFA: Gudzsaráti jel sukun
+0AFB: Gudzsaráti jel shadda
+0AFC: Gudzsaráti jel maddah
+0AFD: Gudzsaráti jel hárompontos nukta fent
+0AFE: Gudzsaráti jel kör nukta fent
+0AFF: A Gudzsaráti jel a két körből álló nukta felett

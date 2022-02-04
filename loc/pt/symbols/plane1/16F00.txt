@@ -15,7 +15,7 @@
 16F0E: Carta Miao Tta
 16F0F: Letra Miao Dda
 16F10: Na letra Miao
-16F11: Miao Letter Nha
+16F11: Miao letra Nha
 16F12: Miao Letra Yi Nna
 16F13: Letra Miao Arcaico Na
 16F14: Miao Letra Nna
@@ -26,7 +26,7 @@
 16F19: Miao Letra Lhya
 16F1A: Letra Miao Tlha
 16F1B: Miao Carta Dlha
-16F1C: Miao Letter Tlhya
+16F1C: Miao letra Tlhya
 16F1D: Carta Miao Dlhya
 16F1E: Miao Letra Ka
 16F1F: Miao letra Ga
@@ -45,7 +45,7 @@
 16F2C: Miao Letra Nya
 16F2D: Miao Letra Nyha
 16F2E: Miao Carta Tsha
-16F2F: Miao Letter Dzha
+16F2F: Miao letra Dzha
 16F30: Miao Letra Yi Tsha
 16F31: Miao Letra Yi Dzha
 16F32: Carta Miao Reformada Tsha
@@ -67,73 +67,73 @@
 16F42: Miao letra Wa
 16F43: Miao letra Ah
 16F44: Miao letra Hha
-16F45:
-16F46:
-16F47:
-16F48:
-16F49:
-16F4A:
+16F45: Miao letra Bri
+16F46: Miao letra Syi
+16F47: Miao letra Dzyi
+16F48: Miao letra Te
+16F49: Miao letra Tse
+16F4A: Miao letra Rte
 16F4B:
 16F4C:
 16F4D:
 16F4E:
-16F4F:
-16F50: Miao Letter Nasalization
+16F4F: Miao assina barra modificadora consoante
+16F50: Miao letra Nasalization
 16F51: Miao Sign Aspiration
 16F52: Miao Sign Reformed Voicing
 16F53: Miao Sign Aspiração Reformada
-16F54: Miao Vowel Sign A
-16F55: Miao Vowel Sign Aa
-16F56: Miao Vowel Sign Ahh
-16F57: Miao Vowel Sign An
+16F54: Miao sinal de vogal A
+16F55: Miao sinal de vogal Aa
+16F56: Miao sinal de vogal Ahh
+16F57: Miao sinal de vogal An
 16F58: Miao Vogal Sign Ang
 16F59: Sinal de Vogal Miao O
-16F5A: Miao Vowel Sign Oo
+16F5A: Miao sinal de vogal Oo
 16F5B: Miao Vogal Assinar Wo
 16F5C: Sinal de Vogal Miao W
-16F5D: Miao Vowel Sign E
-16F5E: Miao Vowel Sign En
-16F5F: Miao Vowel Sign Eng
+16F5D: Miao sinal de vogal E
+16F5E: Miao sinal de vogal En
+16F5F: Miao sinal de vogal Eng
 16F60: Sinal de Vogal Miao
 16F61: Sinal de Vogal Miao I
-16F62: Miao Vowel Sign Ia
-16F63: Miao Vowel Sign Ian
+16F62: Miao sinal de vogal Ia
+16F63: Miao sinal de vogal Ian
 16F64: Sinal de Vogal Miao Iang
 16F65: Sinal de Vogal Miao Io
-16F66: Miao Vowel Sign Ie
+16F66: Miao sinal de vogal Ie
 16F67: Sinal de Vogal Miao Ii
-16F68: Miao Vowel Sign Iu
-16F69: Miao Vowel Sign Ing
-16F6A: Miao Vowel Sign U
-16F6B: Miao Vowel Sign Ua
+16F68: Miao sinal de vogal Iu
+16F69: Miao sinal de vogal Ing
+16F6A: Miao sinal de vogal U
+16F6B: Miao sinal de vogal Ua
 16F6C: Sinal de Vogal Miao
 16F6D: Miao Vogal Sinal Uang
-16F6E: Miao Vowel Sign Uu
-16F6F: Miao Vowel Sign Uei
+16F6E: Miao sinal de vogal Uu
+16F6F: Miao sinal de vogal Uei
 16F70: Miao Vogal Sinal Ung
 16F71: Sinal de vogal Miao Y
 16F72: Miao Sinal De Vogal Yi
-16F73: Miao Vowel Sign Ae
-16F74: Miao Vowel Sign Aee
-16F75: Miao Vowel Sign Err
-16F76: Miao Vowel Sign Rounded Err
+16F73: Miao sinal de vogal Ae
+16F74: Miao sinal de vogal Aee
+16F75: Miao sinal de vogal Err
+16F76: Miao sinal de vogal Rounded Err
 16F77: Sinal de Vogal Miao Er
 16F78: Sinal de vogal Miao arredondado Er
 16F79: Miao Vogal Sign Ai
 16F7A: Sinal de Vogal Miao Ei
 16F7B: Miao Vogal Sign Au
-16F7C: Miao Vowel Sign Ou
-16F7D: Miao Vowel Sign N
-16F7E: Miao Vowel Sign Ng
-16F7F:
-16F80:
-16F81:
-16F82:
-16F83:
-16F84:
-16F85:
-16F86:
-16F87:
+16F7C: Miao sinal de vogal Ou
+16F7D: Miao sinal de vogal N
+16F7E: Miao sinal de vogal Ng
+16F7F: Miao sinal de vogal Uog
+16F80: Miao sinal de vogal Yui
+16F81: Miao sinal de vogal Og
+16F82: Miao sinal de vogal Oer
+16F83: Miao sinal de vogal Vw
+16F84: Miao sinal de vogal Ig
+16F85: Miao sinal de vogal Ea
+16F86: Miao sinal de vogal Iong
+16F87: Miao sinal de vogal Ui
 16F88:
 16F89:
 16F8A:
@@ -145,12 +145,12 @@
 16F90: Miao Tone Superior Direito
 16F91: Miao Tone Acima
 16F92: Miao Tone Below
-16F93: Miao Letter Tone-2
+16F93: Miao letra Tone-2
 16F94: Miao letra tom-3
 16F95: Letra Miao Tom-4
 16F96: Miao letra tom-5
 16F97: Miao letra tom 6
-16F98: Miao Letter Tone-7
+16F98: Miao letra Tone-7
 16F99: Letra Miao Tom-8
 16F9A: Letra Miao Reformada Tone-1
 16F9B: Letra Miao Reformulada Tone-2
@@ -224,9 +224,9 @@
 16FDF:
 16FE0: Marca de Iteração de Tangut
 16FE1: Marca de Iteração de Nushu
-16FE2:
-16FE3:
-16FE4:
+16FE2: Marca de gancho chinês antigo
+16FE3: Marca de iteração chinesa antiga
+16FE4: Preenchedor de script pequeno Khitan
 16FE5:
 16FE6:
 16FE7:
@@ -238,8 +238,8 @@
 16FED:
 16FEE:
 16FEF:
-16FF0:
-16FF1:
+16FF0: Marca de leitura alternativa vietnamita ca
+16FF1: Marca de leitura alternativa vietnamita nhay
 16FF2:
 16FF3:
 16FF4:
@@ -253,4 +253,4 @@
 16FFC:
 16FFD:
 16FFE:
-16FFF:
+16FFF:

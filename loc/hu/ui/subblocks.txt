@@ -1,0 +1,2401 @@
+0000-001F: C0 vezérlők
+0020-002F: ASCII írásjelek és szimbólumok
+0030-0039: ASCII számjegyek
+003A-0040: ASCII írásjelek és szimbólumok
+0041-005A: Nagybetűs latin ábécé
+005B-0060: ASCII írásjelek és szimbólumok
+0061-007A: Kisbetűs latin ábécé
+007B-007E: ASCII írásjelek és szimbólumok
+007F-007F: Kontroll karakter
+0080-009F: C1 vezérlők
+00A0-00BB: Latin-1 írásjelek és szimbólumok
+00BC-00BE: Vulgar frakciók
+00BF-00BF: Központozás
+00C0-00D6: Levelek
+00D7-00D7: Matematikai operátor
+00D8-00F6: Levelek
+00F7-00F7: Matematikai operátor
+00F8-00FF: Levelek
+0100-0148: Európai latin
+0149-0149: Elavult levél
+014A-017F: Európai latin
+0180-01BF: Nem európai és történelmi latin
+01C0-01C3: Afrikai levelek kattintásokra
+01C4-01CC: A szerb cirill betűkkel megegyező latin digrafok
+01CD-01DC: Pinin diakritikus magánhangzó kombinációk
+01DD-01FF: Fonetikus és történelmi levelek
+0200-0217: Kiegészítések szlovén és horvát nyelven
+0218-021B: Kiegészítések a román nyelvhez
+021C-0229: Egyéb kiegészítések
+022A-0233: Kiegészítések a Livón számára
+0234-0236: Kiegészítések a sinológiához
+0237-0237: Egyéb kiegészítők
+0238-0239: Kiegészítések az afrikai nyelvészethez
+023A-023E: Kiegészítések Sencotenhez
+023F-0240: Kiegészítések az afrikai nyelvészethez
+0241-024F: Egyéb kiegészítések
+0250-02A8: IPA kiterjesztések
+02A9-02AD: IPA karakterek rendezetlen beszédhez
+02AE-02AF: Kiegészítések a sinológiához
+02B0-02B8: Latin felülíró módosító betűk
+02B9-02D7: Egyéb fonetikus módosítók
+02D8-02DD: Távolsági diakritikus klónok
+02DE-02E4: Kiegészítések az 1989-es IPA alapján
+02E5-02E9: Hanglevelek
+02EA-02EB: Bővített Bopomofo hangjelzések
+02EC-02ED: IPA módosítók
+02EE-02EE: Egyéb módosító levél
+02EF-02FF: UPA módosítók
+0300-0333: Rendes diakritikusok
+0334-0338: A túlzott diakritikumok
+0339-033F: Egyéb kiegészítések
+0340-0341: Vietnami hangjelzések
+0342-0345: Kiegészítések görögül
+0346-034A: Kiegészítések az IPA-hoz
+034B-034E: IPA diakritikus elemek a rendezetlen beszédhez
+034F-034F: Grapheme asztalos
+0350-0357: Kiegészítések az uráli fonetikus ábécéhez
+0358-035B: Egyéb kiegészítések
+035C-0362: Dupla diakritikus elemek
+0363-036F: Középkori felülíró betűk diakritikusok
+0370-0373: Archaikus levelek
+0374-0375: Számjelek
+0376-0377: Archaikus levelek
+037A-037A: Iota felirat
+037B-037D: A szerkesztői szimbólumok kisbetűi
+037E-037E: Központozás
+037F-037F: Kiegészítő levél
+0384-0385: Helyes ékezetes jelek
+0386-0386: Levél
+0387-0387: Központozás
+0388-03CE: Levelek
+03CF-03D7: Változatos levél formák
+03D8-03E1: Archaikus levelek
+03E2-03EF: Kopmás levelek származnak Demotic
+03F0-03F2: Változatos levél formák
+03F3-03F3: Kiegészítő levél
+03F4-03F6: Változatos betűk és szimbólumok
+03F7-03F8: További archaikus levelek a Bactrian számára
+03F9-03F9: Változatos levélforma
+03FA-03FB: Archaikus levelek
+03FC-03FC: Szimbólum
+03FD-03FF: Szerkesztői szimbólumok
+0400-040F: Cirill kiterjesztések
+0410-044F: Alapvető orosz ábécé
+0450-045F: Cirill kiterjesztések
+0460-0477: Történelmi levelek
+0478-0479: Történelmi digrafok
+047A-0481: Történelmi levelek
+0482-0489: Történelmi egyéb
+048A-04F9: Bővített cirill
+04FA-04FF: Kiegészítések Nivkh-hoz
+0500-050F: Komi levelek
+0510-0511: Hanti levelek
+0512-0513: Cukchi levelek
+0514-0519: Mordvin levelek
+051A-051D: Kurd levelek
+051E-051F: Aleut levelek
+0520-0523: Chuvash levelek
+0524-0525: Abházi levelek
+0526-0527: Azerbajdzsáni levelek
+0528-0529: Orok levelek
+052A-052D: Komi levelek
+052E-052F: Hanti levelek
+0531-0556: Nagybetűs
+0559-055F: Módosító betűk
+0560-0588: Kisbetűk
+0589-058A: Központozás
+058D-058E: Vallási szimbólumok
+058F-058F: Pénznem szimbólum
+0591-05AF: Szellőzési jelek
+05B0-05C3: Pontok és írásjelek
+05C4-05C5: Puncta extraordinaria
+05C6-05C7: Pontok és írásjelek
+05D0-05EA: Az ISO 8859-8 szabvány alapján
+05EF-05EF: Jel
+05F0-05F2: Jiddis digrafok
+05F3-05F4: További írásjelek
+0600-0604: Jelölések aláírása
+0605-0605: Megnyíló jel
+0606-0607: Radix szimbólumok
+0608-0608: Levélszerű szimbólum
+0609-060A: Központozás
+060B-060B: Pénznem szimbólum
+060C-060D: Központozás
+060E-060F: Költői jelek
+0610-0614: honorifics
+0615-0615: Korán kommentár jel
+0616-0616: Kibővített arab védjegy
+0617-061A: Korán kommentárok
+061B-061B: Központozás
+061C-061C: Formázza a karaktert
+061E-061F: Központozás
+0620-0620: Kiegészítés Kashmiri-hez
+0621-063A: Az ISO 8859-6 alapján
+063B-063F: Kiegészítések a korai perzsa és azerbajdzsáni nyelvekhez
+0640-064A: Az ISO 8859-6 alapján
+064B-0652: Tashkil az ISO 8859-6 szabványtól
+0653-0655: A maddah és a hamza kombinációja
+0656-065F: Egyéb kombináló jelek
+0660-0669: Arab-indiai számjegyek
+066A-066D: Központozás
+066E-066F: Archaikus levelek
+0670-0670: Tashkil
+0671-0672: Bővített arab betűk
+0673-0673: Elavult levél
+0674-06D3: Bővített arab betűk
+06D4-06D4: Központozás
+06D5-06D5: Bővített arab levél
+06D6-06ED: Korán kommentárok
+06EE-06EF: Bővített arab betűk Parkari számára
+06F0-06F9: Kelet-arab-indiai számjegyek
+06FA-06FC: Bővített arab betűk
+06FD-06FE: Jelek a Sindhi számára
+06FF-06FF: Bővített arab levél Parkari számára
+0700-070D: Szír írásjelek és jelek
+070F-070F: Szír formátum vezérlő karakter
+0710-072C: Szír betűk
+072D-072F: Perzsa levelek
+0730-073F: Szír pont (magánhangzók)
+0740-074A: Szíriás jelek
+074D-074F: Sogdian betűk
+0750-076D: Bővített arab betűk
+076E-0771: Kiegészítések Khowar-hoz
+0772-0772: Kiegészítés Torwali-hoz
+0773-077D: Kiegészítések Burushaski számára
+077E-077F: Kiegészítések a korai perzsa nyelvhez
+0780-0797: Alapvető mássalhangzók
+0798-07A5: Bővítmények arab nyelvre
+07A6-07B0: A magánhangzók
+07B1-07B1: Az Addu nyelvjárás mássalhangzója
+07C0-07C9: számjegy
+07CA-07E7: Levelek
+07E8-07EA: Archaikus levelek
+07EB-07F1: Hangjelzések
+07F2-07F3: Egyéb diakritikus elemek
+07F4-07F5: Tonális aposztrófák
+07F6-07F6: Szimbólum
+07F7-07F9: Központozás
+07FA-07FA: Levélhosszabbító
+07FD-07FD: Rövidítés jele
+07FE-07FF: Pénznem szimbólumok
+0800-0815: Levelek
+0816-081B: Mássalhangzó módosítók
+081C-082C: Magánhangzó jelek
+082D-082D: Változatos olvasási jel
+0830-083E: Központozás
+0840-0858: Levelek
+0859-085B: ékezetek
+085E-085E: Központozás
+0860-086A: Szír betűk
+08A0-08A9: Arab betűk az afrikai nyelvekhez
+08AA-08AC: Rohingya függő mássalhangzói
+08AD-08B1: Arab betűk az európai és közép-ázsiai nyelvekhez
+08B2-08B2: Arab levél Berber számára
+08B3-08B4: Arab betűk Arwi számára
+08B6-08BA: Arab betűk a bravanese számára
+08BB-08BD: Arab betűk Warsh ortográfiához
+08BE-08C2: Arab betűk Hindko számára
+08C3-08C6: Arab betűk Hausa, Wolof és más afrikai ortográfiákhoz
+08C7-08C7: Arab levél pandzsábi számára
+08D3-08E2: Korán kommentárok
+08E3-08E3: Bővített magánhang jel Arwi számára
+08E4-08E9: Bővített magánhangzók Rohingya számára
+08EA-08EF: Hangjelzések Rohingya számára
+08F0-08F3: Korán kommentárok
+08F4-08FD: Bővített magánhangzók az afrikai nyelvekhez
+08FE-08FF: Bővített magánhangok jelei
+0900-0903: Különböző jelek
+0904-0914: Független magánhangzók
+0915-0939: A mássalhangzók
+093A-093B: Függő magánhangzó jelek
+093C-093D: Különböző jelek
+093E-094C: Függő magánhangzó jelek
+094D-094D: Virama
+094E-094F: Függő magánhangzó jelek
+0950-0950: Jel
+0951-0952: Védikus hangjelzések
+0953-0954: Accent jelek
+0955-0955: Függő magánhangjel
+0956-0957: Függő magánhangzó jelek Kasmíriről
+0958-095F: További mássalhangzók
+0960-0963: További magánhangzók a szanszkrit számára
+0964-0965: Indiai szkriptek általános írásjele
+0966-096F: számjegy
+0970-0971: További jelek
+0972-0972: Független magánhangzó marathinak
+0973-0975: Független magánhangzók
+0976-0977: Független magánhangzók Kasmíriről
+0978-097A: További mássalhangzók
+097B-097C: Szindhi robbanóanyagok
+097D-097D: Glottal stop
+097E-097F: Szindhi robbanóanyagok
+0980-0983: Különböző jelek
+0985-0994: Független magánhangzók
+0995-09B9: A mássalhangzók
+09BC-09BD: Különböző jelek
+09BE-09C8: Függő magánhangzó jelek
+09CB-09CC: Kétrészes függő magánhangzó jelek
+09CD-09CD: Virama
+09CE-09CE: További mássalhangzó
+09D7-09D7: Jel
+09DC-09DF: További mássalhangzók
+09E0-09E3: További magánhangzók a szanszkrit számára
+09E4-09E5: Fenntartott
+09E6-09EF: számjegy
+09F0-09F1: Assamese kiegészítései
+09F2-09F3: Pénznem szimbólumok
+09F4-09F9: A tört értékek történelmi szimbólumai
+09FA-09FA: Jel
+09FB-09FB: Történelmi pénznem jele
+09FC-09FE: Jelek
+0A01-0A03: Különböző jelek
+0A05-0A14: Független magánhangzók
+0A15-0A39: A mássalhangzók
+0A3C-0A3C: Különböző jelek
+0A3E-0A4C: Függő magánhangzó jelek
+0A4D-0A4D: Virama
+0A51-0A51: Jel
+0A59-0A5E: További mássalhangzók
+0A64-0A65: Fenntartott
+0A66-0A6F: számjegy
+0A70-0A71: Jelek
+0A72-0A73: Magánhangzó alapok
+0A74-0A76: Jelek
+0A81-0A83: Különböző jelek
+0A85-0A94: Független magánhangzók
+0A95-0AB9: A mássalhangzók
+0ABC-0ABD: Különböző jelek
+0ABE-0ACC: Függő magánhangzó jelek
+0ACD-0ACD: Virama
+0AD0-0AD0: Különböző jelek
+0AE0-0AE3: További magánhangzók a szanszkrit számára
+0AE4-0AE5: Fenntartott
+0AE6-0AEF: számjegy
+0AF0-0AF0: Rövidítés jele
+0AF1-0AF1: Pénznem szimbólum
+0AF9-0AF9: További mássalhangzó
+0AFA-0AFF: Átírási jelek
+0B01-0B03: Különböző jelek
+0B05-0B14: Független magánhangzók
+0B15-0B39: A mássalhangzók
+0B3C-0B3D: Különböző jelek
+0B3E-0B48: Függő magánhangzó jelek
+0B4B-0B4C: Kétrészes függő magánhangzó jelek
+0B4D-0B4D: Virama
+0B55-0B57: Különböző jelek
+0B5C-0B5F: További mássalhangzók
+0B60-0B61: További magánhangzók a szanszkrit számára
+0B62-0B63: Függő magánhangzók
+0B64-0B65: Fenntartott
+0B66-0B6F: számjegy
+0B70-0B70: Jel
+0B71-0B71: További mássalhangzó
+0B72-0B77: Frakció jelek
+0B82-0B83: Különböző jelek
+0B85-0B94: Független magánhangzók
+0B95-0BB9: A mássalhangzók
+0BBE-0BC8: Függő magánhangzó jelek
+0BCA-0BCC: Kétrészes függő magánhangzó jelek
+0BCD-0BCD: Virama
+0BD0-0BD7: Különböző jelek
+0BE4-0BE5: Fenntartott
+0BE6-0BEF: számjegy
+0BF0-0BF2: Tamil számok
+0BF3-0BF5: Tamil naptári szimbólumok
+0BF6-0BF8: Tamil papírok
+0BF9-0BF9: Pénznem szimbólum
+0BFA-0BFA: Tamil papírok szimbóluma
+0C00-0C04: Különböző jelek
+0C05-0C14: Független magánhangzók
+0C15-0C39: A mássalhangzók
+0C3D-0C3D: Kiegészítés a szanszkrithoz
+0C3E-0C4C: Függő magánhangzó jelek
+0C4D-0C4D: Virama
+0C55-0C56: Különböző jelek
+0C58-0C5A: Történelmi fonetikus változatok
+0C60-0C61: További magánhangzók a szanszkrit számára
+0C62-0C63: Függő magánhangzók
+0C64-0C65: Fenntartott
+0C66-0C6F: számjegy
+0C77-0C77: Jel
+0C78-0C7F: Telugu frakciók és súlyok
+0C80-0C84: Különböző jelek
+0C85-0C94: Független magánhangzók
+0C95-0CB9: A mássalhangzók
+0CBC-0CBD: Különböző jelek
+0CBE-0CCC: Függő magánhangzó jelek
+0CCD-0CCD: Virama
+0CD5-0CD6: Különböző jelek
+0CDE-0CDE: További mássalhangzók
+0CE0-0CE1: További magánhangzók a szanszkrit számára
+0CE2-0CE3: Függő magánhangzók
+0CE4-0CE5: Fenntartott
+0CE6-0CEF: számjegy
+0CF1-0CF2: A szanszkritban használt jelek
+0D00-0D04: Különböző jelek
+0D05-0D14: Független magánhangzók
+0D15-0D3A: A mássalhangzók
+0D3B-0D3C: Változatos alakú viráma
+0D3D-0D3D: Kiegészítés a szanszkrithoz
+0D3E-0D48: Függő magánhangzó jelek
+0D4A-0D4C: Kétrészes függő magánhangzó jelek
+0D4D-0D4D: Virama
+0D4E-0D4E: Dot reph
+0D4F-0D4F: Mérési szimbólum
+0D54-0D56: További történelmi chillu levelek
+0D57-0D57: Függő magánhangjel
+0D58-0D5E: Kisebb frakciók
+0D5F-0D5F: További történelmi magánhangzó
+0D60-0D61: További magánhangzók a szanszkrit számára
+0D62-0D63: Függő magánhangzók
+0D64-0D65: Fenntartott
+0D66-0D6F: számjegy
+0D70-0D72: Malayalam numerika
+0D73-0D78: Törtek
+0D79-0D79: Dátumjel
+0D7A-0D7F: Chillu levelek
+0D81-0D83: Különböző jelek
+0D85-0D96: Független magánhangzók
+0D9A-0DC6: A mássalhangzók
+0DCA-0DCA: Jel
+0DCF-0DDB: Függő magánhangzó jelek
+0DDC-0DDE: Kétrészes függő magánhangzó jelek
+0DDF-0DDF: Függő magánhangjel
+0DE6-0DEF: Asztrológiai számjegyek
+0DF2-0DF3: További függő magánhangzó jelek
+0DF4-0DF4: Központozás
+0E01-0E2E: A mássalhangzók
+0E2F-0E2F: Jel
+0E30-0E3A: A magánhangzók
+0E3F-0E3F: Pénznem szimbólum
+0E40-0E44: A magánhangzók
+0E45-0E45: Magánhangzó hosszú jel
+0E46-0E46: Ismétlési jel
+0E47-0E47: Magánhangzó
+0E48-0E4B: Hangjelzések
+0E4C-0E4F: Jelek
+0E50-0E59: számjegy
+0E5A-0E5B: Jelek
+0E81-0EAE: A mássalhangzók
+0EAF-0EAF: Jel
+0EB0-0EB9: A magánhangzók
+0EBA-0EBA: Virama
+0EBB-0EBB: Magánhangzó
+0EBC-0EBD: Jelek
+0EC0-0EC4: A magánhangzók
+0EC6-0EC6: Ismétlési jel
+0EC8-0ECB: Hangjelzések
+0ECC-0ECD: Jelek
+0ED0-0ED9: számjegy
+0EDC-0EDD: Digraphs
+0EDE-0EDF: Khmu mássalhangzói
+0F00-0F00: Szótag
+0F01-0F07: Fejjelek
+0F08-0F14: Jelek és jelek
+0F15-0F1F: Asztrológiai jelek
+0F20-0F29: számjegy
+0F2A-0F33: Számjegy mínusz fele
+0F34-0F39: Jelek és jelek
+0F3A-0F3D: Párosított írásjelek
+0F3E-0F3F: Asztrológiai jelek
+0F40-0F6A: A mássalhangzók
+0F6B-0F6C: Bővítmények a Balti számára
+0F71-0F7D: Függő magánhangzó jelek
+0F7E-0F7F: Vokális módosítás
+0F80-0F81: Függő magánhangzó jelek
+0F82-0F87: Jelek és jelek
+0F88-0F8C: Átírási fej betűk
+0F8D-0F8F: Átírási szomszédos jelek
+0F90-0FB9: Alárendelt mássalhangzók
+0FBA-0FBC: Rögzített alakú melléhangzók
+0FBE-0FBF: Jelek
+0FC0-0FC3: Szellőzés jelei
+0FC4-0FCC: szimbólumok
+0FCE-0FCF: Asztrológiai jelek
+0FD0-0FD2: Marks
+0FD3-0FD4: Fejjelek
+0FD5-0FD8: Vallási szimbólumok
+0FD9-0FDA: Jegyzetek
+1000-1020: A mássalhangzók
+1021-102A: Független magánhangzók
+102B-1035: Függő magánhangzó jelek
+1036-1038: Különböző jelek
+1039-103A: Virama és gyilkos
+103B-103E: Függő mássalhangzó jelek
+103F-103F: Mássalhangzó
+1040-1049: számjegy
+104A-104B: Központozás
+104C-104F: Különböző jelek
+1050-1059: Pali és szanszkrit kiterjesztések
+105A-1060: Bővítmények hétfőre
+1061-1064: Bővítmények S'gaw Karen számára
+1065-106D: Bővítmények a Western Pwo Karen számára
+106E-1070: Bővítmények Kelet-Pwo Karen számára
+1071-1071: Meghosszabbítás Geba Karen számára
+1072-1074: Bővítmények Kayah számára
+1075-108D: Bővítmények Shan számára
+108E-108F: Bővítmények a Rumai Palaung számára
+1090-1099: Shan számjegyek
+109A-109B: Bővítmények Khamti Shan számára
+109C-109D: Bővítmények Aiton és Phake számára
+109E-109F: Shan szimbólumok
+10A0-10C5: Nagybetűk (Khutsuri)
+10C7-10C7: Kiegészítő levél
+10CD-10CD: Kiegészítő levél Oszétia számára
+10D0-10F0: Mkhedruli
+10F1-10F6: Archaikus levelek
+10F7-10F8: További levelek Mingrelian és Svan számára
+10F9-10FA: További levelek
+10FB-10FB: Központozás
+10FC-10FC: Módosító levél
+10FD-10FF: További levelek Oszétia és Abház számára
+1100-1112: Kezdeti mássalhangzók
+1113-115F: Régi kezdeti mássalhangzók
+1160-1175: Mediális magánhangzók
+1176-11A7: Régi mediális magánhangzók
+11A8-11C2: Végső mássalhangzók
+11C3-11FF: Régi záróhangok
+1200-135A: szótagok
+135D-135F: Kombináló jelek
+1360-1368: Központozás
+1369-1371: számjegy
+1372-137C: számok
+1380-138F: Silátok a Sebatbeit számára
+1390-1399: Tonális jelek
+13A0-13F4: Nagybetűs szótagok
+13F5-13F5: Archaikus nagybetűs szótag
+13F8-13FC: Kisbetűs szótagok
+13FD-13FD: Archaikus kisbetűs szótag
+1400-1400: Központozás
+1401-166C: szótagok
+166D-166D: Szimbólum
+166E-166E: Központozás
+166F-167F: szótagok
+1680-1680: Tér
+1681-1694: Hagyományos levelek
+1695-169A: Forfeda (kiegészítő levelek)
+169B-169C: Központozás
+16A0-16EA: Levelek
+16EB-16ED: Központozás
+16EE-16F0: Arany számú rúnák
+16F1-16F3: Tolkieniai kiterjesztések
+16F4-16F8: Kriptogramos betűk
+1700-1702: Független magánhangzók
+1703-1711: A mássalhangzók
+1712-1713: Függő magánhangzó jelek
+1714-1714: Virama
+1720-1722: Független magánhangzók
+1723-1731: A mássalhangzók
+1732-1733: Függő magánhangzó jelek
+1734-1734: Virama
+1735-1736: Általános írásjelek a Fülöp-szigeteki szkriptek számára
+1740-1742: Független magánhangzók
+1743-1751: A mássalhangzók
+1752-1753: Függő magánhangzó jelek
+1760-1762: Független magánhangzók
+1763-1770: A mássalhangzók
+1772-1773: Függő magánhangzó jelek
+1780-17A2: A mássalhangzók
+17A3-17A4: Elavult független magánhangzók a transzliterációhoz
+17A5-17B3: Független magánhangzók
+17B4-17B5: Rendkívüli magánhangzók
+17B6-17BD: Függő magánhangzó jelek
+17BE-17C0: Kétrészes függő magánhangzó jelek
+17C1-17C3: Függő magánhangzó jelek
+17C4-17C5: Kétrészes függő magánhangzó jelek
+17C6-17C8: Különböző jelek
+17C9-17CA: Mássalhangzó váltók
+17CB-17D2: Különböző jelek
+17D3-17D3: Hold dátum jele
+17D4-17DA: Különböző jelek
+17DB-17DB: Pénznem szimbólum
+17DC-17DD: Különböző jelek
+17E0-17E9: számjegy
+17F0-17F9: Numerikus szimbólumok a jóslás oktatásához
+1800-180A: Központozás
+180B-180E: Formátumvezérlők
+1810-1819: számjegy
+1820-1842: Alapvető betűk
+1843-185C: Todo levelek
+185D-1872: Sibe levelek
+1873-1877: Manchu levelek
+1878-1878: Burjati levél
+1880-18AA: Bővítmények szanszkrit és tibeti nyelven
+18B0-18C5: Silók a Moose Cree számára
+18C6-18D3: Táblázatok Cree és Ojibway számára
+18D4-18DF: Döntők a Cree és az Ojibway számára
+18E0-18F2: Silók a Beaver Dene, a Hare Dene és a Chipewyan Dene számára
+18F3-18F5: Döntők Dene és Carrier számára
+1900-191E: A mássalhangzók
+1920-1928: Függő magánhangzó jelek
+1929-192B: Alárendelt mássalhangzók
+1930-1938: Végső mássalhangzók
+1939-1945: Különböző jelek
+1946-194F: számjegy
+1950-1962: A mássalhangzók
+1963-196D: A magánhangzók
+1970-1974: Hanglevelek
+1980-19AB: A mássalhangzók
+19B0-19C0: Magánhangzó jelek
+19C1-19C7: Végső mássalhangzók
+19C8-19C9: Hangjelzések
+19D0-19DA: számjegy
+19DE-19DF: Különböző jelek
+19E0-19FF: Hold dátum szimbólumok
+1A00-1A16: A mássalhangzók
+1A17-1A1B: A magánhangzók
+1A1E-1A1F: Különböző jelek
+1A20-1A4C: A mássalhangzók
+1A4D-1A52: Független magánhangzók
+1A53-1A54: A mássalhangzók
+1A55-1A5E: Mássalhangzó jelek
+1A60-1A60: Jel
+1A61-1A74: Függő magánhangzó jelek
+1A75-1A79: Hangjelzések
+1A7A-1A7C: Egyéb jelek
+1A7F-1A7F: Kriptogramos jel
+1A80-1A89: Hora számjegyek
+1A90-1A99: Tham számjegyek
+1AA0-1AA2: Logographs
+1AA3-1AA6: Központozás
+1AA7-1AA7: Jel
+1AA8-1AAD: Központozás
+1AB0-1ABE: A német dialektológiában használják
+1ABF-1AC0: Skót dialektológiában használják
+1B00-1B04: Különböző jelek
+1B05-1B12: Független magánhangzók
+1B13-1B33: A mássalhangzók
+1B34-1B34: Jel
+1B35-1B43: Függő magánhangzó jelek
+1B44-1B44: Jel
+1B45-1B4B: További mássalhangzók
+1B50-1B59: számjegy
+1B5A-1B60: Központozás
+1B61-1B6A: Hangjegyek zenei szimbólumai
+1B6B-1B73: Diakritikus jelek a zenei szimbólumokhoz
+1B74-1B7C: Zenei szimbólumok
+1B80-1B82: Különböző jelek
+1B83-1B89: A magánhangzók
+1B8A-1BA0: A mássalhangzók
+1BA1-1BA3: Mássalhangzó jelek
+1BA4-1BA9: Magánhangzó jelek
+1BAA-1BAB: Viramas
+1BAC-1BAD: Mássalhangzó jelek
+1BAE-1BAF: További mássalhangzók
+1BB0-1BB9: számjegy
+1BBA-1BBA: Jel
+1BBB-1BBF: Történelmi levelek
+1BC0-1BE5: Levelek
+1BE6-1BE6: Jel
+1BE7-1BEF: Függő magánhangzó jelek
+1BF0-1BF1: Függő mássalhangzó jelek
+1BF2-1BF3: Jelek
+1BFC-1BFF: Központozás
+1C00-1C23: A mássalhangzók
+1C24-1C25: Alárendelt mássalhangzók
+1C26-1C2C: Függő magánhangzók
+1C2D-1C35: Mássalhangzó jelek
+1C36-1C37: Különböző jelek
+1C3B-1C3F: Központozás
+1C40-1C49: számjegy
+1C4D-1C4F: További levelek
+1C50-1C59: számjegy
+1C5A-1C77: Levelek
+1C78-1C7D: Módosító betűk
+1C7E-1C7F: Központozás
+1C80-1C88: Történelmi levélváltozatok
+1C90-1CB0: Nagybetűk (Mtavruli)
+1CB1-1CB6: Archaikus levelek
+1CB7-1CB8: További levelek Mingrelian és Svan számára
+1CB9-1CBA: További levelek
+1CBD-1CBF: További levelek Oszétia és Abház számára
+1CC0-1CC7: Központozás
+1CD0-1CD2: Hangjelzések a Samaveda számára
+1CD3-1CD3: Légzésjelzés a Samaveda számára
+1CD4-1CDD: Jelek a Yajurvedic számára
+1CDE-1CDF: Hangjelzések a Satapathabrahmana számára
+1CE0-1CE0: A Rigveda hangjelzése
+1CE1-1CE1: Az Atharvaveda hangjelzése
+1CE2-1CE8: Diakritikumok a visarga-ra
+1CE9-1CF1: Nasalization jelek
+1CF2-1CF3: Ardhavisarga
+1CF4-1CF4: Jelentkezzen a Yajurvedic számára
+1CF5-1CF7: Jelek
+1CF8-1CF9: Jelek Jaiminiya Sama Veda számára
+1CFA-1CFA: Nasalization jel
+1D00-1D25: Latin betűk
+1D26-1D2A: Görög betűk
+1D2B-1D2B: Cirill betű
+1D2C-1D5C: Latin felülíró módosító betűk
+1D5D-1D61: Görög felülíró módosító betűk
+1D62-1D65: Latin feliratmódosító betűk
+1D66-1D6A: Görög alindex módosító betűk
+1D6B-1D6B: Latin betű
+1D6C-1D76: Latin betűk középső tilde
+1D77-1D78: Kaukázusi nyelvészet
+1D79-1D7F: Egyéb fonetikus szimbólumok
+1D80-1D8E: Latin betűk az ízléses horoggal
+1D8F-1D9A: Latin betűk retroflex horoggal
+1D9B-1DBF: Módosító betűk
+1DC0-1DC1: Az ókori görögnél használják
+1DC2-1DC3: Egyéb jelölések
+1DC4-1DC9: Kontúr hangjelek
+1DCA-1DCA: Egyéb jelölés
+1DCB-1DCC: Kontúr hangjelek
+1DCD-1DCD: Dupla diakritikus
+1DCE-1DD2: Középkori kiegészítések
+1DD3-1DE6: Középkori felülíró betűk diakritikusok
+1DE7-1DF4: Felülírásos diakritikus írók a német dialektológia számára
+1DF5-1DF5: Diakritikus az amerikai lexikográfia szempontjából
+1DF6-1DF7: Typicon jelek
+1DF8-1DFB: Egyéb jelölések
+1DFC-1DFC: Kettős diakritikus jel az UPA számára
+1DFD-1DFD: Egyéb jelölés
+1DFE-1DFF: További jelölések az UPA számára
+1E00-1E9B: Latin általános használati kiterjesztések
+1E9C-1E9D: Középkori kiegészítések
+1E9E-1E9E: A német tipográfia kiegészítése
+1E9F-1E9F: Középkori kiegészítés
+1EA0-1EF1: Latin kiterjesztések vietnami nyelven
+1EF2-1EF9: Latin általános kiterjesztések
+1EFA-1EFF: Középkori kiegészítések
+1F00-1FFE: Összetett polonikus görög
+2000-200A: Spaces
+200B-200F: Formázza a karaktereket
+2010-2015: A szaggatott vonal
+2016-2017: Általános írásjelek
+2018-201F: Idézőjelek és aposztróf
+2020-2027: Általános írásjelek
+2028-2029: szeparátorok
+202A-202E: Formázza a karaktereket
+202F-202F: Tér
+2030-2038: Általános írásjelek
+2039-203A: Idézőjel
+203B-203B: Általános írásjelek
+203C-203C: Kettős írásjelek függőleges szöveg esetén
+203D-2044: Általános írásjelek
+2045-2046: Konzolok
+2047-2049: Kettős írásjelek függőleges szöveg esetén
+204A-2055: Általános írásjelek
+2056-2056: Archaikus írásjelek
+2057-2057: Általános írásjelek
+2058-205E: Archaikus írásjelek
+205F-205F: Tér
+2060-2060: Formázza a karaktert
+2061-2064: Láthatatlan operátorok
+2066-2069: Formázza a karaktereket
+206A-206F: Elavult
+2070-207F: felsőindexeket
+2080-2094: indexek
+2095-209C: Feliratkozás az UPA-ra
+20A0-20BF: Pénznem szimbólumok
+20D0-20DC: Diakritikus jelek kombinálása a szimbólumokhoz
+20DD-20E0: A diakritikus szövegek mellékelése
+20E1-20E1: További diakritikus jel a szimbólumokhoz
+20E2-20E4: További mellékelt diakritikus elemek
+20E5-20F0: További diakritikus jelek a szimbólumokhoz
+2100-2134: Levélszerű szimbólumok
+2135-2138: Héber betűszerű matematikai szimbólumok
+2139-213F: További betűszerű szimbólumok
+2140-2140: Kettős ütésű nagy kezelő
+2141-2144: További betűszerű szimbólumok
+2145-2149: Dupla betűkkel jelölt dőlt matematikai szimbólumok
+214A-214D: További betűszerű szimbólumok
+214E-214E: Kisbetűs Claudian betű
+214F-214F: Bibliai szerkesztői szimbólum
+2150-215F: Törtek
+2160-217F: római számok
+2180-2183: Archaikus római számok
+2184-2184: Kisbetűs Claudian betű
+2185-2188: Archaikus római számok
+2189-2189: Töredék
+218A-218B: Esztergált számjegyek
+2190-2199: Egyszerű nyilak
+219A-21AF: Nyilak módosítással
+21B0-21B3: Nyilak hajlított hegyekkel
+21B4-21BB: Billentyűzet szimbólumok és kör nyilak
+21BC-21C3: szigony
+21C4-21CC: Párosított nyilak és hárfák
+21CD-21D9: Dupla nyilak
+21DA-21E5: Egyéb nyilak és billentyűzet szimbólumok
+21E6-21F3: Fehér nyilak és billentyűzet szimbólumok
+21F4-21FF: Egyéb nyilak
+2200-2207: Egyéb matematikai szimbólumok
+2208-220D: Állítsa be a tagságot
+220E-220E: Egyéb matematikai szimbólum
+220F-2211: N-ary operátorok
+2212-221D: Az üzemeltetők
+221E-221E: Egyéb matematikai szimbólum
+221F-2222: Angles
+2223-2226: Relations
+2227-222A: Logikai és beállított operátorok
+222B-2233: integrálok
+2234-2235: Egyéb matematikai szimbólumok
+2236-2237: Relations
+2238-2238: Operátor
+2239-2239: Kapcsolat
+223A-223A: Operátor
+223B-223E: Relations
+223F-223F: Egyéb matematikai szimbólum
+2240-2240: Operátor
+2241-228B: Relations
+228C-228E: Az üzemeltetők
+228F-2292: Relations
+2293-22A3: Az üzemeltetők
+22A4-22A5: Egyéb matematikai szimbólumok
+22A6-22B9: Relations
+22BA-22BD: Az üzemeltetők
+22BE-22BF: Egyéb matematikai szimbólumok
+22C0-22C3: N-ary operátorok
+22C4-22C7: Az üzemeltetők
+22C8-22C8: Kapcsolat
+22C9-22CC: Az üzemeltetők
+22CD-22CD: Kapcsolat
+22CE-22CF: Logikai operátorok
+22D0-22D1: Relations
+22D2-22D3: Az üzemeltetők
+22D4-22ED: Relations
+22EE-22F1: Mátrix ellipszisek
+22F2-22FF: Relations
+2300-2307: Egyéb műszaki
+2308-230B: Mennyezetek és padlók
+230C-230F: növények
+2310-2319: Egyéb műszaki
+231A-231B: Felhasználói felület szimbólumai
+231C-231F: Szárnyas sarkok
+2320-2321: Integrált darabok
+2322-2323: Rosszallás és mosoly
+2324-2328: Billentyűzet szimbólumok
+2329-232A: Elavult szögletes zárójel
+232B-232B: Billentyűzet szimbólum
+232C-232C: Kémia szimbólum
+232D-2335: Rajz szimbólumok
+2336-237A: APL
+237B-237B: Grafika a vezérlőkódokhoz
+237C-237C: Egyéb műszaki
+237D-237F: Grafika a vezérlőkódokhoz
+2380-238C: Billentyűzet szimbólumok az ISO 9995-7 szerint
+238D-2394: Elektrotechnikai szimbólumok az IR 181-ből
+2395-2395: APL
+2396-239A: Billentyűzet szimbólumok az ISO 9995-7 szerint
+239B-23AD: Konzol darabok
+23AE-23AF: Speciális karakterkiterjesztések
+23B0-23B1: Konzol darabok
+23B2-23B3: Összefoglaló jel alkatrészek
+23B4-23B6: Vízszintes zárójel
+23B7-23B9: Terminál grafikus karakterek
+23BA-23BD: Vizsgálja meg a vonalakat a terminál grafikája szempontjából
+23BE-23CC: Fogászati ​​jelölések szimbólumai
+23CD-23CD: Egyéb műszaki
+23CE-23CF: Billentyűzet és felhasználói felület szimbólumok
+23D0-23D0: Speciális karakter kiterjesztés
+23D1-23D9: Metrikus szimbólumok
+23DA-23DB: Elektrotechnikai szimbólumok
+23DC-23E1: Vízszintes zárójel
+23E2-23E2: Egyéb műszaki
+23E3-23E3: Kémia szimbólum
+23E4-23E8: Egyéb műszaki
+23E9-23FA: Felhasználói felület szimbólumai
+23FB-23FD: Teljesítmény szimbólumok az ISO 7000:2012-től
+23FE-23FE: Az IEEE 1621-2004 tápellátási szimbóluma
+23FF-23FF: Egyéb szimbólum
+2400-2421: Grafikus képek a vezérlőkódokhoz
+2422-2423: Különleges szimbólumok a térre
+2424-2424: Grafikus kép a vezérlőkódhoz
+2425-2425: Billentyűzet szimbólum
+2426-2426: A vezérlőkód különleges szimbóluma
+2440-2445: OCR-A
+2446-2449: MICR
+244A-244A: OCR
+2460-2473: Körözött számok
+2474-2487: Zárójelben megadott számok
+2488-249B: Számok periódusa
+249C-24B5: Zárójelekkel ellátott latin betűk
+24B6-24E9: Körözött latin betűk
+24EA-24EA: További körözött szám
+24EB-24F4: Fehér, fekete körökben
+24F5-24FE: Kettős körű számok
+24FF-24FF: További fehér, fekete körben számmal
+2500-2503: Könnyű és nehéz folytonos vonalak
+2504-250B: Könnyű és nehéz szaggatott vonalak
+250C-254B: Könnyű és nehéz soros dobozok alkatrészei
+254C-254F: Könnyű és nehéz szaggatott vonalak
+2550-2551: Dupla vonalak
+2552-256C: Könnyű és kettős vonalú dobozok
+256D-2570: Karakter cella ívek
+2571-2573: Karaktercellák átlói
+2574-257B: Könnyű és nehéz félvonalak
+257C-257F: Vegyes könnyű és nehéz vonalak
+2580-2590: Elemek blokkolása
+2591-2593: Shade karakterek
+2594-2595: Elemek blokkolása
+2596-259F: Terminál grafikus karakterek
+25A0-25EF: Geometriai formák
+25F0-25F7: Vezérlőkód-grafika
+25F8-25FF: Geometriai formák
+2600-260D: Időjárás és asztrológiai szimbólumok
+260E-2613: Egyéb szimbólumok
+2614-2614: Időjárás szimbólum
+2615-2615: Egyéb szimbólum
+2616-2617: Japán sakk szimbólumok
+2618-2619: Egyéb szimbólumok
+261A-261F: Mutató kéz szimbólumok
+2620-2623: Figyelmeztető jelek
+2624-2625: Orvosi és gyógyító szimbólumok
+2626-262F: Vallási és politikai szimbólumok
+2630-2637: Yijing trigram szimbólumok
+2638-2638: Egyéb szimbólum
+2639-263B: Hangulatjelek
+263C-263C: Egyéb szimbólum
+263D-2647: Asztrológiai szimbólumok
+2648-2653: Állatövi szimbólumok
+2654-265F: Sakk szimbólumok
+2660-2667: Kártya szimbólumok
+2668-2668: Egyéb szimbólum
+2669-266F: Zenei szimbólumok
+2670-2671: Szír kereszt szimbólumok
+2672-267D: Újrahasznosítási szimbólumok
+267E-267F: Egyéb szimbólumok
+2680-2685: Dobókocka
+2686-2689: Menj markereket
+268A-268F: Yijing monogram és digram szimbólumok
+2690-269B: Szótár és térkép szimbólumok
+269C-269D: Egyéb szimbólumok
+269E-269F: A zárt feliratozás szimbólumai a PRIA STD B24-ből
+26A0-26A1: Egyéb szimbólumok
+26A2-26A9: Nemek közötti szimbólumok
+26AA-26AC: körök
+26AD-26B1: Genealógiai szimbólumok
+26B2-26B2: Nemek közötti szimbólum
+26B3-26B8: Asztrológiai jelek
+26B9-26BC: Asztrológiai szempontok
+26BD-26BE: Sport szimbólumok
+26BF-26BF: Egyéb szimbólum a PRIA STD B24-től
+26C0-26C3: Piszkozatok és ellenőrök szimbólumai
+26C4-26C8: Időjárás szimbólumok a PRIA STD B24-től
+26C9-26CB: Játékszimbólumok a PRIA STD B24-től
+26CC-26CD: Közlekedési jelzőtáblák a PRIA STD B24-től
+26CE-26CE: Állatöv szimbólum
+26CF-26E1: Közlekedési jelzőtáblák a PRIA STD B24-től
+26E2-26E2: Csillagászati ​​szimbólum
+26E3-26E3: Térkép szimbólum az PRIB STD B24-től
+26E4-26E7: Pentagram szimbólumok
+26E8-26FF: Térkép szimbólumok az PRIA STD B24-től
+2700-2718: Vegyes
+2719-2720: Keresztek
+2721-273D: Csillagok és csillagok
+273E-2741: Fleurons
+2742-274B: Csillagok, csillagok és hópelyhek
+274C-275A: Vegyes
+275B-2765: Írásjelek díszei
+2766-2767: Fleurons
+2768-2775: Díszítő konzolok
+2776-2793: A Dingbat körözött számjegyek
+2794-2794: Dingbat nyíl
+2795-2797: A számtani szimbólumok nehéz változatai
+2798-27AF: Dingbat nyilak
+27B0-27B0: Vegyes
+27B1-27BE: Dingbat nyilak
+27BF-27BF: Vegyes
+27C0-27C4: Egyéb szimbólumok
+27C5-27C6: Párosított írásjelek
+27C7-27C7: Operátor
+27C8-27C9: Egyéb szimbólumok
+27CA-27CA: Függőleges vonal operátor
+27CB-27CB: Egyéb szimbólum
+27CC-27CC: Osztálykezelő
+27CD-27CD: Egyéb szimbólum
+27CE-27CF: Az üzemeltetők
+27D0-27D0: Egyéb szimbólum
+27D1-27D4: Az üzemeltetők
+27D5-27D7: Adatbázis-elmélet operátorok
+27D8-27DF: Zsákok és turnikumok
+27E0-27E5: Modális logikai operátorok
+27E6-27EF: Matematikai zárójel
+27F0-27F4: nyilak
+27F5-27FF: Hosszú nyilak
+2800-28FF: Braille minták
+2900-2918: Egyéb nyilak
+2919-291C: Nyíl farok
+291D-2926: Egyéb nyilak
+2927-2932: Keresztező nyilak csomós elmélethez
+2933-2941: Egyéb íves nyilak
+2942-2949: Nyilak operátorokkal kombinálva
+294A-2951: Kettős szögesdrót
+2952-2961: Módosított hárfák
+2962-296F: Páros párosok
+2970-2970: Egyéb nyíl
+2971-297B: Nyilak és kapcsolatok
+297C-297F: Halfarkok
+2980-2982: Egyéb matematikai szimbólumok
+2983-298C: Konzolok
+298D-2990: Konzolok kullancsokkal
+2991-2998: Konzolok
+2999-299A: kerítések
+299B-29AF: Angles
+29B0-29B4: Üres készletek
+29B5-29C3: Kör szimbólumok
+29C4-29C9: Négyzet alakú szimbólumok
+29CA-29D0: Háromszög szimbólumok
+29D1-29D7: Bowtie szimbólumok
+29D8-29DB: kerítések
+29DC-29E2: Egyéb matematikai szimbólumok
+29E3-29E6: Relations
+29E7-29ED: Egyéb matematikai szimbólumok
+29EE-29F3: Hiba sáv szimbólumok
+29F4-29F7: Egyéb matematikai szimbólumok
+29F8-29F9: Nagy szereplők
+29FA-29FB: Speciális pluszjel-kezelők
+29FC-29FD: Konzolok
+29FE-29FF: A játékelméletben használt szimbólumok
+2A00-2A09: N-ary operátorok
+2A0A-2A1C: Összegzések és integrálok
+2A1D-2A21: Egyéb nagyüzemeltetők
+2A22-2A2E: Plusz és mínusz jel operátorok
+2A2F-2A38: Szorzó és osztásjel operátorok
+2A39-2A3F: Egyéb matematikai operátorok
+2A40-2A50: Kereszteződések és szakszervezetek
+2A51-2A63: Logikai ands és orrs
+2A64-2A65: Egyéb matematikai operátorok
+2A66-2ABC: Relációs operátorok
+2ABD-2AD8: Alkészlet és szupersettel kapcsolatok
+2AD9-2ADD: Forks
+2ADE-2AED: Zsákok és turnikumok
+2AEE-2AF5: Függőleges vonal operátorok
+2AF6-2AF6: Egyéb matematikai operátor
+2AF7-2AFB: Relations
+2AFC-2AFF: Az üzemeltetők
+2B00-2B0D: Fehér és fekete nyilak
+2B0E-2B11: Nyilak hajlított hegyekkel
+2B12-2B15: Négyzetek
+2B16-2B19: Diamonds
+2B1A-2B1E: Négyzetek
+2B1F-2B20: ötszög
+2B21-2B23: hatszög
+2B24-2B24: Kör
+2B25-2B2B: Gyémántok és rombuszok
+2B2C-2B2F: Ellipses
+2B30-2B4C: Matematikai nyilak
+2B4D-2B4D: Egyéb nyíl
+2B4E-2B4F: Intimációs jelek a litván dialektológia számára
+2B50-2B52: Csillag
+2B53-2B54: ötszög
+2B55-2B55: Közlekedési tábla a PRIA STD B24-ből
+2B56-2B59: Szótár és térkép szimbólumok a PRIA STD B24-től
+2B5A-2B5F: Intimációs jelek a litván dialektológia számára
+2B60-2B7D: Háromszög fejű nyilak
+2B7E-2B7F: Billentyűzet szimbólumok
+2B80-2B87: Párosított háromszög fejű nyilak
+2B88-2B8B: Kör alakú nyilak
+2B8C-2B8F: Háromszög fejű, u alakú nyilak
+2B90-2B93: Billentyűzet szimbólumok
+2B94-2B94: Egyéb nyíl szimbólum
+2B95-2B95: Fekete nyíl
+2B97-2B97: Egyéb szimbólum
+2B98-2B9F: nyílhegyek
+2BA0-2BA7: Háromszög fejű nyilak hajlított hegyekkel
+2BA8-2BAF: Fekete ívelt nyilak
+2BB0-2BB7: Szalag nyilak
+2BB8-2BB9: Billentyűzet szimbólumok
+2BBA-2BBC: A sakkjelölésben használt szimbólumok
+2BBD-2BBF: Geometriai szimbólumok
+2BC0-2BC8: Középpontban geometriai alakzatok
+2BC9-2BC9: Csillagászati ​​szimbólum
+2BCA-2BCB: Fél körök
+2BCC-2BCF: Ponty alakzatok
+2BD0-2BD2: Egyéb szimbólumok
+2BD3-2BD6: A Plútó asztrológiai szimbólumai
+2BD7-2BDF: Egyéb asztrológiai szimbólumok
+2BE0-2BE7: Urán asztrológiai szimbólumok
+2BE8-2BEB: Fél csillag karakterek
+2BEC-2BEF: Kétfejű nyíl szimbólumok
+2BF0-2BF2: Asztrológiai szimbólumok Eris és Sedna számára
+2BF3-2BF8: Orosz asztrológiai szempontok
+2BF9-2BFE: A sakkjelölésben használt szimbólumok
+2BFF-2BFF: Egyéb szimbólum
+2C00-2C2E: Nagybetűvel
+2C30-2C5E: Kis betűk
+2C60-2C66: Ortográfiai latin kiegészítések
+2C67-2C6C: Kiegészítések Uigur számára
+2C6D-2C74: Egyéb kiegészítések
+2C75-2C76: Claudian levelek
+2C77-2C7D: Kiegészítések az UPA-hoz
+2C7E-2C7F: Kiegészítések Shonához
+2C80-2CB1: Bohír kopt betűk
+2CB2-2CDB: Régi kopt és nyelvjárási betűk
+2CDC-2CE3: Régi núbiai levelek
+2CE4-2CEA: szimbólumok
+2CEB-2CEE: Kriptogramos betűk
+2CEF-2CF1: Kombináló jelek
+2CF2-2CF3: Bohír kopt betűk
+2CF9-2CFC: Régi núbiai írásjelek
+2CFD-2CFD: Numerikus karakter
+2CFE-2CFF: Központozás
+2D00-2D25: Kis betűk (Khutsuri)
+2D27-2D27: Kiegészítő levél
+2D2D-2D2D: Kiegészítő levél Oszétia számára
+2D30-2D67: Levelek
+2D6F-2D6F: Módosító levél
+2D70-2D70: Központozás
+2D7F-2D7F: Jel
+2D80-2D92: Silók a Me'en számára
+2D93-2D96: Silók Blin számára
+2DA0-2DBE: Silók a padon
+2DC0-2DDE: Silátok a Sebatbeit számára
+2DE0-2DFF: Régi templom szláv betűk kombinálása
+2E00-2E0D: Újszövetségi szerkesztői szimbólumok
+2E0E-2E16: Ókori görög szöveges szimbólumok
+2E17-2E17: Ősi közel-keleti nyelvi szimbólum
+2E18-2E19: Általános írásjelek
+2E1A-2E1B: Szótár írásjelek
+2E1C-2E1D: Konzolok
+2E1E-2E1F: Szótár írásjelek
+2E20-2E21: Konzolok
+2E22-2E25: Fél zárójel
+2E26-2E29: Konzolok
+2E2A-2E31: Történelmi írásjelek
+2E32-2E32: Paleotípus transzliterációs szimbólum
+2E33-2E34: Történelmi írásjelek
+2E35-2E39: Paleotípus transzliterációs szimbólumok
+2E3A-2E3B: A szaggatott vonal
+2E3C-2E3E: Az írásjelek alternatív formái
+2E3F-2E3F: Történelmi írásjelek
+2E40-2E40: Kettős kötőjel
+2E41-2E42: Fordított írásjelek
+2E43-2E44: Egyéb írásjelek
+2E45-2E49: Typicon írásjelek
+2E4A-2E52: Történelmi írásjelek
+2E80-2EF3: CJK radikális kiegészítő
+2F00-2FD5: Kangxi radikálisok
+2FF0-2FFB: Ideografikus leírás karakterek
+3000-3007: CJK szimbólumok és írásjelek
+3008-300B: CJK szögtartók
+300C-300F: CJK sarokkonzolok
+3010-3011: CJK konzolok
+3012-3013: CJK szimbólumok
+3014-301B: CJK konzolok
+301C-301F: CJK írásjelek
+3020-3020: CJK szimbólum
+3021-3029: Szucsou számok
+302A-302F: Hangjelzések kombinálása
+3030-3030: Egyéb CJK írásjelek
+3031-3035: Kana ismétlődő jelek
+3036-3037: Egyéb CJK szimbólumok
+3038-303A: További Suzhou számok
+303B-303D: Egyéb CJK írásjelek
+303E-303F: Speciális CJK mutatók
+3041-3094: Hiragana levelek
+3095-3096: Kis betűk
+3099-309C: Hangjelzések
+309D-309E: Iterációs jelek
+309F-309F: Hiragana digraph
+30A0-30A0: Katakana írásjelek
+30A1-30FA: Katakana levelek
+30FB-30FC: Összekapcsolási és hosszjelzések
+30FD-30FE: Iterációs jelek
+30FF-30FF: Katakana digraph
+3105-3129: Alapján GB 2312
+312A-312C: Dialektus (nem mandarin) betűk
+312D-312F: Egyéb kiegészítések
+3131-314E: Mássalhangzó levelek
+314F-3163: Magánhangzó betűk
+3164-3164: Különleges karakter
+3165-3186: Régi mássalhangzó levelek
+3187-318E: Régi magánhangzó betűk
+3190-3190: Tateten
+3191-319F: Kaeriten
+31A0-31B7: Bővített Bopomofo Minnan és Hakka számára
+31B8-31BA: Bővített Bopomofo Hmu és Ge számára
+31BB-31BB: Bővített Bopomofo Minnan és Hakka számára
+31BC-31BF: Bopomofo kibővített kantoni
+31C0-31E3: CJK stroke
+31F0-31FF: Fonetikai kiterjesztések Ainu számára
+3200-320D: Zárójelekkel ellátott hangul betűk
+320E-321C: Zárójelekkel ellátott hangul szótagok
+321D-321E: Zárójelekkel ellátott koreai szavak
+3220-3243: Zárójelekkel ellátott ideográfiák
+3244-3247: Körözött ideográfiák a PRIA STD B24-től
+3248-324F: Körözött számok a fekete négyzeten az PRIA STD B24-től
+3250-3250: Négyzetes latin rövidítés
+3251-325F: Körözött számok
+3260-326D: Körözött hangul betűk
+326E-327B: Körözött hangul szótagok
+327C-327D: Körözött koreai szavak
+327E-327E: Körözött hangul szótag
+327F-327F: Szimbólum
+3280-32B0: Körözött ideográfiák
+32B1-32BF: Körözött számok
+32C0-32CB: Távíró szimbólumok hónapokig
+32CC-32CF: Négyzetes latin rövidítések
+32D0-32FE: Körözött Katakana
+32FF-32FF: Japán korszak neve
+3300-3357: Négyzetes katakana szavak
+3358-3370: Távíró szimbólumok órákig
+3371-337A: Négyzetes latin rövidítések
+337B-337E: Japán korszaknevek
+337F-337F: Japán vállalat
+3380-3394: Négyzetes latin rövidítések
+3395-3398: A liter szimbólumok rövidítése
+3399-33DF: Négyzetes latin rövidítések
+33E0-33FE: Távíró szimbólumok napokig
+33FF-33FF: Négyzetes latin rövidítés
+4DC0-4DFF: Yijing hexagram szimbólumok
+A000-A014: szótagok
+A015-A015: Szilasztható iterációs jel
+A016-A48C: szótagok
+A490-A4C6: Yi radikálisok
+A4D0-A4ED: A mássalhangzók
+A4EE-A4F7: A magánhangzók
+A4F8-A4FD: Hangok
+A4FE-A4FF: Központozás
+A500-A523: A talpbetétek -ee-ben
+A524-A548: A -i-ben lévő tollak
+A549-A570: Található -a-ban
+A571-A594: Silók in -oo
+A595-A5B9: Szövetek -u-ban
+A5BA-A5E0: A talpbetétek -o-ban
+A5E1-A60A: A talpbetétek -e-ben
+A60B-A60C: Silózható döntők
+A60D-A60F: Központozás
+A610-A612: Történelmi szótagok
+A613-A61F: logogramokból
+A620-A629: számjegy
+A62A-A62B: Történelmi szótagok
+A640-A66E: Régi cirill betűk
+A66F-A66F: Rövidítés jel
+A670-A672: Numerikus jelek kombinálása
+A673-A673: Írásjel
+A674-A67D: Kombinációs jelek a régi cirillra
+A67E-A67E: Írásjel
+A67F-A67F: Módosító levél
+A680-A697: Levelek a régi abházia ortográfiához
+A698-A69B: Régi cirill betűk
+A69C-A69D: Intimációs jelek a litván dialektológia számára
+A69E-A69F: Kombinációs jelek a régi cirillra
+A6A0-A6EF: szótagok
+A6F0-A6F1: Kombináló jelek
+A6F2-A6F7: Központozás
+A700-A707: Sarokhangjelzések a kínai nyelven
+A708-A711: Pontozott hang betűk
+A712-A716: Bal szárú hang betűk
+A717-A71A: Chinantec hangjelzések
+A71B-A71F: Afrikai hangú levelek
+A720-A721: Kiegészítések az UPA-hoz
+A722-A725: Egyiptológiai kiegészítések
+A726-A72F: Majaisták kiegészítései
+A730-A778: Középkori kiegészítések
+A779-A787: Izoláris és kelta betűk
+A788-A78A: Módosító betűk
+A78B-A78C: Ortográfiai betűk a glottokhoz
+A78D-A78D: Kiegészítő levél
+A78E-A78E: Fonetikus szimbólum
+A78F-A78F: Átírási levél
+A790-A793: További levelek
+A794-A795: Kiegészítések a litván dialektológiához
+A796-A797: Közép vietnami levelek
+A798-A799: Archaikus levelek Ewe-nek
+A79A-A79F: Régies levelek Volapük számára
+A7A0-A7A9: Levelek az 1921 előtti lett helyesírásról
+A7AA-A7AD: További levelek
+A7AE-A7AE: Levél a nyugat-afrikai nyelvekhez
+A7AF-A7AF: Levél japán fonemikus átíráshoz
+A7B0-A7B1: Amerikai ortográfiák betűi
+A7B2-A7B2: Levél az afrikai nyelvek számára
+A7B3-A7B3: Levél a német dialektológiához
+A7B4-A7B7: Afrikai nyelvű levelek
+A7B8-A7B9: Levelek Mazahua számára (Mexikó)
+A7BA-A7BF: Ugaritikus és egyiptológiai átírási levelek
+A7C2-A7C3: További levelek
+A7C4-A7C6: A pinjin korai romanizálásában használt betűk
+A7C7-A7CA: További levelek Gaulish számára
+A7F5-A7F7: Ősi galíliai és kelta epigrafikus levelek
+A7F8-A7F9: Kiegészítések a kiterjesztett IPA-hoz
+A7FA-A7FA: Kiegészítés az UPA-hoz
+A7FB-A7FF: Ókori római epigrafikus levelek
+A800-A805: Független magánhangzók és dvisvara
+A806-A806: Jel
+A807-A822: Mássalhangzók és mássalhangzó jelek
+A823-A827: Függő magánhangzó jelek
+A828-A82B: Költőjelek
+A82C-A82C: Jel
+A830-A836: Szám formák
+A837-A837: Egyéb jel
+A838-A838: Pénznem szimbólum
+A839-A839: Egyéb jel
+A840-A85C: A mássalhangzók
+A85D-A85D: A betű
+A85E-A861: A magánhangzók
+A862-A865: A mássalhangzók
+A866-A866: Magánhangzó
+A867-A868: Alárendelt mássalhangzók
+A869-A86C: Monsonáns kiegészítések a szanszkrithoz
+A86D-A870: Alternatív mássalhangzó formák a kínai nyelvhez
+A871-A871: Alárendelt mássalhangzó
+A872-A872: Monsonáns kiegészítés tibeti nyelven
+A873-A873: Candrabindu
+A874-A875: Fejjel a tibeti
+A876-A877: Tibeti írásjelek
+A880-A881: Különböző jelek
+A882-A891: Független magánhangzók
+A892-A8B4: A mássalhangzók
+A8B5-A8C3: Függő magánhangzó jelek
+A8C4-A8C4: Virama
+A8C5-A8C5: Jel
+A8CE-A8CF: Központozás
+A8D0-A8D9: számjegy
+A8E0-A8F1: A Samaveda szellőztetési jelei (súly)
+A8F2-A8F7: Az orrbetegség jelei
+A8F8-A8FB: Szerkesztési jelek
+A8FC-A8FD: Jelek
+A8FE-A8FF: További magánhangzó és magánhangjel
+A900-A909: számjegy
+A90A-A925: A mássalhangzók
+A926-A92A: A magánhangzók
+A92B-A92D: Hangjelzések
+A92E-A92F: Központozás
+A930-A946: A mássalhangzók
+A947-A94E: Magánhangzó jelek
+A94F-A952: Mássalhangzó jelek
+A953-A953: Virama
+A95F-A95F: Központozás
+A960-A97C: Régi kezdeti mássalhangzók
+A980-A983: Különböző jelek
+A984-A9B2: Levelek
+A9B3-A9B3: Jel
+A9B4-A9BC: Függő magánhangzó jelek
+A9BD-A9BF: Függő mássalhangzó jelek
+A9C0-A9C0: Jel
+A9C1-A9CD: Központozás
+A9CF-A9CF: Silózható reduktor
+A9D0-A9D9: számjegy
+A9DE-A9DF: Ellipszis jelek
+A9E0-A9E5: Kiegészítések Shan Pali számára
+A9E6-A9E6: Másolási jel
+A9E7-A9EF: Tai Laing mássalhangzók
+A9F0-A9F9: Tai Laing számjegyek
+A9FA-A9FE: Tai Laing mássalhangzók
+AA00-AA05: Független magánhangzók
+AA06-AA28: A mássalhangzók
+AA29-AA32: Függő magánhangzó jelek
+AA33-AA36: Mássalhangzó jelek
+AA40-AA4D: Végső mássalhangzók
+AA50-AA59: számjegy
+AA5C-AA5F: Központozás
+AA60-AA73: Khamti Shan mássalhangzók
+AA74-AA76: Khamti Shan logogramok
+AA77-AA7A: Aiton szimbólumok és betűk
+AA7B-AA7B: Pa'o Karen hangjelzés
+AA7C-AA7D: Tai Laing hangjelzések
+AA7E-AA7F: Shwe Palaung levelek
+AA80-AAAF: A mássalhangzók
+AAB0-AABE: Magánhangzók és döntők
+AABF-AAC2: Hangok
+AADB-AADC: Szó ligamentum szimbólumok
+AADD-AADD: Ismétlési jel
+AADE-AADF: Központozás
+AAE0-AAE1: Független magánhangzó jelek
+AAE2-AAEA: A mássalhangzók
+AAEB-AAEF: Függő magánhangzó jelek
+AAF0-AAF1: Központozás
+AAF2-AAF2: Jel
+AAF3-AAF4: Ismétlési jelek
+AAF5-AAF5: Jel
+AAF6-AAF6: Virama
+AB01-AB0E: Gamo-Gofa-Dawro és Basketo
+AB11-AB16: Gamo-Gofa-Dawro
+AB20-AB2E: Gumuz
+AB30-AB5A: Betűk a német dialektológiához
+AB5B-AB5F: A német dialektológia módosító betűi
+AB60-AB63: Történelmi levelek Szaha (Jakut) számára
+AB64-AB65: Amerikai ortográfiák betűi
+AB66-AB67: Betűk a sinológiai transzkripcióhoz
+AB68-AB6B: Levelek a skót dialektológia számára
+AB70-ABBF: Kisbetűs szótagok
+ABC0-ABDA: Levelek
+ABDB-ABE2: Végső mássalhangzók
+ABE3-ABEA: Függő magánhangzó jelek
+ABEB-ABED: Központozás
+ABF0-ABF9: számjegy
+D7B0-D7C6: Régi mediális magánhangzók
+D7CB-D7FB: Régi záróhangok
+F900-FA0B: Kiejtési változatok a KS X 1001:1998-től
+FA0C-FA0D: Ismétlődő karakterek a Big 5-ből
+FA0E-FA2D: Az IBM 32 kompatibilitási ideográfiák
+FA2E-FA2F: Koreai kompatibilitási ideográfiák
+FA30-FA6A: JIS X 0213 kompatibilitási ideográfiák
+FA6B-FA6D: PRIA kompatibilitási ideográfiák
+FA70-FAD9: A KNDK kompatibilitási ideográfiái
+FB00-FB06: Latin ligációk
+FB13-FB17: Örmény ligációk
+FB1D-FB4F: Héber bemutató formák
+FB50-FBB1: Jelfájlok a kontextuális levélformákhoz perzsa, urdu, szindhi stb. Számára
+FBB2-FBC1: Arab pedagógiai szimbólumok
+FBD3-FBE9: A karakterjel a közép-ázsiai nyelvek betűjeinek kontextusában
+FBEA-FD3D: Ligációk (két elem)
+FD3E-FD3F: Központozás
+FD50-FDC7: Ligációk (három elem)
+FDD0-FDEF: Nem karakterek
+FDF0-FDFB: Szó ligációk
+FDFC-FDFC: Pénznem szimbólum
+FDFD-FDFD: Szimbólum
+FE00-FE0D: Változatválasztók
+FE0E-FE0F: Hangulatjelek-specifikus változatválasztók
+FE10-FE19: Karakterjelek függőleges változatokhoz
+FE20-FE23: Féljelek kombinálása
+FE24-FE26: Folyamatos makrók a kopt számára
+FE27-FE2D: Féljelek kombinálása az alábbiak szerint
+FE2E-FE2F: Féljelek kombinálása
+FE30-FE44: Karakterjelek függőleges változatokhoz
+FE45-FE46: Oldalsó vonalon hangsúlyos jelek
+FE47-FE48: Karakterjelek függőleges változatokhoz
+FE49-FE4F: Áttekintések és aláhúzások
+FE50-FE6B: Kis alakváltozat
+FE70-FE72: Karakterjelek az arab pontok közötti távolságokhoz
+FE73-FE73: A karakterjel rész
+FE74-FE7F: Karakterjelek az arab pontok közötti távolságokhoz
+FE80-FEFC: Alapvető karakterjelek az arab nyelv kontextusában
+FEFF-FEFF: Különleges
+FF01-FF5E: Teljes szélességű ASCII változatok
+FF5F-FF60: Teljes szélességű zárójel
+FF61-FF64: Fél szélességű CJK írásjelek
+FF65-FF9F: Félszélességű Katakana változatok
+FFA0-FFDC: Félszélességű hangul variánsok
+FFE0-FFE6: Teljes szélességű szimbólumok változatai
+FFE8-FFEE: Félszélességű szimbólumváltozatok
+FFF9-FFFB: Interlinear kommentár
+FFFC-FFFD: Csere karakterek
+FFFE-FFFF: Nem karakterek
+10000-1003F: Alaptavak
+10040-1004D: Kiegészítő jelek
+10050-1005D: szimbólumok
+10080-1008D: Emberek és állatok
+1008E-10094: Gabonafélék és növények
+10095-10099: kivonatok
+1009A-1009C: Metals
+1009D-100DD: Más anyagok
+100DE-100FA: Hajók
+10100-10102: Központozás
+10107-10133: számok
+10137-1013F: intézkedések
+10140-10174: Ókori görög akrofón számok
+10175-1018B: Ókori görög papirológiai számok
+1018C-1018E: Ókori görög szimbólumok
+10190-10195: Római súlyok és méretek
+10196-1019A: Római érme szimbólumok
+1019B-1019C: Egyéb római epigrafikus szimbólumok
+101A0-101A0: Görög szimbólum
+101D0-101FC: Jelek
+101FD-101FD: Kombináló stroke
+10280-1029C: Levelek
+102A0-102D0: Levelek
+102E0-102E0: Jel
+102E1-102E9: számjegy
+102EA-102FB: számok
+10300-1031A: Levelek
+1031B-1031C: Umbrian levelek
+1031D-1031E: Oszkán levelek
+1031F-1031F: Dél-Picene levél
+10320-10323: számok
+1032D-1032F: Észak-dőlt betűk
+10330-1034A: Levelek
+10350-10375: Levelek
+10376-1037A: Betűk kombinálása
+10380-1039D: Levelek
+1039F-1039F: Központozás
+103A0-103A2: Független magánhangzók
+103A3-103C3: A mássalhangzók
+103C8-103CF: Különböző jelek
+103D0-103D0: Központozás
+103D1-103D5: számok
+10400-10427: Nagybetűs
+10428-1044F: Kisbetűk
+10450-10463: Magas és mély betűk (mássalhangzók)
+10464-10477: Rövid levelek
+10478-1047F: ligatúrák
+10480-1049D: Levelek
+104A0-104A9: számjegy
+104B0-104D3: Nagybetűs
+104D8-104FB: Kisbetűk
+10500-10527: Levelek
+10530-10563: Levelek
+1056F-1056F: Központozás
+10600-1069F: Egyszerű jelek
+106A0-106B2: Váza formák
+106B3-10726: Komplex jelek
+10727-10736: Komplex táblák váza formákkal
+10740-10755: Frakciók és vegyes frakciók
+10760-10767: További jelek
+10800-1083F: szótagok
+10840-10855: Levelek
+10857-10857: Központozás
+10858-1085F: számok
+10860-10876: Levelek
+10877-10878: szimbólumok
+10879-1087F: számok
+10880-1089E: Levelek
+108A7-108AF: számok
+108E0-108F5: Levelek
+108FB-108FF: számok
+10900-10915: Levelek
+10916-1091B: számok
+1091F-1091F: Központozás
+10920-10939: Levelek
+1093F-1093F: Központozás
+10980-10983: Magánhangzó betűk
+10984-1099D: Mássalhangzó levelek
+1099E-1099F: szimbólumok
+109A0-109A3: Magánhangzó betűk
+109A4-109B7: Mássalhangzó levelek
+109BC-109BD: Törtek
+109BE-109BF: logogramokból
+109C0-109C8: számjegy
+109C9-109CF: Tens
+109D2-109DA: Több száz
+109DB-109E3: Ezrek
+109E4-109EC: Tízezer
+109ED-109F5: Több százezer
+109F6-109FF: Törtek
+10A00-10A06: A magánhangzók
+10A0C-10A0C: Hosszjelzés
+10A0D-10A0F: Különböző jelek
+10A10-10A35: A mássalhangzók
+10A38-10A3A: Különböző jelek
+10A3F-10A3F: Virama
+10A40-10A43: számjegy
+10A44-10A48: Számok és törtek
+10A50-10A58: Központozás
+10A60-10A7C: Levelek
+10A7D-10A7F: számok
+10A80-10A9C: Levelek
+10A9D-10A9F: számok
+10AC0-10AC7: Levelek
+10AC8-10AC8: Logogram
+10AC9-10AE4: Levelek
+10AE5-10AE6: Kombináló jelek
+10AEB-10AEF: számok
+10AF0-10AF6: Központozás
+10B00-10B0F: A magánhangzók
+10B10-10B35: A mássalhangzók
+10B39-10B3F: Központozás
+10B40-10B55: Levelek
+10B58-10B5F: számok
+10B60-10B72: Levelek
+10B78-10B7F: számok
+10B80-10B91: Levelek
+10B99-10B9C: Központozás
+10BA9-10BAF: számok
+10C00-10C08: A magánhangzók
+10C09-10C48: A mássalhangzók
+10C80-10CB2: Nagybetűs
+10CC0-10CF2: Kisbetűk
+10CFA-10CFF: számok
+10D00-10D1B: Levelek
+10D1C-10D1C: Kiegészítő levél
+10D1D-10D21: A magánhangzók
+10D22-10D22: Magánhangzó hangtompító
+10D23-10D23: Nazális jel
+10D24-10D26: Hangjelzések
+10D27-10D27: Gemination jele
+10D30-10D39: számjegy
+10E60-10E68: számjegy
+10E69-10E7A: számok
+10E7B-10E7E: Törtek
+10E80-10EA9: Levelek
+10EAB-10EAC: Kombináló jelek
+10EAD-10EAD: Központozás
+10EB0-10EB1: Történelmi betűk diakritikával
+10F00-10F1C: Levelek
+10F1D-10F26: számok
+10F27-10F27: Elkötés
+10F30-10F44: Levelek
+10F45-10F45: hangfelvétel
+10F46-10F50: Kombináló jelek
+10F51-10F54: számok
+10F55-10F59: Központozás
+10FB0-10FC4: Levelek
+10FC5-10FCB: számok
+10FE0-10FF5: Levelek
+10FF6-10FF6: Elkötés
+11000-11004: Különböző jelek
+11005-11012: Független magánhangzók
+11013-11037: A mássalhangzók
+11038-11045: Függő magánhangzó jelek
+11046-11046: Virama
+11047-1104D: Központozás
+11052-11065: számok
+11066-1106F: számjegy
+1107F-1107F: Számú asztalos
+11080-11082: Különböző jelek
+11083-1108C: Független magánhangzók
+1108D-110AF: A mássalhangzók
+110B0-110B8: Függő magánhangzó jelek
+110B9-110B9: Virama
+110BA-110BD: Különböző jelek
+110BE-110C1: Központozás
+110CD-110CD: Jel
+110D0-110E1: A mássalhangzók
+110E2-110E7: A magánhangzók
+110E8-110E8: Más levél
+110F0-110F9: számjegy
+11100-11102: Különböző jelek
+11103-11106: Független magánhangzók
+11107-11126: A mássalhangzók
+11127-11132: Függő magánhangzó jelek
+11133-11134: Különböző jelek
+11136-1113F: számjegy
+11140-11143: Központozás
+11144-11144: Mássalhangzó
+11145-11146: Függő magánhangzó jelek
+11147-11147: Mássalhangzó
+11150-11154: A magánhangzók
+11155-11172: A mássalhangzók
+11173-11173: Jel
+11174-11175: Központozás
+11176-11176: Szó ligature
+11180-11182: Különböző jelek
+11183-11190: Független magánhangzók
+11191-111B2: A mássalhangzók
+111B3-111BF: Függő magánhangzó jelek
+111C0-111C0: Virama
+111C1-111C4: Különböző jelek
+111C5-111C8: Központozás
+111C9-111C9: Jel
+111CA-111CC: Jelek Kashmiri számára
+111CD-111CD: Központozás
+111CE-111CE: Történelmi magánhangzó jel
+111CF-111CF: Jel
+111D0-111D9: számjegy
+111DA-111DD: Központozás
+111DE-111DF: Metszeti jelek
+111E1-111E9: Történelmi számjegyek
+111EA-111F4: Történelmi számok
+11200-11207: Független magánhangzók
+11208-1122B: A mássalhangzók
+1122C-11233: Függő magánhangzó jelek
+11234-11237: Különböző jelek
+11238-1123D: Központozás
+1123E-1123E: Jel
+11280-11283: A magánhangzók
+11284-112A8: A mássalhangzók
+112A9-112A9: Központozás
+112B0-112B9: Független magánhangzók
+112BA-112DE: A mássalhangzók
+112DF-112DF: Jel
+112E0-112E8: Függő magánhangzó jelek
+112E9-112EA: Különböző jelek
+112F0-112F9: számjegy
+11300-11303: Különböző jelek
+11305-11314: Független magánhangzók
+11315-11339: A mássalhangzók
+1133B-1133D: Különböző jelek
+1133E-11348: Függő magánhangzó jelek
+1134B-1134C: Kétrészes függő magánhangzó jelek
+1134D-1134D: Virama
+11350-11350: Jel
+11357-11357: Függő magánhangjel
+1135D-1135D: Jel
+1135E-1135F: Anusvaras
+11360-11361: Független magánhangzók
+11362-11363: Függő magánhangzó jelek
+11366-11374: A Samaveda szellőztetési jelei (súly)
+11400-1140D: Független magánhangzók
+1140E-11434: A mássalhangzók
+11435-11441: Függő magánhangzó jelek
+11442-11448: Különböző jelek
+11449-1144A: Felhívó jelek
+1144B-1144F: Központozás
+11450-11459: számjegy
+1145A-1145A: Központozás
+1145B-11461: Különböző jelek
+11480-11480: Jel
+11481-1148E: Független magánhangzók
+1148F-114AF: A mássalhangzók
+114B0-114BE: Függő magánhangzó jelek
+114BF-114C7: Különböző jelek
+114D0-114D9: számjegy
+11580-1158D: Független magánhangzók
+1158E-115AE: A mássalhangzók
+115AF-115BB: Függő magánhangzó jelek
+115BC-115C0: Különböző jelek
+115C1-115C1: Fejjel
+115C2-115C5: Központozás
+115C6-115C8: Ismétlési jelek
+115C9-115C9: A terminál jelölése
+115CA-115D7: Metszeti jelek
+115D8-115DB: Alternatív levelek
+115DC-115DD: Alternatív magánhangzó jelek
+11600-1160D: Független magánhangzók
+1160E-1162F: A mássalhangzók
+11630-1163C: Függő magánhangzó jelek
+1163D-11640: Különböző jelek
+11641-11643: Központozás
+11644-11644: Jel
+11650-11659: számjegy
+11660-1166C: Központozás
+11680-11689: Független magánhangzók
+1168A-116AA: A mássalhangzók
+116AB-116AC: Különböző jelek
+116AD-116B5: Függő magánhangzó jelek
+116B6-116B6: Virama
+116B7-116B7: Nukta
+116B8-116B8: Mássalhangzó
+116C0-116C9: számjegy
+11700-1171A: A mássalhangzók
+1171D-1171F: Medials
+11720-1172B: Magánhangzó jelek
+11730-11739: számjegy
+1173A-1173B: számok
+1173C-1173F: Központozás
+11800-11809: Független magánhangzók
+1180A-1182B: A mássalhangzók
+1182C-11836: Függő magánhangzó jelek
+11837-1183A: Különböző jelek
+1183B-1183B: Központozás
+118A0-118A9: Nagybetűs magánhangzók
+118AA-118BF: Nagybetűs mássalhangzók
+118C0-118C9: Kisbetűs magánhangzók
+118CA-118DF: Kisbetűs mássalhangzók
+118E0-118E9: számjegy
+118EA-118F2: számok
+118FF-118FF: Jel
+11900-11909: Független magánhangzók
+1190C-1192F: A mássalhangzók
+11930-11938: Függő magánhangzó jelek
+1193B-1193C: Nasalization jelek
+1193D-1193F: Jelek
+11940-11942: Konjunktusspecifikus betűk
+11943-11943: Nukta
+11944-11946: Központozás
+11950-11959: számjegy
+119A0-119AD: Független magánhangzók
+119AE-119D0: A mássalhangzók
+119D1-119DD: Függő magánhangzó jelek
+119DE-119E2: Különböző jelek
+119E3-119E3: Központozás
+119E4-119E4: Függő magánhangjel
+11A00-11A00: Magánhangzó levél
+11A01-11A09: Magánhangzó jelek
+11A0A-11A0A: Magánhangzó hossza
+11A0B-11A32: A mássalhangzók
+11A33-11A33: Végső mássalhangzójel
+11A34-11A34: Virama
+11A35-11A37: Candrabindu és candra díszek
+11A38-11A39: Jelek a szanszkritra
+11A3A-11A3A: A klaszter kezdeti mássalhangzója
+11A3B-11A3E: A klaszter végső mássalhangzói
+11A3F-11A40: Fejjelek
+11A41-11A44: Központozás
+11A45-11A46: Fejjelek
+11A47-11A47: Subjoiner
+11A50-11A50: Magánhangzó levél
+11A51-11A5A: Magánhangzó jelek
+11A5B-11A5B: Magánhangzó hossza
+11A5C-11A83: A mássalhangzók
+11A84-11A85: Alternatív visarga jelek
+11A86-11A89: A klaszter kezdőbetűi
+11A8A-11A95: Végső mássalhangzó jelek
+11A96-11A97: Különböző jelek
+11A98-11A98: Geminációs jel
+11A99-11A99: Subjoiner
+11A9A-11A9C: Központozás
+11A9D-11A9D: Nyúlási jel
+11A9E-11AA0: Fejjelek
+11AA1-11AA2: Csatlakozó jelek
+11AC0-11AD4: A mássalhangzók
+11AD5-11ADB: A magánhangzók
+11ADC-11AE4: Végső mássalhangzók
+11AE5-11AF8: Hangjelzések
+11C00-11C0D: Független magánhangzók
+11C0E-11C2E: A mássalhangzók
+11C2F-11C3B: Függő magánhangzó jelek
+11C3C-11C40: Különböző jelek
+11C41-11C43: Központozás
+11C44-11C45: Hézag töltőanyagok
+11C50-11C59: számjegy
+11C5A-11C6C: számok
+11C70-11C71: Központozás
+11C72-11C8F: Levelek
+11C92-11CAF: Alárendelt levelek
+11CB0-11CB4: Függő magánhangzó jelek
+11CB5-11CB6: Különböző jelek
+11D00-11D0B: A magánhangzók
+11D0C-11D2D: A mássalhangzók
+11D2E-11D30: Összekötött levelek
+11D31-11D3F: Függő magánhangzó jelek
+11D40-11D44: Különböző jelek
+11D45-11D45: Virama
+11D46-11D47: Klaszter-specifikus mássalhangzó formák
+11D50-11D59: számjegy
+11D60-11D6B: Független magánhangzók
+11D6C-11D89: A mássalhangzók
+11D8A-11D94: Függő magánhangzó jelek
+11D95-11D96: Különböző jelek
+11D97-11D97: Virama
+11D98-11D98: Szimbólum
+11DA0-11DA9: számjegy
+11EE0-11EF1: A mássalhangzók
+11EF2-11EF2: Mássalhangzó reduktor
+11EF3-11EF6: Magánhangzó jelek
+11EF7-11EF8: Központozás
+11FB0-11FB0: Levél
+11FC0-11FD4: Törtek
+11FD5-11FDC: Méretek gabona
+11FDD-11FE0: Régi valuta szimbólumok
+11FE1-11FE3: A súly, a hossz és a terület szimbólumai
+11FE4-11FE7: Mezőgazdasági szimbólumok
+11FE8-11FED: Irodai szimbólumok
+11FEE-11FF1: Egyéb szimbólumok és rövidítések
+11FFF-11FFF: Központozás
+12000-1236E: Jelek
+1236F-1236F: Elamit jel
+12370-12399: Jelek
+12400-12459: Numerikus jelek
+1245A-12464: Törtek
+12465-12466: Elamit frakciók
+12467-12468: Elamit numerikus jelek
+12469-1246E: Numerikus jelek
+12470-12474: Központozás
+12480-12543: Jelek
+13000-1304F: A. Az ember és foglalkozásai
+13050-13059: B. Nő és foglalkozásai
+1305A-13075: C. Antropomorf istenségek
+13076-130D1: D. Az emberi test részei
+130D2-130FD: E. Emlősök
+130FE-1313E: F. Az emlősök részei
+1313F-1317E: G. Madarak
+1317F-13187: H. A madarak részei
+13188-1319A: I. Kétéltű állatok, hüllők stb.
+1319B-131A2: K. Halak és azok részei
+131A3-131AC: L. invertabrata és kevesebb állat
+131AD-131EE: M. Fák és növények
+131EF-1321F: N. ég, föld, víz
+13220-13235: NL. Alsó-Egyiptom nemzetei
+13236-1324F: NU. Felső-Egyiptom nemzetiségei
+13250-1329A: O. Épületek, épületrészek stb.
+1329B-132A7: P. Hajók és hajórészek
+132A8-132AE: Q. Háztartási és temetkezési bútorok
+132AF-132D0: R. Templombútorok és szent emblémák
+132D1-13306: S. koronák, ruha, botok stb.
+13307-13332: T. Háború, vadászat, hentes
+13333-13361: U. Mezőgazdaság, kézművesség és szakmák
+13362-133AE: V. Kötél, szál, kosarak, táskák stb.
+133AF-133CE: W. Kőből és fajanszból készült edények
+133CF-133DA: X. Szeretet és sütemény
+133DB-133E3: Y. Írások, játékok, zene
+133E4-1340C: Z. Stroke, jelek származtatott hieratikus, geometriai ábrák
+1340D-1342E: Aa. nem titkos
+13430-13431: asztalos
+13432-13435: Jel beillesztés vezérlők
+13436-13436: Jelentkezzen a halmozás ellenőrzése
+13437-13438: A szegmensek körének szétválasztása
+14400-14469: A. Az emberi test és ruházat
+1446A-144AF: B. Állatok
+144B0-144D0: C. Növények
+144D1-14501: D. Természet
+14502-1452F: E. Épületek
+14530-14576: F. Fegyverek, szerszámok, bútorok és egyéb eszközök
+14577-14595: G. Vázák és tartályok
+14596-145AC: H. Szimbólumok
+145AD-145E5: J. Vonalak, számok és geometriai alakzatok
+145E6-14628: Varia K.
+14629-14646: M. További jelek
+16800-16856: Az A fázisban megtalált karakterek
+16857-1688E: Karakterek a B fázisban találhatók
+1688F-168F0: A C fázisban megtalált karakterek
+168F1-16965: A D. fázisban megtalált karakterek
+16966-16A02: Az E fázisban talált karakterek
+16A03-16A38: Az F fázisban talált karakterek
+16A40-16A5E: Levelek
+16A60-16A69: számjegy
+16A6E-16A6F: Központozás
+16AD0-16AE6: Mássalhangzó levelek
+16AE7-16AED: Magánhangzó betűk
+16AF0-16AF4: Hangjelzések kombinálása
+16AF5-16AF5: Központozás
+16B00-16B1B: Magánhangzó rimes
+16B1C-16B2F: Mássalhangzó beállítások
+16B30-16B36: Diakritikus jelek kombinálása
+16B37-16B3B: Központozás
+16B3C-16B3F: Matematikai operátorok
+16B40-16B43: Módosító betűk
+16B44-16B45: Központozás
+16B50-16B59: számjegy
+16B5B-16B61: számok
+16B63-16B77: Logographs
+16B7D-16B8F: Klánnevek logográfiái
+16E40-16E5F: Nagybetűs
+16E60-16E7F: Kisbetűk
+16E80-16E89: számjegy
+16E8A-16E93: számok
+16E94-16E96: Alternatív számjegyek
+16E97-16E98: Központozás
+16E99-16E9A: szimbólumok
+16F00-16F4A: Mássalhangzó beállítások
+16F4F-16F53: módosítók
+16F54-16F87: Magánhangzók és döntők
+16F8F-16F92: Pozícionáló hangjelek
+16F93-16F99: Alapvonal hangjelzések
+16F9A-16F9F: Archaikus alaphang hangjelzések
+16FE0-16FE0: Tangut jel
+16FE1-16FE1: Nushu jel
+16FE2-16FE3: Az ókori kínai szövegekben használt jelek
+16FE4-16FE4: Kis khitan formátum karakter
+16FF0-16FF1: A diakritikus kritériumok kombinálása a CJK ideográfiáira
+18800-18809: Együtemű alkatrészek
+1880A-18825: Kétütemű alkatrészek
+18826-1885F: Háromütemű alkatrészek
+18860-188CB: Négyütemű alkatrészek
+188CC-18958: Ötütemű alkatrészek
+18959-189DA: Hatütemű alkatrészek
+189DB-18A40: Hétütemű alkatrészek
+18A41-18A98: Nyolcütemű alkatrészek
+18A99-18AC0: Kilencütemű alkatrészek
+18AC1-18AD4: Tízütemű alkatrészek
+18AD5-18AE2: Tizenegyütemű alkatrészek
+18AE3-18AEB: Tizenkét ütemű alkatrészek
+18AEC-18AF1: Tizenháromütemű alkatrészek
+18AF2-18AF2: Tizenhatütemű alkatrész
+18AF3-18AFF: További alkatrészek
+18B00-18B00: Iterációs jel
+18B01-18B35: Radical-01
+18B36-18B69: Radical-02
+18B6A-18B93: Radical-03
+18B94-18BAC: Radical-04
+18BAD-18BD1: Radical-05
+18BD2-18C00: Radical-06
+18C01-18C12: Radical-07
+18C13-18C27: Radical-08
+18C28-18C2E: Radical-09
+18C2F-18C36: Radical-10
+18C37-18C4B: Radical-11
+18C4C-18C51: Radical-12
+18C52-18C63: Radical-13
+18C64-18C7E: Radical-14
+18C7F-18C8B: Radical-15
+18C8C-18C94: Radical-16
+18C95-18CBF: Radical-17
+18CC0-18CCB: Radical-18
+18CCC-18CD2: Radical-19
+18CD3-18CD5: Radical-20
+1B000-1B000: Történelmi Katakana
+1B001-1B001: Történelmi Hiragana és Hentaigana
+1B002-1B0FF: Hentaigana
+1B100-1B11E: Hentaigana
+1B150-1B152: Történelmi kis hiragana betűk
+1B164-1B167: Történelmi kis katakana betűk
+1B170-1B170: Együtemű karakter
+1B171-1B177: Kétütemű karakterek
+1B178-1B18A: Háromütemű karakterek
+1B18B-1B1A7: Négyütemű karakterek
+1B1A8-1B1DD: Ötütemű karakterek
+1B1DE-1B215: Hatütemű karakter
+1B216-1B243: Hétütéses karakter
+1B244-1B283: Nyolcütésű karakter
+1B284-1B2AF: Kilencütésű karakter
+1B2B0-1B2CD: Tízütemű karakterek
+1B2CE-1B2E0: Tizenegy karakter
+1B2E1-1B2ED: Tizenkét ütemű karakter
+1B2EE-1B2F3: Tizenhárom karakter
+1B2F4-1B2F6: Tizennégy karakter
+1B2F7-1B2F9: Tizenötütemű karakter
+1B2FA-1B2FB: Tizenhat karakter
+1BC00-1BC01: Nem csatlakozó mássalhangzók
+1BC02-1BC18: Vonal mássalhangzók
+1BC19-1BC31: Ív mássalhangzók
+1BC32-1BC3A: Negyedíves mássalhangzók lefelé írva
+1BC3B-1BC40: Negyedíves mássalhangzók felfelé írva
+1BC41-1BC45: Körhangzó
+1BC46-1BC4E: Félkörös magánhangzók
+1BC4F-1BC50: Átlós vonalú magánhangzók
+1BC51-1BC54: Negyedik körű magánhangzók
+1BC55-1BC59: Egyéb magánhangzók
+1BC5A-1BC5B: Pontozott körű magánhangzók
+1BC5C-1BC60: Összetett magánhangzók
+1BC61-1BC64: Alapvető orr magánhangzók
+1BC65-1BC6A: További orr magánhangzók
+1BC70-1BC7C: Csatolt mellékletek
+1BC80-1BC88: Magas rögzítések
+1BC90-1BC99: Alacsony rögzítések
+1BC9C-1BC9C: Egyéb jel
+1BC9D-1BC9D: A Sloan R-forma választó
+1BC9E-1BC9E: Rövidített dupla jel
+1BC9F-1BC9F: Chinook írásjelek
+1BCA0-1BCA3: Rövidített formátumvezérlők
+1D000-1D002: Prosodikák (Prosodikumok)
+1D003-1D014: Ekfonetika
+1D015-1D045: Melodimata (Melodics)
+1D046-1D056: Fonitika (ének)
+1D057-1D07E: Afona vagy Ypostaseis (néma vagy hiposztatikus)
+1D07F-1D089: Aries (retard)
+1D08A-1D08E: Leimmata vagy Siopes (Leimmas vagy Silepesrs)
+1D08F-1D099: Synagmata vagy Gorgotites (Synagmas vagy Quickeners)
+1D09A-1D0A1: Agogika (karmesterek)
+1D0A2-1D0B5: Ichimata és Martyrika (Ichimas és Evidentials)
+1D0B6-1D0CA: Fthores (romboló)
+1D0CB-1D0D9: Alloioseis (differenciátorok)
+1D0DA-1D0E5: Rythmika (ritmusok)
+1D0E6-1D0EF: Grammata (levelek)
+1D0F0-1D0F5: Akciós
+1D100-1D105: Bars
+1D106-1D10C: CODAS
+1D10D-1D10F: Ábra ismétlések
+1D110-1D113: Tart és szünetet tart
+1D114-1D115: A személyzet tartói
+1D116-1D11B: Staves
+1D11C-1D11D: tablature
+1D11E-1D126: Clefs
+1D129-1D129: Pihenés
+1D12A-1D133: Accidentals
+1D134-1D135: Idő aláírások
+1D136-1D139: oktáv
+1D13A-1D142: nyugszik
+1D143-1D15B: Noteheads
+1D15C-1D164: Megjegyzések
+1D165-1D166: szára
+1D167-1D16C: Tremolók
+1D16D-1D16D: Nagyítás pont
+1D16E-1D172: Zászlók
+1D173-1D17A: Gerendák és zsaluk
+1D17B-1D18E: tagolás
+1D18F-1D193: Dinamika
+1D194-1D1A5: dísztárgyak
+1D1A6-1D1A9: Analitika
+1D1AA-1D1AD: Hangszerelés
+1D1AE-1D1B0: pedálok
+1D1B1-1D1B5: Egyéb szimbólumok
+1D1B6-1D1C0: Menü jegyzetek
+1D1C1-1D1C6: A menstruáció nyugszik
+1D1C7-1D1CE: Mensural prolation
+1D1CF-1D1CF: Egyéb szimbólum
+1D1D0-1D1D1: Clefs
+1D1D2-1D1D2: Véletlen
+1D1D3-1D1DD: Megjegyzések
+1D1DE-1D1DE: Hangjegykulcs
+1D1DF-1D1DF: Díszítés
+1D1E0-1D1E7: Megjegyzések
+1D1E8-1D1E8: Véletlen
+1D200-1D21C: Az ókori görög hangos jelölés
+1D21D-1D241: Az ókori görög instrumentális jelölés
+1D242-1D245: További görög zenei jelölések
+1D2E0-1D2F3: Maja számok
+1D300-1D300: Monogram
+1D301-1D305: Digrams
+1D306-1D356: Tetragrams
+1D360-1D371: Számláló rudak
+1D372-1D376: Ideográfiai egységek
+1D377-1D378: Nyugat-egyező pontok
+1D400-1D433: Félkövér szimbólumok
+1D434-1D467: Dőlt szimbólumok
+1D468-1D49B: Félkövér dőlt szimbólumok
+1D49C-1D4CF: Szkript szimbólumok
+1D4D0-1D503: Félkövér szkript szimbólumok
+1D504-1D537: Fraktur szimbólumok
+1D538-1D56B: Kettős lenyomású szimbólumok
+1D56C-1D59F: Félkövér Fraktur szimbólumok
+1D5A0-1D5D3: Sans-serif szimbólumok
+1D5D4-1D607: Sans-serif félkövér szimbólumok
+1D608-1D63B: Sans-serif dőlt szimbólumok
+1D63C-1D66F: Sans-serif félkövér dőlt szimbólumok
+1D670-1D6A3: Monospace szimbólumok
+1D6A4-1D6A5: Pontatlan szimbólumok
+1D6A8-1D6DA: Félkövér görög szimbólumok
+1D6DB-1D6E1: További merész görög szimbólumok
+1D6E2-1D714: Dőlt görög szimbólumok
+1D715-1D71B: További dőlt görög szimbólumok
+1D71C-1D74E: Félkövér dőlt görög szimbólumok
+1D74F-1D755: További vastag, dőlt, dőlt görög szimbólumok
+1D756-1D788: Sans-serif merész görög szimbólumok
+1D789-1D78F: További sans-serif merész görög szimbólumok
+1D790-1D7C2: Sans-serif vastagon dőlt görög szimbólumok
+1D7C3-1D7C9: További sans-serif vastagon dőlt görög szimbólumok
+1D7CA-1D7CB: További merész görög szimbólumok
+1D7CE-1D7D7: Félkövér számjegyek
+1D7D8-1D7E1: Dupla betűs számjegy
+1D7E2-1D7EB: Sans-serif számjegyek
+1D7EC-1D7F5: Sans-serif félkövér számjegyek
+1D7F6-1D7FF: Monospace számjegyek
+1D800-1D80D: Kéz alakzatok mutatóujjával
+1D80E-1D81D: Kéz alakú mutató és középső ujjakkal
+1D81E-1D843: Kéz alakú mutató és középső ujjakkal és hüvelykujjjal
+1D844-1D84B: Kéz alakzatok négy ujjal
+1D84C-1D885: Kéz alakzatok öt ujjal
+1D886-1D8A3: Kéz alakzatok kis ujjal
+1D8A4-1D8B9: Kéz alakzatok gyűrűs ujjal
+1D8BA-1D8CC: Kéz alakzatok középső ujjával
+1D8CD-1D8F4: Kéz alakzatok mutatóujjával és hüvelykujjával
+1D8F5-1D904: Kéz alakzatok a hüvelykujjával
+1D905-1D915: Az érintkező mozgásának jelzői
+1D916-1D929: Ujjmozgás-mutatók
+1D92A-1D9F4: Mozgási mutatók
+1D9F5-1D9FE: Dinamikai mutatók
+1D9FF-1DA6C: Fej alakjai
+1DA6D-1DA7E: Testformák
+1DA7F-1DA86: Helyszín alapjai
+1DA87-1DA8B: Központozás
+1DA9B-1DA9F: Töltse fel a módosítókat
+1DAA1-1DAAF: Forgatás módosítók
+1E000-1E02A: Betűk kombinálása
+1E100-1E123: Mássalhangzó beállítások
+1E124-1E12C: Magánhangzó rimes
+1E130-1E136: Hangjelzések
+1E137-1E13B: meghatározóak
+1E13C-1E13C: Ismétlési jel
+1E13D-1E13D: Syllable hosszabbító
+1E140-1E149: számjegy
+1E14E-1E14F: szimbólumok
+1E2C0-1E2EB: Levelek
+1E2EC-1E2EF: Hangjelzések
+1E2F0-1E2F9: számjegy
+1E2FF-1E2FF: Pénznem szimbólum
+1E800-1E807: Silók k-ban
+1E808-1E810: Táblázatok w-
+1E811-1E813: Táblázatok wv-
+1E814-1E81A: Silók m-ben
+1E81B-1E821: Silók a b-
+1E822-1E82D: A magánhangzók
+1E82E-1E835: Silók az s-
+1E836-1E83D: Silók az l-
+1E83E-1E843: Táblázatok d-
+1E844-1E84A: Táblázatok t-ben
+1E84B-1E852: Táblázatok j-
+1E853-1E859: Szótagok y-
+1E85A-1E862: Silók az f-
+1E863-1E867: Táblázatok n-ben
+1E868-1E876: Táblázatok h-
+1E877-1E882: Táblázatok ngg-
+1E883-1E888: Silók g-ban
+1E889-1E88B: Táblázatok ng-
+1E88C-1E892: Silók p-
+1E893-1E89E: Táblázatok mb-
+1E89F-1E8A5: Silók kp-
+1E8A6-1E8AC: Silók gb-ben
+1E8AD-1E8AD: R-ben
+1E8AE-1E8B4: Második szótag
+1E8B5-1E8B8: Táblázatok nj-
+1E8B9-1E8BF: Silók in v-
+1E8C0-1E8C4: Táblázatok ny-
+1E8C7-1E8CF: számjegy
+1E8D0-1E8D6: Számbázisok kombinálása
+1E900-1E91B: Nagybetűvel
+1E91C-1E921: Kiegészítő nagybetűk
+1E922-1E93D: Kis betűk
+1E93E-1E943: Kiegészítő kisbetűk
+1E944-1E94A: Diakritikus jelek
+1E94B-1E94B: Módosító levél
+1E950-1E959: számjegy
+1E95E-1E95F: Központozás
+1EC71-1EC79: Elsődleges számok
+1EC7A-1EC82: Tens
+1EC83-1EC8B: Több száz
+1EC8C-1EC94: Ezrek
+1EC95-1EC9D: Tízezer
+1EC9E-1ECA0: lakhs
+1ECA1-1ECA2: crores
+1ECA3-1ECAB: Az elsődleges számok prefixált formái
+1ECAC-1ECAC: Helykitöltő
+1ECAD-1ECAF: Törtek
+1ECB0-1ECB0: Pénznem szimbólum
+1ECB1-1ECB4: Alternatív formák
+1ED01-1ED09: Elsődleges számok
+1ED0A-1ED12: Tens
+1ED13-1ED1B: Több száz
+1ED1C-1ED24: Ezrek
+1ED25-1ED2D: Tízezer
+1ED2E-1ED2E: Szorzó
+1ED2F-1ED3B: Alternatív formák
+1ED3C-1ED3D: Törtek
+1EE00-1EE1F: Elszigetelt szimbólumok
+1EE21-1EE3B: Kezdeti szimbólumok
+1EE42-1EE5F: Farok szimbólumok
+1EE61-1EE7E: Feszített szimbólumok
+1EE80-1EE9B: Hurkolt szimbólumok
+1EEA1-1EEBB: Kettős lenyomású szimbólumok
+1EEF0-1EEF1: Nyújtó operátorok
+1F000-1F003: Az uralkodó széllapok
+1F004-1F006: Sárkány csempe
+1F007-1F00F: Karakterruha csempe
+1F010-1F018: Bambusz öltöny csempe
+1F019-1F021: Kör színű csempe
+1F022-1F025: Virágcsempe
+1F026-1F029: Szezon csempe
+1F02A-1F02B: Egyéb csempe
+1F030-1F030: Vízszintes lapok
+1F031-1F037: nullák
+1F038-1F03E: Azok
+1F03F-1F045: kettesével
+1F046-1F04C: Threes
+1F04D-1F053: Négyes
+1F054-1F05A: ötös
+1F05B-1F061: hatos
+1F062-1F062: Függőleges lapok
+1F063-1F069: nullák
+1F06A-1F070: Azok
+1F071-1F077: kettesével
+1F078-1F07E: Threes
+1F07F-1F085: Négyes
+1F086-1F08C: ötös
+1F08D-1F093: hatos
+1F0A0-1F0A0: A kártya hátulja
+1F0A1-1F0AE: Pikk vagy kard
+1F0B1-1F0BE: Szív vagy csésze
+1F0BF-1F0BF: Dzsókerkártya
+1F0C1-1F0CE: Gyémántok vagy pentacles
+1F0CF-1F0CF: Dzsókerkártya
+1F0D1-1F0DE: Klubok vagy pálcák
+1F0DF-1F0DF: Dzsókerkártya
+1F0E0-1F0F5: Trumps
+1F100-1F100: Szám teljesen leállítva
+1F101-1F10A: Számok vesszővel
+1F10B-1F10C: Körözött sans-szerif számjegyek
+1F10D-1F10F: Creative Commons szimbólumok
+1F110-1F129: Zárójelekkel ellátott latin betűk
+1F12A-1F12A: Latin betű teknős héja zárójelben
+1F12B-1F12C: Körözött dőlt latin betűkkel
+1F12D-1F12F: Körözött latin betűk vagy betűsorok
+1F130-1F14F: Négyzetes latin betűk
+1F150-1F169: Fehér, fekete körökben latin betűkkel
+1F16A-1F16C: Emelt négyzet alakú latin szekvenciák
+1F16D-1F16F: Creative Commons szimbólumok
+1F170-1F18F: Fehér, fekete négyzet alakú latin betűkkel
+1F190-1F19A: Négyzetes latin betűsorozatok
+1F19B-1F1AC: Négyzetes latin betűsorozatok a PRIA STD B62-től
+1F1AD-1F1AD: Egyéb szimbólum
+1F1E6-1F1FF: Regionális mutató szimbólumok
+1F200-1F200: Hiragana négyzet az PRIA STD B24-től
+1F201-1F202: Négyzetes katakana
+1F210-1F231: Négyzetű ideográfok és kana a PRIA STD B24-től
+1F232-1F23B: Négyzetes ideográfusok
+1F240-1F248: Ideográfiák teknőshéjakonzolokkal a PRIA STD B24-től
+1F250-1F251: Körözött ideográfiák
+1F260-1F265: A kínai népi vallás szimbólumai
+1F300-1F30C: Időjárás, táj és ég szimbólumok
+1F30D-1F310: Globe szimbólumok
+1F311-1F320: Hold, nap és csillag szimbólumok
+1F321-1F32C: Időjárás szimbólumok
+1F32D-1F32F: Élelmiszer szimbólumok
+1F330-1F344: Növényi szimbólumok
+1F345-1F353: Gyümölcs és zöldség szimbólumok
+1F354-1F374: Élelmiszer szimbólumok
+1F375-1F37C: Ital szimbólumok
+1F37D-1F37D: Szállás szimbólum
+1F37E-1F37F: Ital- és élelmiszer-szimbólumok
+1F380-1F397: Ünneplés szimbólumok
+1F398-1F39D: Zenei szimbólumok
+1F39E-1F3AD: Szórakoztató szimbólumok
+1F3AE-1F3B4: Játék szimbólumok
+1F3B5-1F3BC: Zenei szimbólumok
+1F3BD-1F3D3: Sport szimbólumok
+1F3D4-1F3F0: Épület és térkép szimbólumok
+1F3F1-1F3F4: Zászló szimbólumok
+1F3F5-1F3F6: rozetta
+1F3F7-1F3F7: Egyéb szimbólum
+1F3F8-1F3F9: Sport szimbólumok
+1F3FA-1F3FA: Egyéb szimbólum
+1F3FB-1F3FF: Emoji módosítók
+1F400-1F42C: Állati szimbólumok
+1F42D-1F43D: Állati arcok
+1F43E-1F43F: Állati szimbólumok
+1F440-1F445: Arcrész szimbólumok
+1F446-1F450: Kéz szimbólumok
+1F451-1F463: Ruházat és kiegészítők
+1F464-1F477: Portré és szerep szimbólumok
+1F478-1F480: Mese szimbólumok
+1F481-1F483: Szerep szimbólumok
+1F484-1F488: Személyes gondoskodási szimbólumok
+1F489-1F48A: Orvosi szimbólumok
+1F48B-1F492: Romantikus szimbólumok
+1F493-1F49F: Szív szimbólumok
+1F4A0-1F4AD: Képregény stílus szimbólumok
+1F4AE-1F4AF: Japán iskolai osztály szimbólumok
+1F4B0-1F4B9: Pénz szimbólumok
+1F4BA-1F4DC: Irodai szimbólumok
+1F4DD-1F4F6: Kommunikációs szimbólumok
+1F4F7-1F4FE: Audio és video szimbólumok
+1F4FF-1F4FF: Vallási szimbólum
+1F500-1F518: Felhasználói felület szimbólumai
+1F519-1F51D: Szavak nyilakkal
+1F51E-1F51F: Zárt alfanumerikus szimbólumok
+1F520-1F524: A felhasználói felület bemeneti állapot szimbólumai
+1F525-1F52E: Szerszám szimbólumok
+1F52F-1F531: Egyéb szimbólumok
+1F532-1F539: Geometriai formák
+1F53A-1F53D: Felhasználói felület szimbólumai
+1F53E-1F53F: Árnyékolt geometriai alakzatok
+1F540-1F54E: Vallási szimbólumok
+1F54F-1F54F: Egyéb szimbólum
+1F550-1F567: Óraszám szimbólumok
+1F568-1F56C: Kommunikációs szimbólumok
+1F56D-1F576: Egyéb szimbólumok
+1F577-1F578: Állati szimbólumok
+1F579-1F579: Játék szimbólum
+1F57A-1F57A: Szerep szimbólum
+1F57B-1F58D: Kommunikációs szimbólumok
+1F58E-1F5A3: Kéz szimbólumok
+1F5A4-1F5A4: Szív szimbólum
+1F5A5-1F5B8: Számítógépes szimbólumok
+1F5B9-1F5BE: Irodai szimbólumok
+1F5BF-1F5DD: Felhasználói felület szimbólumai
+1F5DE-1F5E0: Egyéb szimbólumok
+1F5E1-1F5E3: Besorolási szimbólumok
+1F5E4-1F5E7: Hang szimbólumok
+1F5E8-1F5F2: Buborék szimbólumok
+1F5F3-1F5F9: Szavazólap szimbólumok
+1F5FA-1F5FA: Térkép szimbólum
+1F5FB-1F5FF: Kulturális szimbólumok
+1F600-1F637: arcok
+1F638-1F640: Macska arcok
+1F641-1F644: arcok
+1F645-1F64F: Gesztus szimbólumok
+1F650-1F667: Fleurons
+1F668-1F66B: Paplan négyzetes díszek
+1F66C-1F66F: Rakéta dísztárgyak
+1F670-1F675: Impersand és ligature et díszek
+1F676-1F67D: Írásjelek díszei
+1F67E-1F67F: Egyéb szimbólumok
+1F680-1F6A4: járművek
+1F6A5-1F6A8: Közlekedési táblák
+1F6A9-1F6CA: Jelzések és egyéb szimbólumok
+1F6CB-1F6CF: Szállás szimbólumok
+1F6D0-1F6D2: Jelzések és egyéb szimbólumok
+1F6D3-1F6D7: Térkép szimbólumok
+1F6E0-1F6E4: Egyéb szimbólumok
+1F6E5-1F6FC: járművek
+1F700-1F704: Arisztotelészi elemek szimbólumai
+1F705-1F70C: A fontos oldószerek szimbólumai
+1F70D-1F713: A kén és a higany szimbólumai
+1F714-1F719: A só, a vitriol és a nitrát szimbólumai
+1F71A-1F71B: Arany és ezüst szimbólumai
+1F71C-1F71F: A vas, vasérc és származékok szimbólumai
+1F720-1F728: Réz, rézérc és származékok szimbólumai
+1F729-1F72A: Az ón- és ólomérc szimbólumai
+1F72B-1F735: Az antimon, az antimonérc és származékai szimbólumai
+1F736-1F75D: Egyéb anyagok szimbólumai
+1F75E-1F764: Eljárások
+1F765-1F76D: Berendezés
+1F76E-1F771: Idő
+1F772-1F773: intézkedések
+1F780-1F783: Egyszögletes háromszög
+1F784-1F784: Fekete körök
+1F785-1F789: Fehér körök
+1F78A-1F78A: Fehér körök, amelyek tartalmaznak egy másik fekete kört
+1F78B-1F78B: Cél szimbólum
+1F78C-1F78D: Fekete négyzetek
+1F78E-1F793: Fehér négyzetek
+1F794-1F795: Fehér négyzetek, amelyek tartalmaznak egy másik fekete négyzetet
+1F796-1F796: Cél szimbólum
+1F797-1F799: Fekete gyémánt
+1F79A-1F79B: Fehér gyémántok, amelyek másik fekete gyémántot tartalmaznak
+1F79C-1F79C: Cél szimbólum
+1F79D-1F79F: Fekete pasztilla
+1F7A0-1F7A0: Fehér rombusz, amely újabb fekete rombust tartalmaz
+1F7A1-1F7A7: Görög keresztek
+1F7A8-1F7AE: Saltiers
+1F7AF-1F7B4: Öt küllős csillag
+1F7B5-1F7BA: Hat küllős csillag
+1F7BB-1F7BF: Nyolc küllős csillag
+1F7C0-1F7C3: Három hegyes csillag
+1F7C4-1F7C8: Négy hegyes csillag
+1F7C9-1F7CA: Öt hegyes csillag
+1F7CB-1F7CD: Hat hegyes csillag
+1F7CE-1F7D1: Nyolc hegyes csillag
+1F7D2-1F7D4: Tizenkét hegyes csillag
+1F7D5-1F7D8: Menj kőjelzőket
+1F7E0-1F7E4: Színes körök
+1F7E5-1F7EB: Színes négyzetek
+1F800-1F80B: Nyilak háromszög nyílhegyekkel
+1F810-1F81F: Nyilak egyenlő oldalú háromszög nyílhegyekkel
+1F820-1F833: Háromszög fejű nyilak különböző tengelysúlyokkal
+1F834-1F837: Ujjbe nyilak
+1F838-1F83B: Négyzetes nyilak
+1F83C-1F843: Tömörített nyilak
+1F844-1F847: Nehéz nyilak
+1F850-1F859: Sans-serif nyilak
+1F860-1F887: Széles fejű nyírók
+1F890-1F897: nyílhegyek
+1F898-1F89B: Kivágott nyilak
+1F89C-1F89F: Nehéz nyíltengelyek
+1F8A0-1F8AB: Árnyékos fehér nyilak
+1F8AC-1F8AD: Fehér nyíl tengelyek
+1F8B0-1F8B1: Nyilak a régi számításhoz
+1F900-1F90B: Typicon szimbólumok
+1F90C-1F90C: Kéz szimbólum
+1F90D-1F90E: Színes szív szimbólumok
+1F90F-1F90F: Kéz szimbólum
+1F910-1F917: Hangulatjel arcok
+1F918-1F91F: Kéz szimbólumok
+1F920-1F92F: Hangulatjel arcok
+1F930-1F937: Portré és szerep szimbólumok
+1F938-1F93F: Sport szimbólumok
+1F940-1F94F: Egyéb szimbólumok
+1F950-1F96F: Élelmiszer szimbólumok
+1F970-1F97A: arcok
+1F97B-1F97F: Ruházat
+1F980-1F9AD: Állati szimbólumok
+1F9AE-1F9AF: Kisegítő lehetőségek szimbólumai
+1F9B0-1F9B3: Emoji komponensek
+1F9B4-1F9B7: Testrészek
+1F9B8-1F9B9: Szerep szimbólumok
+1F9BA-1F9BF: Kisegítő lehetőségek szimbólumai
+1F9C0-1F9CB: Élelmiszer szimbólumok
+1F9CD-1F9CF: Portré és akadálymentesség szimbólumok
+1F9D0-1F9D8: Portré és szerep szimbólumok
+1F9D9-1F9DF: Fantasy lények
+1F9E0-1F9E6: Egyéb szimbólumok
+1F9E7-1F9E9: Tevékenységek
+1F9EA-1F9FF: tárgyak
+1FA00-1FA05: Semleges sakk szimbólumok
+1FA06-1FA08: A sakkjelek 45 fokkal forognak
+1FA09-1FA1A: A sakkjelek 90 fokkal elforogtak
+1FA1B-1FA1D: A sakkjelek 135 fokkal elforogtak
+1FA1E-1FA2F: Sakk szimbólumok 180 fokkal elforgatva (forgatva)
+1FA30-1FA32: A sakkjelek 225 fokkal forogtak
+1FA33-1FA44: A sakkjelek 270 fokkal elforogtak
+1FA45-1FA47: A sakkjelek 315 fokkal forogtak
+1FA48-1FA4A: Sakk equihoppers
+1FA4B-1FA4D: A sakkfelosztók 90 fokkal forogtak
+1FA4E-1FA53: Hibrid sakk szimbólumok
+1FA60-1FA6D: Xiangqi szimbólumok
+1FA70-1FA74: Ruházat
+1FA78-1FA7A: Orvosi szimbólumok
+1FA80-1FA86: Játékok és sport szimbólumok
+1FA90-1FAA8: Egyéb tárgyak
+1FAB0-1FAB6: Állatok és természet
+1FAC0-1FAC1: Testrészek
+1FAC2-1FAC2: Emberek
+1FAD0-1FAD6: Étel és ital
+1FB00-1FB3B: Blokkolja a mozaik terminál grafikus karaktereit
+1FB3C-1FB6F: Sima mozaik terminál grafikus karakterek
+1FB70-1FB8B: Elemek blokkolása
+1FB8C-1FB94: Téglalap alakú karakter
+1FB95-1FB99: Töltse ki a karaktereket
+1FB9A-1FB9B: Sima mozaik terminál grafikus karakterek
+1FB9C-1FB9F: Háromszög árnyék karakterek
+1FBA0-1FBAE: Karaktercellák átlói
+1FBAF-1FBAF: Világos folytonos vonal vonallal
+1FBB0-1FBB3: Terminál grafikus karakterek
+1FBB4-1FBB8: nyilak
+1FBB9-1FBBC: Terminál grafikus karakterek
+1FBBD-1FBBF: Negatív terminál grafikus karakterek
+1FBC0-1FBCA: Terminál grafikus karakterek
+1FBF0-1FBF9: Szegmentált számjegyek
+1FFFE-1FFFF: Nem karakterek
+2F800-2FA1D: Másolat karakterek a CNS 11643-1992-ből
+2FFFE-2FFFF: Nem karakterek
+3FFFE-3FFFF: Nem karakterek
+4FFFE-4FFFF: Nem karakterek
+5FFFE-5FFFF: Nem karakterek
+6FFFE-6FFFF: Nem karakterek
+7FFFE-7FFFF: Nem karakterek
+8FFFE-8FFFF: Nem karakterek
+9FFFE-9FFFF: Nem karakterek
+AFFFE-AFFFF: Nem karakterek
+BFFFE-BFFFF: Nem karakterek
+CFFFE-CFFFF: Nem karakterek
+DFFFE-DFFFF: Nem karakterek
+E0001-E0001: Címke azonosítók
+E0020-E007E: Címkézési komponensek
+E007F-E007F: Állapotteljes címke terminátor
+E0100-E01EF: Ideográfiaspecifikus variációs választók
+EFFFE-EFFFF: Nem karakterek
+FFFFE-FFFFF: Nem karakterek
