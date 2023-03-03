@@ -1,4 +1,4 @@
-# Data for unicode-table.com
+# UNICODE Characters for SYMBL.CC
 
 [Документация на русском](https://github.com/unicode-table/unicode-table-data/wiki/Index-(Russian))
 
