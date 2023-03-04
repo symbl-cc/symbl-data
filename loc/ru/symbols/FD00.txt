@@ -62,22 +62,22 @@ FD3C: Арабская лигатура Алиф с фасатан в конце
 FD3D: Арабская лигатура Алиф с Фасатан обособленная
 FD3E: Изысканная левая скобка
 FD3F: Изысканная правая скобка
-FD40:
-FD41:
-FD42:
-FD43:
-FD44:
-FD45:
-FD46:
-FD47:
-FD48:
-FD49:
-FD4A:
-FD4B:
-FD4C:
-FD4D:
-FD4E:
-FD4F:
+FD40: Арабская лигатура Rahimahu Allaah
+FD41: Арабская лигатура Radi Allaahu Anh
+FD42: Арабская лигатура Radi Allaahu Anhaa
+FD43: Арабская лигатура Radi Allaahu Anhum
+FD44: Арабская лигатура Radi Allaahu Anhumaa
+FD45: Арабская лигатура Radi Allaahu Anhunna
+FD46: Арабская лигатура Sallallaahu Alayhi Wa-aalih
+FD47: Арабская лигатура Alayhi As-salaam
+FD48: Арабская лигатура Alayhim As-salaam
+FD49: Арабская лигатура Alayhimaa As-salaam
+FD4A: Арабская лигатура Alayhi As-salaatu Was-salaam
+FD4B: Арабская лигатура Quddisa Sirrah
+FD4C: Арабская лигатура Sallallahu Alayhi Waaalihee Wa-sallam
+FD4D: Арабская лигатура Alayhaa As-salaam
+FD4E: Арабская лигатура Tabaaraka Wa-taaalaa
+FD4F: Арабская лигатура Rahimahum Allaah
 FD50: Арабская лигатура Та с Джим с Мим в начале слова
 FD51: Арабская лигатура Та с Ха с Джим в конце слова
 FD52: Арабская лигатура Та с Ха с Джим в начале слова
@@ -205,7 +205,7 @@ FDCB:
 FDCC:
 FDCD:
 FDCE:
-FDCF:
+FDCF: Арабская лигатура Salaamuhu Alaynaa
 FDD0: <Не знак письма>
 FDD1: <Не знак письма>
 FDD2: <Не знак письма>
@@ -252,5 +252,5 @@ FDFA: Арабская лигатура Саллаллаху Алайхе Вас
 FDFB: Арабская лигатура Джаллаялалоуху
 FDFC: Иранский риал
 FDFD: Арабская лигатура Бисмиллах Ар-Рахман Ар-Рахим
-FDFE:
-FDFF:
+FDFE: Арабская лигатура Subhaanahu Wa Taaalaa
+FDFF: Арабская лигатура Azza Wa Jall

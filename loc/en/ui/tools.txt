@@ -1,8 +1,6 @@
 : Tools
 
-toolsListTitle: Try other tools as well
-
-[encoder]: HTML-encoder
+[encoder]: HTML-Encoder
 
 desc: Encodes characters into html-code and the reverse
 plain: Plain text
@@ -11,6 +9,7 @@ text: HTML and Text
 entities: Encode characters with mnemonics
 br: Consider line breaks
 result: Result
+example: This is an example! ©
 
 [decoder]: Unicode Decoder
 
@@ -29,7 +28,7 @@ result: Result
 example: this is an example
 exampleFlip: ǝldɯɐxǝ uɐ sı sıɥʇ
 
-[generator]: Unicode character table generator
+[generator]: Unicode Character Table Generator
 
 desc: Generates a set of characters in a specified range
 range: Range
@@ -38,21 +37,21 @@ info: Available: {symbol}, {dec}, {hex}, {html}
 generate: Generate
 result: Result
 
-[strikethrough-text]: Strikethrough text
-h1: Strikethrough text
+[strikethrough-text]: Strikethrough Text
+h1: Strikethrough Text
 desc: How to strikethrough
 text: Text
 example: This is an example
 
-strikethroughText: Strikethrough text
-crossed: Underlined text
-dotted: Dotted line
-slash: Slash symbol
-doubleunderline: Double underline
-waveline: Wave line
-ciphertext: Cipher text
-fullyshaded: Shaded text
-strikethroughSlash: High slash symbol
+strikethroughText: ̶S̶t̶r̶i̶k̶e̶t̶h̶r̶o̶u̶g̶h̶ ̶t̶e̶x̶t̶
+crossed: ͟U͟n͟d͟e͟r͟l͟i͟n͟e͟d͟ ͟t͟e͟x͟t͟
+dotted: ̤D̤o̤t̤t̤e̤d̤ ̤l̤i̤n̤e̤
+slash: ̷S̷l̷a̷s̷h̷ ̷s̷y̷m̷b̷o̷l̷
+doubleunderline: ͇D͇o͇u͇b͇l͇e͇ ͇u͇n͇d͇e͇r͇l͇i͇n͇e͇
+waveline: ̰W̰a̰v̰ḛ ̰l̰ḭn̰ḛ
+ciphertext: C҉i҉p҉h҉e҉r҉ ҉t҉e҉x҉t҉
+fullyshaded: ■■■■■■ ■■■■
+strikethroughSlash: ̸H̸i̸g̸h̸ ̸s̸l̸a̸s̸h̸ ̸s̸y̸m̸b̸o̸l̸
 
 [register-converter]: Case Converter
 h1: Case Converter
@@ -92,8 +91,8 @@ lang-en: English
 
 result: Result
 
-[gothic]: Text converter to Gothic style
-h1: Text converter to Gothic style
+[gothic]: Text Converter to Gothic Style
+h1: Text Converter to Gothic Style
 desc: Writing text in Gothic font
 
 text: Text (latin)
@@ -117,8 +116,8 @@ titleAlphabet: Morse code alphabet
 
 result: Result
 
-[password-generator]: Password generator
-h1: Password generator
+[password-generator]: Password Generator
+h1: Password Generator
 desc: How to generate a strong password
 
 uppercase: Uppercase letters (A-Z)
@@ -131,8 +130,16 @@ generate: Generate
 warning: Select at least one character set to generate your password
 
 
-[text-to-symbols]: Symbol text
-h1: Symbol text
+[nickname-generator]: Stylish Text & Nickname Generator
+h1: Stylish Text & Nickname Generator
+desc: Decorate nickname
+
+text: Text
+nickname: Nickname
+example: Maria
+
+[text-to-symbols]: Symbol Text
+h1: Symbol Text
 desc: Write text symbols
 
 text: Text (Latin)
@@ -144,3 +151,38 @@ background: Letters with background
 symbol-dolar: Letters from the symbol $
 symbol-lattice: Letters from the symbol #
 symbol-paragraph: Letters from the symbol ¶
+
+[typograph]: Typographer
+h1: Typographer
+desc: Format text for layout.
+
+plain: Original text
+text: Text
+html: HTML
+mnemonics: HTML Entities
+example:  - "Example..."
+result: Result
+first-level-quote: First level quotation marks
+second-level-quote: Second level quotation marks
+
+[secret-space]: Whitespace
+h1: Whitespace
+text: Original text
+result: Formatted text
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Emoji Keyboard
+subtitle: Copy and Paste Any Emoji
+popular: Popular
+emoji: Emoji
+arrow: Arrow
+math: Mathematics
+currency: Currency
+letters: Letters
+punctuation: Punctuation
+example: Text and symbol ☆ examples
+copy-text: Click on the symbol and it will copy automatically!
+paste-text: It also goes to this box, where you can enter any text and decorate it with any symbols!
+ok: Got it!
+skip: Skip
+cool: Cool!

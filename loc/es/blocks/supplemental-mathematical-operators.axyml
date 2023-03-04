@@ -1,0 +1,9 @@
+Este bloque contiene varios operadores de matemáticas. Pero ¿qué significa operador matemático?
+
+El término operador se encuentra en diferentes secciones de las matemáticas. Su significado exacto depende del contexto. Como regla general, los operadores significan que hay algún tipo de mapeo especial (para este campo de las matemáticas). Por ejemplo, en el análisis funcional, los operadores tienen un mapeo que asigna una función a otra ("operador en el espacio de funciones" suena mejor que "función de función").
+
+Los operadores más frecuentes:
+
+[*] Análisis funcional: operadores en espacios de funciones (diferenciación, integración, convolución con núcleo, transformada de Fourier).
+[*] Álgebra lineal: mapeo (especialmente lineal) de espacios vectoriales (proyectores, rotaciones de coordenadas, homotetías, multiplicación de vectores por matriz).
+[*] Matemáticas discretas: transformación de secuencias (convolución de señales discretas, filtro de mediana, etc.).

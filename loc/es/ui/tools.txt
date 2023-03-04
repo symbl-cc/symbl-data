@@ -1,7 +1,5 @@
 : Herramientas
 
-toolsListTitle: Prueba también otras herramientas
-
 [encoder]: Codificador HTML
 
 desc: Codifica los caracteres en el código HTML y al revés
@@ -11,6 +9,7 @@ text: HTML y texto
 entities: Codifica los caracteres con entidades
 br: Codifica los saltos de línea
 result: Resultado
+example: Este es un ejemplo! ©
 
 [decoder]: Decodificador Unicode
 
@@ -39,20 +38,22 @@ generate: Generar
 result: Resultado
 
 [strikethrough-text]: Texto tachado
+
 h1: Texto tachado
 desc: Texto tachado
 text: Texto
 example: Este es un ejemplo
 
-strikethroughText: Texto tachado
-crossed: Texto subrayado
-dotted: Línea de puntos
-slash: Barra oblicua
-doubleunderline: Doble subrayado
-waveline: Línea de las olas
-ciphertext: Texto cifrado
-fullyshaded: Texto pintado
-strikethroughSlash: Barra inversa
+strikethroughText: ̶T̶e̶x̶t̶o̶ ̶t̶a̶c̶h̶a̶d̶o̶
+crossed: ͟T͟e͟x͟t͟o͟ ͟s͟u͟b͟r͟a͟y͟a͟d͟o͟
+dotted: ̤l̤í̤n̤e̤a̤ ̤d̤e̤ ̤p̤ṳn̤t̤o̤s̤
+slash: ̷B̷a̷r̷r̷a̷ ̷o̷b̷l̷i̷c̷u̷a̷
+doubleunderline: ͇D͇o͇b͇l͇e͇ ͇s͇u͇b͇r͇a͇y͇a͇d͇o͇
+waveline: ̰L̰ḭ́n̰ḛa̰ ̰d̰ḛ ̰l̰a̰s̰ ̰o̰l̰a̰s̰
+ciphertext: T҉e҉x҉t҉o҉ ҉c҉i҉f҉r҉a҉d҉o҉
+fullyshaded: ■■■■■ ■■■■■■■
+strikethroughSlash: ̸B̸a̸r̸r̸a̸ ̸i̸n̸v̸e̸r̸s̸a̸
+
 
 [register-converter]: Convertir texto
 h1: Convertir texto
@@ -104,7 +105,7 @@ latin: Latín
 numbers: Números
 punctuation: Puntuación
 
-titleAlphabet: Alfabeto del código Morse
+titleAlphabet: Alfabeto del código morse
 
 result: Resultado
 
@@ -122,6 +123,14 @@ maxLength: caracteres (4-99)
 generate: Generar
 warning: Seleccione al menos un juego de caracteres para generar su contraseña
 
+[nickname-generator]: Generador de apodos Geniales
+h1: Generador de apodos Geniales
+desc: Decorar apodos
+
+text: Texto
+nickname: Apodo
+example: María
+
 [text-to-symbols]: Texto de símbolos
 h1: Texto de símbolos
 desc: Escribir texto a partir de personajes
@@ -135,3 +144,38 @@ background: Letras con fondo
 symbol-dolar: Letras del símbolo $
 symbol-lattice: Letras del símbolo #
 symbol-paragraph: Letras del símbolo ¶
+
+
+[typograph]: Tipógrafo
+h1: Tipógrafo
+
+plain: Texto original
+text: Texto
+html: HTML
+mnemonics: Entidades HTML
+example:  - "Ejemplo..."
+result: Resultado
+first-level-quote: Comillas de primer nivel
+second-level-quote: Comillas de segundo nivel
+
+[secret-space]: Espacio en blanco
+h1: Espacio en blanco
+text: Texto original
+result: Texto formateado
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Teclado de emojis
+subtitle: Copia y pega cualquier emoji
+popular: Popular
+emoji: Emoji
+arrow: Símbolos de flecha
+math: Matemáticas
+currency: Divisa
+letters: Letras
+punctuation: Puntuación
+example: Ejemplo de texto y símbolos ☆
+copy-text: ¡Haz clic en el símbolo y se copiará automáticamente!
+paste-text: ¡También se pega a esta caja, donde puedes entrar cualquier texto y decorarlo con símbolos!
+ok: ¡Está claro!
+skip: Saltar
+cool: ¡Guay!

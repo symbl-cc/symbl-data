@@ -1,0 +1,5 @@
+Las imágenes de control técnico es un bloque Unicode que contiene caracteres gráficos para representar los códigos de control C0 y otros caracteres de control.
+
+El código de control C0 y C1 establece unos códigos de control para su uso en texto por sistemas informáticos que utilizan el sistema ISO/IEC 2022 para especificar caracteres de control y gráficos. La mayoría de las codificaciones de caracteres no solo representan unos caracteres imprimibles, sino también tienen caracteres que representan información adicional sobre el texto, tal como la posición del cursor, una instrucción para iniciar una nueva línea o un mensaje de que se ha recibido el texto.
+
+El bloque C0 define códigos en el intervalo 00HEX–1FHEX y el bloque C1 define códigos en el intervalo 80HEX–9FHEX. C0 predeterminado se definió originalmente en ISO 646 (ASCII), mientras que el conjunto C1 predeterminado se definió originalmente en ECMA-48 (armonizado más tarde con ISO 6429). C0 y C1 están disponibles para aplicaciones especializadas, pero no se utilizan a menudo.

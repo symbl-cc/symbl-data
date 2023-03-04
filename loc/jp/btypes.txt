@@ -1,0 +1,29 @@
+scripts: 著作
+european-scripts: ヨーロッパの著作
+modifier-letters: モディファイア文字
+combining-marks: 複合看板
+miscellaneous: 多様な
+african-scripts: アフリカの著作
+middle-eastern-scripts: 中東の著作
+central-asian-scripts: 中央アジアの著作
+south-asian-scripts: 南アジアの著作
+southeast-asian-scripts: 東南アジアの著作
+indonesian-philippine: インドネシア語とフィリピン語のスクリプト
+east-asian-scripts: 東アジアの著作
+american-scripts: アメリカの著作
+
+symbols-and-punctuation: 記号および句読点
+notational-systems: 表記システム
+punctuation: 句読点
+alphanumeric-symbols: 英数字
+technical-symbols: 技術記号
+numbers-and-digits: 数字と数字
+mathematical-symbols: 数学記号
+emoji-and-pictographs: 絵文字とピクトグラム
+other-symbols: その他の登場人物
+specials: スペシャル
+private-use: 私的使用
+surrogates: サロゲート
+noncharacters-in-charts: 図の特徴的でないシンボル
+
+groups.latin-ligatures: Latin Ligatures

@@ -1,3 +1,4 @@
+properties: Nieruchomości
 hide: Chować
 show: Dowodzić
 up: Na górze
@@ -23,11 +24,14 @@ hint: Wybierz żądany znak i skopiuj
 
 copied: Skopiowane!
 see_also: Zobacz też
-page_content_menu: Treść 
+page_content_menu: Treść
 homepage: Strona główna
 cookie-message: Ta strona używa 🍪plików cookie, aby zapewnić najlepszą jakość.
 accept: Zaakceptować
 empty-cell: Pusta komórka
+block-description: Opis
+more-information: Czytaj więcej
+back: Z powrotem
 
 [mobile]
 to-full: Przejdź do pełnej wersji
@@ -38,4 +42,4 @@ save: Zachować
 submit: Wysłać
 undo: Anulować
 send-changes: Zmiana zostanie wysłany do strony deweloperów. Czy jesteś pewien?
-thanks: Dziękuję! 
+thanks: Dziękuję!

@@ -1,38 +1,37 @@
 : Araçlar
 
-toolsListTitle: Diğer araçları da deneyin
-
 [encoder]	: HTML kodlayıcı
-	
+
 desc	: Karakterleri html koduna ve geri kodlar
 plain	: Düz metin
 full	: HTML
 text	: HTML ve metin
 entities	: Karakterleri varlıklarla kodlar
 br	: Satır sonlarını kodlar
-	
+example: Bu bir örnektir! ©
+
 [decoder]	: Unicode kod çözücü
-	
+
 desc	: Karakterleri Unicode'a kodlar veya geri çözer
 example	: Bu bir örnektir
 code	: Unicode
 text	: Metin
-	
+
 [flip]	: Çevir
-	
+
 desc	: Kiril ve Latin karakterleri baş aşağı veya geriye çevirin
 plain	: Düz metin
 flipped	: Metni çevrilmiş
 backed	: Ön metne dön
-	
+
 [generator]	: Unicode karakter tablosu üreteci
-	
+
 desc	: Belirtilen bir aralıkta bir karakter kümesi üretir
 range	: Menzil
 format	: Biçim
 info	: Mevcut: {symbol}, {dec}, {hex}, {html}
 generate	: Üret
-result	: Sonuç 
+result	: Sonuç
 
 [strikethrough-text]: Üstü çizili yazı
 
@@ -41,15 +40,16 @@ desc: Üstü çizili yazı
 text: Metin
 example: Bu bir örnektir
 
-strikethroughText: Üstü çizili yazı
-crossed: Altı çizili
-dotted: Noktalı çizgi
-slash: Çizgi sembolü
-doubleunderline: Noktalı çizgi
-waveline: Dalgalı çizgi
-ciphertext: Şifreli metin
-fullyshaded: Boyalı metin
-strikethroughSlash: Yüksek çizgi sembolü
+strikethroughText: ̶Ü̶s̶t̶ü̶ ̶ç̶i̶z̶i̶l̶i̶ ̶y̶a̶z̶ı̶
+crossed: ͟A͟l͟t͟ı͟ ͟ç͟i͟z͟i͟l͟i͟
+dotted: ̤N̤o̤k̤t̤a̤l̤ı̤ ̤ç̤i̤z̤g̤i̤
+slash: ̷Ç̷i̷z̷g̷i̷ ̷s̷e̷m̷b̷o̷l̷ü̷
+doubleunderline: ͇N͇o͇k͇t͇a͇l͇ı͇ ͇ç͇i͇z͇g͇i͇
+waveline: ̰D̰a̰l̰g̰a̰l̰ı̰ ̰ç̰ḭz̰g̰ḭ
+ciphertext: Ş҉i҉f҉r҉e҉l҉i҉ ҉m҉e҉t҉i҉n҉
+fullyshaded: ■■■■■■ ■■■■■
+strikethroughSlash: ̸Y̸ü̸k̸s̸e̸k̸ ̸ç̸i̸z̸g̸i̸ ̸s̸e̸m̸b̸o̸l̸ü̸
+
 
 [register-converter]: Metinler dönüştürücü
 h1: Metinler dönüştürücü
@@ -89,7 +89,7 @@ example: Gothic
 regularText: Gotik
 boldText: Gotik cesur
 
-result: Sonuç 
+result: Sonuç
 
 [morse]: Mors Alfabesine Metin Dönüştürücü
 h1: Mors Alfabesine Metin Dönüştürücü
@@ -120,6 +120,14 @@ generate: Oluşturmak
 warning: Lütfen şifrenizi oluşturmak için en az bir karakter seti seçin
 
 
+[nickname-generator]: Güzel takma adların jeneratörü
+h1: Güzel takma adların jeneratörü
+desc: Takma adı süslüyor
+
+text: Metin
+nickname: Takma ad
+example: Maria
+
 [text-to-symbols]: Sembollerden metin
 h1: Sembollerden metin
 desc: Metni sembollerle yaz
@@ -133,3 +141,37 @@ background: Arka plan ile harfler
 symbol-dolar: $ sembolünden gelen harfler
 symbol-lattice: # sembolünden gelen harfler
 symbol-paragraph: ¶ sembolünden gelen harfler
+
+[typograph]: Tipograf
+h1: Tipograf
+
+plain: Orjinal metin
+text: Metin
+html: HTML
+mnemonics: HTML Varlıkları
+example:  - "Örnek..."
+result: Result
+first-level-quote: Birinci düzey tırnak işaretleri
+second-level-quote: İkinci düzey tırnak işaretleri
+
+[secret-space]: Boşluk
+h1: Boşluk
+text: Orjinal metin
+result: Biçimlendirilmiş metin
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Emoji Klavye
+subtitle: Herhangi Bir Emojiyi Kopyala ve Yapıştır
+popular: Popüler
+emoji: Emoji
+arrow: Ok sembolleri
+math: Matematik
+currency: Para birimi
+letters: Edebiyat
+punctuation: Noktalama
+example: Metin ve sembol ☆ örnekleri
+copy-text: Sembole tıklayın ve otomatik olarak kopyala!
+paste-text: Ayrıca, herhangi bir metni girebileceğiniz ve herhangi bir sembolle süsleyebileceğiniz bu kutuya da gider!
+ok: Anlaşıldı!
+skip: Atlamak
+cool: Serin!

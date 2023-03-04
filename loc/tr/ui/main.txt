@@ -1,32 +1,47 @@
-title: Unicode karakter tablosu
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: Unicode® Inc tescilli markasıdır. Amerika Birleşik Devletleri ve diğer ülkelerde. Bu site ile ilgili ya da onaylanmış ya da Unicode, Inc tarafından desteklenen herhangi bir şekilde değil. (Unicode Konsorsiyumu aka). Resmi Unicode web sitesi için, lütfen gidin
+
+privacy-policy: Gizlilik Politikası
+unicodeorg: Sitede yer alan tüm emoji ve sembol görselleri bilgilendirme amaçlı olup, hakları yazarlarına aittir ve onların rızası olmadan ticari amaçla kullanılamaz.
+old-version: Eski versiyon
 
 [mainpage]: Anasayfa
 
-[sets]	: Setleri
+[collections]	: Setleri
 set	: Setleri
 list	: Setleri
 title: Popüler karakter setleri
 all: Tümünü Gör
 
-[blocks]	: Bloklar
-block	: Blok
+[blocks]	: Blokları
+block	: Unicode blokları
 list	: Unicode
-	
+by-range: Aralığa göre
+by-alphabet: Alfabetik olarak
+by-type: Türüne göre
+
+[codes]: Kodlamalar
+list: Kodlamalar
+
+[art]: Sanat
+list: Sanat ٩(｡•́‿•̀｡)۶
+
+[symbols]: Rumuz
+list: Rumuz
+
 [languages]	: Diller
 list	: Diller
 blocks	: Dil blokları
-	
+
 [countries]	: Ülkeler
 list	: Ülkeler
-	
+
 [alphabets]	: Alfabe
 list	: Alfabe
 
 [holidays]: Bayram
 list: Bayram
-	
+
 [types]	: Türleri
 type	: Tür
 list	: Türleri
@@ -37,3 +52,15 @@ list: HTML Varlıkları
 [alt-codes]: Windows için ALT Kodları
 list: Alt Kodlar
 en: İngilizce klavye düzeni
+
+[top-symbols]: En iyi semboller
+
+[day-symbol]: Günün sembolü
+
+[news]: Haberler
+
+[symbol-table]: Sembol tablosu
+
+[version-history]: Sürüm geçmişi
+
+[about-unicode]: Unicode hakkında

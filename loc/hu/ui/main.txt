@@ -1,19 +1,35 @@
-title: Unicode karakter tábla
+title: SYMBL (◕‿◕)
 unicode: Unicode
 copyright: Az Unicode® bejegyzett védjegye az Egyesült Államokban és más országokban. Ez a webhely semmilyen módon nem társul a Unicode, Inc. (más néven Unicode Consortium) vagy támogatja. A hivatalos Unicode weboldalán kérjük, menjen.
 
+privacy-policy: Adatvédelmi szabályzat
+unicodeorg: Az oldalon található emoji-képek és szimbólumok tájékoztató jellegűek, a jogok a szerzőket illetik, engedélyük nélkül kereskedelmi célokra nem használhatók fel.
+old-version: Régi verzió
+
 [mainpage]: Kezdőlap
 
-[sets]: Készletek
-set: Beállítás
+[collections]: Készletek
+collection: Beállítás
 list: Készlet
 title: Népszerű karakterkészletek
 all: Lásd az összeset
 
 [blocks]: Blokkok
-block: Blokk
+block: Unicode blokkok
 blocks: Unicode blokkok
 list: Unicode
+by-range: Tartomány szerint
+by-alphabet: Betűrendben
+by-type: Típus szerint
+
+[codes]: Kódolások
+list: Kódolások
+
+[art]: Művészet
+list: Művészet ٩(｡•́‿•̀｡)۶
+
+[symbols]: Szimbólumok
+list: Szimbólumok
 
 [languages]: Nyelvek
 list: Nyelv
@@ -38,3 +54,15 @@ list: HTML entitások
 [alt-codes]: ALT kódok a Windows számára
 list: lt kódok
 en: Angol billentyűzet elrendezése
+
+[top-symbols]: Top szimbólumok
+
+[day-symbol]: A nap szimbóluma
+
+[news]: Hírek
+
+[symbol-table]: Szimbólum táblázat
+
+[version-history]: Verziótörténet
+
+[about-unicode]: Az Unicode-ról

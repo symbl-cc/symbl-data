@@ -22,7 +22,13 @@ copy-code: Faceți clic pentru a copia
 copy_button: Copie
 copy_done: Copiată!
 version: Versiunea Unicode
-sets-with-this-symbol: Setează cu acest simbol
+collections-with-this-symbol: Setează cu acest simbol
 empty-symbol: Nedefinit în Unicode
 emoji_group: Categorie de emoji
 emoji_version: Versiunea Emoji
+download: Descarca
+displaying: Afișare Simbol
+symbol_not_displayed: De ce nu este afișat simbolul?
+examples: Exemple de utilizare
+synonyms: Sinonime
+in-development: Este în dezvoltare

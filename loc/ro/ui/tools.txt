@@ -1,7 +1,5 @@
 : Instrumente
 
-toolsListTitle: Încercați și alte instrumente
-
 [encoder]: Codificator HTML
 
 desc: Codificare caractere în cod HTML și invers
@@ -11,6 +9,7 @@ text: HTML și text
 entities: Codificarea caracterelor cu entități
 br: Codificare sfârșit de rând
 result: Rezultat
+example: Acesta este un exemplu! ©
 
 [decoder]: Decodor Unicode
 
@@ -43,15 +42,16 @@ desc: Textul tăiat
 text: Text
 example: Acesta este un exemplu
 
-strikethroughText: Textul tăiat
-crossed: Subliniat
-dotted: Linie punctata
-slash: Simbol bară oblică
-doubleunderline: Subliniere dublă
-waveline: Linie val
-ciphertext: Text cifrat
-fullyshaded: Text umbrit
-strikethroughSlash: Simbol bară oblică mare
+strikethroughText: ̶T̶e̶x̶t̶u̶l̶ ̶t̶ă̶i̶a̶t̶
+crossed: ͟S͟u͟b͟l͟i͟n͟i͟a͟t͟
+dotted: ̤L̤i̤n̤i̤e̤ ̤p̤ṳn̤c̤t̤a̤t̤a̤
+slash: ̷S̷i̷m̷b̷o̷l̷ ̷b̷a̷r̷ă̷ ̷o̷b̷l̷i̷c̷ă̷
+doubleunderline: ͇S͇u͇b͇l͇i͇n͇i͇e͇r͇e͇ ͇d͇u͇b͇l͇ă͇
+waveline: ̰L̰ḭn̰ḭḛ ̰v̰a̰l̰
+ciphertext: T҉e҉x҉t҉ ҉c҉i҉f҉r҉a҉t҉
+fullyshaded: ■■■■ ■■■■■■
+strikethroughSlash: ̸S̸i̸m̸b̸o̸l̸ ̸b̸a̸r̸ă̸ ̸o̸b̸l̸i̸c̸ă̸ ̸m̸a̸r̸e̸
+
 
 [register-converter]: Convertor De Text
 h1: Convertor De Text
@@ -120,6 +120,13 @@ maxLength: сaractere (4-99)
 generate: Genera
 warning: Vă rugăm să selectați cel puțin un set de caractere pentru a vă crea parola
 
+[nickname-generator]: Generator de porecle frumoase
+h1: Generator de porecle frumoase
+desc: Împodobește porecla
+
+text: Text
+nickname: Poreclă
+example: Maria
 
 [text-to-symbols]: Text din simboluri
 h1: Scrieți text cu simboluri
@@ -134,3 +141,38 @@ background: Litere cu fundal
 symbol-dolar: Litere din simbolul $
 symbol-lattice: Litere din simbolul #
 symbol-paragraph: Litere din simbolul ¶
+
+
+[typograph]: Tipograf
+h1: Tipograf
+
+plain: Text original
+text: Text
+html: HTML
+mnemonics: Entități HTML
+example:  - "Exemplu..."
+result: Rezultat
+first-level-quote: Ghilimele de primul nivel
+second-level-quote: Ghilimele de al doilea nivel
+
+[secret-space]: Bara de spațiu
+h1: Bara de spațiu
+text: Text original
+result: Text formatat
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Tastatură emoji
+subtitle: Copiați și inserați orice emoji
+popular: Popular
+emoji: Emoji
+arrow: Simboluri săgeată
+math: Matematică
+currency: Valută
+letters: Levelek
+punctuation: Punctuaţie
+example: Exemple de text și simboluri ☆
+copy-text: Faceți clic pe simbol și se va copia automat!
+paste-text: De asemenea, merge în această casetă, unde poți introduce orice text și îl poți decora cu orice simbol!
+ok: Înțeles!
+skip: Ocolire
+cool: Rece!

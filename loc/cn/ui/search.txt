@@ -6,19 +6,19 @@ example-text: hammer and sickle
 h1: 搜索
 result: 搜索结果
 empty: 搜索关键词是空的
-total: 搜索结果：%s
+total: 按需搜索结果
 limit: （只显示了 %s）
 none: 无
 any: 用任何关键词搜索
 overflow: 对不起，U+%s 数据库还在制作中
 unicode-block: Unicode 字符段列表
 count-symbols: %s 符号
-sets: 组
+collections: 组
 alphabet: 字母
 
 [empty]
 no_results: 在中文中找不到“{query}”的结果。
 language: 尝试改变{语言}。
 blocks: 探索{Unicode块}。
-sets: {一套又一套}。
+collections: {一套又一套}。
 table: 查看完整{的角色表}。

@@ -64,7 +64,7 @@ sundanese-supplement 	: Suplemento Sundanese
 vedic-extensions 	: Extensões Védicas
 phonetic-extensions 	: Extensões Fonéticas
 phonetic-extensions-supplement 	: Suplemento de Extensões Fonéticas
-combining-diacritical-marks-supplement 	: Suplemento Combinando Marcas Diacríticas 
+combining-diacritical-marks-supplement 	: Suplemento Combinando Marcas Diacríticas
 latin-extended-additional : Latino estendido adicional
 greek-extended  : Grego estendido
 general-punctuation : Pontuação geral
@@ -141,7 +141,7 @@ meitei-language : Meetei Mayek
 hangul-syllables : Sílabas do Hangul
 high-surrogates : Altos Substitutos
 high-private-use-surrogates : Substitutos elevados de uso privado
-low-surrogates : Substitutos baixos 
+low-surrogates : Substitutos baixos
 private-use-area : Áreas de uso privado
 cjk-compatibility-ideographs : Ideogramas de Compatibilidade CJK
 alphabetic-presentation-forms : Formas de apresentação alfabética
@@ -152,10 +152,10 @@ combining-half-marks 	: Combinação de Meias Marcas
 cjk-compatibility-forms 	: Formulários de Compatibilidade CJK
 small-form-variants 	: Variantes de Formulário Pequeno
 arabic-presentation-forms-b 	: Formas de apresentação em árabe-B
-halfwidth-and-fullwidth-forms 	: Formas halfwidth e fullwidth 
+halfwidth-and-fullwidth-forms 	: Formas halfwidth e fullwidth
 specials        : Área especial
-linear-b-syllabary 	 Silabário Linear B
-linear-b-ideograms 	 Ideogramas Linear B
+linear-b-syllabary: 	 Silabário Linear B
+linear-b-ideograms: 	 Ideogramas Linear B
 aegean-numbers 	 : Números do Egeu
 ancient-greek-numbers 	 : Números do grego antigo
 ancient-symbols 	 : Símbolos antigos
@@ -207,8 +207,8 @@ newa	 : Newa
 tirhuta 	 : Tirhuta
 siddham 	 : Siddham
 modi 	 : Modi
-mongolian-supplement	 : Suplemento Mongol 
-takri 	Takri
+mongolian-supplement	 : Suplemento Mongol
+takri: 	Takri
 warang-citi 	: Warang Citi
 pau-cin-hau 	: Pau Cin Hau
 bhaiksuki	: Bhaiksuki
@@ -262,4 +262,4 @@ early-dynastic-cuneiform	: Cuneiforme cínico primitivo
 anatolian-hieroglyphs	: Hieróglifos da Anatólia
 sutton-sign-writing	: Sutton SignWriting
 glagolitic-supplement	: Suplemento glagolítico
-supplemental-symbols-and-pictographs	: Símbolos e pictogramas adicionais 
+supplemental-symbols-and-pictographs	: Símbolos e pictogramas adicionais

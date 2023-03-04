@@ -1,7 +1,5 @@
 : Outils
 
-toolsListTitle: Essayez également d'autres outils
-
 [encoder]: Encodeur HTML
 
 desc: Encode les caractères en code html et inversement
@@ -11,6 +9,7 @@ text: HTML et texte
 entities: Encode les caractères avec des entités
 br: Encode les sauts de ligne
 result: Résultat
+example: C'est un example! ©
 
 [decoder]: Décodeur Unicode
 
@@ -43,15 +42,16 @@ desc: Texte barré
 text: Texte
 example: C'est un example
 
-strikethroughText: Texte barré
-crossed: Texte souligné
-dotted: Pointillé
-slash: Symbole de barre oblique
-doubleunderline: Double soulignement
-waveline: Ligne de vague
-ciphertext: Texte chiffré
-fullyshaded: Texte ombré
-strikethroughSlash: Symbole de barre oblique haute
+strikethroughText: ̶T̶e̶x̶t̶e̶ ̶b̶a̶r̶r̶é̶
+crossed: ͟T͟e͟x͟t͟e͟ ͟s͟o͟u͟l͟i͟g͟n͟é͟
+dotted: ̤P̤o̤i̤n̤t̤i̤l̤l̤é̤
+slash: ̷S̷y̷m̷b̷o̷l̷e̷ ̷d̷e̷ ̷b̷a̷r̷r̷e̷ ̷o̷b̷l̷i̷q̷u̷e̷
+doubleunderline: ͇D͇o͇u͇b͇l͇e͇ ͇s͇o͇u͇l͇i͇g͇n͇e͇m͇e͇n͇t͇
+waveline: ̰L̰ḭg̰n̰ḛ ̰d̰ḛ ̰v̰a̰g̰ṵḛ
+ciphertext: T҉e҉x҉t҉e҉ ҉c҉h҉i҉f҉f҉r҉é҉
+fullyshaded: ■■■■■ ■■■■■
+strikethroughSlash: ̸S̸y̸m̸b̸o̸l̸e̸ ̸d̸e̸ ̸b̸a̸r̸r̸e̸ ̸o̸b̸l̸i̸q̸u̸e̸ ̸h̸a̸u̸t̸e̸
+
 
 [register-converter]: Conversion de texte
 h1: Conversion de texte
@@ -120,6 +120,14 @@ maxLength: symboles (4-99)
 generate: Générer
 warning: Sélectionnez au moins un jeu de caractères pour générer votre mot de passe
 
+[nickname-generator]: Générateur de beaux surnoms
+h1: Générateur de beaux surnoms
+desc: Décore le surnom
+
+text: Texte
+nickname: Surnom
+example: Marie
+
 [text-to-symbols]: Texte à partir de symboles
 h1: Texte à partir de symboles
 desc: Écrire du texte avec des symboles
@@ -133,3 +141,37 @@ background: Lettres avec fond
 symbol-dolar: Lettres du symbole $
 symbol-lattice: Lettres du symbole #
 symbol-paragraph: Lettres du symbole ¶
+
+[typograph]: Typographer
+h1: Typographer
+
+plain: Texte original
+text: Texte
+html: HTML
+mnemonics: Entités HTML
+example:  - "Exemple..."
+result: Résultat
+first-level-quote: Guillemets de premier niveau
+second-level-quote: Guillemets de second niveau
+
+[secret-space]: Espace blanc
+h1: Espace blanc
+text: Texte original
+result: Texte formaté
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Clavier Emoji
+subtitle: Copiez et collez n'importe quel emoji
+popular: Populaire
+emoji: Emoji
+arrow: Symboles fléchés
+math: Mathematics
+currency: Devise
+letters: Des lettres
+punctuation: Ponctuation
+example: Exemples de texte et de symboles ☆
+copy-text: Cliquez sur le symbole et il copier automatiquement!
+paste-text: Il va également dans cette case, où vous pouvez saisir n'importe quel texte et le décorer avec n'importe quel symbole!
+ok: Compris!
+skip: Sauter
+cool: Cool!

@@ -1,0 +1,29 @@
+scripts: Piśmiennictwo
+european-scripts: Pisma europejskie
+modifier-letters: Litery modyfikujące
+combining-marks: Połączone znaki
+miscellaneous: Różnorodny
+african-scripts: Pisma afrykańskie
+middle-eastern-scripts: Pisma Bliskowschodnie
+central-asian-scripts: Pisma środkowoazjatyckie
+south-asian-scripts: Pisma południowoazjatyckie
+southeast-asian-scripts: Pisma Azji Południowo-Wschodniej
+indonesian-philippine: Pisma Indonezyjskie i filipińskie
+east-asian-scripts: Pisma wschodnioazjatyckie
+american-scripts: Amerykańskie pisma
+
+symbols-and-punctuation: Symbole i znaki interpunkcyjne
+notational-systems: Systemy notacji
+punctuation: Interpunkcja
+alphanumeric-symbols: Znaki alfanumeryczne
+technical-symbols: Symbole techniczne
+numbers-and-digits: Liczby i cyfry
+mathematical-symbols: Symbole matematyczne
+emoji-and-pictographs: Emotikony i piktogramy
+other-symbols: Inne symbole
+specials: Specjalny
+private-use: Do użytku prywatnego
+surrogates: Namiastka
+noncharacters-in-charts: Nietypowe symbole na diagramach
+
+groups.latin-ligatures: Latin Ligatures

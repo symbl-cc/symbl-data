@@ -1,1 +1,5 @@
-Kana Supplement is a Unicode block containing archaic [BLOCK:hiragana Hiragana] and [BLOCK:katakana] and Hentaigana.
+Kana is a Japanese syllabic alphabet that exists in two graphic forms: [BLOCK:hiragana Hiragana] and [BLOCK:katakana].
+
+The two types of Kana mentioned above differ in writing: Hiragana features round characters, like these ひらがな, whereas Katakana contains angular ones カタカナ. Only a few characters look alike (the most evident similarity is found among か and カ, り and リ, せ and セ), but there are hieroglyphs that almost totally coincide, such as へ and ヘ. If we do not take into account the extension of Katakana (for the Ainu language), then both alphabets are interchangeable, which means that any text written in Hiragana can be written in Katakana and vice versa.
+
+Hiragana is used to write the following: the changeable parts of Japanese words (Okurigana), the words themselves, as well as, often, the explanatory reading of hieroglyphs (Furigana). Today Katakana is mainly used to write words borrowed from other European languages (the so-called lexical borrowings Gayraigo).

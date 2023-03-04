@@ -1,6 +1,6 @@
 # Terms of Use
 
-This license describes the conditions of using the data represented in [the unicode-table-data repository](https://github.com/unicode-table/unicode-table-data).
+This license describes the conditions of using the data represented in the [symbl-data repository](https://github.com/unicode-table/symbl-data).
 
 ## Third-party data
 
@@ -20,11 +20,11 @@ Following files contain data from UCD:
 * `loc/en/blocks.txt` - names of Unicode blocks in English
 * `loc/en/symbols/` - names of Unicode symbols in English
 
-## Unicode Table
+## SYMBL
 
-Files not listed above is the author's work of the [Unicode Table site](https://unicode-table.com/).
+Files not listed above is the author's work of the [SYMBL.CC website](https://symbl.cc/).
 
-Copyright © 2012-2017 Unicode Table
+Copyright © 2012 SYMBL
 
 The actual license allows to use a copy of the data without any restrictions and It is free.
 DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND EXPRESS OR IMPLIED. 

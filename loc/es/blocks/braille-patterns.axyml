@@ -1,0 +1,11 @@
+﻿Este es el bloque que representa el braille (U+2800..U+28FF). El bloque contiene los 256 patrones posibles de braille de 8 puntos, incluyendo el rango completo de celdas de 6 puntos.
+
+Braille /ˈbreɪl/ es un sistema de escritura táctil utilizado por ciegos y personas con discapacidad visual. Tradicionalmente se escribe con papel repujado. Los usuarios pueden leer pantallas de computadora y otros soportes electrónicos gracias a las pantallas braille actualizables. Pueden escribir en braille con la pizarra y el lápiz originales o escribirlo en un escritor en braille, o en una computadora que imprima con una impresora en braille.
+
+Braille lleva el nombre de su creador, el francés Louis Braille, que perdió la vista debido a un accidente infantil. En 1824, a la edad de 15 años, Braille desarrolló su código para el alfabeto francés para mejorar la escritura nocturna. Publicó su sistema, que posteriormente incluyó la notación musical, en 1829. La segunda revisión, publicada en 1837, fue la primera forma binaria de escritura desarrollada en la era moderna.
+
+Los caracteres Braille son pequeños bloques rectangulares llamados celdas que contienen pequeños puntos elevados. El número y la disposición de estos puntos distinguen un carácter de otro. Dado que los diversos alfabetos braille se originaron como códigos de transcripción en escritura impresa, las asignaciones (conjuntos de designaciones de caracteres) varían de un idioma a otro. Además, en Braille inglés hay tres niveles de codificación: Grado 1, una transcripción letra por letra utilizada para la alfabetización básica; Grado 2, una adición de abreviaturas y contracciones; y Grado 3, varias taquigrafías personales no estandarizadas.
+
+Las celdas Braille no son lo único que aparece en el texto. Puede tener ilustraciones y gráficos con las líneas continuas o hechas de puntos, flechas, viñetas que son más grandes que los puntos braille, etc.
+
+Con el desarrollo del software, el uso de braille ha disminuido. Sin embargo, la educación en braille sigue siendo importante para desarrollar habilidades de lectura entre los niños ciegos y con discapacidad visual, y la alfabetización en braille se correlaciona con tasas de empleo más altas.

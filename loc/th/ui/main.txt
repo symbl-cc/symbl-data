@@ -1,17 +1,33 @@
-title: ตารางอักขระ Unicode
+title: SYMBL (◕‿◕)
 unicode: Unicode
+
+privacy-policy: นโยบายความเป็นส่วนตัวของเรา
+unicodeorg: ภาพอีโมจิและสัญลักษณ์ทั้งหมดบนเว็บไซต์มีวัตถุประสงค์เพื่อให้ข้อมูล สิทธิ์เป็นของผู้เขียนและไม่สามารถใช้เพื่อวัตถุประสงค์ทางการค้าได้หากไม่ได้รับความยินยอมจากพวกเขา
+old-version: เวอร์ชันเก่า
 
 [mainpage]: หน้าหลัก
 
-[sets]: ชุดอักขระ
+[collections]: ชุดอักขระ
 # @todo set
 list: ชุดอักขระ
 title: ชุดตัวละครยอดนิยม
 all: ดูทั้งหมด
 
 [blocks]: รายชื่อส่วน
-# @todo block
-list: Unicode
+block: บล็อกยูนิโค้ด
+list: บล็อค
+by-range: ตามช่วง
+by-alphabet: เรียงตามตัวอักษร
+by-type: ตามประเภท
+
+[codes]: การเข้ารหัส
+list: การเข้ารหัส
+
+[art]: ศิลปะ
+list: ศิลปะ ٩(｡•́‿•̀｡)۶
+
+[symbols]: สัญลักษณ์
+list: สัญลักษณ์
 
 [languages]: ภาษา
 list: รายชื่อภาษา
@@ -38,3 +54,15 @@ list: หน่วยงาน HTML
 [alt-codes]: รหัส ALT สำหรับ WIndows
 list: รหัส ALT
 en: รูปแบบแป้นพิมพ์ภาษาอังกฤษ
+
+[top-symbols]: สัญลักษณ์ยอดนิยม
+
+[day-symbol]: สัญลักษณ์ประจำวัน
+
+[news]: ข่าว
+
+[symbol-table]: ตารางสัญลักษณ์
+
+[version-history]: ประวัติเวอร์ชัน
+
+[about-unicode]: เกี่ยวกับยูนิโค้ด

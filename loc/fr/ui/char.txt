@@ -16,13 +16,19 @@ uppercase: majuscule
 lowercase: minuscules
 encoding: Codage
 related: Symboles ressemblants
-tech-info: Information technique 
+tech-info: Information technique
 copy: Copiez et collez le symbole
 copy-code: Cliquez pour copier
 copy_button: Copie
 copy_done: Copié!
 version: Version Unicode
-sets-with-this-symbol: Ensembles avec ce symbole
+collections-with-this-symbol: Ensembles avec ce symbole
 empty-symbol: Non défini dans Unicode
 emoji_group: Catégorie d'Emoji
 emoji_version: Version d'Emoji
+download: Télécharger
+displaying: Affichage du symbole
+symbol_not_displayed: Pourquoi le symbole n'est-il pas affiché?
+examples: Exemples d'utilisation
+synonyms: Synonymes
+in-development: Est en développement

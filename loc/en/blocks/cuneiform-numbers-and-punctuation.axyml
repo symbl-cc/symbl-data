@@ -1,6 +1,11 @@
-In Unicode, the Sumero-Akkadian Cuneiform script is covered in two blocks:
-U+12000–U+1237F [BLOCK:cuneiform]
-U+12400–U+1247F Cuneiform Numbers and Punctuation
-These blocks, in version 6.0, are in the Supplementary Multilingual Plane (SMP).
-The sample glyphs in the chart file published by the Unicode Consortium show the characters in their Classical Sumerian form (Early Dynastic period, mid 3rd millennium BCE). The characters as written during the 2nd and 1st millennia BCE, the era during which the vast majority of cuneiform texts were written, are considered font variants of the same characters.
+Cuneiform script is one of the earliest known systems of writing, distinguished by its wedge-shaped marks on clay tablets, made by means of a blunt reed for a stylus. The name cuneiform itself simply means [i]wedge shaped[/i], from the Latin [i]cuneus[/i] "wedge" and [i]forma[/i] "shape". It came into English usage probably from Old French cunéiforme.
+
+##A system of pictographs
+
+Cuneiform writing began as a system of pictographs. In the third millennium, the pictorial representations became simplified and more abstract as the number of characters in use grew smaller, from about 1,000 in the Early Bronze Age to about 400 in Late Bronze Age (Hittite cuneiform). The system consists of a combination of logophonetic, consonantal alphabetic and syllabic signs.
+
+##More on the version
+
+In Unicode, the Sumero-Akkadian Cuneiform script is covered in two blocks: U+12000–U+1237F [BLOCK:cuneiform Cuneiform] and U+12400–U+1247F [BLOCK:cuneiform-numbers-and-punctuation this one]. The sample glyphs in the chart file published by the Unicode Consortium show the characters in their Classical Sumerian form (Early Dynastic period, mid 3rd millennium BCE). The characters as written during the 2nd and 1st millennia BCE, the era during which the vast majority of cuneiform texts were written, are considered font variants of the same characters.
+
 The character set as published in version 5.2 has been criticized, mostly because of its treatment of a number of common characters as ligatures, omitting them from the encoding standard.

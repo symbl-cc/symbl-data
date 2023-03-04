@@ -110,54 +110,54 @@
 086D:
 086E:
 086F:
-0870:
-0871:
-0872:
-0873:
-0874:
-0875:
-0876:
-0877:
-0878:
-0879:
-087A:
-087B:
-087C:
-087D:
-087E:
-087F:
-0880:
-0881:
-0882:
-0883:
-0884:
-0885:
-0886:
-0887:
-0888:
-0889:
-088A:
-088B:
-088C:
-088D:
-088E:
+0870: Arabic Letter Alef With Attached Fatha
+0871: Arabic Letter Alef With Attached Top Right Fatha
+0872: Arabic Letter Alef With Right Middle Stroke
+0873: Arabic Letter Alef With Left Middle Stroke
+0874: Arabic Letter Alef With Attached Kasra
+0875: Arabic Letter Alef With Attached Bottom Right Kasra
+0876: Arabic Letter Alef With Attached Round Dot Above
+0877: Arabic Letter Alef With Attached Right Round Dot
+0878: Arabic Letter Alef With Attached Left Round Dot
+0879: Arabic Letter Alef With Attached Round Dot Below
+087A: Arabic Letter Alef With Dot Above
+087B: Arabic Letter Alef With Attached Top Right Fatha And Dot Above
+087C: Arabic Letter Alef With Right Middle Stroke And Dot Above
+087D: Arabic Letter Alef With Attached Bottom Right Kasra And Dot Above
+087E: Arabic Letter Alef With Attached Top Right Fatha And Left Ring
+087F: Arabic Letter Alef With Right Middle Stroke And Left Ring
+0880: Arabic Letter Alef With Attached Bottom Right Kasra And Left Ring
+0881: Arabic Letter Alef With Attached Right Hamza
+0882: Arabic Letter Alef With Attached Left Hamza
+0883: Arabic Tatweel With Overstruck Hamza
+0884: Arabic Tatweel With Overstruck Waw
+0885: Arabic Tatweel With Two Dots Below
+0886: Arabic Letter Thin Yeh
+0887: Arabic Baseline Round Dot
+0888: Arabic Raised Round Dot
+0889: Arabic Letter Noon With Inverted Small V
+088A: Arabic Letter Hah With Inverted Small V Below
+088B: Arabic Letter Tah With Dot Below
+088C: Arabic Letter Tah With Three Dots Below
+088D: Arabic Letter Keheh With Two Dots Vertically Below
+088E: Arabic Vertical Tail
 088F:
-0890:
-0891:
+0890: Arabic Pound Mark Above
+0891: Arabic Piastre Mark Above
 0892:
 0893:
 0894:
 0895:
 0896:
 0897:
-0898:
-0899:
-089A:
-089B:
-089C:
-089D:
-089E:
-089F:
+0898: Arabic Small High Word Al-juz
+0899: Arabic Small Low Word Ishmaam
+089A: Arabic Small Low Word Imaala
+089B: Arabic Small Low Word Tasheel
+089C: Arabic Madda Waajib
+089D: Arabic Superscript Alef Mokhassas
+089E: Arabic Doubled Madda
+089F: Arabic Half Madda Over Madda
 08A0: Arabic Letter Beh with Small V Below
 08A1: Arabic Letter Beh with Hamza Above
 08A2: Arabic Letter Jeem with Two Dots Above
@@ -179,7 +179,7 @@
 08B2: Arabic Letter Zain with Inverted V Above
 08B3: Arabic Letter Ain with Three Dots Below
 08B4: Arabic Letter Kaf with Dot Below
-08B5:
+08B5: Arabic Letter Qaf With Dot Below And No Dots Above
 08B6: Arabic Letter Beh with Small Meem Above
 08B7: Arabic Letter Peh with Small Meem Above
 08B8: Arabic Letter Teh with Small Teh Above
@@ -198,17 +198,17 @@
 08C5: Arabic Letter Jeem With Three Dots Above
 08C6: Arabic Letter Jeem With Three Dots Below
 08C7: Arabic Letter Lam With Small Arabic Letter Tah Above
-08C8:
-08C9:
-08CA:
-08CB:
-08CC:
-08CD:
-08CE:
-08CF:
-08D0:
-08D1:
-08D2:
+08C8: Arabic Letter Graf
+08C9: Arabic Small Farsi Yeh
+08CA: Arabic Small High Farsi Yeh
+08CB: Arabic Small High Yeh Barree With Two Dots Below
+08CC: Arabic Small High Word Sah
+08CD: Arabic Small High Zah
+08CE: Arabic Large Round Dot Above
+08CF: Arabic Large Round Dot Below
+08D0: Arabic Sukun Below
+08D1: Arabic Large Circle Below
+08D2: Arabic Large Round Dot Inside Circle Below
 08D3: Arabic Small Low Waw
 08D4: Arabic Small High Word Ar-Rub
 08D5: Arabic Small High Sad

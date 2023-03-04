@@ -1,1638 +1,1961 @@
-[control-character]
-	diap            : 0000:001F
-	type            :
-	languages       :
-	countries       :
-
 [basic-latin]
-	diap            : 0020:007F
-	type            : alphabet
-	languages       : english, german, french, italian, polish
-	countries       : england, usa, germany, france, italy, poland
+	diap: 0000:007F
+	type: alphabet
+	languages: english, german, french, italian, polish
+	countries: england, usa, germany, france, italy, poland
 
 [latin-1-supplement]
-	diap            : 0080:00FF
-	type            :
-	languages       :
-	countries       :
+	diap: 0080:00FF
+	type: 
+	languages: 
+	countries: 
 
 [latin-extended-a]
-	diap            : 0100:017F
-	type            : alphabet
-	languages       : celtic, sami, maltese, turkish
-	countries       : scotland, wales, ireland, norway, finland, sweden, malta, turkey
+	diap: 0100:017F
+	type: alphabet
+	languages: celtic, sami, maltese, turkish
+	countries: scotland, wales, ireland, norway, finland, sweden, malta, turkey
 
 [latin-extended-b]
-	diap            : 0180:024F
-	type            : alphabet
-	languages       : slovenian, croatian
-	countries       : slovenia, croatia, rumania, libya
+	diap: 0180:024F
+	type: alphabet
+	languages: slovenian, croatian
+	countries: slovenia, croatia, rumania, libya
 
 [ipa-extensions]
-	diap            : 0250:02AF
-	type            : alphabet
-	languages       :
-	countries       :
+	diap: 0250:02AF
+	type: alphabet
+	languages: 
+	countries: 
 
 [spacing-modifier-letters]
-	diap            : 02B0:02FF
-	type            : alphabet
-	languages       :
-	countries       :
+	diap: 02B0:02FF
+	type: alphabet
+	languages: 
+	countries: 
 
 [combining-diacritical-marks]
-	diap            : 0300:036F
-	type            : alphabet
-	languages       :
-	countries       :
+	diap: 0300:036F
+	type: alphabet
+	languages: 
+	countries: 
 
 [greek-coptic]
-	diap            : 0370:03FF
-	type            : alphabet
-	languages       : greek, coptic
-	countries       : greece
+	diap: 0370:03FF
+	type: alphabet
+	languages: greek, coptic
+	countries: greece
 
 [cyrillic]
-	diap            : 0400:04FF
-	type            : alphabet
-	languages       : russian, ukrainian, bulgarian
-	countries       : russia, ukraine, bulgaria, serbia, macedonia, moldova
+	diap: 0400:04FF
+	type: alphabet
+	languages: russian, ukrainian, bulgarian
+	countries: russia, ukraine, bulgaria, serbia, macedonia, moldova
 
 [cyrillic-supplement]
-	diap            : 0500:052F
-	type            : alphabet
-	languages       : komi
-	countries       : russia
+	diap: 0500:052F
+	type: alphabet
+	languages: komi
+	countries: russia
 
 [armenian]
-	diap            : 0530:058F
-	type            : alphabet
-	languages       : armenian
-	countries       : armenia
+	diap: 0530:058F
+	type: alphabet
+	languages: armenian
+	countries: armenia
 
 [hebrew]
-	diap            : 0590:05FF
-	type            : alphabet
-	languages       : hebrew, yiddish
-	countries       : israel
+	diap: 0590:05FF
+	type: alphabet
+	languages: hebrew, yiddish
+	countries: israel
 
 [arabic]
-	diap            : 0600:06FF
-	type            : alphabet
-	languages       : arabic, persian, kurd
-	countries       : algeria, bahrain, egypt, iraq, iran, kuwait, afghanistan, pakistan, india, fiji_islands
+	diap: 0600:06FF
+	type: alphabet
+	languages: arabic, persian, kurd
+	countries: algeria, bahrain, egypt, iraq, iran, kuwait, afghanistan, pakistan, india, fiji_islands
 
 [syrian]
-	diap            : 0700:074F
-	type            : alphabet
-	languages       : syrian, arabic
-	countries       : algeria, bahrain, egypt, syria
+	diap: 0700:074F
+	type: alphabet
+	languages: syrian, arabic
+	countries: algeria, bahrain, egypt, syria
 
 [arabic-supplement]
-	diap            : 0750:077F
-	type            : alphabet
-	languages       : arabic, persian, kurd
-	countries       : algeria, bahrain, egypt, iraq, iran, kuwait, afghanistan, pakistan, india, fiji_islands
+	diap: 0750:077F
+	type: alphabet
+	languages: arabic, persian, kurd
+	countries: algeria, bahrain, egypt, iraq, iran, kuwait, afghanistan, pakistan, india, fiji_islands
 
 [thaana]
-	diap            : 0780:07BF
-	type            : alphabet
-	languages       : maldivian
-	countries       : maldives
+	diap: 0780:07BF
+	type: alphabet
+	languages: maldivian
+	countries: maldives
 
 [nko]
-	diap            : 07C0:07FF
-	type            : alphabet
-	languages       : nko
-	countries       : guinea, mali
+	diap: 07C0:07FF
+	type: alphabet
+	languages: nko
+	countries: guinea, mali
 
 [samaritan]
-	diap            : 0800:083F
-	type            : alphabet
-	languages       :
-	countries       :
+	diap: 0800:083F
+	type: alphabet
+	languages: 
+	countries: 
 
 [mandaic]
-	diap            : 0840:085F
-	type            : alphabet
-	languages       : mandaic
-	countries       :
-	
+	diap: 0840:085F
+	type: alphabet
+	languages: mandaic
+	countries: 
+
 [syriac-supplement]
-    diap            : 0860:086F
-	type            :
-	languages       :
-	countries       :    
+	diap: 0860:086F
+	type: 
+	languages: 
+	countries: 
+
+[arabic-extended-b]
+	diap: 0870:089F
+	type: 
+	languages: 
+	countries: 
 
 [arabic-extended-a]
-	diap            : 08A0:08FF
-	type            : alphabet
-	languages       :
-	countries       :
+	diap: 08A0:08FF
+	type: alphabet
+	languages: 
+	countries: 
 
 [devanagari]
-	diap            : 0900:097F
-	type            : abugida
-	languages       : sanskrit, hindi
-	countries       : india, pakistan, fiji_islands, mauritius
+	diap: 0900:097F
+	type: abugida
+	languages: sanskrit, hindi
+	countries: india, pakistan, fiji_islands, mauritius
 
 [bengali]
-	diap            : 0980:09FF
-	type            : abugida
-	languages       : bengali
-	countries       : india, bangladesh, butane
+	diap: 0980:09FF
+	type: abugida
+	languages: bengali
+	countries: india, bangladesh, butane
 
 [gurmukhi]
-	diap            : 0A00:0A7F
-	type            : abugida
-	languages       : punjabi
-	countries       : india, pakistan
+	diap: 0A00:0A7F
+	type: abugida
+	languages: punjabi
+	countries: india, pakistan
 
 [gujarati]
-	diap            : 0A80:0AFF
-	type            : abugida
-	languages       :
-	countries       : india, pakistan, uganda, tanzania, kenya
+	diap: 0A80:0AFF
+	type: abugida
+	languages: 
+	countries: india, pakistan, uganda, tanzania, kenya
 
 [oriya]
-	diap            : 0B00:0B7F
-	type            : abugida
-	languages       : oriya
-	countries       : india
+	diap: 0B00:0B7F
+	type: abugida
+	languages: oriya
+	countries: india
 
 [tamil]
-	diap            : 0B80:0BFF
-	type            : abugida
-	languages       : tamil, sanskrit
-	countries       : india, sri_lanka, singapore, malaysia, kenya
+	diap: 0B80:0BFF
+	type: abugida
+	languages: tamil, sanskrit
+	countries: india, sri_lanka, singapore, malaysia, kenya
 
 [telugu]
-	diap            : 0C00:0C7F
-	type            : abugida
-	languages       : telugu
-	countries       : india
+	diap: 0C00:0C7F
+	type: abugida
+	languages: telugu
+	countries: india
 
 [kannada]
-	diap            : 0C80:0CFF
-	type            : abugida
-	languages       : dravidian
-	countries       : india, goa
+	diap: 0C80:0CFF
+	type: abugida
+	languages: dravidian
+	countries: india, goa
 
 [malayalam]
-	diap            : 0D00:0D7F
-	type            : abugida
-	languages       : dravidian
-	countries       : india, goa
+	diap: 0D00:0D7F
+	type: abugida
+	languages: dravidian
+	countries: india, goa
 
 [sinhala]
-	diap            : 0D80:0DFF
-	type            : abugida
-	languages       : sinhalese, sanskrit
-	countries       : sri_lanka, india
+	diap: 0D80:0DFF
+	type: abugida
+	languages: sinhalese, sanskrit
+	countries: sri_lanka, india
 
 [thai]
-	diap            : 0E00:0E7F
-	type            : abugida
-	languages       : thai
-	countries       : thailand, india
+	diap: 0E00:0E7F
+	type: abugida
+	languages: thai
+	countries: thailand, india
 
 [lao]
-	diap            : 0E80:0EFF
-	type            : abugida
-	languages       : laotian
-	countries       : thailand, laos
+	diap: 0E80:0EFF
+	type: abugida
+	languages: laotian
+	countries: thailand, laos
 
 [tibetan]
-	diap            : 0F00:0FFF
-	type            : abugida
-	languages       : tibetan
-	countries       : china, india, butane, nepal, pakistan
+	diap: 0F00:0FFF
+	type: abugida
+	languages: tibetan
+	countries: china, india, butane, nepal, pakistan
 
 [myanmar]
-	diap            : 1000:109F
-	type            : abugida
-	languages       : burmese
-	countries       : myanmar, thailand, bangladesh, malaysia
+	diap: 1000:109F
+	type: abugida
+	languages: burmese
+	countries: myanmar, thailand, bangladesh, malaysia
 
 [georgian]
-	diap            : 10A0:10FF
-	type            : alphabet
-	languages       : georgian, abkhazian
-	countries       : georgia, abkhazia
+	diap: 10A0:10FF
+	type: alphabet
+	languages: georgian, abkhazian
+	countries: georgia, abkhazia
 
 [hangul-jamo]
-	diap            : 1100:11FF
-	type            : abugida
-	languages       : korean
-	countries       : north_korea, south_korea, china, japan, indonesia
+	diap: 1100:11FF
+	type: abugida
+	languages: korean
+	countries: north_korea, south_korea, china, japan, indonesia
 
 [ethiopic]
-	diap            : 1200:137F
-	type            : abugida
-	languages       :
-	countries       : ethiopia, eritrea, somalia, sudan, israel
+	diap: 1200:137F
+	type: abugida
+	languages: 
+	countries: ethiopia, eritrea, somalia, sudan, israel
 
 [ethiopic-supplement]
-	diap            : 1380:139F
-	type            : abugida
-	languages       :
-	countries       :
+	diap: 1380:139F
+	type: abugida
+	languages: 
+	countries: 
 
 [cherokee]
-	diap            : 13A0:13FF
-	type            : syllabary
-	languages       : cherokee
-	countries       : usa
+	diap: 13A0:13FF
+	type: syllabary
+	languages: cherokee
+	countries: usa
 
 [unified-canadian-aboriginal-syllabics]
-	diap            : 1400:167F
-	type            : abugida
-	languages       : cree
-	countries       : canada, usa
+	diap: 1400:167F
+	type: abugida
+	languages: cree
+	countries: canada, usa
 
 [ogham]
-	diap            : 1680:169F
-	type            : alphabet
-	languages       : primitive-irish, pictish
-	countries       : scotland, ireland, wales
+	diap: 1680:169F
+	type: alphabet
+	languages: primitive-irish, pictish
+	countries: scotland, ireland, wales
 
 [runic]
-	diap            : 16A0:16FF
-	type            : alphabet
-	languages       : old-italic, runic
-	countries       :
+	diap: 16A0:16FF
+	type: alphabet
+	languages: old-italic, runic
+	countries: 
 
 [tagalog]
-	diap            : 1700:171F
-	type            : abugida
-	languages       : tagalog, runic
-	countries       : north_philippines
+	diap: 1700:171F
+	type: abugida
+	languages: tagalog, runic
+	countries: north_philippines
 
 [hanunoo]
-	diap            : 1720:173F
-	type            : abugida
-	languages       : hanunoo
-	countries       : philippines
+	diap: 1720:173F
+	type: abugida
+	languages: hanunoo
+	countries: philippines
 
 [buhid]
-	diap            : 1740:175F
-	type            : abugida
-	languages       : buhid
-	countries       : philippines
+	diap: 1740:175F
+	type: abugida
+	languages: buhid
+	countries: philippines
 
 [tagbanwa]
-	diap            : 1760:177F
-	type            : abugida
-	languages       :
-	countries       : philippines
+	diap: 1760:177F
+	type: abugida
+	languages: 
+	countries: philippines
 
 [khmer]
-	diap            : 1780:17FF
-	type            : abugida
-	languages       : khmer
-	countries       : cambodia, vietnam, thailand, laos, china
+	diap: 1780:17FF
+	type: abugida
+	languages: khmer
+	countries: cambodia, vietnam, thailand, laos, china
 
 [mongolian]
-	diap            : 1800:18AF
-	type            : alphabet
-	languages       : mongolian
-	countries       : china, mongolia, afghanistan
+	diap: 1800:18AF
+	type: alphabet
+	languages: mongolian
+	countries: china, mongolia, afghanistan
 
 [unified-canadian-aboriginal-syllabics-extended]
-	diap            : 18B0:18FF
-	type            : abugida
-	languages       : cree
-	countries       : canada, usa
+	diap: 18B0:18FF
+	type: abugida
+	languages: cree
+	countries: canada, usa
 
 [limbu]
-	diap            : 1900:194F
-	type            : abugida
-	languages       : limbu
-	countries       : nepal, india, kashmir, pakistan
+	diap: 1900:194F
+	type: abugida
+	languages: limbu
+	countries: nepal, india, kashmir, pakistan
 
 [tai-le]
-	diap            : 1950:197F
-	type            : abugida
-	languages       :
-	countries       : vietnam, laos, myanmar, thailand
+	diap: 1950:197F
+	type: abugida
+	languages: 
+	countries: vietnam, laos, myanmar, thailand
 
 [new-tai-lue]
-	diap            : 1980:19DF
-	type            : alphabet
-	languages       :
-	countries       : vietnam, laos, myanmar, thailand
+	diap: 1980:19DF
+	type: alphabet
+	languages: 
+	countries: vietnam, laos, myanmar, thailand
 
 [khmer-symbols]
-	diap            : 19E0:19FF
-	type            :
-	languages       :
-	countries       :
+	diap: 19E0:19FF
+	type: 
+	languages: 
+	countries: 
 
 [buginese]
-	diap            : 1A00:1A1F
-	type            : abugida
-	languages       : buginese, makassarese, mandar
-	countries       : indonesia
+	diap: 1A00:1A1F
+	type: abugida
+	languages: buginese, makassarese, mandar
+	countries: indonesia
 
 [tai-tham]
-	diap            : 1A20:1AAF
-	type            : abugida
-	languages       :
-	countries       : thailand, burma, laos, cambodia, china, vietnam
+	diap: 1A20:1AAF
+	type: abugida
+	languages: 
+	countries: thailand, burma, laos, cambodia, china, vietnam
 
 [combining-diacritical-marks-extended]
-    diap            : 1AB0:1AFF
-    type            :
-    languages       :
-    countries       :
+	diap: 1AB0:1AFF
+	type: 
+	languages: 
+	countries: 
 
 [balinese]
-	diap            : 1B00:1B7F
-	type            : abugida
-	languages       : balinese, sasak
-	countries       : bali, lombok, indonesia
+	diap: 1B00:1B7F
+	type: abugida
+	languages: balinese, sasak
+	countries: bali, lombok, indonesia
 
 [sundanese]
-	diap            : 1B80:1BBF
-	type            : abugida
-	languages       : sundanese
-	countries       : indonesia, jakarta
+	diap: 1B80:1BBF
+	type: abugida
+	languages: sundanese
+	countries: indonesia, jakarta
 
 [batak]
-	diap            : 1BC0:1BFF
-	type            : abugida
-	languages       : batak
-	countries       : indonesia
+	diap: 1BC0:1BFF
+	type: abugida
+	languages: batak
+	countries: indonesia
 
 [lepcha]
-	diap            : 1C00:1C4F
-	type            : abugida
-	languages       : lepcha
-	countries       : india, butane, nepal
+	diap: 1C00:1C4F
+	type: abugida
+	languages: lepcha
+	countries: india, butane, nepal
 
 [ol-chiki]
-	diap            : 1C50:1C7F
-	type            : alphabet
-	languages       : santali
-	countries       : india, butane, nepal, bangladesh
+	diap: 1C50:1C7F
+	type: alphabet
+	languages: santali
+	countries: india, butane, nepal, bangladesh
 
 [cyrillic-extended-c]
-    diap            : 1C80:1C8F
-    type            : alphabet
+	diap: 1C80:1C8F
+	type: alphabet
+	languages: 
+	countries: 
+
+[georgian-extended]
+	diap: 1C90:1CBF
+	type: 
+	languages: 
+	countries: 
 
 [sundanese-supplement]
-	diap            : 1CC0:1CCF
-	type            : abugida
-	languages       : sundanese
-	countries       :
+	diap: 1CC0:1CCF
+	type: abugida
+	languages: sundanese
+	countries: 
 
 [vedic-extensions]
-	diap            : 1CD0:1CFF
-	type            :
-	languages       :
-	countries       :
+	diap: 1CD0:1CFF
+	type: 
+	languages: 
+	countries: 
 
 [phonetic-extensions]
-	diap            : 1D00:1D7F
-	type            :
-	languages       :
-	countries       :
+	diap: 1D00:1D7F
+	type: 
+	languages: 
+	countries: 
 
 [phonetic-extensions-supplement]
-	diap            : 1D80:1DBF
-	type            :
-	languages       :
-	countries       :
+	diap: 1D80:1DBF
+	type: 
+	languages: 
+	countries: 
 
 [combining-diacritical-marks-supplement]
-	diap            : 1DC0:1DFF
-	type            :
-	languages       :
-	countries       :
+	diap: 1DC0:1DFF
+	type: 
+	languages: 
+	countries: 
 
 [latin-extended-additional]
-	diap            : 1E00:1EFF
-	type            :
-	languages       :
-	countries       : england, usa, germany, france, italy, poland
+	diap: 1E00:1EFF
+	type: 
+	languages: 
+	countries: england, usa, germany, france, italy, poland
 
 [greek-extended]
-	diap            : 1F00:1FFF
-	type            :
-	languages       :
-	countries       : greece
+	diap: 1F00:1FFF
+	type: 
+	languages: 
+	countries: greece
 
 [general-punctuation]
-	diap            : 2000:206F
-	type            :
-	languages       :
-	countries       :
+	diap: 2000:206F
+	type: 
+	languages: 
+	countries: 
 
 [superscripts-and-subscripts]
-	diap            : 2070:209F
-	type            :
-	languages       :
-	countries       :
+	diap: 2070:209F
+	type: 
+	languages: 
+	countries: 
 
 [currency-symbols]
-	diap            : 20A0:20CF
-	type            :
-	languages       :
-	countries       :
+	diap: 20A0:20CF
+	type: 
+	languages: 
+	countries: 
 
 [combining-diacritical-marks-for-symbols]
-	diap            : 20D0:20FF
-	type            :
-	languages       :
-	countries       :
+	diap: 20D0:20FF
+	type: 
+	languages: 
+	countries: 
 
 [letterlike-symbols]
-	diap            : 2100:214F
-	type            :
-	languages       :
-	countries       :
+	diap: 2100:214F
+	type: 
+	languages: 
+	countries: 
 
 [number-forms]
-	diap            : 2150:218F
-	type            :
-	languages       :
-	countries       :
+	diap: 2150:218F
+	type: 
+	languages: 
+	countries: 
 
 [arrows]
-	diap            : 2190:21FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2190:21FF
+	type: 
+	languages: 
+	countries: 
 
 [mathematical-operators]
-	diap            : 2200:22FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2200:22FF
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-technical]
-	diap            : 2300:23FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2300:23FF
+	type: 
+	languages: 
+	countries: 
 
 [control-pictures]
-	diap            : 2400:243F
-	type            :
-	languages       :
-	countries       :
+	diap: 2400:243F
+	type: 
+	languages: 
+	countries: 
 
 [optical-character-recognition]
-	diap            : 2440:245F
-	type            :
-	languages       :
-	countries       :
+	diap: 2440:245F
+	type: 
+	languages: 
+	countries: 
 
 [enclosed-alphanumerics]
-	diap            : 2460:24FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2460:24FF
+	type: 
+	languages: 
+	countries: 
 
 [box-drawing]
-	diap            : 2500:257F
-	type            :
-	languages       :
-	countries       :
+	diap: 2500:257F
+	type: 
+	languages: 
+	countries: 
 
 [block-elements]
-	diap            : 2580:259F
-	type            :
-	languages       :
-	countries       :
+	diap: 2580:259F
+	type: 
+	languages: 
+	countries: 
 
 [geometric-shapes]
-	diap            : 25A0:25FF
-	type            :
-	languages       :
-	countries       :
+	diap: 25A0:25FF
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-symbols]
-	diap            : 2600:26FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2600:26FF
+	type: 
+	languages: 
+	countries: 
 
 [dingbats]
-	diap            : 2700:27BF
-	type            :
-	languages       :
-	countries       :
+	diap: 2700:27BF
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-mathematical-symbols-a]
-	diap            : 27C0:27EF
-	type            :
-	languages       :
-	countries       :
+	diap: 27C0:27EF
+	type: 
+	languages: 
+	countries: 
 
-[suplemental-arrows-a]
-	diap            : 27F0:27FF
-	type            :
-	languages       :
-	countries       :
+[supplemental-arrows-a]
+	diap: 27F0:27FF
+	type: 
+	languages: 
+	countries: 
 
 [braille-patterns]
-	diap            : 2800:28FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2800:28FF
+	type: 
+	languages: 
+	countries: 
 
-[suplemental-arrows-b]
-	diap            : 2900:297F
-	type            :
-	languages       :
-	countries       :
+[supplemental-arrows-b]
+	diap: 2900:297F
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-mathematical-symbols-b]
-	diap            : 2980:29FF
-	type            :
-	languages       :
-	countries       :
+	diap: 2980:29FF
+	type: 
+	languages: 
+	countries: 
 
 [supplemental-mathematical-operators]
-	diap            : 2A00:2AFF
-	type            :
-	languages       :
-	countries       :
+	diap: 2A00:2AFF
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-symbols-and-arrows]
-	diap            : 2B00:2BFF
-	type            :
-	languages       :
-	countries       :
+	diap: 2B00:2BFF
+	type: 
+	languages: 
+	countries: 
 
 [glagolitic]
-	diap            : 2C00:2C5F
-	type            : alphabet
-	languages       : old-church-slavic
-	countries       : russia, ukraine, poland, bulgaria, bosnia, herzegovina, croatia, montenegro, macedonia
+	diap: 2C00:2C5F
+	type: alphabet
+	languages: old-church-slavic
+	countries: russia, ukraine, poland, bulgaria, bosnia, herzegovina, croatia, montenegro, macedonia
 
 [latin-extended-c]
-	diap            : 2C60:2C7F
-	type            : alphabet
-	languages       :
-	countries       : china, kazakhstan
+	diap: 2C60:2C7F
+	type: alphabet
+	languages: 
+	countries: china, kazakhstan
 
 [coptic]
-	diap            : 2C80:2CFF
-	type            : alphabet
-	languages       : coptic
-	countries       : egypt, canada, australia, usa
+	diap: 2C80:2CFF
+	type: alphabet
+	languages: coptic
+	countries: egypt, canada, australia, usa
 
 [georgian-supplement]
-	diap            : 2D00:2D2F
-	type            : alphabet
-	languages       : georgian
-	countries       : georgia, abkhazia
+	diap: 2D00:2D2F
+	type: alphabet
+	languages: georgian
+	countries: georgia, abkhazia
 
 [tifinagh]
-	diap            : 2D30:2D7F
-	type            : abjad
-	languages       : tuareg
-	countries       : north_africa
+	diap: 2D30:2D7F
+	type: abjad
+	languages: tuareg
+	countries: north_africa
 
 [ethiopic-extended]
-	diap            : 2D80:2DDF
-	type            : abugida
-	languages       : amharic, tigtinya
-	countries       : ethiopia, eritrea, somalia, sudan, israel
+	diap: 2D80:2DDF
+	type: abugida
+	languages: amharic, tigtinya
+	countries: ethiopia, eritrea, somalia, sudan, israel
 
 [cyrillic-extended]
-	diap            : 2DE0:2DFF
-	type            : alphabet
-	languages       : russian, ukrainian
-	countries       : russia, ukraine, bulgaria, serbia, macedonia, moldova
+	diap: 2DE0:2DFF
+	type: alphabet
+	languages: russian, ukrainian
+	countries: russia, ukraine, bulgaria, serbia, macedonia, moldova
 
 [supplemental-punctuation]
-	diap            : 2E00:2E7F
-	type            :
-	languages       :
-	countries       :
+	diap: 2E00:2E7F
+	type: 
+	languages: 
+	countries: 
 
 [cjk-radicals-supplement]
-	diap            : 2E80:2EFF
-	type            :
-	languages       : chinese, japanese, vietnamese, korean
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 2E80:2EFF
+	type: 
+	languages: chinese, japanese, vietnamese, korean
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [kangxi-radicals]
-	diap            : 2F00:2FDF
-	type            :
-	languages       :
-	countries       : china
+	diap: 2F00:2FDF
+	type: 
+	languages: 
+	countries: china
 
 [ideographic-description-characters]
-	diap            : 2FF0:2FFF
-	type            :
-	languages       :
-	countries       :
+	diap: 2FF0:2FFF
+	type: 
+	languages: 
+	countries: 
 
 [cjk-symbols-and-punctuation]
-	diap            : 3000:303F
-	type            :
-	languages       :
-	countries       :
+	diap: 3000:303F
+	type: 
+	languages: 
+	countries: 
 
 [hiragana]
-	diap            : 3040:309F
-	type            : syllabary
-	languages       : japanese, okinawan
-	countries       : peru, north_korea, japan, guam, taiwan, south_korea
+	diap: 3040:309F
+	type: syllabary
+	languages: japanese, okinawan
+	countries: peru, north_korea, japan, guam, taiwan, south_korea
 
 [katakana]
-	diap            : 30A0:30FF
-	type            : syllabary
-	languages       : japanese, okinawan, ainu, palaun
-	countries       : peru, north_korea, japan, guam, taiwan, south_korea
+	diap: 30A0:30FF
+	type: syllabary
+	languages: japanese, okinawan, ainu, palaun
+	countries: peru, north_korea, japan, guam, taiwan, south_korea
 
 [bopomofo]
-	diap            : 3100:312F
-	type            : syllabary
-	languages       : chinese
-	countries       : taiwan
+	diap: 3100:312F
+	type: syllabary
+	languages: chinese
+	countries: taiwan
 
 [hangul-compatibility-jamo]
-	diap            : 3130:318F
-	type            : syllabary
-	languages       : chinese
-	countries       : north_korea, south_korea, china, japan
+	diap: 3130:318F
+	type: syllabary
+	languages: chinese
+	countries: north_korea, south_korea, china, japan
 
 [kanbun]
-	diap            : 3190:319F
-	type            : syllabary
-	languages       :
-	countries       : china
+	diap: 3190:319F
+	type: syllabary
+	languages: 
+	countries: china
 
 [bopomofo-extended]
-	diap            : 31A0:31BF
-	type            : syllabary
-	languages       :
-	countries       : taiwan
+	diap: 31A0:31BF
+	type: syllabary
+	languages: 
+	countries: taiwan
 
 [cjk-strokes]
-	diap            : 31C0:31EF
-	type            : syllabary
-	languages       : chinese
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 31C0:31EF
+	type: syllabary
+	languages: chinese
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [katakana-phonetic-extensions]
-	diap            : 31F0:31FF
-	type            : syllabary
-	languages       : japanese, okinawan, ainu, palauan
-	countries       : peru, north_korea, japan, guam, taiwan, south_korea
+	diap: 31F0:31FF
+	type: syllabary
+	languages: japanese, okinawan, ainu, palauan
+	countries: peru, north_korea, japan, guam, taiwan, south_korea
 
 [enclosed-cjk-letters-and-months]
-	diap            : 3200:32FF
-	type            : syllabary
-	languages       : chinese
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 3200:32FF
+	type: syllabary
+	languages: chinese
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [cjk-compatibility]
-	diap            : 3300:33FF
-	type            : syllabary
-	languages       : chinese, japanese, korean, vietnamese
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 3300:33FF
+	type: syllabary
+	languages: chinese, japanese, korean, vietnamese
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [cjk-unified-ideographs-extension-a]
-	diap            : 3400:4DBF
-	type            : syllabary
-	languages       : chinese, japanese, korean, vietnamese
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 3400:4DBF
+	type: syllabary
+	languages: chinese, japanese, korean, vietnamese
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [yijing-hexagram-symbols]
-	diap            : 4DC0:4DFF
-	type            : syllabary
-	languages       :
-	countries       : china
+	diap: 4DC0:4DFF
+	type: syllabary
+	languages: 
+	countries: china
 
 [cjk-unified-ideographs]
-	diap            : 4E00:9FFF
-	type            : syllabary
-	languages       : chinese, japanese, korean, vietnamese
-	countries       : peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
+	diap: 4E00:9FFF
+	type: syllabary
+	languages: chinese, japanese, korean, vietnamese
+	countries: peru, laos, north_korea, china, cambodia, japan, guam, taiwan, south_korea, vietnam, somalia, sudan, israel, singapore, philippines, malaysia, indonesia, thailand
 
 [yi-syllables]
-	diap            : A000:A48F
-	type            : syllabary
-	languages       : yi
-	countries       : china
+	diap: A000:A48F
+	type: syllabary
+	languages: yi
+	countries: china
 
 [yi-radicals]
-	diap            : A490:A4CF
-	type            : syllabary
-	languages       : yi
-	countries       : china
+	diap: A490:A4CF
+	type: syllabary
+	languages: yi
+	countries: china
 
 [lisu]
-    diap            : A4D0:A4FF
-    type            :
-    languages       :
-    countries       :
+	diap: A4D0:A4FF
+	type: 
+	languages: 
+	countries: 
 
 [old-lisu-alphabet]
-	diap            : A500:A63F
-	type            : syllabary
-	languages       : vai
-	countries       : liberia, sierra_leone
+	diap: A500:A63F
+	type: syllabary
+	languages: vai
+	countries: liberia, sierra_leone
 
 [ciryllic-extended-B]
-	diap            : A640:A69F
-	type            : alphabet
-	languages       :
-	countries       : russia, ukraine, bulgaria, serbia, macedonia, moldova
+	diap: A640:A69F
+	type: alphabet
+	languages: 
+	countries: russia, ukraine, bulgaria, serbia, macedonia, moldova
 
 [bamum]
-	diap            : A6A0:A6FF
-	type            : semisyllabary
-	languages       : bamum
-	countries       : cameroon, nigeria
+	diap: A6A0:A6FF
+	type: semisyllabary
+	languages: bamum
+	countries: cameroon, nigeria
 
 [modifier-tone-letters]
-	diap            : A700:A71F
-	type            :
-	languages       :
-	countries       :
+	diap: A700:A71F
+	type: 
+	languages: 
+	countries: 
 
 [latin-extended-d]
-	diap            : A720:A7FF
-	type            : alphabet
-	languages       :
-	countries       : finland, estland, hungary, salvador
+	diap: A720:A7FF
+	type: alphabet
+	languages: 
+	countries: finland, estland, hungary, salvador
 
 [syloty-nagri]
-	diap            : A800:A82F
-	type            : abugida
-	languages       : sylheti, bengali
-	countries       : bangladesh, india
+	diap: A800:A82F
+	type: abugida
+	languages: sylheti, bengali
+	countries: bangladesh, india
 
 [indian-numeric-character]
-	diap            : A830:A83F
-	type            :
-	languages       :
-	countries       :
+	diap: A830:A83F
+	type: 
+	languages: 
+	countries: 
 
 [phags-pa]
-	diap            : A840:A87F
-	type            : abugida
-	languages       : mongolian, sanskrit, tibetan, chinese, uyghur
-	countries       : mongolia, india, china, tibet, kazakhstan
+	diap: A840:A87F
+	type: abugida
+	languages: mongolian, sanskrit, tibetan, chinese, uyghur
+	countries: mongolia, india, china, tibet, kazakhstan
 
 [saurashtra]
-	diap            : A880:A8DF
-	type            : alphabet
-	languages       : saurashtra
-	countries       : mongolia
+	diap: A880:A8DF
+	type: alphabet
+	languages: saurashtra
+	countries: mongolia
 
 [devanagari-extended-characters]
-	diap            : A8E0:A8FF
-	type            : abugida
-	languages       : marathi, indian, sanskrit, hindi
-	countries       : india, pakistan, fiji_islands, mauritius
+	diap: A8E0:A8FF
+	type: abugida
+	languages: marathi, indian, sanskrit, hindi
+	countries: india, pakistan, fiji_islands, mauritius
 
 [kayah-li]
-	diap            : A900:A92F
-	type            : abugida
-	languages       : kayah
-	countries       : burma, thailand
+	diap: A900:A92F
+	type: abugida
+	languages: kayah
+	countries: burma, thailand
 
 [rejang]
-	diap            : A930:A95F
-	type            : abugida
-	languages       : rejang
-	countries       : sumatra, indonesia
+	diap: A930:A95F
+	type: abugida
+	languages: rejang
+	countries: sumatra, indonesia
 
 [hangul]
-	diap            : A960:A97F
-	type            : alphabet
-	languages       : korean
-	countries       : north_korea, south_korea, china, japan, indonesia
+	diap: A960:A97F
+	type: alphabet
+	languages: korean
+	countries: north_korea, south_korea, china, japan, indonesia
 
 [javanese-alphabet]
-	diap            : A980:A9DF
-	type            : abugida
-	languages       : javanese, sundanese
-	countries       : indonesia
+	diap: A980:A9DF
+	type: abugida
+	languages: javanese, sundanese
+	countries: indonesia
 
 [myanmar-extended-b]
-    diap            : A9E0:A9FF
-    type            :
-    languages       :
-    countries       :
+	diap: A9E0:A9FF
+	type: 
+	languages: 
+	countries: 
 
 [cham-alphabet]
-	diap            : AA00:AA5F
-	type            : abugida
-	languages       : cham
-	countries       : cambodia, vietnam, thailand, china
+	diap: AA00:AA5F
+	type: abugida
+	languages: cham
+	countries: cambodia, vietnam, thailand, china
 
 [burmese-alphabet-extention-a]
-	diap            : AA60:AA7F
-	type            : abugida
-	languages       :
-	countries       : myanmar, thailand, bangladesh, malaysia
+	diap: AA60:AA7F
+	type: abugida
+	languages: 
+	countries: myanmar, thailand, bangladesh, malaysia
 
 [tai-viet-alphabet]
-	diap            : AA80:AADF
-	type            : abugida
-	languages       :
-	countries       : vietnam, thailand, laos, china
+	diap: AA80:AADF
+	type: abugida
+	languages: 
+	countries: vietnam, thailand, laos, china
 
 [meitei-language-extensions]
-	diap            : AAE0:AAFF
-	type            : abugida
-	languages       :
-	countries       : vietnam, thailand, laos, china
+	diap: AAE0:AAFF
+	type: abugida
+	languages: 
+	countries: vietnam, thailand, laos, china
 
 [ethiopic-extended-a]
-	diap            : AB00:AB2F
-	type            : abugida
-	languages       : ethiopian-semitic
-	countries       : ethiopia, sudan, eritrea, somalia, israel
+	diap: AB00:AB2F
+	type: abugida
+	languages: ethiopian-semitic
+	countries: ethiopia, sudan, eritrea, somalia, israel
 
 [latin-extended-e]
-    diap            : AB30:AB6F
-    type            :
-    languages       :
-    countries       :
+	diap: AB30:AB6F
+	type: 
+	languages: 
+	countries: 
 
 [cherokee-supplement]
-    diap            : AB70:ABBF
-    type            :
-    languages       :
-    countries       :
+	diap: AB70:ABBF
+	type: 
+	languages: 
+	countries: 
 
 [meitei-language]
-	diap            : ABC0:ABFF
-	type            :
-	languages       :
-	countries       : india, bangladesh, burma
+	diap: ABC0:ABFF
+	type: 
+	languages: 
+	countries: india, bangladesh, burma
 
 [hangul-syllables]
-	diap            : AC00:D7AF
-	type            : alphabet
-	languages       : korean, cia-cia
-	countries       : north_korea, south_korea, china, japan, indonesia
+	diap: AC00:D7AF
+	type: alphabet
+	languages: korean, cia-cia
+	countries: north_korea, south_korea, china, japan, indonesia
 
 [hangul-jamo-extended-b]
-    diap            : D7B0:D7FF
-    type            :
-    languages       :
-    countries       :
+	diap: D7B0:D7FF
+	type: 
+	languages: 
+	countries: 
 
 [high-surrogates]
-	diap            : D800:DB7F
-	type            :
-	languages       :
-	countries       :
+	diap: D800:DB7F
+	type: 
+	languages: 
+	countries: 
 
 [high-private-use-surrogates]
-	diap            : DB80:DBFF
-	type            :
-	languages       :
-	countries       :
+	diap: DB80:DBFF
+	type: 
+	languages: 
+	countries: 
 
 [low-surrogates]
-	diap            : DC00:DFFF
-	type            :
-	languages       :
-	countries       :
+	diap: DC00:DFFF
+	type: 
+	languages: 
+	countries: 
 
 [private-use-area]
-	diap            : E000:F8FF
-	type            :
-	languages       :
-	countries       :
+	diap: E000:F8FF
+	type: 
+	languages: 
+	countries: 
 
 [cjk-compatibility-ideographs]
-	diap            : F900:FAFF
-	type            :
-	languages       :
-	countries       :
+	diap: F900:FAFF
+	type: 
+	languages: 
+	countries: 
 
 [alphabetic-presentation-forms]
-	diap            : FB00:FB4F
-	type            :
-	languages       :
-	countries       :
+	diap: FB00:FB4F
+	type: 
+	languages: 
+	countries: 
 
 [arabic-presentation-forms-a]
-	diap            : FB50:FDFF
-	type            :
-	languages       :
-	countries       :
+	diap: FB50:FDFF
+	type: 
+	languages: 
+	countries: 
 
 [variation-selectors]
-	diap            : FE00:FE0F
-	type            :
-	languages       :
-	countries       :
+	diap: FE00:FE0F
+	type: 
+	languages: 
+	countries: 
 
 [vertical-forms]
-	diap            : FE10:FE1F
-	type            :
-	languages       :
-	countries       :
+	diap: FE10:FE1F
+	type: 
+	languages: 
+	countries: 
 
 [combining-half-marks]
-	diap            : FE20:FE2F
-	type            :
-	languages       :
-	countries       :
+	diap: FE20:FE2F
+	type: 
+	languages: 
+	countries: 
 
 [cjk-compatibility-forms]
-	diap            : FE30:FE4F
-	type            :
-	languages       :
-	countries       :
+	diap: FE30:FE4F
+	type: 
+	languages: 
+	countries: 
 
 [small-form-variants]
-	diap            : FE50:FE6F
-	type            :
-	languages       :
-	countries       :
+	diap: FE50:FE6F
+	type: 
+	languages: 
+	countries: 
 
 [arabic-presentation-forms-b]
-	diap            : FE70:FEFF
-	type            :
-	languages       :
-	countries       :
+	diap: FE70:FEFF
+	type: 
+	languages: 
+	countries: 
 
 [halfwidth-and-fullwidth-forms]
-	diap            : FF00:FFEF
-	type            :
-	languages       :
-	countries       :
+	diap: FF00:FFEF
+	type: 
+	languages: 
+	countries: 
 
 [specials]
-	diap            : FFF0:FFFF
-	type            :
-	languages       :
-	countries       :
+	diap: FFF0:FFFF
+	type: 
+	languages: 
+	countries: 
 
 [linear-b-syllabary]
-    diap            : 10000:1007F
-    type            :
-    languages       :
-    countries       :
+	diap: 10000:1007F
+	type: 
+	languages: 
+	countries: 
 
 [linear-b-ideograms]
-    diap            : 10080:100FF
-    type            :
-    languages       :
-    countries       :
+	diap: 10080:100FF
+	type: 
+	languages: 
+	countries: 
 
 [aegean-numbers]
-    diap            : 10100:1013F
-    type            :
-    languages       :
-    countries       :
+	diap: 10100:1013F
+	type: 
+	languages: 
+	countries: 
 
 [ancient-greek-numbers]
-    diap            : 10140:1018F
-    type            :
-    languages       :
-    countries       :
+	diap: 10140:1018F
+	type: 
+	languages: 
+	countries: 
 
 [ancient-symbols]
-    diap            : 10190:101CF
-    type            :
-    languages       :
-    countries       :
+	diap: 10190:101CF
+	type: 
+	languages: 
+	countries: 
 
 [phaistos-disc]
-    diap            : 101D0:101FF
-    type            :
-    languages       :
-    countries       :
+	diap: 101D0:101FF
+	type: 
+	languages: 
+	countries: 
 
 [lycian]
-    diap            : 10280:1029F
-    type            :
-    languages       :
-    countries       :
+	diap: 10280:1029F
+	type: 
+	languages: 
+	countries: 
 
 [carian]
-    diap            : 102A0:102DF
-    type            :
-    languages       :
-    countries       :
+	diap: 102A0:102DF
+	type: 
+	languages: 
+	countries: 
 
 [coptic-epact-numbers]
-    diap            : 102E0:102FF
-    type            :
-    languages       :
-    countries       :
+	diap: 102E0:102FF
+	type: 
+	languages: 
+	countries: 
 
 [old-italic]
-    diap            : 10300:1032F
-    type            :
-    languages       :
-    countries       :
+	diap: 10300:1032F
+	type: 
+	languages: 
+	countries: 
 
 [gothic]
-    diap            : 10330:1034F
-    type            :
-    languages       :
-    countries       :
+	diap: 10330:1034F
+	type: 
+	languages: 
+	countries: 
 
 [old-permic]
-    diap            : 10350:1037F
-    type            :
-    languages       :
-    countries       :
+	diap: 10350:1037F
+	type: 
+	languages: 
+	countries: 
 
 [ugaritic]
-    diap            : 10380:1039F
-    type            :
-    languages       :
-    countries       :
+	diap: 10380:1039F
+	type: 
+	languages: 
+	countries: 
 
 [old-persian]
-    diap            : 103A0:103DF
-    type            :
-    languages       :
-    countries       :
+	diap: 103A0:103DF
+	type: 
+	languages: 
+	countries: 
 
 [deseret]
-    diap            : 10400:1044F
-    type            :
-    languages       :
-    countries       :
+	diap: 10400:1044F
+	type: 
+	languages: 
+	countries: 
 
 [shavian]
-    diap            : 10450:1047F
-    type            :
-    languages       :
-    countries       :
+	diap: 10450:1047F
+	type: 
+	languages: 
+	countries: 
 
 [osmanya]
-    diap            : 10480:104AF
-    type            :
-    languages       :
-    countries       :
+	diap: 10480:104AF
+	type: 
+	languages: 
+	countries: 
 
 [osage]
-    diap            : 104B0:104FF
+	diap: 104B0:104FF
+	type: 
+	languages: 
+	countries: 
 
 [elbasan]
-    diap            : 10500:1052F
-    type            :
-    languages       :
-    countries       :
+	diap: 10500:1052F
+	type: 
+	languages: 
+	countries: 
 
 [caucasian-albanian]
-    diap            : 10530:1056F
-    type            :
-    languages       :
-    countries       :
+	diap: 10530:1056F
+	type: 
+	languages: 
+	countries: 
+
+[vithkuqi]
+	diap: 10570:105BF
+	type: 
+	languages: 
+	countries: 
 
 [linear-a]
-    diap            : 10600:1077F
-    type            :
-    languages       :
-    countries       :
+	diap: 10600:1077F
+	type: 
+	languages: 
+	countries: 
+
+[latin-extended-f]
+	diap: 10780:107BF
+	type: 
+	languages: 
+	countries: 
 
 [cypriot-syllabary]
-    diap            : 10800:1083F
-    type            :
-    languages       :
-    countries       :
+	diap: 10800:1083F
+	type: 
+	languages: 
+	countries: 
 
 [imperial-aramaic]
-    diap            : 10840:1085F
-    type            :
-    languages       :
-    countries       :
+	diap: 10840:1085F
+	type: 
+	languages: 
+	countries: 
 
 [palmyrene]
-    diap            : 10860:1087F
-    type            :
-    languages       :
-    countries       :
+	diap: 10860:1087F
+	type: 
+	languages: 
+	countries: 
 
 [nabataean]
-    diap            : 10880:108AF
-    type            :
-    languages       :
-    countries       :
+	diap: 10880:108AF
+	type: 
+	languages: 
+	countries: 
 
 [hatran]
-    diap            : 108E0:108FF
-    type            :
-    languages       :
-    countries       :
+	diap: 108E0:108FF
+	type: 
+	languages: 
+	countries: 
 
 [phoenician]
-    diap            : 10900:1091F
-    type            :
-    languages       :
-    countries       :
+	diap: 10900:1091F
+	type: 
+	languages: 
+	countries: 
 
 [lydian]
-    diap            : 10920:1093F
-    type            :
-    languages       :
-    countries       :
+	diap: 10920:1093F
+	type: 
+	languages: 
+	countries: 
 
 [meroitic-hieroglyphs]
-    diap            : 10980:1099F
-    type            :
-    languages       :
-    countries       :
+	diap: 10980:1099F
+	type: 
+	languages: 
+	countries: 
 
 [meroitic-cursive]
-    diap            : 109A0:109FF
-    type            :
-    languages       :
-    countries       :
+	diap: 109A0:109FF
+	type: 
+	languages: 
+	countries: 
 
 [kharoshthi]
-    diap            : 10A00:10A5F
-    type            :
-    languages       :
-    countries       :
+	diap: 10A00:10A5F
+	type: 
+	languages: 
+	countries: 
 
 [old-south-arabian]
-    diap            : 10A60:10A7F
-    type            :
-    languages       :
-    countries       :
+	diap: 10A60:10A7F
+	type: 
+	languages: 
+	countries: 
 
 [old-north-arabian]
-    diap            : 10A80:10A9F
-    type            :
-    languages       :
-    countries       :
+	diap: 10A80:10A9F
+	type: 
+	languages: 
+	countries: 
 
 [manichaean]
-    diap            : 10AC0:10AFF
-    type            :
-    languages       :
-    countries       :
+	diap: 10AC0:10AFF
+	type: 
+	languages: 
+	countries: 
 
 [avestan]
-    diap            : 10B00:10B3F
-    type            :
-    languages       :
-    countries       :
+	diap: 10B00:10B3F
+	type: 
+	languages: 
+	countries: 
 
 [inscriptional-parthian]
-    diap            : 10B40:10B5F
-    type            :
-    languages       :
-    countries       :
+	diap: 10B40:10B5F
+	type: 
+	languages: 
+	countries: 
 
 [inscriptional-pahlavi]
-    diap            : 10B60:10B7F
-    type            :
-    languages       :
-    countries       :
+	diap: 10B60:10B7F
+	type: 
+	languages: 
+	countries: 
 
 [psalter-pahlavi]
-    diap            : 10B80:10BAF
-    type            :
-    languages       :
-    countries       :
+	diap: 10B80:10BAF
+	type: 
+	languages: 
+	countries: 
 
 [old-turkic]
-    diap            : 10C00:10C4F
-    type            :
-    languages       :
-    countries       :
+	diap: 10C00:10C4F
+	type: 
+	languages: 
+	countries: 
 
 [old-hungarian]
-    diap            : 10C80:10CFF
-    type            :
-    languages       :
-    countries       :
+	diap: 10C80:10CFF
+	type: 
+	languages: 
+	countries: 
+
+[hanifi-rohingya]
+	diap: 10D00:10D3F
+	type: 
+	languages: 
+	countries: 
 
 [rumi-numeral-symbols]
-    diap            : 10E60:10E7F
-    type            :
-    languages       :
-    countries       :
+	diap: 10E60:10E7F
+	type: 
+	languages: 
+	countries: 
+
+[yezidi]
+	diap: 10E80:10EBF
+	type: 
+	languages: 
+	countries: 
+
+[arabic-extended-c]
+	diap: 10EC0:10EFF
+	type: 
+	languages: 
+	countries: 
+
+[old-sogdian]
+	diap: 10F00:10F2F
+	type: 
+	languages: 
+	countries: 
+
+[sogdian]
+	diap: 10F30:10F6F
+	type: 
+	languages: 
+	countries: 
+
+[old-uyghur]
+	diap: 10F70:10FAF
+	type: 
+	languages: 
+	countries: 
+
+[chorasmian]
+	diap: 10FB0:10FDF
+	type: 
+	languages: 
+	countries: 
+
+[elymaic]
+	diap: 10FE0:10FFF
+	type: 
+	languages: 
+	countries: 
 
 [brahmi]
-    diap            : 11000:1107F
-    type            :
-    languages       :
-    countries       :
+	diap: 11000:1107F
+	type: 
+	languages: 
+	countries: 
 
 [kaithi]
-    diap            : 11080:110CF
-    type            :
-    languages       :
-    countries       :
+	diap: 11080:110CF
+	type: 
+	languages: 
+	countries: 
 
 [sora-sompeng]
-    diap            : 110D0:110FF
-    type            :
-    languages       :
-    countries       :
+	diap: 110D0:110FF
+	type: 
+	languages: 
+	countries: 
 
 [chakma]
-    diap            : 11100:1114F
-    type            :
-    languages       :
-    countries       :
+	diap: 11100:1114F
+	type: 
+	languages: 
+	countries: 
 
 [mahajani]
-    diap            : 11150:1117F
-    type            :
-    languages       :
-    countries       :
+	diap: 11150:1117F
+	type: 
+	languages: 
+	countries: 
 
 [sharada]
-    diap            : 11180:111DF
-    type            :
-    languages       :
-    countries       :
+	diap: 11180:111DF
+	type: 
+	languages: 
+	countries: 
 
 [sinhala-archaic-numbers]
-    diap            : 111E0:111FF
-    type            :
-    languages       :
-    countries       :
+	diap: 111E0:111FF
+	type: 
+	languages: 
+	countries: 
 
 [khojki]
-    diap            : 11200:1124F
-    type            :
-    languages       :
-    countries       :
+	diap: 11200:1124F
+	type: 
+	languages: 
+	countries: 
 
 [multani]
-    diap            : 11280:112AF
-    type            :
-    languages       :
-    countries       :
+	diap: 11280:112AF
+	type: 
+	languages: 
+	countries: 
 
 [khudawadi]
-    diap            : 112B0:112FF
-    type            :
-    languages       :
-    countries       :
+	diap: 112B0:112FF
+	type: 
+	languages: 
+	countries: 
 
 [grantha]
-    diap            : 11300:1137F
-    type            :
-    languages       :
-    countries       :
+	diap: 11300:1137F
+	type: 
+	languages: 
+	countries: 
 
 [newa]
-    diap            : 11400:1147F
+	diap: 11400:1147F
+	type: 
+	languages: 
+	countries: 
 
 [tirhuta]
-    diap            : 11480:114DF
-    type            :
-    languages       :
-    countries       :
+	diap: 11480:114DF
+	type: 
+	languages: 
+	countries: 
 
 [siddham]
-    diap            : 11580:115FF
-    type            :
-    languages       :
-    countries       :
+	diap: 11580:115FF
+	type: 
+	languages: 
+	countries: 
 
 [modi]
-    diap            : 11600:1165F
-    type            :
-    languages       :
-    countries       :
+	diap: 11600:1165F
+	type: 
+	languages: 
+	countries: 
 
 [mongolian-supplement]
-    diap            : 11660:1167F
+	diap: 11660:1167F
+	type: 
+	languages: 
+	countries: 
 
 [takri]
-    diap            : 11680:116CF
-    type            :
-    languages       :
-    countries       :
+	diap: 11680:116CF
+	type: 
+	languages: 
+	countries: 
 
 [ahom]
-    diap            : 11700:1173F
-    type            :
-    languages       :
-    countries       :
+	diap: 11700:1174F
+	type: 
+	languages: 
+	countries: 
+
+[dogra]
+	diap: 11800:1184F
+	type: 
+	languages: 
+	countries: 
 
 [warang-citi]
-    diap            : 118A0:118FF
-    type            :
-    languages       :
-    countries       :
-    
+	diap: 118A0:118FF
+	type: 
+	languages: 
+	countries: 
+
+[dives-akuru]
+	diap: 11900:1195F
+	type: 
+	languages: 
+	countries: 
+
+[nandinagari]
+	diap: 119A0:119FF
+	type: 
+	languages: 
+	countries: 
+
 [zanabazar-square]
-    diap            : 11A00:11A4F
-    type            :
-    languages       :
-    countries       :    
+	diap: 11A00:11A4F
+	type: 
+	languages: 
+	countries: 
 
 [soyombo]
-    diap            : 11A50:11AAF
-    type            :
-    languages       :
-    countries       :    
+	diap: 11A50:11AAF
+	type: 
+	languages: 
+	countries: 
+
+[unified-canadian-aboriginal-syllabics-extended-a]
+	diap: 11AB0:11ABF
+	type: 
+	languages: 
+	countries: 
 
 [pau-cin-hau]
-    diap            : 11AC0:11AFF
-    type            :
-    languages       :
-    countries       :
+	diap: 11AC0:11AFF
+	type: 
+	languages: 
+	countries: 
+
+[devanagari-extended-a]
+	diap: 11B00:11B5F
+	type: 
+	languages: 
+	countries: 
 
 [bhaiksuki]
-    diap: 11C00:11C6F
+	diap: 11C00:11C6F
+	type: 
+	languages: 
+	countries: 
 
 [marchen]
-    diap: 11C70:11CBF
-    
+	diap: 11C70:11CBF
+	type: 
+	languages: 
+	countries: 
+
 [masaram-gondi]
-    diap: 11D00:11D5F    
-    
+	diap: 11D00:11D5F
+	type: 
+	languages: 
+	countries: 
+
+[gunjala-gondi]
+	diap: 11D60:11DAF
+	type: 
+	languages: 
+	countries: 
+
+[makasar]
+	diap: 11EE0:11EFF
+	type: 
+	languages: 
+	countries: 
+
+[kawi]
+	diap: 11F00:11F5F
+	type: 
+	languages: 
+	countries: 
+
+[lisu-supplement]
+	diap: 11FB0:11FBF
+	type: 
+	languages: 
+	countries: 
+
+[tamil-supplement]
+	diap: 11FC0:11FFF
+	type: 
+	languages: 
+	countries: 
+
 [cuneiform]
-    diap            : 12000:123FF
-    type            :
-    languages       :
-    countries       :
+	diap: 12000:123FF
+	type: 
+	languages: 
+	countries: 
 
 [cuneiform-numbers-and-punctuation]
-    diap            : 12400:1247F
-    type            :
-    languages       :
-    countries       :
+	diap: 12400:1247F
+	type: 
+	languages: 
+	countries: 
 
 [early-dynastic-cuneiform]
-    diap            : 12480:1254F
-    type            :
-    languages       :
-    countries       :
+	diap: 12480:1254F
+	type: 
+	languages: 
+	countries: 
+
+[cypro-minoan]
+	diap: 12F90:12FFF
+	type: 
+	languages: 
+	countries: 
 
 [egyptian-hieroglyphs]
-    diap            : 13000:1342F
-    type            :
-    languages       :
-    countries       :
+	diap: 13000:1342F
+	type: 
+	languages: 
+	countries: 
+
+[egyptian-hieroglyph-format-controls]
+	diap: 13430:1345F
+	type: 
+	languages: 
+	countries: 
 
 [anatolian-hieroglyphs]
-    diap            : 14400:1467F
-    type            :
-    languages       :
-    countries       :
+	diap: 14400:1467F
+	type: 
+	languages: 
+	countries: 
 
 [bamum-supplement]
-    diap            : 16800:16A3F
-    type            :
-    languages       :
-    countries       :
+	diap: 16800:16A3F
+	type: 
+	languages: 
+	countries: 
 
 [mro]
-    diap            : 16A40:16A6F
-    type            :
-    languages       :
-    countries       :
+	diap: 16A40:16A6F
+	type: 
+	languages: 
+	countries: 
+
+[tangsa]
+	diap: 16A70:16ACF
+	type: 
+	languages: 
+	countries: 
 
 [bassa-vah]
-    diap            : 16AD0:16AFF
-    type            :
-    languages       :
-    countries       :
+	diap: 16AD0:16AFF
+	type: 
+	languages: 
+	countries: 
 
 [pahawh-hmong]
-    diap            : 16B00:16B8F
-    type            :
-    languages       :
-    countries       :
+	diap: 16B00:16B8F
+	type: 
+	languages: 
+	countries: 
+
+[medefaidrin]
+	diap: 16E40:16E9F
+	type: 
+	languages: 
+	countries: 
 
 [miao]
-    diap            : 16F00:16F9F
-    type            :
-    languages       :
-    countries       :
+	diap: 16F00:16F9F
+	type: 
+	languages: 
+	countries: 
 
 [ideographic-symbols-and-punctuation]
-    diap: 16FE0:16FFF
+	diap: 16FE0:16FFF
+	type: 
+	languages: 
+	countries: 
 
 [tangut]
-    diap: 17000:187FF
+	diap: 17000:187FF
+	type: 
+	languages: 
+	countries: 
 
 [tangut-components]
-    diap: 18800:18AFF
+	diap: 18800:18AFF
+	type: 
+	languages: 
+	countries: 
+
+[khitan-small-script]
+	diap: 18B00:18CFF
+	type: 
+	languages: 
+	countries: 
+
+[tangut-supplement]
+	diap: 18D00:18D7F
+	type: 
+	languages: 
+	countries: 
+
+[kana-extended-b]
+	diap: 1AFF0:1AFFF
+	type: 
+	languages: 
+	countries: 
 
 [kana-supplement]
-    diap            : 1B000:1B0FF
-    type            :
-    languages       :
-    countries       :
-    
+	diap: 1B000:1B0FF
+	type: 
+	languages: 
+	countries: 
+
 [kana-extended-a]
-    diap            : 1B100:1B12F
-    type            :
-    languages       :
-    countries       :
-    
+	diap: 1B100:1B12F
+	type: 
+	languages: 
+	countries: 
+
+[small-kana-extension]
+	diap: 1B130:1B16F
+	type: 
+	languages: 
+	countries: 
+
 [nushu]
-    diap            : 1B170:1B2FF
-    type            :
-    languages       :
-    countries       :        
+	diap: 1B170:1B2FF
+	type: 
+	languages: 
+	countries: 
 
 [duployan]
-    diap            : 1BC00:1BC9F
-    type            :
-    languages       :
-    countries       :
+	diap: 1BC00:1BC9F
+	type: 
+	languages: 
+	countries: 
 
 [shorthand-format-controls]
-    diap            : 1BCA0:1BCAF
-    type            :
-    languages       :
-    countries       :
+	diap: 1BCA0:1BCAF
+	type: 
+	languages: 
+	countries: 
+
+[znamenny-musical-notation]
+	diap: 1CF00:1CFCF
+	type: 
+	languages: 
+	countries: 
 
 [byzantine-musical-symbols]
-    diap            : 1D000:1D0FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1D000:1D0FF
+	type: 
+	languages: 
+	countries: 
 
 [musical-symbols]
-    diap            : 1D100:1D1FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1D100:1D1FF
+	type: 
+	languages: 
+	countries: 
 
 [ancient-greek-musical-notation]
-    diap            : 1D200:1D24F
-    type            :
-    languages       :
-    countries       :
+	diap: 1D200:1D24F
+	type: 
+	languages: 
+	countries: 
+
+[kaktovik-numerals]
+	diap: 1D2C0:1D2DF
+	type: 
+	languages: 
+	countries: 
+
+[mayan-numerals]
+	diap: 1D2E0:1D2FF
+	type: 
+	languages: 
+	countries: 
 
 [tai-xuan-jing-symbols]
-    diap            : 1D300:1D35F
-    type            :
-    languages       :
-    countries       :
+	diap: 1D300:1D35F
+	type: 
+	languages: 
+	countries: 
 
 [counting-rod-numerals]
-    diap            : 1D360:1D37F
-    type            :
-    languages       :
-    countries       :
+	diap: 1D360:1D37F
+	type: 
+	languages: 
+	countries: 
 
 [mathematical-alphanumeric-symbols]
-    diap            : 1D400:1D7FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1D400:1D7FF
+	type: 
+	languages: 
+	countries: 
 
 [sutton-sign-writing]
-    diap            : 1D800:1DAAF
-    type            :
-    languages       :
-    countries       :
+	diap: 1D800:1DAAF
+	type: 
+	languages: 
+	countries: 
+
+[latin-extended-g]
+	diap: 1DF00:1DFFF
+	type: 
+	languages: 
+	countries: 
 
 [glagolitic-supplement]
-    diap: 1E000:1E02F
+	diap: 1E000:1E02F
+	type: 
+	languages: 
+	countries: 
+
+[cyrillic-extended-d]
+	diap: 1E030:1E08F
+	type: 
+	languages: 
+	countries: 
+
+[nyiakeng-puachue-hmong]
+	diap: 1E100:1E14F
+	type: 
+	languages: 
+	countries: 
+
+[toto]
+	diap: 1E290:1E2BF
+	type: 
+	languages: 
+	countries: 
+
+[wancho]
+	diap: 1E2C0:1E2FF
+	type: 
+	languages: 
+	countries: 
+
+[nag-mundari]
+	diap: 1E4D0:1E4FF
+	type: 
+	languages: 
+	countries: 
+
+[ethiopic-extended-b]
+	diap: 1E7E0:1E7FF
+	type: 
+	languages: 
+	countries: 
 
 [mende-kikakui]
-    diap            : 1E800:1E8DF
-    type            :
-    languages       :
-    countries       :
+	diap: 1E800:1E8DF
+	type: 
+	languages: 
+	countries: 
 
 [adlam]
-    diap: 1E900:1E95F
+	diap: 1E900:1E95F
+	type: 
+	languages: 
+	countries: 
+
+[indic-siyaq-numbers]
+	diap: 1EC70:1ECBF
+	type: 
+	languages: 
+	countries: 
+
+[ottoman-siyaq-numbers]
+	diap: 1ED00:1ED4F
+	type: 
+	languages: 
+	countries: 
 
 [arabic-mathematical-alphabetic-symbols]
-    diap            : 1EE00:1EEFF
-    type            :
-    languages       :
-    countries       :
+	diap: 1EE00:1EEFF
+	type: 
+	languages: 
+	countries: 
 
 [mahjong-tiles]
-    diap            : 1F000:1F02F
-    type            :
-    languages       :
-    countries       :
+	diap: 1F000:1F02F
+	type: 
+	languages: 
+	countries: 
 
 [domino-tiles]
-    diap            : 1F030:1F09F
-    type            :
-    languages       :
-    countries       :
+	diap: 1F030:1F09F
+	type: 
+	languages: 
+	countries: 
 
 [playing-cards]
-    diap            : 1F0A0:1F0FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F0A0:1F0FF
+	type: 
+	languages: 
+	countries: 
 
 [enclosed-alphanumeric-supplement]
-    diap            : 1F100:1F1FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F100:1F1FF
+	type: 
+	languages: 
+	countries: 
 
 [enclosed-ideographic-supplement]
-    diap            : 1F200:1F2FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F200:1F2FF
+	type: 
+	languages: 
+	countries: 
 
 [miscellaneous-symbols-and-pictographs]
-    diap            : 1F300:1F5FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F300:1F5FF
+	type: 
+	languages: 
+	countries: 
 
 [emoticons]
-    diap            : 1F600:1F64F
-    type            :
-    languages       :
-    countries       :
+	diap: 1F600:1F64F
+	type: 
+	languages: 
+	countries: 
 
 [ornamental-dingbats]
-    diap            : 1F650:1F67F
-    type            :
-    languages       :
-    countries       :
+	diap: 1F650:1F67F
+	type: 
+	languages: 
+	countries: 
 
 [transport-and-map-symbols]
-    diap            : 1F680:1F6FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F680:1F6FF
+	type: 
+	languages: 
+	countries: 
 
 [alchemical-symbols]
-    diap            : 1F700:1F77F
-    type            :
-    languages       :
-    countries       :
+	diap: 1F700:1F77F
+	type: 
+	languages: 
+	countries: 
 
 [geometric-shapes-extended]
-    diap            : 1F780:1F7FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F780:1F7FF
+	type: 
+	languages: 
+	countries: 
 
 [supplemental-arrows-c]
-    diap            : 1F800:1F8FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F800:1F8FF
+	type: 
+	languages: 
+	countries: 
 
 [supplemental-symbols-and-pictographs]
-    diap            : 1F900:1F9FF
-    type            :
-    languages       :
-    countries       :
+	diap: 1F900:1F9FF
+	type: 
+	languages: 
+	countries: 
+
+[chess-symbols]
+	diap: 1FA00:1FA6F
+	type: 
+	languages: 
+	countries: 
+
+[symbols-and-pictographs-extended-a]
+	diap: 1FA70:1FAFF
+	type: 
+	languages: 
+	countries: 
+
+[symbols-for-legacy-computing]
+	diap: 1FB00:1FBFF
+	type: 
+	languages: 
+	countries: 
 
 [cjk-unified-ideographs-extension-b]
-    diap            : 20000:2A6DF
-    type            :
-    languages       :
-    countries       :
+	diap: 20000:2A6DF
+	type: 
+	languages: 
+	countries: 
 
 [cjk-unified-ideographs-extension-c]
-    diap            : 2A700:2B73F
-    type            :
-    languages       :
-    countries       :
+	diap: 2A700:2B73F
+	type: 
+	languages: 
+	countries: 
 
 [cjk-unified-ideographs-extension-d]
-    diap            : 2B740:2B81F
-    type            :
-    languages       :
-    countries       :
+	diap: 2B740:2B81F
+	type: 
+	languages: 
+	countries: 
 
 [cjk-unified-ideographs-extension-e]
-    diap            : 2B820:2CEAF
-    type            :
-    languages       :
-    countries       :
-    
+	diap: 2B820:2CEAF
+	type: 
+	languages: 
+	countries: 
+
 [cjk-unified-ideographs-extension-f]
-    diap            : 2CEB0:2EBEF
-    type            :
-    languages       :
-    countries       :    
+	diap: 2CEB0:2EBEF
+	type: 
+	languages: 
+	countries: 
 
 [cjk-compatibility-ideographs-supplement]
-    diap            : 2F800:2FA1F
-    type            :
-    languages       :
-    countries       :
+	diap: 2F800:2FA1F
+	type: 
+	languages: 
+	countries: 
+
+[cjk-unified-ideographs-extension-g]
+	diap: 30000:3134F
+	type: 
+	languages: 
+	countries: 
+
+[cjk-unified-ideographs-extension-h]
+	diap: 31350:323AF
+	type: 
+	languages: 
+	countries: 
 
 [tags]
-    diap            : E0000:E007F
-    type            :
-    languages       :
-    countries       :
+	diap: E0000:E007F
+	type: 
+	languages: 
+	countries: 
 
 [variation-selectors-supplement]
-    diap            : E0100:E01EF
-    type            :
-    languages       :
-    countries       :
+	diap: E0100:E01EF
+	type: 
+	languages: 
+	countries: 
+
+[supplementary-private-use-area-a]
+	diap: F0000:FFFFF
+	type: 
+	languages: 
+	countries: 
+
+[supplementary-private-use-area-b]
+	diap: 100000:10FFFF
+	type: 
+	languages: 
+	countries: 

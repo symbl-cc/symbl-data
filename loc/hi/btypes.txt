@@ -1,0 +1,29 @@
+scripts: लेखन
+european-scripts: यूरोपीय लेखन
+modifier-letters: संशोधक पत्र
+combining-marks: संयुक्त संकेत
+miscellaneous: विविध
+african-scripts: अफ्रीकी लेखन
+middle-eastern-scripts: मध्य पूर्वी लेखन
+central-asian-scripts: मध्य एशियाई लेखन
+south-asian-scripts: दक्षिण एशियाई लेखन
+southeast-asian-scripts: दक्षिण पूर्व एशिया के लेखन
+indonesian-philippine: इंडोनेशियाई और फिलिपिनो लिपियों
+east-asian-scripts: पूर्व एशियाई लेखन
+american-scripts: अमेरिकी लेखन
+
+symbols-and-punctuation: प्रतीक और विराम चिह्न
+notational-systems: संकेतन प्रणाली
+punctuation: विराम चिह्न
+alphanumeric-symbols: अल्फ़ान्यूमेरिक वर्ण
+technical-symbols: तकनीकी प्रतीक
+numbers-and-digits: संख्या और अंक
+mathematical-symbols: गणितीय प्रतीक
+emoji-and-pictographs: इमोजी और चित्रलेख
+other-symbols: अन्य पात्र
+specials: विशेष
+private-use: निजी उपयोग
+surrogates: सरोगेट्स
+noncharacters-in-charts: आरेखों में अप्राप्य प्रतीक
+
+groups.latin-ligatures: Latin Ligatures

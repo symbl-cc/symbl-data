@@ -26,13 +26,16 @@ hint: Select and copy character you need
 symbols-count: symbols
 copied: Copied!
 see_also: See also
-page_content_menu: Content menu 
+page_content_menu: Content menu
 homepage: Homepage
 cookie-message: This site uses 🍪cookies to ensure that you get the best experience.
 accept: Accept
 empty-cell: Empty cell
 page_content_menu: Content
 holidays-list: Holidays list
+block-description: Description
+more-information: Read more
+back: Back
 
 [mobile]
 to-full: To full version

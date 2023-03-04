@@ -1,1 +1,13 @@
 [BLOCK:coptic Coptic] Epact Numbers is a Unicode block containing old Coptic number forms.
+
+These numbers were used in some regions instead of letters of the Coptic alphabet. They were applied for encoding numbers, just like Roman numerals, and it was very popular around the world. Egyptian Christians were the ones who took advantage of this and turned Coptic into their liturgical language. Apart from that, there is also evidence of it being a part of the Bohairic dialect.
+
+By the way, what does [b]epact mean[/b]? Apparently, this term comes from astrology. According to today's Gregorian calendar, an epact is a number representing the age of the Moon on January 1 in order to harmonize the lunar and solar calendars. Just as I thought. 
+
+The Coptic alphabet contains separate characters for each of the digits, 1-9 (0 is not indicated), each of the tens numbers from 10-90, and each of the hundreds numbers from 100-900. Numbers were composed from left-to-right by successively adding the values that each character or digit represented. Here are some examples of the numbers: 
+
+[U:102ED] - 40
+[U:102F1] - 80
+
+[b]!Fun Fact![/b] There is a thousand mark diacritic [U:102E0] that multiplies the digit by one thousand (so 5 with thousand mark = 5,000, 900 with thousand mark indicates 900,000). Therefore, [U:102E0][U:102E0] represents a million.
+

@@ -1,10 +1,10 @@
-[cf]:Case Folding
-[scf]:Simple Case Folding
-[bpb]:Bidi Paired Bracket
+[cf]: Case change
+[scf]: Simple case change
+[bpb]: Bidi Paired Bracket
 [AHex]
 	n: No
 	y: Yes
-[age]: Age
+[age]: Version
 	1.1: V1_1
 	2.0: V2_0
 	2.1: V2_1
@@ -29,6 +29,8 @@
 	12.1: V12_1
 	13.0: V13_0
 	na: Unassigned
+	14.0: V14_0
+	15.0: V15_0
 [Alpha]
 	n: No
 	y: Yes
@@ -62,7 +64,7 @@
 [Bidi_M]
 	n: No
 	y: Yes
-[bpt]:Bidi Paired Bracket Type
+[bpt]: Type of paired mirror bracket (bidi)
 	c: Close
 	n: None
 	o: Open
@@ -376,6 +378,25 @@
 	yi_syllables: Yi_Syllables
 	yijing: Yijing_Hexagram_Symbols
 	zanabazar_square: Zanabazar_Square
+	arabic_ext_b: Arabic_Extended_B
+	arabic_ext_c: Arabic_Extended_C
+	cjk_ext_h: CJK_Unified_Ideographs_Extension_H
+	cypro_minoan: Cypro_Minoan
+	cyrillic_ext_d: Cyrillic_Extended_D
+	devanagari_ext_a: Devanagari_Extended_A
+	ethiopic_ext_b: Ethiopic_Extended_B
+	kaktovik_numerals: Kaktovik_Numerals
+	kana_ext_b: Kana_Extended_B
+	kawi: Kawi
+	latin_ext_f: Latin_Extended_F
+	latin_ext_g: Latin_Extended_G
+	nag_mundari: Nag_Mundari
+	old_uyghur: Old_Uyghur
+	tangsa: Tangsa
+	toto: Toto
+	ucas_ext_a: Unified_Canadian_Aboriginal_Syllabics_Extended_A
+	vithkuqi: Vithkuqi
+	znamenny_music: Znamenny_Musical_Notation
 [ccc]
 	nr: Not_Reordered
 	ov: Overlay
@@ -459,7 +480,7 @@
 [CWU]
 	n: No
 	y: Yes
-[CE]:Composition Exclusion
+[CE]: Composition Exclusion
 	n: No
 	y: Yes
 [Dash]
@@ -741,7 +762,7 @@
 [Join_C]
 	n: No
 	y: Yes
-[jg]:Joining Group
+[jg]: Joining Group
 	african_feh: AFRICAN FEH
 	african_noon: AFRICAN NOON
 	african_qaf: AFRICAN QAF
@@ -844,7 +865,9 @@
 	yudh_he: YUDH HE
 	zain: Zain
 	zhain: Zhain
-[jt]:Joining Type
+	thin_yeh: THIN YEH
+	vertical_tail: VERTICAL TAIL
+[jt]: Joining Type
 	c: Join_Causing
 	d: Dual_Joining
 	l: Left_Joining
@@ -1127,6 +1150,13 @@
 	zinh: Inherited
 	zyyy: Common
 	zzzz: Unknown
+	cpmn: Cypro_Minoan
+	kawi: Kawi
+	nagm: Nag_Mundari
+	ougr: Old_Uyghur
+	tnsa: Tangsa
+	toto: Toto
+	vith: Vithkuqi
 [SB]
 	at: ATerm
 	cl: Close

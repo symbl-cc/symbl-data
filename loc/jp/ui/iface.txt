@@ -1,3 +1,4 @@
+properties: プロパティ
 hide: 隠す
 show: 示す
 up: トップに戻ります
@@ -25,6 +26,9 @@ homepage: ホームページ
 cookie-message: このサイトでは 🍪cookie を使用して、最高のエクスペリエンスを確保しています。
 accept: 受け入れる
 empty-cell: 空のセル
+block-description: 説明
+more-information: 続きを読む
+back: 戻る
 
 [mobile]
 to-full: フルバージョンに移動します

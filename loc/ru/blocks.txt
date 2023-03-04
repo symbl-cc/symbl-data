@@ -20,6 +20,7 @@ samaritan       : Самаритянское письмо
 mandaic         : Мандейское письмо
 syriac-supplement: Дополнение к сирийскому письму
 arabic-extended-a : Расширенное арабское письмо — A
+arabic-extended-b : Расширенное арабское письмо — B
 devanagari      : Деванагари
 bengali         : Бенгальское письмо
 gurmukhi        : Гурмукхи
@@ -115,7 +116,7 @@ bopomofo-extended : Расширенное чжуинь фухао, бопомо
 cjk-strokes     : Черты ККЯ
 katakana-phonetic-extensions : Фонетические расширения катаканы
 enclosed-cjk-letters-and-months : Обрамлённые буквы и месяцы ККЯ
-cjk-compatibility : Совместимые элементы ККЯ
+cjk-compatibility : Символы совместимости ККЯ
 cjk-unified-ideographs-extension-a : Унифицированные идеограммы ККЯ. Расширение А
 yijing-hexagram-symbols : Гексаграммы Книги Перемен И-Цзин
 cjk-unified-ideographs : Унифицированные идеограммы ККЯ
@@ -308,3 +309,22 @@ tags : Теги
 variation-selectors-supplement : Дополнение к селекторы вариантов начертания 
 supplementary-private-use-area-a: Дополнительная область для частного использования — A
 supplementary-private-use-area-b: Дополнительная область для частного использования — B
+
+vithkuqi: Виткутьское письмо
+latin-extended-f: Расширенная латиница — F
+arabic-extended-c: Расширенное арабское письмо — C
+old-uyghur: Староуйгурское письмо
+unified-canadian-aboriginal-syllabics-extended-a: Расширенное канадское слоговое письмо — A
+devanagari-extended-a: Расширенное деванагари — A
+kawi: Кави
+cypro-minoan: Кипро-минойское письмо
+tangsa: Тангса
+kana-extended-b: Расширенная Кана — B
+znamenny-musical-notation: Знаменная нотация
+kaktovik-numerals: Кактовикские цифры
+latin-extended-g: Расширенная латиница — G
+cyrillic-extended-d: Расширенная кириллица — D
+toto: Тото
+nag-mundari: Алфавит Нага для мундари
+ethiopic-extended-b: Расширенное эфиопское письмо — B
+cjk-unified-ideographs-extension-h: Унифицированные идеограммы ККЯ. Расширение H

@@ -1,0 +1,5 @@
+La primera versión de Unicode (1991) fue una codificación de caracteres de 16 bits, donde el ancho de un símbolo fue fixado. El número total de caracteres diferentes fue 216 (65,536). 
+
+En la segunda versión de Unicode (1996), los creados tomaron la decisión de ampliar el área de código significativamente. Inventaron UTF-16 para preservar la compatibilidad con los sistemas donde ya se había aplicado el Unicode de 16 bits. El área 0xD800-0xDFFF reservada para los [BLOCK:high-surrogates pares subrogados], anteriormente pertenecía al área de "caracteres para uso privado".
+
+El Consorcio ofrece varios bloques de caracteres para [BLOCK:private-use-area uso privado], que luego pueden ser asignados por diferentes comunidades, así como por el sistema operativo y por los desarrolladores de varias fuentes.

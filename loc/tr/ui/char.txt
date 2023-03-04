@@ -22,7 +22,13 @@ copy-code: Kopyalamak için tıklayın
 copy_button: Kopya
 copy_done: Kopyalanan!
 version: Unicode sürümü
-sets-with-this-symbol: Bu sembolle ayarlar
+collections-with-this-symbol: Bu sembolle ayarlar
 empty-symbol: Unicode'da tanımlanmamış
 emoji_group: Emoji Kategorisi
 emoji_version: Emoji sürümü
+download: İndirmek
+displaying: Sembol gösterimi
+symbol_not_displayed: Sembol neden görüntülenmiyor?
+examples: Kullanım örnekleri
+synonyms: Eşanlamlı sözcük
+in-development: Geliştirme aşamasındadır

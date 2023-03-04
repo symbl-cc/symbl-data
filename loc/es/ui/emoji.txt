@@ -1,20 +1,20 @@
 smileys-people: Emoticonos y Gente
-animals-nature: Animales y Naturaleza
-food-drink: Comida y Bebida
-activity: Actividades
-travel-places: Viajes y Lugares
+animals-nature: Animales y naturaleza
+food-drink: Comida y bebida
+activity: Actividad
+travel-places: Viajes y lugares
 objects: Objetos
 symbols: Símbolos
 flags: Banderas
-unsorted: Sin Clasificar
+unsorted: Sin clasificar
 currency: Moneda
 smileys-and-emotion: Emoticonos y Emociones
 face-smiling: Cara sonriente
-face-affection: Cara enamorada (afecto)
+face-affection: Cara amorosa (afecto)
 face-tongue: Cara con lengua
-face-hand: Cara con mano
+face-hand: Cara con la mano
 face-neutral-skeptical: Cara neutra y escéptica
-face-sleepy: Cara durmiente
+face-sleepy: Cara somnolienta
 face-unwell: Cara enferma
 face-hat: Cara con sombrero
 face-glasses: Cara con gafas
@@ -25,26 +25,26 @@ cat-face: Cara de gato
 monkey-face: Cara de mono
 emotion: Emoción
 people-and-body: Personas y cuerpo
-hand-fingers-open: Mano abierta con dedos
-hand-fingers-partial: Mano parcial con dedos
+hand-fingers-open: Mano abierta con los dedos
+hand-fingers-partial: Mano parcial con los dedos
 hand-single-finger: Mano con un solo dedo
-hand-fingers-closed: Mano cerrada con dedos
+hand-fingers-closed: Mano cerrada con los dedos
 hands: Manos
-hand-prop: Propiedades de mano
-body-parts: Partes de cuerpo
+hand-prop: Propiedades de la mano
+body-parts: Partes del cuerpo
 person: Persona
-person-gesture: Gesto de persona
-person-role: Rol de persona
-person-fantasy: Persona de fantasía
-person-activity: Actividad de persona
+person-gesture: Gesto persona
+person-role: Rol de la persona
+person-fantasy: Persona de fantasía y cuento de hadas
+person-activity: Actividad de la persona
 person-sport: Persona haciendo deporte
-person-resting: Persona descansando
+person-resting: Persona en reposo
 family: Familia
-person-symbol: Símbolo de persona
+person-symbol: Símbolo de la persona
 component: Componente
 skin-tone: Tono de piel
 hair-style: Estilo de pelo
-animals-and-nature: Animales y Naturaleza
+animals-and-nature: Animales y naturaleza
 animal-mammal: Mamífero
 animal-bird: Pájaro
 animal-amphibian: Anfibios
@@ -55,14 +55,14 @@ plant-flower: Flor
 plant-other: Otras plantas
 food-and-drink: Comida y bebida
 food-fruit: Fruta
-food-vegetable: Verduras
+food-vegetable: Vegetal
 food-prepared: Comida preparada
 food-asian: Comida asiática
 food-marine: Mariscos
 food-sweet: Comida dulce
 drink: Beber
 dishware: Vajilla
-travel-and-places: Viajes y Lugares
+travel-and-places: Viajes y lugares
 place-map: Mapa
 place-geographic: Lugar geográfico
 place-building: Edificio
@@ -73,7 +73,7 @@ transport-water: Transporte de agua
 transport-air: Transporte aéreo
 hotel: Hotel
 time: Hora
-sky-and-weather: Cielo y Tiempo
+sky-and-weather: Cielo y tiempo
 activities: Ocupaciones
 event: Evento
 award-medal: Medal & Award
@@ -86,7 +86,7 @@ music: Música
 musical-instrument: Instrumento musical
 phone: Teléfono
 computer: Computadora
-light-and-video: Luz y Vídeo
+light-and-video: Luz y video
 book-paper: Libro de papel
 money: Dinero
 mail: Correo
@@ -107,19 +107,19 @@ av-symbol: Símbolo AV
 gender: Género
 math: Matemáticas
 punctuation: Puntuación
-other-symbol: Otros símbolos
-keycap: Tecla
+other-symbol: Otros simbolos
+keycap: Keycap
 alphanum: Símbolo alfanumérico
 geometric: Símbolo geométrico
 flag: Bandera
-country-flag: Bandera de país
-subdivision-flag: Bandera de subdivisión
+country-flag: Bandera del país
+subdivision-flag: Bandera de la subdivisión
 smileys-and-emotion: Emoticonos y Emociones
-people-and-body: Personas y Cuerpo
+people-and-body: Personas y cuerpo
 component: Componente
-animals-and-nature: Animales y Naturaleza
-food-and-drink: Comida y Bebida
-travel-and-places: Viajes y Lugares
+animals-and-nature: Animales y naturaleza
+food-and-drink: Comida y bebida
+travel-and-places: Viajes y lugares
 activities: Ocupaciones
 objects: Objetos
 symbols: Símbolos

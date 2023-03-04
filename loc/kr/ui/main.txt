@@ -1,35 +1,51 @@
-title: 유니 코드 문자 백과 사전
+title: SYMBL (◕‿◕)
 unicode: 유니 코드
+
+privacy-policy: 개인 정보 보호 정책
+unicodeorg: 사이트의 모든 이모티콘 및 기호 이미지는 정보 제공용이며 권리는 작성자에게 있으며 동의 없이 상업적 목적으로 사용할 수 없습니다.
+old-version: 이전 버전
 
 [mainpage]: 대문
 
-[sets]	: 기호 분류 싱크
-# @todo set	
+[collections]	: 기호 분류 싱크
+# @todo set
 list	: 기호 분류 싱크
 title: 인기있는 문자 세트
 all: 모두보기
 
-[blocks]	: 목록 세그먼트 문자
-# @todo block	
+[blocks]	: 블록
+block: 유니코드 블록
 blocks	: 유니코드 영역의 목록
-list: 유니 코드
-	
+list: 블록
+by-range: 범위 별
+by-alphabet: 알파벳순으로
+by-type: 유형별
+
+[codes]: 인코딩
+list: 인코딩
+
+[art]: 예술
+list: 예술 ٩(｡•́‿•̀｡)۶
+
+[symbols]: 기호
+list: 기호
+
 [languages]	: 언어
 list	: 언어 목록
 blocks	: 문자의 범위에 사용되는 언어
-	
+
 [countries]	: 국가
 list	: 국가 목록
-	
+
 [alphabets]	: 알파벳
 list: 알파벳
 
 [holidays]: 휴일
 list: 휴일
-	
+
 [types]	: 입력 한 문자 목록
-# @todo type	
-list	: 입력 한 문자 목록 
+# @todo type
+list	: 입력 한 문자 목록
 
 [html-entities]: HTML 엔티티
 list: HTML 엔티티
@@ -37,3 +53,15 @@ list: HTML 엔티티
 [alt-codes]: Windows 용 ALT 코드
 list: ALT 코드
 en: 영어 키보드 레이아웃
+
+[top-symbols]: 최고의 캐릭터
+
+[day-symbol]: 오늘의 상징
+
+[news]: 소식
+
+[symbol-table]: 기호 테이블
+
+[version-history]: 버전 기록
+
+[about-unicode]: 유니코드 정보

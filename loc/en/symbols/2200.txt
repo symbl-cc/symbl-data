@@ -147,11 +147,11 @@
 2292: Square Original of or Equal To
 2293: Square Cap
 2294: Square Cup
-2295: Circled Plus: direct sum , vector pointing into page , XOR sum
+2295: Circled Plus: xor, direct sum, vector pointing into page
 2296: Circled Minus: symmetric difference
-2297: Circled Times: tensor product , vector pointing into page
+2297: Circled Times: tensor product, vector pointing into page
 2298: Circled Division Slash: ban, disable
-2299: Circled Dot Operator: direct product , vector pointing out of page
+2299: Circled Dot Operator: direct product, vector pointing out of page
 229A: Circled Ring Operator
 229B: Circled Asterisk Operator: New Year, Christmas
 229C: Circled Equals
@@ -160,13 +160,13 @@
 229F: Squared Minus
 22A0: Squared Times
 22A1: Squared Dot Operator
-22A2: Right Tack: turnstile , proves, implies, yields , reducible
-22A3: Left Tack: reverse turnstile , non-theorem, does not yield
+22A2: Right Tack: turnstile, proves, implies, yields, reducible
+22A3: Left Tack: reverse turnstile, non-theorem, does not yield
 22A4: Down Tack: top
 22A5: Up Tack: base, bottom
 22A6: Assertion: reduces to
 22A7: Models
-22A8: True: statement is true, valid , is a tautology , satisfies , results in
+22A8: True: statement is true, valid, is a tautology, satisfies, results in
 22A9: Forces
 22AA: Triple Vertical Bar Right Turnstile
 22AB: Double Vertical Bar Double Right Turnstile

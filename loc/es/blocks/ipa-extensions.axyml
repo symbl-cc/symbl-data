@@ -1,0 +1,17 @@
+﻿Extensiones del AFI es un bloque (0250–02AF) del estándar Unicode que contiene letras de tamaño real utilizadas en el [b]Alfabeto Fonético Internacional (AFI)[/b]. AFI incluye caracteres modernos e históricos, así como los caracteres ya no utilizados y letras fonéticas no relacionadas con el Alfabeto Internacional. Los caracteres adicionales que se asocian con la fonética (como el signo de palatalización), se codifican en los bloques Extensiones Fonéticas (1D00–1D7F) y Suplemento de Extensiones Fonéticas (1D80–1DBF). Los signos diacríticos se encuentran en los bloques de Letras Modificadoras de Espaciado (02B0–02FF) y de Combinación de Marcas Diacríticas (0300–036F).
+
+Como AFI a menudo utiliza Unicode para la representación de los símbolos fonéticos, los sistemas basados en ASCII como X-SAMPA o Kirshenbaum están aquí para ayudarte. Dentro de los bloques también hay algunos antiguos caracteres AFI que ya no se utilizan internacionalmente por los lingüistas.
+
+El bloque de Extensiones AFI ha estado presente en Unicode desde la versión 1.0. Cuando pasó la unificación de ISO 10646, las extensiones siguieron siendo las mismas, sin cambios. El bloque tenía extensiones para representar el habla desordenada en la versión 3.0 y símbolos fonéticos de Sinología en la versión 4.0.
+
+El Alfabeto Fonético Internacional (AFI) es un sistema alfabético de notación fonética basado principalmente en el alfabeto latino. Fue recomendado por la Asociación Fonética Internacional como una representación estandarizada del lenguaje oral.
+
+¿Quién necesita AFI? ¡Una pregunta relevante, de verdad! En realidad, mucha gente. El AFI es utilizado por lexicógrafos, estudiantes y profesores de idiomas extranjeros, lingüistas, patólogos del habla y el idioma, cantantes, actores, creadores de idioma y traductores.
+
+El AFI está diseñado para representar sólo las cualidades del habla que forman parte del lenguaje oral: los fonemas, la entonación y la separación de palabras y sílabas. Para representar cualidades adicionales del habla, tales como sonidos hechos con paladar hendido, se puede usar un conjunto extendido de símbolos llamados Extensiones del AFI.
+
+Los símbolos AFI consisten en uno o más elementos de dos tipos básicos, [b]letras y signos diacríticos[/b]. Por ejemplo, el sonido de la letra inglesa 't' puede transcribirse en IPA con una sola letra, [t], o con una letra y un signo diacrítico, [tʰ], dependiendo de la precisión con que describas las características en el contexto. Las barras a menudo se usan para indicar el tipo de la transcripción; por ejemplo, /t/ es menos específico y podría referirse a [tʰ] o [t], dependiendo del contexto y el idioma.
+
+La Asociación Fonética Internacional puede añadir, eliminar o modificar letras o signos diacríticos. Según la última reforma de 2005, hay 107 letras, 52 signos diacríticos y 4 signos prosódicos en el AFI. Se muestran en el gráfico actual del AFI, publicado en el sitio web del AFI.
+
+¡Vamos a divertirnos un poco! Toma letras de este bloque y [URL /es/tools/flip/ voltea tu texto] para animarte a ti y a tus amigos.

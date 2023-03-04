@@ -1,18 +1,35 @@
-title: Unicode 字符百科
+title: SYMBL (◕‿◕)
 unicode: Unicode
+
+privacy-policy: 私隐政策
+unicodeorg: 網站上的所有表情符號和符號圖像僅供參考，權利屬於其作者，未經其同意不得用於商業目的。
+old-version: 旧版本
 
 [mainpage]: 首页
 
-[sets]: 符号分类集汇
+[collections]: 符号分类集汇
 # @todo set
-list: 组	
+list: 组
 title: 熱門字符集
 all: 看到所有
 
-[blocks]: 字符段列表
+[blocks]: 街区
 # @todo block
+block: Unicode块
 blocks: Unicode區段與包含的文字
-list: Unicode
+list: 街区
+by-range: 按范围
+by-alphabet: 按字母顺序
+by-type: 类型
+
+[codes]: 编码
+list: 编码
+
+[art]: 艺术
+list: 艺术 ٩(｡•́‿•̀｡)۶
+
+[symbols]: 符号
+list: 符号
 
 [languages]: 语言
 list: 语言列表
@@ -38,3 +55,15 @@ list: HTML实体
 [alt-codes]: Windows的Alt码
 list: Alt码
 en: 英文键盘布局
+
+[top-symbols]: 流行符号
+
+[day-symbol]: 一天的象征
+
+[news]: 消息
+
+[symbol-table]: 符号表
+
+[version-history]: 版本历史
+
+[about-unicode]: 关于 Unicode

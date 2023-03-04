@@ -1,7 +1,5 @@
 : 工具
 
-toolsListTitle: 也可以尝试其他工具
-
 [encoder]: HTML編碼器
 
 desc: 将字符与HTML代码相互转换
@@ -11,6 +9,7 @@ text: HTML和文字
 entities: 按HTML实体编码
 br: 编码换行
 result: 结果
+example: 这是栗子! ©
 
 [decoder]: Unicode解碼器
 
@@ -113,6 +112,14 @@ generate: 生成
 warning: 请至少选择一个字符集来创建您的密码
 
 
+[nickname-generator]: 美丽昵称的生成器
+h1: 美丽昵称的生成器
+desc: 装饰一个昵称
+
+text: 文本
+nickname: 昵称
+example: Maria
+
 [text-to-symbols]: 来自符号的文本
 h1: 来自符号的文本
 desc: 在符号中写入文本
@@ -126,3 +133,37 @@ background: 带背景的字母
 symbol-dolar: 来自符号 $ 的字母
 symbol-lattice: 来自符号 # 的字母
 symbol-paragraph: 来自符号 ¶ 的字母
+
+[typograph]: 排版员
+h1: 排版员
+
+plain: 原文
+text: 文本
+html: HTML
+mnemonics: HTML实体
+example:  - "这是栗子..."
+result: 结果
+first-level-quote: 一级引号
+second-level-quote: 二级引号
+
+[secret-space]: 空格
+h1: 空格
+text: 原文
+result: 格式化文本
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: 表情符号键盘
+subtitle: 复制和粘贴任何表情符号
+popular: 受欢迎的
+emoji: Emoji
+arrow: 箭头图案
+math: 数学
+currency: 货币
+letters: 信件
+punctuation: 标点
+example: 文本和符号示例
+copy-text: 点击符号，它会自动复制
+paste-text: 它也进入此框，您可以在其中输入任何文本并用任何符号装饰它!
+ok: 明白了！
+skip: 跳过
+cool: 凉爽的！

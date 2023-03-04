@@ -9,68 +9,68 @@ flags: Flags
 unsorted: Unsorted
 currency: Currency
 smileys-and-emotion: Smileys & Emotion
-face-smiling: Smiling face
-face-affection: Amorous face (affection)
-face-tongue: Face with tongue
-face-hand: Face with hand
-face-neutral-skeptical: Neutral and skeptical face
-face-sleepy: Sleepy face
-face-unwell: Sickly face
-face-hat: Face with hat
-face-glasses: Face with glasses
-face-concerned: Concerned face
-face-negative: Angry face
-face-costume: Fancy costume
-cat-face: Cat face
-monkey-face: Monkey face
+face-smiling: Smiling Face
+face-affection: Amorous Face (Affection)
+face-tongue: Face with Tongue
+face-hand: Face with Hand
+face-neutral-skeptical: Neutral and Skeptical Face
+face-sleepy: Sleepy Face
+face-unwell: Sickly Face
+face-hat: Face with Hat
+face-glasses: Face with Glasses
+face-concerned: Concerned Face
+face-negative: Angry Face
+face-costume: Fancy Costume
+cat-face: Cat Face
+monkey-face: Monkey Face
 emotion: Emotion
 people-and-body: People & Body
-hand-fingers-open: Open hand with fingers
-hand-fingers-partial: Partial hand with fingers
-hand-single-finger: Hand with single finger
-hand-fingers-closed: Closed hand with fingers
+hand-fingers-open: Open Hand with Fingers
+hand-fingers-partial: Partial Hand with Fingers
+hand-single-finger: Hand with Single Finger
+hand-fingers-closed: Closed Hand with Fingers
 hands: Hands
-hand-prop: Hand properties
-body-parts: Body parts
+hand-prop: Hand Properties
+body-parts: Body Parts
 person: Person
-person-gesture: Person gesture
-person-role: Person role
-person-fantasy: Fantasy and fairy tale person
-person-activity: Person activity
-person-sport: Person doing sport
-person-resting: Resting person
+person-gesture: Person Gesture
+person-role: Person Role
+person-fantasy: Fantasy and Fairy Tale Person
+person-activity: Person Activity
+person-sport: Person Doing Sport
+person-resting: Resting Person
 family: Family
-person-symbol: Person symbol
+person-symbol: Person Symbol
 component: Component
-skin-tone: Skin tone
-hair-style: Hair style
+skin-tone: Skin Tone
+hair-style: Hair Style
 animals-and-nature: Animals & Nature
 animal-mammal: Mammal
 animal-bird: Bird
 animal-amphibian: Amphibian
 animal-reptile: Reptile
-animal-marine: Marine animal
+animal-marine: Marine Animal
 animal-bug: Bug
 plant-flower: Flower
-plant-other: Other plants
+plant-other: Other Plants
 food-and-drink: Food & Drink
 food-fruit: Fruit
 food-vegetable: Vegetable
-food-prepared: Prepared food
-food-asian: Asian food
-food-marine: Sea food
-food-sweet: Sweet food
+food-prepared: Prepared Food
+food-asian: Asian Food
+food-marine: Sea Food
+food-sweet: Sweet Food
 drink: Drink
 dishware: Dishware
 travel-and-places: Travel & Places
 place-map: Map
-place-geographic: Geographic place
+place-geographic: Geographic Place
 place-building: Building
-place-religious: Religious place
-place-other: Other places
-transport-ground: Ground transport
-transport-water: Water transport
-transport-air: Air transport
+place-religious: Religious Place
+place-other: Other Places
+transport-ground: Ground Transport
+transport-water: Water Transport
+transport-air: Air Transport
 hotel: Hotel
 time: Time
 sky-and-weather: Sky & Weather
@@ -83,11 +83,11 @@ arts-and-crafts: Arts & Crafts
 clothing: Clothing
 sound: Sound
 music: Music
-musical-instrument: Musical instrument
+musical-instrument: Musical Instrument
 phone: Phone
 computer: Computer
 light-and-video: Light & Video
-book-paper: Paper book
+book-paper: Paper Book
 money: Money
 mail: Mail
 writing: Writing
@@ -97,23 +97,23 @@ tool: Tool
 science: Science
 medical: Medical
 household: Household
-other-object: Other objects
-transport-sign: Transport sign
+other-object: Other Objects
+transport-sign: Transport Sign
 warning: Warning
 arrow: Arrow
 religion: Religion
 zodiac: Zodiac
-av-symbol: AV symbol
+av-symbol: AV Symbol
 gender: Gender
 math: Math
 punctuation: Punctuation
-other-symbol: Other symbols
+other-symbol: Other Symbols
 keycap: Keycap
 alphanum: Alphanumeric
 geometric: Geometric
 flag: Flag
-country-flag: Country flag
-subdivision-flag: Subdivision flag
+country-flag: Country Flag
+subdivision-flag: Subdivision Flag
 smileys-and-emotion: Smileys & Emotion
 people-and-body: People & Body
 component: Component

@@ -1,3 +1,4 @@
+properties: Proprietà
 hide: Sparire
 show: Mostrare
 up	: Su
@@ -28,6 +29,9 @@ homepage: Pagina principale
 cookie-message: Questo sito utilizza 🍪cookie per assicurarti la migliore esperienza.
 accept: Accettare
 empty-cell: Cella vuota
+block-description: Descrizione
+more-information: Leggi di più
+back: Indietro
 
 [mobile]
 to-full: Vai alla versione completa

@@ -190,8 +190,8 @@ A7BC: Latin Capital Letter Glottal I
 A7BD: Latin Small Letter Glottal I
 A7BE: Latin Capital Letter Glottal U
 A7BF: Latin Small Letter Glottal U
-A7C0:
-A7C1:
+A7C0: Latin Capital Letter Old Polish O
+A7C1: Latin Small Letter Old Polish O
 A7C2: Latin Capital Letter Anglicana W
 A7C3: Latin Small Letter Anglicana W
 A7C4: Latin Capital Letter C With Palatal Hook
@@ -206,16 +206,16 @@ A7CC:
 A7CD:
 A7CE:
 A7CF:
-A7D0:
-A7D1:
+A7D0: Latin Capital Letter Closed Insular G
+A7D1: Latin Small Letter Closed Insular G
 A7D2:
-A7D3:
+A7D3: Latin Small Letter Double Thorn
 A7D4:
-A7D5:
-A7D6:
-A7D7:
-A7D8:
-A7D9:
+A7D5: Latin Small Letter Double Wynn
+A7D6: Latin Capital Letter Middle Scots S
+A7D7: Latin Small Letter Middle Scots S
+A7D8: Latin Capital Letter Sigmoid S
+A7D9: Latin Small Letter Sigmoid S
 A7DA:
 A7DB:
 A7DC:
@@ -240,9 +240,9 @@ A7EE:
 A7EF:
 A7F0:
 A7F1:
-A7F2:
-A7F3:
-A7F4:
+A7F2: Modifier Letter Capital C
+A7F3: Modifier Letter Capital F
+A7F4: Modifier Letter Capital Q
 A7F5: Latin Capital Letter Reversed Half H
 A7F6: Latin Small Letter Reversed Half H
 A7F7: Latin Epigraphic Letter Sideways I

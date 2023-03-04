@@ -1,21 +1,38 @@
-title: Tabla de Caracteres Unicode
+title: SYMBL (◕‿◕)
 unicode: Unicode
-[mainpage]: Página Principal
 
-[sets]: Conjuntos
-set: Conjuntos
-list: Conjuntos
+privacy-policy: Política de privacidad
+unicodeorg: Todas las imágenes de emoji y símbolos en el sitio tienen fines informativos, los derechos pertenecen a sus autores y no pueden utilizarse con fines comerciales sin su consentimiento.
+old-version: Versión antigua
+
+[mainpage]: Portada
+
+[collections]: Conjuntos
+collection: Conjunto
+list: Conjunto
 title: Conjuntos de caracteres populares
 all: Ver todo
 
 [blocks]: Bloques
-block: Bloque
-blocks: Lista de Secciones
+block: Unicode bloques
+blocks: Lista de Secciones Unicode
 list: Unicode
+by-range: Por gama
+by-alphabet: Аlfabéticamente
+by-type: Por tipo
+
+[codes]: Codificaciones
+list: Codificaciones
+
+[art]: Arte
+list: Arte ٩(｡•́‿•̀｡)۶
+
+[symbols]: Signatura
+list: Signatura
 
 [languages]: Idiomas
-list: Lista de Idiomas
-blocks: Puedes encontrar este idioma en los bloques siguientes
+list: Lista de las Idiomas
+blocks: Bloques de idiomas
 
 [countries]: Países
 list: Lista de Países
@@ -24,8 +41,8 @@ list: Lista de Países
 # @todo list
 list: Alfabetos
 
-[holidays]: Fiestas
-list: Fiestas
+[holidays]: Festivos
+list: Festivos
 
 [types]
 # @todo type
@@ -34,6 +51,18 @@ list: Lista de Tipos
 [html-entities]: Entidades HTML
 list: Entidades HTML
 
-[alt-codes]: Códigos Alt para Windows
+[alt-codes]: Códigos Alt codes para Windows
 list: Códigos Alt
 en: Diseño de teclado en inglés
+
+[top-symbols]: Top símbolos
+
+[day-symbol]: Símbolo del día
+
+[news]: Noticias
+
+[symbol-table]: Tabla de símbolos
+
+[version-history]: Historial de versiones
+
+[about-unicode]: Acerca de Unicode

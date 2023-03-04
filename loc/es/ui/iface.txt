@@ -1,8 +1,9 @@
+properties: Propiedades
 hide: Esconder
 show: Demostrar
 up: Subir
 range: Rango
-loading: Cargando, espera por favor...
+loading: Cargando, espera por favor ...
 count: Número de caracteres
 sort-order: Por orden
 sort-block: Por secciones
@@ -18,10 +19,13 @@ share-link: Compartir
 read-more: Leer más
 read-less: Ocultar
 homepage: Página principal
+block-description: Descripción
+more-information: Leer más
+back: Atrás
 
 copied: ¡Copiado!
 see_also: Véase también
-cookie-message: Este sitio utiliza cookie 🍪 para garantizar que obtenga la mejor experiencia.
+cookie-message: Este sitio utiliza cookie 🍪para garantizar que obtenga la mejor experiencia.
 accept: Aceptar
 empty-cell: Celda vacía
 page_content_menu: Contenido

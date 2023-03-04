@@ -1,7 +1,5 @@
 : Ferramentas
 
-toolsListTitle: Tente também Outras ferramentas
-
 [encoder]: Codificador de HTML
 
 desc: Codifica caracteres em html-code e de volta
@@ -11,6 +9,7 @@ text: HTML e texto
 entities: Codifica caracteres com entidades
 br: Codifica quebras de linha
 result: Resultado
+example: Este é um exemplo! ©
 
 [decoder]: Decodificador Unicode
 
@@ -37,20 +36,22 @@ generate: Gerar
 result: Resultado
 
 [strikethrough-text]: Tachado texto
+
 h1: Tachado texto
 desc: Tachado texto
 text: Texto
 example: Este é um exemplo
 
-strikethroughText: Tachado texto
-crossed: Sublinhado
-dotted: A linha pontilhada
-slash: Símbolo de barra
-doubleunderline: Sublinhado duplo
-waveline: Linha de onda
-ciphertext: Texto cifrado
-fullyshaded: Texto preenchido
-strikethroughSlash: Símbolo de barra alta
+strikethroughText: ̶T̶a̶c̶h̶a̶d̶o̶ ̶t̶e̶x̶t̶o̶
+crossed: ͟S͟u͟b͟l͟i͟n͟h͟a͟d͟o͟
+dotted: ̤A̤ ̤l̤i̤n̤h̤a̤ ̤p̤o̤n̤t̤i̤l̤h̤a̤d̤a̤
+slash: ̷S̷í̷m̷b̷o̷l̷o̷ ̷d̷e̷ ̷b̷a̷r̷r̷a̷
+doubleunderline: ͇S͇u͇b͇l͇i͇n͇h͇a͇d͇o͇ ͇d͇u͇p͇l͇o͇
+waveline: ̰L̰ḭn̰h̰a̰ ̰d̰ḛ ̰o̰n̰d̰a̰
+ciphertext: T҉e҉x҉t҉o҉ ҉c҉i҉f҉r҉a҉d҉o҉
+fullyshaded: ■■■■■ ■■■■■■■■■■
+strikethroughSlash: ̸S̸í̸m̸b̸o̸l̸o̸ ̸d̸e̸ ̸b̸a̸r̸r̸a̸ ̸a̸l̸t̸a̸
+
 
 [register-converter]: Converter texto
 h1: Converter texto
@@ -120,6 +121,14 @@ generate: Gerar
 warning: Selecione pelo menos um conjunto de caracteres para gerar sua senha
 
 
+[nickname-generator]: Gerador de Apelidos bonitos
+h1: Gerador de Apelidos bonitos
+desc: Decora o apelido
+
+text: Texto
+nickname: Apelido
+example: Maria
+
 [text-to-symbols]: Texto de símbolos
 h1: Texto de símbolos
 desc: Escreva texto em símbolos
@@ -133,3 +142,38 @@ background: Letras com fundo
 symbol-dolar: Letras de símbolo $
 symbol-lattice: Letras de símbolo #
 symbol-paragraph: Letras de símbolo ¶
+
+
+[typograph]: Tipógrafo
+h1: Tipógrafo
+
+plain: Texto original
+text: Texto
+html: HTML
+mnemonics: Entidades HTML
+example:  - "Exemplo..."
+result: Resultado
+first-level-quote: Aspas de primeiro nível
+second-level-quote: Aspas de segundo nível
+
+[secret-space]: Espaço em branco
+h1: Espaço em branco
+text: Texto original
+result: Texto formatado
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Teclado Emoji
+subtitle: Copie e cole qualquer emoji
+popular: Popular
+emoji: Emoji
+arrow: Símbolos de seta
+math: Matemática
+currency: Moeda
+letters: Cartas
+punctuation: Pontuação
+example: Exemplos de texto e símbolos ☆
+copy-text: Clique no símbolo e ele copie automaticamente!
+paste-text: Ele também vai para esta caixa, onde você pode inserir qualquer texto e decorá-lo com quaisquer símbolos!
+ok: Entendido!
+skip: Pular
+cool: Legal!

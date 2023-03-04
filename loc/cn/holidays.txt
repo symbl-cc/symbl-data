@@ -1,5 +1,4 @@
 dragon-boat-festival: 端午節 (華人)
-
 winter-olympic-games: 冬季奥林匹克运动会
 summer-olympic-games: 夏季奥林匹克运动会 2020
 fifa-world-cup: 國際足協世界盃
@@ -19,3 +18,25 @@ halloween:  万圣夜
 hanukkah: 光明节
 christmas: 聖誕節
 chinese-new-year: 春節
+
+new-year-date: 今天, 1月1日
+winter-olympic-games-date: 今天，2月4日
+valentine-day-date: 今天，2月14日
+8-march-date: 今天，3月8日
+saint-patricks-day-date: 今天，3月17日
+april-fools-day-date: 今天，4月1日
+1-may-date: 今天，5月1日
+eid-al-fitr-date: 今天，5月2日
+victory-day-date: 今天，5月9日
+uefa-champions-league-date: 今天，5月28日
+international-childrens-day-date: 今天，6月1日
+international-chess-day-date: 今天，7月20日
+birthday-of-the-smiley-date: 今天，9月19日
+oktoberfest-date: 今天，9月19日
+halloween-date: 今天10月31日
+fifa-world-cup-date: 今天，11月21日
+hanukkah-date: 今天，12月18日
+christmas-date: 今天，12月25日
+
+chinese-new-year-date: 今天，2月1日
+dragon-boat-festival-date: 今天，6月3日

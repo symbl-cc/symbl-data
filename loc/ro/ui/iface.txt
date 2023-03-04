@@ -1,3 +1,4 @@
+properties: Proprietăți
 hide: Ascunde
 show: Spectacol
 up: Sus
@@ -25,6 +26,9 @@ homepage: Pagina principala
 cookie-message: Acest site utilizează 🍪cookie-uri pentru a vă asigura că veți obține cea mai bună experiență.
 accept: Accept
 empty-cell: Celula goală
+block-description: Descriere
+more-information: Citeste mai mult
+back: Înapoi
 
 [mobile]
 to-full: Mergi la versiunea completă

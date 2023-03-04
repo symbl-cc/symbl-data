@@ -1,0 +1,10 @@
+Los Números Epact [BLOCK:coptic Copticos] son un bloque de Unicode que contiene formas de números coptos antiguos.
+
+Estos números se usaron en algunas regiones en lugar de letras del alfabeto copto. Se aplicaban para codificar números, como los números romanos, y ese proceso fue muy popular en todo el mundo. Los cristianos egipcios se aprovecharon de la oportunidad y convirtieron el copto en su lengua litúrgica. Aparte de eso, también hay evidencia de que copto es parte del dialecto Bohairic.
+
+El alfabeto copto contiene caracteres distintos para cada uno de los dígitos: 1-9 (no se indica 0), decenas del 10 al 90 y centenas del 100 al 900. Los números se componían de izquierda a derecha sumando sucesivamente los valores que representaba cada carácter o dígito. Aquí hay algunos ejemplos de los números: 
+
+[U:102ED] - 40
+[U:102F1] - 80
+
+[b]¡Hecho Divertido![/b] Hay un diacrítico que marca un mil [U:102E0]. Su función es multiplicar un dígito por mil (por lo que 5 con mil marcas = 5000, 900 con mil marcas indica 900 000). Por lo tanto, [U:102E0][U:102E0] representa un millón.

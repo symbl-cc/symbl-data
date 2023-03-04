@@ -6,8 +6,8 @@ meta-description: Unicode web service for character search. Find, copy and paste
 #{{code}} - код символа
 #{{block}} - раздел
 
-symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Name of the character: {{name}}, Unicode number for the sign: {{code}}, the icon is included in the block: {{block}}.
 symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
+symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Name of the character: {{name}}, Unicode number for the sign: {{code}}, the icon is included in the block: {{block}}.
 
 seo-symbol: symbol
 

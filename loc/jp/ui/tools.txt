@@ -1,9 +1,7 @@
 : ツール
 
-toolsListTitle: 他のツールも試してみてください
-
 [encoder]	: HTMLエンコーダー
-	
+
 desc	: HTMLコードや文字変換
 plain	: 文字
 full	: HTML
@@ -11,24 +9,25 @@ text	: HTMLとテキスト
 entities	: HTMLエンティティのエンコーディングを押してください
 br	: コーディングラップ
 result: 結果
-	
+example: これは栗です! ©
+
 [decoder]	: Unicodeデコーダー
-	
+
 desc	: Unicodeに文字エンコーディングは、テキスト、またはその逆をエスケープ
 example	: これは栗です
 code	: Unicodeは、テキストをエスケープ
 text	: テキスト
-	
+
 [flip]	: 覆します
-	
+
 desc	: 英語のアルファベットやキリル文字が来て「反転します」
 plain	: テキスト
 flipped	: 逆さまに！
 backed	: ただ、順序を逆にします
 result: 結果
-	
+
 [generator]	: Unicode文字テーブル生成
-	
+
 desc	: 指定された範囲内の文字のセットを生成します
 range	: スコープ
 format	: フォーマット
@@ -52,6 +51,7 @@ waveline: ウェーブライン
 ciphertext: 暗号化されたテキスト
 fullyshaded: 影付きテキスト
 strikethroughSlash: ハイスラッシュキャラクター
+
 
 [register-converter]: テキストケースコンバーター
 h1: テキストケースコンバーター
@@ -108,6 +108,13 @@ maxLength: 登場人物 (4-99)
 generate: 生成する
 warning: パスワードを作成するには、少なくとも1つの文字セットを選択してください
 
+[nickname-generator]: 아름다운 별명 생성기
+h1: 아름다운 별명 생성기
+desc: 별명을 장식합니다
+
+text: 텍스트
+nickname: 닉네임
+example: Maria
 
 [text-to-symbols]: 文字で構成されるテキスト
 h1: 文字で構成されるテキスト
@@ -122,3 +129,38 @@ background: 背景のある手紙
 symbol-dolar: 記号からの文字$
 symbol-lattice: 記号からの文字#
 symbol-paragraph: 記号からの文字¶
+
+
+[typograph]: タイポグラファー
+h1: タイポグラファー
+
+plain: 元のテキスト
+text: テキスト
+html: HTML
+mnemonics: HTMLエンティティ
+example:  - "これは栗です..."
+result: 結果
+first-level-quote: 第1レベルの引用符
+second-level-quote: 第2レベルの引用符
+
+[secret-space]: ホワイトスペース
+h1: ホワイトスペース
+text: 元のテキスト
+result: フォーマットされたテキスト
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: 絵文字キーボード
+subtitle: 絵文字をコピーして貼り付ける
+popular: 人気
+emoji: Emoji
+arrow: 矢印記号
+math: 数学
+currency: 通貨
+letters: 手紙
+punctuation: 句読点
+example: テキストと記号の例
+copy-text: 記号をクリックすると自動的にコピーされます！
+paste-text: また、このボックスにも移動します。このボックスでは、任意のテキストを入力して、任意の記号で装飾できます。
+ok: 了解した！
+skip: スキップ
+cool: 涼しい！

@@ -1,10 +1,10 @@
 currency: Moneda
-mathsymbols: Símbolos misceláneos
-punctuation: Puntuación
+punctuation: Símbolos de puntuación
 quotes: Comillas
 fractions: Fracciones
-mathsymbols: Símbolos matemáticos
-greekletters: Letras griegas
+math: Math Symbols
+symbols: Símbolos matemáticos
 latinletters: Letras latinas
 arrows: Flechas
-top_text: La tabla siguiente contiene los carácteres especiales y sus entidades HTML.
+greekletters: letras griegas
+top_text: La siguiente tabla se completa con caracteres especiales y sus entidades HTML.

@@ -22,7 +22,13 @@ copy-code: Kattintson a másoláshoz
 copy_button: Másolat
 copy_done: Másolt!
 version: Unicode verzió
-sets-with-this-symbol: Beállítja ezt a szimbólumot
+collections-with-this-symbol: Beállítja ezt a szimbólumot
 empty-symbol: Unicode-ban nincs meghatározva
 emoji_group: Az Emoji kategóriája
 emoji_version: Az Emoji verziója
+download: Letöltés
+displaying: Szimbólum Megjelenítése
+symbol_not_displayed: Miért nem jelenik meg a szimbólum?
+examples: Használati példák
+synonyms: Szinonimák
+in-development: Fejlesztés alatt áll

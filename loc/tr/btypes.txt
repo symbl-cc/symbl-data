@@ -1,0 +1,29 @@
+scripts: Yazma
+european-scripts: Avrupa yazıları
+modifier-letters: Değiştirici harfler
+combining-marks: Kombine işaretler
+miscellaneous: Çeşitliler
+african-scripts: Afrika yazıları
+middle-eastern-scripts: Orta Doğu yazıları
+central-asian-scripts: Orta Asya yazıları
+south-asian-scripts: Güney Asya yazıları
+southeast-asian-scripts: Güneydoğu Asya'nın Yazıları
+indonesian-philippine: Endonezyaca ve Filipinli yazılar
+east-asian-scripts: Doğu Asya yazıları
+american-scripts: Amerikan yazıları
+
+symbols-and-punctuation: Semboller ve noktalama işaretleri
+notational-systems: Tanımlama sistemleri
+punctuation: Noktalama işareti
+alphanumeric-symbols: Alfanümerik karakterler
+technical-symbols: Teknik semboller
+numbers-and-digits: Sayılar ve basamaklar
+mathematical-symbols: Matematik sembolleri
+emoji-and-pictographs: Emojiler ve simgeler
+other-symbols: Diğer karakterler
+specials: Özeller
+private-use: Özel kullanım
+surrogates: Vekiller
+noncharacters-in-charts: Grafiklerdeki karaktersiz karakterler
+
+groups.latin-ligatures: Latin Ligatures

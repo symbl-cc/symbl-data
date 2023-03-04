@@ -1,4 +1,4 @@
-: Buscar carácter
+: Buscar caracter
 find: Encontrar
 example: Ejemplo
 # phrases separated by ";"
@@ -6,19 +6,19 @@ example-text: arroba;a mayúscula con tilde;fracción vulgar de un cuarto
 h1: Buscar
 result: Resultado
 empty: Frase de búsqueda está vacía
-total: Resultados de la búsqueda: %s
+total: Resultados de búsqueda bajo demanda
 limit: (mostrar sólo %s)
-none: Nada encontrado
+none: Ninguno
 any: Buscar por cualquier palabra
-overflow: Lo sentimos, el símbolo U+% s está en desarrollo :)
-unicode-block: Lista de Secciones
+overflow: Lo sentimos, el símbolo U+% s está en construcción :)
+unicode-block: Lista de Secciones Unicode
 count-symbols: %s símbolos
-sets: Conjuntos
+collections: Conjunto
 alphabet: Alfabeto
 
 [empty]
-no_results: No hemos encontrado resultados para "{query}" en el español.
+no_results: No se encontraron resultados para "{query}" en español.
 language: Intenta cambiar el {idioma}.
 blocks: Explora los {bloques de Unicode}.
-sets: Míralo en {Conjuntos}.
+collections: Míralo en {Conjuntos}.
 table: Mira a través de la {tabla de caracteres} completa.

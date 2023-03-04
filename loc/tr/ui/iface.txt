@@ -1,3 +1,4 @@
+properties: Özellikler
 hide: Sakla
 show: Gösteri
 up: Up
@@ -28,6 +29,9 @@ homepage: Anasayfa
 cookie-message: Bu site en iyi deneyimi yaşamanızı sağlamak için 🍪çerezleri kullanır.
 accept: Kabul etmek
 empty-cell: Boş hücre
+block-description: Tanım
+more-information: Daha fazla oku
+back: Geri
 
 [mobile]
 to-full: Tam sürüme git
@@ -38,5 +42,5 @@ save: Kayıt etmek
 submit: Gönder
 undo: Geri alma
 send-changes: Değişiklikleriniz web sitesi geliştiricilerine gönderilecek. Emin misiniz?
-thanks: Teşekkürler! 
+thanks: Teşekkürler!
 

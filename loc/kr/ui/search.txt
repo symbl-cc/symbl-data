@@ -6,19 +6,19 @@ example-text: 화살표;심장;스타
 h1: 검색
 result: 검색 결과
 empty: 검색 키워드가 비어 있습니다
-total: 검색 결과:%s
+total: 주문형 검색 결과
 limit: （보기 만 %s）
 none: 아니
 any: 키워드로 검색
 overflow: 미안，U+%s 생산에 여전히 데이터베이스
 unicode-block: 유니 코드 문자열 목록
 count-symbols: %s 상징
-sets: 그룹
+collections: 그룹
 alphabet: 편지
 
 [empty]
 no_results: "{query}"에 대한 한국어 결과가 없습니다.
 language: {언어}를 변경하십시오.
 blocks: {유니 코드 블록을} 탐색하십시오.
-sets: 그것을 {세트}로보세요.
+collections: 그것을 {세트}로보세요.
 table: {전체 문자} 표를 살펴보십시오.

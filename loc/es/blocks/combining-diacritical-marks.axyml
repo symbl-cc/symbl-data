@@ -1,0 +1,23 @@
+## Caracteres combinables
+
+Los símbolos que tienen representación gráfica en el estándar Unicode se dividen en ordinarios y combinables (o modificables). Los combinables se llaman así porque cuando aparecen en tu pantalla se combinan con un símbolo ordinario juntos (modificándolo).
+
+Por ejemplo, hay un símbolo [U:0418] (una letra rusa, se pronuncia como [i:] en inglés). Esta letra es bastante independiente, tiene su propia representación gráfica y ocupa un lugar en la línea de texto (carácter extendido).
+
+Y hay un símbolo combinable [U:0306] (semicírculo superíndice). La combinación de estos dos caracteres [U+0418 + U+0306] da la letra [U:0419] (letra mayúscula cirílica corta).
+
+Puedes combinar el símbolo de modificación con otro símbolo ordinario. Por ejemplo, si tomas [U:044B] y lo combinarías, tendrás un monstruo como esto: [b][html &#1099;&#774;][/b].
+
+Los caracteres combinados no ocupan espacio en la cadena (caracteres no enlazados) y su uso separado sin los caracteres ordinarios sirve para nada.
+
+Para muchas combinaciones hay varios símbolos monolíticos. Por ejemplo, para la misma letra rusa corta [U:0419] hay una posición de código separada [U:0419 *].
+
+## Signos diacríticos
+
+Los signos diacríticos son varios superíndices, subíndices y otros caracteres. Si usas sólo ellos sin signos adicionales, no denotan ningún sonido, pero tienen la poder de cambiar la pronunciación de otras letras.
+En general, no ocupan un lugar separado en la línea, sino que complementan la forma del carácter principal.
+
+La diacrítica incluye varios acentos, anuncios, cambios en la tonalidad. En diferentes idiomas se pueden utilizar los mismos signos que tienen un significado diferente.
+Por ejemplo, [b]о[html &#768;][/b] puede ser un acento (en ruso), un indicador de longitud (en checo) o un consonante suave (en Polaco).
+
+Muchas combinaciones de letras con signos diacríticos eventualmente se han convertido en letras separadas y ya no se consideran como partes combinadas juntas. Por ejemplo, la misma letra de la que hemos hablado [U:0419].

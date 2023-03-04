@@ -45,7 +45,7 @@
 1342C: Egyptian Hieroglyph Aa030
 1342D: Egyptian Hieroglyph Aa031
 1342E: Egyptian Hieroglyph Aa032
-1342F:
+1342F: Egyptian Hieroglyph V011d
 13430: Egyptian Hieroglyph Vertical Joiner
 13431: Egyptian Hieroglyph Horizontal Joiner
 13432: Egyptian Hieroglyph Insert At Top Start
@@ -55,35 +55,35 @@
 13436: Egyptian Hieroglyph Overlay Middle
 13437: Egyptian Hieroglyph Begin Segment
 13438: Egyptian Hieroglyph End Segment
-13439:
-1343A:
-1343B:
-1343C:
-1343D:
-1343E:
-1343F:
-13440:
-13441:
-13442:
-13443:
-13444:
-13445:
-13446:
-13447:
-13448:
-13449:
-1344A:
-1344B:
-1344C:
-1344D:
-1344E:
-1344F:
-13450:
-13451:
-13452:
-13453:
-13454:
-13455:
+13439: Egyptian Hieroglyph Insert At Middle
+1343A: Egyptian Hieroglyph Insert At Top
+1343B: Egyptian Hieroglyph Insert At Bottom
+1343C: Egyptian Hieroglyph Begin Enclosure
+1343D: Egyptian Hieroglyph End Enclosure
+1343E: Egyptian Hieroglyph Begin Walled Enclosure
+1343F: Egyptian Hieroglyph End Walled Enclosure
+13440: Egyptian Hieroglyph Mirror Horizontally
+13441: Egyptian Hieroglyph Full Blank
+13442: Egyptian Hieroglyph Half Blank
+13443: Egyptian Hieroglyph Lost Sign
+13444: Egyptian Hieroglyph Half Lost Sign
+13445: Egyptian Hieroglyph Tall Lost Sign
+13446: Egyptian Hieroglyph Wide Lost Sign
+13447: Egyptian Hieroglyph Modifier Damaged At Top Start
+13448: Egyptian Hieroglyph Modifier Damaged At Bottom Start
+13449: Egyptian Hieroglyph Modifier Damaged At Start
+1344A: Egyptian Hieroglyph Modifier Damaged At Top End
+1344B: Egyptian Hieroglyph Modifier Damaged At Top
+1344C: Egyptian Hieroglyph Modifier Damaged At Bottom Start And Top End
+1344D: Egyptian Hieroglyph Modifier Damaged At Start And Top
+1344E: Egyptian Hieroglyph Modifier Damaged At Bottom End
+1344F: Egyptian Hieroglyph Modifier Damaged At Top Start And Bottom End
+13450: Egyptian Hieroglyph Modifier Damaged At Bottom
+13451: Egyptian Hieroglyph Modifier Damaged At Start And Bottom
+13452: Egyptian Hieroglyph Modifier Damaged At End
+13453: Egyptian Hieroglyph Modifier Damaged At Top And End
+13454: Egyptian Hieroglyph Modifier Damaged At Bottom And End
+13455: Egyptian Hieroglyph Modifier Damaged
 13456:
 13457:
 13458:

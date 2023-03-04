@@ -1,0 +1,5 @@
+The Makassar script was used in Indonesia, in the province of South Sulawesi to write the Makassar language. As for the shape of the characters, in English-language literature it is called "bird". It was invented in the 17th century for administrative purposes based on [BLOCK:rejang Rejang]. In the 19th it was completely replaced by [BLOCK:buginese Buginese].
+
+Makassar is an abugida. The words go horizontally from left to right. The sound /a/ is added to the base consonant by default. The other 4 vowels can be added to the consonant, each strictly from its side: top, right, bottom or left. They are encoded as attachable. The independent letter "a" can be used in combination with other vowels when a syllable does not have a consonant.
+
+The Makassar script does not have its own writing of numbers. Instead, European or [BLOCK:arabic Indo-Arabic numerals] were used. Punctuation marks include a character for sentence division, and an end-of-text icon. Words were not always separated by spaces.

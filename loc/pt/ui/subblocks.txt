@@ -1,7 +1,11 @@
 0000-001F: Controles C0
-0020-002F: Pontuação e símbolos ASCII
+#0020-002A: ***ASCII punctuation and symbols
+#002B-002B: ***ASCII math operator
+#002C-002F: ***ASCII punctuation
 0030-0039: Dígitos ASCII
-003A-0040: Pontuação e símbolos ASCII
+#003A-003B: ***ASCII punctuation
+#003C-003E: ***ASCII mathematical operators
+#003F-0040: ***ASCII punctuation
 0041-005A: Alfabeto latino maiúsculo
 005B-0060: Pontuação e símbolos ASCII
 0061-007A: Alfabeto latino minúsculo
@@ -129,7 +133,7 @@
 0617-061A: Sinais de anotação do Alcorão
 061B-061B: Pontuação
 061C-061C: Formatar caractere
-061E-061F: Pontuação
+#061D-061F: ***Punctuation
 0620-0620: Adição para Caxemira
 0621-063A: Baseado na ISO 8859-6
 063B-063F: Adições para os primeiros persas e azerbaijanos
@@ -143,7 +147,9 @@
 0670-0670: Tashkil
 0671-0672: Letras árabes estendidas
 0673-0673: Carta obsoleta
-0674-06D3: Letras árabes estendidas
+#0674-0674: ***High hamza
+#0675-0678: ***Digraphic letters for Kazakh
+#0679-06D3: ***Extended Arabic letters
 06D4-06D4: Pontuação
 06D5-06D5: Carta estendida em árabe
 06D6-06ED: Sinais de anotação do Alcorão
@@ -188,16 +194,25 @@
 0859-085B: Diacríticos
 085E-085E: Pontuação
 0860-086A: Letras siríacas
+#0870-0888: ***Additions for Quranic orthographies
+#0889-088A: ***Additions for Bosnian orthographies
+#088B-088D: ***Additions for Pegon orthographies
+#088E-088E: ***Abbreviation mark
+#0890-0891: ***Supertending currency symbols
+#0898-089F: ***Additions for Quranic orthographies
 08A0-08A9: Letras árabes para idiomas africanos
 08AA-08AC: Consoantes dependentes para Rohingya
 08AD-08B1: Letras árabes para idiomas da Europa e da Ásia Central
 08B2-08B2: Letra árabe para berbere
 08B3-08B4: Letras árabes para Arwi
+#08B5-08B5: ***Early Arabic letter
 08B6-08BA: Letras árabes para Bravanese
 08BB-08BD: Letras árabes para ortografia Warsh
 08BE-08C2: Letras árabes para Hindko
 08C3-08C6: Letras árabes para Hausa, Wolof e outras ortografias africanas
 08C7-08C7: Letra árabe para Punjabi
+#08C8-08C8: ***Arabic letter for Balti
+#08C9-08D2: ***Additions for Quranic orthographies
 08D3-08E2: Sinais de anotação do Alcorão
 08E3-08E3: Sinal de vogal estendido para Arwi
 08E4-08E9: Sinais de vogal estendida para Rohingya
@@ -309,11 +324,13 @@
 0C00-0C04: Vários sinais
 0C05-0C14: Vogais independentes
 0C15-0C39: Consoantes
+#0C3C-0C3C: ***Sign
 0C3D-0C3D: Adição para sânscrito
 0C3E-0C4C: Sinais de vogal dependente
 0C4D-0C4D: Virama
 0C55-0C56: Vários sinais
 0C58-0C5A: Variantes fonéticas históricas
+#0C5D-0C5D: ***Consonant
 0C60-0C61: Vogais adicionais para sânscrito
 0C62-0C63: Vogais dependentes
 0C64-0C65: Reservado
@@ -327,12 +344,12 @@
 0CBE-0CCC: Sinais de vogal dependente
 0CCD-0CCD: Virama
 0CD5-0CD6: Vários sinais
-0CDE-0CDE: Consoantes adicionais
+#0CDD-0CDE: ***Additional consonants
 0CE0-0CE1: Vogais adicionais para sânscrito
 0CE2-0CE3: Vogais dependentes
 0CE4-0CE5: Reservado
 0CE6-0CEF: Dígitos
-0CF1-0CF2: Sinais usados ​​em sânscrito
+#0CF1-0CF3: ***Signs used in Sanskrit
 0D00-0D04: Vários sinais
 0D05-0D14: Vogais independentes
 0D15-0D3A: Consoantes
@@ -386,7 +403,7 @@
 0EC0-0EC4: Vogais
 0EC6-0EC6: Marca de repetição
 0EC8-0ECB: Marcas de tom
-0ECC-0ECD: Sinais
+#0ECC-0ECE: ***Signs
 0ED0-0ED9: Dígitos
 0EDC-0EDD: Digraphs
 0EDE-0EDF: Consoantes para Khmu
@@ -468,7 +485,8 @@
 13F8-13FC: Sílabas em minúsculas
 13FD-13FD: Sílaba arcaica em minúsculas
 1400-1400: Pontuação
-1401-166C: Sílabas
+#1401-15C3: ***Syllables
+#15C4-166C: ***Syllables for Carrier
 166D-166D: Símbolo
 166E-166E: Pontuação
 166F-167F: Sílabas
@@ -484,7 +502,8 @@
 1700-1702: Vogais independentes
 1703-1711: Consoantes
 1712-1713: Sinais de vogal dependente
-1714-1714: Virama
+#1714-1715: ***Viramas
+#171F-171F: ***Archaic letter
 1720-1722: Vogais independentes
 1723-1731: Consoantes
 1732-1733: Sinais de vogal dependente
@@ -514,7 +533,7 @@
 17E0-17E9: Dígitos
 17F0-17F9: Símbolos numéricos para conhecimento de adivinhação
 1800-180A: Pontuação
-180B-180E: Controles de formato
+#180B-180F: ***Format controls
 1810-1819: Dígitos
 1820-1842: Cartas básicas
 1843-185C: Todo letters
@@ -561,20 +580,26 @@
 1AA3-1AA6: Pontuação
 1AA7-1AA7: Placa
 1AA8-1AAD: Pontuação
-1AB0-1ABE: Usado para dialectologia alemã
+#1AB0-1ABA: ***Used in German dialectology
+#1ABB-1ABE: ***Marks surrounding other diacritics or letters
 1ABF-1AC0: Usado para dialectologia escocesa
+#1AC1-1AC5: ***Marks next to or surrounding other diacritics
+#1AC6-1AC6: ***Phonetic sign
+#1AC7-1ACA: ***Used in extended IPA
+#1ACB-1ACE: ***Used in Middle English Ormulum
 1B00-1B04: Vários sinais
 1B05-1B12: Vogais independentes
 1B13-1B33: Consoantes
 1B34-1B34: Placa
 1B35-1B43: Sinais de vogal dependente
 1B44-1B44: Placa
-1B45-1B4B: Consoantes adicionais
+#1B45-1B4C: ***Additional consonants
 1B50-1B59: Dígitos
 1B5A-1B60: Pontuação
 1B61-1B6A: Símbolos musicais para notas
 1B6B-1B73: Marcas diacríticas para símbolos musicais
 1B74-1B7C: Símbolos musicais
+#1B7D-1B7E: ***Punctuation
 1B80-1B82: Vários sinais
 1B83-1B89: Vogais
 1B8A-1BA0: Consoantes
@@ -689,7 +714,7 @@
 2070-207F: Sobrescritos
 2080-2094: Inscritos
 2095-209C: Subscrições para UPA
-20A0-20BF: Símbolos de moeda
+#20A0-20C0: ***Currency symbols
 20D0-20DC: Combinando sinais diacríticos para símbolos
 20DD-20E0: Diacríticos anexos
 20E1-20E1: Marca diacrítica adicional para símbolos
@@ -797,7 +822,7 @@
 23E3-23E3: Símbolo de química
 23E4-23E8: Diversos técnicos
 23E9-23FA: Símbolos da interface do usuário
-23FB-23FD: Símbolos de energia da ISO 7000:2012
+#23FB-23FD: ***Power symbols from ISO 7000:2012
 23FE-23FE: Símbolo de potência da IEEE 1621-2004
 23FF-23FF: Símbolo diverso
 2400-2421: Imagens gráficas para códigos de controle
@@ -1014,8 +1039,8 @@
 2BF3-2BF8: Aspectos astrológicos russos
 2BF9-2BFE: Símbolos usados ​​na notação de xadrez
 2BFF-2BFF: Símbolo diverso
-2C00-2C2E: Letras maiúsculas
-2C30-2C5E: Letras pequenas
+#2C00-2C2F: ***Capital letters
+#2C30-2C5F: ***Small letters
 2C60-2C66: Adições ortográficas em latim
 2C67-2C6C: Adições para uigures
 2C6D-2C74: Adições diversas
@@ -1065,7 +1090,10 @@
 2E41-2E42: Pontuação invertida
 2E43-2E44: Pontuação variada
 2E45-2E49: Pontuação do Typicon
-2E4A-2E52: Pontuação histórica
+#2E4A-2E54: ***Historic punctuation
+#2E55-2E58: ***Brackets
+#2E59-2E5C: ***Parentheses top and bottom halves
+#2E5D-2E5D: ***Oblique hyphen
 2E80-2EF3: Suplemento de radicais CJK
 2F00-2FD5: Radicais Kangxi
 2FF0-2FFB: Caracteres de descrição ideográfica
@@ -1206,9 +1234,13 @@ A7B3-A7B3: Carta de dialectologia alemã
 A7B4-A7B7: Cartas para línguas africanas
 A7B8-A7B9: Cartas para Mazahua (México)
 A7BA-A7BF: Cartas para transliteração ugarítica e egiptológica
-A7C2-A7C3: Cartas adicionais
+#A7C0-A7C3: ***Additional medieval letters
 A7C4-A7C6: Cartas usadas na romanização inicial de Pinyin
 A7C7-A7CA: Cartas adicionais para gaulês
+#A7D0-A7D5: ***Letters used in the Middle English Ormulum
+#A7D6-A7D9: ***Letters used in medieval palaeography
+#A7F2-A7F3: ***Modifier letters for Chatino (México)
+#A7F4-A7F4: ***Modifier letter for Japanese phonemic transcription
 A7F5-A7F7: Cartas epigráficas gaulesas e celtas antigas
 A7F8-A7F9: Adições ao IPA estendido
 A7FA-A7FA: Adição para UPA
@@ -1250,8 +1282,8 @@ A8F8-A8FB: Marcas editoriais
 A8FC-A8FD: Sinais
 A8FE-A8FF: Vogal e sinal de vogal adicionais
 A900-A909: Dígitos
-A90A-A925: Consoantes
-A926-A92A: Vogais
+#A90A-A921: ***Consonants
+#A922-A92A: ***Vowels
 A92B-A92D: Marcas de tom
 A92E-A92F: Pontuação
 A930-A946: Consoantes
@@ -1319,7 +1351,7 @@ ABEB-ABED: Pontuação
 ABF0-ABF9: Dígitos
 D7B0-D7C6: Vogais mediais antigas
 D7CB-D7FB: Consoantes finais antigas
-F900-FA0B: Variantes de pronúncia de KS X 1001:1998
+#F900-FA0B: ***Pronunciation variants from KS X 1001:1998
 FA0C-FA0D: Caracteres duplicados do Big 5
 FA0E-FA2D: Os ideógrafos de compatibilidade da IBM 32
 FA2E-FA2F: Ideógrafos de compatibilidade coreanos
@@ -1330,15 +1362,17 @@ FB00-FB06: Ligaduras latinas
 FB13-FB17: Ligaduras armênias
 FB1D-FB4F: Formas de apresentação em hebraico
 FB50-FBB1: Glifos para formas contextuais de letras para persa, urdu, sindi etc.
-FBB2-FBC1: Símbolos pedagógicos árabes
+#FBB2-FBC2: ***Arabic pedagogical symbols
 FBD3-FBE9: Glifos para formas contextuais de letras para idiomas da Ásia Central
 FBEA-FD3D: Ligaduras (dois elementos)
 FD3E-FD3F: Pontuação
+#FD40-FD4F: ***Honorific word ligatures
 FD50-FDC7: Ligaduras (três elementos)
+#FDCF-FDCF: ***Honorific word ligature
 FDD0-FDEF: Não caracteres
 FDF0-FDFB: Ligaduras de palavras
 FDFC-FDFC: Símbolo monetário
-FDFD-FDFD: Símbolo
+#FDFD-FDFF: ***Honorific word ligatures
 FE00-FE0D: Seletores de variação
 FE0E-FE0F: Seletores de variação específicos para Emoji
 FE10-FE19: Glifos para variantes verticais
@@ -1420,12 +1454,16 @@ FFFE-FFFF: Não caracteres
 10500-10527: Cartas
 10530-10563: Cartas
 1056F-1056F: Pontuação
+#10570-10595: ***Capital letters
+#10597-105BC: ***Small letters
 10600-1069F: Sinais simples
 106A0-106B2: Formas de vaso
 106B3-10726: Sinais complexos
 10727-10736: Sinais complexos com formas de vaso
 10740-10755: Frações e frações compostas
 10760-10767: Sinais adicionais
+#10780-10780: ***Modifier letter for VoQS
+#10781-107BA: ***Modifier letters for IPA
 10800-1083F: Sílabas
 10840-10855: Cartas
 10857-10857: Pontuação
@@ -1505,6 +1543,7 @@ FFFE-FFFF: Não caracteres
 10EAB-10EAC: Combinando marcas
 10EAD-10EAD: Pontuação
 10EB0-10EB1: Cartas históricas com diacríticos
+#10EFD-10EFF: ***Quranic marks used in Turkey
 10F00-10F1C: Cartas
 10F1D-10F26: Números
 10F27-10F27: Ligadura
@@ -1513,6 +1552,9 @@ FFFE-FFFF: Não caracteres
 10F46-10F50: Combinando marcas
 10F51-10F54: Números
 10F55-10F59: Pontuação
+#10F70-10F81: ***Letters
+#10F82-10F85: ***Combining signs
+#10F86-10F89: ***Punctuation
 10FB0-10FC4: Cartas
 10FC5-10FCB: Números
 10FE0-10FF5: Cartas
@@ -1525,6 +1567,10 @@ FFFE-FFFF: Não caracteres
 11047-1104D: Pontuação
 11052-11065: Números
 11066-1106F: Dígitos
+#11070-11070: ***Virama
+#11071-11072: ***Independent vowels
+#11073-11074: ***Dependent vowel signs
+#11075-11075: ***Consonant
 1107F-1107F: Marcador de número
 11080-11082: Vários sinais
 11083-1108C: Vogais independentes
@@ -1533,6 +1579,7 @@ FFFE-FFFF: Não caracteres
 110B9-110B9: Virama
 110BA-110BD: Vários sinais
 110BE-110C1: Pontuação
+#110C2-110C2: ***Vowel sign
 110CD-110CD: Placa
 110D0-110E1: Consoantes
 110E2-110E7: Vogais
@@ -1576,6 +1623,9 @@ FFFE-FFFF: Não caracteres
 11234-11237: Vários sinais
 11238-1123D: Pontuação
 1123E-1123E: Placa
+#1123F-1123F: ***Consonant
+#11240-11240: ***Independent vowel
+#11241-11241: ***Dependent vowel sign
 11280-11283: Vogais
 11284-112A8: Consoantes
 112A9-112A9: Pontuação
@@ -1640,6 +1690,7 @@ FFFE-FFFF: Não caracteres
 116B6-116B6: Virama
 116B7-116B7: Nukta
 116B8-116B8: Consoante
+#116B9-116B9: ***Punctuation
 116C0-116C9: Dígitos
 11700-1171A: Consoantes
 1171D-1171F: Mediais
@@ -1647,6 +1698,7 @@ FFFE-FFFF: Não caracteres
 11730-11739: Dígitos
 1173A-1173B: Números
 1173C-1173F: Pontuação
+#11740-11746: ***Additional consonants
 11800-11809: Vogais independentes
 1180A-1182B: Consoantes
 1182C-11836: Sinais de vogal dependente
@@ -1702,10 +1754,14 @@ FFFE-FFFF: Não caracteres
 11A9D-11A9D: Marca de alongamento
 11A9E-11AA0: Marcas na cabeça
 11AA1-11AA2: Marcas de terminal
+#11AB0-11ABB: ***Syllables for Nattilik
+#11ABC-11ABF: ***Historic syllables for Cree and Ojibway
 11AC0-11AD4: Consoantes
 11AD5-11ADB: Vogais
 11ADC-11AE4: Consoantes finais
 11AE5-11AF8: Marcas de tom
+#11B00-11B01: ***Head marks
+#11B02-11B09: ***Auspicious signs
 11C00-11C0D: Vogais independentes
 11C0E-11C2E: Consoantes
 11C2F-11C3B: Sinais de vogal dependente
@@ -1738,6 +1794,13 @@ FFFE-FFFF: Não caracteres
 11EF2-11EF2: Reduplicador consoante
 11EF3-11EF6: Sinais de vogal
 11EF7-11EF8: Pontuação
+#11F00-11F03: ***Signs
+#11F04-11F10: ***Independent vowels
+#11F12-11F33: ***Consonants
+#11F34-11F40: ***Dependent vowel signs
+#11F41-11F42: ***Viramas
+#11F43-11F4F: ***Punctuation
+#11F50-11F59: ***Digits
 11FB0-11FB0: Carta
 11FC0-11FD4: Frações
 11FD5-11FDC: Medidas de grãos
@@ -1757,6 +1820,8 @@ FFFE-FFFF: Não caracteres
 12469-1246E: Sinais numéricos
 12470-12474: Pontuação
 12480-12543: Sinais
+#12F90-12FF0: ***Signs
+#12FF1-12FF2: ***Punctuation
 13000-1304F: A. O homem e suas ocupações
 13050-13059: B. Mulher e suas ocupações
 1305A-13075: C. Deidades antropomórficas
@@ -1785,10 +1850,16 @@ FFFE-FFFF: Não caracteres
 133DB-133E3: Y. Escritos, jogos, música
 133E4-1340C: Z. Traços, sinais derivados de figuras geométricas hierárquicas
 1340D-1342E: Aa. Não classificado
+#1342F-1342F: ***Addition to group V
 13430-13431: Marceneiros
 13432-13435: Controles de inserção de sinal
 13436-13436: Controle de empilhamento de sinal
 13437-13438: Delimitadores de escopo de segmento
+#13439-1343B: ***Sign insertion controls
+#1343C-1343F: ***Enclosure controls
+#13440-13440: ***Mirror control
+#13441-13446: ***Blank and lost signs
+#13447-13455: ***Damage modifiers
 14400-14469: A. O corpo humano e as roupas
 1446A-144AF: B. Animais
 144B0-144D0: C. Plantas
@@ -1809,6 +1880,9 @@ FFFE-FFFF: Não caracteres
 16A40-16A5E: Cartas
 16A60-16A69: Dígitos
 16A6E-16A6F: Pontuação
+#16A70-16A9F: ***Vowels
+#16AA0-16ABE: ***Consonants
+#16AC0-16AC9: ***Digits
 16AD0-16AE6: Cartas consoantes
 16AE7-16AED: Letras de vogal
 16AF0-16AF4: Combinando marcas de tom
@@ -1878,12 +1952,16 @@ FFFE-FFFF: Não caracteres
 18CC0-18CCB: Radical-18
 18CCC-18CD2: Radical-19
 18CD3-18CD5: Radical-20
+#1AFF0-1AFF6: ***Tone marks
+#1AFF7-1AFFE: ***Nasalized tone marks
 1B000-1B000: Katakana histórico
 1B001-1B001: Hiragana e Hentaigana Históricos
 1B002-1B0FF: Hentaigana
 1B100-1B11E: Hentaigana
-1B150-1B152: Letras históricas pequenas hiragana
-1B164-1B167: Letras históricas de katakana pequenas
+#1B11F-1B11F: ***Historic Hiragana
+#1B120-1B122: ***Historic Katakana
+#1B132-1B152: ***Historic small hiragana letters
+#1B155-1B167: ***Historic small katakana letters
 1B170-1B170: Caractere de um toque
 1B171-1B177: Caracteres de dois tempos
 1B178-1B18A: Caracteres de três tempos
@@ -1922,6 +2000,10 @@ FFFE-FFFF: Não caracteres
 1BC9E-1BC9E: Marca dupla de taquigrafia
 1BC9F-1BC9F: Pontuação de Chinook
 1BCA0-1BCA3: Controles de formato abreviado
+#1CF00-1CF2D: ***Combining red marks
+#1CF30-1CF41: ***Combining black marks
+#1CF42-1CF46: ***Modifying marks for priznaki
+#1CF50-1CFC3: ***Znamenny neumes
 1D000-1D002: Prosódias (Prosódica)
 1D003-1D014: Ekfonetika
 1D015-1D045: Melodimata (Melódicos)
@@ -1975,9 +2057,11 @@ FFFE-FFFF: Não caracteres
 1D1DF-1D1DF: Ornamentação
 1D1E0-1D1E7: Notas
 1D1E8-1D1E8: Acidental
+#1D1E9-1D1EA: ***Accidentals for quarter tones
 1D200-1D21C: Notação vocal grega antiga
 1D21D-1D241: Notação instrumental do grego clássico
 1D242-1D245: Outros símbolos de notação musical grega
+#1D2C0-1D2D3: ***Numerals
 1D2E0-1D2F3: Números maias
 1D300-1D300: Monograma
 1D301-1D305: Digrams
@@ -2035,7 +2119,19 @@ FFFE-FFFF: Não caracteres
 1DA87-1DA8B: Pontuação
 1DA9B-1DA9F: Modificadores de preenchimento
 1DAA1-1DAAF: Modificadores de rotação
+#1DF00-1DF07: ***Extended IPA for disordered speech
+#1DF08-1DF0A: ***IPA extensions
+#1DF0B-1DF10: ***Clicks
+#1DF11-1DF11: ***Lateral
+#1DF12-1DF18: ***Letters with palatal hooks
+#1DF19-1DF1D: ***Letters with retroflex hooks
+#1DF1E-1DF1E: ***IPA extension
+#1DF25-1DF2A: ***Letters for Malayalam transliteration
 1E000-1E02A: Combinando letras
+#1E030-1E050: ***Superscript modifier letters
+#1E051-1E06A: ***Subscript modifier letters
+#1E06B-1E06D: ***Superscript modifier letters
+#1E08F-1E08F: ***Diacritical mark
 1E100-1E123: Onsons consoantes
 1E124-1E12C: Rimas de vogal
 1E130-1E136: Marcas de tom
@@ -2044,10 +2140,17 @@ FFFE-FFFF: Não caracteres
 1E13D-1E13D: Alongador de sílabas
 1E140-1E149: Dígitos
 1E14E-1E14F: Símbolos
+#1E290-1E2A0: ***Basic consonants
+#1E2A1-1E2AD: ***Basic vowels
+#1E2AE-1E2AE: ***Sign
 1E2C0-1E2EB: Cartas
 1E2EC-1E2EF: Marcas de tom
 1E2F0-1E2F9: Dígitos
 1E2FF-1E2FF: Símbolo monetário
+#1E4D0-1E4EA: ***Letters
+#1E4EB-1E4EF: ***Various signs
+#1E4F0-1E4F9: ***Digits
+#1E7E0-1E7FE: ***Syllables for Gurage
 1E800-1E807: Sílabas em k-
 1E808-1E810: Sílabas em w-
 1E811-1E813: Sílabas em wv-
@@ -2259,7 +2362,7 @@ FFFE-FFFF: Não caracteres
 1F6CB-1F6CF: Símbolos de acomodação
 1F6D0-1F6D2: Sinalização e outros símbolos
 1F6D3-1F6D7: Símbolos do mapa
-1F6E0-1F6E4: Símbolos diversos
+#1F6DC-1F6E4: ***Miscellaneous symbols
 1F6E5-1F6FC: Veículos
 1F700-1F704: Símbolos para elementos aristotélicos
 1F705-1F70C: Símbolos para solventes importantes
@@ -2275,6 +2378,9 @@ FFFE-FFFF: Não caracteres
 1F765-1F76D: Aparelho
 1F76E-1F771: Tempo
 1F772-1F773: Medidas
+#1F774-1F774: ***Other symbol
+#1F775-1F776: ***Eclipse symbols
+#1F77B-1F77F: ***Symbols for dwarf planets
 1F780-1F783: Triângulos retângulos isósceles
 1F784-1F784: Círculos pretos
 1F785-1F789: Círculos brancos
@@ -2301,8 +2407,10 @@ FFFE-FFFF: Não caracteres
 1F7CE-1F7D1: Oito estrelas pontiagudas
 1F7D2-1F7D4: Doze estrelas pontiagudas
 1F7D5-1F7D8: Ir marcadores de pedra
+#1F7D9-1F7D9: ***Nine pointed star
 1F7E0-1F7E4: Círculos coloridos
 1F7E5-1F7EB: Quadrados coloridos
+#1F7F0-1F7F0: ***Miscellaneous symbol
 1F800-1F80B: Setas com setas de triângulo
 1F810-1F81F: Setas com setas de triângulo equilátero
 1F820-1F833: Setas com pontas de triângulo com pesos de eixo diferentes
@@ -2338,6 +2446,7 @@ FFFE-FFFF: Não caracteres
 1F9B8-1F9B9: Símbolos de função
 1F9BA-1F9BF: Símbolos de acessibilidade
 1F9C0-1F9CB: Símbolos alimentares
+#1F9CC-1F9CC: ***Fantasy being
 1F9CD-1F9CF: Símbolos de retrato e acessibilidade
 1F9D0-1F9D8: Símbolos de retrato e papel
 1F9D9-1F9DF: Seres de fantasia
@@ -2357,13 +2466,21 @@ FFFE-FFFF: Não caracteres
 1FA4E-1FA53: Símbolos de xadrez híbridos
 1FA60-1FA6D: Símbolos Xiangqi
 1FA70-1FA74: Roupas
-1FA78-1FA7A: Símbolos médicos
+#1FA75-1FA77: ***Colored heart symbols
+#1FA78-1FA7C: ***Medical symbols
 1FA80-1FA86: Brinquedos e símbolos do esporte
-1FA90-1FAA8: Objetos diversos
-1FAB0-1FAB6: Animais e natureza
+#1FA87-1FA88: ***Musical instruments
+#1FA90-1FAAE: ***Miscellaneous objects
+#1FAAF-1FAAF: ***Religious symbol
+#1FAB0-1FABF: ***Animals and nature
 1FAC0-1FAC1: Partes do corpo
-1FAC2-1FAC2: Pessoas
-1FAD0-1FAD6: Comida e bebida
+#1FAC2-1FAC5: ***People
+#1FACE-1FACF: ***Animals and nature
+#1FAD0-1FADB: ***Food and drink
+#1FAE0-1FAE5: ***Faces
+#1FAE6-1FAE7: ***Emotion
+#1FAE8-1FAE8: ***Face
+#1FAF0-1FAF8: ***Hand symbols
 1FB00-1FB3B: Bloquear caracteres gráficos do terminal de mosaico
 1FB3C-1FB6F: Caracteres gráficos do terminal de mosaico liso
 1FB70-1FB8B: Elementos do bloco
@@ -2399,3 +2516,32 @@ E007F-E007F: Terminador de etiqueta com estado
 E0100-E01EF: Seletores de variação específicos para ideografia
 EFFFE-EFFFF: Não caracteres
 FFFFE-FFFFF: Não caracteres
+#0020-002F: Pontuação e símbolos ASCII
+#003A-0040: Pontuação e símbolos ASCII
+#061E-061F: Pontuação
+#0674-06D3: Letras árabes estendidas
+#0CDE-0CDE: Consoantes adicionais
+#0CF1-0CF2: Sinais usados ​​em sânscrito
+#0ECC-0ECD: Sinais
+#1401-166C: Sílabas
+#1714-1714: Virama
+#180B-180E: Controles de formato
+#1AB0-1ABE: Usado para dialectologia alemã
+#1B45-1B4B: Consoantes adicionais
+#20A0-20BF: Símbolos de moeda
+#2C00-2C2E: Letras maiúsculas
+#2C30-2C5E: Letras pequenas
+#2E4A-2E52: Pontuação histórica
+#A7C2-A7C3: Cartas adicionais
+#A90A-A925: Consoantes
+#A926-A92A: Vogais
+#FBB2-FBC1: Símbolos pedagógicos árabes
+#FDFD-FDFD: Símbolo
+#1B150-1B152: Letras históricas pequenas hiragana
+#1B164-1B167: Letras históricas de katakana pequenas
+#1F6E0-1F6E4: Símbolos diversos
+#1FA78-1FA7A: Símbolos médicos
+#1FA90-1FAA8: Objetos diversos
+#1FAB0-1FAB6: Animais e natureza
+#1FAC2-1FAC2: Pessoas
+#1FAD0-1FAD6: Comida e bebida

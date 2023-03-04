@@ -22,7 +22,13 @@ copy-code: 복사하려면 클릭
 copy_button: 부
 copy_done: 복사 됨!
 version: 유니 코드 버전
-sets-with-this-symbol: 이 기호로 설정
+collections-with-this-symbol: 이 기호로 설정
 empty-symbol: 유니 코드로 정의되지 않음
 emoji_group: 이모티콘 카테고리
 emoji_version: 이모티콘 버전
+download: 다운로드
+displaying: 기호 표시
+symbol_not_displayed: 기호가 표시되지 않는 이유는 무엇입니까?
+examples: 사용 예
+synonyms: 동의어
+in-development: 개발 중입니다

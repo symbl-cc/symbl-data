@@ -1,0 +1,3 @@
+Los Selectores de Variación es un bloque de Unicode que contiene 16 caracteres de formato Selector de Variación (designados VS1 hasta VS16). Se utilizan para especificar una variante de glifo para cualquier carácter de Unicode. 
+
+Actualmente se usan para especificar secuencias de variación estandarizadas para [BLOCK:miscellaneous-mathematical-symbols-a símbolos matemáticos a], [BLOCK:emoticons-(emoji) emoji], [BLOCK:phags-pa letras Phags-pa] y [BLOCK:cjk-unified-ideographs ideogramas unificados CJK] correspondientes a [BLOCK:cjk-compatibility-ideographs ideogramas de compatibilidad CJK]. Actualmente, solo se han definido solo VS1, VS15 y VS16.

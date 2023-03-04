@@ -1,9 +1,7 @@
 : 수단
 
-toolsListTitle: 다른 도구도 사용해보십시오
-
 [encoder]	: HTML 인코더
-	
+
 desc	: HTML 코드 및 문자 변환
 plain	: 문자
 full	: HTML
@@ -11,16 +9,17 @@ text	: HTML 및 텍스트
 entities	: 는 HTML 엔티티 인코딩을 누릅니다
 br	: 코딩 랩
 result: 결과
-	
+example	: 이것은 밤이고! ©
+
 [decoder]	: 유니 코드 디코더
-	
+
 desc	: 유니 코드 문자 인코딩은 텍스트 또는 그 반대의 경우도 마찬가지 탈출
 example	: 이것은 밤이고
 code	: 유니 코드는 텍스트를 탈출
 text	: 본문
-	
+
 [flip]	: 전복
-	
+
 desc	: "반전"영어 알파벳 또는 키릴 문자가 와서
 plain	: 본문
 flipped	: 거꾸로!
@@ -52,6 +51,7 @@ waveline: 웨이브 라인
 ciphertext: 암호문
 fullyshaded: 암호문
 strikethroughSlash: 높은 슬래시 문자
+
 
 [register-converter]: 텍스트 레지스터 변환기
 h1: 텍스트 레지스터 변환기
@@ -112,7 +112,6 @@ maxLength: 문자 (4-99)
 generate: 생성하다
 warning: 암호를 만들려면 하나 이상의 문자 집합을 선택해야 합니다
 
-
 [text-to-symbols]: 문자의 텍스트
 h1: 문자의 텍스트
 desc: 문자에서 텍스트 쓰기
@@ -126,3 +125,38 @@ background: 배경이있는 편지
 symbol-dolar: 기호 $로 구성된 문자
 symbol-lattice: 기호 #로 구성된 문자
 symbol-paragraph: 기호 ¶로 구성된 문자
+
+
+[typograph]: 타이포그래퍼
+h1: 타이포그래퍼
+
+plain: 원본 텍스트
+text: 본문
+html: HTML
+mnemonics: HTML 엔티티
+example:  - "이것은 밤이고..."
+result: 결과
+first-level-quote: 첫 번째 수준 따옴표
+second-level-quote: 두 번째 수준 따옴표
+
+[secret-space]: 스페이스바
+h1: 스페이스바
+text: 원본 텍스트
+result: 서식 있는 텍스트
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: 이모티콘 키보드
+subtitle: 모든 이모티콘 복사 및 붙여넣기
+popular: 인기 있는
+emoji: Emoji
+arrow: 화살표 기호
+math: 수학
+currency: 통화
+letters: 편지
+punctuation: 구두
+example: 텍스트 및 기호 예
+copy-text: 기호를 클릭하면 자동으로 복사됩니다!
+paste-text: 또한 이 상자로 이동하여 텍스트를 입력하고 기호로 장식할 수 있습니다!
+ok: 이해했다!
+skip: 건너뛰다
+cool: 시원한!

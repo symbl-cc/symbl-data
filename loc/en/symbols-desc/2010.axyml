@@ -1,8 +1,8 @@
-What is the hyphen symbol? 
+What is the hyphen symbol?
 
-The hyphen is not a punctuation mark. It is always part of the word; Therefore, it refers to spelling. The word hyphen comes from the Latin divisio - division. There are several hyphens in Unicode. [https://unicode-table.com/en/002D/ The minus] is different in length and height in the string (at least it should, however, the font decides everything). 
-[https://unicode-table.com/en/2011/ Non-breaking hyphen] - does not allow anyone to break the line in this place.
+The hyphen is not a punctuation mark. It is always part of the word; Therefore, it refers to spelling. The word hyphen comes from the Latin divisio - division. There are several hyphens in Unicode. [URL /en/002D/ The minus] is different in length and height in the string (at least it should, however, the font decides everything).
+[URL /en/2011/ Non-breaking hyphen] - does not allow anyone to break the line in this place.
 
 Another hyphen:
 
-[https://unicode-table.com/en/2043/ Hyphen Bullet], [https://unicode-table.com/en/FE63/ Small Hyphen-Minus], [https://unicode-table.com/en/FF0D/ Fullwidth Hyphen-Minus]
+[URL /en/2043/ Hyphen Bullet], [URL /en/FE63/ Small Hyphen-Minus], [URL /en/FF0D/ Fullwidth Hyphen-Minus]

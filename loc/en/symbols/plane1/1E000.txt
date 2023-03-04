@@ -46,68 +46,68 @@
 1E02D:
 1E02E:
 1E02F:
-1E030:
-1E031:
-1E032:
-1E033:
-1E034:
-1E035:
-1E036:
-1E037:
-1E038:
-1E039:
-1E03A:
-1E03B:
-1E03C:
-1E03D:
-1E03E:
-1E03F:
-1E040:
-1E041:
-1E042:
-1E043:
-1E044:
-1E045:
-1E046:
-1E047:
-1E048:
-1E049:
-1E04A:
-1E04B:
-1E04C:
-1E04D:
-1E04E:
-1E04F:
-1E050:
-1E051:
-1E052:
-1E053:
-1E054:
-1E055:
-1E056:
-1E057:
-1E058:
-1E059:
-1E05A:
-1E05B:
-1E05C:
-1E05D:
-1E05E:
-1E05F:
-1E060:
-1E061:
-1E062:
-1E063:
-1E064:
-1E065:
-1E066:
-1E067:
-1E068:
-1E069:
-1E06A:
-1E06B:
-1E06C:
-1E06D:
+1E030: Modifier Letter Cyrillic Small A
+1E031: Modifier Letter Cyrillic Small Be
+1E032: Modifier Letter Cyrillic Small Ve
+1E033: Modifier Letter Cyrillic Small Ghe
+1E034: Modifier Letter Cyrillic Small De
+1E035: Modifier Letter Cyrillic Small Ie
+1E036: Modifier Letter Cyrillic Small Zhe
+1E037: Modifier Letter Cyrillic Small Ze
+1E038: Modifier Letter Cyrillic Small I
+1E039: Modifier Letter Cyrillic Small Ka
+1E03A: Modifier Letter Cyrillic Small El
+1E03B: Modifier Letter Cyrillic Small Em
+1E03C: Modifier Letter Cyrillic Small O
+1E03D: Modifier Letter Cyrillic Small Pe
+1E03E: Modifier Letter Cyrillic Small Er
+1E03F: Modifier Letter Cyrillic Small Es
+1E040: Modifier Letter Cyrillic Small Te
+1E041: Modifier Letter Cyrillic Small U
+1E042: Modifier Letter Cyrillic Small Ef
+1E043: Modifier Letter Cyrillic Small Ha
+1E044: Modifier Letter Cyrillic Small Tse
+1E045: Modifier Letter Cyrillic Small Che
+1E046: Modifier Letter Cyrillic Small Sha
+1E047: Modifier Letter Cyrillic Small Yeru
+1E048: Modifier Letter Cyrillic Small E
+1E049: Modifier Letter Cyrillic Small Yu
+1E04A: Modifier Letter Cyrillic Small Dzze
+1E04B: Modifier Letter Cyrillic Small Schwa
+1E04C: Modifier Letter Cyrillic Small Byelorussian-ukrainian I
+1E04D: Modifier Letter Cyrillic Small Je
+1E04E: Modifier Letter Cyrillic Small Barred O
+1E04F: Modifier Letter Cyrillic Small Straight U
+1E050: Modifier Letter Cyrillic Small Palochka
+1E051: Cyrillic Subscript Small Letter A
+1E052: Cyrillic Subscript Small Letter Be
+1E053: Cyrillic Subscript Small Letter Ve
+1E054: Cyrillic Subscript Small Letter Ghe
+1E055: Cyrillic Subscript Small Letter De
+1E056: Cyrillic Subscript Small Letter Ie
+1E057: Cyrillic Subscript Small Letter Zhe
+1E058: Cyrillic Subscript Small Letter Ze
+1E059: Cyrillic Subscript Small Letter I
+1E05A: Cyrillic Subscript Small Letter Ka
+1E05B: Cyrillic Subscript Small Letter El
+1E05C: Cyrillic Subscript Small Letter O
+1E05D: Cyrillic Subscript Small Letter Pe
+1E05E: Cyrillic Subscript Small Letter Es
+1E05F: Cyrillic Subscript Small Letter U
+1E060: Cyrillic Subscript Small Letter Ef
+1E061: Cyrillic Subscript Small Letter Ha
+1E062: Cyrillic Subscript Small Letter Tse
+1E063: Cyrillic Subscript Small Letter Che
+1E064: Cyrillic Subscript Small Letter Sha
+1E065: Cyrillic Subscript Small Letter Hard Sign
+1E066: Cyrillic Subscript Small Letter Yeru
+1E067: Cyrillic Subscript Small Letter Ghe With Upturn
+1E068: Cyrillic Subscript Small Letter Byelorussian-ukrainian I
+1E069: Cyrillic Subscript Small Letter Dze
+1E06A: Cyrillic Subscript Small Letter Dzhe
+1E06B: Modifier Letter Cyrillic Small Es With Descender
+1E06C: Modifier Letter Cyrillic Small Yeru With Back Yer
+1E06D: Modifier Letter Cyrillic Small Straight U With Stroke
 1E06E:
 1E06F:
 1E070:
@@ -141,7 +141,7 @@
 1E08C:
 1E08D:
 1E08E:
-1E08F:
+1E08F: Combining Cyrillic Small Letter Byelorussian-ukrainian I
 1E090:
 1E091:
 1E092:

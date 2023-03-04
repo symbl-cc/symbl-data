@@ -1,7 +1,11 @@
 0000-001F: C0 컨트롤
-0020-002F: ASCII 문장 부호 및 기호
+#0020-002A: ***ASCII punctuation and symbols
+#002B-002B: ***ASCII math operator
+#002C-002F: ***ASCII punctuation
 0030-0039: ASCII 숫자
-003A-0040: ASCII 문장 부호 및 기호
+#003A-003B: ***ASCII punctuation
+#003C-003E: ***ASCII mathematical operators
+#003F-0040: ***ASCII punctuation
 0041-005A: 대문자 라틴 알파벳
 005B-0060: ASCII 문장 부호 및 기호
 0061-007A: 소문자 라틴 알파벳
@@ -129,7 +133,7 @@
 0617-061A: Quranic 주석 표시
 061B-061B: 구두
 061C-061C: 문자 형식
-061E-061F: 구두
+#061D-061F: ***Punctuation
 0620-0620: 카슈 미리 추가
 0621-063A: ISO 8859-6 기반
 063B-063F: 초기 페르시아어와 아제르바이잔 인을위한 추가
@@ -143,7 +147,9 @@
 0670-0670: 타쉬 킬
 0671-0672: 확장 된 아랍어 문자
 0673-0673: 더 이상 사용되지 않는 편지
-0674-06D3: 확장 된 아랍어 문자
+#0674-0674: ***High hamza
+#0675-0678: ***Digraphic letters for Kazakh
+#0679-06D3: ***Extended Arabic letters
 06D4-06D4: 구두
 06D5-06D5: 확장 된 아랍어 문자
 06D6-06ED: Quranic 주석 표시
@@ -188,16 +194,25 @@
 0859-085B: 분음 부호
 085E-085E: 구두
 0860-086A: 시리아 편지
+#0870-0888: ***Additions for Quranic orthographies
+#0889-088A: ***Additions for Bosnian orthographies
+#088B-088D: ***Additions for Pegon orthographies
+#088E-088E: ***Abbreviation mark
+#0890-0891: ***Supertending currency symbols
+#0898-089F: ***Additions for Quranic orthographies
 08A0-08A9: 아프리카 언어 용 아랍어 문자
 08AA-08AC: 로 힝야의 자음
 08AD-08B1: 유럽 ​​및 중앙 아시아 언어의 아랍어 문자
 08B2-08B2: 베르베르 아라비아 문자
 08B3-08B4: Arwi 아랍어 문자
+#08B5-08B5: ***Early Arabic letter
 08B6-08BA: Bravanese에 대한 아랍어 문자
 08BB-08BD: Warsh 직교를위한 아랍어 문자
 08BE-08C2: Hindko에 대한 아랍어 문자
 08C3-08C6: Hausa, Wolof 및 기타 아프리카 직교를위한 아랍어 문자
 08C7-08C7: 펀자 브어 아라비아 문자
+#08C8-08C8: ***Arabic letter for Balti
+#08C9-08D2: ***Additions for Quranic orthographies
 08D3-08E2: Quranic 주석 표시
 08E3-08E3: Arwi의 확장 모음 기호
 08E4-08E9: 로 힝야에 대한 확장 된 모음 표시
@@ -309,11 +324,13 @@
 0C00-0C04: 다양한 표지판
 0C05-0C14: 독립적 인 모음
 0C15-0C39: 자음
+#0C3C-0C3C: ***Sign
 0C3D-0C3D: 산스크리트어 추가
 0C3E-0C4C: 종속 모음 표시
 0C4D-0C4D: 비 라마
 0C55-0C56: 다양한 표지판
 0C58-0C5A: 역사적인 발음 변형
+#0C5D-0C5D: ***Consonant
 0C60-0C61: 산스크리트어 추가 모음
 0C62-0C63: 종속 모음
 0C64-0C65: 예약석
@@ -327,12 +344,12 @@
 0CBE-0CCC: 종속 모음 표시
 0CCD-0CCD: 비 라마
 0CD5-0CD6: 다양한 표지판
-0CDE-0CDE: 추가 자음
+#0CDD-0CDE: ***Additional consonants
 0CE0-0CE1: 산스크리트어 추가 모음
 0CE2-0CE3: 종속 모음
 0CE4-0CE5: 예약석
 0CE6-0CEF: 숫자
-0CF1-0CF2: 산스크리트어에서 사용되는 표지판
+#0CF1-0CF3: ***Signs used in Sanskrit
 0D00-0D04: 다양한 표지판
 0D05-0D14: 독립적 인 모음
 0D15-0D3A: 자음
@@ -386,7 +403,7 @@
 0EC0-0EC4: 모음
 0EC6-0EC6: 반복 마크
 0EC8-0ECB: 톤 마크
-0ECC-0ECD: 표지판
+#0ECC-0ECE: ***Signs
 0ED0-0ED9: 숫자
 0EDC-0EDD: 디 그래프
 0EDE-0EDF: Khmu의 자음
@@ -468,7 +485,8 @@
 13F8-13FC: 소문자 음절
 13FD-13FD: 고풍 소문자 음절
 1400-1400: 구두
-1401-166C: 음절
+#1401-15C3: ***Syllables
+#15C4-166C: ***Syllables for Carrier
 166D-166D: 상징
 166E-166E: 구두
 166F-167F: 음절
@@ -484,7 +502,8 @@
 1700-1702: 독립적 인 모음
 1703-1711: 자음
 1712-1713: 종속 모음 표시
-1714-1714: 비 라마
+#1714-1715: ***Viramas
+#171F-171F: ***Archaic letter
 1720-1722: 독립적 인 모음
 1723-1731: 자음
 1732-1733: 종속 모음 표시
@@ -514,7 +533,7 @@
 17E0-17E9: 숫자
 17F0-17F9: 점에 대한 숫자 기호
 1800-180A: 구두
-180B-180E: 포맷 컨트롤
+#180B-180F: ***Format controls
 1810-1819: 숫자
 1820-1842: 기본 글자
 1843-185C: 할일 편지
@@ -561,20 +580,26 @@
 1AA3-1AA6: 구두
 1AA7-1AA7: 기호
 1AA8-1AAD: 구두
-1AB0-1ABE: 독일 변증법에 사용
+#1AB0-1ABA: ***Used in German dialectology
+#1ABB-1ABE: ***Marks surrounding other diacritics or letters
 1ABF-1AC0: Scots 변증법에 사용
+#1AC1-1AC5: ***Marks next to or surrounding other diacritics
+#1AC6-1AC6: ***Phonetic sign
+#1AC7-1ACA: ***Used in extended IPA
+#1ACB-1ACE: ***Used in Middle English Ormulum
 1B00-1B04: 다양한 표지판
 1B05-1B12: 독립적 인 모음
 1B13-1B33: 자음
 1B34-1B34: 기호
 1B35-1B43: 종속 모음 표시
 1B44-1B44: 기호
-1B45-1B4B: 추가 자음
+#1B45-1B4C: ***Additional consonants
 1B50-1B59: 숫자
 1B5A-1B60: 구두
 1B61-1B6A: 음표 기호
 1B6B-1B73: 음악 기호의 발음 구별 부호
 1B74-1B7C: 뮤지컬 기호
+#1B7D-1B7E: ***Punctuation
 1B80-1B82: 다양한 표지판
 1B83-1B89: 모음
 1B8A-1BA0: 자음
@@ -689,7 +714,7 @@
 2070-207F: 위첨자
 2080-2094: 아래 첨자
 2095-209C: UPA 첨자
-20A0-20BF: 통화 기호
+#20A0-20C0: ***Currency symbols
 20D0-20DC: 기호의 분음 부호 결합
 20DD-20E0: 분음 부호
 20E1-20E1: 기호에 대한 추가 분음 부호
@@ -797,7 +822,7 @@
 23E3-23E3: 화학 기호
 23E4-23E8: 기타 기술
 23E9-23FA: 사용자 인터페이스 기호
-23FB-23FD: ISO 7000:2012의 전원 기호
+#23FB-23FD: ***Power symbols from ISO 7000:2012
 23FE-23FE: IEEE 1621-2004의 전원 기호
 23FF-23FF: 기타 기호
 2400-2421: 제어 코드를위한 그래픽 사진
@@ -1014,8 +1039,8 @@
 2BF3-2BF8: 러시아 점성술 측면
 2BF9-2BFE: 체스 표기법에 사용되는 기호
 2BFF-2BFF: 기타 기호
-2C00-2C2E: 대문자
-2C30-2C5E: 소문자
+#2C00-2C2F: ***Capital letters
+#2C30-2C5F: ***Small letters
 2C60-2C66: 직교 라틴어 추가
 2C67-2C6C: 위구르어 추가
 2C6D-2C74: 기타 추가
@@ -1065,7 +1090,10 @@
 2E41-2E42: 구두점 역 분개
 2E43-2E44: 기타 구두점
 2E45-2E49: 타이 피콘 구두점
-2E4A-2E52: 역사적인 구두점
+#2E4A-2E54: ***Historic punctuation
+#2E55-2E58: ***Brackets
+#2E59-2E5C: ***Parentheses top and bottom halves
+#2E5D-2E5D: ***Oblique hyphen
 2E80-2EF3: CJK 라디칼 보충
 2F00-2FD5: 강희 라디칼
 2FF0-2FFB: 표의 문자 설명
@@ -1206,9 +1234,13 @@ A7B3-A7B3: 독일 변증법을위한 편지
 A7B4-A7B7: 아프리카 언어를위한 편지
 A7B8-A7B9: Mazahua (멕시코)를위한 편지
 A7BA-A7BF: Ugaritic 및 Egyptological 음역에 대한 편지
-A7C2-A7C3: 추가 편지
+#A7C0-A7C3: ***Additional medieval letters
 A7C4-A7C6: 병음 초기 로마자 편지
 A7C7-A7CA: Gaulish 추가 서한
+#A7D0-A7D5: ***Letters used in the Middle English Ormulum
+#A7D6-A7D9: ***Letters used in medieval palaeography
+#A7F2-A7F3: ***Modifier letters for Chatino (México)
+#A7F4-A7F4: ***Modifier letter for Japanese phonemic transcription
 A7F5-A7F7: 고대 고어와 켈트족의 서사
 A7F8-A7F9: 확장 IPA에 대한 추가
 A7FA-A7FA: UPA 추가
@@ -1250,8 +1282,8 @@ A8F8-A8FB: 사설 마크
 A8FC-A8FD: 표지판
 A8FE-A8FF: 추가 모음 및 모음 표시
 A900-A909: 숫자
-A90A-A925: 자음
-A926-A92A: 모음
+#A90A-A921: ***Consonants
+#A922-A92A: ***Vowels
 A92B-A92D: 톤 마크
 A92E-A92F: 구두
 A930-A946: 자음
@@ -1319,7 +1351,7 @@ ABEB-ABED: 구두
 ABF0-ABF9: 숫자
 D7B0-D7C6: 오래된 중간 모음
 D7CB-D7FB: 오래된 최종 자음
-F900-FA0B: KS X 1001:1998의 발음 변종
+#F900-FA0B: ***Pronunciation variants from KS X 1001:1998
 FA0C-FA0D: Big 5와 중복되는 문자
 FA0E-FA2D: IBM 32 호환성 표의 문자
 FA2E-FA2F: 한국어 호환성 표의 문자
@@ -1330,15 +1362,17 @@ FB00-FB06: 라틴 합자
 FB13-FB17: 아르메니아 합자
 FB1D-FB4F: 히브리어 표현 양식
 FB50-FBB1: 페르시아어, 우르두어, 신 디어 등의 상황에 맞는 문자 모양의 문양
-FBB2-FBC1: 아랍어 교육 상징
+#FBB2-FBC2: ***Arabic pedagogical symbols
 FBD3-FBE9: 중앙 아시아 언어에 대한 문맥 적 형태의 문자 모양
 FBEA-FD3D: 합자 (두 요소)
 FD3E-FD3F: 구두
+#FD40-FD4F: ***Honorific word ligatures
 FD50-FDC7: 합자 (3 요소)
+#FDCF-FDCF: ***Honorific word ligature
 FDD0-FDEF: 비 문자
 FDF0-FDFB: 단어 합자
 FDFC-FDFC: 통화 기호
-FDFD-FDFD: 상징
+#FDFD-FDFF: ***Honorific word ligatures
 FE00-FE0D: 변형 선택기
 FE0E-FE0F: 이모티콘 별 변형 선택기
 FE10-FE19: 수직 변형에 대한 글리프
@@ -1420,12 +1454,16 @@ FFFE-FFFF: 비 문자
 10500-10527: 편지
 10530-10563: 편지
 1056F-1056F: 구두
+#10570-10595: ***Capital letters
+#10597-105BC: ***Small letters
 10600-1069F: 간단한 표지판
 106A0-106B2: 꽃병 모양
 106B3-10726: 복잡한 표시
 10727-10736: 꽃병 모양의 복잡한 표지판
 10740-10755: 분수와 화합물 분수
 10760-10767: 추가 표시
+#10780-10780: ***Modifier letter for VoQS
+#10781-107BA: ***Modifier letters for IPA
 10800-1083F: 음절
 10840-10855: 편지
 10857-10857: 구두
@@ -1505,6 +1543,7 @@ FFFE-FFFF: 비 문자
 10EAB-10EAC: 마크 결합
 10EAD-10EAD: 구두
 10EB0-10EB1: 분음 부호가있는 역사적 글자
+#10EFD-10EFF: ***Quranic marks used in Turkey
 10F00-10F1C: 편지
 10F1D-10F26: 번호
 10F27-10F27: 합자
@@ -1513,6 +1552,9 @@ FFFE-FFFF: 비 문자
 10F46-10F50: 마크 결합
 10F51-10F54: 번호
 10F55-10F59: 구두
+#10F70-10F81: ***Letters
+#10F82-10F85: ***Combining signs
+#10F86-10F89: ***Punctuation
 10FB0-10FC4: 편지
 10FC5-10FCB: 번호
 10FE0-10FF5: 편지
@@ -1525,6 +1567,10 @@ FFFE-FFFF: 비 문자
 11047-1104D: 구두
 11052-11065: 번호
 11066-1106F: 숫자
+#11070-11070: ***Virama
+#11071-11072: ***Independent vowels
+#11073-11074: ***Dependent vowel signs
+#11075-11075: ***Consonant
 1107F-1107F: 숫자 결합 자
 11080-11082: 다양한 표지판
 11083-1108C: 독립적 인 모음
@@ -1533,6 +1579,7 @@ FFFE-FFFF: 비 문자
 110B9-110B9: 비 라마
 110BA-110BD: 다양한 표지판
 110BE-110C1: 구두
+#110C2-110C2: ***Vowel sign
 110CD-110CD: 기호
 110D0-110E1: 자음
 110E2-110E7: 모음
@@ -1576,6 +1623,9 @@ FFFE-FFFF: 비 문자
 11234-11237: 다양한 표지판
 11238-1123D: 구두
 1123E-1123E: 기호
+#1123F-1123F: ***Consonant
+#11240-11240: ***Independent vowel
+#11241-11241: ***Dependent vowel sign
 11280-11283: 모음
 11284-112A8: 자음
 112A9-112A9: 구두
@@ -1640,6 +1690,7 @@ FFFE-FFFF: 비 문자
 116B6-116B6: 비 라마
 116B7-116B7: 누타
 116B8-116B8: 자음
+#116B9-116B9: ***Punctuation
 116C0-116C9: 숫자
 11700-1171A: 자음
 1171D-1171F: 중간
@@ -1647,6 +1698,7 @@ FFFE-FFFF: 비 문자
 11730-11739: 숫자
 1173A-1173B: 번호
 1173C-1173F: 구두
+#11740-11746: ***Additional consonants
 11800-11809: 독립적 인 모음
 1180A-1182B: 자음
 1182C-11836: 종속 모음 표시
@@ -1702,10 +1754,14 @@ FFFE-FFFF: 비 문자
 11A9D-11A9D: 신장 마크
 11A9E-11AA0: 헤드 마크
 11AA1-11AA2: 터미널 마크
+#11AB0-11ABB: ***Syllables for Nattilik
+#11ABC-11ABF: ***Historic syllables for Cree and Ojibway
 11AC0-11AD4: 자음
 11AD5-11ADB: 모음
 11ADC-11AE4: 최종 자음
 11AE5-11AF8: 톤 마크
+#11B00-11B01: ***Head marks
+#11B02-11B09: ***Auspicious signs
 11C00-11C0D: 독립적 인 모음
 11C0E-11C2E: 자음
 11C2F-11C3B: 종속 모음 표시
@@ -1738,6 +1794,13 @@ FFFE-FFFF: 비 문자
 11EF2-11EF2: 자음 중복 기
 11EF3-11EF6: 모음 표시
 11EF7-11EF8: 구두
+#11F00-11F03: ***Signs
+#11F04-11F10: ***Independent vowels
+#11F12-11F33: ***Consonants
+#11F34-11F40: ***Dependent vowel signs
+#11F41-11F42: ***Viramas
+#11F43-11F4F: ***Punctuation
+#11F50-11F59: ***Digits
 11FB0-11FB0: 편지
 11FC0-11FD4: 분수
 11FD5-11FDC: 곡물의 측정
@@ -1757,6 +1820,8 @@ FFFE-FFFF: 비 문자
 12469-1246E: 숫자 기호
 12470-12474: 구두
 12480-12543: 표지판
+#12F90-12FF0: ***Signs
+#12FF1-12FF2: ***Punctuation
 13000-1304F: A. 남자와 그의 직업
 13050-13059: B. 여자와 그녀의 직업
 1305A-13075: C. 의인화 된 신들
@@ -1785,10 +1850,16 @@ FFFE-FFFF: 비 문자
 133DB-133E3: Y. 작문, 게임, 음악
 133E4-1340C: Z. 스트로크, 계층 적, 기하학적 도형에서 파생 된 표시
 1340D-1342E: Aa. 분류되지 않은
+#1342F-1342F: ***Addition to group V
 13430-13431: 결합 자
 13432-13435: 부호 삽입 컨트롤
 13436-13436: 부호 스태킹 제어
 13437-13438: 세그먼트 범위 구분 기호
+#13439-1343B: ***Sign insertion controls
+#1343C-1343F: ***Enclosure controls
+#13440-13440: ***Mirror control
+#13441-13446: ***Blank and lost signs
+#13447-13455: ***Damage modifiers
 14400-14469: A. 인체와 의복
 1446A-144AF: 나. 동물
 144B0-144D0: C. 식물
@@ -1809,6 +1880,9 @@ FFFE-FFFF: 비 문자
 16A40-16A5E: 편지
 16A60-16A69: 숫자
 16A6E-16A6F: 구두
+#16A70-16A9F: ***Vowels
+#16AA0-16ABE: ***Consonants
+#16AC0-16AC9: ***Digits
 16AD0-16AE6: 자음 문자
 16AE7-16AED: 모음 글자
 16AF0-16AF4: 톤 마크 결합
@@ -1878,12 +1952,16 @@ FFFE-FFFF: 비 문자
 18CC0-18CCB: 과격한 -18
 18CCC-18CD2: 과격한 -19
 18CD3-18CD5: 과격한 -20
+#1AFF0-1AFF6: ***Tone marks
+#1AFF7-1AFFE: ***Nasalized tone marks
 1B000-1B000: 역사적인 가타카나
 1B001-1B001: 역사적인 히라가나와 Hentaigana
 1B002-1B0FF: 젠타 이가나
 1B100-1B11E: 젠타 이가나
-1B150-1B152: 역사적인 작은 히라가나 편지
-1B164-1B167: 역사적인 작은 가타카나 편지
+#1B11F-1B11F: ***Historic Hiragana
+#1B120-1B122: ***Historic Katakana
+#1B132-1B152: ***Historic small hiragana letters
+#1B155-1B167: ***Historic small katakana letters
 1B170-1B170: 원 스트로크 캐릭터
 1B171-1B177: 2 스트로크 캐릭터
 1B178-1B18A: 3 스트로크 캐릭터
@@ -1922,6 +2000,10 @@ FFFE-FFFF: 비 문자
 1BC9E-1BC9E: 속기 더블 마크
 1BC9F-1BC9F: 치누크 구두점
 1BCA0-1BCA3: 속기 형식 컨트롤
+#1CF00-1CF2D: ***Combining red marks
+#1CF30-1CF41: ***Combining black marks
+#1CF42-1CF46: ***Modifying marks for priznaki
+#1CF50-1CFC3: ***Znamenny neumes
 1D000-1D002: 프로 소디 (Prosodics)
 1D003-1D014: 엑 포네 티카
 1D015-1D045: 멜로디 마타 (멜로디 우스)
@@ -1975,9 +2057,11 @@ FFFE-FFFF: 비 문자
 1D1DF-1D1DF: 장식
 1D1E0-1D1E7: 노트
 1D1E8-1D1E8: 우연한
+#1D1E9-1D1EA: ***Accidentals for quarter tones
 1D200-1D21C: 고대 그리스어 음성 표기법
 1D21D-1D241: 고대 그리스어 도구 표기법
 1D242-1D245: 추가 그리스 음악 표기법 기호
+#1D2C0-1D2D3: ***Numerals
 1D2E0-1D2F3: 마야 숫자
 1D300-1D300: 모노그램
 1D301-1D305: 그램
@@ -2035,7 +2119,19 @@ FFFE-FFFF: 비 문자
 1DA87-1DA8B: 구두
 1DA9B-1DA9F: 채우기 수정 자
 1DAA1-1DAAF: 회전 수정 자
+#1DF00-1DF07: ***Extended IPA for disordered speech
+#1DF08-1DF0A: ***IPA extensions
+#1DF0B-1DF10: ***Clicks
+#1DF11-1DF11: ***Lateral
+#1DF12-1DF18: ***Letters with palatal hooks
+#1DF19-1DF1D: ***Letters with retroflex hooks
+#1DF1E-1DF1E: ***IPA extension
+#1DF25-1DF2A: ***Letters for Malayalam transliteration
 1E000-1E02A: 편지 결합
+#1E030-1E050: ***Superscript modifier letters
+#1E051-1E06A: ***Subscript modifier letters
+#1E06B-1E06D: ***Superscript modifier letters
+#1E08F-1E08F: ***Diacritical mark
 1E100-1E123: 자음 발병
 1E124-1E12C: 모음 빙
 1E130-1E136: 톤 마크
@@ -2044,10 +2140,17 @@ FFFE-FFFF: 비 문자
 1E13D-1E13D: 음절 연장 제
 1E140-1E149: 숫자
 1E14E-1E14F: 기호
+#1E290-1E2A0: ***Basic consonants
+#1E2A1-1E2AD: ***Basic vowels
+#1E2AE-1E2AE: ***Sign
 1E2C0-1E2EB: 편지
 1E2EC-1E2EF: 톤 마크
 1E2F0-1E2F9: 숫자
 1E2FF-1E2FF: 통화 기호
+#1E4D0-1E4EA: ***Letters
+#1E4EB-1E4EF: ***Various signs
+#1E4F0-1E4F9: ***Digits
+#1E7E0-1E7FE: ***Syllables for Gurage
 1E800-1E807: k의 음절
 1E808-1E810: w의 음절
 1E811-1E813: wv-의 음절
@@ -2259,7 +2362,7 @@ FFFE-FFFF: 비 문자
 1F6CB-1F6CF: 숙박 기호
 1F6D0-1F6D2: 간판 및 기타 기호
 1F6D3-1F6D7: 지도 기호
-1F6E0-1F6E4: 기타 기호
+#1F6DC-1F6E4: ***Miscellaneous symbols
 1F6E5-1F6FC: 차량
 1F700-1F704: 아리스토텔레스 요소에 대한 기호
 1F705-1F70C: 중요한 용제에 대한 기호
@@ -2275,6 +2378,9 @@ FFFE-FFFF: 비 문자
 1F765-1F76D: 기구
 1F76E-1F771: 시각
 1F772-1F773: 측정
+#1F774-1F774: ***Other symbol
+#1F775-1F776: ***Eclipse symbols
+#1F77B-1F77F: ***Symbols for dwarf planets
 1F780-1F783: 이등변 직각 삼각형
 1F784-1F784: 검은 동그라미
 1F785-1F789: 화이트 서클
@@ -2301,8 +2407,10 @@ FFFE-FFFF: 비 문자
 1F7CE-1F7D1: 여덟 개의 별
 1F7D2-1F7D4: 열두 별
 1F7D5-1F7D8: 돌 마커 이동
+#1F7D9-1F7D9: ***Nine pointed star
 1F7E0-1F7E4: 컬러 서클
 1F7E5-1F7EB: 색깔의 사각형
+#1F7F0-1F7F0: ***Miscellaneous symbol
 1F800-1F80B: 삼각형 화살촉이있는 화살표
 1F810-1F81F: 정삼각형 화살촉이있는 화살표
 1F820-1F833: 샤프트 무게가 다른 삼각형 방향 화살표
@@ -2338,6 +2446,7 @@ FFFE-FFFF: 비 문자
 1F9B8-1F9B9: 역할 기호
 1F9BA-1F9BF: 접근성 기호
 1F9C0-1F9CB: 음식 기호
+#1F9CC-1F9CC: ***Fantasy being
 1F9CD-1F9CF: 초상화 및 접근성 기호
 1F9D0-1F9D8: 초상화 및 역할 기호
 1F9D9-1F9DF: 판타지 존재
@@ -2357,13 +2466,21 @@ FFFE-FFFF: 비 문자
 1FA4E-1FA53: 하이브리드 체스 기호
 1FA60-1FA6D: 샹치 기호
 1FA70-1FA74: 의류
-1FA78-1FA7A: 의료 기호
+#1FA75-1FA77: ***Colored heart symbols
+#1FA78-1FA7C: ***Medical symbols
 1FA80-1FA86: 장난감 및 스포츠 기호
-1FA90-1FAA8: 기타 객체
-1FAB0-1FAB6: 동물과 자연
+#1FA87-1FA88: ***Musical instruments
+#1FA90-1FAAE: ***Miscellaneous objects
+#1FAAF-1FAAF: ***Religious symbol
+#1FAB0-1FABF: ***Animals and nature
 1FAC0-1FAC1: 신체 부위
-1FAC2-1FAC2: 사람들
-1FAD0-1FAD6: 음식과 음료
+#1FAC2-1FAC5: ***People
+#1FACE-1FACF: ***Animals and nature
+#1FAD0-1FADB: ***Food and drink
+#1FAE0-1FAE5: ***Faces
+#1FAE6-1FAE7: ***Emotion
+#1FAE8-1FAE8: ***Face
+#1FAF0-1FAF8: ***Hand symbols
 1FB00-1FB3B: 모자이크 터미널 그래픽 문자 차단
 1FB3C-1FB6F: 부드러운 모자이크 터미널 그래픽 문자
 1FB70-1FB8B: 블록 요소
@@ -2399,3 +2516,32 @@ E007F-E007F: 상태 저장 태그 종결 자
 E0100-E01EF: 표의 문자 별 변형 선택기
 EFFFE-EFFFF: 비 문자
 FFFFE-FFFFF: 비 문자
+#0020-002F: ASCII 문장 부호 및 기호
+#003A-0040: ASCII 문장 부호 및 기호
+#061E-061F: 구두
+#0674-06D3: 확장 된 아랍어 문자
+#0CDE-0CDE: 추가 자음
+#0CF1-0CF2: 산스크리트어에서 사용되는 표지판
+#0ECC-0ECD: 표지판
+#1401-166C: 음절
+#1714-1714: 비 라마
+#180B-180E: 포맷 컨트롤
+#1AB0-1ABE: 독일 변증법에 사용
+#1B45-1B4B: 추가 자음
+#20A0-20BF: 통화 기호
+#2C00-2C2E: 대문자
+#2C30-2C5E: 소문자
+#2E4A-2E52: 역사적인 구두점
+#A7C2-A7C3: 추가 편지
+#A90A-A925: 자음
+#A926-A92A: 모음
+#FBB2-FBC1: 아랍어 교육 상징
+#FDFD-FDFD: 상징
+#1B150-1B152: 역사적인 작은 히라가나 편지
+#1B164-1B167: 역사적인 작은 가타카나 편지
+#1F6E0-1F6E4: 기타 기호
+#1FA78-1FA7A: 의료 기호
+#1FA90-1FAA8: 기타 객체
+#1FAB0-1FAB6: 동물과 자연
+#1FAC2-1FAC2: 사람들
+#1FAD0-1FAD6: 음식과 음료

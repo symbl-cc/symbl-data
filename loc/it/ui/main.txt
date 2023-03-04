@@ -1,32 +1,47 @@
-title: Tabella di caratteri Unicode
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: Unicode® è un marchio registrato di Unicode, Inc. negli Stati Uniti e in altri paesi. Questo sito non è in alcun modo associato con o firmato o sponsorizzati da Unicode, Inc. (aka The Unicode Consortium). Per il sito ufficiale Unicode, visitare il sito
+
+privacy-policy: Informativa sulla privacy
+unicodeorg: Tutte le immagini di emoji e simboli presenti nel sito sono a scopo informativo, i diritti appartengono ai rispettivi autori e non possono essere utilizzate a fini commerciali senza il loro consenso.
+old-version: Vecchia versione
 
 [mainpage]: Pagina principale
 
-[sets]	: Imposta
+[collections]	: Imposta
 set	: Impostato
 list	: Set
 title: Set di caratteri popolari
 all: Vedi tutto
 
 [blocks]	: Blocchi
-block	: Bloccare
+block	: Blocchi Unicode
 list	: Unicode
-	
+by-range: Per gamma
+by-alphabet: In ordine alfabetico
+by-type: Per tipo
+
+[codes]: Codifiche
+list: Codifiche
+
+[art]: Arte
+list: Arte ٩(｡•́‿•̀｡)۶
+
+[symbols]: Simboli
+list: Simboli
+
 [languages]	: Le lingue
 list	: Le lingue
 blocks	: Blocchi di lingua
-	
+
 [countries]	: Paesi
 list	: Paesi
-	
+
 [alphabets]	: Alfabeti
 list	: Alfabeti
 
 [holidays]: Festivi
 list: Festivi
-	
+
 [types]	: Tipi
 type	: Tipo
 list	: Tipi
@@ -37,3 +52,15 @@ list: Entità HTML
 [alt-codes]: Codici ALT per Windows
 list: Codici Alt
 en: Layout tastiera inglese
+
+[top-symbols]: Top simboli
+
+[day-symbol]: Simbolo del giorno
+
+[news]: Notizia
+
+[symbol-table]: Tabella dei simboli
+
+[version-history]: Cronologia delle versioni
+
+[about-unicode]: A proposito di Unicode

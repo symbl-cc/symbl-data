@@ -1,9 +1,7 @@
 : Utensili
 
-toolsListTitle: Prova anche altri strumenti
-
 [encoder]	: Codificatore HTML
-	
+
 desc	: Codifica caratteri in codice HTML e ritorno
 plain	: testo normale
 full	: HTML
@@ -11,24 +9,25 @@ text	: HTML e testo
 entities	: Codifica caratteri con entità
 br	: Codifica interruzioni di riga
 result : Risultato
-	
+example: Questo è un esempio! ©
+
 [decoder]	: Decodificatore Unicode
-	
+
 desc	: Codifica caratteri in Unicode o decodifica indietro
 example	: Questo è un esempio
 code	: Unicode
 text	: Testo
-	
+
 [flip]	: Capovolgere
-	
+
 desc	: Capovolgere i caratteri cirillici e latini a testa in giù o indietro
 plain	: testo normale
 flipped	: il testo capovolto
 backed	: Torna al testo anteriore
 result : Risultato
-	
+
 [generator]	: generatore di tabella di caratteri Unicode
-	
+
 desc	: Genera un insieme di caratteri in un intervallo specificato
 range	: Gamma
 format	: Formato
@@ -43,15 +42,16 @@ desc: Scrivere barrato
 text: Testo
 example: Questo è un esempio
 
-strikethroughText: Testo barrato
-crossed: Testo sottolineato
-dotted: Linea tratteggiata
-slash: Simbolo barra
-doubleunderline: Doppia sottolineatura
-waveline: Linea d'onda
-ciphertext: Testo cifrato
-fullyshaded: Testo ombreggiato
-strikethroughSlash: Simbolo barra alta
+strikethroughText: ̶T̶e̶s̶t̶o̶ ̶b̶a̶r̶r̶a̶t̶o̶
+crossed: ͟T͟e͟s͟t͟o͟ ͟s͟o͟t͟t͟o͟l͟i͟n͟e͟a͟t͟o͟
+dotted: ̤L̤i̤n̤e̤a̤ ̤t̤r̤a̤t̤t̤e̤g̤g̤i̤a̤t̤a̤
+slash: ̷S̷i̷m̷b̷o̷l̷o̷ ̷b̷a̷r̷r̷a̷
+doubleunderline: ͇D͇o͇p͇p͇i͇a͇ ͇s͇o͇t͇t͇o͇l͇i͇n͇e͇a͇t͇u͇r͇a͇
+waveline: ̰L̰ḭn̰ḛa̰ ̰d̰'̰o̰n̰d̰a̰
+ciphertext: T҉e҉s҉t҉o҉ ҉c҉i҉f҉r҉a҉t҉o҉
+fullyshaded: ■■■■■ ■■■■■■■■■■■
+strikethroughSlash: ̸S̸i̸m̸b̸o̸l̸o̸ ̸b̸a̸r̸r̸a̸ ̸a̸l̸t̸a̸
+
 
 [register-converter]: Convertir texto
 h1: Convertir texto
@@ -120,6 +120,14 @@ maxLength: simboli (4-99)
 generate: Generare
 warning: Seleziona almeno un set di caratteri per generare la tua password
 
+[nickname-generator]: Generatore di bellissimi nickname
+h1: Generatore di bellissimi nickname
+desc: Decora nickname
+
+text: Testo
+nickname: Soprannome
+example: Maria
+
 [text-to-symbols]: Testo da simboli
 h1: Testo da simboli
 desc: Scrivi il testo in simboli
@@ -133,3 +141,38 @@ background: Lettere con sfondo
 symbol-dolar: Lettere dal simbolo $
 symbol-lattice: Lettere dal simbolo #
 symbol-paragraph: Lettere dal simbolo ¶
+
+
+[typograph]: Tipografo
+h1: Tipografo
+
+plain: Testo originale
+text: Testo
+html: HTML
+mnemonics: Entità HTML
+example:  - "Esempio..."
+result: Risultato
+first-level-quote: Virgolette di primo livello
+second-level-quote: Virgolette di secondo livello
+
+[secret-space]: Spazi bianchi
+h1: Spazi bianchi
+text: Testo originale
+result: Testo formattato
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Tastiera Emoji
+subtitle: Copia e incolla qualsiasi emoji
+popular: Popolare
+emoji: Emoji
+arrow: Simboli freccia
+math: Matematica
+currency: Moneta
+letters: Lettere
+punctuation: Punteggiatura
+example: Esempi di testo e simboli ☆
+copy-text: Clicca sul simbolo e lo farà copia automaticamente!
+paste-text: Va anche in questa casella, dove puoi inserire qualsiasi testo e decorarlo con qualsiasi simbolo!
+ok: Capito!
+skip: Saltare
+cool: Freddo!

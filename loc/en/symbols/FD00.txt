@@ -62,22 +62,22 @@ FD3C: Arabic Ligature Alef with Fathatan Final Form
 FD3D: Arabic Ligature Alef with Fathatan Isolated Form
 FD3E: Ornate Left Parenthesis
 FD3F: Ornate Right Parenthesis
-FD40:
-FD41:
-FD42:
-FD43:
-FD44:
-FD45:
-FD46:
-FD47:
-FD48:
-FD49:
-FD4A:
-FD4B:
-FD4C:
-FD4D:
-FD4E:
-FD4F:
+FD40: Arabic Ligature Rahimahu Allaah
+FD41: Arabic Ligature Radi Allaahu Anh
+FD42: Arabic Ligature Radi Allaahu Anhaa
+FD43: Arabic Ligature Radi Allaahu Anhum
+FD44: Arabic Ligature Radi Allaahu Anhumaa
+FD45: Arabic Ligature Radi Allaahu Anhunna
+FD46: Arabic Ligature Sallallaahu Alayhi Wa-aalih
+FD47: Arabic Ligature Alayhi As-salaam
+FD48: Arabic Ligature Alayhim As-salaam
+FD49: Arabic Ligature Alayhimaa As-salaam
+FD4A: Arabic Ligature Alayhi As-salaatu Was-salaam
+FD4B: Arabic Ligature Quddisa Sirrah
+FD4C: Arabic Ligature Sallallahu Alayhi Waaalihee Wa-sallam
+FD4D: Arabic Ligature Alayhaa As-salaam
+FD4E: Arabic Ligature Tabaaraka Wa-taaalaa
+FD4F: Arabic Ligature Rahimahum Allaah
 FD50: Arabic Ligature Teh with Jeem with Meem Initial Form
 FD51: Arabic Ligature Teh with Hah with Jeem Final Form
 FD52: Arabic Ligature Teh with Hah with Jeem Initial Form
@@ -205,7 +205,7 @@ FDCB:
 FDCC:
 FDCD:
 FDCE:
-FDCF:
+FDCF: Arabic Ligature Salaamuhu Alaynaa
 FDD0: <Not a Character>
 FDD1: <Not a Character>
 FDD2: <Not a Character>
@@ -252,5 +252,5 @@ FDFA: Arabic Ligature Sallallahou Alayhe Wasallam
 FDFB: Arabic Ligature Jallajalalouhou
 FDFC: Rial Sign
 FDFD: Arabic Ligature Bismillah Ar-Rahman Ar-Raheem
-FDFE:
-FDFF:
+FDFE: Arabic Ligature Subhaanahu Wa Taaalaa
+FDFF: Arabic Ligature Azza Wa Jall

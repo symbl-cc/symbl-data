@@ -1,3 +1,4 @@
+properties: 속성
 hide: 숨기다
 show: 보여
 up: 맨 위로
@@ -25,6 +26,9 @@ homepage: 홈페이지
 cookie-message: 이 사이트는 최고의 경험을 보장하기 위해 🍪쿠키를 사용합니다.
 accept: 동의하기
 empty-cell: 빈 셀
+block-description: 설명
+more-information: 더 읽기
+back:
 
 [mobile]
 to-full: 정식 버전으로 이동
@@ -35,5 +39,5 @@ save: 저장
 submit: 제출
 undo: 취소
 send-changes: 변경 사항은 사이트의 개발로 전송됩니다. 당신은 확실한가요?
-thanks: 고맙습니다 
+thanks: 고맙습니다
 

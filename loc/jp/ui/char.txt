@@ -22,7 +22,13 @@ copy-code: クリックしてコピー
 copy_button: コピー
 copy_done: コピーされた!
 version: Unicodeバージョン
-sets-with-this-symbol: この記号で設定
+collections-with-this-symbol: この記号で設定
 empty-symbol: Unicodeで未定義
 emoji_group: 絵文字のカテゴリ
 emoji_version: 絵文字のバージョン
+download: ダウンロード
+displaying: シンボル表示
+symbol_not_displayed: シンボルが表示されないのはなぜですか？
+examples: 使用例
+synonyms: 同義語
+in-development: 開発中です

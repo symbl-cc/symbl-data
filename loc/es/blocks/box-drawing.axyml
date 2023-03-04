@@ -1,0 +1,3 @@
+El bloque para pintar o dibujar los marcos de Unicode. Funciona bien en combinación con los estándares gráficos antiguos, que contienen varios símbolos para las fronteras de las tablas y esquemas.
+
+Los símbolos para dibujar marcos son un método primitivo para simular gráficos ráster. Se utiliza ampliamente en interfaces de usuario textuales para dibujar varios marcos. En las interfaces gráficas, estos símbolos son mucho menos útiles, ya que es más fácil dibujar líneas y rectángulos directamente desde la interfaz gráfica de programación de aplicaciones. Los símbolos para dibujar marcos solo funcionan con fuentes monoespaciadas. Sin embargo, todavía se usan en sitios web para escribir algún texto como comentario.

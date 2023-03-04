@@ -8,198 +8,289 @@
 #  1 сентября: holiday--darkgreen
 #  Черная пятница: holiday--black
 #  Хэллоуин: holiday--orange
-
-[winter-olympic-games]
-    date: 04.02
-    show: 04.02-20.02
-    left: 🏅, 🏂, 🛷, 🥌
-    right: 🎿, 🏒, 🥅, 🥇
-    style: white
+#  !ru - выводить на всех языках кроме данного
+#  str_date: fourth thursday of november
+#   show_int: - 2 days
 
 [new-year]
     date: 01.01
-    show: 21.12-13.01
-    left: U+1F384
-    right: U+1F385
-    style: white
+    show: 31.12-01.01
+    preview: 🎆
+    style: pink
+    lang: !ru
+
+[new-year-ru]
+    date: 01.01
+    show: 21.12-30.01  // поменять на 09 после тестирования
+    preview: 🎄
+    style: pink
+    lang: ru
+
+[chinese-new-year]
+    date: 01.02
+    show: 01.02-04.02
+    preview: 🎆
+    style: pink
+    lang: cn
 
 [valentine-day]
     date: 14.02
-    left: 💕, 😘, 💏
-    right: 😍, ❤,️ 💘
+    show: 14.02
+    preview: 💕
     style: pink
 
 [23-february]
     date: 23.02
     show: 21.02-23.02
-    left: 🎖, 🛡, ★
-    right: 🔫, ⚔, 🏹
-    style: camouflage
-    lang: ru
+    preview: 🎖
 
 [maslenica]
-    date: 04.03-10.03
-    show: 04.03-06.03
-    left: 🥞, 🌞
-    right: ☦, 🛷
+    date: 28.02-06.03
+    show: 06.03
+    preview: 🥞
     style: pink
     lang: ru
 
 [8-march]
     date: 08.03
     show: 07.03-08.03
-    left: 🎁, 💐, 🌹
-    right: 🍫, 💍, 💝
+    preview: 💐
     style: pink
 
 [saint-patricks-day]
 	date: 17.03
     show: 17.03
-    left: ☘️, 🇮🇪
-    right: 🍺, 🥃
+    preview: ☘️
     style: green
 
 [holi]
-	date: 21.03
-    show: 21.03
-    left: ☸️, 💖, 💙 
-    right: 🌈, 💚, 💃
+	date: 18.03
+    show: 18.03
+    preview: ☸️
     style: orange
     lang: hi
-	
+
 [april-fools-day]
 	date: 01.04
     show: 01.04
-    left: 😀, 🤣, 🙃
-    right: 😛, 😯, 🤯
+    preview: 🤣
     style: yellow
-	
+
 [cosmonautics-day]
 	date: 12.04
     show: 12.04
-    left: 🚀, 🌌, ☄
-    right: 🌠, 🌟, 🛰
+    preview: 🚀
     style: cosmos
     lang: ru
-	
+
 [easter-catolic]
-	date: 12.04
-    show: 12.04
-    left: 🥚, ⛪, ☦️
-    right: 🐇, ✝️, 🔔
+	date: 17.04
+    show: 17.04
+    preview: 🐇
     style: pink
-    lang: en, de, es, fr, it, pt, pl, ro
-    
+    lang: en, de, es, fr, it, pt, pl, hu
+
 [easter-orthodox]
-	date: 28.04
-    show: 28.04
-    left: 🥚, ⛪, ☦️
-    right: 🐇, ✝️, 🔔
+	date: 24.04
+    show: 24.04
+    preview: 🥚
     style: pink
-    lang: ru
+    lang: ru, ro
 
 [1-may]
 	date: 01.05
     show: 01.05
-    left: ☭, ⚐, ⚒
-    right: 🌱, 🌷, 🌞
+    preview: ⚒
     style: pink
 
 [cinco-de-mayo]
 	date: 05.05
     show: 05.05
-    left: 🇲🇽, 🎸, 🌮
-    right: 💃, 👏, 🌵
+    preview: 💃
     style: pink
     lang: en, es
 
 [victory-day]
 	date: 09.05
     show: 09.05
-    left: 🎗, ★, 🎆
-    right: ☆, ☭, 🎖
+    preview: 🎗
     style: red
 
 [uefa-champions-league]
-	date: 01.06
-    show: 01.06
-    left: ⚽, 🥅
-    right: 🏆, 🎉
+	date: 28.05
+    show: 28.05
+    preview: 🏆
     style: pink
-	
+
 [international-childrens-day]
 	date: 01.06
     show: 01.06
-    left: 🧒, 🚼
-    right: 👶, 🍼
+    preview: 🧒
     style: pink
 
 [eid-al-fitr]
-	date: 04.06
-    show: 04.06
-    left: 📖, 🛐, ☪️
-    right: 🤲, 🕌, 🕋
+	date: 02.05
+    show: 02.05-03.05
+    preview: ☪️
     style: pink
 
 [dragon-boat-festival]
-	date: 07.06
-    show: 07.06
-    left: 🇨🇳, 👲
-    right: 🚣, 🐲
+	date: 03.06
+    show: 03.06
+    preview: 🐲
     style: pink
     lang: cn
-	
+
 [queens-official-birthday]
-	date: 08.06
-    show: 08.06
-    left: 🇬🇧, 👑, 👸
-    right: 🎂, 🏰, 🎉
+	date: 12.06
+    show: 12.06
+    preview: 👸
     style: pink
     lang: en
-	
+
 [graduation]
-	date: 23.06
-    show: 21.06-25.06
-    left: ⛵, 🍾
-    right: 🎉, 🎓
+	date: 26.06
+    show: 26.06-27.06
+    preview: ⛵
     style: red
     lang: ru
-	
+
 [independence-day]
 	date: 04.07
     show: 04.07
-    left: 🇺🇸, 🗽, 🦅
-    right: 🤠, ⚾, 💵
+    preview: 🇺🇸
     style: pink
     lang: en
-	
+
+#[uefa-european-championship]
+#    date: 11.06-11.07
+#    show: 06.07-11.07
+#    left: ⚽, 🥅
+#    right: 🏆, 🥇
+#    style: pink
+#    lang: en, ru, de, es, fr, hu, it, pl, pt, ro, tr
+
+#[fifa-world-cup]
+#    date: 21.11-18.12
+#    show: 09.12-18.12
+#    left: ⚽, 🥅
+#    right: 🏆, 🥇
+#    style: pink
+
 [international-chess-day]
 	date: 20.07
     show: 20.07
-    left: ♔, ♕, ♖
-    right: ♝, ♞, ♟
+    preview: ♔
     style: green
 
 [bastille-day]
 	date: 14.07
     show: 14.07
-    left: 🇫🇷, 🍷
-    right: 🏰, 🍾
+    preview: 🇫🇷
     style: pink
     lang: fr
 
 [navy-day]
-	date: 28.07
-    show: 28.07
-    left: 🚢, 🎆
-    right: 🇷🇺, ❌
+	date: 25.07
+    show: 25.07
+    preview: 🚢
     style: camouflage
     lang: ru
 
 [den-vdv]
 	date: 02.08
     show: 02.08
-    left: 🎆, ✈️, 🇷🇺
-    right: ⛲, 🎖
+    preview: ⛲
     style: camouflage
     lang: ru
+
+[knowledge-day]
+	date: 01.09
+    show: 01.09
+    preview: 📖
+    style: pink
+    lang: ru
+
+[birthday-of-the-smiley]
+	date: 19.09
+    show: 19.09
+    preview: 😊
+    style: pink
+
+[oktoberfest]
+	date: 19.09-04.10
+    show: 24.09-25.09
+    preview: 🍺
+    style: pink
+    lang: ru, en, es, de, fr, pt, pl, it, ro, hu
+
+[diwali]
+	date: 24.10
+    show: 24.10
+    preview: 🕯️
+    style: pink
+    lang: hi
+
+[halloween]
+	date: 31.10
+    show: 31.10
+    preview: 🎃
+    style: orange
+
+[day-of-the-dead]
+	date: 01.11-02.11
+    show: 01.11-02.11
+    preview: 💀
+    style: black
+    lang: es
+
+[guy-fawkes-night]
+	date: 05.11
+    show: 05.11
+    preview: 🔥
+    style: red
+    lang: en
+
+[thanksgiving]
+    str_date: fourth thursday of november
+	date: 24.11
+    show: 24.11
+    preview: 🦃
+    style: pink
+    lang: en
+
+[black-friday]
+	date: 25.11
+    show: 25.11
+    preview: 🤑
+    style: black
+    lang: en
+
+[hanukkah]
+	date: 18.12-26.12
+    show: 18.12
+    preview: 🕎
+    style: pink
+
+[christmas]
+	date: 25.12
+    show: 20.12-25.12
+    preview: 🎅
+    style: pink
+
+
+#[summer-olympic-games]
+#    date:
+#    show:
+#    left: 🥇, 🤺, 🛶
+#    right: 🏃, 🏋️, 🚴
+#    style: green
+#
+
+#[winter-olympic-games]
+#    date: 04.02-20.02
+#    show: 04.02-13.02 15.02-20.02
+#    left: 🏅, 🏂, 🛷, 🥌
+#    right: 🎿, 🏒, 🥅, 🥇
+#    style: white
+

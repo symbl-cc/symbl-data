@@ -1,7 +1,5 @@
 : Werkzeuge
 
-toolsListTitle: Versuchen Sie auch andere Werkzeuge
-
 [encoder]: HTML-Encoder
 
 desc: Symbole in HTML-Code umwandeln, oder umgekehrt
@@ -11,6 +9,7 @@ text: HTML und Text
 entities: HTML-Entsprechungen verwenden, falls vorhanden
 br: Zeilenumbrüche beachten
 result: Ergebnis
+example: Dies ist ein Beispieltext für Unicode-Kodierung! ©
 
 [decoder]: Unicode-Decoder
 
@@ -38,22 +37,23 @@ info: Verfügbar: {symbol}, {dec}, {hex}, {html}
 generate: Generieren
 result: Ergebnis
 
-[strikethrough-text]: Durchgestrichen text
+[strikethrough-text]: Durchgestrichen schreiben
 
 h1: Durchgestrichen text
 desc: Durchgestrichen schreiben
 text: Text
 example: Dies ist ein Beispieltext für Unicode-Kodierung
 
-strikethroughText: Durchgestrichen text
-crossed: Unterstreichen text
-dotted: Gepunktete Linie
-slash: Schrägstrich
-doubleunderline: Doppelte Unterstreichung
-waveline: Wellenlinie
-ciphertext: Geheimtext
-fullyshaded: Übermalt text
-strikethroughSlash: Hoher Schrägstrich 
+strikethroughText: ̶D̶u̶r̶c̶h̶g̶e̶s̶t̶r̶i̶c̶h̶e̶n̶ ̶t̶e̶x̶t̶
+crossed: ͟U͟n͟t͟e͟r͟s͟t͟r͟e͟i͟c͟h͟e͟n͟ ͟t͟e͟x͟t͟
+dotted: ̤G̤e̤p̤ṳn̤k̤t̤e̤t̤e̤ ̤L̤i̤n̤i̤e̤
+slash: ̷S̷c̷h̷r̷ä̷g̷s̷t̷r̷i̷c̷h̷
+doubleunderline: ͇D͇o͇p͇p͇e͇l͇t͇e͇ ͇U͇n͇t͇e͇r͇s͇t͇r͇e͇i͇c͇h͇u͇n͇g͇
+waveline: ̰W̰ḛl̰l̰ḛn̰l̰ḭn̰ḭḛ
+ciphertext: G҉e҉h҉e҉i҉m҉t҉e҉x҉t҉
+fullyshaded: ■■■■■■■■ ■■■■
+strikethroughSlash: ̸H̸o̸h̸e̸r̸ ̸S̸c̸h̸r̸ä̸g̸s̸t̸r̸i̸c̸h̸ ̸
+
 
 [register-converter]: Text-Konverter
 h1: Text-Konverter
@@ -122,9 +122,14 @@ maxLength: Symbole (4-99)
 generate: Generieren
 warning: Wählen Sie mindestens einen Zeichensatz aus, um Ihr Passwort zu generieren
 
-[text-to-symbols]: Text aus Zeichen
-h1: Text aus Zeichen
-desc: Schreiben Sie Text aus Zeichen
+[nickname-generator]: Generator von schönen Spitznamen
+h1: Generator von schönen Spitznamen
+desc: Spitznamen dekorieren
+
+text: Text
+nickname: Spitzname
+example: Maria
+
 
 text: Text (Latein)
 example: Beispiel
@@ -135,3 +140,37 @@ background: Buchstaben mit Hintergrund
 symbol-dolar: Buchstaben aus dem Symbol $
 symbol-lattice: Buchstaben aus dem Symbol #
 symbol-paragraph: Buchstaben aus dem Symbol ¶
+
+[typograph]: Typograf
+h1: Typograf
+
+plain: Original Text
+text: Text
+html: HTML
+mnemonics: HTML Entitäten
+example:  - "Dies ist ein Beispieltext..."
+result: Ergebnis
+first-level-quote: Anführungszeichen der ersten Ebene
+second-level-quote: Anführungszeichen der zweiten Ebene
+
+[secret-space]: Leerzeichen
+h1: Leerzeichen
+text: Original Text
+result: Formatierter Text
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Emoji-Tastatur
+subtitle: Kopieren Sie ein beliebiges Emoji und fügen Sie es ein
+popular: Beliebt
+emoji: Emoji
+arrow: Pfeile
+math: Mathematik
+currency: Währung
+letters: Briefe
+punctuation: Interpunktion
+example: Beispiele für Text und Symbole ☆
+copy-text: Klicken Sie auf das Symbol und es wird automatisch kopieren!
+paste-text: Es geht auch zu diesem Feld, wo Sie einen beliebigen Text eingeben und mit beliebigen Symbolen dekorieren können!
+ok: Verstanden!
+skip: Überspringen
+cool: Kühl!

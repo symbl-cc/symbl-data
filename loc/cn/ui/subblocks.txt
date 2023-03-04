@@ -1,7 +1,11 @@
 0000-001F: C0控制
-0020-002F: ASCII標點和符號
+#0020-002A: ***ASCII punctuation and symbols
+#002B-002B: ***ASCII math operator
+#002C-002F: ***ASCII punctuation
 0030-0039: ASCII數字
-003A-0040: ASCII標點和符號
+#003A-003B: ***ASCII punctuation
+#003C-003E: ***ASCII mathematical operators
+#003F-0040: ***ASCII punctuation
 0041-005A: 大寫拉丁字母
 005B-0060: ASCII標點和符號
 0061-007A: 小寫拉丁字母
@@ -129,7 +133,7 @@
 0617-061A: 古蘭經註釋標誌
 061B-061B: 標點
 061C-061C: 格式字符
-061E-061F: 標點
+#061D-061F: ***Punctuation
 0620-0620: 克什米爾語的加法
 0621-063A: 基於ISO 8859-6
 063B-063F: 早期波斯語和阿塞拜疆語的補充
@@ -143,7 +147,9 @@
 0670-0670: 塔什基爾
 0671-0672: 擴展的阿拉伯字母
 0673-0673: 棄用的信件
-0674-06D3: 擴展的阿拉伯字母
+#0674-0674: ***High hamza
+#0675-0678: ***Digraphic letters for Kazakh
+#0679-06D3: ***Extended Arabic letters
 06D4-06D4: 標點
 06D5-06D5: 擴展阿拉伯字母
 06D6-06ED: 古蘭經註釋標誌
@@ -188,16 +194,25 @@
 0859-085B: 變音符號
 085E-085E: 標點
 0860-086A: 敘利亞字母
+#0870-0888: ***Additions for Quranic orthographies
+#0889-088A: ***Additions for Bosnian orthographies
+#088B-088D: ***Additions for Pegon orthographies
+#088E-088E: ***Abbreviation mark
+#0890-0891: ***Supertending currency symbols
+#0898-089F: ***Additions for Quranic orthographies
 08A0-08A9: 非洲語言的阿拉伯字母
 08AA-08AC: 羅興亞語的輔音
 08AD-08B1: 歐洲和中亞語言的阿拉伯字母
 08B2-08B2: 柏柏爾阿拉伯字母
 08B3-08B4: Arwi的阿拉伯字母
+#08B5-08B5: ***Early Arabic letter
 08B6-08BA: Bravanese的阿拉伯字母
 08BB-08BD: Warsh拼字法的阿拉伯字母
 08BE-08C2: Hindko的阿拉伯字母
 08C3-08C6: 豪薩語，沃洛夫語和其他非洲拼字法的阿拉伯字母
 08C7-08C7: 旁遮普語的阿拉伯字母
+#08C8-08C8: ***Arabic letter for Balti
+#08C9-08D2: ***Additions for Quranic orthographies
 08D3-08E2: 古蘭經註釋標誌
 08E3-08E3: Arwi的擴展元音符號
 08E4-08E9: 羅興亞語的擴展元音符號
@@ -309,11 +324,13 @@
 0C00-0C04: 各種標誌
 0C05-0C14: 獨立元音
 0C15-0C39: 輔音
+#0C3C-0C3C: ***Sign
 0C3D-0C3D: 梵文加法
 0C3E-0C4C: 相關元音符號
 0C4D-0C4D: 維拉瑪
 0C55-0C56: 各種標誌
 0C58-0C5A: 歷史的語音變體
+#0C5D-0C5D: ***Consonant
 0C60-0C61: 梵語附加元音
 0C62-0C63: 相依元音
 0C64-0C65: 已預留
@@ -327,12 +344,12 @@
 0CBE-0CCC: 相關元音符號
 0CCD-0CCD: 維拉瑪
 0CD5-0CD6: 各種標誌
-0CDE-0CDE: 其他輔音
+#0CDD-0CDE: ***Additional consonants
 0CE0-0CE1: 梵語附加元音
 0CE2-0CE3: 相依元音
 0CE4-0CE5: 已預留
 0CE6-0CEF: 位數
-0CF1-0CF2: 梵文中使用的標誌
+#0CF1-0CF3: ***Signs used in Sanskrit
 0D00-0D04: 各種標誌
 0D05-0D14: 獨立元音
 0D15-0D3A: 輔音
@@ -386,7 +403,7 @@
 0EC0-0EC4: 元音
 0EC6-0EC6: 重複標記
 0EC8-0ECB: 色調標記
-0ECC-0ECD: 跡象
+#0ECC-0ECE: ***Signs
 0ED0-0ED9: 位數
 0EDC-0EDD: 有向圖
 0EDE-0EDF: Khmu的輔音
@@ -468,7 +485,8 @@
 13F8-13FC: 小寫音節
 13FD-13FD: 古老的小寫音節
 1400-1400: 標點
-1401-166C: 音節
+#1401-15C3: ***Syllables
+#15C4-166C: ***Syllables for Carrier
 166D-166D: 符號
 166E-166E: 標點
 166F-167F: 音節
@@ -484,7 +502,8 @@
 1700-1702: 獨立元音
 1703-1711: 輔音
 1712-1713: 相關元音符號
-1714-1714: 維拉瑪
+#1714-1715: ***Viramas
+#171F-171F: ***Archaic letter
 1720-1722: 獨立元音
 1723-1731: 輔音
 1732-1733: 相關元音符號
@@ -514,7 +533,7 @@
 17E0-17E9: 位數
 17F0-17F9: 占卜知識的數字符號
 1800-180A: 標點
-180B-180E: 格式控制
+#180B-180F: ***Format controls
 1810-1819: 位數
 1820-1842: 基本字母
 1843-185C: 待辦信
@@ -561,20 +580,26 @@
 1AA3-1AA6: 標點
 1AA7-1AA7: 標誌
 1AA8-1AAD: 標點
-1AB0-1ABE: 用於德國方言學
+#1AB0-1ABA: ***Used in German dialectology
+#1ABB-1ABE: ***Marks surrounding other diacritics or letters
 1ABF-1AC0: 用於蘇格蘭語
+#1AC1-1AC5: ***Marks next to or surrounding other diacritics
+#1AC6-1AC6: ***Phonetic sign
+#1AC7-1ACA: ***Used in extended IPA
+#1ACB-1ACE: ***Used in Middle English Ormulum
 1B00-1B04: 各種標誌
 1B05-1B12: 獨立元音
 1B13-1B33: 輔音
 1B34-1B34: 標誌
 1B35-1B43: 相關元音符號
 1B44-1B44: 標誌
-1B45-1B4B: 其他輔音
+#1B45-1B4C: ***Additional consonants
 1B50-1B59: 位數
 1B5A-1B60: 標點
 1B61-1B6A: 音符的音樂符號
 1B6B-1B73: 音樂符號的變音標記
 1B74-1B7C: 音樂符號
+#1B7D-1B7E: ***Punctuation
 1B80-1B82: 各種標誌
 1B83-1B89: 元音
 1B8A-1BA0: 輔音
@@ -689,7 +714,7 @@
 2070-207F: 上標
 2080-2094: 下標
 2095-209C: UPA的下標
-20A0-20BF: 貨幣符號
+#20A0-20C0: ***Currency symbols
 20D0-20DC: 組合符號的變音符號
 20DD-20E0: 附上變音符號
 20E1-20E1: 符號的附加變音標記
@@ -797,7 +822,7 @@
 23E3-23E3: 化學符號
 23E4-23E8: 雜項技術
 23E9-23FA: 用戶界面符號
-23FB-23FD: ISO 7000:2012 中的電源符號
+#23FB-23FD: ***Power symbols from ISO 7000:2012
 23FE-23FE: IEEE 1621-2004中的電源符號
 23FF-23FF: 雜項符號
 2400-2421: 控制代碼的圖形圖片
@@ -1014,8 +1039,8 @@
 2BF3-2BF8: 俄羅斯占星學方面
 2BF9-2BFE: 國際象棋符號中使用的符號
 2BFF-2BFF: 雜項符號
-2C00-2C2E: 大寫字母
-2C30-2C5E: 小寫字母
+#2C00-2C2F: ***Capital letters
+#2C30-2C5F: ***Small letters
 2C60-2C66: 拼寫拉丁文字
 2C67-2C6C: 維吾爾文的補充
 2C6D-2C74: 雜項添加
@@ -1065,7 +1090,10 @@
 2E41-2E42: 反標點
 2E43-2E44: 其他標點符號
 2E45-2E49: 標點符號
-2E4A-2E52: 標點符號
+#2E4A-2E54: ***Historic punctuation
+#2E55-2E58: ***Brackets
+#2E59-2E5C: ***Parentheses top and bottom halves
+#2E5D-2E5D: ***Oblique hyphen
 2E80-2EF3: 中日韓自由基補充
 2F00-2FD5: 康熙自由基
 2FF0-2FFB: 表意文字
@@ -1206,9 +1234,13 @@ A7B3-A7B3: 德國方言信
 A7B4-A7B7: 非洲語言字母
 A7B8-A7B9: 馬扎瓦（墨西哥）的來信
 A7BA-A7BF: 烏干達和埃及學音譯的信件
-A7C2-A7C3: 附加字母
+#A7C0-A7C3: ***Additional medieval letters
 A7C4-A7C6: 拼音早期羅馬化中使用的字母
 A7C7-A7CA: 加里什（Gaulish）的其他信件
+#A7D0-A7D5: ***Letters used in the Middle English Ormulum
+#A7D6-A7D9: ***Letters used in medieval palaeography
+#A7F2-A7F3: ***Modifier letters for Chatino (México)
+#A7F4-A7F4: ***Modifier letter for Japanese phonemic transcription
 A7F5-A7F7: 古代Gaulish和凱爾特語的史詩字母
 A7F8-A7F9: 擴展IPA的補充
 A7FA-A7FA: UPA的附加
@@ -1250,8 +1282,8 @@ A8F8-A8FB: 編輯標記
 A8FC-A8FD: 跡象
 A8FE-A8FF: 附加元音和元音符號
 A900-A909: 位數
-A90A-A925: 輔音
-A926-A92A: 元音
+#A90A-A921: ***Consonants
+#A922-A92A: ***Vowels
 A92B-A92D: 色調標記
 A92E-A92F: 標點
 A930-A946: 輔音
@@ -1319,7 +1351,7 @@ ABEB-ABED: 標點
 ABF0-ABF9: 位數
 D7B0-D7C6: 老內側元音
 D7CB-D7FB: 舊的最終輔音
-F900-FA0B: KS X 1001:1998的發音變體
+#F900-FA0B: ***Pronunciation variants from KS X 1001:1998
 FA0C-FA0D: Big 5中的重複字符
 FA0E-FA2D: IBM 32兼容性表意文字
 FA2E-FA2F: 韓國兼容性表意文字
@@ -1330,15 +1362,17 @@ FB00-FB06: 拉丁連字
 FB13-FB17: 亞美尼亞連字
 FB1D-FB4F: 希伯來語介紹表格
 FB50-FBB1: 波斯語，烏爾都語，信德語等的上下文形式的字形
-FBB2-FBC1: 阿拉伯語教學符號
+#FBB2-FBC2: ***Arabic pedagogical symbols
 FBD3-FBE9: 中亞語言字母上下文形式的字形
 FBEA-FD3D: 連字（兩個元素）
 FD3E-FD3F: 標點
+#FD40-FD4F: ***Honorific word ligatures
 FD50-FDC7: 連字（三個元素）
+#FDCF-FDCF: ***Honorific word ligature
 FDD0-FDEF: 非字符
 FDF0-FDFB: 單詞連字
 FDFC-FDFC: 貨幣符號
-FDFD-FDFD: 符號
+#FDFD-FDFF: ***Honorific word ligatures
 FE00-FE0D: 變體選擇器
 FE0E-FE0F: 表情符號專用的變化選擇器
 FE10-FE19: 垂直變體的字形
@@ -1420,12 +1454,16 @@ FFFE-FFFF: 非字符
 10500-10527: 字母
 10530-10563: 字母
 1056F-1056F: 標點
+#10570-10595: ***Capital letters
+#10597-105BC: ***Small letters
 10600-1069F: 簡單的跡象
 106A0-106B2: 花瓶形狀
 106B3-10726: 複雜的跡象
 10727-10736: 花瓶形狀的複雜標誌
 10740-10755: 分數和復合分數
 10760-10767: 附加標誌
+#10780-10780: ***Modifier letter for VoQS
+#10781-107BA: ***Modifier letters for IPA
 10800-1083F: 音節
 10840-10855: 字母
 10857-10857: 標點
@@ -1505,6 +1543,7 @@ FFFE-FFFF: 非字符
 10EAB-10EAC: 合併標記
 10EAD-10EAD: 標點
 10EB0-10EB1: 與變音符號的歷史信件
+#10EFD-10EFF: ***Quranic marks used in Turkey
 10F00-10F1C: 字母
 10F1D-10F26: 號碼
 10F27-10F27: 結紮
@@ -1513,6 +1552,9 @@ FFFE-FFFF: 非字符
 10F46-10F50: 合併標記
 10F51-10F54: 號碼
 10F55-10F59: 標點
+#10F70-10F81: ***Letters
+#10F82-10F85: ***Combining signs
+#10F86-10F89: ***Punctuation
 10FB0-10FC4: 字母
 10FC5-10FCB: 號碼
 10FE0-10FF5: 字母
@@ -1525,6 +1567,10 @@ FFFE-FFFF: 非字符
 11047-1104D: 標點
 11052-11065: 號碼
 11066-1106F: 位數
+#11070-11070: ***Virama
+#11071-11072: ***Independent vowels
+#11073-11074: ***Dependent vowel signs
+#11075-11075: ***Consonant
 1107F-1107F: 細木工
 11080-11082: 各種標誌
 11083-1108C: 獨立元音
@@ -1533,6 +1579,7 @@ FFFE-FFFF: 非字符
 110B9-110B9: 維拉瑪
 110BA-110BD: 各種標誌
 110BE-110C1: 標點
+#110C2-110C2: ***Vowel sign
 110CD-110CD: 標誌
 110D0-110E1: 輔音
 110E2-110E7: 元音
@@ -1576,6 +1623,9 @@ FFFE-FFFF: 非字符
 11234-11237: 各種標誌
 11238-1123D: 標點
 1123E-1123E: 標誌
+#1123F-1123F: ***Consonant
+#11240-11240: ***Independent vowel
+#11241-11241: ***Dependent vowel sign
 11280-11283: 元音
 11284-112A8: 輔音
 112A9-112A9: 標點
@@ -1640,6 +1690,7 @@ FFFE-FFFF: 非字符
 116B6-116B6: 維拉瑪
 116B7-116B7: 努塔
 116B8-116B8: 輔音
+#116B9-116B9: ***Punctuation
 116C0-116C9: 位數
 11700-1171A: 輔音
 1171D-1171F: 中位
@@ -1647,6 +1698,7 @@ FFFE-FFFF: 非字符
 11730-11739: 位數
 1173A-1173B: 號碼
 1173C-1173F: 標點
+#11740-11746: ***Additional consonants
 11800-11809: 獨立元音
 1180A-1182B: 輔音
 1182C-11836: 相關元音符號
@@ -1702,10 +1754,14 @@ FFFE-FFFF: 非字符
 11A9D-11A9D: 伸長率標記
 11A9E-11AA0: 頭部標記
 11AA1-11AA2: 終端標記
+#11AB0-11ABB: ***Syllables for Nattilik
+#11ABC-11ABF: ***Historic syllables for Cree and Ojibway
 11AC0-11AD4: 輔音
 11AD5-11ADB: 元音
 11ADC-11AE4: 最終輔音
 11AE5-11AF8: 色調標記
+#11B00-11B01: ***Head marks
+#11B02-11B09: ***Auspicious signs
 11C00-11C0D: 獨立元音
 11C0E-11C2E: 輔音
 11C2F-11C3B: 相關元音符號
@@ -1738,6 +1794,13 @@ FFFE-FFFF: 非字符
 11EF2-11EF2: 輔音複製器
 11EF3-11EF6: 元音符號
 11EF7-11EF8: 標點
+#11F00-11F03: ***Signs
+#11F04-11F10: ***Independent vowels
+#11F12-11F33: ***Consonants
+#11F34-11F40: ***Dependent vowel signs
+#11F41-11F42: ***Viramas
+#11F43-11F4F: ***Punctuation
+#11F50-11F59: ***Digits
 11FB0-11FB0: 信
 11FC0-11FD4: 分數
 11FD5-11FDC: 糧食措施
@@ -1757,6 +1820,8 @@ FFFE-FFFF: 非字符
 12469-1246E: 數字符號
 12470-12474: 標點
 12480-12543: 跡象
+#12F90-12FF0: ***Signs
+#12FF1-12FF2: ***Punctuation
 13000-1304F: A.人及其職業
 13050-13059: B.婦女及其職業
 1305A-13075: C.擬人神靈
@@ -1785,10 +1850,16 @@ FFFE-FFFF: 非字符
 133DB-133E3: Y.寫作，遊戲，音樂
 133E4-1340C: Z.筆觸，源自等級幾何圖形的符號
 1340D-1342E: Aa.未分類
+#1342F-1342F: ***Addition to group V
 13430-13431: 細木工
 13432-13435: 標牌插入控件
 13436-13436: 標誌堆放控制
 13437-13438: 段範圍界定符
+#13439-1343B: ***Sign insertion controls
+#1343C-1343F: ***Enclosure controls
+#13440-13440: ***Mirror control
+#13441-13446: ***Blank and lost signs
+#13447-13455: ***Damage modifiers
 14400-14469: A.人體和衣物
 1446A-144AF: B.動物
 144B0-144D0: C.植物
@@ -1809,6 +1880,9 @@ FFFE-FFFF: 非字符
 16A40-16A5E: 字母
 16A60-16A69: 位數
 16A6E-16A6F: 標點
+#16A70-16A9F: ***Vowels
+#16AA0-16ABE: ***Consonants
+#16AC0-16AC9: ***Digits
 16AD0-16AE6: 輔音字母
 16AE7-16AED: 元音字母
 16AF0-16AF4: 合併音調標記
@@ -1878,12 +1952,16 @@ FFFE-FFFF: 非字符
 18CC0-18CCB: 激進18
 18CCC-18CD2: 激進的19
 18CD3-18CD5: 激進的20
+#1AFF0-1AFF6: ***Tone marks
+#1AFF7-1AFFE: ***Nasalized tone marks
 1B000-1B000: 歷史片假名
 1B001-1B001: 歷史悠久的平假名和本田假名
 1B002-1B0FF: 本田假名
 1B100-1B11E: 本田假名
-1B150-1B152: 歷史小平假名字母
-1B164-1B167: 歷史小片假名字母
+#1B11F-1B11F: ***Historic Hiragana
+#1B120-1B122: ***Historic Katakana
+#1B132-1B152: ***Historic small hiragana letters
+#1B155-1B167: ***Historic small katakana letters
 1B170-1B170: 一鍵字符
 1B171-1B177: 二衝程字符
 1B178-1B18A: 三衝程字符
@@ -1922,6 +2000,10 @@ FFFE-FFFF: 非字符
 1BC9E-1BC9E: 速記雙標記
 1BC9F-1BC9F: 奇努克標點符號
 1BCA0-1BCA3: 速記格式控件
+#1CF00-1CF2D: ***Combining red marks
+#1CF30-1CF41: ***Combining black marks
+#1CF42-1CF46: ***Modifying marks for priznaki
+#1CF50-1CFC3: ***Znamenny neumes
 1D000-1D002: 韻律（韻律）
 1D003-1D014: 埃克福尼蒂卡
 1D015-1D045: 旋律（旋律）
@@ -1975,9 +2057,11 @@ FFFE-FFFF: 非字符
 1D1DF-1D1DF: 裝飾物
 1D1E0-1D1E7: 筆記
 1D1E8-1D1E8: 偶然
+#1D1E9-1D1EA: ***Accidentals for quarter tones
 1D200-1D21C: 古希臘聲樂符號
 1D21D-1D241: 古希臘器樂符號
 1D242-1D245: 更多希臘樂譜符號
+#1D2C0-1D2D3: ***Numerals
 1D2E0-1D2F3: 瑪雅數字
 1D300-1D300: 會標
 1D301-1D305: 語法圖
@@ -2035,7 +2119,19 @@ FFFE-FFFF: 非字符
 1DA87-1DA8B: 標點
 1DA9B-1DA9F: 填充修飾符
 1DAA1-1DAAF: 旋轉修改器
+#1DF00-1DF07: ***Extended IPA for disordered speech
+#1DF08-1DF0A: ***IPA extensions
+#1DF0B-1DF10: ***Clicks
+#1DF11-1DF11: ***Lateral
+#1DF12-1DF18: ***Letters with palatal hooks
+#1DF19-1DF1D: ***Letters with retroflex hooks
+#1DF1E-1DF1E: ***IPA extension
+#1DF25-1DF2A: ***Letters for Malayalam transliteration
 1E000-1E02A: 組合字母
+#1E030-1E050: ***Superscript modifier letters
+#1E051-1E06A: ***Subscript modifier letters
+#1E06B-1E06D: ***Superscript modifier letters
+#1E08F-1E08F: ***Diacritical mark
 1E100-1E123: 輔音發作
 1E124-1E12C: 元音邊緣
 1E130-1E136: 色調標記
@@ -2044,10 +2140,17 @@ FFFE-FFFF: 非字符
 1E13D-1E13D: 音節延長器
 1E140-1E149: 位數
 1E14E-1E14F: 符號
+#1E290-1E2A0: ***Basic consonants
+#1E2A1-1E2AD: ***Basic vowels
+#1E2AE-1E2AE: ***Sign
 1E2C0-1E2EB: 字母
 1E2EC-1E2EF: 色調標記
 1E2F0-1E2F9: 位數
 1E2FF-1E2FF: 貨幣符號
+#1E4D0-1E4EA: ***Letters
+#1E4EB-1E4EF: ***Various signs
+#1E4F0-1E4F9: ***Digits
+#1E7E0-1E7FE: ***Syllables for Gurage
 1E800-1E807: k-中的音節
 1E808-1E810: w-中的音節
 1E811-1E813: wv-中的音節
@@ -2259,7 +2362,7 @@ FFFE-FFFF: 非字符
 1F6CB-1F6CF: 住宿符號
 1F6D0-1F6D2: 標牌及其他符號
 1F6D3-1F6D7: 地圖符號
-1F6E0-1F6E4: 雜項符號
+#1F6DC-1F6E4: ***Miscellaneous symbols
 1F6E5-1F6FC: 汽車
 1F700-1F704: 亞里士多德元素的符號
 1F705-1F70C: 重要溶劑的符號
@@ -2275,6 +2378,9 @@ FFFE-FFFF: 非字符
 1F765-1F76D: 儀器
 1F76E-1F771: 時間
 1F772-1F773: 措施
+#1F774-1F774: ***Other symbol
+#1F775-1F776: ***Eclipse symbols
+#1F77B-1F77F: ***Symbols for dwarf planets
 1F780-1F783: 等腰直角三角形
 1F784-1F784: 黑眼圈
 1F785-1F789: 白圈
@@ -2301,8 +2407,10 @@ FFFE-FFFF: 非字符
 1F7CE-1F7D1: 八角星
 1F7D2-1F7D4: 十二顆尖星
 1F7D5-1F7D8: 去石筆
+#1F7D9-1F7D9: ***Nine pointed star
 1F7E0-1F7E4: 彩色的圓圈
 1F7E5-1F7EB: 彩色方塊
+#1F7F0-1F7F0: ***Miscellaneous symbol
 1F800-1F80B: 帶有三角形箭頭的箭頭
 1F810-1F81F: 等邊三角形箭頭的箭頭
 1F820-1F833: 帶有不同軸重的三角形箭頭
@@ -2338,6 +2446,7 @@ FFFE-FFFF: 非字符
 1F9B8-1F9B9: 角色符號
 1F9BA-1F9BF: 輔助功能符號
 1F9C0-1F9CB: 食品符號
+#1F9CC-1F9CC: ***Fantasy being
 1F9CD-1F9CF: 人像和輔助功能符號
 1F9D0-1F9D8: 人像和角色符號
 1F9D9-1F9DF: 幻想生物
@@ -2357,13 +2466,21 @@ FFFE-FFFF: 非字符
 1FA4E-1FA53: 混合象棋符號
 1FA60-1FA6D: 象棋符號
 1FA70-1FA74: 服裝
-1FA78-1FA7A: 醫學符號
+#1FA75-1FA77: ***Colored heart symbols
+#1FA78-1FA7C: ***Medical symbols
 1FA80-1FA86: 玩具和運動符號
-1FA90-1FAA8: 雜物
-1FAB0-1FAB6: 動物與自然
+#1FA87-1FA88: ***Musical instruments
+#1FA90-1FAAE: ***Miscellaneous objects
+#1FAAF-1FAAF: ***Religious symbol
+#1FAB0-1FABF: ***Animals and nature
 1FAC0-1FAC1: 身體部位
-1FAC2-1FAC2: 人
-1FAD0-1FAD6: 飲食
+#1FAC2-1FAC5: ***People
+#1FACE-1FACF: ***Animals and nature
+#1FAD0-1FADB: ***Food and drink
+#1FAE0-1FAE5: ***Faces
+#1FAE6-1FAE7: ***Emotion
+#1FAE8-1FAE8: ***Face
+#1FAF0-1FAF8: ***Hand symbols
 1FB00-1FB3B: 塊鑲嵌端子圖形字符
 1FB3C-1FB6F: 平滑的鑲嵌式終端圖形字符
 1FB70-1FB8B: 塊元素
@@ -2399,3 +2516,32 @@ E007F-E007F: 有狀態標籤終止符
 E0100-E01EF: 表意特定變體選擇器
 EFFFE-EFFFF: 非字符
 FFFFE-FFFFF: 非字符
+#0020-002F: ASCII標點和符號
+#003A-0040: ASCII標點和符號
+#061E-061F: 標點
+#0674-06D3: 擴展的阿拉伯字母
+#0CDE-0CDE: 其他輔音
+#0CF1-0CF2: 梵文中使用的標誌
+#0ECC-0ECD: 跡象
+#1401-166C: 音節
+#1714-1714: 維拉瑪
+#180B-180E: 格式控制
+#1AB0-1ABE: 用於德國方言學
+#1B45-1B4B: 其他輔音
+#20A0-20BF: 貨幣符號
+#2C00-2C2E: 大寫字母
+#2C30-2C5E: 小寫字母
+#2E4A-2E52: 標點符號
+#A7C2-A7C3: 附加字母
+#A90A-A925: 輔音
+#A926-A92A: 元音
+#FBB2-FBC1: 阿拉伯語教學符號
+#FDFD-FDFD: 符號
+#1B150-1B152: 歷史小平假名字母
+#1B164-1B167: 歷史小片假名字母
+#1F6E0-1F6E4: 雜項符號
+#1FA78-1FA7A: 醫學符號
+#1FA90-1FAA8: 雜物
+#1FAB0-1FAB6: 動物與自然
+#1FAC2-1FAC2: 人
+#1FAD0-1FAD6: 飲食

@@ -110,12 +110,12 @@
 1106D: Brahmi Digit Seven
 1106E: Brahmi Digit Eight
 1106F: Brahmi Digit Nine
-11070:
-11071:
-11072:
-11073:
-11074:
-11075:
+11070: Brahmi Sign Old Tamil Virama
+11071: Brahmi Letter Old Tamil Short E
+11072: Brahmi Letter Old Tamil Short O
+11073: Brahmi Vowel Sign Old Tamil Short E
+11074: Brahmi Vowel Sign Old Tamil Short O
+11075: Brahmi Letter Old Tamil Lla
 11076:
 11077:
 11078:
@@ -192,7 +192,7 @@
 110BF: Kaithi Double Section Mark
 110C0: Kaithi Danda
 110C1: Kaithi Double Danda
-110C2:
+110C2: Kaithi Vowel Sign Vocalic R
 110C3:
 110C4:
 110C5:

@@ -1,18 +1,30 @@
-title: Unicode Character Table
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: Unicode® is a registered trademark of Unicode, Inc. in the United States and other countries. This site is not  affiliated, associated, authorized, endorsed by, or in any way officially connected with  Unicode, Inc. (aka The Unicode Consortium). For the official Unicode website, please go to www.unicode.org.
+logo: SYMBL
+privacy-policy: Privacy Policy
+unicodeorg:  All images of symbols and Emojis on the website are for informational purposes only, and their rights belong to their respective owners. These images cannot be used for commercial purposes without the consent of their authors.
+old-version: Old Version
 
 [mainpage]: Homepage
 
-[sets]: Sets
-set: Sets
-list: Sets
-title: Popular character sets
+[collections]: Collections
+collection: Collections
+list: Collections
+title: Popular character collections
 all: See all
 
 [blocks]: Blocks
-block: Block
-list: Unicode
+block: Unicode Blocks
+list: Unicode®
+by-range: By Range
+by-alphabet: Alphabetically
+by-type: By Type
+
+[codes]: Codes
+list: Codes
+
+[art]: Art
+list: Art ٩(｡•́‿•̀｡)۶
 
 [languages]: Languages
 list: Languages
@@ -28,20 +40,42 @@ list: Alphabets
 list: Holidays
 
 [types]: Types
-type: type
+type: Type
 list: Types
 
 [html-entities]: HTML Character Entity References
 list: HTML Entities
 
-[alt-codes]: ALT codes for Windows
-list: Alt codes
+[alt-codes]: ALT Codes for Windows
+list: Alt Codes
 en: English keyboard layout
 
 [emoji]: Emoji
 
-[text-art]: Text art
-list: Text art
+[symbols]: Symbols
+list: Symbols
 
 [kaomoji]: Kaomoji
 list: Kaomoji
+
+
+[top-symbols]: Top Symbols
+
+[day-symbol]: Symbol of The Day
+
+[news]: News
+
+[text-art]: Text Art
+list: Text Art
+
+[locale]: Language
+list: Language
+
+[unicode]: Unicode
+list: Unicode
+
+[symbol-table]: Character Table
+
+[version-history]: Version History
+
+[about-unicode]: About Unicode

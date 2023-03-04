@@ -1,8 +1,9 @@
+properties: Propriétés
 hide: Cacher
 show: Représenter
 up: En haut
 range: Bande
-loading: Chargement en cours, veuillez patienter... 
+loading: Chargement en cours, veuillez patienter...
 count: La quantité de caractères
 sort-order: Par ordre
 sort-block: Par blocs
@@ -18,17 +19,20 @@ share-link: Partager avec vos amis
 read-more: Apprenez-en plus
 read-less: Cacher
 madeby: Fait par
-keepupdates: Suivez-nous 
+keepupdates: Suivez-nous
 hint: Selectez et copiez le character dont vous avez besoin
 symbols-count: symbols
 copied: Copié!
 see_also: Voiyez aussi
 page_content_menu: Contenu
 homepage: Accueil
+back: Retour
 
-cookie-message: Ce site utilise des 🍪cookies afin d'améliorer votre expérience et optimiser nos sites et services. 
+cookie-message: Ce site utilise des 🍪cookies afin d'améliorer votre expérience et optimiser nos sites et services.
 accept: Accepter
 empty-cell: Cellule vide
+block-description: La description
+more-information: Lire la suite
 
 [mobile]
 to-full: En version complète

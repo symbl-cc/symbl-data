@@ -1,0 +1,7 @@
+Símbolos Alfanuméricos Matemáticos es un bloque de Unicode que contiene letras [BLOCK:basic-latin latinas] y [BLOCK:greek-coptic griegas] y dígitos decimales. Ayudan a los matemáticos a denotar diferentes nociones con varios estilos de letras (un ejemplo es "doble golpe " en la terminología de Unicode).
+ 
+Ahora Unicode incluye muchos de estos símbolos (U+1D400–U+1D7FF). Permite el diseño y uso de caracteres matemáticos especiales (fuentes) que incluyen todas las propiedades necesarias para diferenciarse de otros alfanuméricos. Por ejemplo, en matemáticas, la fuente cursiva [U:1D434] puede tener un significado diferente de una letra romana [U:1d400]. Unicode originalmente incluyó un conjunto limitado de tales formas de letras en su [BLOCK:letterlike-symbols bloque de símbolos como letras] antes de completar el conjunto de letras latinas y griegas en este bloque a partir de la versión 3.1.
+ 
+Todas estas formas de letras se pueden manipular con el atributo ¨mathvariant¨ de MathML.
+ 
+Las letras en varias fuentes a menudo tienen significados específicos y fijos en áreas particulares de las matemáticas. Al proporcionar uniformidad en numerosos artículos y libros matemáticos, estas convenciones ayudan a leer fórmulas matemáticas.

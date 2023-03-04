@@ -1,7 +1,5 @@
 : เครื่องมือ
 
-toolsListTitle: ลองเครื่องมืออื่นๆ ด้วย
-
 [encoder]: ตัวเข้ารหัส HTML
 
 desc: เข้ารหัสอักขระเป็นโค้ด HTML และย้อนกลับ
@@ -10,6 +8,7 @@ full: HTML
 text: HTML และข้อความ
 entities: เข้ารหัสอักขระด้วยเอนทิตี
 br: ตัวแบ่งบรรทัดการเข้ารหัส
+example: นี่คือตัวอย่าง! ©
 
 [decoder]: ตัวถอดรหัส Unicode
 
@@ -32,15 +31,16 @@ desc: ขีดฆ่าข้อความ
 text: ข้อความ
 example: นี่คือตัวอย่าง
 
-strikethroughText: ขีดฆ่าข้อความ
-crossed: ขีดเส้นใต้
-dotted: เส้นประ
-slash: เฉือนกับสัญลักษณ์
-doubleunderline: ขีดเส้นใต้สอง
-waveline: คลื่นบรรทัด
-ciphertext: เข้ารหัสข้อความ
-fullyshaded: ข้อความที่เติม
-strikethroughSlash: สูงเฉือนกับสัญลักษณ์
+strikethroughText: ̶ข̶ี̶ด̶ฆ̶̶่า̶ข̶̶้อ̶ค̶ว̶า̶ม̶
+crossed: ͟ข͟ี͟ด͟เ͟ส้͟͟น͟ใ͟ต้͟͟
+dotted: ̤เ̤ส้̤̤น̤ป̤ร̤ะ̤
+slash: ̷̷เ̷ฉ̷ื̷อ̷น̷ก̷ั̷บ̷ส̷ั̷ญ̷ล̷ั̷ก̷ษ̷ณ̷์̷
+doubleunderline: ͇ข͇ี͇ด͇เ͇ส้͇͇น͇ใ͇ต้͇͇ส͇อ͇ง͇
+waveline: ̰ค̰ล̰ื่̰̰น̰บ̰ร̰ร̰ท̰ั̰ด̰
+ciphertext: เ҉ข҉้҉า҉ร҉ห҉ั҉ส҉ข҉้҉อ҉ค҉ว҉า҉ม҉
+fullyshaded: ■■■■■■■■■■■■■■
+strikethroughSlash: ̸ส̸̸ูง̸เ̸ฉ̸ื̸อ̸น̸ก̸ั̸บ̸ส̸ั̸ญ̸ล̸ั̸ก̸ษ̸ณ̸์̸
+
 
 [register-converter]: ตัวแปลงข้อความ
 h1: ตัวแปลงข้อความ
@@ -102,6 +102,13 @@ maxLength: ตัวอักษร (4-99)
 generate: สร้าง
 warning: โปรดเลือกชุดอักขระอย่างน้อยหนึ่งชุดเพื่อสร้างรหัสผ่านของคุณ
 
+[nickname-generator]: เครื่องกำเนิดสำหรับสร้างชื่อเล่นที่สวยงาม
+h1: เครื่องกำเนิดสำหรับสร้างชื่อเล่นที่สวยงาม
+desc: ตกแต่งชื่อเล่น
+
+text: ข้อความ
+nickname: ชื่อเล่น
+example: Maria
 
 [text-to-symbols]: ข้อความจากสัญลักษณ์
 h1: ข้อความจากสัญลักษณ์
@@ -117,6 +124,39 @@ symbol-dolar: ตัวอักษรจากสัญลักษณ์ $
 symbol-lattice: ตัวอักษรจากสัญลักษณ์ #
 symbol-paragraph: ตัวอักษรจากสัญลักษณ์ ¶
 
+[typograph]: เครื่องพิมพ์
+h1: เครื่องพิมพ์
+
+plain: ข้อความต้นฉบับ
+text: ข้อความ
+html: HTML
+mnemonics: หน่วยงาน HTML
+example:  - "นี่คือตัวอย่าง..."
+result: Result
+first-level-quote: เครื่องหมายคำพูดระดับแรก
+second-level-quote: เครื่องหมายคำพูดระดับที่สอง
+
+[secret-space]: ช่องว่าง
+h1: ช่องว่าง
+text: ข้อความต้นฉบับ
+result: ข้อความที่จัดรูปแบบ
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: แป้นพิมพ์อีโมจิ
+subtitle: คัดลอกและวาง Emoji ใด ๆ
+popular: เป็นที่นิยม
+emoji: Emoji
+arrow: สัญลักษณ์ลูกศร
+math: คณิตศาสตร์
+currency: สกุลเงิน
+letters: จดหมาย
+punctuation: เครื่องหมายวรรคตอน
+example: ตัวอย่างข้อความและสัญลักษณ์
+copy-text: คลิกที่สัญลักษณ์และมันจะคัดลอกโดยอัตโนมัติ!
+paste-text: นอกจากนี้ยังไปที่กล่องนี้ซึ่งคุณสามารถป้อนข้อความและตกแต่งด้วยสัญลักษณ์ใดก็ได้!
+ok: เข้าใจแล้ว!
+skip: ข้าม
+cool: เย็น!
 
 # @todo [generator]
 

@@ -1,3 +1,4 @@
+properties: Tulajdonságok
 hide: Elrejtése
 show: Mutat
 up: Fel
@@ -28,6 +29,9 @@ homepage: Kezdőlap
 cookie-message: Ez az oldal 🍪sütiket használ a legjobb élmény biztosítása érdekében.
 accept: Elfogad
 empty-cell: Üres cella
+block-description: Leírás
+more-information: Olvass tovább
+back: Vissza
 
 [mobile]
 to-full: Teljes verzió

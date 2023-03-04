@@ -22,7 +22,13 @@ copy-code: Clique para copiar
 copy_button: cópia de
 copy_done: Copiado!
 version: Versão Unicode
-sets-with-this-symbol: Define com este símbolo
+collections-with-this-symbol: Define com este símbolo
 empty-symbol: Indefinido em Unicode
 emoji_group: Categoria de Emoji
 emoji_version: Versão do Emoji
+download: Baixar
+displaying: Mostrar o símbolo
+symbol_not_displayed: Por que o símbolo não é exibido?
+examples: Exemplos de uso
+synonyms: Sinónimo
+in-development: Está em desenvolvimento

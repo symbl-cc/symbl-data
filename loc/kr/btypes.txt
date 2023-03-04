@@ -1,0 +1,29 @@
+scripts: 글
+european-scripts: 유럽 저술
+modifier-letters: 수정 자 문자
+combining-marks: 결합 된 표지판
+miscellaneous: 다양한
+african-scripts: 아프리카 글
+middle-eastern-scripts: 중동 글
+central-asian-scripts: 중앙 아시아 글
+south-asian-scripts: 남아시아 글
+southeast-asian-scripts: 동남아시아의 저술
+indonesian-philippine: 인도네시아 및 필리핀 스크립트
+east-asian-scripts: 동아시아 글
+american-scripts: 미국 저술
+
+symbols-and-punctuation: 기호 및 구두점
+notational-systems: 표기법 시스템
+punctuation: 구두점
+alphanumeric-symbols: 영숫자 문자
+technical-symbols: 기술 기호
+numbers-and-digits: 숫자와 숫자
+mathematical-symbols: 수학 기호
+emoji-and-pictographs: 이모티콘 및 픽토그램
+other-symbols: 다른 문자
+specials: 특별
+private-use: 개인 사용
+surrogates: 대리
+noncharacters-in-charts: 다이어그램의 특징없는 기호
+
+groups.latin-ligatures: Latin Ligatures

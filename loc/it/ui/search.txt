@@ -6,19 +6,19 @@ example-text: falce e martello;freccia;cuore;stella;triangolo;controllare;cerchi
 h1: Ricerca
 result: Risultato
 empty: Cerca frase è vuota
-total: Risultati di ricerca: %s
+total: Risultati della ricerca su richiesta
 limit: (mostra solo %s)
 none: Nessuna
 any: Ricerca per ogni parola
 overflow: Siamo spiacenti, simbolo U+%s è in costruzione
 unicode-block: Blocco Unicode
 count-symbols: %s simboli
-sets: Impostato
+collections: Impostato
 alphabet: Alfabeto
 
 [empty]
 no_results: Nessun risultato trovato per "{query}" in italiano.
 language: Prova a cambiare {lingua}.
 blocks: Esplora i {blocchi Unicode}.
-sets: Cercalo in {Imposta}.
+collections: Cercalo in {Imposta}.
 table: Guarda attraverso la {tabella dei caratteri} completa.

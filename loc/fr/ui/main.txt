@@ -1,19 +1,34 @@
-title: Table de caractères Unicode
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: Unicode® est une marque déposée d'Unicode, Inc. aux États-Unis et dans d'autres pays. Ce site n'est pas affilié, associé à, ou légalement autorisé, ou endossé par Unicode, Inc. (appelé également Consortium Unicode), et il en est totalement indépendant. Le site officiel d’Unicode: www.unicode.org.
+
+privacy-policy: Politique de confidentialité
+unicodeorg: Toutes les images d'emoji et de symboles sur le site sont à titre informatif, les droits appartiennent à leurs auteurs et ne peuvent être utilisés à des fins commerciales sans leur consentement.
+old-version: Ancienne version
 
 [mainpage]: Accueil
 
-[sets]: Les jeux de caractères
-set: Fixé
+[collections]: Les jeux de caractères
+collection: Fixé
 list: Les jeux de caractères
 title: Jeux de caractères populaires
 all: Voir tout
 
-[blocks]: Unicode blocs
-block: Bloc
+[blocks]: Blocs
+block: Unicode blocs
 blocks: Unicode blocs
 list: Unicode
+by-range: Par gamme
+by-alphabet: Alphabétiquement
+by-type: Par type
+
+[codes]: Chiffrements
+list: Chiffrements
+
+[art]: Art
+list: Art ٩(｡•́‿•̀｡)۶
+
+[symbols]: Signes
+list: Signes
 
 [languages]: Langues
 list: Langues
@@ -38,3 +53,15 @@ list: Entités HTML
 [alt-codes]: ALT codes pour Windows
 list: Alt codes
 en: Disposition du clavier en anglais
+
+[top-symbols]: Top symboles
+
+[day-symbol]: Symbole du jour
+
+[news]: Nouvelles
+
+[symbol-table]: Tableau des symboles
+
+[version-history]: Historique des versions
+
+[about-unicode]: À propos d'Unicode

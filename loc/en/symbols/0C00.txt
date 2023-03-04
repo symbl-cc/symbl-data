@@ -58,7 +58,7 @@
 0C39: Telugu Letter Ha
 0C3A:
 0C3B:
-0C3C:
+0C3C: Telugu Sign Nukta
 0C3D: Telugu Sign Avagraha
 0C3E: Telugu Vowel Sign Aa
 0C3F: Telugu Vowel Sign I
@@ -91,7 +91,7 @@
 0C5A: Telugu Letter Rrra
 0C5B:
 0C5C:
-0C5D:
+0C5D: Telugu Letter Nakaara Pollu
 0C5E:
 0C5F:
 0C60: Telugu Letter Vocalic Rr
@@ -219,7 +219,7 @@
 0CDA:
 0CDB:
 0CDC:
-0CDD:
+0CDD: Kannada Letter Nakaara Pollu
 0CDE: Kannada Letter Fa
 0CDF:
 0CE0: Kannada Letter Vocalic Rr
@@ -241,7 +241,7 @@
 0CF0:
 0CF1: Kannada Sign Jihvamuliya
 0CF2: Kannada Sign Upadhmaniya
-0CF3:
+0CF3: Kannada Sign Combining Anusvara Above Right
 0CF4:
 0CF5:
 0CF6:

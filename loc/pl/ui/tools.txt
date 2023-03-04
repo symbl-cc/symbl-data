@@ -1,7 +1,5 @@
 : Instrumenty
 
-toolsListTitle: Wypróbuj także inne narzędzia
-
 [encoder]: Koder HTML
 
 desc: Kodowanie znaków w HTML-kodu i plecach
@@ -11,6 +9,7 @@ text: HTML i tekst
 entities: Kodowanie znaków, które mają mnemonicznych mnemoniki
 br: Rozważmy podziały wiersza
 result: Wynik
+example: jest to przykład! ©
 
 [decoder]: Dekoder Unicode
 
@@ -43,15 +42,16 @@ desc: Jak przekreślić tekst
 text: Tekst
 example: jest to przykład
 
-strikethroughText: Przekreślony tekst
-crossed: Podkreślenie
-dotted: Linia przerywana
-slash: Ukośnik symbol
-doubleunderline: Podwójne podkreślenie
-waveline: Linii fali
-ciphertext: Tekst zaszyfrowany 
-fullyshaded: Zamalowane tekst
-strikethroughSlash: Wysoki ukośnika symbol
+strikethroughText: ̶P̶r̶z̶e̶k̶r̶e̶ś̶l̶o̶n̶y̶ ̶t̶e̶k̶s̶t̶
+crossed: ͟P͟o͟d͟k͟r͟e͟ś͟l͟e͟n͟i͟e͟
+dotted: ̤L̤i̤n̤i̤a̤ ̤p̤r̤z̤e̤r̤y̤w̤a̤n̤a̤
+slash: ̷U̷k̷o̷ś̷n̷i̷k̷ ̷s̷y̷m̷b̷o̷l̷
+doubleunderline: ͇P͇o͇d͇w͇ó͇j͇n͇e͇ ͇p͇o͇d͇k͇r͇e͇ś͇l͇e͇n͇i͇e͇
+waveline: ̰L̰ḭn̰ḭḭ ̰f̰a̰l̰ḭ
+ciphertext: T҉e҉k҉s҉t҉ ҉z҉a҉s҉z҉y҉f҉r҉o҉w҉a҉n҉y҉ ҉
+fullyshaded: ■■■■■■■■■■ ■■■■■
+strikethroughSlash: ̸W̸y̸s̸o̸k̸i̸ ̸u̸k̸o̸ś̸n̸i̸k̸a̸ ̸s̸y̸m̸b̸o̸l̸
+
 
 [register-converter]: Konwerter tekstu
 h1: Konwerter tekstu
@@ -82,8 +82,8 @@ long-word: Najdłuższe słowo
 h1: Tłumacz Braille'a
 desc: Konwertuj tekst na alfabet Braille'a
 
-[gothic]: Konwerter tekstu na styl gotycki 
-h1: Konwerter tekstu na styl gotycki 
+[gothic]: Konwerter tekstu na styl gotycki
+h1: Konwerter tekstu na styl gotycki
 desc: Pisanie tekstu gotycką czcionką
 
 text: Tekst (łacina)
@@ -122,6 +122,14 @@ generate: Generować
 warning: Wybierz co najmniej jeden zestaw znaków, aby wygenerować hasło
 
 
+[nickname-generator]: Generator pięknych pseudonimów
+h1: Generator pięknych pseudonimów
+desc: Zdobi pseudonim
+
+text: Tekst
+nickname: Przezwisko
+example: Maria
+
 [text-to-symbols]: Tekst z symboli
 h1: Tekst z symboli
 desc: Napisz tekst symbolami
@@ -135,3 +143,38 @@ background: Litery z tłem
 symbol-dolar: Litery od symbolu $
 symbol-lattice: Litery od symbolu #
 symbol-paragraph: Litery od symbolu ¶
+
+
+[typograph]: Typograf
+h1: Typograf
+
+plain: Oryginalny tekst
+text: Tekst
+html: HTML
+mnemonics: HTML znaki specjalne
+example:  - "Przykład..."
+result: Wynik
+first-level-quote: Cudzysłów pierwszego poziomu
+second-level-quote: Cudzysłów drugiego poziomu
+
+[secret-space]: Spacja
+h1: Spacja
+text: Oryginalny tekst
+result: Sformatowany tekst
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Klawiatura z emotikonami
+subtitle: Kopiuj i wklej dowolne emotikony
+popular: Popularny
+emoji: Emoji
+arrow: Symbole strzałek
+math: Matematyka
+currency: Waluta
+letters: Listy
+punctuation: Interpunkcja
+example: Przykłady tekstów i symboli ☆
+copy-text: Kliknij na symbol, a będzie kopiuj automatycznie!
+paste-text: Trafia również do tego pola, gdzie możesz wpisać dowolny tekst i ozdobić go dowolnymi symbolami!
+ok: Zrozumiany!
+skip: Pomijać
+cool: Chłodny!

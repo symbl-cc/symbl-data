@@ -1,27 +1,42 @@
-title: Unicode キャラクター図鑑
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: は、米国およびその他の国におけるUnicode®の登録商標です。 このサイトは、Unicode、Inc（Unicode Consortiumとも呼ばれます）にいかなる形でも関連付けられておらず、また支持されていません。 公式のUnicode Webサイトについては、
+
+privacy-policy: 個人情報保護方針
+unicodeorg: サイト上の絵文字と記号のすべての画像は情報提供を目的としており、権利は作成者に属し、同意なしに商業目的で使用することはできません.
+old-version: 旧バージョン
 
 [mainpage]: メインページ
 
-[sets]	: 記号分類シンク
-# @todo set	
+[collections]	: 記号分類シンク
+# @todo set
 list	: 記号分類シンク
 title: 人気のキャラクターセット
 all: すべてを見る
 
-[blocks]	: リストセグメントの文字
-# @todo block	
-blocks	: Unicodeのブロックと含まれる用字 
+[blocks]	: ブロック
+block: Unicodeブロック
+blocks	: Unicodeのブロックと含まれる用字
 list: Unicode
-	
+by-range: 範囲別
+by-alphabet: アルファベット順
+by-type: タイプ
+
+[codes]: エンコーディング
+list: エンコーディング
+
+[art]: アート
+list: アート ٩(｡•́‿•̀｡)۶
+
+[symbols]: シンボル
+list: シンボル
+
 [languages]	: 言語
 list	: 言語のリスト
 blocks	: 文字の範囲で使用される言語
-	
+
 [countries]	: カントリー
 list: 国リスト
-	
+
 [alphabets]	: アルファベット
 list: アルファベット
 
@@ -29,8 +44,8 @@ list: アルファベット
 list: 休日
 
 [types]	: タイプ文字リスト
-# @todo type	
-list	: タイプ文字リスト 
+# @todo type
+list	: タイプ文字リスト
 
 [html-entities]: HTMLエンティティ
 list: HTMLエンティティ
@@ -38,3 +53,15 @@ list: HTMLエンティティ
 [alt-codes]: WindowsのALTコード
 list: ALTコード
 en: 英語キーボードのレイアウト
+
+[top-symbols]: 最高のキャラクター
+
+[day-symbol]: その日のシンボル
+
+[news]: ニュース
+
+[symbol-table]: 記号表
+
+[version-history]: バージョン履歴
+
+[about-unicode]: ユニコードについて

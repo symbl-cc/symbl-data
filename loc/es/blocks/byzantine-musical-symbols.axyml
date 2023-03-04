@@ -1,0 +1,17 @@
+Los símbolos musicales bizantinos es un bloque de Unicode que contiene caracteres para representar la notación musical de la era bizantina.
+
+La música bizantina se refiere a la [b]música litúrgica utilizada en la Iglesia Ortodoxa[/b] dentro del Imperio Bizantino y las Iglesias de esa tradición. 
+
+Los rasgos distintos de esta música es que es: 
+
+[*] monofónica, 
+[*] exclusivamente vocal, 
+[*] y casi enteramente sagrada. 
+
+Se ha conservado muy poca música secular de este tipo. La duración del período entre la música griega antigua y la bizantina no está clara.
+
+Hay dos tipos de notación musical bizantina. El estilo recitativo anterior se usaba para anotar la recitación de lecciones (lecturas de la Biblia). Tales símbolos se representan aquí [U:1D0DAU]. Probablemente se introdujo a finales del siglo IV y se confundió cada vez más hasta el siglo XV, cuando murió. Las lecciones ya no se anotaban musicalmente, aunque todavía se cantaban. La notación consistía en la interpretación musical general de las frases en la lectura (signos prosódicos [U:1D000]), en lugar de notas individuales. 
+
+El segundo tipo de notación es neumático, o sea, utiliza neumas (notas musicales). Se han propuesto varias subdivisiones de la notación; los tradicionales son [b]Bizantino Temprano, Bizantino Medio, Bizantino Tardío y Bizantino Moderno[/b]. La notación Media, Tardía y Moderna usan los mismos signos básicos, con significados similares, si no iguales, y por lo tanto pueden ser un sistema de notación completa.
+
+Si te interesan otros tipos de notación, más convencionales, mira el bloque llamado [BLOCK:musical-symbols Símbolos Musicales].

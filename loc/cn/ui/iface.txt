@@ -1,3 +1,4 @@
+properties: 特性
 hide: 隐藏
 show: 展示
 up: 回顶部
@@ -25,6 +26,10 @@ cookie-message: 本网站使用 🍪cookie 来确保您获得最佳体验。
 accept: 接受
 empty-cell: 空单元格
 page_content_menu: 目录
+block-description: 描述
+more-information: 阅读更多
+back: 背部
+
 
 [mobile]
 to-full: 查看完整版
@@ -36,3 +41,4 @@ submit: 提交
 undo: 撤消
 send-changes: 您所做的更改将被发送到该网站的开发。你确定吗？
 thanks: 谢谢
+

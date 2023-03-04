@@ -6,19 +6,19 @@ example-text: kalapács és kasza;nyíl;szív;csillag;háromszög;pipa;karika;ke
 h1: Keresés
 result: Eredmény
 empty: A keresőmező üres
-total: Keresési eredmények: %s
+total: Igény szerinti keresési eredmények
 limit: (csak %s-et mutat)
 none: Semmi
 any: Keresés bármely szóból
 overflow: Elnézést, a U+%s-s szimbólum fejlesztés alatt áll :)
 unicode-block: Unicode blokk
 count-symbols: %s szimbólumok
-sets: Készlet
+collections: Készlet
 alphabet: Ábécé
 
 [empty]
 no_results: A (z) "{query}" kifejezésre magyarul nincs találat.
 language: Próbálja meg megváltoztatni a {nyelvet}.
 blocks: Fedezze fel az {Unicode blokkokat}.
-sets: Nézze meg a {készleteket}.
+collections: Nézze meg a {készleteket}.
 table: Nézze át a {teljes karaktertáblát}.

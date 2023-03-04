@@ -1,7 +1,5 @@
 : Eszközök
 
-toolsListTitle: Próbáljon ki más eszközöket is
-
 [encoder]: HTML-kódoló
 
 desc: Karaktereket kódol HTML-kódra és vissza
@@ -11,6 +9,7 @@ text: HTML és szöveg
 entities: Karakterkódolás egységekkel
 br: Sortörések kódolása
 result: Eredmény
+example: Ez egy példa! ©
 
 [decoder]: Unicode Dekódoló
 
@@ -43,15 +42,16 @@ desc: Áthúzott szöveg írása
 text: Szöveg
 example: Ez egy példa
 
-strikethroughText: Áthúzott szöveg
-crossed: Álahúzott
-dotted: Szaggatott vonal
-slash: Perjel szimbólum
-doubleunderline: Dupla aláhúzás
-waveline: Hullámos vonal
-ciphertext: Cipher szöveg
-fullyshaded: Átfestve szöveg
-strikethroughSlash: Magas perjel szimbólum
+strikethroughText: ̶Á̶t̶h̶ú̶z̶o̶t̶t̶ ̶s̶z̶ö̶v̶e̶g̶
+crossed: ͟Á͟l͟a͟h͟ú͟z͟o͟t͟t͟
+dotted: ̤S̤z̤a̤g̤g̤a̤t̤o̤t̤t̤ ̤v̤o̤n̤a̤l̤
+slash: ̷P̷e̷r̷j̷e̷l̷ ̷s̷z̷i̷m̷b̷ó̷l̷u̷m̷
+doubleunderline: ͇D͇u͇p͇l͇a͇ ͇a͇l͇á͇h͇ú͇z͇á͇s͇
+waveline: ̰H̰ṵl̰l̰á̰m̰o̰s̰ ̰v̰o̰n̰a̰l̰
+ciphertext: C҉i҉p҉h҉e҉r҉ ҉s҉z҉ö҉v҉e҉g҉
+fullyshaded:■■■■■■■■ ■■■■■■
+strikethroughSlash: ̸M̸a̸g̸a̸s̸ ̸p̸e̸r̸j̸e̸l̸ ̸s̸z̸i̸m̸b̸ó̸l̸u̸m̸
+
 
 [register-converter]: Szöveg átalakító
 h1: Szöveg átalakító
@@ -120,6 +120,13 @@ maxLength: karakter (4-99)
 generate: Generálás
 warning: Jelszó létrehozásához válasszon legalább egy karakterkészletet
 
+[nickname-generator]: Gyönyörű becenevek generátora
+h1: Gyönyörű becenevek generátora
+desc: Díszíti a becenevet
+
+text: Szöveg
+nickname: Becenév
+example: Maria
 
 [text-to-symbols]: Szöveg szimbólumokból
 h1: Szöveg szimbólumokból
@@ -134,3 +141,37 @@ background: Háttér betűk
 symbol-dolar: A $ szimbólumból származó betűk
 symbol-lattice: A # szimbólumból származó betűk
 symbol-paragraph: A ¶ szimbólumból származó betűk
+
+[typograph]: Tipográfus
+h1: Tipográfus
+
+plain: Eredeti szöveg
+text: Szöveg
+html: HTML
+mnemonics: HTML entitások
+example:  - "Példa..."
+result: Eredmény
+first-level-quote: Első szintű idézőjelek
+second-level-quote: Második szintű idézőjelek
+
+[secret-space]: Szóköz
+h1: Szóköz
+text: Eredeti szöveg
+result: Formázott szöveg
+example: Whitespace helps you edit an Instagram or other social media post. For example:\n\n1. Divide text into paragraphs;\n     2. Make a new paragraph of any length;\n\n         3. Add right, left, top or bottom indents.
+
+[emoji-keyboard]: Emoji billentyűzet
+subtitle: Másoljon és illesszen be bármilyen hangulatjelet
+popular: Népszerű
+emoji: Emoji
+arrow: Nyilak szimbólumai
+math: Matematika
+currency: Valuta
+letters: Levelek
+punctuation: Központozás
+example: Példák szövegre és szimbólumokra ☆
+copy-text: Kattintson a szimbólumra, és automatikusan másolódik!
+paste-text: Ebbe a dobozba is kerül, ahova tetszőleges szöveget beírhatsz és tetszőleges szimbólumokkal díszítheted!
+ok: Értem!
+skip: Kihagyás
+cool: Menő!

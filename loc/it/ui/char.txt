@@ -1,4 +1,4 @@
-alt-code: Codici Alt  
+alt-code: Codici Alt
 name: Nome
 symbol: Simbolo
 html_code: codice HTML
@@ -22,7 +22,13 @@ copy-code: Clicca per copiare
 copy_button: Copia
 copy_done: Copiato!
 version: Versione Unicode
-sets-with-this-symbol: Imposta con questo simbolo
+collections-with-this-symbol: Imposta con questo simbolo
 empty-symbol: Non definito in Unicode
 emoji_group: Categoria di Emoji
 emoji_version: Versione di Emoji
+download: Scarica
+displaying: Visualizzazione del simbolo
+symbol_not_displayed: Perché il simbolo non viene visualizzato?
+examples: Esempi di utilizzo
+synonyms: Sinonimi
+in-development: È in fase di sviluppo

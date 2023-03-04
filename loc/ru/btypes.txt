@@ -1,0 +1,38 @@
+scripts: Письменности
+european-scripts: Европейские письменности
+modifier-letters: Буквы-модификаторы
+combining-marks: Комбинированые знаки
+miscellaneous: Разнообразные
+african-scripts: Африканские письменности
+middle-eastern-scripts: Ближневосточные письменности
+central-asian-scripts: Центральноазиатские письменности
+south-asian-scripts: Южноазиатские письменности
+southeast-asian-scripts: Письменности Юго-Восточной Азии
+indonesian-philippine: Индонезийские и филиппинские письменности
+east-asian-scripts: Восточноазиатские письменности
+american-scripts: Американские письменности
+
+symbols-and-punctuation: Символы и знаки препинания
+notational-systems: Системы обозначений
+punctuation: Знаки препинания
+alphanumeric-symbols: Буквенно-цифровые символы
+technical-symbols: Технические символы
+numbers-and-digits: Числа и разряды
+mathematical-symbols: Математические символы
+emoji-and-pictographs: Эмоджи и пиктограммы
+other-symbols: Другие символы
+specials: Специальные
+private-use: Частное использование
+surrogates: Суррогаты
+noncharacters-in-charts: Нехарактерные символы в диаграммах
+
+groups.latin-ligatures: Latin Ligatures
+groups.chess-checkers-draughts: Шахматы & Шашки
+groups.game-symbols: Игровые символы
+groups.controls: Управляющие символы
+groups.yijing-symbols: Символы И-Цзин
+groups.yi: Йи
+groups.meroitic: Мероитское письмо
+groups.linear-b: Линейное письмо Б
+groups.noncharacters-in-blocks: Не символы и не знаки в блоках
+Noncharacters-at-end-of-...:Не символы и не знаки в конце-...

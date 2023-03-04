@@ -1,18 +1,33 @@
-title: Tabel de caractere Unicode
+title: SYMBL (◕‿◕)
 unicode: Unicode
-unicodeorg: Unicode® este marcă înregistrată a Unicode, Inc. în Statele Unite și alte țări. Acest site nu este în niciun fel asociat, aprobat sau sponsorizat de Unicode, Inc. (alias Unicode Consortium). Pentru site-ul oficial al Unicode, te rugăm să accesezi
+
+privacy-policy: Politica de confidențialitate
+unicodeorg: Toate imaginile cu emoji și simboluri de pe site au scop informativ, drepturile aparțin autorilor acestora și nu pot fi folosite în scopuri comerciale fără acordul acestora.
+old-version: Versiune veche
 
 [mainpage]: Pagina principală
 
-[sets]: Seturi de caractere
-set: Set
+[collections]: Seturi de caractere
+collection: Set
 list: Seturi
 title: Seturi de caractere populare
 all: Vezi toate
 
-[blocks]: Blocuri unicode
-block: Bloc
+[blocks]: Blocuri
+block: Blocuri Unicode
 list: Unicode
+by-range: Dupa gamă
+by-alphabet: Alfabetic
+by-type: După tip
+
+[codes]: Codificări
+list: Codificări
+
+[art]: Artă
+list: Artă ٩(｡•́‿•̀｡)۶
+
+[symbols]: Simboluri
+list: Simboluri
 
 [languages]: Limbi
 list: Limbi
@@ -37,3 +52,15 @@ list: Entități HTML
 [alt-codes]: Coduri ALT pentru WIndows
 list: Coduri Alt
 en: Aspect tastatură engleză
+
+[top-symbols]: Top simboluri
+
+[day-symbol]: Simbolul zilei
+
+[news]: Știri
+
+[symbol-table]: Tabelul de simboluri
+
+[version-history]: Versiunea istorică
+
+[about-unicode]: Despre Unicode
