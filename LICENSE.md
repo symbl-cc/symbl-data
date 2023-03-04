@@ -1,6 +1,6 @@
 # Terms of Use
 
-This license describes the conditions of using the data represented in the [symbl-data repository](https://github.com/unicode-table/symbl-data).
+This license describes the conditions of using the data represented in the [symbl-data repository](https://github.com/symbl-cc/symbl-data).
 
 ## Third-party data
 
