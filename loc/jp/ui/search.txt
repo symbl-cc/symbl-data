@@ -22,3 +22,11 @@ language: {言語}を変えてみてください。
 blocks: {Unicodeブロック}を調べてください。
 collections: {セット}で調べてください。
 table: {全文字テーブル}を見てください。
+
+[popular]
+title: 人気のあるクエリ
+sets: 上付き文字と下付き文字
+blocks: 音楽記号
+symbol-1: ゼロ幅スペース
+symbol-2: ピザの切れ端 絵文字
+alphabet: ロシア 語 アルファベット

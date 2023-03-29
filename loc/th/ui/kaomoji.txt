@@ -1,4 +1,10 @@
-emotion: อารมณ์
+title-aside: คาโอโมจิ
+
+[kaomoji]: คาโอโมจิ
+h1: คาโอโมจิ
+
+[emotions]: อารมณ์
+h1: อารมณ์
 
 joy: ใบหน้ายิ้มแย้ม
 love: เผชิญหน้ากับความรัก
@@ -16,8 +22,8 @@ surprise: ใบหน้าที่ประหลาดใจ
 sleeping: หน้าง่วงนอน
 nosebleed: ใบหน้าที่เจ็บปวด
 
-
-animals: สัตว์และแมลง
+[animals-and-insects]: สัตว์และแมลง
+h1: สัตว์และแมลง
 
 cats: ใบหน้าแมว
 dog: หน้าสุนัข
@@ -28,8 +34,8 @@ bird: เจี๊ยบ
 fish: ปลา
 spider: แมงมุม
 
-
-actions: กิจกรรม
+[activities-and-activities]: กิจกรรม
+h1: กิจกรรม
 
 greeting: ทักทาย
 hug: กอด
@@ -45,4 +51,4 @@ friends: เป็นเพื่อน
 enemies: เป็นศัตรู
 weapons: ยิง
 magic: ทำเวทมนตร์
-
+table-flipping: พลิกโต๊ะ

@@ -22,3 +22,11 @@ language: Try to change {language}.
 blocks: Explore the {Unicode blocks}.
 collections: Look it up in {Collections}.
 table: Look through the full {character table}.
+
+[popular]
+title: Popular queries
+sets: Heart symbols
+blocks: Basic latin
+symbol-1: Non breaking space
+symbol-2: Combining Enclosing Screen
+alphabet: English alphabet

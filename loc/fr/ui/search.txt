@@ -22,3 +22,11 @@ language: Essayez de changer de {langue}.
 blocks: Explorez les {blocs Unicode}.
 collections: Regardez par Les {jeux} de caractères.
 table: Regardez à travers la {table de caractères} complète.
+
+[popular]
+title: Requêtes populaires
+sets: Guillemets
+blocks: Symboles mathématiques alphanumériques
+symbol-1: Barre verticale
+symbol-2: Chiffre un cerclé
+alphabet: Alphabet francais

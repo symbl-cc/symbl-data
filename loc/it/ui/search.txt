@@ -22,3 +22,11 @@ language: Prova a cambiare {lingua}.
 blocks: Esplora i {blocchi Unicode}.
 collections: Cercalo in {Imposta}.
 table: Guarda attraverso la {tabella dei caratteri} completa.
+
+[popular]
+title: Ricerche popolari
+sets: Simboli freccia
+blocks: Geroglifici egiziani
+symbol-1: Separatore invisibile
+symbol-2: Freccia verso il basso
+alphabet: Alfabeto fonetico internazionale

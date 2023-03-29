@@ -23,7 +23,8 @@ copy_button: Copie
 copy_done: Copiată!
 version: Versiunea Unicode
 collections-with-this-symbol: Setează cu acest simbol
-empty-symbol: Nedefinit în Unicode
+empty-symbol: Caracterul nu este definit în Unicode
+image-not-defined: Imaginea pentru simbol nu este definită
 emoji_group: Categorie de emoji
 emoji_version: Versiunea Emoji
 download: Descarca

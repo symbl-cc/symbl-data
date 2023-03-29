@@ -1,4 +1,10 @@
-emotion: Érzelem
+title-aside: Kaomoji
+
+[kaomoji]: Kaomoji
+h1: Kaomoji
+
+[emotions]: Érzelem
+h1: Érzelem
 
 joy: Mosolygó arc
 love: Egy szerelmes arc
@@ -16,8 +22,8 @@ surprise: Meglepett arc
 sleeping: Álmos arc
 nosebleed: Fájdalmas arc
 
-
-animals: Állatok és rovarok
+[animals-and-insects]: Állatok és rovarok
+h1: Állatok és rovarok
 
 cats: Macska arcok
 dog: Kutya arcok
@@ -28,8 +34,8 @@ bird: Fióka
 fish: Hal
 spider: Pók
 
-
-actions: Tevékenységek
+[activities-and-activities]: Tevékenységek
+h1: Tevékenységek
 
 greeting: Üdvözöl
 hug: Ölelés
@@ -45,9 +51,4 @@ friends: Barátoknak lenni
 enemies: Legyen ellenségek
 weapons: Lő
 magic: Varázslat
-
-
-
-
-
-
+table-flipping: Megfordítani az asztalt

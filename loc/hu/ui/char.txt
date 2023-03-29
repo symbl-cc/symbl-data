@@ -23,7 +23,8 @@ copy_button: Másolat
 copy_done: Másolt!
 version: Unicode verzió
 collections-with-this-symbol: Beállítja ezt a szimbólumot
-empty-symbol: Unicode-ban nincs meghatározva
+empty-symbol: A karakter nincs meghatározva Unicode-ban
+image-not-defined: A szimbólum képe nincs meghatározva
 emoji_group: Az Emoji kategóriája
 emoji_version: Az Emoji verziója
 download: Letöltés

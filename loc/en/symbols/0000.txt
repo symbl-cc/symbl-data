@@ -7,9 +7,9 @@
 0006: Acknowledge: ASK
 0007: Bell: BEL
 0008: Backspace: BS
-0009: Horizontal Tabulation: ht , character tabulation , TAB
-000A: New Line (Nl): line feed (lf) , end of line (eol) , LF
-000B: Vertical Tabulation: vt , line tabulation , TAB
+0009: Horizontal Tabulation: HT, TAB
+000A: New Line: Line Feed, LF, End of Line, EOL
+000B: Vertical Tabulation: VT, Line Tabulation, TAB
 000C: Form Feed: FF
 000D: Carriage Return: CR
 000E: Shift Out: SO
@@ -24,20 +24,20 @@
 0017: End of Transmission Block: ETB
 0018: Cancel: CAN
 0019: End of Medium: EM
-001A: Substitute: SUB , Ctrl-Z
+001A: Substitute: SUB, Ctrl-Z
 001B: Escape: ESC
-001C: File Separator: information separator four , FS
-001D: Group Separator: information separator three , GS
-001E: Record Separator: information separator two , RS
-001F: Unit Separator: information separator one , US
+001C: File Separator: Information Separator Four, FS
+001D: Group Separator: Information Separator Three, GS
+001E: Record Separator: Information Separator Two, RS
+001F: Unit Separator: Information Separator One, US
 0020: Space
-0021: Exclamation Mark: factorial , bang
+0021: Exclamation Mark: Factorial, Bang
 0022: Quotation Mark
-0023: Number Sign: pound sign , hash , crosshatch , octothorpe
-0024: Dollar Sign: milréis , escudo
+0023: Number Sign: pound sign, hash, crosshatch, octothorpe
+0024: Dollar Sign
 0025: Percent Sign
 0026: Ampersand
-0027: Apostrophe: apostrophe-quote , apl quote
+0027: Apostrophe: apostrophe-quote, apl quote
 0028: Left Parenthesis: opening parenthesis
 0029: Right Parenthesis: closing parenthesis
 002A: Asterisk: star
@@ -253,4 +253,4 @@
 00FC: U with two Dots: Latin Small Letter U with Diaeresis, U with trema, U with umlaut
 00FD: Latin Small Letter Y with Acute
 00FE: Latin Small Letter Thorn
-00FF: Latin Small Letter Y with Diaeresis
+00FF: Latin Small Letter Y with Diaeresis

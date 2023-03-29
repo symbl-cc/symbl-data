@@ -22,3 +22,11 @@ language: Próbálja meg megváltoztatni a {nyelvet}.
 blocks: Fedezze fel az {Unicode blokkokat}.
 collections: Nézze meg a {készleteket}.
 table: Nézze át a {teljes karaktertáblát}.
+
+[popular]
+title: Népszerű lekérdezések
+sets: Szív szimbólumok
+blocks: Nyilak
+symbol-1: Pipa
+symbol-2: Nem egyenlő
+alphabet: A bolgár ábécé

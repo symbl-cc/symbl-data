@@ -23,7 +23,8 @@ copy_button: 复制
 copy_done: 被复制!
 version: Unicode版本
 collections-with-this-symbol: 設置與此符號
-empty-symbol: 在Unicode中未定义
+empty-symbol: 字符没有在Unicode中定义
+image-not-defined: 符号的图像未定义
 emoji_group: 表情符号类别
 emoji_version: 表情符号版本
 download: 下载

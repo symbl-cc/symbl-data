@@ -22,3 +22,11 @@ language: Versuchen Sie, die {Sprache} zu ändern.
 blocks: Entdecken Sie die {Unicode-Blöcke}.
 collections: Schauen Sie in {Symbolgruppen} nach.
 table: Schauen Sie sich die vollständige {Zeichentabelle} an.
+
+[popular]
+title: Verwandte Suchanfragen
+sets: Pfeile
+blocks: Runen
+symbol-1: Pfeil nach rechts
+symbol-2: Häkchen
+alphabet: Deutsches Alphabet

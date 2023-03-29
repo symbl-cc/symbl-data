@@ -23,7 +23,8 @@ copy_button: 부
 copy_done: 복사 됨!
 version: 유니 코드 버전
 collections-with-this-symbol: 이 기호로 설정
-empty-symbol: 유니 코드로 정의되지 않음
+empty-symbol: 이 문자는 유니코드에 정의되어 있지 않습니다
+image-not-defined: 심볼의 이미지가 정의되지 않았습니다
 emoji_group: 이모티콘 카테고리
 emoji_version: 이모티콘 버전
 download: 다운로드

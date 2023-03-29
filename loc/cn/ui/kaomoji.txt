@@ -1,4 +1,10 @@
-emotion: 情感
+title-aside: 颜文字
+
+[kaomoji]: 颜文字
+list: 颜文字
+
+[emotions]: 情感
+h1: 情感
 
 joy: 微笑的面孔
 love: 脸上的爱
@@ -16,8 +22,8 @@ surprise: 惊讶的脸
 sleeping: 昏昏欲睡的脸
 nosebleed: 痛苦的脸
 
-
-animals: 动物和昆虫
+[animals-and-insects]: 动物和昆虫
+h1: 动物和昆虫
 
 cats: 猫脸
 dog: 狗脸
@@ -28,8 +34,8 @@ bird: 小鸡
 fish: 鱼
 spider: 蜘蛛
 
-
-actions: 活动
+[activities-and-activities]: 活动
+h1: 活动
 
 greeting: 迎接
 hug: 拥抱
@@ -45,4 +51,4 @@ friends: 做朋友
 enemies: 是敌人
 weapons: 射击
 magic: 做魔法
-
+table-flipping: 掀桌子

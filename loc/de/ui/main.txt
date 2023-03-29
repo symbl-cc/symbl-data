@@ -3,6 +3,7 @@ unicode: Unicode
 privacy-policy: Datenschutz
 unicodeorg: Alle Bilder von Emojis und Symbolen auf der Website dienen zu Informationszwecken, die Rechte liegen bei ihren Autoren und dürfen ohne ihre Zustimmung nicht für kommerzielle Zwecke verwendet werden.
 old-version: Alte Version
+find-bug: Haben Sie einen Bug gefunden? Schreiben Sie uns
 
 [mainpage]: Hauptseite
 
@@ -28,6 +29,9 @@ list: Kunst ٩(｡•́‿•̀｡)۶
 
 [symbols]: Symbole
 list: Symbole
+
+[kaomoji]: Kaomoji
+list: Kaomoji
 
 [languages]: Sprachen
 list: Liste der Sprachen

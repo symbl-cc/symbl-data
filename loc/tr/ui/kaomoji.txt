@@ -1,4 +1,10 @@
-emotion: Duygu
+title-aside: Kaomoji
+
+[kaomoji]: Kaomoji
+list: Kaomoji
+
+[emotions]: Duygu
+h1: Duygu
 
 joy: Gülen yüz
 love: Aşk yüz
@@ -16,8 +22,8 @@ surprise: Şaşırmış yüz
 sleeping: Uykulu yüz
 nosebleed: Ağrılı yüz
 
-
-animals: Hayvanlar ve böcekler
+[animals-and-insects]: Hayvanlar ve böcekler
+h1: Hayvanlar ve böcekler
 
 cats: Kedi surat
 dog: Köpek yüzü
@@ -28,8 +34,8 @@ bird: Civciv
 fish: Balık
 spider: Örümcek
 
-
-actions: Aktivite
+[activities-and-activities]: Aktivite
+h1: Aktivite
 
 greeting: Selamlaşmak
 hug: Sarılmak
@@ -45,3 +51,4 @@ friends: Arkadaş olmak
 enemies: Düşman olmak
 weapons: Ateş etmek
 magic: Büyü yapmak
+table-flipping: Masayı çevir

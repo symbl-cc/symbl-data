@@ -4,6 +4,7 @@ unicode: Unicode
 privacy-policy: Gizlilik Politikası
 unicodeorg: Sitede yer alan tüm emoji ve sembol görselleri bilgilendirme amaçlı olup, hakları yazarlarına aittir ve onların rızası olmadan ticari amaçla kullanılamaz.
 old-version: Eski versiyon
+find-bug: Böceği buldunuz mu? Bize yazın
 
 [mainpage]: Anasayfa
 
@@ -32,6 +33,9 @@ list: Rumuz
 [languages]	: Diller
 list	: Diller
 blocks	: Dil blokları
+
+[kaomoji]: Kaomoji
+list: Kaomoji
 
 [countries]	: Ülkeler
 list	: Ülkeler

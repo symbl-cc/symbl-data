@@ -23,7 +23,8 @@ copy_button: コピー
 copy_done: コピーされた!
 version: Unicodeバージョン
 collections-with-this-symbol: この記号で設定
-empty-symbol: Unicodeで未定義
+empty-symbol: 文字はUnicodeで定義されていません
+image-not-defined: シンボルのイメージが定義されていません
 emoji_group: 絵文字のカテゴリ
 emoji_version: 絵文字のバージョン
 download: ダウンロード

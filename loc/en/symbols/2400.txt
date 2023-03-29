@@ -7,8 +7,8 @@
 2406: Symbol for Acknowledge
 2407: Symbol for Bell
 2408: Symbol for Backspace
-2409: Symbol for Horizontal Tabulation
-240A: Symbol for Line Feed
+2409: Symbol for Horizontal Tabulation : HT, tab
+240A: Symbol for Line Feed : LF
 240B: Symbol for Vertical Tabulation
 240C: Symbol for Form Feed
 240D: Symbol for Carriage Return
@@ -253,4 +253,4 @@
 24FC: Double Circled Digit Eight
 24FD: Double Circled Digit Nine
 24FE: Double Circled Number Ten
-24FF: Negative Circled Digit Zero
+24FF: Negative Circled Digit Zero

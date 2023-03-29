@@ -23,7 +23,8 @@ copy_button: Dupdo
 copy_done: Copiado!
 version: Versión Unicode
 collections-with-this-symbol: Conjuntos con este símbolo
-empty-symbol: Indefinido en Unicode
+empty-symbol: Carácter no definido en Unicode
+image-not-defined: La imagen para el símbolo no está definida
 emoji_version: Categoría de emoji
 emoji_group: Versión de Emoji
 download: Descargar

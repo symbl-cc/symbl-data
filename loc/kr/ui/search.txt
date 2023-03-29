@@ -22,3 +22,11 @@ language: {언어}를 변경하십시오.
 blocks: {유니 코드 블록을} 탐색하십시오.
 collections: 그것을 {세트}로보세요.
 table: {전체 문자} 표를 살펴보십시오.
+
+[popular]
+title: 인기 검색어
+sets: 로마 숫자
+blocks: 원 또는 괄호 영숫자
+symbol-1: 동그라미가있는 숫자
+symbol-2: 거꾸로 된 물음표
+alphabet: 미얀마 알파벳

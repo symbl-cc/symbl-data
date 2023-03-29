@@ -4,6 +4,7 @@ unicode: Unicode
 privacy-policy: 私隐政策
 unicodeorg: 網站上的所有表情符號和符號圖像僅供參考，權利屬於其作者，未經其同意不得用於商業目的。
 old-version: 旧版本
+find-bug: 发现错误？ 写信给我们
 
 [mainpage]: 首页
 
@@ -34,6 +35,9 @@ list: 符号
 [languages]: 语言
 list: 语言列表
 blocks: 该语言使用的字符范围
+
+[kaomoji]: 颜文字
+list: 颜文字
 
 [countries]: 国家地区
 list: 国家地区列表

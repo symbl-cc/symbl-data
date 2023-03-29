@@ -1,4 +1,10 @@
-emotion: 感情
+title-aside: 顔文字
+
+[kaomoji]: 顔文字
+h1: 顔文字
+
+[emotions]: 感情
+h1: 感情
 
 joy: 笑顔
 love: 恋に顔
@@ -16,8 +22,8 @@ surprise: 驚いた顔
 sleeping: 眠い顔
 nosebleed: 痛みを伴う顔
 
-
-animals: 動物や昆虫
+[animals-and-insects]: 動物や昆虫
+h1: 動物や昆虫
 
 cats: 猫顔
 dog: 犬顔
@@ -28,8 +34,8 @@ bird: ひよこ
 fish: 魚
 spider: クモ
 
-
-actions: 活動
+[activities-and-activities]: 活動
+h1: 活動
 
 greeting: 挨拶
 hug: 抱擁
@@ -45,3 +51,4 @@ friends: 友達に
 enemies: 敵になる
 weapons: シュート
 magic: 魔法の
+table-flipping: ちゃぶ台返し

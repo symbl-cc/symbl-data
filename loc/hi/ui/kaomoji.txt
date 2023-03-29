@@ -1,4 +1,10 @@
-emotion: भावनाएँ
+title-aside: काओमोजी
+
+[kaomoji]: काओमोजी
+h1: काओमोजी
+
+[emotions]: भावनाएँ
+h1: भावनाएँ
 
 joy: मुस्कराता चेहरा
 love: प्यार चेहरा
@@ -16,8 +22,8 @@ surprise: हैरान चेहरा
 sleeping: सोया हुआ लग रहा चेहरा
 nosebleed: दर्दनाक चेहरा
 
-
-animals: जानवर और कीड़े
+[animals-and-insects]: जानवर और कीड़े
+h1: जानवर और कीड़े
 
 cats: बिल्ली का चेहरा
 dog: कुत्ते के चेहरे
@@ -28,8 +34,8 @@ bird: चूजा
 fish: एक मछली
 spider: मकड़ी
 
-
-actions: गतिविधियां
+[activities-and-activities]: गतिविधियां
+h1: गतिविधियां
 
 greeting: सलाम करना
 hug: गले लगना
@@ -45,4 +51,4 @@ friends: दोस्ती करना
 enemies: दुश्मनी में होना
 weapons: आग
 magic: जादू
-
+table-flipping: टेबल पलटें

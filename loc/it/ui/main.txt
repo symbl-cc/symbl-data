@@ -4,6 +4,7 @@ unicode: Unicode
 privacy-policy: Informativa sulla privacy
 unicodeorg: Tutte le immagini di emoji e simboli presenti nel sito sono a scopo informativo, i diritti appartengono ai rispettivi autori e non possono essere utilizzate a fini commerciali senza il loro consenso.
 old-version: Vecchia versione
+find-bug: Hai trovato un bug? Scrivici
 
 [mainpage]: Pagina principale
 
@@ -28,6 +29,9 @@ list: Arte ٩(｡•́‿•̀｡)۶
 
 [symbols]: Simboli
 list: Simboli
+
+[kaomoji]: Kaomoji
+list: Kaomoji
 
 [languages]	: Le lingue
 list	: Le lingue

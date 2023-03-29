@@ -27,7 +27,8 @@ copy_done: Скопировано!
 version: Версия Юникода
 emoji_version: Версия Эмоджи
 collections-with-this-symbol: Наборы с этим символом
-empty-symbol: Не определён в Юникоде
+empty-symbol: Символ не определен в Юникоде
+image-not-defined: Изображение для символа не определено
 emoji_since_text: Символ «@title@» был утвержден как часть Юникода версии @unicode_version@ в @unicode_year@ г. и был добавлен в Эмоджи версии @emoji_version@ в @emoji_year@ г.
 symbol_since_text: Символ «@title@» был утвержден как часть Юникода версии @unicode_version@ в @unicode_year@ г.
 download: Cкачать

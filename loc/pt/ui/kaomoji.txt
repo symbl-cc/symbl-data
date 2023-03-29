@@ -1,4 +1,10 @@
-emotion: Emoção
+title-aside: Kaomoji
+
+[kaomoji]: Kaomoji
+h1: Kaomoji
+
+[emotions]: Emoção
+h1: Emoção
 
 joy: Rosto sorridente
 love: Cara de amor
@@ -16,8 +22,8 @@ surprise: Rosto surpreso
 sleeping: Cara de sono
 nosebleed: Rosto doloroso
 
-
-animals: Animais e insetos
+[animals-and-insects]: Animais e insetos
+h1: Animais e insetos
 
 cats: Cara de Gato
 dog: Cara de cachorro
@@ -28,8 +34,8 @@ bird: Pintainho
 fish: Peixe
 spider: Aranha
 
-
-actions: Atividades
+[activities-and-activities]: Atividades
+h1: Atividades
 
 greeting: Saudar
 hug: Abraço
@@ -45,6 +51,4 @@ friends: Ser amigos
 enemies: Seja inimigos
 weapons: Atirar
 magic: Faça magia
-
-
-
+table-flipping: Virar mesa

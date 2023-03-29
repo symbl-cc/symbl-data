@@ -22,3 +22,11 @@ language: Spróbuj zmienić {język}.
 blocks: Poznaj {bloki Unicode}.
 collections: Sprawdź w {Zestawy}.
 table: Przejrzyj pełną {tabelę znaków}.
+
+[popular]
+title: Popularne wyszukiwania
+sets: Symbole strzałek
+blocks: Symbole muzyczne
+symbol-1: Niewidzialny separator
+symbol-2: Grecka mała litera alfa
+alphabet: Alfabet łaciński

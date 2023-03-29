@@ -27,7 +27,8 @@ copy_done: Copied!
 version: Unicode Version
 emoji_version: Emoji Version
 collections-with-this-symbol: Collections with This Symbol
-empty-symbol: Undefined in Unicode
+empty-symbol: The character is not defined in Unicode
+image-not-defined: The image for the symbol is not definite
 emoji_since_text: @title@ was approved as part of Unicode @unicode_version@ in @unicode_year@ and added to Emoji @emoji_version@ in @emoji_year@.
 symbol_since_text: @title@ was approved as part of Unicode @unicode_version@ in @unicode_year@.
 download: Download

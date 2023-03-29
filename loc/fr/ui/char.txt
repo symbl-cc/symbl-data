@@ -23,7 +23,8 @@ copy_button: Copie
 copy_done: Copié!
 version: Version Unicode
 collections-with-this-symbol: Ensembles avec ce symbole
-empty-symbol: Non défini dans Unicode
+empty-symbol: Caractère non défini en Unicode
+image-not-defined: Image pour le symbole non défini
 emoji_group: Catégorie d'Emoji
 emoji_version: Version d'Emoji
 download: Télécharger

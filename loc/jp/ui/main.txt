@@ -4,6 +4,7 @@ unicode: Unicode
 privacy-policy: 個人情報保護方針
 unicodeorg: サイト上の絵文字と記号のすべての画像は情報提供を目的としており、権利は作成者に属し、同意なしに商業目的で使用することはできません.
 old-version: 旧バージョン
+find-bug: バグを見つけましたか？ 私達に書いて下さい
 
 [mainpage]: メインページ
 
@@ -29,6 +30,9 @@ list: アート ٩(｡•́‿•̀｡)۶
 
 [symbols]: シンボル
 list: シンボル
+
+[kaomoji]: 顔文字
+list: 顔文字
 
 [languages]	: 言語
 list	: 言語のリスト

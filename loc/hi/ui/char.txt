@@ -23,7 +23,8 @@ copy_button: प्रतिलिपि
 copy_done: कॉपी किया गया!
 version: यूनिकोड संस्करण
 collections-with-this-symbol: इस प्रतीक के साथ सेट करता है
-empty-symbol: यूनिकोड में अपरिभाषित
+empty-symbol: यूनिकोड में चरित्र परिभाषित नहीं है
+image-not-defined: प्रतीक के लिए छवि परिभाषित नहीं है
 emoji_group: इमोजी श्रेणी
 emoji_version: इमोजी संस्करण
 download: डाउनलोड करें
