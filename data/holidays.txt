@@ -14,21 +14,21 @@
 
 [new-year]
     date: 01.01
-    show: 31.12-01.01
+    show: 01.01
     preview: 🎆
     style: pink
     lang: !ru
 
 [new-year-ru]
     date: 01.01
-    show: 21.12-30.01  // поменять на 09 после тестирования
+    show: 01.01  // поменять на 09 после тестирования
     preview: 🎄
     style: pink
     lang: ru
 
 [chinese-new-year]
-    date: 01.02
-    show: 01.02-04.02
+    date: 22.01
+    show: 22.01
     preview: 🎆
     style: pink
     lang: cn
@@ -41,19 +41,20 @@
 
 [23-february]
     date: 23.02
-    show: 21.02-23.02
+    show: 23.02
     preview: 🎖
+    lang: ru
 
 [maslenica]
-    date: 28.02-06.03
-    show: 06.03
+    date: 20.02-26.02
+    show: 20.02
     preview: 🥞
     style: pink
     lang: ru
 
 [8-march]
     date: 08.03
-    show: 07.03-08.03
+    show: 08.03
     preview: 💐
     style: pink
 
@@ -64,8 +65,8 @@
     style: green
 
 [holi]
-	date: 18.03
-    show: 18.03
+	date: 08.03
+    show: 08.03
     preview: ☸️
     style: orange
     lang: hi
@@ -84,15 +85,15 @@
     lang: ru
 
 [easter-catolic]
-	date: 17.04
-    show: 17.04
+	date: 09.04
+    show: 09.04
     preview: 🐇
     style: pink
     lang: en, de, es, fr, it, pt, pl, hu
 
 [easter-orthodox]
-	date: 24.04
-    show: 24.04
+	date: 16.04
+    show: 16.04
     preview: 🥚
     style: pink
     lang: ru, ro
@@ -115,10 +116,11 @@
     show: 09.05
     preview: 🎗
     style: red
+    lang: ru
 
 [uefa-champions-league]
-	date: 28.05
-    show: 28.05
+	date: 10.06
+    show: 10.06
     preview: 🏆
     style: pink
 
@@ -129,28 +131,28 @@
     style: pink
 
 [eid-al-fitr]
-	date: 02.05
-    show: 02.05-03.05
+	date: 21.04
+    show: 21.04
     preview: ☪️
     style: pink
 
 [dragon-boat-festival]
-	date: 03.06
-    show: 03.06
+	date: 22.06
+    show: 22.06
     preview: 🐲
     style: pink
     lang: cn
 
 [queens-official-birthday]
-	date: 12.06
-    show: 12.06
+	date: 10.06
+    show: 10.06
     preview: 👸
     style: pink
     lang: en
 
 [graduation]
-	date: 26.06
-    show: 26.06-27.06
+	date: 24.06
+    show: 24.06
     preview: ⛵
     style: red
     lang: ru
@@ -218,15 +220,15 @@
     style: pink
 
 [oktoberfest]
-	date: 19.09-04.10
-    show: 24.09-25.09
+	date: 16.09-03.10
+    show: 16.09
     preview: 🍺
     style: pink
     lang: ru, en, es, de, fr, pt, pl, it, ro, hu
 
 [diwali]
-	date: 24.10
-    show: 24.10
+	date: 12.11
+    show: 12.11
     preview: 🕯️
     style: pink
     lang: hi
@@ -239,7 +241,7 @@
 
 [day-of-the-dead]
 	date: 01.11-02.11
-    show: 01.11-02.11
+    show: 01.11
     preview: 💀
     style: black
     lang: es
@@ -253,28 +255,28 @@
 
 [thanksgiving]
     str_date: fourth thursday of november
-	date: 24.11
-    show: 24.11
+	date: 23.11
+    show: 23.11
     preview: 🦃
     style: pink
     lang: en
 
 [black-friday]
-	date: 25.11
-    show: 25.11
+	date: 24.11
+    show: 24.11
     preview: 🤑
     style: black
     lang: en
 
 [hanukkah]
-	date: 18.12-26.12
-    show: 18.12
+	date: 07.12-15.12
+    show: 07.12
     preview: 🕎
     style: pink
 
 [christmas]
 	date: 25.12
-    show: 20.12-25.12
+    show: 25.12
     preview: 🎅
     style: pink
 
