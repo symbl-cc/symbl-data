@@ -1,0 +1,27 @@
+The Bell symbol was developed for telegraph and other communication systems. It was used to trigger an audio or visual signal on the receiving device. As for computer terminals and text editors, Bell was often used to notify the user about some event, such as the completion of a task or an accidental error. It was commonly done via the system speaker.
+
+To enter the Bell symbol, the Escape sequence [code \a] was introduced:
+
+[[[php
+s = "Hey you: \a!!";
+echo s;
+]]]
+
+Apart from that, you could also send this symbol using the Ctrl-G key combination. Fortunately, most modern systems don't burst out squeaking after being triggered by a simple text command.
+
+Nowadays the use of the U+0007 Bell symbol has become less common in modern computer systems and applications, since its functions are often replaced by other methods of notifications, such as pop-up messages or sound effects.
+
+Like other control characters, this symbol has no visual representation and doesn't occupy a lot of space on screen or in typed text. There is a separate symbol in [BLOCK:control-pictures] that represents a graphical image of the Bell symbol as the abbreviation BEL - [U:2407].
+
+Escape sequence: [code \a].
+
+It's one of the eight control symbols, the presence of which is required by POSIX:
+
+[*] [code \0] [U:0000] [U:0000 *#];
+[*] [code \a] [U:0007] [U:0007 *#];
+[*] [code \b] [U:0008] [U:0008 *#];
+[*] [code \t] [U:0009] [U:0009 *#];
+[*] [code \n] [U:000A] [U:000A *#];
+[*] [code \v] [U:000B] [U:000B *#];
+[*] [code \f] [U:000C] [U:000C *#];
+[*] [code \r] [U:000D] [U:000D *#].

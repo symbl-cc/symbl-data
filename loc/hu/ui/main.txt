@@ -2,10 +2,15 @@ title: SYMBL (◕‿◕)
 unicode: Unicode
 copyright: Az Unicode® bejegyzett védjegye az Egyesült Államokban és más országokban. Ez a webhely semmilyen módon nem társul a Unicode, Inc. (más néven Unicode Consortium) vagy támogatja. A hivatalos Unicode weboldalán kérjük, menjen.
 
+unicodeorg: Az oldalon található emoji-k és szimbólumok képei kizárólag tájékoztatási célokat szolgálnak, a jogok a szerzők tulajdonát képezik, és nem használhatók kereskedelmi célokra a hozzájuk való hozzájárulás nélkül.
+policy-names-unicode: Minden szimbólumnév hivatalos Unicode® név. A felsorolt kódpontok részei a Unicode szabványnak.
+
+about: Rólunk
+what-new: Van valami új
 privacy-policy: Adatvédelmi szabályzat
-unicodeorg: Az oldalon található emoji-képek és szimbólumok tájékoztató jellegűek, a jogok a szerzőket illetik, engedélyük nélkül kereskedelmi célokra nem használhatók fel.
-old-version: Régi verzió
 find-bug: Találtál egy bogarat? Írjon nekünk
+get-involved: Vegyen részt a projektben
+old-version: Régi verzió
 
 [mainpage]: Kezdőlap
 
@@ -70,3 +75,8 @@ en: Angol billentyűzet elrendezése
 [version-history]: Verziótörténet
 
 [about-unicode]: Az Unicode-ról
+
+[what-new]: Van valami új
+title: Van valami új
+aside: Kiadások
+btn-show-aside: Kiadási előzmények megjelenítése

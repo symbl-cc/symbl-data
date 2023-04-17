@@ -1,0 +1,39 @@
+The Null symbol was developed for use in computer terminals, printers, text processing systems, and telecommunications equipment to indicate an empty or invalid position in a data stream.
+
+It's the first symbol in Unicode and ASCII taking the zeroth position. Null is used in various ways, such as indicating the end of lines or data blocks, filling space between data elements, preventing the processing of data after a certain stage, etc. As for programming and text data processing, Null can be used as a marker for the end of a string or array of characters, especially in programming languages such as C and C++. They are called C-strings, other names include null-terminated strings or ASCIZ strings. According to this approach, the code working with the string initially does not know its length and processes the characters consequently, until it encounters a null character.
+
+[[[code:c
+/* Type a string */
+i = 0; // start from the beginning of the string
+while (s[i] != 0) { // work until the current character is \0
+    echo s[i]; // type the next character
+    i++; // move to the next one
+}
+]]]
+
+The disadvantages of this approach are the following:
+
+[*] The length of the string is not known in advance; 
+[*] The string can't contain null directly \0;
+[*] If you forget to write \0 at the end or delete it accidentally, the code will continue to work, but the consequences will be unpredictable.
+
+In case of using fixed-width multibyte encodings, the null character should also occupy the required number of bytes. For example, in UCS-2 it's two null bytes. An alternative approach to organizing strings would be to store the length of the string in a separate variable.
+
+However, complete ignorance of this character may sometimes lead to unwanted consequences. For example, some old browsers interpreted a string like [code <\0script>] as [code <script>], which enabled attackers to inject XSS into other sites (whose authors did not anticipate this nuance when processing data).
+
+Escape sequence [code \0] is available in many programming languages to insert this character.
+
+Like other control characters, this symbol doesn't possess any visual representation and does not occupy a lot of space on the screen or in printing. In the [BLOCK:control-pictures] section, there is a separate symbol representing the graphical representation of the null character in the form of the abbreviation NUL - [U:2400].
+
+Escape sequence: [code \0].
+
+This symbol is one of the eight control characters, the presence of which is required by the POSIX standard:
+
+[*] [code \0] [U:0000] [U:0000 *#];
+[*] [code \a] [U:0007] [U:0007 *#];
+[*] [code \b] [U:0008] [U:0008 *#];
+[*] [code \t] [U:0009] [U:0009 *#];
+[*] [code \n] [U:000A] [U:000A *#];
+[*] [code \v] [U:000B] [U:000B *#];
+[*] [code \f] [U:000C] [U:000C *#];
+[*] [code \r] [U:000D] [U:000D *#].

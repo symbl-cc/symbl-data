@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: 网站上的表情符号和符号的所有图像均仅供参考，权利属于作者，未经作者许可，不得用于商业目的。
+policy-names-unicode: 所有符号名称均为官方 Unicode® 名称。 列出的代码点是 Unicode 标准的一部分。
+
+about: 关于我们
+what-new: 有新鲜事。
 privacy-policy: 私隐政策
-unicodeorg: 網站上的所有表情符號和符號圖像僅供參考，權利屬於其作者，未經其同意不得用於商業目的。
-old-version: 旧版本
 find-bug: 发现错误？ 写信给我们
+get-involved: 参与项目
+old-version: 旧版本
 
 [mainpage]: 首页
 
@@ -14,11 +19,11 @@ list: 组
 title: 熱門字符集
 all: 看到所有
 
-[blocks]: 街区
+[blocks]: 块
 # @todo block
 block: Unicode块
 blocks: Unicode區段與包含的文字
-list: 街区
+list: 块
 by-range: 按范围
 by-alphabet: 按字母顺序
 by-type: 类型
@@ -71,3 +76,8 @@ en: 英文键盘布局
 [version-history]: 版本历史
 
 [about-unicode]: 关于 Unicode
+
+[what-new]: 有新鲜事。
+title: 有新鲜事。
+aside: 发布
+btn-show-aside: 显示发布历史

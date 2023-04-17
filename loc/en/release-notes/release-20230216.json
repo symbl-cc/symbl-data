@@ -1,0 +1,10 @@
+{
+    "date": "16.02.2023",
+    "number": "3.0.0",
+    "title": "Global design update",
+    "description": [],
+    "list": [
+        "In this release we have completely updated the design of unicode-table.com and moved the whole website to a new domain symbl.cc. Moreover, certain changes have been made regarding the structure, navigation, and the Unicode version (which has been updated to the current 15).",
+        "The old version unicode-table is available at old.unicode-table.com"
+    ]
+}

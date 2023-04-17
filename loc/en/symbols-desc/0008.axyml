@@ -1,0 +1,24 @@
+The Backspace symbol, also known as "delete", was originally designed for use in teletype and other communication systems to erase the previous character and move the cursor one step back.
+
+When it comes to text editors and computer terminals, the Backspace symbol is typically used to delete the character before the current cursor position. In modern computer systems and applications, the Backspace symbol is a standard control element and is often associated with the ← Backspace button on the keyboard.
+
+On some devices Backspace could be used to lay one character over another. For example, [code c\b^] (where \b is the escape sequence for U+0008) would type [code ĉ].
+
+[[[php
+echo "ab\bc"; // would type "ab c", not "ac"
+]]]
+
+Like all other control characters, this symbol has no visual representation and does not occupy much space on screen or in typed text. There is a separate symbol in [BLOCK:control-pictures] representing a graphical image of the Backspace symbol. It's the abbreviation BS (Backspace) - [U:2408].
+
+Escape sequence: [code \b].
+
+It's one of the eight control symbols, the presence of which is required by POSIX:
+
+[*] [code \0] [U:0000] [U:0000 *#];
+[*] [code \a] [U:0007] [U:0007 *#];
+[*] [code \b] [U:0008] [U:0008 *#];
+[*] [code \t] [U:0009] [U:0009 *#];
+[*] [code \n] [U:000A] [U:000A *#];
+[*] [code \v] [U:000B] [U:000B *#];
+[*] [code \f] [U:000C] [U:000C *#];
+[*] [code \r] [U:000D] [U:000D *#].

@@ -18,6 +18,7 @@ hanukkah: Hanuka
 christmas: Crăciun
 oktoberfest: Oktoberfest
 easter-catolic: Paști
+easter-orthodox-date:
 uefa-european-championship: Campionatul European de Fotbal
 
 new-year-date: Astăzi, 1 ianuarie
@@ -26,9 +27,10 @@ valentine-day-date: Astăzi, 14 februarie
 8-march-date: Astăzi, 8 martie
 saint-patricks-day-date: Astăzi, 17 martie
 april-fools-day-date: Astăzi, 1 aprilie
+easter-orthodox-date: Astăzi, 16 aprilie
 easter-catolic-date: Astăzi, 24 aprilie
 1-may-date: Astăzi, 1 mai
-eid-al-fitr-date: Astăzi, 2 mai
+eid-al-fitr-date: Astăzi, 21 aprilie
 victory-day-date: Astăzi, 9 mai
 uefa-champions-league-date: Astăzi, 28 mai
 international-childrens-day-date: Astăzi, 1 iunie

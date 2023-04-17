@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 logo: SYMBL
-privacy-policy: Privacy Policy
-unicodeorg:  All images of symbols and Emojis on the website are for informational purposes only, and their rights belong to their respective owners. These images cannot be used for commercial purposes without the consent of their authors.
-old-version: Old Version
+unicodeorg: All images of emoji and symbols on the website are for informational purposes, the rights belong to their authors and cannot be used for commercial purposes without their consent.
+policy-names-unicode: All symbol names are official Unicode® names. Code points listed are part of the Unicode Standard.
+
+about: About
+what-new: What's new
+privacy-policy: Privacy policy
 find-bug: Find a bug? Let us know
+get-involved: Get involved
+old-version: Old Version
 
 [mainpage]: Homepage
 
@@ -80,3 +85,8 @@ list: Unicode
 [version-history]: Version History
 
 [about-unicode]: About Unicode
+
+[what-new]: What’s new
+title: What’s new
+aside: Releases
+btn-show-aside: Show release history

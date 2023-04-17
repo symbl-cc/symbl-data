@@ -1,0 +1,10 @@
+{
+    "date": "10.03.2023",
+    "number": "3.0.4",
+    "title": "UX improvements and some features",
+    "description": [],
+    "list": [
+        "We fixed bugs regarding the display of tables, breadcrumb navigation, holiday notifications and the broken language selection button.",
+        "Added “Popular requests” in the search bar, included Russian and Spanish block translations for 14 and 15 Unicode versions; plus, we made changes to the page displaying unidentified symbols. Keeping up the tempo 👌"
+    ]
+}

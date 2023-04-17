@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: このウェブサイトのすべての絵文字や記号の画像は情報のためにのみ使用され、権利は作者に帰属しており、作者の許可なしに商業目的で使用することはできません。
+policy-names-unicode: すべての記号の名前は公式の Unicode® 名です。リストされたコードポイントは Unicode 規格の一部です。
+
+about: 私たちに関しては
+what-new: 何か新しいものがある
 privacy-policy: 個人情報保護方針
-unicodeorg: サイト上の絵文字と記号のすべての画像は情報提供を目的としており、権利は作成者に属し、同意なしに商業目的で使用することはできません.
-old-version: 旧バージョン
 find-bug: バグを見つけましたか？ 私達に書いて下さい
+get-involved: プロジェクトに参加してください
+old-version: 旧バージョン
 
 [mainpage]: メインページ
 
@@ -69,3 +74,8 @@ en: 英語キーボードのレイアウト
 [version-history]: バージョン履歴
 
 [about-unicode]: ユニコードについて
+
+[what-new]: 何か新しいものがある
+title: 何か新しいものがある
+aside: リリース
+btn-show-aside: リリース履歴の表示

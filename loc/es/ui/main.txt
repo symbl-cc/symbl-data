@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: Todas las imágenes de emoji y símbolos en el sitio web son con fines informativos, los derechos pertenecen a sus autores y no pueden ser utilizados con fines comerciales sin su consentimiento.
+policy-names-unicode: Todos los nombres de símbolos son nombres oficiales de Unicode®. Los puntos de código enumerados son parte del estándar Unicode.
+
+about: Sobre nosotros
+what-new: Hay algo nuevo
 privacy-policy: Política de privacidad
-unicodeorg: Todas las imágenes de emoji y símbolos en el sitio tienen fines informativos, los derechos pertenecen a sus autores y no pueden utilizarse con fines comerciales sin su consentimiento.
-old-version: Versión antigua
 find-bug: ¿Encontraste un bug? Escríbenos
+get-involved: Participa en el proyecto
+old-version: Versión antigua
 
 [mainpage]: Portada
 
@@ -28,8 +33,8 @@ list: Codificaciones
 [art]: Arte
 list: Arte ٩(｡•́‿•̀｡)۶
 
-[symbols]: Signatura
-list: Signatura
+[symbols]: Símbolos
+list: Símbolos
 
 [kaomoji]: Kaomoji
 list: Kaomoji
@@ -45,8 +50,8 @@ list: Lista de Países
 # @todo list
 list: Alfabetos
 
-[holidays]: Festivos
-list: Festivos
+[holidays]: Fiestas
+list: Fiestas
 
 [types]
 # @todo type
@@ -70,3 +75,8 @@ en: Diseño de teclado en inglés
 [version-history]: Historial de versiones
 
 [about-unicode]: Acerca de Unicode
+
+[what-new]: Hay algo nuevo
+title: Hay algo nuevo
+aside: Lanzamientos
+btn-show-aside: Historial de versiones

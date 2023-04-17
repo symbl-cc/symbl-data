@@ -1,0 +1,5 @@
+The Start of Text (STX) symbol was developed for use in telegraph and other communication systems to indicate the beginning of the text part of a message following a header that begins with the character sequence [U:0001] [U:0001 *#].
+
+In modern computer systems and applications, the use of the U+0002 character has become less common as its functions are often replaced by other methods of encoding and structuring data.
+
+Like other control symbols, this one has no visual representation and does not occupy a lot of space on screen or in printed text. There is a separate symbol in [BLOCK:control-pictures] representing the graphic image of the Start of Text character as the STX (Start of Text) abbreviation - [U:2402].

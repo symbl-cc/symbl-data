@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: Toate imaginile de emoji și simboluri de pe site sunt pentru scopuri informaționale, drepturile aparțin autorilor lor și nu pot fi folosite pentru scopuri comerciale fără acordul lor.
+policy-names-unicode: Toate numele simbolurilor sunt nume oficiale Unicode®. Punctele de cod listate fac parte din standardul Unicode.
+
+about: Despre noi
+what-new: E ceva nou
 privacy-policy: Politica de confidențialitate
-unicodeorg: Toate imaginile cu emoji și simboluri de pe site au scop informativ, drepturile aparțin autorilor acestora și nu pot fi folosite în scopuri comerciale fără acordul acestora.
-old-version: Versiune veche
 find-bug: Ai găsit un bug? Scrie-ne
+get-involved: Participați la proiect
+old-version: Versiune veche
 
 [mainpage]: Pagina principală
 
@@ -68,3 +73,8 @@ en: Aspect tastatură engleză
 [version-history]: Versiunea istorică
 
 [about-unicode]: Despre Unicode
+
+[what-new]: E ceva nou
+title: E ceva nou
+aside: Lansări
+btn-show-aside: Afișați istoricul de lansare

@@ -1,0 +1,20 @@
+The Form Feed symbol, also known as clear screen, was used in computer terminals, printers, and text processing systems to indicate the end of a page and move to the beginning of the next page.
+
+As for text editors and computer terminals, the Form Feed symbol is typically used to separate pages of text within a single file. Speaking of printers, the U+000C symbol signals that the printer should finish the current page and start printing the next page.
+
+When it comes to modern computer systems and applications, this symbol is rarely used. It happens so because other mechanisms are usually employed for dividing and formatting pages. However, Form Feed can still be found in text files or code where it performs its original function of separating pages in the text.
+
+Like other control characters, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of Form Feed, which shows up as the abbreviation FF (Form Feed) — [U:240C].
+
+Escape sequence: [code \f].
+
+It's one of the eight control symbols, the presence of which is required by POSIX:  
+
+[*] [code \0] [U:0000] [U:0000 *#];
+[*] [code \a] [U:0007] [U:0007 *#];
+[*] [code \b] [U:0008] [U:0008 *#];
+[*] [code \t] [U:0009] [U:0009 *#];
+[*] [code \n] [U:000A] [U:000A *#];
+[*] [code \v] [U:000B] [U:000B *#];
+[*] [code \f] [U:000C] [U:000C *#];
+[*] [code \r] [U:000D] [U:000D *#].

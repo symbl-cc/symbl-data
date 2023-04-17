@@ -1,0 +1,5 @@
+The Start of Heading symbol was used in teletype and other communication systems to indicate the beginning of a message title. A heading usually contains metadata such as sender and recipient addresses and is used to organize the transfer of information between devices.
+
+In modern computer systems and applications, the use of the U+0001 symbol has become rare; its functions are often replaced by other methods of encoding metadata or structuring data.
+
+Like other control characters, this symbol has no visual representation and does not occupy space on the screen or in print. The block [BLOCK:control-pictures] includes a separate symbol representing the graphic image of the header one. It's the abbreviation called SOH (Start of Heading) — [U:2401].

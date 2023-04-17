@@ -252,5 +252,5 @@ FFFA : 行间注释分隔符
 FFFB : 行间注释终结符
 FFFC : 目标替换字符
 FFFD : 替换字符
-FFFE : 未定义
-FFFF : 未定义
+FFFE : 不是符号
+FFFF : 不是符号

@@ -1,0 +1,5 @@
+The Unit Separator symbol was used in computer terminals, printers, text processing systems, and telecommunication equipment. Its main purpose was to indicate the borders between units of data in a single stream. This allowed devices and programs to determine the boundaries between different units of data and process them accordingly. It was particularly useful in processing structured data consisting of multiple units or blocks of information, such as rows, columns, or fields.
+
+When it comes to modern computer systems and applications, the U+001D symbol is rarely used there. It happens so because now other mechanisms, protocols (markup languages such as XML, JSON) and specialized data formats are used for the same purpose.
+
+Like many other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of Unit Separator as the abbreviation US (Unit Separator) — [U:241F].

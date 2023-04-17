@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: Web sitesindeki emoji ve sembollerin tüm görüntüleri bilgilendirme amaçlıdır, hakları yazarlarına aittir ve onların onayı olmadan ticari amaçlar için kullanılamaz.
+policy-names-unicode: Tüm sembol isimleri resmi Unicode® adlarıdır. Listelenen kod noktaları Unicode Standartı'nın bir parçasıdır.
+
+about: Hakkımızda
+what-new: Yeni bir şey var
 privacy-policy: Gizlilik Politikası
-unicodeorg: Sitede yer alan tüm emoji ve sembol görselleri bilgilendirme amaçlı olup, hakları yazarlarına aittir ve onların rızası olmadan ticari amaçla kullanılamaz.
-old-version: Eski versiyon
 find-bug: Böceği buldunuz mu? Bize yazın
+get-involved: Projeye katılın
+old-version: Eski versiyon
 
 [mainpage]: Anasayfa
 
@@ -68,3 +73,8 @@ en: İngilizce klavye düzeni
 [version-history]: Sürüm geçmişi
 
 [about-unicode]: Unicode hakkında
+
+[what-new]: Yeni bir şey var
+title: Yeni bir şey var
+aside: Salıverme
+btn-show-aside: Yayın tarihini göster

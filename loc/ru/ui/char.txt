@@ -22,7 +22,7 @@ related: Похожие символы
 tech-info: Техническая информация
 copy: Нажмите, чтобы скопировать и вставить символ
 copy-code: Нажмите, чтобы скопировать
-copy_button: Копировать
+copy_button: Скопировать
 copy_done: Скопировано!
 version: Версия Юникода
 emoji_version: Версия Эмоджи
@@ -37,3 +37,5 @@ symbol_not_displayed: Почему не отображается символ?
 examples: Примеры использования
 synonyms: Синонимы
 in-development: Находится в разработке
+show-more: Показать больше
+show-less: Показать меньше

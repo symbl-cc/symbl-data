@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: Unicode
 
+unicodeorg: Tutte le immagini di emoji e simboli sul sito web sono a scopo informativo, i diritti appartengono ai loro autori e non possono essere utilizzati a fini commerciali senza il loro consenso.
+policy-names-unicode: Tutti i nomi dei simboli sono nomi ufficiali Unicode®. I punti codice elencati fanno parte dello standard Unicode.
+
+about: Chi siamo
+what-new: C'è qualcosa di nuovo
 privacy-policy: Informativa sulla privacy
-unicodeorg: Tutte le immagini di emoji e simboli presenti nel sito sono a scopo informativo, i diritti appartengono ai rispettivi autori e non possono essere utilizzate a fini commerciali senza il loro consenso.
-old-version: Vecchia versione
 find-bug: Hai trovato un bug? Scrivici
+get-involved: Partecipa al progetto
+old-version: Vecchia versione
 
 [mainpage]: Pagina principale
 
@@ -68,3 +73,8 @@ en: Layout tastiera inglese
 [version-history]: Cronologia delle versioni
 
 [about-unicode]: A proposito di Unicode
+
+[what-new]: C'è qualcosa di nuovo
+title: C'è qualcosa di nuovo
+aside: Rilasci
+btn-show-aside: Cronologia delle versioni

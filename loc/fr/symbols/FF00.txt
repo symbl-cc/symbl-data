@@ -252,5 +252,5 @@ FFFA: Séparateur d'annotation interlinéaire
 FFFB: Terminateur d'annotation interlinéaire
 FFFC: Caractère de remplacement d'objet
 FFFD: Caractère de remplacement
-FFFE: <pas un caractère>
-FFFF: <pas un caractère>
+FFFE: Pas un symbole
+FFFF: Pas un symbole

@@ -1,10 +1,15 @@
 title: SYMBL (◕‿◕)
 unicode: 유니 코드
 
+unicodeorg: 이 웹 사이트의 모든 이모티콘 및 심볼 이미지는 정보 목적으로만 사용되며 권리는 저자에게 속하며 저자의 동의 없이 상업적 목적으로 사용할 수 없습니다.
+policy-names-unicode: 모든 기호 이름은 공식 Unicode® 이름입니다. 나열된 코드 포인트는 Unicode 표준의 일부입니다.
+
+about: 회사 소개
+what-new: 새로운 것이 있어요
 privacy-policy: 개인 정보 보호 정책
-unicodeorg: 사이트의 모든 이모티콘 및 기호 이미지는 정보 제공용이며 권리는 작성자에게 있으며 동의 없이 상업적 목적으로 사용할 수 없습니다.
-old-version: 이전 버전
 find-bug: 당신은 버그를 발견 했습니까? 우리에게 쓰기
+get-involved: 프로젝트에 참여하세요
+old-version: 이전 버전
 
 [mainpage]: 대문
 
@@ -69,3 +74,8 @@ en: 영어 키보드 레이아웃
 [version-history]: 버전 기록
 
 [about-unicode]: 유니코드 정보
+
+[what-new]: 새로운 것이 있어요
+title: 새로운 것이 있어요
+aside: 릴리스
+btn-show-aside: 릴리스 기록 보기

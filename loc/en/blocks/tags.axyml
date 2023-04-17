@@ -1,3 +1,3 @@
-The block contains 95 special characters (tags) for assigning some kind of language to the text. Nowadays such a use of tags is outdated and is not recommended by the Unicode Consortium. However, with the release of Emoji 5.0 in March 2017, these symbols can be used to display national flags.
+The block contains 95 special characters (tags) for assigning language attributes to the text. Nowadays such use of tags is outdated and is not recommended by the Unicode Consortium. However, with the release of Emoji 5.0 in March 2017, these symbols can be used to display national flags.
 
-In addition, there are 2 more characters in the block: identification of the language tag and cancellation of the tag.
+In addition, there are 2 more characters in the block:  language tag identification and tag cancellation.

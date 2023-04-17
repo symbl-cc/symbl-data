@@ -1,0 +1,5 @@
+The Acknowledge symbol was designed for teletype and other communication systems. It was used to confirm the successful reception of data or messages from a remote device. As for communication protocols, Acknowledge signals successful data reception, allowing the sender to ensure the integrity and accuracy of the information delivery.
+
+Nowadays the U+0006 symbol has become less popular, since ts functions are often replaced by other communication methods and protocols such as TCP/IP, which include built-in mechanisms for acknowledging data reception.
+
+Like other control characters, this symbol has no visual representation and does not take up space on the screen or in typed text. There is a separate symbol in [BLOCK:control-pictures] representing a graphic image of the Acknowledge symbol. It shows as the ACK (Acknowledge) abbreviation - [U:2406].

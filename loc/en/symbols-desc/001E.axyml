@@ -1,0 +1,7 @@
+The Record Separator symbol was used in computer terminals, printers, text processing systems, and telecommunications equipment. Its purpose was to indicate the borders between data records in a single stream.
+
+It was also employed to separate information records in data streams, allowing devices and programs to identify the boundaries between different data records and process them accordingly. This was particularly useful for processing structured data consisting of multiple information blocks, such as tables or lists.
+
+In modern computer systems and applications, the U+001E symbol is rarely used because other mechanisms and protocols, such as markup languages (e.g., XML, JSON) and specialized data formats, are used for these objectives.
+
+Like many other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of Record Separator as the abbreviation RS — [U:241E].

@@ -1,0 +1,7 @@
+The Shift Out symbol is also known as the lowercase mode. It was used in computer terminals, printers, and text processing systems to switch between different character sets or modes of device operation.
+
+This symbol was often utilized to select an alternative set of characters defined for a particular device or encoding. In that situation the device would switch to the alternative character set until it received the Shift In symbol [U:000F] [U:000F *#], which would return the device to its original character set.
+
+As for modern computer systems and applications, the U+000E symbol is rarely used there. It happens so because there are other mechanisms and encodings that perform the function of switching between different sets and languages. For example, Unicode.
+
+Like other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of the Shift Out symbol in the form of the abbreviation SO - [U:240E].
