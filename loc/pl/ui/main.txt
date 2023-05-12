@@ -13,14 +13,15 @@ old-version: Stara wersja
 
 [mainpage]: Strona główna
 
-[collections]	: Zestawy
-set	: Zestawy
-list	: Zestawy
-title: Zestawy znaków
+[collections]	: Wybory
+set	: Wybory
+list	: Wybory
+title: Wybory symboli
 all: Widzieć wszystko
 
 [blocks]	: Bloki
 block	: Bloki Unicode
+subblock: Podbloki Unicode
 list	: Unicode
 by-range: Według zasięgu
 by-alphabet: Alfabetycznie
@@ -55,11 +56,11 @@ list: Święta
 type	: Rodzaj
 list	: Rodzaje
 
-[html-entities]: Znaki specjalne symbole HTML
+[html-entities]: Znaki specjalne HTML
 list: HTML znaki specjalne
 
-[alt-codes]: Kody ALT dla Windows
-list: Kody Alt
+[alt-codes]: Alt-kody dla Windows
+list: Alt-kody
 en: Angielski układ klawiatury
 
 [top-symbols]: Top symbole

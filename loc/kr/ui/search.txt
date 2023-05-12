@@ -17,11 +17,12 @@ collections: 그룹
 alphabet: 편지
 
 [empty]
-no_results: "{query}"에 대한 한국어 결과가 없습니다.
+no_results: ‘{query}‘ 에 대한 한국어 결과가 없습니다.
 language: {언어}를 변경하십시오.
 blocks: {유니 코드 블록을} 탐색하십시오.
 collections: 그것을 {세트}로보세요.
 table: {전체 문자} 표를 살펴보십시오.
+change_query: 쿼리를 변경해 보세요.
 
 [popular]
 title: 인기 검색어

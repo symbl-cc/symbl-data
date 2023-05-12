@@ -115,6 +115,7 @@ desc: 별명을 장식합니다
 text: 텍스트
 nickname: 닉네임
 example: Maria
+nickexamples: ニックネームの例
 
 [text-to-symbols]: 文字で構成されるテキスト
 h1: 文字で構成されるテキスト

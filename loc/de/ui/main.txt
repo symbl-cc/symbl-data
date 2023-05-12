@@ -18,9 +18,9 @@ collection: Set
 list: Symbolgruppen
 title: Beliebte Symbolgruppen
 all: Alles sehen
-
 [blocks]: Blöcke
 block: Unicode-Blöcke
+subblock: Unicode-Teilblöcke
 blocks: Liste der Unicodeblöcke
 list: Unicode
 by-range: Nach Reichweite
@@ -60,7 +60,7 @@ list: Feiertage
 [html-entities]: HTML Entitäten, typografische Zeichen in HTML
 list: HTML Entitäten
 
-[alt-codes]: ALT-Codes für Windows
+[alt-codes]: Alt-Codes für Windows
 list: Alt Сodes
 en: Englisches Tastaturlayout
 

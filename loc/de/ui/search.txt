@@ -17,11 +17,12 @@ collections: Set
 alphabet: Alphabet
 
 [empty]
-no_results: Keine Ergebnisse für "{query}" auf Deutsch gefunden.
+no_results: Keine Ergebnisse für „{query}“.
 language: Versuchen Sie, die {Sprache} zu ändern.
 blocks: Entdecken Sie die {Unicode-Blöcke}.
-collections: Schauen Sie in {Symbolgruppen} nach.
+collections: Schauen Sie in {symbolgruppen} nach.
 table: Schauen Sie sich die vollständige {Zeichentabelle} an.
+change_query: Versuchen Sie, die Anfrage zu ändern.
 
 [popular]
 title: Verwandte Suchanfragen

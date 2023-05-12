@@ -17,11 +17,12 @@ collections: Seturi
 alphabet: Alfabet
 
 [empty]
-no_results: Nu există rezultate pentru "{query}" în română.
+no_results: Nu există rezultate pentru „{query}”.
 language: Încercați să schimbați {limba}.
 blocks: Explorați {blocurile Unicode}.
 collections: Uită-te în {seturi}.
 table: Uită-te prin {tabelul complet de caractere}.
+change_query: Încearcă să schimbi interogarea.
 
 [popular]
 title: Interogări populare

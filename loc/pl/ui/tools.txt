@@ -1,4 +1,4 @@
-: Instrumenty
+: Narzędzia
 
 [encoder]: Koder HTML
 
@@ -129,6 +129,7 @@ desc: Zdobi pseudonim
 text: Tekst
 nickname: Przezwisko
 example: Maria
+nickexamples: Przykłady pseudonimów
 
 [text-to-symbols]: Tekst z symboli
 h1: Tekst z symboli

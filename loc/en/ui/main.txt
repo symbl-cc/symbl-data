@@ -21,6 +21,7 @@ all: See all
 
 [blocks]: Blocks
 block: Unicode Blocks
+subblock: Unicode Sub Blocks
 list: Unicode®
 by-range: By Range
 by-alphabet: Alphabetically
@@ -52,7 +53,7 @@ list: Types
 [html-entities]: HTML Character Entity References
 list: HTML Entities
 
-[alt-codes]: ALT Codes for Windows
+[alt-codes]: Alt Codes for Windows
 list: Alt Codes
 en: English keyboard layout
 

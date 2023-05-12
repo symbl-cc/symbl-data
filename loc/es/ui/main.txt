@@ -21,6 +21,7 @@ all: Ver todo
 
 [blocks]: Bloques
 block: Unicode bloques
+subblock: Subbloques de Unicode
 blocks: Lista de Secciones Unicode
 list: Unicode
 by-range: Por gama

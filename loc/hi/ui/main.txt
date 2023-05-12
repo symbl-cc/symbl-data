@@ -21,6 +21,7 @@ all: सभी देखें
 
 [blocks]	: ब्लाकों
 block	: यूनिकोड ब्लॉक
+subblock: यूनिकोड उप-ब्लॉक
 list	: ब्लाकों
 by-range: श्रेणी के अनुसार
 by-alphabet: वर्णानुक्रम
@@ -58,7 +59,7 @@ list	: प्रकार
 [html-entities]: HTML Entities
 list: HTML Entities
 
-[alt-codes]: विंडोज के लिए ALT कोड
+[alt-codes]: विंडोज के लिए Alt कोड
 list: Alt कोड
 en: कीबोर्ड लेआउट अंग्रेजी में
 

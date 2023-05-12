@@ -21,6 +21,7 @@ all: Vedi tutto
 
 [blocks]	: Blocchi
 block	: Blocchi Unicode
+subblock: Sotto-blocchi Unicode
 list	: Unicode
 by-range: Per gamma
 by-alphabet: In ordine alfabetico
@@ -58,7 +59,7 @@ list	: Tipi
 [html-entities]: Entità HTML
 list: Entità HTML
 
-[alt-codes]: Codici ALT per Windows
+[alt-codes]: Codici Alt per Windows
 list: Codici Alt
 en: Layout tastiera inglese
 

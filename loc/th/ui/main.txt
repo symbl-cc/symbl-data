@@ -21,6 +21,7 @@ all: ดูทั้งหมด
 
 [blocks]: รายชื่อส่วน
 block: บล็อกยูนิโค้ด
+subblock: บล็อกย่อยของ Unicode
 list: บล็อค
 by-range: ตามช่วง
 by-alphabet: เรียงตามตัวอักษร
@@ -60,8 +61,8 @@ list: รายชื่อชนิด
 [html-entities]: หน่วยงาน HTML
 list: หน่วยงาน HTML
 
-[alt-codes]: รหัส ALT สำหรับ WIndows
-list: รหัส ALT
+[alt-codes]: รหัส Alt สำหรับ WIndows
+list: รหัส Alt
 en: รูปแบบแป้นพิมพ์ภาษาอังกฤษ
 
 [top-symbols]: สัญลักษณ์ยอดนิยม

@@ -21,6 +21,7 @@ all: Vezi toate
 
 [blocks]: Blocuri
 block: Blocuri Unicode
+subblock: Subblocuri Unicode
 list: Unicode
 by-range: Dupa gamă
 by-alphabet: Alfabetic
@@ -58,7 +59,7 @@ list: Tipuri
 [html-entities]: Entități HTML
 list: Entități HTML
 
-[alt-codes]: Coduri ALT pentru WIndows
+[alt-codes]: Coduri Alt pentru WIndows
 list: Coduri Alt
 en: Aspect tastatură engleză
 

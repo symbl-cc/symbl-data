@@ -17,11 +17,12 @@ count-symbols: %s znaków
 alphabet: Alfabet
 
 [empty]
-no_results: Brak wyników dla "{query}" po polsku.
+no_results: Brak wyników dla „{query}”.
 language: Spróbuj zmienić {język}.
 blocks: Poznaj {bloki Unicode}.
-collections: Sprawdź w {Zestawy}.
+collections: Sprawdź w {zestawy}.
 table: Przejrzyj pełną {tabelę znaków}.
+change_query: Spróbuj zmienić zapytanie.
 
 [popular]
 title: Popularne wyszukiwania

@@ -21,6 +21,7 @@ all: 모두보기
 
 [blocks]	: 블록
 block: 유니코드 블록
+subblock: Unicode 하위 블록
 blocks	: 유니코드 영역의 목록
 list: 블록
 by-range: 범위 별
@@ -59,8 +60,8 @@ list	: 입력 한 문자 목록
 [html-entities]: HTML 엔티티
 list: HTML 엔티티
 
-[alt-codes]: Windows 용 ALT 코드
-list: ALT 코드
+[alt-codes]: Windows 용 Alt 코드
+list: Alt 코드
 en: 영어 키보드 레이아웃
 
 [top-symbols]: 최고의 캐릭터

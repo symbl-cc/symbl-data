@@ -130,6 +130,7 @@ desc: Decorar apodos
 text: Texto
 nickname: Apodo
 example: María
+nickexamples: Ejemplos de apodos
 
 [text-to-symbols]: Texto de símbolos
 h1: Texto de símbolos

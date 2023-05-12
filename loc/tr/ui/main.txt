@@ -13,14 +13,15 @@ old-version: Eski versiyon
 
 [mainpage]: Anasayfa
 
-[collections]	: Setleri
-set	: Setleri
-list	: Setleri
+[collections]	: Sembol Koleksiyonları
+set	: Koleksiyonlar
+list	: Koleksiyonlar
 title: Popüler karakter setleri
 all: Tümünü Gör
 
 [blocks]	: Blokları
 block	: Unicode blokları
+subblock: Unicode Alt Blokları
 list	: Unicode
 by-range: Aralığa göre
 by-alphabet: Alfabetik olarak
@@ -32,8 +33,8 @@ list: Kodlamalar
 [art]: Sanat
 list: Sanat ٩(｡•́‿•̀｡)۶
 
-[symbols]: Rumuz
-list: Rumuz
+[symbols]:  Semboller
+list: Semboller
 
 [languages]	: Diller
 list	: Diller
@@ -45,21 +46,21 @@ list: Kaomoji
 [countries]	: Ülkeler
 list	: Ülkeler
 
-[alphabets]	: Alfabe
-list	: Alfabe
+[alphabets]	: Alfabeler
+list	: Alfabeler
 
-[holidays]: Bayram
-list: Bayram
+[holidays]: Bayramlar
+list: Bayramlar
 
 [types]	: Türleri
 type	: Tür
 list	: Türleri
 
-[html-entities]: HTML Karakter Varlıklar
+[html-entities]: HTML Özel Karakterler
 list: HTML Varlıkları
 
-[alt-codes]: Windows için ALT Kodları
-list: Alt Kodlar
+[alt-codes]: Alt Kodları Windows
+list: Alt Kodları
 en: İngilizce klavye düzeni
 
 [top-symbols]: En iyi semboller

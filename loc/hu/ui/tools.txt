@@ -127,6 +127,7 @@ desc: Díszíti a becenevet
 text: Szöveg
 nickname: Becenév
 example: Maria
+nickexamples: Becenév példák
 
 [text-to-symbols]: Szöveg szimbólumokból
 h1: Szöveg szimbólumokból

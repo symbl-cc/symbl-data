@@ -109,6 +109,7 @@ desc: ตกแต่งชื่อเล่น
 text: ข้อความ
 nickname: ชื่อเล่น
 example: Maria
+nickexamples: ตัวอย่างชื่อเล่น
 
 [text-to-symbols]: ข้อความจากสัญลักษณ์
 h1: ข้อความจากสัญลักษณ์

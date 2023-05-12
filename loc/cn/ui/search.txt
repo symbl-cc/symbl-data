@@ -17,11 +17,12 @@ collections: 组
 alphabet: 字母
 
 [empty]
-no_results: 在中文中找不到“{query}”的结果。
+no_results: 在中文中找不到 「{query}」。
 language: 尝试改变{语言}。
 blocks: 探索{Unicode块}。
 collections: {一套又一套}。
 table: 查看完整{的角色表}。
+change_query: 尝试更改查询。
 
 [popular]
 title: 热门查询

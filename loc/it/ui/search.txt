@@ -17,11 +17,12 @@ collections: Impostato
 alphabet: Alfabeto
 
 [empty]
-no_results: Nessun risultato trovato per "{query}" in italiano.
+no_results: Nessun risultato trovato per «{query}».
 language: Prova a cambiare {lingua}.
 blocks: Esplora i {blocchi Unicode}.
-collections: Cercalo in {Imposta}.
+collections: Cercalo in {imposta}.
 table: Guarda attraverso la {tabella dei caratteri} completa.
+change_query: Prova a cambiare la query.
 
 [popular]
 title: Ricerche popolari

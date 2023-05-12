@@ -22,6 +22,7 @@ all: Lásd az összeset
 
 [blocks]: Blokkok
 block: Unicode blokkok
+subblock: Unicode-alcsoportok
 blocks: Unicode blokkok
 list: Unicode
 by-range: Tartomány szerint

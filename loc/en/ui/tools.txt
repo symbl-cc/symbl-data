@@ -137,6 +137,7 @@ desc: Decorate nickname
 text: Text
 nickname: Nickname
 example: Maria
+nickexamples: Nickname examples
 
 [text-to-symbols]: Symbol Text
 h1: Symbol Text
@@ -186,3 +187,38 @@ paste-text: It also goes to this box, where you can enter any text and decorate 
 ok: Got it!
 skip: Skip
 cool: Cool!
+
+[telegram-2-symbols]: Symbols on Telegram
+subtitle: Here you can quickly type your text using Latin script and various fonts.
+example: Text and symbol ☆ examples
+copy-text: Clock on this symbol — and it will copy automatically!
+paste-text: It's copied to the box too — there you can enter any text and choose any Latin letters you like!
+ok: Got it!
+skip: Skip
+cool: Cool!
+A: A
+B: B
+C: C
+D: D
+E: E
+F: F
+G: G
+H: H
+I: I
+J: J
+K: K
+L: L
+M: M
+N: N
+O: O
+P: P
+Q: Q
+R: R
+S: S
+T: T
+U: U
+V: V
+W: W
+X: X
+Y: Y
+Z: Z

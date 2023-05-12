@@ -17,11 +17,12 @@ collections: Conjunto
 alphabet: Alfabeto
 
 [empty]
-no_results: No se encontraron resultados para "{query}" en español.
+no_results: No se encontraron resultados para «{query}».
 language: Intenta cambiar el {idioma}.
 blocks: Explora los {bloques de Unicode}.
-collections: Míralo en {Conjuntos}.
+collections: Míralo en {conjuntos}.
 table: Mira a través de la {tabla de caracteres} completa.
+change_query: Intenta cambiar la consulta.
 
 [popular]
 title: Búsquedas populares

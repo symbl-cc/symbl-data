@@ -17,11 +17,12 @@ collections: Készlet
 alphabet: Ábécé
 
 [empty]
-no_results: A (z) "{query}" kifejezésre magyarul nincs találat.
+no_results: A (z) „{query}” kifejezésre magyarul nincs találat.
 language: Próbálja meg megváltoztatni a {nyelvet}.
 blocks: Fedezze fel az {Unicode blokkokat}.
 collections: Nézze meg a {készleteket}.
 table: Nézze át a {teljes karaktertáblát}.
+change_query: Próbálja megváltoztatni a lekérdezést.
 
 [popular]
 title: Népszerű lekérdezések

@@ -17,11 +17,12 @@ collections: グループ
 alphabet: 手紙
 
 [empty]
-no_results: "{query}"の日本語の検索結果はありません。
+no_results:「{query}」の日本語の検索結果はありません。
 language: {言語}を変えてみてください。
 blocks: {Unicodeブロック}を調べてください。
 collections: {セット}で調べてください。
 table: {全文字テーブル}を見てください。
+change_query: クエリを変更してみてください。
 
 [popular]
 title: 人気のあるクエリ

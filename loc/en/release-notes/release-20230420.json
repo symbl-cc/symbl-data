@@ -1,0 +1,11 @@
+{
+    "date": "20.04.2023",
+    "number": "3.0.10",
+    "title": "Improve Titles, content",
+    "description": [],
+    "list": [
+        "We have corrected the title templates for the 'tr' and 'de' languages, making them more accurate; now it will be easier for the users from these countries to find our website.",
+        "We have fixed a couple of bugs regarding the display of descriptions on the tool pages.",
+        "We have added descriptions for the Basic Latin block 'en'."
+    ]
+}

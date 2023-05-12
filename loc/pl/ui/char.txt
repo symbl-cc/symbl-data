@@ -9,7 +9,7 @@ unicode-name: Nazwa Unicode
 char-desc: Znaczenie symbolu
 emoji-desc: Znaczenie Emoji
 ideograph-desc: Znaczenie ideogramu
-unicode-number: Ilość Unicode
+unicode-number: Numer w Unicode
 html-code: Kod <span class="caps">HTML</span>
 css-code: CSS-kod
 uppercase: Wielkie
@@ -22,7 +22,7 @@ copy-code: Kliknij, aby skopiować
 copy_button: Kopiuj
 copy_done: Skopiowano!
 version: Wersja Unicode
-collections-with-this-symbol: Zestawy z tym symbolem
+collections-with-this-symbol: Wybory z tym symbolem
 empty-symbol: Znak nie jest zdefiniowany w Unicode
 image-not-defined: Obraz dla symbolu nie jest zdefiniowany
 emoji_group: Kategoria Emoji

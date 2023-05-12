@@ -17,11 +17,12 @@ collections: Fixé
 alphabet: Alphabet
 
 [empty]
-no_results: Aucun résultat trouvé pour "{query}" en français.
+no_results: Aucun résultat trouvé pour «{query}».
 language: Essayez de changer de {langue}.
 blocks: Explorez les {blocs Unicode}.
 collections: Regardez par Les {jeux} de caractères.
 table: Regardez à travers la {table de caractères} complète.
+change_query: Essayez de modifier la requête.
 
 [popular]
 title: Requêtes populaires

@@ -127,6 +127,7 @@ desc: Décore le surnom
 text: Texte
 nickname: Surnom
 example: Marie
+nickexamples: Exemples de surnoms
 
 [text-to-symbols]: Texte à partir de symboles
 h1: Texte à partir de symboles

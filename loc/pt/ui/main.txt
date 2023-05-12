@@ -13,14 +13,15 @@ old-version: Versão antiga
 
 [mainpage]: Página principal
 
-[collections]: Conjuntos
-collection: Conjunto
-list: Conjuntos
-title: Conjuntos de caracteres populares
+[collections]: Coleções
+collection: Coleções
+list: Coleções
+title: Coleções
 all: Ver tudo
 
 [blocks]: Blocos
 block: Blocos Unicode
+subblock: Sub-blocos Unicode
 list: Unicode
 by-range: Por intervalo
 by-alphabet: Alfabeticamente
@@ -32,8 +33,8 @@ list: Codificações
 [art]: Arte
 list: Arte ٩(｡•́‿•̀｡)۶
 
-[symbols]: Símbolo
-list: Símbolo
+[symbols]: Símbolos
+list: Símbolos
 
 [kaomoji]: Kaomoji
 list: Kaomoji
@@ -58,7 +59,7 @@ list: Tipos
 [html-entities]: Entidades HTML
 list: Entidades HTML
 
-[alt-codes]: Códigos ALT para Windows
+[alt-codes]: Códigos Alt para Windows
 list: Códigos Alt
 en: Layout do teclado em inglês
 

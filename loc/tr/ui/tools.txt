@@ -27,7 +27,7 @@ backed	: Ön metne dön
 [generator]	: Unicode karakter tablosu üreteci
 
 desc	: Belirtilen bir aralıkta bir karakter kümesi üretir
-range	: Menzil
+range	: Aralık
 format	: Biçim
 info	: Mevcut: {symbol}, {dec}, {hex}, {html}
 generate	: Üret
@@ -127,6 +127,7 @@ desc: Takma adı süslüyor
 text: Metin
 nickname: Takma ad
 example: Maria
+nickexamples: Takma ad örnekleri
 
 [text-to-symbols]: Sembollerden metin
 h1: Sembollerden metin
@@ -148,7 +149,7 @@ h1: Tipograf
 plain: Orjinal metin
 text: Metin
 html: HTML
-mnemonics: HTML Varlıkları
+mnemonics: HTML
 example:  - "Örnek..."
 result: Result
 first-level-quote: Birinci düzey tırnak işaretleri

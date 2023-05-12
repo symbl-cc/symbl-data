@@ -1,0 +1,11 @@
+{
+    "date": "27.04.2023",
+    "number": "3.0.11",
+    "title": "Improve Titles, content",
+    "description": [],
+    "list": [
+        "Adjusted the title templates for the 'pl' and 'pt' languages and made them more accurate. Now the users from these countries are more likely to find our website.",
+        "Updated the pages for missing search results and 404 errors. Fixed the problems with breadcrumb display on several pages and added a gradient to the side menu when coming to the end of content on collection pages, alphabets, etc.",
+        "Added descriptions for symbols 2128-2134 'en'. Removed the word “alphabet” from the names, so that the alphabets display more accurately. Renewed the Heart symbols collection and also added a new collection called “Bullet points symbols.”"
+    ]
+}

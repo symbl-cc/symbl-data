@@ -119,6 +119,7 @@ desc: 装饰一个昵称
 text: 文本
 nickname: 昵称
 example: Maria
+nickexamples: 昵称示例
 
 [text-to-symbols]: 来自符号的文本
 h1: 来自符号的文本

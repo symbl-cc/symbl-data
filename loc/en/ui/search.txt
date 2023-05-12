@@ -17,11 +17,12 @@ collections: Set
 alphabet: Alphabet
 
 [empty]
-no_results: No results found for "{query}" in English.
+no_results: No results found for “{query}”.
 language: Try to change {language}.
 blocks: Explore the {Unicode blocks}.
-collections: Look it up in {Collections}.
+collections: Look it up in {collections}.
 table: Look through the full {character table}.
+change_query: Try to change query.
 
 [popular]
 title: Popular queries

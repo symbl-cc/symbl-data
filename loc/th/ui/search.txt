@@ -17,11 +17,12 @@ collections: ตั้งค่า
 alphabet: ตัวอักษร
 
 [empty]
-no_results: ไม่พบผลลัพธ์สำหรับ "{query}" ในภาษาไทย
+no_results: ไม่พบผลลัพธ์สำหรับ «{query}».
 language: ลองเปลี่ยน{ภาษา}.
 blocks: สำรวจ{บล็อกUnicode}
 collections: มองมันเป็น{ชุด}.
 table: มองผ่าน{ตารางอักขระ}เต็ม
+change_query: พยายามเปลี่ยนคำถาม.
 
 [popular]
 title: แบบสอบถามยอดนิยม

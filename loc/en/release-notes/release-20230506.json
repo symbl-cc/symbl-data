@@ -1,0 +1,12 @@
+{
+    "date": "06.05.2023",
+    "number": "3.0.12",
+    "title": "New tool, titles improve and UX fixes",
+    "description": [],
+    "list": [
+        "Adjusted the title templates for symbol and Emoji pages in the following languages: tr, de, en, ru, es, pt, pl and made them more accurate. Now the users from these countries are more likely to find our website.",
+        "Added translations for interface elements in all languages. Fixed the error regarding symbols with no display, so they no longer appear in H1 and 'title'. Introduced new descriptions for symbols 214A-2149 'en'.",
+        "Fixed hover states for some collection badges and tools. Fixed the menu close button area on the mobile version of the website, so it no longer overlaps with the clicking area of the first point in the menu.",
+        "Added a new tool called 'Symbols on Telegram'."
+    ]
+}

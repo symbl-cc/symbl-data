@@ -21,6 +21,7 @@ all: Смотреть все
 
 [blocks]: Разделы Юникода
 block: Разделы Юникода
+subblock: Подразделы Юникода
 list: Юникод®
 by-range: По диапазону
 by-alphabet: По алфавиту
@@ -52,7 +53,7 @@ list: Типы
 [html-entities]: HTML-мнемоники
 list: HTML-мнемоники
 
-[alt-codes]: Таблица Alt-кодов для&nbsp;Windows
+[alt-codes]: Alt-коды для&nbsp;Windows
 list: Alt-коды
 en: Английская раскладка
 cur: Русская раскладка
