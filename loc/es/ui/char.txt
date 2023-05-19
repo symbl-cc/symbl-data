@@ -25,8 +25,8 @@ version: Versión Unicode
 collections-with-this-symbol: Conjuntos con este símbolo
 empty-symbol: Carácter no definido en Unicode
 image-not-defined: La imagen para el símbolo no está definida
-emoji_version: Categoría de emoji
-emoji_group: Versión de Emoji
+emoji_version: Versión de Emoji
+emoji_group: Categoría de emoji
 download: Descargar
 displaying: Mostrar símbolo
 symbol_not_displayed: ¿Por qué no se muestra el símbolo?
