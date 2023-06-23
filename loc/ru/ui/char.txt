@@ -26,7 +26,7 @@ copy_button: Скопировать
 copy_done: Скопировано!
 version: Версия Юникода
 emoji_version: Версия Эмоджи
-collections-with-this-symbol: Наборы с этим символом
+collections-with-this-symbol: Подборки с этим символом
 empty-symbol: Символ не определен в Юникоде
 image-not-defined: Изображение для символа не определено
 download: Cкачать
@@ -37,3 +37,5 @@ synonyms: Синонимы
 in-development: Находится в разработке
 show-more: Показать больше
 show-less: Показать меньше
+keyboard-shortcut: Сочетание клавиш
+escape-sequence: Escape-последовательность

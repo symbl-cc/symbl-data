@@ -32,6 +32,8 @@ empty-cell: Pusta komórka
 block-description: Opis
 more-information: Czytaj więcej
 back: Z powrotem
+widget-keyboard-title: Klawiatura symboli
+widget-keyboard-placeholder: Tutaj są wszystkie symbole, które kopiujesz ✨
 
 [mobile]
 to-full: Przejdź do pełnej wersji

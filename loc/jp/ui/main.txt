@@ -20,7 +20,7 @@ title: 人気のキャラクターセット
 all: すべてを見る
 
 [blocks]	: ブロック
-block: Unicodeブロック
+block: Unicode ブロック
 subblock: Unicode サブブロック
 blocks	: Unicodeのブロックと含まれる用字
 list: Unicode

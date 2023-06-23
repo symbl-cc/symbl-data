@@ -28,7 +28,9 @@ accept: 동의하기
 empty-cell: 빈 셀
 block-description: 설명
 more-information: 더 읽기
-back:
+back: 뒤쪽에
+widget-keyboard-title: 기호 키보드
+widget-keyboard-placeholder: 여기에 복사한 모든 기호가 표시됩니다 ✨
 
 [mobile]
 to-full: 정식 버전으로 이동

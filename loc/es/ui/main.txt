@@ -20,8 +20,8 @@ title: Conjuntos de caracteres populares
 all: Ver todo
 
 [blocks]: Bloques
-block: Unicode bloques
-subblock: Subbloques de Unicode
+block: Bloque Unicode
+subblock: Subbloque Unicode
 blocks: Lista de Secciones Unicode
 list: Unicode
 by-range: Por gama

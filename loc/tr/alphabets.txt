@@ -1,265 +1,265 @@
-arab	: Arap alfabesi
+arab	: Arap
 	
-armenian	: Ermeni alfabesi
+armenian	: Ermeni
 	
-avestan	: Avestan alfabesi
+avestan	: Avestan
 	
-balinese	: Bali alfabesi
+balinese	: Bali
 	
-bamum	: Bamum alfabesi
+bamum	: Bamum
 	
-bashkir	: Başkurt alfabesi
+bashkir	: Başkurt
 	
-bassa-vah	: Bassa-vah alfabesi
+bassa-vah	: Bassa-vah
 	
-batak	: Batak alfabe
+batak	: Batak
 	
-belarusian	: Belarus alfabesi
+belarusian	: Belarus
 	
-bengali	: Bengalce alfabe
+bengali	: Bengalce
 	
-bopomofo	: Bopomofo alfabesi. Zhuyin
+bopomofo	: Bopomofo. Zhuyin
 	
-brahmi	: Brahmi alfabesi
+brahmi	: Brahmi
 	
-buginese	: Bugince alfabe
+buginese	: Bugince
 	
-buhid	: Buhid alfabesi
+buhid	: Buhid
 	
-bulgarian	: Bulgar alfabesi
+bulgarian	: Bulgar
 	
-carian	: Karia alfabesi
+carian	: Karia
 	
-caucasian-albanian	: Kafkas arnavut alfabesi
+caucasian-albanian	: Kafkas arnavut
 	
-chakma	: Çakma alfabesi
+chakma	: Çakma
 	
-cham	: Cham alfabesi
+cham	: Cham
 	
-cherokee	: Cherokee alfabesi
+cherokee	: Cherokee
 	
-chinese	: Çince pinyin alfabesi
+chinese	: Çince pinyin
 	
-coptic	: Kıpti alfabe
+coptic	: Kıpti
 	
 cypriot-syllabary	: Kıbrıs heceli
 	
-cyrillic	: Kiril alfabesi
+cyrillic	: Kiril
 	
-czech	: Çek alfabesi
+czech	: Çek
 	
-deseret	: Deseret alfabesi
+deseret	: Deseret
 	
-devanagari	: Devanagari alfabesi
+devanagari	: Devanagari
 	
-elbasan	: Elbasan alfabesi
+elbasan	: Elbasan
 	
-english	: ingilizce alfabe
+english	: Ingilizce
 	
-esperanto	: Esperanto alfabesi
+esperanto	: Esperanto
 	
-ethiopic	: Etiyopyalı Ge'ez alfabesi
+ethiopic	: Etiyopyalı Ge'ez
 	
-french	: Fransız alfabesi
+french	: Fransız
 	
-georgian	: Gürcüce alfabe
+georgian	: Gürcüce
 	
-german	: Alman alfabesi
+german	: Alman
 	
-glagolitic	: Glokalitik alfabe
+glagolitic	: Glokalitik
 	
-gothic	: Gotik alfabe
+gothic	: Gotik
 	
-grantha	: Grantha alfabesi
+grantha	: Grantha
 	
-greek	: Yunan alfabesi
+greek	: Yunan
 	
-gujarati	: Gujarati alfabesi
+gujarati	: Gujarati
 	
-gurmukhi	: Gurmukhi alfabesi
+gurmukhi	: Gurmukhi
 	
-hangul	: Hangul alfabesi
+hangul	: Hangul
 	
-hanunoo	: Hanunoo alfabesi
+hanunoo	: Hanunoo
 	
-hebrew	: İbranice alfabe
+hebrew	: İbranice
 	
-hungarian	: Macarca alfabe
+hungarian	: Macarca
 	
-imperial-aramaic	: İmparator Aramic alfabesi
+imperial-aramaic	: İmparator Aramic
 	
-international-phonetic-alphabet	: Uluslararası fonetik alfabe
+international-phonetic-alphabet	: Uluslararası fonetik
 	
-italian	: İtalyan alfabesi
+italian	: İtalyan
 	
-japanese-hiragana	: Japon hiragana alfabesi
+japanese-hiragana	: Japon hiragana
 	
-japanese-katakana	: Japon katakana alfabesi
+japanese-katakana	: Japon katakana
 	
-javanese	: Cava alfabesi
+javanese	: Cava
 	
-kaithi	: Kaithi alfabesi
+kaithi	: Kaithi
 	
-kannada	: Kannada alfabesi
+kannada	: Kannada
 	
-kayah-li	: Kayah li alfabesi
+kayah-li	: Kayah li
 	
-kazakh	: Kazak alfabesi
+kazakh	: Kazak
 	
-kharoshthi	: Kharoshthi alfabesi
+kharoshthi	: Kharoshthi
 	
-khmer	: Kmer alfabesi
+khmer	: Kmer
 	
-khojki	: Khojki alfabesi
+khojki	: Khojki
 	
-khudawadi	: Kudwadi alfabesi
+khudawadi	: Kudwadi
 	
-lao	: Lao alfabesi
+lao	: Lao
 	
-latin	: Latin alfabesi
+latin	: Latin
 	
-lepcha	: Lepcha alfabe
+lepcha	: Lepcha
 	
-limbu	: Limbu alfabesi
+limbu	: Limbu
 	
 linear-b-Syllabary	: Doğrusal B hece
 	
-lisu	: Lisu alfabesi
+lisu	: Lisu
 	
-lycian	: Likya alfabesi
+lycian	: Likya
 	
-lydian	: Lydia alfabesi
+lydian	: Lydia
 	
-nabataean	: Nabataean alfabesi
+nabataean	: Nabataean
 	
-mahajani	: Mahajani alfabesi
+mahajani	: Mahajani
 	
-malayalam	: Malayalam alfabesi
+malayalam	: Malayalam
 	
-mandaic	: Mandal alfabesi
+mandaic	: Mandal
 	
-manichaean	: Maniheae alfabesi
+manichaean	: Maniheae
 	
-meetei-mayek	: Meetei mayek alfabesi
+meetei-mayek	: Meetei mayek
 	
-mende-kikakui	: Mende kikakui alfabesi
+mende-kikakui	: Mende kikakui
 	
-meroitic-cursive	: Meroitik parmakla alfabe
+meroitic-cursive	: Meroitik parmakla
 	
-modi	: Mod alfabesi
+modi	: Mod
 	
-mongolian	: Moğolca alfabe
+mongolian	: Moğolca
 	
-mro	: Mro alfabesi
+mro	: Mro
 	
-myanmar	: Myanmar alfabesi
+myanmar	: Myanmar
 	
-new-tai-lue	: Yeni tai lue alfabesi
+new-tai-lue	: Yeni tai lue
 	
-nko	: Nko alfabesi
+nko	: Nko
 	
-ogham	: Ngham alfabesi
+ogham	: Ngham
 	
-ol-chiki	: Ol chiki alfabesi
+ol-chiki	: Ol chiki
 	
-old-italic	: Eski italik etruscan alfabesi
+old-italic	: Eski italik etruscan
 	
-old-north-arabian	: Eski kuzey arabian alfabesi
+old-north-arabian	: Eski kuzey arabian
 	
-old-permic	: Eski permik alfabe
+old-permic	: Eski permik
 	
-old-persian	: Eski persian alfabesi
+old-persian	: Eski persian
 	
-old-south-arabian	: Eski güney arabian alfabesi
+old-south-arabian	: Eski güney arabian
 	
-old-turkic	: Eski türk rik alfabesi
+old-turkic	: Eski türk rik
 	
-oriya	: Oriya alfabesi
+oriya	: Oriya
 	
-osmanya	: Osmanya alfabesi
+osmanya	: Osmanya
 	
-pahawh-hmong	: Alfabe harfi harf
+pahawh-hmong	: Harfi harf
 	
-pahlavi	: Pehlevi alfabe
+pahlavi	: Pehlevi
 	
-palmyrene	: Palmyrene alfabesi
+palmyrene	: Palmyrene
 	
-pau-cin-hau	: Pau cin hau alfabe
+pau-cin-hau	: Pau cin hau
 	
-phags-pa	: Phags-pa alfabe
+phags-pa	: Phags-pa
 	
-phoenician	: Fenike alfabesi
+phoenician	: Fenike
 	
-polish	: Lehçe alfabe
+polish	: Lehçe
 	
-pollard	: Pollard alfabesi
+pollard	: Pollard
 	
-rejang	: Alfabe rejangını rejang
+rejang	: Rejangını rejang
 	
-runic	: Akik alfabesi
+runic	: Akik
 	
-russian	: Rus alfabesi
+russian	: Rus
 	
-samaritan	: Samaritan alfabesi
+samaritan	: Samaritan
 	
-saurashtra	: Saurashtra alfabesi
+saurashtra	: Saurashtra
 	
-sharada	: Sharada alfabesi
+sharada	: Sharada
 	
-shavian	: Şiav alfabesi
+shavian	: Şiav
 	
-siddham	: Siddham alfabesi
+siddham	: Siddham
 	
-sinhala	: Sinhala alfabesi
+sinhala	: Sinhala
 	
-sora-sompeng	: Sora sampeng alfabesi
+sora-sompeng	: Sora sampeng
 	
-spanish	: İspanyol alfabesi
+spanish	: İspanyol
 	
-sundanese	: Sunda Dili alfabe
+sundanese	: Sunda Dili
 	
-syloti-nagri	: Syloti nagri alfabesi
+syloti-nagri	: Syloti nagri
 	
-syriac	: Süryanice alfabe
+syriac	: Süryanice
 	
-tagalog	: Tagalog alfabesi
+tagalog	: Tagalog
 	
-tagbanwa	: Tagbanwa alfabesi
+tagbanwa	: Tagbanwa
 	
-tai-le	: Tai le alfabe
+tai-le	: Tai le
 	
-tai-tham	: Tai tham alfabe
+tai-tham	: Tai tham
 	
-tai-viet	: Tai viet alfabesi
+tai-viet	: Tai viet
 	
-takri	: Takri alfabesi
+takri	: Takri
 	
-tamil	: Tamil alfabesi
+tamil	: Tamil
 	
-tatar	: Tatar alfabesi
+tatar	: Tatar
 	
-telugu	: Telugu alfabesi
+telugu	: Telugu
 	
-thaana	: Thaana alfabesi
+thaana	: Thaana
 	
-thai	: Taylandlı alfabe
+thai	: Taylandlı
 	
-tibetan	: Tibet alfabesi
+tibetan	: Tibet
 	
-tifinagh	: Tifinagh alfabesi
+tifinagh	: Tifinagh
 	
-tirhuta	: Tirhuta alfabesi
+tirhuta	: Tirhuta
 	
-turkish	: Türkçe alfabe
+turkish	: Türkçe
 	
-ugaritic	: Ugarit alfabe
+ugaritic	: Ugarit
 	
-ukrainian	: Ukraynaca alfabesi
+ukrainian	: Ukraynaca
 	
 unified-canadian-aboriginal-syllabics	: Birleşik kanada aborijin heceli
 	
 vai	: Vai heceli
 	
-varang-kshiti	: Varang kshiti alfabesi
+varang-kshiti	: Varang kshiti
 	
 yi-syllables	: Yi heceli 

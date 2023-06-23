@@ -1,1 +1,5 @@
-The [b]hyphen symbol[/b] is not a punctuation character. In Russian, it is always part of the word, so it refers to spelling. The word hyphen came from the Latin divisio - division. Unicode has several hyphen characters. The minus differs in length and height in the line (at least, however, the font should solve everything). A non-breaking hyphen symbol does not allow anyone to break a string at this point.
+The [b]Hyphen-Minus symbol[/b] is not a punctuation character. It is typically used both as a hyphen to connect words and as a minus sign in mathematical expressions or numerical ranges. 
+
+The word "hyphen" is derived from the Latin word "hyphen," which in turn comes from the Greek word "huphen," meaning "together". 
+
+Unicode has several hyphen characters. The hyphen symbol [U:2010] differs in terms of width (it is bolder). The Hyphen Bullet [U:2043] looks even bigger, and it's primarily used as a bullet point or list marker.

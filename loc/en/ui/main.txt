@@ -21,7 +21,7 @@ all: See all
 
 [blocks]: Blocks
 block: Unicode Blocks
-subblock: Unicode Sub Blocks
+subblock: Unicode Subblock
 list: Unicode®
 by-range: By Range
 by-alphabet: Alphabetically

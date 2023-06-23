@@ -1,0 +1,13 @@
+{
+    "date": "08.06.2023",
+    "number": "3.0.16",
+    "title": "Content and some fixes",
+    "description": [],
+    "list": [
+        "Added 'en' and 'es' descriptions for the following tools: 'Unicode Character Table Generator', 'Unicode Decoder', 'Text Converter to Gothic Style', 'Emoji Keyboard', 'Symbols on Telegram'.",
+        "Added title translations for holidays in all languages.",
+        "Added 'en' and 'es' descriptions for the collection “bullet point symbols”.",
+        "Fixed the problem regarding the display of descriptions in Kaomoji subblock."
+        
+    ]
+}

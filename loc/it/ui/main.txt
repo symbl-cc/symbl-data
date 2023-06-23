@@ -20,8 +20,8 @@ title: Set di caratteri popolari
 all: Vedi tutto
 
 [blocks]	: Blocchi
-block	: Blocchi Unicode
-subblock: Sotto-blocchi Unicode
+block	: Blocco Unicode
+subblock: Sotto-blocco Unicode
 list	: Unicode
 by-range: Per gamma
 by-alphabet: In ordine alfabetico

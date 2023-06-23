@@ -1,33 +1,46 @@
-winter-olympic-games: Winter Olympic Games
-summer-olympic-games: Summer Olympic Games 2020
-fifa-world-cup: FIFA World Cup
 new-year: New Year
+new-year-ru: New Year in Russia
+fifa-world-cup: FIFA World Cup
+chinese-new-year: Chinese New Year
 valentine-day: Valentine's Day
+23-february: Defender of the Fatherland Day in Russia
+maslenica: Shrovetide - the Slavic holiday of the beginning of spring
 8-march: International Women's Day
-saint-patricks-day: Saint Patrick's Day
-april-fools-day: April Fools' Day
+saint-patricks-day: St.Patrick 's Day
+holi: Holi - festival of colors in India
+april-fools-day: Fool's Day
 cosmonautics-day: Cosmonautics Day
-easter-catolic: Easter
-1-may: International Workers' Day
-cinco-de-mayo: Cinco de Mayo
-victory-day: Victory Day
-eid-al-fitr: Eid al-Fitr
-uefa-champions-league: UEFA Champions League
+easter-catolic: Easter Catholic
+easter-orthodox: Easter Orthodox
+1-may: Feast of Spring and Labor in Russia
+cinco-de-mayo: Chinko de Mayo
+victory-day: Victory Day in Russia
+uefa-champions-league: Champions League UEFA
 international-childrens-day: International Children's Day
-queens-official-birthday: Queen's Official Birthday
-independence-day: Independence Day (United States)
-international-chess-day: International Chess Day
-birthday-of-the-smiley: Birthday of the smiley
-oktoberfest: Oktoberfest
-halloween: Halloween
-guy-fawkes-night: Guy Fawkes Night
-thanksgiving: Thanksgiving day
-hanukkah: Hanukkah
-black-friday: Black Friday
-christmas: Christmas
-23-february: Defender of the Fatherland Day
+eid-al-fitr: Kurban Bayram
+dragon-boat-festival: Dragon Boat Festival
+queens-official-birthday: Queen's official birthday in the UK
+graduation: High school graduation
+independence-day: Independence Day in the USA
 uefa-european-championship: UEFA European Championship
-day-of-the-dead: Day of the Dead
+international-chess-day: International Chess Day
+bastille-day: Bastille Day
+navy-day: Navy Day in Russia
+den-vdv: Day of the Airborne Forces in Russia
+knowledge-day: Knowledge Day in Russia
+birthday-of-the-smiley: Smiley's birthday
+oktoberfest: Octoberfest
+diwali: Dili
+halloween: Halloween
+day-of-the-dead: The day of the Dead
+guy-fawkes-night: Guy Fox Night
+thanksgiving: Thanksgiving Day in USA
+black-friday: Black Friday
+hanukkah: Hanukkah
+christmas: Christmas
+summer-olympic-games: Summer Olympic Games
+winter-olympic-games: Winter Olympic Games
+
 
 new-year-date: Today, January 1
 winter-olympic-games-date: Today, February 4
@@ -43,7 +56,7 @@ victory-day-date: Today, May 9
 uefa-champions-league-date: Today, May 28
 international-childrens-day-date: Today, June 1
 queens-official-birthday-date: Today, June 10
-independence-day: Today, July 4
+independence-day-date: Today, July 4
 international-chess-day-date: Today, July 20
 birthday-of-the-smiley-date: Today, September 19
 oktoberfest-date: Today, September 19

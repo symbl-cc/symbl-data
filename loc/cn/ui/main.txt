@@ -21,7 +21,7 @@ all: 看到所有
 
 [blocks]: 块
 # @todo block
-block: Unicode块
+block: Unicode 块
 subblock: Unicode 子块
 blocks: Unicode區段與包含的文字
 list: 块

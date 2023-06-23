@@ -1,0 +1,10 @@
+{
+    "date": "01.06.2023",
+    "number": "3.0.15",
+    "title": "Content and some fixes",
+    "description": [],
+    "list": [
+        "Fixed the display of holiday titles in various languages, since some of the titles used to show up as English, though the language was different.",
+        "Added descriptions for Letterlike symbols 213E-214F 'es'."
+    ]
+}

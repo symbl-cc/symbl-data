@@ -260,7 +260,7 @@
 09E6-09EF: Dígitos
 09F0-09F1: Adiciones para Assamese
 09F2-09F3: Símbolos de moneda
-09F4-09F9: Símbolos históricos para valores fraccionarios.
+09F4-09F9: Símbolos históricos para valores fraccionarios
 09FA-09FA: Firmar
 09FB-09FB: Signo de moneda histórica
 09FC-09FE: Señales
@@ -531,7 +531,7 @@
 17DB-17DB: Símbolo de moneda
 17DC-17DD: Varios signos
 17E0-17E9: Dígitos
-17F0-17F9: Símbolos numéricos para la adivinación.
+17F0-17F9: Símbolos numéricos para la adivinación
 1800-180A: Puntuación
 180B-180F: Controles de formato
 1810-1819: Dígitos
@@ -597,7 +597,7 @@
 1B50-1B59: Dígitos
 1B5A-1B60: Puntuación
 1B61-1B6A: Símbolos musicales para notas
-1B6B-1B73: Marcas diacríticas para símbolos musicales.
+1B6B-1B73: Marcas diacríticas para símbolos musicales
 1B74-1B7C: Símbolos musicales
 1B7D-1B7E: Puntuación
 1B80-1B82: Varios signos
@@ -680,7 +680,7 @@
 1DFE-1DFF: Marcas adicionales para UPA
 1E00-1E9B: Extensiones latinas de uso general
 1E9C-1E9D: Adiciones medievalistas
-1E9E-1E9E: Adición de la tipografía alemana.
+1E9E-1E9E: Adición de la tipografía alemana
 1E9F-1E9F: Además medievalista
 1EA0-1EF1: Extensiones latinas para vietnamitas
 1EF2-1EF9: Extensiones generales latinas
@@ -801,7 +801,7 @@
 237C-237C: Técnicos diversos
 237D-237F: Gráficos para códigos de control
 2380-238C: Símbolos de teclado de ISO 9995-7
-238D-2394: Símbolos electrotécnicos del IR 181.
+238D-2394: Símbolos electrotécnicos del IR 181
 2395-2395: APL
 2396-239A: Símbolos de teclado de ISO 9995-7
 239B-23AD: Piezas de soporte
@@ -825,9 +825,9 @@
 23FB-23FD: 
 23FE-23FE: Símbolo de poder de IEEE 1621-2004
 23FF-23FF: Símbolo misceláneo
-2400-2421: Imágenes gráficas para los códigos de control.
+2400-2421: Imágenes gráficas para los códigos de control
 2422-2423: Símbolos específicos para el espacio
-2424-2424: Imagen gráfica para el código de control.
+2424-2424: Imagen gráfica para el código de control
 2425-2425: Símbolo del teclado
 2426-2426: Símbolo específico para el código de control
 2440-2445: OCR-A
@@ -844,10 +844,10 @@
 24FF-24FF: Número adicional con un círculo blanco sobre negro
 2500-2503: Líneas continuas ligeras y pesadas
 2504-250B: Líneas discontinuas ligeras y pesadas
-250C-254B: Componentes de caja de línea ligera y pesada.
+250C-254B: Componentes de caja de línea ligera y pesada
 254C-254F: Líneas discontinuas ligeras y pesadas
 2550-2551: Lineas dobles
-2552-256C: Componentes de caja ligera y de doble línea.
+2552-256C: Componentes de caja ligera y de doble línea
 256D-2570: Arcos de celdas de caracteres
 2571-2573: Diagonales de celdas de caracteres
 2574-257B: Medias líneas ligeras y pesadas
@@ -859,7 +859,7 @@
 25A0-25EF: Formas geométricas
 25F0-25F7: Gráficos de código de control
 25F8-25FF: Formas geométricas
-2600-260D: Símbolos meteorológicos y astrológicos.
+2600-260D: Símbolos meteorológicos y astrológicos
 260E-2613: Símbolos varios
 2614-2614: Símbolo del tiempo
 2615-2615: Símbolo misceláneo
@@ -911,7 +911,7 @@
 2719-2720: Cruces
 2721-273D: Estrellas y asteriscos
 273E-2741: Fleurons
-2742-274B: Estrellas, asteriscos y copos de nieve.
+2742-274B: Estrellas, asteriscos y copos de nieve
 274C-275A: Diverso
 275B-2765: Adornos de signos de puntuación
 2766-2767: Fleurons
@@ -973,7 +973,7 @@
 29F8-29F9: Grandes operadores
 29FA-29FB: Operadores de signos más especializados
 29FC-29FD: Soportes
-29FE-29FF: Símbolos utilizados en la teoría de juegos.
+29FE-29FF: Símbolos utilizados en la teoría de juegos
 2A00-2A09: Operadores N-aria
 2A0A-2A1C: Sumas e integrales
 2A1D-2A21: Grandes operadores diversos
@@ -1030,12 +1030,12 @@
 2BCA-2BCB: Semicírculos
 2BCC-2BCF: Formas cúspides
 2BD0-2BD2: Símbolos varios
-2BD3-2BD6: Símbolos astrológicos para Plutón.
+2BD3-2BD6: Símbolos astrológicos para Plutón
 2BD7-2BDF: Símbolos astrológicos diversos
 2BE0-2BE7: Símbolos astrológicos de uranio
 2BE8-2BEB: Personajes de media estrella
 2BEC-2BEF: Símbolos de flecha de dos puntas
-2BF0-2BF2: Símbolos astrológicos para Eris y Sedna.
+2BF0-2BF2: Símbolos astrológicos para Eris y Sedna
 2BF3-2BF8: Aspectos astrológicos rusos
 2BF9-2BFE: Símbolos usados ​​en notación de ajedrez
 2BFF-2BFF: Símbolo misceláneo
@@ -1361,7 +1361,7 @@ FA70-FAD9: Ideógrafos de compatibilidad con RPDC
 FB00-FB06: Ligaduras latinas
 FB13-FB17: Ligaduras armenias
 FB1D-FB4F: Formularios de presentación en hebreo
-FB50-FBB1: Glifos para formas contextuales de letras para persa, urdu, sindhi, etc.
+FB50-FBB1: Glifos para formas contextuales de letras para persa, urdu, sindhi
 FBB2-FBC2: Símbolos pedagógicos árabes
 FBD3-FBE9: Glifos para formas contextuales de letras para lenguas de Asia Central
 FBEA-FD3D: Ligaduras (dos elementos)
@@ -1388,7 +1388,7 @@ FE50-FE6B: Variantes de forma pequeña
 FE70-FE72: Glifos para espaciar formas de puntos árabes
 FE73-FE73: Parte del glifo
 FE74-FE7F: Glifos para espaciar formas de puntos árabes
-FE80-FEFC: Glifos básicos para las formas contextuales del idioma árabe.
+FE80-FEFC: Glifos básicos para las formas contextuales del idioma árabe
 FEFF-FEFF: Especial
 FF01-FF5E: Variantes ASCII de ancho completo
 FF5F-FF60: Soportes de ancho completo
@@ -1542,7 +1542,7 @@ FFFE-FFFF: No personajes
 10E80-10EA9: Letras
 10EAB-10EAC: Combinando marcas
 10EAD-10EAD: Puntuación
-10EB0-10EB1: Cartas históricas con signos diacríticos.
+10EB0-10EB1: Cartas históricas con signos diacríticos
 10EFD-10EFF: Marcas coránicas utilizadas en Turquía
 10F00-10F1C: Letras
 10F1D-10F26: Números
@@ -1805,7 +1805,7 @@ FFFE-FFFF: No personajes
 11FC0-11FD4: Fracciones
 11FD5-11FDC: Medidas de grano
 11FDD-11FE0: Viejos símbolos de moneda
-11FE1-11FE3: Símbolos de peso, longitud y área.
+11FE1-11FE3: Símbolos de peso, longitud y área
 11FE4-11FE7: Símbolos agricolas
 11FE8-11FED: Símbolos clericales
 11FEE-11FF1: Otros símbolos y abreviaturas
@@ -1822,33 +1822,33 @@ FFFE-FFFF: No personajes
 12480-12543: Señales
 12F90-12FF0: Signos
 12FF1-12FF2: Puntuación
-13000-1304F: A. El hombre y sus ocupaciones.
-13050-13059: B. La mujer y sus ocupaciones.
+13000-1304F: A. El hombre y sus ocupaciones
+13050-13059: B. La mujer y sus ocupaciones
 1305A-13075: C. Deidades antropomórficas
-13076-130D1: D. Partes del cuerpo humano.
-130D2-130FD: E. mamíferos
+13076-130D1: D. Partes del cuerpo humano
+130D2-130FD: E. Mamíferos
 130FE-1313E: F. Partes de mamíferos
-1313F-1317E: G. pájaros
+1313F-1317E: G. Pájaros
 1317F-13187: H. Partes de pájaros
-13188-1319A: I. Animales anfibios, reptiles, etc.
-1319B-131A2: K. Peces y partes de peces.
+13188-1319A: I. Animales anfibios, reptiles
+1319B-131A2: K. Peces y partes de peces
 131A3-131AC: L. Invertabrata y animales menores
 131AD-131EE: M. árboles y plantas
 131EF-1321F: N. cielo, tierra, agua
 13220-13235: NL. Nomos del Bajo Egipto
 13236-1324F: NU. Nomos del Alto Egipto
-13250-1329A: O. Edificios, partes de edificios, etc.
-1329B-132A7: P. Barcos y partes de barcos.
-132A8-132AE: Q. Muebles domésticos y funerarios.
-132AF-132D0: R. Muebles del templo y emblemas sagrados.
-132D1-13306: S. Coronas, vestidos, pentagramas, etc.
-13307-13332: T. Guerra, caza, carnicería.
-13333-13361: U. Agricultura, artesanía y profesiones.
-13362-133AE: V. Cuerda, fibra, cestas, bolsas, etc.
+13250-1329A: O. Edificios, partes de edificios
+1329B-132A7: P. Barcos y partes de barcos
+132A8-132AE: Q. Muebles domésticos y funerarios
+132AF-132D0: R. Muebles del templo y emblemas sagrados
+132D1-13306: S. Coronas, vestidos, pentagramas
+13307-13332: T. Guerra, caza, carnicería
+13333-13361: U. Agricultura, artesanía y profesiones
+13362-133AE: V. Cuerda, fibra, cestas, bolsas
 133AF-133CE: W. Recipientes de piedra y loza
 133CF-133DA: X. Panes y pasteles
-133DB-133E3: Y. Escritos, juegos, música.
-133E4-1340C: Z. Trazos, signos derivados de figuras geométricas hieráticas.
+133DB-133E3: Y. Escritos, juegos, música
+133E4-1340C: Z. Trazos, signos derivados de figuras geométricas hieráticas
 1340D-1342E: Aa. Desclasificado
 1342F-1342F: Adición al grupo V
 13430-13431: Uniones
@@ -1860,23 +1860,23 @@ FFFE-FFFF: No personajes
 13440-13440: Controles de reflejo
 13441-13446: Signos blancos y perdidos
 13447-13455: Modificadores de daño
-14400-14469: A. El cuerpo humano y la ropa.
-1446A-144AF: B. animales
-144B0-144D0: C. plantas
-144D1-14501: D. naturaleza
-14502-1452F: E. edificios
-14530-14576: F. Brazos, herramientas, muebles y otros instrumentos.
+14400-14469: A. El cuerpo humano y la ropa
+1446A-144AF: B. Animales
+144B0-144D0: C. Plantas
+144D1-14501: D. Naturaleza
+14502-1452F: E. Edificios
+14530-14576: F. Brazos, herramientas, muebles y otros instrumentos
 14577-14595: G. Jarrones y recipientes
 14596-145AC: H. Símbolos
-145AD-145E5: J. Líneas, números y formas geométricas.
+145AD-145E5: J. Líneas, números y formas geométricas
 145E6-14628: K. Varia
 14629-14646: M. Signos adicionales
-16800-16856: Personajes encontrados en la Fase A
-16857-1688E: Personajes encontrados en la Fase B
-1688F-168F0: Personajes encontrados a través de la Fase C
-168F1-16965: Personajes encontrados a través de la Fase D
-16966-16A02: Personajes encontrados a través de la Fase E
-16A03-16A38: Personajes encontrados en la Fase F
+16800-16856: Caracteres encontrados en la Fase A
+16857-1688E: Caracteres encontrados en la Fase B
+1688F-168F0: Caracteres encontrados a través de la Fase C
+168F1-16965: Caracteres encontrados a través de la Fase D
+16966-16A02: Caracteres encontrados a través de la Fase E
+16A03-16A38: Caracteres encontrados en la Fase F
 16A40-16A5E: Letras
 16A60-16A69: Dígitos
 16A6E-16A6F: Puntuación
@@ -1963,21 +1963,21 @@ FFFE-FFFF: No personajes
 1B132-1B152: Letras pequeñas históricas de Hiragana
 1B155-1B167: Letras pequeñas históricas de Katakana
 1B170-1B170: Carácter de un solo golpe
-1B171-1B177: Personajes de dos tiempos
-1B178-1B18A: Personajes de tres tiempos
-1B18B-1B1A7: Personajes de cuatro tiempos
-1B1A8-1B1DD: Personajes de cinco tiempos
-1B1DE-1B215: Personajes de seis tiempos
-1B216-1B243: Personajes de siete tiempos
-1B244-1B283: Personajes de ocho trazos
+1B171-1B177: Caracteres de dos tiempos
+1B178-1B18A: Caracteres de tres tiempos
+1B18B-1B1A7: Caracteres de cuatro tiempos
+1B1A8-1B1DD: Caracteres de cinco tiempos
+1B1DE-1B215: Caracteres de seis tiempos
+1B216-1B243: Caracteres de siete tiempos
+1B244-1B283: Caracteres de ocho trazos
 1B284-1B2AF: Caracteres de nueve trazos
-1B2B0-1B2CD: Personajes de diez trazos
-1B2CE-1B2E0: Personajes de once golpes
-1B2E1-1B2ED: Personajes de doce tiempos
-1B2EE-1B2F3: Personajes de trece trazos
+1B2B0-1B2CD: Caracteres de diez trazos
+1B2CE-1B2E0: Caracteres de once golpes
+1B2E1-1B2ED: Caracteres de doce tiempos
+1B2EE-1B2F3: Caracteres de trece trazos
 1B2F4-1B2F6: Caracteres de catorce trazos
-1B2F7-1B2F9: Personajes de quince tiempos
-1B2FA-1B2FB: Personajes de dieciséis trazos
+1B2F7-1B2F9: Caracteres de quince tiempos
+1B2FA-1B2FB: Caracteres de dieciséis trazos
 1BC00-1BC01: Consonantes que no se unen
 1BC02-1BC18: Consonantes de línea
 1BC19-1BC31: Consonantes de arco
@@ -2102,16 +2102,16 @@ FFFE-FFFF: No personajes
 1D800-1D80D: Formas de mano con dedo índice
 1D80E-1D81D: Formas de mano con dedos índice y medio
 1D81E-1D843: Formas de mano con índice y dedo medio y pulgar
-1D844-1D84B: Formas de mano con cuatro dedos.
-1D84C-1D885: Formas de manos con cinco dedos.
+1D844-1D84B: Formas de mano con cuatro dedos
+1D84C-1D885: Formas de manos con cinco dedos
 1D886-1D8A3: Formas de mano con dedo meñique
 1D8A4-1D8B9: Formas de mano con dedo anular
 1D8BA-1D8CC: Formas de mano con dedo medio
 1D8CD-1D8F4: Formas de mano con dedo índice y pulgar
 1D8F5-1D904: Formas de mano con pulgar
 1D905-1D915: Indicadores de movimiento de contacto
-1D916-1D929: Indicadores de movimiento de los dedos.
-1D92A-1D9F4: Indicadores de movimiento.
+1D916-1D929: Indicadores de movimiento de los dedos
+1D92A-1D9F4: Indicadores de movimiento
 1D9F5-1D9FE: Indicadores dinamicos
 1D9FF-1DA6C: Formas de la cabeza
 1DA6D-1DA7E: Formas del cuerpo
@@ -2272,7 +2272,7 @@ FFFE-FFFF: No personajes
 1F240-1F248: Ideógrafos con soportes de carey de ARIB STD B24
 1F250-1F251: Ideografías circulares
 1F260-1F265: Símbolos para la religión popular china
-1F300-1F30C: Símbolos meteorológicos, del paisaje y del cielo.
+1F300-1F30C: Símbolos meteorológicos, del paisaje y del cielo
 1F30D-1F310: Símbolos de globo
 1F311-1F320: Símbolos luna, sol y estrella
 1F321-1F32C: Símbolos meteorológicos
@@ -2282,7 +2282,7 @@ FFFE-FFFF: No personajes
 1F354-1F374: Símbolos de comida
 1F375-1F37C: Símbolos de bebidas
 1F37D-1F37D: Símbolo de alojamiento
-1F37E-1F37F: Símbolos de bebidas y alimentos.
+1F37E-1F37F: Símbolos de bebidas y alimentos
 1F380-1F397: Símbolos de celebración
 1F398-1F39D: Símbolos musicales
 1F39E-1F3AD: Símbolos de entretenimiento
@@ -2318,7 +2318,7 @@ FFFE-FFFF: No personajes
 1F4FF-1F4FF: Símbolo religioso
 1F500-1F518: Símbolos de interfaz de usuario
 1F519-1F51D: Palabras con flechas
-1F51E-1F51F: Símbolos alfanuméricos adjuntos.
+1F51E-1F51F: Símbolos alfanuméricos adjuntos
 1F520-1F524: Símbolos de estado de entrada de la interfaz de usuario
 1F525-1F52E: Símbolos de herramientas
 1F52F-1F531: Símbolos varios
@@ -2358,9 +2358,9 @@ FFFE-FFFF: No personajes
 1F67E-1F67F: Símbolos varios
 1F680-1F6A4: Vehículos
 1F6A5-1F6A8: Señales de tráfico
-1F6A9-1F6CA: Señalización y otros símbolos.
+1F6A9-1F6CA: Señalización y otros símbolos
 1F6CB-1F6CF: Símbolos de alojamiento
-1F6D0-1F6D2: Señalización y otros símbolos.
+1F6D0-1F6D2: Señalización y otros símbolos
 1F6D3-1F6D7: Símbolos del mapa
 1F6DC-1F6E4: Simbolos misceláneos
 1F6E5-1F6FC: Vehículos
@@ -2368,12 +2368,12 @@ FFFE-FFFF: No personajes
 1F705-1F70C: Símbolos para solventes importantes
 1F70D-1F713: Símbolos de azufre y mercurio
 1F714-1F719: Símbolos para sal, vitriolo y nitro
-1F71A-1F71B: Símbolos de oro y plata.
-1F71C-1F71F: Símbolos para hierro, mineral de hierro y derivados.
-1F720-1F728: Símbolos para cobre, mineral de cobre y derivados.
+1F71A-1F71B: Símbolos de oro y plata
+1F71C-1F71F: Símbolos para hierro, mineral de hierro y derivados
+1F720-1F728: Símbolos para cobre, mineral de cobre y derivados
 1F729-1F72A: Símbolos para el mineral de estaño y plomo
-1F72B-1F735: Símbolos de antimonio, mineral de antimonio y derivados.
-1F736-1F75D: Símbolos para otras sustancias.
+1F72B-1F735: Símbolos de antimonio, mineral de antimonio y derivados
+1F736-1F75D: Símbolos para otras sustancias
 1F75E-1F764: Procesos
 1F765-1F76D: Aparato
 1F76E-1F771: Hora
@@ -2384,7 +2384,7 @@ FFFE-FFFF: No personajes
 1F780-1F783: Triángulos rectángulos isósceles
 1F784-1F784: Círculos negros
 1F785-1F789: Círculos blancos
-1F78A-1F78A: Círculos blancos que contienen otro círculo negro.
+1F78A-1F78A: Círculos blancos que contienen otro círculo negro
 1F78B-1F78B: Símbolo objetivo
 1F78C-1F78D: Cuadrados negros
 1F78E-1F793: Cuadrados blancos
@@ -2447,7 +2447,7 @@ FFFE-FFFF: No personajes
 1F9BA-1F9BF: Símbolos de accesibilidad
 1F9C0-1F9CB: Símbolos de comida
 1F9CC-1F9CC: Criatura fantástica
-1F9CD-1F9CF: Retrato y símbolos de accesibilidad.
+1F9CD-1F9CF: Retrato y símbolos de accesibilidad
 1F9D0-1F9D8: Símbolos de retratos y roles
 1F9D9-1F9DF: Seres de fantasía
 1F9E0-1F9E6: Símbolos varios
@@ -2468,7 +2468,7 @@ FFFE-FFFF: No personajes
 1FA70-1FA74: Ropa
 1FA75-1FA77: Corazones de colores
 1FA78-1FA7C: Medicina
-1FA80-1FA86: Juguetes y símbolos deportivos.
+1FA80-1FA86: Juguetes y símbolos deportivos
 1FA87-1FA88: Instrumentos musicales
 1FA90-1FAAE: Objetos misceláneos
 1FAAF-1FAAF: Símbolo religioso
@@ -2496,26 +2496,26 @@ FFFE-FFFF: No personajes
 1FBBD-1FBBF: Caracteres gráficos terminales negativos
 1FBC0-1FBCA: Personajes gráficos terminales
 1FBF0-1FBF9: Dígitos segmentados
-1FFFE-1FFFF: No personajes
+1FFFE-1FFFF: No caracteres
 2F800-2FA1D: Caracteres duplicados del CNS 11643-1992
-2FFFE-2FFFF: No personajes
-3FFFE-3FFFF: No personajes
-4FFFE-4FFFF: No personajes
-5FFFE-5FFFF: No personajes
-6FFFE-6FFFF: No personajes
-7FFFE-7FFFF: No personajes
-8FFFE-8FFFF: No personajes
-9FFFE-9FFFF: No personajes
-AFFFE-AFFFF: No personajes
-BFFFE-BFFFF: No personajes
-CFFFE-CFFFF: No personajes
-DFFFE-DFFFF: No personajes
+2FFFE-2FFFF: No caracteres
+3FFFE-3FFFF: No caracteres
+4FFFE-4FFFF: No caracteres
+5FFFE-5FFFF: No caracteres
+6FFFE-6FFFF: No caracteres
+7FFFE-7FFFF: No caracteres
+8FFFE-8FFFF: No caracteres
+9FFFE-9FFFF: No caracteres
+AFFFE-AFFFF: No caracteres
+BFFFE-BFFFF: No caracteres
+CFFFE-CFFFF: No caracteres
+DFFFE-DFFFF: No caracteres
 E0001-E0001: Identificadores de etiqueta
 E0020-E007E: Etiquetar componentes
 E007F-E007F: Terminador de etiqueta con estado
 E0100-E01EF: Selectores de variación ideográficos específicos
-EFFFE-EFFFF: No personajes
-FFFFE-FFFFF: No personajes
+EFFFE-EFFFF: No caracteres
+FFFFE-FFFFF: No caracteres
 #0020-002F: Puntuación y símbolos ASCII
 #003A-0040: Puntuación y símbolos ASCII
 #061E-061F: Puntuación

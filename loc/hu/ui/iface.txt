@@ -32,6 +32,8 @@ empty-cell: Üres cella
 block-description: Leírás
 more-information: Olvass tovább
 back: Vissza
+widget-keyboard-title: Karakterek és nyilak billentyűzete
+widget-keyboard-placeholder: Itt jelennek meg az összes szimbólum, amelyet másolsz ✨
 
 [mobile]
 to-full: Teljes verzió

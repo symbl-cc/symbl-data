@@ -29,6 +29,8 @@ empty-cell: 空のセル
 block-description: 説明
 more-information: 続きを読む
 back: 戻る
+widget-keyboard-title: シンボルキーボード
+widget-keyboard-placeholder: ここにはコピーしたすべての記号が表示されます ✨
 
 [mobile]
 to-full: フルバージョンに移動します

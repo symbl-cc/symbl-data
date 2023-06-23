@@ -32,6 +32,8 @@ empty-cell: Boş hücre
 block-description: Tanım
 more-information: Daha fazla oku
 back: Geri
+widget-keyboard-title: Sembol Klavyesi
+widget-keyboard-placeholder: Kopyaladığınız tüm semboller burada görüntülenir ✨
 
 [mobile]
 to-full: Tam sürüme git

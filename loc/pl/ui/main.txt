@@ -20,8 +20,8 @@ title: Wybory symboli
 all: Widzieć wszystko
 
 [blocks]	: Bloki
-block	: Bloki Unicode
-subblock: Podbloki Unicode
+block	: Blok Unicode
+subblock: Podblok Unicode
 list	: Unicode
 by-range: Według zasięgu
 by-alphabet: Alfabetycznie

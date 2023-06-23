@@ -18,9 +18,10 @@ collection: Set
 list: Symbolgruppen
 title: Beliebte Symbolgruppen
 all: Alles sehen
+
 [blocks]: Blöcke
-block: Unicode-Blöcke
-subblock: Unicode-Teilblöcke
+block: Unicode-Block
+subblock: Unicode-Teilblock
 blocks: Liste der Unicodeblöcke
 list: Unicode
 by-range: Nach Reichweite

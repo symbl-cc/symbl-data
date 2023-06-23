@@ -29,6 +29,8 @@ empty-cell: เซลล์ว่าง
 block-description: คำอธิบาย
 more-information: อ่านเพิ่มเติม
 back: กลับ
+widget-keyboard-title: แป้นพิมพ์สัญลักษณ์
+widget-keyboard-placeholder: ที่นี่แสดงสัญลักษณ์ทั้งหมดที่คุณคัดลอก ✨
 
 [mobile]
 # @todo to-full

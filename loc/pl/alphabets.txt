@@ -1,265 +1,265 @@
-arab	: Alfabet arabski
+arab	: Arabski
 	
-armenian	: Alfabet ormiański
+armenian	: Ormiański
 	
-avestan	: Alfabet awestyjski
+avestan	: Awestyjski
 	
-balinese	: Pismo balijskie
+balinese	: Balijskie
 	
-bamum	: Bamum alfabetu
+bamum	: Bamum
 	
-bashkir	: Bashkir alfabetu
+bashkir	: Bashkir
 	
-bassa-vah	: Bassa-vah alfabetu
+bassa-vah	: Bassa-vah
 	
-batak	: Pismo batackie
+batak	: Batackie
 	
-belarusian	: Alfabet białoruski
+belarusian	: Białoruski
 	
-bengali	: Pismo bengalskie
+bengali	: Bengalskie
 	
-bopomofo	: Bopomofo alfabetu. zhuyin
+bopomofo	: Bopomofo. zhuyin
 	
-brahmi	: Brahmi alfabetu
+brahmi	: Brahmi
 	
-buginese	: Bugiński alfabetu
+buginese	: Bugiński
 	
-buhid	: Buhid alfabetu
+buhid	: Buhid
 	
-bulgarian	: Alfabet bułgarski
+bulgarian	: Bułgarski
 	
-carian	: Carian alfabetu
+carian	: Carian
 	
-caucasian-albanian	: Kaukaski alfabet albański
+caucasian-albanian	: Kaukaski albański
 	
-chakma	: Pismo czakma
+chakma	: Czakma
 	
-cham	: Cham alfabetu
+cham	: Cham
 	
-cherokee	: Cherokee alfabetu
+cherokee	: Cherokee
 	
-chinese	: Chiński alfabet pinyin
+chinese	: Chiński pinyin
 	
-coptic	: Koptyjski alfabetu
+coptic	: Koptyjski
 	
-cypriot-syllabary	: Syllabary cypryjski
+cypriot-syllabary	: Cypryjski syllabary
 	
 cyrillic	: Cyrylica
 	
-czech	: Czeska alfabetu
+czech	: Czeska
 	
-deseret	: Deseret alfabetu
+deseret	: Deseret
 	
-devanagari	: Alfabetu dewanagari
+devanagari	: Dewanagari
 	
-elbasan	: Elbasan alfabetu
+elbasan	: Elbasan
 	
-english	: Angielski alfabet
+english	: Angielski
 	
-esperanto	: Esperanto alfabetu
+esperanto	: Esperanto
 	
-ethiopic	: Etiopski Ge'ez alfabetu
+ethiopic	: Etiopski Ge'ez
 	
-french	: Francuski alfabet
+french	: Francuski
 	
-georgian	: Gruziński alfabet
+georgian	: Gruziński
 	
-german	: Niemiecki alfabetu
+german	: Niemiecki
 	
 glagolitic	: Głagolicy
 	
-gothic	: Alfabet gocki
+gothic	: Gocki
 	
 grantha	: Grantha
 	
-greek	: Grecki alfabet
+greek	: Grecki
 	
-gujarati	: Pismo gudżarati
+gujarati	: Gudżarati
 	
-gurmukhi	: Pismo Gurmukhi
+gurmukhi	: Gurmukhi
 	
-hangul	: Hangul alfabetu
+hangul	: Hangul
 	
-hanunoo	: Hanunoo alfabetu
+hanunoo	: Hanunoo
 	
-hebrew	: Alfabet hebrajski
+hebrew	: Hebrajski
 	
-hungarian	: Alfabet węgierski
+hungarian	: Węgierski
 	
-imperial-aramaic	: Imperial alfabet aramejski
+imperial-aramaic	: Imperial aramejski
 	
-international-phonetic-alphabet	: Międzynarodowy alfabet fonetyczny
+international-phonetic-alphabet	: Międzynarodowy fonetyczny
 	
-italian	: Włoski alfabetu
+italian	: Włoski
 	
-japanese-hiragana	: Japoński hiragana alfabetu
+japanese-hiragana	: Japoński hiragana
 	
-japanese-katakana	: Japoński alfabet katakana
+japanese-katakana	: Japoński katakana
 	
-javanese	: Jawajski alfabetu
+javanese	: Jawajski
 	
-kaithi	: Kaithi alfabetu
+kaithi	: Kaithi
 	
-kannada	: Pismo kannada
+kannada	: Kannada
 	
-kayah-li	: Kayah Li alfabetu
+kayah-li	: Kayah Li
 	
-kazakh	: Kazachski alfabetu
+kazakh	: Kazachski
 	
-kharoshthi	: Kharoszthi alfabetu
+kharoshthi	: Kharoszthi
 	
-khmer	: Khmer alfabetu
+khmer	: Khmer
 	
-khojki	: Khojki alfabetu
+khojki	: Khojki
 	
-khudawadi	: Khudawadi alfabetu
+khudawadi	: Khudawadi
 	
-lao	: Lao alfabetu
+lao	: Lao
 	
-latin	: Alfabet łaciński
+latin	: Laciński
 	
-lepcha	: Pismo Rong
+lepcha	: Rong
 	
-limbu	: Pismo Limbu
+limbu	: Limbu
 	
 linear-b-Syllabary	: Linear B syllabary
 	
-lisu	: Lisu alfabetu
+lisu	: Lisu
 	
-lycian	: Lycian alfabetu
+lycian	: Lycian
 	
-lydian	: Lydian alfabetu
+lydian	: Lydian
 	
-nabataean	: Nabataean alfabetu
+nabataean	: Nabataean
 	
-mahajani	: Mahadżani alfabetu
+mahajani	: Mahadżani
 	
-malayalam	: Malajalam alfabetu
+malayalam	: Malajalam
 	
-mandaic	: Mandejski alfabetu
+mandaic	: Mandejski
 	
-manichaean	: Pismo manichejskie
+manichaean	: Manichejskie
 	
-meetei-mayek	: Munipuri alfabetu
+meetei-mayek	: Munipuri
 	
-mende-kikakui	: Mende kikakui alfabetu
+mende-kikakui	: Mende kikakui
 	
-meroitic-cursive	: Meroickie kursywą alfabetu
+meroitic-cursive	: Meroickie kursywą
 	
-modi	: Pismo Modi
+modi	: Modi
 	
-mongolian	: Mongolski alfabetu
+mongolian	: Mongolski
 	
-mro	: MRO alfabetu
+mro	: MRO
 	
-myanmar	: Birma alfabetu
+myanmar	: Birma
 	
-new-tai-lue	: Nowy alfabet lue tai
+new-tai-lue	: lue tai nowy
 	
-nko	: Nko alfabetu
+nko	: Nko
 	
-ogham	: Ngham alfabetu
+ogham	: Ngham
 	
 ol-chiki	: Ol ciki
 	
-old-italic	: Stary włoski alfabet etruski
+old-italic	: etruski włoski stary
 	
-old-north-arabian	: Stary północny arabskiego alfabetu
+old-north-arabian	: Arabskiego północny stary
 	
-old-permic	: Stary permic alfabetu
+old-permic	: Permic Stary
 	
-old-persian	: Staroperski alfabetu
+old-persian	: Staroperski
 	
-old-south-arabian	: Stary południe arabskiego alfabetu
+old-south-arabian	: Arabskiego południe stary
 	
-old-turkic	: Stary alfabet runiczny tureckich
+old-turkic	: Tureckich runiczny stary
 	
-oriya	: Pismo orija
+oriya	: Orija
 	
-osmanya	: Osmanija alfabetu
+osmanya	: Osmanija
 	
-pahawh-hmong	: Pismo Pahawh Hmong alfabetu
+pahawh-hmong	: Pahawh Hmong
 	
-pahlavi	: Pahlavi alfabetu
+pahlavi	: Pahlavi
 	
-palmyrene	: Palmyrene alfabetu
+palmyrene	: Palmyrene
 	
-pau-cin-hau	: Pau cin hau alfabetu
+pau-cin-hau	: Pau cin hau
 	
-phags-pa	: Phags pa alfabetu
+phags-pa	: Phags pa
 	
-phoenician	: Fenicki alfabet
+phoenician	: Fenicki
 	
-polish	: Polski alfabet
+polish	: Polski
 	
-pollard	: Pollard alfabetu
+pollard	: Pollard
 	
-rejang	: Rejang alfabetu
+rejang	: Rejang
 	
-runic	: Runiczny alfabet
+runic	: Runiczny
 	
-russian	: Rosyjski alfabet
+russian	: Rosyjski
 	
-samaritan	: Samarytanin alfabetu
+samaritan	: Samarytanin
 	
-saurashtra	: Saurashtra alfabetu
+saurashtra	: Saurashtra
 	
-sharada	: Sharada alfabetu
+sharada	: Sharada
 	
-shavian	: Pismo Shawa alfabetu
+shavian	: Shawa
 	
-siddham	: Siddham alfabetu
+siddham	: Siddham
 	
-sinhala	: Pismo syngaleskie
+sinhala	: Syngaleskie
 	
-sora-sompeng	: Sory Sompeng alfabetu
+sora-sompeng	: Sory Sompeng
 	
-spanish	: Hiszpański alfabetu
+spanish	: Hiszpański
 	
-sundanese	: Pismo sundajskie
+sundanese	: Sundajskie
 	
-syloti-nagri	: Syloti Nagri alfabetu
+syloti-nagri	: Syloti Nagri
 	
-syriac	: Alfabet syryjski
+syriac	: Syryjski
 	
-tagalog	: Tagalog alfabetu
+tagalog	: Tagalog
 	
-tagbanwa	: Tagbanwa alfabetu
+tagbanwa	: Tagbanwa
 	
-tai-le	: Tai le alfabetu
+tai-le	: Tai le
 	
-tai-tham	: Pismo lanna
+tai-tham	: Lanna
 	
-tai-viet	: Viet Tai alfabetu
+tai-viet	: Viet Tai
 	
-takri	: Takri alfabetu
+takri	: Takri
 	
-tamil	: Tamil alfabetu
+tamil	: Tamil
 	
-tatar	: Alfabet tatarski
+tatar	: Tatarski
 	
-telugu	: Telugu alfabetu
+telugu	: Telugu
 	
-thaana	: Thaana alfabetu
+thaana	: Thaana
 	
-thai	: Pismo tajskie
+thai	: Tajskie
 	
-tibetan	: Pismo tybetańskie
+tibetan	: Tybetańskie
 	
-tifinagh	: Tifinagh alfabetu
+tifinagh	: Tifinagh
 	
-tirhuta	: Tirhuta alfabetu
+tirhuta	: Tirhuta
 	
-turkish	: alfabet turecki
+turkish	: turecki
 	
-ugaritic	: Alfabet ugarycki
+ugaritic	: Ugarycki
 	
-ukrainian	: Alfabet ukraiński
+ukrainian	: Ukraiński
 	
-unified-canadian-aboriginal-syllabics	: Unified Canadian rodowity syllabary
+unified-canadian-aboriginal-syllabics	: canadian rodowity unified syllabary
 	
-vai	: Syllabary vai
+vai	: Vai syllabary
 	
-varang-kshiti	: Varang kshiti alfabetu
+varang-kshiti	: Varang kshiti
 	
 yi-syllables	: Yi syllabary 

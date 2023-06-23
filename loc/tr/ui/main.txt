@@ -20,8 +20,8 @@ title: Popüler karakter setleri
 all: Tümünü Gör
 
 [blocks]	: Blokları
-block	: Unicode blokları
-subblock: Unicode Alt Blokları
+block	: Unicode blok
+subblock: Unicode alt blok
 list	: Unicode
 by-range: Aralığa göre
 by-alphabet: Alfabetik olarak

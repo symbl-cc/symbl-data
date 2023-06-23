@@ -29,6 +29,8 @@ empty-cell: Celula goală
 block-description: Descriere
 more-information: Citeste mai mult
 back: Înapoi
+widget-keyboard-title: Tastatură de simboluri
+widget-keyboard-placeholder: Aici sunt toate simbolurile pe care le copiați ✨
 
 [mobile]
 to-full: Mergi la versiunea completă

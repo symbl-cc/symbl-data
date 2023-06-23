@@ -21,8 +21,8 @@ title: Népszerű karakterkészletek
 all: Lásd az összeset
 
 [blocks]: Blokkok
-block: Unicode blokkok
-subblock: Unicode-alcsoportok
+block: Unicode blokk
+subblock: Unicode alblokk
 blocks: Unicode blokkok
 list: Unicode
 by-range: Tartomány szerint

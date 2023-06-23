@@ -21,7 +21,7 @@ all: 모두보기
 
 [blocks]	: 블록
 block: 유니코드 블록
-subblock: Unicode 하위 블록
+subblock: 유니코드 서브블록
 blocks	: 유니코드 영역의 목록
 list: 블록
 by-range: 범위 별

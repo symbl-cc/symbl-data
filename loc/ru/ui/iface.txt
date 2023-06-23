@@ -35,6 +35,8 @@ holidays-list: Праздники
 block-description: Описание раздела
 more-information: 	Больше информации
 back: Назад
+widget-keyboard-title: Клавиатура символов
+widget-keyboard-placeholder: Здесь появляются все символы, которые ты копируешь ✨
 
 [mobile]
 to-full: Перейти к полной версии

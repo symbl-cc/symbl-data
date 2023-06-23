@@ -289,10 +289,8 @@
 #    style: green
 #
 
-#[winter-olympic-games]
-#    date: 04.02-20.02
-#    show: 04.02-13.02 15.02-20.02
-#    left: 🏅, 🏂, 🛷, 🥌
-#    right: 🎿, 🏒, 🥅, 🥇
-#    style: white
-
+[winter-olympic-games]
+    date: 06.06
+    show: 06.06
+    preview: 🥇
+    style: white

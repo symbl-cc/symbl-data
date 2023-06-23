@@ -1,20 +1,46 @@
-winter-olympic-games: 동계 올림픽
-summer-olympic-games: 하계 올림픽 2020
-fifa-world-cup: FIFA 월드컵
 new-year: 새해
-valentine-day: 밸런타인데이
-8-march: 국제 여성의 날
-saint-patricks-day: 성 파트리치오 축일
-april-fools-day: 만우절
-1-may: 노동절
-victory-day: 승리의 날 (5월 9일)
-eid-al-fitr: 이드 알피트르
-uefa-champions-league: UEFA 챔피언스리그
-international-childrens-day: 어린이날
+new-year-ru: 러시아의 새해
+fifa-world-cup: 피파 월드컵
+chinese-new-year: 중국의 설날
+valentine-day: 발렌타인 데이
+23-february: 러시아의 조국의 날의 수비수
+maslenica: Shrovetide- 봄의 시작의 슬라브 홀리데이
+8-march: 세계 여성의 날
+saint-patricks-day: 성 패트릭의 날
+holi: Holi- 인도의 색상 축제
+april-fools-day: 바보의 하루
+cosmonautics-day: 우주 비행의 날
+easter-catolic: 부활절 가톨릭
+easter-orthodox: 부활절 정교회
+1-may: 러시아의 봄과 노동의 잔치
+cinco-de-mayo: Chinko de Mayo
+victory-day: 러시아의 승리의 날
+uefa-champions-league: 챔피언스 리그 UEFA
+international-childrens-day: 국제 어린이의 날
+eid-al-fitr: Kurban Bayram
+dragon-boat-festival: 드래곤 보트 축제
+queens-official-birthday: 영국에서 퀸의 공식 생일
+graduation: 고등학교 졸업
+independence-day: 미국 독립 기념일
+uefa-european-championship: UEFA 유럽 챔피언십
 international-chess-day: 국제 체스의 날
+bastille-day: 혁명 기념일
+navy-day: 러시아의 해군의 날
+den-vdv: 러시아의 공기 중의 날
+knowledge-day: 러시아의 지식의 날
 birthday-of-the-smiley: 스마일의 생일
+oktoberfest: 옥토버페스트
+diwali: 딜리
 halloween: 할로윈
+day-of-the-dead: 죽은 날
+guy-fawkes-night: 가이 폭스 밤
+thanksgiving: 미국의 추수 감사절
+black-friday: 검은 금요일
 hanukkah: 하누카
+christmas: 크리스마스
+summer-olympic-games: 하계 올림픽
+winter-olympic-games: 동계 올림픽 대회
+
 
 new-year-date: 오늘, 1 월 1 일
 winter-olympic-games-date: 오늘, 2 월 4 일
@@ -27,7 +53,7 @@ eid-al-fitr-date: 오늘은 4월 21일 입니다
 victory-day-date: 오늘, 5 월 9 일
 uefa-champions-league-date: 오늘, 5 월 28 일
 international-childrens-day-date: 오늘, 6 월 1 일
-independence-day: Today, July 4
+independence-day-date: Today, July 4
 international-chess-day-date: 오늘, 7 월 20 일
 birthday-of-the-smiley-date: 오늘, 9 월 19 일
 halloween-date: 오늘, 10 월 31 일

@@ -26,7 +26,8 @@ collections-with-this-symbol: Conjuntos con este símbolo
 empty-symbol: Carácter no definido en Unicode
 image-not-defined: La imagen para el símbolo no está definida
 emoji_version: Versión de Emoji
-emoji_group: Categoría de emoji
+emoji_group: Emoji Categoría
+emoji_subgroup: Emoji Subcategoría
 download: Descargar
 displaying: Mostrar símbolo
 symbol_not_displayed: ¿Por qué no se muestra el símbolo?
@@ -35,3 +36,5 @@ synonyms: Sinónimos
 in-development: En desarrollo
 show-more: Mostrar más
 show-less: Muestra menos
+keyboard-shortcut: Combinación de teclas
+escape-sequence: Secuencias de escape

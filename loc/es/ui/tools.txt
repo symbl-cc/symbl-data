@@ -176,7 +176,42 @@ letters: Letras
 punctuation: Puntuación
 example: Ejemplo de texto y símbolos ☆
 copy-text: ¡Haz clic en el símbolo y se copiará automáticamente!
-paste-text: ¡También se pega a esta caja, donde puedes entrar cualquier texto y decorarlo con símbolos!
+paste-text: ¡También se pega a este espacio, donde puedes entrar cualquier texto y decorarlo con símbolos!
 ok: ¡Está claro!
 skip: Saltar
 cool: ¡Guay!
+
+[telegram-2-symbols]: Símbolos de Telegram
+subtitle: Aquí puedes escribir rápidamente tu texto utilizando el alfabeto latino y diferentes fuentes.
+example: Texto y símbolo ☆ ejemplos
+copy-text: ¡Haz clic - y se copiará automáticamente!
+paste-text: ¡También se pega a este espacio, donde puedes ingresar cualquier texto y elegir las letras latinas que te gustan!
+ok: ¡Claro!
+skip: Saltar
+cool: ¡Guay!
+A: A
+B: B
+C: C
+D: D
+E: E
+F: F
+G: G
+H: H
+I: I
+J: J
+K: K
+L: L
+M: M
+N: N
+O: O
+P: P
+Q: Q
+R: R
+S: S
+T: T
+U: U
+V: V
+W: W
+X: X
+Y: Y
+Z: Z

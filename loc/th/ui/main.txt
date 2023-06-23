@@ -20,8 +20,8 @@ title: ชุดตัวละครยอดนิยม
 all: ดูทั้งหมด
 
 [blocks]: รายชื่อส่วน
-block: บล็อกยูนิโค้ด
-subblock: บล็อกย่อยของ Unicode
+block: บล็อก Unicode
+subblock: สับบล็อก Unicode
 list: บล็อค
 by-range: ตามช่วง
 by-alphabet: เรียงตามตัวอักษร

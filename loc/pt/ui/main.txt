@@ -20,8 +20,8 @@ title: Coleções
 all: Ver tudo
 
 [blocks]: Blocos
-block: Blocos Unicode
-subblock: Sub-blocos Unicode
+block: Bloco Unicode
+subblock: Subbloco Unicode
 list: Unicode
 by-range: Por intervalo
 by-alphabet: Alfabeticamente

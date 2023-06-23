@@ -1,0 +1,13 @@
+{
+    "date": "22.06.2023",
+    "number": "3.1.1",
+    "title": "Content and some fixes",
+    "description": [],
+    "list": [
+        "Added description translations for 10 alphabets 'en', 'es'.",
+        "Fixed the errors regarding title names 'es'.",
+        "Corrected language-specific punctuation marks, now the descriptions display the right versions.",
+        "Made the “what’s new” page available for indexing."
+        
+    ]
+}
