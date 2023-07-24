@@ -1,24 +1,25 @@
 control-character : 控制字符
 basic-latin     : 基本拉丁字母
-latin-1-supplement : 拉丁文补充1
-latin-extended-a : 拉丁文扩展A
-latin-extended-b : 拉丁文扩展B
+latin-1-supplement : 拉丁字母补充1
+latin-extended-a : 拉丁字母扩展A
+latin-extended-b : 拉丁字母扩展B
 ipa-extensions  : 国际音标扩展
 spacing-modifier-letters : 占位修饰符号
-combining-diacritical-marks : 结合附加符号
-greek-coptic    : 希腊字母及科普特字母
+combining-diacritical-marks : 组合附加符号
+greek-coptic    : 希腊字母和科普特字母
 cyrillic        : 西里尔字母
 cyrillic-supplement : 西里尔字母补充
 armenian        : 亚美尼亚字母
-hebrew          : 希伯来文
-arabic          : 阿拉伯文
-syrian          : 叙利亚文
+hebrew          : 希伯来文字母
+arabic          : 阿拉伯文字母
+syrian          : 叙利亚文字母
 arabic-supplement : 阿拉伯文补充
 thaana          : 它拿字母
 nko             : 西非书面语言
 samaritan       : 撒玛利亚字母
-mandaic         : Mandaic
-arabic-extended-a : 阿拉伯语扩展
+mandaic         : 曼达字母
+syriac-supplement: 叙利亚文补充
+arabic-extended-a : 阿拉伯字母扩展A
 devanagari      : 天城文
 bengali         : 孟加拉文
 gurmukhi        : 果鲁穆奇字母
@@ -35,16 +36,16 @@ tibetan         : 藏文
 myanmar         : 缅甸文
 georgian        : 格鲁吉亚字母
 hangul-jamo     : 谚文字母
-ethiopic        : 埃塞俄比亚语
-ethiopic-supplement : 埃塞俄比亚语补充
+ethiopic        : 埃塞俄比亚字母
+ethiopic-supplement : 埃塞俄比亚字母补充
 cherokee        : 切罗基字母
 unified-canadian-aboriginal-syllabics : 统一加拿大原住民音节文字
 ogham           : 欧甘字母
 runic           : 卢恩字母
 tagalog         : 他加禄字母
 hanunoo         : 哈努诺文
-buhid           : 布迪文
-tagbanwa        : 塔格巴努亚文
+buhid           : 布希德字母
+tagbanwa        : 塔格班瓦字母
 khmer           : 高棉文
 mongolian       : 蒙古文
 unified-canadian-aboriginal-syllabics-extended : 统一加拿大原住民音节文字扩展
@@ -58,14 +59,15 @@ balinese        : 巴厘字母
 sundanese       : 巽他字母
 batak           : 巴塔克文
 lepcha          : 雷布查字母
-ol-chiki        : Ol-Chiki
+ol-chiki        : 桑塔利文
+cyrillic-extended-c: 西里尔字母扩展C
 sundanese-supplement : 巽他字母补充
 vedic-extensions : 吠陀梵文
 phonetic-extensions : 语音学扩展
 phonetic-extensions-supplement : 语音学扩展补充
-combining-diacritical-marks-supplement : 结合附加符号补充
-latin-extended-additional : 拉丁文扩展附加
-greek-extended  : 希腊语扩展
+combining-diacritical-marks-supplement : 组合附加符号补充
+latin-extended-additional : 拉丁字母扩展附加
+greek-extended  : 希腊字母扩展
 general-punctuation : 常用标点
 superscripts-and-subscripts : 上标及下标
 currency-symbols : 货币符号
@@ -91,12 +93,12 @@ miscellaneous-mathematical-symbols-b : 杂项数学符号B
 supplemental-mathematical-operators : 追加数学运算符
 miscellaneous-symbols-and-arrows : 杂项符号和箭头
 glagolitic      : 格拉哥里字母
-latin-extended-c : 拉丁文扩展C
+latin-extended-c : 拉丁字母扩展C
 coptic          : 科普特字母
 georgian-supplement : 格鲁吉亚字母补充
 tifinagh        : 提非纳文
-ethiopic-extended : 埃塞俄比亚语扩展
-cyrillic-extended : 西里尔字母扩展
+ethiopic-extended : 埃塞俄比亚字母扩展
+cyrillic-extended : 西里尔字母扩展A
 supplemental-punctuation : 追加标点
 cjk-radicals-supplement : 中日韩部首补充
 kangxi-radicals : 康熙部首
@@ -112,44 +114,215 @@ cjk-strokes     : 中日韩笔画
 katakana-phonetic-extensions : 日文片假名语音扩展
 enclosed-cjk-letters-and-months : 带圈中日韩字母和月份
 cjk-compatibility : 中日韩字符集兼容
-cjk-unified-ideographs-extension-a : 中日韩统一表意文字扩展A
+cjk-unified-ideographs-extension-a : 中日韩统一表意文字扩展区A
 yijing-hexagram-symbols : 易经六十四卦符号
 cjk-unified-ideographs : 中日韩统一表意文字
 yi-syllables    : 彝文音节
 yi-radicals     : 彝文字根
 old-lisu-alphabet : 老傈僳文
 ciryllic-extended-B : 西里尔字母扩展B
-bamum           : 巴姆穆语
+bamum           : 巴姆穆文
 modifier-tone-letters : 声调修饰字母
-latin-extended-d : 拉丁文扩展D
+latin-extended-d : 拉丁字母扩展D
 syloty-nagri    : 锡尔赫特文
 indian-numeric-character : 印第安数字
 phags-pa        : 八思巴文
-saurashtra      : 索拉什特拉
+saurashtra      : 索拉什特拉文
 devanagari-extended-characters : 天城文扩展
 kayah-li        : 克耶字母
-rejang          : 勒姜语
+rejang          : 勒姜字母
 hangul          : 谚文字母扩展A
-javanese-alphabet : 爪哇语
+javanese-alphabet : 爪哇字母
 cham-alphabet   : 鞑靼文
-burmese-alphabet-extention-a : 缅甸语扩展
-tai-viet-alphabet : 越南傣文
-meitei-language-extensions : 曼尼普尔文扩展
-ethiopic-extended-a : 埃塞俄比亚文
-meitei-language : 曼尼普尔文
-hangul-syllables : 谚文音节
-high-surrogates : 代理对高位字
-high-private-use-surrogates : 代理对私用区高位字
-low-surrogates  : 代理对低位字
-private-use-area : 私用区
-cjk-compatibility-ideographs : 中日韩兼容表意文字
-alphabetic-presentation-forms : 字母表达形式（拉丁字母连字、亚美尼亚字母连字、希伯来文表现形式）
-arabic-presentation-forms-a : 阿拉伯文表达形式A
-variation-selectors : 异体字选择符
-vertical-forms  : 竖排形式
-combining-half-marks : 组合用半符号
-cjk-compatibility-forms : 中日韩兼容形式
-small-form-variants : 小写变体形式
-arabic-presentation-forms-b : 阿拉伯文表达形式B
-halfwidth-and-fullwidth-forms : 半角及全角形式
-specials        : 特殊
+burmese-alphabet-extention-a: 缅甸文扩展A
+tai-viet-alphabet: 越南傣文
+meitei-language-extensions: 曼尼普尔文扩展
+ethiopic-extended-a: 埃塞俄比亚字母扩展A
+meitei-language: 曼尼普尔文
+hangul-syllables: 谚文音节
+high-surrogates: 代理对高位字
+high-private-use-surrogates: 代理对私用区高位字
+low-surrogates: 代理对低位字
+private-use-area: 私用区
+cjk-compatibility-ideographs: 中日韩兼容表意文字
+alphabetic-presentation-forms: 字母表达形式（拉丁字母连字、亚美尼亚字母连字、希伯来文表现形式）
+arabic-presentation-forms-a: 阿拉伯文表达形式A
+variation-selectors: 异体字选择符
+vertical-forms: 竖排形式
+combining-half-marks: 组合用半符号
+cjk-compatibility-forms: 中日韩兼容形式
+small-form-variants: 小写变体形式
+arabic-presentation-forms-b: 阿拉伯文表达形式B
+halfwidth-and-fullwidth-forms: 半角及全角形式
+specials: 特殊
+linear-b-syllabary: 线形文字B音节文字
+linear-b-ideograms: 线形文字B表意文字
+aegean-numbers: 爱琴海数字
+ancient-greek-numbers: 古希腊数字
+ancient-symbols: 古代符号
+phaistos-disc: 斐斯托斯圆盘
+lycian: 吕基亚字母
+carian: 卡里亚字母
+coptic-epact-numbers: 科普特闰余数字
+old-italic: 古意大利字母
+gothic: 哥特字母
+old-permic: 古彼尔姆文
+ugaritic: 乌加里特字母
+old-persian: 古波斯楔形文字
+deseret: 德瑟雷特字母
+shavian: 萧伯纳字母
+osmanya: 奥斯曼亚字母
+osage: 欧塞奇字母
+elbasan: 爱尔巴桑字母
+caucasian-albanian: 高加索阿尔巴尼亚字母
+linear-a: 线形文字A
+cypriot-syllabary: 塞浦路斯音节文字
+imperial-aramaic: 帝国亚拉姆文
+palmyrene: 帕尔迈拉字母
+nabataean: 纳巴泰字母
+phoenician: 腓尼基字母
+lydian: 吕底亚字母
+meroitic-hieroglyphs: 麦罗埃文圣书体
+meroitic-cursive: 麦罗埃文草书体
+kharoshthi: 佉卢文
+old-south-arabian: 古南阿拉伯字母
+old-north-arabian: 古北阿拉伯字母
+manichaean: 摩尼字母
+avestan: 阿维斯陀字母
+inscriptional-parthian: 碑刻帕提亚文
+inscriptional-pahlavi: 碑刻巴列维文
+psalter-pahlavi: 诗篇巴列维文
+old-turkic: 古突厥文
+rumi-numeral-symbols: 卢米文数字
+brahmi: 婆罗米文
+kaithi: 凯提文
+sora-sompeng: 索拉僧平文字
+chakma: 查克马文
+mahajani: 马哈佳尼文
+sharada: 夏拉达文
+sinhala-archaic-numbers: 古僧伽罗文数字
+khojki: 可吉文
+khudawadi: 库达瓦迪文
+grantha: 古兰塔文
+newa: 纽瓦字母
+tirhuta: 底罗仆多文
+siddham: 悉昙文字
+modi: 莫迪文
+mongolian-supplement: 蒙古文补充
+takri: 塔克里文
+warang-citi: 瓦兰齐地文
+zanabazar-square: 札那巴札尔方形字母
+soyombo: 索永布文字
+pau-cin-hau: 包钦豪文
+bhaiksuki: 拜克舒基文
+marchen: 玛钦文
+masaram-gondi: 马萨拉姆贡德文字
+cuneiform: 楔形文字
+cuneiform-numbers-and-punctuation: 楔形文字数字和标点符号
+egyptian-hieroglyphs: 埃及圣书体
+bamum-supplement: 巴姆穆文字补充
+mro: 默禄文
+bassa-vah: 巴萨文
+pahawh-hmong: 救世苗文
+miao: 柏格理苗文
+ideographic-symbols-and-punctuation: 表意符号和标点符号
+tangut: 西夏文
+tangut-components: 西夏文部件
+kana-supplement: 假名补充
+kana-extended-a: 假名扩展A
+nushu: 女书
+duployan: 杜普雷速记
+shorthand-format-controls: 速记格式控制符
+byzantine-musical-symbols: 拜占庭音乐符号
+musical-symbols: 音乐符号
+ancient-greek-musical-notation: 古希腊音乐记号
+tai-xuan-jing-symbols: 太玄经符号
+counting-rod-numerals: 算筹
+mathematical-alphanumeric-symbols: 字母和数字符号
+mende-kikakui: 门德基卡库文
+adlam: 阿德拉姆字母
+arabic-mathematical-alphabetic-symbols: 阿拉伯字母数字符号
+mahjong-tiles: 麻将牌
+domino-tiles: 多米诺骨牌
+playing-cards: 扑克牌
+enclosed-alphanumeric-supplement: 带圈字母数字补充
+enclosed-ideographic-supplement: 带圈表意文字补充
+miscellaneous-symbols-and-pictographs: 杂项符号和象形文字
+emoticons: 表情符号
+ornamental-dingbats: 装饰符号
+transport-and-map-symbols: 交通和地图符号
+alchemical-symbols: 炼金术符号
+geometric-shapes-extended: 几何图形扩展
+supplemental-arrows-c: 追加箭头C
+combining-diacritical-marks-extended: 组合附加符号扩展
+lisu: 傈僳文
+myanmar-extended-b: 缅甸文扩展B
+latin-extended-e: 拉丁字母扩展E
+hangul-jamo-extended-b: 谚文字母扩展B
+cherokee-supplement: 切罗基文补充
+hatran: 哈特拉文
+old-hungarian: 古匈牙利字母
+multani: 穆尔塔尼文
+ahom: 阿洪姆文
+early-dynastic-cuneiform: 早期王朝楔形文字
+anatolian-hieroglyphs: 安纳托利亚象形文字
+sutton-sign-writing: 萨顿书写符号
+glagolitic-supplement: 格拉哥里字母补充
+supplemental-symbols-and-pictographs: 补充符号和象形文字
+cjk-unified-ideographs-extension-b: 中日韩统一表意文字扩展区B
+cjk-unified-ideographs-extension-c: 中日韩统一表意文字扩展区C
+cjk-unified-ideographs-extension-d: 中日韩统一表意文字扩展区D
+cjk-unified-ideographs-extension-e: 中日韩统一表意文字扩展区E
+cjk-unified-ideographs-extension-f: 中日韩统一表意文字扩展区F
+cjk-compatibility-ideographs-supplement: 中日韩兼容表意文字补充区
+tags: 标签
+variation-selectors-supplement: 变体选择符补充
+georgian-extended: 格鲁吉亚字母扩展
+hanifi-rohingya: 哈乃斐罗兴亚文字
+yezidi: 雅兹迪文
+old-sogdian: 古粟特字母
+sogdian: 粟特字母
+chorasmian: 花剌子模字母
+elymaic: 埃利迈文
+dogra: 多格拉文
+dives-akuru: 岛屿字母
+nandinagari: 南迪城文
+gunjala-gondi: 贡贾拉贡德文字
+makasar: 望加锡文
+lisu-supplement: 老傈僳文补充
+tamil-supplement: 泰米尔文补充
+egyptian-hieroglyph-format-controls: 埃及圣书体格式控制
+medefaidrin: 梅德法伊德林文
+khitan-small-script: 契丹小字
+tangut-supplement: 西夏文补充
+small-kana-extension: 小型假名扩展
+mayan-numerals: 玛雅数字
+nyiakeng-puachue-hmong: 创世纪苗文
+wancho: 文乔字母
+indic-siyaq-numbers: 印度西亚格数字
+ottoman-siyaq-numbers: 奥斯曼西亚格数字
+chess-symbols: 棋类符号
+symbols-and-pictographs-extended-a: 符号和象形文字扩展A
+symbols-for-legacy-computing: 遗留计算符号
+cjk-unified-ideographs-extension-g: 中日韩统一表意文字扩展区G
+supplementary-private-use-area-a: 补充私人使用区A
+supplementary-private-use-area-b: 补充私人使用区B
+arabic-extended-b: 阿拉伯字母扩展B
+vithkuqi: 维斯库奇文
+latin-extended-f: 拉丁字母扩展F
+arabic-extended-c: 阿拉伯字母扩展C
+old-uyghur: 回鹘字母
+unified-canadian-aboriginal-syllabics-extended-a: 加拿大原住民音节文字扩展A
+devanagari-extended-a: 天城文扩展A
+kawi: 卡维文
+cypro-minoan: 塞浦路斯-米诺斯文字
+tangsa: 唐萨文
+kana-extended-b: 假名扩展B
+znamenny-musical-notation: 赞玫尼圣歌音乐符号
+kaktovik-numerals: 卡克托维克数字
+latin-extended-g: 拉丁字母扩展G
+cyrillic-extended-d: 西里尔字母扩展D
+toto: 投投文
+nag-mundari: 蒙达里字母
+ethiopic-extended-b: 埃塞俄比亚字母扩展B
+cjk-unified-ideographs-extension-h: 中日韩统一表意文字扩展区H
