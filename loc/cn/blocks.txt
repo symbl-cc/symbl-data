@@ -17,8 +17,9 @@ arabic-supplement : 阿拉伯文补充
 thaana          : 它拿字母
 nko             : 西非书面语言
 samaritan       : 撒玛利亚字母
-mandaic         : Mandaic
-arabic-extended-a : 阿拉伯语扩展
+mandaic         : 曼达字母
+syriac-supplement: 叙利亚文补充
+arabic-extended-a : 阿拉伯语扩展A
 devanagari      : 天城文
 bengali         : 孟加拉文
 gurmukhi        : 果鲁穆奇字母
@@ -59,6 +60,7 @@ sundanese       : 巽他字母
 batak           : 巴塔克文
 lepcha          : 雷布查字母
 ol-chiki        : Ol-Chiki
+cyrillic-extended-c: 西里尔字母扩展C
 sundanese-supplement : 巽他字母补充
 vedic-extensions : 吠陀梵文
 phonetic-extensions : 语音学扩展
@@ -96,7 +98,7 @@ coptic          : 科普特字母
 georgian-supplement : 格鲁吉亚字母补充
 tifinagh        : 提非纳文
 ethiopic-extended : 埃塞俄比亚语扩展
-cyrillic-extended : 西里尔字母扩展
+cyrillic-extended : 西里尔字母扩展A
 supplemental-punctuation : 追加标点
 cjk-radicals-supplement : 中日韩部首补充
 kangxi-radicals : 康熙部首
@@ -132,10 +134,10 @@ rejang          : 勒姜语
 hangul          : 谚文字母扩展A
 javanese-alphabet : 爪哇语
 cham-alphabet   : 鞑靼文
-burmese-alphabet-extention-a : 缅甸语扩展
+burmese-alphabet-extention-a : 缅甸语扩展A
 tai-viet-alphabet : 越南傣文
 meitei-language-extensions : 曼尼普尔文扩展
-ethiopic-extended-a : 埃塞俄比亚文
+ethiopic-extended-a : 埃塞俄比亚文扩展A
 meitei-language : 曼尼普尔文
 hangul-syllables : 谚文音节
 high-surrogates : 代理对高位字
