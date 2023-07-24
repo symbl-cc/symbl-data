@@ -36,8 +36,8 @@ tibetan         : 藏文
 myanmar         : 缅甸文
 georgian        : 格鲁吉亚字母
 hangul-jamo     : 谚文字母
-ethiopic        : 埃塞俄比亚语
-ethiopic-supplement : 埃塞俄比亚语补充
+ethiopic        : 埃塞俄比亚字母
+ethiopic-supplement : 埃塞俄比亚字母补充
 cherokee        : 切罗基字母
 unified-canadian-aboriginal-syllabics : 统一加拿大原住民音节文字
 ogham           : 欧甘字母
@@ -66,8 +66,8 @@ vedic-extensions : 吠陀梵文
 phonetic-extensions : 语音学扩展
 phonetic-extensions-supplement : 语音学扩展补充
 combining-diacritical-marks-supplement : 组合附加符号补充
-latin-extended-additional : 拉丁文扩展附加
-greek-extended  : 希腊语扩展
+latin-extended-additional : 拉丁字母扩展附加
+greek-extended  : 希腊字母扩展
 general-punctuation : 常用标点
 superscripts-and-subscripts : 上标及下标
 currency-symbols : 货币符号
@@ -97,7 +97,7 @@ latin-extended-c : 拉丁字母扩展C
 coptic          : 科普特字母
 georgian-supplement : 格鲁吉亚字母补充
 tifinagh        : 提非纳文
-ethiopic-extended : 埃塞俄比亚语扩展
+ethiopic-extended : 埃塞俄比亚字母扩展
 cyrillic-extended : 西里尔字母扩展A
 supplemental-punctuation : 追加标点
 cjk-radicals-supplement : 中日韩部首补充
@@ -121,23 +121,23 @@ yi-syllables    : 彝文音节
 yi-radicals     : 彝文字根
 old-lisu-alphabet : 老傈僳文
 ciryllic-extended-B : 西里尔字母扩展B
-bamum           : 巴姆穆语
+bamum           : 巴姆穆文
 modifier-tone-letters : 声调修饰字母
 latin-extended-d : 拉丁字母扩展D
 syloty-nagri    : 锡尔赫特文
 indian-numeric-character : 印第安数字
 phags-pa        : 八思巴文
-saurashtra      : 索拉什特拉
+saurashtra      : 索拉什特拉文
 devanagari-extended-characters : 天城文扩展
 kayah-li        : 克耶字母
-rejang          : 勒姜语
+rejang          : 勒姜字母
 hangul          : 谚文字母扩展A
-javanese-alphabet : 爪哇语
+javanese-alphabet : 爪哇字母
 cham-alphabet   : 鞑靼文
-burmese-alphabet-extention-a: 缅甸语扩展A
+burmese-alphabet-extention-a: 缅甸文扩展A
 tai-viet-alphabet: 越南傣文
 meitei-language-extensions: 曼尼普尔文扩展
-ethiopic-extended-a: 埃塞俄比亚文扩展A
+ethiopic-extended-a: 埃塞俄比亚字母扩展A
 meitei-language: 曼尼普尔文
 hangul-syllables: 谚文音节
 high-surrogates: 代理对高位字
