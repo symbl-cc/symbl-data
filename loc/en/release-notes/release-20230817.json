@@ -1,0 +1,12 @@
+{
+    "date": "17.08.2023",
+    "number": "3.1.7",
+    "title": "Content and fixes",
+    "description": [],
+    "list": [
+        "Added new translations for ‘es’ descriptions of the alphabets.",
+        "Fixed the bug related to block search on the website.",
+        "Fixed the bug related to the display of the block to which the symbol belongs in the text.",
+        "Fixed the bug related to the position of the the ‘Clipboard’ widget opening button."
+    ]
+}

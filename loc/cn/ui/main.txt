@@ -33,7 +33,7 @@ by-type: 类型
 list: 编码
 
 [art]: 艺术
-list: 艺术 ٩(｡•́‿•̀｡)۶
+list: 艺术
 
 [symbols]: 符号
 list: 符号
@@ -82,3 +82,5 @@ en: 英文键盘布局
 title: 有新鲜事。
 aside: 发布
 btn-show-aside: 显示发布历史
+
+[random-symbol]: 随机符号

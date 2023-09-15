@@ -20,8 +20,8 @@ title: Coleções
 all: Ver tudo
 
 [blocks]: Blocos
-block: Bloco Unicode
-subblock: Subbloco Unicode
+block: Blocos Unicode
+subblock: Subblocos Unicode
 list: Unicode
 by-range: Por intervalo
 by-alphabet: Alfabeticamente
@@ -31,7 +31,7 @@ by-type: Por tipo
 list: Codificações
 
 [art]: Arte
-list: Arte ٩(｡•́‿•̀｡)۶
+list: Arte
 
 [symbols]: Símbolos
 list: Símbolos
@@ -69,6 +69,9 @@ en: Layout do teclado em inglês
 
 [news]: Notícia
 
+[text-art]: Arte em Texto
+list: Arte em Texto
+
 [symbol-table]: Tabela de símbolos
 
 [version-history]: Histórico de versões
@@ -79,3 +82,5 @@ en: Layout do teclado em inglês
 title: Há algo novo
 aside: Lançamentos
 btn-show-aside: Histórico de lançamentos
+
+[random-symbol]: Símbolo aleatório

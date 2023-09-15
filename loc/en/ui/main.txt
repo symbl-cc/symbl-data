@@ -13,7 +13,7 @@ old-version: Old Version
 
 [mainpage]: Homepage
 
-[collections]: Collections
+[collections]: Symbol Collections
 collection: Collections
 list: Collections
 title: Popular character collections
@@ -31,7 +31,7 @@ by-type: By Type
 list: Codes
 
 [art]: Art
-list: Art ٩(｡•́‿•̀｡)۶
+list: Art
 
 [languages]: Languages
 list: Languages
@@ -91,3 +91,5 @@ list: Unicode
 title: What’s new
 aside: Releases
 btn-show-aside: Show release history
+
+[random-symbol]: Random Symbol

@@ -13,15 +13,15 @@ old-version: Versión antigua
 
 [mainpage]: Portada
 
-[collections]: Conjuntos
-collection: Conjunto
-list: Conjunto
+[collections]: Colecciones de Símbolos
+collection: Colecciones
+list: Colecciones
 title: Conjuntos de caracteres populares
 all: Ver todo
 
 [blocks]: Bloques
-block: Bloque Unicode
-subblock: Subbloque Unicode
+block: Bloques Unicode
+subblock: Subbloques Unicode
 blocks: Lista de Secciones Unicode
 list: Unicode
 by-range: Por gama
@@ -32,7 +32,7 @@ by-type: Por tipo
 list: Codificaciones
 
 [art]: Arte
-list: Arte ٩(｡•́‿•̀｡)۶
+list: Arte
 
 [symbols]: Símbolos
 list: Símbolos
@@ -61,7 +61,7 @@ list: Lista de Tipos
 [html-entities]: Entidades HTML
 list: Entidades HTML
 
-[alt-codes]: Códigos Alt codes para Windows
+[alt-codes]: Códigos Alt para Windows
 list: Códigos Alt
 en: Diseño de teclado en inglés
 
@@ -70,6 +70,9 @@ en: Diseño de teclado en inglés
 [day-symbol]: Símbolo del día
 
 [news]: Noticias
+
+[text-art]: Arte de Texto
+list: Arte de Texto
 
 [symbol-table]: Tabla de símbolos
 
@@ -81,3 +84,5 @@ en: Diseño de teclado en inglés
 title: Hay algo nuevo
 aside: Lanzamientos
 btn-show-aside: Historial de versiones
+
+[random-symbol]: Símbolo aleatorio

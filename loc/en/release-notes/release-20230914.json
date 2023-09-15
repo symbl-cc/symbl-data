@@ -1,0 +1,14 @@
+{
+    "date": "14.09.2023",
+    "number": "3.1.11",
+    "title": "Content and fixes",
+    "description": [],
+    "list": [
+        "Added translations for the ‘en’ descriptions of the alphabets.",
+        "Optimized several scripts, now the pages must download faster.",
+        "Added synonyms for several ‘cn’ Emoji.",
+        "Fixed the bug regarding the ads display over the sticky-header, now it’s displayed as it is supposed.",
+        "Fixed the order of kaomoji display in the list.",
+        "Turned off the collection display that contains symbols that belong to emoji pages."
+    ]
+}

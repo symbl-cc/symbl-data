@@ -29,7 +29,7 @@
 [chinese-new-year]
     date: 22.01
     show: 22.01
-    preview: 🎆
+    preview: 🎇
     style: pink
     lang: cn
 
@@ -160,7 +160,7 @@
 [independence-day]
 	date: 04.07
     show: 04.07
-    preview: 🇺🇸
+    preview: 🗽
     style: pink
     lang: en
 
@@ -182,13 +182,13 @@
 [international-chess-day]
 	date: 20.07
     show: 20.07
-    preview: ♔
+    preview: ♟
     style: green
 
 [bastille-day]
 	date: 14.07
     show: 14.07
-    preview: 🇫🇷
+    preview: 🏰
     style: pink
     lang: fr
 

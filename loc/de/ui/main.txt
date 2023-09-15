@@ -20,8 +20,8 @@ title: Beliebte Symbolgruppen
 all: Alles sehen
 
 [blocks]: Blöcke
-block: Unicode-Block
-subblock: Unicode-Teilblock
+block: Unicode-Blöcke
+subblock: Unicode-Teilblöcke
 blocks: Liste der Unicodeblöcke
 list: Unicode
 by-range: Nach Reichweite
@@ -32,7 +32,7 @@ by-type: Nach Typ
 list: Kodierungen
 
 [art]: Kunst
-list: Kunst ٩(｡•́‿•̀｡)۶
+list: Kunst
 
 [symbols]: Symbole
 list: Symbole
@@ -71,6 +71,9 @@ en: Englisches Tastaturlayout
 
 [news]: Nachrichten
 
+[text-art]: Textkunst
+list: Textkunst
+
 [symbol-table]: Symboltabelle
 
 [version-history]: Versionsgeschichte
@@ -81,3 +84,5 @@ en: Englisches Tastaturlayout
 title: Es gibt Neues
 aside: Freigaben
 btn-show-aside: Versionshistorie
+
+[random-symbol]: Zufälliges Symbol

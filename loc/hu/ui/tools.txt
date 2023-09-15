@@ -176,3 +176,40 @@ paste-text: Ebbe a dobozba is kerül, ahova tetszőleges szöveget beírhatsz é
 ok: Értem!
 skip: Kihagyás
 cool: Menő!
+
+
+[telegram-2-symbols]: Szimbólumok a táviraton
+subtitle: Itt gyorsan beírhatja a szöveget latin betűkkel és különféle betűtípusokkal.
+example: Szöveg és szimbólum ☆ példák
+copy-text: Óra ezen a szimbólumon – és automatikusan másolni fog!
+paste-text: Ez is a dobozba másolódik – ott bármilyen szöveget beírhat, és kiválaszthat tetszőleges latin betűket!
+ok: Értem!
+skip: Kihagyás
+cool: Menő!
+
+A: A
+B: B
+C: C
+D: D
+E: E
+F: F
+G: G
+H: H
+I: I
+J: J
+K: K
+L: L
+M: M
+N: N
+O: O
+P: P
+Q: Q
+R: R
+S: S
+T: T
+U: U
+V: V
+W: W
+X: X
+Y: Y
+Z: Z

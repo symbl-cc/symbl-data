@@ -32,7 +32,7 @@ by-type: タイプ
 list: エンコーディング
 
 [art]: アート
-list: アート ٩(｡•́‿•̀｡)۶
+list: アート
 
 [symbols]: シンボル
 list: シンボル
@@ -80,3 +80,5 @@ en: 英語キーボードのレイアウト
 title: 何か新しいものがある
 aside: リリース
 btn-show-aside: リリース履歴の表示
+
+[random-symbol]: ランダムシンボル

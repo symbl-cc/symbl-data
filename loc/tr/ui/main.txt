@@ -20,7 +20,7 @@ title: Popüler karakter setleri
 all: Tümünü Gör
 
 [blocks]	: Blokları
-block	: Unicode blok
+block	: Unicode blokları
 subblock: Unicode alt blok
 list	: Unicode
 by-range: Aralığa göre
@@ -31,7 +31,7 @@ by-type: Türüne göre
 list: Kodlamalar
 
 [art]: Sanat
-list: Sanat ٩(｡•́‿•̀｡)۶
+list: Sanat
 
 [symbols]:  Semboller
 list: Semboller
@@ -57,7 +57,7 @@ type	: Tür
 list	: Türleri
 
 [html-entities]: HTML Özel Karakterler
-list: HTML Varlıkları
+list: HTML Özel Karakterler
 
 [alt-codes]: Alt Kodları Windows
 list: Alt Kodları
@@ -69,6 +69,9 @@ en: İngilizce klavye düzeni
 
 [news]: Haberler
 
+[text-art]: ASCII Sanatı
+list: ASCII Sanatı
+
 [symbol-table]: Sembol tablosu
 
 [version-history]: Sürüm geçmişi
@@ -79,3 +82,5 @@ en: İngilizce klavye düzeni
 title: Yeni bir şey var
 aside: Salıverme
 btn-show-aside: Yayın tarihini göster
+
+[random-symbol]: Rastgele sembol

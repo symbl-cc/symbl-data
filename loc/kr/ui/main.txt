@@ -32,7 +32,7 @@ by-type: 유형별
 list: 인코딩
 
 [art]: 예술
-list: 예술 ٩(｡•́‿•̀｡)۶
+list: 예술
 
 [symbols]: 기호
 list: 기호
@@ -80,3 +80,5 @@ en: 영어 키보드 레이아웃
 title: 새로운 것이 있어요
 aside: 릴리스
 btn-show-aside: 릴리스 기록 보기
+
+[random-symbol]: 랜덤 심볼

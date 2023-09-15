@@ -33,7 +33,7 @@ by-type: Típus szerint
 list: Kódolások
 
 [art]: Művészet
-list: Művészet ٩(｡•́‿•̀｡)۶
+list: Művészet
 
 [symbols]: Szimbólumok
 list: Szimbólumok
@@ -81,3 +81,5 @@ en: Angol billentyűzet elrendezése
 title: Van valami új
 aside: Kiadások
 btn-show-aside: Kiadási előzmények megjelenítése
+
+[random-symbol]: Véletlen szimbólum

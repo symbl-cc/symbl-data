@@ -1,0 +1,12 @@
+{
+    "date": "10.08.2023",
+    "number": "3.1.6",
+    "title": "Content and fixes",
+    "description": [],
+    "list": [
+        "Added and corrected the ‘es’ translations of the block titles.",
+        "Added information regarding the year of Unicode update till 14.0 and 15.0 versions.",
+        "Fixed bugs related to ‘Symbol of the day’ animation on various devices.",
+        "Improved the mechanism for assigning the 'lastmod' parameter to pages, now more accurate information is provided to search engines, making it even easier to find us."
+    ]
+}

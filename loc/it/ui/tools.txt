@@ -1,4 +1,4 @@
-: Utensili
+: Strumenti
 
 [encoder]	: Codificatore HTML
 
@@ -177,3 +177,39 @@ paste-text: Va anche in questa casella, dove puoi inserire qualsiasi testo e dec
 ok: Capito!
 skip: Saltare
 cool: Freddo!
+
+[telegram-2-symbols]: Simboli su Telegram
+subtitle: Qui puoi digitare rapidamente il tuo testo utilizzando caratteri latini e vari tipi di carattere.
+example: Testo e simbolo ☆ esempi
+copy-text: Orologio su questo simbolo - e verrà copiato automaticamente!
+paste-text: Viene copiato anche nella casella
+ok: Capito!
+skip: Saltare
+cool: Freddo!
+
+A: A
+B: B
+C: C
+D: D
+E: E
+F: F
+G: G
+H: H
+I: I
+J: J
+K: K
+L: L
+M: M
+N: N
+O: O
+P: P
+Q: Q
+R: R
+S: S
+T: T
+U: U
+V: V
+W: W
+X: X
+Y: Y
+Z: Z

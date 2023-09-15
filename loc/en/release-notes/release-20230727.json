@@ -1,0 +1,13 @@
+{
+    "date": "27.07.2023",
+    "number": "3.1.5",
+    "title": "Content and new feature",
+    "description": [],
+    "list": [
+        "Added functionality for a random symbol, now if you click on the icon for updating the symbol of the day, you can get a random symbol.",
+        "Added new descriptions for 25A0-25B9 symbols ‘en’, ‘es’.",
+        "Updated the search database, making it easier to find particular symbols on the website."
+        
+        
+    ]
+}

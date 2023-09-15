@@ -1,0 +1,11 @@
+{
+    "date": "07.09.2023",
+    "number": "3.1.10",
+    "title": "Content and fix",
+    "description": [],
+    "list": [
+        "Added synonyms for emoji in the ‘pt’, ‘kr’, ‘jp’, ‘it’, ‘hi’, ‘fr’, ‘de’ languages.",
+        "Adjusted ads on the long pages of Unicode Blocks and Alphabets.",
+        "Adjusted synonym sets for Emoji symbols in the ‘en’, ‘es’ languages."
+    ]
+}

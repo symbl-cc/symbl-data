@@ -2,7 +2,7 @@ properties: Proprietà
 hide: Sparire
 show: Mostrare
 up	: Su
-range	: Gamma
+range	: Intervallo
 loading	: Attendere il caricamento prego...
 count	: Numero di caratteri
 sort-order	: Per ordine
@@ -32,7 +32,7 @@ empty-cell: Cella vuota
 block-description: Descrizione
 more-information: Leggi di più
 back: Indietro
-widget-keyboard-title: Tastiera dei simboli
+widget-keyboard-title: Appunti simboli
 widget-keyboard-placeholder: Qui sono presenti tutti i simboli che copi ✨
 
 [mobile]

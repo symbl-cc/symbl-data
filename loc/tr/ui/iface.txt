@@ -2,7 +2,7 @@ properties: Özellikler
 hide: Sakla
 show: Gösteri
 up: Up
-range: Aralık
+range: Aralığı
 loading: Yükleniyor lütfen bekleyin...
 count: Karakter sayısı
 sort-order: Emriyle
@@ -32,7 +32,7 @@ empty-cell: Boş hücre
 block-description: Tanım
 more-information: Daha fazla oku
 back: Geri
-widget-keyboard-title: Sembol Klavyesi
+widget-keyboard-title: Sembol Panosu
 widget-keyboard-placeholder: Kopyaladığınız tüm semboller burada görüntülenir ✨
 
 [mobile]

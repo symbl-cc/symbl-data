@@ -13,15 +13,15 @@ old-version: Vecchia versione
 
 [mainpage]: Pagina principale
 
-[collections]	: Imposta
-set	: Impostato
-list	: Set
+[collections]	: Collezioni di Simboli
+set	: Collezioni di Simboli
+list	: Collezioni
 title: Set di caratteri popolari
 all: Vedi tutto
 
 [blocks]	: Blocchi
-block	: Blocco Unicode
-subblock: Sotto-blocco Unicode
+block	: Blocchi Unicode
+subblock: Sotto-blocchi Unicode
 list	: Unicode
 by-range: Per gamma
 by-alphabet: In ordine alfabetico
@@ -31,7 +31,7 @@ by-type: Per tipo
 list: Codifiche
 
 [art]: Arte
-list: Arte ٩(｡•́‿•̀｡)۶
+list: Arte
 
 [symbols]: Simboli
 list: Simboli
@@ -49,8 +49,8 @@ list	: Paesi
 [alphabets]	: Alfabeti
 list	: Alfabeti
 
-[holidays]: Festivi
-list: Festivi
+[holidays]: Festività
+list: Festività
 
 [types]	: Tipi
 type	: Tipo
@@ -69,6 +69,9 @@ en: Layout tastiera inglese
 
 [news]: Notizia
 
+[text-art]: Arte Testuale
+list: Arte Testuale
+
 [symbol-table]: Tabella dei simboli
 
 [version-history]: Cronologia delle versioni
@@ -79,3 +82,5 @@ en: Layout tastiera inglese
 title: C'è qualcosa di nuovo
 aside: Rilasci
 btn-show-aside: Cronologia delle versioni
+
+[random-symbol]: Simbolo casuale
