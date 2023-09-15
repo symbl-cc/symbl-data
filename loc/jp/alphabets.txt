@@ -2,9 +2,9 @@ arab: アラビア語
 	
 armenian	: アルメニア
 	
-avestan	: アベスタンの
+avestan	: アベスタン
 	
-balinese	: バリの
+balinese	: バリ
 	
 bamum	: バウム・
 	
@@ -28,9 +28,9 @@ buhid	: ブヒッド文字
 	
 bulgarian	: ブルガリア
 	
-carian	: カリアンの
+carian	: カリアン
 	
-caucasian-albanian	: 白人アルバニアの
+caucasian-albanian	: 白人アルバニア
 	
 chakma	: チャクマ
 	
@@ -52,7 +52,7 @@ deseret	: Deseret
 	
 devanagari	: デファナガリ
 	
-elbasan	: エルバサンの
+elbasan	: エルバサン
 	
 english	: 英語
 	
@@ -62,7 +62,7 @@ ethiopic	: エチオピアGe'ez
 	
 french	: フランス語
 	
-georgian	: グルジアの
+georgian	: グルジア
 	
 german	: ドイツ語
 	
@@ -96,8 +96,8 @@ japanese-hiragana	: 日本語ひらがな
 	
 japanese-katakana	: 日本語カタカナ
 	
-javanese	: ジャワの
-	
+javanese	: ジャワ
+
 kaithi	: カイティ
 	
 kannada	: カンナダ
@@ -134,11 +134,11 @@ nabataean	: ナバタリアン
 	
 mahajani	: マハジャニ
 	
-malayalam	: マラヤラムの
+malayalam	: マラヤラム
 	
-mandaic	: マンダの
+mandaic	: マンダ
 	
-manichaean	: マニカイアの
+manichaean	: マニカイア
 	
 meetei-mayek	: マニプリ文字
 	
@@ -154,7 +154,7 @@ mro	: モロッコ
 	
 myanmar	: ミャンマー
 	
-new-tai-lue	: 新しいタイ文字の
+new-tai-lue	: 新しいタイ文字
 	
 nko	: 仁子
 	
@@ -170,15 +170,15 @@ old-permic	: 古いpermic
 	
 old-persian	: 旧ペルシア語
 	
-old-south-arabian	: 古い南アラビア人の
+old-south-arabian	: 古い南アラビア人
 	
-old-turkic	: 古代トルコ文字の
+old-turkic	: 古代トルコ文字
 	
 oriya	: オリヤ
 	
 osmanya	: オスマンヤ
 	
-pahawh-hmong	: パハウア語の
+pahawh-hmong	: パハウア語
 	
 pahlavi	: パレルビ
 	
@@ -188,19 +188,19 @@ pau-cin-hau	: ポー・シン・ニュー・
 	
 phags-pa	: Phags-pa
 	
-phoenician	: フェニシアの
+phoenician	: フェニシア
 	
-polish	: ポーランドの
+polish	: ポーランド語
 	
-pollard	: ポーランドの
+pollard	: ポラルド
 	
 rejang	: レジャン
 	
 runic	: ルニック
 	
-russian	: ロシア 語 
+russian	: ロシア語
 	
-samaritan	: サマリアの
+samaritan	: サマリア
 	
 saurashtra	: サラシュトラ
 	
@@ -214,21 +214,23 @@ sinhala	: シンハラ
 	
 sora-sompeng	: ソラ・ムンペング・
 	
-spanish	: スペイン語の
+spanish	: スペイン語
 	
 sundanese	: スンダ語
+
+swedish	: スウェーデス語
 	
 syloti-nagri	: シロティ・ナグリ文字
 	
-syriac	: シリアの
+syriac	: シリア
 	
 tagalog	: タガログ語
 	
-tagbanwa	: タグバヌア文字の
+tagbanwa	: タグバヌア文字
 	
-tai-le	: タイの
+tai-le	: タイ
 	
-tai-tham	: 太鼓の
+tai-tham	: 太鼓
 	
 tai-viet	: タイベイト
 	
@@ -244,7 +246,7 @@ thaana	: タワナ
 	
 thai	: タイ
 	
-tibetan	: チベットの
+tibetan	: チベット
 	
 tifinagh	: ティフナグ文字
 	
