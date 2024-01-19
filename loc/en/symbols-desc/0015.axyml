@@ -1,7 +1,0 @@
-The Negative Acknowledgement symbol was used in computer terminals, printers, text processing systems, and telecommunication equipment to control data flow and ensure the reliable transmission of information.
-
-It tended to indicate an error in data transmission or a problem with receiving information. In communication protocols, after receiving the NAK symbol, the data sender was required to repeat the previous transmission to correct any errors or data loss. If the data was transmitted correctly, the opposite symbol was sent ([U:0006] [U:0006 *#]).
-
-As for modern computer systems and applications, the U+0015 symbol is rarely used there, since other mechanisms and protocols are employed to ensure the reliability of data transmission and error handling.
-
-Like many other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of the Negative Acknowledge symbol as the abbreviation NAK — [U:2415].

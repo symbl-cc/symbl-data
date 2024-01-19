@@ -1,3 +1,0 @@
-Box Drawing is a Unicode block containing characters for compatibility with legacy graphics standards that contained characters for making bordered charts and tables, i.e. box-drawing characters.
-
-Box-drawing characters, also known as line-drawing characters, are a form of semigraphics widely used in text user interfaces to draw various geometric frames and boxes. In graphical user interfaces, these characters are much less useful as it is much simpler to draw lines and rectangles directly with graphical APIs. Box-drawing characters work only with monospaced fonts; however, they are still useful for plaintext comments on websites.

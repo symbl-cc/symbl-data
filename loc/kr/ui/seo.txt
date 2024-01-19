@@ -1,9 +1,0 @@
-meta-description: 유니 코드 문자 검색 웹 서비스. 즐겨 찾는 문자를 찾아서 복사하십시오 : 😎 에모지, ️ 화살표, ✪ 별, 💲 통화, 🈂️ 글쓰기 시스템 및 기타 🚩
-symbol-description: {{emoji_symbol}}: {{symbol|raw}}, 캐릭터 이름 : {{name}}, 부호의 유니 코드 번호 : {{code}}, 아이콘은 블록에 포함됩니다 : {{block}}.
-symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
-
-seo-symbol: 부호
-
-emoji: 에모지
-copy: 부
-symbol: 기호, 아이콘

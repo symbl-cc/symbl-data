@@ -1,9 +1,0 @@
-﻿The Unicode Standard encodes almost all standard characters used in mathematics. Unicode Technical Report #25 provides comprehensive information about the character repertoire, their properties, and guidelines for implementation. Mathematical operators and symbols are situated in multiple Unicode blocks. Some of these blocks are dedicated to, or primarily contain, mathematical characters while others are a mix of mathematical and non-mathematical characters. This article covers all Unicode characters with a derived property of "Math".
-
-At least 6 Unicode blocks contain special [b]mathematical symbols[/b]. [block:mathematical-operators], [block:miscellaneous-mathematical-symbols-a], [block:miscellaneous-mathematical-symbols-b], [block:supplemental-mathematical-operators], [block:mathematical-alphanumeric-symbols], [block:arabic-mathematical-alphabetic-symbols].
-
-Math symbols are basically a set of graphic signs which serve for writing down math ideas and terms. Different cultures used to have their own symbols for such operations. [block:counting-rod-numerals Some], still do. However, in modern times the unified international system is more popular. It has been developing historically, like any native language. A lot of symbols were borrowed from other alphabets.
-
-In order to write numbers, Arabic digits are used. As a rule, the decimal system is applied. By the way, Unicode employs the hexadecimal one. Apart from numbers, letters are used too, mostly Greek and Latin. Not only the register matters, but the way of writing too (font).
-
-A small part of math symbols (mostly related to measurements) is included in the standard ISO 31-11. But, in general, there are no unified rules for designation. The multiplication sign can be written either as a dot [U:2219], or a star [U:002A] or even a cross [U:00D7].

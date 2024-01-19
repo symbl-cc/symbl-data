@@ -1,9 +1,0 @@
-meta-description: Servicio web de búsqueda de caracteres Unicode. Encuentra, copia y pega tus personajes favoritos: 😎 Emoji, ❤ Corazón, 💲 Monedas, → Flechas y más 🚩
-symbol-description: {{emoji_symbol}}: {{symbol|raw}}, nombre del signo: {{name}}, número Unicode para el signo: {{code}}, el letrero está incluido en el bloque: {{block}}.
-symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
-
-seo-symbol: símbolo
-
-emoji: emoji
-copy: dupdo
-symbol: signo, icono

@@ -1,5 +1,0 @@
-File Separator was used in computer terminals, printers, text processing systems, and telecommunication equipment. Its main purpose was to indicate the boundary between files or data parts within one stream, especially when they were transmitted or saved on a single physical device. It also allowed programs to determine the boundaries between different files or data blocks and process them accordingly.
-
-When it comes to modern computer systems and applications, the U+001C symbol is rarely used there, since other mechanisms and protocols have been employed, such as file systems and specialized data formats. They can process files and determine data boundaries too.
-
-Like many other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of the File Separator as the abbreviation FS — [U:241C].

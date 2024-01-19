@@ -1,5 +1,0 @@
-In [BLOCK:cjk-unified-ideographs CJK] (Chinese, Japanese and Korean) computing, graphic characters are traditionally classed into fullwidth (in Taiwan and Hong Kong: 全形; in CJK and Japanese: 全角) and halfwidth (in Taiwan and Hong Kong: 半形; in CJK and Japanese: 半角) characters. With fixed-width fonts, a halfwidth character occupies half the width of a fullwidth character, hence the name.
- 
-In the days of computer terminals and text mode computing, characters were normally laid out in a grid, often 80 columns by 24 or 25 lines. Each character was displayed as a small dot matrix, often about 8 pixels wide, and an SBCS (single byte character set) was generally used to encode characters of western languages.
- 
-For a number of practical and aesthetic reasons, Han characters would need to be twice as wide as these fixed-width SBCS characters. These "fullwidth characters" were typically encoded in a DBCS (double byte character set), although less common systems used other variable-width character sets that used more bytes per character.

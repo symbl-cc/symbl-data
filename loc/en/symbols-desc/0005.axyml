@@ -1,5 +1,0 @@
-The Enquiry symbol was designed for teletype and other communication systems. It was used to request a response from a remote device. As for communication protocols, the Enquiry symbol is applied to initiate data exchange by requesting confirmation to receive or deliver data.
-
-The use of the U+0005 symbol has become less popular in modern computer systems and applications, since ts functions are often replaced by other communication methods and protocols such as TCP/IP, HTTP, and others.
-
-Like other control characters, this symbol has no visual representation and doesn't occupy much space on screen or in typed text. There is a separate symbol in [BLOCK:control-pictures]. It represents a graphic image of the Enquiry symbol as the ENQ (Enquiry) abbreviation - [U:2405].

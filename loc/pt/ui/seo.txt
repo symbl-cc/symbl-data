@@ -1,7 +1,0 @@
-meta-description: Serviço da Web de pesquisa de caracteres Unicode. Encontre e copie seus personagens favoritos: 😎 Emoji, ▶ ️ Setas, ✪ Estrelas, 💲 Moedas, 🈂️ Sistemas de escrita e muito mais 🚩
-symbol-description: {{emoji_symbol}}: {{symbol|raw}}, Nome do símbolo: {{name}}, Número Unicode para o sinal: {{code}}, o ícone está incluído no bloco:{{block}}.
-symbol-title: {{symbol|raw}} - {{name}}{{emoji}}: {{code}}
-
-emoji: emoji
-copy: cópia
-symbol: sinal, ícone

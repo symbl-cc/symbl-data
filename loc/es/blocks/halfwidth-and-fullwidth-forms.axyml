@@ -1,5 +1,0 @@
-В [BLOCK:cjk-unified-ideographs CJK Ideogramas Unificadas] (chino, coreano, japonés) los símbolos para gráficos para contar se clasifican tradicionalmente como de ancho completo (en Taiwán y Hong Kong: 全形; en Oriente y japonés: 全角) y ancho medio (en Taiwán y Hong Kong: 半形; en extremo Oriente y japonés: 半). Los símbolos medios ocupan un lugar igual a la mitad del símbolo de ancho completo, por eso hay este nombre.
-
-En la era de la computadora, los símbolos se presentan generalmente en una cuadrícula, a menudo 80 columnas por 24 o 25 filas. Cada carácter se muestra con una pequeña matriz de puntos, a menudo de aproximadamente 8 píxeles de ancho. SBCS (single byte character set; conjunto de caracteres de un byte) se utilizan universalmente para codificar los caracteres de las lenguas occidentales.
-
-Por una serie de consideraciones prácticas y estéticas, los caracteres Han deben ser dos veces más anchos que los caracteres de un byte. Estos "caracteres de ancho completo" están codificados en DBCS (double byte character set; conjunto de caracteres de doble byte).

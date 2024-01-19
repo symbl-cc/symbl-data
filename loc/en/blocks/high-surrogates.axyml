@@ -1,9 +1,0 @@
-The UCS uses surrogates to address characters outside the initial Basic Multilingual Plane without resorting to more than 16 bit byte representations.
-
-By combining pairs of the 2,048 surrogate code points, the remaining characters in all the other planes can be addressed (1,024 × 1,024 = 1,048,576 code points in the other 16 planes). In this way, UCS has a built-in 16 bit encoding capability for UTF-16. These code points are divided into leading or "high surrogates" (D800–DBFF) and trailing or "low surrogates" (DC00–DFFF). In UTF-16, they must always appear in pairs, as a high surrogate followed by a low surrogate, thus using 32 bits to denote one code point.
-
-A surrogate pair denotes the code point 10000[TAG:SUB]16[/SUB] + (H − D800[TAG:SUB]16[/SUB]) × 400[TAG:SUB]16[/SUB] + (L − DC00[TAG:SUB]16[/SUB])
-where H and L are the numeric values of the high and [BLOCK:low-surrogates low surrogates] respectively.
-Since high surrogate values in the range DB80–DBFF always produce values in the Private Use planes, the high surrogate range can be further divided into (normal) high surrogates (D800–DB7F) and "high private use surrogates" (DB80–DBFF).
-
-Isolated surrogate code points have no general interpretation; consequently, no character code charts or names lists are provided for this range. In the Python programming language, individual surrogate codes are used to embed undecodable bytes in Unicode strings.

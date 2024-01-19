@@ -1,5 +1,0 @@
-The Synchronous Idle symbol is also known as the null symbol. It was used for synchronous data transmission in computer terminals, printers, text processing systems, and telecommunication equipment. The aim of this symbol was to synchronize data transmission between two devices. In synchronous communication protocols, the SYN symbol was applied to indicate the beginning and end of a block of data, allowing devices to correctly interpret and process the received information. Some communication lines were designed in such a way that they required continuous data transmission. Overall, Synchronous Idle was sent in case there was nothing to transmit.
-
-As for modern computer systems and applications, the U+0016 symbol is rarely used there, since other mechanisms and protocols are employed to synchronize and process data.
-
-Like many other control symbols, this one has no visible representation and doesn't occupy a lot of space on screen or in typed text. However, there is a separate symbol in [BLOCK:control-pictures] representing the graphical image of Synchronous Idle as the abbreviation SYN — [U:2416].

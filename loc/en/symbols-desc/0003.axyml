@@ -1,5 +1,0 @@
-The End of Text symbol was originally designed for use in teletype and other communication systems. It indicated the end of the text part of a message following the header, which began with the Start of Heading symbol [U+0001]. Besides, it also noted the text content, which began with the Start of Text symbol [U+0002].
-
-The use of the U+0003 symbol has become less popular in modern computer systems and applications. Its functions are often replaced by other methods of encoding and structuring data.
-
-Like other control characters, this symbol has no visual representation and does not occupy much space on screen or in typed text. There is a separate symbol in [BLOCK:control-pictures] representing the graphical depiction of the End of Text symbol. It shows as the ETX (End of Text) abbreviation - [U+2403].

@@ -1,5 +1,0 @@
-Le caractère mathématique [b]signe supérieur[/ b] est un triangle isocèle sans base. Le pic pointe vers la droite - vers une plus petite valeur, et deux segments vers la gauche - vers la plus grande. Le signe est plus petit que le même, mais est dirigé dans la direction opposée. Autres caractères Unicode associés: supérieur ou égal à [U:2265] [U:2A7E], beaucoup plus [U:226B], etc. [U:226F] [U:2273] Pour le reste, voir la section des opérateurs mathématiques.
-
-Un signe supérieur est placé plus pour montrer qu'un nombre (expression, variable) est plus grand que l'autre. Cet opérateur mathématique est l'un des signes de l'inégalité. L'inégalité en mathématiques est une assertion sur la taille relative de deux objets (l'un des objets est inférieur ou égal à un autre), ou que deux objets ne sont pas identiques (négation de l'égalité).
-
-En Unicode, le signe supérieur se trouve dans la section latine principale de la version 1.0.0 de 1991.

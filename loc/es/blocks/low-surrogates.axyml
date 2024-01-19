@@ -1,6 +1,0 @@
-UTF-16 (de inglés 'Unicode Transformation Format') en informática es una forma de codificar caracteres de Unicode como una secuencia de palabras de 16 bits. Esta codificación permite escribir los símbolos en los rangos U+0000..U+D7FF y U+E000..U+10FFFF (1.112.064 en total). En este caso, cada carácter se escribe con una o dos palabras (lo que se llama un [b]par subrogado[/b]).
-
-Ahora que Unicode contiene más de 65.536 caracteres, no puede caber todos ellos en 2 bytes. Esto significa que un elemento de la estructura Char no puede aceptar todos los caracteres posibles. UTF-16 (y .NET) resuelve este problema usando los pares subrogados (de inglés 'surrogate pair'): son dos ejemplos de 16 bits donde cada valor se encuentra en el rango de 0xD800 a 0xDFFFF.
-
-Los pares subrogados se dividen en dos partes: "superior" (D800 — DBFF) y [BLOCK:low–surrogates "inferior"] (DC00-DFFF).
-
